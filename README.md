@@ -2,6 +2,15 @@
 The real work from anywhere. No location barrier.
 
 <table>
+  <thead>
+    <tr>
+      <th>Logo</th>
+      <th>Company Name</th>
+      <th>Tags</th>
+      <th>Added</th>
+      <th>Link</th>
+    </tr>
+  </thead>
   <tr>
     <td width="100" height="100" rowspan="2">
       <img src="https://remoteOK.com/assets/img/jobs/a37425f4a67bc83d58cd297cc3adf1b01657059746.png">
@@ -10,7 +19,7 @@ The real work from anywhere. No location barrier.
       <h3>5 Monkeys Agency</h3>
     </td>
     <td width="300">
-      <code>django, python, open source</code>
+      <code>django</code> <code>python</code> <code>open source</code>
     </td>
     <td width="200">
       <text>5 days ago</text>
