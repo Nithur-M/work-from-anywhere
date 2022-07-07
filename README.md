@@ -24,7 +24,7 @@ The real work from anywhere. No location barrier.
     <td width="200">
       <text>5 days ago</text>
     </td>
-    <td width="200" rowspan="2">
+    <td width="100" rowspan="2">
       <a href="https://remoteOK.com/jobs/111544" align="right" target="_blank">Apply</a>
     </td>
   </tr>
