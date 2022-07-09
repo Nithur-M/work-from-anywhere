@@ -1,7 +1,6 @@
 
 
-<table>
-    <thead>
+<table><thead>
       <tr>
         <th>Logo</th>
         <th>Company Name</th>
