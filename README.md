@@ -1,15 +1,29 @@
 
 
-<table>
-                              <thead>
-                              <tr>
-                                  <th>Logo</th>
-                                  <th>Company Name</th>
-                                  <th>Tags</th>
-                                  <th>Added</th>
-                                  <th>Link</th>
-                              </tr>
-                              </thead> <tr>
+<tr>
+            <td width="100" height="100" rowspan="2">
+                <img src=https://remoteok.com/assets/img/jobs/fff3f29649e1342359e9c8f8d59252791657269906.png>
+            </td>
+            <td width="300">
+                <h3>kfzteile24 GmbH</h3>
+            </td>
+            <td width="300">
+                <code>devops, lead, reliability</code>
+            </td>
+            <td width="200">
+            <text>2022-07-08T14:45:06+00:00</text>
+            </td>
+            <td width="100" rowspan="2">
+            <a href=https://remoteOK.com/jobs/111579 align="right" target="_blank">Apply</a>
+            </td>
+        </tr>
+        <tr>
+            <td colspan="3">
+            <details><summary>Description</summary>
+            <p><span>kfzteile24 is Germany's leading digital company for car parts and automotive equipment. As a Berlin-based multichannel company, we own the successful online shops kfzteile24.de, autoteile24.de, carpardoo.fr, carpardoo.nl and carpardoo.dk as well as branches and logistics. We are Germany's best-known brand in the online aftermarket. With expert advice, a wide range of products as well as fast and reliable parts deliveries, we ensure the preservation of individual mobility. Our plan is now to transform an already very successful company into an innovative top-player in one of the most exciting markets in the German economy.<br /><br />For this purpose, we are looking for people who are keen to shape this path together with their own ideas.</span></p><p><span></span><span><br /></span></p><p><span>As <strong>Head of Plafform (f/m/d)</strong>Â Â at our headquarters in Berlin you will lead our devops team with Ops and Software Engineers. In this role, you willÂ ensure the security, reliability and scalability of our infrastructure running on AWS.Â </span><span>If you know how to roll out DevOps to the whole engineering, then we should meet!Â Building the best infrastructure and DevOps team which delivers a great E-Commerce platform will be one of the main drivers of the success of kfzteile24.</span><span><br /></span><span><strong><br /></strong></span></p><p><span><strong>Who we are</strong></span><span><strong><span><span><span></span></span></span></strong></span></p><p><span><span><span><strong>Team:</strong> Join a growing team of over 30 nationalities. We build on proven expertise and loyalty and also rely on the energy and creativity of the many newcomers.</span></span></span></p><p><span><span><span><strong>Business Culture: </strong>Experience a working atmosphere in which we work respectfully and results-oriented at eye level and make decisions quickly. We embrace Diversity and Inclusion and value more than just straightforward CVs.</span></span></span></p><p><span><span><span><strong>Development:</strong> We guarantee your personal and professional growth through exciting tasks, strong personal responsibility, mentoring and external training and development opportunities.</span></span></span></p><p><span><span><span><strong>Sustainability:</strong> We pay great attention to ecological and social values in the company and want to become a driver of future mobility.</span></span></span></p><p><span><span><span><strong>And:</strong> Of course, we also offer fresh fruit, agile team structures, exclusive employee discounts, flexible working hours, home office, language courses, state-of-the-art equipment, team events, a great location directly at Treptower Park and much more.</span></span></span><br /></p><p><br /></p><p><span><strong>Your duties</strong></span></p><ul><li><span>Ensuring the security, reliability, and scalability of our infrastructure running on AWS.<br /></span></li><li><span>Ensuring the success of multiple software engineering teams by bringing ops and infrastructure closer.</span></li><li><span>Build a top-notch DevOps culture in collaboration with the Technical Leadership Team (Principal Engineer, Head of engineering..).</span></li><li><span>Maintain, develop and thrive our orchestration tools, CI/CD pipelines, automation software with your team.</span></li><li><span>Establishing a KPI cockpit to steer teams and output quickly and sustainably.</span></li><li><span>Support a culture of ownership, passion, respectfulness and successfully crossing the finish line as a team.</span></li><li><span>Trial, success, fail and optimize.</span></li></ul><br /><p><span><strong><span>Your skills</span><br /></strong></span></p><ul><li><span>Experience running kubernetes clusters on AWS, ideally in different environments/companies.</span></li><li><span>Experience managing engineers from different domains (ops, devops, sre, software, devsecops..).</span></li><li><span>Strong sysadmin/devops engineering background on running high traffic web platforms.</span></li><li><span>Ability to challenge your direct reports on their turf.</span></li><li><span>Ability and drive to identify, prioritize and execute opportunities.</span></li><li><span>Understanding that leadership is not a privilege but a responsibility.</span></li><li><span>As a plus: experience within automotive aftermarket.</span></li></ul><p><span><strong>Apply now!</strong></span></p><p><span>If you would like to be part of our motivated k24 team, apply now for the position with us as Head of Platform (f/m/d), stating your salary expectations and your earliest starting date. If you have any questions, please contact Bushra Khanam at +491726893290.</span></p><p><span><br />Please note that we only consider applications via our online portal. Applications by post or e-mail will not be considered and disposed of or deleted.</span></p><p><span><br />For more information on data processing, see our <a href="https://recruitingapp-5492.de.umantis.com/PublicDocuments/102/ShowDocument/EN_DSE.pdf">data protection declaration</a>.</span><br /></p>
+            </details>
+            </td>
+        </tr>,<tr>
             <td width="100" height="100" rowspan="2">
                 <img src=https://remoteok.com/assets/img/jobs/82053125bafa8978f8310e3b44ad8f951657252804.png>
             </td>
@@ -17,7 +31,7 @@
                 <h3>Replit</h3>
             </td>
             <td width="300">
-                
+                <code>python, lead, health</code>
             </td>
             <td width="200">
             <text>2022-07-08T10:00:02+00:00</text>
@@ -40,7 +54,7 @@
                 <h3>Teleport</h3>
             </td>
             <td width="300">
-                
+                <code>golang, senior, engineer</code>
             </td>
             <td width="200">
             <text>2022-07-08T07:15:03+00:00</text>
@@ -63,7 +77,7 @@
                 <h3>Rimsys</h3>
             </td>
             <td width="300">
-                
+                <code>travel, senior, engineer</code>
             </td>
             <td width="200">
             <text>2022-07-08T04:00:03+00:00</text>
@@ -86,7 +100,7 @@
                 <h3>Cast & Crew Entertainment Services, LLC</h3>
             </td>
             <td width="300">
-                
+                <code>payroll, devops, financial</code>
             </td>
             <td width="200">
             <text>2022-07-08T02:00:07+00:00</text>
@@ -109,7 +123,7 @@
                 <h3>Axon</h3>
             </td>
             <td width="300">
-                
+                <code>c#, git, lead</code>
             </td>
             <td width="200">
             <text>2022-07-07T21:30:05+00:00</text>
@@ -132,7 +146,7 @@
                 <h3>Toptal</h3>
             </td>
             <td width="300">
-                
+                <code>design, senior, web app</code>
             </td>
             <td width="200">
             <text>2022-07-07T20:07:42+00:00</text>
@@ -155,7 +169,7 @@
                 <h3>__OperateBeyond__TrailerCentral</h3>
             </td>
             <td width="300">
-                
+                <code>css, html, git</code>
             </td>
             <td width="200">
             <text>2022-07-07T11:03:15+00:00</text>
@@ -178,7 +192,7 @@
                 <h3>IOVLabs</h3>
             </td>
             <td width="300">
-                
+                <code>lead, operational, medical</code>
             </td>
             <td width="200">
             <text>2022-07-07T10:00:06+00:00</text>
@@ -201,7 +215,7 @@
                 <h3>The Athletic Media Company</h3>
             </td>
             <td width="300">
-                
+                <code>lead, operational, medical</code>
             </td>
             <td width="200">
             <text>2022-07-07T10:00:04+00:00</text>
@@ -224,7 +238,7 @@
                 <h3>Blueboard</h3>
             </td>
             <td width="300">
-                
+                <code>marketing, go</code>
             </td>
             <td width="200">
             <text>2022-07-07T10:00:02+00:00</text>
@@ -247,7 +261,7 @@
                 <h3>Ad Hoc Team</h3>
             </td>
             <td width="300">
-                
+                <code>security, leader, junior</code>
             </td>
             <td width="200">
             <text>2022-07-07T07:30:07+00:00</text>
@@ -270,7 +284,7 @@
                 <h3>Ad Hoc Team</h3>
             </td>
             <td width="300">
-                
+                <code>security, amazon, ruby</code>
             </td>
             <td width="200">
             <text>2022-07-07T07:30:05+00:00</text>
@@ -293,7 +307,7 @@
                 <h3>Slate</h3>
             </td>
             <td width="300">
-                
+                <code>health, internship</code>
             </td>
             <td width="200">
             <text>2022-07-07T05:00:03+00:00</text>
@@ -316,7 +330,7 @@
                 <h3>ACCEL Schools</h3>
             </td>
             <td width="300">
-                
+                <code>content, medical</code>
             </td>
             <td width="200">
             <text>2022-07-07T04:20:05+00:00</text>
@@ -339,7 +353,7 @@
                 <h3>Culdesac</h3>
             </td>
             <td width="300">
-                
+                <code>lead</code>
             </td>
             <td width="200">
             <text>2022-07-07T04:00:02+00:00</text>
@@ -362,7 +376,7 @@
                 <h3>Front</h3>
             </td>
             <td width="300">
-                
+                <code>senior, operations, health</code>
             </td>
             <td width="200">
             <text>2022-07-07T03:50:06+00:00</text>
@@ -385,7 +399,7 @@
                 <h3>Eventbrite</h3>
             </td>
             <td width="300">
-                
+                <code>financial, investor, leader</code>
             </td>
             <td width="200">
             <text>2022-07-07T03:00:02+00:00</text>
@@ -408,7 +422,7 @@
                 <h3>Atender</h3>
             </td>
             <td width="300">
-                
+                <code>other, server, support</code>
             </td>
             <td width="200">
             <text>2022-07-06T23:26:25+00:00</text>
@@ -431,7 +445,7 @@
                 <h3>Cision</h3>
             </td>
             <td width="300">
-                
+                <code>leader, marketing, analytics</code>
             </td>
             <td width="200">
             <text>2022-07-06T20:05:07+00:00</text>
@@ -454,7 +468,7 @@
                 <h3>Backbase</h3>
             </td>
             <td width="300">
-                
+                <code>lead, senior, recruiting</code>
             </td>
             <td width="200">
             <text>2022-07-06T19:50:05+00:00</text>
@@ -477,7 +491,7 @@
                 <h3>Fresh Prints</h3>
             </td>
             <td width="300">
-                
+                <code>qa, students, java</code>
             </td>
             <td width="200">
             <text>2022-07-06T09:50:05+00:00</text>
@@ -500,7 +514,7 @@
                 <h3>Summon</h3>
             </td>
             <td width="300">
-                
+                <code>golang, senior, engineer</code>
             </td>
             <td width="200">
             <text>2022-07-06T07:15:03+00:00</text>
@@ -523,7 +537,7 @@
                 <h3>5 Monkeys Agency</h3>
             </td>
             <td width="300">
-                
+                <code>django, python, open source</code>
             </td>
             <td width="200">
             <text>2022-07-06T04:22:26+00:00</text>
@@ -546,7 +560,7 @@
                 <h3>Nethermind</h3>
             </td>
             <td width="300">
-                
+                <code>non tech, recruiter, technical recruitment</code>
             </td>
             <td width="200">
             <text>2022-07-06T01:36:43+00:00</text>
@@ -569,7 +583,7 @@
                 <h3>Omnipresent</h3>
             </td>
             <td width="300">
-                
+                <code>financial, salesforce, operational</code>
             </td>
             <td width="200">
             <text>2022-07-06T01:35:05+00:00</text>
@@ -592,7 +606,7 @@
                 <h3>Limbic AI</h3>
             </td>
             <td width="300">
-                
+                <code>javascript, react, typescript</code>
             </td>
             <td width="200">
             <text>2022-07-06T01:33:35+00:00</text>
@@ -615,7 +629,7 @@
                 <h3>Nethermind</h3>
             </td>
             <td width="300">
-                
+                <code>backend, typescript, javascript</code>
             </td>
             <td width="200">
             <text>2022-07-06T01:30:57+00:00</text>
@@ -638,7 +652,7 @@
                 <h3>Nethermind</h3>
             </td>
             <td width="300">
-                
+                <code>backend, solidity, smart contracts</code>
             </td>
             <td width="200">
             <text>2022-07-06T01:27:22+00:00</text>
@@ -661,7 +675,7 @@
                 <h3>Nethermind</h3>
             </td>
             <td width="300">
-                
+                <code>other, product, chief product officer</code>
             </td>
             <td width="200">
             <text>2022-07-06T01:23:28+00:00</text>
@@ -684,7 +698,7 @@
                 <h3>Nethermind</h3>
             </td>
             <td width="300">
-                
+                <code>backend, devops, aws</code>
             </td>
             <td width="200">
             <text>2022-07-06T01:19:21+00:00</text>
@@ -707,7 +721,7 @@
                 <h3>Buf</h3>
             </td>
             <td width="300">
-                
+                <code>golang, engineer, backend</code>
             </td>
             <td width="200">
             <text>2022-07-06T01:15:06+00:00</text>
@@ -730,7 +744,7 @@
                 <h3>LaunchDarkly</h3>
             </td>
             <td width="300">
-                
+                <code>golang, api, reliability</code>
             </td>
             <td width="200">
             <text>2022-07-06T01:15:05+00:00</text>
@@ -753,7 +767,7 @@
                 <h3>Draft2Digital</h3>
             </td>
             <td width="300">
-                
+                <code>golang, senior</code>
             </td>
             <td width="200">
             <text>2022-07-06T01:15:04+00:00</text>
@@ -776,7 +790,7 @@
                 <h3>Summon</h3>
             </td>
             <td width="300">
-                
+                <code>golang, senior, engineer</code>
             </td>
             <td width="200">
             <text>2022-07-06T01:15:03+00:00</text>
@@ -799,7 +813,7 @@
                 <h3>Ad Hoc Team</h3>
             </td>
             <td width="300">
-                
+                <code>qa, devops, security</code>
             </td>
             <td width="200">
             <text>2022-07-06T00:50:04+00:00</text>
@@ -822,7 +836,7 @@
                 <h3>Goldcast</h3>
             </td>
             <td width="300">
-                
+                <code>video, mobile, lead</code>
             </td>
             <td width="200">
             <text>2022-07-05T22:00:04+00:00</text>
@@ -845,7 +859,7 @@
                 <h3>Goldcast</h3>
             </td>
             <td width="300">
-                
+                <code>video, mobile, marketing</code>
             </td>
             <td width="200">
             <text>2022-07-05T22:00:02+00:00</text>
@@ -868,7 +882,7 @@
                 <h3>Gate.io</h3>
             </td>
             <td width="300">
-                
+                <code>cryptocurrency</code>
             </td>
             <td width="200">
             <text>2022-07-05T21:00:02+00:00</text>
@@ -891,7 +905,7 @@
                 <h3>Sprout General Referrals</h3>
             </td>
             <td width="300">
-                
+                <code>cloud, senior, go</code>
             </td>
             <td width="200">
             <text>2022-07-05T09:35:14+00:00</text>
@@ -914,7 +928,7 @@
                 <h3>Dataminr</h3>
             </td>
             <td width="300">
-                
+                <code>cloud, senior, go</code>
             </td>
             <td width="200">
             <text>2022-07-05T09:35:13+00:00</text>
@@ -937,7 +951,7 @@
                 <h3>DoorDash</h3>
             </td>
             <td width="300">
-                
+                <code>cloud, senior, go</code>
             </td>
             <td width="200">
             <text>2022-07-05T09:35:12+00:00</text>
@@ -960,7 +974,7 @@
                 <h3>Makeship</h3>
             </td>
             <td width="300">
-                
+                <code>cloud, senior, go</code>
             </td>
             <td width="200">
             <text>2022-07-05T09:35:11+00:00</text>
@@ -983,7 +997,7 @@
                 <h3>Blend</h3>
             </td>
             <td width="300">
-                
+                <code>cloud, senior, go</code>
             </td>
             <td width="200">
             <text>2022-07-05T09:35:09+00:00</text>
@@ -1006,7 +1020,7 @@
                 <h3>Rivian Automotive</h3>
             </td>
             <td width="300">
-                
+                <code>cloud, senior, go</code>
             </td>
             <td width="200">
             <text>2022-07-05T09:35:08+00:00</text>
@@ -1029,7 +1043,7 @@
                 <h3>8x8</h3>
             </td>
             <td width="300">
-                
+                <code>cloud, senior, go</code>
             </td>
             <td width="200">
             <text>2022-07-05T09:35:07+00:00</text>
@@ -1052,7 +1066,7 @@
                 <h3>Guidewire Software</h3>
             </td>
             <td width="300">
-                
+                <code>cloud, senior, go</code>
             </td>
             <td width="200">
             <text>2022-07-05T09:35:05+00:00</text>
@@ -1075,7 +1089,7 @@
                 <h3>Craft</h3>
             </td>
             <td width="300">
-                
+                <code>amazon, investment, lead</code>
             </td>
             <td width="200">
             <text>2022-07-05T09:35:04+00:00</text>
@@ -1098,7 +1112,7 @@
                 <h3>Tulloch Consulting</h3>
             </td>
             <td width="300">
-                
+                <code>english, travel, senior</code>
             </td>
             <td width="200">
             <text>2022-07-05T08:05:06+00:00</text>
@@ -1121,7 +1135,7 @@
                 <h3>Summon</h3>
             </td>
             <td width="300">
-                
+                <code>golang, senior, engineer</code>
             </td>
             <td width="200">
             <text>2022-07-05T07:15:03+00:00</text>
@@ -1144,7 +1158,7 @@
                 <h3>Complero GmbH</h3>
             </td>
             <td width="300">
-                
+                <code>golang, go</code>
             </td>
             <td width="200">
             <text>2022-07-05T07:15:03+00:00</text>
@@ -1167,7 +1181,7 @@
                 <h3>GRAX</h3>
             </td>
             <td width="300">
-                
+                <code>golang, financial, security</code>
             </td>
             <td width="200">
             <text>2022-07-05T07:15:03+00:00</text>
@@ -1190,7 +1204,7 @@
                 <h3>Celestia Labs</h3>
             </td>
             <td width="300">
-                
+                <code>golang, go, engineer</code>
             </td>
             <td width="200">
             <text>2022-07-05T01:15:04+00:00</text>
@@ -1213,7 +1227,7 @@
                 <h3>The Links Guy</h3>
             </td>
             <td width="300">
-                
+                <code>content editor, content manager, head of content</code>
             </td>
             <td width="200">
             <text>2022-07-05T01:12:33+00:00</text>
@@ -1236,7 +1250,7 @@
                 <h3>Spreaker</h3>
             </td>
             <td width="300">
-                
+                <code>devops, aws, kubernetes</code>
             </td>
             <td width="200">
             <text>2022-07-04T21:01:22+00:00</text>
@@ -1259,7 +1273,7 @@
                 <h3>Spreaker</h3>
             </td>
             <td width="300">
-                
+                <code>javascript, node, serverless</code>
             </td>
             <td width="200">
             <text>2022-07-04T20:55:49+00:00</text>
@@ -1282,7 +1296,7 @@
                 <h3>Flockler</h3>
             </td>
             <td width="300">
-                
+                <code>saas, non tech, social media</code>
             </td>
             <td width="200">
             <text>2022-07-04T17:57:58+00:00</text>
@@ -1305,7 +1319,7 @@
                 <h3>Merchstack</h3>
             </td>
             <td width="300">
-                
+                <code>ecommerce, typescript, nestjs</code>
             </td>
             <td width="200">
             <text>2022-07-04T16:17:51+00:00</text>
@@ -1328,7 +1342,7 @@
                 <h3>Directive Consulting</h3>
             </td>
             <td width="300">
-                
+                <code>video, operations, marketing</code>
             </td>
             <td width="200">
             <text>2022-07-04T09:00:02+00:00</text>
@@ -1351,7 +1365,7 @@
                 <h3>Data & Society Research Institute</h3>
             </td>
             <td width="300">
-                
+                <code>travel, legal, executive</code>
             </td>
             <td width="200">
             <text>2022-07-03T21:05:04+00:00</text>
@@ -1374,7 +1388,7 @@
                 <h3>Genki</h3>
             </td>
             <td width="300">
-                
+                <code>cfo, digitalnomad, healthinsurance</code>
             </td>
             <td width="200">
             <text>2022-07-03T12:40:32+00:00</text>
@@ -1397,7 +1411,7 @@
                 <h3>ithought</h3>
             </td>
             <td width="300">
-                
+                <code>sales, biz dev, marketing</code>
             </td>
             <td width="200">
             <text>2022-07-03T12:18:53+00:00</text>
@@ -1420,7 +1434,7 @@
                 <h3>Teampay</h3>
             </td>
             <td width="300">
-                
+                <code>react, finance, ui</code>
             </td>
             <td width="200">
             <text>2022-07-03T03:15:06+00:00</text>
@@ -1443,7 +1457,7 @@
                 <h3>Boulevard</h3>
             </td>
             <td width="300">
-                
+                <code>senior, analytics, medical</code>
             </td>
             <td width="200">
             <text>2022-07-02T19:15:04+00:00</text>
@@ -1466,7 +1480,7 @@
                 <h3>GetSetUp</h3>
             </td>
             <td width="300">
-                
+                <code>video, cloud, health</code>
             </td>
             <td width="200">
             <text>2022-07-02T17:00:02+00:00</text>
@@ -1489,7 +1503,7 @@
                 <h3>RStudio</h3>
             </td>
             <td width="300">
-                
+                <code>golang, engineer</code>
             </td>
             <td width="200">
             <text>2022-07-02T07:15:04+00:00</text>
@@ -1512,7 +1526,7 @@
                 <h3>Lyft</h3>
             </td>
             <td width="300">
-                
+                <code>ux, mobile, lead</code>
             </td>
             <td width="200">
             <text>2022-07-02T03:30:04+00:00</text>
@@ -1535,7 +1549,7 @@
                 <h3>G/O Media</h3>
             </td>
             <td width="300">
-                
+                <code>lead, operations, analytics</code>
             </td>
             <td width="200">
             <text>2022-07-02T02:00:05+00:00</text>
@@ -1558,7 +1572,7 @@
                 <h3>Energy Vault</h3>
             </td>
             <td width="300">
-                
+                <code>administrator, content, educational</code>
             </td>
             <td width="200">
             <text>2022-07-01T20:30:05+00:00</text>
@@ -1581,7 +1595,7 @@
                 <h3>2U edX</h3>
             </td>
             <td width="300">
-                
+                <code>frontend, students, education</code>
             </td>
             <td width="200">
             <text>2022-07-01T17:30:03+00:00</text>
@@ -1604,7 +1618,7 @@
                 <h3>The Allen Institute for AI</h3>
             </td>
             <td width="300">
-                
+                <code>senior, engineer, engineering</code>
             </td>
             <td width="200">
             <text>2022-07-01T16:00:04+00:00</text>
@@ -1627,7 +1641,7 @@
                 <h3>Sennen</h3>
             </td>
             <td width="300">
-                
+                <code>tech for good, clean energy, renewables</code>
             </td>
             <td width="200">
             <text>2022-07-01T13:47:13+00:00</text>
@@ -1650,7 +1664,7 @@
                 <h3>Onko Health</h3>
             </td>
             <td width="300">
-                
+                <code>techforgood, javascript, node</code>
             </td>
             <td width="200">
             <text>2022-06-30T21:21:57+00:00</text>
@@ -1673,7 +1687,7 @@
                 <h3>VPD</h3>
             </td>
             <td width="300">
-                
+                <code>javascript, react, node</code>
             </td>
             <td width="200">
             <text>2022-06-30T21:14:09+00:00</text>
@@ -1696,7 +1710,7 @@
                 <h3>Chain</h3>
             </td>
             <td width="300">
-                
+                <code>senior, health, engineer</code>
             </td>
             <td width="200">
             <text>2022-06-30T16:00:02+00:00</text>
@@ -1719,7 +1733,7 @@
                 <h3>Sumo Logic</h3>
             </td>
             <td width="300">
-                
+                <code>english, amazon, education</code>
             </td>
             <td width="200">
             <text>2022-06-30T12:35:05+00:00</text>
@@ -1742,7 +1756,7 @@
                 <h3>Immutable</h3>
             </td>
             <td width="300">
-                
+                <code>nft, ui, mobile</code>
             </td>
             <td width="200">
             <text>2022-06-30T10:00:03+00:00</text>
@@ -1765,7 +1779,7 @@
                 <h3>Draft2Digital</h3>
             </td>
             <td width="300">
-                
+                <code>golang, senior</code>
             </td>
             <td width="200">
             <text>2022-06-30T07:15:04+00:00</text>
@@ -1788,7 +1802,7 @@
                 <h3>Upshot</h3>
             </td>
             <td width="300">
-                
+                <code>nft, financial, senior</code>
             </td>
             <td width="200">
             <text>2022-06-30T06:00:04+00:00</text>
@@ -1811,7 +1825,7 @@
                 <h3>HackerRank</h3>
             </td>
             <td width="300">
-                
+                <code>product manager, pm, product</code>
             </td>
             <td width="200">
             <text>2022-06-30T02:35:04+00:00</text>
@@ -1834,7 +1848,7 @@
                 <h3>Elisangela</h3>
             </td>
             <td width="300">
-                
+                <code>javascript</code>
             </td>
             <td width="200">
             <text>2022-06-29T21:31:33+00:00</text>
@@ -1857,7 +1871,7 @@
                 <h3>Code.org</h3>
             </td>
             <td width="300">
-                
+                <code>teacher, teaching, students</code>
             </td>
             <td width="200">
             <text>2022-06-29T21:25:05+00:00</text>
@@ -1880,7 +1894,7 @@
                 <h3>Bitwise Asset Management</h3>
             </td>
             <td width="300">
-                
+                <code>crypto, cryptocurrency, financial</code>
             </td>
             <td width="200">
             <text>2022-06-29T21:00:03+00:00</text>
@@ -1903,7 +1917,7 @@
                 <h3>CrewBloom</h3>
             </td>
             <td width="300">
-                
+                <code>system</code>
             </td>
             <td width="200">
             <text>2022-06-29T19:00:05+00:00</text>
@@ -1926,7 +1940,7 @@
                 <h3>CrewBloom</h3>
             </td>
             <td width="300">
-                
+                <code>salesforce, administrator, operations</code>
             </td>
             <td width="200">
             <text>2022-06-29T19:00:02+00:00</text>
@@ -1949,7 +1963,7 @@
                 <h3>Ãscala</h3>
             </td>
             <td width="300">
-                
+                <code>qa, jira, english</code>
             </td>
             <td width="200">
             <text>2022-06-29T13:40:05+00:00</text>
@@ -1972,7 +1986,7 @@
                 <h3>Docker</h3>
             </td>
             <td width="300">
-                
+                <code>golang, engineer, fullstack</code>
             </td>
             <td width="200">
             <text>2022-06-29T01:15:06+00:00</text>
@@ -1995,7 +2009,7 @@
                 <h3>Lytics</h3>
             </td>
             <td width="300">
-                
+                <code>golang, marketing, engineering</code>
             </td>
             <td width="200">
             <text>2022-06-29T01:15:04+00:00</text>
@@ -2018,7 +2032,7 @@
                 <h3>Lytics</h3>
             </td>
             <td width="300">
-                
+                <code>golang, operational, reliability</code>
             </td>
             <td width="200">
             <text>2022-06-29T01:15:04+00:00</text>
@@ -2041,7 +2055,7 @@
                 <h3>Doximity</h3>
             </td>
             <td width="300">
-                
+                <code>python, platform eng, health tech</code>
             </td>
             <td width="200">
             <text>2022-06-28T22:24:34+00:00</text>
@@ -2064,7 +2078,7 @@
                 <h3>Mindgram</h3>
             </td>
             <td width="300">
-                
+                <code>jira, video, seo</code>
             </td>
             <td width="200">
             <text>2022-06-28T22:20:08+00:00</text>
@@ -2087,7 +2101,7 @@
                 <h3>Flight CX</h3>
             </td>
             <td width="300">
-                
+                <code></code>
             </td>
             <td width="200">
             <text>2022-06-28T22:00:03+00:00</text>
@@ -2110,7 +2124,7 @@
                 <h3>Stimulus</h3>
             </td>
             <td width="300">
-                
+                <code>design, front end, engineer</code>
             </td>
             <td width="200">
             <text>2022-06-28T19:14:39+00:00</text>
@@ -2133,7 +2147,7 @@
                 <h3>Whimsical</h3>
             </td>
             <td width="300">
-                
+                <code>dev, clojurescript, javascript</code>
             </td>
             <td width="200">
             <text>2022-06-28T19:01:19+00:00</text>
@@ -2156,7 +2170,7 @@
                 <h3>Silverfin</h3>
             </td>
             <td width="300">
-                
+                <code>ruby, rubyonrails, front end</code>
             </td>
             <td width="200">
             <text>2022-06-28T15:57:08+00:00</text>
@@ -2179,7 +2193,7 @@
                 <h3>Clio</h3>
             </td>
             <td width="300">
-                
+                <code>leader, content, legal</code>
             </td>
             <td width="200">
             <text>2022-06-28T12:35:04+00:00</text>
@@ -2202,7 +2216,7 @@
                 <h3>Upshot</h3>
             </td>
             <td width="300">
-                
+                <code>nft, financial, content</code>
             </td>
             <td width="200">
             <text>2022-06-28T07:00:02+00:00</text>
@@ -2217,28 +2231,4 @@
             Upshot is the preeminent company providing appraisal services for NFT and unique digital assets. Leveraging cutting-edge machine learning and blockchain technology, Upshotâs price-discovery protocol is collusion-resistant and truly decentralized. Our product creates a broad new frontier of NFT markets, enabling an entirely new class of financial primitives.We are a team of crypto-natives and ML experts, with deep experience working on some of the leading projects in Web3, and backed by the foremost funds and angels in crypto. At Upshot, we are committed to nurturing top talent looking to make an impact at the forefront of this new frontier.Upshot needs a full-time web3 expert to produce regular content series across our properties. You're a solid writer with a deep interest in web3. You have proven research and writing practices and can produce a diverse array of content from tweets to long-form technical deep dives. Check out our blog for examples of our current content efforts.Upshot is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
             </details>
             </td>
-        </tr>,<tr>
-            <td width="100" height="100" rowspan="2">
-                <img src=https://remoteok.com/assets/img/jobs/690f104a9387ef388f0a9a4ab019ecd01656370205.png>
-            </td>
-            <td width="300">
-                <h3>Odeko</h3>
-            </td>
-            <td width="300">
-                
-            </td>
-            <td width="200">
-            <text>2022-06-28T04:50:04+00:00</text>
-            </td>
-            <td width="100" rowspan="2">
-            <a href=https://remoteOK.com/jobs/111441 align="right" target="_blank">Apply</a>
-            </td>
         </tr>
-        <tr>
-            <td colspan="3">
-            <details><summary>Description</summary>
-            <p><span style="font-weight: 400;">The Odeko family is diverse, passionate, and innovative. With 200+ employees across 9 different departments and 7 groups, we bring people from all over the world together to develop technology and work towards a shared mission.&nbsp;</span></p><p>&nbsp;</p><p><span style="font-weight: 400;">We believe that small businesses need our support now more than ever, and that the coffee industry is where connections happen.</span></p><p>&nbsp;</p><p><span style="font-weight: 400;">We are looking for an experienced </span><strong>UX Researcher</strong><span style="font-weight: 400;"> to join our growing team. This person will be responsible for planning and executing research campaigns, including (but not limited to) exploratory research and usability testing of new product/feature designs. You will also be responsible for maintaining and enforcing the research process, including research tools, insights, repository management, etc.&nbsp;</span></p><p>&nbsp;</p><h3><strong>How youâll make an impact:</strong></h3><p><span style="font-weight: 400;">&nbsp;</span></p><ul><li style="font-weight: 400;"><span style="font-weight: 400;">Elevate the design and research culture in the overall team</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Help develop a deep understanding of our customers and their goals, needs and pain points</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Plan and conduct research to validate the problem space and product/market fit</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Plan and conduct validation research and synthesize next steps for UX/UI designers and product managers&nbsp;</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Assist in crafting an outstanding user experience and help establish and refine adoption of our product design standards</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Track and measure user experience performance across all the applications</span></li></ul><p><span style="font-weight: 400;">&nbsp;</span></p><h3><strong>About you:</strong></h3><ul><li style="font-weight: 400;"><span style="font-weight: 400;">3+ years experience establishing research goals and creating effective, unbiased research initiatives that help the design team achieve those goals</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Experience with collecting and organizing user insights and discovery documentation</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Deep experience with planning and executing exploratory and confirmatory research campaigns (including surveys, in-depth interviews, prototype tests, moderated vs. unmoderated etc.)&nbsp;</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Strong user empathy and an advocate for users who works&nbsp; to deeply understand and communicate their needs</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Ability to use necessary tools to create prototypes and usability tests to validate designs and user experience flows</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Strong communication skills with cross-functional experience</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">UXR specific education/experience</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Experience designing products for small business owners, specifically cafe managers, owners, baristas etc. (our customer base)&nbsp;</span></li></ul><p>&nbsp;</p><p>&nbsp;</p>
-            </details>
-            </td>
-        </tr>
-                              </table>
