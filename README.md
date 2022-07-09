@@ -1,5 +1,3 @@
-
-
 <table><thead>
       <tr>
         <th>Logo</th>
