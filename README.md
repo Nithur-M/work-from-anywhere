@@ -1,6 +1,15 @@
 
 
-<tr>
+<table>
+    <thead>
+      <tr>
+        <th>Logo</th>
+        <th>Company Name</th>
+        <th>Tags</th>
+        <th>Added</th>
+        <th>Link</th>
+      </tr>
+    </thead><tr>
             <td width="100" height="100" rowspan="2">
                 <img src=https://remoteok.com/assets/img/jobs/fff3f29649e1342359e9c8f8d59252791657269906.png>
             </td>
@@ -2231,4 +2240,4 @@
             Upshot is the preeminent company providing appraisal services for NFT and unique digital assets. Leveraging cutting-edge machine learning and blockchain technology, Upshotâs price-discovery protocol is collusion-resistant and truly decentralized. Our product creates a broad new frontier of NFT markets, enabling an entirely new class of financial primitives.We are a team of crypto-natives and ML experts, with deep experience working on some of the leading projects in Web3, and backed by the foremost funds and angels in crypto. At Upshot, we are committed to nurturing top talent looking to make an impact at the forefront of this new frontier.Upshot needs a full-time web3 expert to produce regular content series across our properties. You're a solid writer with a deep interest in web3. You have proven research and writing practices and can produce a diverse array of content from tweets to long-form technical deep dives. Check out our blog for examples of our current content efforts.Upshot is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
             </details>
             </td>
-        </tr>
+        </tr></table>
