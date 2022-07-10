@@ -1,12 +1,12 @@
 <table><thead>
-            <tr>
-              <th>Logo</th>
-              <th>Company Name</th>
-              <th>Tags</th>
-              <th>Added</th>
-              <th>Link</th>
-            </tr>
-          </thead><tr>
+          <tr>
+            <th>Logo</th>
+            <th>Company Name</th>
+            <th>Tags</th>
+            <th>Added</th>
+            <th>Link</th>
+          </tr>
+        </thead><tr>
             <td width="100" height="100" rowspan="2">
                 <img src=undefined>
             </td>
