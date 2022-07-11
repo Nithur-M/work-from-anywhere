@@ -7,7 +7,7 @@
 </div>
 <h2>Why this project?</h2>
 
-<p>My goal with this project is to curate best location independent jobs. <br><br>There are multiple remote job boards out there. But most of the jobs are tied to one location. I am hoping to make this a unique repository of location independent developer related jobs. This repository is updated daily to curate the latest jobs. I only want to curate the best quality jobs that's why I am going to stick with a handful of best remote job boards.</p>
+<p>My goal with this project is to curate best location independent jobs at one place. <br><br>There are multiple remote job boards out there. But most of the jobs are tied to one location. I am hoping to make this a unique repository of location independent developer related jobs. This repository is updated daily to curate the latest jobs. I only want to curate the best quality jobs that's why I am going to stick with a handful of best remote job boards.</p>
 
 ### Love this project? Please leave a ⭐️
 
