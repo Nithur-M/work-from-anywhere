@@ -1,3 +1,4 @@
+![work-from-anywhere-cover-image](https://github.com/Nithur-M/work-from-anywhere/blob/main/assets/Work%20from%20Anywhere.png?raw=true)
 <table><thead>
       <tr>
         <th>Logo</th>
