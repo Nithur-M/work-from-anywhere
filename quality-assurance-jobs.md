@@ -1,23 +1,16 @@
-<table><thead>
-          <tr>
-            <th>Logo</th>
-            <th>Company Name</th>
-            <th>Tags</th>
-            <th>Added</th>
-            <th>Link</th>
-          </tr>
-        </thead><tr>
+<table><tr>
             <td width="100" height="100" rowspan="2">
                 <img src=undefined>
             </td>
             <td width="300">
+                <h5>undefined</h5>
                 <h3>undefined</h3>
             </td>
             <td width="300">
                 <code>undefined</code>
             </td>
             <td width="200">
-            <text>undefined</text>
+            <text>NaN days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=undefined align="right" target="_blank">Apply</a>
@@ -34,13 +27,15 @@
                 <img src=https://remoteOK.com/assets/logo-square.png>
             </td>
             <td width="300">
-                <h3>Ãscala</h3>
+                <h5>Ãscala</h5>
+                <h3>
+					Quality Assurance & Test Automation Engineer				</h3>
             </td>
             <td width="300">
                 <code>qa, jira, english</code>
             </td>
             <td width="200">
-            <text>2022-06-29T13:40:05+00:00</text>
+            <text>-11 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111457 align="right" target="_blank">Apply</a>
