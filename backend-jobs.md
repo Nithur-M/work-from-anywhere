@@ -35,7 +35,7 @@
                 <code>golang, senior, engineer</code>
             </td>
             <td width="200">
-            <text>-3 days ago</text>
+            <text>3 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111576 align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                 <code>security, amazon, ruby</code>
             </td>
             <td width="200">
-            <text>-4 days ago</text>
+            <text>4 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111562 align="right" target="_blank">Apply</a>
@@ -85,7 +85,7 @@
                 <code>golang, senior, engineer</code>
             </td>
             <td width="200">
-            <text>-5 days ago</text>
+            <text>5 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111545 align="right" target="_blank">Apply</a>
@@ -110,7 +110,7 @@
                 <code>golang, engineer, backend</code>
             </td>
             <td width="200">
-            <text>-5 days ago</text>
+            <text>5 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111533 align="right" target="_blank">Apply</a>
@@ -135,7 +135,7 @@
                 <code>golang, api, reliability</code>
             </td>
             <td width="200">
-            <text>-5 days ago</text>
+            <text>5 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111532 align="right" target="_blank">Apply</a>
@@ -160,7 +160,7 @@
                 <code>golang, senior, engineer</code>
             </td>
             <td width="200">
-            <text>-5 days ago</text>
+            <text>5 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111530 align="right" target="_blank">Apply</a>
@@ -185,7 +185,7 @@
                 <code>golang, senior, engineer</code>
             </td>
             <td width="200">
-            <text>-6 days ago</text>
+            <text>6 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111512 align="right" target="_blank">Apply</a>
@@ -210,7 +210,7 @@
                 <code>ecommerce, typescript, nestjs</code>
             </td>
             <td width="200">
-            <text>-6 days ago</text>
+            <text>7 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111502 align="right" target="_blank">Apply</a>
