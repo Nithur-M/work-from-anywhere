@@ -1,23 +1,16 @@
-<table><thead>
-        <tr>
-          <th>Logo</th>
-          <th>Company Name</th>
-          <th>Tags</th>
-          <th>Added</th>
-          <th>Link</th>
-        </tr>
-      </thead><tr>
+<table><tr>
             <td width="100" height="100" rowspan="2">
                 <img src=undefined>
             </td>
             <td width="300">
+                <h5>undefined</h5>
                 <h3>undefined</h3>
             </td>
             <td width="300">
                 <code>undefined</code>
             </td>
             <td width="200">
-            <text>undefined</text>
+            <text>NaN days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=undefined align="right" target="_blank">Apply</a>
@@ -34,13 +27,15 @@
                 <img src=https://remoteOK.com/assets/logo-square.png>
             </td>
             <td width="300">
-                <h3>Teleport</h3>
+                <h5>Teleport</h5>
+                <h3>
+					Senior Backend Software Engineer				</h3>
             </td>
             <td width="300">
                 <code>golang, senior, engineer</code>
             </td>
             <td width="200">
-            <text>2022-07-08T07:15:03+00:00</text>
+            <text>-3 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111576 align="right" target="_blank">Apply</a>
@@ -57,13 +52,15 @@
                 <img src=https://remoteok.com/assets/img/jobs/35020f146b306f9b2b7a4c461c93da801657157405.png>
             </td>
             <td width="300">
-                <h3>Ad Hoc Team</h3>
+                <h5>Ad Hoc Team</h5>
+                <h3>
+					Software Engineer III Back End				</h3>
             </td>
             <td width="300">
                 <code>security, amazon, ruby</code>
             </td>
             <td width="200">
-            <text>2022-07-07T07:30:05+00:00</text>
+            <text>-4 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111562 align="right" target="_blank">Apply</a>
@@ -80,13 +77,15 @@
                 <img src=https://remoteOK.com/assets/logo-square.png>
             </td>
             <td width="300">
-                <h3>Summon</h3>
+                <h5>Summon</h5>
+                <h3>
+					Senior Backend Engineer				</h3>
             </td>
             <td width="300">
                 <code>golang, senior, engineer</code>
             </td>
             <td width="200">
-            <text>2022-07-06T07:15:03+00:00</text>
+            <text>-5 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111545 align="right" target="_blank">Apply</a>
@@ -103,13 +102,15 @@
                 <img src=https://remoteOK.com/assets/logo-square.png>
             </td>
             <td width="300">
-                <h3>Buf</h3>
+                <h5>Buf</h5>
+                <h3>
+					Backend Engineer				</h3>
             </td>
             <td width="300">
                 <code>golang, engineer, backend</code>
             </td>
             <td width="200">
-            <text>2022-07-06T01:15:06+00:00</text>
+            <text>-5 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111533 align="right" target="_blank">Apply</a>
@@ -126,13 +127,15 @@
                 <img src=https://remoteOK.com/assets/logo-square.png>
             </td>
             <td width="300">
-                <h3>LaunchDarkly</h3>
+                <h5>LaunchDarkly</h5>
+                <h3>
+					Backend Engineer				</h3>
             </td>
             <td width="300">
                 <code>golang, api, reliability</code>
             </td>
             <td width="200">
-            <text>2022-07-06T01:15:05+00:00</text>
+            <text>-5 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111532 align="right" target="_blank">Apply</a>
@@ -149,13 +152,15 @@
                 <img src=https://remoteOK.com/assets/logo-square.png>
             </td>
             <td width="300">
-                <h3>Summon</h3>
+                <h5>Summon</h5>
+                <h3>
+					Senior Backend Engineer				</h3>
             </td>
             <td width="300">
                 <code>golang, senior, engineer</code>
             </td>
             <td width="200">
-            <text>2022-07-06T01:15:03+00:00</text>
+            <text>-5 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111530 align="right" target="_blank">Apply</a>
@@ -172,13 +177,15 @@
                 <img src=https://remoteOK.com/assets/logo-square.png>
             </td>
             <td width="300">
-                <h3>Summon</h3>
+                <h5>Summon</h5>
+                <h3>
+					Senior Backend Engineer				</h3>
             </td>
             <td width="300">
                 <code>golang, senior, engineer</code>
             </td>
             <td width="200">
-            <text>2022-07-05T07:15:03+00:00</text>
+            <text>-6 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111512 align="right" target="_blank">Apply</a>
@@ -195,13 +202,15 @@
                 <img src=https://remoteOK.com/assets/img/jobs/719be6167564fc43e3ea37e75e0712711656929871.png>
             </td>
             <td width="300">
-                <h3>Merchstack</h3>
+                <h5>Merchstack</h5>
+                <h3>
+					Senior Backend Engineer				</h3>
             </td>
             <td width="300">
                 <code>ecommerce, typescript, nestjs</code>
             </td>
             <td width="200">
-            <text>2022-07-04T16:17:51+00:00</text>
+            <text>-6 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111502 align="right" target="_blank">Apply</a>
