@@ -1,23 +1,16 @@
-<table><thead>
-        <tr>
-          <th>Logo</th>
-          <th>Company Name</th>
-          <th>Tags</th>
-          <th>Added</th>
-          <th>Link</th>
-        </tr>
-      </thead><tr>
+<table><tr>
             <td width="100" height="100" rowspan="2">
                 <img src=undefined>
             </td>
             <td width="300">
+                <h5>undefined</h5>
                 <h3>undefined</h3>
             </td>
             <td width="300">
                 <code>undefined</code>
             </td>
             <td width="200">
-            <text>undefined</text>
+            <text>NaN days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=undefined align="right" target="_blank">Apply</a>
@@ -34,13 +27,15 @@
                 <img src=https://remoteok.com/assets/img/jobs/78d4554287217a0b87db921552fea39d1657157407.png>
             </td>
             <td width="300">
-                <h3>Ad Hoc Team</h3>
+                <h5>Ad Hoc Team</h5>
+                <h3>
+					Managing Software Engineer Full Stack w Front End				</h3>
             </td>
             <td width="300">
                 <code>security, leader, junior</code>
             </td>
             <td width="200">
-            <text>2022-07-07T07:30:07+00:00</text>
+            <text>5 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111563 align="right" target="_blank">Apply</a>
@@ -57,13 +52,15 @@
                 <img src=https://remoteok.com/assets/img/jobs/0f83f944fc666a47dae7a1065f9ed9501656992106.png>
             </td>
             <td width="300">
-                <h3>Guidewire Software</h3>
+                <h5>Guidewire Software</h5>
+                <h3>
+					Senior Software Engineer Front End				</h3>
             </td>
             <td width="300">
                 <code>cloud, senior, go</code>
             </td>
             <td width="200">
-            <text>2022-07-05T09:35:05+00:00</text>
+            <text>6 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111515 align="right" target="_blank">Apply</a>
