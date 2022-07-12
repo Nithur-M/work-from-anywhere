@@ -3,12 +3,12 @@
                     <img src=https://remoteOK.com/assets/img/jobs/6377b99e204306f829274dc42756d97d1657543659.png>
                 </td>
                 <td width="300">
-                    <h5>
-					Senior DevOps Engineer				</h5>
-                    <h3>undefined</h3>
+                    <h5>FetLife</h5>
+                    <h3>
+					Senior DevOps Engineer				</h3>
                 </td>
                 <td width="300">
-                    <code>undefined</code>
+                    <code>devops, ruby, gcp</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
@@ -28,12 +28,12 @@
                     <img src=https://remoteOK.com/assets/img/jobs/90ff0b83631e7f7d539736fc0bc82c1d1657048761.png>
                 </td>
                 <td width="300">
-                    <h5>
-					DevOps Engineer				</h5>
-                    <h3>undefined</h3>
+                    <h5>Nethermind</h5>
+                    <h3>
+					DevOps Engineer				</h3>
                 </td>
                 <td width="300">
-                    <code>undefined</code>
+                    <code>backend, devops, aws</code>
                 </td>
                 <td width="200">
                 <text>6 days ago</text>
