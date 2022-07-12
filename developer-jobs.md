@@ -3,12 +3,12 @@
                     <img src=https://remoteOK.com/assets/img/jobs/9759825d2dfc43acd1d07fa5e07e09cc1657170195.png>
                 </td>
                 <td width="300">
-                    <h5>
-					HTML CSS Designer Developer				</h5>
-                    <h3>undefined</h3>
+                    <h5>__OperateBeyond__TrailerCentral</h5>
+                    <h3>
+					HTML CSS Designer Developer				</h3>
                 </td>
                 <td width="300">
-                    <code>undefined</code>
+                    <code>css, html, git</code>
                 </td>
                 <td width="200">
                 <text>5 days ago</text>
@@ -28,12 +28,12 @@
                     <img src=https://remoteOK.com/assets/img/jobs/8c3448beb6cb3b7ff786de690cc7a5ed1656831936.png>
                 </td>
                 <td width="300">
-                    <h5>
-					Business Developer				</h5>
-                    <h3>undefined</h3>
+                    <h5>ithought</h5>
+                    <h3>
+					Business Developer				</h3>
                 </td>
                 <td width="300">
-                    <code>undefined</code>
+                    <code>sales, biz dev, marketing</code>
                 </td>
                 <td width="200">
                 <text>9 days ago</text>
@@ -53,12 +53,12 @@
                     <img src=https://remoteOK.com/assets/img/jobs/aa25f0eaacbec6aa1d0d52b7f1b6d2321656516693.png>
                 </td>
                 <td width="300">
-                    <h5>
-					JavaScript Developer				</h5>
-                    <h3>undefined</h3>
+                    <h5>Elisangela</h5>
+                    <h3>
+					JavaScript Developer				</h3>
                 </td>
                 <td width="300">
-                    <code>undefined</code>
+                    <code>javascript</code>
                 </td>
                 <td width="200">
                 <text>12 days ago</text>
