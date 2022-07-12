@@ -1,29 +1,5 @@
 <table><tr>
             <td width="100" height="100" rowspan="2">
-                <img src=undefined>
-            </td>
-            <td width="300">
-                <h5>undefined</h5>
-                <h3>undefined</h3>
-            </td>
-            <td width="300">
-                <code>undefined</code>
-            </td>
-            <td width="200">
-            <text>NaN days ago</text>
-            </td>
-            <td width="100" rowspan="2">
-            <a href=undefined align="right" target="_blank">Apply</a>
-            </td>
-        </tr>
-        <tr>
-            <td colspan="3">
-            <details><summary>Description</summary>
-            undefined
-            </details>
-            </td>
-        </tr>,<tr>
-            <td width="100" height="100" rowspan="2">
                 <img src=https://remoteok.com/assets/img/jobs/78d4554287217a0b87db921552fea39d1657157407.png>
             </td>
             <td width="300">
@@ -60,7 +36,7 @@
                 <code>cloud, senior, go</code>
             </td>
             <td width="200">
-            <text>6 days ago</text>
+            <text>7 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111515 align="right" target="_blank">Apply</a>
