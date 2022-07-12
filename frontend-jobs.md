@@ -1,4 +1,4 @@
-<div align="center"><h2>FRONTEND JOBS.</h2></div><table><tr>
+<div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
             <td width="100" height="100" rowspan="2">
                 <img src=https://remoteok.com/assets/img/jobs/78d4554287217a0b87db921552fea39d1657157407.png>
             </td>
