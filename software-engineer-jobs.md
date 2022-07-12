@@ -3,12 +3,12 @@
                     <img src=https://remoteOK.com/assets/img/jobs/354be69d41a57eaeb45c2015dbd8c5991657488477.png>
                 </td>
                 <td width="300">
-                    <h5>
-					Staff Software Engineer Python + ML				</h5>
-                    <h3>undefined</h3>
+                    <h5>AssemblyAI</h5>
+                    <h3>
+					Staff Software Engineer Python + ML				</h3>
                 </td>
                 <td width="300">
-                    <code>undefined</code>
+                    <code>python, ml, backend</code>
                 </td>
                 <td width="200">
                 <text>1 days ago</text>
