@@ -35,7 +35,7 @@
                 <code>backend, devops, aws</code>
             </td>
             <td width="200">
-            <text>5 days ago</text>
+            <text>6 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111534 align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                 <code>qa, devops, security</code>
             </td>
             <td width="200">
-            <text>5 days ago</text>
+            <text>6 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111529 align="right" target="_blank">Apply</a>
