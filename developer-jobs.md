@@ -1,29 +1,5 @@
 <table><tr>
             <td width="100" height="100" rowspan="2">
-                <img src=undefined>
-            </td>
-            <td width="300">
-                <h5>undefined</h5>
-                <h3>undefined</h3>
-            </td>
-            <td width="300">
-                <code>undefined</code>
-            </td>
-            <td width="200">
-            <text>NaN days ago</text>
-            </td>
-            <td width="100" rowspan="2">
-            <a href=undefined align="right" target="_blank">Apply</a>
-            </td>
-        </tr>
-        <tr>
-            <td colspan="3">
-            <details><summary>Description</summary>
-            undefined
-            </details>
-            </td>
-        </tr>,<tr>
-            <td width="100" height="100" rowspan="2">
                 <img src=https://remoteok.com/assets/img/jobs/82053125bafa8978f8310e3b44ad8f951657252804.png>
             </td>
             <td width="300">
@@ -35,7 +11,7 @@
                 <code>python, lead, health</code>
             </td>
             <td width="200">
-            <text>3 days ago</text>
+            <text>4 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111578 align="right" target="_blank">Apply</a>
@@ -85,7 +61,7 @@
                 <code>lead, operational, medical</code>
             </td>
             <td width="200">
-            <text>4 days ago</text>
+            <text>5 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111566 align="right" target="_blank">Apply</a>
@@ -160,7 +136,7 @@
                 <code>cloud, senior, go</code>
             </td>
             <td width="200">
-            <text>6 days ago</text>
+            <text>7 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111519 align="right" target="_blank">Apply</a>
