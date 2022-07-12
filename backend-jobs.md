@@ -1,4 +1,4 @@
-<div align="center"><h2>BACKEND JOBS.</h2></div><table><tr>
+<div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
             <td width="100" height="100" rowspan="2">
                 <img src=https://remoteOK.com/assets/logo-square.png>
             </td>
