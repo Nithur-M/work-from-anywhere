@@ -3,12 +3,12 @@
                     <img src=https://remoteOK.com/assets/img/jobs/719be6167564fc43e3ea37e75e0712711656929871.png>
                 </td>
                 <td width="300">
-                    <h5>
-					Senior Backend Engineer				</h5>
-                    <h3>undefined</h3>
+                    <h5>Merchstack</h5>
+                    <h3>
+					Senior Backend Engineer				</h3>
                 </td>
                 <td width="300">
-                    <code>undefined</code>
+                    <code>ecommerce, typescript, nestjs</code>
                 </td>
                 <td width="200">
                 <text>8 days ago</text>
