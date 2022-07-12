@@ -137,7 +137,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://weworkremotely.com/remote-jobs/lifetimely-senior-ruby-on-rails-developer align="right" target="_blank">Apply</a>
@@ -574,6 +574,73 @@
 </ul>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/composable-finance-senior-frontend-developer">https://weworkremotely.com/remote-jobs/composable-finance-senior-frontend-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src=undefined>
+                </td>
+                <td width="300">
+                    <h5>Last Call Media</h5>
+                    <h3> Javascript Application Developer (Remote)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>270 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href=https://weworkremotely.com/remote-jobs/last-call-media-javascript-application-developer-remote align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0067/1408/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://lastcallmedia.com">https://lastcallmedia.com</a>
+</p>
+
+<div>
+<a href="https://lastcallmedia.com/careers">Last Call Media</a> is looking for javascript application developers with experience building and testing web applications!</div><div> </div><div><strong>The Role</strong></div><div>Last Call Media is looking for someone with a passion for building and testing modern, state-of-the-art web applications. We are seeking either a full-time employee or a contract-to-hire arrangement. </div><div>We are looking for multiple developers, with some mix of the following skills:</div><ul>
+<li>Frontend JavaScript development (eg: React)</li>
+<li>Backend JavaScript application development (eg: NodeJS, Typescript)</li>
+<li>JavaScript testing experience (eg: Jest, Cypress, Playwright, Puppeteer)</li>
+<li>DevOps (eg: AWS, GitHub Actions, New Relic, Terraform)</li>
+</ul><div>The ideal candidate will have experience in many of these areas (not necessarily all).  We are looking for an advocate of best practices and someone who is willing to be opinionated about what they believe in when it comes to building successful programming projects. The ideal candidate will be able to discuss requirements, provide feedback and eventually develop the final product to specification.</div><div> </div><div>Last Call Media is a <a href="https://www.youtube.com/watch?v=O8-PxC_-KtA&amp;feature=youtu.be">fully distributed company</a>, so you can work from anywhere, but we ask that you be able to commit to at least 5 hours of overlap with New York time (ET), Monday through Friday. </div><div> </div><div><strong>What you’ll do: </strong></div><ul>
+<li>Work with team members to architect, build, and test new features for modern web applications.</li>
+<li>Perform investigation and root cause analysis on production and pre-production issues using logs and monitoring tools. </li>
+<li>Participate in team and company retrospectives to help define and refine working agreements and processes to help us work more effectively together as a team. </li>
+<li>Work with stakeholders and team members to define requirements into actionable work.</li>
+</ul><div><strong>What you’ll bring:</strong></div><ul>
+<li>A proven track record of delivering digital products and services that delight customers. Specifically, we’re looking for completed projects that leverage NodeJS, TypeScript, or React.</li>
+<li>2+ years of similar experience in a digital agency, consultancy, or equivalent setting where you were accountable to several client engagements.</li>
+<li>An obvious drive to grow and learn from the highly-skilled team around you.</li>
+<li>Experience and/or a desire to work remotely.</li>
+<li>Ability to work efficiently, sometimes under tight deadlines.</li>
+</ul><div><strong>It’d be nice if you also had: </strong></div><ul>
+<li>Experience with Serverless technologies (Lambda, etc).</li>
+<li>Strong opinions about testing.</li>
+<li>Experience working on a project integrating many different languages or components.</li>
+<li>Understanding of backend performance and experience optimizing performance, including API call optimization.</li>
+<li>General comfort with Linux environments.</li>
+<li>Familiarity with Atlassian tools, such as Jira and Confluence.</li>
+</ul><div> </div><div><strong>All of us at LCM pride ourselves on being:</strong></div><ul>
+<li>Able to empathize, which helps us understand the needs of the client, the customer, the product, and the team at LCM. </li>
+<li>Highly communicative.</li>
+<li>Able to work independently.</li>
+<li>Comfortable asking for help.</li>
+<li>Experienced with communicating directly with clients.</li>
+<li>Eager and motivated to learn new concepts.</li>
+<li>A team player in a collaborative environment.</li>
+<li>A fast learner.</li>
+</ul><div> </div><div><strong>Application Process</strong></div><div>Applicants should submit their resume and cover letter that includes links to a few digital products you completed recently. While resumes and interviews are a great way to learn more about you, all candidates should be prepared to complete a brief hypothetical virtual recruitment exercise and submit reference(s) upon request.</div><div> </div><div>The starting salary for this position is $50-120k, commensurate with experience and location, with <a href="https://lastcallmedia.com/life">comprehensive benefits</a> including an annual professional development budget, and varied, engaging work for enterprise-level clients. If this position already sounds like you or sounds like where you're headed, please reach out!</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/last-call-media-javascript-application-developer-remote">https://weworkremotely.com/remote-jobs/last-call-media-javascript-application-developer-remote</a></p>
 
                 </details>
                 </td>
