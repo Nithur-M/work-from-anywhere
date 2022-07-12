@@ -11,7 +11,7 @@
                     <code>undefined</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remoteOK.com/jobs/111502 align="right" target="_blank">Apply</a>
@@ -105,7 +105,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://weworkremotely.com/remote-jobs/greenback-expat-tax-services-remote-us-expat-tax-accountant-contractor align="right" target="_blank">Apply</a>
