@@ -3,43 +3,32 @@
                 <img src=undefined>
             </td>
             <td width="300">
-                <h5>Iterative</h5>
-                <h3> Senior Front-end Engineer</h3>
+                <h5>Coca Cola</h5>
+                <h3> Ejecutivo Soporte Aplicaciones FrontOffice </h3>
             </td>
             <td width="300">
-                <code>Front-End Programming</code>
+                <code>All Other Remote</code>
             </td>
             <td width="200">
-            <text>486 days ago</text>
+            <text>0 days ago</text>
             </td>
             <td width="100" rowspan="2">
-            <a href=https://weworkremotely.com/remote-jobs/iterative-senior-front-end-engineer align="right" target="_blank">Apply</a>
+            <a href=https://weworkremotely.com/listings/coca-cola-ejecutivo-soporte-aplicaciones-frontoffice align="right" target="_blank">Apply</a>
             </td>
         </tr>
         <tr>
             <td colspan="3">
             <details><summary>Description</summary>
-            <img src="https://we-work-remotely.imgix.net/logos/0018/7979/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+            
 
 <p>
-  <strong>Headquarters:</strong> San Francisco
-    <br /><strong>URL:</strong> <a href="http://iterative.ai">http://iterative.ai</a>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1">https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1</a>
 </p>
 
-<div>We’re seeking a TypeScript front-end engineer to build SaaS and a VS Code UI for our popular machine learning tools: DVC (7000+ ⭐on GitHub) and CML (2000+ ⭐ on GitHub).</div><div>
-<br><br>
-</div><div>
-<strong><br>No prior knowledge of ML or Data Science is required.<br></strong><br><br>
-</div><div>
-<br>The ML tools ecosystem is what JS space was 10 years ago: there’s a clear need for better tools, frameworks, and open standards. ITERATIVE is already a well known company in this fast-evolving space with a big, engaged open-source community. Please consider joining our remote-first team if you love open-source, if you’re interested in building dev tools and simplifying the lives of many, many developers in ML.<br><br><br>
-</div><div>
-<em><br>The project</em> - We’re making a UI for DVC and CML. Think GitHub and/or popular Git extensions for VS Code - like GitLens. VS Code UI will be open sourced and will become part of your public profile! If you have experience with dev tools like GitHub, UI plugins for Git, etc., you should already have some sense what the project is like.<br><br><br>
-</div><div>
-<em><br>The tech</em> - Our stack includes TypeScript, Node, React, and Python.<br><br><br>
-</div><div>
-<em><br>The compensation</em> - Highly competitive salary, stock options, and bonuses.</div>
+<p><strong>Responsabilidades</strong></p><p><br></p><p>·       Soportar los Procesos y Servicios Comerciales: SD, Facturación, integración con Aplicativos Móviles</p><p>·       Adoptar nuevos servicios SAP, Aplicaciones Móviles, Distribución Digital.</p><p>·       Operar con los diversos proveedores de Servicio</p><p>·       Soporte de los módulos del área comercial SAP, incluyendo la facturación e integración con servicios digitales; a través de la adopción de planes de mantenimiento, versiones actualizadas de SW, HW ó aplicaciones.</p><p>·       Amplia experiencia en manejo, configuración y administración de datos maestros dentro de los catálogos de SAP.</p><p>·       Trabajar en encontrar la causa-raíz de las fallas</p><p>·       Adoptar estrategias Corporativas: integraciones a la nube (interfaces), manejo de DATALAKE, SAP S4HANA, RPA’s (robot’s), API’s, C4C, Hybris, CRM</p><p>·       Gestionar los contratos de servicio</p><p><br></p><p><strong>Experiencia</strong></p><p> </p><p>·       3 a 5 años en Soporte a Soluciones Comerciales y su integración con diferentes plataformas.</p><p>·       Más de 5 años en Desarrollo de Soluciones al Backoffice y FrontOffice</p><p>·       Mas de 8 años en Soporte a Servicios de T.I.</p><p> </p><p><strong>Conocimientos</strong></p><p><br></p><p>·       Desarrollo de Microservicios</p><p>·       Procesos Comerciales SAP FO,CRM, Hybris</p><p>·       Manejo de estructuras e información: integración con la nube, Datalake, Datafactoring, CPI y C4C</p><p>·       RPA’s (robot’s), API’s</p><p>·       Manejo proveedores de servicio</p><p>·       Lenguajes: SQL, ABAP, Java y Mulesoft</p>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/iterative-senior-front-end-engineer">https://weworkremotely.com/remote-jobs/iterative-senior-front-end-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/coca-cola-ejecutivo-soporte-aplicaciones-frontoffice">https://weworkremotely.com/remote-jobs/coca-cola-ejecutivo-soporte-aplicaciones-frontoffice</a></p>
 
             </details>
             </td>
