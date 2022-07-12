@@ -1,23 +1,16 @@
-<table><thead>
-        <tr>
-          <th>Logo</th>
-          <th>Company Name</th>
-          <th>Tags</th>
-          <th>Added</th>
-          <th>Link</th>
-        </tr>
-      </thead><tr>
+<table><tr>
             <td width="100" height="100" rowspan="2">
                 <img src=undefined>
             </td>
             <td width="300">
+                <h5>undefined</h5>
                 <h3>undefined</h3>
             </td>
             <td width="300">
                 <code>undefined</code>
             </td>
             <td width="200">
-            <text>undefined</text>
+            <text>NaN days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=undefined align="right" target="_blank">Apply</a>
@@ -34,13 +27,15 @@
                 <img src=https://remoteok.com/assets/img/jobs/82053125bafa8978f8310e3b44ad8f951657252804.png>
             </td>
             <td width="300">
-                <h3>Replit</h3>
+                <h5>Replit</h5>
+                <h3>
+					Software Engineer Tech Lead Developer Tools				</h3>
             </td>
             <td width="300">
                 <code>python, lead, health</code>
             </td>
             <td width="200">
-            <text>2022-07-08T10:00:02+00:00</text>
+            <text>3 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111578 align="right" target="_blank">Apply</a>
@@ -57,13 +52,15 @@
                 <img src=https://remoteOK.com/assets/img/jobs/9759825d2dfc43acd1d07fa5e07e09cc1657170195.png>
             </td>
             <td width="300">
-                <h3>__OperateBeyond__TrailerCentral</h3>
+                <h5>__OperateBeyond__TrailerCentral</h5>
+                <h3>
+					HTML CSS Designer Developer				</h3>
             </td>
             <td width="300">
                 <code>css, html, git</code>
             </td>
             <td width="200">
-            <text>2022-07-07T11:03:15+00:00</text>
+            <text>4 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111567 align="right" target="_blank">Apply</a>
@@ -80,13 +77,15 @@
                 <img src=https://remoteOK.com/assets/logo-square.png>
             </td>
             <td width="300">
-                <h3>IOVLabs</h3>
+                <h5>IOVLabs</h5>
+                <h3>
+					Frontend Developer UI Specialist				</h3>
             </td>
             <td width="300">
                 <code>lead, operational, medical</code>
             </td>
             <td width="200">
-            <text>2022-07-07T10:00:06+00:00</text>
+            <text>4 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111566 align="right" target="_blank">Apply</a>
@@ -103,13 +102,15 @@
                 <img src=https://remoteOK.com/assets/img/jobs/a37425f4a67bc83d58cd297cc3adf1b01657059746.png>
             </td>
             <td width="300">
-                <h3>5 Monkeys Agency</h3>
+                <h5>5 Monkeys Agency</h5>
+                <h3>
+					Python & Django Developer				</h3>
             </td>
             <td width="300">
                 <code>django, python, open source</code>
             </td>
             <td width="200">
-            <text>2022-07-06T04:22:26+00:00</text>
+            <text>6 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111544 align="right" target="_blank">Apply</a>
@@ -126,13 +127,15 @@
                 <img src=https://remoteOK.com/assets/logo-square.png>
             </td>
             <td width="300">
-                <h3>Draft2Digital</h3>
+                <h5>Draft2Digital</h5>
+                <h3>
+					Senior Full Stack Developer US BASED APPLICANTS ONLY				</h3>
             </td>
             <td width="300">
                 <code>golang, senior</code>
             </td>
             <td width="200">
-            <text>2022-07-06T01:15:04+00:00</text>
+            <text>6 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111531 align="right" target="_blank">Apply</a>
@@ -149,13 +152,15 @@
                 <img src=https://remoteok.com/assets/img/jobs/345a17cf908fecde7e101fbbe67907681656992111.png>
             </td>
             <td width="300">
-                <h3>Makeship</h3>
+                <h5>Makeship</h5>
+                <h3>
+					Lead Software Developer				</h3>
             </td>
             <td width="300">
                 <code>cloud, senior, go</code>
             </td>
             <td width="200">
-            <text>2022-07-05T09:35:11+00:00</text>
+            <text>6 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111519 align="right" target="_blank">Apply</a>
@@ -172,13 +177,15 @@
                 <img src=https://remoteOK.com/assets/logo-square.png>
             </td>
             <td width="300">
-                <h3>Complero GmbH</h3>
+                <h5>Complero GmbH</h5>
+                <h3>
+					Go Full Stack Developer for fast growing german startup				</h3>
             </td>
             <td width="300">
                 <code>golang, go</code>
             </td>
             <td width="200">
-            <text>2022-07-05T07:15:03+00:00</text>
+            <text>7 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111511 align="right" target="_blank">Apply</a>
@@ -195,13 +202,15 @@
                 <img src=https://remoteOK.com/assets/logo-square.png>
             </td>
             <td width="300">
-                <h3>GRAX</h3>
+                <h5>GRAX</h5>
+                <h3>
+					Senior Golang Full Stack Developer				</h3>
             </td>
             <td width="300">
                 <code>golang, financial, security</code>
             </td>
             <td width="200">
-            <text>2022-07-05T07:15:03+00:00</text>
+            <text>7 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111510 align="right" target="_blank">Apply</a>
@@ -218,13 +227,15 @@
                 <img src=https://remoteOK.com/assets/img/jobs/8c3448beb6cb3b7ff786de690cc7a5ed1656831936.png>
             </td>
             <td width="300">
-                <h3>ithought</h3>
+                <h5>ithought</h5>
+                <h3>
+					Business Developer				</h3>
             </td>
             <td width="300">
                 <code>sales, biz dev, marketing</code>
             </td>
             <td width="200">
-            <text>2022-07-03T12:18:53+00:00</text>
+            <text>8 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111492 align="right" target="_blank">Apply</a>
@@ -241,13 +252,15 @@
                 <img src=https://remoteOK.com/assets/logo-square.png>
             </td>
             <td width="300">
-                <h3>Draft2Digital</h3>
+                <h5>Draft2Digital</h5>
+                <h3>
+					Senior Full Stack Developer				</h3>
             </td>
             <td width="300">
                 <code>golang, senior</code>
             </td>
             <td width="200">
-            <text>2022-06-30T07:15:04+00:00</text>
+            <text>12 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111468 align="right" target="_blank">Apply</a>
@@ -264,13 +277,15 @@
                 <img src=https://remoteOK.com/assets/img/jobs/aa25f0eaacbec6aa1d0d52b7f1b6d2321656516693.png>
             </td>
             <td width="300">
-                <h3>Elisangela</h3>
+                <h5>Elisangela</h5>
+                <h3>
+					JavaScript Developer				</h3>
             </td>
             <td width="300">
                 <code>javascript</code>
             </td>
             <td width="200">
-            <text>2022-06-29T21:31:33+00:00</text>
+            <text>12 days ago</text>
             </td>
             <td width="100" rowspan="2">
             <a href=https://remoteOK.com/jobs/111464 align="right" target="_blank">Apply</a>
@@ -280,29 +295,6 @@
             <td colspan="3">
             <details><summary>Description</summary>
             <p><br /></p>
-            </details>
-            </td>
-        </tr>,<tr>
-            <td width="100" height="100" rowspan="2">
-                <img src=https://remoteOK.com/assets/img/jobs/78cbd0e3fcafd04aa7b753c8e22dba591656421279.png>
-            </td>
-            <td width="300">
-                <h3>Whimsical</h3>
-            </td>
-            <td width="300">
-                <code>dev, clojurescript, javascript</code>
-            </td>
-            <td width="200">
-            <text>2022-06-28T19:01:19+00:00</text>
-            </td>
-            <td width="100" rowspan="2">
-            <a href=https://remoteOK.com/jobs/111446 align="right" target="_blank">Apply</a>
-            </td>
-        </tr>
-        <tr>
-            <td colspan="3">
-            <details><summary>Description</summary>
-            <div class="styles--2BkR3"><div><p><a class="external" href="https://whimsical.com/">Whimsical</a>Â is an end-to-end SaaS platform for shaping ideas. Our software enables thousands of customersâfrom individuals to Fortune 500âto think and collaborate in the new era of distributed work.</p><p>Weâre now looking forÂ <strong>Senior Front-end Product Developers</strong>Â to help move that vision forward with primarily inÂ <strong>ClojureScript</strong>!</p><h3>Day-to-day work</h3><p>At Whimsical you can expect your day-to-day to include:</p><ul><li><strong>Scoping, understanding, and implementing features:</strong>Â Your primary task would be to work with other teammates to figure out the bestÂ <a class="external" href="https://basecamp.com/shapeup/3.1-chapter-09">way to take a Shape Up pitch from idea to deployment within the cycle</a>.</li><li><strong>Support our customers:</strong>Â We have awesome customers, and supporting them often includes getting some help from the person that implemented the particular feature a customer is having issues with.</li><li><strong>Support the team:</strong>Â Review pull requests, refactor code, help with both technical and non-technical issues and in general help each of us end the day better than when we woke up.</li><li><strong>Potentially taking on-call duties in your time zone:</strong>Â We try to take advantage of the fact that we're a small, geographically distributed team by delegating the first-responder duties to the people who are awake at that particular moment.</li></ul><p>Our front-end stack is Cljs, Reframe, Reagent, among others.</p><p>Our back-end stack is Clojure, Postgres, Redis, ECS, and is AWS based.</p><h3>Indicators that this could be a good role for you<br /></h3><ul><li>You feel that our philosophy resonates with you and you can see it guiding your decisions while at Whimsical.</li><li>You have 5+ years of front-end development experience.</li><li>You feel excited about building tools that help others seamlessly collaborate and think together.</li><li>You have experienceÂ <a class="external" href="https://whimsical.com/blog/how-we-built-whimsical">building complex interactive web applications.</a></li><li>You have used ClojureScript in a production environment before, and feel comfortable using Clojure and functional programming in general to solve non-trivial problems</li><li>You have solid knowledge of modern JavaScript and React (Bonus: Reagent/re-frame).</li><li>You love chewing on the occasional geometry puzzle or have prior background in graphics programming.</li><li>You have experience in measuring, analyzing, and fixing performance problems.</li><li>You're able to work autonomously and stay self-motivated. (Bonus: previous experience working on remote team).</li><li>You are fluent in English.</li></ul></div></div><div class="styles--2kg4_"></div><div class="styles--21mG1"><h4>Benefits</h4><div><ul><li><strong>100% Remote:Â </strong>Our team is spread across North America, Europe and Oceania, and weâve got you covered if you prefer to work from a coworking space.</li><li><strong>Salary:Â </strong>Annual salary at $147â000 - $184'000, based on experience</li><li><strong>Equity</strong>: Depending on experience</li><li><strong>Vacation</strong>: 6 weeks of paid time off each year</li><li><strong>Parental Leave</strong>: 4 weeks paid by company</li><li><strong>Equipment:Â </strong>We provide all the tech you need to work successfully</li><li><strong>Summits</strong>: We try to bring everyone together at least twice a year</li><li><strong>Pension*:</strong>Â 401k with 6% company matching</li><li><strong>Health Insurance</strong>*: Paid by company for you and dependents</li></ul><p><em>* Availability may depend on your location and our current administrative capabilities there.</em></p><h3>How we work</h3><p>We use an adapted version ofÂ <a class="external" href="https://basecamp.com/shapeup">Basecamp's Shape Up</a>Â approach, which for us means:</p><ul><li>We work in cycles of 5 weeks of focused work and 1 week of cool down.</li><li>Each cycle sees one or more "bets" shipped, each having very specific and well defined requirements in addition to engineering sustainability work, and bugs.</li><li>During cool down, each of us choose what we want to work on, be it bugs, minor features, tech debt, exploring new concepts, and more.</li><li>Each of us can create an "idea pitch" for an upcoming cycle, and move our ideas along to eventually transform into bets and product features.</li></ul><p>As a front-end product developer at Whimsical you will be helping to shape both the visual presentation and user experience at Whimsical by working on our collaboration tools using Canvas, improving our custom text-editor and contributing to other user facing features. Youâll be responsible for continually delighting our users with best-in-class thinking tools.</p><p>In addition to Shape Up, we also occasionally roll up our sleeves and do customer support to better understand our users and their needs, regardless of our role within the company.</p><p>Our primary mode of operation is asynchronous. We use real-time communication with great care, and only where it makes sense. We use Whimsical, email, Slack, and Zoom for our day-to-day communication.</p><p>But we also believe in spending quality time together, which is why we try to bring everyone from around the world together at least twice a year for what we call "Whimsical Summits". At Summits we focus on getting to know each other better and building bonds that help us communicate better when we're apart.</p><h3>About Whimsical</h3><p>Whimsical was founded in 2017 by Kaspars Dancis and Steve Schoeffel to help people think and collaborate in the digital-first work environment.</p><p>Whimsical's product is expressive, fast, and delightful. We believe that software should spark joy, not dread.</p><p>We are a remote-first company and big proponents of remote work because it democratizes the opportunities for people everywhere.</p><p>Our operating philosophy is based on set of core principles, such as:</p><ul><li><strong>Sustainability:</strong>Â We don't believe in growth at all costs. Growth is a fundamental part of a healthy existence but we want it to be in balance with sustainability and bounded by ethical behavior. We strive to work calm, 40-hour work weeks. Whimsical is also committed to doing our part towardsÂ <a class="external" href="https://whimsical.com/blog/on-the-path-to-sustainability">sustainable future for the planet</a>.</li><li><strong>Craftsmanship:</strong>Â We care deeply about our work. We are specialists, eager learners, and persistent in our pursuit of quality work. We're patient and committed because building great things takes time.</li><li><strong>Long-term focus:</strong>Â We're building Whimsical for the long-haul, not a quick exit. We avoid shortcuts and consider every key decision from a 10+ year perspective.</li><li><strong>Partnership Mindset:</strong>Â Weâve built the company around the idea that everybody who joins us should feel like they are partners in the business. Time is precious and we want Whimsical to be the place where people invest their time rather than sell it. Our equity offers are 100% transparent and above market average. We also pay everyone at the same level the same salary, no matter where they live.</li></ul></div></div>
             </details>
             </td>
         </tr></table>
