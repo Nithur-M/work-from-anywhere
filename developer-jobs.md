@@ -1,4 +1,4 @@
-<div align="center"><h2>DEVELOPER JOBS.</h2></div><table><tr>
+<div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
             <td width="100" height="100" rowspan="2">
                 <img src=https://remoteok.com/assets/img/jobs/82053125bafa8978f8310e3b44ad8f951657252804.png>
             </td>
