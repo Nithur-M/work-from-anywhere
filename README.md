@@ -15,7 +15,6 @@
 
 - <a href="/backend-jobs.md">Backend Jobs</a>
 - <a href="/developer-jobs.md">Developer Jobs</a>
-- <a href="/backend-jobs.md">Backend Jobs</a>
 - <a href="/devops-jobs.md">DevOps Jobs</a>
 - <a href="/frontend-jobs.md">Frontend Jobs</a>
 - <a href="/fullstack-jobs.md">Fullstack Jobs</a>
