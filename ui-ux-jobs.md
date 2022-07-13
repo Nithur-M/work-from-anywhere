@@ -148,7 +148,7 @@
                     <h3>Senior Independent UX/UI Designer</h3>
                 </td>
                 <td width="300">
-                    <code>contract,go,ui,ux,wordpress,hr,growth,strategy,product,UX/UI,recruiting,people,websites,chat,IT,apple,testing,production,catalyst,software</code>
+                    <code>wordpress,hr,growth,strategy,product,UX/UI,recruiting,people,websites,chat,IT,apple,testing,production,catalyst,software</code>
                 </td>
                 <td width="200">
                 <text>3 days ago</text>
