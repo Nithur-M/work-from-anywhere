@@ -1,6 +1,6 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=undefined>
+                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/4921/logo.gif>
                 </td>
                 <td width="300">
                     <h5>Rainforest QA</h5>
