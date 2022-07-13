@@ -21,6 +21,7 @@
 - <a href="/quality-assurance-jobs.md">Quality Assurance Jobs</a>
 - <a href="/site-reliability-engineer-jobs.md">Site Reliability Engineer Jobs</a>
 - <a href="/software-engineer-jobs.md">Software Engineer Jobs</a>
+- <a href="/ui-ux-jobs.md">UI/UX Designer Jobs</a>
 
 Can't find what you are looking for? <a href="https://github.com/nithur-m/work-from-anywhere/issues/new/choose">please let me know.</a>
 
