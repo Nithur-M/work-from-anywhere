@@ -276,7 +276,7 @@
                     <h3>Senior Go Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>python,video,blockchain,management,design,programming,agile,jira,rust,product,languages,healthcare,knowledge,Ethereum,rest,web,English,business,infrastructure,hiring,people,development,IT,writing,erlang,coding,e-sports,problem-solving,microservices,architecture ,programs,server,software</code>
+                    <code>backend,developer,git,go</code>
                 </td>
                 <td width="200">
                 <text>6 days ago</text>
@@ -381,7 +381,7 @@
                     <h3>Senior Software Engineer  - DevTools, Open Source, Python</h3>
                 </td>
                 <td width="300">
-                    <code>programming,databases,research,community,languages,PR,knowledge,data,culture,kernel,learning,coding,github,communication,software</code>
+                    <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
                 <text>7 days ago</text>
