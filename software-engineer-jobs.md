@@ -267,4 +267,177 @@
 
                 </details>
                 </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src=https://remotive.com/job/1305612/logo>
+                </td>
+                <td width="300">
+                    <h5>Merkle Root, Inc</h5>
+                    <h3>Senior Go Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>backend,developer,git,go,python,video,blockchain,management,design,programming,agile,jira,rust,product,languages,healthcare,knowledge,Ethereum,rest,web,English,business,infrastructure,hiring,people,development,IT,writing,erlang,coding,e-sports,problem-solving,microservices,architecture ,programs,server,software</code>
+                </td>
+                <td width="200">
+                <text>6 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href=https://remotive.com/remote-jobs/software-dev/senior-go-software-engineer-1305612 align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>About MerkleRoot</strong></p>
+<p>We are a decentralized team working on decentralized projects. All our positions are fully remote, but we do tend to have meetings around the business hours of pacific standard time. We provide our unique talents to all sorts of blockchain, defi, and more traditional projects. We are a team focused company that values work-life balance.</p>
+<p><strong> </strong></p>
+<p><strong>Job Description</strong></p>
+<p>We are looking for a great Go developer who possesses a strong understanding of how best to leverage and exploit the language’s unique paradigms, idioms, and syntax. Your primary focus will be on developing Go packages and programs that are scalable and maintainable. You will ensure that these Go packages and programs are well documented and have reasonable test coverage. You will coordinate with the rest of the team working on different layers of the infrastructure. A commitment to collaborative problem-solving, sophisticated design, and quality product is essential.</p>
+<p>In the interest of full transparency: we have a strong commitment from our customer that this Go project will continue for 2 years, but beyond that it is possible that we could need to shift you to another project using another technology. This is the nature of our business, being driven by client needs. We have worked in Rust, Go, Erlang, Python – we find that an awesome developer in one language is usually awesome in the other languages given some time, but we fully understand that some people want to stick to one technology and really grind that skill tree.</p>
+<p><strong> </strong></p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>Writing scalable, robust, testable, efficient, and easily maintainable code</li>
+<li>Translating software requirements into stable, working, high performance software</li>
+<li>Playing a key role in architectural and design decisions, building toward efficient microservices distributed architecture</li>
+</ul>
+<p><strong> </strong></p>
+<p><strong>Skills</strong></p>
+<ul>
+<li>Strong knowledge of Go programming language, paradigms, constructs, and idioms</li>
+<li>Knowledge of common Goroutine and channel patterns</li>
+<li>Experience with the full site of Go frameworks and tools, including:
+<ul>
+<li>Dependency management tools such as Godep, etc.</li>
+<li>Go’s templating language</li>
+<li>Go’s code generation tools, such as Stringer</li>
+<li>Popular Go web frameworks, such as Revel</li>
+<li>Router packages, such as Gorilla Mux</li>
+</ul>
+</li>
+<li>Ability to write clean and effective Godoc comments</li>
+<li>Familiarity with code versioning tools such as Git</li>
+</ul>
+<p><strong> </strong></p>
+<p><strong>Soft Requirements</strong></p>
+<ul>
+<li>5+ years backend server development experience in any language
+<ul>
+<li>This is for a mid-senior level position, if you have way more experience, we are also looking for high-senior also</li>
+</ul>
+</li>
+<li>1+ years backend server development experience in Go</li>
+<li>Experience working with Jira and Agile development</li>
+<li>High level of written and spoken English fluency
+<ul>
+<li>You should be able to have a technical conversation with a colleague in English without struggle</li>
+</ul>
+</li>
+<li>A stable home internet connection where you can engage in video calls on a daily basis</li>
+</ul>
+<p><strong> </strong></p>
+<p><strong>Bonus Skills</strong></p>
+<ul>
+<li>Familiarity with blockchain concepts
+<ul>
+<li>If you don’t have this, we will teach you!</li>
+</ul>
+</li>
+<li>Experience working with financial institutions</li>
+<li>Enjoy playing Overwatch(2) or Halo, so you can join our e-sports team ;)</li>
+</ul>
+<p><strong> </strong></p>
+<p><strong>Pay / Benefits</strong></p>
+<ul>
+<li>$85,000 to $185,000 USD/yr based on skills and experience
+<ul>
+<li>Can be paid via direct deposit or via USDC on Ethereum</li>
+</ul>
+</li>
+<li>Stock options plan (we are a private company, so this is not liquid)</li>
+<li>If you are in the USA: healthcare, dental, vision, 401k</li>
+<li>Unlimited time off policy (we really do make team members take time off)</li>
+<li>Flexible working hours</li>
+<li>Company workstation + $2,000 USD workstation up-fit </li>
+</ul>
+<p><strong> </strong></p>
+<p><strong>Hiring Process</strong></p>
+<ul>
+<li>Submit a resume to us for review</li>
+<li>We will reach out to schedule an initial interview, mainly to get to know you better</li>
+<li>We will follow up to schedule a coding test (these take about one hour)</li>
+<li>We will reach back out to schedule a final interview to go over the result and possibly make you an offer</li>
+<li>You start working with us!</li>
+</ul>
+<img src="https://remotive.com/job/track/1305612/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src=https://remotive.com/job/1187416/logo>
+                </td>
+                <td width="300">
+                    <h5>Iterative</h5>
+                    <h3>Senior Software Engineer  - DevTools, Open Source, Python</h3>
+                </td>
+                <td width="300">
+                    <code>data science,machine learning,python,open source,programming,databases,research,community,languages,PR,knowledge,data,culture,kernel,learning,coding,github,communication,software</code>
+                </td>
+                <td width="200">
+                <text>7 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href=https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416 align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Job Description</strong></p>
+<p>Strong Python knowledge and excellent coding culture (standards, unit test, etc) are required. Alternatively, strong skill in other languages along with some knowledge of Python is also acceptable.</p>
+<p><br><br></p>
+<div class="h3">Responsibilities</div>
+<ul>
+<li>Discuss and research issues, features, new products.</li>
+</ul>
+<ul>
+<li>Write code (see some <a class="postings-link" href="https://github.com/iterative/dvc/pulls?q=is%3Apr+is%3Aclosed" rel="nofollow"><strong>PR examples</strong></a>).</li>
+</ul>
+<ul>
+<li>Write docs if needed for your code (see this <a class="postings-link" href="https://github.com/iterative/dvc.org" rel="nofollow"><strong>repo</strong></a>).</li>
+</ul>
+<ul>
+<li>Being actively involved with the community - talk to users on Github, Discord, forum.</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Must have</div>
+<ul>
+<li>Motivation and interest</li>
+</ul>
+<ul>
+<li>Remote work self-discipline</li>
+</ul>
+<ul>
+<li>Excellent communication skills - clear, constructive, and respectful dialog with other team members, community.</li>
+</ul>
+<ul>
+<li>Can focus and deliver a task w/o constantly switching to other stuff - respect team's planning, deadlines, etc</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Great to have</div>
+<ul>
+<li>Experience working remotely</li>
+</ul>
+<ul>
+<li>Open source contributions or experience of maintaining, developing an open source project</li>
+</ul>
+<ul>
+<li>System programming experience - kernel, databases, etc.</li>
+</ul>
+<ul>
+<li>Machine learning or data science experience</li>
+</ul>
+<img src="https://remotive.com/job/track/1187416/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
             </tr></table>
