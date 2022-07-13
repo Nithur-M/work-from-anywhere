@@ -7,7 +7,7 @@
                     <h3>Full Stack Engineer - Customer Solutions Team</h3>
                 </td>
                 <td width="300">
-                    <code>developer,javascript,rails,ruby,customer success,product,people,plugins,communication</code>
+                    <code>customer success,product,people,plugins,communication</code>
                 </td>
                 <td width="200">
                 <text>8 days ago</text>
