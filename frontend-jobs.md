@@ -75,7 +75,7 @@
                     <h3>Senior Software Engineer - Front-end, Typescript</h3>
                 </td>
                 <td width="300">
-                    <code>react,saas,ui,open source,Engineering,community,knowledge,Typescript ,JS,front,node,culture,domain,startup,learning,plugins,github,communication,software</code>
+                    <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
                 <text>7 days ago</text>
@@ -137,7 +137,7 @@
                     <h3>Frontend Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>kubernetes,react,elixir,Engineering,product,knowledge,postgres,Typescript ,Redis,infrastructure,asana,phoenix,google cloud,people,learning,organization,apollo,insurance</code>
+                    <code>cloud,docker,frontend,graphql</code>
                 </td>
                 <td width="200">
                 <text>9 days ago</text>
@@ -162,7 +162,7 @@
                     <h3>Frontend Engineer </h3>
                 </td>
                 <td width="300">
-                    <code>git,mobile,react,redux,security,ui,management,product,knowledge,mentoring,ES6,business,front,angular ,hiring,websites,responsive,k8s,NodeJS,SCSS,communication,architecture ,Webpack</code>
+                    <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
                 <text>12 days ago</text>
@@ -221,7 +221,7 @@
                     <h3>Senior Front-End Engineer (JS/Graphics/3D)</h3>
                 </td>
                 <td width="300">
-                    <code>programming,content,languages,JS,creative,web,front,development,NodeJS,graphics</code>
+                    <code>frontend,javascript,ui,design</code>
                 </td>
                 <td width="200">
                 <text>12 days ago</text>
@@ -266,7 +266,7 @@
                     <h3>Frontend Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>graphql,html,javascript,python,react,ux,growth,management,design,automation,research,documentation,product,languages,healthcare,mentoring,Typescript ,cypress,hiring,people,culture,IT,implementation,ux research,learning,law,apple,coding,organization,networks,computer science,typing,communication,support,diversity,billing,architecture ,shell,jest,server,software</code>
+                    <code>CSS,customer support,frontend,go</code>
                 </td>
                 <td width="200">
                 <text>12 days ago</text>
@@ -386,7 +386,7 @@
                     <h3>⚡️ Front-End Engineer | Chrome Extensions</h3>
                 </td>
                 <td width="300">
-                    <code>growth,agile,product,electron,knowledge,Typescript ,creative,software development,business,front,people,culture,development,writing,NodeJS,communication,software</code>
+                    <code>developer,react,ui,video</code>
                 </td>
                 <td width="200">
                 <text>28 days ago</text>
