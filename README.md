@@ -29,5 +29,6 @@ Can't find what you are looking for? <a href="https://github.com/nithur-m/work-f
 
 - <p>RemoteOK</p>
 - <p>WeWorkRemotely</p>
+- <p>Remotive</p>
 
 If you know a good quality job feed <a href="https://github.com/nithur-m/work-from-anywhere/issues/new/choose">please let me know.</a>
