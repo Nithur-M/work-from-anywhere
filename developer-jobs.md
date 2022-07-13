@@ -780,7 +780,7 @@
                     <h3>Senior Independent Software Developer</h3>
                 </td>
                 <td width="300">
-                    <code>contract,developer,go,wordpress,hr,growth,strategy,product,recruiting,people,websites,chat,IT,apple,testing,production,catalyst,software</code>
+                    <code>hr,growth,strategy,product,recruiting,people,websites,chat,IT,apple,testing,production,catalyst,software</code>
                 </td>
                 <td width="200">
                 <text>13 days ago</text>
@@ -857,7 +857,7 @@
                     <h3>Senior Front End Developer</h3>
                 </td>
                 <td width="300">
-                    <code>developer,growth,management,design,project management,community,knowledge,coaching,English,software development,front,React.js,SOLID,front end,development,system architecture,architecture ,programs,software,training</code>
+                    <code>project management,community,knowledge,coaching,English,software development,front,React.js,SOLID,front end,development,system architecture,architecture ,programs,software,training</code>
                 </td>
                 <td width="200">
                 <text>25 days ago</text>
@@ -882,7 +882,7 @@
                     <h3>Senior Full Stack Developer</h3>
                 </td>
                 <td width="300">
-                    <code>developer,go,node.js,rails,ruby,growth,management,design,project management,Ruby on Rails,community,knowledge,coaching,English,software development,React.js,SOLID,development,ruby on,system architecture,architecture ,programs,software,training</code>
+                    <code>ruby,growth,management,design,project management,Ruby on Rails,community,knowledge,coaching,English,software development,React.js,SOLID,development,ruby on,system architecture,architecture ,programs,software,training</code>
                 </td>
                 <td width="200">
                 <text>25 days ago</text>
@@ -928,7 +928,7 @@
                     <h3>Senior JavaScript Developer</h3>
                 </td>
                 <td width="300">
-                    <code>developer,javascript,growth,management,design,project management,community,knowledge,coaching,English,system architecture,architecture ,programs,software,training</code>
+                    <code>design,project management,community,knowledge,coaching,English,system architecture,architecture ,programs,software,training</code>
                 </td>
                 <td width="200">
                 <text>29 days ago</text>
@@ -953,7 +953,7 @@
                     <h3>Senior React Native Developer</h3>
                 </td>
                 <td width="300">
-                    <code>developer,react,growth,management,design,project management,react native,community,knowledge,coaching,English,system architecture,architecture ,programs,software,training</code>
+                    <code>design,project management,react native,community,knowledge,coaching,English,system architecture,architecture ,programs,software,training</code>
                 </td>
                 <td width="200">
                 <text>29 days ago</text>
@@ -978,7 +978,7 @@
                     <h3>Senior Back End Developer</h3>
                 </td>
                 <td width="300">
-                    <code>developer,node.js,rails,ruby,growth,management,design,project management,Ruby on Rails,community,knowledge,coaching,English,SOLID,development,ruby on,system architecture,architecture ,programs,software,training</code>
+                    <code>growth,management,design,project management,Ruby on Rails,community,knowledge,coaching,English,SOLID,development,ruby on,system architecture,architecture ,programs,software,training</code>
                 </td>
                 <td width="200">
                 <text>29 days ago</text>
@@ -1003,7 +1003,7 @@
                     <h3>Senior Blockchain Developer</h3>
                 </td>
                 <td width="300">
-                    <code>developer,blockchain,growth,management,design,project management,community,knowledge,coaching,English,system architecture,architecture ,programs,software,training</code>
+                    <code>design,project management,community,knowledge,coaching,English,system architecture,architecture ,programs,software,training</code>
                 </td>
                 <td width="200">
                 <text>29 days ago</text>
@@ -1028,7 +1028,7 @@
                     <h3>Senior React Developer</h3>
                 </td>
                 <td width="300">
-                    <code>developer,react,growth,management,design,project management,community,knowledge,coaching,English,React.js,system architecture,architecture ,programs,software,training</code>
+                    <code>design,project management,community,knowledge,coaching,English,React.js,system architecture,architecture ,programs,software,training</code>
                 </td>
                 <td width="200">
                 <text>29 days ago</text>
