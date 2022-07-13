@@ -100,6 +100,93 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0074/2835/logo.gif>
+                </td>
+                <td width="300">
+                    <h5>Kapsys</h5>
+                    <h3> Back-End Developer (Node.js)</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href=https://weworkremotely.com/remote-jobs/kapsys-back-end-developer-node-js-1 align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/2835/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Singapore
+    <br /><strong>URL:</strong> <a href="https://kapsys.ch">https://kapsys.ch</a>
+</p>
+
+<div>Looking to work in a <strong>fully remote powerhouse</strong> that will jumpstart your IT career?? </div><div><br></div><div>If you are a talented Back-End Developer, with experience with <strong>node.js</strong> and used to working with <strong>agile methodologies</strong>, we are looking for you! </div><div> </div><div>Our main mission is to speed up the IT-sphere by making next-generation, omnichannel platforms.</div><div><br></div><div>We challenge assumptions and speak up when we believe that a client may be making a mistake. Good business practices and <strong>purpose-built teams</strong> ensure optimal outcomes for our clients.</div><div><br></div><div>Our continuous devotion to developing internal knowledge and <strong>collaborative processes</strong> allows us to solve problems that other people can’t. </div><div><br></div><div>Want to join our Kapsys Team? Keep Reading!</div><div><br></div><div><strong>You Have:</strong></div><div><br></div><ul>
+<li>3+ years of hands-on experience in backend development</li>
+<li>2+ years of experience in developing using Node.js</li>
+<li>Experience with Kubernetes, AWS</li>
+<li>Experience with REST API’s</li>
+<li>Experience with NoSQL databases (e.g. MongoDB)</li>
+<li>Experience with Git</li>
+<li>Upper-Intermediate English, both written and spoken</li>
+<li>Positive mindset and details oriented approach</li>
+</ul><div><strong><br>Extra Awesome:</strong></div><ul>
+<li>Bachelor’s degree in Computer Science or similar</li>
+<li>Experience with CI/CD pipelines</li>
+<li>Knowledge of TypeScript</li>
+<li>Knowledge of commands in Linux</li>
+<li>Experience with Docker</li>
+<li>Experience with Redis</li>
+<li>Experience with ElasticSearch</li>
+<li>Experience with GraphQL (apollo-server)</li>
+<li>Experience with unit and integration tests</li>
+</ul><div>
+<br><br>
+</div><div><strong>You will - improve the world:</strong></div><ul>
+<li>Analyze and estimate implementation efforts</li>
+<li>Develop of new features</li>
+<li>Maintain the existing functionality</li>
+<li>Participate in software, and architecture design meetings</li>
+</ul><div>
+<br><br>
+</div><div><strong>Your project technologies will be:</strong></div><div><br></div><ul>
+<li>Backend: Node.js, Typescript</li>
+<li>Client-side: Angular</li>
+<li>Cloud provider: AWS</li>
+<li>CI/CD: GitHub actions</li>
+<li>Infrastructure management: Kubernetes / AWS ECS</li>
+<li>Architecture: Microservice architecture, REST API</li>
+</ul><div><br></div><div> </div><div>
+<strong>We offer - more than just a job</strong>:</div><ul>
+<li>100% remote work with ability to work from anywhere</li>
+<li>Broad and advanced technology stack, huge opportunities to grow, learn and advance your skills.</li>
+<li>Great team communication and amazing cross-cultural team: you will collaborate with team mates from all around the world and get to know new cultures.</li>
+<li>Flexible schedule: work/life balance</li>
+<li>19 Paid Time Off days (PTO)</li>
+<li>Elevation plan available after first year</li>
+<li>Company perks and recognition plan</li>
+<li>Competitive compensation depending on experience and skills</li>
+<li>Open-minded management, no bureaucracy, flat hierarchy</li>
+<li>Support in certifications</li>
+</ul><div><br></div><div><strong>Interview stages-step by step:</strong></div><ul>
+<li>1st stage HR Interview</li>
+<li>2nd stage Team Lead Technical Interview</li>
+<li>3rd stage Final interview with CEO</li>
+</ul><div>
+<br><strong>Want to speed up the IT-sphere with us? Then join our ride and apply now!</strong>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/kapsys-back-end-developer-node-js-1">https://weworkremotely.com/remote-jobs/kapsys-back-end-developer-node-js-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/4925/logo.gif>
                 </td>
                 <td width="300">
@@ -149,7 +236,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://weworkremotely.com/remote-jobs/much-gmbh-remote-odoo-developer-m-f-d-3 align="right" target="_blank">Apply</a>
