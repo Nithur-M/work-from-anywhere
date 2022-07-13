@@ -1,5 +1,30 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src=https://remoteok.com/assets/img/jobs/93c0b2ecdcf0e65c1ccfa2a10b4f4a861657602005.png>
+                </td>
+                <td width="300">
+                    <h5>Zipari</h5>
+                    <h3>
+					Sr Python Developer				</h3>
+                </td>
+                <td width="300">
+                    <code>python, senior, operational</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href=https://remoteOK.com/jobs/111615 align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Are you looking for an opportunity to make an impact in the Healthcare industry? Are you competitive and self-motivated? Zipari is seeking a highly motivated Senior Python Developer to join our one of a kind Engineering team.Â  You will get to work on cutting edge technologies that support healthcare consumers when shopping for healthcare coverage, by offeringÂ  where to go for top quality and cost effective care, and communicate with their physicians and care providers to achieve their best health.Â Â Â This position reports directly to our Sr. Director, Technology (an incredible human being!) and allows you the flexibility to work from your home office!Â Why Join Us:Â Professional Development: If you want to learn and grow, Zipari is the place for you! We have a formal professional development program and guides to help you develop your skills and advance your career.Â Entrepreneurial Culture: Â You will be working with serial entrepreneurs that value innovative market approaches and strong critical thinking abilities.Work/Life: I know. Every organization says they have a great work/life culture BUT . . . Our clients pay us for results (not work hours), we provide complete autonomy to deliver results that seamlessly fit into your lifestyle.â¯â¯â¯â¯Youâre Making a Difference: Youâll spend your days building relationships with professionals in leading healthcare organizations across the country â providing them with solutions that impact the health, safety, and well-being of their patients and the quality of the care that they provide.Â Â Â About Us: Zipari is a modern consumer experience solution focused exclusively on transforming the digital health insurance experience from end-to-end. Zipariâs Customer Experience Platform modernizes digital engagement for every consumer and market segment, delivering value by growing revenue, boosting engagement, capitalizing on operational efficiencies, and improving member outcomes. With unsurpassed technology, Zipariâs products provide real-time insights at every touchpoint, delivering breakthrough consumer experiences.Â  Zipari now serves more than 40 million members via their payer customers and is backed by Thoma Bravo, the leading private equity firm, with a 40+ year history, focused on investments in software and technology companies. For more information about Zipari, please visitwww.zipari.com.Â Zipari is committed to a diverse workplace and equal opportunity. We do not discriminate on the basis of race, color, religion, gender, disability, national origin, sexual orientation, age, marital status, disability, gender identity, Veteran status, or other legally protected status. We understand that the products we build and the work that we do is better and greater when it is inclusive of varied experiences, skills, and perspectives. We encourage everyone whose experience is close to what we are looking for to apply and allow our team to get to know you.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src=https://remoteOK.com/assets/img/jobs/9759825d2dfc43acd1d07fa5e07e09cc1657170195.png>
                 </td>
                 <td width="300">
@@ -61,7 +86,7 @@
                     <code>javascript</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remoteOK.com/jobs/111464 align="right" target="_blank">Apply</a>
@@ -71,6 +96,45 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p><br /></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src=undefined>
+                </td>
+                <td width="300">
+                    <h5>Pixel Union</h5>
+                    <h3> Back End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href=https://weworkremotely.com/listings/pixel-union-back-end-developer-1 align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/4925/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Canada
+    <br /><strong>URL:</strong> <a href="https://www.pixelunion.net/">https://www.pixelunion.net/</a>
+</p>
+
+<p>We are Knit Agency, formally known as Pixel Union Agency. We are a creative team dedicated to building innovative solutions that delight our clients. Our services are focused on taking a holistic approach to each project. We go in-depth in the discovery process, and tailor our work to each individual project. No two clients are the same, and that's what we love about being a part of the Knit team.</p>
+<p><strong>Requirements</strong></p>
+<p>We're looking for an experienced Back End Developer to join our growing Knit Agency team, providing custom services for a diverse array of clients and working across many platforms, disciplines, and approaches. If you're excited about functional programming we'd love to hear from you!</p> <p>Our developers are responsible for delivering custom apps and system integrations with Shopify. Our back end developers work in Elixir, encouraging consistent and readable code. We look for developers who enjoy peer-review and who can clearly explain their technical choices. </p> <p>As a Knit Agency Back End Developer, you'll...</p> <ul> <li>Support in the architecture, development, and delivery of custom software solutions that meet business requirements for ecommerce merchants</li> <li>Work primarily with Elixir and Node.js on a daily basis</li> <li>Contribute tested, maintainable code to shared libraries</li> <li>Create tools and processes to help in the day-to-day aspects of development</li> <li>Work with Shopify, supporting data migrations to the platform primarily via Shopify's API</li> <li>Work on integrating solutions across the following type of systems: POS, ERP, 3PL, WMS, Shipping, Carrier, CRM, Order &amp; Inventory Management, Order Scheduling, Payment Gateway, Recurring Billing, and Omni-Channel.</li> <li>Collaborate with, or mentor other team members in order to deliver high-quality solutions for our clients while growing professionally.</li> </ul> <p>You'll bring the following skills and experience...</p> <ul> <li>Enjoy back-end work and want to build robust, scalable system integrations and solve technical challenges with the delivery of these services</li> <li>Have worked with Elixir, Ruby, Node.js, or similar languages</li> <li>Can touch front-end HTML and CSS if necessary</li> <li>Have built or interacted with GraphQL, REST, or SOAP APIs</li> <li>Are familiar with modern, distributed cloud-based service development and deployment pipelines</li> <li>Focus on growing their communication skills to build positive and productive working relationships with other agency team members (both technical and non-technical).</li> <li>Take ownership of their work to deliver it on schedule and raise blockers proactively when timelines may slip.</li> </ul>
+<p><strong>Benefits</strong></p>
+<p>We are a company built on creativity, teamwork and employee well-being. We work hard, push our limits, and enjoy ourselves around fun, good people on challenging and rewarding tasks. </p> <ul> <li>Competitive base salary</li> <li>100% company paid Health &amp; Dental coverage</li> <li>Up to 4% matching for RRSP or 401K contributions</li> <li>Company-sponsored wellness allowance</li> <li>Up to 90% paid parental leave top-up (up to 17 weeks)</li> <li>End of year paid time off (in addition to generous vacation time)</li> <li>Learning development budget</li> <li>Monthly remote allowance</li> <li>Paid volunteering time</li> <li>Flexible work schedule and remote-friendly culture and systems</li> </ul>
+<p>*Benefits may vary slightly based on country.</p> <p>We encourage you to apply!</p> <p>We are a remote-first work environment and leverage our online resources to collaborate and connect. As long as you have a strong internet connection, we'll ensure you've got the equipment and resources you need to flourish on our dynamic team! We bring passion and energy to our work, and believe that work should be rewarding, interesting, and come at a sustainable pace. </p> <p>Please note that due to the nature of client-facing work in an Agency setting, we will be filling this position within the Americas (maximum four hour time difference from Pacific Time). We look forward to hearing from you!</p> <p><em>Knit is a respectful, caring, and inclusive workplace. We are committed to championing accessibility, diversity, and equal opportunity. Requests for accommodation can be made at any stage of the recruitment process providing the applicant has met the requirements for the position. Applicants need to make their requirements known when contacted.</em></p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pixel-union-back-end-developer-1">https://weworkremotely.com/remote-jobs/pixel-union-back-end-developer-1</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -371,7 +435,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://weworkremotely.com/remote-jobs/yoko-co-front-end-developer-wordpress-3 align="right" target="_blank">Apply</a>
@@ -437,83 +501,6 @@
                     <img src=undefined>
                 </td>
                 <td width="300">
-                    <h5>SmarterQueue</h5>
-                    <h3> Frontend React Developer - Remote</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>36 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/smarterqueue-frontend-react-developer-remote-1 align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/7357/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> UK
-    <br /><strong>URL:</strong> <a href="https://smarterqueue.com">https://smarterqueue.com</a>
-</p>
-
-<div>
-<strong><br>🚨 Please read carefully before applying. This position is 100% remote 🌍 Your availability must have a minimum of 3 hours overlap with Pacific Timezone (PST)<br></strong><br>
-</div><div>ABOUT US<br><br>SmarterQueue is a ground-breaking social media tool.<br><br>
-</div><div>On average, our platform saves Customers over 8 hours per week, and increases the effectiveness of their social media content up to 300%.<br><br>
-</div><div>We are a small fully remote team, spanning the UK, Canada, America and Europe, building a tool which adds real value to influencers and marketers lives.<br><br>
-</div><div>ABOUT THE ROLE<br><br>You will be involved in developing features for our React app which uses the Apollo GraphQL client for API requests/caching. We constantly strive to use best practices and are constantly improving things to develop more efficiently.<br><br>
-</div><div>This is a remote, full-time position that can be performed in any timezone, as long as it overlaps a few hours with the Pacific Timezone.<br><br>
-</div><div>ABOUT YOU<br><br>
-</div><ul>
-<li>Enjoy a challenge - you love working on complicated, intertwined projects. This is no blog</li>
-<li>Want to improve the development - you love implementing new ideas and practices to improve development efficiency and product reliability</li>
-<li>Attention to detail - you think about edge cases, your implementation matches the designs, your code handles garbage data!</li>
-<li>Great communicator - you don't miss meetings or notifications, and respond quickly</li>
-<li>Love to work independently - you’re welcome to ask questions as often as necessary, but should be able to complete work on time without having to be chased</li>
-<li>Remote worker - you’re happy being part of a remote team, using Slack to keep connected, and with weekly team calls using Google Meet</li>
-</ul><div>
-<br>REQUIRED SKILLS/EXPERIENCE<br><br>
-</div><ul>
-<li>Near pixel perfect attention to detail</li>
-<li>React w/hooks</li>
-<li>Expert level CSS</li>
-<li>Git</li>
-<li>Social Media</li>
-<li>Automated testing (Jest/React testing library)</li>
-</ul><div>
-<br>BONUS POINTS<br><br>
-</div><ul>
-<li>GraphQL</li>
-<li>Apollo Client</li>
-<li>Typescript</li>
-</ul><div>
-<br>SALARY</div><ul>
-<li>Range is $60k - $75k USD, depending on expertise.</li>
-<li>Base salary is negotiable, depending on expertise and experience (within $50-65k USD range)</li>
-<li>There will be an annual performance-related bonus up to 15% (making the range $60-$75k including bonus)</li>
-</ul><div><br></div><div>PERKS<br><br>
-</div><ul>
-<li>32 paid vacation days per year + 5 sick days</li>
-<li>Fully remote, pick your hours (you will need to attend scheduled video meetings)</li>
-</ul><div>
-<br>HOW TO APPLY<br><br>
-</div><ul><li>Click apply and send us an intro note (or, even better an intro video), ensuring you've uploaded your resume and added your LinkedIn profile URL</li></ul><div>✨We’re actively looking for a diverse and gender-balanced team.<br><br>
-</div><div>➡️ Visit <a href="https://smarterqueue.com/">https://smarterqueue.com</a> for more information about the product.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/smarterqueue-frontend-react-developer-remote-1">https://weworkremotely.com/remote-jobs/smarterqueue-frontend-react-developer-remote-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src=undefined>
-                </td>
-                <td width="300">
                     <h5>Composable Finance</h5>
                     <h3> Senior Frontend Developer</h3>
                 </td>
@@ -521,7 +508,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>62 days ago</text>
+                <text>63 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://weworkremotely.com/remote-jobs/composable-finance-senior-frontend-developer align="right" target="_blank">Apply</a>
@@ -641,85 +628,6 @@
 </ul><div> </div><div><strong>Application Process</strong></div><div>Applicants should submit their resume and cover letter that includes links to a few digital products you completed recently. While resumes and interviews are a great way to learn more about you, all candidates should be prepared to complete a brief hypothetical virtual recruitment exercise and submit reference(s) upon request.</div><div> </div><div>The starting salary for this position is $50-120k, commensurate with experience and location, with <a href="https://lastcallmedia.com/life">comprehensive benefits</a> including an annual professional development budget, and varied, engaging work for enterprise-level clients. If this position already sounds like you or sounds like where you're headed, please reach out!</div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/last-call-media-javascript-application-developer-remote">https://weworkremotely.com/remote-jobs/last-call-media-javascript-application-developer-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src=undefined>
-                </td>
-                <td width="300">
-                    <h5>The Events Calendar</h5>
-                    <h3> WordPress Developer - Backend</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>482 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/the-events-calendar-wordpress-developer-backend align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/8266/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Lansing, MI
-    <br /><strong>URL:</strong> <a href="https://theeventscalendar.com/">https://theeventscalendar.com/</a>
-</p>
-
-<div>We are looking for a WordPress developer to join our "<a href="https://theeventscalendar.com/"><strong>The Events Calendar</strong></a>" team. The engineer will be responsible for developing code that can withstand high profile sites and intense loads. You will collaborate with a cross-functional team to architect and develop durable, extensible, and secure code. This role requires advanced to expert PHP, advanced to expert level in the frontend stack CSS and JS, impeccable WordPress experience; and solid MySQL, automated testing, and CLI skills.<br><br>
-</div><div>This is a remote position with a flexible schedule.<br><br>
-</div><div><strong>As a WordPress Developer you would:</strong></div><ul>
-<li>Develop new software solutions and maintain existing applications</li>
-<li>Work with stakeholders to understand requirements and objectives</li>
-<li>Create, review, and update technical documentation</li>
-<li>Keep apprised of relevant new technology and best practices</li>
-<li>Write tests to validate code function</li>
-<li>Execute bug fixes</li>
-<li>Measure results of implemented solutions</li>
-<li>Participate in troubleshooting/triaging of issues and document them appropriately</li>
-</ul><div><br></div><div><strong>You Have:</strong></div><ul>
-<li>5+ years Experience in the WordPress space</li>
-<li>Thorough knowledge of MySQL</li>
-<li>Basic knowledge of the product development life cycle</li>
-<li>Exceptional organizational and communication skills</li>
-<li>Skilled at crafting modern PHP (ex: autoloading, dependency management, dependency injection, templating libraries, automated testing, OOP, and/or frameworks like Symfony or Laravel, etc.)</li>
-<li>Mid to advanced level vanilla JavaScript experience (including experience with webpack, babel, and ES2015+ syntax)</li>
-<li>Exceptional HTML &amp; CSS (including experience with PostCSS or Sass and BEM) skills</li>
-<li>Comfortable working in a Linux environment</li>
-<li>A passion for improving software/systems</li>
-<li>Ability to work remotely with little-to-no supervision</li>
-</ul><div><br></div><div><strong>Bonus Points for:</strong></div><ul>
-<li>Experience with developing blocks for the Block Editor</li>
-<li>Experience with continuous integration and automated deployment pipelines</li>
-<li>Experience with JS application frameworks</li>
-<li>Experience with server technologies like Redis or Elasticsearch</li>
-<li>Experience building sites that are accessible (you’ve worked with WAI-ARIA and done WCAG 2.0+ AA/Section 508 work) and performant (working knowledge of best practices)</li>
-<li>Experience in more advanced areas of JavaScript (state management; async operations; unit, snapshot, and integration testing; REST APIs)</li>
-<li><br></li>
-</ul><div>
-<strong>We Offer:</strong><br><br>
-</div><ul>
-<li>100% Employer paid Benefits options - Medical, Dental, Vision, Prescription</li>
-<li>Traditional and Roth 401k with company matching</li>
-<li>Fun employer-sponsored events</li>
-<li>A collaborative team culture</li>
-<li>Consistent/set work hours</li>
-<li>Challenging non-redundant daily duties</li>
-<li>A voice in how things get done</li>
-<li>Access to ongoing training</li>
-</ul><div><br></div><div>
-<strong><em>Disclaimer:</em></strong><em><br></em><br>
-</div><div>
-<em>This job description is only a summary of the typical functions of the position. It is not intended to be an exhaustive or comprehensive list of all job responsibilities, tasks, or duties. Additional duties and tasks may be assigned as part of the job function. Liquid Web Inc. reserves the right to modify, interpret, or apply this job description in a way that best supports the organizational needs. The job description in no way creates or implies an employment contract. The employment contract remains “at will”.<br></em><br>
-</div><div><em>Equal Employment Opportunity Policy: Liquid Web is committed to offering equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.</em></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/the-events-calendar-wordpress-developer-backend">https://weworkremotely.com/remote-jobs/the-events-calendar-wordpress-developer-backend</a></p>
 
                 </details>
                 </td>
