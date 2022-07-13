@@ -1,1 +1,1 @@
-<div align="center"><h2>QUALITY ASSURANCE JOBS</h2></div><table>rgrg</table>
+<div align="center"><h2>QUALITY ASSURANCE JOBS</h2></div><table></table>
