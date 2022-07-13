@@ -50,7 +50,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=undefined>
+                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/4780/logo.gif>
                 </td>
                 <td width="300">
                     <h5>Nethermind</h5>
@@ -121,7 +121,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=undefined>
+                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/3391/logo.gif>
                 </td>
                 <td width="300">
                     <h5>Clevertech</h5>
@@ -167,7 +167,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=undefined>
+                    <img src=https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg>
                 </td>
                 <td width="300">
                     <h5>Chainlink Labs</h5>
