@@ -221,4 +221,180 @@
 
                 </details>
                 </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src=https://remotive.com/job/1308870/logo>
+                </td>
+                <td width="300">
+                    <h5>TUNE</h5>
+                    <h3>DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,devops,git,go,kubernetes,marketing,mobile,python,saas,sql,management,operations,design,databases,project management,Engineering,CI/CD,customer experience,knowledge,mentoring,business development,troubleshooting,web,software development,business,infrastructure,hiring,partnerships,SDLC,technical support,cybersecurity,onboarding,culture,gitlab,release,development,IT,software engineering,organization,networks,applications,problem-solving,computer science,backbone,support,production,software</code>
+                </td>
+                <td width="200">
+                <text>4 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href=https://remotive.com/remote-jobs/software-dev/devops-engineer-1308870 align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div> </div>
+<div>TUNE makes the industry’s most flexible SaaS platform for managing marketing partnerships across mobile and web. On one platform, you can maximize ROI from onboarding through payout with your most important partners — affiliates, networks, influencers, agencies, and any other business development relationships. TUNE is a remote first company and embraces hiring engineers and various other roles across the United States &amp; Canada.</div>
+<div> </div>
+<div>TUNE’s Operations team manages TUNE’s infrastructure in AWS and provides tooling to make the Software Development Lifecycle easy and enjoyable. Our systems are highly automated with Gitlab pipelines as the backbone of our build and release processes. Infrastructure management is automated too, it is hosted in AWS and we follow Infrastructure as Code patterns to manage it. Deployments are a mix of EC2-based and Kubernetes deployments.</div>
+<div> </div>
+<div>We are looking for an experienced Devops Engineer who is looking for an opportunity to work on highly automated systems and help us in our efforts to provide reliable SDLC workflows to TUNE’s engineering organization. We are a fully remote team with members in Seattle and Karachi, Pakistan.</div>
+<p><br><br></p>
+<div class="h3">Objectives of this Role:</div>
+<ul>
+<li>Building and setting up new development tools and infrastructure</li>
+</ul>
+<ul>
+<li>Understanding the needs of stakeholders and conveying this to developers</li>
+</ul>
+<ul>
+<li>Working on ways to automate and improve development and release processes</li>
+</ul>
+<ul>
+<li>Ensuring that systems are safe and secure against cybersecurity threats</li>
+</ul>
+<ul>
+<li>Identifying technical problems and developing software updates and ‘fixes’</li>
+</ul>
+<ul>
+<li>Working with software development engineers to establish processes and procedures</li>
+</ul>
+<ul>
+<li>Planning out projects and being involved in project management decisions</li>
+</ul>
+<ul>
+<li>Mentoring</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Daily and Monthly Responsibilities</div>
+<ul>
+<li>Manage CI/CD system</li>
+</ul>
+<ul>
+<li>Provide Level 2 technical support</li>
+</ul>
+<ul>
+<li>Participate in on-call rotation</li>
+</ul>
+<ul>
+<li>Build tools to reduce occurrences of errors and improve customer experience</li>
+</ul>
+<ul>
+<li>Perform root cause analysis for production errors</li>
+</ul>
+<ul>
+<li>Investigate and resolve technical issues</li>
+</ul>
+<ul>
+<li>Develop scripts to automate monitoring and visualization</li>
+</ul>
+<ul>
+<li>Design procedures for system troubleshooting and maintenance </li>
+</ul>
+<p><br><br></p>
+<div class="h3">Skills and Qualifications</div>
+<ul>
+<li>BSc in Computer Science, Engineering or relevant field</li>
+</ul>
+<ul>
+<li>Experience as a DevOps Engineer or similar software engineering role</li>
+</ul>
+<ul>
+<li>Proficient with git and git workflows</li>
+</ul>
+<ul>
+<li>Good knowledge of Python or Go</li>
+</ul>
+<ul>
+<li>Working knowledge of databases and SQL</li>
+</ul>
+<ul>
+<li>Problem-solving attitude</li>
+</ul>
+<ul>
+<li>Collaborative team spirit</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Preferred Qualifications</div>
+<ul>
+<li>Master's degree in Computer Science or Software Engineering</li>
+</ul>
+<ul>
+<li>Experience with software engineering and customer experience</li>
+</ul>
+<ul>
+<li>Experience developing applications</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Compensation/Benefits</div>
+<ul>
+<li>The salary range for this role is $105k-125k, depending on experience &amp; location</li>
+</ul>
+<ul>
+<li>Performance bonuses</li>
+</ul>
+<ul>
+<li>Yearly profit sharing through our parent company Perseus Group</li>
+</ul>
+<ul>
+<li>Comprehensive medical, dental, and vision benefits</li>
+</ul>
+<ul>
+<li>401(k) retirement fund with matching</li>
+</ul>
+<ul>
+<li>Short and long-term disability</li>
+</ul>
+<ul>
+<li>Flexible spending account</li>
+</ul>
+<ul>
+<li>Competitive time off with annual increases</li>
+</ul>
+<ul>
+<li>9 paid company holidays</li>
+</ul>
+<div>Why You’ll Love TUNE</div>
+<div> </div>
+<div>If you value autonomy, collaboration, and personal development, you’ll love working at TUNE! </div>
+<div> </div>
+<div>Our goal is to foster a remote work environment where employees can directly influence the change they are most passionate about. To maintain a positive, productive culture, we expect every employee to assume good faith in each other and to approach our work and interactions with <a class="postings-link" href="https://www.tune.com/blog/tune-values-told-in-source-code/" rel="nofollow">these values </a>in mind.</div>
+<p> </p>
+<img src="https://remotive.com/job/track/1308870/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src=https://remotive.com/job/1255720/logo>
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3>Senior DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,developer,devops,growth,management,design,project management,community,knowledge,coaching,English,software development,SOLID,development,system architecture,architecture ,programs,software,training</code>
+                </td>
+                <td width="200">
+                <text>20 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href=https://remotive.com/remote-jobs/devops/senior-devops-engineer-1255720 align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="h2" dir="ltr" style="margin-top: 18pt; margin-bottom: 4pt; font-weight: 400; line-height: 1.38; color: rgb(83, 42, 33);"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; font-weight: 700; font-style: italic; color: rgb(0, 0, 0);">Design your full-time freelance career as a top freelance developer with Toptal.</span></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. </span></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; font-weight: 700; color: rgb(0, 0, 0);">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);"> Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. </span></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. </span></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">That’s why the world’s top 3% of developers choose Toptal. DevOps Engineers in our network share:</span></p><ul style="padding-inline-start: 48px;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">English language proficiency</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; font-weight: 700;">3+ years</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> of professional experience in software development</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Solid experience with </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; font-weight: 700;">AWS</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> is a strong advantage</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Project management skills</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">A keen attention to detail</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Experience with system architecture or leading a software team is a strong advantage</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 42pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; font-weight: 700;">Full-time availability</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> is a strong advantage</span></p></li></ul><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">Curious to know how much you could make? Check out our DevOps engineer rate calculator:</span><a href="https://topt.al/rRcmJn" rel="nofollow" style="text-decoration: none;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);"> </span></a><a href="https://topt.al/rqcbMg" rel="nofollow">https://topt.al/rqcbMg</a></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form:</span><a href="https://topt.al/VwcMQG" rel="nofollow" style="text-decoration: none;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);"> </span></a><span style="font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap; color: rgb(17, 85, 204);"><a href="https://topt.al/Qkcv4y" rel="nofollow"><strong>https://topt.al/Qkcv4y</strong></a></span></p>
+<img src="https://remotive.com/job/track/1255720/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
             </tr></table>
