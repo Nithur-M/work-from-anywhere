@@ -230,7 +230,7 @@
                     <h3>DevOps Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>AWS,devops,git,go,kubernetes,marketing,mobile,python,saas,sql,management,operations,design,databases,project management,Engineering,CI/CD,customer experience,knowledge,mentoring,business development,troubleshooting,web,software development,business,infrastructure,hiring,partnerships,SDLC,technical support,cybersecurity,onboarding,culture,gitlab,release,development,IT,software engineering,organization,networks,applications,problem-solving,computer science,backbone,support,production,software</code>
+                    <code>kubernetes,marketing,mobile,python,saas,sql,management,operations,design,databases,project management,Engineering,CI/CD,customer experience,knowledge,mentoring,business development,troubleshooting,web,software development,business,infrastructure,hiring,partnerships,SDLC,technical support,cybersecurity,onboarding,culture,gitlab,release,development,IT,software engineering,organization,networks,applications,problem-solving,computer science,backbone,support,production,software</code>
                 </td>
                 <td width="200">
                 <text>4 days ago</text>
@@ -381,7 +381,7 @@
                     <h3>Senior DevOps Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>AWS,developer,devops,growth,management,design,project management,community,knowledge,coaching,English,software development,SOLID,development,system architecture,architecture ,programs,software,training</code>
+                    <code>management,design,project management,community,knowledge,coaching,English,software development,SOLID,development,system architecture,architecture ,programs,software,training</code>
                 </td>
                 <td width="200">
                 <text>20 days ago</text>
