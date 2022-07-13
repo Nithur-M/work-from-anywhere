@@ -28,68 +28,70 @@
                     <img src=undefined>
                 </td>
                 <td width="300">
-                    <h5>Clarity</h5>
-                    <h3> Principal Engineer (Backend)</h3>
+                    <h5>Rainforest QA</h5>
+                    <h3> Senior Engineer (Backend)</h3>
                 </td>
                 <td width="300">
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/clarity-principal-engineer-backend align="right" target="_blank">Apply</a>
+                <a href=https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2 align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4853/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> Seattle
-    <br /><strong>URL:</strong> <a href="http://claritytuition.com">http://claritytuition.com</a>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://www.rainforestqa.com/">https://www.rainforestqa.com/</a>
 </p>
 
-<div><strong>How to Apply</strong></div><div>Send us a message with your resume at <a href="mailto:info@claritytuition.com">jobs@claritytuition.com</a>. Looking forward to meeting you!</div><div><strong><br><br>What is Clarity?</strong></div><div>
-<br>Clarity serves as the bridge between tuition-funded K-12 schools and families seeking to find the best-fit educational environment for their children, regardless of a family’s financial means.</div><div>
-<br>We support access to independent and private K-12 school education by:</div><ol>
-<li>Increasing awareness of the availability of financial aid and tuition assistance.</li>
-<li>Modernizing a historically complex process for obtaining financial aid.</li>
-</ol><div>Our vision is to build a suite of tools that will make the option of a private school education more accessible to millions of families. The first step in this transformative journey is our new financial aid solution.</div><div><br></div><div><strong><br>What you'll do at Clarity</strong></div><ul>
-<li>Ship greenfield product with broad scope</li>
-<li>Data-modeling, system and API design</li>
-<li>Create prototype systems for evaluation and production systems for scale</li>
-<li>Manage and evolve existing + new infrastructure</li>
-<li>Be enabled to bring your own technical solutions and experience to the table</li>
-<li>Help us build an engineering team that proactively promotes a culture of trust and excellence to attract more talented and enjoyable people like yourself</li>
-<li>Be a part of a team that is recognized as the first true technical innovators in the industry</li>
-</ul><div><strong><br>We’d love to hear from you if…</strong></div><ul>
-<li>You aspire to architect experiences that will be used by millions</li>
-<li>You seek out positive, collaborative work environments to learn and grow</li>
-<li>You are eager to be part of a small team with years of greenfield development ahead</li>
-<li>You are passionate about making quality education accessible for all families</li>
-</ul><div><strong><br>Tools we use today</strong></div><ul>
-<li>Django</li>
-<li>GraphQL</li>
-<li>Postgres</li>
-<li>Javascript / Typescript</li>
-<li>Remix (React Framework)</li>
-</ul><div><strong><br>Benefits</strong></div><ul>
-<li>Growing company with lots of opportunities to grow with us - we went from 0 to 14 employees in the last 8 months and anticipate lots of growth moving forward</li>
-<li>Fully remote team and work environment</li>
-<li>Unlimited PTO (mandatory minimum) and federal holidays off</li>
-<li>Company sponsored get togethers / off site</li>
-<li>Stock - every team member has some level of ownership in Clarity</li>
-<li>Competitive salary</li>
-<li>Company sponsored health, medical and dental insurance</li>
+<div><strong>About Rainforest</strong></div><div>Rainforest QA is a distributed company full of smart, capable people from around the world who enjoy working together to make our customers successful.</div><div><br></div><div>Our mission is to make product quality accessible for every software company. The Rainforest QA solution combines no-code test automation and crowdsourced testing in a single, one-of-a-kind QA platform, allowing anyone to get the exact insights they need to release with quality, quickly.  </div><div><br></div><div><strong>About the Team</strong></div><div>As a Senior Engineer at Rainforest QA you'll be part of an experienced and diverse team with members all over the world.</div><div><br></div><div>We were built as a distributed team from the beginning and we've committed to implementing tools and processes that allow for and support continuous and effective communication across the world.<br><br><strong>About the Role</strong>
+</div><ul>
+<li>Work on our main app, which contains the majority of our business logic and is written in Ruby-on-Rails and backed by PostgreSQL and Redis</li>
+<li>Work on numerous support services (including our work scheduler and VM management system - both of which manage hundreds of thousands of requests a day) written in a variety of languages (Elixir, Golang, Crystal, Node, Python) chosen because of their suitability to the problem the service is solving</li>
+<li>Work on internal tooling to improve the development experience of other engineers and ship faster and safer</li>
+<li>Collaborate with product managers and our customer facing teams to analyze customer problems and design high impact features</li>
+<li>Lead projects to implement those features</li>
+<li>Help other team members to achieve their goals</li>
+<li>Continuously learn about new technologies and ways to solve problems</li>
+<li>Work with our customer facing teams to triage, troubleshoot, and fix bugs</li>
+<li>Write unit and integration tests (using our own product!) to ship high quality software</li>
+</ul><div><strong>About You</strong></div><ul>
+<li>Extensive experience in Ruby (or equivalent dynamic language) and be extremely knowledgeable of the language and associated ecosystem</li>
+<li>Extensive experience in Ruby on Rails (or equivalent framework) and be extremely knowledgeable of the framework and associated ecosystem</li>
+<li>Experience in writing and debugging SQL</li>
+<li>Enthusiasm for building applications using tools like Ruby on Rails, Golang, Elixir, React, PostgreSQL, Redis, BigQuery, and Kubernetes - amongst others</li>
+<li>Practical experience of working on a React codebase</li>
+<li>Even though this position is mainly backend focused, we expect you to have some grasp of the whole stack to be able to effectively communicate with engineers across the team, and can make frontend or infrastructure changes when the situation calls for it</li>
+<li>Professional experience in engineering SaaS products</li>
+<li>Experience leading projects with teams</li>
+<li>An ownership mindset: you should look not only at what you’re asked to do, but ask why you’re doing it and how it impacts on the rest of the product, our customers, and whether it makes sense. We expect you to be responsible for your work and to resolve any bugs you might ship</li>
+<li>Excitement to learn</li>
+<li>Excellent communication skills and able to give and receive constructive feedback</li>
+<li>Happy to review code and have your code reviewed</li>
+<li>Can work effectively remotely with remote team members (we are a fully distributed company)</li>
+<li>Comfortable working in a large codebase with many stakeholders</li>
+</ul><div>How we’ll reward you</div><ul>
+<li>Competitive salary plus equity.</li>
+<li>100% company-paid medical, dental, and vision insurance coverage for employees, 75% for dependents (U.S., only).</li>
+<li>Unlimited paid time-off (PTO).</li>
+<li>A weekly allowance for lunches and a monthly allowance for remote office supplies or personal development.</li>
+<li>Semi-annual company off-sites in exciting destinations around the world.</li>
+<li>12 weeks of paid maternity leave and 8 weeks of paid leave for supporting parents.</li>
+<li>401k (U.S., only).</li>
 </ul><div>
-<br><br>
-</div><pre>Clarity Financial, Inc. (DBA “Clarity”) is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, state, or local laws. This policy applies to all employment practices within our organization, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship. Clarity makes hiring decisions based solely on qualifications, merit, and business needs at the time.</pre><div>
+<br><strong>A Note on Diversity and Inclusion</strong>
+</div><div>At Rainforest we believe that diverse teams improve our business. We are an equal opportunity employer and do not discriminate on the basis of race, religion, color, nationality, gender, sexual orientation, age, marital status, veteran status, or disability status.</div><div><br></div><div>Due to employment laws, we are unable to hire individuals internationally located in these following countries at this time: China, France, Iran, Egypt, Russia.</div><div>
 <br><br>
 </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clarity-principal-engineer-backend">https://weworkremotely.com/remote-jobs/clarity-principal-engineer-backend</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2">https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2</a></p>
 
                 </details>
                 </td>
@@ -147,6 +149,101 @@
 </div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/greenback-expat-tax-services-remote-us-expat-tax-accountant-contractor">https://weworkremotely.com/remote-jobs/greenback-expat-tax-services-remote-us-expat-tax-accountant-contractor</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src=undefined>
+                </td>
+                <td width="300">
+                    <h5>Chili Piper</h5>
+                    <h3> Back End Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>210 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href=https://weworkremotely.com/remote-jobs/chili-piper-back-end-engineer-2 align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> One Dock 72 Way Brooklyn, NY 11205
+    <br /><strong>URL:</strong> <a href="https://www.chilipiper.com/">https://www.chilipiper.com/</a>
+</p>
+
+<div>
+<em>**Please note: this role is </em><strong><em>non-US</em></strong><em> only**</em><br><br>Chili Piper is seeking talented, motivated engineers to join our fully remote team building interactive data applications. As a part of our growing back-end team, you will collaborate with others throughout our organization and technology stack to build products that are revolutionizing the way our clients achieve their business goals.<br><br>
+</div><div>
+<br>On the back-end team, we invite you to bring your experience and perspective to conversations about the future growth of our applications and environment. We work closely together, with a healthy and non-combative review process aimed at improving code as well as developing each other’s skills. In short, we strive to write solid, thoroughly tested, and readable code; and we are seeking a new contributor to our already highly effective team.<br><br>
+</div><div>
+<strong><em><br>What You'll Do</em></strong> <br><br>
+</div><ul>
+<li>Build API to a multi-tenant backend services to enable easy access by internal applications, clients, and partners</li>
+<li>Continuously integrate and ship code into the cloud environment</li>
+<li>Develop applications from ground up using a modern technology stack such as Scala, Akka, Play NoSQL</li>
+<li>Participate in defining the architecture of modern tools and runtime for operating your code such as GCP, Docker, Kubernetes</li>
+<li>Work directly with Product Owners to deliver products in a collaborative and agile environment</li>
+<li>As a part of growing team, you will collaborate with engineers  throughout our organization and technology stack to build products that are revolutionizing the way our clients achieve their business goals</li>
+</ul><div>
+<strong><em><br>Who You Are<br></em></strong><br>
+</div><ul>
+<li>You are passionate to be part of cutting edge projects and are motivated by delivering world-class products with great architecture on an aggressive schedule</li>
+<li>You are not intimidated by challenges; thrives even under pressure; are passionate about your craft; and hyper focused on delivering exceptional results</li>
+<li>You love to learn new technologies and mentor engineers to raise the bar on your team</li>
+<li>You use, or are passionate about learning, functional programming the right way, GCP, Docker, Scala, Akka, Mong</li>
+<li>Not afraid of implementing UI for new and existing features</li>
+</ul><div>
+<strong><br>Qualifications<br></strong><br>
+</div><div>
+<strong><em><br>What We're Looking For<br></em></strong><br>
+</div><ul>
+<li>4+ years of full stack development experience</li>
+<li>2+ years of experience in Scala</li>
+<li>Experience working with Play Scala or Akka HTTP</li>
+<li>Experience in designing API and documenting them</li>
+<li>Experience in Unix/Linux including basic commands and scripting</li>
+<li>Solid understanding of continuous integration, deployment and monitoring</li>
+<li>Excellent communication skills</li>
+<li>Passion for Chili Piper Values of Help, Innovate, Have Fun</li>
+<li>Thrive in a fast pace environment with ability to prioritize and multi-task on the fly</li>
+<li>Resourcefulness, creativity and strategic thinking for troubleshooting problems</li>
+<li>Self motivated and self-directed; Fast learner</li>
+<li>Strong English communication and documentation skills</li>
+<li>Ability to work in a dynamic environment in which the requirements are not always well defined and priorities change frequently</li>
+<li>Strong attention to detail and documentation</li>
+<li>Comfortable in supporting and working with global customers across many time zones</li>
+</ul><div>
+<strong><br>Additional Information<br></strong><br>
+</div><div>
+<strong><em><br>How We Work<br></em></strong><br>
+</div><ul>
+<li>
+<strong>Freedom and flexibility.</strong> We’re a 100% distributed team working from around the world. <strong><em>Our team members can work from wherever they want</em></strong> in the world, as long as they show up on our weekly all hands meeting on Zoom.</li>
+<li>
+<strong>Solve interesting problems.</strong> The software landscape has exploded. There are dozens of solutions for each problem. We want to be different. We come up with new angles on existing problems or invent better solutions to help companies with their sales and marketing. Then we turn these ideas into beautiful, smart software.</li>
+<li>
+<strong>Autonomy and ownership.</strong> Working on a distributed team means you don’t have someone micromanaging you or looking over your shoulder to make sure you’re getting things done. We’re a team of do-ers who take full ownership for their results.</li>
+<li>
+<strong>Be helpful.</strong> Our first value as a company is help. Help our customers be successful. Help our prospects get the right information and make the right decision whether or not it includes our products. Help our team members reach their full potential.</li>
+</ul><div>
+<strong><em><br>The Perks<br></em></strong><br>
+</div><ul>
+<li>Unlimited Vacation</li>
+<li>Generous Health, Dental, and Vision Insurance</li>
+<li>WeWork membership so you can work from anywhere</li>
+<li>Any equipment/software/tech that you need to do your job</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chili-piper-back-end-engineer-2">https://weworkremotely.com/remote-jobs/chili-piper-back-end-engineer-2</a></p>
 
                 </details>
                 </td>
