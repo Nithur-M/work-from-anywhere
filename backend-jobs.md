@@ -256,7 +256,7 @@
                     <h3>Backend Engineer </h3>
                 </td>
                 <td width="300">
-                    <code>docker,education,elasticsearch,java,kubernetes,mobile,mySQL,oracle,security,sql,growth,operations,design,programming,Engineering,product,spring,knowledge,mentoring,deployment,data,gaming,Redis,web,business,hiring,people,websites,database,development,writing,media,fintech,spring boot,kibana,applications,testing,search,grafana,communication,microservices,support,architecture ,production,server,software</code>
+                    <code>apache,AWS,backend,cloud</code>
                 </td>
                 <td width="200">
                 <text>12 days ago</text>
