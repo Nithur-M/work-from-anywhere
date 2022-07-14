@@ -13,7 +13,8 @@
 
 <h2>Job Categories</h2>
 
-- <a href="/work-from-anywhere/backend-jobs.md">Backend Jobs</a>
+- <a href="/backend-jobs.md">Backend Jobs</a>
+- <a href="/data-science-jobs.md">Data Science Jobs</a>
 - <a href="/developer-jobs.md">Developer Jobs</a>
 - <a href="/devops-jobs.md">DevOps Jobs</a>
 - <a href="/frontend-jobs.md">Frontend Jobs</a>
