@@ -11,7 +11,7 @@
                     <code>python, backend, scalability</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remoteOK.com/jobs/111588 align="right" target="_blank">Apply</a>
@@ -35,7 +35,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3 align="right" target="_blank">Apply</a>
@@ -81,63 +81,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/4898/logo.gif>
-                </td>
-                <td width="300">
-                    <h5>Kumu</h5>
-                    <h3> Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/kumu-senior-software-engineer-1 align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4898/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://kumu.io">https://kumu.io</a>
-</p>
-
-<div>Kumu is a small but mighty team building tools to tackle tough problems. We are bootstrapped and profitable, which gives us the luxury to focus our efforts on more niche use cases that make a meaningful difference in the world. We’re looking for a Senior Software Engineer to join our team. Our current products include:</div><div><br></div><div>
-<a href="https://kumu.io"><strong>Kumu</strong></a> - our flagship data viz platform that helps people understand complex relationships, primarily through network, systems, and stakeholder maps.</div><div><br></div><div>
-<a href="https://sticky.studio"><strong>Sticky Studio</strong></a> - a collaborative whiteboard that focuses on simplicity while supporting the depth and richness of the interconnected nature of the challenges we face.</div><div><br></div><div>
-<a href="https://undercurrent.io"><strong>Undercurrent</strong></a> - a platform that crowdsources understanding of complex systems through identification of root causes and relationships</div><div><br></div><div>
-<a href="https://weavr.app/product"><strong>Weavr</strong></a>- a community engagement platform that maximizes the impact of networks by building shared awareness of people, projects, and relationships</div><div><br></div><div>You’d be involved throughout the entire development process, from initial brainstorms and sketching to final stages of testing and release. We use a 6 week cycle, with 4 weeks of more structured effort followed by 2 weeks of more flexible downtime. We care about supporting each other as human beings and making sure work is a meaningful part of your life, but not all encompassing (or leading to burnout).</div><div>
-<br><strong>Stack:</strong> react, rails, typescript<br><br><strong>Bonus points for experience with: </strong>tdd, graphs/networks, couchdb, elasticsearch, cloudformation, ubuntu, docker, bash, webpack/babel, aws, vmware/virtualbox, packer</div><div>
-<br><strong>You’re probably a great fit if:</strong>
-</div><ul>
-<li>You’re a talented web developer (both frontend and backend)</li>
-<li>You work well setting your own priorities and working with lots of freedom</li>
-<li>You’ve built and maintained a complex library, single page web app, or product</li>
-<li>You care about design and UX and can implement new features without guidance</li>
-<li>You aren’t afraid to get your hands dirty with VMs, linux, shell scripting, networking, and a parallel product release cycle (for our Enterprise offering of Kumu)</li>
-</ul><div>
-<br><strong>If you’re interested, please send an email to careers@kumu.io including the following:</strong>
-</div><ul>
-<li>Tell us a little about yourself. Who are you? Where do you come from?</li>
-<li>Tell us about a project you’ve worked on that you’re proud of</li>
-<li>Include links where we could learn more about you professionally and personally (website/github/twitter/medium/instagram/etc)</li>
-<li>Include a recent photo of you doing something that you love</li>
-<li>Tell us why you're excited to work for Kumu</li>
-</ul><div>
-<br><strong>Experienced developers only. Generic applications will be ignored. Thanks!</strong>
-</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/kumu-senior-software-engineer-1">https://weworkremotely.com/remote-jobs/kumu-senior-software-engineer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/4868/logo.gif>
                 </td>
                 <td width="300">
@@ -148,7 +91,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://weworkremotely.com/remote-jobs/owners-founding-software-engineer align="right" target="_blank">Apply</a>
@@ -174,101 +117,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0064/2885/logo.gif>
-                </td>
-                <td width="300">
-                    <h5>Contra</h5>
-                    <h3> Senior Software Engineer in Test</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>60 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-in-test align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/2885/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="https://contra.com/">https://contra.com/</a>
-</p>
-
-<div>Contra is an Independent-first community and commission-free hiring platform empowering the future of work. We match Independents with flexible opportunities, and Clients with the perfect Independent for any project — from content creation to coding. We strongly believe that independence isn’t just a gig, it’s a way of life.<br><br>Welcome to Contra! We’re an empathetic, kind, and humble team looking for a Senior Software Engineer in Test to join us in building the Future of Work and the best community for independents. This is a role on our small-but-mighty QA team, so this is a real opportunity to build out the foundation, standards, and best-practices for automation engineering at Contra. You have strong software engineering fundamentals in our stack (NodeJS, TypeScript, Cypress), and broad experience testing across application boundaries. In your role, you will lead us into the future of automated testing at Contra.</div><div><br></div><div>We believe QA is as much a mindset as it is a role. We test in production and we believe that fast, reliable tests and a great developer experience do more to encourage others to raise the bar on quality than anything else. If these values resonate with your own, we’d love to talk to you.</div><div>
-<strong><br>How you’ll add value at Contra<br></strong><br>
-</div><ul>
-<li>Write different kinds of automated tests (unit, integration, end-to-end, load, etc.) in TypeScript for different types of applications, across application boundaries (web, mobile, server-side, etc.)</li>
-<li>Lead test automation projects in a highly collaborative environment</li>
-<li>Establish QA best practices, methodologies, and processes</li>
-<li>Use CI/CD in collaboration with DevOps to improve how we test and deliver software</li>
-<li>Improve our ability to safely test in production</li>
-<li>Participate in all parts of the product development process</li>
-<li>Teach and mentor others to enable them to deliver a higher quality product from the start</li>
-</ul><div>
-<strong><br>You’ll be successful here if you<br></strong><br>
-</div><ul>
-<li>
-<strong>Mission driven.</strong> Our mission truly resonates with you and you would like to be a part of what we are building together at Contra!</li>
-<li>
-<strong>A dedicated team player.</strong> You thrive in a collaborative, remote-only environment and you are comfortable with 8am-12 pm PST core hours!</li>
-<li>
-<strong>Passionate about learning.</strong> Share a genuine curiosity for learning, alway eager to pick up new skills. We don’t expect everyone to know everything but you learn quickly!</li>
-<li>
-<strong>Goal oriented.</strong> Understand what you need to do in order to achieve your goals without needing all of the bells and whistles.</li>
-<li>
-<strong>Committed to trying.</strong> Have the resilience and willingness to try and try again even if you fail after a few attempts!</li>
-<li>
-<strong>Ambitious attitude.</strong> You bring a strong work ethic and contagious energy to your team as we work towards our North Star.</li>
-<li>
-<strong>Path Paver.</strong> Joining a startup you enjoy taking ownership, building out processes and documentation that might not exist to share with your team members.</li>
-</ul><div>
-<strong><br>Our stack<br></strong><br>
-</div><ul>
-<li>Typescript</li>
-<li>Backend: NodeJS, GraphQL, GraphQL Helix, Redis, PostgreSQL</li>
-<li>DevOps: ArgoCD, Docker, GitHub, Google Cloud Platform, Kubernetes</li>
-<li>Frontend: React, Suspense, Relay, Stitches, <a href="http://three.js/">Three.js</a>, react-three-fiber, GLSL shaders, Cypress</li>
-</ul><div>
-<strong><br>You will love Contra for our<br></strong><br>
-</div><ul>
-<li>🌎 Remote-only culture that is here to stay</li>
-<li>🍎 100% health coverage for US full-time employees, and health reimbursements for all international contractors</li>
-<li>💰 401k matching for US full-time employees</li>
-<li>💸 $4,000/year laptop reimbursement + additional equipment, co-working, education, meetup and charity budgets</li>
-<li>💛 No-meeting Wednesdays</li>
-<li>🥬 Half days every third Friday of the month to enjoy a long weekend, reduce screen fatigue, and decompress</li>
-<li>👋 Generous time off — 3 week-long company-wide shutdowns per year (Spring, Fall, Winter) so we can all collectively relax together, in addition to paid time off and flex days to look after your wellbeing.</li>
-<li>👶  Flexible parental leave</li>
-<li>🌴 Annual team wide off-site (our most recent was Nov 2021 in Tulum, Mexico)</li>
-<li>💁 A custom slack emoji, just for you!</li>
-</ul><div>
-<strong><br>Our interview process<br></strong><br>
-</div><ul>
-<li>Intro call (15-30 minutes)</li>
-<li>Complete a Technical assessment (2 hours maximum)</li>
-<li>Technical interview (30-45 minutes)</li>
-<li>Non-technical (culture) interview (30-45 minutes)</li>
-<li>Strengths-based technical interview (30-45 minutes)</li>
-<li>High-level technical interview with CTO (30-45 minutes)</li>
-</ul><div>
-<strong><br>Salary + Equity Range<br></strong><br>
-</div><ul>
-<li>$130k - $155k USD</li>
-<li>Equity Value Range: $72k - $180k USD</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-in-test">https://weworkremotely.com/remote-jobs/contra-senior-software-engineer-in-test</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src=https://remotive.com/job/1305612/logo>
                 </td>
                 <td width="300">
@@ -279,7 +127,7 @@
                     <code>backend,developer,git,go</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/senior-go-software-engineer-1305612 align="right" target="_blank">Apply</a>
@@ -384,7 +232,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416 align="right" target="_blank">Apply</a>
