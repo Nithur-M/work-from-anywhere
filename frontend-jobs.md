@@ -10,7 +10,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-frontend align="right" target="_blank">Apply</a>
@@ -78,7 +78,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421 align="right" target="_blank">Apply</a>
@@ -140,7 +140,7 @@
                     <code>cloud,docker,frontend,graphql</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/frontend-engineer-1260508 align="right" target="_blank">Apply</a>
@@ -224,7 +224,7 @@
                     <code>frontend,javascript,ui,design</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/senior-front-end-engineer-js-graphics-3d-971825 align="right" target="_blank">Apply</a>
@@ -269,7 +269,7 @@
                     <code>CSS,customer support,frontend,go</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/frontend-engineer-1207672 align="right" target="_blank">Apply</a>
@@ -389,7 +389,7 @@
                     <code>developer,react,ui,video</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/front-end-engineer-chrome-extensions-1200232 align="right" target="_blank">Apply</a>
