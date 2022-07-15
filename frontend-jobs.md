@@ -1,5 +1,39 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src=https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg>
+                </td>
+                <td width="300">
+                    <h5>Zebrands </h5>
+                    <h3> Frontend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href=https://weworkremotely.com/listings/zebrands-frontend-engineer align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1">https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1</a>
+</p>
+
+<p>ZeBrands, con sede en la Ciudad de México, es la potencia de marca líder en tecnología de LATAM. Estamos revolucionando la industria minorista al lanzar oleadas de marcas innovadoras, impulsadas con tecnología de punta, que nos permite tener éxito en todos los mercados. ZeBrands es más conocido por ser el hogar de Luuna, una querida marca mexicana que ha tenido la misión de revolucionar el sueño. Una de las principales empresas emergentes de LinkedIn para trabajar en México, ZeBrands es un lugar emocionante para muchos jóvenes talentos de todo el mundo (más de 15 nacionalidades).</p><p><br></p><p><strong>¿Qué buscamos?</strong></p><p>●Más de 2 años de experiencia en desarrollo de frontend </p><p>●Sólidos conocimientos de ingeniería de software, considerando patrones de diseño, complejidad computacional y arquitectura de sistemas</p><p>● Conocimientos en React y React Native</p><p>● Experiencia en HTML, preprocesadores CSS / CSS (Sass, Less, Stylus) y JavaScript</p><p>● Diseño, desarrollo y prueba de IU para aplicaciones web y móviles.</p><p>● Experiencia con pruebas unitarias y pruebas de IU de un extremo a otro.</p><p>● Conocimiento de API Rest o GraphQL</p><p>● Conocimiento de AJAX</p><p>● Capacidad para comunicarse con fluidez en inglés, oralmente y por escrito.</p><p><br></p><p><strong>Agradable tener</strong></p><p>● Experiencia con TDD o implementación de pruebas automatizadas en diferentes niveles.</p><p>● Experiencia de backend</p><p><br></p><p><strong>Beneficios y compensación</strong></p><p>● Salario anual bruto</p><p>● Bonificación anual sujeta a la consecución de objetivos.</p><p>● Beneficios de la ley</p><p>● Seguro de gastos médicos mayores</p><p>● Seguros de vida y menores</p><p>● Soporte de gimnasio</p><p>● 15 días de vacaciones al año</p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/zebrands-frontend-engineer">https://weworkremotely.com/remote-jobs/zebrands-frontend-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/4921/logo.gif>
                 </td>
                 <td width="300">
@@ -10,7 +44,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-frontend align="right" target="_blank">Apply</a>
@@ -78,7 +112,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421 align="right" target="_blank">Apply</a>
@@ -140,7 +174,7 @@
                     <code>cloud,docker,frontend,graphql</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/frontend-engineer-1260508 align="right" target="_blank">Apply</a>
@@ -165,7 +199,7 @@
                     <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/frontend-engineer-1298859 align="right" target="_blank">Apply</a>
@@ -224,7 +258,7 @@
                     <code>frontend,javascript,ui,design</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/senior-front-end-engineer-js-graphics-3d-971825 align="right" target="_blank">Apply</a>
@@ -269,7 +303,7 @@
                     <code>CSS,customer support,frontend,go</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/frontend-engineer-1207672 align="right" target="_blank">Apply</a>
@@ -389,7 +423,7 @@
                     <code>developer,react,ui,video</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/front-end-engineer-chrome-extensions-1200232 align="right" target="_blank">Apply</a>
