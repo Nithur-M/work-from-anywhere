@@ -68,68 +68,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Iterative</h5>
-                    <h3>Senior Software Engineer - Front-end, Typescript</h3>
-                </td>
-                <td width="300">
-                    <code>backend,git,machine learning,python</code>
-                </td>
-                <td width="200">
-                <text>10 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>The ML tools ecosystem is what JS space was 10 years ago: there’s a clear need for better tools, frameworks, and open standards. <span class="notion-enable-hover" style="font-style: italic;">ITERATIVE</span> is already a well known company in this fast-evolving space with a big, engaged open-source community. Please consider joining our <span class="notion-enable-hover" style="font-style: italic;">remote-first team</span> if you love open-source, if you’re interested in building dev tools and simplifying the lives of many, many developers in ML.</p>
-<p><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;"><br class="Apple-interchange-newline">Job Description</span></p>
-<p>We’re seeking<span class="notion-enable-hover" style="font-weight: 600;"> </span><span class="notion-enable-hover">TypeScript front-end engineers to build our</span><span class="notion-enable-hover"> <a href="https://studio.iterative.ai/" rel="nofollow" style="font-weight: 600;">SaaS product</a> and a</span><span class="notion-enable-hover" style="font-weight: 600;"> VS Code UI</span> (to be open sourced soon!) for our popular machine learning tools: <a class="notion-link-token notion-enable-hover" href="http://dvc.org/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--1168671846" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">DVC</span></a> (9k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span>on GitHub) and <a class="notion-link-token notion-enable-hover" href="http://cml.dev/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--2051758088" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">CML</span></a> (3k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span> on GitHub).</p>
-<p><span style="color: var(--remotive-chocolate);">If you have experience with dev tools like GitHub, UI plugins for Git, etc., you should have some sense what the project is like (if not, check our <a href="https://iterative.ai/" rel="nofollow">site</a>).</span></p>
-<p> </p>
-<p class="h3">Tech Stack</p>
-<ul>
-<li>TypeScript</li>
-</ul>
-<ul>
-<li>Node</li>
-</ul>
-<ul>
-<li>React</li>
-</ul>
-<ul>
-<li>Python (on the backend)</li>
-</ul>
-<p> </p>
-<p class="h3">Must have</p>
-<ul>
-<li>Strong TS/JS/Node experience (5+ years)</li>
-</ul>
-<ul>
-<li>Excellent communication skills and a positive mindset 🤗</li>
-</ul>
-<ul>
-<li>Initiative to help shape the engineering practices, products, and culture of a young startup</li>
-</ul>
-<p><br><br></p>
-<p class="h3">Nice to have</p>
-<ul>
-<li>Python or open source experience - good to have</li>
-</ul>
-<ul>
-<li>Some domain knowledge (DS/ML understanding) - an advantage</li>
-</ul>
-<p> </p>
-<img src="https://remotive.com/job/track/1187421/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1260508/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -165,7 +103,7 @@
                     <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-engineer-1298859" align="right" target="_blank">Apply</a>
@@ -210,51 +148,6 @@
 <span style="-webkit-font-smoothing: antialiased;"><strong><br></strong></span><p><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Interview Process<br><br></span></p><ul><li>HackerRank Test </li><li>Remote interview with 2 Engineers + Lead or Director</li><li>24-72 hour feedback loops throughout process <br><br></li></ul><p><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Benefits<br><br></span></p><span style="-webkit-font-smoothing: antialiased;"></span><ul><li><span style="color: var(--remotive-chocolate);">Quarterly and flash bonuses</span></li><li><span style="color: var(--remotive-chocolate);">Flexible working hours</span></li><li><span style="color: var(--remotive-chocolate);">Top-of-the-line equipment</span></li><li><span style="color: var(--remotive-chocolate);">Education allowance</span></li><li><span style="color: var(--remotive-chocolate);">Referral bonuses</span></li><li><span style="color: var(--remotive-chocolate);">28 days paid annual leave</span></li><li><span style="color: var(--remotive-chocolate);">Annual Global and Team company retreats - Lisbon &amp; Dubai are planned for 2022!</span></li><li><span style="color: var(--remotive-chocolate);">Highly talented, dependable co-workers in a global, multicultural organisation</span></li><li><span style="color: var(--remotive-chocolate);">We score 100% on The Joel Test</span></li><li><span style="color: var(--remotive-chocolate);">Our teams are small enough for you to be impactful</span></li><li><span style="color: var(--remotive-chocolate);">Our business is globally established and successful, offering stability and security to our Team Members</span></li></ul><ul>
 </ul>
 <img src="https://remotive.com/job/track/1298859/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/971825/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Spline</h5>
-                    <h3>Senior Front-End Engineer (JS/Graphics/3D)</h3>
-                </td>
-                <td width="300">
-                    <code>frontend,javascript,ui,design</code>
-                </td>
-                <td width="200">
-                <text>15 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-engineer-js-graphics-3d-971825" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><!--block-->Hello there!</p>
-<p><!--block-->At Spline (<a href="https://twitter.com/splinetool" rel="nofollow">twitter.com/splinetool</a>), we are building a design tool to create 3d content for the web.</p>
-<!--block-->
-<p> </p>
-<p><!--block--><strong>We are looking for someone who can help us solve Spline app technical/graphic challenges.</strong></p>
-<!--block-->
-<p> </p>
-<p><!--block-->🌈 We are passionate about building visual tools and solving creative challenges.<br><br></p>
-<p><!--block--><strong>What's the job?</strong></p>
-<p><!--block-->- Write JS code to solve graphic/visual/technical challenges.</p>
-<p><!--block-->- Work with 3d libraries (Three.js, WebGL, others) to build 3d tools.</p>
-<p><!--block-->- Work closely with frontend devs for UI integration.<br><br></p>
-<p><!--block--><strong>Required experience</strong></p>
-<p><!--block-->- Javascript Development experience (3+years) with NodeJS/ReactJS (or similar) and today's front-end development standards.</p>
-<p><!--block-->- <strong>Most relevant to us:</strong> Experience (3+ years) working with WebGL/Three.js/Shaders/Canvas or any other 3d/2d graphics library.</p>
-<p><!--block-->- <strong>Please share links of real-life work examples.<br></strong><br><br></p>
-<p><!--block--><strong>Optional experience</strong></p>
-<p><!--block-->- Experience with Computer Graphics in general (Shaders/GLSL, Raytracing, etc.) using other programming languages.<br><br></p>
-<p><!--block--><strong>Why working with us?</strong></p>
-<p><!--block-->🧩Our goal is to rethink the design process: 3d first, realtime, always, and interactive. There is so much tech progress happening, but the creative tools available are still the same: hard to use, technical, not web-based, and costly.</p>
-<p><!--block-->If you are interested in the creative world and love working in tech challenges, you will get fun!</p>
-<img src="https://remotive.com/job/track/971825/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
