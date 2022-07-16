@@ -11,7 +11,7 @@
                     <code>devops, ruby, gcp</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remoteOK.com/jobs/111592 align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>backend, devops, aws</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remoteOK.com/jobs/111534 align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://weworkremotely.com/remote-jobs/nethermind-devops-engineer align="right" target="_blank">Apply</a>
@@ -131,7 +131,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-7 align="right" target="_blank">Apply</a>
@@ -177,7 +177,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>43 days ago</text>
+                <text>44 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://weworkremotely.com/remote-jobs/chainlink-labs-devops-engineer-1 align="right" target="_blank">Apply</a>
@@ -223,157 +223,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1308870/logo>
-                </td>
-                <td width="300">
-                    <h5>TUNE</h5>
-                    <h3>DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,devops,git,go</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/devops-engineer-1308870 align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div> </div>
-<div>TUNE makes the industry’s most flexible SaaS platform for managing marketing partnerships across mobile and web. On one platform, you can maximize ROI from onboarding through payout with your most important partners — affiliates, networks, influencers, agencies, and any other business development relationships. TUNE is a remote first company and embraces hiring engineers and various other roles across the United States &amp; Canada.</div>
-<div> </div>
-<div>TUNE’s Operations team manages TUNE’s infrastructure in AWS and provides tooling to make the Software Development Lifecycle easy and enjoyable. Our systems are highly automated with Gitlab pipelines as the backbone of our build and release processes. Infrastructure management is automated too, it is hosted in AWS and we follow Infrastructure as Code patterns to manage it. Deployments are a mix of EC2-based and Kubernetes deployments.</div>
-<div> </div>
-<div>We are looking for an experienced Devops Engineer who is looking for an opportunity to work on highly automated systems and help us in our efforts to provide reliable SDLC workflows to TUNE’s engineering organization. We are a fully remote team with members in Seattle and Karachi, Pakistan.</div>
-<p><br><br></p>
-<div class="h3">Objectives of this Role:</div>
-<ul>
-<li>Building and setting up new development tools and infrastructure</li>
-</ul>
-<ul>
-<li>Understanding the needs of stakeholders and conveying this to developers</li>
-</ul>
-<ul>
-<li>Working on ways to automate and improve development and release processes</li>
-</ul>
-<ul>
-<li>Ensuring that systems are safe and secure against cybersecurity threats</li>
-</ul>
-<ul>
-<li>Identifying technical problems and developing software updates and ‘fixes’</li>
-</ul>
-<ul>
-<li>Working with software development engineers to establish processes and procedures</li>
-</ul>
-<ul>
-<li>Planning out projects and being involved in project management decisions</li>
-</ul>
-<ul>
-<li>Mentoring</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Daily and Monthly Responsibilities</div>
-<ul>
-<li>Manage CI/CD system</li>
-</ul>
-<ul>
-<li>Provide Level 2 technical support</li>
-</ul>
-<ul>
-<li>Participate in on-call rotation</li>
-</ul>
-<ul>
-<li>Build tools to reduce occurrences of errors and improve customer experience</li>
-</ul>
-<ul>
-<li>Perform root cause analysis for production errors</li>
-</ul>
-<ul>
-<li>Investigate and resolve technical issues</li>
-</ul>
-<ul>
-<li>Develop scripts to automate monitoring and visualization</li>
-</ul>
-<ul>
-<li>Design procedures for system troubleshooting and maintenance </li>
-</ul>
-<p><br><br></p>
-<div class="h3">Skills and Qualifications</div>
-<ul>
-<li>BSc in Computer Science, Engineering or relevant field</li>
-</ul>
-<ul>
-<li>Experience as a DevOps Engineer or similar software engineering role</li>
-</ul>
-<ul>
-<li>Proficient with git and git workflows</li>
-</ul>
-<ul>
-<li>Good knowledge of Python or Go</li>
-</ul>
-<ul>
-<li>Working knowledge of databases and SQL</li>
-</ul>
-<ul>
-<li>Problem-solving attitude</li>
-</ul>
-<ul>
-<li>Collaborative team spirit</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Preferred Qualifications</div>
-<ul>
-<li>Master's degree in Computer Science or Software Engineering</li>
-</ul>
-<ul>
-<li>Experience with software engineering and customer experience</li>
-</ul>
-<ul>
-<li>Experience developing applications</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Compensation/Benefits</div>
-<ul>
-<li>The salary range for this role is $105k-125k, depending on experience &amp; location</li>
-</ul>
-<ul>
-<li>Performance bonuses</li>
-</ul>
-<ul>
-<li>Yearly profit sharing through our parent company Perseus Group</li>
-</ul>
-<ul>
-<li>Comprehensive medical, dental, and vision benefits</li>
-</ul>
-<ul>
-<li>401(k) retirement fund with matching</li>
-</ul>
-<ul>
-<li>Short and long-term disability</li>
-</ul>
-<ul>
-<li>Flexible spending account</li>
-</ul>
-<ul>
-<li>Competitive time off with annual increases</li>
-</ul>
-<ul>
-<li>9 paid company holidays</li>
-</ul>
-<div>Why You’ll Love TUNE</div>
-<div> </div>
-<div>If you value autonomy, collaboration, and personal development, you’ll love working at TUNE! </div>
-<div> </div>
-<div>Our goal is to foster a remote work environment where employees can directly influence the change they are most passionate about. To maintain a positive, productive culture, we expect every employee to assume good faith in each other and to approach our work and interactions with <a class="postings-link" href="https://www.tune.com/blog/tune-values-told-in-source-code/" rel="nofollow">these values </a>in mind.</div>
-<p> </p>
-<img src="https://remotive.com/job/track/1308870/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src=https://remotive.com/job/1255720/logo>
                 </td>
                 <td width="300">
@@ -384,7 +233,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/devops/senior-devops-engineer-1255720 align="right" target="_blank">Apply</a>
