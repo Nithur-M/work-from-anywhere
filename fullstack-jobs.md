@@ -1,6 +1,6 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0018/4192/logo.gif>
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/4192/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Expensify inc.</h5>
@@ -13,7 +13,7 @@
                 <text>541 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/expensify-inc-full-stack-engineer align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/expensify-inc-full-stack-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -93,7 +93,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1224255/logo>
+                    <img src="https://remotive.com/job/1224255/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Discourse</h5>
@@ -106,7 +106,7 @@
                 <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/full-stack-engineer-customer-solutions-team-1224255 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-customer-solutions-team-1224255" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
