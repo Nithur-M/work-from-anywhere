@@ -1,6 +1,6 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/img/jobs/354be69d41a57eaeb45c2015dbd8c5991657488477.png" width="38px" height="38px" />
+                    <img src="https://remoteOK.com/assets/img/jobs/354be69d41a57eaeb45c2015dbd8c5991657488477.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>AssemblyAI</h5>
@@ -14,7 +14,7 @@
                 <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remoteOK.com/jobs/111588 align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/jobs/111588" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -25,7 +25,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/4868/logo.gif width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4868/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Owners </h5>
@@ -38,7 +38,7 @@
                 <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/owners-founding-software-engineer align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/owners-founding-software-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -61,7 +61,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1305612/logo>
+                    <img src="https://remotive.com/job/1305612/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Merkle Root, Inc</h5>
@@ -74,7 +74,7 @@
                 <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/senior-go-software-engineer-1305612 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-go-software-engineer-1305612" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -166,7 +166,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1187416/logo>
+                    <img src="https://remotive.com/job/1187416/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Iterative</h5>
@@ -179,7 +179,7 @@
                 <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
