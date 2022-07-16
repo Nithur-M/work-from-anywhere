@@ -25,7 +25,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/4868/logo.gif>
+                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/4868/logo.gif width="38px" height="38px">
                 </td>
                 <td width="300">
                     <h5>Owners </h5>
