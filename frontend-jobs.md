@@ -1,6 +1,6 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/4921/logo.gif>
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4921/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Rainforest QA</h5>
@@ -13,7 +13,7 @@
                 <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-frontend align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-frontend" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -68,7 +68,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1187421/logo>
+                    <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Iterative</h5>
@@ -81,7 +81,7 @@
                 <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -130,7 +130,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1260508/logo>
+                    <img src="https://remotive.com/job/1260508/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Slab</h5>
@@ -143,7 +143,7 @@
                 <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/frontend-engineer-1260508 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/frontend-engineer-1260508" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -155,7 +155,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1298859/logo>
+                    <img src="https://remotive.com/job/1298859/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>SportyBet</h5>
@@ -168,7 +168,7 @@
                 <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/frontend-engineer-1298859 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/frontend-engineer-1298859" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -214,7 +214,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/971825/logo>
+                    <img src="https://remotive.com/job/971825/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Spline</h5>
@@ -227,7 +227,7 @@
                 <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/senior-front-end-engineer-js-graphics-3d-971825 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-engineer-js-graphics-3d-971825" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -259,7 +259,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1207672/logo>
+                    <img src="https://remotive.com/job/1207672/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Zapier </h5>
@@ -272,7 +272,7 @@
                 <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/frontend-engineer-1207672 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/frontend-engineer-1207672" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
