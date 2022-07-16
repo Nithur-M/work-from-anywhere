@@ -232,4 +232,66 @@
 <img src="https://remotive.com/job/track/1187416/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Iterative</h5>
+                    <h3>Senior Software Engineer - Front-end, Typescript</h3>
+                </td>
+                <td width="300">
+                    <code>backend,git,machine learning,python</code>
+                </td>
+                <td width="200">
+                <text>10 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>The ML tools ecosystem is what JS space was 10 years ago: there’s a clear need for better tools, frameworks, and open standards. <span class="notion-enable-hover" style="font-style: italic;">ITERATIVE</span> is already a well known company in this fast-evolving space with a big, engaged open-source community. Please consider joining our <span class="notion-enable-hover" style="font-style: italic;">remote-first team</span> if you love open-source, if you’re interested in building dev tools and simplifying the lives of many, many developers in ML.</p>
+<p><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;"><br class="Apple-interchange-newline">Job Description</span></p>
+<p>We’re seeking<span class="notion-enable-hover" style="font-weight: 600;"> </span><span class="notion-enable-hover">TypeScript front-end engineers to build our</span><span class="notion-enable-hover"> <a href="https://studio.iterative.ai/" rel="nofollow" style="font-weight: 600;">SaaS product</a> and a</span><span class="notion-enable-hover" style="font-weight: 600;"> VS Code UI</span> (to be open sourced soon!) for our popular machine learning tools: <a class="notion-link-token notion-enable-hover" href="http://dvc.org/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--1168671846" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">DVC</span></a> (9k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span>on GitHub) and <a class="notion-link-token notion-enable-hover" href="http://cml.dev/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--2051758088" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">CML</span></a> (3k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span> on GitHub).</p>
+<p><span style="color: var(--remotive-chocolate);">If you have experience with dev tools like GitHub, UI plugins for Git, etc., you should have some sense what the project is like (if not, check our <a href="https://iterative.ai/" rel="nofollow">site</a>).</span></p>
+<p> </p>
+<p class="h3">Tech Stack</p>
+<ul>
+<li>TypeScript</li>
+</ul>
+<ul>
+<li>Node</li>
+</ul>
+<ul>
+<li>React</li>
+</ul>
+<ul>
+<li>Python (on the backend)</li>
+</ul>
+<p> </p>
+<p class="h3">Must have</p>
+<ul>
+<li>Strong TS/JS/Node experience (5+ years)</li>
+</ul>
+<ul>
+<li>Excellent communication skills and a positive mindset 🤗</li>
+</ul>
+<ul>
+<li>Initiative to help shape the engineering practices, products, and culture of a young startup</li>
+</ul>
+<p><br><br></p>
+<p class="h3">Nice to have</p>
+<ul>
+<li>Python or open source experience - good to have</li>
+</ul>
+<ul>
+<li>Some domain knowledge (DS/ML understanding) - an advantage</li>
+</ul>
+<p> </p>
+<img src="https://remotive.com/job/track/1187421/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
             </tr></table>
