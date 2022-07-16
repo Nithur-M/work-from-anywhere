@@ -1,6 +1,6 @@
 <div align="center"><h2>SITE RELIABILITY ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg>
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Chainlink Labs</h5>
@@ -13,7 +13,7 @@
                 <text>132 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/chainlink-labs-site-reliability-engineer-1 align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-site-reliability-engineer-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
