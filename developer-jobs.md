@@ -1,6 +1,6 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remoteOK.com/assets/img/jobs/65ac9ef0bfa937924b729906de73e9dd1657849096.png>
+                    <img src="https://remoteOK.com/assets/img/jobs/65ac9ef0bfa937924b729906de73e9dd1657849096.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>So Strawberry</h5>
@@ -11,10 +11,10 @@
                     <code>javascript, node, postgres</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remoteOK.com/jobs/111656 align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/jobs/111656" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -25,7 +25,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remoteOK.com/assets/img/jobs/6d82d8faeda4047c2b35adb1e52f13501657810146.png>
+                    <img src="https://remoteOK.com/assets/img/jobs/6d82d8faeda4047c2b35adb1e52f13501657810146.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>BBE Marketing</h5>
@@ -39,7 +39,7 @@
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remoteOK.com/jobs/111650 align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/jobs/111650" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -50,7 +50,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remoteok.com/assets/img/jobs/93c0b2ecdcf0e65c1ccfa2a10b4f4a861657602005.png>
+                    <img src="https://remoteok.com/assets/img/jobs/93c0b2ecdcf0e65c1ccfa2a10b4f4a861657602005.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Zipari</h5>
@@ -64,7 +64,7 @@
                 <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remoteOK.com/jobs/111615 align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/jobs/111615" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -75,7 +75,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remoteOK.com/assets/img/jobs/9759825d2dfc43acd1d07fa5e07e09cc1657170195.png>
+                    <img src="https://remoteOK.com/assets/img/jobs/9759825d2dfc43acd1d07fa5e07e09cc1657170195.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>__OperateBeyond__TrailerCentral</h5>
@@ -89,7 +89,7 @@
                 <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remoteOK.com/jobs/111567 align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/jobs/111567" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -100,7 +100,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0077/5047/logo.gif>
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5047/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Ganz Digital GmbH</h5>
@@ -110,10 +110,10 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/ganz-digital-gmbh-javascript-full-stack-developer-with-an-eye-for-design align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/ganz-digital-gmbh-javascript-full-stack-developer-with-an-eye-for-design" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -138,7 +138,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0067/0156/logo.gif>
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/0156/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Toptal</h5>
@@ -151,7 +151,7 @@
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/toptal-senior-back-end-developer-1 align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/toptal-senior-back-end-developer-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -184,7 +184,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0064/7908/logo.gif>
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7908/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>BBE Marketing Inc</h5>
@@ -197,7 +197,7 @@
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-php-developer-symfony-angular align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-php-developer-symfony-angular" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -230,7 +230,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/4933/logo.gif>
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4933/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Silverfin</h5>
@@ -243,7 +243,7 @@
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-developer-for-our-syncs-team align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-developer-for-our-syncs-team" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -336,7 +336,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/4690/logo.gif>
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4690/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Ohio University</h5>
@@ -349,7 +349,7 @@
                 <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/ohio-university-erp-developer-ii-remote-work-arrangements-flexible-schedules align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/ohio-university-erp-developer-ii-remote-work-arrangements-flexible-schedules" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -372,7 +372,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg>
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Close</h5>
@@ -385,7 +385,7 @@
                 <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/close-webflow-developer align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/close-webflow-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -456,7 +456,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/1384/logo.gif>
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/1384/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Groove</h5>
@@ -469,7 +469,7 @@
                 <text>60 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/groove-senior-full-stack-developer-3 align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/groove-senior-full-stack-developer-3" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -499,7 +499,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg>
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Composable Finance</h5>
@@ -512,7 +512,7 @@
                 <text>66 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/composable-finance-senior-frontend-developer align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/composable-finance-senior-frontend-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -567,7 +567,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0016/2452/logo.gif>
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/2452/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>G2i Inc.</h5>
@@ -580,7 +580,7 @@
                 <text>812 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/g2i-inc-senior-react-developer align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/g2i-inc-senior-react-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -615,7 +615,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1255730/logo>
+                    <img src="https://remotive.com/job/1255730/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Toptal</h5>
@@ -628,7 +628,7 @@
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1255730 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1255730" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -640,7 +640,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1255725/logo>
+                    <img src="https://remotive.com/job/1255725/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Toptal</h5>
@@ -653,7 +653,7 @@
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1255725 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1255725" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -665,7 +665,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1255719/logo>
+                    <img src="https://remotive.com/job/1255719/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Toptal</h5>
@@ -678,7 +678,7 @@
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1255719 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1255719" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -690,7 +690,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1255718/logo>
+                    <img src="https://remotive.com/job/1255718/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Toptal</h5>
@@ -703,7 +703,7 @@
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1255718 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1255718" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -715,7 +715,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1255721/logo>
+                    <img src="https://remotive.com/job/1255721/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Toptal</h5>
@@ -728,7 +728,7 @@
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/senior-react-developer-1255721 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1255721" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -740,7 +740,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1114350/logo>
+                    <img src="https://remotive.com/job/1114350/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Interaction Design Foundation</h5>
@@ -753,7 +753,7 @@
                 <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -951,7 +951,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/814298/logo>
+                    <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>A.Team</h5>
@@ -964,7 +964,7 @@
                 <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -1028,7 +1028,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1255731/logo>
+                    <img src="https://remotive.com/job/1255731/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Toptal</h5>
@@ -1041,7 +1041,7 @@
                 <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255731 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255731" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -1053,7 +1053,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1255712/logo>
+                    <img src="https://remotive.com/job/1255712/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Toptal</h5>
@@ -1066,7 +1066,7 @@
                 <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255712 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255712" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
