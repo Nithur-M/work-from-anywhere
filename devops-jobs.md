@@ -1,6 +1,6 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remoteOK.com/assets/img/jobs/6377b99e204306f829274dc42756d97d1657543659.png>
+                    <img src="https://remoteOK.com/assets/img/jobs/6377b99e204306f829274dc42756d97d1657543659.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>FetLife</h5>
@@ -14,7 +14,7 @@
                 <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remoteOK.com/jobs/111592 align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/jobs/111592" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -25,7 +25,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remoteOK.com/assets/img/jobs/90ff0b83631e7f7d539736fc0bc82c1d1657048761.png>
+                    <img src="https://remoteOK.com/assets/img/jobs/90ff0b83631e7f7d539736fc0bc82c1d1657048761.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Nethermind</h5>
@@ -39,7 +39,7 @@
                 <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remoteOK.com/jobs/111534 align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/jobs/111534" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -50,7 +50,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/4780/logo.gif>
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4780/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Nethermind</h5>
@@ -63,7 +63,7 @@
                 <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/nethermind-devops-engineer align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/nethermind-devops-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -121,7 +121,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/3391/logo.gif>
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/3391/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Clevertech</h5>
@@ -134,7 +134,7 @@
                 <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-7 align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-7" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -167,7 +167,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg>
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Chainlink Labs</h5>
@@ -180,7 +180,7 @@
                 <text>44 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/chainlink-labs-devops-engineer-1 align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-devops-engineer-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -223,7 +223,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1255720/logo>
+                    <img src="https://remotive.com/job/1255720/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Toptal</h5>
@@ -236,7 +236,7 @@
                 <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/devops/senior-devops-engineer-1255720 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1255720" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
