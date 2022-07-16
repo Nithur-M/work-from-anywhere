@@ -1,6 +1,6 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/4915/logo.gif>
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4915/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Spiralyze</h5>
@@ -13,7 +13,7 @@
                 <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/remote-jobs/spiralyze-senior-ui-ux-designer-1 align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/spiralyze-senior-ui-ux-designer-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -67,7 +67,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/986276/logo>
+                    <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>A.Team</h5>
@@ -80,7 +80,7 @@
                 <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276 align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
