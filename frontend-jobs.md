@@ -1,39 +1,5 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src=https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg>
-                </td>
-                <td width="300">
-                    <h5>Zebrands </h5>
-                    <h3> Frontend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href=https://weworkremotely.com/listings/zebrands-frontend-engineer align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> 
-    <br /><strong>URL:</strong> <a href="https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1">https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1</a>
-</p>
-
-<p>ZeBrands, con sede en la Ciudad de México, es la potencia de marca líder en tecnología de LATAM. Estamos revolucionando la industria minorista al lanzar oleadas de marcas innovadoras, impulsadas con tecnología de punta, que nos permite tener éxito en todos los mercados. ZeBrands es más conocido por ser el hogar de Luuna, una querida marca mexicana que ha tenido la misión de revolucionar el sueño. Una de las principales empresas emergentes de LinkedIn para trabajar en México, ZeBrands es un lugar emocionante para muchos jóvenes talentos de todo el mundo (más de 15 nacionalidades).</p><p><br></p><p><strong>¿Qué buscamos?</strong></p><p>●Más de 2 años de experiencia en desarrollo de frontend </p><p>●Sólidos conocimientos de ingeniería de software, considerando patrones de diseño, complejidad computacional y arquitectura de sistemas</p><p>● Conocimientos en React y React Native</p><p>● Experiencia en HTML, preprocesadores CSS / CSS (Sass, Less, Stylus) y JavaScript</p><p>● Diseño, desarrollo y prueba de IU para aplicaciones web y móviles.</p><p>● Experiencia con pruebas unitarias y pruebas de IU de un extremo a otro.</p><p>● Conocimiento de API Rest o GraphQL</p><p>● Conocimiento de AJAX</p><p>● Capacidad para comunicarse con fluidez en inglés, oralmente y por escrito.</p><p><br></p><p><strong>Agradable tener</strong></p><p>● Experiencia con TDD o implementación de pruebas automatizadas en diferentes niveles.</p><p>● Experiencia de backend</p><p><br></p><p><strong>Beneficios y compensación</strong></p><p>● Salario anual bruto</p><p>● Bonificación anual sujeta a la consecución de objetivos.</p><p>● Beneficios de la ley</p><p>● Seguro de gastos médicos mayores</p><p>● Seguros de vida y menores</p><p>● Soporte de gimnasio</p><p>● 15 días de vacaciones al año</p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/zebrands-frontend-engineer">https://weworkremotely.com/remote-jobs/zebrands-frontend-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src=https://wwr-pro.s3.amazonaws.com/logos/0076/4921/logo.gif>
                 </td>
                 <td width="300">
@@ -44,7 +10,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-frontend align="right" target="_blank">Apply</a>
@@ -112,7 +78,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421 align="right" target="_blank">Apply</a>
@@ -174,7 +140,7 @@
                     <code>cloud,docker,frontend,graphql</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/frontend-engineer-1260508 align="right" target="_blank">Apply</a>
@@ -199,7 +165,7 @@
                     <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/frontend-engineer-1298859 align="right" target="_blank">Apply</a>
@@ -258,7 +224,7 @@
                     <code>frontend,javascript,ui,design</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/senior-front-end-engineer-js-graphics-3d-971825 align="right" target="_blank">Apply</a>
@@ -303,7 +269,7 @@
                     <code>CSS,customer support,frontend,go</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/frontend-engineer-1207672 align="right" target="_blank">Apply</a>
@@ -409,88 +375,6 @@
 <p> </p>
 <p style="text-align: justify;">Zapier is committed to inclusion. As part of this commitment, Zapier will ensure that people with disabilities are provided reasonable accommodations. If reasonable accommodations are needed to participate in the job application or interview process, please contact jobs@zapier.com.</p>
 <img src="https://remotive.com/job/track/1207672/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src=https://remotive.com/job/1200232/logo>
-                </td>
-                <td width="300">
-                    <h5>tl;dv</h5>
-                    <h3>⚡️ Front-End Engineer | Chrome Extensions</h3>
-                </td>
-                <td width="300">
-                    <code>developer,react,ui,video</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href=https://remotive.com/remote-jobs/software-dev/front-end-engineer-chrome-extensions-1200232 align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; white-space: pre-wrap;"><strong><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border-style: initial; vertical-align: baseline; background: var(--artdeco-reset-base-background-transparent); outline: var(--artdeco-reset-base-outline-zero);">H</span><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border-style: initial; vertical-align: baseline; background: var(--artdeco-reset-base-background-transparent); outline: var(--artdeco-reset-base-outline-zero);">i</span></strong><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border-style: initial; vertical-align: baseline; background: var(--artdeco-reset-base-background-transparent); outline: var(--artdeco-reset-base-outline-zero); font-weight: var(--hue-web-font-weight-bold);"> </span>👋</p>
-<p> </p>
-<p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; white-space: pre-wrap;">Great that you are here! This job posting is all about the specific role that you could take at tl;dv. Because our overall company culture is extremely important for us, please also have a look at our tl;dv <a href="https://bit.ly/Come-work-at-tldv" rel="nofollow"><em>Culture &amp; Careers</em> page</a>⚡️🌈 🌐</p>
-<p> </p>
-<p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; white-space: pre-wrap;">If you then like what you read - shoot over your application! We're looking for highly motivated team players to join our hungry squad!</p>
-<p> </p>
-<p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; white-space: pre-wrap;"><strong>tl;dv in a nutshell</strong></p>
-<ul>
-<li><span style="color: rgba(0, 0, 0, 0.9); white-space: pre-wrap;">We are on the mission to enable people to organize work around life instead of life around work</span></li>
-<li><span style="color: rgba(0, 0, 0, 0.9); white-space: pre-wrap;">We put an end to meeting fatigue</span></li>
-<li><span style="color: rgba(0, 0, 0, 0.9); white-space: pre-wrap;">We are merging live &amp; async collaboration</span></li>
-<li><span style="color: rgba(0, 0, 0, 0.9); white-space: pre-wrap;">We offer stock options for every new member joining our close-knit team - all of us are entrepreneurs at heart!</span></li>
-<li><span style="color: rgba(0, 0, 0, 0.9); white-space: pre-wrap;">We are 100% remote 🌍🌏🌎</span></li>
-</ul>
-<p> </p>
-<p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; white-space: pre-wrap;">To get an idea of the type of company that we are building, check out our <em><a href="https://bit.ly/tldv-launch-video" rel="nofollow">Product Hunt launch</a> video</em>. Jack Nicholson will share with you how he thinks about meetings 😻</p>
-<p> </p>
-<p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; white-space: pre-wrap;"><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border-style: initial; vertical-align: baseline; background: var(--artdeco-reset-base-background-transparent); outline: var(--artdeco-reset-base-outline-zero);"><strong>Now to Front-End Development at tl;dv</strong></span></p>
-<p> </p>
-<p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; white-space: pre-wrap;">We're not afraid to think outside the box and rethink the way we interact with technology. With this mindset, we've already built a completely new way to navigate through video, to make our users feel as fast as Super Mario 🕹️👾 instead of sitting through boring meeting recordings. Building lightweight solutions such as our Grammarly-like Notion integration and other collaboration platforms is what truly excites us.</p>
-<p> </p>
-<p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0;"><span style="color: rgba(0, 0, 0, 0.9); white-space: pre-wrap;">Ultimately, we love attention to detail and take time for things that matter and that leave a lasting impression on our prospective users and clients. Like our <a href="https://tldv.io/" rel="nofollow"><em>landing page</em></a>. We have big projects in mind and can't wait to get you started in our Browser Extension team!</span><strong><br><span style="color: rgba(0, 0, 0, 0.901960784313726);"><span style="white-space: pre-wrap;"><br></span></span></strong></p>
-<p><strong style="white-space: pre-wrap;">Here is what we're looking for</strong></p>
-<ul>
-<li><span style="white-space: pre-wrap;">E</span>xperience in mid or large size companies building apps that scale</li>
-<li><span style="color: rgba(0, 0, 0, 0.9); white-space: pre-wrap;">3-5 years of experience as a Front-End Developer</span></li>
-<li><span style="color: rgba(0, 0, 0, 0.9); white-space: pre-wrap;">D</span>eep knowledge of React, TypeScript, and NodeJS</li>
-<li>Experience with Chrome Extensions is a big plus</li>
-<li>Experience with Native/Electron apps is a big plus</li>
-<li>Extensively modified and tailored UI component libraries such as ReachUI or MUI is a plus</li>
-<li>Knowledge of agile software development</li>
-<li>Initiative and ability to solve problems through innovative solutions</li>
-<li>Excellent interpersonal and written communication skills</li>
-</ul>
-<p> </p>
-<p><strong style="white-space: pre-wrap;">General skills and personality traits that are important to us across the company</strong></p>
-<ul>
-<li>You are passionate about the future of remote and async-first culture</li>
-<li>You care about the problem we're solving</li>
-<li>You love product-led growth</li>
-<li>You're able to navigate through ambiguity and thrive in early startups</li>
-<li>You're able to break goals into a clear roadmap with milestones</li>
-<li>You're independent and can manage your own workload (and our expectations)</li>
-<li>You're curious and creative</li>
-<li>You're looking outside the box and are passionate to improve other business areas at tl;dv</li>
-<li>You love growth!</li>
-<li>You have strong writing skills and are a proactive communicator</li>
-<li>Kind and honest personality</li>
-<li>BYOW - bring your own weirdness 🥰</li>
-</ul>
-<p> </p>
-<p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; white-space: pre-wrap;"><span style="box-sizing: inherit; margin: var(--artdeco-reset-base-margin-zero); padding: var(--artdeco-reset-base-padding-zero); border-style: initial; vertical-align: baseline; background: var(--artdeco-reset-base-background-transparent); outline: var(--artdeco-reset-base-outline-zero);"><strong>Our offer</strong></span></p>
-<p> </p>
-<p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; white-space: pre-wrap;">We offer a mix of Phantom Stock (0.1 - 0.3%) and competitive compensation for you. The rates are depending on your level of experience, but also the added value brought to the team! We like to focus on your trajectory, not your state. We believe that anyone with the right mindset and motivation can win against Goliath. As a consequence, were looking to promote from within.</p>
-<p> </p>
-<p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; white-space: pre-wrap;">To learn more about our culture and how we work as a team, check out our <a href="https://bit.ly/Come-work-at-tldv" rel="nofollow"><em>Culture &amp; Careers</em> page</a>!</p>
-<p> </p>
-<p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getfontsize: 1.6rem; --artdeco-reset-typography_getlineheight: 1.5; line-height: var(--artdeco-reset-typography_getLineHeight); color: rgba(0, 0, 0, 0.9); cursor: text; counter-reset: list-1 0 list-2 0 list-3 0 list-4 0 list-5 0 list-6 0 list-7 0 list-8 0 list-9 0; white-space: pre-wrap;"><strong>Showing in your application that you've read our Notion page, will highly increase our likelihood to respond within a day</strong> 🙌</p>
-<img src="https://remotive.com/job/track/1200232/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
