@@ -11,7 +11,7 @@
                     <code>python, backend, scalability</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remoteOK.com/jobs/111588 align="right" target="_blank">Apply</a>
@@ -35,7 +35,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://weworkremotely.com/remote-jobs/owners-founding-software-engineer align="right" target="_blank">Apply</a>
@@ -71,7 +71,7 @@
                     <code>backend,developer,git,go</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/senior-go-software-engineer-1305612 align="right" target="_blank">Apply</a>
@@ -176,7 +176,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href=https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416 align="right" target="_blank">Apply</a>
