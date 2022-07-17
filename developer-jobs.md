@@ -36,7 +36,7 @@
                     <code>symfony, php, javascript</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111650" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>python, senior, operational</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111615" align="right" target="_blank">Apply</a>
@@ -86,7 +86,7 @@
                     <code>css, html, git</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111567" align="right" target="_blank">Apply</a>
@@ -148,7 +148,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-back-end-developer-1" align="right" target="_blank">Apply</a>
@@ -184,52 +184,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7908/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>BBE Marketing Inc</h5>
-                    <h3> Full-Stack PHP Developer (Symfony + Angular)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-php-developer-symfony-angular" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/7908/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Dallas, Texas
-    <br /><strong>URL:</strong> <a href="http://bbemarketing.com/">http://bbemarketing.com/</a>
-</p>
-
-<div>BBE Marketing creates online products that help businesses connect with celebrities and influencers. We are looking for a talented Full-Stack Developer to join our team, who could help us in shipping features for our application and drive our application design and architecture as we grow.<br><br>
-</div><div>
-<br>The tasks include:</div><div>
-<br>- Developing new features<br>- Making fixes and updates to app<br>- Implementing quality checks, metrics and monitoring: automated testing, code style, integrating error reporting and performance monitoring tools etc.<br>- Work with team in planning and strategizing<br>- Making important architectural decisions<br><br>
-</div><div>
-<br>You will love this role if:</div><div>
-<br>- You like working with the stakeholders directly. We’re a relatively small startup, there’s no bureaucracy and complex hierarchy. You’ll be communicating directly with all the team members, from CEO to Customer Support.<br>- You are a team player<br>- You like to work and ship stuff fast without compromising quality. You know when to stop and call it done without trying to achieve the unattainable perfection.<br>- You are a problem solver<br>- You know how to find an optimal solution and ship it fast without introducing unnecessary complexity and overhead.<br>- You’re not afraid to prove your point when necessary. We trust our team members and believe they have businesses best interest at heart. If there’s no simple solution to a problem, you can provide the arguments and clearly communicate the risks.<br>- Self-starter, we don’t like to micro-manage our team<br>- You treat privileged information with care. You can be trusted with sensitive company data<br><br>
-</div><div>Requirements:<br><br>- Good written and spoken English.<br>- Solid experience with PHP, Symfony, MySQL (or any other RDBMS)<br>- Basic experience with Angular;<br>- Good knowledge of HTML, CSS, SASS/SCSS.<br>- Experience writing tests in PHP. PHPUnit is a must. Knowledge of other testing frameworks and tools will be a plus.<br>- Experience writing tests in TS/JS. Experience with Jasmine.<br>- You have experience setting up and/or maintaining CI pipelines running tests and other quality checks.<br>- Able to work 4 hours overlap within 08:00 - 18:00 EST<br><br>
-</div><div>
-<br>Nice to have:<br>- Experience with DigitalOcean;<br>- Experience with Bitbucket Pipelines<br><br>
-</div><div>
-<br>Job Types: Full-time, Contract<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-php-developer-symfony-angular">https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-php-developer-symfony-angular</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4933/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -240,7 +194,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-developer-for-our-syncs-team" align="right" target="_blank">Apply</a>
@@ -346,7 +300,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ohio-university-erp-developer-ii-remote-work-arrangements-flexible-schedules" align="right" target="_blank">Apply</a>
@@ -382,7 +336,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-webflow-developer" align="right" target="_blank">Apply</a>
@@ -466,7 +420,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/groove-senior-full-stack-developer-3" align="right" target="_blank">Apply</a>
@@ -499,74 +453,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Composable Finance</h5>
-                    <h3> Senior Frontend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>66 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/composable-finance-senior-frontend-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Germany
-    <br /><strong>URL:</strong> <a href="https://composable.finance">https://composable.finance</a>
-</p>
-
-<div><strong>Full time remote position</strong></div><div><em>Are you a quick learner when it comes to new technologies, frameworks, or libraries? Do you want to work with the latest technologies used in the blockchain world? If you answered yes to most of the questions, then we are looking forward to working with you.</em></div><div><br></div><div>
-<em>You will be joining a fast moving company, highly technical team that has deep knowledge of DeFi and all the cool things from the blockchain ecosystem.</em><br><br><strong>Responsibilities</strong>
-</div><ul>
-<li>Implement full fledged and performant UI for web3 apps with beautiful designs.</li>
-<li>Create trustworthy user experiences by building interfaces that are simple, easy to comprehend, performant and reliable</li>
-<li>Discuss and adapt designs with the design team</li>
-<li>Integrate your own UI/UX improvements to incentivize the users to use the platform.</li>
-<li>Work with the state of the art developer stack.</li>
-<li>Continually learn and apply relevant software development practices, patterns, tools and technologies.</li>
-</ul><div>
-<br><strong>Requirements &amp; skills</strong>
-</div><div><br></div><ul>
-<li>5+ years of programming experience.</li>
-<li>Excellent knowledge with React Material UI v4 (or preferably v5) framework.</li>
-<li>Excellent knowledge of CSS and precompilation technologies such as Sass or Less.</li>
-<li>Strong UX experience.</li>
-<li>Strong knowledge of React.</li>
-<li>Self-motivated with a high level of autonomy.</li>
-<li>Excellent communication skills as our entire team is remote.</li>
-<li>Advanced English proficiency.</li>
-</ul><div> </div><div><strong>Bonus points:</strong></div><ul>
-<li>Experience working in DeFi frontend development - understand the flow of the web3 application.</li>
-<li>Understand the interaction between frontend and solidity contracts.</li>
-</ul><div> </div><div><strong>Perks</strong></div><ul>
-<li>Competitive Crypto payments, all made in USDC. </li>
-<li>100% remote work. No geographic restrictions. </li>
-<li>An entrepreneurial environment that encourages innovation and facilitates the growth of cutting-edge technology. </li>
-<li>The ability to work as an independent contractor: We treat you as your own agent and support you accordingly!</li>
-<li>Annual Working Equipment Allowance.</li>
-<li>Monthly Gym &amp; Fitness Bonus</li>
-<li>Paid Absence Days</li>
-<li>Global WeWork membership, with access to more than 600 locations worldwide.</li>
-<li>Annual personal development funding to facilitate career development</li>
-<li>Diversity &amp; Inclusion: A company commitment to equal opportunity. We do not condone discrimination on the premise of race, color, religion, sexual orientation, age, gender identity or expression.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/composable-finance-senior-frontend-developer">https://weworkremotely.com/remote-jobs/composable-finance-senior-frontend-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/2452/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -577,7 +463,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>812 days ago</text>
+                <text>813 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/g2i-inc-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -625,7 +511,7 @@
                     <code>developer,rails,ruby,growth</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1255730" align="right" target="_blank">Apply</a>
@@ -650,7 +536,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1255725" align="right" target="_blank">Apply</a>
@@ -675,7 +561,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1255719" align="right" target="_blank">Apply</a>
@@ -700,7 +586,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1255718" align="right" target="_blank">Apply</a>
@@ -725,7 +611,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1255721" align="right" target="_blank">Apply</a>
@@ -750,7 +636,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -961,7 +847,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1038,7 +924,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255731" align="right" target="_blank">Apply</a>
@@ -1063,7 +949,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255712" align="right" target="_blank">Apply</a>
