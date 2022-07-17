@@ -11,7 +11,7 @@
                     <code>devops, ruby, gcp</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111592" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>backend, devops, aws</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111534" align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/nethermind-devops-engineer" align="right" target="_blank">Apply</a>
@@ -131,7 +131,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-7" align="right" target="_blank">Apply</a>
@@ -177,7 +177,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>44 days ago</text>
+                <text>45 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-devops-engineer-1" align="right" target="_blank">Apply</a>
@@ -233,7 +233,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1255720" align="right" target="_blank">Apply</a>
