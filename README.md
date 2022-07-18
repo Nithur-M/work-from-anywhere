@@ -35,7 +35,7 @@ Can't find what you are looking for? <a href="https://github.com/nithur-m/work-f
 
 If you know a good quality job feed <a href="https://github.com/nithur-m/work-from-anywhere/issues/new/choose">please let me know.</a>
 
-Want to receive alerts for your preferred job in email? <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRyfuSFMIEA8WNNepqQeaXlWMGVNayf1Rd_MFqi0mNOBmSjA/viewform?usp=sf_link">Please subscribe here.</a>
+### Want to receive alerts for your preferred job in email? <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRyfuSFMIEA8WNNepqQeaXlWMGVNayf1Rd_MFqi0mNOBmSjA/viewform?usp=sf_link">Please subscribe here.</a>
 
 <p>Help me buy a domain for this project and maintain it further:</p>
 <a href="https://www.buymeacoffee.com/nithur">
