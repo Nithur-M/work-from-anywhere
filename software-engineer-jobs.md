@@ -11,7 +11,7 @@
                     <code>python, backend, scalability</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111588" align="right" target="_blank">Apply</a>
@@ -35,7 +35,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/owners-founding-software-engineer" align="right" target="_blank">Apply</a>
@@ -61,6 +61,64 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Discourse</h5>
+                    <h3> Software Engineer - EMEA</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>60 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/discourse-software-engineer-emea-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Delaware 
+    <br /><strong>URL:</strong> <a href="http://www.discourse.org">http://www.discourse.org</a>
+</p>
+
+<div>
+<strong><br>About the job<br></strong><br>
+</div><div>This job posting is for someone who is located in the EMEA region, encompassing timezones UTC-1 to UTC+3. We frequently receive applications from people who are not in the advertised timezone, but are prepared to work overnight. We don’t believe this is a healthy or sustainable option so we will not be accepting applications from people living in other timezones.<br><br>
+</div><div>
+<br>Software engineers at Discourse are generalists. Some days you may be working on a complex JavaScript feature implemented in Ember.js. Other days you may be working on our Ruby on Rails API server. Some days you may be contributing patches to frameworks or working on one of the many gems and libraries Discourse maintains.<br><br>
+</div><div>
+<br>The majority of the work you will do will be open source.<br><br>
+</div><div>
+<br>Discourse is primarily a hosting company: some of your focus will be around improving our hosting infrastructure, resolving issues for customers, or assisting with customer-specific implementations and migrations.<br><br>
+</div><div>
+<strong><br>About you<br></strong><br>
+</div><div>You work well independently and remotely with minimal amounts of day-to-day micromanagement. You should be comfortable driving a feature from the design to release. At Discourse the ability to communicate well in writing is paramount. Most of your interaction with team members will be in writing. You will also interact regularly with the public on <a href="https://meta.discourse.org/">https://meta.discourse.org</a>. We have no central physical office, we are 100% remote.<br><br>
+</div><div>
+<br>You should be passionate about open source and comfortable with public code reviews. You should also be comfortable picking up and exploring new technologies as needed.<br><br>
+</div><div>
+<br>You have some Ruby and JavaScript experience; all Discourse applicants have a 10-40 hour paid trial project (over 2-10 weeks) prior to joining the team. The trial project usually involves adding a feature to Discourse or a Discourse plugin.<br><br>
+</div><div>
+<br>You should be kind to your co-workers. We believe in having a welcoming workplace where people with diverse backgrounds and cultures meet together to create something great.<br><br><strong>About our Benefits</strong><br><br>
+</div><div>
+<br>We believe that high-quality benefits make our team more effective. We’ve been thoughtful about <a href="https://www.discourse.org/team#benefits">our benefits package</a> which include a completely flexible schedule, 5 weeks of vacation per year, funding for a co-working stipend, and much more!<br><br>
+</div><div>
+<br><strong>How to Apply</strong><br><br>
+</div><div>
+<br>We encourage you to apply, even if you don’t meet every qualification! Apply by sending a cover letter and resume to <a href="mailto:jobs@discourse.org">jobs@discourse.org</a>.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/discourse-software-engineer-emea-1">https://weworkremotely.com/remote-jobs/discourse-software-engineer-emea-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1305612/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -71,7 +129,7 @@
                     <code>backend,developer,git,go</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-go-software-engineer-1305612" align="right" target="_blank">Apply</a>
@@ -176,7 +234,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -244,7 +302,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
