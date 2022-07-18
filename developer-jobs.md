@@ -11,7 +11,7 @@
                     <code>javascript, node, postgres</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111656" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>symfony, php, javascript</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111650" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>python, senior, operational</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111615" align="right" target="_blank">Apply</a>
@@ -86,7 +86,7 @@
                     <code>css, html, git</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111567" align="right" target="_blank">Apply</a>
@@ -96,44 +96,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>About Us: We are an established rapidly growing SaaS company solving complex issues for auto, trailer and rv dealers to simplify their lives. We are looking for a strong front end developer whose responsibilities include design changes, design updates, and assisting with design and development of websites.</p><p><strong>**About You:. You have a portolio or example of code / past projects. You should be familiar with Html, CSS, and Git or willing to learn how to use Git.**</strong></p><p>Competitive pay based on experience / Remote ok / Must be North American based or willing to work North American business hours. | Posted by: OperateBeyond.com</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5047/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Ganz Digital GmbH</h5>
-                    <h3> JavaScript Full Stack Developer with an Eye for Design</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/ganz-digital-gmbh-javascript-full-stack-developer-with-an-eye-for-design" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/5047/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Zurich
-    <br /><strong>URL:</strong> <a href="http://www.ganzdigital.com">http://www.ganzdigital.com</a>
-</p>
-
-<div>Hello there! We are Stefan and Tobias, brothers and founders of <a href="https://www.ganzdigital.com">Ganz Digital</a>, and we’re looking for a talented coder to join our team.</div><div><strong><br>We are a tiny startup incubator from Switzerland.</strong></div><div>
-<br><br>We help people bring their ideas to life and their products to success. We do this by designing and developing web and mobile apps, creating and running marketing campaigns, and helping our customers to think digitally and execute lean.<br><br>Apart from the projects we realize for our customers, we also have a small number of apps and platforms that we market ourselves.<br><br>The range of our projects spans simple proof-of-concepts, minimum viable products, and full-fledged Software-as-a-Service applications.</div><div><strong><br>You are a talented coder with a feel for aesthetics.</strong></div><div>
-<br><br>In your 2 to 5 years of building software, you’ve developed web sites and web apps with <em>ReactJS </em>and <em>TailwindCSS</em>, mobile apps with <em>React Native</em>, and backends with <em>NodeJS</em> and—ideally—<em>Firebase</em>.<br><br>You did all that not just because you like to code but because you like to build software that is being used by people. You care about clarity – in your code as much as in the UI. That’s why you keep things short and simple. <br><br>You know how you work best, when you’re the most productive, and when you need a break. You know how to tackle big tasks, how to deliver on time, and when to let go. You know when to use a quick hack, and when to rewrite a chunk of code to make things easier in the future.<br><br>You are driven, opinionated, quick and thorough. </div><div><strong><br>We offer a ton of freedom and fair pay.</strong></div><div>
-<br><br>You will be the driver of the projects you work on, not just a cog in a machine churning out code. We will free the way for you to build great software in the way that works for you. We care about results, not process.<br><br>Everyone at Ganz Digital works fully remote. You can choose where and when you want to work. A full-time job consist of 40 hours of work per week and you can select a workload anywhere between 60% and 100%.<br><br>We pay competitive salaries based on your local economy, and we top it up with an additional monthly allowance for your office and equipment. You also get 25 days of paid vacation per year.</div><div><strong><br>We would love to hear from you.</strong></div><div>
-<br><br>Does this sound like a match? Then please fill out our <a href="https://forms.gle/T8QGkDEvADizxMZ47">questionnaire</a> (https://forms.gle/Wtay5HHbAWE8rb6QA) and drop us an <a href="mailto:jobs@ganzdigital.com">email</a> with a link to your favorite project in your portfolio.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ganz-digital-gmbh-javascript-full-stack-developer-with-an-eye-for-design">https://weworkremotely.com/remote-jobs/ganz-digital-gmbh-javascript-full-stack-developer-with-an-eye-for-design</a></p>
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -148,7 +110,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-back-end-developer-1" align="right" target="_blank">Apply</a>
@@ -184,112 +146,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4933/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Silverfin</h5>
-                    <h3> Experienced Ruby Developer for our Syncs Team</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-developer-for-our-syncs-team" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4933/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Belgium
-    <br /><strong>URL:</strong> <a href="https://silverfin.com">https://silverfin.com</a>
-</p>
-
-<div>We start with the cliff notes about the position. If this appeals to you, continue reading for a more long text about working at Silverfin and your role 👇<br><br>According to our vision to build a diverse, equitable and inclusive organisation, our policy is to only make a final hiring decision if minority groups are sufficiently represented in the list of candidates applying for the position. For this reason it’s possible interviews get slightly delayed until we’ve reached that goal.</div><div>
-<strong><br>What can we offer you?<br></strong><br>
-</div><ul>
-<li>Actual, proper work-life balance</li>
-<li>A salary range of €75.000 - €110.000 a year</li>
-<li>Choose your own working hours and work 100% remotely</li>
-<li>Personal growth training and opportunities</li>
-<li>Join a distributed remote-first engineering team with 35 colleagues in 15 different countries</li>
-<li>A refreshing work environment with professional, friendly and welcoming colleagues</li>
-<li>A €1000 yearly budget for conferences, courses, workshops or other expenses that will improve your skills</li>
-<li>We offer monthly company-wide <a href="https://www.linkedin.com/pulse/wellbeing-days-silverfin-stefaan-arryn/?trackingId=rsbUepctTTaBPaiTLvi7Kg%3D%3D">Wellbeing Days</a> for all employees (10 paid days off in 2022)</li>
-</ul><div>
-<strong><br>What will you work on?<br></strong><br>
-</div><ul>
-<li>Building and maintaining integrations with accountancy software packages and APIs.</li>
-<li>Improving and expanding our on-premise Ruby client which runs on thousands of our customer’s systems.</li>
-<li>Designing and building features to make the lives of our system administrators easier, such as an auto-updater and continuous deployment.</li>
-</ul><div>
-<strong><br>What are we looking for?<br></strong><br>
-</div><ul>
-<li>You’re experienced in both Ruby <em>and</em> Rails, and also understand where the boundaries lie between them. You can code in Ruby without any of Rails’ training wheels if necessary.</li>
-<li>You’re up for mentoring coworkers and can give in-depth, productive feedback during code reviews. While you appreciate the small stuff, you recognise bike-shedding and can avoid its pitfalls.</li>
-<li>You enjoy integrating with APIs and aren’t easily dissuaded when encountering unreliable or poorly documented systems.</li>
-<li>You code with reason and can justify the important decisions you made during development.</li>
-<li>You can communicate clearly in English, both in writing and verbally.</li>
-<li>You know and can apply best practices when relevant. That means the usual like version control, testing, and refactoring; but also higher level concepts such as good object oriented design.</li>
-<li>You're aware of the trade-offs involved in proper engineering and can make balanced business decisions, keeping in mind all the stakeholders of the project.</li>
-<li>You’ve got opinions on code design and you can discuss them, but you’re professional enough to not let those opinions get in the way of a consensus if necessary.</li>
-</ul><div>
-<br>If you’re any good at Ruby, this is probably not the first job ad you’ve seen, so we’ve done our best to stand out while also accurately presenting what we’re all about. If it sounds like you would enjoy working with us, don’t hesitate to apply or drop us a line with questions on <a href="mailto:engineering-jobs@silverfin.com">engineering-jobs@silverfin.com</a>.<br><br><em>Ahum. Here it comes.</em>
-</div><div>
-<strong><br>What’s a Silverfin?<br><br></strong>At Silverfin we’re trying to apply the promise of software to the age-old industry of accounting. With our SaaS we’re automating a large chunk of the busy-work that accountants are currently handling manually, and are building new tools so they can provide better services to their customers. We aim to optimise their workflow in such a way that accountants can spend more time on the much more impactful and rewarding work of advising their customers, the business owners.<br><br>
-</div><div>
-<br>The good news is we’re succeeding in doing exactly that. Every day more than 15.000 financial service professionals use Silverfin to help and advise more than 200.000 businesses. Our customers adore us! The even better news is there’s still plenty left to work on, and that’s where we hope you come in.</div><div>
-<strong><br>What’s Team Syncs?<br><br></strong>One of the core features of Silverfin is integration with the bookkeeping software that accountants already work with, in order to import their accounting data. This means we have integrations with over 30 different vendors, and we want to add more as we expand to different markets.<br><br>
-</div><div>
-<br>Team Syncs is one of the teams responsible for creating and maintaining these kind of integrations. The ideal candidate loves working with APIs, including the uncertainty they bring. Some APIs we need to use are poorly designed, badly documented or unreliable, and it can be challenging to build a robust integration. Yet the satisfaction of empowering our customers to import gigabytes of data from their clunky bookkeeping software and to use Silverfin's advanced features makes it all worth it.<br><br>Being a tinkerer and having persistence to solve puzzles will definitely be a plus to face our many challenges due to the plethora of different systems we interact with.<br><br><em>Now let’s give you something to chew on!</em><br><br>Our short-term roadmap will focus on:</div><ul>
-<li>Refactoring and improving our own framework (written in Ruby) which is installed on windows machines and consumes our REST API. This process involves accessing raw data on customer’s machines and sometimes doing reverse engineering to collect and transmit the required data.</li>
-<li>Building an auto-updater for our system to be able to perform automatic updates of our Ruby client in a timely fashion over more than a thousand remote installations running at our customers’ premises.</li>
-<li>Improving our Ruby client’s performance</li>
-<li>Adding tools to our framework to debug, instrument and log errors.</li>
-</ul><div>
-<br>Longer term we will then focus on:</div><div><br></div><ul>
-<li>Refactoring internal data import pipeline. The main goal will be to move from sequential processing to parallel processing to improve syncs speed and stability by cutting through legacy technical debts.</li>
-<li>Improving our syncs interacting with 3rd party API to optimise the amount of queries we perform and reduce necessary pressure. Sobriety at it’s finest!</li>
-<li>Implement orchestration when downloading financial documents to improve performance and give our customer better feedback.</li>
-<li>Bringing our administration sync pipeline to the next level by integrating technologies only used by our financial pipeline.</li>
-</ul><div>
-<strong><br>What makes the engineering team at Silverfin special?<br><br></strong>We’re a remote-first engineering team of 35 people distributed in 14 different countries. A priority for us is maintaining proper work-life balance. We avoid meetings as much as possible, accept deadlines only when absolutely necessary, and never expect anyone to work longer hours than they’ve signed up for. A day in our working lives is pretty boring, and we feel that’s exactly how it should be.</div><div>
-<br>Working with us means you can be flexible with your schedule. It’s OK to disappear for a few hours in the middle of the day to run some errands, get a haircut, pick up the kids — whatever reason, you don’t need to explain yourself. You also fully decide when you take time off: our team is sufficiently varied and well organised that there are always enough people around to handle the load, and in the rare cases it’s not, we will decrease the load instead of asking people to move their holiday.<br><br>Being remote-first means we favour asynchronous communication. We don’t shy away from chatting in Slack, but the important decisions or discussions are done in Gitlab issues, over email, or in our wiki, so there’s a written, persisted record. We’re mindful of maintaining long chunks of focussed time, which means we avoid @-mentions or PMs on Slack, and other triggers and interrupts. We encourage using Slack’s DnD function, especially when you’re not working!<br><br>We’d be really happy to welcome you in our #engineering channel, but it’s not just virtual: we make sure we regularly get to see each other in real life too. Twice a year we fly the whole engineering team together to a different location in Europe, and at least once a year we join up with the rest of the company so we can spend some time together with the other departments.<br><br>
-</div><div>
-<strong><br>What does working at Silverfin look like?<br><br></strong>We work in nimble teams around 5 people in size, with each team taking ownership of a specific set of features of the application. Teams are responsible for a full slice across the stack, so both the backend as well as the frontend of each part is maintained by the same people. In team syncs, however, we almost have no front-end work to do, as most of of our work features do not involve a UI.</div><div>
-<br>Our ops team ensures things run smoothly, deploys happen correctly, and will work with you when issues should arise. We’re enthusiastic followers of the devops mindset, which means ops and developers work together to solve problems, and empower each-other to be self-sufficient, instead of throwing problems over the wall to the “other side”.<br><br>We run an up-to-date Rails monolith on the backend, with PostgreSQL and Redis for persistence and caching, and everything is running on a Kubernetes cluster in Google Cloud. Our daily tools include GitLab, Quip and Slack, with Zoom as our remote conferencing tool of choice. Team syncs also owns a Ruby client app that runs on windows servers to interface with local accounting software.<br><br>No code gets deployed without a code-review by a peer and testing is a must. Our pipeline automates deployment when the suite is green, and deploys happen dozens of times a day. Each team is currently doing Kanban, but they’re free to follow whatever process suits them best. There are regular retros held to work towards continuous improvement.<br><br>Software for accountants is not considered to be very exciting, but we have our fair share of technical challenges. To give you a sense of scale: our database exceeds 10TB*, and our largest table has crossed the 10 billion row mark a long while back. We interface with more than 30 different external APIs, and provide third parties an API of our own.<br><br>*:<em> Our ops team noted that this actually isn’t that hard to achieve if you’re just indexing everything, but it still sounds impressive, right?</em><br><br>
-</div><div>
-<strong><br>What does your future look like?<br><br></strong>Personal growth is key to staying motivated. At Silverfin you don’t need to move to management in order to advance. We see the individual contributor track and the management track as two different growth paths which every engineer can follow and switch between. You can be promoted, including pay raises, as a contributor just like as a manager.</div><div>
-<br>Everyone has a €1000 yearly budget to spend on conferences, courses, workshops or other training to improve their skills and level up. This also includes accommodation, travel costs. If the conference is on a workday you’ll get paid like any normal day.</div><div><strong><br>Requirements</strong></div><ul>
-<li>You have at least 4 years of experience working with Ruby, or 2 years of experience with Ruby and 4 years in one or more other programming language.</li>
-<li>You <em>get</em> Rails</li>
-<li>Your work hours have some overlap with EU business hours (we require your local timezone to be within CET +/- 3h)</li>
-</ul><div>
-<strong>Nice to have’s<br><br></strong>These would be nice but are definitely not necessary. Don’t worry if none of the following applies to you.</div><ul>
-<li>Experience as a remote worker in a fully remote team</li>
-<li>Experience working with large datasets and the problems they bring</li>
-<li>Experience in Fintech</li>
-<li>Accounting knowledge</li>
-<li>Knowledge of running Ruby on Windows machines</li>
-</ul><div>
-<strong>Interested?<br><br></strong>You can apply today and we’ll start having interviews from 18 July. There’s no benefit to applying early, so you can take your time answering the application questions.</div><ul>
-<li><a href="https://engineering.silverfin.com/engineering-interview-process/">Read about what our interviewing process looks like</a></li>
-<li><a href="https://jobs.eu.lever.co/silverfin/91a98faa-fdcc-4bb1-88a7-cc3b3eaaaeeb/apply">Apply for the job right here</a></li>
-<li>Or email us with any questions on <a href="mailto:engineering-jobs@silverfin.com">engineering-jobs@silverfin.com</a>
-</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-developer-for-our-syncs-team">https://weworkremotely.com/remote-jobs/silverfin-experienced-ruby-developer-for-our-syncs-team</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4690/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -300,7 +156,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ohio-university-erp-developer-ii-remote-work-arrangements-flexible-schedules" align="right" target="_blank">Apply</a>
@@ -326,90 +182,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Close</h5>
-                    <h3> Webflow Developer </h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>36 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/close-webflow-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> USA
-    <br /><strong>URL:</strong> <a href="http://www.close.com">http://www.close.com</a>
-</p>
-
-<div><strong>About Us</strong></div><div>At Close we’re building the sales communication platform of the future. With our roots as the very first sales CRM to include built-in calling, we’re leading the industry toward eliminating manual processes and helping companies to close more deals (faster). </div><div><br></div><div>Since our founding in 2013 we’ve grown to become a profitable, 100% globally distributed team of 55+ high-performing, happy people that are dedicated to building a product our customers love. </div><div><br></div><div>We want to change how the world sells not only through thought leadership in toolset, but also in mindset. As we expand our customer base, release new features, create new content, and provide additional sales resources to customers and non-customers alike, we want a website that can keep up. That’s where you come in!</div><div><br></div><div>
-<br><strong>About You</strong>
-</div><div>We’re looking for an intrepid Webflow and Frontend Developer who knows how to marry the science of development with the art of web design. Someone with an analytical mindset who still has the ability to think outside of the box in order to maintain an ever evolving, aesthetically pleasing, functional, secure, and easy to use website. </div><div><br></div><div>Our site is built out in Webflow and our blog in Ghost. You’ll need to maintain and improve these systems, generate component libraries to make site updates more sustainable across the company, and act as our internal thought leader on all things related to our website. </div><div><br></div><div>You’ll report to the Director of Sales and Marketing as part of a growing Product Marketing team and should be comfortable working in a fast-paced environment with a medium-sized, talented team where you’re supported in your efforts to grow professionally. You are able to manage your time well, communicate effectively, and collaborate in a fully distributed team. <br><br><strong>What You'll Do...</strong>
-</div><ul>
-<li>Assist in maintaining our existing website, including verifying functionality and alignment with security best practices</li>
-<li>Restructure and organize existing and new content within Webflow and Ghost</li>
-<li>Create wireframes, storyboards, user and process flows and site maps to communicate interaction and design ideas</li>
-<li>Design and implement on brand and aesthetically pleasing web pages </li>
-<li>Ensure existing and new web page implementations align with SEO, accessibility, and usability best practices and company objectives</li>
-<li>Work with our marketing team to increase site traffic and conversion rates</li>
-<li>Create component libraries that others on the team can use as self-service options for minimal site updates, such as publishing blog posts</li>
-<li>Address internal and external user feedback regarding the website and own related QA processes and documentation</li>
-<li>Be a thought leader regarding all things Close branding and website design</li>
-</ul><div>
-<br><strong>You Should...</strong>
-</div><ul>
-<li>Have 3+ years of experience as a frontend developer</li>
-<li>Have 1+ years of Webflow experience</li>
-<li>Have advanced experience with modern HTML, CSS, and JavaScript</li>
-<li>Ideally have experience with REST APIs, JSON, XML, and/or SQL (these skillsets would be a huge bonus)</li>
-<li>Have a keen eye for UX/UI and a pulse on current related trends</li>
-<li>Have experience with search engine optimisation</li>
-<li>Have strong troubleshooting and analytical abilities</li>
-<li>Have excellent communication and collaboration skills</li>
-<li>Be proficient in Figma or other visual design and wire-framing tools</li>
-</ul><div>
-<br><strong>Why Close?</strong>
-</div><ul>
-<li>
-<a href="https://www.youtube.com/watch?v=ZbyGnLhtj0o&amp;feature=youtu.be">Culture video</a> 💚</li>
-<li>100% remote company <em>(we believe in trust and autonomy)</em>
-</li>
-<li>Choose between working 5 days/wk (standard full-time) or 4 days/wk @ 80% pay</li>
-<li>
-<a href="https://www.youtube.com/watch?v=gKjyXMz-q-Q&amp;feature=youtu.be">Annual team retreats</a> ✈️</li>
-<li>Quarterly virtual summits</li>
-<li>5 weeks PTO + Winter Holiday Break</li>
-<li>2 additional PTO days every year with the company</li>
-<li>1 month paid sabbatical every 5 years</li>
-<li>Co-working stipend</li>
-<li>Revenue Share (after 1 year)</li>
-<li>Paid parental leave</li>
-<li>Medical, Dental, Vision with HSA option (US residents)</li>
-<li>401k matching at 6% (US residents)</li>
-<li>Dependent care FSA (US residents)</li>
-<li>Contributor to <a href="https://stripe.com/climate">Stripe's climate</a> initiative 🌍❤️ </li>
-<li>
-<a href="https://close.io/about/">Our story and team</a> 🚀</li>
-</ul><div>At Close, everyone has a voice. We encourage transparency and practice a mature approach to the work-place. In general, we don’t have strict policies, we have guidelines. Work/Life harmony is an important part of our business - we believe you bring your best to work when you practice self-care (whatever that looks like for you).  </div><div><br></div><div>We come from 16 countries located in 5 of the 7 continents. We’re a collection of talented humans rich in diverse backgrounds, lifestyles, and cultures. Every year we meet up somewhere around the world to spend time with one another. These gatherings are an opportunity to strengthen the social fiber of our global community.</div><div><br></div><div>Our team is growing in more ways than one - we’ve recently launched 17 babies (and counting!). Unanimously, our favorite and most impactful value is “Build a house you want to live in.” We strive to make decisions that are authentic for our people and help our customers become more successful. </div><div><br></div><div><em>Our application process was designed to promote equitable and unbiased hiring practices. We ask a small series of questions that are similar to what would be asked in the first interview. This helps us learn more about you right from the start so please be sure to answer each question thoughtfully. Each application will receive two screens by two different reviewers. Regardless of fit, you will hear back from us letting you know if we'll be moving forward.</em></div><div><br></div><div>
-<em>Interested in </em><a href="https://close.com/"><em>Close</em></a><em> but don't think this role is the best fit for you? View our </em><a href="http://jobs.close.com/"><em>other positions</em></a><em>.</em>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/close-webflow-developer">https://weworkremotely.com/remote-jobs/close-webflow-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/1384/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -420,7 +192,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/groove-senior-full-stack-developer-3" align="right" target="_blank">Apply</a>
@@ -463,7 +235,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>813 days ago</text>
+                <text>814 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/g2i-inc-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -511,7 +283,7 @@
                     <code>developer,rails,ruby,growth</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1255730" align="right" target="_blank">Apply</a>
@@ -536,7 +308,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1255725" align="right" target="_blank">Apply</a>
@@ -561,7 +333,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1255719" align="right" target="_blank">Apply</a>
@@ -586,7 +358,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1255718" align="right" target="_blank">Apply</a>
@@ -611,7 +383,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1255721" align="right" target="_blank">Apply</a>
@@ -636,7 +408,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -847,7 +619,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -914,6 +686,79 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1288320/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>HR à la carte</h5>
+                    <h3>Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>api,AWS,developer,javascript</code>
+                </td>
+                <td width="200">
+                <text>23 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1288320" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>POSITION</strong></p>
+<p>Full Stack Developer (2 permanent positions)</p>
+<p><strong>ORGANIZATION</strong> </p>
+<p>BeerBoard</p>
+<p><strong>LOCATION</strong><strong> </strong> </p>
+<p>Tampa Bay area, FL -  Remote </p>
+<p><strong>Why join the BeerBoard team?</strong></p>
+<p>BeerBoard is the leading technology and automated intelligence company for the food &amp; beverage industry. We manage over $1 billion in total bar sales and 55,000 products through our industry-leading technology for on-premise LBW. Our patented Software as a Service (SaaS) platform has digitized the interaction between retailers and distributors, providing automated ordering, inventory, and pricing from a single dashboard. </p>
+<p>BeerBoard has streamlined efficiency, operations and increased top and bottom-line revenue across the industry.</p>
+<p>Headquartered in Syracuse, NY, we are looking for two (2) <strong>Full Stack Developer</strong> to join our team in Florida/remotely. </p>
+<p><strong>About the Opportunity</strong></p>
+<p>Reporting to Development Lead, the Full Stack Developer plays a key role in the delivery of ongoing products on BeerBoard’s roadmap and will help develop the products roadmaps which outline the product vision, key features and the order in which the features will be delivered.</p>
+<p>You will be working as a part of a friendly, cross-discipline agile team who helps each other solve problems across all functions. As a custodian of customer trust, you will employ best practice in development, security, accessibility and design to achieve the highest quality of service for our customers.</p>
+<p><strong>In this role, you will:</strong></p>
+<ul>
+<li>In collaboration with Development Lead, help and support design and architect of the department</li>
+<li>Collaborate with external vendors to help them design appropriate architect environment and support transition</li>
+<li>Learn and research new technologies and provide active support to BeerBoard legacy environment</li>
+<li>Document the workflow whenever it's needed.</li>
+<li>Doing code reviews and improvements with other developers/vendors</li>
+<li>Maintaining codebase and making improvements when necessary.</li>
+<li>Ensure cohesive experience across multiple devices.</li>
+<li>Identify problem areas in code &amp; solutions.</li>
+<li>Assist with and rapidly test solutions for the team.</li>
+</ul>
+<p> </p>
+<p><strong>We</strong><strong>’re looking for someone with the following:  </strong></p>
+<ul>
+<li>3+ years of Web and API development</li>
+<li>College Diploma /Certification in IT related field</li>
+<li>Experience in REST API implementation</li>
+<li>Experience in building rich user interfaces using Angular</li>
+<li>3+ years of experience with NodeJS, JavaScript and Typescript</li>
+<li>1-3 + years of experience using NestJS</li>
+<li>3+ years of experience using Angular</li>
+<li>Good knowledge of SQL</li>
+<li>1- 3 years AWS development experience</li>
+<li>Good code debugging skills</li>
+<li>ReactJS knowledge, nice to have</li>
+<li>Ability to quickly learn and work with existing code base</li>
+</ul>
+<p><strong>Like what you</strong><strong>’</strong><strong>re hearing so far, but still wondering if BeerBoard is right for you?  We offer: </strong></p>
+<ul>
+<li>A shared passion for excellent standards within the beer industry.</li>
+<li>Working for a growing, entrepreneurial, and close-knit company.</li>
+<li>A competitive salary with health benefits.</li>
+</ul>
+<p>Interested in being a part of BeerBoard? We look forward to your application!</p>
+<p> Please inform us if you require any accommodations during the hiring process. Please note that only those candidates selected for an interview will be contacted. </p>
+<img src="https://remotive.com/job/track/1288320/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1255731/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -924,7 +769,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255731" align="right" target="_blank">Apply</a>
@@ -949,7 +794,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255712" align="right" target="_blank">Apply</a>
