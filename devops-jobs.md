@@ -11,7 +11,7 @@
                     <code>devops, ruby, gcp</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111592" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>backend, devops, aws</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111534" align="right" target="_blank">Apply</a>
@@ -46,6 +46,99 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>Our DevOps team known as the Angkor of Nethermind are responsible for processes related to product development operations.</p><h2><strong>As a member of this team you will:</strong></h2><ul><li><strong>Build and maintain</strong>Â company-wide CI/CD pipelines for different projects (Github Actions)</li><li><strong>Deploy and maintain</strong>Â the blockchain infrastructure in a multi-cloud environment (DigitalOcean, AWS, Google Cloud, others)</li><li><strong>Follow</strong>Â the best, modern security patterns to keep the secrets secure</li><li><strong>Monitor</strong>Â the infrastructure with tools like Grafana, Prometheus, New Relic, OpsGenie</li><li><strong>Write scripts</strong>, lambda functions and even full applications with the language of your choice that can help us improve the workflow</li><li><strong>Automate work</strong>Â - yours and others (Terraform, Ansible, CloudFormation)</li><li><strong>Write clean procedures</strong>Â that everybody can understand and follow</li><li><strong>Participate</strong>Â in the Ethereum ecosystem events from the DevOps side</li><li><strong>Ensure 99.99% system uptime</strong>, smooth operations and work with infra handling millions of request per second</li><li><strong>Have strong cloud networking experience</strong>Â and troubleshooting skills</li><li><strong>Take ownership</strong>Â of end to end automation</li><li><strong>Implement systems</strong>Â that are highly available, scalable and secure on cloud platforms and on-premise</li><li><strong>Work</strong>Â with many different operating systems</li></ul><h2><strong>Perks and benefits:</strong></h2><ul><li>Fully remote</li><li>Flexible working hours</li><li>Plus equity</li></ul>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>PALO IT</h5>
+                    <h3> Sysadmin - DevOps Jr </h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/palo-it-sysadmin-devops-jr" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://lapieza.io/gnMYQs8w6ndPwcbSScNjW9mspwT2">https://lapieza.io/gnMYQs8w6ndPwcbSScNjW9mspwT2</a>
+</p>
+
+<p>PALO IT es una consultoría internacional en innovación tecnológica y desarrollo de software ágil dedicada a ayudar a las organizaciones a adoptar un cambio exponencial. Trabajamos con clientes para lanzar rápidamente productos y servicios, crear nuevos business models, preparar leadership y cultura para el futuro. " Shaping the future with exponential technology"</p><p><br></p><p>En PALO IT buscamos un <em>DevOps Jr </em></p><p><br></p><p>Requisitos:</p><p><br></p><p>Licenciatura en Sistemas o Ingeniería, carrera afín</p><p>Inglés: Intermedio/Avanzado</p><p>Al menos 1 año como DevOps y 3 como SysAdmin</p><p>Conocimiento en Cloud: Azure, AWS, Google Cloud o uno de los otros proveedores importantes de IaaS</p><p>Experiencia en Contenedores / containers: Dockers / Kubernates</p><p>Experiencia con Linux y Windows Server 2012+</p><p><strong>Conocimiento solido en Jenkins </strong></p><p><br></p><p>Responsabilidades:</p><p><br></p><p>Participar en proyectos de DevOps</p><p>Desplegar y administrar infraestructuras cloud.:</p><p>Soporte a producción</p><p>Creación de pipelines</p><p>Mejorar pipelines actuales (con tecnologías de IBM)</p><p><br></p><p>Si buscas una empresa dinámica, joven, innovadora con sueldos competitivos, JOINS US!</p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/palo-it-sysadmin-devops-jr">https://weworkremotely.com/remote-jobs/palo-it-sysadmin-devops-jr</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>LaPieza</h5>
+                    <h3> DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/lapieza-devops-engineer-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1">https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1</a>
+</p>
+
+<p><strong>Description </strong></p><p>We are looking for an experienced DevOps engineer to manage our platform infrastructure. This is a ground-zero effort; you will be responsible for</p><p>implementing release strategies, environment management and system redundancy. A competent DevOps Engineer is a team player, analyst</p><p>and natural problem solver; you will create and document system failure resolution strategies.</p><p><br></p><p><strong>What you will do here:</strong></p><ul>
+<li>Implement system orchestration strategies using several Amazon Web Services</li>
+<li>Provide compliance between our software tool providers</li>
+<li>Manage multi-environment deployments</li>
+<li>Create deployment strategies based on quick iterations and deltas vs production builds</li>
+<li>Implement release schedules based on proven ci/cd methods</li>
+<li>Administrate user access management across the environments</li>
+<li>Support integration of 3rd party tools such as Shopify platform integrations</li>
+<li>Create fully custom automation notifiers using the AWS platform and company messaging APIs</li>
+</ul><p><br></p><p><strong>Requirements</strong></p><ul>
+<li>3+ years experience with DevOps</li>
+<li>Experience with the concept of Infrastructure as code</li>
+<li>AWS Centered</li>
+<li>Docker Experience</li>
+<li>Understand AWS stacks configuration and deployments</li>
+<li>Development with NodeJS, Python.</li>
+<li>Strong leadership, and capacity for decision-making.</li>
+<li>Previous experience working with ERP environments and Logistics is desirable</li>
+</ul><p><br></p><p><strong>Benefits</strong></p><ul>
+<li>15 days PTO (flexible policy outlined in our employee handbook)</li>
+<li>12 Public Holiday days</li>
+<li>5 days off for Winter Break</li>
+<li>Continuing Education Benefits</li>
+<li>English Courses</li>
+<li>Equipment</li>
+</ul><p><br></p><p><br></p><p><br></p><p><br></p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/lapieza-devops-engineer-2">https://weworkremotely.com/remote-jobs/lapieza-devops-engineer-2</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -60,7 +153,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/nethermind-devops-engineer" align="right" target="_blank">Apply</a>
@@ -131,7 +224,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-7" align="right" target="_blank">Apply</a>
@@ -177,7 +270,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1255720" align="right" target="_blank">Apply</a>
