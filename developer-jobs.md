@@ -100,6 +100,55 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5252/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Hal</h5>
+                    <h3> Senior Frontend Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/hal-senior-frontend-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0077/5252/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> USA
+    <br /><strong>URL:</strong> <a href="https://www.hal.xyz/">https://www.hal.xyz/</a>
+</p>
+
+<div>We are looking for a passionate and proactive <strong>Front-end TypeScript Developer</strong> who shares our commitment to web3. <br>You will help us develop user friendly, performant interfaces. <br>You will collaborate with different team members and support collective success through consistent, high-quality code.<br><br>
+</div><div><strong>Requirements</strong></div><ul>
+<li>Intermediate knowledge of TypeScript programming language, paradigms and idioms</li>
+<li>2+ years of experience using React, Typescript &amp; CSS in JS</li>
+<li>Excellent communication skills</li>
+<li>Open minded, collaborative and friendly</li>
+<li>Knowledge of Git-flow, GraphQL &amp; Unit testing</li>
+<li>Knowledge of modern build pipelines and tools (CI/CD)</li>
+<li>Basic understanding of common blockchain concepts</li>
+</ul><div><strong>Nice to have</strong></div><ul>
+<li>Built dapps with Solidity, web3.js or ethers.js before</li>
+<li>Built apps with Next.js before</li>
+<li>Used Vercel/Netlify or similar app deployment platforms</li>
+<li>Familiar with Cypress.io, Docker, Hasura or Serverless</li>
+<li>Full-Stack skills</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/hal-senior-frontend-developer">https://weworkremotely.com/remote-jobs/hal-senior-frontend-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5246/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -319,7 +368,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testdome-frontend-developer-vue-js-asp-net-core-1" align="right" target="_blank">Apply</a>
