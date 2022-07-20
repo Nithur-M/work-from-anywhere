@@ -100,6 +100,63 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5246/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bottomless</h5>
+                    <h3> Senior Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0077/5246/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Seattle, Wa
+    <br /><strong>URL:</strong> <a href="https://www.bottomless.com/">https://www.bottomless.com/</a>
+</p>
+
+<div>We are a fast-growing startup with a product used by thousands of consumers every day.<br><br>We are looking for a jack-of-all-trades <strong><em>senior</em></strong> javascript/full stack developer.<br><br>The ideal candidate for this position would be able to dive into any kind of project, from frontend UI/UX tasks in React.js to backend tasks running on Node.js.<br><br>If you’re interested in variety and working hard to build something big, this might be a good fit.<br><br>We need to achieve <em>80% of the results with 20% of the effort</em>.<br><br><strong>Responsibilities:</strong>
+</div><ul>
+<li>Design and build infrastructure and products for a sensor-enabled e-commerce marketplace.</li>
+<li>Build robust infrastructure to support existing product lines and the ability to roll out new ones.</li>
+<li>Responsibility over the user-facing product</li>
+<li>Quick iteration on different fronts from fronted UX changes to database design to quick and dirty implementations.</li>
+<li>Responsible for full deployment and testing of applications.</li>
+</ul><div><br></div><div><strong>Skill, Qualifications, and Experience:</strong></div><div><br></div><div><em>Expert proficiency required:</em></div><ul>
+<li>Node.js</li>
+<li>NoSQL databases</li>
+<li>React.js</li>
+<li>English (written and verbal)</li>
+</ul><div><br></div><div><em>Intermediate proficiency, at a minimum:</em></div><ul>
+<li>UI/UX design</li>
+<li>Software architecture</li>
+</ul><div>
+<br>Not required, but a plus:</div><ul>
+<li>Python (background tasks)</li>
+<li>Embedded systems (C++)</li>
+</ul><div> <br><strong>Details:</strong>
+</div><ul>
+<li>Remote OK. Must be flexible with hours as we have a remote international team.</li>
+<li>Competitive equity and cash compensation</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-1">https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
