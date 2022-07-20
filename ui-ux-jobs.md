@@ -1,5 +1,30 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteOK.com/assets/img/jobs/64288ece68d7c37ed4f97fc638c236c91658161973.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3>
+					Senior UX UI Designer				</h3>
+                </td>
+                <td width="300">
+                    <code>design, landing page, dashboard</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/111689" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2><strong><em>Design your lifestyle with the freedom to work however, wherever â on your terms.</em></strong></h2><p>Freelance work is defining the careers of today's designers in exciting new ways. If you're passionate about working flexibly with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career move.Â </p><p>Toptal is an exclusive talent network for the world's top 3% of Designers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you'll choose your own schedule and work from anywhere. <strong>Jobs come to you, so you won't bid for projects against other designers in a race to the bottom</strong>. Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time.Â </p><p>As a freelance designer, you'll instantly join a thriving community of experts in over 120 countries. Work remotely on projects that meet your career ambitions, and expand your impact through networking events, volunteering, publishing, public speaking opportunities, and more.</p><p>That's why the world's top 3% of designers choose Toptal. Designers in our network share:</p><ul><li dir="ltr"><strong>3+ years of professional experience </strong>working on <strong>UX, UI</strong>, or/and<strong> Interaction Design</strong> of digital products</li><li dir="ltr">Portfolio of at least 6 design projects</li><li dir="ltr">Experience with <strong>Landing Page</strong>, <strong>Dashboard</strong>, or/and <strong>Web App Design</strong> is a bonus</li><li dir="ltr">Ability to collaborate with cross-functional team members is required</li><li dir="ltr">Ability to collect and interpret both qualitative and quantitative feedback is required</li><li dir="ltr">Experience with AR/VR is a strong advantage</li><li dir="ltr">Project management skills</li><li dir="ltr">A keen attention to detail</li><li dir="ltr"><strong>Full-time availability</strong> is a strong advantage</li></ul><p>If you're ready for a career shift to impactful freelance work, take the next step by clicking apply and filling out the short form: <a class="in-cell-link" href="https://topt.al/k6cNJd">https://topt.al/k6cNJd</a></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4915/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +35,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/spiralyze-senior-ui-ux-designer-1" align="right" target="_blank">Apply</a>
@@ -67,6 +92,31 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1255726/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3>Senior UX/UI Designer</h3>
+                </td>
+                <td width="300">
+                    <code>ui,ux,management,networking</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/design/senior-ux-ui-designer-1255726" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><span id="docs-internal-guid-8ae6fc57-7fff-ed21-002e-1b450b5ca4a1"></span></p><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong><em>Design your lifestyle with the freedom to work however, wherever — on your terms. </em></strong></span></p><br><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Freelance work is defining the careers of today's designers in exciting new ways. If you're passionate about working flexibly with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career move. </span></p><br><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Toptal is an exclusive talent network for the world's top 3% of designers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you'll choose your own schedule and work from anywhere.  </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Jobs come to you, so you won't bid for projects against other designers in a race to the bottom.</strong></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong> </strong>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. </span></p><br><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">As a freelance designer, you'll instantly join a thriving community of experts in over 120 countries. Work remotely on projects that meet your career ambitions, and expand your impact through networking events, volunteering, publishing, public speaking opportunities, and more.</span></p><br><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">That's why the world's top 3% of designers choose Toptal. Designers in our network share:</span></p><ul style="padding-inline-start: 48px;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>3+ years</strong></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong> of professional experience</strong> working on </span><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">UX</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">, </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">UI</span></strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>,</strong> or/and </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Interaction Design</strong></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> of digital products</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Portfolio of at least 6 design projects</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Experience with </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Landing Page</strong>, <strong>Dashboard</strong>, </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">or/and </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Web App Design</strong></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> is a bonus</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Ability to collaborate with cross-functional team members is required</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Ability to collect and interpret both qualitative and quantitative feedback is required</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Experience with AR/VR is a strong advantage</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Project management skills</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">A keen attention to detail</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Full-time availability</strong></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> is a strong advantage</span></p></li></ul><span style="color: var(--remotive-chocolate); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">If you're ready for a career shift to impactful freelance work, take the next step by clicking apply and filling out the short form:</span><strong><a href="https://topt.al/q3cbPV" rel="nofollow">https://topt.al/q3cbPV</a><br></strong><span style="  color: rgb(0, 0, 255); font-weight: 700; font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-line: underline; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap;"><br></span><p></p>
+<img src="https://remotive.com/job/track/1255726/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -77,7 +127,7 @@
                     <code>contract,go,ui,ux</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
