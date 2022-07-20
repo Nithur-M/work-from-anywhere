@@ -1,78 +1,5 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4608/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>PSPDFKit</h5>
-                    <h3> Senior Software Engineer (Frontend Engineer)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>32 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/pspdfkit-senior-software-engineer-frontend-engineer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0071/4608/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Austria
-    <br /><strong>URL:</strong> <a href="https://pspdfkit.com/">https://pspdfkit.com/</a>
-</p>
-
-<div>We’re hiring a software engineer to join our team working on <a href="https://pspdfkit.com/web">PSPDFKit for Web</a>. We are building a modern PDF SDK with technologies like React, TypeScript, and WebAssembly.</div><div><br></div><div>Our customers either use the <a href="https://www.npmjs.com/package/pspdfkit">PSPDFKit for Web npm package</a> built on our <a href="https://pspdfkit.com/blog/2017/webassembly-a-new-hope/">WebAssembly renderer</a>, or they run our <a href="https://hub.docker.com/r/pspdfkit/pspdfkit">Docker container</a> to offload rendering to the server.</div><div>
-<strong><br>You Will:<br></strong><br>
-</div><ul>
-<li>Work as part of a small, driven team that builds new features and fixes existing issues on a regular schedule.</li>
-<li>Make product and architectural decisions that will impact thousands of products for years.</li>
-<li>Write readable and well-documented code with meaningful <a href="https://pspdfkit.com/blog/2016/continuous-ios-code-coverage-with-jenkins-and-slather/">tests</a> so that we can ship new releases often and without fear.</li>
-<li>Take the time to do things <a href="https://pspdfkit.com/blog/2016/writing-good-bug-reports/">correctly</a> instead of coming up with quick fixes.</li>
-<li>Collaborate with the entire company (Android, iOS, Windows, Core, Support, Design, Marketing, and Sales) using <a href="https://pspdfkit.com/blog/2018/how-to-use-slack-and-not-go-bananas/">Slack</a>, Basecamp, GitHub, and Zoom.</li>
-<li>Support our customers in integrating our products, help them debug and fix issues, and collaborate with them to understand their requirements for our products.</li>
-<li>Manage your work by setting your own goals, prioritizing and executing them, and ultimately taking ownership of tasks and projects.</li>
-</ul><div>
-<strong><br>You Should:<br></strong><br>
-</div><ul>
-<li>Be familiar with JavaScript and its ecosystem of tools and packages (some of the tools we use are React, TypeScript, Jest, webpack, and WebAssembly), along with the web technology stack (e.g. HTTP, WebSockets, cookies, DOM, CSS, and the browser as a platform).</li>
-<li>Be eager to learn new technologies (e.g. WebAssembly), while keeping an eye open for fallbacks for older browsers (we support IE 11+).</li>
-<li>Have a breadth-first approach to software engineering, looking outside the Web platform when needed (e.g. command-line tools, theorem provers, or other programming languages) to learn what’s needed to do your best work.</li>
-<li>Have a strong interest in designing and maintaining a set of cohesive public APIs, always striving for simplicity and composability.</li>
-<li>Have good communication skills and enjoy working with a passionate team, while understanding the challenges of working on a distributed team.</li>
-<li>Have a well-rounded approach to problem solving, and understand the difference between when to apply a fix and when to refactor to remove a specific class of bugs.</li>
-<li>Understand the value of changes in the larger context of the business and the product’s customer.</li>
-<li>Have a good command of English for writing documentation and occasional blog posts.</li>
-</ul><div><br></div><div><strong>Please note that you can be a perfect fit even if not everything we’ve outlined above applies to you. If you have any questions, please don’t hesitate to ask.</strong></div><div>
-<strong><br>We Offer:<br></strong><br>
-</div><ul>
-<li>A <a href="https://pspdfkit.com/blog/2017/remote-work/">remote-first focus</a> that allows you to set up working hours that best fit your daily routine.</li>
-<li>A family-friendly work environment.</li>
-<li>Room for personal and professional development through the encouragement of learning and experimenting.</li>
-<li>The time to help you improve upon your personal goals (through regular 1on1s and mentoring).</li>
-<li>Two planned company events during the year (for example, in Croatia, Italy, <a href="https://pspdfkit.com/blog/2016/the-importance-of-retreats-for-a-remote-company/">Spain</a>, Greece, and <a href="https://pspdfkit.com/blog/2017/4-steps-to-a-successful-company-retreat/">Vienna</a>).</li>
-<li>Working with a motivated team that enables you to do your best.</li>
-<li>A generous vacation policy of five weeks, plus an additional allowance for conferences.</li>
-<li>A comprehensive <a href="https://pspdfkit.com/blog/2018/onboarding-new-engineers/">onboarding process</a> to get you up to speed.</li>
-</ul><div>
-<strong><br>An Application Should Include:<br></strong><br>
-</div><ul>
-<li>A writeup explaining who you are as a programmer. We are especially interested in knowing how you started, what projects you have loved (or not loved) working on, what motivates you, and what surprising things you’ve learned since you began programming.</li>
-<li>A piece of code (it doesn’t have to be your own) that does something you find interesting, and an explanation as to why.</li>
-<li>Links to online profiles you use (e.g. GitHub, Twitter).</li>
-<li>A description of your work history (such as a resume, LinkedIn profile, or prose).</li>
-</ul><div>PSPDFKit helps companies and users increase productivity across the globe. With our robust PDF solutions, we ensure developers and end users have the highest quality tools available to do their best work. Trusted by industry leaders such as IBM, SAP, Lufthansa, and United Airlines, PSPDFKit is the go-to solution for integrating PDFs into your app. Find out more about us on <a href="https://pspdfkit.com/about">our team page</a>.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pspdfkit-senior-software-engineer-frontend-engineer-1">https://weworkremotely.com/remote-jobs/pspdfkit-senior-software-engineer-frontend-engineer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0006/6308/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -174,7 +101,7 @@
                     <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-engineer-1298859" align="right" target="_blank">Apply</a>
