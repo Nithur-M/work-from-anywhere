@@ -11,7 +11,7 @@
                     <code>python, backend, scalability</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111588" align="right" target="_blank">Apply</a>
@@ -21,124 +21,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="content-intro"><p><strong>AssemblyAI is an AI company - we build powerful models to transcribe and understand audio data, exposed through simple APIs.</strong></p><p>Hundreds of companies, and thousands of developers, use our APIs to both transcribe and understand millions of videos, podcasts, phone calls, and zoom meetings every day. Our APIs power innovative products like conversational intelligence platforms, zoom meeting summarizers, content moderation, and automatic closed captioning.</p><p><strong>Weâve been growing at breakneck speed, and are backed by leading investors including Y Combinatorâs AI Fund, Patrick and John Collision (Founders of Stripe), Nat Friedman (Former CEO of GitHub), and Daniel Gross (Entrepreneur &amp; Investor in companies including GitHub, Uber, Coinbase, SpaceX, Instacart, Notion, and Cruise Automation).</strong></p><p>AssemblyAIâs Speech-to-Text APIs are already trusted by Fortune 500s, startups, and thousands of developers around the world,Â <strong>with well-known customers including Spotify, Algolia, Dow Jones, The Wall Street Journal, and NBCUniversal.</strong>Â As part of a huge and emerging market, AssemblyAI is well on its way to becoming the leader in speech recognition and NLP.</p><p><strong>Join our world-class, remote team and help us build an iconic deep learning company.</strong></p><h2><strong>Our Team</strong></h2><p><strong>We are a fully remote team made up of problem solvers, innovators and top AI researchers with 20+ years of experience in Machine Learning, Speech Recognition, and NLP from places like DeepMind, Google, Meta, Amazon, Apple, and Cisco.</strong>Â Our culture is super collaborative, low-ego, transparent, and fast-paced. We want to win - and have a flat organization where everyone can openly share ideas (regardless of their title or position) in order to get the best idea.</p><p>As a remote company, our team members are given a lot of trust and autonomy to work where and how they want. We look for people to join our team who are ambitious, curious, and self-motivated, and we put a lot of trust and autonomy into everyone on our team.Â <strong>We want to empower everyone to do their best work with whatever tools, structures, or resources they need to perform at their highest potential.</strong></p></div><h2><strong>The Role</strong></h2><p class="p1">We're looking for a senior backend engineer with strong software and cloud engineering skills. You'll help us build highly scalable developer-centric APIs and backend systems powered by state-of-the-art ML models. Some of your responsibilities will include:</p><ul class="ul1"><li class="li2">Build new API features and endpoints</li><li class="li2">Build automated test suites and CI/CD pipelines</li><li class="li2">Build highly scalable event-driven and realtime systems</li><li class="li2">Instrument systems with metrics, tracing, and logging</li><li class="li2">Refactor applications to eliminate tech debt</li><li class="li2">Troubleshoot production issues</li><li class="li3">Participate in the team on-call rotation</li></ul><h2><strong>You'll love this job if you....</strong></h2><ul><li class="li2">Enjoy solving complex technical problems, even when there is no perfect solution.</li><li class="li2">Enjoy being in a fast-paced, customer-facing role.</li><li class="li2">Thrive in small, cross-functional teams. We like to wear many hats here!</li><li class="li3">You're excited to tackle big technical challenges like building highly scalable architectures and achieving zero-downtime deploys.<br /></li></ul><h2><strong>Requirements</strong></h2><div class="styles--2kg4_"><ul><li class="li2">5+ years of experience working with Python</li><li class="li2">5+ years of working with SQL and NoSQL databases</li><li class="li2">3+ working with Python backend frameworks like Django, Flask, or Tornado</li><li class="li2">2+ years developing REST APIs</li><li class="li2">2+ years working with common AWS services</li><li class="li2">2+ years of production support experience</li><li class="li2">Startup or FAANG-type experience - Has worked at a startup or high growth company</li><li class="li3">Deep AWS knowledge - Has many years of experience solutioning within AWS</li><li class="li2">Strong Python coding abilities - Can pass difficult programming challenges in a relatively short period of time. Can speak clearly about their thinking throughout these challenges. Can speak to O-notation of algorithms. Has excellent knowledge of common python idioms and libraries.</li><li class="li2">Leadership experience - Has led large projects and/or teams towards a big goal with success</li><li class="li2">High scalability experience - Has been a tech leader on scaling systems to hundreds of millions of requests/events per day. Has experience with hyper-observability, scaling algorithms, and using production data to drive system changes</li></ul><h2><strong>Skills</strong></h2><ul class="ul1"><li class="li2">Amazing system design chops - When given a hard problem to solve with a new system, they can quickly shape an effective design and communicate its strengths, weaknesses, and tradeoffs.</li><li class="li2">High-octane thinking - Engages deeply on subjects of expertise. Thinks ahead many steps and can see where decisions are likely to lead. Their brains compute at a very high level.</li><li class="li2">Extremely creative - Can find both novel and effective solutions within highly constrained time and resources</li><li class="li2">Fast learner - Has shown they can ramp up on difficult topics very fast</li><li class="li2">Pushes beyond expectations - Exceeds expectations of whateve</li><li class="li2"><br /></li><li class="li2">r theyâre focused on without impacting timelines.</li><li class="li2">Exceptional gut instincts - Can practically feel when something is right or wrong. Can use these instincts to quickly point themselves in the right direction.</li><li class="li2">Demanding - They donât shy away from conflict. If they see something that doesnât seem right they speak up and demand change. They donât let poor performance go unnoticed. They demand more from everyone around them and equally in themselves.</li><li class="li1">Opinionated - They have convictions in what they believe and can communicate their position clearly without drama.</li></ul><h2><strong>Nice to Have</strong></h2><div class="styles--2kg4_"><ul><li>Machine learning experience - Has worked with machine learning models at scale</li><li>Experience integrating and deploying ML models into production</li></ul></div></div><div class="content-conclusion"><h2><strong>Benefits (US)</strong></h2><ul><li>Competitive Salary + Bonus</li><li>Equity</li><li>100% Remote team</li><li>Unlimited PTO</li><li>Premium Healthcare (100% Covered for you + dependents)</li><li>Vision &amp; Dental Care</li><li>$1K budget for your home office setup</li><li>New Macbook Pro (or PC if you prefer)</li><li>3-4x/year company paid team retreat</li></ul></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Discourse</h5>
-                    <h3> Software Engineer - EMEA</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>61 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/discourse-software-engineer-emea-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Delaware 
-    <br /><strong>URL:</strong> <a href="http://www.discourse.org">http://www.discourse.org</a>
-</p>
-
-<div>
-<strong><br>About the job<br></strong><br>
-</div><div>This job posting is for someone who is located in the EMEA region, encompassing timezones UTC-1 to UTC+3. We frequently receive applications from people who are not in the advertised timezone, but are prepared to work overnight. We don’t believe this is a healthy or sustainable option so we will not be accepting applications from people living in other timezones.<br><br>
-</div><div>
-<br>Software engineers at Discourse are generalists. Some days you may be working on a complex JavaScript feature implemented in Ember.js. Other days you may be working on our Ruby on Rails API server. Some days you may be contributing patches to frameworks or working on one of the many gems and libraries Discourse maintains.<br><br>
-</div><div>
-<br>The majority of the work you will do will be open source.<br><br>
-</div><div>
-<br>Discourse is primarily a hosting company: some of your focus will be around improving our hosting infrastructure, resolving issues for customers, or assisting with customer-specific implementations and migrations.<br><br>
-</div><div>
-<strong><br>About you<br></strong><br>
-</div><div>You work well independently and remotely with minimal amounts of day-to-day micromanagement. You should be comfortable driving a feature from the design to release. At Discourse the ability to communicate well in writing is paramount. Most of your interaction with team members will be in writing. You will also interact regularly with the public on <a href="https://meta.discourse.org/">https://meta.discourse.org</a>. We have no central physical office, we are 100% remote.<br><br>
-</div><div>
-<br>You should be passionate about open source and comfortable with public code reviews. You should also be comfortable picking up and exploring new technologies as needed.<br><br>
-</div><div>
-<br>You have some Ruby and JavaScript experience; all Discourse applicants have a 10-40 hour paid trial project (over 2-10 weeks) prior to joining the team. The trial project usually involves adding a feature to Discourse or a Discourse plugin.<br><br>
-</div><div>
-<br>You should be kind to your co-workers. We believe in having a welcoming workplace where people with diverse backgrounds and cultures meet together to create something great.<br><br><strong>About our Benefits</strong><br><br>
-</div><div>
-<br>We believe that high-quality benefits make our team more effective. We’ve been thoughtful about <a href="https://www.discourse.org/team#benefits">our benefits package</a> which include a completely flexible schedule, 5 weeks of vacation per year, funding for a co-working stipend, and much more!<br><br>
-</div><div>
-<br><strong>How to Apply</strong><br><br>
-</div><div>
-<br>We encourage you to apply, even if you don’t meet every qualification! Apply by sending a cover letter and resume to <a href="mailto:jobs@discourse.org">jobs@discourse.org</a>.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/discourse-software-engineer-emea-1">https://weworkremotely.com/remote-jobs/discourse-software-engineer-emea-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/4823/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clerky</h5>
-                    <h3> Senior Software Engineer (Ruby on Rails)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>420 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clerky-senior-software-engineer-ruby-on-rails" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/4823/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Burlingame, CA
-    <br /><strong>URL:</strong> <a href="https://www.clerky.com">https://www.clerky.com</a>
-</p>
-
-<div>Help fix the legal industry!</div><div><br></div><div>The way legal paperwork gets done is filled with inefficiencies, which leads to ridiculously high legal fees. We fix this by building software that automates and streamlines the process.</div><div><br></div><div>We're profitable and growing sustainably. We're the most popular way for high-growth technology startups to form, and are also used by tons of top-tier startups for hiring and fundraising. Our software is more advanced than any other online legal service. We've invested a lot in architecture, maintainability, and testing, giving us a significant advantage as we build out functionality that founders and attorneys can currently only dream of.</div><div><br></div><div>We're a quiet leader in the legal technology space — if you are interested in changing the legal industry, this is arguably the best place to be.</div><div>
-<strong><br>Notes on our stack and process:</strong><br><br>
-</div><ul>
-<li>Our backend is mostly in Ruby on Rails, with very small amounts of Scala and Go as well.</li>
-<li>Our front-end is mostly in Ember.</li>
-<li>We use CI extensively for linting, tests, visual diffs, and deployment.</li>
-<li>We're not religious about any particular technology — we believe in using the right tool for a given problem.</li>
-</ul><div>
-<strong><br>This is a great fit if you want to work:<br></strong><br>
-</div><ul>
-<li>... on a complex product, with a ton of engineering challenges</li>
-<li>... in a company that strongly values good software development practices</li>
-<li>... at a product-driven company bringing an archaic industry into the future</li>
-<li>... on a beloved product with a lot of usage and visibility in the startup community</li>
-<li>... with bright people who are extremely passionate about their work</li>
-<li>... where you'll be a key early software engineer</li>
-<li>... at a financially sound company that is not dependent on venture capital financing</li>
-</ul><div>
-<strong><br>You must have:</strong><br><br>
-</div><ul>
-<li>An inability to write anything but clean, maintainable code.</li>
-<li>A strong aversion to code without test coverage.</li>
-<li>Deep experience with building, maintaining, and optimizing large-scale, production Ruby on Rails applications</li>
-<li>Significant experience building software as part of a team with strong development practices</li>
-<li>Native-level written English communication skills</li>
-</ul><div>
-<br><br>Experience with Ember is a huge bonus, but not mandatory.</div><div><br></div><div>This position can be either co-located or remote (completely up to you). If you're co-located, you can have your own office (if you want). We're located in Emeryville, California — one shuttle stop away from BART and very close to the freeway.</div><div><br></div><div>We are happy to support an H-1B visa application after 2 years of employment, if desired. We are only looking directly for full-time employees - we are absolutely not interested in agencies, contractors, or recruiters.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clerky-senior-software-engineer-ruby-on-rails">https://weworkremotely.com/remote-jobs/clerky-senior-software-engineer-ruby-on-rails</a></p>
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -153,7 +35,7 @@
                     <code>backend,developer,git,go</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-go-software-engineer-1305612" align="right" target="_blank">Apply</a>
@@ -258,7 +140,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -326,7 +208,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
