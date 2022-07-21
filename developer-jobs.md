@@ -36,7 +36,7 @@
                     <code>symfony, php, javascript</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111650" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>python, senior, operational</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111615" align="right" target="_blank">Apply</a>
@@ -86,7 +86,7 @@
                     <code>css, html, git</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111567" align="right" target="_blank">Apply</a>
@@ -96,6 +96,232 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>About Us: We are an established rapidly growing SaaS company solving complex issues for auto, trailer and rv dealers to simplify their lives. We are looking for a strong front end developer whose responsibilities include design changes, design updates, and assisting with design and development of websites.</p><p><strong>**About You:. You have a portolio or example of code / past projects. You should be familiar with Html, CSS, and Git or willing to learn how to use Git.**</strong></p><p>Competitive pay based on experience / Remote ok / Must be North American based or willing to work North American business hours. | Posted by: OperateBeyond.com</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Brillio</h5>
+                    <h3> .Net Developer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/brillio-net-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://lapieza.io/1gp3bCJVCuhYSkHWtlAsmsAHhLM2">https://lapieza.io/1gp3bCJVCuhYSkHWtlAsmsAHhLM2</a>
+</p>
+
+<p><strong>Who are we?</strong></p><p>At Brillio, our customers are at the heart of everything we do. Born in the digital age, we embrace the four superpowers of technology, enabling our customers to not only improve their current performance but to rethink their business in entirely new ways. Brillio has exceptional employees worldwide and is trusted by hundreds of Fortunes 2000 organizations across the globe.</p><p><br></p><p><strong>Why Brillio?</strong></p><p>Because we are growing fast! Really fast, and we need talented people who want to have a profound impact on our customers. We're looking for <strong>.NET Developer.</strong></p><p><br></p><p><strong>What Does success mean in this role?</strong></p><ul>
+<li>5+ year proven, hands-on design and architecture experience in Web development.</li>
+<li>Experience writing code in C#.Net, ASP.Net, JavaScript, HTML, NUNIT.</li>
+<li>Experience with object-oriented design.</li>
+<li>Relational database knowledge (SQL Server, Oracle), SQL development skills.</li>
+<li>Experience with HTML, JavaScript, AJAX.</li>
+<li>An understanding of software patterns and practices, an affinity for developing unit tests with complete code coverage.</li>
+<li>Modern web application development experience.</li>
+<li>Must have foundational, logical, and creative level experience with many technologies including .NET, ASP.NET MVC, WCF, Rest, WebAPI, HTML5, AJAX, JSON, JQuery.</li>
+<li>Experience developing web applications using .NET Framework 4.5.</li>
+<li>Design-build and maintain efficient and reusable C# code using design patterns.</li>
+<li>Experience building and consuming JSON-based ASP.NET Web API services.</li>
+</ul><p><br></p><p><strong>Location Requirement</strong>: Home Office</p><p><br></p><p><strong>Equal Employment Opportunity Declaration</strong></p><p>It is the policy of Brillio, Inc. to provide a work environment free of discrimination. The Company will take affirmative action to ensure applicants and Brillio employees are treated without regard to race, color, religion, sex/gender, national origin, ethnic origin, veteran or military status, family or marital status, disability, genetic information, age, sexual orientation, gender expression or gender identity. This also includes individuals who are perceived to have any of the attributes. Brillio will adhere to all federal, state, and municipal laws and regulations governing employment.</p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/brillio-net-developer">https://weworkremotely.com/remote-jobs/brillio-net-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Brillio</h5>
+                    <h3> Android Developer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/brillio-android-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://lapieza.io/1gp3bCJVCuhYSkHWtlAsmsAHhLM2">https://lapieza.io/1gp3bCJVCuhYSkHWtlAsmsAHhLM2</a>
+</p>
+
+<p><strong>Who are we?</strong></p><p>At Brillio, our customers are at the heart of everything we do. Born in the digital age, we embrace the four superpowers of technology, enabling our customers to not only improve their current performance but to rethink their business in entirely new ways. Brillio has exceptional employees worldwide and is trusted by hundreds of Fortunes 2000 organizations across the globe.</p><p><br></p><p><strong>Why Brillio?</strong></p><p>Because we are growing fast! Really fast, and we need talented people who want to have a profound impact on our customers. We're looking for <strong>Android Developer.</strong></p><p><br></p><p><strong>What Does success mean in this role?</strong></p><p>· 5+ years of experience in designing, building, refactoring and releasing native apps.</p><p>· Experience in Agile/Scrum methodologies and working in Agile teams is desirable.</p><p>· Able to own a feature of an iOS application and develop it fully.</p><p>· Proven experience with Kotlin for Android.</p><p>· Experience with TDD, pairing, code reviews, and other techniques to maintain high-quality code and resiliency.</p><p><br></p><p><strong>Location Requirement</strong>: Home Office</p><p><br></p><p><strong>Equal Employment Opportunity Declaration</strong></p><p>It is the policy of Brillio, Inc. to provide a work environment free of discrimination. The Company will take affirmative action to ensure applicants and Brillio employees are treated without regard to race, color, religion, sex/gender, national origin, ethnic origin, veteran or military status, family or marital status, disability, genetic information, age, sexual orientation, gender expression or gender identity. This also includes individuals who are perceived to have any of the attributes. Brillio will adhere to all federal, state, and municipal laws and regulations governing employment.</p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/brillio-android-developer">https://weworkremotely.com/remote-jobs/brillio-android-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Brillio</h5>
+                    <h3> iOS Developer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/brillio-ios-developer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://lapieza.io/1gp3bCJVCuhYSkHWtlAsmsAHhLM2">https://lapieza.io/1gp3bCJVCuhYSkHWtlAsmsAHhLM2</a>
+</p>
+
+<p><strong>Who are we?</strong></p><p>At Brillio, our customers are at the heart of everything we do. Born in the digital age, we embrace the four superpowers of technology, enabling our customers to not only improve their current performance but to rethink their business in entirely new ways. Brillio has exceptional employees worldwide and is trusted by hundreds of Fortunes 2000 organizations across the globe.</p><p><br></p><p><strong>Why Brillio?</strong></p><p>Because we are growing fast! Really fast, and we need talented people who want to have a profound impact on our customers. We're looking for<strong> an iOS Developer.</strong></p><p><br></p><p><strong>What Does success mean in this role?</strong></p><ul>
+<li>5+ years of experience in designing, building, refactoring, and releasing native apps.</li>
+<li>Able to own a feature of an iOS application and develop it fully.</li>
+<li>Experience with TDD, pairing, code reviews, and other techniques to maintain high-quality code and resiliency.</li>
+<li>Good understanding of SOLID principles.</li>
+<li>Solid Swift language knowledge.</li>
+<li>Good understanding of iOS architecture, patterns, and open-source libraries.</li>
+<li>Good understanding of basic architectural patterns (MVC, MVP, MVVM).</li>
+<li>Develops across the entire app life cycle -concept, design, build, deploy, test, release to App Store, and support.</li>
+<li>Proficient in Scrum/Agile methodologies.</li>
+</ul><p><br></p><p><strong>Location Requirement</strong>: Home Office</p><p><br></p><p><strong>Equal Employment Opportunity Declaration</strong></p><p>It is the policy of Brillio, Inc. to provide a work environment free of discrimination. The Company will take affirmative action to ensure applicants and Brillio employees are treated without regard to race, color, religion, sex/gender, national origin, ethnic origin, veteran or military status, family or marital status, disability, genetic information, age, sexual orientation, gender expression or gender identity. This also includes individuals who are perceived to have any of the attributes. Brillio will adhere to all federal, state, and municipal laws and regulations governing employment.</p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/brillio-ios-developer-1">https://weworkremotely.com/remote-jobs/brillio-ios-developer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Brillio</h5>
+                    <h3> Java Backend Developer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/brillio-java-backend-developer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://lapieza.io/1gp3bCJVCuhYSkHWtlAsmsAHhLM2">https://lapieza.io/1gp3bCJVCuhYSkHWtlAsmsAHhLM2</a>
+</p>
+
+<p><strong>Who are we?</strong></p><p>At Brillio, our customers are at the heart of everything we do. Born in the digital age, we embrace the four superpowers of technology, enabling our customers to not only improve their current performance but to rethink their business in entirely new ways. Brillio has exceptional employees worldwide and is trusted by hundreds of Fortunes 2000 organizations across the globe.</p><p><br></p><p><strong>Why Brillio?</strong></p><p>Because we are growing fast! Really fast, and we need talented people who want to have a profound impact on our customers. We're looking for a <strong>Java Backend Developer.</strong></p><p><br></p><p><strong>What Does success mean in this role?</strong></p><ul>
+<li>5+ years of work experience in software design and application development.</li>
+<li>Extensive hands-on experience and expertise in object-oriented design methodology and application development using Java/J2EE, Design Patterns, Spring MVC, SQL, Web services.</li>
+<li>Excellent understanding of computer science fundamentals, data structures, and algorithms.</li>
+<li>Experience in developing high-performance, highly scalable, database-driven consumer web applications.</li>
+<li>Good understanding of web services and SOA-related standards like REST/OAuth/JSON Must be proactive, self-directed, detailed, and organized.</li>
+<li>Strong analytical, problem-solving skills, and verbal and written communication skills.</li>
+<li>Ability to work in a fast-paced, iterative development environment.</li>
+</ul><p><br></p><p><strong>Responsibilities include:</strong></p><ul>
+<li>Work with PM and UED teams to create innovative product solutions to meet business objectives.</li>
+<li>Collaborate with architects, engineers, QA, and Operations teams to design and develop strategic and tactical solutions.</li>
+<li>Estimate engineering effort, plan implementation and roll out applications with cross-functional impact.</li>
+<li>Work jointly with other team members to deliver complex applications.</li>
+<li>Implement working prototypes for testing new ideas.</li>
+<li>Participate and contribute to design and code reviews for producing quality code</li>
+<li>Share engineering support and release.</li>
+<li>Communicate with technical and non-technical audiences.</li>
+</ul><p><br></p><p><strong>Location Requirement</strong>: Home Office</p><p><br></p><p><strong>Equal Employment Opportunity Declaration</strong></p><p>It is the policy of Brillio, Inc. to provide a work environment free of discrimination. The Company will take affirmative action to ensure applicants and Brillio employees are treated without regard to race, color, religion, sex/gender, national origin, ethnic origin, veteran or military status, family or marital status, disability, genetic information, age, sexual orientation, gender expression or gender identity. This also includes individuals who are perceived to have any of the attributes. Brillio will adhere to all federal, state, and municipal laws and regulations governing employment.</p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/brillio-java-backend-developer-1">https://weworkremotely.com/remote-jobs/brillio-java-backend-developer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Brillio</h5>
+                    <h3> Java Backend Developer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/brillio-java-backend-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://lapieza.io/1gp3bCJVCuhYSkHWtlAsmsAHhLM2">https://lapieza.io/1gp3bCJVCuhYSkHWtlAsmsAHhLM2</a>
+</p>
+
+<p><strong>Who are we?</strong></p><p>At Brillio, our customers are at the heart of everything we do. Born in the digital age, we embrace the four superpowers of technology, enabling our customers to not only improve their current performance but to rethink their business in entirely new ways. Brillio has exceptional employees worldwide and is trusted by hundreds of Fortunes 2000 organizations across the globe.</p><p><br></p><p><strong>Why Brillio?</strong></p><p>Because we are growing fast! Really fast, and we need talented people who want to have a profound impact on our customers. We're looking for a <strong>Java Backend Developer.</strong></p><p><br></p><p><strong>What Does success mean in this role?</strong></p><ul>
+<li>5+ years of work experience in software design and application development.</li>
+<li>Extensive hands-on experience and expertise in object-oriented design methodology and application development using Java/J2EE, Design Patterns, Spring MVC, SQL, Web services.</li>
+<li>Excellent understanding of computer science fundamentals, data structures, and algorithms.</li>
+<li>Experience in developing high-performance, highly scalable, database-driven consumer web applications.</li>
+<li>Good understanding of web services and SOA-related standards like REST/OAuth/JSON Must be proactive, self-directed, detailed, and organized.</li>
+<li>Strong analytical, problem-solving skills, and verbal and written communication skills.</li>
+<li>Ability to work in a fast-paced, iterative development environment.</li>
+</ul><p><br></p><p><strong>Responsibilities include:</strong></p><ul>
+<li>Work with PM and UED teams to create innovative product solutions to meet business objectives.</li>
+<li>Collaborate with architects, engineers, QA, and Operations teams to design and develop strategic and tactical solutions.</li>
+<li>Estimate engineering effort, plan implementation and roll out applications with cross-functional impact.</li>
+<li>Work jointly with other team members to deliver complex applications.</li>
+<li>Implement working prototypes for testing new ideas.</li>
+<li>Participate and contribute to design and code reviews for producing quality code</li>
+<li>Share engineering support and release.</li>
+<li>Communicate with technical and non-technical audiences.</li>
+</ul><p><br></p><p><strong>Location Requirement</strong>: Home Office</p><p><br></p><p><strong>Equal Employment Opportunity Declaration</strong></p><p>It is the policy of Brillio, Inc. to provide a work environment free of discrimination. The Company will take affirmative action to ensure applicants and Brillio employees are treated without regard to race, color, religion, sex/gender, national origin, ethnic origin, veteran or military status, family or marital status, disability, genetic information, age, sexual orientation, gender expression or gender identity. This also includes individuals who are perceived to have any of the attributes. Brillio will adhere to all federal, state, and municipal laws and regulations governing employment.</p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/brillio-java-backend-developer">https://weworkremotely.com/remote-jobs/brillio-java-backend-developer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -206,50 +432,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CoverGo</h5>
-                    <h3> Senior Frontend Developer (Javascript/VueJS/Remote GMT+ 8)</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/covergo-senior-frontend-developer-javascript-vuejs-remote-gmt-8-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Russia, Moscow Oblast
-    <br /><strong>URL:</strong> <a href="http://covergo.com">http://covergo.com</a>
-</p>
-
-<p><strong>Top 3 Reasons To Join Us</strong></p>
-<ul> <li>Competitive Salary </li> <li>100% remote</li> <li>Working with the latest tech (Vue3, Vite, Tailwind, XState)</li> </ul>
-<p><strong>About Us</strong></p>
-<p>At CoverGo, our mission is to help insurance companies and banks to make insurance 100% digital, to better serve their customers.</p>
-<ul> <li>We are the leading provider of cutting-edge technology to the insurance industry</li> <li>We're also the winner of the insurtech of the year in all of Asia in 2021 and other awards globally</li> <li>We work with enterprise clients such as AXA, MSIG, DBS, Fubon, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team with over 20 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have offices in Singapore, Hong Kong, and Vietnam. We plan to expand to the US and other markets in the upcoming months</li> <li>We've grown our annualized revenue by over 1000% since January 2021</li> <li>We're constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul>
-<p><strong>What You Will Do</strong></p>
-<ul> <li>As a Frontend Engineer you'll work on core product features of the CoverGo platform</li> <li>Work on challenging frontend problems in multi-tenant and cloud-agnostic architectures</li> <li>Crafting no-code editors, tools and visual rules engines</li> <li>Fully own features from ideation with design and product, to working on iterations and improvements</li> <li>Improving and refactoring our current codebases</li> <li>Evaluating new technologies for the platform</li> <li>Building relationships with engineers across all product teams in CoverGo</li> </ul>
-<p><strong>What We Need</strong></p>
-<ul> <li>Minimum 3+ years of experience in frontend engineering</li> <li>Good knowledge of JavaScript, HTML5, and CSS3</li> <li>Experience in Vue or willing to learn Vue</li> <li>Good understanding of code versioning tool Git</li> <li>Strong attention to detail with good analytical and problem-solving skills</li> <li>Positive, hard-working, and committed team player</li> <li>Self-motivated and able to work independently</li> <li>Fast learner who enjoys coding and working with the latest tech</li> <li>Able, willing and excited to work in a fast-paced collaborative startup environment</li> </ul>
-<p><strong>Why You'll Love Working Here</strong></p>
-<ul> <li>Salary: Up to 5000USD/Month</li> <li>Full-remote employment, work from anywhere and/or from one of our physical offices in Vietnam, Singapore or Hong Kong occasionally</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid annual leaves</li> <li>Employee stock options</li> <li>Performance bonus</li> <li>Performance review 2x a year</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/covergo-senior-frontend-developer-javascript-vuejs-remote-gmt-8-1">https://weworkremotely.com/remote-jobs/covergo-senior-frontend-developer-javascript-vuejs-remote-gmt-8-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5214/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -260,7 +442,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-front-end-developer-web3-remote" align="right" target="_blank">Apply</a>
@@ -332,7 +514,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ohio-university-erp-developer-ii-remote-work-arrangements-flexible-schedules" align="right" target="_blank">Apply</a>
@@ -414,6 +596,98 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4055/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>SocialHub</h5>
+                    <h3> Backend Javascript / Node.js Developer - Remote/SaaS (m/f/d)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>300 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/socialhub-backend-javascript-node-js-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4055/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Schütterlettenweg 4, 85053 Ingolstadt, Deutschland
+    <br /><strong>URL:</strong> <a href="https://socialhub.io/de/">https://socialhub.io/de/</a>
+</p>
+
+<div>
+<strong>DOES THIS SOUND LIKE YOU?<br></strong><br>
+</div><ul>
+<li>You like writing automated tests so you notice regressions on your code early on<br><br>
+</li>
+<li>You love to see your users happy. Therefore you don’t hesitate to help clients if the need arises for solving bugs.<br><br>
+</li>
+<li>Using a DVCS like git comes natural to you<br><br>
+</li>
+<li>You appreciate constructive criticism and are able to provide such yourself when reviewing others code<br><br>
+</li>
+<li>You have a thing for documenting your work because you know your future self will appreciate it</li>
+</ul><div>
+<br><br><strong>YOUR REQUIREMENTS FOR THE JOB<br></strong><br>
+</div><ul>
+<li>At least 3 years working experience in a development team and experience in developing scalable web apps<br><br>
+</li>
+<li>Experience in building Node.js based APIs with Express.JS<br><br>
+</li>
+<li>Knowledge of common web security best practices (e.g. OWASP 10)<br><br>
+</li>
+<li>You are able to work and communicate with your teammates through our core hours (11am to 4pm german timezone)</li>
+</ul><div>
+<br><br><strong>THESE SKILLS WOULD BE BENEFICAL FOR YOU<br></strong><br>
+</div><ul>
+<li>You have experience with technologies like Redis, RabbitMQ and the ELK stack<br><br>
+</li>
+<li>Experience with non-relational databases<br><br>
+</li>
+<li>Knowledge of mongodb and its query syntax<br><br>
+</li>
+<li>You can analyze and resolve performance issues with mongodb queries and indices<br><br>
+</li>
+<li>You’ve worked with gitlab and gitlab ci before<br><br>
+</li>
+<li>Knowledge of the Social Network API’s e.g. Facebook, Twitter, etc.<br><br>
+</li>
+<li>You’ve run your own Web Server in the past and know your way around Linux</li>
+</ul><div>
+<br><br><strong>WHAT WE HAVE TO OFFER</strong><br><br>
+</div><ul>
+<li>SMART FRIDAY: Free Friday in the 2nd and 3rd quarter 2022! - As often as you want, with full payment (equivalent to + 24 vacation days).<br><br>
+</li>
+<li>Company houses 2023: We rent houses worldwide - free of charge for you. Enjoy work and meet your teammates from all over the world. To work or to take a vacation, we leave it up to you!<br><br>
+</li>
+<li>Flexible working hours and the possibility to work remotely.<br><br>
+</li>
+<li>An enthusiastic and friendly team in a productive working environment.<br><br>
+</li>
+<li>Varied and challenging activities in a constantly growing and future-oriented industry.<br><br>
+</li>
+<li>Great coaching and development opportunities. We have an annual budget for external training courses and conferences. We previously attended GitHub Universe in London and Amsterdam.<br><br>
+</li>
+<li>An afternoon each sprint (every 2 weeks) to work on something that interests you. Want to learn a new programming language? That’s fine by us. It doesn't have to be work-related. It’s there to help you expand your skill set and keep the creative juices flowing. <br><br>
+</li>
+<li>Always a cold Fritz-Kola in the fridge (if you decide to stop by our office). <br><br>
+</li>
+<li>Join us for whole company get-togethers. Our past retreats have been in Belgium, Prague &amp; Spain. Our next one is in Portugal.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/socialhub-backend-javascript-node-js-developer-remote-saas-m-f-d-1">https://weworkremotely.com/remote-jobs/socialhub-backend-javascript-node-js-developer-remote-saas-m-f-d-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3719/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -424,7 +698,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>300 days ago</text>
+                <text>301 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -471,7 +745,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>300 days ago</text>
+                <text>301 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-front-end-developer" align="right" target="_blank">Apply</a>
@@ -517,7 +791,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>540 days ago</text>
+                <text>541 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
@@ -589,6 +863,53 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1322995/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Clevertech</h5>
+                    <h3>Fullstack Javascript Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,fullstack,go,javascript</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 27px; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects</p>
+<div class="h4" id="what-were-working-on" style="padding: 35px 0px; border-style: initial; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 600; font-stretch: normal; line-height: 1.1; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">What we're working on:</div>
+<p style="padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 27px; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries</p>
+<div class="h4" id="requirements" style="margin-top: 1rem; padding: 35px 0px; border-style: initial; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 600; font-stretch: normal; line-height: 1.1; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Requirements</div>
+<ul>
+<li>7+ years of professional experience (A technical assessment will be required)</li>
+<li>Senior-level experience in the front-end (React) and back-end (Node, Express, Mongo, SQL)</li>
+<li>Ability to create clean, modern, testable, well-documented code</li>
+<li>English fluency, verbal and written</li>
+<li>Professional, empathic, team player</li>
+<li>Problem solver, proactive, go-getter</li>
+</ul>
+<div class="h4" id="straight-from-the-devs" style="padding: 35px 0px; border-style: initial; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 600; font-stretch: normal; line-height: 1.1; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Straight from the Devs</div>
+<p style="padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 27px; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Watch short snippets of actual developers (Real, not scripted) share why they joined <a href="https://cleverte.ch/3" rel="nofollow" style="margin: 0px; padding: 0px; border-bottom-width: 1px; border-top-style: initial; border-right-style: initial; border-left-style: initial; border-bottom-color: #f9d247; font-style: inherit; font-variant: inherit; font-weight: 600; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38; text-decoration: none; transition: all 0.2s ease-in 0s;">YouTube Playlist</a></p>
+<div class="h4" id="why-clevertech-is-an-amazing-place-to-work-at" style="padding: 35px 0px; border-style: initial; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 600; font-stretch: normal; line-height: 1.1; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Why Clevertech is an amazing place to work at</div>
+<p style="padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 27px; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">At Clevertech, you can expect that you will:</p>
+<ul>
+<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
+<li>Be a part of a team of talented and friendly senior-level developers</li>
+<li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li>
+</ul>
+<p> </p>
+<p style="padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 27px; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.</p>
+<img src="https://remotive.com/job/track/1322995/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1255729/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -599,7 +920,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255729" align="right" target="_blank">Apply</a>
@@ -624,7 +945,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255704" align="right" target="_blank">Apply</a>
@@ -649,7 +970,7 @@
                     <code>developer,rails,ruby,growth</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1255730" align="right" target="_blank">Apply</a>
@@ -674,7 +995,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1255725" align="right" target="_blank">Apply</a>
@@ -699,7 +1020,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1255719" align="right" target="_blank">Apply</a>
@@ -724,7 +1045,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1255718" align="right" target="_blank">Apply</a>
@@ -749,7 +1070,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1255721" align="right" target="_blank">Apply</a>
@@ -774,7 +1095,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -985,7 +1306,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
