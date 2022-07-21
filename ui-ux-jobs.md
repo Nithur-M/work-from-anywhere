@@ -11,7 +11,7 @@
                     <code>design, landing page, dashboard</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111689" align="right" target="_blank">Apply</a>
@@ -21,73 +21,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <h2><strong><em>Design your lifestyle with the freedom to work however, wherever â on your terms.</em></strong></h2><p>Freelance work is defining the careers of today's designers in exciting new ways. If you're passionate about working flexibly with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career move.Â </p><p>Toptal is an exclusive talent network for the world's top 3% of Designers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you'll choose your own schedule and work from anywhere. <strong>Jobs come to you, so you won't bid for projects against other designers in a race to the bottom</strong>. Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time.Â </p><p>As a freelance designer, you'll instantly join a thriving community of experts in over 120 countries. Work remotely on projects that meet your career ambitions, and expand your impact through networking events, volunteering, publishing, public speaking opportunities, and more.</p><p>That's why the world's top 3% of designers choose Toptal. Designers in our network share:</p><ul><li dir="ltr"><strong>3+ years of professional experience </strong>working on <strong>UX, UI</strong>, or/and<strong> Interaction Design</strong> of digital products</li><li dir="ltr">Portfolio of at least 6 design projects</li><li dir="ltr">Experience with <strong>Landing Page</strong>, <strong>Dashboard</strong>, or/and <strong>Web App Design</strong> is a bonus</li><li dir="ltr">Ability to collaborate with cross-functional team members is required</li><li dir="ltr">Ability to collect and interpret both qualitative and quantitative feedback is required</li><li dir="ltr">Experience with AR/VR is a strong advantage</li><li dir="ltr">Project management skills</li><li dir="ltr">A keen attention to detail</li><li dir="ltr"><strong>Full-time availability</strong> is a strong advantage</li></ul><p>If you're ready for a career shift to impactful freelance work, take the next step by clicking apply and filling out the short form: <a class="in-cell-link" href="https://topt.al/k6cNJd">https://topt.al/k6cNJd</a></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4915/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Spiralyze</h5>
-                    <h3> Senior UI/UX Designer </h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/spiralyze-senior-ui-ux-designer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4915/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Atlanta, Georgia
-    <br /><strong>URL:</strong> <a href="https://spiralyze.com">https://spiralyze.com</a>
-</p>
-
-<div>Spiralyze is a leading U.S.-based data-driven A/B testing company that uses design to help our clients generate more revenue from their website traffic. We figure out what makes visitors convert, we design solutions, and we measure impact to see how well it’s working.</div><div>
-<br>Our clients are major brands that already have great websites and great design teams. They want us to lead the transition to a data-centric approach with conversion as the primary goal.</div><div> </div><div>As a Senior UI/UX Designer for Spiralyze, you will work closely with our ideation team, taking their wireframes and insights, and turning them into compelling designs for our A/B tests. </div><div> <br><br>
-</div><div><strong>You Would Be A Great Fit If:</strong></div><ul>
-<li>
-<strong>You Have A Stunning and Versatile Design Style: </strong> Our clients expect the absolute best. You should be able to keep on the cutting-edge of design and have enough versatility to work with the client’s brand.  Here are examples of the level we are looking for:<ul>
-<li>
-<a href="https://invis.io/CG125M6F2XQT">https://invis.io/CG125M6F2XQT</a>      </li>
-<li><a href="https://projects.invisionapp.com/share/RH101LVO7PDU#/screens">https://projects.invisionapp.com/share/RH101LVO7PDU#/screens</a></li>
-</ul>
-</li>
-<li>
-<strong>You Are An Effective Collaborator: </strong>Our clients win when they get access to the best ideas distilled from their organization, Spiralyze, and the wider world. You are brilliant, but also self-aware enough to embrace other people's ideas, feedback, and direction. You know when you need help and how to ask for it. You can communicate with clients and colleagues in a way that is honest and direct, and you will fight for good design, but you do it in a way that is persuasive and respectful.</li>
-<li>
-<strong>You Prioritize The Mission </strong>and do what it takes to take care of our clients and get them over the line.</li>
-</ul><div> </div><div><strong>Required skills for the ideal Senior UI/UX Designer are:</strong></div><ul>
-<li>You must be doing this long enough that you think in UI design: 5+ years of experience in UI/UX design is required.</li>
-<li>Great UI skills, any UX experience is a bonus</li>
-<li>Expert in Figma, great at creating style libraries &amp; handover-files for development</li>
-<li>Know basic principles of HTML, CSS, and responsive frameworks: you know how things are built before you can change them.</li>
-<li>Follow the latest trends in UI/UX design</li>
-<li>Ability to overlap with EST (New York time) by 4+ hours</li>
-<li>Excellent Communication Skills</li>
-</ul><div>
-<br><strong>Benefits:</strong>
-</div><ul>
-<li>Cutting edge work: learn from the leaders in the high growth Conversion Rate Optimization sector. See your work come to life on sites you and your family use.  See if they win. </li>
-<li>Competitive salary: Salary is competitive, with regular merit increases</li>
-<li>Flexible working hours: Schedule must overlap with at least 4 hours of U.S. Eastern Standard Time (New York). The rest of your working day is up to you.</li>
-<li>Technological reimbursement: Need a new computer? New software? We will help!</li>
-<li>Education: You’ll have the opportunity to level up your skills with company sponsored courses and training.</li>
-<li>20 days of paid vacation plus holidays: you can choose to either follow the US or local Holidays.<br><br>
-</li>
-</ul><div>
-<strong>Application Criteria:</strong><br><br>For your application to be considered, please include your resume, website/portfolio, and at least two (2) Figma projects of yours.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/spiralyze-senior-ui-ux-designer-1">https://weworkremotely.com/remote-jobs/spiralyze-senior-ui-ux-designer-1</a></p>
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -102,7 +35,7 @@
                     <code>ui,ux,management,networking</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-ux-ui-designer-1255726" align="right" target="_blank">Apply</a>
@@ -127,7 +60,7 @@
                     <code>contract,go,ui,ux</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
