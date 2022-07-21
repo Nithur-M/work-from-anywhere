@@ -11,7 +11,7 @@
                     <code>devops, ruby, gcp</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111592" align="right" target="_blank">Apply</a>
@@ -21,31 +21,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="story__copy bigger mb3">At FetLife we're looking for a Senior DevOps Engineer to help us better serve the community.</div><div class="story__copy bigger mb3"><br /></div><div class="story__copy"><h2>The Job</h2><p>As a DevOps Engineer, you'll be working with the engineering team to monitor and improve our security, infrastructure, and performance.</p><p>You'll be responsible for:</p><ul><li>Elevating our DevOps standards through improved monitoring, tooling, and processes</li><li>Planning and performing infrastructure improvements and maintenance</li><li>Monitoring and improving website stability and response times</li><li>Monitoring and improving email deliverability</li><li>Participating in the on-call rotation</li><li>Triaging, replicating, and fixing potential security issues</li><li>Maintaining high CI build success rates and low CI build run times</li></ul><p>Currently, our entire platform is built as a majestic Rails monolith, using Vue.js with Typescript on the front-end.</p><p>More details about our tech stack:</p><ul><li>Testing is done with RSpec &amp; Capybara</li><li>Continuous integration and deployment are done with CircleCI</li><li>MySQL and PostgreSQL for our main databases</li><li>Redis and KeyDB for our activity feeds, session storage, queue management, and caching (currently migrating to ScyllaDB)</li><li>ElasticSearch for full-text search</li><li>DevOps using Containers orchestrated with Kubernetes and Helm</li><li>Service and performance monitoring is done with DataDog and NewRelic</li></ul><h2>About You</h2><p>We're looking for someone who has proven experience building and maintaining large production-level Ruby on Rails applications.</p><p>Ideally, you have experience:</p><ul><li>Working with MySQL, PostgreSQL, or Redis</li><li>Maintaining infrastructure with Docker, Kubernetes, and Google Cloud</li><li>Setting up and maintaining application and infrastructure monitoring</li><li>Managing database performance</li></ul><p>Additionally, since we're 100% remote, we:</p><ul><li>Highly value strong written communicators</li><li>Require at least a few hours of overlap from 8-12 AM EST (2-6 PM CET)</li></ul><h2>Unique to Us</h2><p>Every organization is a bit different, here are some unique things about us:</p><ul><li>We believe the traditional hiring process is broken, so we do things a bit differently. We first bring people on a part-time or full-time contractor so that we can get to know each other. If both sides enjoy working with each other, we make you an official offer.</li><li>We have little to no meetings, we focus on written async communication instead</li><li>The tenure of a DevOps Engineer at FetLife is 2-3x longer than average</li><li>You will work on high-impact projects that will make a difference in many people's lives</li><li>You can always ask questions to your team when you get stuck, but we do appreciate people who are self-sufficient</li><li>Get to learn a lot because we are a small team and everyone gets to work on different parts of the system. Nobody specializes.</li><li>We value focused productive work over long hours. We don't want people to burn out. We want people to work at a consistent pace they can maintain year after year</li></ul><h2>About Us</h2><p>FetLife is the largest kinky social network on this side of the milky way. We:</p><ul><li>Have over 10 million members and growing</li><li>Grew 100% by word-of-mouth</li><li>Serve over 1.5 billion requests a day</li></ul><p>You can find our team and core valuesÂ <a href="https://fetlife.com/team">here</a>.</p><h2>Pay &amp; Benefits</h2><p>We use a standardised salary calculator for each position to ensure we are competitive, fair, and consistent. For this specific role, the rate is between $115kÂ -Â $155k USD / year. Rate is dependent on the level you are currently at.</p><p>Additionally, we offer:</p><ul><li>Paid time off:<ul><li>2 weeks vacation</li><li>5 statutory holidays (e.g. Easter &amp; Thanksgiving)</li><li>2 weeks during Christmas*</li><li>4 day work weeks during the summer months (July &amp; August)*</li></ul></li><li>1 retreat a year (ex. the last one's were in Miami, Vancouver, Tennessee &amp; Montreal)</li><li>A yearly anniversary gift of your choosing (200$ USD for every year with us, ex. 4th anniversary is $800)</li><li>Reimbursed music subscription</li><li>Fully paid maternal or parental leave</li></ul><p><em>* Not guaranteed, but have happened every year</em></p></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/img/jobs/90ff0b83631e7f7d539736fc0bc82c1d1657048761.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Nethermind</h5>
-                    <h3>
-					DevOps Engineer				</h3>
-                </td>
-                <td width="300">
-                    <code>backend, devops, aws</code>
-                </td>
-                <td width="200">
-                <text>14 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/111534" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Our DevOps team known as the Angkor of Nethermind are responsible for processes related to product development operations.</p><h2><strong>As a member of this team you will:</strong></h2><ul><li><strong>Build and maintain</strong>Â company-wide CI/CD pipelines for different projects (Github Actions)</li><li><strong>Deploy and maintain</strong>Â the blockchain infrastructure in a multi-cloud environment (DigitalOcean, AWS, Google Cloud, others)</li><li><strong>Follow</strong>Â the best, modern security patterns to keep the secrets secure</li><li><strong>Monitor</strong>Â the infrastructure with tools like Grafana, Prometheus, New Relic, OpsGenie</li><li><strong>Write scripts</strong>, lambda functions and even full applications with the language of your choice that can help us improve the workflow</li><li><strong>Automate work</strong>Â - yours and others (Terraform, Ansible, CloudFormation)</li><li><strong>Write clean procedures</strong>Â that everybody can understand and follow</li><li><strong>Participate</strong>Â in the Ethereum ecosystem events from the DevOps side</li><li><strong>Ensure 99.99% system uptime</strong>, smooth operations and work with infra handling millions of request per second</li><li><strong>Have strong cloud networking experience</strong>Â and troubleshooting skills</li><li><strong>Take ownership</strong>Â of end to end automation</li><li><strong>Implement systems</strong>Â that are highly available, scalable and secure on cloud platforms and on-premise</li><li><strong>Work</strong>Â with many different operating systems</li></ul><h2><strong>Perks and benefits:</strong></h2><ul><li>Fully remote</li><li>Flexible working hours</li><li>Plus equity</li></ul>
                 </details>
                 </td>
             </tr>,<tr>
@@ -60,7 +35,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/nethermind-devops-engineer" align="right" target="_blank">Apply</a>
@@ -131,7 +106,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-7" align="right" target="_blank">Apply</a>
@@ -177,7 +152,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1255720" align="right" target="_blank">Apply</a>
