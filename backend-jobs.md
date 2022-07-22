@@ -1,5 +1,59 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Yana</h5>
+                    <h3> Sr Backend </h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/yana-sr-backend" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://lapieza.io/tWZ2MFScIhQvacOdUi44lly5sHz1">https://lapieza.io/tWZ2MFScIhQvacOdUi44lly5sHz1</a>
+</p>
+
+<p>En Yana combinamos la tecnología y psicología para desarrollar la aplicación #1 en Salud Mental de habla hispana con la capacidad para ayudar a millones de personas a convertirse en su mejor versión.</p><p><br></p><p>Tu misión será lograr que las personas mejoren su calidad de vida, día a día, a través de Yana con la misión en el desarrollo de nuevas funciones y resolviendo bugs de nuestro producto.</p><p><br></p><p>Job Functions 🚀</p><ul>
+<li>Manos de artesano para para desarrollar las funcionalidades necesarias en Back-end.</li>
+<li>Creativo para aportar en la escalabilidad de Producto.</li>
+<li>Una master yoda en la velocidad de ejecución del Producto.</li>
+<li>Visionario 👀 para el desarrollo de nuevas funcionalidades así como trabajar en resolver los bugs 🐛 que vayan surgiendo.</li>
+</ul><p><br></p><p>Technical skills</p><ul>
+<li>+3 años con PHP.</li>
+<li>+3 años con SQL.</li>
+<li>+2 años con CodeIgniter.</li>
+<li>Idiomas: Español e Inglés.</li>
+</ul><p><br></p><p>Desirable skills</p><ul>
+<li>Trabajo con Asana, Slack y Notion.</li>
+<li>Empatía o experiencia general en Salud Mental.</li>
+<li>Relación/conocimiento con AI, chatbots y/o machine learning.</li>
+</ul><p><br></p><p>Beneficios</p><ul>
+<li>Trabajo 100% Remoto 🏘</li>
+<li>Horario Flexible ☕️</li>
+<li>Viajes o retiros de empresa 🚵🏽‍♂️</li>
+<li>Vacaciones extra 🏝</li>
+<li>Cultura laboral sana ❤️</li>
+</ul><p><br></p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/yana-sr-backend">https://weworkremotely.com/remote-jobs/yana-sr-backend</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3322/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +64,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/argyle-backend-engineer" align="right" target="_blank">Apply</a>
@@ -94,7 +148,7 @@
                     <code>apache,AWS,backend,cloud</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineer-1298840" align="right" target="_blank">Apply</a>
