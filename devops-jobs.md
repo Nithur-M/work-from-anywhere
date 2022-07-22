@@ -11,7 +11,7 @@
                     <code>devops, ruby, gcp</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111592" align="right" target="_blank">Apply</a>
@@ -21,6 +21,88 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="story__copy bigger mb3">At FetLife we're looking for a Senior DevOps Engineer to help us better serve the community.</div><div class="story__copy bigger mb3"><br /></div><div class="story__copy"><h2>The Job</h2><p>As a DevOps Engineer, you'll be working with the engineering team to monitor and improve our security, infrastructure, and performance.</p><p>You'll be responsible for:</p><ul><li>Elevating our DevOps standards through improved monitoring, tooling, and processes</li><li>Planning and performing infrastructure improvements and maintenance</li><li>Monitoring and improving website stability and response times</li><li>Monitoring and improving email deliverability</li><li>Participating in the on-call rotation</li><li>Triaging, replicating, and fixing potential security issues</li><li>Maintaining high CI build success rates and low CI build run times</li></ul><p>Currently, our entire platform is built as a majestic Rails monolith, using Vue.js with Typescript on the front-end.</p><p>More details about our tech stack:</p><ul><li>Testing is done with RSpec &amp; Capybara</li><li>Continuous integration and deployment are done with CircleCI</li><li>MySQL and PostgreSQL for our main databases</li><li>Redis and KeyDB for our activity feeds, session storage, queue management, and caching (currently migrating to ScyllaDB)</li><li>ElasticSearch for full-text search</li><li>DevOps using Containers orchestrated with Kubernetes and Helm</li><li>Service and performance monitoring is done with DataDog and NewRelic</li></ul><h2>About You</h2><p>We're looking for someone who has proven experience building and maintaining large production-level Ruby on Rails applications.</p><p>Ideally, you have experience:</p><ul><li>Working with MySQL, PostgreSQL, or Redis</li><li>Maintaining infrastructure with Docker, Kubernetes, and Google Cloud</li><li>Setting up and maintaining application and infrastructure monitoring</li><li>Managing database performance</li></ul><p>Additionally, since we're 100% remote, we:</p><ul><li>Highly value strong written communicators</li><li>Require at least a few hours of overlap from 8-12 AM EST (2-6 PM CET)</li></ul><h2>Unique to Us</h2><p>Every organization is a bit different, here are some unique things about us:</p><ul><li>We believe the traditional hiring process is broken, so we do things a bit differently. We first bring people on a part-time or full-time contractor so that we can get to know each other. If both sides enjoy working with each other, we make you an official offer.</li><li>We have little to no meetings, we focus on written async communication instead</li><li>The tenure of a DevOps Engineer at FetLife is 2-3x longer than average</li><li>You will work on high-impact projects that will make a difference in many people's lives</li><li>You can always ask questions to your team when you get stuck, but we do appreciate people who are self-sufficient</li><li>Get to learn a lot because we are a small team and everyone gets to work on different parts of the system. Nobody specializes.</li><li>We value focused productive work over long hours. We don't want people to burn out. We want people to work at a consistent pace they can maintain year after year</li></ul><h2>About Us</h2><p>FetLife is the largest kinky social network on this side of the milky way. We:</p><ul><li>Have over 10 million members and growing</li><li>Grew 100% by word-of-mouth</li><li>Serve over 1.5 billion requests a day</li></ul><p>You can find our team and core valuesÂ <a href="https://fetlife.com/team">here</a>.</p><h2>Pay &amp; Benefits</h2><p>We use a standardised salary calculator for each position to ensure we are competitive, fair, and consistent. For this specific role, the rate is between $115kÂ -Â $155k USD / year. Rate is dependent on the level you are currently at.</p><p>Additionally, we offer:</p><ul><li>Paid time off:<ul><li>2 weeks vacation</li><li>5 statutory holidays (e.g. Easter &amp; Thanksgiving)</li><li>2 weeks during Christmas*</li><li>4 day work weeks during the summer months (July &amp; August)*</li></ul></li><li>1 retreat a year (ex. the last one's were in Miami, Vancouver, Tennessee &amp; Montreal)</li><li>A yearly anniversary gift of your choosing (200$ USD for every year with us, ex. 4th anniversary is $800)</li><li>Reimbursed music subscription</li><li>Fully paid maternal or parental leave</li></ul><p><em>* Not guaranteed, but have happened every year</em></p></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>LaPieza</h5>
+                    <h3> DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/lapieza-devops-engineer-4" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1">https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1</a>
+</p>
+
+<p>This company is looking a DevOps Engineer.</p><p>In this startup they have people from all over the world. They help marketers consolidate all their data by aggregating, cleansing and transforming cross-channel marketing and transforming multichannel marketing data, all in one place and in real time. They help marketers consolidate all their data by aggregating, cleansing and transforming cross-channel marketing data, all in one place and in real time. The company platform offers more than 200 built-in integrations, Google Analytics, Facebook, Instagram, Snapchat, LinkedIn, Pinterest, HubSpot, Twitter, Google Ads, Google Analytics and more.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><strong>The role:</strong></p><p><br></p><ul>
+<li>Administration of Cloud Infraestructure (AWS), Kubernetes clusters (AWS EKS),</li>
+<li>Administration of CI/CD tools (Jenkins/Github CI), as well as multiple environments for developing and testing</li>
+<li>Tuning and support for a centralized monitoring/alerting system</li>
+<li>Administration of Data Storage (postgress, Clickhouse, Redis), performance and replication</li>
+<li>On-Call duty</li>
+<li>Spoken English: Verbal communication with colleagues, participation in regular calls</li>
+</ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><strong>We're looking for a DevOps Engineer with experience in:</strong></p><p><br></p><ul>
+<li>At least 2 years of experience in SysOps/DevOps role</li>
+<li>Deep understanding of Linux</li>
+<li>Experience writing scripts in bash/python</li>
+<li>Experience in setting up Ansible configuration management system</li>
+<li>Experience in managing and configuring Docker, Kubernetes containerization tools</li>
+<li>A sense of responsibility, attention to detail, and the ability to see the essence of the problem</li>
+</ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><strong>Este reclutamiento es 100% libre de sesgos, todas las decisiones son basadas en tu experiencia y conocimientos, tú eres la persona más importante para nosotros y te acompañaremos en todo momento. Consejo: todos nuestros clientes buscan personas felices. </strong></p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/lapieza-devops-engineer-4">https://weworkremotely.com/remote-jobs/lapieza-devops-engineer-4</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>LaPieza</h5>
+                    <h3> DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/lapieza-devops-engineer-3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1">https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1</a>
+</p>
+
+<p>This company is looking a DevOps Engineer.</p><p>In this startup they have people from all over the world. They help marketers consolidate all their data by aggregating, cleansing and transforming cross-channel marketing and transforming multichannel marketing data, all in one place and in real time. They help marketers consolidate all their data by aggregating, cleansing and transforming cross-channel marketing data, all in one place and in real time.  The company platform offers more than 200 built-in integrations, Google Analytics, Facebook, Instagram, Snapchat, LinkedIn, Pinterest, HubSpot, Twitter, Google Ads, Google Analytics and more.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><strong>The role:</strong></p><p><br></p><p>Administration of Cloud Infraestructure (AWS), Kubernetes clusters (AWS EKS), </p><p>Administration of CI/CD tools (Jenkins/Github CI), as well  as multiple environments for developing and testing</p><p>Tuning and support for a centralized monitoring/alerting system </p><p>Administration of Data Storage (postgress, Clickhouse, Redis), performance and replication</p><p>On-Call duty</p><p>Spoken English: Verbal communication with colleagues, participation in regular calls</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><strong>We're looking for a DevOps Engineer with experience in:</strong></p><p><br></p><p>At least 2 years of experience in SysOps/DevOps role</p><p>Deep understanding of Linux</p><p>Experience writing scripts in bash/python</p><p>Experience in setting up Ansible configuration management system </p><p>Experience in managing and configuring Docker, Kubernetes containerization tools</p><p>A sense of responsibility, attention to detail, and the ability to see the essence of the problem</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><strong>Este reclutamiento es 100% libre de sesgos, todas las decisiones son basadas en tu experiencia y conocimientos, tú eres la persona más importante para nosotros y te acompañaremos en todo momento. Consejo: todos nuestros clientes buscan personas felices. </strong></p><p><br></p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/lapieza-devops-engineer-3">https://weworkremotely.com/remote-jobs/lapieza-devops-engineer-3</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +117,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/nethermind-devops-engineer" align="right" target="_blank">Apply</a>
@@ -96,52 +178,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/3391/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3> Senior DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>15 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-7" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/3391/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
-</p>
-
-<div>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects<br><br>
-</div><div><strong>What we're working on:</strong></div><div>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries</div><div><strong><br>Requirements</strong></div><ul>
-<li>7+ years of professional experience (A technical assessment will be required)</li>
-<li>Senior-level experience with AWS (EC2, RDS, S3, ECS, ELB)</li>
-<li>Strong background in Linux and Mongo Atlas administration</li>
-<li>Experience deploying Kubernetes in a production environment</li>
-<li>Experience with CI/CD in Jenkins or CircleCi</li>
-<li>Infrastructure as code (we use Terraform)</li>
-<li>Experience with requirement gathering and presentation to executives</li>
-<li>English fluency, verbal and written</li>
-<li>Professional, empathic, team player</li>
-<li>Problem solver, proactive, go-getter</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-7">https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-7</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1255720/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -152,7 +188,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1255720" align="right" target="_blank">Apply</a>
