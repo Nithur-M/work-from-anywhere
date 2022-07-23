@@ -1,5 +1,30 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/ae412d4295355c3f815d7f094805c07b1658448008.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Automotus</h5>
+                    <h3>
+					Senior Software Engineer				</h3>
+                </td>
+                <td width="300">
+                    <code>lead, senior, health</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/111746" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Who we are:Weâre a team of passionate, diverse individuals on a mission to solve the widespread traffic and environmental challenges impacted by the rise of delivery and ride-hailing activity.Â Our first-of-its-kind computer vision technology powers fully automated parking areas, some of which are used to support the nationâs very first zero-emissions delivery zones. From improving street safety to reducing carbon emissions in urban neighborhoods, our solutions are designed to make communities more livable for everyone.Weâre a GovTech Top 100 company, an honoree of Fast Companyâs âNext Big Thing in Tech,â and among the first organizations to receive a U.S. Department of Energy grant for the deployment of curb management solutions to incentivize vehicle electrification. Weâre seeking peers from diverse backgrounds, experiences, and cultures to help us continue this impact, and we encourage you to bring your unique and valuable perspective to our team. Role overview:Our team is small but growing fast. We're looking for a Senior Software Engineer who is eager to learn, detail-oriented, adaptable, and customer-focused to help lead the design and implementation of our back-end systems.In this role, you will have the opportunity to work with our Product, Engineering, and Customer Success Teams utilizing your technical proficiency and customer-focused mindset to help build the next generation of mobility infrastructure. Given the small size of the team and the fluid nature of startups, youâll also play a key role in our customer and product development.Â What we offer:We value work-life harmony and believe that our people deserve the best. We offer:- Equitable, competitive salaries- Health benefits, including medical, dental, and vision- Unlimited, self-directed vacation with a mandatory 10-day minimum- Five months paid parental leave, as well as additional family benefits to support our teammates and their families*Health benefits are for US-based employees only.We are an equal opportunity employer. We value learning from mistakes, an openness to all ideas, and an honest and empathetic approach to our teammates and customers. 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteOK.com/assets/img/jobs/354be69d41a57eaeb45c2015dbd8c5991657488477.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -11,7 +36,7 @@
                     <code>python, backend, scalability</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111588" align="right" target="_blank">Apply</a>
@@ -35,7 +60,7 @@
                     <code>backend,developer,git,go</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-go-software-engineer-1305612" align="right" target="_blank">Apply</a>
@@ -140,7 +165,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -208,7 +233,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
