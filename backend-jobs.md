@@ -1,5 +1,30 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteOK.com/assets/img/jobs/aeef17890bda45d9840586a9ceaead701658443082.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Close</h5>
+                    <h3>
+					Software Engineer Backend Python				</h3>
+                </td>
+                <td width="300">
+                    <code>saas, python, backend</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/111744" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2><strong>About Us</strong></h2><div>AtÂ <a class="postings-link" href="https://close.com/">Close</a>, we're building the sales communication platform of the future. With our roots as the very first sales CRM to include built-in calling, we're leading the industry toward eliminating manual processes and helping companies to close more deals(faster). Since our founding in 2013, we've grown to become a profitable, 100% globally distributed team of 50+ high-performing, happy people that are dedicated to building a product our customers love.</div><div><br /></div><div>Our backendÂ <a class="postings-link" href="https://stackshare.io/close-crm/close">tech stack</a>Â currently consists of Python Flask web apps with ourÂ <a class="postings-link" href="https://github.com/closeio/tasktiger">TaskTiger</a>Â scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, Postgres, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like RDS and ElasticCache and non-managed services running on EC2 instances. All of our compute runs through CI/CD pipelines that build Docker images, run automated tests and deploy to our Kubernetes clusters. Our backend primarily serves a well-documentedÂ <a class="postings-link" href="https://developer.close.com/">public API</a>Â that our front-end JavaScript app consumes. Our infrastructure is heavily automated using AWS tools, Terraform, and Ansible.</div><div><br /></div><div>We open sourcing our code and ideas on <a class="postings-link" href="https://github.com/closeio">our GitHub</a> and on <a class="postings-link" href="https://making.close.com/">The Making of Close</a>, our behind-the-scenes Product &amp; Engineering blog.Check out our projects like <u><a class="postings-link" href="https://github.com/closeio/socketshark">SocketShark</a></u>, <u><a class="postings-link" href="https://github.com/closeio/tasktiger">TaskTiger</a></u>,<u><a class="postings-link" href="https://github.com/closeio/limitlion">LimitLion</a></u> and <u><a class="postings-link" href="https://github.com/closeio/ciso8601">ciso8601</a></u>.</div><div><br /></div><div><br /></div><h2><strong>About You</strong></h2><div>We're looking for an experienced full-time (or part-time) Software Engineer to join our engineering team. Someone who has a solid understanding of web technologies and wants to help design, implement, launch, and scale major systems and user-facing features.</div><div><br /></div><div>You should have senior level experience (~5 years) building modern back-end systems, with at least 3 years of that experience using Python.</div><div><br /></div><div>You have hands on production experience woking with MongoDB, PostgreSQL, Elasticsearch, or similar data stores. You have significant experience designing, scaling, debugging, and optimizing systems to make them fast and reliable. You have experience participating in code reviews and providing overall code quality suggestions to help maintain the structure and quality of the codebase. You care about the craftsmanship of the code and systems you produce.</div><div><br /></div><div>Youâre comfortable working in a fast-paced environment with a small and talented team where you're supported in your efforts to grow professionally. You are able to manage your time well, communicate effectively and collaborate in a fully distributed team.</div><div><br /></div><div>You are located in an American or European time zone.</div><div><br /></div><div><br /></div><div><strong>Bonus points if you have...</strong></div><div><ul><li>Contributed open source code related to our tech stack</li><li>Led small project teams building and launching features</li><li>Built B2B SaaS products</li><li>Experience with sales or sales tools</li></ul><p>Â </p><h2><strong>Come help us with projects like...</strong></h2><ul><li>Conceiving, designing, building, and launching new user-facing features</li><li>Improving the performance and scalability of our GraphQL and <a class="postings-link" href="https://developer.close.com/">REST</a> API.</li><li>Improving how we <a class="postings-link" href="https://close.com/emailing/">sync</a> millions of sales emails and calendar events each month</li><li>Working with Twilio's API, WebSockets, and WebRTC to improve our <a class="postings-link" href="https://close.com/calling/">calling features</a></li><li>Building user-facing analytics features that provide actionable insights based on sales activity data</li><li>Improving our Elasticsearch-backed powerful <a class="postings-link" href="https://close.com/search/">search features</a></li><li>Improving our internal messaging infrastructure using streaming technologies like Kafka and RedisÂ </li><li>Building new and enhancing existing integrations with other SaaS platforms like Googleâs G Suite, Zapier, and Web Conferencing providers</li></ul><p>Â </p><h2><strong>Why work with us?</strong></h2><ul><li><a class="postings-link" href="https://www.youtube.com/watch?v=ZbyGnLhtj0o&amp;feature=youtu.be">Culture video</a>Â ð</li><li>100% remote companyÂ <em>(we believe in trust and autonomy)</em></li><li>Choose between working 5 days/wk (standard full-time) or 4 days/wk @ 80% pay</li><li><a class="postings-link" href="https://www.youtube.com/watch?v=gKjyXMz-q-Q&amp;feature=youtu.be">Annual team retreats</a>Â âï¸</li><li>Quarterly virtual summits</li><li>5 weeks PTO + Winter Holiday Break</li><li>2 additional PTO days every year with the company</li><li>1 month paid sabbatical every 5 years</li><li>Co-working stipend</li><li>Paid parental leave</li><li>Medical, Dental, Vision with HSA option (US residents)</li><li>401k matching at 6% (US residents)</li><li>Dependent care FSA (US residents)</li><li>Contributor toÂ <a class="postings-link" href="https://stripe.com/climate">Stripe's climate</a>Â initiativeÂ ðâ¤ï¸Â </li><li><a class="postings-link" href="https://close.io/about/">Our story and team</a>Â ð</li></ul><p>Â </p><div>At Close, everyone has a voice. We encourage transparency and practice a mature approach to the work-place. In general, we donât have strict policies, we have guidelines. Work/life harmony is an important part of our business - we believe you bring your best to work when you practice self-care (whatever that looks like for you).Â Â </div><div><br /></div><div>We come from 16 countries located in 5 of the 7 continents -- looking at you Antarctica and Australia ;-) â¦.. Weâre a collection of talented humans rich in diverse backgrounds, lifestyles, and cultures. Every year we meet up somewhere around the world to spend time with one another. These gatherings are an opportunity to strengthen the social fiber of our global community.</div><div><br /></div><div>Our team is growing in more ways than one - weâve recently launched 17 babies (and counting!). Unanimously, our favorite and most impactful value is âBuild a house you want to live in.â We strive to make decisions that are authentic for our people and help our customers become more successful.</div><div><br /></div><div><em>Our application process was designed to promote equitable and unbiased hiring practices. We ask a small series of questions that are similar to what would be asked in the first interview. This helps us learn more about you right from the start so please be sure to answer each question thoughtfully. Each application will receive two screens by two different reviewers. Regardless of fit, you will hear back from us letting you know if we'll be moving forward.</em></div></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -13,7 +38,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/yana-sr-backend" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/listings/yana-sr-backend-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -48,7 +73,7 @@
 <li>Cultura laboral sana ❤️</li>
 </ul><p><br></p>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/yana-sr-backend">https://weworkremotely.com/remote-jobs/yana-sr-backend</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/yana-sr-backend-1">https://weworkremotely.com/remote-jobs/yana-sr-backend-1</a></p>
 
                 </details>
                 </td>
@@ -64,7 +89,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/argyle-backend-engineer" align="right" target="_blank">Apply</a>
@@ -148,7 +173,7 @@
                     <code>apache,AWS,backend,cloud</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineer-1298840" align="right" target="_blank">Apply</a>
