@@ -11,7 +11,7 @@
                     <code>devops, ruby, gcp</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111592" align="right" target="_blank">Apply</a>
@@ -28,151 +28,58 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>LaPieza</h5>
-                    <h3> DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/lapieza-devops-engineer-4" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> 
-    <br /><strong>URL:</strong> <a href="https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1">https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1</a>
-</p>
-
-<p>This company is looking a DevOps Engineer.</p><p>In this startup they have people from all over the world. They help marketers consolidate all their data by aggregating, cleansing and transforming cross-channel marketing and transforming multichannel marketing data, all in one place and in real time. They help marketers consolidate all their data by aggregating, cleansing and transforming cross-channel marketing data, all in one place and in real time. The company platform offers more than 200 built-in integrations, Google Analytics, Facebook, Instagram, Snapchat, LinkedIn, Pinterest, HubSpot, Twitter, Google Ads, Google Analytics and more.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><strong>The role:</strong></p><p><br></p><ul>
-<li>Administration of Cloud Infraestructure (AWS), Kubernetes clusters (AWS EKS),</li>
-<li>Administration of CI/CD tools (Jenkins/Github CI), as well as multiple environments for developing and testing</li>
-<li>Tuning and support for a centralized monitoring/alerting system</li>
-<li>Administration of Data Storage (postgress, Clickhouse, Redis), performance and replication</li>
-<li>On-Call duty</li>
-<li>Spoken English: Verbal communication with colleagues, participation in regular calls</li>
-</ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><strong>We're looking for a DevOps Engineer with experience in:</strong></p><p><br></p><ul>
-<li>At least 2 years of experience in SysOps/DevOps role</li>
-<li>Deep understanding of Linux</li>
-<li>Experience writing scripts in bash/python</li>
-<li>Experience in setting up Ansible configuration management system</li>
-<li>Experience in managing and configuring Docker, Kubernetes containerization tools</li>
-<li>A sense of responsibility, attention to detail, and the ability to see the essence of the problem</li>
-</ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><strong>Este reclutamiento es 100% libre de sesgos, todas las decisiones son basadas en tu experiencia y conocimientos, tú eres la persona más importante para nosotros y te acompañaremos en todo momento. Consejo: todos nuestros clientes buscan personas felices. </strong></p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/lapieza-devops-engineer-4">https://weworkremotely.com/remote-jobs/lapieza-devops-engineer-4</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>LaPieza</h5>
-                    <h3> DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/lapieza-devops-engineer-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> 
-    <br /><strong>URL:</strong> <a href="https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1">https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1</a>
-</p>
-
-<p>This company is looking a DevOps Engineer.</p><p>In this startup they have people from all over the world. They help marketers consolidate all their data by aggregating, cleansing and transforming cross-channel marketing and transforming multichannel marketing data, all in one place and in real time. They help marketers consolidate all their data by aggregating, cleansing and transforming cross-channel marketing data, all in one place and in real time.  The company platform offers more than 200 built-in integrations, Google Analytics, Facebook, Instagram, Snapchat, LinkedIn, Pinterest, HubSpot, Twitter, Google Ads, Google Analytics and more.</p><p><br></p><p><br></p><p><br></p><p><br></p><p><strong>The role:</strong></p><p><br></p><p>Administration of Cloud Infraestructure (AWS), Kubernetes clusters (AWS EKS), </p><p>Administration of CI/CD tools (Jenkins/Github CI), as well  as multiple environments for developing and testing</p><p>Tuning and support for a centralized monitoring/alerting system </p><p>Administration of Data Storage (postgress, Clickhouse, Redis), performance and replication</p><p>On-Call duty</p><p>Spoken English: Verbal communication with colleagues, participation in regular calls</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><strong>We're looking for a DevOps Engineer with experience in:</strong></p><p><br></p><p>At least 2 years of experience in SysOps/DevOps role</p><p>Deep understanding of Linux</p><p>Experience writing scripts in bash/python</p><p>Experience in setting up Ansible configuration management system </p><p>Experience in managing and configuring Docker, Kubernetes containerization tools</p><p>A sense of responsibility, attention to detail, and the ability to see the essence of the problem</p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><strong>Este reclutamiento es 100% libre de sesgos, todas las decisiones son basadas en tu experiencia y conocimientos, tú eres la persona más importante para nosotros y te acompañaremos en todo momento. Consejo: todos nuestros clientes buscan personas felices. </strong></p><p><br></p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/lapieza-devops-engineer-3">https://weworkremotely.com/remote-jobs/lapieza-devops-engineer-3</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4780/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Nethermind</h5>
-                    <h3> DevOps Engineer</h3>
+                    <h5>Toptal</h5>
+                    <h3> Senior DevOps Engineer</h3>
                 </td>
                 <td width="300">
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>60 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/nethermind-devops-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/toptal-senior-devops-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4780/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> London
-    <br /><strong>URL:</strong> <a href="https://nethermind.io">https://nethermind.io</a>
+  <strong>Headquarters:</strong> Wilmington, DE
+    <br /><strong>URL:</strong> <a href="https://www.toptal.com/">https://www.toptal.com/</a>
 </p>
 
 <div>
-<br>Our DevOps team known as the Angkor of Nethermind are responsible for processes related to product development operations.<br><br>
+<strong><em>Design your full-time freelance career as a top freelance developer with Toptal.<br></em></strong><br>
 </div><div>
-<strong><br>As a member of this team you will:<br></strong><br>
-</div><ul>
+<br>Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. <br><br>
+</div><div>
+<br>Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <strong>Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</strong> Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. <br><br>
+</div><div>
+<br>As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. <br><br>
+</div><div>
+<br>That’s why the world’s top 3% of developers choose Toptal. DevOps Engineers in our network share:</div><ul>
+<li>English language proficiency</li>
 <li>
-<strong>Build and maintain</strong> company-wide CI/CD pipelines for different projects (Github Actions)</li>
+<strong>3+ years</strong> of professional experience in software development</li>
+<li>Solid experience with <strong>AWS</strong> is a strong advantage</li>
+<li>Project management skills</li>
+<li>A keen attention to detail</li>
+<li>Experience with system architecture or leading a software team is a strong advantage</li>
 <li>
-<strong>Deploy and maintain</strong> the blockchain infrastructure in a multi-cloud environment (DigitalOcean, AWS, Google Cloud, others)</li>
-<li>
-<strong>Follow</strong> the best, modern security patterns to keep the secrets secure</li>
-<li>
-<strong>Monitor</strong> the infrastructure with tools like Grafana, Prometheus, New Relic, OpsGenie</li>
-<li>
-<strong>Write scripts</strong>, lambda functions and even full applications with the language of your choice that can help us improve the workflow</li>
-<li>
-<strong>Automate work</strong> - yours and others (Terraform, Ansible, CloudFormation)</li>
-<li>
-<strong>Write clean procedures</strong> that everybody can understand and follow</li>
-<li>
-<strong>Participate</strong> in the Ethereum ecosystem events from the DevOps side</li>
-<li>
-<strong>Ensure 99.99% system uptime</strong>, smooth operations and work with infra handling millions of request per second</li>
-<li>
-<strong>Have strong cloud networking experience</strong> and troubleshooting skills</li>
-<li>
-<strong>Take ownership</strong> of end to end automation</li>
-<li>
-<strong>Implement systems</strong> that are highly available, scalable and secure on cloud platforms and on-premise</li>
-<li>
-<strong>Work</strong> with many different operating systems</li>
+<strong>Full-time availability</strong> is a strong advantage<br><br>
+</li>
 </ul><div>
-<strong><br>Perks and benefits:<br></strong><br>
-</div><ul>
-<li>Fully remote</li>
-<li>Flexible working hours</li>
-<li>Plus equity</li>
-</ul>
+<br>Curious to know how much you could make? Check out our DevOps engineer rate calculator: <a href="https://topt.al/vyc4Mq"><strong>https://topt.al/vyc4Mq</strong></a><br><br>
+</div><div>
+<br>If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/VWcaZG"><strong>https://topt.al/VWcaZG</strong></a><br><br>
+</div><div>
+<br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/nethermind-devops-engineer">https://weworkremotely.com/remote-jobs/nethermind-devops-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toptal-senior-devops-engineer">https://weworkremotely.com/remote-jobs/toptal-senior-devops-engineer</a></p>
 
                 </details>
                 </td>
@@ -188,7 +95,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1255720" align="right" target="_blank">Apply</a>
