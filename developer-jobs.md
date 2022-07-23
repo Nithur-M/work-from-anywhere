@@ -11,7 +11,7 @@
                     <code>mobile, react native, crypto</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111723" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>javascript, react, node</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111721" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>javascript, node, postgres</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111656" align="right" target="_blank">Apply</a>
@@ -86,7 +86,7 @@
                     <code>symfony, php, javascript</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111650" align="right" target="_blank">Apply</a>
@@ -111,7 +111,7 @@
                     <code>python, senior, operational</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111615" align="right" target="_blank">Apply</a>
@@ -125,27 +125,196 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/img/jobs/9759825d2dfc43acd1d07fa5e07e09cc1657170195.png" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>__OperateBeyond__TrailerCentral</h5>
-                    <h3>
-					HTML CSS Designer Developer				</h3>
+                    <h5>Edgebound</h5>
+                    <h3> Front End Developer</h3>
                 </td>
                 <td width="300">
-                    <code>css, html, git</code>
+                    <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/111567" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/listings/edgebound-front-end-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>About Us: We are an established rapidly growing SaaS company solving complex issues for auto, trailer and rv dealers to simplify their lives. We are looking for a strong front end developer whose responsibilities include design changes, design updates, and assisting with design and development of websites.</p><p><strong>**About You:. You have a portolio or example of code / past projects. You should be familiar with Html, CSS, and Git or willing to learn how to use Git.**</strong></p><p>Competitive pay based on experience / Remote ok / Must be North American based or willing to work North American business hours. | Posted by: OperateBeyond.com</p>
+                
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://lapieza.io/gsG43GmW7cfvNZblZQDuR7ZRfPo2">https://lapieza.io/gsG43GmW7cfvNZblZQDuR7ZRfPo2</a>
+</p>
+
+<p class="ql-align-justify">En Edgebound siempre estamos listos para vivir nuevas experiencias, somos la agencia de eCommerce número uno en México y tenemos un lugar para que te integres a nuestro equipo de trabajo. </p><p class="ql-align-justify"> </p><p class="ql-align-justify">Estamos en la búsqueda de un <strong>E-Commerce Back End Developer</strong> que se encargará de la construcción de nueva funcionalidad, mantenimiento y mejoras a las APIs implementadas dentro de las plataformas de comercio electrónico de nuestros clientes.</p><p class="ql-align-justify"> </p><p class="ql-align-justify"> </p><p class="ql-align-justify"><strong>Responsabilidades:</strong></p><p class="ql-align-justify"> </p><ul>
+<li class="ql-align-justify">Desarrollo y gestión de microservicios.</li>
+<li class="ql-align-justify">Seguimiento y lectura de eventos (logs) para la toma de decisiones.</li>
+<li class="ql-align-justify">Responsables de la integridad y cifrado de datos.</li>
+<li class="ql-align-justify">Implementación de pruebas automatizadas.</li>
+</ul><p class="ql-align-justify"> <strong>Habilidades:</strong></p><ul>
+<li class="ql-align-justify">Tener gran nivel de abstracción y buenas habilidades de comunicación</li>
+<li class="ql-align-justify">Buena resolución de conflictos</li>
+<li class="ql-align-justify">Ser autodidacta y ordenado.</li>
+<li class="ql-align-justify">Trabajar y cumplir con los objetivos y el tiempo comprometido.</li>
+</ul><p class="ql-align-justify"><strong> Deseable:</strong></p><p class="ql-align-justify"> </p><ul><li class="ql-align-justify">Inglés Conversacional</li></ul><p class="ql-align-justify"> </p><p class="ql-align-justify"> </p><p class="ql-align-justify"><strong>Conocimientos Técnicos con por lo menos 3 años de experiencia en:</strong></p><ul>
+<li class="ql-align-justify">Javascript de lado del servidor NodeJS</li>
+<li class="ql-align-justify">Manejo de autenticación y autorización de usuarios entre múltiples sistemas, servidores y ambientes</li>
+<li class="ql-align-justify">Manipulación de XML y JSON</li>
+<li class="ql-align-justify">Integración de múltiples fuentes y bases de datos (SQL y noSQL (Mongo DB) en un solo sistema</li>
+<li class="ql-align-justify">Migración de datos, transformación.</li>
+<li class="ql-align-justify">Creación de esquemas de bases de datos que representan los procesos de negocio.</li>
+<li class="ql-align-justify">Dominio de JAVA (herencia, threads, etc.)</li>
+<li class="ql-align-justify">Servicios REST y SOAP</li>
+<li class="ql-align-justify">Ecosistema Spring (Spring Boot, Spring JPA, Spring security, etc)</li>
+<li class="ql-align-justify">Hibernate</li>
+<li class="ql-align-justify">Express framework</li>
+<li class="ql-align-justify">Control de versiones Git</li>
+<li class="ql-align-justify">Docker</li>
+<li class="ql-align-justify">Estar familiarizado con CI/CD usando pipelines de Bitbucket </li>
+<li class="ql-align-justify">Comprensión de 'Session Management' en un entorno de servidor distribuido.</li>
+</ul><p><br></p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/edgebound-front-end-developer">https://weworkremotely.com/remote-jobs/edgebound-front-end-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5406/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Aldrin</h5>
+                    <h3> Senior React Native Mobile Developer Web3 (Remote)</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-react-native-mobile-developer-web3-remote-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0077/5406/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London
+    <br /><strong>URL:</strong> <a href="https://aldrin.com">https://aldrin.com</a>
+</p>
+
+<div>
+<strong>The Role<br></strong><br>
+</div><div>We are looking for a Senior React Native Mobile Developer with extensive experience in designing, building, and deploying highly secure, scalable, and maintainable client-facing UI systems.<br><br>
+</div><div>You will be one of the senior developers of the mobile app working closely with our designers, product owners, and backend engineers to develop and maintain high-quality mobile applications for a global audience in an extremely fast-growing industry. We work with a modern tech-stack. We use Typescript, hooks, eslint, reanimated, automated CI and deployments, etc. We work with a design system and an updated figma design.<br><br>
+</div><div>If you are extremely passionate about mobile platforms and translating code into user-friendly apps, we would like to meet you. Ultimately, you should be able to help design and build the next generation of our mobile applications that will impact and shape the financial lives of a growing audience.<br><br>
+</div><div>You will:<br><br>
+</div><ul>
+<li>Contribute code to our iOS &amp; Android React Native apps from the get-go</li>
+<li>Work on integrating and collaborating with other crypto products to enrich the user experience</li>
+<li>Implement features with the aim to provide long term stability of a highly scalable application</li>
+<li>Developing clean and reusable react native components</li>
+<li>Actively contributing new ideas and innovative UX/UI patterns</li>
+<li>Play an active role in evolving our mobile engineering practices</li>
+</ul><div><br></div><div><strong>Minimum Qualifications:</strong></div><ul>
+<li>Strong expertise in React Native with 5+ years of professional experience building high-quality mobile apps</li>
+<li>High-level experience with TypeScript</li>
+<li>Have experience with best-in-class client-side data design and management, whether that’s experience with GraphQL/ Apollo or other such tools</li>
+<li>Have a passion for good design and attention to detail. You’ll collaborate with designers but undoubtedly have the opportunity to express your own design sense if desired</li>
+<li>Verbal fluency in English</li>
+</ul><div><br></div><div><strong>Nice-to-Have Qualifications:</strong></div><ul>
+<li>Demonstrable portfolio of released applications on the App Store or the Android</li>
+<li>Passionate about crypto markets, blockchain technology, and decentralized applications</li>
+<li>Knowledge/experience working on mobile financial applications/cryptocurrencies/wallets</li>
+<li>Experience with Solana Web3 frameworks and technologies, especially on mobile</li>
+<li>Experience working with a large codebase and detox or appium testing tools</li>
+<li>Experience with responsive UI and debugging skills</li>
+<li>Experience developing high-performance mobile app interfaces</li>
+<li>Bachelors or Masters degree, preferably in Computer Science, Computer Engineering or other technical (STEM) field or an equivalent of experience</li>
+</ul><div>
+<br><strong>Benefits<br></strong><br>
+</div><ul>
+<li>Competitive salary</li>
+<li>Remote work in a dynamic, fast-growth Web3 startup</li>
+<li>Flexible working hours</li>
+<li>Opportunity to work with a diverse, global, and passionate team</li>
+<li>Collaboration with leading projects and thought leaders in the crypto space</li>
+</ul><div><em>At Aldrin Labs, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.</em></div><div><br></div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-react-native-mobile-developer-web3-remote-1">https://weworkremotely.com/remote-jobs/aldrin-senior-react-native-mobile-developer-web3-remote-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2545/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>RealTools.com</h5>
+                    <h3> Senior Front End Developer (UX)</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/realtools-com-senior-front-end-developer-ux" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/2545/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Global
+    <br /><strong>URL:</strong> <a href="http://realtools.com">http://realtools.com</a>
+</p>
+
+<div>
+<strong>About RealTools<br></strong><br>
+</div><div>There are over 4 million real estate agents in the world. On average, a real estate agent uses 14 different tools for their business. There are thousands of options for each tool. Tools can be like website management applications, CRM, email marketing applications, etc.<br><br>
+</div><div>RealTools is a startup community-focused application that will be made for real estate agents. Using RealTools, real estate agents will be able to search and filter through all the tools available to them and find the best one for their needs.<br><br>
+</div><div>
+<strong>About the Job<br></strong><br>
+</div><div>We are looking for a senior UX/UI Developer to join our team. As the UX/UI Developer, you will play the most important role. You will create the application interface that will be used by millions of real estate agents.<br><br>
+</div><div>You will have autonomy in developing your designs, from concept to execution, but you won't be alone. You will be part of a cross-functional team. Product managers will help you understand where your work fits in our roadmap; data analysts will help you define metrics and measure success; developers will help you make your designs come to life.<br><br>
+</div><div>You must be able to create UX designs from scratch.<br><br>
+</div><div><strong>TYPE OF SKILLS NEEDED</strong></div><ul>
+<li>an expert in html5/css3/javascript</li>
+<li>very comfortable coding in modern frameworks</li>
+<li>dedicated experience creating UX interfaces</li>
+<li>able to design UX interfaces directly<br><br>
+</li>
+</ul><div><strong>TYPE OF PERSON NEEDED</strong></div><ul>
+<li>very detailed originated</li>
+<li>loves working on new innovating applications</li>
+<li>very focused</li>
+<li>team player</li>
+<li>a true artist</li>
+<li>passionate about their craft</li>
+</ul><div>
+<br><br>
+</div><div><strong>WHAT WE OFFER</strong></div><ul>
+<li>focused on happiness first</li>
+<li>flexible schedule</li>
+<li>continuous growth opportunity</li>
+<li>be part of something that will have a big positive impact in the world</li>
+<li>bonuses as the company grows</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/realtools-com-senior-front-end-developer-ux">https://weworkremotely.com/remote-jobs/realtools-com-senior-front-end-developer-ux</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -160,7 +329,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/hal-senior-frontend-developer" align="right" target="_blank">Apply</a>
@@ -209,7 +378,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-1" align="right" target="_blank">Apply</a>
@@ -256,154 +425,45 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5214/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Aldrin</h5>
-                    <h3> Senior Front-End Developer Web3 (Remote)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-front-end-developer-web3-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/5214/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Europe
-    <br /><strong>URL:</strong> <a href="https://aldrin.com">https://aldrin.com</a>
-</p>
-
-<div>
-<strong>The Role<br></strong><br>
-</div><div>We’re looking for a <strong>Senior Front-End Developer Web3 (Remote)</strong> to develop front-end applications for Aldrin Lab´s innovative Web3 products.<br><br>
-</div><div>You will:</div><ul>
-<li>Build, deploy, and mature user-friendly, highly secure, maintainable, high-performance scalable interfaces, and client-facing UI systems</li>
-<li>Work closely with our product and design teams to develop new features from design to production</li>
-<li>Have an entrepreneurial spirit and bring ideas to front-end development</li>
-<li>Work effectively with a high degree of autonomy, but also enjoy working collaboratively in a team</li>
-<li>Understand the front-facing user experience of our products, and work alongside other team members to ensure that we utilize best principles/practices</li>
-<li>Design new and optimize existing systems and participate in design reviews</li>
-</ul><div><br></div><div>
-<strong>Minimum Qualifications:<br></strong><br>
-</div><ul>
-<li>
-<strong>5+ years</strong> of experience in front-end development, at minimum</li>
-<li>
-<strong>Strong </strong>e<strong>xpertise </strong>in front end development with <strong>React, </strong>with an understanding of React best practices, optimizations, and profiling</li>
-<li>Strong experience with GraphQL/Apollo/REST</li>
-<li>Verbal fluency in English</li>
-<li>Interest and enthusiasm for crypto markets, blockchain technology, decentralised finance, and the whole Web3 ecosystem</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>Nice-to-Have Qualifications:<br></strong><br>
-</div><ul>
-<li>Experience with <strong>TypeScript</strong>
-</li>
-<li>First-hand experience with Web3 front-end technologies and developing DeFi applications and/or FinTech applications</li>
-<li>Experience working with a large codebase and e2e testing like Cypress</li>
-<li>BS in Computer Science or equivalent</li>
-</ul><div>
-<br><strong>Benefits:<br></strong><br>
-</div><ul>
-<li>Competitive salary + tokens/equity</li>
-<li>100% remote working</li>
-<li>Flexible working hours</li>
-<li>Opportunity to work with a diverse, global, and passionate team</li>
-<li>Collaboration with leading projects and thought leaders in the crypto space</li>
-</ul><div><em>At Aldrin Labs, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.</em></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-front-end-developer-web3-remote">https://weworkremotely.com/remote-jobs/aldrin-senior-front-end-developer-web3-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4690/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Ohio University</h5>
-                    <h3> ERP Developer II (Remote Work arrangements, flexible schedules)</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>14 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/ohio-university-erp-developer-ii-remote-work-arrangements-flexible-schedules" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4690/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Athens, OH
-    <br /><strong>URL:</strong> <a href="https://www.ohio.edu/">https://www.ohio.edu/</a>
-</p>
-
-<div>
-<strong>ERP Developer II (Remote Work arrangements, flexible schedules)<br><br></strong>The ERP Developer II is a member of the Ohio University Business Systems team. This position works under general supervision primarily in the ERP application and with other third party applications that integrate directly with the ERP enterprise application. Responsibilities include creating moderately complex customizations and extensions to ERP functionality, and moderately complex SQL for queries. Designs and develops applications that update data in the ERP system based on well-defined criteria and functions. Proficient in using delivered ERP functionality to schedule processes, create communications, maintain and transform ERP data, and set security within the ERP system.<br><br>Duties Include:<br>1. Development – Participates in the development, maintenance, and support of the ERP system and corresponding data. Designs and documents moderately complex system configurations, scheduled tasks, customizations, extensions, integrations, etc. Performs ERP development requiring an advanced knowledge of business processes, source data, SQL and other data manipulation languages, and ERP developmental tool features.<br>2. Production Support – Leverages an advanced understanding of ERP delivered features to support the user community by effectively participating in analysis, design, and execution of business functions. Assists in troubleshooting with moderately complex issues with customizations and extensions to ERP systems.<br>3. Production Support – Leverages an advanced understanding of ERP delivered features to support the user community by effectively participating in analysis, design, and execution of business functions. Assists in troubleshooting with moderately complex issues with customizations and extensions to ERP systems.<br>4. Other duties as assigned.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ohio-university-erp-developer-ii-remote-work-arrangements-flexible-schedules">https://weworkremotely.com/remote-jobs/ohio-university-erp-developer-ii-remote-work-arrangements-flexible-schedules</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/6390/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>TestDome</h5>
-                    <h3> Frontend Developer (Vue.js + ASP.NET Core)</h3>
+                    <h3> Senior ASP.NET Core Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Front-End Programming</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>62 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/testdome-frontend-developer-vue-js-asp-net-core-1" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/testdome-senior-asp-net-core-developer-2" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0018/6390/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
   <strong>Headquarters:</strong> Croatia
     <br /><strong>URL:</strong> <a href="https://www.testdome.com/">https://www.testdome.com/</a>
 </p>
 
-<div>At <a href="https://www.testdome.com/">TestDome</a>, we make it easy for companies to screen job applicants with work-sample tests for multiple skills. We offer programming assessments, tests for non-technical disciplines, and reasoning tests. Some of our customers include Ernst &amp; Young, PayPal, and Turkish Airlines.</div><div><br></div><div>We are fully remote with a small and dedicated team based around the world. The team works in an agile style using the Kanban framework, prefers documentation over chat, and aims for async communication. You will be working alongside 5 full-stack developers, 1 UX designer/developer, and 1 QA engineer. To learn more about the way we work, check our <a href="https://docs.google.com/document/d/1wUxGV9eDLuurOUhRhVyBx1j3ie_WNjJjy8oORSnSHdQ/edit?usp=sharing">public company manual</a>.</div><div><br></div><div><strong>About the job</strong></div><ul>
-<li>Take an active role in the entire software development cycle, from conception to delivery.</li>
-<li>Plan, build, and release new features using TypeScript, Vue.js and C# (ASP.NET Core).</li>
-<li>Work closely with our UI/UX designer to help design beautiful user-interfaces that are easy to use.</li>
-</ul><div><br></div><div><strong>Requirements</strong></div><ul>
-<li>Expert in modern web development (ideally with Vue.js).</li>
-<li>Solid UX/UI design skills (ideally with Figma).</li>
-<li>Working knowledge of backend development using C# and ASP.NET Core.</li>
-</ul><div><br></div><div><strong>Hiring Process</strong></div><div>Our goal is to make an offer within two weeks. We have a staged approach and successful applications will progress through each step:</div><ul>
+<div>At <a href="https://www.testdome.com/">TestDome</a>, we make it easy for companies to screen job applicants with work-sample tests for multiple skills. We offer programming assessments, tests for non-technical disciplines, and reasoning tests. Some of our customers include Ernst &amp; Young, PayPal, and Turkish Airlines.</div><div><br></div><div>We are fully remote with a small and dedicated team based around the world. The team works in an agile style using the Kanban framework, prefers documentation over chat, and aims for async communication. You will be working alongside 4 full-stack developers, 1 UX designer/developer, and 1 QA engineer. To learn more about the way we work, check our <a href="https://docs.google.com/document/d/1wUxGV9eDLuurOUhRhVyBx1j3ie_WNjJjy8oORSnSHdQ/edit?usp=sharing">public company manual</a>.</div><div><br></div><div><strong>About the job</strong></div><ul>
+<li>Plan, build, and release features using TypeScript, Vue.js, and ASP.NET Core.</li>
+<li>Collaborate with other team members to design and discuss application architecture and infrastructure.</li>
+<li>Code review pull-requests from other team members.</li>
+</ul><div><strong>Requirements</strong></div><ul>
+<li>Expert in backend development using C# and ASP.NET Core.</li>
+<li>Solid knowledge of modern web development practices/frameworks (ideally Vue.js).</li>
+</ul><div><strong>Hiring Process</strong></div><div>Our goal is to make an offer within two weeks. We have a staged approach and successful applications will progress through each step:</div><ul>
 <li>Take a TestDome screening test to assess your skills. Naturally, we dogfood our product so you will get a chance to see what we are building to make hiring better.</li>
 <li>A technical interview with an engineer from your future team</li>
 <li>An interview with our CEO</li>
 <li>Job offer</li>
-</ul><div><br></div><div><strong>What we offer</strong></div><ul>
+</ul><div><strong>What we offer</strong></div><ul>
 <li>Salary from $50,000 - 85,000 USD per year</li>
 <li>Work from anywhere with flexible working hours</li>
 <li>We cover the cost of a coworking space</li>
@@ -412,9 +472,9 @@
 <li>24 days of paid vacation</li>
 <li>Paid sick leave</li>
 <li>Paid special leave</li>
-</ul><div><br></div><div>To apply, start your programming screening test by clicking on <a href="https://app.testdome.com/apply/06a26de89551435fbf01f3d6e56ebdd2">this link</a>.</div><div><br></div>
+</ul><div>To apply, start your programming screening test by clicking on <a href="https://app.testdome.com/apply/84410716e45d4c6794fd6156678d6aa5">this link</a>.</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testdome-frontend-developer-vue-js-asp-net-core-1">https://weworkremotely.com/remote-jobs/testdome-frontend-developer-vue-js-asp-net-core-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testdome-senior-asp-net-core-developer-2">https://weworkremotely.com/remote-jobs/testdome-senior-asp-net-core-developer-2</a></p>
 
                 </details>
                 </td>
@@ -430,7 +490,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>120 days ago</text>
+                <text>121 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/g2i-inc-mid-senior-or-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -468,52 +528,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/0588/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Toptal</h5>
-                    <h3> Senior Front-End Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>302 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/toptal-senior-front-end-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0067/0588/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong>  Wilmington, DE
-    <br /><strong>URL:</strong> <a href="https://www.toptal.com/">https://www.toptal.com/</a>
-</p>
-
-<div><strong><em>Design your full-time freelance career as a top freelance developer with Toptal. </em></strong></div><div><br></div><div>Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. </div><div><br></div><div>Toptal is an elite talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere.<strong> Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </strong>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. </div><div><br></div><div>As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. </div><div><br></div><div>That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</div><ul>
-<li>English language proficiency</li>
-<li>
-<strong>3+ years</strong> of professional experience in software development</li>
-<li>Solid experience with<strong> React.js</strong> is a strong advantage</li>
-<li>Project management skills</li>
-<li>A keen attention to detail</li>
-<li>Experience with system architecture or leading a software team is a strong advantage</li>
-<li>
-<strong>Full-time availability</strong> is a strong advantage<br><br>
-</li>
-</ul><div><br></div><div>Curious to know how much you could make? Check out our developer rate calculator: <a href="https://topt.al/dwc7v2">https://topt.al/dwc7v2</a> </div><div><br></div><div>If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/jmc7Q3"><strong>https://topt.al/jmc7Q3</strong></a>
-</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toptal-senior-front-end-developer">https://weworkremotely.com/remote-jobs/toptal-senior-front-end-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -524,7 +538,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>542 days ago</text>
+                <text>543 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
@@ -606,7 +620,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -653,7 +667,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255729" align="right" target="_blank">Apply</a>
@@ -678,7 +692,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255704" align="right" target="_blank">Apply</a>
@@ -703,7 +717,7 @@
                     <code>developer,rails,ruby,growth</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1255730" align="right" target="_blank">Apply</a>
@@ -728,7 +742,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1255725" align="right" target="_blank">Apply</a>
@@ -753,7 +767,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1255719" align="right" target="_blank">Apply</a>
@@ -778,7 +792,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1255718" align="right" target="_blank">Apply</a>
@@ -803,7 +817,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1255721" align="right" target="_blank">Apply</a>
@@ -828,7 +842,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -1039,7 +1053,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
