@@ -1,5 +1,80 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteOK.com/assets/img/jobs/3c082c495aeb35ec295887682b2ffa491658525093.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>AssemblyAI</h5>
+                    <h3>
+					Developer Educator Machine Learning				</h3>
+                </td>
+                <td width="300">
+                    <code>devrel, ml, pytorch</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/111756" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro"><p><strong>AssemblyAI is an AI company - we build powerful models to transcribe and understand audio data, exposed through simple APIs.</strong></p><p>Hundreds of companies, and thousands of developers, use our APIs to both transcribe and understand millions of videos, podcasts, phone calls, and zoom meetings every day. Our APIs power innovative products like conversational intelligence platforms, zoom meeting summarizers, content moderation, and automatic closed captioning.</p><p><strong>Weâve been growing at breakneck speed, and are backed by leading investors including Y Combinatorâs AI Fund, Patrick and John Collision (Founders of Stripe), Nat Friedman (Former CEO of GitHub), and Daniel Gross (Entrepreneur &amp; Investor in companies including GitHub, Uber, Coinbase, SpaceX, Instacart, Notion, and Cruise Automation).</strong></p><p>AssemblyAIâs Speech-to-Text APIs are already trusted by Fortune 500s, startups, and thousands of developers around the world,Â <strong>with well-known customers including Spotify, Algolia, Dow Jones, The Wall Street Journal, and NBCUniversal.</strong>Â As part of a huge and emerging market, AssemblyAI is well on its way to becoming the leader in speech recognition and NLP.</p><p><strong>Join our world-class, remote team and help us build an iconic deep learning company.</strong></p><h2><strong>Our Team</strong></h2><p><strong>We are a fully remote team made up of problem solvers, innovators and top AI researchers with 20+ years of experience in Machine Learning, Speech Recognition, and NLP from places like DeepMind, Google, Meta, Amazon, Apple, and Cisco.</strong>Â Our culture is super collaborative, low-ego, transparent, and fast-paced. We want to win - and have a flat organization where everyone can openly share ideas (regardless of their title or position) in order to get the best idea.</p><p>As a remote company, our team members are given a lot of trust and autonomy to work where and how they want. We look for people to join our team who are ambitious, curious, and self-motivated, and we put a lot of trust and autonomy into everyone on our team.Â <strong>We want to empower everyone to do their best work with whatever tools, structures, or resources they need to perform at their highest potential.</strong></p></div><h2><strong>The Role</strong></h2><p>AssemblyAI is growing quickly, and weâre searching for a Developer Educator who will create high quality content for the developer community. With significant investment and strong leadership to fuel our growth, itâs the perfect time to join the AssemblyAI team!</p><p>In this role youâll have the opportunity to:</p><ul><li><span class="notion-enable-hover"><strong>Create high quality programming and machine learning content for the developer community.</strong>Â </span>Content created by our Developer Education team willÂ <span class="discussion-level-1 discussion-id-982e00b2-f801-4698-bc36-e475a80bd1e5 notion-enable-hover">include technical deep dives on the AssemblyAI blog.</span></li></ul><ul><li><strong>Create projects &amp; tutorials with our API and interact with developers in our community.</strong>Â You will create tutorials and example projects with the AssemblyAI API, new AssemblyAI features, and interact with our community of developers on Reddit, Hacker News, and Discord</li></ul><p><strong>To see the work our Developer Education team has been up to so far, you can check out the below content:</strong></p><ul><li><a href="https://www.assemblyai.com/blog/how-dall-e-2-actually-works/">How Does DALL-E 2 Actually Work?</a></li><li><a class="discussion-level-1 discussion-id-2a18fb3a-53b8-48c4-b0bc-040b25323a8c notion-link-token notion-enable-hover" href="https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/"><span class="link-annotation-unknown-block-id--662876250">Introduction to Diffusion Models for Machine Learning</span></a></li><li><span class="link-annotation-unknown-block-id--662876250"><a class="notion-link-token notion-enable-hover" href="https://www.assemblyai.com/blog/transcribe-twilio-phone-calls-in-real-time-with-assemblyai/"><span class="link-annotation-unknown-block-id--633386418">T</span></a><a class="notion-link-token notion-enable-hover" href="https://www.assemblyai.com/blog/transcribe-twilio-phone-calls-in-real-time-with-assemblyai/"><span class="link-annotation-unknown-block-id--633386418">ranscribe Twilio Phone Calls in Real-Time with AssemblyAI</span></a></span></li></ul><h2><strong>Requirements</strong></h2><div class="styles--2kg4_"><ul><li>3+ years of experience with Python</li><li>Some experience with Machine Learning or Deep Learning libraries like PyTorch, TensorFlow, Keras, SciPy, etc.</li><li>A proven interest in creating educational or interesting developer content (blogs, open source projects, etc.)</li><li>A plus would be some experience with SEO or marketing</li><li>Experience with writing scalable, reliable, performant and overall high quality components and applications</li><li>Experience working with API's</li><li>Start-up experience</li></ul><h2><strong>Skills</strong></h2><ul><li>Ability to effectively communicate complex technical topics in a simple way</li><li>You are a self-starter, well organized, creative, results-oriented, quality minded and a team-first player</li><li>Great relationship builder and networker</li><li>Strong written &amp; verbal communication, research, and presentation skills</li></ul><h2><strong>Benefits (US)</strong><br /></h2></div><div class="content-conclusion"><ul><li>Competitive Salary + Bonus</li><li>Equity</li><li>100% Remote team</li><li>Unlimited PTO</li><li>Premium Healthcare (100% Covered for you + dependents)</li><li>Vision &amp; Dental Care</li><li>$1K budget for your home office setup</li><li>New Macbook Pro (or PC if you prefer)</li><li>3-4x/year company paid team retreat</li></ul></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteOK.com/assets/img/jobs/bfd9d8af1829990c683138367e2f444c1658498670.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>RDX Works</h5>
+                    <h3>
+					Senior Full stack SDK Developer Researcher				</h3>
+                </td>
+                <td width="300">
+                    <code>dev, typescript, api</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/111749" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2 dir="ltr">What is the job?Â </h2><p dir="ltr">No matter how powerful and flexible you build a platform, at the end of the day itâs the experience you can give the user that matters.Â  Radix is seeking a savvy frontend development expert to help build the tools that will define the future of decentralized finance (DeFi) and Web3.0 user experience.<strong></strong></p><p dir="ltr">DeFi and Web3.0 have turned out to be the killer apps that are taking public distributed ledgers from niche products for speculators and hobbyists to projects of global economic significance, and with them have come a new paradigm for user interfaces.Â  Authentication models, interoperability expectations, and the entire concept of user accounts are all undergoing dramatic changes; at Radix youâll have the opportunity to define the way forward while working at the very cutting edge of a space undergoing furious growth.<strong></strong></p><p dir="ltr">Your initial focus will be development of full-stack typescript applications and integrated backend services spanning web and mobile devices that get users, their identity, and their assets connected to DeFi and Web3.0 applications on the Radix network. Working from Figma prototypes and pre-defined network APIs you will work within our Core Apps team to build and maintain web applications that interact with our unique mobile app, backend infrastructure to connect web and mobile experiences, and SDKs and technologies that developers will use to create their own web applications that interact with our mobile app.<strong></strong></p><h2 dir="ltr">What are we looking for?Â </h2><ul><li dir="ltr"><p dir="ltr">Youâre a confident coder who likes to work at the user interface level, and you have built public-facing websites or applications in Typescript in the past.</p></li><li dir="ltr"><p dir="ltr">Youâre a generalist, and have experience building REST services and/or WebSocket backends.</p></li><li dir="ltr"><p dir="ltr">You are a researcher and enjoy requirements engineering for SDK development.Â </p></li><li dir="ltr"><p dir="ltr">You like to actively shape designs and play with ideas as you build, and are comfortable iterating until it feels just right.</p></li><li dir="ltr"><p dir="ltr">Youâre able to isolate the 90% case for user experiences.Â Â </p></li><li dir="ltr"><p dir="ltr">You think in terms of making the most common interactions effortless, rather than making anything possible.</p></li><li dir="ltr"><p dir="ltr">Youâre intelligent and learn quickly.Â  Absolutely no one at Radix winds up only doing whatâs in their job description, and adaptability is essential.</p></li></ul><h2 dir="ltr">What do you need?</h2><ul><li dir="ltr"><p dir="ltr">4+ years as a professional software engineer in full-stack development</p></li><li dir="ltr"><p dir="ltr">You are fluent in Typescript.</p></li><li dir="ltr"><p dir="ltr">You haveÂ  SDK development experience.</p></li><li dir="ltr"><p dir="ltr">You know how to work with complex APIâs (ideally WebRTC, WebAuthn, etc)</p></li><li dir="ltr"><p dir="ltr">You excel at researching and requirements gathering.</p></li><li dir="ltr"><p dir="ltr">Youâre enthusiastic about working in a multidisciplinary team with mobile engineers.Â </p></li></ul><h1 dir="ltr">Who are we?Â </h1><p dir="ltr">At RDX Works, we're a team of like-minded thinkers who have long been convinced that we're living in the earliest stages of a global financial revolution. This revolution is being fuelled by decentralized finance (or DeFi for short), which is enabling an assortment of pioneering developers and entrepreneurs to re-invent almost every financial product that is currently traded and invested in traditional markets, without requiring central authorities or siloed infrastructure. DeFi has captured a great deal of attention and investment in the crypto-aware niche, growing assets under management from $1 billion to over $200Â  billion in a few years. Impressive as its growth has been, its current market size isn't even a rounding error on the over $400 trillion held in traditional finance. We're focused on what it will take to go from billions to trillions.</p><p dir="ltr">RDX went back to first principles to come up with the right technical solutionâthe first layer-one protocol built specifically for mainstream DeFiâand we have already tested out at over 1 million transactions per second. We're keenly aware that the need for an infinitely scalable platform is only one prerequisite among many for mass adoption, and we're also blazing new ground in the areas of purpose-built developer tools, user experiences, and regulatory integration.</p><p dir="ltr">We have forged a path deep into the future of what distributed ledger technology is going to look like and we need you to come and be part of the team that is making that happen right now.</p><p dir="ltr">If this job sounds like it was made for you, then please apply directly via the link or email errico.dipiazza@rdx.works for more information.Â Â </p><p dir="ltr">Check out our company benefits here - <a href="https://www.rdx.works/careers">RDX Works Benefits</a>Â Â </p><p dir="ltr">Alternatively, if you feel like you donât match all of the requirements, we would love you to still apply anyway. We understand that confidence gaps and imposter syndrome can get in the way of meeting incredible candidates and we wouldnât want this to prevent us from meeting you; especially as we are big advocates of helping people learn &amp; grow. This is also another reason we do not advertise salaries, we want to keep it as even a playing field as possible!Â </p><p><br /></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteOK.com/assets/img/jobs/872da92997241b3f99d1171fb05ff5bd1658499684.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>lemon.io</h5>
+                    <h3>
+					Full stack Developer				</h3>
+                </td>
+                <td width="300">
+                    <code>full stack, javascript, react</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/111748" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p dir="ltr">Get a remote job that you will love with better compensation and career growth.</p><p dir="ltr">Weâre Lemon.io â a marketplace where we match you with hand-picked startups from the US and Europe.Â </p><p dir="ltr"><strong>Why work with us:</strong></p><ul><li dir="ltr"><p dir="ltr">Weâll find you a team that respects you. No time-trackers or any micromanagement stuff</p></li><li dir="ltr"><p dir="ltr">Our engineers earn $6k - $10k / month. Weâve already paid out over $10M.</p></li><li dir="ltr"><p dir="ltr">Choose your schedule. We have both full- and part-time projects.</p></li><li dir="ltr"><p dir="ltr">No project managers in the middle â only direct communications with clients, most of whom have a technical background</p></li><li dir="ltr"><p dir="ltr">Our customer success team provides life support to help you resolve anything.</p></li><li dir="ltr"><p dir="ltr">You donât have to look for clients and or negotiate anymore: just do what you do best and leave us the rest.</p></li></ul><p dir="ltr"><strong>Requirements:</strong></p><ul><li dir="ltr"><p dir="ltr">3+ years of software development experience</p></li><li dir="ltr"><p dir="ltr">Strong knowledge of JavaScript (Core, DOM APIs)</p></li><li dir="ltr"><p dir="ltr">3+ years of experience with Node.js</p></li><li dir="ltr"><p dir="ltr">Experience with front-end JavaScript frameworks and libraries (React.js preferably)</p></li><li dir="ltr"><p dir="ltr">Understanding of and practical experience with SOLID principles and GOF patterns</p></li><li dir="ltr"><p dir="ltr">Understanding of CI principles</p></li><li dir="ltr"><p dir="ltr">Experience with Typescript and React Native would be a plus</p></li></ul><p><strong><br /></strong></p><ul><li dir="ltr"><p dir="ltr">Good command of English, both written and spoken, as youâll be communicating with clients directly</p></li><li dir="ltr"><p dir="ltr">Strong organizational skills â ability to work full-time remotely with no supervision</p></li><li dir="ltr"><p dir="ltr">Responsibility â we want to trust you</p></li><li dir="ltr"><p dir="ltr">Soft skills â we donât ask you find a topic for a small talk, but being just polite is OK</p></li></ul><p dir="ltr">Apply today, and our team will get back to you within 2 business days!Â </p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteOK.com/assets/img/jobs/8f4b5a6a1fc0fdf1022d2e2b8692bf831658345292.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -11,7 +86,7 @@
                     <code>mobile, react native, crypto</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111723" align="right" target="_blank">Apply</a>
@@ -36,7 +111,7 @@
                     <code>javascript, react, node</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111721" align="right" target="_blank">Apply</a>
@@ -61,7 +136,7 @@
                     <code>javascript, node, postgres</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111656" align="right" target="_blank">Apply</a>
@@ -86,7 +161,7 @@
                     <code>symfony, php, javascript</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111650" align="right" target="_blank">Apply</a>
@@ -111,7 +186,7 @@
                     <code>python, senior, operational</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111615" align="right" target="_blank">Apply</a>
@@ -121,66 +196,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 Are you looking for an opportunity to make an impact in the Healthcare industry? Are you competitive and self-motivated? Zipari is seeking a highly motivated Senior Python Developer to join our one of a kind Engineering team.Â  You will get to work on cutting edge technologies that support healthcare consumers when shopping for healthcare coverage, by offeringÂ  where to go for top quality and cost effective care, and communicate with their physicians and care providers to achieve their best health.Â Â Â This position reports directly to our Sr. Director, Technology (an incredible human being!) and allows you the flexibility to work from your home office!Â Why Join Us:Â Professional Development: If you want to learn and grow, Zipari is the place for you! We have a formal professional development program and guides to help you develop your skills and advance your career.Â Entrepreneurial Culture: Â You will be working with serial entrepreneurs that value innovative market approaches and strong critical thinking abilities.Work/Life: I know. Every organization says they have a great work/life culture BUT . . . Our clients pay us for results (not work hours), we provide complete autonomy to deliver results that seamlessly fit into your lifestyle.â¯â¯â¯â¯Youâre Making a Difference: Youâll spend your days building relationships with professionals in leading healthcare organizations across the country â providing them with solutions that impact the health, safety, and well-being of their patients and the quality of the care that they provide.Â Â Â About Us: Zipari is a modern consumer experience solution focused exclusively on transforming the digital health insurance experience from end-to-end. Zipariâs Customer Experience Platform modernizes digital engagement for every consumer and market segment, delivering value by growing revenue, boosting engagement, capitalizing on operational efficiencies, and improving member outcomes. With unsurpassed technology, Zipariâs products provide real-time insights at every touchpoint, delivering breakthrough consumer experiences.Â  Zipari now serves more than 40 million members via their payer customers and is backed by Thoma Bravo, the leading private equity firm, with a 40+ year history, focused on investments in software and technology companies. For more information about Zipari, please visitwww.zipari.com.Â Zipari is committed to a diverse workplace and equal opportunity. We do not discriminate on the basis of race, color, religion, gender, disability, national origin, sexual orientation, age, marital status, disability, gender identity, Veteran status, or other legally protected status. We understand that the products we build and the work that we do is better and greater when it is inclusive of varied experiences, skills, and perspectives. We encourage everyone whose experience is close to what we are looking for to apply and allow our team to get to know you.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Edgebound</h5>
-                    <h3> Front End Developer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/edgebound-front-end-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> 
-    <br /><strong>URL:</strong> <a href="https://lapieza.io/gsG43GmW7cfvNZblZQDuR7ZRfPo2">https://lapieza.io/gsG43GmW7cfvNZblZQDuR7ZRfPo2</a>
-</p>
-
-<p class="ql-align-justify">En Edgebound siempre estamos listos para vivir nuevas experiencias, somos la agencia de eCommerce número uno en México y tenemos un lugar para que te integres a nuestro equipo de trabajo. </p><p class="ql-align-justify"> </p><p class="ql-align-justify">Estamos en la búsqueda de un <strong>E-Commerce Back End Developer</strong> que se encargará de la construcción de nueva funcionalidad, mantenimiento y mejoras a las APIs implementadas dentro de las plataformas de comercio electrónico de nuestros clientes.</p><p class="ql-align-justify"> </p><p class="ql-align-justify"> </p><p class="ql-align-justify"><strong>Responsabilidades:</strong></p><p class="ql-align-justify"> </p><ul>
-<li class="ql-align-justify">Desarrollo y gestión de microservicios.</li>
-<li class="ql-align-justify">Seguimiento y lectura de eventos (logs) para la toma de decisiones.</li>
-<li class="ql-align-justify">Responsables de la integridad y cifrado de datos.</li>
-<li class="ql-align-justify">Implementación de pruebas automatizadas.</li>
-</ul><p class="ql-align-justify"> <strong>Habilidades:</strong></p><ul>
-<li class="ql-align-justify">Tener gran nivel de abstracción y buenas habilidades de comunicación</li>
-<li class="ql-align-justify">Buena resolución de conflictos</li>
-<li class="ql-align-justify">Ser autodidacta y ordenado.</li>
-<li class="ql-align-justify">Trabajar y cumplir con los objetivos y el tiempo comprometido.</li>
-</ul><p class="ql-align-justify"><strong> Deseable:</strong></p><p class="ql-align-justify"> </p><ul><li class="ql-align-justify">Inglés Conversacional</li></ul><p class="ql-align-justify"> </p><p class="ql-align-justify"> </p><p class="ql-align-justify"><strong>Conocimientos Técnicos con por lo menos 3 años de experiencia en:</strong></p><ul>
-<li class="ql-align-justify">Javascript de lado del servidor NodeJS</li>
-<li class="ql-align-justify">Manejo de autenticación y autorización de usuarios entre múltiples sistemas, servidores y ambientes</li>
-<li class="ql-align-justify">Manipulación de XML y JSON</li>
-<li class="ql-align-justify">Integración de múltiples fuentes y bases de datos (SQL y noSQL (Mongo DB) en un solo sistema</li>
-<li class="ql-align-justify">Migración de datos, transformación.</li>
-<li class="ql-align-justify">Creación de esquemas de bases de datos que representan los procesos de negocio.</li>
-<li class="ql-align-justify">Dominio de JAVA (herencia, threads, etc.)</li>
-<li class="ql-align-justify">Servicios REST y SOAP</li>
-<li class="ql-align-justify">Ecosistema Spring (Spring Boot, Spring JPA, Spring security, etc)</li>
-<li class="ql-align-justify">Hibernate</li>
-<li class="ql-align-justify">Express framework</li>
-<li class="ql-align-justify">Control de versiones Git</li>
-<li class="ql-align-justify">Docker</li>
-<li class="ql-align-justify">Estar familiarizado con CI/CD usando pipelines de Bitbucket </li>
-<li class="ql-align-justify">Comprensión de 'Session Management' en un entorno de servidor distribuido.</li>
-</ul><p><br></p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/edgebound-front-end-developer">https://weworkremotely.com/remote-jobs/edgebound-front-end-developer</a></p>
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -195,7 +210,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-react-native-mobile-developer-web3-remote-1" align="right" target="_blank">Apply</a>
@@ -265,7 +280,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/realtools-com-senior-front-end-developer-ux" align="right" target="_blank">Apply</a>
@@ -329,7 +344,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/hal-senior-frontend-developer" align="right" target="_blank">Apply</a>
@@ -368,63 +383,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5246/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bottomless</h5>
-                    <h3> Senior Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/5246/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Seattle, Wa
-    <br /><strong>URL:</strong> <a href="https://www.bottomless.com/">https://www.bottomless.com/</a>
-</p>
-
-<div>We are a fast-growing startup with a product used by thousands of consumers every day.<br><br>We are looking for a jack-of-all-trades <strong><em>senior</em></strong> javascript/full stack developer.<br><br>The ideal candidate for this position would be able to dive into any kind of project, from frontend UI/UX tasks in React.js to backend tasks running on Node.js.<br><br>If you’re interested in variety and working hard to build something big, this might be a good fit.<br><br>We need to achieve <em>80% of the results with 20% of the effort</em>.<br><br><strong>Responsibilities:</strong>
-</div><ul>
-<li>Design and build infrastructure and products for a sensor-enabled e-commerce marketplace.</li>
-<li>Build robust infrastructure to support existing product lines and the ability to roll out new ones.</li>
-<li>Responsibility over the user-facing product</li>
-<li>Quick iteration on different fronts from fronted UX changes to database design to quick and dirty implementations.</li>
-<li>Responsible for full deployment and testing of applications.</li>
-</ul><div><br></div><div><strong>Skill, Qualifications, and Experience:</strong></div><div><br></div><div><em>Expert proficiency required:</em></div><ul>
-<li>Node.js</li>
-<li>NoSQL databases</li>
-<li>React.js</li>
-<li>English (written and verbal)</li>
-</ul><div><br></div><div><em>Intermediate proficiency, at a minimum:</em></div><ul>
-<li>UI/UX design</li>
-<li>Software architecture</li>
-</ul><div>
-<br>Not required, but a plus:</div><ul>
-<li>Python (background tasks)</li>
-<li>Embedded systems (C++)</li>
-</ul><div> <br><strong>Details:</strong>
-</div><ul>
-<li>Remote OK. Must be flexible with hours as we have a remote international team.</li>
-<li>Competitive equity and cash compensation</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-1">https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/6390/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -435,7 +393,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testdome-senior-asp-net-core-developer-2" align="right" target="_blank">Apply</a>
@@ -490,7 +448,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>121 days ago</text>
+                <text>122 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/g2i-inc-mid-senior-or-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -528,83 +486,45 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/2036/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Storetasker</h5>
-                    <h3> Senior Shopify Developer (Remote + Flexible)</h3>
+                    <h5>Toptal</h5>
+                    <h3> Senior React Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>543 days ago</text>
+                <text>600 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/toptal-senior-react-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/8032/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0018/2036/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Brooklyn, NY
-    <br /><strong>URL:</strong> <a href="https://www.storetasker.com/become-an-expert&amp;source=weworkremotely">https://www.storetasker.com/become-an-expert&amp;source=weworkremotely</a>
+  <strong>Headquarters:</strong> Wilmington, DE
+    <br /><strong>URL:</strong> <a href="https://www.toptal.com/">https://www.toptal.com/</a>
 </p>
 
-<h1>Shopify developers love to freelance with Storetasker.</h1><ul>
-<li>
-<strong>Endless, quality clients: </strong>from well known DTC brands to top agencies. </li>
-<li>
-<strong>Fully remote, flexible: </strong>work as much or as little as you want, wherever you want. </li>
-<li>
-<strong>A talented and helpful community: </strong>it's freelance (with a team).</li>
-<li>
-<strong>Earn $80-$120 per hour: </strong>send your own quotes, retainers, and bills.<br><br>
-</li>
-</ul><div>We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: <a href="https://www.alphaindustries.com/">Alpha Industries</a>, <a href="https://www.bollandbranch.com/">Boll &amp; Branch</a>, <a href="https://getsuperfluid.com">Superfluid</a>, <a href="https://jackhenry.co/">Jack Henry</a>, <a href="http://plenaire.co/">Plenaire</a>, and <a href="https://walkfulton.com/">Fulton</a> among many more. <br><br><strong>Why Storetasker?</strong>
-</div><ul>
-<li>
-<strong>Endless clients &amp; project opportunities:</strong> you’ll see between 5 - 50 new opportunities per day and can pick any lead you want. </li>
-<li>
-<strong>You’ll earn more:</strong> some experts are making $150-200k per year. </li>
-<li>
-<strong>A high quality community:</strong> we carefully select about 5% of those who apply. </li>
-<li>
-<strong>Remote:</strong> work from anywhere, anytime. </li>
-<li>
-<strong>Flexible:</strong> take on as many clients as you want.</li>
-<li>
-<strong>No external ratings:</strong> you’re already a professional. No need to prove it. </li>
-<li>
-<strong>Great Software:</strong> that makes it easy to manage more clients and increase billable hours.</li>
-<li>
-<strong>Support when you need it:</strong> we offer project support 7 days per week. </li>
-<li>
-<strong>Community (not competition):</strong> you pick your clients, projects, and never compete against other Experts in the community. </li>
-</ul><div><br></div><div>
-<a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>Learn more and join</strong></a>! It’s confidential, and takes less than 5 minutes. <br><br><strong>Here's who we're looking for:</strong>
-</div><ul>
-<li>Ambitious part time and full-time freelancers and boutique agencies.</li>
-<li>Who have 3+ years of Shopify experience, and 5+ years of web development experience. </li>
-<li>And who have managed projects, deadlines, and communication successfully. </li>
+<div>
+<strong><em>Design your full-time freelance career as a top freelance developer with Toptal. </em></strong><br><br>Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. <br><br>Toptal is an elite talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <strong>Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </strong>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. <br><br>As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. <br><br>That’s why the world’s top 3% of developers choose Toptal. Developers in our elite network share:</div><ul>
+<li>English language proficiency</li>
+<li>3+ years of professional experience  </li>
+<li>Project management skills</li>
+<li>A keen attention to detail</li>
+<li>Experience with system architecture or leading a software team is a strong advantage</li>
+<li>Full-time availability is a strong advantage</li>
 </ul><div>
-<br><strong>Especially people with some of these skills:</strong>
-</div><ul>
-<li>Front-end or full-stack Shopify development</li>
-<li>Klaviyo Email flows</li>
-<li>Headless e-commerce development</li>
-<li>Conversion rate optimization</li>
-<li>E-commerce expertise and strategy</li>
-<li>SEO </li>
-<li>Site Speed</li>
-<li>Builder and/or Shogun</li>
-</ul><div>
-<br><a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>It takes just a few minutes to join.</strong></a><br><br><strong>Here's what a few current members have to say:</strong><br><br>"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!" - Adan, United States, Storetasker Expert since March 2020<br><br>"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”" - Mark, England, Storetasker Expert since 2019<br><br>"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow." - Siah, Canada, Storetasker Expert since 2017<br><br><strong>Our Mission: </strong><br><br>We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.  <br><br><strong>Questions?</strong> Reach out at experts@storetasker.com.</div><div><br></div>
+<br>Curious to know how much you could make? Check out our React developer rate calculator: <a href="https://topt.al/6DcyVr">https://topt.al/6DcyVr</a><br><br>If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/nzc7vw"><strong>https://topt.al/nzc7vw</strong></a>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1">https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toptal-senior-react-developer">https://weworkremotely.com/remote-jobs/toptal-senior-react-developer</a></p>
 
                 </details>
                 </td>
@@ -620,7 +540,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -667,7 +587,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255729" align="right" target="_blank">Apply</a>
@@ -692,7 +612,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255704" align="right" target="_blank">Apply</a>
@@ -717,7 +637,7 @@
                     <code>developer,rails,ruby,growth</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1255730" align="right" target="_blank">Apply</a>
@@ -742,7 +662,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1255725" align="right" target="_blank">Apply</a>
@@ -767,7 +687,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1255719" align="right" target="_blank">Apply</a>
@@ -792,7 +712,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1255718" align="right" target="_blank">Apply</a>
@@ -817,7 +737,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1255721" align="right" target="_blank">Apply</a>
@@ -842,7 +762,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -1053,7 +973,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
