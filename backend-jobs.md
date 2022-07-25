@@ -11,7 +11,7 @@
                     <code>saas, python, backend</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111744" align="right" target="_blank">Apply</a>
@@ -35,7 +35,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/argyle-backend-engineer" align="right" target="_blank">Apply</a>
@@ -119,7 +119,7 @@
                     <code>apache,AWS,backend,cloud</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineer-1298840" align="right" target="_blank">Apply</a>
