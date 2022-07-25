@@ -1,5 +1,30 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteOK.com/assets/img/jobs/301e7710332642f5edb97867604c2ea11658563605.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Fluid AI</h5>
+                    <h3>
+					Nodejs Fullstack Developer For AI Chatbot Product				</h3>
+                </td>
+                <td width="300">
+                    <code>javascript, node, express</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/111761" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>You will be working on the companies Nodejs Chatbot Product (<span><span class="loader-wrapper"><a class="css-1xdzogm eeajecn0" href="https://www.fluid.ai/conversational-ai"><span class="css-1p7ax5 e158gagu2"><span class="smart-link-title-wrapper css-0 e158gagu8">https://www.fluid.ai/conversational-ai</span></span></a></span></span>), it's built using Nodejs Express, Reactjs, Docker. We will give you a platform to learn other technologies as well like Kubernetes, GraphQL, Redux etc.</p><p>We use teamflowhq for our virtual office (you can work from anywhere) and some tools like Miro, Slack, Jira, Confluence, AWS Workspace, Coder.com for our work and collaboration. Small but powerful team that's constantly innovating and learning, with a helpful and collaborative culture with Mangement that codes.</p><p>We like working with small teams and self reliant coders who love learning and exploring and pushing code quickly.</p><p><strong>Measure of Success</strong></p><p>Success will be measured based on the quality of code &amp; architecture, success of features and functionality that you build into the chatbot product and the speed with which you execute new requirements that come in.</p><p><br /></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteOK.com/assets/img/jobs/3c082c495aeb35ec295887682b2ffa491658525093.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -11,7 +36,7 @@
                     <code>devrel, ml, pytorch</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111756" align="right" target="_blank">Apply</a>
@@ -36,7 +61,7 @@
                     <code>dev, typescript, api</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111749" align="right" target="_blank">Apply</a>
@@ -61,7 +86,7 @@
                     <code>full stack, javascript, react</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111748" align="right" target="_blank">Apply</a>
@@ -86,7 +111,7 @@
                     <code>mobile, react native, crypto</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111723" align="right" target="_blank">Apply</a>
@@ -111,7 +136,7 @@
                     <code>javascript, react, node</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111721" align="right" target="_blank">Apply</a>
@@ -136,7 +161,7 @@
                     <code>javascript, node, postgres</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111656" align="right" target="_blank">Apply</a>
@@ -161,7 +186,7 @@
                     <code>symfony, php, javascript</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111650" align="right" target="_blank">Apply</a>
@@ -175,27 +200,70 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/93c0b2ecdcf0e65c1ccfa2a10b4f4a861657602005.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2948/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Zipari</h5>
-                    <h3>
-					Sr Python Developer				</h3>
+                    <h5>interTouch Pte. Ltd</h5>
+                    <h3> Senior Systems Developer</h3>
                 </td>
                 <td width="300">
-                    <code>python, senior, operational</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/111615" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/intertouch-pte-ltd-senior-systems-developer-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                Are you looking for an opportunity to make an impact in the Healthcare industry? Are you competitive and self-motivated? Zipari is seeking a highly motivated Senior Python Developer to join our one of a kind Engineering team.Â  You will get to work on cutting edge technologies that support healthcare consumers when shopping for healthcare coverage, by offeringÂ  where to go for top quality and cost effective care, and communicate with their physicians and care providers to achieve their best health.Â Â Â This position reports directly to our Sr. Director, Technology (an incredible human being!) and allows you the flexibility to work from your home office!Â Why Join Us:Â Professional Development: If you want to learn and grow, Zipari is the place for you! We have a formal professional development program and guides to help you develop your skills and advance your career.Â Entrepreneurial Culture: Â You will be working with serial entrepreneurs that value innovative market approaches and strong critical thinking abilities.Work/Life: I know. Every organization says they have a great work/life culture BUT . . . Our clients pay us for results (not work hours), we provide complete autonomy to deliver results that seamlessly fit into your lifestyle.â¯â¯â¯â¯Youâre Making a Difference: Youâll spend your days building relationships with professionals in leading healthcare organizations across the country â providing them with solutions that impact the health, safety, and well-being of their patients and the quality of the care that they provide.Â Â Â About Us: Zipari is a modern consumer experience solution focused exclusively on transforming the digital health insurance experience from end-to-end. Zipariâs Customer Experience Platform modernizes digital engagement for every consumer and market segment, delivering value by growing revenue, boosting engagement, capitalizing on operational efficiencies, and improving member outcomes. With unsurpassed technology, Zipariâs products provide real-time insights at every touchpoint, delivering breakthrough consumer experiences.Â  Zipari now serves more than 40 million members via their payer customers and is backed by Thoma Bravo, the leading private equity firm, with a 40+ year history, focused on investments in software and technology companies. For more information about Zipari, please visitwww.zipari.com.Â Zipari is committed to a diverse workplace and equal opportunity. We do not discriminate on the basis of race, color, religion, gender, disability, national origin, sexual orientation, age, marital status, disability, gender identity, Veteran status, or other legally protected status. We understand that the products we build and the work that we do is better and greater when it is inclusive of varied experiences, skills, and perspectives. We encourage everyone whose experience is close to what we are looking for to apply and allow our team to get to know you.
+                <img src="https://we-work-remotely.imgix.net/logos/0076/2948/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Singapore
+    <br /><strong>URL:</strong> <a href="https://www.intertouch.com/">https://www.intertouch.com/</a>
+</p>
+
+<div>
+<strong>This position is open for Singapore, Bangkok, and Manila.</strong><br><br> KEY RESPONSIBILITIES: <br> The Senior Systems Developer is a core development team member. It is a role for a hands-on technical leader collaborating as part of a close-knit core team: </div><ul>
+<li>Actively leading and participating in the design, integration, implementation and management of the interTouch enterprise information technology environment, with a primary focus on the core High Speed Internet Access (HSIA) product and associated infrastructure. </li>
+<li>Working closely with the Product Management Team and other stakeholders to understand the evolving needs of customers and other stakeholders, and transform these needs into shipped product advancements. </li>
+<li>Leading and collaborating as the situation demands with other members of the development team to evolve innovative, reliable, secure and robust solution designs and product architecture. </li>
+</ul><div>JOB DESCRIPTION AND COVERAGE </div><ul>
+<li>Contribute to provide innovative, robust solutions to complex technical challenges within the evolving Hospitality IT market. </li>
+<li>Systematically optimize solutions based on functionality, performance and security requirements. </li>
+<li>Work as part of a globally-distributed team. </li>
+<li>Keep abreast of all relevant developments and applications of emerging technology, security updates and development techniques. </li>
+<li>Promote leading software development best practices and actively contribute to the continuous improvement of team practices, processes, and quality </li>
+<li>Be responsible for the quality and timely delivery of components, applications and associated technical documentation. </li>
+<li>Provide guidance, technical advice and mentoring to other development staff as well as key stakeholders.</li>
+</ul><div>REQUIREMENTS <br> Skills/Competencies </div><ul>
+<li>Proven ability to design and deliver complex software solutions </li>
+<li>Demonstrable high level of competence with Python and Django </li>
+<li>Demonstrable experience designing solutions for cloud deployment e.g. AWS or other providers </li>
+<li>Ideally, recent project experience in one of more of the following areas: <br> o RESTful JSON APIs <br> o Relational database products e.g. PostgreSQL and MySQL <br> o Non-relational database products e.g. REDIS <br> o Low-level network programming in a UNIX/Linux environment <br> o IEEE 802.1x protocol and network technologies such as SNMP <br> o Asynchronous solution design <br> o Experience with Ruby/Rails </li>
+<li>Good understanding of relational database design concepts, administration and general techniques</li>
+<li>Good understanding of testing methodologies, tools and practices </li>
+<li>Strong Linux operations and scripting skills </li>
+<li>Excellent English communication skills, both written and verbal </li>
+</ul><div>Experience </div><ul>
+<li>At least 5 years professional software design and development, working in small teams of 3 or more and delivering significant products. </li>
+<li>At least 2 years professional software development experience as a technical lead or equivalent role</li>
+<li>Ideally, project delivery experience in the Travel, Hospitality or Telecommunications industries </li>
+<li>Experience delivering projects using agile methods such as Scrum </li>
+<li>Formal education in modern software development practices. Ideally a Degree or Diploma in Computer Science or other field with a strong software development component. <br> Ideal Personal Profile </li>
+<li>Self-starter/“Get things done” attitude - willing to take the initiative to get the job done </li>
+<li>Collaborative orientation - able to foster and encourage cross-functional teamwork </li>
+<li>Excellent analytical and troubleshooting skills </li>
+<li>Ability to deal with ambiguity and change </li>
+<li>Passionate and intimately knowledgeable about all things Python</li>
+</ul><div> <br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/intertouch-pte-ltd-senior-systems-developer-1">https://weworkremotely.com/remote-jobs/intertouch-pte-ltd-senior-systems-developer-1</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -210,7 +278,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-react-native-mobile-developer-web3-remote-1" align="right" target="_blank">Apply</a>
@@ -280,7 +348,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/realtools-com-senior-front-end-developer-ux" align="right" target="_blank">Apply</a>
@@ -344,7 +412,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/hal-senior-frontend-developer" align="right" target="_blank">Apply</a>
@@ -383,61 +451,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/6390/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TestDome</h5>
-                    <h3> Senior ASP.NET Core Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>31 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/testdome-senior-asp-net-core-developer-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/6390/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Croatia
-    <br /><strong>URL:</strong> <a href="https://www.testdome.com/">https://www.testdome.com/</a>
-</p>
-
-<div>At <a href="https://www.testdome.com/">TestDome</a>, we make it easy for companies to screen job applicants with work-sample tests for multiple skills. We offer programming assessments, tests for non-technical disciplines, and reasoning tests. Some of our customers include Ernst &amp; Young, PayPal, and Turkish Airlines.</div><div><br></div><div>We are fully remote with a small and dedicated team based around the world. The team works in an agile style using the Kanban framework, prefers documentation over chat, and aims for async communication. You will be working alongside 4 full-stack developers, 1 UX designer/developer, and 1 QA engineer. To learn more about the way we work, check our <a href="https://docs.google.com/document/d/1wUxGV9eDLuurOUhRhVyBx1j3ie_WNjJjy8oORSnSHdQ/edit?usp=sharing">public company manual</a>.</div><div><br></div><div><strong>About the job</strong></div><ul>
-<li>Plan, build, and release features using TypeScript, Vue.js, and ASP.NET Core.</li>
-<li>Collaborate with other team members to design and discuss application architecture and infrastructure.</li>
-<li>Code review pull-requests from other team members.</li>
-</ul><div><strong>Requirements</strong></div><ul>
-<li>Expert in backend development using C# and ASP.NET Core.</li>
-<li>Solid knowledge of modern web development practices/frameworks (ideally Vue.js).</li>
-</ul><div><strong>Hiring Process</strong></div><div>Our goal is to make an offer within two weeks. We have a staged approach and successful applications will progress through each step:</div><ul>
-<li>Take a TestDome screening test to assess your skills. Naturally, we dogfood our product so you will get a chance to see what we are building to make hiring better.</li>
-<li>A technical interview with an engineer from your future team</li>
-<li>An interview with our CEO</li>
-<li>Job offer</li>
-</ul><div><strong>What we offer</strong></div><ul>
-<li>Salary from $50,000 - 85,000 USD per year</li>
-<li>Work from anywhere with flexible working hours</li>
-<li>We cover the cost of a coworking space</li>
-<li>Work-related education costs are covered</li>
-<li>Paid public holidays based on where you live</li>
-<li>24 days of paid vacation</li>
-<li>Paid sick leave</li>
-<li>Paid special leave</li>
-</ul><div>To apply, start your programming screening test by clicking on <a href="https://app.testdome.com/apply/84410716e45d4c6794fd6156678d6aa5">this link</a>.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testdome-senior-asp-net-core-developer-2">https://weworkremotely.com/remote-jobs/testdome-senior-asp-net-core-developer-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7735/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -448,7 +461,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>122 days ago</text>
+                <text>123 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/g2i-inc-mid-senior-or-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -486,6 +499,116 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>A.Team</h5>
+                    <h3> Senior Independent Software Developer ($110-$190/hr)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>360 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0066/7400/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> NYC, SF, and TLV
+    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
+</p>
+
+<div>
+<a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
+<li>
+<strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li>
+<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li>
+<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li>
+<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li>
+<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul><div>
+<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
+</div><ul>
+<li>Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would.</li>
+<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
+<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is for:</strong>
+</div><ul>
+<li>Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
+<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
+<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
+</div><ul>
+<li>People looking for small gigs.</li>
+<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
+<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
+</ul><div>
+<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
+<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Coldsmoke Creative</h5>
+                    <h3> Mid-level / Senior Shopify Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>450 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/coldsmoke-creative-mid-level-senior-shopify-developer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Washington, DC
+    <br /><strong>URL:</strong> <a href="http://coldsmoke.co">http://coldsmoke.co</a>
+</p>
+
+<div>
+<strong>About Coldsmoke Creative<br><br></strong>Coldsmoke Creative is a leading Shopify Plus Partner agency specializing in custom theme development, migrations, and support for Shopify Plus merchants. We have helped hundreds of merchants get the most out of the Shopify platform to help them grow their businesses.<br><br>We work with exciting merchants and brands like ILIA Beauty, Bodega, Sid Mashburn, Privacy Pop, and Undersun Fitness. <br><br><strong>About the role<br><br>This can start as a contract role or a full-time role depending on your preference.  </strong>There is work to start on immediately. <strong><br><br></strong>While you may be physically located anywhere, a majority of our team is based in the Eastern time zone. So while you can work anywhere, your hours must overlap during our normal working hours of 10 AM - 6 PM ET.<strong><br></strong><br>As a Shopify developer your main task will be to help in the implementation of new stores and their functionalities for our top clients, always adhering to the best practices of the platform and current web standards. We strive to always deliver exceptional performance, usability and accessibility.</div><div><br></div><div>For this position, you must have a minimum of 2 to 3 years of experience as a Shopify developer. But what is really essential is to have experience with complex implementations such as Ajax Cart, Product Quick View, Product Customizers, among others. It is also necessary to understand advanced Shopify concepts such as alternation of layouts and templates, product attributes, cart properties, and a deep understanding of the limitations and possibilities of Shopify objects.</div><div><br></div><div>Requirements:</div><ul>
+<li>Advanced Vanilla Javascript and jQuery</li>
+<li>Know how to write flawless and structured CSS</li>
+<li>Know how to layout HTML optimized for SEO and accessibility</li>
+<li>Deep knowledge about Shopify objects</li>
+<li>Comfortable communicating over Slack, Zoom, and email, as we are a fully remote team</li>
+</ul><div>Nice to haves:</div><ul>
+<li>React/JSX expertise</li>
+<li>Vue/Vuex expertise</li>
+</ul><div><br></div><div>To apply, please fill out the questionnaire found here: https://coldsmoke.typeform.com/to/AUrbtseb</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/coldsmoke-creative-mid-level-senior-shopify-developer-1">https://weworkremotely.com/remote-jobs/coldsmoke-creative-mid-level-senior-shopify-developer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/2036/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -496,7 +619,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>600 days ago</text>
+                <text>601 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -540,7 +663,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -587,7 +710,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255729" align="right" target="_blank">Apply</a>
@@ -612,7 +735,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255704" align="right" target="_blank">Apply</a>
@@ -637,7 +760,7 @@
                     <code>developer,rails,ruby,growth</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1255730" align="right" target="_blank">Apply</a>
@@ -662,7 +785,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1255725" align="right" target="_blank">Apply</a>
@@ -687,7 +810,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1255719" align="right" target="_blank">Apply</a>
@@ -712,7 +835,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1255718" align="right" target="_blank">Apply</a>
@@ -737,7 +860,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1255721" align="right" target="_blank">Apply</a>
@@ -762,7 +885,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -973,7 +1096,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
