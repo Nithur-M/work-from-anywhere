@@ -1,5 +1,30 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/718745fb0c965d45747d24f72125f0661658592009.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DISQO</h5>
+                    <h3>
+					Senior Software Engineer Java				</h3>
+                </td>
+                <td width="300">
+                    <code>java, senior, marketing</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/111767" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                DISQO is changing the way that the worldâs largest brands, agencies and consumer intelligence companies get to know their consumers. Weâve built the first identity-based platform that combines consumer attitudes and behaviors together to power the most accurate and predictive insights solutions for our customers, and we do all of that with the willing participation of our consumers and without using outdated technologies like third-party cookies. We help our customers get a cross-platform view into consumer sentiment, measure advertising effectiveness, analyze consumer purchase journeys, and ultimately grow their brands.Our mission is to build the most trusted insights platform that fuels brand growth. With over one million active members sharing their attitudes and behaviors, DISQO is looking to expand, improve and create world-class applications for people to openly share their data for research.Check out the DISQO Developer Blog for the latest from our DISQOTECH team.This is a great opportunity to join a fun, exciting & highly motivated team and upgrade your skills while creating real impact. We use a modern tech stack and cloud infrastructure. We are not only looking for work experience, but rather the willingness to step up to challenges and the ability to learn quickly.We believe the best software is written and managed by small autonomous teams that know how to make the impossible possible. We use agile software development techniques and modern tools to focus our efforts on solving our business goals. We use OKRs to track everything we do. We deliver early and often. We obsess over our code, architecture, and infrastructure. And we believe that these practices lead to higher quality products.Â #LI-Remote#LI-SG1Perks & Benefits:Â·100% covered Medical/Dental/Vision for employee, 80% for dependentsÂ·EquityÂ·Generous PTO policyÂ·Flexible workplace policyÂ·Team OffsitesÂ·Life InsuranceÂ·FSAÂ·Paid Maternity/Paternity leaveÂ·Disability InsuranceÂ·Travel Assistance ProgramÂ·24/7 Counseling Services offered to EmployeesÂ·Access to personal and professional growth tools - Calm App & LinkedIn LearningNote: The benefits noted above are for full time US based employees only.DISQO is an equal opportunity employer. Discovery, innovation, and growth are possible when we open ourselves to new possibilities, perspectives, and approaches. Thatâs why, at DISQO, we welcome, support, and empower individuals from diverse backgrounds. Exceptional teams are rooted in extraordinary people, each with a unique story and a compelling set of skills. DISQO does not discriminate against employees based on race, color, religion, sex, national origin, gender identity or expression, age, disability, pregnancy (including childbirth, breastfeeding, or related medical condition), genetic information, protected military or veteran status, sexual orientation, or any other characteristic protected by applicable federal, state or local laws.*Recruiting firms that submit resumes to DISQO without first entering into a written contract will not be entitled to any compensation on candidates referred by that firm.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/ae412d4295355c3f815d7f094805c07b1658448008.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -11,7 +36,7 @@
                     <code>lead, senior, health</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111746" align="right" target="_blank">Apply</a>
@@ -25,36 +50,61 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/9371/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/0895/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Sticker Mule</h5>
-                    <h3> Software engineer</h3>
+                    <h5>User Interviews</h5>
+                    <h3> Ruby on Rails / React Software Engineer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>480 days ago</text>
+                <text>600 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/user-interviews-ruby-on-rails-react-software-engineer-2" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/9371/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0067/0895/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
+  <strong>Headquarters:</strong> Fully Remote
+    <br /><strong>URL:</strong> <a href="https://www.userinterviews.com">https://www.userinterviews.com</a>
 </p>
 
-<div><strong>About Sticker Mule</strong></div><div>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a  globally distributed team who cares deeply about delivering a great customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.</div><div><br></div><div>The Software team is responsible for building and maintaining our front-end and back-end services, developing new features and products, and troubleshooting problems.</div><div><br></div><div><a href="https://www.stickermule.com/about"><strong>See more about our teams here</strong></a></div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. Varied, interesting technical challenges to solve</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div><strong>We like you to know</strong></div><div>1. Docker</div><div>2. NextJS</div><div>3. React</div><div>4. NodeJS</div><div>5. GraphQL</div><div>6. Postgres</div><div>7. Redis</div><div>8. Familiarity with Ruby</div><div>9. Excellent communication skills (English)</div><div>10. Degree in Computer Science or equivalent practical experience<br><br><strong>Challenges</strong>
-</div><div>1. Improve and expand our React shared components gallery</div><div>2. Migrate a large Rails code base to JavaScript front-ends and back-ends</div><div>3. Maintain optimal front-end performance on desktop and mobile</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. $112,000/yr</div><div>2. $20,000 signing bonus</div><div>3. 28 vacation days (+ holidays based on your country of residence) </div>
+<div>You'll be joining a team that cares deeply about talking to our users, creating great experiences for them, and incorporating their feedback into everything we do. Plus, it is a chance to build a product used by your peers at world class companies. There is a fun-meta-geekiness to the whole thing that never gets old.</div><div><br></div><div>We work in a pod structure which includes a tech lead, PM, designer, and 4 engineers. The pod works together to determine what is going to be built next, how it is going to be built, and what we need to do to execute. </div><div><br></div><div>As an engineer on the team, you will be working with another engineer on any given effort. While this can include pair programming, it is not the default process by which we code. You and your partner in crime will figure out implementation details and attack the problem as you see fit. You and your partner will do initial code reviews and be a sounding board for each other. Everyone works on the full stack and contributes to every aspect of the product life cycle. We are always looking to add more people to teach and learn from as we build our team and product.<br><strong><br>Our stack:</strong>
+</div><ul>
+<li>React, Webpack, and SCSS using BEM</li>
+<li>Ruby on Rails, Sidekiq, ActiveInteraction, and RSpec</li>
+<li>Postgres</li>
+<li>Hosted on Heroku using Github and CircleCI for CI and automated testing</li>
+</ul><div><br></div><div><strong>Requirements:</strong></div><ul><li>Anywhere from 2+ years of industry experience with React or Ruby on Rails. Experience with both is a bonus.</li></ul><div><br></div><div><strong>Nice to Haves:</strong></div><ul>
+<li>Strong industry experience which can be added to our knowledge base</li>
+<li>Ability to learn quickly and adjust based on new requirements and direction</li>
+<li>A desire to influence the product in a meaningful way</li>
+<li>Curiosity to constantly learn new better ways to build software</li>
+<li>An interest in helping other engineers on the team learn and grow</li>
+</ul><div><br></div><div><strong>Benefits:</strong></div><ul>
+<li>100% premium covered medical + dental employee coverage</li>
+<li>Annual membership to <strong>One Medical Group</strong>
+</li>
+<li>401k + employer contribution</li>
+<li>Generous PTO to start + accrue an additional day per year of employment</li>
+<li>Unlimited wellness days - Sick? Doctors appointment? Mental health day? We’ve got you covered.</li>
+<li>Flexible, paid parental leave</li>
+<li>Stock options for every employee</li>
+<li>$250 Office setup budget</li>
+<li>Annual learning &amp; development stipend</li>
+<li>1-2 team retreats per year (virtual and in-person options)</li>
+<li>Weekly engineering brunch and learns to discuss what we're working on or learning in and outside of the workplace.</li>
+<li>Cool inside jokes and references like Rs and Ps, Party Gritty, and Tacos.</li>
+</ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/user-interviews-ruby-on-rails-react-software-engineer-2">https://weworkremotely.com/remote-jobs/user-interviews-ruby-on-rails-react-software-engineer-2</a></p>
 
                 </details>
                 </td>
@@ -70,7 +120,7 @@
                     <code>backend,developer,git,go</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-go-software-engineer-1305612" align="right" target="_blank">Apply</a>
@@ -175,7 +225,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -243,7 +293,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
