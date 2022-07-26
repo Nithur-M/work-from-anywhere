@@ -1,5 +1,89 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4666/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TestGorilla</h5>
+                    <h3> Senior Frontend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-7" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4666/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Amsterdam, The Netherlands
+    <br /><strong>URL:</strong> <a href="https://www.testgorilla.com/">https://www.testgorilla.com/</a>
+</p>
+
+<div>Hi there,<br><br>
+</div><div>I’m Nicolas, TestGorilla’s Head of Engineering. We’re a fast-growing HR tech startup that helps hiring teams make better hiring decisions faster and bias-free.<br><br>
+</div><div>Over the past year, we’ve experienced tremendous growth. More than 5,700 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way.<br><br>
+</div><div>As we scale our efforts in 2022 and beyond, we’re looking for a <strong>Senior Frontend Engineer</strong> who’s passionate about joining our quest to help people land dream jobs.<br><br>
+</div><div>
+<br><br>
+</div><h1>The proposition</h1><ul>
+<li>Helping shape a fast-growing HR tech startup as an early employee</li>
+<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
+<li>Competitive salary incl. bonus and stock options</li>
+<li>Flexible hours and vacation</li>
+<li>Paid parental leave </li>
+<li>€1000 remote working budget per year</li>
+<li>3.5% of salary learning &amp; development budget</li>
+</ul><div>
+<br><br>
+</div><h1>The role in context</h1><div>We are looking for a <strong>Senior Frontend Engineer</strong> to join our engineering department and help us bring our product to Enterprise level maturity. Your work will directly impact hundreds of thousands of users around the world.</div><div> </div><div>As a senior member of the engineering team, you will build and deliver frontend solutions to provide extraordinary product experiences for our users, including SPAs and reusable components for the rapid growth of all our products.</div><div> </div><div>You’ll own the design, code, and deployment of solutions and make sure they perform and scale in production. </div><div> <br><br>
+</div><h1>You’ll spend time on the following</h1><ul>
+<li>Take full <strong>ownership</strong> of the frontend; from low-level optimizations to improving user experience</li>
+<li>Build <strong>reusable</strong> code and libraries for future use</li>
+<li>Ensure the technical feasibility of <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/ux-ui-design-test/">UI/UX designs</a> and propose features and functionalities to the product team</li>
+<li>
+<strong>Optimize</strong> the application for maximum speed and scalability</li>
+<li>Lead the entire <strong>software development and delivery</strong> cycle from ideation to deployment and everything in between</li>
+<li>Efficiently utilize <strong>DevOps</strong> tools and practices to deliver high-quality software as well as value to end customers as early as possible</li>
+<li>Work in a collaborative, talented <strong>distributed team</strong> across Europe, United States, South America, and Asia</li>
+<li>You will act as a <strong>mentor</strong> for less-experienced team members through both your technical knowledge and leadership skills</li>
+</ul><div>
+<br><br>
+</div><h1>Here’s what we’re looking for</h1><ul>
+<li>You are inspired by our mission to put <em>one billion people in dream jobs</em>
+</li>
+<li>You are fully aligned with our <a href="https://www.testgorilla.com/careers/">values</a>
+</li>
+<li>Experience designing, implementing, running, and maintaining production front-end code using modern client-side development frameworks based on JS/TS such as <a href="https://www.testgorilla.com/test-library/programming-skills-tests/angular-test/">Angular</a>
+</li>
+<li>You strive for excellence: pixel-perfect, high-quality code, and lightning-fast load times</li>
+<li>You care deeply about building a world-class engineering team</li>
+<li>You have a solid understanding ofUX/UI design, usability, and accessibility</li>
+<li>You are passionate about improving skills and learning new technologies</li>
+<li>You enjoy influencing others and always advocate for technical excellence while being open to change</li>
+<li>You’re resilient in ambiguous situations and can approach challenges from multiple perspectives</li>
+<li>You have strong written and verbal communication skills. You can validate your decisions and communicate them clearly</li>
+</ul><div>We typically expect candidates with at least <strong><em>7 years of  Senior Frontend Engineer experience</em></strong> to have the skills mentioned above.<br><br>
+</div><h1>Bonus points if ...</h1><ul>
+<li>you have experience in a SaaS product based company</li>
+<li>you are comfortable with Agile methods, such as Extreme Programming (XP), Scrum, and/or Kanban</li>
+<li>you have a working knowledge of cloud technology such as <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/aws-test/">AWS</a>, Azure, Kubernetes, and Docker</li>
+</ul><div><br></div><h1>Interested?</h1><div>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions faster and bias-free. I took one too and I enjoyed it!<br><br>
+</div><div>So if this role sounds like a good fit for you, I’d like you to take an assessment so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product! Simply use the Apply button.<br><br>
+</div><div>If you’re hired, I’ll do everything I can to help you succeed at <a href="https://www.testgorilla.com/">TestGorilla</a> and throughout the rest of your career.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-7">https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-7</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/8559/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +94,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>572 days ago</text>
+                <text>573 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-senior-frontend-engineer-react" align="right" target="_blank">Apply</a>
@@ -101,7 +185,7 @@
                     <code>cloud,docker,frontend,graphql</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-engineer-1260508" align="right" target="_blank">Apply</a>
@@ -126,7 +210,7 @@
                     <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-engineer-1298859" align="right" target="_blank">Apply</a>
@@ -171,126 +255,6 @@
 <span style="-webkit-font-smoothing: antialiased;"><strong><br></strong></span><p><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Interview Process<br><br></span></p><ul><li>HackerRank Test </li><li>Remote interview with 2 Engineers + Lead or Director</li><li>24-72 hour feedback loops throughout process <br><br></li></ul><p><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Benefits<br><br></span></p><span style="-webkit-font-smoothing: antialiased;"></span><ul><li><span style="color: var(--remotive-chocolate);">Quarterly and flash bonuses</span></li><li><span style="color: var(--remotive-chocolate);">Flexible working hours</span></li><li><span style="color: var(--remotive-chocolate);">Top-of-the-line equipment</span></li><li><span style="color: var(--remotive-chocolate);">Education allowance</span></li><li><span style="color: var(--remotive-chocolate);">Referral bonuses</span></li><li><span style="color: var(--remotive-chocolate);">28 days paid annual leave</span></li><li><span style="color: var(--remotive-chocolate);">Annual Global and Team company retreats - Lisbon &amp; Dubai are planned for 2022!</span></li><li><span style="color: var(--remotive-chocolate);">Highly talented, dependable co-workers in a global, multicultural organisation</span></li><li><span style="color: var(--remotive-chocolate);">We score 100% on The Joel Test</span></li><li><span style="color: var(--remotive-chocolate);">Our teams are small enough for you to be impactful</span></li><li><span style="color: var(--remotive-chocolate);">Our business is globally established and successful, offering stability and security to our Team Members</span></li></ul><ul>
 </ul>
 <img src="https://remotive.com/job/track/1298859/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1207672/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Zapier </h5>
-                    <h3>Frontend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>CSS,customer support,frontend,go</code>
-                </td>
-                <td width="200">
-                <text>24 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/frontend-engineer-1207672" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="text-align: justify;">Hi there!</p>
-<p> </p>
-<p style="text-align: justify;">Zapier’s on a mission to make everyone more productive at work. As we continue to scale our mission to democratize automation, we’re hiring <strong>Frontend Engineers</strong> across the organization. Zapier has helped millions of people build businesses through the power of automation. </p>
-<p> </p>
-<p style="text-align: justify;"><strong>Here are some of the teams you might join:</strong></p>
-<ul>
-<li><strong>Billing team. </strong><span style="font-weight: 400;">The Billing Team strives to make it incredibly easy to purchase Zapier across the globe.  Join us as we build systems that power purchasing, subscription management, and customer support. You’ll be part of our team focused on making it easier for our largest customers to buy Zapier. We practice empathetic communication with our close partners inside the company and enthusiastic teamwork across disciplines.</span></li>
-<li><strong>Zap Creation: Beyond team</strong><span style="font-weight: 400;">. The Zap Creation: Beyond team is focused on building a foundational product experience to help make Zapier more accessible and more powerful to our everyday end user. The person joining this team will bring passion for product-thinking and high empathy for our customers as they use Zapier to solve real-world challenges.</span></li>
-</ul>
-<p> </p>
-<p style="text-align: justify;">If you’re interested in advancing your career at a fast-growing, profitable, impact-driven company, then read on…</p>
-<p style="text-align: justify;"><em>We know applying for and taking on a new job at any company requires a leap of faith. We want you to feel comfortable and excited to apply at Zapier. To help share a bit more about life at Zapier, here are a few resources in addition to the job description that can give you an inside look at what life is like at Zapier. Hopefully, you'll take the leap of faith and apply.</em></p>
-<p style="text-align: justify;"><em> </em></p>
-<ul>
-<li><a href="https://zapier.com/jobs/our-commitment-to-applicants/" rel="nofollow"><span style="font-weight: 400;">Our Commitment to Applicants</span></a></li>
-<li><a href="https://zapier.com/jobs/culture-and-values-at-zapier/" rel="nofollow"><span style="font-weight: 400;">Culture and Values at Zapier</span></a></li>
-<li><a href="https://zapier.com/learn/remote-work/" rel="nofollow"><span style="font-weight: 400;">Zapier Guide to Remote Work</span></a></li>
-<li><a href="https://zapier.com/jobs/zapier-code-of-conduct/" rel="nofollow"><span style="font-weight: 400;">Zapier Code of Conduct</span></a></li>
-<li><a href="https://zapier.com/jobs/working-on-diversity-and-inclusivity/" rel="nofollow"><span style="font-weight: 400;">Diversity and Inclusivity at Zapier</span></a></li>
-</ul>
-<p style="text-align: justify;"><br><em>Zapier is proud to be an equal opportunity workplace dedicated to pursuing and hiring a diverse workforce.</em></p>
-<p style="text-align: justify;">Even though our job description may seem like we're looking for a specific candidate, the role inevitably ends up tailored to the person who applies and joins. Regardless of how well you feel you fit our description, we encourage you to apply if you meet these criteria:</p>
-<p style="text-align: justify;"><strong> </strong></p>
-<p style="text-align: justify;"><strong>About You</strong></p>
-<p style="text-align: justify;"><strong>You love code</strong>. You love to take raw ideas and build great products with JavaScript, HTML, and CSS. You know JavaScript is imperfect, but you embrace its functional side and genuinely enjoy coding with it. You might like to talk about obscure computer science topics, but really, you just want to write simple code and ship new products and features to customers (or improve existing ones).</p>
-<p style="text-align: justify;"><strong>You value collaboration</strong>. You understand that building modern software is a team sport, and you enjoy working as part of a tight-knit team. You’re happy to pitch in and help the team, whether by reviewing code, pairing on a tricky problem, or just thinking about how to solve the challenges we’re facing.</p>
-<p style="text-align: justify;"><strong>You can balance lots of concerns</strong>. Frontend apps have to take into account performance (using networks and devices that we can't control), customer demands, A/B tests, UX research, accessibility, code quality, a rapidly changing ecosystem of languages and modules, and the list goes on. And we actually want to ship things too! You can balance those demands without getting overwhelmed and keep the needle moving forward.</p>
-<p style="text-align: justify;"><strong>You advocate for the user</strong>. You have a keen eye for great design, and you’re empathetic to the needs of the end user. When you see users struggling to succeed you take it as a personal challenge to understand why and help the team build a better product.</p>
-<p style="text-align: justify;"><strong>You love learning new things</strong>. You love researching new tech and driving forward with the implementation details. Your focus is on frontend JavaScript code, but you can dig in wherever needed. Python, CSS, build tools, shell scripts, you name it. If you don't already know it, you're ready to learn it.</p>
-<p style="text-align: justify;"><strong> </strong></p>
-<p style="text-align: justify;"><strong>Things You Might Do</strong></p>
-<p style="text-align: justify;">Zapier is a small, fast-growing, and remote-first company, so you'll likely get experience on many different projects across the organization. That said, here are some things you'll probably do:</p>
-<ul>
-<li style="text-align: justify;">Research, guide, and execute frontend architecture changes, including but by no means limited to GraphQL, server-side React rendering and TypeScript typing.</li>
-<li style="text-align: justify;">Work with stakeholders (other Zapier teams, or external partners) to understand requirements, propose solutions, and build something to help those stakeholders succeed.</li>
-<li style="text-align: justify;">Contribute to improving NextJS apps by building reusable React components with modular CSS. Ensure reliable code by leveraging Jest and Cypress tests.</li>
-<li style="text-align: justify;">Measure and resolve performance bottlenecks, using tools like Chrome DevTools, Lighthouse, WebPagetest, or custom tooling.</li>
-<li style="text-align: justify;">Refactor or improve existing code as languages, frameworks, or techniques evolve. Help the team pick appropriate tools to solve new problems as they arise.</li>
-<li style="text-align: justify;">Work closely with our product, design, and UX teams to create amazing and intuitive experiences that make it effortless to connect different apps together.</li>
-<li style="text-align: justify;">Help put tools, processes, and documentation in place to help us become a better, more effective organisation.</li>
-<li style="text-align: justify;">Help teach your colleagues new skills, through code review, discussions and mentoring. Help us all become better engineers and humans.</li>
-<li style="text-align: justify;">Ship to hundreds of thousands of users every day while having lots of autonomy in terms of code and feature ownership.</li>
-<li style="text-align: justify;">As a part of Zapier's <a href="https://workable.com/nr?l=https%3A%2F%2Fzapier.com%2Flearn%2Fcustomer-support%2Feveryone-on-support%2F" rel="nofollow" target="_blank">all-hands philosophy</a>, help customers via support to ensure they have the best experience possible.</li>
-</ul>
-<p>You’ll also have the opportunity to specialize in a variety of areas of the Zapier codebase. Focusing on a specialization will not limit your growth at Zapier as we believe that each engineer brings a unique perspective and can contribute in all areas. We encourage collaboration and will frequently have engineers contribute across teams to assist with projects.</p>
-<p> </p>
-<p style="text-align: justify;"><strong>The Whole Package</strong></p>
-<p style="text-align: justify;"><strong> </strong></p>
-<p style="text-align: justify;"><strong>Location:</strong> Remote</p>
-<p>Our flexible, distributed environment lets us work with the best people from around the world. Zapiens live in 40+ countries, including the United Kingdom, Thailand, India, Nigeria, Taiwan, Guatemala, New Zealand, Australia, and more!</p>
-<p> </p>
-<p><strong>Zapier offers</strong>:</p>
-<p> </p>
-<ul>
-<li>
-<p>Competitive salary and profit-sharing program</p>
-</li>
-<li>
-<p>Equity for All: Stock options (or equivalent) for every Zapien</p>
-</li>
-<li>
-<p>Healthcare + dental + vision coverage*</p>
-</li>
-<li>
-<p>Retirement plan with 4% company match*</p>
-</li>
-<li>
-<p>$2,000 annual learning stipend for use on courses, conferences, and more—your choice</p>
-</li>
-<li>
-<p>Two annual all-company retreats</p>
-</li>
-<li>
-<p>14 weeks paid leave for new parents of biological or adopted children</p>
-</li>
-<li>
-<p>Customized<a href="https://zapier.blueboard.com/" rel="nofollow"> Zapiversary rewards</a> on your 1, 3, 5, 7 and 10 year work anniversaries</p>
-</li>
-<li>
-<p>Leading-edge equipment. We set you up with an Apple laptop and provide an additional budget for you to choose other home office accessories and software you may need.</p>
-</li>
-<li>
-<p>Time to renew. We encourage Zapiens to take at least 2 weeks off each year. Most of us take 4-5 weeks, in addition to locally recognized holidays.</p>
-</li>
-<li>
-<p>Opportunity to work with<a href="https://zapier.com/zapbook" rel="nofollow"> Zapier’s amazing partners network</a></p>
-</li>
-</ul>
-<p><em>* While we take care of Zapiens around the world the best we can, healthcare and retirement plans are currently available specifically in the UK, Canada, New Zealand, Australia, and United States.</em></p>
-<p> </p>
-<p style="text-align: justify;"><strong>How to Apply</strong></p>
-<p style="text-align: justify;">We have a non-standard application process designed to promote inclusion and equity. We first ask a few questions in our application form that would typically be asked at the start of an initial interview. This helps speed up the process and lets us get to know you a bit better right out of the gate. Please be sure to answer each question; the resume and CV fields are optional.</p>
-<p style="text-align: justify;">After you apply, you are going to hear back from us—even if we don’t see an immediate fit with our team. In fact, throughout the process, we strive to make sure you never go more than seven days without hearing from us.</p>
-<p style="text-align: justify;">Zapier is an equal opportunity employer. We're excited to work with talented and empathetic people, and do not discriminate based on race, color, sex, gender identity or expression, sexual orientation, religion, national origin, physical or mental disability, military or veteran status, genetic information, pregnancy, age, or any other status protected by local law. Our <a href="https://zapier.com/jobs/zapier-code-of-conduct/" rel="nofollow" target="_blank">code of conduct</a> provides a beacon for the kind of company we strive to be, and we celebrate our differences because those differences are what allow us to make a product that serves a global user base.</p>
-<p> </p>
-<p style="text-align: justify;">Zapier is committed to inclusion. As part of this commitment, Zapier will ensure that people with disabilities are provided reasonable accommodations. If reasonable accommodations are needed to participate in the job application or interview process, please contact jobs@zapier.com.</p>
-<img src="https://remotive.com/job/track/1207672/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
