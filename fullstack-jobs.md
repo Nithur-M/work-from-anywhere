@@ -11,7 +11,7 @@
                     <code>javascript, react, node</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111720" align="right" target="_blank">Apply</a>
@@ -28,8 +28,8 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Crack The Code</h5>
-                    <h3> Full Stack Jr.</h3>
+                    <h5>Digitalhype</h5>
+                    <h3> Technical Leader - Full Stack Python</h3>
                 </td>
                 <td width="300">
                     <code>All Other Remote</code>
@@ -38,7 +38,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/crack-the-code-full-stack-jr" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/listings/digitalhype-technical-leader-full-stack-python" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -48,43 +48,49 @@
 
 <p>
   <strong>Headquarters:</strong> 
-    <br /><strong>URL:</strong> <a href="https://lapieza.io/BwxuOi4F1YRSAVUlOZyTBYFsSJL2">https://lapieza.io/BwxuOi4F1YRSAVUlOZyTBYFsSJL2</a>
+    <br /><strong>URL:</strong> <a href="https://lapieza.io/sTRGDwasj2MvBqR9KkACZnXy1kt2">https://lapieza.io/sTRGDwasj2MvBqR9KkACZnXy1kt2</a>
 </p>
 
-<p>Nuestr@ Full stack developer estará involucrado en todo el ciclo de vida del desarrollo del producto, incluido el diseño, desarrollo, implementación y mantenimiento de características nuevas y existentes.</p><p>Para este reto, buscamos una persona que sea:</p><ul>
-<li>
-<strong>Motivada y energética</strong>; la gente disfruta de trabajar con él o ella.</li>
-<li>
-<strong>No tiene miedo a desafiar el status quo</strong> y asumir nuevos retos.</li>
-<li>
-<strong>Empática y humilde</strong>, para trabajar en coordinación con desarrolladores de distintos perfiles.</li>
-<li>
-<strong>Dueña de sus logros pero también responsable de sus errores</strong>, viéndolos siempre como oportunidades de crecimiento personal y profesional.</li>
-</ul><p><br></p><p><strong>¿Qué funciones tendrá?</strong></p><ul>
-<li>Análisis de funcionalidades del sistema</li>
-<li>Implementación de funcionalidades back-end</li>
-<li>Integraciones back-end</li>
-<li>Tooling para ingenieria de soluciones</li>
-<li>QA de back-end e integración</li>
-<li>Apoyo al equipo front end</li>
-<li>Prototipado de productos</li>
-<li>Coordinaciones con equipos de diseño, educativo y marketing para implementación de funcionalidades en la web.</li>
-<li>Entre otras actividades relacionadas.</li>
-</ul><p><br></p><p><strong>¿Qué experiencia debe tener?</strong></p><ul>
-<li>Experiencia mínima de 6 meses viendo funciones similares</li>
-<li>Manejo de React</li>
-<li>Alta capacidad de comunicación, organización y planificación.</li>
-<li>Alta capacidad de diagnóstico y resolución.</li>
-<li>Capacidad de análisis de datos cuantitativos y cualitativos.</li>
-<li>Experiencia en proyectos con arquitectura orientada a objetos.</li>
-<li>Experiencia en code versioning con Git.</li>
-<li>Experiencia con base de datos (Postgres)</li>
-</ul><p><strong>No es indispensable, pero sería muy genial si tuviera:</strong></p><ul>
-<li>Experiencia en el de sector educación o startups</li>
-<li>Experiencia trabajando con metodología ágiles</li>
+<h3>Job Description</h3><p><br></p><p><strong>Essential Functions:</strong></p><p><br></p><ul>
+<li>Drive effective and on time projects that support your area of ownership while leading a team of engineers</li>
+<li>Design and implement innovative engineering solutions in your area of ownership</li>
+<li>Develop deep domain expertise and represent your area of ownership when collaborating on business requirements, technical strategy, and tactical execution</li>
+<li>Collaborate and influence product releases and requirements when working with the product team</li>
+<li>Tech Lead will be collaborating with team in USA and Argentina</li>
+</ul><p><strong>Requirements</strong></p><p><strong>Mandatory Skills:</strong></p><p><br></p><ul>
+<li>Strong Python experience (or strong C# with a willingness to work in Python or both)</li>
+<li>ReactJS for Frontend</li>
+<li>SQL Data Skills</li>
+<li>Structured Agile experience</li>
+<li>2 - 5 years of experience leading/mentoring a team of engineers with 7 - 10 years of overall experience</li>
+<li>English Level: Full Professional Working Proficiency </li>
+</ul><p><br></p><p><strong>Nice To Have Skills:</strong></p><p><br></p><ul>
+<li>Strong written communication skills - both short-form (Slack/Email) as well as long-form (product guides, design documents, etc.)</li>
+<li>Always eager to learn more about their problems</li>
+<li>Working closely with users of company´s products</li>
+<li>Always looking for way to improve yourself</li>
+<li>Enjoy troubleshooting problems for anyone!</li>
+<li>Fully organized</li>
+</ul><p><br></p><p><strong>Notes:</strong></p><p><br></p><ul>
+<li>Python 3.5+: programming languages have versions, this is just saying that they need to be capable with higher versions. frameworks don’t matter they want to see raw skill</li>
+<li>React experience is preferred but definitely willing to interview candidates as long as they have significant experience with Vue or Angular. </li>
+</ul><p><br></p><h3 class="ql-align-center"><br></h3><h3>Benefits</h3><ul>
+<li>Permanent position</li>
+<li>Attractive Compensation &amp; Benefits package</li>
+<li>Christmas Bonus - 20 days</li>
+<li>Vacation Premium - 25% of eligible vacation days starting in 8 days</li>
+<li>Major Medical Insurance including Dental &amp; Vision coverage</li>
+<li>Minor Medical Insurance at the most major cities in Mexico</li>
+<li>Life Insurance</li>
+<li>Food Coupons</li>
+<li>Savings Fund</li>
+<li>Wellness Bonus</li>
+<li>Home Office Bonus</li>
+<li>Recognition Program</li>
+<li>Referral Program</li>
 </ul><p><br></p>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/crack-the-code-full-stack-jr">https://weworkremotely.com/remote-jobs/crack-the-code-full-stack-jr</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/digitalhype-technical-leader-full-stack-python">https://weworkremotely.com/remote-jobs/digitalhype-technical-leader-full-stack-python</a></p>
 
                 </details>
                 </td>
@@ -100,7 +106,7 @@
                     <code>developer,javascript,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-customer-solutions-team-1224255" align="right" target="_blank">Apply</a>
