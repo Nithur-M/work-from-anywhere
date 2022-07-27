@@ -11,7 +11,7 @@
                     <code>java, senior, marketing</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111767" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>lead, senior, health</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111746" align="right" target="_blank">Apply</a>
@@ -46,66 +46,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 Who we are:Weâre a team of passionate, diverse individuals on a mission to solve the widespread traffic and environmental challenges impacted by the rise of delivery and ride-hailing activity.Â Our first-of-its-kind computer vision technology powers fully automated parking areas, some of which are used to support the nationâs very first zero-emissions delivery zones. From improving street safety to reducing carbon emissions in urban neighborhoods, our solutions are designed to make communities more livable for everyone.Weâre a GovTech Top 100 company, an honoree of Fast Companyâs âNext Big Thing in Tech,â and among the first organizations to receive a U.S. Department of Energy grant for the deployment of curb management solutions to incentivize vehicle electrification. Weâre seeking peers from diverse backgrounds, experiences, and cultures to help us continue this impact, and we encourage you to bring your unique and valuable perspective to our team. Role overview:Our team is small but growing fast. We're looking for a Senior Software Engineer who is eager to learn, detail-oriented, adaptable, and customer-focused to help lead the design and implementation of our back-end systems.In this role, you will have the opportunity to work with our Product, Engineering, and Customer Success Teams utilizing your technical proficiency and customer-focused mindset to help build the next generation of mobility infrastructure. Given the small size of the team and the fluid nature of startups, youâll also play a key role in our customer and product development.Â What we offer:We value work-life harmony and believe that our people deserve the best. We offer:- Equitable, competitive salaries- Health benefits, including medical, dental, and vision- Unlimited, self-directed vacation with a mandatory 10-day minimum- Five months paid parental leave, as well as additional family benefits to support our teammates and their families*Health benefits are for US-based employees only.We are an equal opportunity employer. We value learning from mistakes, an openness to all ideas, and an honest and empathetic approach to our teammates and customers. 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/0895/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>User Interviews</h5>
-                    <h3> Ruby on Rails / React Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>601 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/user-interviews-ruby-on-rails-react-software-engineer-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0067/0895/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Fully Remote
-    <br /><strong>URL:</strong> <a href="https://www.userinterviews.com">https://www.userinterviews.com</a>
-</p>
-
-<div>You'll be joining a team that cares deeply about talking to our users, creating great experiences for them, and incorporating their feedback into everything we do. Plus, it is a chance to build a product used by your peers at world class companies. There is a fun-meta-geekiness to the whole thing that never gets old.</div><div><br></div><div>We work in a pod structure which includes a tech lead, PM, designer, and 4 engineers. The pod works together to determine what is going to be built next, how it is going to be built, and what we need to do to execute. </div><div><br></div><div>As an engineer on the team, you will be working with another engineer on any given effort. While this can include pair programming, it is not the default process by which we code. You and your partner in crime will figure out implementation details and attack the problem as you see fit. You and your partner will do initial code reviews and be a sounding board for each other. Everyone works on the full stack and contributes to every aspect of the product life cycle. We are always looking to add more people to teach and learn from as we build our team and product.<br><strong><br>Our stack:</strong>
-</div><ul>
-<li>React, Webpack, and SCSS using BEM</li>
-<li>Ruby on Rails, Sidekiq, ActiveInteraction, and RSpec</li>
-<li>Postgres</li>
-<li>Hosted on Heroku using Github and CircleCI for CI and automated testing</li>
-</ul><div><br></div><div><strong>Requirements:</strong></div><ul><li>Anywhere from 2+ years of industry experience with React or Ruby on Rails. Experience with both is a bonus.</li></ul><div><br></div><div><strong>Nice to Haves:</strong></div><ul>
-<li>Strong industry experience which can be added to our knowledge base</li>
-<li>Ability to learn quickly and adjust based on new requirements and direction</li>
-<li>A desire to influence the product in a meaningful way</li>
-<li>Curiosity to constantly learn new better ways to build software</li>
-<li>An interest in helping other engineers on the team learn and grow</li>
-</ul><div><br></div><div><strong>Benefits:</strong></div><ul>
-<li>100% premium covered medical + dental employee coverage</li>
-<li>Annual membership to <strong>One Medical Group</strong>
-</li>
-<li>401k + employer contribution</li>
-<li>Generous PTO to start + accrue an additional day per year of employment</li>
-<li>Unlimited wellness days - Sick? Doctors appointment? Mental health day? We’ve got you covered.</li>
-<li>Flexible, paid parental leave</li>
-<li>Stock options for every employee</li>
-<li>$250 Office setup budget</li>
-<li>Annual learning &amp; development stipend</li>
-<li>1-2 team retreats per year (virtual and in-person options)</li>
-<li>Weekly engineering brunch and learns to discuss what we're working on or learning in and outside of the workplace.</li>
-<li>Cool inside jokes and references like Rs and Ps, Party Gritty, and Tacos.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/user-interviews-ruby-on-rails-react-software-engineer-2">https://weworkremotely.com/remote-jobs/user-interviews-ruby-on-rails-react-software-engineer-2</a></p>
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -120,7 +60,7 @@
                     <code>backend,developer,git,go</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-go-software-engineer-1305612" align="right" target="_blank">Apply</a>
@@ -225,7 +165,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -293,7 +233,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
