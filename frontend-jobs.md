@@ -11,7 +11,7 @@
                     <code>crypto, nft, investment</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111782" align="right" target="_blank">Apply</a>
@@ -35,7 +35,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/social-mobile-frontend-software-engineer-1" align="right" target="_blank">Apply</a>
@@ -90,7 +90,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-7" align="right" target="_blank">Apply</a>
@@ -164,97 +164,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/8559/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Contra</h5>
-                    <h3> Senior Frontend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>574 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/contra-senior-frontend-engineer-react" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/8559/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA 
-    <br /><strong>URL:</strong> <a href="https://contra.com/">https://contra.com/</a>
-</p>
-
-<div>Contra is an Independent-first community and commission-free hiring platform empowering the future of work. We match Independents with flexible opportunities, and Clients with the perfect Independent for any project — from content creation to coding. We strongly believe that independence isn’t just a gig, it’s a way of life.</div><div><br></div><div>You'll be joining an exceptional team of Frontend Engineers working in React, GraphQL, and Relay to build the future of work at a rapidly growing professional community.</div><div><br></div><div>You’ll be contributing to a growing React application, build and refine our internal design system, use Relay and Suspense to build cutting edge, API-driven experiences, and work on internal and external tooling, some of which we ultimately have plans to open-source and share with the broader community for everyone’s benefit. 🙌</div><div>
-<strong><br>How you’ll add value at Contra<br></strong><br>
-</div><ul>
-<li>Contribute to a rapidly growing React application</li>
-<li>Build and refine our internal design system</li>
-<li>Ensure application safety and stability with Typescript and Jest</li>
-<li>Use Relay with React Suspense to build cutting edge, API-driven experiences.</li>
-</ul><div>
-<strong><br>You’ll be successful here if you<br></strong><br>
-</div><ul>
-<li>
-<strong>Mission driven.</strong> Our mission truly resonates with you and you would like to be a part of what we are building together at Contra!</li>
-<li>
-<strong>A dedicated team player.</strong> You thrive in a collaborative, remote-only environment and you are comfortable with 8am-12 pm PST core hours!</li>
-<li>
-<strong>Passionate about learning.</strong> Share a genuine curiosity for learning, alway eager to pick up new skills. We don’t expect everyone to know everything but you learn quickly!</li>
-<li>
-<strong>Goal oriented.</strong> Understand what you need to do in order to achieve your goals without needing all of the bells and whistles.</li>
-<li>
-<strong>Committed to trying.</strong> Have the resilience and willingness to try and try again even if you fail after a few attempts!</li>
-<li>
-<strong>Ambitious attitude.</strong> You bring a strong work ethic and contagious energy to your team as we work towards our North Star.</li>
-<li>
-<strong>Path Paver.</strong> Joining a startup you enjoy taking ownership, building out processes and documentation that might not exist to share with your team members.</li>
-</ul><div>
-<strong><br>Our stack<br></strong><br>
-</div><ul>
-<li>Typescript</li>
-<li>Backend: NodeJS, GraphQL, GraphQL Helix, Redis, PostgreSQL</li>
-<li>DevOps: GitHub, ArgoCD, Kubernetes, GCP</li>
-<li>Frontend: React, Suspense, &amp; Relay</li>
-</ul><div>
-<strong><br>How Contra can add value for you<br></strong><br>
-</div><ul>
-<li>🌎 Remote-only culture that is here to stay</li>
-<li>🍎 100% health coverage for US full-time employees, and health reimbursements for all international contractors</li>
-<li>💰 401k matching for US full-time employees</li>
-<li>💸 $4,000 laptop reimbursement upon starting + additional equipment, co-working, education, meetup and charity budgets when</li>
-<li>💛 No-meeting Wednesdays</li>
-<li>🥬 Half days every third Friday of the month to enjoy a long weekend, reduce screen fatigue, and decompress</li>
-<li>👋 Generous time off — 3 week-long company-wide shutdowns per year (Spring, Fall, Winter) so we can all collectively relax together, in addition to paid time off and flex days to look after your wellbeing.</li>
-<li>👶 Flexible parental leave</li>
-<li>🌴 Annual team wide off-site (our upcoming is in June 2022!)</li>
-<li>💁 A custom slack emoji, just for you!</li>
-</ul><div>
-<strong><br>Our interview process<br></strong><br>
-</div><ul>
-<li>Intro call (15-30 minutes)</li>
-<li>Complete a Technical assessment Form (20-30 minutes)</li>
-<li>Technical interview with Frontend Lead Engineer (30-45 minutes)</li>
-<li>Non-technical (introduction &amp; culture) interview (30-45 minutes)</li>
-<li>Technical interview with CTO (30-45 minutes)</li>
-</ul><div>
-<strong><br>Salary Range<br></strong><br>
-</div><ul>
-<li>$130k - $160k USD</li>
-<li>Equity Value Range: $72k - $180k USD</li>
-</ul><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-senior-frontend-engineer-react">https://weworkremotely.com/remote-jobs/contra-senior-frontend-engineer-react</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1260508/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -265,7 +174,7 @@
                     <code>cloud,docker,frontend,graphql</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-engineer-1260508" align="right" target="_blank">Apply</a>
@@ -290,7 +199,7 @@
                     <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-engineer-1298859" align="right" target="_blank">Apply</a>
