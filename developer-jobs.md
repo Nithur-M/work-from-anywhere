@@ -11,7 +11,7 @@
                     <code>javascript, node, express</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111761" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>devrel, ml, pytorch</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111756" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>dev, typescript, api</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111749" align="right" target="_blank">Apply</a>
@@ -86,7 +86,7 @@
                     <code>mobile, react native, crypto</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111723" align="right" target="_blank">Apply</a>
@@ -111,7 +111,7 @@
                     <code>javascript, react, node</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111721" align="right" target="_blank">Apply</a>
@@ -136,7 +136,7 @@
                     <code>javascript, node, postgres</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111656" align="right" target="_blank">Apply</a>
@@ -161,7 +161,7 @@
                     <code>symfony, php, javascript</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111650" align="right" target="_blank">Apply</a>
@@ -178,8 +178,8 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>LaPieza</h5>
-                    <h3> Backend Developer (Python-Django)</h3>
+                    <h5>Platzi</h5>
+                    <h3> Android Developer</h3>
                 </td>
                 <td width="300">
                     <code>All Other Remote</code>
@@ -188,7 +188,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/lapieza-backend-developer-python-django" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/listings/platzi-android-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -201,35 +201,20 @@
     <br /><strong>URL:</strong> <a href="https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1">https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1</a>
 </p>
 
-<p class="ql-align-center"><strong>¡Únete al mejor equipo de LATAM!</strong></p><p class="ql-align-center"><br></p><p class="ql-align-center">Como Back End - Full Stack Developer escribirás en código limpio PHP &amp; Python a un alto nivel de manera oportuna y escalable.</p><p><br></p><p><strong>Actividades:</strong></p><p><br></p><ul>
-<li>Proponer e implementar tecnologías que se adecúen al desarrollo del producto.</li>
-<li>Pruebas y mantenimiento del sitio.</li>
-<li>Manejo de bases de datos.</li>
-<li>Ayudar a definir la estrategia y plan de ejecución para el desarrollo del producto.</li>
-<li>Análisis de Información.</li>
-<li>Desarrollar y proporcionar la documentación detallada sobre las tareas que se están llevando a cabo.</li>
-<li>Realizar pruebas unitarias.</li>
-<li>Mantenimiento y mejoras de servicios existentes.</li>
-</ul><p><br></p><p><strong>Requisitos:</strong></p><p><br></p><ul>
-<li>Conocimientos Técnicos: Desarrollo web en PHP / Python.</li>
-<li>Conocimiento, experiencia creando API REST / endpoint y consumo de los mismos usando fetch, axios, ajax, etc.</li>
-<li>Uso de algún framework. (Yii, CodeIgniter, Symfony, etc.)</li>
-<li>Manejo de base de datos relacionales. (MariaDB, Postgres)</li>
-<li>Manejo de base de datos NO relacionales. (MongoDB, Elasticsearch)</li>
-<li>Manejo de patrones de diseño. (MVC)</li>
-</ul><p><br></p><p><strong>Lenguajes/ conocimiento en:</strong></p><p><br></p><ul>
-<li>HTML5</li>
-<li>Javascript</li>
-<li>CSS</li>
-<li>Sass</li>
-<li>Manejo de repositorios y versionado de código</li>
-<li>Pruebas unitarias</li>
-<li>ReactJS, jQuery</li>
-<li>Bootstrap</li>
-<li>Conocer alguna metodología ágil (Scrum, Kanban, XP)</li>
-</ul>
+<p>As a startup, we are constantly iterating at a fast pace with experiments that explore the best way to satisfy the needs of our students. Our culture is very important for us, and a fundamental element of it is the deep respect for the diversity and individual differences of our team members, we have a strong code of conduct that guarantees a secure environment for every member of our team.</p><p> </p><p><strong>Job functions</strong></p><p>We expect you to be an outstanding team player, with a growth mindset working in a close loop with other Mobile Developers (iOS and Android), Product Managers, Backend Developers, QA Specialists, and Product Designers. You will be responsible for the implementation of new features in our Android mobile app, also create libraries to support other functionalities, implement good practices for your code and propose architectural and tooling improvements to rise the quality and speed of the releases.</p><p> </p><p><strong>Qualifications and requirements</strong></p><ul>
+<li>Strong Computer Science or Software Engineering background.</li>
+<li>Long-term Android experience with Android components and Jetpack.</li>
+<li>Strong Knowledge of mobile architectures like MVVM.</li>
+<li>Strong Knowledge of Kotlin programming language.</li>
+<li>Strong Experience with CI/CD implementations.</li>
+<li>Strong Experience building applications for phones and tablets</li>
+<li>Solid documentation and testing practices while building reusable code and libraries for future use.</li>
+<li>Mindful application of security and coding best practices.</li>
+<li>Being able to design scalable solutions.</li>
+<li>At least a B1 English level or equivalent, you should be able to comfortably have work-related conversations in English.</li>
+</ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><em>Este reclutamiento es 100% libre de sesgos, todas las decisiones son basadas en tu experiencia y conocimientos, tú eres la persona más importante para nosotros y te acompañaremos en todo momento. </em></p><p><br></p>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/lapieza-backend-developer-python-django">https://weworkremotely.com/remote-jobs/lapieza-backend-developer-python-django</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/platzi-android-developer">https://weworkremotely.com/remote-jobs/platzi-android-developer</a></p>
 
                 </details>
                 </td>
@@ -245,7 +230,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-net-developer-2" align="right" target="_blank">Apply</a>
@@ -323,7 +308,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-java-developers-cyprus-greece-remote" align="right" target="_blank">Apply</a>
@@ -396,7 +381,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-1" align="right" target="_blank">Apply</a>
@@ -480,7 +465,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-frontend-developer-canadian-visa-sponsorship-opportunity" align="right" target="_blank">Apply</a>
@@ -520,56 +505,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3> Fullstack Developer (Canadian Visa Sponsorship Opportunity)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clevertech-fullstack-developer-canadian-visa-sponsorship-opportunity" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
-</p>
-
-<div>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects</div><div>
-<br><strong>What we're working on:</strong>
-</div><div>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries</div><div><strong><br>Requirements</strong></div><ul>
-<li>7+ years of professional experience (A technical assessment will be required)</li>
-<li>Senior-level experience in the front-end (React) and back-end (Node, Express, Mongo, SQL)</li>
-<li>Ability to create clean, modern, testable, well-documented code</li>
-<li>English fluency, verbal and written</li>
-<li>Professional, empathic, team player</li>
-<li>Problem solver, proactive, go-getter</li>
-</ul><div><strong>Straight from the Devs</strong></div><div>Watch short snippets of actual developers (Real, not scripted) share why they joined <a href="https://cleverte.ch/3"><strong>YouTube Playlist</strong></a>
-</div><div>
-<br><strong>Why Clevertech is an amazing place to work at</strong>
-</div><div>At Clevertech, you can expect that you will:</div><ul>
-<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
-<li>Be a part of a team of talented and friendly senior-level developers</li>
-<li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li>
-</ul><div>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-fullstack-developer-canadian-visa-sponsorship-opportunity">https://weworkremotely.com/remote-jobs/clevertech-fullstack-developer-canadian-visa-sponsorship-opportunity</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/2036/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -580,7 +515,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>603 days ago</text>
+                <text>604 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -624,7 +559,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -671,7 +606,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255729" align="right" target="_blank">Apply</a>
@@ -696,7 +631,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255704" align="right" target="_blank">Apply</a>
@@ -721,7 +656,7 @@
                     <code>developer,rails,ruby,growth</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1255730" align="right" target="_blank">Apply</a>
@@ -746,7 +681,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1255725" align="right" target="_blank">Apply</a>
@@ -771,7 +706,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1255719" align="right" target="_blank">Apply</a>
@@ -796,7 +731,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1255718" align="right" target="_blank">Apply</a>
@@ -821,7 +756,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1255721" align="right" target="_blank">Apply</a>
@@ -846,7 +781,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -1057,7 +992,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
