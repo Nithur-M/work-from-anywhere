@@ -11,7 +11,7 @@
                     <code>javascript, node, express</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111761" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>devrel, ml, pytorch</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111756" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>dev, typescript, api</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111749" align="right" target="_blank">Apply</a>
@@ -86,7 +86,7 @@
                     <code>mobile, react native, crypto</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111723" align="right" target="_blank">Apply</a>
@@ -111,7 +111,7 @@
                     <code>javascript, react, node</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111721" align="right" target="_blank">Apply</a>
@@ -136,7 +136,7 @@
                     <code>javascript, node, postgres</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111656" align="right" target="_blank">Apply</a>
@@ -150,71 +150,58 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/img/jobs/6d82d8faeda4047c2b35adb1e52f13501657810146.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4259/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>BBE Marketing</h5>
-                    <h3>
-					Full Stack PHP Developer				</h3>
+                    <h5>Switch Themes</h5>
+                    <h3> Front-end developer (Shopify)</h3>
                 </td>
                 <td width="300">
-                    <code>symfony, php, javascript</code>
-                </td>
-                <td width="200">
-                <text>13 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/111650" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>BBE Marketing creates online products that help businesses connect with celebrities and influencers. We are looking for a talented Full-Stack Developer to join our team, who could help us in shipping features for our application and drive our application design and architecture as we grow.</p><p>The tasks include:</p><p>- Developing new features<br />- Making fixes and updates to app<br />- Implementing quality checks, metrics and monitoring: automated testing, code style, integrating error reporting and performance monitoring tools etc.<br />- Work with team in planning and strategizing<br />- Making important architectural decisions</p><p>You will love this role if:</p><p>- You like working with the stakeholders directly. Weâre a relatively small startup, thereâs no bureaucracy and complex hierarchy. Youâll be communicating directly with all the team members, from CEO to Customer Support.<br />- You are a team player<br />- You like to work and ship stuff fast without compromising quality. You know when to stop and call it done without trying to achieve the unattainable perfection.<br />- You are a problem solver<br />- You know how to find an optimal solution and ship it fast without introducing unnecessary complexity and overhead.<br />- Youâre not afraid to prove your point when necessary. We trust our team members and believe they have businesses best interest at heart. If thereâs no simple solution to a problem, you can provide the arguments and clearly communicate the risks.<br />- Self-starter, we donât like to micro-manage our team<br />- You treat privileged information with care. You can be trusted with sensitive company data</p><p>Requirements:</p><p>- Good written and spoken English.<br />- Solid experience with PHP, Symfony, MySQL (or any other RDBMS)<br />- Basic experience with Angular;<br />- Good knowledge of HTML, CSS, SASS/SCSS.<br />- Experience writing tests in PHP. PHPUnit is a must. Knowledge of other testing frameworks and tools will be a plus.<br />- Experience writing tests in TS/JS. Experience with Jasmine.<br />- You have experience setting up and/or maintaining CI pipelines running tests and other quality checks.<br />- Able to work 4 hours overlap within 08:00 - 18:00 EST</p><p>Nice to have:<br />- Experience with DigitalOcean;<br />- Experience with Bitbucket Pipelines</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Platzi</h5>
-                    <h3> Android Developer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
+                    <code>Front-End Programming</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/platzi-android-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0076/4259/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> 
-    <br /><strong>URL:</strong> <a href="https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1">https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1</a>
+  <strong>Headquarters:</strong> Melbourne, Australia
+    <br /><strong>URL:</strong> <a href="https://switchthemes.co/">https://switchthemes.co/</a>
 </p>
 
-<p>As a startup, we are constantly iterating at a fast pace with experiments that explore the best way to satisfy the needs of our students. Our culture is very important for us, and a fundamental element of it is the deep respect for the diversity and individual differences of our team members, we have a strong code of conduct that guarantees a secure environment for every member of our team.</p><p> </p><p><strong>Job functions</strong></p><p>We expect you to be an outstanding team player, with a growth mindset working in a close loop with other Mobile Developers (iOS and Android), Product Managers, Backend Developers, QA Specialists, and Product Designers. You will be responsible for the implementation of new features in our Android mobile app, also create libraries to support other functionalities, implement good practices for your code and propose architectural and tooling improvements to rise the quality and speed of the releases.</p><p> </p><p><strong>Qualifications and requirements</strong></p><ul>
-<li>Strong Computer Science or Software Engineering background.</li>
-<li>Long-term Android experience with Android components and Jetpack.</li>
-<li>Strong Knowledge of mobile architectures like MVVM.</li>
-<li>Strong Knowledge of Kotlin programming language.</li>
-<li>Strong Experience with CI/CD implementations.</li>
-<li>Strong Experience building applications for phones and tablets</li>
-<li>Solid documentation and testing practices while building reusable code and libraries for future use.</li>
-<li>Mindful application of security and coding best practices.</li>
-<li>Being able to design scalable solutions.</li>
-<li>At least a B1 English level or equivalent, you should be able to comfortably have work-related conversations in English.</li>
-</ul><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><em>Este reclutamiento es 100% libre de sesgos, todas las decisiones son basadas en tu experiencia y conocimientos, tú eres la persona más importante para nosotros y te acompañaremos en todo momento. </em></p><p><br></p>
+<div>Switch Themes design and build premium Shopify themes that are sold exclusively on the Shopify theme store. We currently have 5 themes on the theme store - with our most recent theme Shapes launching this year.</div><div><br></div><div>We’re looking for an experienced front-end developer to help us with our themes. </div><div><br></div><div><strong>Responsibilities</strong></div><ul>
+<li>Expert experience with building Shopify Themes and Shopify’s liquid templating language</li>
+<li>Expert knowledge in the Shopify platform and Shopify Themes</li>
+<li>Understand all requirements for Shopify Themes to be listed on the theme store: <a href="https://shopify.dev/themes/store/requirements">https://shopify.dev/themes/store/requirements</a>
+</li>
+<li>Strong web development skills (HTML, CSS and Javascript)</li>
+<li>Experience with build tools</li>
+<li>Strong Javascript skills (Vanilla JS)</li>
+<li>Experience with version control and Git</li>
+<li>Take initiative to follow wireframes / designs and apply beyond what is provided</li>
+<li>Understanding of semantic web standards and web accessibility</li>
+<li>Understanding of web performance </li>
+</ul><div><br></div><div><strong>Bonus if you have experience with the following</strong></div><ul>
+<li>Tailwind</li>
+<li>Rollup.js</li>
+<li>Alpine.js</li>
+<li>Figma</li>
+<li>Design/UX</li>
+</ul><div><br></div><div><strong>About you</strong></div><ul>
+<li>You are self-motivated and self-directed</li>
+<li>Have a minimum 2 years of front-end development experience</li>
+<li>You like the idea of working from home and not having anyone bother you all day whilst you do deep work</li>
+<li>Speak English at an intermediate-high level</li>
+</ul><div><br></div><div><br></div><div><strong>Working at Switch</strong></div><div><br></div><div>This is a 3-4 day per week role for a 6 month contract.</div><div><br></div><div>We are a fully remote team spread out across Melbourne, Hong Kong, Vietnam, Ireland, Jamaica &amp; Canada. Don’t worry, we aren’t that big - we have just one team member in each of those locations!</div><div><br></div><div>Your working hours are flexible. The 20-30 hours a week (based on 3/4 days a week) can be broken up however you like. Do you prefer working at 5am in the morning? No worries. Want to schedule your day so you can have an afternoon nap? Go for it. </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/platzi-android-developer">https://weworkremotely.com/remote-jobs/platzi-android-developer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify">https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify</a></p>
 
                 </details>
                 </td>
@@ -230,7 +217,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-net-developer-2" align="right" target="_blank">Apply</a>
@@ -308,7 +295,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-java-developers-cyprus-greece-remote" align="right" target="_blank">Apply</a>
@@ -381,7 +368,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-1" align="right" target="_blank">Apply</a>
@@ -465,7 +452,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-frontend-developer-canadian-visa-sponsorship-opportunity" align="right" target="_blank">Apply</a>
@@ -505,50 +492,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/2036/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Toptal</h5>
-                    <h3> Senior React Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>604 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/toptal-senior-react-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/2036/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Wilmington, DE
-    <br /><strong>URL:</strong> <a href="https://www.toptal.com/">https://www.toptal.com/</a>
-</p>
-
-<div>
-<strong><em>Design your full-time freelance career as a top freelance developer with Toptal. </em></strong><br><br>Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. <br><br>Toptal is an elite talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <strong>Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </strong>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. <br><br>As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. <br><br>That’s why the world’s top 3% of developers choose Toptal. Developers in our elite network share:</div><ul>
-<li>English language proficiency</li>
-<li>3+ years of professional experience  </li>
-<li>Project management skills</li>
-<li>A keen attention to detail</li>
-<li>Experience with system architecture or leading a software team is a strong advantage</li>
-<li>Full-time availability is a strong advantage</li>
-</ul><div>
-<br>Curious to know how much you could make? Check out our React developer rate calculator: <a href="https://topt.al/6DcyVr">https://topt.al/6DcyVr</a><br><br>If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/nzc7vw"><strong>https://topt.al/nzc7vw</strong></a>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toptal-senior-react-developer">https://weworkremotely.com/remote-jobs/toptal-senior-react-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1322995/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -559,7 +502,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -606,7 +549,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255729" align="right" target="_blank">Apply</a>
@@ -631,7 +574,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255704" align="right" target="_blank">Apply</a>
@@ -656,7 +599,7 @@
                     <code>developer,rails,ruby,growth</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1255730" align="right" target="_blank">Apply</a>
@@ -681,7 +624,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1255725" align="right" target="_blank">Apply</a>
@@ -706,7 +649,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1255719" align="right" target="_blank">Apply</a>
@@ -731,7 +674,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1255718" align="right" target="_blank">Apply</a>
@@ -756,7 +699,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1255721" align="right" target="_blank">Apply</a>
@@ -781,7 +724,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -992,7 +935,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
