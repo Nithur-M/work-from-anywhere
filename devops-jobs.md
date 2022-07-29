@@ -1,5 +1,40 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7639/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OpSourced</h5>
+                    <h3> DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>DevOps and Sysadmin</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/opsourced-devops-engineer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/7639/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Savannah, Georgia
+    <br /><strong>URL:</strong> <a href="https://opsourced.com">https://opsourced.com</a>
+</p>
+
+<div>We cultivate teams of skilled and devoted DevOps Engineers capable of providing a fanatical level of support for our wide range of customers and a variety of tech stacks.  Then we set that team loose to build and support highly available, scalable, and reliable infrastructures and automation that our customers can use to iterate as often and with as little friction as possible.<br><br>You'll work directly with other engineers on our teams, and alongside those customers day to day to build, automate, and manage their infrastructures so they can focus on their applications!   If you're looking for an opportunity to work at a scale few ever get to, this could be the right place for you!</div><div>  <br><strong>Minimum Qualifications :<br></strong>•  Experience maintaining production Linux environments<br>•  Experience working with tools like Terraform / Ansible / CloudFormation<br>•  Experienced and comfortable working in Git<br>•  Strong Customer Service Mindset<br>•  Strong Troubleshooting abilities<br>•  Attention to detail<br>•  Self motivated and diligent<br>•  Ability to participate in an on-call pager rotation.<br>•  Must be eligible to work in the U.S.<br><br><strong>Preferred Qualifications :<br></strong>•  Strong Terraform, Ansible, or CloudFormation experience<br>•  Experience with AWS, GCP, Azure or prior certifications<br>•  Experience with Kubernetes, EKS, GKE, AKS<br>•  Experience building and maintaining CI / CD pipelines<br><br>Email hiring@opsourced.com or visit https://opsourced.com/hiring/ to apply!<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opsourced-devops-engineer-1">https://weworkremotely.com/remote-jobs/opsourced-devops-engineer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7619/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +45,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-devops-engineer-canadian-visa-sponsorship-opportunity" align="right" target="_blank">Apply</a>
@@ -64,7 +99,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1255728" align="right" target="_blank">Apply</a>
