@@ -11,7 +11,7 @@
                     <code>java, senior, marketing</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111767" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>lead, senior, health</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111746" align="right" target="_blank">Apply</a>
@@ -46,6 +46,52 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 Who we are:Weâre a team of passionate, diverse individuals on a mission to solve the widespread traffic and environmental challenges impacted by the rise of delivery and ride-hailing activity.Â Our first-of-its-kind computer vision technology powers fully automated parking areas, some of which are used to support the nationâs very first zero-emissions delivery zones. From improving street safety to reducing carbon emissions in urban neighborhoods, our solutions are designed to make communities more livable for everyone.Weâre a GovTech Top 100 company, an honoree of Fast Companyâs âNext Big Thing in Tech,â and among the first organizations to receive a U.S. Department of Energy grant for the deployment of curb management solutions to incentivize vehicle electrification. Weâre seeking peers from diverse backgrounds, experiences, and cultures to help us continue this impact, and we encourage you to bring your unique and valuable perspective to our team. Role overview:Our team is small but growing fast. We're looking for a Senior Software Engineer who is eager to learn, detail-oriented, adaptable, and customer-focused to help lead the design and implementation of our back-end systems.In this role, you will have the opportunity to work with our Product, Engineering, and Customer Success Teams utilizing your technical proficiency and customer-focused mindset to help build the next generation of mobility infrastructure. Given the small size of the team and the fluid nature of startups, youâll also play a key role in our customer and product development.Â What we offer:We value work-life harmony and believe that our people deserve the best. We offer:- Equitable, competitive salaries- Health benefits, including medical, dental, and vision- Unlimited, self-directed vacation with a mandatory 10-day minimum- Five months paid parental leave, as well as additional family benefits to support our teammates and their families*Health benefits are for US-based employees only.We are an equal opportunity employer. We value learning from mistakes, an openness to all ideas, and an honest and empathetic approach to our teammates and customers. 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Draft.dev</h5>
+                    <h3> Software Engineering Content Writer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>60 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/draft-dev-software-engineering-content-writer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> USA
+    <br /><strong>URL:</strong> <a href="https://draft.dev/">https://draft.dev/</a>
+</p>
+
+<div>
+<br>If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics on the side, this will be a great part-time role for you!<br><br>
+</div><div>
+<br>We are specifically looking for developers with experience in the following areas:</div><ol>
+<li>Kubernetes</li>
+<li>Machine Learning</li>
+<li>Data Engineering</li>
+<li>Event Streaming</li>
+<li>Site Reliability Engineering</li>
+<li>DevSecOps</li>
+</ol><div>Draft.dev’s writers create technical blog posts and tutorials for clients in a wide range of industries and areas of technology. Writer pay starts at $315 per ~1500-word article and goes up as you complete more assignments.<br><br>
+</div><div>This is a great side hustle as almost all our 200+ writers are full-time developers with a background in software engineering, data engineering, machine learning, product management, or similar.<br><br>
+</div><div>Because we create content that will be read by a wide range of readers around the world, we are committed to supporting diversity in our writers (we currently have writers in over 50 countries). If you have any of the skills listed above and you’ve written at least 3 blog posts in the past, <a href="https://draft.dev/write">please apply</a>!</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/draft-dev-software-engineering-content-writer">https://weworkremotely.com/remote-jobs/draft-dev-software-engineering-content-writer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -60,7 +106,7 @@
                     <code>backend,developer,git,go</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-go-software-engineer-1305612" align="right" target="_blank">Apply</a>
@@ -165,7 +211,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -233,7 +279,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
