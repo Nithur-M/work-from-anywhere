@@ -1,53 +1,5 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>LaPieza</h5>
-                    <h3> Diseñador UX/UI</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/lapieza-disenador-ux-ui-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> 
-    <br /><strong>URL:</strong> <a href="https://lapieza.io/6MBKHvRNmUYGPaRiUN2HH58QxSM2">https://lapieza.io/6MBKHvRNmUYGPaRiUN2HH58QxSM2</a>
-</p>
-
-<p class="ql-align-justify">Requisitos:</p><p class="ql-align-justify"><br></p><ul>
-<li class="ql-align-justify">Escolaridad: Licenciatura o Ingeniería terminada en Diseño Gráfico, Multimedia, Comunicación Visual o afín.</li>
-<li class="ql-align-justify">Experiencia de 3 a 4 años en puestos similares.</li>
-<li class="ql-align-justify">Conocimientos: User Experience (UX), User Interface (UI), Design Thinking y Agile. </li>
-<li class="ql-align-justify">Deseable experiencia con Figma, además (un plus) de WebFlow y/o HTML y CSS.</li>
-<li class="ql-align-justify">Conocimiento en las diferentes etapas de diseño, desde la conceptualización hasta el delivery con desarrollo.</li>
-</ul><p><br></p><p>Responsabilidades:</p><p><br></p><ul>
-<li class="ql-align-justify">Diseñar elementos interactivos que identifiquen claramente sus funciones y se ubiquen de forma adecuada en la interfaz para tener una correcta usabilidad. </li>
-<li class="ql-align-justify">Ejecutar pruebas de usabilidad, análisis de datos y presentación de resultados.</li>
-<li class="ql-align-justify">Asegurar que cumpla con las mejoras de diseño, garantizando una interfaz responsiva de manera que sea accesible desde cualquier dispositivo, ya sea Smartphone, Tablet  o equipos de cómputo.</li>
-<li class="ql-align-justify">Trabajar en conjunto con el equipo de Engineering (Back-End) para integrar los diseños y desarrollos.</li>
-<li class="ql-align-justify">Diseñar páginas responsivas para graviti.mx, considerando navegabilidad, interactividad, arquitectura de información e interacción de medios.</li>
-<li class="ql-align-justify">Adaptar interfaces en diferentes dispositivos móviles.</li>
-<li class="ql-align-justify">Garantizar que el diseño visual sea fácil, intuitivo, eficiente y siga la línea del negocio</li>
-</ul><p><br></p><p>Ofrecemos:</p><p>Prestaciones de ley + adicionales; SGMM, días extras de descanso, trabajo 100% remoto, tarjeta de descuentos, bono de capacitación anual</p><p><br></p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/lapieza-disenador-ux-ui-2">https://weworkremotely.com/remote-jobs/lapieza-disenador-ux-ui-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1255726/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -58,7 +10,7 @@
                     <code>ui,ux,management,networking</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-ux-ui-designer-1255726" align="right" target="_blank">Apply</a>
@@ -83,7 +35,7 @@
                     <code>contract,go,ui,ux</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
