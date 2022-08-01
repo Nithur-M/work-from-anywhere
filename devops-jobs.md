@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opsourced-devops-engineer-1" align="right" target="_blank">Apply</a>
@@ -35,55 +35,57 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7619/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3> DevOps Engineer (Canadian Visa Sponsorship Opportunity)</h3>
+                    <h5>Chainlink Labs</h5>
+                    <h3> DevOps Engineer</h3>
                 </td>
                 <td width="300">
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>60 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clevertech-devops-engineer-canadian-visa-sponsorship-opportunity" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-devops-engineer-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/7619/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
+  <strong>Headquarters:</strong> United States
+    <br /><strong>URL:</strong> <a href="http://chain.link">http://chain.link</a>
 </p>
 
-<div>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects</div><div>
-<br><strong>What we're working on:</strong>
-</div><div>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries</div><div><strong><br>Requirements</strong></div><ul>
-<li>7+ years of professional experience (A technical assessment will be required)</li>
-<li>Senior-level experience with AWS (EC2, RDS, S3, ECS, ELB)</li>
-<li>Strong background in Linux and Mongo Atlas administration</li>
-<li>Experience deploying Kubernetes in a production environment</li>
-<li>Experience with CI/CD in Jenkins or CircleCi</li>
-<li>Infrastructure as code (we use Terraform)</li>
-<li>Experience with requirement gathering and presentation to executives</li>
-<li>English fluency, verbal and written</li>
-<li>Professional, empathic, team player</li>
-<li>Problem solver, proactive, go-getter</li>
-</ul><div><strong>Straight from the Devs</strong></div><div>Watch short snippets of actual developers (Real, not scripted) share why they joined <a href="https://cleverte.ch/3"><strong>YouTube Playlist</strong></a>
-</div><div>
-<br><strong>Why Clevertech is an amazing place to work at</strong>
-</div><div>At Clevertech, you can expect that you will:</div><ul>
-<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
-<li>Be a part of a team of talented and friendly senior-level developers</li>
-<li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li>
-</ul><div>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.</div>
+<div><strong>All roles with Chainlink Labs are globally remote based. We encourage you to apply regardless of your location.</strong></div><div>
+<br>The infrastructure team enables Chainlink development and maintains services that support the health of the most widely-adopted oracle network in the world. As a DevOps Engineer, you will help us maintain the Chainlink infrastructure, ensure reliable work of internal and customer-facing services, and empower the entire engineering organization to do their best work.</div><div><br></div><div>This job would be perfect for someone who has a strong operations background and would eventually like to grow into an SRE role. The infrastructure team is expanding, and you would have plenty of opportunities to build up your skillset in different areas.</div><div><br></div><div>We are distributed across time zones and continents, and we embrace remote work. In the Infrastructure team, we follow the infrastructure-as-code approach and practice GitOps. Our on-call rotation uses the follow-the-sun pattern: you will be on call some of the time, but there should not be any overnight shifts.</div><div><br></div><div>We all have different backgrounds and are determined to help you succeed no matter where you are or who you are. If you think you would do a great job at Chainlink, we are looking forward to speaking with you, even if you don't match 100% of the job requirements: those describe people we've usually had a great time working with, but they're not a tick-box exercise.<br><br>
+</div><div><strong>Your Impact</strong></div><ul>
+<li>Maintain full nodes for various blockchains Chainlink supports and find ways to deploy and manage them more efficiently. </li>
+<li> Deploy new Chainlink nodes and ensure their reliability. </li>
+<li>Understand blockchain-specific monitoring in great depth and help the team cut down on noise by fine-tuning alerts. </li>
+<li>Pair with engineers from across the company to help with troubleshooting, deploy new services, and figure out how to increase developer velocity and eliminate pain points.</li>
+</ul><div><br></div><div><strong>Requirements</strong></div><ul>
+<li>3+ years of relevant professional experience. You probably have an operations background, have worked in a DevOps team before, and are familiar with most tools from our stack (below). </li>
+<li>Experience with CI/CD. You know how to deploy your services reliably and have used tools like GitHub Actions, CircleCI, TravisCI, or Jenkins to achieve that.</li>
+<li>Experience with scripting and configuration management. You can write scripts to automate routine tasks and have familiarity with tools like Ansible and Packer. </li>
+<li>Experience with monitoring and logging. You know how to export metrics to Prometheus, have built a Grafana dashboard or two, and have experience with a centralized logging solution like the Elastic Stack, Splunk or LogDNA.</li>
+<li>Experience with distributed systems and container orchestration. You have maintained or even built Kubernetes clusters before and feel comfortable deploying completely new services on them.</li>
+<li>Strong communication skills. You can give and receive constructive feedback, and you do not shy away from planning meetings and code reviews.</li>
+</ul><div><br></div><div><strong>Desired Qualifications</strong></div><ul>
+<li>Excitement for blockchain, Web 3.0, and similar decentralized technologies. </li>
+<li>Experience running blockchain full nodes would give you a considerable advantage in this role. </li>
+<li>Experience with Chainlink as a developer or a node operator is a similarly big plus. </li>
+<li>Experience with GitHub Actions and self-hosted runners in particular.</li>
+<li>Experience working remotely in a distributed team.</li>
+<li>A strong desire to grow and challenge yourself. While this role is mainly focused on maintenance, we would expect you to constantly find ways to improve and automate services under your purview.</li>
+<li>We are giving slight preference to candidates who live in the UTC to UTC+8 range due to our on-call schedule for this particular opening.</li>
+</ul><div><br></div><div><strong>Our Stack</strong></div><div>Some of the tools and services we use daily or almost daily are:</div><div><br></div><div>AWS; Terraform/Terragrunt; Kubernetes, Calico and ArgoCD; Prometheus and Grafana; GitHub Actions; Packer</div><div><br></div><div>We expect you to be comfortable with most of those tools and proficient in at least a couple of them.<br><br><strong>About Us<br></strong>Chainlink is the industry standard oracle network for connecting smart contracts to the real world. With Chainlink, developers can build hybrid smart contracts that combine on-chain code with an extensive collection of secure off-chain services powered by Decentralized Oracle Networks. Managed by a global, decentralized community of hundreds of thousands of people, Chainlink is introducing a fairer model for contracts. Its network currently secures billions of dollars in value for smart contracts across the decentralized finance (DeFi), insurance, and gaming ecosystems, among others. The full vision of the Chainlink Network can be found in the <a href="https://research.chain.link/whitepaper-v2.pdf">Chainlink 2.0 whitepaper</a>. Chainlink is trusted by hundreds of organizations—from global enterprises to projects at the forefront of the blockchain economy—to deliver definitive truth via secure, reliable data.  </div><div><br></div><div>This role is location agnostic anywhere in the world, but we ask that you overlap some working hours with Eastern Standard Time (EST).</div><div><br></div><div>We are a fully distributed team and have the tools and benefits to support you in your remote work environment.</div><div><br></div><div><em>Chainlink Labs is an Equal Opportunity Employer.</em></div><div><br></div><div>#LI-Remote</div><div><br></div><div>---</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-devops-engineer-canadian-visa-sponsorship-opportunity">https://weworkremotely.com/remote-jobs/clevertech-devops-engineer-canadian-visa-sponsorship-opportunity</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-devops-engineer-1">https://weworkremotely.com/remote-jobs/chainlink-labs-devops-engineer-1</a></p>
 
                 </details>
                 </td>
@@ -99,7 +101,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1255728" align="right" target="_blank">Apply</a>
