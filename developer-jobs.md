@@ -11,7 +11,7 @@
                     <code>javascript, node, express</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111761" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>devrel, ml, pytorch</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111756" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>dev, typescript, api</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111749" align="right" target="_blank">Apply</a>
@@ -86,7 +86,7 @@
                     <code>mobile, react native, crypto</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111723" align="right" target="_blank">Apply</a>
@@ -111,7 +111,7 @@
                     <code>javascript, react, node</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111721" align="right" target="_blank">Apply</a>
@@ -135,7 +135,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/latenitesoft-s-l-ios-developer" align="right" target="_blank">Apply</a>
@@ -184,7 +184,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/infinite-capital-senior-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -259,7 +259,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
@@ -306,79 +306,74 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/8312/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>XM</h5>
-                    <h3> .NET Developer </h3>
+                    <h5>Toggl</h5>
+                    <h3> Backend Developer</h3>
                 </td>
                 <td width="300">
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>180 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-net-developer-2" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/toggl-backend-developer-5" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/8312/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> Cyprus
-    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
+  <strong>Headquarters:</strong> Tallinn, Estonia
+    <br /><strong>URL:</strong> <a href="https://toggl.com/jobs/">https://toggl.com/jobs/</a>
 </p>
 
 <div>
-<strong> <br></strong><br>
+<br>We are looking for a passionate and sharp Backend Developer to be a part of one of our cross-functional product development teams to help us shape the future of the time tracking industry and deliver real value to our customers with both new and improved features. </div><div>
+<br>Gross annual compensation range for the role is <strong>€63,000-€70,000 based on experience </strong>and we are committed to increasing salaries every year based on company and individual performance. In addition to that, we also have awesome benefits, which you can check out below.</div><div><br></div><div>You can work <strong>from anywhere in the world.</strong>
+</div><div><br></div><div>
+<strong><br>About the Team<br></strong><br>
+</div><div>We are a global team of 100+ awesome people working from over 40 countries around the globe. We hire globally, you work locally - in the heart of London, a beach outside of São Paulo, or a quiet village near Florence, the choice is yours. Every few months we travel to meet up somewhere in the world and spend some quality time together. We place a huge amount of trust in our people, and we measure the outcomes rather than the work itself. Our values fuel our results.<br><br>
 </div><div>
-<strong>.NET Developer <br></strong><br>
-</div><div>
-<strong>Reference Number: NET1021<br></strong><br>
-</div><div>
-<strong> <br></strong><br>
-</div><div><strong>The Role: </strong></div><div><strong> </strong></div><div>As a .Net Developer you will join our full-stack team to help us deliver high quality code for new and existing projects. </div><div>
-<br> Your main focus will be the development of backend-services using C#  .NET (full framework, .NET Core, .NET5) and supporting application delivery to multiple environments on the direction of CI/CD.</div><div><em> </em></div><div><strong>The main responsibilities of the position include:</strong></div><div><strong> </strong></div><ul>
-<li>Full stack design and the implementation of key internal web applications</li>
-<li>Identify, troubleshoot and debug defects in designated application code</li>
-<li>Write reusable, testable, clean and documented code, utilising prescribed coding conventions</li>
-<li>Follow test driven development, continuous integration and agile methodologies</li>
-<li>Participate in peer code reviews</li>
-</ul><div> </div><div>
-<strong>Main requirements:<br></strong><br>
-</div><ul>
-<li>BS/MS degree in Computer Science, Engineering, or a related subject</li>
-<li>At least 2 years of experience in Microsoft .NET (full framework, .NET Core)</li>
-<li>Proficiency in object-oriented programming (C#) and web concepts (Http, MVC, REST, OAuth)</li>
-<li>A strong background in relational database theory and excellent knowledge of Relational Databases (Postgres, MySQL, SQL server, Oracle)</li>
-<li>Familiarity with front-end web technologies and frameworks (AngularJS, ReactJs, etc.) </li>
-<li>Knowledge of and an active interest in Design Patterns and SOLID architecture principles</li>
-<li>Excellent problem solving and troubleshooting skills</li>
-<li>Outstanding communication and interpersonal skills</li>
-<li>Dynamic and target oriented</li>
-</ul><div><br></div><div><br></div><div>
-<strong>The following will be considered an advantage: <br></strong><br>
-</div><ul>
-<li>Familiarity with CI/CD process (Jenkins, Kubernetes)</li>
-<li>Experience developing with microservices (Docker)</li>
-<li>Experience with asynchronous pub-sub message bus architectures such as RabbitMQ or equivalent.</li>
-</ul><div><br></div><div> </div><div>
-<strong>You will benefit from:<br></strong><br>
-</div><ul>
-<li>An attractive remuneration package </li>
-<li>Private health insurance </li>
-<li>Intellectually stimulating work environment</li>
-<li>Continuous personal development and international training opportunities</li>
-</ul><div>Type of employment: Full time<br><br>
-</div><div>Location: Athens, Cyprus or remote work<br><br>
-</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position.</div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div><div> <br><br>
-</div><div> <br><br>
-</div><div><br></div><div><br></div>
+<strong>The Role<br></strong><br>
+</div><div>As a Backend Developer, you will be taking ownership of one or more domains of our product and will work closely with other developers and product designers in lean ways using cutting-edge technologies powering highly-available RESTful services and back-end systems.</div><div>
+<br>The main technologies you will be working with are Go, PostgreSQL, REST, JSON and Google Cloud Infrastructure.<br><br>Even though you can work whenever you want on your tasks, our team meetings can happen between 11:00 to 15:00 UTC. You need to be willing and available to attend these meetings when they happen.</div><div>
+<br>Your main responsibilities will be:</div><ul>
+<li>developing and maintaining backend services such as API's, reports, payments, and operations tools that manage our product worldwide</li>
+<li>working with product managers and designers day to day to bring more value to Toggl’s users, covering customer-facing web and native applications and public APIs</li>
+<li>completing small to medium features independently and in collaboration with frontend developers</li>
+<li>resolving most technical issues autonomously and designing well-organized code</li>
+<li>driving assigned requests to improve the codebase, such as migrating it to modern frameworks and adding missing tests</li>
+</ul><div>
+<strong><br>About you<br></strong><br>
+</div><div>We would love to hear from you if you are passionate about technology and you are experienced with or willing to learn to program in Go.</div><div>
+<br>In particular, we are looking for:</div><ul>
+<li>Strong backend engineering experience in any language</li>
+<li>Passion for cross-discipline collaboration and problem-solving</li>
+<li>Eagerness to learn new skills, and take ownership of your work</li>
+</ul><div>Bonus points for:</div><ul>
+<li>Experience with our main technologies: Go, PostgreSQL, REST, JSON and/or Google Cloud Infrastructure</li>
+<li>Experience with software engineering best practices (e.g. unit testing, code reviews, design documentation)</li>
+<li>Experience with system architecture, particularly at scale</li>
+<li>Experience with Ruby, Elixir, noSQL databases</li>
+</ul><div><br></div><div><strong>Benefits</strong></div><ul>
+<li>Freedom to choose where and when you work</li>
+<li>24 days of paid time off a year, plus your local holidays</li>
+<li>In-person meetups for team-building (expenses covered)</li>
+<li>Laptop and a €2,000 budget to set up your home office</li>
+<li>Reimbursement for co-working space membership or internet service at home</li>
+<li>€4,000 contribution to use for training, workshops, and conferences</li>
+<li>€2,000 contribution for any physical or mental health service-related</li>
+<li>Support for buying tools you need for doing your best work (even eyeglasses if you need a new pair)</li>
+</ul><div><br></div><div>
+<br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-net-developer-2">https://weworkremotely.com/remote-jobs/xm-net-developer-2</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toggl-backend-developer-5">https://weworkremotely.com/remote-jobs/toggl-backend-developer-5</a></p>
 
                 </details>
                 </td>
@@ -394,7 +389,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -471,7 +466,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -518,7 +513,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255729" align="right" target="_blank">Apply</a>
@@ -543,7 +538,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255704" align="right" target="_blank">Apply</a>
@@ -568,7 +563,7 @@
                     <code>developer,rails,ruby,growth</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1255730" align="right" target="_blank">Apply</a>
@@ -593,7 +588,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1255725" align="right" target="_blank">Apply</a>
@@ -618,7 +613,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1255719" align="right" target="_blank">Apply</a>
@@ -643,7 +638,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1255718" align="right" target="_blank">Apply</a>
@@ -668,7 +663,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1255721" align="right" target="_blank">Apply</a>
@@ -693,7 +688,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
