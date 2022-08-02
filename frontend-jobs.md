@@ -11,7 +11,7 @@
                     <code>crypto, nft, investment</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111782" align="right" target="_blank">Apply</a>
@@ -35,7 +35,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/gohiring-senior-frontend-engineer-react-js" align="right" target="_blank">Apply</a>
@@ -104,7 +104,7 @@
                     <code>cloud,docker,frontend,graphql</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-engineer-1260508" align="right" target="_blank">Apply</a>
@@ -115,65 +115,6 @@
                 <details><summary>Description</summary>
                 <p style="margin-bottom: 1.2em;"><span style="font-weight: bolder;">About: </span></p><p style="margin-bottom: 1.2em;"><span style="color: var(--remotive-chocolate);">At </span><a href="https://slab.com/" rel="nofollow" style="background-color: rgb(255, 255, 255); color: rgb(12, 147, 228); text-decoration: underline;">Slab</a><span style="color: var(--remotive-chocolate);">, we believe that knowledge is the foundation of any organization’s success. When a team’s collective knowledge is accessible, that team’s potential is limitless. That’s why we’re making the workplace a source of learning and purpose through knowledge-sharing. Our product helps teams easily create, organize, and discover knowledge across the entire company, from non-technical to tech-savvy. Thousands of customers rely on Slab across their entire workforces, including Asana, Benchling, and Fivetran.</span></p><p style="margin-top: 1.2em; margin-bottom: 1.2em;">As a small product-focused company, you’ll join a team of experienced engineers, working on shipping features that delight users, fixing issues that get in their way while keeping our codebase, infrastructure, and tooling modern and well-maintained. We are globally distributed, with processes that minimize meetings and overhead, letting makers build on the maker’s schedule.</p><p class="h3" id="technologies-we-use" style="margin-top: 1.8em; margin-bottom: 1.8em; line-height: 1.33;">Technologies we use</p><p class="h3" id="technologies-we-use" style="margin-top: 1.8em; margin-bottom: 1.8em; line-height: 1.33;"></p><ul><li><span style="color: var(--remotive-chocolate); ">React + TypeScript + Sass</span></li><li><span style="color: var(--remotive-chocolate); ">GraphQL + Apollo + Absinthe</span></li><li><span style="color: var(--remotive-chocolate); ">Elixir + Phoenix</span></li><li><span style="color: var(--remotive-chocolate); ">Postgres + Redis</span></li><li><span style="color: var(--remotive-chocolate); ">Docker + Kubernetes</span></li><li><span style="color: var(--remotive-chocolate); ">Google Cloud Platform</span></li></ul><p class="h3" id="sound-like-you" style="margin-top: 1.8em; margin-bottom: 1.8em; line-height: 1.33;">Sound like you?</p><p class="h3" id="sound-like-you" style="margin-top: 1.8em; margin-bottom: 1.8em; line-height: 1.33;"></p><ul><li><span style="color: var(--remotive-chocolate); ">You have a strong technical background, with experience solving complex engineering challenges</span></li><li><span style="color: var(--remotive-chocolate); ">You love delighting users with great product experiences and resolving issues that get in their way</span></li><li><span style="color: var(--remotive-chocolate); ">You’re curious to learn and demonstrate the ability to do so very quickly</span></li><li><span style="color: var(--remotive-chocolate); ">You communicate with clearly and concisely, whether with teammates or users</span></li><li><span style="color: var(--remotive-chocolate); ">You are self-motivated and possess a strong work ethic</span></li><li><span style="color: var(--remotive-chocolate); ">You are passionate about knowledge-sharing and identify with Slab’s mission and values</span></li></ul><p class="h3" id="what-we-value" style="margin-top: 1.8em; margin-bottom: 1.8em; line-height: 1.33;">What we value:</p><p class="h3" id="what-we-value" style="margin-top: 1.8em; margin-bottom: 1.8em; line-height: 1.33;"></p><ul><li><span style="color: var(--remotive-chocolate);  font-weight: bolder;">Stay lean</span><span style="color: var(--remotive-chocolate); "> - We strive for the greatest possible impact with the fewest number of employees. We empower our teammates with the most leveraged tools and efficient processes.</span></li><li><span style="color: var(--remotive-chocolate);  font-weight: bolder;">Default to open</span><span style="color: var(--remotive-chocolate); "> - We encourage and nurture open exchanges of knowledge and ideas — while acting with respect and regard for each other.</span></li><li><span style="color: var(--remotive-chocolate);  font-weight: bolder;">Think rigorously</span><span style="color: var(--remotive-chocolate); "> - We act and execute after careful thought and examination of known information, while acknowledging the risks we accept in its absence.</span></li><li><span style="color: var(--remotive-chocolate);  font-weight: bolder;">Say no</span><span style="color: var(--remotive-chocolate); "> - We aim to deliver exceptionally high value in a small set of focus areas. We willingly abstain from good ideas to give only the most promising paths the attention they deserve.</span></li><li><span style="color: var(--remotive-chocolate);  font-weight: bolder;">The best prevails</span><span style="color: var(--remotive-chocolate); "> - Whether an idea or an individual, the best will rise to the top at Slab. Ideas we pursue can come from anywhere, and individuals gain responsibilities due to outperformance.</span></li><li><span style="color: var(--remotive-chocolate);  font-weight: bolder;">Global optimization</span><span style="color: var(--remotive-chocolate); "> - We believe that our mission — to make the workplace a source of learning and purpose — is the ultimate priority, above any single project, team, or individual.</span></li></ul><p class="h3" id="benefits" style="margin-top: 1.8em; margin-bottom: 1.8em; line-height: 1.33;">Benefits:</p><p class="h3" id="benefits" style="margin-top: 1.8em; margin-bottom: 1.8em; line-height: 1.33;"></p><ul><li><span style="color: var(--remotive-chocolate); ">Full health insurance (USA) or stipend (International)</span></li><li><span style="color: var(--remotive-chocolate); ">Wellness &amp; remote work stipends</span></li><li><span style="color: var(--remotive-chocolate); ">$5k workspace setup, renewed biannually</span></li><li><span style="color: var(--remotive-chocolate); ">7-year options exercise window</span></li></ul><p style="margin-top: 1.2em; margin-bottom: 1.2em;"><em>Slab is an equal opportunity employer. We welcome people of diverse backgrounds, experiences, and perspectives.</em></p>
 <img src="https://remotive.com/job/track/1260508/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1298859/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SportyBet</h5>
-                    <h3>Frontend Engineer </h3>
-                </td>
-                <td width="300">
-                    <code>AWS,backend,education,frontend</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/frontend-engineer-1298859" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><span style="-webkit-font-smoothing: antialiased;">Sporty's sites are some of the most popular on the internet, consistently staying in Alexa's list of top websites for the countries they operate in.</span></p>
- 
-<p>In this role, you’ll be responsible for developing mobile-first, responsive front ends that are used millions of times per day. We wrote our frontend from scratch in VueJS about 3 years ago, so you’ll be working with the latest technology instead of wrangling with decades-old spaghetti code. </p>
- 
-<p>A willingness to work in VueJS is fine - as long as you are willing to learn and have demonstrable experience in a similar frontend framework.</p>
- 
-<p>We are hiring at both Mid and Senior level</p>
- 
-<p><span style="-webkit-font-smoothing: antialiased;"><strong>Our Stack </strong>(we don't expect you to have all of these)<br><br></span></p>
-<ul>
-<li><span style="color: var(--remotive-chocolate);">Vue + Vuex + Vue Router + Webpack + Less + SCSS</span></li>
-<li><span style="color: var(--remotive-chocolate);">Element UI</span></li>
-<li><span style="color: var(--remotive-chocolate);">FreeMarker</span></li>
-<li><span style="color: var(--remotive-chocolate);">AWS, Circle, Drone CI, K8s</span></li>
-</ul>
-<p><strong><br>Responsibilities<br><br></strong></p>
-<ul>
-<li><span style="color: var(--remotive-chocolate);">Develop mobile-first frontends in VueJS</span></li>
-<li><span style="color: var(--remotive-chocolate);">Focus on performance and user experience</span></li>
-<li><span style="color: var(--remotive-chocolate);">Create frontends for the backend management systems</span></li>
-<li><span style="color: var(--remotive-chocolate);">Participate in code reviews with peers and managers to ensure that each increment adheres to original vision as described in the user story and all standard resource libraries and architecture patterns as appropriate</span></li>
-<li><span style="color: var(--remotive-chocolate);">Participate in team ceremonies including planning, grooming, product demonstrations, and team retrospectives</span></li>
-<li><span style="color: var(--remotive-chocolate);">Mentoring less experienced team members</span></li>
-</ul>
- 
-<p><strong>Requirements<br><br></strong></p>
-<ul>
-<li><span style="color: var(--remotive-chocolate);">Familiarity with at least one: Vue, React, Angular</span></li>
-<li><span style="color: var(--remotive-chocolate);">Familiarity with Git, ES6, Webpack, Less or Sass, and NodeJS</span></li>
-<li><span style="color: var(--remotive-chocolate);">Familiarity with state management like Vuex, Redux, Ngrx</span></li>
-<li><span style="color: var(--remotive-chocolate);">Excellent communication skills </span></li>
-<li><span style="color: var(--remotive-chocolate);">Knowledge of backend stack is a plus</span></li>
-</ul>
-<span style="-webkit-font-smoothing: antialiased;"><strong><br></strong></span><p><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Interview Process<br><br></span></p><ul><li>HackerRank Test </li><li>Remote interview with 2 Engineers + Lead or Director</li><li>24-72 hour feedback loops throughout process <br><br></li></ul><p><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Benefits<br><br></span></p><span style="-webkit-font-smoothing: antialiased;"></span><ul><li><span style="color: var(--remotive-chocolate);">Quarterly and flash bonuses</span></li><li><span style="color: var(--remotive-chocolate);">Flexible working hours</span></li><li><span style="color: var(--remotive-chocolate);">Top-of-the-line equipment</span></li><li><span style="color: var(--remotive-chocolate);">Education allowance</span></li><li><span style="color: var(--remotive-chocolate);">Referral bonuses</span></li><li><span style="color: var(--remotive-chocolate);">28 days paid annual leave</span></li><li><span style="color: var(--remotive-chocolate);">Annual Global and Team company retreats - Lisbon &amp; Dubai are planned for 2022!</span></li><li><span style="color: var(--remotive-chocolate);">Highly talented, dependable co-workers in a global, multicultural organisation</span></li><li><span style="color: var(--remotive-chocolate);">We score 100% on The Joel Test</span></li><li><span style="color: var(--remotive-chocolate);">Our teams are small enough for you to be impactful</span></li><li><span style="color: var(--remotive-chocolate);">Our business is globally established and successful, offering stability and security to our Team Members</span></li></ul><ul>
-</ul>
-<img src="https://remotive.com/job/track/1298859/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
