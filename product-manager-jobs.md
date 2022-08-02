@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>68 days ago</text>
+                <text>69 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/credit-repair-cloud-product-manager-3" align="right" target="_blank">Apply</a>
@@ -82,7 +82,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>68 days ago</text>
+                <text>69 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chorus-one-product-manager-node-as-a-service" align="right" target="_blank">Apply</a>
@@ -159,7 +159,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>185 days ago</text>
+                <text>186 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/buildbook-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -243,94 +243,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/buildbook-senior-product-manager">https://weworkremotely.com/remote-jobs/buildbook-senior-product-manager</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1252116/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Octane11</h5>
-                    <h3>Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>cloud,looker,marketing,oracle</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-manager-1252116" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="min-height: 1.5em;">Octane11 is a B2B-focused analytics and collaboration platform that connects paid, owned, and earned marketing, sales, and product usage data to real business results. We believe data is the fuel that drives business - and Octane11 is the missing ingredient that makes B2B data work even harder. Octane11 was launched in 2019 in partnership with Oracle Data Cloud, LiveRamp, MediaMath, Bombora, and Intersection, and is already helping some of the largest B2B enterprises break down data silos and turn every digital interaction into an actionable insight. We are growing quickly and seeking enthusiastic, creative and intelligent teammates to join us.</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>The Role</strong></p>
-<p style="min-height: 1.5em;">We are looking for a smart, organized, self-motivated Product Manager to join our growing product team. You will be working directly with the Head of Product and Operations and other Product team members, engineers, designers, and other stakeholders in a highly collaborative manner to lead the build out of an innovative analytics and collaboration platform. We’re serious about good product management practices, including product discovery and data-driven decision making. This is an outstanding opportunity to be a high-impact contributor on a fast-growing, entrepreneurial team with unlimited potential for learning, responsibility, and career development.</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Responsibilities</strong></p>
-<ul style="min-height: 1.5em;">
-<li>
-<p style="min-height: 1.5em;">Practice continuous product discovery, regularly gathering feedback from software users and incorporating that feedback into the software strategy and designs</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Work closely with Head of Product and Operations and other Product team members to develop the product vision and roadmap and define success metrics</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Work closely with UX Designers to reimagine the front end of our tool</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Work closely with Software Engineers to deliver on the product vision and roadmap</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Facilitate the sprint process, including sprint planning, sprint review, standups, and retrospective</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Write user stories and manage the product backlog</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Develop and manage a backlog of product opportunities or initiatives</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Most importantly, help develop a culture and team that seeks to make our clients heroes!</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>About You</strong></p>
-<ul style="min-height: 1.5em;">
-<li>
-<p style="min-height: 1.5em;">You care about users and have a passion for solving problems.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">You are a self-motivated individual contributor and great teammate with the ability to multi-task, prioritize and communicate progress in a rapidly changing environment.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">You are a good communicator who values building strong relationships with colleagues and stakeholders.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">You have 4+ years of experience in product management.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">You have experience with B2B</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Extras</strong></p>
-<p style="min-height: 1.5em;">Here are some extras that could make you the ideal candidate:</p>
-<ul style="min-height: 1.5em;">
-<li>
-<p style="min-height: 1.5em;">Experience with AdTech, MarTech and Enterprise Sales use cases.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Experience with data visualization products (Google Data Studio, Looker, Tableau, etc)</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">If you are an experienced product manager interested in making a high business impact, learning and growing, we want to hear from you!</p>
-<img src="https://remotive.com/job/track/1252116/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
