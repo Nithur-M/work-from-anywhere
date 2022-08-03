@@ -10,7 +10,7 @@
                     <code>Sales and Marketing</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vidalytics-marketing-project-manager" align="right" target="_blank">Apply</a>
@@ -137,7 +137,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/cloudlinux-project-manager-remote-1" align="right" target="_blank">Apply</a>
@@ -184,7 +184,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>158 days ago</text>
+                <text>159 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/coldsmoke-creative-senior-ecommerce-project-manager-for-shopify-plus-agency" align="right" target="_blank">Apply</a>
