@@ -11,7 +11,7 @@
                     <code>exec, backend, data</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111854" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>saas, python, backend</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111744" align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/gravity-forms-backend-software-engineer" align="right" target="_blank">Apply</a>
