@@ -1,5 +1,30 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteOK.com/assets/img/jobs/5e42d294704832311d87c3e5c3327ef01659341207.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Mojob</h5>
+                    <h3>
+					Full Stack Developer				</h3>
+                </td>
+                <td width="300">
+                    <code>django, vue js, typescript</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/111869" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><h2>About the job</h2></div><div class="mt-5"><p>We are a growing SAAS company built on the latest technology within Mobile, WEB, and Machine Learning. We are looking for a full-time developer who has experience developing the backend and frontend of web apps.</p><p>Join our team and develop a world-class recruitment automation platform.</p><p><br /></p><p><strong>Tech stack:</strong></p><p>We are currently using Django as our backend framework, TypeScript+Vue on our web apps, and Flutter on our mobile apps. We deploy our services using Kubernetes.</p><p>We are not a static product and we always look to improve our tech stack. If you have experience using the different frameworks, you are more than welcome to apply.</p><p><br /></p><p><strong>Responsibilities:</strong></p><p>Make outcome-based architectural and design decisions</p><p>Writing endpoints to be consumed by frontend</p><p>Developing user-facing applications using Vue.js</p><p>Building modular and reusable components and libraries</p><p>Optimizing applications for performance</p><p>Staying up-to-date with recent developments in the JavaScript/TypeScript and Vue.js space</p><p>Coordinate with other team members, including CTO and the Product Manager</p><p><br /></p><p><strong>Skills we are looking for:<br /><br /></strong></p><p>Experience working with RESTful APIs (Django, Node+Express etc)</p><p>Experience working with Vue or similar frameworks</p><p>Proficiency with modern development tools like Docker, Git,Â Vue CLI, andÂ WebPack</p><p>Understanding of common data structures</p><p>Upper-intermediate level ofÂ spoken and written English</p><p>High level of autonomy and outcome ownership</p><p>Commitment to team collaboration and a quality product is crucial.</p><p>You are intelligent and learn quickly. Absolutely no one at Mojob winds up only doing whatâs in their job description, and adaptability is essential.</p><p><br /></p><p><strong>Will be a plus (but not required):</strong></p><p>Experience with AWS and Google Cloud Platform</p><p>Some experience with Flutter</p><p>Some experience with ElasticSearch or Algolia</p><p>Some experience with Kubernetes</p><p>Understanding of Machine Learning</p><p>Understanding of Norwegian or any other Scandinavian language</p><p><br /></p><p><strong>We offer:</strong></p><p>Being a part of the product team with a flat organization structure</p><p>Working from anywhere you want</p><p>Competitive salary</p><p>An exceptional amount of freedom</p><p>High level of accountability</p><p>Support of learning and personal development</p><p>Loose vacation policy</p></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteOK.com/assets/img/jobs/301e7710332642f5edb97867604c2ea11658563605.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -11,7 +36,7 @@
                     <code>javascript, node, express</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111761" align="right" target="_blank">Apply</a>
@@ -36,7 +61,7 @@
                     <code>devrel, ml, pytorch</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111756" align="right" target="_blank">Apply</a>
@@ -61,7 +86,7 @@
                     <code>dev, typescript, api</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111749" align="right" target="_blank">Apply</a>
@@ -86,7 +111,7 @@
                     <code>mobile, react native, crypto</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111723" align="right" target="_blank">Apply</a>
@@ -111,7 +136,7 @@
                     <code>javascript, react, node</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111721" align="right" target="_blank">Apply</a>
@@ -125,153 +150,69 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5766/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>HICX</h5>
-                    <h3> Java Selenium Developer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/hicx-java-selenium-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/5766/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Bengaluru, Karnataka, India
-    <br /><strong>URL:</strong> <a href="https://www.hicx.com/">https://www.hicx.com/</a>
-</p>
-
-<p>HICX is a leading worldwide provider of enterprise SaaS solutions for digital supplier management. <a href="https://hicx-solutions.breezy.hr/" class="external">Learn more about HICX</a></p>
-<p>We are looking to expand our team by adding a highly capable and motivated Java developer to help us maintain and grow our automated testing capabilities. You will be part of a fast-growing team working closely with the Engineering, Quality, DevOps, and Support departments.</p>
-<p>HICX has its own in-house built System Testing platform, based on Java (swing UI) and Selenium. The name of this tool is Talos.<br>Talos consumes test-case definition scripts which are maintained and constantly updated by the Quality Team. These are essentially sets of commands combined with test data, which Talos reads and executes with a browser of choice to interact with our SaaS product and, enter data, carry out modifications and assert against the expected state.<br>You will be coding in JAVA and Javascript to update those commands, as new functionality is introduced in the system or a user-interface change breaks it.<br>Furthermore, you will be writing code for new commands that will be executing more complex and effective assertions, empowering the Quality team to use them in their scripts and as a result increase our coverage and our confidence in the system.</p>
-<p>Apart from the user-controlled mode, Talos also support fully automated Test-Cycles and reporting triggered from new deployments (these are set up by the DevOps team as part of the CI/CD pipelines).<br>You will be maintaining/enhancing this functionality, by making sure Talos can continue execution, recovering from a failed step (to the extent possible), so that all the test cases defined can run fully on auto-pilot, without any human interaction.</p>
-<p>The successful candidate will strengthen our existing platform and help establish and maintain a robust fully automated test workflow that can identify issues as soon as they are introduced in the codebase before they reach the customer in production.</p>
-<p>You will have a lot of support from several technical and operations teams/departments and you'll get to make a big positive impact on a key focus area for one of the fastest-growing and most innovative companies in the sector.</p>
-<p><strong>Key Responsibilities:</strong></p>
-<ul> <li>Maintaining the code of our Selenium-based in-house automated testing platform.</li> <li>Creating new commands to cover more system functionality and assertions</li> <li>Making sure the Automated testing platform runs the full Test-Suite as part of the standard CI/CD pipelines</li> <li>Working closely with the Quality Assurance team, making sure they can write the test cases for the Automated Testing tool and that they can use it to execute System Testing cycles efficiently.</li> </ul>
-<p><br></p>
-<p><strong>Requirements</strong></p>
-<ul> <li>Proven working experience with full-stack Java development.</li> <li>Hands-on experience with Selenium Browser Automation</li> <li>Good understanding and experience with web technologies - HMTL, Javascript, CSS, REST APIs</li> <li>Experience with GIT</li> <li>Determined and resilient, with a good sense of ownership</li> <li>Good analytical skills and a methodical approach to problem-solving</li> <li>Degree Qualified (Technology related)</li> <li>Proven experience of working in a similar technical IT role</li> <li>Knowledge of Java Swing is a plus (optional)</li> <li>Knowledge of XPath is a plus (optional)</li> </ul>
-<p><strong>Benefits</strong></p>
-<ul> <li>Work from anywhere - we are a fully remote company and we never place restrictions on locations.</li> <li>Flexible PTO - We offer 25 days of paid holiday per year + 3 Public Holidays.</li> <li>Connect and socialize with the team during our company socials and off-site events. </li> <li>We celebrate special occasions with you - like your birthday! Additional PTO for all employees during their birthdays. </li> <li>Receive Competitive Pay - Our team makes sure to provide a highly competitive rate based on your skills and location.</li> <li>Work with a diverse, international team.</li> <li>Tons of amazing career opportunities in a fast-growing in-demand industry. </li> </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/hicx-java-selenium-developer">https://weworkremotely.com/remote-jobs/hicx-java-selenium-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/8312/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>XM</h5>
-                    <h3> iOS Developer – Cyprus, Greece or Remote</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/8312/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Cyprus
-    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
-</p>
-
-<div>
-<strong>Reference Number: iOS1021<br></strong><br>
-</div><div><br></div><div>
-<strong>The Role: <br></strong><br>
-</div><div>We are looking for an iOS Developer with a passion for pushing mobile technologies to the limits and is willing to work with our team of talented engineers to develop Company’s enterprise suite of iOS applications.<br><br>
-</div><div> </div><div>
-<strong>The main responsibilities of the position include:<br></strong><br>
-</div><div>·        Be part of the development of company's complex mobile application (challenging requirements such as security, live updates and complex business rules)</div><div>·        Emphasis on code quality delivery: unit and snapshot testing, UI testing</div><div>·        Follow continuous integration and Agile Methods; read and submit merge requests</div><div>·        Invest in multiple areas of the mobile development cycle: CI/CD, app health monitoring and alerting, data-driven analysis</div><div>·        Present ideas for system improvements and help to shape the future of our company</div><div>·        Continuously monitor and improve application, reliability and performance optimisation</div><div>·        Participate in design sprints when building new features or products<br><br>
-</div><div> </div><div>
-<strong>Main requirements:<br></strong><br>
-</div><div>·        BSc/MSc in Computer Science, Engineering, or any other relevant degree</div><div>·        2+ years of experience on iOS development (Swift and the iOS SDK, Xcode, Apple Human Interface Guidelines)</div><div>·        Passion for mobile applications and a keen interest on personal development </div><div>·        Solid understanding of the full mobile development life cycle</div><div>·        Have successfully published at least one iOS application to App Store (portfolio of apps on App Store)  </div><div>·        A keen interest in benchmarking and optimisation</div><div>·        Showcase of open-source projects and technical blogs will be considered as a plus</div><div>·        Proactive, sharp, efficient and organised</div><div>·        Excellent team working skills</div><div> </div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>Benefit from:<br></strong><br>
-</div><div>·        Attractive remuneration package</div><div>·        Intellectually stimulating work environment</div><div>·        Continuous personal development and international training opportunities</div><div>
-<br> <br><br>
-</div><div>
-<br>Type of employment: Full time<br><br>
-</div><div>Location: Cyprus, Greece or Remote<br><br>
-</div><div> </div><div>
-<br>Please visit this linkhttps://www.xm.com/careers/ios1021 to submit your online application for this position.<br><br>
-</div><div>
-<strong><br>All applications will be treated with strict confidentiality!<br></strong><br>
-</div><div> </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-3">https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-3</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5572/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>LateNiteSoft S.L.</h5>
-                    <h3> iOS Developer</h3>
+                    <h5>The Bridge Social</h5>
+                    <h3> Golang Developer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/latenitesoft-s-l-ios-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/listings/the-bridge-social-golang-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/5572/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> Madrid, Spain
-    <br /><strong>URL:</strong> <a href="https://latenitesoft.com">https://latenitesoft.com</a>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://lapieza.io/szJbzNuG6eSguLTBN3KUYzJLKOO2">https://lapieza.io/szJbzNuG6eSguLTBN3KUYzJLKOO2</a>
 </p>
 
-<div>We are looking for a person who is passionate about iOS app development, who enjoys creating and learning, someone who has attention to detail, who enjoys writing beautiful, efficient and well-structured code and is happy working in a team of similar people.<br><br>
-</div><div>We organize ourselves into small, autonomous teams that are as self-sufficient and independent as possible. You will be helping develop the next version of Camera+, one of the most successful apps in the history of the App Store. You will also work on new or existing products with the potential to become major hits in their own right.</div><div><br></div><div>We require that you have experience with:</div><ul>
-<li>2+ years of experience in iOS development</li>
-<li>Proficiency in Swift programming</li>
-<li>Experience writing efficient, responsive and easy to understand code</li>
-<li>Knowledge of Apple’s design principles and interface guidelines</li>
-<li>Complete fluency in English</li>
-<li>The ability to work full-time (40 hours/week)</li>
-</ul><div>A published app in the App Store would be a great letter of introduction.</div><div>
-<br>The ideal candidate would also have knowledge about Photography, Filmmaking, Machine Learning and Core ML, Metal, Core Image, AVFoundation. <br><br>
-</div><div>We will also value knowledge about SwiftUI, Objective-C, Instruments, Core Data, Core Media, Core Video, Core Text, Image I/O, Swift Package Manager, Swift Async/Await, StoreKit, Combine, Python and Figma.<br><br>
-</div><div>We offer:</div><ul>
-<li>Competitive compensation</li>
-<li>Working from home</li>
-<li>The ability to contribute to successful products enjoyed by millions</li>
-</ul>
+<p class="ql-align-center"><strong>Somos The Bridge</strong></p><p>The Bridge es la red de profesionales digitales más grande de LATAM con más de 230 mil rockstars. Startups, scale-ups, grandes empresas y consultorías de todo el mundo trabajan con nosotros para conseguir los proyectos más desafiantes e impactantes. ¿Estás listo para participar en el desafío?</p><p> </p><p>🔧 La Posición</p><p>Estamos buscando al próximo cambio de juego que se una al equipo como<strong> Senior Golang Developer</strong> ¿Eres un nómada digital? Pues este rol fue hecho para ti, <strong>puedes estar ubicado en cualquier parte de LATAM </strong>y disfrutar al 100% de la flexibilidad que esto implica.</p><p><br></p><p>Buscamos una persona altamente capacitada, impulsada por una misión, con un impulso y un entusiasmo ilimitados por la transformación digital.</p><p><br></p><p>🚀 Acerca del proyecto</p><ul><li>Como Senior Golang Developer buscamos a una persona que pueda adueñarse de un producto y liderar a un equipo de desarrollo con enfoque de entregables en base a sprints. Trabajarás con los founders y jefe de ingeniería/CTO para, en conjunto, desarrollar especificaciones de nuestros clientes. Crearás nuevos micro servicios y mejorarás la capa de micro servicios actual, con el objetivo de entregar mejores requerimientos a nuestros clientes y/o producto.</li></ul><p> </p><p>🤸‍♀️ ¿Quién eres?</p><ul>
+<li>Tienes <strong>+2 años</strong> de experiencia co<strong>n GO</strong>
+</li>
+<li>Eres super Pro en el <strong>Desarrollo de Microservicios</strong>
+</li>
+<li>Tienes experiencia con <strong>AWS</strong> (Lambda, CodePipeline, Cloudwatch, ECS Fargate, API Gateway)</li>
+<li>Experiencia en<strong> Docker</strong>
+</li>
+<li>Experiencia de<strong> base de datos</strong> (Postgresql, Elasticsearch)</li>
+<li>Experiencia en <strong>herramientas de monitoreo</strong>
+</li>
+<li>Experiencia en <strong>patrones de diseño y arquitectura</strong> (e.g DDD, Service Mesh, API Gateway, CQRS, Arquitectura basada en eventos, arquitectura de mensajería)</li>
+<li>Eres un desarrollador que brinda <strong>valor agregado</strong>, de manera <strong>Agile</strong>.</li>
+<li>Tienes <strong>atención </strong>y <strong>cuidado </strong>al <strong>detalle</strong>.</li>
+<li>Posees conceptualización y diseño de<strong> servicios descentralizados</strong>
+</li>
+<li><br></li>
+</ul><p>🎁 Nuestros Beneficios para Ti</p><ul>
+<li>Salario competitivo, ¡trabajas en un entorno digital! 💰</li>
+<li>¡El trabajo es 100% remoto! Para que disfrutes de la flexibilidad de un nómada digital 💻</li>
+<li>Cultura de trabajo divertida, inclusiva y transparente. ¡Esto es muy importante para nosotros como bridgers!</li>
+<li>¿Ventajas? Toneladas, es una gran pregunta para la entrevista 💥</li>
+<li>Proyectos de alto impacto garantizados 🚀</li>
+<li>Equipos multiculturales e interculturales, de alto potencial como el tuyo✅</li>
+<li>Semanas extras de vacaciones pagas 🏝️⛰️</li>
+<li>Bono por telefonía móvil e internet 🌐</li>
+<li>Vale por pedidos de comida🍲</li>
+<li>Actividades de integración mensuales 🤼</li>
+<li><br></li>
+</ul><p>🌈 Nuestra postura</p><ul>
+<li>Apoyamos entornos multiculturales. Para nosotros, lo más importante son tus valores y el conocimiento y el potencial que tienes.</li>
+<li>Apoyamos al 100% a todos los géneros, etnias, religiones, habilidades y talentos, la diversidad nos permite desarrollar grandes proyectos.</li>
+<li>¡Nos preocupamos por ti, serás parte de nuestra familia!</li>
+<li><br></li>
+</ul><p>NOTA: Somos conscientes de tu tiempo, ¡el proceso irá tan rápido mientras estés comprometido!</p><p>¡Estamos ansiosos por conocerte! 🥳</p><p><br></p>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/latenitesoft-s-l-ios-developer">https://weworkremotely.com/remote-jobs/latenitesoft-s-l-ios-developer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/the-bridge-social-golang-developer">https://weworkremotely.com/remote-jobs/the-bridge-social-golang-developer</a></p>
 
                 </details>
                 </td>
@@ -287,7 +228,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/infinite-capital-senior-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -362,7 +303,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
@@ -419,7 +360,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>181 days ago</text>
+                <text>182 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-backend-developer-5" align="right" target="_blank">Apply</a>
@@ -492,7 +433,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>270 days ago</text>
+                <text>271 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-blockchain-developer" align="right" target="_blank">Apply</a>
@@ -527,6 +468,85 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/3489/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OpenCraft</h5>
+                    <h3> Senior Open Source Developer & DevOps (Python, Django, React, AWS/OpenStack)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>630 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0017/3489/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Fully remote company (worldwide, incorporated in Berlin)
+    <br /><strong>URL:</strong> <a href="https://opencraft.com/">https://opencraft.com/</a>
+</p>
+
+<div>Do you care about contributing to open-source, and appreciate a good challenge? We do too! :) <br><br>
+</div><div>
+<strong>Open-source<br></strong><br>
+</div><div>We are a team of veteran open-source developers, working on educational and community-based projects in an<a href="https://handbook.opencraft.com/en/latest/open_first/"> open-first</a> environment – and we are looking for new members. By joining us, you will work full-time on open-source, pushing your changes to free software projects upstream through pull requests, contributing features, documentation, or help on public forums. </div><div>
+<br>We care deeply about contributing our work upstream. You will see the results of your work reused and recognized across the educational community, increasing access to quality education for everyone, everywhere.</div><div>
+<br><strong>Remote-first</strong>
+</div><div>
+<br>Unlike companies who reluctantly started to accept remote workers recently, we have embraced it from day 1. For the past 7 years, we have based and refined our way of working around remote-friendly workflows, from the ground up. No day-long video meetings, mandatory work hours, or risk of being forced back into an office one day -- as long as you have a good internet connection, it’s none of our business when or where you work from. :)</div><div>
+<br>We are all working remotely, from all continents (except Antarctica, at least so far - applicants welcome!). We use remote-friendly and timezone-agnostic workflows based on asynchronous principles and good documentation practices.</div><div>
+<br><strong>Online education<br></strong><br>
+</div><div>We are one of the main contributors to the <a href="https://open.edx.org/">Open edX project</a>, the main open-source MOOC platform created by MIT, Harvard and many other top universities. It powers sites like <a href="https://www.edx.org/">edX.org</a>, the <a href="https://openlearning.mit.edu/courses-programs/open-learning-library">MIT Open Learning Library</a>, and the <a href="https://www.fun-mooc.fr/">national online learning platform for France</a>. We provide development and hosting for institutions like <a href="https://onlinelearning.hms.harvard.edu/hmx/">Harvard Medical School</a>, <a href="https://www.labxchange.org">Harvard LabXchange</a>, <a href="https://ondemand.cloudera.com">Cloudera</a>, <a href="https://www.upskill.autodesk.com">Autodesk</a>, and several governments. We are not affiliated with <a href="https://www.edx.org/">edX.org</a>, but we contribute and work with them on various projects. </div><div>
+<br><strong>Technical stack</strong><br><br>
+</div><div>The Open edX project is a large Python/Django codebase, with good code standards and architecture. Tasks are varied, from developing core platform features, custom exercises and tools for specific courses (XBlocks), customizing and deploying instances, working full-stack, operating our service infrastructure, improving our hosting platform, etc. You won't get bored here.<br><br>
+</div><div>
+<strong>Contracting terms<br></strong><br>
+</div><div>This is a full-time, permanent contract position. We aim for long-term relationships -- once in, almost all team members stay for many years. </div><div><br></div><div>We care about paying fairly: </div><ul>
+<li>Team members set their own compensation level, which is paid based on hours worked (no unpaid overtime!). </li>
+<li>When determining your rate, we will expect you to factor in benefits (vacation, healthcare, purchase budgets, etc.) - the idea is to let <em>you</em> pick the benefits that are useful to you, rather than offer one-size-fits-all packages that aren’t always very valuable.</li>
+<li>We also proactively apply generous raises team-wide, based on the company results at the end of each year. <a href="https://handbook.opencraft.com/en/latest/team_compensation/">See the details about how we approach compensation in our handbook</a>.</li>
+</ul><div>We also firmly believe in work-life balance: as long as you deliver what you commit to, there is a lot of latitude in how much work you can choose to accept. We are open to time commitments anywhere in the 30h to 40h/week range, and highly discourage working more than that. It’s important to have time to ourselves, as well as having some slack, and there are diminishing returns in working more anyway. We are currently recruiting precisely to preserve that balance, and ensure we have plenty of capacity to handle our projects.</div><div><br></div><div>We welcome applicants of all genders and ethnicities.</div><div>
+<br><strong>Basic Requirements:</strong>
+</div><ul>
+<li>Experience with contributing to free software projects - small contributions are completely fine, but you <em>must</em> have at least one patch or pull request merged in a third-party project, or been a maintainer of an open source project with significant adoption. (Note that you can contribute now to satisfy this requirement - see for example the <a href="https://github.com/openedx/build-test-release-wg/projects/1">Open edX release issues</a>, fixing one of these issues guarantees an interview.)</li>
+<li>Senior developer with 3+ years working with Python</li>
+<li>Experience with Python web frameworks, specifically Django</li>
+<li>3+ years of HTML, Javascript, and CSS (experience with React and/or Typescript is a big plus!)</li>
+<li>Experience with unit testing</li>
+<li>Comfortable working in a Linux environment, specifically Debian or Ubuntu</li>
+<li>Experience with databases: MySQL, MongoDB, PostgreSQL</li>
+</ul><div>
+<strong>Additional Skills:</strong><br><br>
+</div><div>You will work on tasks from the following categories, but you can pick up the skills on the job if you haven't mastered these yet:</div><ul>
+<li>DevOps experience, especially on Debian/Ubuntu servers, Terraform, Vault, Packer, Prometheus, ELK, Docker. We are building a modern infrastructure and having a strong DevOps presence on top of core software engineering skills is a big plus with us.</li>
+<li>Cloud computing, like AWS or OpenStack</li>
+<li>Configuration management tools such as Ansible, Consul</li>
+<li>RabbitMQ, Redis &amp; Elasticsearch</li>
+<li>Mobile development (iOS and/or Android)</li>
+<li>Managing clients &amp; projects from beginning to completion (senior developer)</li>
+<li>Public speaking at conferences (you would present a talk every year at the Open edX Con)</li>
+</ul><div>
+<br><strong>Apply for this Position</strong><br><br>
+</div><div>Our recruitment process differs from most other companies - we don’t believe resumes and the traditional interviews to be particularly effective. Often, they tell more about how good someone is at interviewing, rather than at the actual work. So, our initial interview is lighter and easier to pass than in other companies - but we then provide you with real (and paid!) work to see how it works out in reality.</div><ul>
+<li>Step 1: You apply by filling out this form: <a href="https://opencraft.com/jobs/open-source-developer/">https://opencraft.com/jobs/open-source-developer/</a> </li>
+<li>Step 2: We do two interviews with candidates matching the requirements listed above. The first interview includes a (simple) coding exercise.</li>
+<li>Step 3: If this works out, we hire you! We start with a 2 months <a href="https://handbook.opencraft.com/en/latest/processes/#recruitment">trial period</a>, which allows both you and the rest of the team to fully evaluate how we work together, and is followed by a final review and confirmation. </li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack">https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -537,7 +557,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -614,7 +634,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -661,7 +681,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255729" align="right" target="_blank">Apply</a>
@@ -686,7 +706,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255704" align="right" target="_blank">Apply</a>
@@ -711,7 +731,7 @@
                     <code>developer,rails,ruby,growth</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1255730" align="right" target="_blank">Apply</a>
@@ -736,7 +756,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1255725" align="right" target="_blank">Apply</a>
@@ -761,7 +781,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1255719" align="right" target="_blank">Apply</a>
@@ -786,7 +806,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1255718" align="right" target="_blank">Apply</a>
@@ -811,7 +831,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1255721" align="right" target="_blank">Apply</a>
@@ -836,7 +856,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
