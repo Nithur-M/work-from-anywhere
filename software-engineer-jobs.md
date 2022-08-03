@@ -1,5 +1,30 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteOK.com/assets/img/jobs/0364d447967a1c0f5b5b238e6f9fe1cd1659397594.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>AssemblyAI</h5>
+                    <h3>
+					Software Engineer Python				</h3>
+                </td>
+                <td width="300">
+                    <code>python, aws, scalability</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/111871" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro"><p><strong>AssemblyAI is an AI company - we build powerful models to transcribe and understand audio data, exposed through simple APIs.</strong></p><p>Hundreds of companies, and thousands of developers, use our APIs to both transcribe and understand millions of videos, podcasts, phone calls, and zoom meetings every day. Our APIs power innovative products like conversational intelligence platforms, zoom meeting summarizers, content moderation, and automatic closed captioning.</p><p><strong>Weâve been growing at breakneck speed, and are backed by leading investors including Y Combinatorâs AI Fund, Patrick and John Collision (Founders of Stripe), Nat Friedman (Former CEO of GitHub), and Daniel Gross (Entrepreneur &amp; Investor in companies including GitHub, Uber, Coinbase, SpaceX, Instacart, Notion, and Cruise Automation).</strong></p><p>AssemblyAIâs Speech-to-Text APIs are already trusted by Fortune 500s, startups, and thousands of developers around the world,Â <strong>with well-known customers including Spotify, Algolia, Dow Jones, The Wall Street Journal, and NBCUniversal.</strong>Â As part of a huge and emerging market, AssemblyAI is well on its way to becoming the leader in speech recognition and NLP.</p><p><strong>Join our world-class, remote team and help us build an iconic deep learning company.</strong></p><h2><strong>Our Team</strong></h2><p><strong>We are a fully remote team made up of problem solvers, innovators and top AI researchers with 20+ years of experience in Machine Learning, Speech Recognition, and NLP from places like DeepMind, Google, Meta, Amazon, Apple, and Cisco.</strong>Â Our culture is super collaborative, low-ego, transparent, and fast-paced. We want to win - and have a flat organization where everyone can openly share ideas (regardless of their title or position) in order to get the best idea.</p><p>As a remote company, our team members are given a lot of trust and autonomy to work where and how they want. We look for people to join our team who are ambitious, curious, and self-motivated, and we put a lot of trust and autonomy into everyone on our team.Â <strong>We want to empower everyone to do their best work with whatever tools, structures, or resources they need to perform at their highest potential.</strong></p></div><h2><strong>The Role</strong></h2><p class="p1">We're looking for a senior backend engineer with strong software and cloud engineering skills. You'll help us build highly scalable developer-centric APIs and backend systems powered by state-of-the-art ML models. Some of your responsibilities will include:</p><ul class="ul1"><li class="li2">Build new API features and endpoints</li><li class="li2">Build automated test suites and CI/CD pipelines</li><li class="li2">Build highly scalable event-driven and realtime systems</li><li class="li2">Instrument systems with metrics, tracing, and logging</li><li class="li2">Refactor applications to eliminate tech debt</li><li class="li2">Troubleshoot production issues</li></ul><h2><strong>You'll love this job if you....</strong></h2><ul><li class="li2">Enjoy solving complex technical problems, even when there is no perfect solution.</li><li class="li2">Enjoy being in a fast-paced, customer-facing role.</li><li class="li2">Thrive in small, cross-functional teams. We like to wear many hats here!</li><li class="li3">You're excited to tackle big technical challenges like building highly scalable architectures and achieving zero-downtime deploys.</li></ul><h2><strong>Requirements</strong></h2><div class="styles--2kg4_"><ul class="ul1"><li class="li2">2+ years of experience working with Python</li><li class="li2">2+ years of working with SQL and NoSQL databases</li><li class="li2">2+ working with Python backend frameworks like Django, Flask, or Tornado</li><li class="li2">2+ years developing REST APIs</li><li class="li2">2+ years working with common AWS services</li><li class="li2">2+ years of production support experience</li><li class="li2">Startup or FAANG-type experience - Has worked at a startup or high growth company</li><li class="li3">Deep AWS knowledge - Has many years of experience solutioning within AWS</li><li class="li2">Strong Python coding abilities - Can pass difficult programming challenges in a relatively short period of time. Can speak clearly about their thinking throughout these challenges. Can speak to O-notation of algorithms. Has excellent knowledge of common python idioms and libraries.</li><li class="li2">Leadership experience - Has led large projects and/or teams towards a big goal with success</li><li class="li2">High scalability experience - Has been a tech leader on scaling systems to hundreds of millions of requests/events per day. Has experience with hyper-observability, scaling algorithms, and using production data to drive system changes</li></ul><h2><strong>Skills</strong><br /></h2><ul class="ul1"><li class="li2">Amazing system design chops - When given a hard problem to solve with a new system, they can quickly shape an effective design and communicate its strengths, weaknesses, and tradeoffs.</li><li class="li2">High-octane thinking - Engages deeply on subjects of expertise. Thinks ahead many steps and can see where decisions are likely to lead. Their brains compute at a very high level.</li><li class="li2">Extremely creative - Can find both novel and effective solutions within highly constrained time and resources</li><li class="li2">Fast learner - Has shown they can ramp up on difficult topics very fast</li><li class="li2">Exceptional gut instincts - Can practically feel when something is right or wrong. Can use these instincts to quickly point themselves in the right direction.</li><li class="li1">Opinionated - They have convictions in what they believe and can communicate their position clearly without drama.</li></ul><h2><strong>Nice to Have</strong></h2><div class="styles--2kg4_"><ul><li>Machine learning experience - Has worked with machine learning models at scale</li><li>Experience integrating and deploying ML models into production</li></ul></div></div><div class="content-conclusion"><h2><strong>Benefits (US)</strong></h2><ul><li>Competitive Salary + Bonus</li><li>Equity</li><li>100% Remote team</li><li>Unlimited PTO</li><li>Premium Healthcare (100% Covered for you + dependents)</li><li>Vision &amp; Dental Care</li><li>$1K budget for your home office setup</li><li>New Macbook Pro (or PC if you prefer)</li><li>3-4x/year company paid team retreat</li></ul></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/718745fb0c965d45747d24f72125f0661658592009.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -11,7 +36,7 @@
                     <code>java, senior, marketing</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111767" align="right" target="_blank">Apply</a>
@@ -36,7 +61,7 @@
                     <code>lead, senior, health</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111746" align="right" target="_blank">Apply</a>
@@ -53,17 +78,17 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Draft.dev</h5>
-                    <h3> Software Engineering Content Writer</h3>
+                    <h5>Chainlink Labs</h5>
+                    <h3> Sr. Software Engineer/Data Engineer - Golang/Kafka</h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>62 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/draft-dev-software-engineering-content-writer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-sr-software-engineer-data-engineer-golang-kafka" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -72,25 +97,145 @@
                 
 
 <p>
-  <strong>Headquarters:</strong> USA
-    <br /><strong>URL:</strong> <a href="https://draft.dev/">https://draft.dev/</a>
+  <strong>Headquarters:</strong> United States
+    <br /><strong>URL:</strong> <a href="https://chainlinklabs.com/careers">https://chainlinklabs.com/careers</a>
 </p>
 
-<div>
-<br>If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics on the side, this will be a great part-time role for you!<br><br>
-</div><div>
-<br>We are specifically looking for developers with experience in the following areas:</div><ol>
-<li>Kubernetes</li>
-<li>Machine Learning</li>
-<li>Data Engineering</li>
-<li>Event Streaming</li>
-<li>Site Reliability Engineering</li>
-<li>DevSecOps</li>
-</ol><div>Draft.dev’s writers create technical blog posts and tutorials for clients in a wide range of industries and areas of technology. Writer pay starts at $315 per ~1500-word article and goes up as you complete more assignments.<br><br>
-</div><div>This is a great side hustle as almost all our 200+ writers are full-time developers with a background in software engineering, data engineering, machine learning, product management, or similar.<br><br>
-</div><div>Because we create content that will be read by a wide range of readers around the world, we are committed to supporting diversity in our writers (we currently have writers in over 50 countries). If you have any of the skills listed above and you’ve written at least 3 blog posts in the past, <a href="https://draft.dev/write">please apply</a>!</div>
+<div>As a senior software engineer working on Chainlink, you’ll collaborate with the company’s CTO, CEO, and an experienced technical team of other senior engineers, distributed systems computing experts and security experts, who are all committed to building world changing decentralized infrastructure.</div><div><br></div><div>You’ll develop and build highly scalable, secure, and reliable software that will change the way smart contracts function at a fundamental level. You’ll have the opportunity to learn and master the latest research concerning distributed systems, cryptography, blockchains, game theory, consensus algorithms, and decentralized applications.</div><div><br></div><div>You will be given a high level of autonomy/ownership over your projects, the opportunity to expand your scope of knowledge, and the chance to help build the decentralized infrastructure of the future. </div><div>
+<strong><br>Your Impact<br></strong><br>
+</div><ul>
+<li>Designing and implementing new features within the product such as trust minimized off-chain computation, cryptocurrency staking, the aggregation of external data in various blockchain environments, and many more problems</li>
+<li>Thinking creatively about attack vectors, possible failures, and disaster scenarios, modeling them in reproducible test environments, and developing fixes</li>
+<li>Modeling and developing recovery behaviors within our core node software</li>
+<li>Managing the architectural vision for new subsystems in the core Chainlink node</li>
+<li>Implementing resilient distributed systems to achieve extremely high reliability in a variety of blockchain environments</li>
+</ul><div>
+<strong><br>Requirements<br></strong><br>
+</div><ul>
+<li>5+ years of professional software development</li>
+<li>B.S. or higher in computer science, software engineering or related technical field</li>
+<li>Deep experience with Golang</li>
+<li>Expert in distributed computing</li>
+<li>Experience with test-driven development and the use of testing frameworks</li>
+<li>Experience developing complex web applications/services and backend APIs</li>
+<li>Knowledge of systems design concepts</li>
+<li>Strong communication skills, specifically giving/receiving constructive feedback in a collaborative setting</li>
+</ul><div><br></div><div><strong>Our Stack</strong></div><div>Golang, TypeScript, Solidity, Postgres, Terraform, AWS, Kafka</div><div><br></div><div><br></div><div><strong>Our Principles</strong></div><div><br></div><div>At Chainlink Labs, we’re committed to the key operating principles of ownership, focus, and open dialogue. We practice complete ownership, where everyone goes the extra mile to own outcomes into success. We understand that unflinching focus is a superpower and is how we channel our activity into technological achievements for the benefit of our entire ecosystem. We embrace open dialogue and critical feedback to arrive at an accurate and truthful picture of reality that promotes both personal and organizational growth.</div><div><br></div><div><strong>About Chainlink Labs</strong></div><div><br></div><div>Chainlink is the industry standard oracle network for connecting smart contracts to the real world. With Chainlink, developers can build hybrid smart contracts that combine on-chain code with an extensive collection of secure off-chain services powered by Decentralized Oracle Networks. Managed by a global, decentralized community of hundreds of thousands of people, Chainlink is introducing a fairer model for contracts. Its network currently secures billions of dollars in value for smart contracts across the decentralized finance (DeFi), insurance, and gaming ecosystems, among others. The full vision of the Chainlink Network can be found in the <a href="https://research.chain.link/whitepaper-v2.pdf">Chainlink 2.0 whitepaper</a>. Chainlink is trusted by hundreds of organizations—from global enterprises to projects at the forefront of the blockchain economy—to deliver definitive truth via secure, reliable data.  </div><div><br></div><div>This role is location agnostic anywhere in the world, but we ask that you overlap some working hours with Eastern Standard Time (EST).</div><div><br></div><div>We are a fully distributed team and have the tools and benefits to support you in your remote work environment.</div><div><br></div><div><em>Chainlink Labs is an Equal Opportunity Employer.</em></div><div><br></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/draft-dev-software-engineering-content-writer">https://weworkremotely.com/remote-jobs/draft-dev-software-engineering-content-writer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-sr-software-engineer-data-engineer-golang-kafka">https://weworkremotely.com/remote-jobs/chainlink-labs-sr-software-engineer-data-engineer-golang-kafka</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Chainlink Labs</h5>
+                    <h3> Senior Software Engineer, Blockchain Integrations</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>150 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-blockchain-integrations-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://chainlinklabs.com/">https://chainlinklabs.com/</a>
+</p>
+
+<div>Chainlink Labs seeks to power smart contracts on all blockchain ecosystems. We believe in a multi-blockchain universe, where users are able to leverage the strengths of different blockchains for their particular needs.</div><div>As a senior software engineer on the <strong>Blockchain Integrations </strong>team, you will own the integrations of upcoming blockchains into the Chainlink platform, working directly and building relations with the founding engineers while gaining expertise in each new innovative ecosystem. You will be the driving force behind building this critical infrastructure for cross-chain connectivity while working with a globally distributed team. You will mentor more junior engineers, and report to the engineering lead on the team.</div><div>
+<strong><br>Your Impact<br></strong><br>
+</div><ul>
+<li>Own the end to end integration of new cutting edge blockchains to the Chainlink platform to allow for the exponential growth of the network, from viability research to chain-specific node development, token bridging, deployments, monitoring, tooling, and testing</li>
+<li>Work directly with leadership, developers, users, and the community - integration projects are highly collaborative</li>
+<li>Work closely with node operators to connect their Chainlink nodes to new blockchains</li>
+<li>Architect and design components / service layers to sustainability scale as the number of blockchains we support grows significantly</li>
+<li>Actively participate in leveling the team’s engineering bar, increasing the velocity of the team and the reliability and security of the product. </li>
+</ul><div>
+<strong><br>Requirements<br></strong><br>
+</div><ul>
+<li>5+ years of professional engineering experience working in a collaborative product-driven environment</li>
+<li>Successful experience designing, building, and scaling a production service</li>
+<li>Experience owning multi month-long projects, including communication of progress, dependencies, and risk mitigation directly with stakeholders and partners</li>
+<li>Computer science fundamentals and systems design</li>
+<li>Ability to be creative and resourceful when tackling ambiguous technical challenges</li>
+</ul><div>
+<strong><br>Desired Qualifications<br></strong><br>
+</div><ul>
+<li>Experience in Golang, Rust, TypesScript, Solidity, Postgres, Terraform, AWS</li>
+<li>Experience in blockchain and other Web 3.0 technologies, as a web3 developer and/or as a backend service developer</li>
+<li>Experience in building distributed systems</li>
+<li>Experience contributing to the open source community</li>
+<li>Experience working with a team located across multiple time zones</li>
+</ul><div><br></div><div><strong>Our Stack</strong></div><div>Golang, TypeScript, Solidity, Postgres, Terraform, AWS</div><div><br></div><div><br></div><div><strong>Our Principles</strong></div><div><br></div><div>At Chainlink Labs, we’re committed to the key operating principles of ownership, focus, and open dialogue. We practice complete ownership, where everyone goes the extra mile to own outcomes into success. We understand that unflinching focus is a superpower and is how we channel our activity into technological achievements for the benefit of our entire ecosystem. We embrace open dialogue and critical feedback to arrive at an accurate and truthful picture of reality that promotes both personal and organizational growth.</div><div><br></div><div><strong>About Chainlink Labs</strong></div><div><br></div><div>Chainlink is the industry standard oracle network for connecting smart contracts to the real world. With Chainlink, developers can build hybrid smart contracts that combine on-chain code with an extensive collection of secure off-chain services powered by Decentralized Oracle Networks. Managed by a global, decentralized community of hundreds of thousands of people, Chainlink is introducing a fairer model for contracts. Its network currently secures billions of dollars in value for smart contracts across the decentralized finance (DeFi), insurance, and gaming ecosystems, among others. The full vision of the Chainlink Network can be found in the <a href="https://research.chain.link/whitepaper-v2.pdf">Chainlink 2.0 whitepaper</a>. Chainlink is trusted by hundreds of organizations—from global enterprises to projects at the forefront of the blockchain economy—to deliver definitive truth via secure, reliable data.  </div><div><br></div><div>This role is location agnostic anywhere in the world, but we ask that you overlap some working hours with Eastern Standard Time (EST).</div><div><br></div><div>We are a fully distributed team and have the tools and benefits to support you in your remote work environment.</div><div><br></div><div><em>Chainlink Labs is an Equal Opportunity Employer.</em></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-blockchain-integrations-1">https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-blockchain-integrations-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Chainlink Labs</h5>
+                    <h3> Senior Software Engineer, Golang</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>150 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-golang-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://chainlinklabs.com/">https://chainlinklabs.com/</a>
+</p>
+
+<div>As a senior software engineer working on Chainlink, you’ll collaborate with the company’s CTO, CEO, and an experienced technical team of other senior engineers, distributed systems computing experts and security experts, who are all committed to building world changing decentralized infrastructure. You’ll develop and build highly scalable, secure, and reliable software that will change the way smart contracts function at a fundamental level. You’ll have the opportunity to learn and master the latest research concerning distributed systems, cryptography, blockchains, game theory, consensus algorithms, and decentralized applications. You will be given a high level of autonomy/ownership over your projects, the opportunity to expand your scope of knowledge, and the chance to help build the decentralized infrastructure of the future. <br><br>
+</div><div>
+<strong><br>Your Impact<br></strong><br>
+</div><ul>
+<li>Designing and implementing new features within the product such as trust minimized off-chain computation, cryptocurrency staking, the aggregation of external data in various blockchain environments, and many more problems</li>
+<li>Thinking creatively about attack vectors, possible failures, and disaster scenarios, modeling them in reproducible test environments, and developing fixes</li>
+<li>Modeling and developing recovery behaviors within our core node software</li>
+<li>Managing the architectural vision for new subsystems in the core Chainlink node</li>
+<li>Implementing resilient distributed systems to achieve extremely high reliability in a variety of blockchain environments</li>
+</ul><div>
+<strong><br>Requirements<br></strong><br>
+</div><ul>
+<li>5+ years of professional software development</li>
+<li>B.S. or higher in computer science, software engineering or related technical field</li>
+<li>Experience with test-driven development and the use of testing frameworks</li>
+<li>Experience developing complex web applications/services and backend APIs</li>
+<li>Knowledge of systems design concepts</li>
+<li>Experience with distributed systems and/or container orchestration</li>
+<li>Strong communication skills, specifically giving/receiving constructive feedback in a collaborative setting</li>
+</ul><div><br></div><div><strong>Our Stack</strong></div><div>Golang, TypeScript, Solidity, Postgres, Terraform, AWS</div><div>
+<br><br>
+</div><div><strong>Our Principles</strong></div><div><br></div><div>At Chainlink Labs, we’re committed to the key operating principles of ownership, focus, and open dialogue. We practice complete ownership, where everyone goes the extra mile to own outcomes into success. We understand that unflinching focus is a superpower and is how we channel our activity into technological achievements for the benefit of our entire ecosystem. We embrace open dialogue and critical feedback to arrive at an accurate and truthful picture of reality that promotes both personal and organizational growth.</div><div><br></div><div><strong>About Chainlink Labs</strong></div><div><br></div><div>Chainlink is the industry standard oracle network for connecting smart contracts to the real world. With Chainlink, developers can build hybrid smart contracts that combine on-chain code with an extensive collection of secure off-chain services powered by Decentralized Oracle Networks. Managed by a global, decentralized community of hundreds of thousands of people, Chainlink is introducing a fairer model for contracts. Its network currently secures billions of dollars in value for smart contracts across the decentralized finance (DeFi), insurance, and gaming ecosystems, among others. The full vision of the Chainlink Network can be found in the <a href="https://research.chain.link/whitepaper-v2.pdf">Chainlink 2.0 whitepaper</a>. Chainlink is trusted by hundreds of organizations—from global enterprises to projects at the forefront of the blockchain economy—to deliver definitive truth via secure, reliable data.  </div><div><br></div><div>This role is location agnostic anywhere in the world, but we ask that you overlap some working hours with Eastern Standard Time (EST).</div><div><br></div><div>We are a fully distributed team and have the tools and benefits to support you in your remote work environment.</div><div><br></div><div><em>Chainlink Labs is an Equal Opportunity Employer.</em></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-golang-2">https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-golang-2</a></p>
 
                 </details>
                 </td>
@@ -106,7 +251,7 @@
                     <code>backend,developer,git,go</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-go-software-engineer-1305612" align="right" target="_blank">Apply</a>
@@ -211,7 +356,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -279,7 +424,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
