@@ -11,7 +11,7 @@
                     <code>javascript, react, node</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111720" align="right" target="_blank">Apply</a>
@@ -21,6 +21,89 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects</p><h4>What we're working on:</h4><p>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries</p><h4>Requirements</h4><ul><li>7+ years of professional experience (A technical assessment will be required)</li><li>Senior-level experience in the front-end (React) and back-end (Node, Express, Mongo, SQL)</li><li>Ability to create clean, modern, testable, well-documented code</li><li>English fluency, verbal and written</li><li>Professional, empathic, team player</li><li>Problem solver, proactive, go-getter</li></ul><h4>Straight from the Devs</h4><p>Watch short snippets of actual developers (Real, not scripted) share why they joinedÂ <a href="https://cleverte.ch/3">YouTube Playlist</a></p><h4>Why Clevertech is an amazing place to work at</h4><p>At Clevertech, you can expect that you will:</p><ul><li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li><li>Be a part of a team of talented and friendly senior-level developers</li><li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li></ul><p>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.<br /><br /></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1339259/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Confiant</h5>
+                    <h3>Full Stack Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>ADS,AWS,backend,C++</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-1339259" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><em>Founded in 2013, Confiant is the cybersecurity leader at protecting people from malicious ads online. We are ridding the digital world of malvertising with every bad ad we detect. Our first-of-its-kind technology makes it easy to see, block, and replace the unwanted ads that threaten people online, hurt brand's reputation, and impact publisher's revenue and resources. Confiant operates as a remote-first company, with half our team working from home in the NYC region and the rest of our team members living worldwide.</em></p>
+<p> </p>
+<p><strong>Role</strong></p>
+<p>Confiant is hiring a Full Stack Engineer to support the continued expansion of our architecture. In this position, you will be responsible for building new features, supporting iterations on existing ones, as well as coming up with and implementing solutions to continue to scale our applications as our business continues on its rapid growth trajectory. Confiant was founded in New York, New York and is fully remote with team members worldwide.</p>
+<p> </p>
+<p><strong>About the Team</strong></p>
+<p>We are a small engineering team that works with bi-weekly sprints, fast code reviews and continuous deployments to answer our clients’ needs. Our tech stack evolves quickly to manage our growing scale and tackle the challenges we take on as a company. We look forward to welcoming new members to our team!</p>
+<p> </p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>Develop solutions to support the growing scale of our enterprise solution</li>
+<li>Build features that span through the full range of our applications and services</li>
+<li>Work closely with our product team and with your peers to design, develop and support web applications, APIs or backend services</li>
+<li>Write clean, well-documented code</li>
+<li>Write unit tests against your code, to be used in our CI workflow</li>
+</ul>
+<p> </p>
+<p><strong><strong>Requirements</strong></strong></p>
+<ul>
+<li>Extensive professional experience developing large scale web applications with Python and Javascript (NodeJS + CommonJS)</li>
+<li>Experience working on high-scale web applications</li>
+<li>In-depth knowledge of object-oriented or functional programming</li>
+<li>Experience writing unit tests and integration tests to help maintain or improve our code coverage</li>
+</ul>
+<p> </p>
+<p><strong>Nice To Haves</strong></p>
+<ul>
+<li>Experience with PHP</li>
+<li>Experience with C++</li>
+<li>Experience with MySQL and/or PostgreSQL data modeling and query optimization</li>
+<li>Experience with Redis or similar in-memory store</li>
+<li>Experience with Chromium/CEF, Puppeteer and/or TAXII/Stix </li>
+<li>Experience with containerization (specifically Docker) would be a plus</li>
+<li>Experience with terraform or other infrastructure-through-code implementation would be a plus</li>
+<li>Comfortable with basic Linux server administration tasks</li>
+<li>Exposure to the AWS ecosystem (EC2, RDS, VPCs, networking…)</li>
+<li>A college degree in Computer Science (or comparable)</li>
+</ul>
+<p> </p>
+<p><strong><strong>Benefits</strong></strong></p>
+<ul>
+<li>Fully Remote &amp; Distributed</li>
+<li>Competitive Salary</li>
+<li>Stock Option Plan</li>
+<li>Health Care Plan (Medical, Dental &amp; Vision)</li>
+<li>Mental Health Benefits</li>
+<li>Healthcare &amp; Childcare FSA</li>
+<li>Commuter Benefits</li>
+<li>Employee Sponsored Disability &amp; Life Insurance</li>
+<li>401(k) Plan with Employer Contribution</li>
+<li>Enhanced and Extended Family Leave</li>
+<li>Unlimited Paid Time Off</li>
+<li>Sabbatical</li>
+<li>Flexible Working Hours</li>
+</ul>
+<p><em>Confiant is committed to diversity and inclusivity. We recruit, employ, train, compensate and promote without regard to race, color, national origin, religion, sex, disability, age, citizenship status, genetic information or any other protected classes.</em></p>
+<p><em>We strongly encourage women, members of the BIPOC community, members of the LGBTQIA+ community, people with disabilities and people who are neurodivergent to apply.</em></p>
+<p><em>To learn more about us, please visit <a href="http://www.confiant.com" rel="nofollow">www.confiant.com</a></em></p>
+<p> </p>
+<img src="https://remotive.com/job/track/1339259/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +118,7 @@
                     <code>developer,javascript,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-customer-solutions-team-1224255" align="right" target="_blank">Apply</a>
