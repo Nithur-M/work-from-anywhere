@@ -1,5 +1,30 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteOK.com/assets/img/jobs/e184d581d726195dfa821db4b8a3098c1659440694.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Levity AI</h5>
+                    <h3>
+					DevOps Engineer				</h3>
+                </td>
+                <td width="300">
+                    <code>dev, devops, infrastructure</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/111879" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>About Levity ð§ââï¸</strong></p><p><br /></p><p>Levity is a well-funded, early-stage software startup on a mission: We give users the simplest AI development experience in the world and let them automate mindless, repetitive work that can currently only be performed by humans.</p><p><br /></p><p>We believe that AI offers tremendous benefits for all kinds of companies and that its use will become inevitable to succeed in global, competitive markets. With our platform, we allow innovators to build custom AI solutions, based on their company-specific data and use cases, without the need to write a single line of code. Our ambition is to build a best-in-class product to scale the Product-Led Growth SaaS company that Levity is.</p><p><br /></p><p><br /></p><p><strong>The role ð¯</strong></p><p><br /></p><p>We are looking for an experienced DevOps Engineer to help us grow the organization throughout our next phase of growth. You'll be taking over key responsibilities in our engineering team to bring our product development to the next level. We will work together on building critical infrastructure and implementing best practices throughout the development process. We're looking forward to working with someone who is highly motivated, comfortable in a fast-paced start-up environment and is happy to work with a remote team.</p><p><br /></p><p><br /></p><p><strong>Your challenge ð¥</strong></p><p><br /></p><ul><li>Implementing DevOps best practices across the company (CI/CD, automated testing, etc.)</li><li>Collaborating with the development team on improving workflows for productivity and security (building and maintaining new tools and processes)</li><li>Ensuring security and reliability of our production systems</li><li>Building and maintaining monitoring infrastructure</li><li>Work on any initiative you feel passionate about - especially if it moves the needle for our product and/or development efforts<br /></li></ul><p><br /></p><p><br /></p><p><strong>Sounds like you? ð</strong></p><p><br /></p><ul><li>You bring along about 2-3 years experience in a DevOps or a similar role</li><li>You have deep expertise with Terraform, CloudFormation or similar tools</li><li>You have the ability to work cross-functionally and closely collaborate with engineering teams</li><li>You have experience in deploying complex, cloud-native software and optimizing build processes</li><li>You have previous experience with scripting languages for dev tooling and automation (Bash, Python)</li><li>You have excellent communication skills and the willingness to share and teach</li><li>You have the ability to deal with the fast pace and ambiguity of a startup. Things change and sometimes you need to develop expertise as you go.<br /></li></ul><p><br /></p><p><br /></p><p><strong>Perks ð®</strong></p><p><br /></p><ul><li>Competitive salary + equity package</li><li>High-end equipment of your choice</li><li>Beautiful and central Berlin office</li><li>Paid offsites/workations twice a year</li><li>Ownership from day 1</li><li>Dynamic team and flat hierarchies</li></ul><p><br /></p><p><br /></p><p><strong>Why Levity? ð</strong></p><p><br /></p><p>We are a highly ambitious team, trying to put a dent in the universe.</p><p><br /></p><p>Since we are still a small team, the fate of the company rests on the shoulders of everyone â from Intern to CEO. People are able to work on projects that excite them the most and are able to wear lots of hats.</p><p><br /></p><p>Levity was founded in Berlin, but asÂ aÂ remote-first company, our team works together from all over the world. With that mindset, we're building an inclusive workplace that invites diverse perspectives, and values talent from diverse personal and professional backgrounds.</p><p>Sounds like a good fit?Â Join us on our mission to democratize AI powered workflow automation - we look forward to hearing from you!</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +35,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>62 days ago</text>
+                <text>63 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-devops-engineer-1" align="right" target="_blank">Apply</a>
@@ -66,7 +91,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1255728" align="right" target="_blank">Apply</a>
