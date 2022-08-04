@@ -1,5 +1,193 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5904/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TestGorilla</h5>
+                    <h3> Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-product-manager-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0077/5904/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Amsterdam
+    <br /><strong>URL:</strong> <a href="https://www.testgorilla.com/">https://www.testgorilla.com/</a>
+</p>
+
+<div>Hi,</div><div><br></div><div>I’m Michel, the Head of Product at TestGorilla. We’re a fast-growing <a href="https://www.testgorilla.com/">HR tech startup</a> that helps teams make better hiring decisions faster and bias-free.</div><div><br></div><div>Over the past year, we’ve experienced tremendous growth. More than 5,700 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way. </div><div><br></div><div>As we scale our efforts in 2022 and beyond, we’re looking for a <strong>Senior Product Manager </strong>who’s passionate about building amazing product experiences and helping people land dream jobs. </div><div>
+<br><br>
+</div><h1><strong>What’s in it for you?</strong></h1><ul>
+<li>Helping shape a fast-growing HR tech startup as an early employee</li>
+<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
+<li>Competitive salary + Share appreciation rights (SARs)</li>
+<li>Flexible hours and vacation</li>
+<li>Paid parental leave </li>
+<li>Remote working budget: €1,000 per year</li>
+<li>Learning and development budget: 3.5% of salary</li>
+</ul><div><br></div><h1>The job in a nutshell</h1><div>As a<strong> Senior Product Manager,</strong> you’ll be responsible for creating and shipping products that help hundreds of thousands of users around the world land their dream job. <br><br>
+</div><div>Together with a cross-functional team, you’ll take ownership of translating our product vision and strategy into a roadmap, ensure seamless product delivery and drive feedback loops on what has been shipped. <br><br>
+</div><div>Your goal is to give our customers and their candidates the best experience possible out there! This is an amazing opportunity for a product manager that is looking to embark on an entrepreneurial journey and is ready to put a dent in the universe! </div><div><br></div><div><br></div><h1><strong>You’ll spend time on the following:</strong></h1><ul>
+<li>Define a vision, strategy and roadmap that drives maximum impact for your area of the customer and candidate experience. </li>
+<li>
+<a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/product-owner-test/">Drive product execution</a>: gather requirements, define functionality, set goals, deliver with your team against these goals, resolve quality issues.</li>
+<li>Work with cross-functional stakeholders (Customer Success, Sales, Marketing, etc.). to factor their requirements into product decisions.</li>
+<li>Talk to users on a regular basis: our customers that create assessments as well as candidates taking the assessment.</li>
+<li>Leverage data and user insights to create solutions that satisfy and solve user needs.</li>
+<li>Create clear and thoughtful documentation that can easily be understood and used by both technical and non-technical stakeholders.</li>
+<li>Ensure UX and product-led growth is at the heart of what we build.</li>
+<li>Gain a broader understanding of trends in the HR and HR-tech vertical that impact product development.</li>
+<li>Work in a collaborative, talented distributed team across the globe.<br><br>
+</li>
+</ul><div> </div><h1><strong>Here's what we are looking for:</strong></h1><ul>
+<li>You are inspired by our mission to put <em>one billion people in dream jobs</em>
+</li>
+<li>You are fully aligned with our <a href="https://www.testgorilla.com/careers/">values </a>
+</li>
+<li>You have a track record of shipping and scaling high quality products that effectively service the needs of both customers and the business.</li>
+<li>You have creative and innovative problem solving skills and feel comfortable engaging in detailed conversations about strategy and product design with both non-technical and technical audiences.</li>
+<li>You are data driven and use that skill to drive strategic decisions for the product you are working on. Making sure we tackle the biggest opportunities in the most effective way.</li>
+<li>You’re able to think big, but start small. You can establish a north star for your product while maintaining an agile mindset towards getting there.</li>
+<li>You have a user-first mindset. You’re passionate about understanding their needs and continuously improving their experience.</li>
+<li>You have strong collaboration and relationship building skills that allow you to build cross-functional relationships.</li>
+<li>You have excellent communication skills (both written and verbal) and attention to detail. </li>
+<li>You are comfortable with ambiguity and thrive in the fast paced environment of an early-stage startup that is operating remotely around the globe.</li>
+</ul><div>We typically expect candidates with at least <strong><em>5 years of Senior Product Management experience</em></strong> to have the skills mentioned above.<br><br>
+</div><div> </div><h1><strong>Bonus points if…</strong></h1><ul>
+<li>You have experience working in a high growth product-led startup.</li>
+<li>You have domain experience working in HR-tech and/or SaaS.</li>
+<li>You have led detailed short-term product roadmaps while keeping the longer term vision intact.</li>
+<li>You have strong experience with UI/UX design, and you are passionate about design and creating beautiful products.</li>
+</ul><div>
+<br><br>
+</div><h1><strong>Interested?</strong></h1><div>We don’t offer rainbow glitter unicorns or dog-friendly offices (we literally don’t have an office), but we do offer real people, solid core values, and a product meant to give everyone a fair, unbiased chance at their dream jobs.</div><div>
+<br>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions faster and bias-free. </div><div>
+<br>So if this role sounds like a good fit for you, I’d like you <a href="https://assessment.testgorilla.com/testtaker/publicinvitation/42cc5569-95bc-4c5e-8e6a-50fc1ec22f9c">to apply by taking this assessment.</a> This will take about an hour and will focus on your soft and hard skills required to succeed in this role. It’s also a great opportunity for you to get to know our product!</div><div>
+<br>After passing the assessment, your first round of interviews will zoom in on your product management competencies. In two sessions we’ll dive deep into product delivery, stakeholder management, product strategy and more.</div><div>
+<br>The final round consists of two interviews with people you’ll collaborate with in the organization and a presentation of your case resolution.</div><div>
+<br>If you’re hired, I’ll do everything I can to help you succeed at TestGorilla and throughout the rest of your career!</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-product-manager-1">https://weworkremotely.com/remote-jobs/testgorilla-senior-product-manager-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5818/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Harvest</h5>
+                    <h3> Product Manager - Mobile</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/harvest-product-manager-mobile-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0077/5818/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://getharvest.com">https://getharvest.com</a>
+</p>
+
+<div>
+<strong>The Product team and why we’re hiring<br></strong><br>
+</div><div>Our Product team is evolving and growing to match our bold and ambitious next phase of Harvest. We’re looking for a Mobile Product Manager to expand our small team, help us meet the product challenges on our horizon, and help develop the product and our team processes to establish Harvest as the world’s most preferred platform for unlocking the potential of every team’s time.<br><br>
+</div><div>The Product team currently consists of 5 Product Managers and 4 Product Designers. This team is a part of the Customer Experience department, which comprises Product, Services, and Data teams. The Product Manager reports directly to the Group PM.<br><br>
+</div><div>We are hiring for 1 Product Manager who will be focused on the vision, strategy, and execution of projects for Harvest’s mobile apps, to best support our customers across a variety of services industries. We are transitioning to using React Native to support both our Android and iOS apps.<br><br>
+</div><div>
+<br><br>
+</div><div>
+<strong>What you’ll do<br></strong><br>
+</div><div>You will have a broad latitude to do what it takes to make Harvest’s products valuable for our broad variety of customers, which includes the following responsibilities.<br><br>
+</div><ul>
+<li>In partnership with your manager, you’ll identify high-value opportunities that align with our product vision and OKRs.</li>
+<li>You’ll create and execute research plans to surface insights and gain understanding of problems and opportunities, either solo or in collaboration with others.</li>
+<li>You’ll collaborate to craft documents and presentations of clearly defined problems with well-considered solutions and hypothesized outcomes to help the team understand and get on board with your ideas.</li>
+<li>You’ll take ownership of these opportunities, and work across teams to carry them through completion, outcome, and iteration. You’ll keep your team aligned, encouraged, and motivated to create the best product for our customers.</li>
+<li>You'll assess key outcomes of your team's work, link projects back to measurable customer value (KRs and company goals), and make and defend decisions around iteration.</li>
+<li>You'll mentor teammates to help them do their best work.</li>
+</ul><div><br></div><div>
+<strong>Requirements<br></strong><br>
+</div><div>
+<strong>Who you are<br></strong><br>
+</div><ul>
+<li>Your work day has at least 4 hours overlap with Eastern Time Zone, 9am-6pm.</li>
+<li>You have at least 5 years of experience in the product management space. We understand that titles vary between companies. Your title will be commensurate with your experience.</li>
+<li>You’re a great communicator, excellent writer, and pride yourself in your ability to work across teams and areas of expertise to align people around your ideas.</li>
+<li>You’re collaborative, and know when and who to pull in to drive ideas forward successfully.</li>
+<li>You have a history of using data to inform product recommendations.</li>
+<li>You have enough technical knowledge to navigate functional requirements where appropriate.</li>
+<li>You’re a strong analytical and strategic thinker, and are able to use quantitative and qualitative data and research to inform decisions and inspire new avenues for exploration.</li>
+<li>You can communicate the value of your work clearly, succinctly, and in a timely manner, aka share the “why” across all constituents in the organization.</li>
+<li>You’re able to drive toward key results and navigate trade offs.</li>
+<li>You embrace a challenge, persist in the face of setbacks, understand give-take priorities, champion dialogs that encourage diverse perspectives, and are inspired by the success of others.</li>
+<li>You have a track record for solving problems with real business impact and have owned setting, building, and validating impact hypotheses. You are outcome focused.</li>
+<li>You are self-directed, curious, patient, love learning, and are not afraid to fail. You enjoy working independently without much supervision.</li>
+<li>You like small teams. You want to get to know people by name, and you’re not shy about starting something from scratch.</li>
+<li>You value a distributed and diverse work culture. Working side-by-side with co-workers from around the world is something you cherish.</li>
+<li>You value design and product excellence and craftsmanship over growth for growth's sake.</li>
+<li>You understand the importance of your role to influence, support, and motivate others.</li>
+<li>You have expertise in project management.</li>
+</ul><div>
+<br><strong>To apply<br></strong><br>
+</div><div>Please submit your resume and cover letter, including your answers to the following questions:<br><br>
+</div><ul>
+<li>You’re awesome and could work anywhere—why Harvest?</li>
+<li>What unique experience would you bring to this role?</li>
+<li>Why are you interested in a mobile-specific role?</li>
+<li>What, from what you know of us so far, is the biggest opportunity you see for Harvest as a product?</li>
+</ul><div>
+<strong>Benefits<br></strong><br>
+</div><div>At Harvest, our compensation consists of three main components:<br><br>
+</div><ul>
+<li>
+<strong>A competitive base pay:</strong> Every Harvester with the same role expectations receives the same base pay. And we aim to pay at the top of the market (informed by third-party data) for all roles.</li>
+<li>
+<strong>Individual and company performance bonus plans: </strong>We believe in rewarding performance, so all Harvesters are eligible to receive an individual and company performance bonus after working with Harvest for a period of time.</li>
+<li>
+<strong>Competitive benefits*:</strong> We offer a number of benefits, including:<ul>
+<li>15 days of vacation in your first year, plus company holidays and a week off for winter break. And you’ll get an additional two days per year until you reach twenty days.</li>
+<li>100% coverage of health insurance premiums across our medical, dental, and vision plan offerings for you, your spouse, and your dependents.</li>
+<li>A yearly budget for your professional learning and development goals.</li>
+<li>401k plan with a 6% company match after three months with the company.</li>
+<li>16 weeks of paid family leave to all new parents with the option to use it all at once or throughout the baby’s first year as well as a virtual platform providing support across fertility, pregnancy, adoption, and through your first year of parenting.</li>
+<li>A charitable giving matching program to support your contributions to your favorite charitable organizations.</li>
+<li>And much more…</li>
+</ul>
+</li>
+</ul><div>
+<br>*Some of the benefits described are only available to U.S.-based Harvesters. Benefits information for non-U.S.-based Harvesters will be provided to individuals who interview for those roles.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/harvest-product-manager-mobile-1">https://weworkremotely.com/remote-jobs/harvest-product-manager-mobile-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2123/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +198,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>70 days ago</text>
+                <text>71 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chorus-one-product-manager-node-as-a-service" align="right" target="_blank">Apply</a>
@@ -87,7 +275,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>187 days ago</text>
+                <text>188 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/buildbook-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -185,7 +373,7 @@
                     <code>android,education,go,ios</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/senior-product-manager-mobile-1339868" align="right" target="_blank">Apply</a>
