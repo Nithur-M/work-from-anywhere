@@ -1,5 +1,30 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteOK.com/assets/img/jobs/bbb7fe6aaf1cffb793d4c509bb06eaef1659440832.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Levity AI</h5>
+                    <h3>
+					Frontend Engineer				</h3>
+                </td>
+                <td width="300">
+                    <code>front end, saas, engineer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/111880" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="jobDetailsDescriptionGroup jobDetailsDescriptionGroup--expanded jobDetailsDescriptionGroup-enter-done"><div class="jobDetailsDescriptionGroupColumn"><div class="jobDetailsDescriptionText jobDetailsDescriptionText--expanded"><div class="BambooRichText"><p><strong>About Levity ð§ââï¸</strong></p><p><br /></p><p>Levity is a well-funded, early-stage software startup on a mission: We give users the simplest AI development experience in the world and let them automate mindless, repetitive work that can currently only be performed by humans.</p><p><br /></p><p>We believe that AI offers tremendous benefits for all kinds of companies and that its use will become inevitable to succeed in global, competitive markets. With our platform, we allow innovators to build custom AI solutions, based on their company-specific data and use cases, without the need to write a single line of code. Our ambition is to build a best-in-class product to scale the Product-Led Growth SaaS company that Levity is.</p><p><br /></p><p><br /></p><p><strong>The role ð¯</strong></p><p><br /></p><p>We are looking for an experienced Frontend Engineer to help us grow the organization throughout our next phase of growth. You'll play a crucial role in developing the simplistic, design-driven frontend that powers our AI-powered workflow automation solution. You'll closely collaborate with our whole engineering and design team to drive forward fast-paced development cycles. We're excited to work with someone who is highly motivated, comfortable in a fast-paced start-up environment and is happy to work with a remote team.</p><p><br /></p><p><br /></p><p><strong>Your challenge ð¥</strong></p><p>We are looking for someone who makes things happen. Building on initial traction with customers, we are entering a rapid scaling phase. Now is the time to double down on our product development efforts to serve a broad range of global customers.</p><ul><li>Work closely with designers and other engineers, teaming up in small cross-functional teams to bring features from idea to prototype to final implementation</li><li>You will work on high impact features of our web application that are core to the end user experience</li><li>Collaborate with other frontend engineers and the design team on our in-house design system</li><li>Review the work of your teammates and support them</li><li>Work on any initiative you feel passionate about - especially if it moves the needle for our product and/or development efforts<br /></li></ul><p><br /></p><p><br /></p><p><strong>Sounds like you? ð</strong></p><p><br /></p><ul><li>You have 3+ years of professional experience as a frontend engineer</li><li>You've worked on Single Page Applications built with React, Angular, Vue or similar</li><li>You enjoy working on complex problems and breaking them down into smaller pieces</li><li>You have excellent communication skills and the willingness to share and teach</li><li>You have the ability to deal with the fast pace and ambiguity of a startup. Things change and sometimes you need to develop expertise as you go.</li><li>Previous experience with GraphQL, Tailwind and TypeScript would be a plus</li></ul><p><br /></p><p><br /></p><p><strong>Perks ð®</strong></p><p><br /></p><ul><li>Competitive salary + equity package</li><li>High-end equipment of your choice</li><li>Beautiful and central Berlin office</li><li>Paid offsites/workations twice a year</li><li>Ownership from day 1</li><li>Dynamic team and flat hierarchies</li></ul><p><br /></p><p><br /></p><p><strong>Why Levity? ð</strong></p><p><br /></p><p>We are a highly ambitious team, trying to put a dent in the universe.</p><p><br /></p><p>Since we are still a small team, the fate of the company rests on the shoulders of everyone â from Intern to CEO. People are able to work on projects that excite them the most and are able to wear lots of hats.</p><p><br /></p><p>Levity was founded in Berlin, but asÂ aÂ remote-first company, our team works together from all over the world. With that mindset, we're building an inclusive workplace that invites diverse perspectives, and values talent from diverse personal and professional backgrounds.</p><p>Sounds like a good fit? Join us on our mission to democratize AI powered workflow automation - we look forward to hearing from you!</p></div></div></div></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/ffbd1c0e63d3e8b48a155a0abe8114b61658732403.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -11,7 +36,7 @@
                     <code>crypto, nft, investment</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111782" align="right" target="_blank">Apply</a>
@@ -35,7 +60,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/gohiring-senior-frontend-engineer-react-js" align="right" target="_blank">Apply</a>
@@ -94,27 +119,57 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1260508/logo" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5571/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Slab</h5>
-                    <h3>Frontend Engineer</h3>
+                    <h5>Social Mobile</h5>
+                    <h3> Frontend Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>cloud,docker,frontend,graphql</code>
+                    <code>Design</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/frontend-engineer-1260508" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/social-mobile-frontend-software-engineer-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p style="margin-bottom: 1.2em;"><span style="font-weight: bolder;">About: </span></p><p style="margin-bottom: 1.2em;"><span style="color: var(--remotive-chocolate);">At </span><a href="https://slab.com/" rel="nofollow" style="background-color: rgb(255, 255, 255); color: rgb(12, 147, 228); text-decoration: underline;">Slab</a><span style="color: var(--remotive-chocolate);">, we believe that knowledge is the foundation of any organization’s success. When a team’s collective knowledge is accessible, that team’s potential is limitless. That’s why we’re making the workplace a source of learning and purpose through knowledge-sharing. Our product helps teams easily create, organize, and discover knowledge across the entire company, from non-technical to tech-savvy. Thousands of customers rely on Slab across their entire workforces, including Asana, Benchling, and Fivetran.</span></p><p style="margin-top: 1.2em; margin-bottom: 1.2em;">As a small product-focused company, you’ll join a team of experienced engineers, working on shipping features that delight users, fixing issues that get in their way while keeping our codebase, infrastructure, and tooling modern and well-maintained. We are globally distributed, with processes that minimize meetings and overhead, letting makers build on the maker’s schedule.</p><p class="h3" id="technologies-we-use" style="margin-top: 1.8em; margin-bottom: 1.8em; line-height: 1.33;">Technologies we use</p><p class="h3" id="technologies-we-use" style="margin-top: 1.8em; margin-bottom: 1.8em; line-height: 1.33;"></p><ul><li><span style="color: var(--remotive-chocolate); ">React + TypeScript + Sass</span></li><li><span style="color: var(--remotive-chocolate); ">GraphQL + Apollo + Absinthe</span></li><li><span style="color: var(--remotive-chocolate); ">Elixir + Phoenix</span></li><li><span style="color: var(--remotive-chocolate); ">Postgres + Redis</span></li><li><span style="color: var(--remotive-chocolate); ">Docker + Kubernetes</span></li><li><span style="color: var(--remotive-chocolate); ">Google Cloud Platform</span></li></ul><p class="h3" id="sound-like-you" style="margin-top: 1.8em; margin-bottom: 1.8em; line-height: 1.33;">Sound like you?</p><p class="h3" id="sound-like-you" style="margin-top: 1.8em; margin-bottom: 1.8em; line-height: 1.33;"></p><ul><li><span style="color: var(--remotive-chocolate); ">You have a strong technical background, with experience solving complex engineering challenges</span></li><li><span style="color: var(--remotive-chocolate); ">You love delighting users with great product experiences and resolving issues that get in their way</span></li><li><span style="color: var(--remotive-chocolate); ">You’re curious to learn and demonstrate the ability to do so very quickly</span></li><li><span style="color: var(--remotive-chocolate); ">You communicate with clearly and concisely, whether with teammates or users</span></li><li><span style="color: var(--remotive-chocolate); ">You are self-motivated and possess a strong work ethic</span></li><li><span style="color: var(--remotive-chocolate); ">You are passionate about knowledge-sharing and identify with Slab’s mission and values</span></li></ul><p class="h3" id="what-we-value" style="margin-top: 1.8em; margin-bottom: 1.8em; line-height: 1.33;">What we value:</p><p class="h3" id="what-we-value" style="margin-top: 1.8em; margin-bottom: 1.8em; line-height: 1.33;"></p><ul><li><span style="color: var(--remotive-chocolate);  font-weight: bolder;">Stay lean</span><span style="color: var(--remotive-chocolate); "> - We strive for the greatest possible impact with the fewest number of employees. We empower our teammates with the most leveraged tools and efficient processes.</span></li><li><span style="color: var(--remotive-chocolate);  font-weight: bolder;">Default to open</span><span style="color: var(--remotive-chocolate); "> - We encourage and nurture open exchanges of knowledge and ideas — while acting with respect and regard for each other.</span></li><li><span style="color: var(--remotive-chocolate);  font-weight: bolder;">Think rigorously</span><span style="color: var(--remotive-chocolate); "> - We act and execute after careful thought and examination of known information, while acknowledging the risks we accept in its absence.</span></li><li><span style="color: var(--remotive-chocolate);  font-weight: bolder;">Say no</span><span style="color: var(--remotive-chocolate); "> - We aim to deliver exceptionally high value in a small set of focus areas. We willingly abstain from good ideas to give only the most promising paths the attention they deserve.</span></li><li><span style="color: var(--remotive-chocolate);  font-weight: bolder;">The best prevails</span><span style="color: var(--remotive-chocolate); "> - Whether an idea or an individual, the best will rise to the top at Slab. Ideas we pursue can come from anywhere, and individuals gain responsibilities due to outperformance.</span></li><li><span style="color: var(--remotive-chocolate);  font-weight: bolder;">Global optimization</span><span style="color: var(--remotive-chocolate); "> - We believe that our mission — to make the workplace a source of learning and purpose — is the ultimate priority, above any single project, team, or individual.</span></li></ul><p class="h3" id="benefits" style="margin-top: 1.8em; margin-bottom: 1.8em; line-height: 1.33;">Benefits:</p><p class="h3" id="benefits" style="margin-top: 1.8em; margin-bottom: 1.8em; line-height: 1.33;"></p><ul><li><span style="color: var(--remotive-chocolate); ">Full health insurance (USA) or stipend (International)</span></li><li><span style="color: var(--remotive-chocolate); ">Wellness &amp; remote work stipends</span></li><li><span style="color: var(--remotive-chocolate); ">$5k workspace setup, renewed biannually</span></li><li><span style="color: var(--remotive-chocolate); ">7-year options exercise window</span></li></ul><p style="margin-top: 1.2em; margin-bottom: 1.2em;"><em>Slab is an equal opportunity employer. We welcome people of diverse backgrounds, experiences, and perspectives.</em></p>
-<img src="https://remotive.com/job/track/1260508/blank.gif?source=public_api" alt=""/>
+                <img src="https://we-work-remotely.imgix.net/logos/0077/5571/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Miami, FL
+    <br /><strong>URL:</strong> <a href="https://socialmobile.com/">https://socialmobile.com/</a>
+</p>
+
+<div><strong><em>This position is open to remote workers operating in the CET timezone</em></strong></div><div><br></div><div>We’re Social Mobile, one of the fastest growing technology companies in Florida. As a mobility solutions provider, we offer services critical to organizations that are looking to bring to market innovative mobile products. In layman’s terms, you ask? Well, we design, engineer, and manufacture unique mobile solutions that enable some of the most interesting companies in the world (some of which you likely use regularly) to bring smart solutions to market quickly and efficiently, and then we deploy and support these large-scale fleets of devices to make our client’s business operations even easier.  </div><div><br></div><div>Our clients come from diverse industries, many of which form the cornerstones of our modern society, including healthcare, retail, defense and food delivery. So, in a sense, working at Social Mobile means you’ll be helping to enhance and streamline the functioning of our everyday lives.  </div><div><br></div><div>Still reading? Well, here’s what WE’RE looking for. The ideal Social Mobile employee is someone who is accountable, can work independently or as part of a team, and has an interest in propelling innovative technology into the broader ecosystem. We’re looking for team members that will speak their mind, accept feedback, and continue to drive our growth. </div><div><br></div><div>If you think you fit the bill, and you’re curious to hear more, we’d love to see your application</div><div> </div><div>We are looking for an experienced Frontend Software Engineer to join our globally dispersed Engineering &amp; UX team, within the Product &amp; Engineering department.</div><div> </div><div>The Frontend Software Engineer will be primarily working with Vue, Typescript, Nuxt.js and Vuetify. Are you a self-starter who is well rounded and open to learning new skills? The best fit for this position will work seamlessly with the team reach our goals together. With a focus on transparency, communication, and trust, our team performs best with likeminded teammates that help to foster creativity and solutions. </div><div><br></div><div>This position is available to remote workers, you do not need to be located in Miami.</div><div> </div><div><strong>Responsibilities:</strong></div><div> </div><ul>
+<li>Building out responsive UTs (HTML/CSS/JS)</li>
+<li>Understanding of how to communicate with the APIs in all directions</li>
+<li>Creating and maintaining team/product documentation</li>
+<li>An ability to write tests and understanding of testing</li>
+<li>Assessing and implementing improved processes and new technologies and collaborating with management regarding the implementation of these improvements</li>
+<li>Measure project performance using appropriate tools and techniques via deliverables/milestones/phase completions</li>
+<li>Communicate support to clients to debug and resolve problems </li>
+</ul><div> </div><div><strong>Qualifications:</strong></div><div> </div><ul>
+<li>At least 2 years of front-end experience</li>
+<li>Intimate knowledge of HTML/CSS/JS</li>
+<li>Some knowledge of A11Y and Android Enterprise</li>
+<li>Some knowledge of WebSockets</li>
+<li>Knowledge of design patterns</li>
+<li>Knowledge and experience with core platform technologies (Vue, Nuxt, Vuetify)</li>
+<li>Familiar with GIT/code management solutions</li>
+<li>Experience with Security – can you also tell us about CORS?</li>
+<li>Understanding of UX</li>
+<li>Knowledge and experience with Typescript, WebRTC, Nuxt.js, prototyping &amp; UI design are a plus!</li>
+<li>Ability to debug, troubleshoot issues</li>
+<li>Expertly organized and detail-oriented</li>
+</ul><div><strong><em>This position is open to remote workers operating in the CET timezone</em></strong></div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/social-mobile-frontend-software-engineer-1">https://weworkremotely.com/remote-jobs/social-mobile-frontend-software-engineer-1</a></p>
+
                 </details>
                 </td>
             </tr></table>
