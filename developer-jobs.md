@@ -1,5 +1,30 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteOK.com/assets/img/jobs/8591ebe908806082f1aeeffdb16b0f1f1659447538.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Clevertech</h5>
+                    <h3>
+					iOS Developer				</h3>
+                </td>
+                <td width="300">
+                    <code>ios, mobile, ops</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/111885" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects</p><h4>Requirements</h4><ul><li>Ability to effectively articulate technical challenges and solutions</li><li>Strong design and coding skills (Swift/Java/Objective-C)</li><li>A solid grasp of fundamental algorithms and mobile applications</li><li>Deal well with ambiguous/undefined problems; ability to think abstractly</li><li>Passion for operational excellence</li><li>Strong communicator and fluent in English with excellent written and verbal communication skills.</li><li>Knowledge about the Lean Startup and Agile Methodologies</li></ul><h4>Straight from the Devs</h4><p>Watch short snippets of actual developers (Real, not scripted) share why they joinedÂ <a href="https://cleverte.ch/3">YouTube Playlist</a></p><h4>Why Clevertech is an amazing place to work at</h4><p>At Clevertech, you can expect that you will:</p><ul><li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li><li>Be a part of a team of talented and friendly senior-level developers</li><li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li></ul><p>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteOK.com/assets/img/jobs/5e42d294704832311d87c3e5c3327ef01659341207.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -11,7 +36,7 @@
                     <code>django, vue js, typescript</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111869" align="right" target="_blank">Apply</a>
@@ -36,7 +61,7 @@
                     <code>javascript, node, express</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111761" align="right" target="_blank">Apply</a>
@@ -50,7 +75,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/img/jobs/3c082c495aeb35ec295887682b2ffa491658525093.png" width="38px" height="auto">
+                    <img src="https://remoteOK.com/assets/img/jobs/9394abe3c40f48f7972dcf11f490af641659545979.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>AssemblyAI</h5>
@@ -61,7 +86,7 @@
                     <code>devrel, ml, pytorch</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111756" align="right" target="_blank">Apply</a>
@@ -86,7 +111,7 @@
                     <code>dev, typescript, api</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111749" align="right" target="_blank">Apply</a>
@@ -100,61 +125,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/img/jobs/8f4b5a6a1fc0fdf1022d2e2b8692bf831658345292.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4314/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Squads</h5>
-                    <h3>
-					Senior Mobile Developer Crypto				</h3>
-                </td>
-                <td width="300">
-                    <code>mobile, react native, crypto</code>
-                </td>
-                <td width="200">
-                <text>13 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/111723" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h1><strong>What is the job?</strong></h1><p>It is pretty much impossible to see what your friends are doing in web3</p><p>Squads is seeking an experiencing mobile developer to build a <strong>mobile app</strong> that aggregates wallet's activity across various sources and turns them into a<strong> human friendlyÂ </strong>social feed on your mobile device</p><p>We have a testflight prototype out -- this will be a continuation of the work that we've already done.</p><p>See more at squads.xyz</p><h1><strong>What is the problem?</strong><br /></h1><p>As much as we love Etherscan, it is fairly unreadable for ordinary people. Portfolio managers like Debank, Zapper, Zerion have emerged during the DeFi era and are centered around single/bundle walletâs info &amp; balances, hence lack social web.</p><p>Newer creator economy requires to let people easily share information across their networks of friends &amp; followers (some NFT platforms like context.app have emerged to solve this).</p><p>Yet web3 is so much more than visual art, itâs the new data layer of human civilization, that deserves an interface that would let its participants communicate with all the protocols, dapps, networks &amp; humans.</p><p>That is where the <strong>Squads</strong> comes into play â a social app that aggregates walletâs activity across various sources (chains, protocols, contracts, platforms) and turns them into a <strong>human friendly</strong> social feed on your mobile device (android, iOS)</p><h1>What are we looking for?</h1><p>Must-haves:</p><ul><li>Fluent in both spoken and written English -- clear communication is required, perfect grammar is not.</li><li>32-40 hours per week of availability</li><li>Mid-Senior or Senior level (3+ years of professional experience)</li><li>1+ year of professional experience with React and/or React Native</li><li>1+ year of developing Mobile Apps with React/ React Native</li><li>Knack for getting shit done, even if its not perfect</li></ul><p>Nice-to-have:</p><ul><li>Experience working on consumer facing products</li><li>Knowledge of the Crypto space (tokens, NFTs, protocols, DAOs, etc.)</li><li>Experience with the SERN stack:<ul><li>SQL</li><li>Express</li><li>React Native</li><li>Node.JS<br /></li></ul></li></ul><p>This role is perfect for you if:</p><ul><li>You are comfortable working remotely -- We are a 100% remote first company</li><li>You are interested in the potential of crypto, but find the current offerings too cumbersome/ difficult for a newcomer to get into</li><li>You want to build an incredible, fun, delightful product that will onboard the next thousand users into the world of crypto</li><li>You have a knack for getting shit done, even if its not perfect</li></ul><h1>How do we work remotely?</h1><p>We work completely remotely, and have team members all across the globe. Here are the tools that we use in order to do so.</p><ul><li>Slack for asnyc communication</li><li>Linear for task management/ project management</li><li>Figma for design and source of truth</li><li>Github for version control</li></ul><p>We rarely have meetings and we prefer async communication. We think everyone knows when they do their best work, and we leave it to them to be a professional.Â </p><h1><strong>About Squads</strong><br /></h1><p>Squads is a venture backed startup that was founded by Taylor Fox (<span class="vanity-name__domain">www.linkedin.com/in/</span><span class="break-words font-normal text-color-text text-sm">Taylor-fox-</span>) and Diego Lazares (https://www.linkedin.com/in/diego-lazares-181134104/)</p><p>Squads' mission is to create a delightful experience for the next wave of crypto users. We believe that the current crypto offerings only really cater to the technically savvy, and we're looking to change that.Â </p><p>We raised a seed round last year and have grown the team to 7 people.Â </p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/img/jobs/2b3f1262a0a4d341233e0a3b85c5c0ba1658343197.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3>
-					Senior Fullstack Javascript Developer				</h3>
-                </td>
-                <td width="300">
-                    <code>javascript, react, node</code>
-                </td>
-                <td width="200">
-                <text>13 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/111721" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects</p><h4>What we're working on:</h4><p>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries</p><h4>Requirements</h4><ul><li>7+ years of professional experience (A technical assessment will be required)</li><li>Senior-level experience in the front-end (React) and back-end (Node, Express, Mongo, SQL)</li><li>Ability to create clean, modern, testable, well-documented code</li><li>English fluency, verbal and written</li><li>Professional, empathic, team player</li><li>Problem solver, proactive, go-getter</li></ul><h4>Straight from the Devs</h4><p>Watch short snippets of actual developers (Real, not scripted) share why they joinedÂ <a href="https://cleverte.ch/3">YouTube Playlist</a></p><h4>Why Clevertech is an amazing place to work at</h4><p>At Clevertech, you can expect that you will:</p><ul><li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li><li>Be a part of a team of talented and friendly senior-level developers</li><li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li></ul><p>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.</p><h4>Benefits of joining the Clevertech team</h4><p class="txt-body-opacity">We know that people do their best work when theyâre taken care of. So we make sure to offer great benefits:</p><div class="benefit_badges_container"><div class="benefit_badges"><div class="badge"><div class="bkgbeige"><ul><li>Competitive Salaries</li><li>1 Month Paid Time Off For You</li><li>Personal Development Fund</li><li>Tenure-Based Rewards</li><li>Flexible Family Leave</li><li>Clevertech University</li><li>Clevertech Gives Back</li><li>Amazing Culture &amp; Strong Community</li></ul></div></div></div></div><p><br /></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>The Bridge Social</h5>
-                    <h3> Golang Developer</h3>
+                    <h5>TestGorilla</h5>
+                    <h3> WordPress Developer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
@@ -163,7 +138,87 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/the-bridge-social-golang-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/testgorilla-wordpress-developer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/4314/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Amsterdam
+    <br /><strong>URL:</strong> <a href="https://testgorilla.com">https://testgorilla.com</a>
+</p>
+
+<div>Hi,</div><div><br></div><div>I’m Nicolás, TestGorilla’s Head of Engineering. We’re a fast-growing <a href="https://testgorilla.com/">HR tech startup</a> that helps hiring teams make better hiring decisions faster and bias-free.</div><div><br></div><div>Over the past year, we’ve experienced tremendous growth. More than 5,300 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way.</div><div><br></div><div>As we scale our efforts in 2022 and beyond, we’re looking for a WordPress Developer who’s passionate about joining our quest to help people land dream jobs.</div><div>
+<br><br>
+</div><h1><strong>The proposition</strong></h1><ul>
+<li>Helping shape a fast-growing HR tech startup as an early employee</li>
+<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
+<li>Competitive salary + Share Appreciation Rights (SARs)</li>
+<li>Flexible hours and vacation</li>
+<li>Paid parental leave </li>
+<li>Remote working budget: €1,000 per year</li>
+<li>Learning and development budget: 3.5% of base salary</li>
+</ul><div><br></div><div><br></div><h1><strong>The job in a nutshell</strong></h1><div>We are looking to hire a skilled <strong>WordPress Developer</strong> to build, review and improve our company website. You will be responsible for both back-end and front-end development, including implementing WordPress themes and plugins, site integration and security updates. </div><div><br></div><div>You will collaborate across departments to architect and optimize our company website and help them deliver content efficiently and promptly.</div><div><br></div><div>This role requires in-depth knowledge of front-end programming languages, a good eye for aesthetics, and robust content management skills. </div><div>This is a fantastic opportunity for a top-class WordPress developer willing to embark on an entrepreneurial journey with us!</div><div>
+<br><br>
+</div><h1><strong>You’ll spend time on the following</strong></h1><ul>
+<li>Designing and developing the website’s architecture as well as building new features and functionalities</li>
+<li>Building the website front-end and conducting website performance tests</li>
+<li>Coding on PHP/MySQL and HTML/CSS (a lot!)</li>
+<li>Building and implementing new themes and plugins</li>
+<li>Monitoring website performance and troubleshooting performance issues</li>
+<li>Handling the back-end of the website, including database and server integration</li>
+<li>Ensuring high-performance and managing all the technical aspects of the CMS</li>
+<li>Maintain well-documented and reusable code</li>
+</ul><div><br></div><h1><strong>Here’s what we’re looking for:</strong></h1><ul>
+<li>You are inspired by our mission to put <em>one billion people in dream jobs</em>
+</li>
+<li>You are fully aligned with our <a href="https://www.testgorilla.com/careers/">values </a>
+</li>
+<li>You have a great knowledge of <a href="https://www.testgorilla.com/test-library/programming-skills-tests/wordpress-developer-test/">WordPress</a>
+</li>
+<li>You have an excellent understanding of HTML, CSS, Javascript, and general website best practices</li>
+<li>You are able to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers</li>
+<li>You are comfortable working with debugging tools like Firebug, Chrome inspector, etc.</li>
+<li>You have a strong proficiency in understanding code versioning tools such as Git</li>
+<li>You have a working knowledge of MySQL. Server administration a plus. </li>
+<li>You have a good understanding of web architecture</li>
+<li>You are passionate about improving skills and learning new technologies</li>
+<li>You enjoy influencing others and always advocate for technical excellence while being open to change </li>
+<li>You’re resilient in ambiguous situations and can approach challenges from multiple perspectives</li>
+<li>You have strong written and verbal communication skills. You can validate your decisions and communicate them clearly.</li>
+<li>You are comfortable with the ambiguity and pace of an early-stage startup</li>
+</ul><div><br></div><div><em>We typically expect candidates with at least 2-5 years of WordPress Developer experience to have the skills mentioned above.</em></div><div><br></div><div><br></div><h1>Bonus points if …</h1><ul>
+<li>You have experience working in a SaaS company and a fast-growing startup </li>
+<li>You have experience developing and converting designs into themes</li>
+<li>You have experience in building both front-end and back-end of the website</li>
+<li>You have prior experience in WordPress localization using the WMPL plugin</li>
+</ul><div>
+<br><br>
+</div><h1><strong>Interested?</strong></h1><div>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions faster and bias-free. I took one too and I enjoyed it!</div><div>So if this role sounds like a good fit for you, I’d like you to <a href="https://assessment.testgorilla.com/testtaker/publicinvitation/7520c87e-7486-4fda-8034-47478da9caa5">take an assessment</a> so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product!</div><div>If you’re hired, I’ll do everything I can to help you succeed at TestGorilla and throughout the rest of your career.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-wordpress-developer-1">https://weworkremotely.com/remote-jobs/testgorilla-wordpress-developer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>LaPieza</h5>
+                    <h3> Business Developer </h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/lapieza-business-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -173,251 +228,204 @@
 
 <p>
   <strong>Headquarters:</strong> 
-    <br /><strong>URL:</strong> <a href="https://lapieza.io/szJbzNuG6eSguLTBN3KUYzJLKOO2">https://lapieza.io/szJbzNuG6eSguLTBN3KUYzJLKOO2</a>
+    <br /><strong>URL:</strong> <a href="https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1">https://lapieza.io/6LMAqcqmPtMx3COaeG18pUxdxDl1</a>
 </p>
 
-<p class="ql-align-center"><strong>Somos The Bridge</strong></p><p>The Bridge es la red de profesionales digitales más grande de LATAM con más de 230 mil rockstars. Startups, scale-ups, grandes empresas y consultorías de todo el mundo trabajan con nosotros para conseguir los proyectos más desafiantes e impactantes. ¿Estás listo para participar en el desafío?</p><p> </p><p>🔧 La Posición</p><p>Estamos buscando al próximo cambio de juego que se una al equipo como<strong> Senior Golang Developer</strong> ¿Eres un nómada digital? Pues este rol fue hecho para ti, <strong>puedes estar ubicado en cualquier parte de LATAM </strong>y disfrutar al 100% de la flexibilidad que esto implica.</p><p><br></p><p>Buscamos una persona altamente capacitada, impulsada por una misión, con un impulso y un entusiasmo ilimitados por la transformación digital.</p><p><br></p><p>🚀 Acerca del proyecto</p><ul><li>Como Senior Golang Developer buscamos a una persona que pueda adueñarse de un producto y liderar a un equipo de desarrollo con enfoque de entregables en base a sprints. Trabajarás con los founders y jefe de ingeniería/CTO para, en conjunto, desarrollar especificaciones de nuestros clientes. Crearás nuevos micro servicios y mejorarás la capa de micro servicios actual, con el objetivo de entregar mejores requerimientos a nuestros clientes y/o producto.</li></ul><p> </p><p>🤸‍♀️ ¿Quién eres?</p><ul>
-<li>Tienes <strong>+2 años</strong> de experiencia co<strong>n GO</strong>
-</li>
-<li>Eres super Pro en el <strong>Desarrollo de Microservicios</strong>
-</li>
-<li>Tienes experiencia con <strong>AWS</strong> (Lambda, CodePipeline, Cloudwatch, ECS Fargate, API Gateway)</li>
-<li>Experiencia en<strong> Docker</strong>
-</li>
-<li>Experiencia de<strong> base de datos</strong> (Postgresql, Elasticsearch)</li>
-<li>Experiencia en <strong>herramientas de monitoreo</strong>
-</li>
-<li>Experiencia en <strong>patrones de diseño y arquitectura</strong> (e.g DDD, Service Mesh, API Gateway, CQRS, Arquitectura basada en eventos, arquitectura de mensajería)</li>
-<li>Eres un desarrollador que brinda <strong>valor agregado</strong>, de manera <strong>Agile</strong>.</li>
-<li>Tienes <strong>atención </strong>y <strong>cuidado </strong>al <strong>detalle</strong>.</li>
-<li>Posees conceptualización y diseño de<strong> servicios descentralizados</strong>
-</li>
-<li><br></li>
-</ul><p>🎁 Nuestros Beneficios para Ti</p><ul>
-<li>Salario competitivo, ¡trabajas en un entorno digital! 💰</li>
-<li>¡El trabajo es 100% remoto! Para que disfrutes de la flexibilidad de un nómada digital 💻</li>
-<li>Cultura de trabajo divertida, inclusiva y transparente. ¡Esto es muy importante para nosotros como bridgers!</li>
-<li>¿Ventajas? Toneladas, es una gran pregunta para la entrevista 💥</li>
-<li>Proyectos de alto impacto garantizados 🚀</li>
-<li>Equipos multiculturales e interculturales, de alto potencial como el tuyo✅</li>
-<li>Semanas extras de vacaciones pagas 🏝️⛰️</li>
-<li>Bono por telefonía móvil e internet 🌐</li>
-<li>Vale por pedidos de comida🍲</li>
-<li>Actividades de integración mensuales 🤼</li>
-<li><br></li>
-</ul><p>🌈 Nuestra postura</p><ul>
-<li>Apoyamos entornos multiculturales. Para nosotros, lo más importante son tus valores y el conocimiento y el potencial que tienes.</li>
-<li>Apoyamos al 100% a todos los géneros, etnias, religiones, habilidades y talentos, la diversidad nos permite desarrollar grandes proyectos.</li>
-<li>¡Nos preocupamos por ti, serás parte de nuestra familia!</li>
-<li><br></li>
-</ul><p>NOTA: Somos conscientes de tu tiempo, ¡el proceso irá tan rápido mientras estés comprometido!</p><p>¡Estamos ansiosos por conocerte! 🥳</p><p><br></p>
+<p>Technology Company looks for a Business Developer in Brazil</p><p><br></p><p>What you will do:</p><ul>
+<li>Recognize, define, and formally state consumer requirements;</li>
+<li>Model, categorize, prioritize, and validate the needs of the consumer;</li>
+<li>Examine, specify, and confirm the client's and/or users' needs;</li>
+<li>Specify the tests that will be used to determine whether the deliverables' requirements have been met;</li>
+<li>Ensure that the deliverables match the project's objectives and client expectations;</li>
+<li>Recognize potential dangers, examine them, and take precautions;</li>
+<li>Find any potential omissions in the user order as much as you can;</li>
+<li>Validate and win user definition approval by involving the users in question;</li>
+<li>Create and run functional test cases based on the team's and the project's specific requirements;</li>
+<li>Configuration of Solutions creating training materials and providing in-person instruction as required;</li>
+<li>Support for live outputs both on-site and remotely.</li>
+</ul><p><br></p><p>What you will need:</p><ul>
+<li>Knowledge of software industry processes and quality models is a need;</li>
+<li>Expertise with surveying functional and non-functional needs using standards and methodologies;</li>
+<li>Proven abilities in interpersonal communication;</li>
+<li>A strong focus on details;</li>
+<li>Strong project management skills;</li>
+<li>Flexible attitude;</li>
+<li>Initiative control over Windows tools (power point, excel, word);</li>
+<li>Advanced English, Spanish skills will be consider as a super plus;</li>
+<li>The capacity to travel.</li>
+</ul><p><br></p><p>You will have the possibility to work remotely from wherever you like!</p><p><br></p><p><strong><em>This recruitment is 100% free of bias, every decision is made based on your experience and knowledge. You are the most important person for us and we will be side by side with you every step of the way. A little piece of advice: Every client of ours is looking for happy people.</em></strong></p><p><br></p>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/the-bridge-social-golang-developer">https://weworkremotely.com/remote-jobs/the-bridge-social-golang-developer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/lapieza-business-developer">https://weworkremotely.com/remote-jobs/lapieza-business-developer</a></p>
 
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5728/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/0522/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Infinite Capital</h5>
-                    <h3> Senior Full Stack Developer</h3>
+                    <h5>Crypto Excellence</h5>
+                    <h3> Fullstack Developer </h3>
                 </td>
                 <td width="300">
-                    <code>DevOps and Sysadmin</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/infinite-capital-senior-full-stack-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/crypto-excellence-fullstack-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/5728/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0076/0522/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> https://infinite.xyz/
-    <br /><strong>URL:</strong> <a href="https://infinite.xyz/">https://infinite.xyz/</a>
+  <strong>Headquarters:</strong> Portugal
+    <br /><strong>URL:</strong> <a href="http://cryptoexcellence.xyz">http://cryptoexcellence.xyz</a>
 </p>
 
-<div>We’re looking for a highly skilled Senior Full Stack Developer to join our team at Infinite Capital. Founded in 2017, Infinite Capital has been at the forefront of the crypto world and largely focused on crypto assets and deep tech. Our firm has investments across DeFi, Web3, and infrastructure, and made seed investments into over 9 $B+ projects including Ethereum, Synthetix, MakerDAO, Theta, Tokemak, REN, Thorchain and others. Additionally, we have a deep tech focus on aerospace, autonomy, EV, and satellites, with investments into companies including Tesla and Skyryse.<br><br>
-</div><div>In this position, you will create high quality, impactful solutions for the Infinite Capital ecosystem with a focus on managing individual project priorities, deadlines, and deliverables. We are looking for someone who is well versed in Web2 but with a strong interest in Web3 - and you will actively learn and research new technologies on an ongoing basis. While we don’t require you to have knowledge of the crypto world to come on board, it must be something that you are passionate about and willing to train into.<br><br>
-</div><div>Responsibilities:<br><br>
-</div><ul>
-<li>Software development background (5+ years of experience</li>
-<li>Experience building production-ready applications</li>
-<li>Work closely with the team on product scoping and requirements</li>
-<li>Maintain best practices re: security &amp; efficiency throughout the stack</li>
-<li>Assist in producing documentation and codebase maintenance</li>
-<li>Architect and build complex infrastructure</li>
-</ul><div>
+<div>
+<strong><br>Full-Stack Developer <br></strong><br>
+</div><div>
+<br>We are looking for a Full-Stack developer to join our team.  We are an emerging technology company focused on long lasting and impactful tech solutions.   <br><br>
+</div><div>
+<strong><br>Responsibilities<br></strong><br>
+</div><div>
+<br>As a full-stack developer, you will have the chance to work across the full spectrum of our systems.  <br><br>
+</div><div>
+<br> You will assist in the development of our back-end infrastructure, by building secure and efficient API endpoints and normalized database systems. You will design and implement efficient and scalable features for our bots. You will develop new user-facing features and build reusable components with an emphasis on modularization.    <br><br>
+</div><div>
+<br>Working across the stack, you will be optimizing components for maximum performance and writing code using primitives and open source modules. You will ensure that code is thoroughly unit tested and the overall application is easy to maintain and scalable. You will coordinate with the rest of the team working on different layers of the infrastructure, so collaborative problem solving and quality code is valued.  <br><br>
+</div><div>
 <br><br>
-</div><div>Skills:<br><br>
+</div><div>
+<strong><br>Requirements - Preferred<br></strong><br>
 </div><ul>
-<li>An ability to work independently and be proactive</li>
-<li>Experience with customer-facing projects</li>
-<li>Deep technical understanding of Javascript / Typescript / Node.JS / React.JS</li>
-<li>Deep technical understanding and passion of your stack</li>
-<li>Experience with relational databases</li>
-<li>Strong computer science fundamentals, including data structures, algorithms, and distributed systems</li>
-<li>Strong knowledge of common algorithms and data structures</li>
-<li>Cloud-functions concepts, architecture and development</li>
-<li>Familiarity with modern software architecture techniques for building modular and testable applications</li>
-<li>High English language proficiency</li>
-<li>Strong interest in the cryptocurrency market</li>
-</ul><div>
-<br><br>
-</div><div>Traits<br><br>
-</div><ul>
-<li>You lead the way. You don't need to be told what to do in order to get things done. You know how to identify gaps and needs and do what needs to be done to keep us moving. You enjoy the autonomy of owning your work and making decisions about it.</li>
-<li>You thrive on feedback. You believe that you can achieve more on a team than you ever could alone. You rely and thrive on others' candid feedback for continuous improvement.</li>
-<li>You are driven by autonomy and discipline. You don't need to work in an office to stay motivated. You thrive in a remote working environment and the autonomy that comes with it.</li>
-</ul><div>
-<br><br>
-</div><div>Bonus if you have:<br><br>
-</div><ul>
-<li>Knowledge of Ethereum and blockchain concepts in general (Reorgs, Transactions, Multicalls, Atomicity, SHA3), Experience in Solidity</li>
-<li>Understanding of Decentralized Finance and popular products (yield farming, Staking, options, forwards and other derivatives)</li>
-<li>Experience with APIs and Web3 Frameworks for current and historical data fetching and on-chain state synchronization (Moralis, TheGraph, DuneAnalytics, etc)</li>
-</ul><div>
-<br><br>
-</div><ul><li><br></li></ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/infinite-capital-senior-full-stack-developer">https://weworkremotely.com/remote-jobs/infinite-capital-senior-full-stack-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4259/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Switch Themes</h5>
-                    <h3> Front-end developer (Shopify)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4259/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Melbourne, Australia
-    <br /><strong>URL:</strong> <a href="https://switchthemes.co/">https://switchthemes.co/</a>
-</p>
-
-<div>Switch Themes design and build premium Shopify themes that are sold exclusively on the Shopify theme store. We currently have 5 themes on the theme store - with our most recent theme Shapes launching this year.</div><div><br></div><div>We’re looking for an experienced front-end developer to help us with our themes. </div><div><br></div><div><strong>Responsibilities</strong></div><ul>
-<li>Expert experience with building Shopify Themes and Shopify’s liquid templating language</li>
-<li>Expert knowledge in the Shopify platform and Shopify Themes</li>
-<li>Understand all requirements for Shopify Themes to be listed on the theme store: <a href="https://shopify.dev/themes/store/requirements">https://shopify.dev/themes/store/requirements</a>
+<li> Bachelor’s or Master’s degree in Computer Science or equivalent experience. <br><br>Hands-on experience building client applications or dashboards. <br><br>
 </li>
-<li>Strong web development skills (HTML, CSS and Javascript)</li>
-<li>Experience with build tools</li>
-<li>Strong Javascript skills (Vanilla JS)</li>
-<li>Experience with version control and Git</li>
-<li>Take initiative to follow wireframes / designs and apply beyond what is provided</li>
-<li>Understanding of semantic web standards and web accessibility</li>
-<li>Understanding of web performance </li>
-</ul><div><br></div><div><strong>Bonus if you have experience with the following</strong></div><ul>
-<li>Tailwind</li>
-<li>Rollup.js</li>
-<li>Alpine.js</li>
-<li>Figma</li>
-<li>Design/UX</li>
-</ul><div><br></div><div><strong>About you</strong></div><ul>
-<li>You are self-motivated and self-directed</li>
-<li>Have a minimum 2 years of front-end development experience</li>
-<li>You like the idea of working from home and not having anyone bother you all day whilst you do deep work</li>
-<li>Speak English at an intermediate-high level</li>
-</ul><div><br></div><div><br></div><div><strong>Working at Switch</strong></div><div><br></div><div>This is a 3-4 day per week role for a 6 month contract.</div><div><br></div><div>We are a fully remote team spread out across Melbourne, Hong Kong, Vietnam, Ireland, Jamaica &amp; Canada. Don’t worry, we aren’t that big - we have just one team member in each of those locations!</div><div><br></div><div>Your working hours are flexible. The 20-30 hours a week (based on 3/4 days a week) can be broken up however you like. Do you prefer working at 5am in the morning? No worries. Want to schedule your day so you can have an afternoon nap? Go for it. </div>
+<li>Experience designing database systems (SQL/NoSQL). <br><br>
+</li>
+<li>Experience building secure API data endpoints. <br><br>
+</li>
+<li>Experienced developing components and front-end hooks in React.js, for requests to API endpoints, local storage, caching, etc. <br><br>
+</li>
+<li>Experience with common front-end tools such as Webpack, NPM, etc.  <br><br>
+</li>
+<li>Experience in Python, Javascript/Typescript, C++, and/or Rust. <br><br>
+</li>
+<li>Understanding of the general concept and framework behind a Discord Bot platform aimed for large-scale client use. <br><br>
+</li>
+<li>Good understanding of back-end infrastructure, especially how it interrelates with a front-end dashboard and Discord Bots. <br><br>
+</li>
+<li>Practical experience with Production environments (linux package updates, ec2 instances, nginx configs, etc.)  <br><br>
+</li>
+<li>Experienced with error handling and logging best practices. <br><br>
+</li>
+<li>Experienced with performance benchmarking, diagnostics, and optimization.  <br><br>
+</li>
+<li>Experienced with Git versioning and bash commands. <br><br>
+</li>
+<li>Experienced with the VS Code IDE. <br><br>
+</li>
+<li>Urge to innovate and change the tech industry. <br><br>
+</li>
+</ul><div>
+<br><br><strong>Bonus <br></strong><br>
+</div><ul>
+<li> Experience making Discord bots using Discord.py and/or Discord.js </li>
+<li>2+ years of professional experience as a Back-end or Full-Stack Developer, writing code deployed to production. </li>
+<li>Practical experience with Dockerized environments. </li>
+<li>Experience reviewing code and managing servers. <br><br>
+</li>
+</ul><div>
+<strong><br>Get in touch<br></strong><br>
+</div><div>
+<br>We believe diverse teams help us make better products. Therefore we accept application from all people regardless of age, gender, religion and all other categorizations. <br><br><br><strong>Recruitment process</strong><br>We will invite suitable candidates to learn more about you and introduce ourselves.<br>If our expectations align we will be giving you a technical assignment and invite you to a technical interview. There will be a final interview with our lead partners before the work officially commences. <br><br>
+</div><div>
+<br>Make sure to send in your application and include a link to your GitHub as soon as possible as the position can be filled before the last application day. We look forward to hearing from you. <br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify">https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/crypto-excellence-fullstack-developer">https://weworkremotely.com/remote-jobs/crypto-excellence-fullstack-developer</a></p>
 
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5868/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Toggl</h5>
-                    <h3> Backend Developer</h3>
+                    <h5>Aldrin</h5>
+                    <h3> Senior Back-End Developer Node.js Web3 (Remote)</h3>
                 </td>
                 <td width="300">
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>182 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/toggl-backend-developer-5" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-back-end-developer-node-js-web3-remote" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0077/5868/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Tallinn, Estonia
-    <br /><strong>URL:</strong> <a href="https://toggl.com/jobs/">https://toggl.com/jobs/</a>
+  <strong>Headquarters:</strong> Europe
+    <br /><strong>URL:</strong> <a href="https://aldrin.com">https://aldrin.com</a>
 </p>
 
 <div>
-<br>We are looking for a passionate and sharp Backend Developer to be a part of one of our cross-functional product development teams to help us shape the future of the time tracking industry and deliver real value to our customers with both new and improved features. </div><div>
-<br>Gross annual compensation range for the role is <strong>€63,000-€70,000 based on experience </strong>and we are committed to increasing salaries every year based on company and individual performance. In addition to that, we also have awesome benefits, which you can check out below.</div><div><br></div><div>You can work <strong>from anywhere in the world.</strong>
-</div><div><br></div><div>
-<strong><br>About the Team<br></strong><br>
-</div><div>We are a global team of 100+ awesome people working from over 40 countries around the globe. We hire globally, you work locally - in the heart of London, a beach outside of São Paulo, or a quiet village near Florence, the choice is yours. Every few months we travel to meet up somewhere in the world and spend some quality time together. We place a huge amount of trust in our people, and we measure the outcomes rather than the work itself. Our values fuel our results.<br><br>
-</div><div>
 <strong>The Role<br></strong><br>
-</div><div>As a Backend Developer, you will be taking ownership of one or more domains of our product and will work closely with other developers and product designers in lean ways using cutting-edge technologies powering highly-available RESTful services and back-end systems.</div><div>
-<br>The main technologies you will be working with are Go, PostgreSQL, REST, JSON and Google Cloud Infrastructure.<br><br>Even though you can work whenever you want on your tasks, our team meetings can happen between 11:00 to 15:00 UTC. You need to be willing and available to attend these meetings when they happen.</div><div>
-<br>Your main responsibilities will be:</div><ul>
-<li>developing and maintaining backend services such as API's, reports, payments, and operations tools that manage our product worldwide</li>
-<li>working with product managers and designers day to day to bring more value to Toggl’s users, covering customer-facing web and native applications and public APIs</li>
-<li>completing small to medium features independently and in collaboration with frontend developers</li>
-<li>resolving most technical issues autonomously and designing well-organized code</li>
-<li>driving assigned requests to improve the codebase, such as migrating it to modern frameworks and adding missing tests</li>
-</ul><div>
-<strong><br>About you<br></strong><br>
-</div><div>We would love to hear from you if you are passionate about technology and you are experienced with or willing to learn to program in Go.</div><div>
-<br>In particular, we are looking for:</div><ul>
-<li>Strong backend engineering experience in any language</li>
-<li>Passion for cross-discipline collaboration and problem-solving</li>
-<li>Eagerness to learn new skills, and take ownership of your work</li>
-</ul><div>Bonus points for:</div><ul>
-<li>Experience with our main technologies: Go, PostgreSQL, REST, JSON and/or Google Cloud Infrastructure</li>
-<li>Experience with software engineering best practices (e.g. unit testing, code reviews, design documentation)</li>
-<li>Experience with system architecture, particularly at scale</li>
-<li>Experience with Ruby, Elixir, noSQL databases</li>
-</ul><div><br></div><div><strong>Benefits</strong></div><ul>
-<li>Freedom to choose where and when you work</li>
-<li>24 days of paid time off a year, plus your local holidays</li>
-<li>In-person meetups for team-building (expenses covered)</li>
-<li>Laptop and a €2,000 budget to set up your home office</li>
-<li>Reimbursement for co-working space membership or internet service at home</li>
-<li>€4,000 contribution to use for training, workshops, and conferences</li>
-<li>€2,000 contribution for any physical or mental health service-related</li>
-<li>Support for buying tools you need for doing your best work (even eyeglasses if you need a new pair)</li>
+</div><div>We are looking for a Senior Back-End Developer skilled in designing, building, and deploying highly secure, scalable, and maintainable backend services for the Aldrin decentralized exchange.<br><br>
+</div><div>You will:<br><br>
+</div><ul>
+<li>Develop backend service for Aldrin’s new products, including but not limited to our centralized and decentralized exchange platform, as well as other internal applications as necessary</li>
+<li>Work closely with traders and Aldrin developers and have the opportunity to improve your knowledge of building high-performance scalable applications, understand broader system architecture and understand the cryptocurrency market</li>
+<li>Be passionate about the crypto markets, blockchain technology, and decentralized applications.</li>
 </ul><div><br></div><div>
+<strong>Minimum Qualifications:<br></strong><br>
+</div><ul>
+<li>Professional experience as a back-end developer of 3-5+ years</li>
+<li>Professional experience in Node.js of 3+ years</li>
+<li>Strong experience in Express.js, Docker, Kubernetes</li>
+<li>Significant professional experience programming in Typescript</li>
+<li>Professional experience programming in Golang</li>
+<li>Experience working with a large codebase, distributed teams</li>
+<li>Experience with NoSQL and RDBMS database systems such as PostgreSQL, MySQL, or MongoDB</li>
+<li>Strong understanding of database schema design</li>
+<li>Development experience on cloud computing platform (AWS)</li>
+<li>Strong understanding of networking concepts (load balancers, routers, etc.)</li>
+<li>Experience with high load applications (1000 RPS), performance tuning experience</li>
+</ul><div>
 <br><br>
+</div><div>
+<strong>Nice-to-Have Qualifications:<br></strong><br>
+</div><ul>
+<li>Experience working with a large codebase</li>
+<li>A proactive team player with strong problem solving capabilities</li>
+<li>Passionate about the cryptocurrency market and developing apps using blockchain (e.g. web3.js)</li>
+<li>BS in Computer Science or equivalent</li>
+</ul><div>
+<br><strong>Benefits<br></strong><br>
+</div><ul>
+<li>Competitive salary + equity/tokens</li>
+<li>Remote work in a dynamic, fast-growth Web3 startup</li>
+<li>Flexible working hours</li>
+<li>Opportunity to work with a diverse, global, and passionate team</li>
+<li>Collaboration with leading projects and thought leaders in the crypto space</li>
+</ul><div>
+<br><br>
+</div><div>
+<em>At Aldrin Labs, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.<br></em><br>
 </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toggl-backend-developer-5">https://weworkremotely.com/remote-jobs/toggl-backend-developer-5</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-back-end-developer-node-js-web3-remote">https://weworkremotely.com/remote-jobs/aldrin-senior-back-end-developer-node-js-web3-remote</a></p>
 
                 </details>
                 </td>
@@ -433,7 +441,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>271 days ago</text>
+                <text>272 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-blockchain-developer" align="right" target="_blank">Apply</a>
@@ -478,7 +486,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>630 days ago</text>
+                <text>631 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -557,7 +565,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -634,7 +642,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -681,7 +689,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255729" align="right" target="_blank">Apply</a>
@@ -706,7 +714,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255704" align="right" target="_blank">Apply</a>
@@ -731,7 +739,7 @@
                     <code>developer,rails,ruby,growth</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1255730" align="right" target="_blank">Apply</a>
@@ -756,7 +764,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1255725" align="right" target="_blank">Apply</a>
@@ -781,7 +789,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1255719" align="right" target="_blank">Apply</a>
@@ -806,7 +814,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1255718" align="right" target="_blank">Apply</a>
@@ -831,7 +839,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1255721" align="right" target="_blank">Apply</a>
@@ -856,7 +864,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
