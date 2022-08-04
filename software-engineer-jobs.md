@@ -1,6 +1,6 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/img/jobs/0364d447967a1c0f5b5b238e6f9fe1cd1659397594.png" width="38px" height="auto">
+                    <img src="https://remoteOK.com/assets/img/jobs/0364d447967a1c0f5b5b238e6f9fe1cd1659545941.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>AssemblyAI</h5>
@@ -11,7 +11,7 @@
                     <code>python, aws, scalability</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111871" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>java, senior, marketing</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111767" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>lead, senior, health</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111746" align="right" target="_blank">Apply</a>
@@ -75,54 +75,64 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/0949/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Chainlink Labs</h5>
-                    <h3> Sr. Software Engineer/Data Engineer - Golang/Kafka</h3>
+                    <h5>Affinda</h5>
+                    <h3> Senior/Staff Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>All Other Remote</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
                 <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-sr-software-engineer-data-engineer-golang-kafka" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/affinda-senior-staff-software-engineer-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0076/0949/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> United States
-    <br /><strong>URL:</strong> <a href="https://chainlinklabs.com/careers">https://chainlinklabs.com/careers</a>
+  <strong>Headquarters:</strong> Level 4, 180 Flinders Street Melbourne VIC 3000, Australia
+    <br /><strong>URL:</strong> <a href="https://affinda.com/">https://affinda.com/</a>
 </p>
 
-<div>As a senior software engineer working on Chainlink, you’ll collaborate with the company’s CTO, CEO, and an experienced technical team of other senior engineers, distributed systems computing experts and security experts, who are all committed to building world changing decentralized infrastructure.</div><div><br></div><div>You’ll develop and build highly scalable, secure, and reliable software that will change the way smart contracts function at a fundamental level. You’ll have the opportunity to learn and master the latest research concerning distributed systems, cryptography, blockchains, game theory, consensus algorithms, and decentralized applications.</div><div><br></div><div>You will be given a high level of autonomy/ownership over your projects, the opportunity to expand your scope of knowledge, and the chance to help build the decentralized infrastructure of the future. </div><div>
-<strong><br>Your Impact<br></strong><br>
-</div><ul>
-<li>Designing and implementing new features within the product such as trust minimized off-chain computation, cryptocurrency staking, the aggregation of external data in various blockchain environments, and many more problems</li>
-<li>Thinking creatively about attack vectors, possible failures, and disaster scenarios, modeling them in reproducible test environments, and developing fixes</li>
-<li>Modeling and developing recovery behaviors within our core node software</li>
-<li>Managing the architectural vision for new subsystems in the core Chainlink node</li>
-<li>Implementing resilient distributed systems to achieve extremely high reliability in a variety of blockchain environments</li>
+<div><strong>Role: Full-time Contractor<br>Location: Global (Our team lives in +1 GMT to +10 GMT)<br>Compensation: 100,000 - 180,000 AUD per annum</strong></div><div><br></div><div>We are <strong>Affinda</strong>, an AI Products company that builds world-class solutions. We help companies to embrace AI technologies. Our solutions are used by over 500 companies, we are well funded and are growing &gt;100% p.a.<br><br>
+</div><div><strong>Who are we looking for? </strong></div><div>
+<br>We are looking for a <strong>Senior/Staff Software Engineer</strong> to work on our Draftable product (www.draftable.com). In this role, you will work with our algorithms team to improve our core comparison algorithms. This is a role where you actually use all of the algorithm/data structure knowledge that people usually only need to know for interviews.  <br><br>This role is right for you if: </div><ul>
+<li>You are a pragmatic problem solver who enjoys finding elegant solutions to complex problems.</li>
+<li>You care about choosing the right abstractions, and writing clean and efficient code. </li>
+<li>You enjoy the freedom to proactively identify opportunities and build innovative solutions in a commercial environment.  </li>
+<li>You know how to select the right tool for the job. Be it programming language, framework, library, etc. </li>
+<li>You have an in-depth knowledge of algorithms &amp; data structures. (Bonus: Experience in competitive coding)</li>
+<li>You have 3+ years of software engineering experience.</li>
+<li>You know how to research a technical topic. (Bonus: Experience in reading &amp; implementing research papers)</li>
+<li>You have great communication skills – You express technical solutions clearly.</li>
+<li>You are independent &amp; self-motivated. </li>
 </ul><div>
-<strong><br>Requirements<br></strong><br>
+<br><strong>Affinda’s approach to work</strong>
 </div><ul>
-<li>5+ years of professional software development</li>
-<li>B.S. or higher in computer science, software engineering or related technical field</li>
-<li>Deep experience with Golang</li>
-<li>Expert in distributed computing</li>
-<li>Experience with test-driven development and the use of testing frameworks</li>
-<li>Experience developing complex web applications/services and backend APIs</li>
-<li>Knowledge of systems design concepts</li>
-<li>Strong communication skills, specifically giving/receiving constructive feedback in a collaborative setting</li>
-</ul><div><br></div><div><strong>Our Stack</strong></div><div>Golang, TypeScript, Solidity, Postgres, Terraform, AWS, Kafka</div><div><br></div><div><br></div><div><strong>Our Principles</strong></div><div><br></div><div>At Chainlink Labs, we’re committed to the key operating principles of ownership, focus, and open dialogue. We practice complete ownership, where everyone goes the extra mile to own outcomes into success. We understand that unflinching focus is a superpower and is how we channel our activity into technological achievements for the benefit of our entire ecosystem. We embrace open dialogue and critical feedback to arrive at an accurate and truthful picture of reality that promotes both personal and organizational growth.</div><div><br></div><div><strong>About Chainlink Labs</strong></div><div><br></div><div>Chainlink is the industry standard oracle network for connecting smart contracts to the real world. With Chainlink, developers can build hybrid smart contracts that combine on-chain code with an extensive collection of secure off-chain services powered by Decentralized Oracle Networks. Managed by a global, decentralized community of hundreds of thousands of people, Chainlink is introducing a fairer model for contracts. Its network currently secures billions of dollars in value for smart contracts across the decentralized finance (DeFi), insurance, and gaming ecosystems, among others. The full vision of the Chainlink Network can be found in the <a href="https://research.chain.link/whitepaper-v2.pdf">Chainlink 2.0 whitepaper</a>. Chainlink is trusted by hundreds of organizations—from global enterprises to projects at the forefront of the blockchain economy—to deliver definitive truth via secure, reliable data.  </div><div><br></div><div>This role is location agnostic anywhere in the world, but we ask that you overlap some working hours with Eastern Standard Time (EST).</div><div><br></div><div>We are a fully distributed team and have the tools and benefits to support you in your remote work environment.</div><div><br></div><div><em>Chainlink Labs is an Equal Opportunity Employer.</em></div><div><br></div>
+<li>We are family-friendly with flexible hours and location.  </li>
+<li>We have clear goals and very few meetings.  </li>
+<li>We are a rapidly growing business, and we give you the opportunity to take as much responsibility as you can handle. </li>
+<li>We have a trust-based culture – we promote independence and we help each other out. We work efficiently, without the need for daily stand-ups.  </li>
+<li>We want to empower you to be maximally productive, and we’ll reward you fairly when you are. We reward you on your output and we don’t create arbitrary performance metrics. </li>
+<li>We have a product-led development process. We are agile (but not Agile). We like short milestones. We launch things as soon as they’re ready. We don’t have much technical debt.  </li>
+<li>We are a small, friendly team of experienced professionals. We are all great at what we do and appreciate the value of working with highly competent peers.  </li>
+</ul><div>
+<br><strong>Lifestyle and Diversity</strong><br><br>We understand you have a life outside work, and we will respect your non-working and family time.  <br><br>Affinda is an equal opportunity employer and is committed to building a team that represents a diversity of backgrounds, perspectives, skills and experiences.  <br><br><strong>Our recruitment process </strong><br><br>Want to apply? Send us your CV and a cover letter (we don't accept applications without cover letters).<br><br>The process for qualified candidates is: </div><ol>
+<li>Screening call – An opportunity for you to learn more about what we do </li>
+<li>Technical interview – An opportunity for us to learn about your skillset </li>
+<li>Work Test – A practical demonstration of your skills </li>
+<li>Final stage – Meet with our Chief Scientist </li>
+</ol><div>
+<br>Everyone is different. The above is what we see as the typical process. Depending on the candidate there may be value in additional or fewer steps.  <br><br>This is a role for a software engineer who wants to solve challenging algorithmic problems in a growing company with great opportunities for professional and personal growth.</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-sr-software-engineer-data-engineer-golang-kafka">https://weworkremotely.com/remote-jobs/chainlink-labs-sr-software-engineer-data-engineer-golang-kafka</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/affinda-senior-staff-software-engineer-1">https://weworkremotely.com/remote-jobs/affinda-senior-staff-software-engineer-1</a></p>
 
                 </details>
                 </td>
@@ -138,7 +148,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>150 days ago</text>
+                <text>151 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-blockchain-integrations-1" align="right" target="_blank">Apply</a>
@@ -196,7 +206,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>150 days ago</text>
+                <text>151 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-golang-2" align="right" target="_blank">Apply</a>
@@ -241,6 +251,65 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/2645/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Iterative</h5>
+                    <h3> Senior Software Engineer - Open Source, Dev Tools, Core</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>600 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/iterative-senior-software-engineer-open-source-dev-tools-core" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/2645/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco
+    <br /><strong>URL:</strong> <a href="http://dvc.org">http://dvc.org</a>
+</p>
+
+<h1><strong>## TLDR</strong></h1><div>We’re seeking a senior core, distributed systems engineers to build dev tools. Join our well-funded remote-first <a href="https://dvc.org">DVC</a> team if you love building open source, developer tools, and CLI. If you want to see how your code is used by thousands of developers every day! If you don't mind Python.<br><br><br><strong>What we offer:</strong>
+</div><ul>
+<li>Team is <strong>distributed remotely worldwide</strong>.</li>
+<li>DVC core is still small - 4 folks. You will be one of the first employees and can drive major parts of the product.</li>
+<li>Highly <strong>competitive salary</strong>, stock options, and bonuses.</li>
+<li>
+<strong>Open source-first</strong> company- you work will be visible and will be used by thousands developers every day! This feels great! Check out our Discord and GitHub.</li>
+<li>Founders and team with strong engineering, data science, and open source experience. We all code and understand engineering first-hand.</li>
+<li>Engineering team is involved into product discussions and planning. We do it openly via <a href="https://github.com/iterative/dvc">Github</a> or <a href="http://dvc.org/chat">Discord chat</a>
+</li>
+<li>Besides building the product we participate in conferences (PyCon, PyData, O'Reilly AI, etc). We encourage and support the team in giving talks, writing blog-posts, and other activities.</li>
+<li>Well-defined process that we all participate in improving.</li>
+</ul><div><br></div><h1><strong>## About you</strong></h1><ul>
+<li>Passionate about building highly reliable system software<br>At least one year of experience with file systems, concurrency, multithreading, and server architectures</li>
+<li>Initiative to help shape the engineering practices, products, and culture of a young startup</li>
+<li>
+<strong>Remote work self-discipline.</strong> A lot of our processes are built on trust- we don't like and don't have time to micro-manage</li>
+<li>
+<strong>Python knowledge</strong> and excellent coding culture (standards, unit test,  docs, etc) are required. Alternatively very strong experience with languages like Go, C, Rust + some experience with Python).</li>
+<li>
+<strong>Remote work self-discipline.</strong> A lot of our processes are built on trust- we don't like and don't have time to micro-manage</li>
+<li>
+<strong>Excellent communication skills</strong> - clear, constructive, and respectful dialog  with other team members, community</li>
+<li>
+<strong>Ability to write technical docs</strong>, blogs. Team is responsible to keep basic docs up to date</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/iterative-senior-software-engineer-open-source-dev-tools-core">https://weworkremotely.com/remote-jobs/iterative-senior-software-engineer-open-source-dev-tools-core</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1305612/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -251,7 +320,7 @@
                     <code>backend,developer,git,go</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-go-software-engineer-1305612" align="right" target="_blank">Apply</a>
@@ -356,7 +425,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -424,7 +493,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
