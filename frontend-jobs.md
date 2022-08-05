@@ -11,7 +11,7 @@
                     <code>front end, saas, engineer</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111880" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>crypto, nft, investment</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111782" align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/gohiring-senior-frontend-engineer-react-js" align="right" target="_blank">Apply</a>
@@ -114,61 +114,6 @@
 <br>GOhiring is a profitable, fast growing B2B SaaS company that empowers thousands of enterprise customers to make data-based recruitment decisions. Our great international team of 25 hand picked geeks is passionate about technology and data - working remotely since 2012. If you would like to work with nice and talented people in a software company that cares about thought-through processes, we are waiting for you! </div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/gohiring-senior-frontend-engineer-react-js">https://weworkremotely.com/remote-jobs/gohiring-senior-frontend-engineer-react-js</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5571/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Social Mobile</h5>
-                    <h3> Frontend Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>8 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/social-mobile-frontend-software-engineer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/5571/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Miami, FL
-    <br /><strong>URL:</strong> <a href="https://socialmobile.com/">https://socialmobile.com/</a>
-</p>
-
-<div><strong><em>This position is open to remote workers operating in the CET timezone</em></strong></div><div><br></div><div>We’re Social Mobile, one of the fastest growing technology companies in Florida. As a mobility solutions provider, we offer services critical to organizations that are looking to bring to market innovative mobile products. In layman’s terms, you ask? Well, we design, engineer, and manufacture unique mobile solutions that enable some of the most interesting companies in the world (some of which you likely use regularly) to bring smart solutions to market quickly and efficiently, and then we deploy and support these large-scale fleets of devices to make our client’s business operations even easier.  </div><div><br></div><div>Our clients come from diverse industries, many of which form the cornerstones of our modern society, including healthcare, retail, defense and food delivery. So, in a sense, working at Social Mobile means you’ll be helping to enhance and streamline the functioning of our everyday lives.  </div><div><br></div><div>Still reading? Well, here’s what WE’RE looking for. The ideal Social Mobile employee is someone who is accountable, can work independently or as part of a team, and has an interest in propelling innovative technology into the broader ecosystem. We’re looking for team members that will speak their mind, accept feedback, and continue to drive our growth. </div><div><br></div><div>If you think you fit the bill, and you’re curious to hear more, we’d love to see your application</div><div> </div><div>We are looking for an experienced Frontend Software Engineer to join our globally dispersed Engineering &amp; UX team, within the Product &amp; Engineering department.</div><div> </div><div>The Frontend Software Engineer will be primarily working with Vue, Typescript, Nuxt.js and Vuetify. Are you a self-starter who is well rounded and open to learning new skills? The best fit for this position will work seamlessly with the team reach our goals together. With a focus on transparency, communication, and trust, our team performs best with likeminded teammates that help to foster creativity and solutions. </div><div><br></div><div>This position is available to remote workers, you do not need to be located in Miami.</div><div> </div><div><strong>Responsibilities:</strong></div><div> </div><ul>
-<li>Building out responsive UTs (HTML/CSS/JS)</li>
-<li>Understanding of how to communicate with the APIs in all directions</li>
-<li>Creating and maintaining team/product documentation</li>
-<li>An ability to write tests and understanding of testing</li>
-<li>Assessing and implementing improved processes and new technologies and collaborating with management regarding the implementation of these improvements</li>
-<li>Measure project performance using appropriate tools and techniques via deliverables/milestones/phase completions</li>
-<li>Communicate support to clients to debug and resolve problems </li>
-</ul><div> </div><div><strong>Qualifications:</strong></div><div> </div><ul>
-<li>At least 2 years of front-end experience</li>
-<li>Intimate knowledge of HTML/CSS/JS</li>
-<li>Some knowledge of A11Y and Android Enterprise</li>
-<li>Some knowledge of WebSockets</li>
-<li>Knowledge of design patterns</li>
-<li>Knowledge and experience with core platform technologies (Vue, Nuxt, Vuetify)</li>
-<li>Familiar with GIT/code management solutions</li>
-<li>Experience with Security – can you also tell us about CORS?</li>
-<li>Understanding of UX</li>
-<li>Knowledge and experience with Typescript, WebRTC, Nuxt.js, prototyping &amp; UI design are a plus!</li>
-<li>Ability to debug, troubleshoot issues</li>
-<li>Expertly organized and detail-oriented</li>
-</ul><div><strong><em>This position is open to remote workers operating in the CET timezone</em></strong></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/social-mobile-frontend-software-engineer-1">https://weworkremotely.com/remote-jobs/social-mobile-frontend-software-engineer-1</a></p>
 
                 </details>
                 </td>
