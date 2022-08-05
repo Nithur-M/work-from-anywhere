@@ -1,5 +1,30 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteOK.com/assets/img/jobs/8946a38b04999494ab3e16b3553d87211659524463.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>RDX Works</h5>
+                    <h3>
+					DevOps Engineer				</h3>
+                </td>
+                <td width="300">
+                    <code>dev, devops, crypto</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/111895" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h1 dir="ltr"><br /></h1><h1 dir="ltr">What is the job?Â </h1><p dir="ltr">Would you thrive in a place where you are integral for keeping the core of the business running smoothly? Liaising with internal and external stakeholders you will get to be at the forefront of integrating and maintaining services for the Radix Network.Â </p><p dir="ltr">As the DevOps Engineer you will be working closely with our specialist growth developer and the Head of Engineering to ensure that our external exchange partners are integrated smoothly and have any technical issues solved quickly.</p><p dir="ltr">You will have the opportunity to grow your technical knowledge but also become an expert on the Radix Network Gateway. We will also champion to push your professional development by taking advantage of our personal Â£2000 annual training &amp; development budget.</p><p dir="ltr">If you are an inquisitive person that loves to challenge yourself and learn quickly by solving problems, then you could be a great fit for the RDX Family.</p><h2 dir="ltr">What are we looking for?Â </h2><ul><li dir="ltr"><p dir="ltr">Youâll provide support for integration with exchanges during the integration phase and future upgrades.</p></li><li dir="ltr"><p dir="ltr">Youâll coordinate across different channels, both within RDX Works and exchanges to overcome technical challenges, manage/mitigate risks, and ensure the successful integration with the Radix network.</p></li><li dir="ltr"><p dir="ltr">Youâll become an expert on Radix Network Gateway and answer detailed questions from exchanges on functionality, and best practices/recommendations for integration.</p></li><li dir="ltr"><p dir="ltr">Youâll maintain and improve documentation for exchanges and internal use. Therefore, having experience collecting and documenting requirements in formats such as user stories &amp; use cases would be advantageous.</p></li><li dir="ltr"><p dir="ltr">You could be a great fit, if our company values resonate with you - Ask for help, Get shit done. Be excellent to each other. Take the initiative, Youâve got this. Do the right thing, not the easy thing. Strong opinions, loosely held.</p></li></ul><h2 dir="ltr">What do you need?<strong></strong></h2><ul><li dir="ltr"><p dir="ltr">Youâll be comfortable supporting &amp; working with external clients</p></li><li dir="ltr"><p dir="ltr">We use Docker, Docker-compose and a variety of cloud platforms (AWS/Azure), so weâd like to see demonstrable knowledge.</p></li><li dir="ltr"><p dir="ltr">You would need to be familiar with DevOps principles and practices.</p></li><li dir="ltr"><p dir="ltr">You must have scripting experience, we are happy with either Shell or Python.</p></li><li dir="ltr"><p dir="ltr">Being comfortable speaking &amp; presenting to technical and non-technical audiences.</p></li><li dir="ltr"><p dir="ltr">Being comfortable taking the initiative and enjoying solving problems by using your technical nouse.</p></li><li dir="ltr"><p dir="ltr">Technically we would like to see experience with Linux &amp; working in, deploying, and troubleshooting NodeJS/C# based solutions.</p></li></ul><h1 dir="ltr">Who are we?Â </h1><p dir="ltr">At RDX Works, we're a team of like-minded thinkers who have long been convinced that we're living in the earliest stages of a global financial revolution. This revolution is being fuelled by decentralized finance (or DeFi for short), which is enabling an assortment of pioneering developers and entrepreneurs to re-invent almost every financial product that is currently traded and invested in traditional markets, without requiring central authorities or siloed infrastructure. DeFi has captured a great deal of attention and investment in the crypto-aware niche, growing assets under management from $1 billion to over $200 billion in a few years. Impressive as its growth has been, its current market size isn't even a rounding error on the over $400 trillion held in traditional finance. We're focused on what it will take to go from billions to trillions.</p><p dir="ltr">RDX went back to first principles to come up with the right technical solutionâthe first layer-one protocol built specifically for mainstream DeFiâand we have already tested out at over 1 million transactions per second. We're keenly aware that the need for an infinitely scalable platform is only one prerequisite among many for mass adoption, and we're also blazing new ground in the areas of purpose-built developer tools, user experiences, and regulatory integration.</p><p dir="ltr">We have forged a path deep into the future of what distributed ledger technology is going to look like and we need you to come and be part of the team that is making that happen right now.</p><p dir="ltr">If this job sounds like it was made for you, then please apply directly via the link or if you donât have an up to date CV to apply with, contact paulina.baranowska@rdx.works for more information.</p><p dir="ltr">Check out our company benefits here - <a href="https://www.rdx.works/careers">RDX Works Benefits</a></p><p dir="ltr">Alternatively, if you feel like you donât match all of the requirements, we would love you to still apply anyway. We understand that confidence gaps and imposter syndrome can get in the way of meeting incredible candidates and we wouldnât want this to prevent us from meeting you; especially as we are big advocates of helping people learn &amp; grow. This is also another reason we do not advertise salaries, we want to keep it as even a playing field as possible!Â </p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteOK.com/assets/img/jobs/e184d581d726195dfa821db4b8a3098c1659440694.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -11,7 +36,7 @@
                     <code>dev, devops, infrastructure</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111879" align="right" target="_blank">Apply</a>
@@ -35,7 +60,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>63 days ago</text>
+                <text>64 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-devops-engineer-1" align="right" target="_blank">Apply</a>
@@ -91,7 +116,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1255728" align="right" target="_blank">Apply</a>
