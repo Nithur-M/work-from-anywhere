@@ -1,5 +1,30 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/2217c3c70719930c2bab5e594fd68f6b1659654005.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Ethereum Foundation</h5>
+                    <h3>
+					Front End TypeScript Developer				</h3>
+                </td>
+                <td width="300">
+                    <code>front end, javascript, react</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/111934" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                About the Ethereum FoundationThe Ethereum Foundation (EF) is a global non-profit organization dedicated to supporting Ethereum and related technologies. Our mission is to do what is best for Ethereumâs long-term success. Our role is to allocate resources to critical projects, to be a valued voice within the Ethereum ecosystem, and to advocate for Ethereum to the outside world.About RemixRemix is building tools for smart contract development. We are dedicated to helping the Ethereum community by improving its developer experience and often collaborate with different teams from the Ethereum ecosystem (e.g. the Solidity team).We focus on multiple areas of developer tooling:+ Remix libraries are a set of modules critical for dev tools (solidity compiler, unit testing, debugging, static analysis, ...). + Remix IDE is the application front end which makes use of these modules. + Remix plugins provides an API for external teams to integrate with Remix IDE.As a member of our team, you will help us maintain and break new ground in blockchain development.We are located in Berlin in a wonderful office but remote working is also possible. Our team is composed of people from Berlin and abroad (France, US, India, Nigeria). We usually meet everyone in person several times a year for team gathering or conferences (Devcon, EthCC, Dappcon, etc.)About YouWe are looking for a talented frontend developer with strong React skills to help us design, build and maintain Remix IDE.We aim to diversify the scope of your activities as much as possible, and you will work with us in the Remix IDE project in organizing workshops, keeping in touch with the community and trying to make blockchain development accessible to the mainstream.To apply to this position, please respond to our questions in the application form, along with a resume or CV. Bonus points for adding a link to open source contributions or projects done by you!
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteOK.com/assets/img/jobs/8591ebe908806082f1aeeffdb16b0f1f1659447538.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -11,7 +36,7 @@
                     <code>ios, mobile, ops</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111885" align="right" target="_blank">Apply</a>
@@ -36,7 +61,7 @@
                     <code>django, vue js, typescript</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111869" align="right" target="_blank">Apply</a>
@@ -50,52 +75,88 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/img/jobs/301e7710332642f5edb97867604c2ea11658563605.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5985/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Fluid AI</h5>
-                    <h3>
-					Nodejs Fullstack Developer For AI Chatbot Product				</h3>
+                    <h5>Merchstack</h5>
+                    <h3> Senior Frontend Developer (SaaS)</h3>
                 </td>
                 <td width="300">
-                    <code>javascript, node, express</code>
+                    <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/111761" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/merchstack-senior-frontend-developer-saas" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>You will be working on the companies Nodejs Chatbot Product (<span><span class="loader-wrapper"><a class="css-1xdzogm eeajecn0" href="https://www.fluid.ai/conversational-ai"><span class="css-1p7ax5 e158gagu2"><span class="smart-link-title-wrapper css-0 e158gagu8">https://www.fluid.ai/conversational-ai</span></span></a></span></span>), it's built using Nodejs Express, Reactjs, Docker. We will give you a platform to learn other technologies as well like Kubernetes, GraphQL, Redux etc.</p><p>We use teamflowhq for our virtual office (you can work from anywhere) and some tools like Miro, Slack, Jira, Confluence, AWS Workspace, Coder.com for our work and collaboration. Small but powerful team that's constantly innovating and learning, with a helpful and collaborative culture with Mangement that codes.</p><p>We like working with small teams and self reliant coders who love learning and exploring and pushing code quickly.</p><p><strong>Measure of Success</strong></p><p>Success will be measured based on the quality of code &amp; architecture, success of features and functionality that you build into the chatbot product and the speed with which you execute new requirements that come in.</p><p><br /></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/img/jobs/9394abe3c40f48f7972dcf11f490af641659545979.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>AssemblyAI</h5>
-                    <h3>
-					Developer Educator Machine Learning				</h3>
-                </td>
-                <td width="300">
-                    <code>devrel, ml, pytorch</code>
-                </td>
-                <td width="200">
-                <text>13 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/111756" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro"><p><strong>AssemblyAI is an AI company - we build powerful models to transcribe and understand audio data, exposed through simple APIs.</strong></p><p>Hundreds of companies, and thousands of developers, use our APIs to both transcribe and understand millions of videos, podcasts, phone calls, and zoom meetings every day. Our APIs power innovative products like conversational intelligence platforms, zoom meeting summarizers, content moderation, and automatic closed captioning.</p><p><strong>Weâve been growing at breakneck speed, and are backed by leading investors including Y Combinatorâs AI Fund, Patrick and John Collision (Founders of Stripe), Nat Friedman (Former CEO of GitHub), and Daniel Gross (Entrepreneur &amp; Investor in companies including GitHub, Uber, Coinbase, SpaceX, Instacart, Notion, and Cruise Automation).</strong></p><p>AssemblyAIâs Speech-to-Text APIs are already trusted by Fortune 500s, startups, and thousands of developers around the world,Â <strong>with well-known customers including Spotify, Algolia, Dow Jones, The Wall Street Journal, and NBCUniversal.</strong>Â As part of a huge and emerging market, AssemblyAI is well on its way to becoming the leader in speech recognition and NLP.</p><p><strong>Join our world-class, remote team and help us build an iconic deep learning company.</strong></p><h2><strong>Our Team</strong></h2><p><strong>We are a fully remote team made up of problem solvers, innovators and top AI researchers with 20+ years of experience in Machine Learning, Speech Recognition, and NLP from places like DeepMind, Google, Meta, Amazon, Apple, and Cisco.</strong>Â Our culture is super collaborative, low-ego, transparent, and fast-paced. We want to win - and have a flat organization where everyone can openly share ideas (regardless of their title or position) in order to get the best idea.</p><p>As a remote company, our team members are given a lot of trust and autonomy to work where and how they want. We look for people to join our team who are ambitious, curious, and self-motivated, and we put a lot of trust and autonomy into everyone on our team.Â <strong>We want to empower everyone to do their best work with whatever tools, structures, or resources they need to perform at their highest potential.</strong></p></div><h2><strong>The Role</strong></h2><p>AssemblyAI is growing quickly, and weâre searching for a Developer Educator who will create high quality content for the developer community. With significant investment and strong leadership to fuel our growth, itâs the perfect time to join the AssemblyAI team!</p><p>In this role youâll have the opportunity to:</p><ul><li><span class="notion-enable-hover"><strong>Create high quality programming and machine learning content for the developer community.</strong>Â </span>Content created by our Developer Education team willÂ <span class="discussion-level-1 discussion-id-982e00b2-f801-4698-bc36-e475a80bd1e5 notion-enable-hover">include technical deep dives on the AssemblyAI blog.</span></li></ul><ul><li><strong>Create projects &amp; tutorials with our API and interact with developers in our community.</strong>Â You will create tutorials and example projects with the AssemblyAI API, new AssemblyAI features, and interact with our community of developers on Reddit, Hacker News, and Discord</li></ul><p><strong>To see the work our Developer Education team has been up to so far, you can check out the below content:</strong></p><ul><li><a href="https://www.assemblyai.com/blog/how-dall-e-2-actually-works/">How Does DALL-E 2 Actually Work?</a></li><li><a class="discussion-level-1 discussion-id-2a18fb3a-53b8-48c4-b0bc-040b25323a8c notion-link-token notion-enable-hover" href="https://www.assemblyai.com/blog/diffusion-models-for-machine-learning-introduction/"><span class="link-annotation-unknown-block-id--662876250">Introduction to Diffusion Models for Machine Learning</span></a></li><li><span class="link-annotation-unknown-block-id--662876250"><a class="notion-link-token notion-enable-hover" href="https://www.assemblyai.com/blog/transcribe-twilio-phone-calls-in-real-time-with-assemblyai/"><span class="link-annotation-unknown-block-id--633386418">T</span></a><a class="notion-link-token notion-enable-hover" href="https://www.assemblyai.com/blog/transcribe-twilio-phone-calls-in-real-time-with-assemblyai/"><span class="link-annotation-unknown-block-id--633386418">ranscribe Twilio Phone Calls in Real-Time with AssemblyAI</span></a></span></li></ul><h2><strong>Requirements</strong></h2><div class="styles--2kg4_"><ul><li>3+ years of experience with Python</li><li>Some experience with Machine Learning or Deep Learning libraries like PyTorch, TensorFlow, Keras, SciPy, etc.</li><li>A proven interest in creating educational or interesting developer content (blogs, open source projects, etc.)</li><li>A plus would be some experience with SEO or marketing</li><li>Experience with writing scalable, reliable, performant and overall high quality components and applications</li><li>Experience working with API's</li><li>Start-up experience</li></ul><h2><strong>Skills</strong></h2><ul><li>Ability to effectively communicate complex technical topics in a simple way</li><li>You are a self-starter, well organized, creative, results-oriented, quality minded and a team-first player</li><li>Great relationship builder and networker</li><li>Strong written &amp; verbal communication, research, and presentation skills</li></ul><h2><strong>Benefits (US)</strong><br /></h2></div><div class="content-conclusion"><ul><li>Competitive Salary + Bonus</li><li>Equity</li><li>100% Remote team</li><li>Unlimited PTO</li><li>Premium Healthcare (100% Covered for you + dependents)</li><li>Vision &amp; Dental Care</li><li>$1K budget for your home office setup</li><li>New Macbook Pro (or PC if you prefer)</li><li>3-4x/year company paid team retreat</li></ul></div>
+                <img src="https://we-work-remotely.imgix.net/logos/0077/5985/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Houston, TX
+    <br /><strong>URL:</strong> <a href="https://merchstack.io">https://merchstack.io</a>
+</p>
+
+<div>
+<br>Merchstack is looking for an experienced Frontend Developer to help architect, build, and evolve our frontend operator experiences. We’re seeking developers who think about the Frontend in terms of systems, reuse, flexibility, and performance.<br><br>
+</div><div>
+<br>To succeed in this role, you will need a breadth of experience working in data-rich applications, an eye for clean design, a thorough understanding of modern web architecture, excellent communication skills, and a practical, non-dogmatic approach to problem-solving.<br><br>
+</div><div>
+<strong><br>What you’ll do<br></strong><br>
+</div><ul>
+<li>Develop new user-facing web features using React and 3rd party frameworks inside of the React eco-system.</li>
+<li>Build highly responsive UI components using React and TailwindCSS.</li>
+<li>Optimize our application for maximum speed and scalability.</li>
+<li>Ensure web designs are responsive and architected in a scalable fashion.</li>
+<li>Build engaging, easy-to-use, accessible interfaces that delight and empower users.</li>
+<li>Work with design and product functions to implement designs.</li>
+<li>Work with the backend engineers to ensure a seamless user experience.</li>
+<li>Build reusable code for future use.</li>
+<li>Provide clarity and mentorship to junior developers.</li>
+</ul><div>
+<strong><br>The Stack<br></strong><br>
+</div><ul>
+<li>React, Typescript and TailwindCSS</li>
+<li>Apollo GraphQL with subscriptions powering client-side events.</li>
+<li>Cloudflare as a CDN for static assets and workers caching API response data.</li>
+<li>Docker and Kubernetes</li>
+<li>Git via the Gitflow branching model</li>
+</ul><div>
+<strong><br>What we look for<br></strong><br>
+</div><ul>
+<li>5+ years of proven experience building stateful, data-orientated SPAs with React and tools inside of the React ecosystem.</li>
+<li>Confident in leveraging relational data sources at scale, this includes but is not limited to a deep understanding of data cardinality, data structures and efficient client-side memory management for large datasets and fast-moving dimensions.</li>
+<li>SASS, CSS and HTML and an understanding of CSS modules or CSS in JS</li>
+<li>Advanced Typescript knowledge and desire to use more advanced Typescript concepts to reduce boiler-plate.</li>
+<li>Will not write O(n!) code.</li>
+<li>Good understanding of Internet protocols: TCP/IP, HTTP, WebSocket and demonstratable web performance tuning skills</li>
+<li>Knowledge of the software development lifecycle (version control, tooling, testing, etc.)</li>
+</ul><div>
+<strong><br>Bonus points<br></strong><br>
+</div><ul>
+<li>Experience with visualization frameworks such as D3.js.</li>
+<li>Webpack/Rollup.</li>
+<li>Functional understanding of service-based architecture.</li>
+<li>Packaging container-based applications with an emphasis on small footprints.</li>
+<li>An active Github account, showcasing your own projects</li>
+</ul><div>
+<strong><br>About you<br></strong><br>
+</div><ul>
+<li>You are detail-oriented and focus on delivering seamless, reliable experiences.</li>
+<li>You care about code quality and are committed to writing strongly typed, well-tested code.</li>
+<li>You are intrinsically motivated, able to manage your time, and enjoy working with a distributed team across the globe.</li>
+<li>You believe in asking for help and helping others when they ask, never throwing a problem over the wall</li>
+<li>You approach problems with curiosity, creativity, and flexibility.</li>
+<li>You strive to foster relationships in order ensure healthy debate.</li>
+<li>You show gratitude and give back.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/merchstack-senior-frontend-developer-saas">https://weworkremotely.com/remote-jobs/merchstack-senior-frontend-developer-saas</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -110,7 +171,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-wordpress-developer-1" align="right" target="_blank">Apply</a>
@@ -180,176 +241,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/0522/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Crypto Excellence</h5>
-                    <h3> Fullstack Developer </h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/crypto-excellence-fullstack-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/0522/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Portugal
-    <br /><strong>URL:</strong> <a href="http://cryptoexcellence.xyz">http://cryptoexcellence.xyz</a>
-</p>
-
-<div>
-<strong><br>Full-Stack Developer <br></strong><br>
-</div><div>
-<br>We are looking for a Full-Stack developer to join our team.  We are an emerging technology company focused on long lasting and impactful tech solutions.   <br><br>
-</div><div>
-<strong><br>Responsibilities<br></strong><br>
-</div><div>
-<br>As a full-stack developer, you will have the chance to work across the full spectrum of our systems.  <br><br>
-</div><div>
-<br> You will assist in the development of our back-end infrastructure, by building secure and efficient API endpoints and normalized database systems. You will design and implement efficient and scalable features for our bots. You will develop new user-facing features and build reusable components with an emphasis on modularization.    <br><br>
-</div><div>
-<br>Working across the stack, you will be optimizing components for maximum performance and writing code using primitives and open source modules. You will ensure that code is thoroughly unit tested and the overall application is easy to maintain and scalable. You will coordinate with the rest of the team working on different layers of the infrastructure, so collaborative problem solving and quality code is valued.  <br><br>
-</div><div>
-<br><br>
-</div><div>
-<strong><br>Requirements - Preferred<br></strong><br>
-</div><ul>
-<li> Bachelor’s or Master’s degree in Computer Science or equivalent experience. <br><br>Hands-on experience building client applications or dashboards. <br><br>
-</li>
-<li>Experience designing database systems (SQL/NoSQL). <br><br>
-</li>
-<li>Experience building secure API data endpoints. <br><br>
-</li>
-<li>Experienced developing components and front-end hooks in React.js, for requests to API endpoints, local storage, caching, etc. <br><br>
-</li>
-<li>Experience with common front-end tools such as Webpack, NPM, etc.  <br><br>
-</li>
-<li>Experience in Python, Javascript/Typescript, C++, and/or Rust. <br><br>
-</li>
-<li>Understanding of the general concept and framework behind a Discord Bot platform aimed for large-scale client use. <br><br>
-</li>
-<li>Good understanding of back-end infrastructure, especially how it interrelates with a front-end dashboard and Discord Bots. <br><br>
-</li>
-<li>Practical experience with Production environments (linux package updates, ec2 instances, nginx configs, etc.)  <br><br>
-</li>
-<li>Experienced with error handling and logging best practices. <br><br>
-</li>
-<li>Experienced with performance benchmarking, diagnostics, and optimization.  <br><br>
-</li>
-<li>Experienced with Git versioning and bash commands. <br><br>
-</li>
-<li>Experienced with the VS Code IDE. <br><br>
-</li>
-<li>Urge to innovate and change the tech industry. <br><br>
-</li>
-</ul><div>
-<br><br><strong>Bonus <br></strong><br>
-</div><ul>
-<li> Experience making Discord bots using Discord.py and/or Discord.js </li>
-<li>2+ years of professional experience as a Back-end or Full-Stack Developer, writing code deployed to production. </li>
-<li>Practical experience with Dockerized environments. </li>
-<li>Experience reviewing code and managing servers. <br><br>
-</li>
-</ul><div>
-<strong><br>Get in touch<br></strong><br>
-</div><div>
-<br>We believe diverse teams help us make better products. Therefore we accept application from all people regardless of age, gender, religion and all other categorizations. <br><br><br><strong>Recruitment process</strong><br>We will invite suitable candidates to learn more about you and introduce ourselves.<br>If our expectations align we will be giving you a technical assignment and invite you to a technical interview. There will be a final interview with our lead partners before the work officially commences. <br><br>
-</div><div>
-<br>Make sure to send in your application and include a link to your GitHub as soon as possible as the position can be filled before the last application day. We look forward to hearing from you. <br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/crypto-excellence-fullstack-developer">https://weworkremotely.com/remote-jobs/crypto-excellence-fullstack-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5868/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Aldrin</h5>
-                    <h3> Senior Back-End Developer Node.js Web3 (Remote)</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-back-end-developer-node-js-web3-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/5868/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Europe
-    <br /><strong>URL:</strong> <a href="https://aldrin.com">https://aldrin.com</a>
-</p>
-
-<div>
-<strong>The Role<br></strong><br>
-</div><div>We are looking for a Senior Back-End Developer skilled in designing, building, and deploying highly secure, scalable, and maintainable backend services for the Aldrin decentralized exchange.<br><br>
-</div><div>You will:<br><br>
-</div><ul>
-<li>Develop backend service for Aldrin’s new products, including but not limited to our centralized and decentralized exchange platform, as well as other internal applications as necessary</li>
-<li>Work closely with traders and Aldrin developers and have the opportunity to improve your knowledge of building high-performance scalable applications, understand broader system architecture and understand the cryptocurrency market</li>
-<li>Be passionate about the crypto markets, blockchain technology, and decentralized applications.</li>
-</ul><div><br></div><div>
-<strong>Minimum Qualifications:<br></strong><br>
-</div><ul>
-<li>Professional experience as a back-end developer of 3-5+ years</li>
-<li>Professional experience in Node.js of 3+ years</li>
-<li>Strong experience in Express.js, Docker, Kubernetes</li>
-<li>Significant professional experience programming in Typescript</li>
-<li>Professional experience programming in Golang</li>
-<li>Experience working with a large codebase, distributed teams</li>
-<li>Experience with NoSQL and RDBMS database systems such as PostgreSQL, MySQL, or MongoDB</li>
-<li>Strong understanding of database schema design</li>
-<li>Development experience on cloud computing platform (AWS)</li>
-<li>Strong understanding of networking concepts (load balancers, routers, etc.)</li>
-<li>Experience with high load applications (1000 RPS), performance tuning experience</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>Nice-to-Have Qualifications:<br></strong><br>
-</div><ul>
-<li>Experience working with a large codebase</li>
-<li>A proactive team player with strong problem solving capabilities</li>
-<li>Passionate about the cryptocurrency market and developing apps using blockchain (e.g. web3.js)</li>
-<li>BS in Computer Science or equivalent</li>
-</ul><div>
-<br><strong>Benefits<br></strong><br>
-</div><ul>
-<li>Competitive salary + equity/tokens</li>
-<li>Remote work in a dynamic, fast-growth Web3 startup</li>
-<li>Flexible working hours</li>
-<li>Opportunity to work with a diverse, global, and passionate team</li>
-<li>Collaboration with leading projects and thought leaders in the crypto space</li>
-</ul><div>
-<br><br>
-</div><div>
-<em>At Aldrin Labs, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.<br></em><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-back-end-developer-node-js-web3-remote">https://weworkremotely.com/remote-jobs/aldrin-senior-back-end-developer-node-js-web3-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -360,7 +251,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vidalytics-sr-php-developer-microservices-slimphp-laminas-symfony-2" align="right" target="_blank">Apply</a>
@@ -452,6 +343,31 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1255727/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3>Senior Drupal Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,drupal,growth,design</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your full-time freelance career as a top freelance developer with Toptal.</em></span></p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.</p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </span>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.</p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.</p><span style="color: var(--remotive-chocolate);"><br></span><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="color: var(--remotive-chocolate);">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</span></p><span style="color: var(--remotive-chocolate);"><br></span><ul style="border-style: initial; margin-bottom: 24px; margin-left: 24px; padding-left: 0px; vertical-align: baseline; list-style-type: none;"><li style="border-style: initial; margin: 0px 0px 8px; padding: 0px 0px 0px 8px; vertical-align: baseline; list-style: disc;">English language proficiency</li><li style="border-style: initial; margin: 0px 0px 8px; padding: 0px 0px 0px 8px; vertical-align: baseline; list-style: disc;"><span style="border-style: initial;">3+ years</span> of professional experience in software development</li><li style="border-style: initial; margin: 0px 0px 8px; padding: 0px 0px 0px 8px; vertical-align: baseline; list-style: disc;">Proficiency in <span style="border-style: initial;">Drupal</span> is required</li><li style="border-style: initial; margin: 0px 0px 8px; padding: 0px 0px 0px 8px; vertical-align: baseline; list-style: disc;">Experience with system architecture or leading a software team is a strong advantage</li><li style="border-style: initial; margin: 0px 0px 8px; padding: 0px 0px 0px 8px; vertical-align: baseline; list-style: disc;"><span style="border-style: initial;">Full-time availability</span> is a strong advantage</li></ul><span style="color: var(--remotive-chocolate);"><br></span><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Curious to know how much you could make? Check out our Drupal developer rate calculator: <a class="in-cell-link" href="https://topt.al/e8cvQJ" rel="nofollow" style="text-align: center;" target="_blank">https://topt.al/e8cvQJ</a></p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a class="in-cell-link" href="https://topt.al/AKc4dk" rel="nofollow" style="text-align: center;" target="_blank"><strong>https://topt.al/AKc4dk</strong></a></p>
+<img src="https://remotive.com/job/track/1255727/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1342094/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -462,7 +378,7 @@
                     <code>android,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
@@ -533,7 +449,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -610,7 +526,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -657,7 +573,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255729" align="right" target="_blank">Apply</a>
@@ -682,7 +598,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255704" align="right" target="_blank">Apply</a>
@@ -707,7 +623,7 @@
                     <code>developer,rails,ruby,growth</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1255730" align="right" target="_blank">Apply</a>
@@ -732,7 +648,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1255725" align="right" target="_blank">Apply</a>
@@ -757,7 +673,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1255719" align="right" target="_blank">Apply</a>
@@ -782,7 +698,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1255718" align="right" target="_blank">Apply</a>
@@ -807,7 +723,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1255721" align="right" target="_blank">Apply</a>
@@ -832,7 +748,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
