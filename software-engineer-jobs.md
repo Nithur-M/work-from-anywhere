@@ -11,7 +11,7 @@
                     <code>python, aws, scalability</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111871" align="right" target="_blank">Apply</a>
@@ -21,31 +21,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="content-intro"><p><strong>AssemblyAI is an AI company - we build powerful models to transcribe and understand audio data, exposed through simple APIs.</strong></p><p>Hundreds of companies, and thousands of developers, use our APIs to both transcribe and understand millions of videos, podcasts, phone calls, and zoom meetings every day. Our APIs power innovative products like conversational intelligence platforms, zoom meeting summarizers, content moderation, and automatic closed captioning.</p><p><strong>Weâve been growing at breakneck speed, and are backed by leading investors including Y Combinatorâs AI Fund, Patrick and John Collision (Founders of Stripe), Nat Friedman (Former CEO of GitHub), and Daniel Gross (Entrepreneur &amp; Investor in companies including GitHub, Uber, Coinbase, SpaceX, Instacart, Notion, and Cruise Automation).</strong></p><p>AssemblyAIâs Speech-to-Text APIs are already trusted by Fortune 500s, startups, and thousands of developers around the world,Â <strong>with well-known customers including Spotify, Algolia, Dow Jones, The Wall Street Journal, and NBCUniversal.</strong>Â As part of a huge and emerging market, AssemblyAI is well on its way to becoming the leader in speech recognition and NLP.</p><p><strong>Join our world-class, remote team and help us build an iconic deep learning company.</strong></p><h2><strong>Our Team</strong></h2><p><strong>We are a fully remote team made up of problem solvers, innovators and top AI researchers with 20+ years of experience in Machine Learning, Speech Recognition, and NLP from places like DeepMind, Google, Meta, Amazon, Apple, and Cisco.</strong>Â Our culture is super collaborative, low-ego, transparent, and fast-paced. We want to win - and have a flat organization where everyone can openly share ideas (regardless of their title or position) in order to get the best idea.</p><p>As a remote company, our team members are given a lot of trust and autonomy to work where and how they want. We look for people to join our team who are ambitious, curious, and self-motivated, and we put a lot of trust and autonomy into everyone on our team.Â <strong>We want to empower everyone to do their best work with whatever tools, structures, or resources they need to perform at their highest potential.</strong></p></div><h2><strong>The Role</strong></h2><p class="p1">We're looking for a senior backend engineer with strong software and cloud engineering skills. You'll help us build highly scalable developer-centric APIs and backend systems powered by state-of-the-art ML models. Some of your responsibilities will include:</p><ul class="ul1"><li class="li2">Build new API features and endpoints</li><li class="li2">Build automated test suites and CI/CD pipelines</li><li class="li2">Build highly scalable event-driven and realtime systems</li><li class="li2">Instrument systems with metrics, tracing, and logging</li><li class="li2">Refactor applications to eliminate tech debt</li><li class="li2">Troubleshoot production issues</li></ul><h2><strong>You'll love this job if you....</strong></h2><ul><li class="li2">Enjoy solving complex technical problems, even when there is no perfect solution.</li><li class="li2">Enjoy being in a fast-paced, customer-facing role.</li><li class="li2">Thrive in small, cross-functional teams. We like to wear many hats here!</li><li class="li3">You're excited to tackle big technical challenges like building highly scalable architectures and achieving zero-downtime deploys.</li></ul><h2><strong>Requirements</strong></h2><div class="styles--2kg4_"><ul class="ul1"><li class="li2">2+ years of experience working with Python</li><li class="li2">2+ years of working with SQL and NoSQL databases</li><li class="li2">2+ working with Python backend frameworks like Django, Flask, or Tornado</li><li class="li2">2+ years developing REST APIs</li><li class="li2">2+ years working with common AWS services</li><li class="li2">2+ years of production support experience</li><li class="li2">Startup or FAANG-type experience - Has worked at a startup or high growth company</li><li class="li3">Deep AWS knowledge - Has many years of experience solutioning within AWS</li><li class="li2">Strong Python coding abilities - Can pass difficult programming challenges in a relatively short period of time. Can speak clearly about their thinking throughout these challenges. Can speak to O-notation of algorithms. Has excellent knowledge of common python idioms and libraries.</li><li class="li2">Leadership experience - Has led large projects and/or teams towards a big goal with success</li><li class="li2">High scalability experience - Has been a tech leader on scaling systems to hundreds of millions of requests/events per day. Has experience with hyper-observability, scaling algorithms, and using production data to drive system changes</li></ul><h2><strong>Skills</strong><br /></h2><ul class="ul1"><li class="li2">Amazing system design chops - When given a hard problem to solve with a new system, they can quickly shape an effective design and communicate its strengths, weaknesses, and tradeoffs.</li><li class="li2">High-octane thinking - Engages deeply on subjects of expertise. Thinks ahead many steps and can see where decisions are likely to lead. Their brains compute at a very high level.</li><li class="li2">Extremely creative - Can find both novel and effective solutions within highly constrained time and resources</li><li class="li2">Fast learner - Has shown they can ramp up on difficult topics very fast</li><li class="li2">Exceptional gut instincts - Can practically feel when something is right or wrong. Can use these instincts to quickly point themselves in the right direction.</li><li class="li1">Opinionated - They have convictions in what they believe and can communicate their position clearly without drama.</li></ul><h2><strong>Nice to Have</strong></h2><div class="styles--2kg4_"><ul><li>Machine learning experience - Has worked with machine learning models at scale</li><li>Experience integrating and deploying ML models into production</li></ul></div></div><div class="content-conclusion"><h2><strong>Benefits (US)</strong></h2><ul><li>Competitive Salary + Bonus</li><li>Equity</li><li>100% Remote team</li><li>Unlimited PTO</li><li>Premium Healthcare (100% Covered for you + dependents)</li><li>Vision &amp; Dental Care</li><li>$1K budget for your home office setup</li><li>New Macbook Pro (or PC if you prefer)</li><li>3-4x/year company paid team retreat</li></ul></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/718745fb0c965d45747d24f72125f0661658592009.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DISQO</h5>
-                    <h3>
-					Senior Software Engineer Java				</h3>
-                </td>
-                <td width="300">
-                    <code>java, senior, marketing</code>
-                </td>
-                <td width="200">
-                <text>12 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/111767" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                DISQO is changing the way that the worldâs largest brands, agencies and consumer intelligence companies get to know their consumers. Weâve built the first identity-based platform that combines consumer attitudes and behaviors together to power the most accurate and predictive insights solutions for our customers, and we do all of that with the willing participation of our consumers and without using outdated technologies like third-party cookies. We help our customers get a cross-platform view into consumer sentiment, measure advertising effectiveness, analyze consumer purchase journeys, and ultimately grow their brands.Our mission is to build the most trusted insights platform that fuels brand growth. With over one million active members sharing their attitudes and behaviors, DISQO is looking to expand, improve and create world-class applications for people to openly share their data for research.Check out the DISQO Developer Blog for the latest from our DISQOTECH team.This is a great opportunity to join a fun, exciting & highly motivated team and upgrade your skills while creating real impact. We use a modern tech stack and cloud infrastructure. We are not only looking for work experience, but rather the willingness to step up to challenges and the ability to learn quickly.We believe the best software is written and managed by small autonomous teams that know how to make the impossible possible. We use agile software development techniques and modern tools to focus our efforts on solving our business goals. We use OKRs to track everything we do. We deliver early and often. We obsess over our code, architecture, and infrastructure. And we believe that these practices lead to higher quality products.Â #LI-Remote#LI-SG1Perks & Benefits:Â·100% covered Medical/Dental/Vision for employee, 80% for dependentsÂ·EquityÂ·Generous PTO policyÂ·Flexible workplace policyÂ·Team OffsitesÂ·Life InsuranceÂ·FSAÂ·Paid Maternity/Paternity leaveÂ·Disability InsuranceÂ·Travel Assistance ProgramÂ·24/7 Counseling Services offered to EmployeesÂ·Access to personal and professional growth tools - Calm App & LinkedIn LearningNote: The benefits noted above are for full time US based employees only.DISQO is an equal opportunity employer. Discovery, innovation, and growth are possible when we open ourselves to new possibilities, perspectives, and approaches. Thatâs why, at DISQO, we welcome, support, and empower individuals from diverse backgrounds. Exceptional teams are rooted in extraordinary people, each with a unique story and a compelling set of skills. DISQO does not discriminate against employees based on race, color, religion, sex, national origin, gender identity or expression, age, disability, pregnancy (including childbirth, breastfeeding, or related medical condition), genetic information, protected military or veteran status, sexual orientation, or any other characteristic protected by applicable federal, state or local laws.*Recruiting firms that submit resumes to DISQO without first entering into a written contract will not be entitled to any compensation on candidates referred by that firm.
                 </details>
                 </td>
             </tr>,<tr>
@@ -60,7 +35,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/argyle-software-engineer-web-crawling-reverse-engineering" align="right" target="_blank">Apply</a>
@@ -159,7 +134,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>152 days ago</text>
+                <text>153 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-blockchain-integrations-1" align="right" target="_blank">Apply</a>
@@ -217,7 +192,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>152 days ago</text>
+                <text>153 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-golang-2" align="right" target="_blank">Apply</a>
@@ -272,7 +247,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>601 days ago</text>
+                <text>602 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/iterative-senior-software-engineer-open-source-dev-tools-core" align="right" target="_blank">Apply</a>
@@ -331,7 +306,7 @@
                     <code>cloud,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1342235" align="right" target="_blank">Apply</a>
@@ -386,7 +361,7 @@
                     <code>backend,developer,git,go</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-go-software-engineer-1305612" align="right" target="_blank">Apply</a>
@@ -477,136 +452,6 @@
 <li>You start working with us!</li>
 </ul>
 <img src="https://remotive.com/job/track/1305612/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1187416/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Iterative</h5>
-                    <h3>Senior Software Engineer  - DevTools, Open Source, Python</h3>
-                </td>
-                <td width="300">
-                    <code>data science,machine learning,python,open source</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Job Description</strong></p>
-<p>Strong Python knowledge and excellent coding culture (standards, unit test, etc) are required. Alternatively, strong skill in other languages along with some knowledge of Python is also acceptable.</p>
-<p><br><br></p>
-<div class="h3">Responsibilities</div>
-<ul>
-<li>Discuss and research issues, features, new products.</li>
-</ul>
-<ul>
-<li>Write code (see some <a class="postings-link" href="https://github.com/iterative/dvc/pulls?q=is%3Apr+is%3Aclosed" rel="nofollow"><strong>PR examples</strong></a>).</li>
-</ul>
-<ul>
-<li>Write docs if needed for your code (see this <a class="postings-link" href="https://github.com/iterative/dvc.org" rel="nofollow"><strong>repo</strong></a>).</li>
-</ul>
-<ul>
-<li>Being actively involved with the community - talk to users on Github, Discord, forum.</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Must have</div>
-<ul>
-<li>Motivation and interest</li>
-</ul>
-<ul>
-<li>Remote work self-discipline</li>
-</ul>
-<ul>
-<li>Excellent communication skills - clear, constructive, and respectful dialog with other team members, community.</li>
-</ul>
-<ul>
-<li>Can focus and deliver a task w/o constantly switching to other stuff - respect team's planning, deadlines, etc</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Great to have</div>
-<ul>
-<li>Experience working remotely</li>
-</ul>
-<ul>
-<li>Open source contributions or experience of maintaining, developing an open source project</li>
-</ul>
-<ul>
-<li>System programming experience - kernel, databases, etc.</li>
-</ul>
-<ul>
-<li>Machine learning or data science experience</li>
-</ul>
-<img src="https://remotive.com/job/track/1187416/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Iterative</h5>
-                    <h3>Senior Software Engineer - Front-end, Typescript</h3>
-                </td>
-                <td width="300">
-                    <code>backend,git,machine learning,python</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>The ML tools ecosystem is what JS space was 10 years ago: there’s a clear need for better tools, frameworks, and open standards. <span class="notion-enable-hover" style="font-style: italic;">ITERATIVE</span> is already a well known company in this fast-evolving space with a big, engaged open-source community. Please consider joining our <span class="notion-enable-hover" style="font-style: italic;">remote-first team</span> if you love open-source, if you’re interested in building dev tools and simplifying the lives of many, many developers in ML.</p>
-<p><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;"><br class="Apple-interchange-newline">Job Description</span></p>
-<p>We’re seeking<span class="notion-enable-hover" style="font-weight: 600;"> </span><span class="notion-enable-hover">TypeScript front-end engineers to build our</span><span class="notion-enable-hover"> <a href="https://studio.iterative.ai/" rel="nofollow" style="font-weight: 600;">SaaS product</a> and a</span><span class="notion-enable-hover" style="font-weight: 600;"> VS Code UI</span> (to be open sourced soon!) for our popular machine learning tools: <a class="notion-link-token notion-enable-hover" href="http://dvc.org/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--1168671846" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">DVC</span></a> (9k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span>on GitHub) and <a class="notion-link-token notion-enable-hover" href="http://cml.dev/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--2051758088" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">CML</span></a> (3k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span> on GitHub).</p>
-<p><span style="color: var(--remotive-chocolate);">If you have experience with dev tools like GitHub, UI plugins for Git, etc., you should have some sense what the project is like (if not, check our <a href="https://iterative.ai/" rel="nofollow">site</a>).</span></p>
-<p> </p>
-<p class="h3">Tech Stack</p>
-<ul>
-<li>TypeScript</li>
-</ul>
-<ul>
-<li>Node</li>
-</ul>
-<ul>
-<li>React</li>
-</ul>
-<ul>
-<li>Python (on the backend)</li>
-</ul>
-<p> </p>
-<p class="h3">Must have</p>
-<ul>
-<li>Strong TS/JS/Node experience (5+ years)</li>
-</ul>
-<ul>
-<li>Excellent communication skills and a positive mindset 🤗</li>
-</ul>
-<ul>
-<li>Initiative to help shape the engineering practices, products, and culture of a young startup</li>
-</ul>
-<p><br><br></p>
-<p class="h3">Nice to have</p>
-<ul>
-<li>Python or open source experience - good to have</li>
-</ul>
-<ul>
-<li>Some domain knowledge (DS/ML understanding) - an advantage</li>
-</ul>
-<p> </p>
-<img src="https://remotive.com/job/track/1187421/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
