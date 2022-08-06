@@ -11,7 +11,7 @@
                     <code>exec, backend, data</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111854" align="right" target="_blank">Apply</a>
@@ -35,7 +35,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/baremetrics-senior-backend-engineer-1" align="right" target="_blank">Apply</a>
@@ -96,63 +96,6 @@
 </div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/baremetrics-senior-backend-engineer-1">https://weworkremotely.com/remote-jobs/baremetrics-senior-backend-engineer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/6411/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TheoremOne, LLC</h5>
-                    <h3> Senior Backend Engineer - Python</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>751 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/theoremone-llc-senior-backend-engineer-python" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/6411/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Fully Distributed
-    <br /><strong>URL:</strong> <a href="https://theorem.co/">https://theorem.co/</a>
-</p>
-
-<div>Join our global team of 350+ craftspeople! We are a consultancy that solves business problems by designing and building highly complex custom software for the world's leading companies. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.</div><div><br></div><div>We are looking for a passionate and high experience Senior Developer to be a part of one of our cross-functional product development teams to help us build projects that delivers real value to our customers with new and improved features.</div><div><br></div><div>As Python Senior Engineer you will be taking ownership and start projects from scratch in one or more domains of our products and will work closely with other developers using cutting-edge open source frameworks, highly-available RESTful services and back-end systems.</div><div>About You</div><ul>
-<li>You have a strong Python engineering background. You had the opportunity worked on project from conception to delivery.</li>
-<li>You care about producing high quality solution using good engineering principles and practices.</li>
-<li>You want to take ownership, break down and tackle real problems while bringing value to real users.</li>
-<li>You are a great team player and communicator, you prefer over-communication rather than under-communicate</li>
-<li>You are a passionate technologist with the discipline to create and finish projects. You have opinions about your favorite open source projects, or perhaps you have contributed to some or started one of your own.</li>
-</ul><div><br></div><div>The technologies you and your team will work on:</div><ul><li>Python 3.6+, FaspAPI, pandas, SQLAlchemy, Alembic, PostgreSQL, requests, loguru</li></ul><div>Required Qualifications</div><ul>
-<li>5+ years of experience building clean, maintainable, and well-tested code</li>
-<li>You feel comfortable working with modern python technologies like FastAPI, Requests, etc.</li>
-<li>Working experience with FastAPI or other python frameworks</li>
-<li>Working experience with MongoDB or Postgres or MySQL, writing efficient queries, data modeling</li>
-<li>Previous experience collaborating on highly distributed teams</li>
-<li>Previous experience working within an Agile/Scrum environment.</li>
-<li>Possess a strong and reliable internet connection.</li>
-</ul><div>You will be successful when</div><ul>
-<li>You are able to hit the ground running within your area of expertise and are not afraid of challenges outside of it</li>
-<li>Thrive on collaborating with other team members and across disciplines</li>
-<li>You are happy to receive feedback and see it as an opportunity for reflection and improvement </li>
-<li>You are always learning - Whether you are learning to help your team and customer work through new concepts and technology </li>
-<li>You are astute, you know when to push an issue and when to let things lie</li>
-<li>You are friendly - you reach out to your teammates even if they aren’t on your project team</li>
-<li>You can work through ambiguity - you aren’t shy about asking questions to gain clarity</li>
-<li>Entrepreneurial and intrapreneurial - always on the lookout for new opportunities to improve the company externally and internally</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/theoremone-llc-senior-backend-engineer-python">https://weworkremotely.com/remote-jobs/theoremone-llc-senior-backend-engineer-python</a></p>
 
                 </details>
                 </td>
