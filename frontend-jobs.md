@@ -11,7 +11,7 @@
                     <code>front end, saas, engineer</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111880" align="right" target="_blank">Apply</a>
@@ -25,95 +25,181 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/ffbd1c0e63d3e8b48a155a0abe8114b61658732403.png" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Decent</h5>
-                    <h3>
-					Front End Engineer				</h3>
-                </td>
-                <td width="300">
-                    <code>crypto, nft, investment</code>
-                </td>
-                <td width="200">
-                <text>10 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/111782" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Decent (YC W22) enables fans to build their own record label by purchasing royalty-backed NFTs.Â  We're building relationships between musicians and their fans that extend beyond patronage -- putting artists and fans on the same team to enable new forms of funding, marketing, and discovery within the music industry. The same way that platforms like Spotify democratized distribution and global audiences for musicians, Decent willÂ  democratize monetization.Â The founding team is composed of Princeton & Brown graduates with deep experience in music, media, and crypto. Weâre also supported by advisors including but not limited to: a founding engineer at Uniswap, Lava Records, Blockchain Creative Labs, and Palm Tree Crew (Kygo's record label).Â With over 10 artists released so far, and hundreds of artists on our waiting list, we can't wait to rewrite the economy of music.Decent is a leading music NFT marketplace backed by premier crypto and music venture firms. The team is excited to onboard first hires as passionate and driven as themselves to help change the power dynamic of an entire industry. Decent offers wellness benefits, as well as competitive salary and equity. All types of people, ways of working, and backgrounds are accepted and celebrated at Decent. Come join us to decentralize culture and empower those at the center of the music industry - artists and fans.Founder Profiles:Will Collier (Brown '20) prev. cofounded The Farmlink Project, a Congressional Medal of Honor award winning non-profit organization that has rescued and transported 60+ million pounds of surplus fresh produce to food banks around the US. Also, prev. Accenture.Charlie DurbinÂ (Princeton '19) is a Gitcoin fellow, prev. did investment banking at GCA Advisors covering the music sector. Also prev. Vox Media.Xander CarlsonÂ (Brown '20), stage name Forester, is a full time artist signed to Sony's Palm Tree Records with Kygo & Gryffin. Will Kantaros (Brown '22) previously did software development at MongoDB and Coinbase. 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/9797/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>GOhiring</h5>
-                    <h3> Senior Frontend Engineer (React.js)</h3>
+                    <h5>Facet Wealth</h5>
+                    <h3> Sr. Front End Engineer - React</h3>
                 </td>
                 <td width="300">
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>123 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/gohiring-senior-frontend-engineer-react-js" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/facet-wealth-sr-front-end-engineer-react" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/9797/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> Berlin
-    <br /><strong>URL:</strong> <a href="https://gohiring.com/en/jobs/">https://gohiring.com/en/jobs/</a>
+  <strong>Headquarters:</strong> Baltimore, MD
+    <br /><strong>URL:</strong> <a href="https://facetwealth.com">https://facetwealth.com</a>
 </p>
 
-<div>We are looking for a Senior Frontend Software Engineer (React.js) – f/m/d to join our profitable, remote-first B2B SaaS company. Join us on our mission to empower thousands of enterprise customers to make data-based recruitment decisions. You will be working on the full stack of the whole product ecosystem, contributing to tasks of all sizes. We are proud of our top-notch tech stack and are serious about following best practices (CI, TDD, PRs, code reviews, good design practices). If you are a creative problem solver who loves code quality and thought-through processes, an international remote-first workplace is waiting for you!<br><strong><br>Your impact</strong>
+<div>Facet is a fully remote FinTech company with a mission to empower people to live more enriched lives by delivering a new standard of financial advice that elevates expectations across consumers and the industry.<br><br>
+</div><div>We believe that unbiased, personalized financial advice that integrates into every facet of life is essential to living well. People’s financial lives are dynamic and ever-evolving, so we cover everything money touches–from starting a business to buying real estate to your investments and much more. Facet believes financial advice should be delivered with a fresh, human-plus-tech approach, that includes a CFP® professional–the highest certification possible.<br><br>
+</div><div>
+<strong>The Role:<br></strong><br>
+</div><div>As a<strong> Sr. Front End Engineer </strong>at Facet Wealth, you will work with our Engineering &amp; Product teams, playing a critical role in developing world class commercial software used by our lead planners &amp; clients. Our goals are focused on developing a product to improve the financial lives of millions.<br><br>
+</div><div>A successful candidate would be proficient in modern front and back end tools and development methodologies. As well as being interested in learning new languages, technology stacks, tackling large and complex problems, and the ability to work both independently and in a peer programming environment.<br><br>
+</div><div>Tremendous growth potential exists at Facet - your growth opportunities are virtually unlimited. We are truly passionate about helping realize our team members’ potential through active mentorship. We value drive, ownership, and commitment as we grow our company.<br><br>
+</div><div>
+<strong>Day-To-Day Responsibilities: <br></strong><br>
 </div><ul>
-<li>You’re not just a little cog in a big wheel: You will work mainly on the frontend of the whole product-ecosystem and contribute to tasks of all sizes (including developing products from scratch)</li>
-<li>You’re a creative problem solver: You will implement impactful and sustainable solutions to complex and varying challenges</li>
-<li>You make a difference: As an integral part of an experienced development team you’ll work in close collaboration with product managers, testers and our data warehouse team (suggestions in the stack, architecture or patterns which might improve our code base/processes are welcome)</li>
-<li>Frontend transition: Help us standardize the way we do frontend in our transition towards React (from custom JS and Ember) </li>
-<li>We love code quality and don’t like putting out fires: Work on our up to date tech stack and follow best practices with us (CI, TDD, PRs, code reviews and good design practices). Proactively monitor and optimize for security and performance</li>
-</ul><div><strong>Your profile</strong></div><ul>
-<li>At least 5 years of experience in software development</li>
-<li>At least 2 years of experience with React.js</li>
-<li>Very good knowledge of frontend technologies such as HTML/CSS/Javascript </li>
-<li>Good knowledge of Ruby </li>
-<li>Advocate of high code quality and engineering best practices</li>
-<li>Experience with tools built on top of REST API and JSON API</li>
-<li>It comes naturally to you to write your own tests with Jest and you have experience with acceptance testing in other frameworks (for example, Capybara in Ruby)</li>
-<li>You’re located +-4 hours CET</li>
-<li>Fluent in English</li>
-</ul><div><strong>Our stack</strong></div><ul>
-<li>A small cluster of microservices. Hosted on Heroku, supported by AWS (RDS, S3, CloudFront, CloudWatch), with RabbitMQ for async communication. Docker for easy development setup</li>
-<li>Ruby, Rails, Postgres, React.js (client-facing) and Ember.js (internal tools)</li>
-<li>REST, JSON API</li>
-<li>CircleCI. Unit tests, integration tests and linters everywhere</li>
-<li>GitHub. 100 % commitment to code review</li>
-<li>ZenHub for seamless kanban project management in GitHub</li>
-</ul><div><strong>Why GOhiring?</strong></div><ul>
-<li>Making a big difference in a small team: We celebrate the benefits of a small team - direct collaboration, creative freedom, growing and learning together. You'll never be just a little cog in a big wheel, but always be part of the big picture</li>
-<li>The perfect environment to grow: You'll not only work with a top-notch tech stack, but find optimum conditions to grow - professionally and personally </li>
-<li>You will join a senior engineering and product team that is really, really serious about code quality and best practices: Work on challenging, interesting problems while relying on thought-through processes and a setup that just works</li>
-<li>Award winning remote setup that connects people: Meet the team for one week twice a year in varying locations in Europe (join now to be part of our next offsite on an island in 2022)</li>
-<li>Work equipment of your choice: For your mobile job you will receive a laptop and technical setup of your choice. We'll also take care of your mobile phone and internet contract</li>
-<li>Competitive salary package: Base salary plus performance-related company-wide bonus and employee stock ownership plan (ESOP)</li>
+<li>Collaborate with Product and Planners to define solutions to problems</li>
+<li>Design, develop, and test code written in Golang and React and deployed to AWS</li>
+<li>Estimate tickets in a ScrumBan process</li>
+<li>Commit code constantly to Git/Bitbucket in a mainline development environment</li>
+<li>Write all the tests. Frustrated about never having time for tests? Not at Facet</li>
+<li>Pair program with other developers as desired</li>
+<li>Participate in daily standups</li>
+<li>Participate in weekly “Tech Stack Tuesdays” to learn new development skills and techniques</li>
+<li>Participate in bi-weekly “Fast Fridays” focused on performance improvements in the app</li>
+<li>Participate in in quarterly 3 day Hackathons and win fun prizes</li>
+<li>Constant learning and personal growth</li>
 </ul><div>
-<strong>Want to work together on the future of recruiting?<br></strong><br>
-</div><div>Simply send us your profile in addition or optionally your Github handle. We are happy to hear from you.<br><em>Diversity and equal opportunity are important to us. We are happy about the interest of all candidates and strive to provide feedback as quickly as possible.</em>
-</div><div><strong><br>Company</strong></div><div>
-<br>GOhiring is a profitable, fast growing B2B SaaS company that empowers thousands of enterprise customers to make data-based recruitment decisions. Our great international team of 25 hand picked geeks is passionate about technology and data - working remotely since 2012. If you would like to work with nice and talented people in a software company that cares about thought-through processes, we are waiting for you! </div>
+<strong>Basic Qualifications:<br></strong><br>
+</div><ul>
+<li>Excited about learning new skills and working in a startup environment where change is normal</li>
+<li>4-8 years of full stack web development or related experience</li>
+<li>3+ years of experience in Go/Golang and/or React 16+</li>
+<li>Relational databases experience, MySQL is preferred</li>
+</ul><div>
+<strong>Preferred Qualifications:<br></strong><br>
+</div><ul>
+<li>Experience with Golang and React</li>
+<li>Experience with AWS: ECS, EC2, RDS, S3</li>
+<li>Experience with the REST Architectural style</li>
+<li>Experience with The Clean Architecture </li>
+<li>Experience with Git, Bitbucket</li>
+<li>Experience with frontend toolchains such as Webpack, Gulp, or Grunt </li>
+<li>Experience with frontend testing tools and frameworks such as Mocha/Chai, BrowserStack, Puppeteer</li>
+<li>Experience with automated testing (unit, integration, regression, performance)</li>
+<li>Experience with responsive design and PWAs</li>
+<li>Familiarity with Linux</li>
+<li>Familiarity with Docker </li>
+<li>Familiarity with FinTech APIs such as Plaid, Finicity, Yodlee, APEX, Orion</li>
+</ul><div>
+<strong>Perks &amp; Benefits<br></strong><br>
+</div><ul>
+<li>$100,000-$165,000 annual salary + bonus determined by the experience, knowledge, skills, and abilities of the applicant - Please note, our salary ranges are based on current market data. Should you feel strongly that we are not in line, we highly recommend you to reach out and let us know. We are always looking to improve on building the best place for employees.</li>
+<li>Equity</li>
+<li>Unlimited PTO</li>
+<li>All the benefits: medical, dental, and vision insurance, 401(k) with employer match, short- and long-term disability coverage (paid by Facet), life insurance options and paid parental leave</li>
+<li>Certification reimbursement program </li>
+<li>Work from anywhere in the US</li>
+</ul><div>
+<strong>Equal Opportunity Employer<br></strong><br>
+</div><div>We’ve consciously built an equitable and inclusive culture where everyone is welcome to bring their authentic selves to work. At Facet Wealth, we specifically look for individuals of varying strengths, skills, backgrounds, and ideas. We believe this gives us a competitive advantage to better serve our clients and employees.<br><br>
+</div><div>All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.<br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/gohiring-senior-frontend-engineer-react-js">https://weworkremotely.com/remote-jobs/gohiring-senior-frontend-engineer-react-js</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/facet-wealth-sr-front-end-engineer-react">https://weworkremotely.com/remote-jobs/facet-wealth-sr-front-end-engineer-react</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Facet Wealth</h5>
+                    <h3> Staff Front End Engineer - React</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>123 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/facet-wealth-staff-front-end-engineer-react" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Baltimore, MD
+    <br /><strong>URL:</strong> <a href="https://facetwealth.com">https://facetwealth.com</a>
+</p>
+
+<div>Facet is a fully remote FinTech company with a mission to empower people to live more enriched lives by delivering a new standard of financial advice that elevates expectations across consumers and the industry.<br><br>
+</div><div>We believe that unbiased, personalized financial advice that integrates into every facet of life is essential to living well. People’s financial lives are dynamic and ever-evolving, so we cover everything money touches–from starting a business to buying real estate to your investments and much more. Facet believes financial advice should be delivered with a fresh, human-plus-tech approach, that includes a CFP® professional–the highest certification possible.<br><br>
+</div><div>
+<strong>The Role:<br></strong><br>
+</div><div>As a<strong> Staff Front End Engineer </strong>at Facet Wealth, you will work with our Engineering &amp; Product teams, playing a critical role in developing world class commercial software used by our lead planners &amp; clients. Our goals are focused on developing a product to improve the financial lives of millions.<br><br>
+</div><div>A successful candidate would be proficient in modern front and back end tools and development methodologies. As well as being interested in learning new languages, technology stacks, tackling large and complex problems, and the ability to work both independently and in a peer programming environment.<br><br>
+</div><div>Tremendous growth potential exists at Facet - your growth opportunities are virtually unlimited. We are truly passionate about helping realize our team members’ potential through active mentorship. We value drive, ownership, and commitment as we grow our company.<br><br>
+</div><div>
+<strong>Day-To-Day Responsibilities: <br></strong><br>
+</div><ul>
+<li>Collaborate with Product and Planners to define solutions to problems</li>
+<li>Design, develop, and test code written in Golang and React and deployed to AWS</li>
+<li>Estimate tickets in a ScrumBan process</li>
+<li>Commit code constantly to Git/Bitbucket in a mainline development environment</li>
+<li>Write all the tests. Frustrated about never having time for tests? Not at Facet</li>
+<li>Pair program with other developers as desired</li>
+<li>Participate in daily standups</li>
+<li>Participate in weekly “Tech Stack Tuesdays” to learn new development skills and techniques</li>
+<li>Participate in bi-weekly “Fast Fridays” focused on performance improvements in the app</li>
+<li>Participate in in quarterly 3 day Hackathons and win fun prizes</li>
+<li>Constant learning and personal growth</li>
+</ul><div>
+<strong>Basic Qualifications:<br></strong><br>
+</div><ul>
+<li>Excited about learning new skills and working in a startup environment where change is normal</li>
+<li>5-10+ years of full stack web development or related experience</li>
+<li>3+ years of experience in Go/Golang and/or React 16+</li>
+<li>Relational databases experience, MySQL is preferred</li>
+</ul><div>
+<strong>Preferred Qualifications:<br></strong><br>
+</div><ul>
+<li>Experience with Golang and React</li>
+<li>Experience with AWS: ECS, EC2, RDS, S3</li>
+<li>Experience with the REST Architectural style</li>
+<li>Experience with The Clean Architecture </li>
+<li>Experience with Git, Bitbucket</li>
+<li>Experience with frontend toolchains such as Webpack, Gulp, or Grunt </li>
+<li>Experience with frontend testing tools and frameworks such as Mocha/Chai, BrowserStack, Puppeteer</li>
+<li>Experience with automated testing (unit, integration, regression, performance)</li>
+<li>Experience with responsive design and PWAs</li>
+<li>Familiarity with Linux</li>
+<li>Familiarity with Docker </li>
+<li>Familiarity with FinTech APIs such as Plaid, Finicity, Yodlee, APEX, Orion</li>
+</ul><div>
+<strong>Perks &amp; Benefits<br></strong><br>
+</div><ul>
+<li>$100,000-$185,000 annual salary + bonus determined by the experience, knowledge, skills, and abilities of the applicant - Please note, our salary ranges are based on current market data. Should you feel strongly that we are not in line, we highly recommend you to reach out and let us know. We are always looking to improve on building the best place for employees.</li>
+<li>Equity</li>
+<li>Unlimited PTO</li>
+<li>All the benefits: medical, dental, and vision insurance, 401(k) with employer match, short- and long-term disability coverage (paid by Facet), life insurance options and paid parental leave</li>
+<li>Certification reimbursement program </li>
+<li>Work from anywhere in the US</li>
+</ul><div>
+<strong>Equal Opportunity Employer<br></strong><br>
+</div><div>We’ve consciously built an equitable and inclusive culture where everyone is welcome to bring their authentic selves to work. At Facet Wealth, we specifically look for individuals of varying strengths, skills, backgrounds, and ideas. We believe this gives us a competitive advantage to better serve our clients and employees.<br><br>
+</div><div>All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/facet-wealth-staff-front-end-engineer-react">https://weworkremotely.com/remote-jobs/facet-wealth-staff-front-end-engineer-react</a></p>
 
                 </details>
                 </td>
