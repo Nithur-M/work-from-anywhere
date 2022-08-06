@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -96,7 +96,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/harvest-product-manager-mobile-1" align="right" target="_blank">Apply</a>
@@ -198,7 +198,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>72 days ago</text>
+                <text>73 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chorus-one-product-manager-node-as-a-service" align="right" target="_blank">Apply</a>
@@ -275,7 +275,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>189 days ago</text>
+                <text>190 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/buildbook-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -373,7 +373,7 @@
                     <code>android,education,go,ios</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/senior-product-manager-mobile-1339868" align="right" target="_blank">Apply</a>
