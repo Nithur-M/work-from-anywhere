@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -96,7 +96,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/harvest-product-manager-mobile-1" align="right" target="_blank">Apply</a>
@@ -188,83 +188,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2123/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Chorus One</h5>
-                    <h3> Product Manager (Node as a Service)</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>73 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/chorus-one-product-manager-node-as-a-service" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/2123/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Baar, Switzerland
-    <br /><strong>URL:</strong> <a href="https://chorus.one">https://chorus.one</a>
-</p>
-
-<div>
-<strong><br>Job Description: Product Manager Node-as-a-Service<br></strong><br>
-</div><div>
-<br>We are a community of ambitious, self-reflective people building core infrastructure for blockchain protocols. At Chorus One we’re motivated by the conviction <strong><em>of choice and freedom for token holders and users of blockchain networks</em></strong>, and want to do something about it, come join us!<br><br>
-</div><div>
-<br>At Chorus One we empower people to do their best work and make our greatest contribution as an organization.**<br><br>
-</div><div>
-<br>As a Product Manager, you are a detail-oriented, hard-working, problem solver with an optimistic attitude, that can easily (and happily) wear many hats. You are able to uphold our company’s principles and values while adding to our unique culture. As a member of our Product Management Team, you will broadly be responsible for developing the company’s product roadmap for Node as a Service.<br><br>
-</div><div>
-<br><strong>Responsibilities:</strong><br><br>
-</div><ul>
-<li>Collaborate cross-functionally with Chorus One Business Development team to translate business vision into multi-quarter product strategy and roadmap for an institutional-grade crypto staking platform to be used by fund managers and institutions dealing with crypto assets</li>
-<li>Create and maintain detailed Market Requirement Documents and Product Requirement Documents that are supported by extensive market research and customer feedback</li>
-<li>Drive alignment with Engineering around your product roadmap as well as navigate around constraints and mitigate potential risks</li>
-<li>Scoping and designing integration opportunities with crypto custody and wallet providers partners.</li>
-<li>Develop and maintain an API strategy that is informed by partner and customer use cases</li>
-<li>Develop a data management strategy in support of managing and reporting on staking rewards</li>
-<li>Build excitement and understanding within the engineering team on product opportunities</li>
-<li>Drive product development from conception to launch</li>
-<li>Monitor development status and identify issues / risks in a timely fashion and proactively collaborate to ensure timely resolution</li>
-<li>Define and measure product success and excellence metrics to help prioritize efforts with the highest impact</li>
-</ul><div>
-<strong><br>Minimum Qualifications:<br></strong><br>
-</div><ul>
-<li>5+ years of experience directly in product management or product engineering. Preferably with B2B, financial markets experience</li>
-<li>Previous experience working in software product management and bringing software products to market</li>
-<li>Experience in launching API-based software products and services</li>
-<li>Strong analytical, prioritization, and problem-solving skills</li>
-<li>Exceptional interpersonal communication, relationship management, and organizational skills</li>
-<li>Past experience working closely with UX/UI designers</li>
-<li>Bachelor's degree in Electrical Engineering, Computer Science, other related technical field, or equivalent certifications.</li>
-</ul><div>
-<br><strong>Preferred Qualifications:</strong><br><br>
-</div><ul>
-<li>Experience with developing B2B SaaS solutions</li>
-<li>Demonstrated passion for cryptocurrency and financial markets</li>
-<li>Working understanding of DevOps and Agile Development</li>
-</ul><div>
-<br><strong>Job Type: Full-time</strong><br><br>
-</div><div>
-<br>Salary: $100,000 - $130,000 plus equity. Final salary commensurate with experience.<br><br>
-</div><div>
-<br>Chorus One is proud to be an equal opportunity workplace. We provide equal employment opportunities to all employees and applicants for employment and prohibit discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws. If you have a disability or special need that requires accommodation, please let us know by emailing positions@chorus.one.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chorus-one-product-manager-node-as-a-service">https://weworkremotely.com/remote-jobs/chorus-one-product-manager-node-as-a-service</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/6658/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -275,7 +198,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>190 days ago</text>
+                <text>191 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/buildbook-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -363,6 +286,72 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>A.Team</h5>
+                    <h3> Senior Independent Product Manager/Product Designer ($110-$190/hr)</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>270 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4151/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> NYC, SF, and TLV
+    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
+</p>
+
+<div>
+<a href="https://build.a.team/wwrproductmgrfasttrack">A·Team</a> is a VC-backed, stealth, application-only home on the internet for Senior Product Managers &amp; Product Designers (along with developers &amp; UX/UI folks) to team up with the best companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
+<li>
+<strong>High-paying, meaningful client missions (where you'd lead Product) with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li>
+<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li>
+<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li>
+<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li>
+<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul><div>
+<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrproductmgrfasttrack">https://build.a.team/wwrproductmgrfasttrack</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
+</div><ul>
+<li>Once part of A.Team, you’ll regularly be invited to be the lead Product manager/designer for impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old-school non-tech incumbents looking to build as a tech giant would.</li>
+<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
+<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is for:</strong>
+</div><ul>
+<li>Senior Product Managers/Designers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
+<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
+<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
+</div><ul>
+<li>People looking for small gigs.</li>
+<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
+<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
+</ul><div>
+<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrproductmgrfasttrack"><span>A·Team</span></a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
+<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1339868/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -373,7 +362,7 @@
                     <code>android,education,go,ios</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/senior-product-manager-mobile-1339868" align="right" target="_blank">Apply</a>
