@@ -11,7 +11,7 @@
                     <code>front end, javascript, react</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111934" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>ios, mobile, ops</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111885" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>django, vue js, typescript</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111869" align="right" target="_blank">Apply</a>
@@ -85,7 +85,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/merchstack-senior-frontend-developer-saas" align="right" target="_blank">Apply</a>
@@ -161,86 +161,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4314/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TestGorilla</h5>
-                    <h3> WordPress Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/testgorilla-wordpress-developer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4314/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Amsterdam
-    <br /><strong>URL:</strong> <a href="https://testgorilla.com">https://testgorilla.com</a>
-</p>
-
-<div>Hi,</div><div><br></div><div>I’m Nicolás, TestGorilla’s Head of Engineering. We’re a fast-growing <a href="https://testgorilla.com/">HR tech startup</a> that helps hiring teams make better hiring decisions faster and bias-free.</div><div><br></div><div>Over the past year, we’ve experienced tremendous growth. More than 5,300 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way.</div><div><br></div><div>As we scale our efforts in 2022 and beyond, we’re looking for a WordPress Developer who’s passionate about joining our quest to help people land dream jobs.</div><div>
-<br><br>
-</div><h1><strong>The proposition</strong></h1><ul>
-<li>Helping shape a fast-growing HR tech startup as an early employee</li>
-<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
-<li>Competitive salary + Share Appreciation Rights (SARs)</li>
-<li>Flexible hours and vacation</li>
-<li>Paid parental leave </li>
-<li>Remote working budget: €1,000 per year</li>
-<li>Learning and development budget: 3.5% of base salary</li>
-</ul><div><br></div><div><br></div><h1><strong>The job in a nutshell</strong></h1><div>We are looking to hire a skilled <strong>WordPress Developer</strong> to build, review and improve our company website. You will be responsible for both back-end and front-end development, including implementing WordPress themes and plugins, site integration and security updates. </div><div><br></div><div>You will collaborate across departments to architect and optimize our company website and help them deliver content efficiently and promptly.</div><div><br></div><div>This role requires in-depth knowledge of front-end programming languages, a good eye for aesthetics, and robust content management skills. </div><div>This is a fantastic opportunity for a top-class WordPress developer willing to embark on an entrepreneurial journey with us!</div><div>
-<br><br>
-</div><h1><strong>You’ll spend time on the following</strong></h1><ul>
-<li>Designing and developing the website’s architecture as well as building new features and functionalities</li>
-<li>Building the website front-end and conducting website performance tests</li>
-<li>Coding on PHP/MySQL and HTML/CSS (a lot!)</li>
-<li>Building and implementing new themes and plugins</li>
-<li>Monitoring website performance and troubleshooting performance issues</li>
-<li>Handling the back-end of the website, including database and server integration</li>
-<li>Ensuring high-performance and managing all the technical aspects of the CMS</li>
-<li>Maintain well-documented and reusable code</li>
-</ul><div><br></div><h1><strong>Here’s what we’re looking for:</strong></h1><ul>
-<li>You are inspired by our mission to put <em>one billion people in dream jobs</em>
-</li>
-<li>You are fully aligned with our <a href="https://www.testgorilla.com/careers/">values </a>
-</li>
-<li>You have a great knowledge of <a href="https://www.testgorilla.com/test-library/programming-skills-tests/wordpress-developer-test/">WordPress</a>
-</li>
-<li>You have an excellent understanding of HTML, CSS, Javascript, and general website best practices</li>
-<li>You are able to understand CSS changes and their ramifications to ensure consistent style across platforms and browsers</li>
-<li>You are comfortable working with debugging tools like Firebug, Chrome inspector, etc.</li>
-<li>You have a strong proficiency in understanding code versioning tools such as Git</li>
-<li>You have a working knowledge of MySQL. Server administration a plus. </li>
-<li>You have a good understanding of web architecture</li>
-<li>You are passionate about improving skills and learning new technologies</li>
-<li>You enjoy influencing others and always advocate for technical excellence while being open to change </li>
-<li>You’re resilient in ambiguous situations and can approach challenges from multiple perspectives</li>
-<li>You have strong written and verbal communication skills. You can validate your decisions and communicate them clearly.</li>
-<li>You are comfortable with the ambiguity and pace of an early-stage startup</li>
-</ul><div><br></div><div><em>We typically expect candidates with at least 2-5 years of WordPress Developer experience to have the skills mentioned above.</em></div><div><br></div><div><br></div><h1>Bonus points if …</h1><ul>
-<li>You have experience working in a SaaS company and a fast-growing startup </li>
-<li>You have experience developing and converting designs into themes</li>
-<li>You have experience in building both front-end and back-end of the website</li>
-<li>You have prior experience in WordPress localization using the WMPL plugin</li>
-</ul><div>
-<br><br>
-</div><h1><strong>Interested?</strong></h1><div>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions faster and bias-free. I took one too and I enjoyed it!</div><div>So if this role sounds like a good fit for you, I’d like you to <a href="https://assessment.testgorilla.com/testtaker/publicinvitation/7520c87e-7486-4fda-8034-47478da9caa5">take an assessment</a> so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product!</div><div>If you’re hired, I’ll do everything I can to help you succeed at TestGorilla and throughout the rest of your career.</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-wordpress-developer-1">https://weworkremotely.com/remote-jobs/testgorilla-wordpress-developer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -251,7 +171,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vidalytics-sr-php-developer-microservices-slimphp-laminas-symfony-2" align="right" target="_blank">Apply</a>
@@ -343,6 +263,69 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/9393/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Beema</h5>
+                    <h3> Senior Ruby on Rails developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>180 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/beema-senior-ruby-on-rails-developer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0066/9393/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Dubai
+    <br /><strong>URL:</strong> <a href="https://beema.ae">https://beema.ae</a>
+</p>
+
+<div>
+<strong>About the Role</strong><br><br>Beema are looking for a Full-stack engineer to join our growing start-up. Innovative, accessible and enviable; Beema envisions insurance in a new way - We are a tech start-up that offers innovative, digitised products &amp; solutions.<br><br><strong>About us:</strong>
+</div><ul>
+<li>We are a Ruby on Rails company that enjoys crafting lovely code on a <strong>majestic and modular monolith</strong>. </li>
+<li>We are a remote company. Your time and your calm for doing your craft is key for our team.</li>
+<li>We <strong>don’t embrace microservices</strong> as a way of architecting Beema. As of now, we value our delivery pace and happiness too much to enroll in that journey.</li>
+<li>We embrace a classic “<strong>HTML over the wire</strong>” architecture, of server-rendered HTML that is progressively enhanced with Javascript and CSS. We love <strong>Hotwire</strong> and<strong> Rails stack</strong> and all the simplicity that comes with it. We understand the need for Single Page Applications and frameworks like React, but we are not using them in Beema. </li>
+<li>We have many <strong>exciting challenges</strong> in front of us and we plan to face them with a small team of experienced and skilled developers with a similar mindset. </li>
+<li>We are <strong>excellent to each other</strong>. Egos and dramas are not part of our culture.</li>
+<li>We <strong>love solving problems for human beings</strong>. We work collaboratively with designers and product owners to evolve our product on a weekly basis.</li>
+</ul><div>
+<br><strong>We are looking for someone who:</strong>
+</div><ul>
+<li>Has 5+ years professional experience with Ruby / Ruby on Rails</li>
+<li>Enjoys writing code as part of a diverse and multiskilled development team</li>
+<li>Cares about <strong>domain modelling</strong> and has good practices in <strong>Object Oriented Design</strong>.</li>
+<li>Believes that writing tests as part of the development process is fundamental to build great products.</li>
+<li>Has real passion for solving customer frictions through simple and effective software.</li>
+<li>Has experience with Postgres, Sidekiq and Redis</li>
+<li>Has Front-End development knowledge and experience (JavaScript, CSS, HTML)</li>
+</ul><div>
+<br><strong>What we offer you:</strong>
+</div><ul>
+<li>Great team and a friendly and inclusive environment</li>
+<li>The opportunity to work from anywhere with great colleagues</li>
+<li>Really exciting programming challenges </li>
+<li>Competitive salary based on experience;</li>
+</ul><div>
+<br><strong>Location</strong>
+</div><ul><li>Anywere (UTC to UTC + 5)</li></ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/beema-senior-ruby-on-rails-developer-1">https://weworkremotely.com/remote-jobs/beema-senior-ruby-on-rails-developer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1255727/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -353,7 +336,7 @@
                     <code>developer,drupal,growth,design</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
@@ -378,7 +361,7 @@
                     <code>android,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
@@ -449,7 +432,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -526,7 +509,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -573,7 +556,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255729" align="right" target="_blank">Apply</a>
@@ -598,7 +581,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255704" align="right" target="_blank">Apply</a>
@@ -623,7 +606,7 @@
                     <code>developer,rails,ruby,growth</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1255730" align="right" target="_blank">Apply</a>
@@ -648,7 +631,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1255725" align="right" target="_blank">Apply</a>
@@ -673,7 +656,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1255719" align="right" target="_blank">Apply</a>
@@ -698,7 +681,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1255718" align="right" target="_blank">Apply</a>
@@ -723,7 +706,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1255721" align="right" target="_blank">Apply</a>
@@ -748,7 +731,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
