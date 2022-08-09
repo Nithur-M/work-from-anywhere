@@ -11,7 +11,7 @@
                     <code>front end, saas, engineer</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111880" align="right" target="_blank">Apply</a>
@@ -25,181 +25,56 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0079/8627/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Facet Wealth</h5>
-                    <h3> Sr. Front End Engineer - React</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>124 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/facet-wealth-sr-front-end-engineer-react" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Baltimore, MD
-    <br /><strong>URL:</strong> <a href="https://facetwealth.com">https://facetwealth.com</a>
-</p>
-
-<div>Facet is a fully remote FinTech company with a mission to empower people to live more enriched lives by delivering a new standard of financial advice that elevates expectations across consumers and the industry.<br><br>
-</div><div>We believe that unbiased, personalized financial advice that integrates into every facet of life is essential to living well. People’s financial lives are dynamic and ever-evolving, so we cover everything money touches–from starting a business to buying real estate to your investments and much more. Facet believes financial advice should be delivered with a fresh, human-plus-tech approach, that includes a CFP® professional–the highest certification possible.<br><br>
-</div><div>
-<strong>The Role:<br></strong><br>
-</div><div>As a<strong> Sr. Front End Engineer </strong>at Facet Wealth, you will work with our Engineering &amp; Product teams, playing a critical role in developing world class commercial software used by our lead planners &amp; clients. Our goals are focused on developing a product to improve the financial lives of millions.<br><br>
-</div><div>A successful candidate would be proficient in modern front and back end tools and development methodologies. As well as being interested in learning new languages, technology stacks, tackling large and complex problems, and the ability to work both independently and in a peer programming environment.<br><br>
-</div><div>Tremendous growth potential exists at Facet - your growth opportunities are virtually unlimited. We are truly passionate about helping realize our team members’ potential through active mentorship. We value drive, ownership, and commitment as we grow our company.<br><br>
-</div><div>
-<strong>Day-To-Day Responsibilities: <br></strong><br>
-</div><ul>
-<li>Collaborate with Product and Planners to define solutions to problems</li>
-<li>Design, develop, and test code written in Golang and React and deployed to AWS</li>
-<li>Estimate tickets in a ScrumBan process</li>
-<li>Commit code constantly to Git/Bitbucket in a mainline development environment</li>
-<li>Write all the tests. Frustrated about never having time for tests? Not at Facet</li>
-<li>Pair program with other developers as desired</li>
-<li>Participate in daily standups</li>
-<li>Participate in weekly “Tech Stack Tuesdays” to learn new development skills and techniques</li>
-<li>Participate in bi-weekly “Fast Fridays” focused on performance improvements in the app</li>
-<li>Participate in in quarterly 3 day Hackathons and win fun prizes</li>
-<li>Constant learning and personal growth</li>
-</ul><div>
-<strong>Basic Qualifications:<br></strong><br>
-</div><ul>
-<li>Excited about learning new skills and working in a startup environment where change is normal</li>
-<li>4-8 years of full stack web development or related experience</li>
-<li>3+ years of experience in Go/Golang and/or React 16+</li>
-<li>Relational databases experience, MySQL is preferred</li>
-</ul><div>
-<strong>Preferred Qualifications:<br></strong><br>
-</div><ul>
-<li>Experience with Golang and React</li>
-<li>Experience with AWS: ECS, EC2, RDS, S3</li>
-<li>Experience with the REST Architectural style</li>
-<li>Experience with The Clean Architecture </li>
-<li>Experience with Git, Bitbucket</li>
-<li>Experience with frontend toolchains such as Webpack, Gulp, or Grunt </li>
-<li>Experience with frontend testing tools and frameworks such as Mocha/Chai, BrowserStack, Puppeteer</li>
-<li>Experience with automated testing (unit, integration, regression, performance)</li>
-<li>Experience with responsive design and PWAs</li>
-<li>Familiarity with Linux</li>
-<li>Familiarity with Docker </li>
-<li>Familiarity with FinTech APIs such as Plaid, Finicity, Yodlee, APEX, Orion</li>
-</ul><div>
-<strong>Perks &amp; Benefits<br></strong><br>
-</div><ul>
-<li>$100,000-$165,000 annual salary + bonus determined by the experience, knowledge, skills, and abilities of the applicant - Please note, our salary ranges are based on current market data. Should you feel strongly that we are not in line, we highly recommend you to reach out and let us know. We are always looking to improve on building the best place for employees.</li>
-<li>Equity</li>
-<li>Unlimited PTO</li>
-<li>All the benefits: medical, dental, and vision insurance, 401(k) with employer match, short- and long-term disability coverage (paid by Facet), life insurance options and paid parental leave</li>
-<li>Certification reimbursement program </li>
-<li>Work from anywhere in the US</li>
-</ul><div>
-<strong>Equal Opportunity Employer<br></strong><br>
-</div><div>We’ve consciously built an equitable and inclusive culture where everyone is welcome to bring their authentic selves to work. At Facet Wealth, we specifically look for individuals of varying strengths, skills, backgrounds, and ideas. We believe this gives us a competitive advantage to better serve our clients and employees.<br><br>
-</div><div>All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/facet-wealth-sr-front-end-engineer-react">https://weworkremotely.com/remote-jobs/facet-wealth-sr-front-end-engineer-react</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Facet Wealth</h5>
-                    <h3> Staff Front End Engineer - React</h3>
+                    <h5>Torc</h5>
+                    <h3> Frontend Engineer</h3>
                 </td>
                 <td width="300">
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>124 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/facet-wealth-staff-front-end-engineer-react" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/torc-frontend-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0079/8627/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Baltimore, MD
-    <br /><strong>URL:</strong> <a href="https://facetwealth.com">https://facetwealth.com</a>
+  <strong>Headquarters:</strong> Boston
+    <br /><strong>URL:</strong> <a href="https://www.opentorc.com/">https://www.opentorc.com/</a>
 </p>
 
-<div>Facet is a fully remote FinTech company with a mission to empower people to live more enriched lives by delivering a new standard of financial advice that elevates expectations across consumers and the industry.<br><br>
-</div><div>We believe that unbiased, personalized financial advice that integrates into every facet of life is essential to living well. People’s financial lives are dynamic and ever-evolving, so we cover everything money touches–from starting a business to buying real estate to your investments and much more. Facet believes financial advice should be delivered with a fresh, human-plus-tech approach, that includes a CFP® professional–the highest certification possible.<br><br>
+<div>Frontend engineers bring applications to life by building and implementing the best designs and user experiences. These engineers are highly skilled in coding the front end of an application and really know how to bring all the little features to life that delight end users. Skills for a frontend engineer range from covering languages and frameworks like HTML, CSS and Javascript. Frontend engineers are expected to be able to work with backend APIs and frontend frameworks. They enjoy bringing static designs to life by implementing well formatted and documented CSS, design systems and frontend components, and know the benefits and trade-offs to make decisions on when to use server side rendering.<br><br>
 </div><div>
-<strong>The Role:<br></strong><br>
-</div><div>As a<strong> Staff Front End Engineer </strong>at Facet Wealth, you will work with our Engineering &amp; Product teams, playing a critical role in developing world class commercial software used by our lead planners &amp; clients. Our goals are focused on developing a product to improve the financial lives of millions.<br><br>
-</div><div>A successful candidate would be proficient in modern front and back end tools and development methodologies. As well as being interested in learning new languages, technology stacks, tackling large and complex problems, and the ability to work both independently and in a peer programming environment.<br><br>
-</div><div>Tremendous growth potential exists at Facet - your growth opportunities are virtually unlimited. We are truly passionate about helping realize our team members’ potential through active mentorship. We value drive, ownership, and commitment as we grow our company.<br><br>
-</div><div>
-<strong>Day-To-Day Responsibilities: <br></strong><br>
+<strong><br>Responsibilities<br></strong><br>
 </div><ul>
-<li>Collaborate with Product and Planners to define solutions to problems</li>
-<li>Design, develop, and test code written in Golang and React and deployed to AWS</li>
-<li>Estimate tickets in a ScrumBan process</li>
-<li>Commit code constantly to Git/Bitbucket in a mainline development environment</li>
-<li>Write all the tests. Frustrated about never having time for tests? Not at Facet</li>
-<li>Pair program with other developers as desired</li>
-<li>Participate in daily standups</li>
-<li>Participate in weekly “Tech Stack Tuesdays” to learn new development skills and techniques</li>
-<li>Participate in bi-weekly “Fast Fridays” focused on performance improvements in the app</li>
-<li>Participate in in quarterly 3 day Hackathons and win fun prizes</li>
-<li>Constant learning and personal growth</li>
+<li>Convert Figma, Zeplin, Adobe AI or other products to frontend code</li>
+<li>Build out and utilize complex CSS</li>
+<li>Troubleshoot and bug fixing frontend code</li>
+<li>Build new features in the front end while interacting with both designers and developers</li>
+<li>Participate in software development lifecycle and understand how the frontend code is structured</li>
+<li>Understand trade offs and performance issues on the frontend including how to debug a slowly performing front end,</li>
+<li>Exposure to SVGs (optional; nice to have)</li>
 </ul><div>
-<strong>Basic Qualifications:<br></strong><br>
+<strong><br>Requirements<br></strong><br>
 </div><ul>
-<li>Excited about learning new skills and working in a startup environment where change is normal</li>
-<li>5-10+ years of full stack web development or related experience</li>
-<li>3+ years of experience in Go/Golang and/or React 16+</li>
-<li>Relational databases experience, MySQL is preferred</li>
-</ul><div>
-<strong>Preferred Qualifications:<br></strong><br>
-</div><ul>
-<li>Experience with Golang and React</li>
-<li>Experience with AWS: ECS, EC2, RDS, S3</li>
-<li>Experience with the REST Architectural style</li>
-<li>Experience with The Clean Architecture </li>
-<li>Experience with Git, Bitbucket</li>
-<li>Experience with frontend toolchains such as Webpack, Gulp, or Grunt </li>
-<li>Experience with frontend testing tools and frameworks such as Mocha/Chai, BrowserStack, Puppeteer</li>
-<li>Experience with automated testing (unit, integration, regression, performance)</li>
-<li>Experience with responsive design and PWAs</li>
-<li>Familiarity with Linux</li>
-<li>Familiarity with Docker </li>
-<li>Familiarity with FinTech APIs such as Plaid, Finicity, Yodlee, APEX, Orion</li>
-</ul><div>
-<strong>Perks &amp; Benefits<br></strong><br>
-</div><ul>
-<li>$100,000-$185,000 annual salary + bonus determined by the experience, knowledge, skills, and abilities of the applicant - Please note, our salary ranges are based on current market data. Should you feel strongly that we are not in line, we highly recommend you to reach out and let us know. We are always looking to improve on building the best place for employees.</li>
-<li>Equity</li>
-<li>Unlimited PTO</li>
-<li>All the benefits: medical, dental, and vision insurance, 401(k) with employer match, short- and long-term disability coverage (paid by Facet), life insurance options and paid parental leave</li>
-<li>Certification reimbursement program </li>
-<li>Work from anywhere in the US</li>
-</ul><div>
-<strong>Equal Opportunity Employer<br></strong><br>
-</div><div>We’ve consciously built an equitable and inclusive culture where everyone is welcome to bring their authentic selves to work. At Facet Wealth, we specifically look for individuals of varying strengths, skills, backgrounds, and ideas. We believe this gives us a competitive advantage to better serve our clients and employees.<br><br>
-</div><div>All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.<br><br>
-</div>
+<li>Advanced knowledge of one or more of the following frontend languages: HTML5, CSS, JavaScript, and JQuery</li>
+<li>Advanced knowledge of one or more frontend frameworks, such as React, NEXTJS, Svelte, Angular, etc.</li>
+<li>Able to work with designers and developers</li>
+<li>Able to transform frontend mock ups to high quality frontend frameworks</li>
+<li>Understanding of APIs, ideally REST and GraphQL, and how to interact with them</li>
+<li>Advanced troubleshooting skills</li>
+<li>Advanced debugging skills for the front end</li>
+</ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/facet-wealth-staff-front-end-engineer-react">https://weworkremotely.com/remote-jobs/facet-wealth-staff-front-end-engineer-react</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/torc-frontend-engineer">https://weworkremotely.com/remote-jobs/torc-frontend-engineer</a></p>
 
                 </details>
                 </td>
