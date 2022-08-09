@@ -11,7 +11,7 @@
                     <code>front end, javascript, react</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111934" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>ios, mobile, ops</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111885" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>django, vue js, typescript</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111869" align="right" target="_blank">Apply</a>
@@ -85,7 +85,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/merchstack-senior-frontend-developer-saas" align="right" target="_blank">Apply</a>
@@ -171,7 +171,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vidalytics-sr-php-developer-microservices-slimphp-laminas-symfony-2" align="right" target="_blank">Apply</a>
@@ -263,6 +263,74 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Composable Finance</h5>
+                    <h3> Senior Frontend Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>90 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/composable-finance-senior-frontend-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Germany
+    <br /><strong>URL:</strong> <a href="https://composable.finance">https://composable.finance</a>
+</p>
+
+<div><strong>Full time remote position</strong></div><div><em>Are you a quick learner when it comes to new technologies, frameworks, or libraries? Do you want to work with the latest technologies used in the blockchain world? If you answered yes to most of the questions, then we are looking forward to working with you.</em></div><div><br></div><div>
+<em>You will be joining a fast moving company, highly technical team that has deep knowledge of DeFi and all the cool things from the blockchain ecosystem.</em><br><br><strong>Responsibilities</strong>
+</div><ul>
+<li>Implement full fledged and performant UI for web3 apps with beautiful designs.</li>
+<li>Create trustworthy user experiences by building interfaces that are simple, easy to comprehend, performant and reliable</li>
+<li>Discuss and adapt designs with the design team</li>
+<li>Integrate your own UI/UX improvements to incentivize the users to use the platform.</li>
+<li>Work with the state of the art developer stack.</li>
+<li>Continually learn and apply relevant software development practices, patterns, tools and technologies.</li>
+</ul><div>
+<br><strong>Requirements &amp; skills</strong>
+</div><div><br></div><ul>
+<li>5+ years of programming experience.</li>
+<li>Excellent knowledge with React Material UI v4 (or preferably v5) framework.</li>
+<li>Excellent knowledge of CSS and precompilation technologies such as Sass or Less.</li>
+<li>Strong UX experience.</li>
+<li>Strong knowledge of React.</li>
+<li>Self-motivated with a high level of autonomy.</li>
+<li>Excellent communication skills as our entire team is remote.</li>
+<li>Advanced English proficiency.</li>
+</ul><div> </div><div><strong>Bonus points:</strong></div><ul>
+<li>Experience working in DeFi frontend development - understand the flow of the web3 application.</li>
+<li>Understand the interaction between frontend and solidity contracts.</li>
+</ul><div> </div><div><strong>Perks</strong></div><ul>
+<li>Competitive Crypto payments, all made in USDC. </li>
+<li>100% remote work. No geographic restrictions. </li>
+<li>An entrepreneurial environment that encourages innovation and facilitates the growth of cutting-edge technology. </li>
+<li>The ability to work as an independent contractor: We treat you as your own agent and support you accordingly!</li>
+<li>Annual Working Equipment Allowance.</li>
+<li>Monthly Gym &amp; Fitness Bonus</li>
+<li>Paid Absence Days</li>
+<li>Global WeWork membership, with access to more than 600 locations worldwide.</li>
+<li>Annual personal development funding to facilitate career development</li>
+<li>Diversity &amp; Inclusion: A company commitment to equal opportunity. We do not condone discrimination on the premise of race, color, religion, sexual orientation, age, gender identity or expression.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/composable-finance-senior-frontend-developer">https://weworkremotely.com/remote-jobs/composable-finance-senior-frontend-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/9393/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -273,7 +341,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>180 days ago</text>
+                <text>182 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/beema-senior-ruby-on-rails-developer-1" align="right" target="_blank">Apply</a>
@@ -326,6 +394,152 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/1147/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OperateBeyond</h5>
+                    <h3> PHP Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>301 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0067/1147/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Michigan
+    <br /><strong>URL:</strong> <a href="http://operatebeyond.com/">http://operatebeyond.com/</a>
+</p>
+
+<div><br></div><div>OperateBeyond is a fast growing technology company building web and mobile applications. We specialize in delivering top-notch user experiences paired with solid technology in non-auto vehicle software industry. Our successes come from our teamwork and mutual respect for each other’s talents and unique perspectives.<br><br>
+</div><div>
+<br>So when we say we are looking for a PHP Developer we do want want you to be an awesome back-end developer who’s dabbled with many different projects. We are looking for someone who can hold their own when when it comes to system integrations, databases, and even be interested in understanding more about user experience to help us shape amazing products.<br><br>
+</div><div>
+<strong><br>What you might do on any given day:<br></strong><br>
+</div><ul>
+<li>Work with a variety of technologies and platforms such as PHP, ZF2, ZF1, Laravel, ElasticSearch, MySQL, Vue.js, jQuery and many more technologies we may introduce<br><br>
+</li>
+<li>Collaborate with product managers and technical leads<br><br>
+</li>
+<li>Develop comprehensive use cases and test conditions<br><br>
+</li>
+<li>Take part in analysis efforts, identification, and recommendation of solutions, integration points and related implementation architecture for business usage improvements, scalability and performance.<br><br>
+</li>
+<li>Provide guidance in the form of code review, solution design, and recommended training and development plans.<br><br>
+</li>
+<li>Write unit tests, specs, integration tests, UI tests, and acceptance tests.<br><br>
+</li>
+<li>Advocate for new or improved development practices that increase craftsmanship, availability, resilience, and scalability of our solutions<br><br>
+</li>
+</ul><div>
+<strong><br>We think you’ll enjoy working with our team if you:<br></strong><br>
+</div><ul>
+<li>Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in technology communities.<br><br>
+</li>
+<li>Can be flexible, agile, dependable, and responsive even when there are a lot of moving parts and prefer that over following rigid processes and guidelines.<br><br>
+</li>
+<li>Believe that good application development includes good testing, good documentation, and good collaboration.<br><br>
+</li>
+<li>Have great communication and reasoning skills, including the ability to make a strong case for technology choices while understanding other viewpoints and the need to find the best possible solution for everyone.<br><br>
+</li>
+<li>Have a positive yet practical attitude; You are willing to take on any task that might help take one of our products, or our company, a little further.<br><br>
+</li>
+</ul><div><br></div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer">https://weworkremotely.com/remote-jobs/operatebeyond-php-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/8266/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>The Events Calendar</h5>
+                    <h3> WordPress Developer - Backend</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>510 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/the-events-calendar-wordpress-developer-backend" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/8266/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Lansing, MI
+    <br /><strong>URL:</strong> <a href="https://theeventscalendar.com/">https://theeventscalendar.com/</a>
+</p>
+
+<div>We are looking for a WordPress developer to join our "<a href="https://theeventscalendar.com/"><strong>The Events Calendar</strong></a>" team. The engineer will be responsible for developing code that can withstand high profile sites and intense loads. You will collaborate with a cross-functional team to architect and develop durable, extensible, and secure code. This role requires advanced to expert PHP, advanced to expert level in the frontend stack CSS and JS, impeccable WordPress experience; and solid MySQL, automated testing, and CLI skills.<br><br>
+</div><div>This is a remote position with a flexible schedule.<br><br>
+</div><div><strong>As a WordPress Developer you would:</strong></div><ul>
+<li>Develop new software solutions and maintain existing applications</li>
+<li>Work with stakeholders to understand requirements and objectives</li>
+<li>Create, review, and update technical documentation</li>
+<li>Keep apprised of relevant new technology and best practices</li>
+<li>Write tests to validate code function</li>
+<li>Execute bug fixes</li>
+<li>Measure results of implemented solutions</li>
+<li>Participate in troubleshooting/triaging of issues and document them appropriately</li>
+</ul><div><br></div><div><strong>You Have:</strong></div><ul>
+<li>5+ years Experience in the WordPress space</li>
+<li>Thorough knowledge of MySQL</li>
+<li>Basic knowledge of the product development life cycle</li>
+<li>Exceptional organizational and communication skills</li>
+<li>Skilled at crafting modern PHP (ex: autoloading, dependency management, dependency injection, templating libraries, automated testing, OOP, and/or frameworks like Symfony or Laravel, etc.)</li>
+<li>Mid to advanced level vanilla JavaScript experience (including experience with webpack, babel, and ES2015+ syntax)</li>
+<li>Exceptional HTML &amp; CSS (including experience with PostCSS or Sass and BEM) skills</li>
+<li>Comfortable working in a Linux environment</li>
+<li>A passion for improving software/systems</li>
+<li>Ability to work remotely with little-to-no supervision</li>
+</ul><div><br></div><div><strong>Bonus Points for:</strong></div><ul>
+<li>Experience with developing blocks for the Block Editor</li>
+<li>Experience with continuous integration and automated deployment pipelines</li>
+<li>Experience with JS application frameworks</li>
+<li>Experience with server technologies like Redis or Elasticsearch</li>
+<li>Experience building sites that are accessible (you’ve worked with WAI-ARIA and done WCAG 2.0+ AA/Section 508 work) and performant (working knowledge of best practices)</li>
+<li>Experience in more advanced areas of JavaScript (state management; async operations; unit, snapshot, and integration testing; REST APIs)</li>
+<li><br></li>
+</ul><div>
+<strong>We Offer:</strong><br><br>
+</div><ul>
+<li>100% Employer paid Benefits options - Medical, Dental, Vision, Prescription</li>
+<li>Traditional and Roth 401k with company matching</li>
+<li>Fun employer-sponsored events</li>
+<li>A collaborative team culture</li>
+<li>Consistent/set work hours</li>
+<li>Challenging non-redundant daily duties</li>
+<li>A voice in how things get done</li>
+<li>Access to ongoing training</li>
+</ul><div><br></div><div>
+<strong><em>Disclaimer:</em></strong><em><br></em><br>
+</div><div>
+<em>This job description is only a summary of the typical functions of the position. It is not intended to be an exhaustive or comprehensive list of all job responsibilities, tasks, or duties. Additional duties and tasks may be assigned as part of the job function. Liquid Web Inc. reserves the right to modify, interpret, or apply this job description in a way that best supports the organizational needs. The job description in no way creates or implies an employment contract. The employment contract remains “at will”.<br></em><br>
+</div><div><em>Equal Employment Opportunity Policy: Liquid Web is committed to offering equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.</em></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/the-events-calendar-wordpress-developer-backend">https://weworkremotely.com/remote-jobs/the-events-calendar-wordpress-developer-backend</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1255727/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -336,7 +550,7 @@
                     <code>developer,drupal,growth,design</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
@@ -361,7 +575,7 @@
                     <code>android,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
@@ -432,7 +646,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -509,7 +723,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -556,7 +770,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255729" align="right" target="_blank">Apply</a>
@@ -581,7 +795,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255704" align="right" target="_blank">Apply</a>
@@ -606,7 +820,7 @@
                     <code>developer,rails,ruby,growth</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1255730" align="right" target="_blank">Apply</a>
@@ -631,7 +845,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1255725" align="right" target="_blank">Apply</a>
@@ -656,7 +870,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1255719" align="right" target="_blank">Apply</a>
@@ -681,7 +895,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1255718" align="right" target="_blank">Apply</a>
@@ -706,7 +920,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1255721" align="right" target="_blank">Apply</a>
@@ -731,7 +945,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
