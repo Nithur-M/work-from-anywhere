@@ -1,5 +1,89 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/5771/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Jam.gg</h5>
+                    <h3> Senior Fullstack Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/jam-gg-senior-fullstack-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/5771/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Paris
+    <br /><strong>URL:</strong> <a href="https://jam.gg/fr">https://jam.gg/fr</a>
+</p>
+
+<div>
+<strong>Jam.gg is a social and low tech-friendly cloud gaming platform</strong>. It has been designed to be accessible to everyone: available directly from a web browser, it does not require a high-speed internet connection to provide a seamless multiplayer game experience. Jam.gg is all about bringing people together through games, with a touch of childhood playfulness and creativity.</div><div><br></div><div>We are led by an experienced team of ex Facebook, Google, Twitter, Amazon, Docker, EA, King and other top tech companies. Jam.gg is a YCombinator company and backed by top VC firms and LEGO Ventures.</div><div><br></div><div>We're at the stage where we're scaling our Engineering department as one of our key units. This is an incredible opportunity to join a booming company in its growth phase. Driven by a strong inclusive culture, we welcome self-starting, fast learning, talented people wishing to start and manage unique, and challenging projects where collaboration (internal and external) is everything.</div><div>
+<br>We are looking for a talented <strong>Senior Fullstack Engineer </strong> to join our growing Engineering team.</div><div><br></div><div>
+<strong>Start date</strong>: As soon as possible</div><div>
+<strong>Location</strong>: Full remote. The candidate must be in <strong>Europe</strong> for time zone reasons.</div><div>
+<strong>Type of contract</strong> : Fixed term or non-fixed term depending on the candidate</div><div><br></div><div><strong>What you will be doing:</strong></div><ul>
+<li>The role involves interfacing with design, implementing features, and being a strong advocate for the user.</li>
+<li>You will be working with an engineering manager and reporting to him.</li>
+</ul><div><br></div><div><strong>What we are looking for:</strong></div><div>Requirements for the role include:</div><ul>
+<li><strong>Minimum of 4 years experience as a Fullstack Software Engineer</strong></li>
+<li>Obsession for building and shipping amazing user experiences</li>
+<li>Experience feature development in close collaboration with design</li>
+<li>Expert knowledge of JavaScript Proficiency with React and Redux </li>
+<li>Solid understanding of the JavaScript/TypeScript and web application ecosystem</li>
+<li>Working knowledge of TypeScript</li>
+<li>Working knowledge of Storybook</li>
+<li>Working knowledge of Golang (this is what we use in the backend)</li>
+<li>Familiarity with test-driven development (Jest, Cypress, etc)</li>
+<li>Familiarity with Git and GitHub</li>
+<li>Passion for shaping and scaling an early stage, user-first application</li>
+<li>
+<strong><em>Self-motivation:</em></strong> highly autonomous &amp; working capabilities.</li>
+<li>
+<strong><em>Communication &amp; Teamwork:</em></strong> excellent communication and organization skills, team spirit, proactivity.</li>
+<li>Good spoken and written communication skills (English)</li>
+</ul><div><br></div><div>Experience that would be great for you to have (or you'd be excited about acquiring):</div><ul>
+<li>Previous remote-work experience</li>
+<li>Previous startup/growth-stage experience</li>
+<li>Prior experience building web services using NodeJS</li>
+<li>Google's Firebase, particularly Firestore, NoSQL</li>
+<li>General AWS and GCP experience</li>
+</ul><div><br></div><div><strong>Benefits:</strong></div><div><strong>For International and French permanent contracts:</strong></div><ul>
+<li>Unlimited holiday leave (minimum 5 weeks).</li>
+<li>Monthly well-being allowance (mental well-being, sports, massage, etc.).</li>
+<li>Home office allowance.</li>
+<li>Fully remote &amp; flexible working hours.</li>
+<li>Equal pay policy.</li>
+<li>Equal maternity and paternity leave (18 weeks).</li>
+<li>Maternity/Paternity subsidy of 3k euros.</li>
+<li>Stock option plan.</li>
+<li>Health insurance compensation on a one-to-one basis, depending on geographical location &amp; company's policy.</li>
+<li>Additional benefits depending on the geographical location.</li>
+</ul><div><br></div><div><strong>For international and French fixed-term contracts :</strong></div><ul>
+<li>5 weeks of holiday per year (2.08 days per month) </li>
+<li>Monthly well-being allowance (mental well-being, sports, massage, etc.).</li>
+<li>Home office allowance. </li>
+<li>Fully remote &amp; flexible working hours.</li>
+<li>Equal pay policy.</li>
+<li>Health insurance compensation on a one-to-one basis, depending on geographical location &amp; company's policy.</li>
+<li>Additional benefits depending on the geographical location</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/jam-gg-senior-fullstack-engineer">https://weworkremotely.com/remote-jobs/jam-gg-senior-fullstack-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1224255/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +94,7 @@
                     <code>developer,javascript,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-customer-solutions-team-1224255" align="right" target="_blank">Apply</a>
@@ -62,7 +146,7 @@
                     <code>ADS,AWS,backend,C++</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-1339259" align="right" target="_blank">Apply</a>
