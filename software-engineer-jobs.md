@@ -1,83 +1,172 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/img/jobs/0364d447967a1c0f5b5b238e6f9fe1cd1659545941.png" width="38px" height="auto">
+                    <img src="https://remoteOK.com/assets/img/jobs/8c9dd6a6b8fb0bed234dd8f5cbfc26e21660035389.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>AssemblyAI</h5>
+                    <h5>RDX Works</h5>
                     <h3>
-					Software Engineer Python				</h3>
+					Systems Software Engineer Virtual Machines				</h3>
                 </td>
                 <td width="300">
-                    <code>python, aws, scalability</code>
+                    <code>dev, defi, crypto</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/111871" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/jobs/112012" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="content-intro"><p><strong>AssemblyAI is an AI company - we build powerful models to transcribe and understand audio data, exposed through simple APIs.</strong></p><p>Hundreds of companies, and thousands of developers, use our APIs to both transcribe and understand millions of videos, podcasts, phone calls, and zoom meetings every day. Our APIs power innovative products like conversational intelligence platforms, zoom meeting summarizers, content moderation, and automatic closed captioning.</p><p><strong>Weâve been growing at breakneck speed, and are backed by leading investors including Y Combinatorâs AI Fund, Patrick and John Collision (Founders of Stripe), Nat Friedman (Former CEO of GitHub), and Daniel Gross (Entrepreneur &amp; Investor in companies including GitHub, Uber, Coinbase, SpaceX, Instacart, Notion, and Cruise Automation).</strong></p><p>AssemblyAIâs Speech-to-Text APIs are already trusted by Fortune 500s, startups, and thousands of developers around the world,Â <strong>with well-known customers including Spotify, Algolia, Dow Jones, The Wall Street Journal, and NBCUniversal.</strong>Â As part of a huge and emerging market, AssemblyAI is well on its way to becoming the leader in speech recognition and NLP.</p><p><strong>Join our world-class, remote team and help us build an iconic deep learning company.</strong></p><h2><strong>Our Team</strong></h2><p><strong>We are a fully remote team made up of problem solvers, innovators and top AI researchers with 20+ years of experience in Machine Learning, Speech Recognition, and NLP from places like DeepMind, Google, Meta, Amazon, Apple, and Cisco.</strong>Â Our culture is super collaborative, low-ego, transparent, and fast-paced. We want to win - and have a flat organization where everyone can openly share ideas (regardless of their title or position) in order to get the best idea.</p><p>As a remote company, our team members are given a lot of trust and autonomy to work where and how they want. We look for people to join our team who are ambitious, curious, and self-motivated, and we put a lot of trust and autonomy into everyone on our team.Â <strong>We want to empower everyone to do their best work with whatever tools, structures, or resources they need to perform at their highest potential.</strong></p></div><h2><strong>The Role</strong></h2><p class="p1">We're looking for a senior backend engineer with strong software and cloud engineering skills. You'll help us build highly scalable developer-centric APIs and backend systems powered by state-of-the-art ML models. Some of your responsibilities will include:</p><ul class="ul1"><li class="li2">Build new API features and endpoints</li><li class="li2">Build automated test suites and CI/CD pipelines</li><li class="li2">Build highly scalable event-driven and realtime systems</li><li class="li2">Instrument systems with metrics, tracing, and logging</li><li class="li2">Refactor applications to eliminate tech debt</li><li class="li2">Troubleshoot production issues</li></ul><h2><strong>You'll love this job if you....</strong></h2><ul><li class="li2">Enjoy solving complex technical problems, even when there is no perfect solution.</li><li class="li2">Enjoy being in a fast-paced, customer-facing role.</li><li class="li2">Thrive in small, cross-functional teams. We like to wear many hats here!</li><li class="li3">You're excited to tackle big technical challenges like building highly scalable architectures and achieving zero-downtime deploys.</li></ul><h2><strong>Requirements</strong></h2><div class="styles--2kg4_"><ul class="ul1"><li class="li2">2+ years of experience working with Python</li><li class="li2">2+ years of working with SQL and NoSQL databases</li><li class="li2">2+ working with Python backend frameworks like Django, Flask, or Tornado</li><li class="li2">2+ years developing REST APIs</li><li class="li2">2+ years working with common AWS services</li><li class="li2">2+ years of production support experience</li><li class="li2">Startup or FAANG-type experience - Has worked at a startup or high growth company</li><li class="li3">Deep AWS knowledge - Has many years of experience solutioning within AWS</li><li class="li2">Strong Python coding abilities - Can pass difficult programming challenges in a relatively short period of time. Can speak clearly about their thinking throughout these challenges. Can speak to O-notation of algorithms. Has excellent knowledge of common python idioms and libraries.</li><li class="li2">Leadership experience - Has led large projects and/or teams towards a big goal with success</li><li class="li2">High scalability experience - Has been a tech leader on scaling systems to hundreds of millions of requests/events per day. Has experience with hyper-observability, scaling algorithms, and using production data to drive system changes</li></ul><h2><strong>Skills</strong><br /></h2><ul class="ul1"><li class="li2">Amazing system design chops - When given a hard problem to solve with a new system, they can quickly shape an effective design and communicate its strengths, weaknesses, and tradeoffs.</li><li class="li2">High-octane thinking - Engages deeply on subjects of expertise. Thinks ahead many steps and can see where decisions are likely to lead. Their brains compute at a very high level.</li><li class="li2">Extremely creative - Can find both novel and effective solutions within highly constrained time and resources</li><li class="li2">Fast learner - Has shown they can ramp up on difficult topics very fast</li><li class="li2">Exceptional gut instincts - Can practically feel when something is right or wrong. Can use these instincts to quickly point themselves in the right direction.</li><li class="li1">Opinionated - They have convictions in what they believe and can communicate their position clearly without drama.</li></ul><h2><strong>Nice to Have</strong></h2><div class="styles--2kg4_"><ul><li>Machine learning experience - Has worked with machine learning models at scale</li><li>Experience integrating and deploying ML models into production</li></ul></div></div><div class="content-conclusion"><h2><strong>Benefits (US)</strong></h2><ul><li>Competitive Salary + Bonus</li><li>Equity</li><li>100% Remote team</li><li>Unlimited PTO</li><li>Premium Healthcare (100% Covered for you + dependents)</li><li>Vision &amp; Dental Care</li><li>$1K budget for your home office setup</li><li>New Macbook Pro (or PC if you prefer)</li><li>3-4x/year company paid team retreat</li></ul></div>
+                <h2 dir="ltr"><br /></h2><h2 dir="ltr">What is the job?Â </h2><p dir="ltr">Do you enjoy the nuts and bolts of how code gets built, packaged, and executed? Appreciate the challenge of creating safe ways of executing untrusted third-party code? Want to spend every day discussing chewy problems with great people? Ready to never, ever look on Stack Overflow for an answer, because thereâs absolutely no chance anyone has had to solve what youâre solving? Youâve come to the right place.Â <strong></strong></p><p dir="ltr">Weâre building the worldâs first purpose-built engine for decentralized finance. Delivering safe, approachable, parallelizable programming suitable for global finance on an open distributed ledger. The big pieces of the design are done, the market test data is in, our community is building like crazy on our pre-alpha, and we know we have a hit on our hands.Â  Now we need to get the next big release across the line and then turn our sights to designing v-next-next.<strong></strong></p><p dir="ltr">We are seeking an Engineer with a hefty background in some mix of compilers, virtual machines, and systems design to help implement the execution layer backing our unique asset-oriented programming model.</p><p dir="ltr">Youâll start with a period of intense research while you come up the curve on the design and function of the Radix Engine. Then roll up your sleeves and get straight to building alongside folks who have years of experience thinking about the problem set. Your brain will bend in ways it wasnât meant to be bent, you will form lifelong bonds with a team of incredible people, and you will forever remember the journey!</p><h2 dir="ltr"><br /></h2><h2 dir="ltr">What are we looking for?Â </h2><ul><li dir="ltr"><p dir="ltr">You deeply understand everything that happens between code written in text files to program execution for at least one high-level language.</p></li><li dir="ltr"><p dir="ltr">You have a wealth of knowledge about compilers and interpreters that you never get to use at parties.</p></li><li dir="ltr"><p dir="ltr">Youâre familiar with the basis of some existing VM architectures, and can speak intelligently about the pros and cons of various design approaches.</p></li><li dir="ltr"><p dir="ltr">You have previously shipped production software, and understand the importance of timely solutions over academic elegance.</p></li></ul><p><strong><br /></strong></p><h2 dir="ltr">What do you need?</h2><ul><li dir="ltr"><p dir="ltr">4+ years as a professional Software Engineer.</p></li><li dir="ltr"><p dir="ltr">Strong debugging skills.</p></li><li dir="ltr"><p dir="ltr">Fluent in Rust, C, or C++.Â  Youâll be programming in Rust here.</p></li><li dir="ltr"><p dir="ltr">Familiarity with the underpinnings of LLVM and WASM is a plus.</p></li><li dir="ltr"><p dir="ltr">Solid understanding of computer architecture is also a plus.</p></li></ul><p><br /></p><h2 dir="ltr">Who are we?Â </h2><p dir="ltr">At RDX Works, we're a team of like-minded thinkers who have long been convinced that we're living in the earliest stages of a global financial revolution. This revolution is being fuelled by decentralized finance (or DeFi for short), which is enabling an assortment of pioneering developers and entrepreneurs to re-invent almost every financial product that is currently traded and invested in traditional markets, without requiring central authorities or siloed infrastructure. DeFi has captured a great deal of attention and investment in the crypto-aware niche, growing assets under management from $1 billion to over $200 billion in a few years. Impressive as its growth has been, its current market size isn't even a rounding error on the over $400 trillion held in traditional finance. We're focused on what it will take to go from billions to trillions.</p><p dir="ltr">RDX went back to first principles to come up with the right technical solutionâthe first layer-one protocol built specifically for mainstream DeFiâand we have already tested out at over 1 million transactions per second. We're keenly aware that the need for an infinitely scalable platform is only one prerequisite among many for mass adoption, and we're also blazing new ground in the areas of purpose-built developer tools, user experiences, and regulatory integration.</p><p dir="ltr">We have forged a path deep into the future of what distributed ledger technology is going to look like and we need you to come and be part of the team that is making that happen right now.</p><p dir="ltr">If this job sounds like it was made for you, then please apply directly via the link or if you donât have an up-to-date CV to apply with, please contact careers@rdx.works for more information.</p><p dir="ltr">Check out our company benefits here - <a href="https://www.rdx.works/careers">RDX Works Benefits</a></p><p dir="ltr">Alternatively, if you feel like you donât match all of the requirements, we would love you to still apply anyway. We understand that confidence gaps and imposter syndrome can get in the way of meeting incredible candidates and we wouldnât want this to prevent us from meeting you; especially as we are big advocates of helping people learn &amp; grow. This is also another reason we do not advertise salaries, we want to keep it as even a playing field as possible!Â </p>
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4854/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Chainlink Labs</h5>
-                    <h3> Senior Software Engineer, Blockchain Integrations</h3>
+                    <h5>AssemblyAI (YC 17)</h5>
+                    <h3> Senior Software Engineer, Python</h3>
                 </td>
                 <td width="300">
-                    <code>All Other Remote</code>
+                    <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>156 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-blockchain-integrations-1" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0076/4854/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> United States
+    <br /><strong>URL:</strong> <a href="https://www.assemblyai.com/">https://www.assemblyai.com/</a>
+</p>
+
+<div>We're looking for a senior backend engineer with strong software and cloud engineering skills. You'll help us build highly scalable developer-centric APIs and backend systems powered by state-of-the-art ML models. Some of your responsibilities will include:</div><ul>
+<li>Build new API features and endpoints</li>
+<li>Build automated test suites and CI/CD pipelines</li>
+<li>Build highly scalable event-driven and realtime systems</li>
+<li>Instrument systems with metrics, tracing, and logging </li>
+<li>Refactor applications to eliminate tech debt</li>
+<li>Troubleshoot production issues</li>
+</ul><h1><strong>You'll love this job if you....</strong></h1><ul>
+<li>Enjoy solving complex technical problems, even when there is no perfect solution.</li>
+<li>Enjoy being in a fast-paced, customer-facing role.</li>
+<li>Thrive in small, cross-functional teams. We like to wear many hats here!</li>
+<li>You're excited to tackle big technical challenges like building highly scalable architectures and achieving zero-downtime deploys.</li>
+</ul><h1><strong>Requirements</strong></h1><ul>
+<li>5+ years of professional experience building backend applications using any popular language such as Python, Java, C#, JavaScript, Go, C/C++</li>
+<li>3+ years of working with SQL and NoSQL databases</li>
+<li>3+ years of production support experience</li>
+<li>3+ years working with common AWS services</li>
+<li>2+ years developing REST APIs</li>
+<li>2+ years of experience working with Python</li>
+<li>2+ working with Python backend frameworks like Django, Flask, or Tornado</li>
+<li>Experience migrating systems to meet increasing traffic/scale</li>
+<li>
+<strong>Startup or FAANG-type experience </strong>- Has worked at a startup or high growth company</li>
+<li>
+<strong>Deep AWS knowledge </strong>- Has many years of experience solutioning within AWS</li>
+<li>
+<strong>Strong Python coding abilities </strong>- Can pass difficult programming challenges in a relatively short period of time. Can speak clearly about their thinking throughout these challenges. Can speak to O-notation of algorithms. Has excellent knowledge of common python idioms and libraries.</li>
+<li>
+<strong>High scalability experience</strong> - Has been a tech leader on scaling systems to hundreds of millions of requests/events per day. Has experience with hyper-observability, scaling algorithms, and using production data to drive system changes</li>
+</ul><h1><strong>Skills</strong></h1><ul>
+<li>
+<strong>Amazing system design chops </strong>- When given a hard problem to solve with a new system, they can quickly shape an effective design and communicate its strengths, weaknesses, and tradeoffs.</li>
+<li>
+<strong>High-octane thinking</strong> - Engages deeply on subjects of expertise. Thinks ahead many steps and can see where decisions are likely to lead. Their brains compute at a very high level.</li>
+<li>
+<strong>Extremely creative </strong>- Can find both novel and effective solutions within highly constrained time and resources</li>
+<li>
+<strong>Fast learner</strong> - Has shown they can ramp up on difficult topics very fast</li>
+<li>
+<strong>Exceptional gut instincts </strong>- Can practically feel when something is right or wrong. Can use these instincts to quickly point themselves in the right direction.</li>
+<li>
+<strong>Opinionated</strong> - They have convictions in what they believe and can communicate their position clearly without drama.</li>
+</ul><h1><strong>Nice to Have</strong></h1><ul>
+<li>Machine learning experience - Has worked with machine learning models at scale</li>
+<li>Experience integrating and deploying ML models into production</li>
+</ul><h1><strong>Benefits (US)</strong></h1><ul>
+<li>Competitive Salary + Bonus</li>
+<li>Equity</li>
+<li>401k</li>
+<li>100% Remote team</li>
+<li>Unlimited PTO</li>
+<li>Premium Healthcare (100% Covered for you + dependents)</li>
+<li>Vision &amp; Dental Care</li>
+<li>$1K budget for your home office setup</li>
+<li>New Macbook Pro (or PC if you prefer)</li>
+<li>2x/year company paid team retreat</li>
+</ul><h1>Salary Range (Global): $125,000 - $200,000</h1>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python">https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4898/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kumu</h5>
+                    <h3> Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/kumu-senior-software-engineer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/4898/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
   <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://chainlinklabs.com/">https://chainlinklabs.com/</a>
+    <br /><strong>URL:</strong> <a href="https://kumu.io">https://kumu.io</a>
 </p>
 
-<div>Chainlink Labs seeks to power smart contracts on all blockchain ecosystems. We believe in a multi-blockchain universe, where users are able to leverage the strengths of different blockchains for their particular needs.</div><div>As a senior software engineer on the <strong>Blockchain Integrations </strong>team, you will own the integrations of upcoming blockchains into the Chainlink platform, working directly and building relations with the founding engineers while gaining expertise in each new innovative ecosystem. You will be the driving force behind building this critical infrastructure for cross-chain connectivity while working with a globally distributed team. You will mentor more junior engineers, and report to the engineering lead on the team.</div><div>
-<strong><br>Your Impact<br></strong><br>
+<div>Kumu is a small but mighty team building tools to tackle tough problems. We are bootstrapped and profitable, which gives us the luxury to focus our efforts on more niche use cases that make a meaningful difference in the world. We’re looking for a Senior Software Engineer to join our team. Our current products include:</div><div><br></div><div>
+<a href="https://kumu.io"><strong>Kumu</strong></a> - our flagship data viz platform that helps people understand complex relationships, primarily through network, systems, and stakeholder maps.</div><div><br></div><div>
+<a href="https://sticky.studio"><strong>Sticky Studio</strong></a> - a collaborative whiteboard that focuses on simplicity while supporting the depth and richness of the interconnected nature of the challenges we face.</div><div><br></div><div>
+<a href="https://undercurrent.io"><strong>Undercurrent</strong></a> - a platform that crowdsources understanding of complex systems through identification of root causes and relationships</div><div><br></div><div>
+<a href="https://weavr.app/product"><strong>Weavr</strong></a>- a community engagement platform that maximizes the impact of networks by building shared awareness of people, projects, and relationships</div><div><br></div><div>You’d be involved throughout the entire development process, from initial brainstorms and sketching to final stages of testing and release. We use a 6 week cycle, with 4 weeks of more structured effort followed by 2 weeks of more flexible downtime. We care about supporting each other as human beings and making sure work is a meaningful part of your life, but not all encompassing (or leading to burnout).</div><div>
+<br><strong>Stack:</strong> react, rails, typescript<br><br><strong>Bonus points for experience with: </strong>tdd, graphs/networks, couchdb, elasticsearch, cloudformation, ubuntu, docker, bash, webpack/babel, aws, vmware/virtualbox, packer</div><div>
+<br><strong>You’re probably a great fit if:</strong>
 </div><ul>
-<li>Own the end to end integration of new cutting edge blockchains to the Chainlink platform to allow for the exponential growth of the network, from viability research to chain-specific node development, token bridging, deployments, monitoring, tooling, and testing</li>
-<li>Work directly with leadership, developers, users, and the community - integration projects are highly collaborative</li>
-<li>Work closely with node operators to connect their Chainlink nodes to new blockchains</li>
-<li>Architect and design components / service layers to sustainability scale as the number of blockchains we support grows significantly</li>
-<li>Actively participate in leveling the team’s engineering bar, increasing the velocity of the team and the reliability and security of the product. </li>
+<li>You’re a talented web developer (both frontend and backend)</li>
+<li>You work well setting your own priorities and working with lots of freedom</li>
+<li>You’ve built and maintained a complex library, single page web app, or product</li>
+<li>You care about design and UX and can implement new features without guidance</li>
+<li>You aren’t afraid to get your hands dirty with VMs, linux, shell scripting, networking, and a parallel product release cycle (for our Enterprise offering of Kumu)</li>
 </ul><div>
-<strong><br>Requirements<br></strong><br>
+<br><strong>If you’re interested, please send an email to careers@kumu.io including the following:</strong>
 </div><ul>
-<li>5+ years of professional engineering experience working in a collaborative product-driven environment</li>
-<li>Successful experience designing, building, and scaling a production service</li>
-<li>Experience owning multi month-long projects, including communication of progress, dependencies, and risk mitigation directly with stakeholders and partners</li>
-<li>Computer science fundamentals and systems design</li>
-<li>Ability to be creative and resourceful when tackling ambiguous technical challenges</li>
+<li>Tell us a little about yourself. Who are you? Where do you come from?</li>
+<li>Tell us about a project you’ve worked on that you’re proud of</li>
+<li>Include links where we could learn more about you professionally and personally (website/github/twitter/medium/instagram/etc)</li>
+<li>Include a recent photo of you doing something that you love</li>
+<li>Tell us why you're excited to work for Kumu</li>
 </ul><div>
-<strong><br>Desired Qualifications<br></strong><br>
-</div><ul>
-<li>Experience in Golang, Rust, TypesScript, Solidity, Postgres, Terraform, AWS</li>
-<li>Experience in blockchain and other Web 3.0 technologies, as a web3 developer and/or as a backend service developer</li>
-<li>Experience in building distributed systems</li>
-<li>Experience contributing to the open source community</li>
-<li>Experience working with a team located across multiple time zones</li>
-</ul><div><br></div><div><strong>Our Stack</strong></div><div>Golang, TypeScript, Solidity, Postgres, Terraform, AWS</div><div><br></div><div><br></div><div><strong>Our Principles</strong></div><div><br></div><div>At Chainlink Labs, we’re committed to the key operating principles of ownership, focus, and open dialogue. We practice complete ownership, where everyone goes the extra mile to own outcomes into success. We understand that unflinching focus is a superpower and is how we channel our activity into technological achievements for the benefit of our entire ecosystem. We embrace open dialogue and critical feedback to arrive at an accurate and truthful picture of reality that promotes both personal and organizational growth.</div><div><br></div><div><strong>About Chainlink Labs</strong></div><div><br></div><div>Chainlink is the industry standard oracle network for connecting smart contracts to the real world. With Chainlink, developers can build hybrid smart contracts that combine on-chain code with an extensive collection of secure off-chain services powered by Decentralized Oracle Networks. Managed by a global, decentralized community of hundreds of thousands of people, Chainlink is introducing a fairer model for contracts. Its network currently secures billions of dollars in value for smart contracts across the decentralized finance (DeFi), insurance, and gaming ecosystems, among others. The full vision of the Chainlink Network can be found in the <a href="https://research.chain.link/whitepaper-v2.pdf">Chainlink 2.0 whitepaper</a>. Chainlink is trusted by hundreds of organizations—from global enterprises to projects at the forefront of the blockchain economy—to deliver definitive truth via secure, reliable data.  </div><div><br></div><div>This role is location agnostic anywhere in the world, but we ask that you overlap some working hours with Eastern Standard Time (EST).</div><div><br></div><div>We are a fully distributed team and have the tools and benefits to support you in your remote work environment.</div><div><br></div><div><em>Chainlink Labs is an Equal Opportunity Employer.</em></div>
+<br><strong>Experienced developers only. Generic applications will be ignored. Thanks!</strong>
+</div><div><br></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-blockchain-integrations-1">https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-blockchain-integrations-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/kumu-senior-software-engineer-1">https://weworkremotely.com/remote-jobs/kumu-senior-software-engineer-1</a></p>
 
                 </details>
                 </td>
@@ -93,7 +182,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -161,7 +250,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -223,7 +312,7 @@
                     <code>cloud,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1342235" align="right" target="_blank">Apply</a>
