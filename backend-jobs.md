@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cows-protocol-senior-backend-engineer-rust" align="right" target="_blank">Apply</a>
@@ -79,7 +79,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2" align="right" target="_blank">Apply</a>
@@ -151,7 +151,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>240 days ago</text>
+                <text>241 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chili-piper-back-end-engineer-2" align="right" target="_blank">Apply</a>
