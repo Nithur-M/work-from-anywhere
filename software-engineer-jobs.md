@@ -11,7 +11,7 @@
                     <code>dev, defi, crypto</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112012" align="right" target="_blank">Apply</a>
@@ -35,7 +35,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/circle-senior-software-engineer-rails-react-1" align="right" target="_blank">Apply</a>
@@ -72,96 +72,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4854/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>AssemblyAI (YC 17)</h5>
-                    <h3> Senior Software Engineer, Python</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4854/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> United States
-    <br /><strong>URL:</strong> <a href="https://www.assemblyai.com/">https://www.assemblyai.com/</a>
-</p>
-
-<div>We're looking for a senior backend engineer with strong software and cloud engineering skills. You'll help us build highly scalable developer-centric APIs and backend systems powered by state-of-the-art ML models. Some of your responsibilities will include:</div><ul>
-<li>Build new API features and endpoints</li>
-<li>Build automated test suites and CI/CD pipelines</li>
-<li>Build highly scalable event-driven and realtime systems</li>
-<li>Instrument systems with metrics, tracing, and logging </li>
-<li>Refactor applications to eliminate tech debt</li>
-<li>Troubleshoot production issues</li>
-</ul><h1><strong>You'll love this job if you....</strong></h1><ul>
-<li>Enjoy solving complex technical problems, even when there is no perfect solution.</li>
-<li>Enjoy being in a fast-paced, customer-facing role.</li>
-<li>Thrive in small, cross-functional teams. We like to wear many hats here!</li>
-<li>You're excited to tackle big technical challenges like building highly scalable architectures and achieving zero-downtime deploys.</li>
-</ul><h1><strong>Requirements</strong></h1><ul>
-<li>5+ years of professional experience building backend applications using any popular language such as Python, Java, C#, JavaScript, Go, C/C++</li>
-<li>3+ years of working with SQL and NoSQL databases</li>
-<li>3+ years of production support experience</li>
-<li>3+ years working with common AWS services</li>
-<li>2+ years developing REST APIs</li>
-<li>2+ years of experience working with Python</li>
-<li>2+ working with Python backend frameworks like Django, Flask, or Tornado</li>
-<li>Experience migrating systems to meet increasing traffic/scale</li>
-<li>
-<strong>Startup or FAANG-type experience </strong>- Has worked at a startup or high growth company</li>
-<li>
-<strong>Deep AWS knowledge </strong>- Has many years of experience solutioning within AWS</li>
-<li>
-<strong>Strong Python coding abilities </strong>- Can pass difficult programming challenges in a relatively short period of time. Can speak clearly about their thinking throughout these challenges. Can speak to O-notation of algorithms. Has excellent knowledge of common python idioms and libraries.</li>
-<li>
-<strong>High scalability experience</strong> - Has been a tech leader on scaling systems to hundreds of millions of requests/events per day. Has experience with hyper-observability, scaling algorithms, and using production data to drive system changes</li>
-</ul><h1><strong>Skills</strong></h1><ul>
-<li>
-<strong>Amazing system design chops </strong>- When given a hard problem to solve with a new system, they can quickly shape an effective design and communicate its strengths, weaknesses, and tradeoffs.</li>
-<li>
-<strong>High-octane thinking</strong> - Engages deeply on subjects of expertise. Thinks ahead many steps and can see where decisions are likely to lead. Their brains compute at a very high level.</li>
-<li>
-<strong>Extremely creative </strong>- Can find both novel and effective solutions within highly constrained time and resources</li>
-<li>
-<strong>Fast learner</strong> - Has shown they can ramp up on difficult topics very fast</li>
-<li>
-<strong>Exceptional gut instincts </strong>- Can practically feel when something is right or wrong. Can use these instincts to quickly point themselves in the right direction.</li>
-<li>
-<strong>Opinionated</strong> - They have convictions in what they believe and can communicate their position clearly without drama.</li>
-</ul><h1><strong>Nice to Have</strong></h1><ul>
-<li>Machine learning experience - Has worked with machine learning models at scale</li>
-<li>Experience integrating and deploying ML models into production</li>
-</ul><h1><strong>Benefits (US)</strong></h1><ul>
-<li>Competitive Salary + Bonus</li>
-<li>Equity</li>
-<li>401k</li>
-<li>100% Remote team</li>
-<li>Unlimited PTO</li>
-<li>Premium Healthcare (100% Covered for you + dependents)</li>
-<li>Vision &amp; Dental Care</li>
-<li>$1K budget for your home office setup</li>
-<li>New Macbook Pro (or PC if you prefer)</li>
-<li>2x/year company paid team retreat</li>
-</ul><h1>Salary Range (Global): $125,000 - $200,000</h1>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python">https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/3890/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -172,7 +82,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
@@ -218,59 +128,43 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4898/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1352183/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Kumu</h5>
-                    <h3> Senior Software Engineer</h3>
+                    <h5>Edquity</h5>
+                    <h3>Senior Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/kumu-senior-software-engineer-1" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1352183" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4898/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://kumu.io">https://kumu.io</a>
-</p>
-
-<div>Kumu is a small but mighty team building tools to tackle tough problems. We are bootstrapped and profitable, which gives us the luxury to focus our efforts on more niche use cases that make a meaningful difference in the world. We’re looking for a Senior Software Engineer to join our team. Our current products include:</div><div><br></div><div>
-<a href="https://kumu.io"><strong>Kumu</strong></a> - our flagship data viz platform that helps people understand complex relationships, primarily through network, systems, and stakeholder maps.</div><div><br></div><div>
-<a href="https://sticky.studio"><strong>Sticky Studio</strong></a> - a collaborative whiteboard that focuses on simplicity while supporting the depth and richness of the interconnected nature of the challenges we face.</div><div><br></div><div>
-<a href="https://undercurrent.io"><strong>Undercurrent</strong></a> - a platform that crowdsources understanding of complex systems through identification of root causes and relationships</div><div><br></div><div>
-<a href="https://weavr.app/product"><strong>Weavr</strong></a>- a community engagement platform that maximizes the impact of networks by building shared awareness of people, projects, and relationships</div><div><br></div><div>You’d be involved throughout the entire development process, from initial brainstorms and sketching to final stages of testing and release. We use a 6 week cycle, with 4 weeks of more structured effort followed by 2 weeks of more flexible downtime. We care about supporting each other as human beings and making sure work is a meaningful part of your life, but not all encompassing (or leading to burnout).</div><div>
-<br><strong>Stack:</strong> react, rails, typescript<br><br><strong>Bonus points for experience with: </strong>tdd, graphs/networks, couchdb, elasticsearch, cloudformation, ubuntu, docker, bash, webpack/babel, aws, vmware/virtualbox, packer</div><div>
-<br><strong>You’re probably a great fit if:</strong>
-</div><ul>
-<li>You’re a talented web developer (both frontend and backend)</li>
-<li>You work well setting your own priorities and working with lots of freedom</li>
-<li>You’ve built and maintained a complex library, single page web app, or product</li>
-<li>You care about design and UX and can implement new features without guidance</li>
-<li>You aren’t afraid to get your hands dirty with VMs, linux, shell scripting, networking, and a parallel product release cycle (for our Enterprise offering of Kumu)</li>
-</ul><div>
-<br><strong>If you’re interested, please send an email to careers@kumu.io including the following:</strong>
-</div><ul>
-<li>Tell us a little about yourself. Who are you? Where do you come from?</li>
-<li>Tell us about a project you’ve worked on that you’re proud of</li>
-<li>Include links where we could learn more about you professionally and personally (website/github/twitter/medium/instagram/etc)</li>
-<li>Include a recent photo of you doing something that you love</li>
-<li>Tell us why you're excited to work for Kumu</li>
-</ul><div>
-<br><strong>Experienced developers only. Generic applications will be ignored. Thanks!</strong>
-</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/kumu-senior-software-engineer-1">https://weworkremotely.com/remote-jobs/kumu-senior-software-engineer-1</a></p>
-
+                <p><strong>Company Overview:</strong></p><p><strong><br></strong></p>
+<p><a href="http://edquity.co/" rel="nofollow">Edquity</a> is seeking to transform the social safety net by equipping institutions and governments with equitable cash assistance technology. Edquity offers an end-to-end cash assistance solution to help our partners prioritize incoming applications, verify and process applicants, and pay people quickly to support them through their most vulnerable moments and track outcomes over time.  Our end-to-end platform is supporting communities around the country with a streamlined process to receive rental assistance, emergency aid grants, child care subsidies, utility assistance, inflation subsidies and other benefits programs. We work with over 40 postsecondary institutions and multiple local governments and have administered over $175M in funding in an average of 25 hours from application.</p><br>
+<p>Edquity is a Series A stage, venture-backed company and has received support from many of the leading impact and postsecondary success investors, and has also received non-dilutive support from foundations like the Bill and Melinda Gates Foundation. <br><strong><br></strong></p>
+<p><strong>Job Overview:</strong></p><p><strong><br></strong></p>
+<p>Edquity, an anti-poverty technology company, is seeking an experienced Senior Software Engineer who is passionate about enhancing financial stability and social mobility in higher education and improving college graduation rates for low and middle-income students.</p><br>
+<p>The Senior Software Engineer will utilize modern architecture and technology in a collaborative environment and should have a keen interest in System Design and Architecture to quickly identify improvements and implement them. The Senior Software Engineer should work towards a vision beyond the daily tasks with a proactive, solutions-oriented mindset and appreciate autonomous responsibility.</p><br>
+<p>This role is full-stack; the Engineer will participate in building and maintaining backend services, optimizing query performance and cost, and using cutting-edge frontend technologies to create an incredible user experience.</p>
+<p><strong><br></strong></p>
+<p><strong>What you will do:</strong></p><p><strong><br></strong></p>
+<ul><li>Work with designers, product managers, QA engineers, and other developers in a highly collaborative agile environment.</li><li>Build our products out further by improving the performance of our codebase and handling scaling issues to accommodate user growth, as well as writing rigorous and thorough tests to ensure code stability.</li><li>Create new products and features to match business needs, while maintaining our current product and keeping technical debt to a minimum.</li><li>Digest and distill technical problems and propose and execute creative technical solutions.</li><li>Review code, identify technical priorities, and system design trade-offs</li><li>Build for scale, availability, performance, and security across the stack. </li></ul>
+<p><strong><br></strong></p>
+<p><strong>Qualifications:</strong></p><p><strong><br></strong></p>
+<ul><li>4+ years of professional Javascript experience (Node, React, etc.)</li><li>Experience working in AWS </li><li>Git: Professional experience with version control</li><li>SQL: Experience building data models and writing complex SQL queries</li><li>Experience building/maintaining web apps in production, and  testing front and backend code and TDD</li><li>A strong work ethic: ability to be self-motivated and take ownership over tasks</li><li>A strong belief in equity and a desire to reduce structural inequality<strong></strong></li></ul>
+<p>*<em>Don't hesitate to apply even if you don't meet every qualification, as we individually evaluate all applications and do consider candidates with outside experience. </em><strong></strong><br></p>
+<p><strong><br></strong></p><p><strong>Compensation and Benefits:</strong><br></p><p><strong><br></strong></p>
+<p>The salary range for this position has been benchmarked in relation to scope of role, market rate, company stage, and internal equity.  The salary for this role will be between $130,000 - $160,000. Where a candidate falls within the band is determined by skillset, experience level, and geographic location. In addition to base salary, this role will come a total compensation package that includes equity shares and competitive benefits. </p><br><p>Some of our benefits include:</p><br>
+<ul><li>Fully remote</li><li>Fully paid health insurance (Medical/Vision/Dental)</li><li>Unlimited PTO, Sick and Mental Health Benefits </li><li>11 paid company holidays</li><li>401k with a 4% match</li><li>Generous parental leave</li><li>Annual Professional Development Stipend</li><li>One time Home Office Setup Stipend</li><li>Equity in Edquity </li><li>Many <a href="https://secure.justworks.com/benefits/company_benefits_overviews/11e5bd4c-af24-464d-959c-dd40124fa39a/show" rel="nofollow">more</a>! </li></ul>
+<p><em><em><br></em></em></p><p><em><em>Edquity is committed to building a diverse staff and strongly encourages applications from candidates of color. Edquity provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</em></em></p><img src="https://remotive.com/job/track/1352183/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -285,7 +179,7 @@
                     <code>api,AWS,backend,C</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-python-1350221" align="right" target="_blank">Apply</a>
@@ -367,7 +261,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -435,7 +329,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -497,7 +391,7 @@
                     <code>cloud,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1342235" align="right" target="_blank">Apply</a>
