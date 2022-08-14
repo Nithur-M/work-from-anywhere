@@ -11,7 +11,7 @@
                     <code>full stack, tech, front end</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112035" align="right" target="_blank">Apply</a>
@@ -21,6 +21,99 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p dir="ltr">Jam.gg is a social and low tech-friendly cloud gaming platform. It has been designed to be accessible to everyone: available directly from a web browser, it does not require a high-speed internet connection to provide a seamless multiplayer game experience. Jam.gg is all about bringing people together through games, with a touch of childhood playfulness and creativity.</p><p dir="ltr">We are led by an experienced team of ex Facebook, Google, Twitter, Amazon, Docker, EA, King and other top tech companies. Jam.gg is a YCombinator company and backed by top VC firms and LEGO Ventures.</p><p dir="ltr">We're at the stage where we're scaling our Engineering department as one of our key units. This is an incredible opportunity to join a booming company in its growth phase. Driven by a strong inclusive culture, we welcome self-starting, fast learning, talented people wishing to start and manage unique, and challenging projects where collaboration (internal and external) is everything.</p><p dir="ltr">We are looking for a talented Senior Fullstack Engineer Â to join our growing Engineering team.</p><p dir="ltr"><br /></p><p dir="ltr"><strong>Start date</strong>: As soon as possible</p><p dir="ltr"><strong>Location</strong>: Full remote. The candidate must be in Europe for time zone reasons.</p><p dir="ltr"><strong>Type of contract</strong> : Fixed term or non-fixed term depending on the candidate</p><p><strong><br /></strong></p><p dir="ltr"><strong>What you will be doing</strong>:</p><ul><li dir="ltr"><p dir="ltr">The role involves interfacing with design, implementing features, and being a strong advocate for the user.</p></li><li dir="ltr"><p dir="ltr">You will be working with an engineering manager and reporting to him.</p></li></ul><p><strong><br /></strong></p><p dir="ltr"><strong>What we are looking for:</strong></p><p dir="ltr">Requirements for the role include:</p><ul><li dir="ltr"><p dir="ltr">Minimum of 4 years experience as a Frontend Software Engineer</p></li><li dir="ltr"><p dir="ltr">Obsession for building and shipping amazing user experiences</p></li><li dir="ltr"><p dir="ltr">Experience feature development in close collaboration with design</p></li><li dir="ltr"><p dir="ltr">Expert knowledge of JavaScript Proficiency with React and Redux</p></li><li dir="ltr"><p dir="ltr">Solid understanding of the JavaScript/TypeScript and web application ecosystem</p></li><li dir="ltr"><p dir="ltr">Working knowledge of TypeScript</p></li><li dir="ltr"><p dir="ltr">Working knowledge of Storybook</p></li><li dir="ltr"><p dir="ltr">Working knowledge of Golang (this is what we use in the backend)</p></li><li dir="ltr"><p dir="ltr">Familiarity with test-driven development (Jest, Cypress, etc)</p></li><li dir="ltr"><p dir="ltr">Familiarity with Git and GitHub</p></li><li dir="ltr"><p dir="ltr">Passion for shaping and scaling an early stage, user-first application</p></li><li dir="ltr"><p dir="ltr">Self-motivation: highly autonomous &amp; working capabilities.</p></li><li dir="ltr"><p dir="ltr">Communication &amp; Teamwork: excellent communication and organization skills, team spirit, proactivity.</p></li><li dir="ltr"><p dir="ltr">Good spoken and written communication skills (English)</p></li></ul><p dir="ltr"><br /></p><p dir="ltr"><strong>Experience that would be great for you to have (or you'd be excited about acquiring):</strong></p><ul><li dir="ltr"><p dir="ltr">Previous remote-work experience</p></li><li dir="ltr"><p dir="ltr">Previous startup/growth-stage experience</p></li><li dir="ltr"><p dir="ltr">Prior experience building web services using NodeJS</p></li><li dir="ltr"><p dir="ltr">Google's Firebase, particularly Firestore, NoSQL</p></li><li dir="ltr"><p dir="ltr">General AWS and GCP experience</p></li></ul><p><br /></p><p dir="ltr"><strong>Benefits</strong>:</p><p dir="ltr"><strong>For International and French permanent contracts:</strong></p><ul><li dir="ltr"><p dir="ltr">Unlimited holiday leave (minimum 5 weeks).</p></li><li dir="ltr"><p dir="ltr">Monthly well-being allowance (mental well-being, sports, massage, etc.).</p></li><li dir="ltr"><p dir="ltr">Home office allowance.</p></li><li dir="ltr"><p dir="ltr">Fully remote &amp; flexible working hours.</p></li><li dir="ltr"><p dir="ltr">Equal pay policy.</p></li><li dir="ltr"><p dir="ltr">Equal maternity and paternity leave (18 weeks).</p></li><li dir="ltr"><p dir="ltr">Maternity/Paternity subsidy of 3k euros.</p></li><li dir="ltr"><p dir="ltr">Stock option plan.</p></li><li dir="ltr"><p dir="ltr">Health insurance compensation on a one-to-one basis, depending on geographical location &amp; company's policy.</p></li><li dir="ltr"><p dir="ltr">Additional benefits depending on the geographical location.</p></li></ul><p><strong><br /></strong></p><p dir="ltr"><strong>For international and French fixed-term contracts :</strong></p><ul><li dir="ltr"><p dir="ltr">5 weeks of holiday per year (2.08 days per month)Â </p></li><li dir="ltr"><p dir="ltr">Monthly well-being allowance (mental well-being, sports, massage, etc.).</p></li><li dir="ltr"><p dir="ltr">Home office allowance.Â </p></li><li dir="ltr"><p dir="ltr">Fully remote &amp; flexible working hours.</p></li><li dir="ltr"><p dir="ltr">Equal pay policy.</p></li><li dir="ltr"><p dir="ltr">Health insurance compensation on a one-to-one basis, depending on geographical location &amp; company's policy.</p></li><li dir="ltr"><p dir="ltr">Additional benefits depending on the geographical location</p></li></ul><p dir="ltr"><br /></p><p dir="ltr"><strong>Why Jam.gg?</strong></p><p dir="ltr">At the heart of Jam.ggâs mission is the creation of a new way to share games with friends and family: a free online place for gamers to play and hangout together, with video cameras, bringing back the golden era of multiplayer couch gaming. In a world of constraining internet connections and paid services, we think differently: we are building a free, âlow-techâ friendly platform for everyone to jump in, directly from their browser. Our platform is social by design and packed with fun games curated by our community. We want to create new virtual social spaces that fundamentally diverge from today's typical social networks, focusing a lot less on appearance and a lot more on experience. We are building a social gaming platform for all gamers who enjoy playing together.</p><p dir="ltr"><br /></p><p dir="ltr">Our startup has been growing very quickly since the end of 2020, attracting more than 40 gaming talents from developers and social media experts to designers. In June 2021, we introduced our cloud gaming beta platform featuring 80+ licensed games, including titles from industry-renowned publishers such as Codemasters, Interplay, Team 17, and Data East. Discovered and supported by Y Combinator (Twitch, Reddit, Stripe, etc), our board of advisors include former SEGA CEO Kenji Matsubara, Zynga co-founders Justin Waldron and Tom Bollich, Crunchyrollâs Kun Gao, and Humble Bundleâs Jeffrey Rosen. Our last round was led by LEGO Ventures and top gaming VC firms.</p><p dir="ltr"><br /></p><p dir="ltr">With almost half a million users who have joined us so far, our teams are prepping for our next chapter and are on the lookout for talented and motivated folks who share our passionÂ  for gaming and want to make a real impact while embracing a true startup spirit (autonomy, transparency, user centric).</p><p dir="ltr"><br /></p><p dir="ltr">Jam.gg is an equal opportunity employer and we proudly value and promote diversity in our team. We do not discriminate on the basis of ethnicity, religion, color, national origin, gender, sexual orientation, age, marital status, World of Warcraft faction or disability status.</p><p dir="ltr"><br /></p><p dir="ltr">More info <a href="https://jamgg.medium.com/join-our-team-edee635107c1">here</a> on our mission, culture and team</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/4192/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Expensify inc.</h5>
+                    <h3> Full Stack Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>570 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/expensify-inc-full-stack-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/4192/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="https://we.are.expensify.com/how-we-got-here">https://we.are.expensify.com/how-we-got-here</a>
+</p>
+
+<h1>Your Mission, Should You Choose to Accept:</h1><div>
+<br>Join our passionate team of top-notch engineers to solve a real-world problem, and help people spend less time managing expenses and more time pursuing their real goals. As we revolutionize the way people manage their expenses, being part of the Expensify team means building the easiest, fastest, and most efficient platform to automate everything expense-related.<br><br><br>
+</div><div>Our employees work from all over the world, but if you’re looking for a change of scene we offer visa sponsorship and relocation assistance to join us at one of our rad locations:</div><ul>
+<li>San Francisco</li>
+<li>Portland</li>
+<li>Michigan</li>
+<li>New York</li>
+<li>London</li>
+<li>Melbourne</li>
+<li>And more to come!</li>
+</ul><div>
+<br>Even though we work hard at Expensify, we make sure our employees are happy. Our most talked about perk is our<a href="https://we.are.expensify.com/explore-the-world"> Offshore</a> where we spend a month abroad working from a remote location as a team. This year we’re going to Spain, do you want to join?<br><br><br>
+</div><div>
+<strong><br>About You<br></strong><br><br>
+</div><div>
+<br>Whether you’re building features like calendar integrations, importing credit card transactions, or pulling information from receipts, you’re self-driven and collaborative. You’re an autonomous individual who is passionate about writing beautiful and concise code. You’re willing to work with other engineers, designers, and customer facing teams to turn our dreams into reality. <br><br><br>
+</div><div>
+<br>As a Web Full Stack Engineer, your responsibilities include:<br><br><br>
+</div><ul>
+<li>Implementing improvements</li>
+<li>Planning, building, and maintaining cross-stack features like accounting integrations, advanced receipt scanning, and more.</li>
+<li>Guiding and enabling others in the organization: we'll share our editor tricks, dotfiles and productive workflows. Share yours!</li>
+<li>Asking questions about things you don’t understand and challenging the status quo.<br><br><br>
+</li>
+</ul><div>
+<br>For the best possible fit, we are looking for someone who:<br><br><br>
+</div><ul>
+<li>Has experience writing real-world software to solve real-world problems.</li>
+<li>Communicates well, both interpersonally and in their code.</li>
+<li>Is a natural problem solver, knows how to solve problems by automating their solutions.</li>
+<li>Understands the role and impact that programming can have on the organization as a whole.</li>
+<li>Wants to develop and grow their skills in programming and leadership within the organization.<br><br><br>
+</li>
+</ul><div>
+<br>We are looking for people who have a strong understanding of algorithms and design patterns that can apply those concepts into a production level codebase. Knowledge and experience with Javascript, React, React Native, PHP, C++, Java, iOS or Android is a plus. This position is the foundation for launching a career with Expensify, with the expectation that you’ll carry these skills into new domains.<br><br><br>
+</div><div>
+<strong><br>Compensation &amp; Benefits<br></strong><br><br>
+</div><ul>
+<li>Full-time, salaried position</li>
+<li>401k with employer match</li>
+<li>100% Medical/Dental/Vision contributions</li>
+<li>Commuter benefits</li>
+<li>Free lunch</li>
+<li>Flexible vacation policy</li>
+<li>Relocation available</li>
+<li>Work from home when you need to<br><br><br>
+</li>
+</ul><div>
+<strong><br>Next Steps<br></strong><br><br>
+</div><div>
+<br>Applying is easy, but it takes time. See, while we know you're awesome, it's actually really hard and time consuming to find you in the midst of literally hundreds of other applications we get from everyone else. So this is where we're going to ask our first favor: can you make it really easy and obvious how great you are, so we don't accidentally overlook you? There are probably many ways to do that, but the easiest way to help us out is by answering the following questions:<br><br><br>
+</div><ol>
+<li>What's the URL of your website? If you don't have one, why not?</li>
+<li>What's your coding history? When did you start, and what have you done between then and now?</li>
+<li>What do you want to do with the rest of your life, and how is Expensify a step toward your long-term goals?</li>
+<li>How did you hear about us? A job posting? Chalk on a sidewalk? From a friend? Let us know where you saw this opening.<br><br><br>
+</li>
+</ol><div>
+<strong><br>Resume not your thing? That’s great, we don’t really read them anyway! Forward your responses to the questions to apply@expensify.com. We're excited to hear from you!<br></strong><br><br>
+</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/expensify-inc-full-stack-engineer">https://weworkremotely.com/remote-jobs/expensify-inc-full-stack-engineer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +128,7 @@
                     <code>developer,javascript,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-customer-solutions-team-1224255" align="right" target="_blank">Apply</a>
@@ -87,7 +180,7 @@
                     <code>ADS,AWS,backend,C++</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-1339259" align="right" target="_blank">Apply</a>
