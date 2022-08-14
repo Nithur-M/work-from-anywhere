@@ -11,7 +11,7 @@
                     <code>javascript, react, front end</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111999" align="right" target="_blank">Apply</a>
@@ -21,56 +21,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p>Weâre hiring a Senior/Staff Front End Engineer to work on our web applications. These web applications are the way that thousands of creative people around the world find great music and inspiring clips for use in their projects and campaigns.</p><p><br /></p><p>As part of the Engineering team, your time will be spent collaborating with other front end engineers, back end engineers, product managers and designers to create the best experience for our customers. The ideal candidate loves tinkering with cutting edge technology and has at least 5 years experience building large scale React applications.</p><p><br /></p><p>The engineering team has a remote-first culture. As such, you will be comfortable working remotely, possess excellent verbal and written communication skills and be able to manage your own time. We have a relaxed working environment, great team culture and push for a standard of excellence in everything we do.</p><p><br /></p><p>There are a lot of challenging and interesting technical problems to solve that directly impact our clients and colleagues. Here are some example projects that we have worked on recently:</p><p><br /></p><ul><li>Build a custom audio player that includes the ability to track progress, expands to show additional details and allows users to easily explore our artist catalogue.</li><li>Enhance the purchase flow with additional payment options, subscriptions, and a seamless checkout.</li><li>Help maintain a beautiful custom React component library, including reusable components with tailored functionality and consistent design attributes.</li><li>Work on a multi-month greenfield project in Next.js.</li><li>Implement a robust CI/CD pipeline.</li></ul><p><br /></p><p>Weâre after individuals that are curious about the possibility of technology, are eager to learn, and are diligent and kind. Our teams work well because we place trust in them to succeed. We believe in collaboration and that great ideas can come from anybody.</p><p><br /></p><p>We welcome and encourage candidates from diverse backgrounds.</p><p><br /></p><p><br /></p><p><strong><u>About Us</u></strong></p><p><br /></p><p>FM is the parent company of Musicbed and Filmsupply, two premium content licensing brands in the filmmaking industry. We represent an elite roster of musicians and filmmakers and place their work in movies, shows, ads, short films, and more.</p><p><br /></p><p>Headquartered in Fort Worth, Texas, we work with entertainment powerhouses like Sony Pictures, 20th Century Fox, Lionsgate, Netflix, MTV, and ESPN; as well as the worldâs top brands like Nike, Apple, Google, Lamborghini, and Spotify.</p><p><br /></p><p><br /></p><p><strong><u>Core Duties</u></strong></p><p><br /></p><ul><li><strong>Lead the front end development of product features:</strong>Â As well as coding out complex features, you will contribute to the technical design process. You will collaborate with your teammates (including other senior engineers) to refine the product roadmap and vision, and guide your team in building out new features.</li><li><strong>Define technical direction:Â </strong>You will help maintain the standard of engineering excellence at FM and shape the technical vision for our front end engineering stack (React, Next.js, React Native). You will influence best practices and introduce new technologies when appropriate.</li><li><strong>Mentor other engineers:</strong>Â Work with more junior engineers to help them grow and develop their skills.</li></ul><p><br /></p><p><strong><u>A Great Candidate Will Have</u></strong></p><p><br /></p><ul><li>At least 5 years experience developing front end applications with React (and preferably Next.js).</li><li>A love of Typescript and unit-tested React components.</li><li>Highly skilled in HTML and CSS (including responsive design and cross-browser compatibility).</li><li>Proven technical leadership skills, including the ability to architect complex front-end web applications.</li><li>Excellent communication skills (written and verbal).</li><li>Experience in any of the following is a bonus: Webpack, Unstated, Cypress, React Native.</li></ul>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/5796/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Playful Software, Inc</h5>
-                    <h3> Staff Front End Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/playful-software-inc-staff-front-end-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/5796/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Seattle, Washington, United States
-    <br /><strong>URL:</strong> <a href="http://playful.software">http://playful.software</a>
-</p>
-
-<p>As a Staff Front End Engineer at Playful Software, you will play a pivotal role in building out the initial platform and MVP release of our product. You'll have the opportunity to work directly with startup veterans to build a product from the ground up in a fun, productive environment.</p>
-<p><br></p>What to expect:<ul> <li>Work on the first version of the product platform with founders and the team</li> <li>Execute on building scalable and reliable front-end applications</li> <li>Work closely with engineers and designers to create a joyful user experience</li> <li>Participate in regular design and code reviews</li> <li>Make broad contributions to the website and/or mobile application</li> <li>Contribute to the overall direction of the company</li> </ul>
-<p><strong>Requirements</strong></p>
-<ul> <li>Extensive experience creating front-end software for public-facing products.</li> <li>At least <strong>three years of experience in a modern JavaScript UI framework</strong>, such as React, Vue, or Angular </li> <li>Very helpful if you have extensive React experience</li> <li>You have <strong>6+ years of professional front-end web development experience</strong>.</li> <li>You have a deep understanding of browser JavaScript (including the DOM and platform APIs). </li> <li>Experience with browser-based applications on mobile</li> <li>Typescript experience or experience with other strongly typed languages required</li> <li>A love for making beautiful user experiences</li> <li>Golang experience is desirable (our backend is in go)</li> <li>Understanding of object-oriented programming language (Java, Javascript, C++, C#, Ruby, Python)</li> <li>Excellent communication skills</li> <li>Experience in a startup environment, comfortable dealing with ambiguity</li> <li><strong>Must reside in and be able to work in the US</strong></li> </ul>
-<p><strong>Benefits</strong></p>
-<p>We offer great insurance for you and your family, flexible vacation time, 401k, co-working stipend and much more. </p>
-<p><br></p>
-<h3>Our culture </h3>
-<p>Led by two seasoned entrepreneurs with engineering and business backgrounds, we are creating a team with a strong design and UX orientation. We value blending design and engineering innovation to create fun and delightful experiences. </p>
-<p>We have done this before. We know how to build highly effective teams and a company culture that is a joy to be part of on a daily basis. We believe that to create fun and engaging experiences we need to have a lot of fun building them. </p>
-<p>We pay full-time salaries and offer competitive health benefits. We value diversity across all dimensions and keep reasonable hours. Playful Software is in-person in Seattle and remote everywhere. </p>
-<p><br></p>
-<h3>Our hiring process </h3>
-<p>Our interview process is a straightforward, behavioral interview about your past experiences, interviews with the founders and key staff, and meeting with our whole team. We value design and engineering excellence, product insight, eagerness for growth/impact, and the communication skills and empathy to collaborate well with a tight-knit team. </p>
-<p><br></p>
-<h3>Founders </h3>
-<p>Darrin Massena and Mike Harrington are passionate about making software that is fun and easy to use. Darrin and Mike have built successful teams and startups from gaming to productivity and have roots in the game industry. Mike co-founded Valve Software and Darrin co-founded Spiffcode. Darrin and Mike teamed up to create the award-winning online photo editor, Picnik, which was acquired by Google in 2010.</p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/playful-software-inc-staff-front-end-engineer">https://weworkremotely.com/remote-jobs/playful-software-inc-staff-front-end-engineer</a></p>
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -85,7 +35,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/enveritas-frontend-ux-software-engineer-core-engineering-team-remote" align="right" target="_blank">Apply</a>
@@ -142,7 +92,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/torc-frontend-engineer" align="right" target="_blank">Apply</a>
@@ -197,7 +147,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-frontend" align="right" target="_blank">Apply</a>
@@ -265,7 +215,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-1347890" align="right" target="_blank">Apply</a>
