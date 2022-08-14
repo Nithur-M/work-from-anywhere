@@ -11,7 +11,7 @@
                     <code>dev, rust, scrypto</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111996" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>javascript, react, node</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111985" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>front end, javascript, react</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111934" align="right" target="_blank">Apply</a>
@@ -85,7 +85,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/trendspider-llc-backend-javascript-engineer-middle-node-js-developer" align="right" target="_blank">Apply</a>
@@ -128,73 +128,95 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/5816/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/0156/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>CM Games</h5>
-                    <h3> Senior Server Developer (VR)</h3>
+                    <h5>Toptal</h5>
+                    <h3> Senior Back-End Developer</h3>
                 </td>
                 <td width="300">
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/cm-games-senior-server-developer-vr" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/toptal-senior-back-end-developer-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/5816/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0067/0156/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Tallinn, Estonia
-    <br /><strong>URL:</strong> <a href="https://cm.games/">https://cm.games/</a>
+  <strong>Headquarters:</strong>  Wilmington, DE
+    <br /><strong>URL:</strong> <a href="https://www.toptal.com/">https://www.toptal.com/</a>
 </p>
 
-<div>We are looking for a<strong> Senior Server Developer </strong>in our R&amp;D Team, which focuses on prototyping for different platforms and developing VR projects. <br><br><strong>Our first VR success<br><br></strong><a href="https://inlnk.ru/0Qnnx4">Into The Radius</a> is a single-player survival shooter set in a post-apocalyptic world. The game has been on an upwards trajectory since its launch: became IndieDB VR Game of the Year 2020, got into the <a href="https://www.reddit.com/r/intotheradius/comments/rqcm84/congratulations_to_the_developers_itr_has_made_it/">Steam Platinum VR Category in 2021</a> with 92% very positive reviews and hit the first page of top-grossing projects on Steam. <a href="https://www.youtube.com/watch?v=4cmOoETiMqs">Into the Radius will be available on Meta Quest 2</a> in September 2022!<br><br><strong>One of our next VR products<br><br></strong>We offer to work on <a href="https://store.steampowered.com/app/1822540/Nitro_Nation_VR/">Nitro Nation VR</a>, a premium multiplayer race for virtual reality that is currently under active preparation for release in Early Access.<br><br><strong>You will have the following tasks:<br></strong><br>
-</div><ul>
-<li>design and development of the server part of the project;</li>
-<li>interaction with client developers;</li>
-<li>revision and development of tools for the team’s work;</li>
-<li>systematic work with technical debt.<br><br>
+<div><strong><em>Design your full-time freelance career as a top freelance developer with Toptal. </em></strong></div><div><br></div><div>Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. </div><div><br></div><div>Toptal is an elite talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere.<strong> Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </strong>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. </div><div><br></div><div>As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. </div><div><br></div><div>That’s why the world’s top 3% of developers choose Toptal. Developers in our elite network share:</div><ul>
+<li>English language proficiency</li>
+<li>3+ years of professional experience in Back-End Development</li>
+<li>Solid experience in Ruby on Rails or/and Node.js is a strong advantage</li>
+<li>Project management skills</li>
+<li>A keen attention to detail</li>
+<li>Experience with system architecture or leading a software team is a strong advantage</li>
+<li>Full-time availability is a strong advantage<br><br>
 </li>
-</ul><div>
-<strong>What we expect from you:<br></strong><br>
-</div><ul>
-<li>ability to design, describe, and implement an optimal server solution that is consistent with the project load, timelines, and goals;</li>
-<li>excellent knowledge of C#, algorithms, data structures, and ability to apply them in time;</li>
-<li>proficiency in writing quality and understandable code;</li>
-<li>
-<strong>+3 years </strong>of experience in a relevant position;</li>
-<li>knowledge of architecture principles of both client and server applications and extensive experience in applying this knowledge;</li>
-<li>ability to correctly estimate deadlines for major tasks and achieve their timely performance;</li>
-<li>ability to justify your point of view to other experienced developers and negotiate with colleagues from other divisions.<br><br>
-</li>
-</ul><div>
-<strong>A big plus will be:<br></strong><br>
-</div><ul>
-<li>experience in working with online real-time games;</li>
-<li>available projects released;</li>
-<li>professional interest in VR, experience working with VR projects;</li>
-<li>professional interest in the racing genre.<br><br>
-</li>
-</ul><div>
-<strong>We offer:<br></strong><br>
-</div><ul>
-<li>exciting and ambitious tasks;</li>
-<li>active participation in the creation of games enjoyed by millions of players around the world;</li>
-<li>training and personal development program;</li>
-<li>opportunity to discuss ideas and share experiences with the company’s professional community;</li>
-<li>a culture of openness, transparency, and common sense;</li>
-<li>excellent hardware, VMI, English courses, consultations with a psychologist, and birthday gifts.<br><br>
-</li>
-</ul><div>
-<strong>We’re looking forward to your response</strong>!</div>
+</ul><div><br></div><div>Curious to know how much you could make? Check out our developer rate calculator: <a href="https://topt.al/vqcdQ8">https://topt.al/vqcdQ8</a>
+</div><div>
+<br>If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/rGc2aB"><strong>https://topt.al/rGc2aB</strong></a>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cm-games-senior-server-developer-vr">https://weworkremotely.com/remote-jobs/cm-games-senior-server-developer-vr</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toptal-senior-back-end-developer-1">https://weworkremotely.com/remote-jobs/toptal-senior-back-end-developer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/4964/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>mtc.</h5>
+                    <h3> PHP Backend Developer Remote</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0077/4964/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Dundee, UK
+    <br /><strong>URL:</strong> <a href="https://www.mtc.co.uk">https://www.mtc.co.uk</a>
+</p>
+
+<div>We are currently looking for experienced <strong>Remote</strong> <strong>PHP Backend Web Developers.<br></strong><br>
+</div><div>
+<strong><br>Role Description:<br></strong><br>
+</div><div>• create technical specifications from business requirements<br>• develop websites in a team together with a project manager, designer, and a frontend developer<br>• develop new features and reusable components<br>• communicate with the client when required<br>• independently develop new features and resolve issues for existing websites<br>• optionally contribute and maintain our internal codebase and tools<br><br>
+</div><div><strong>Tech Stack:</strong></div><div>
+<br>On <strong>LAMP</strong> architecture choose to be a <strong>General PHP Backend Web Developer</strong> or if you have relevant experience - specialize in one of the below</div><div>
+<br>• <strong>mtc. Core</strong> - Custom, Laravel flavoured mtc. framework<br>• <strong>Shopify<br>• Magento 2<br>• WordPress<br>• Big Commerce<br></strong><br>
+</div><div><strong><br>Requirements:</strong></div><ul>
+<li>4-5 year web development work experience</li>
+<li>Fluent English (written &amp; verbal)</li>
+<li>Experience with modern and legacy code, SQL databases, and Linux CLI.</li>
+</ul><div><br></div><div><strong>We consider it a plus if you have experience in:</strong></div><div>
+<br>• Vue.js</div><div>
+<strong><br>We offer<br></strong><br>
+</div><div>• Salary range 2300 - 3500 EUR / month before taxes<br>• 37.5h work week<br>• 31 - 37 holidays per year<br>• Flexible &amp; cross-departmental career progression opportunities<br>• Ability to work from home or one of our offices<br>• Ability to choose your own start time<br>• Interesting and diverse projects<br>• An option to travel to meet the other teams<br>• Quarterly events at our offices and an annual Christmas party<br>• International contacts and experience<br> <br><strong>Send CV to jobs@mtc.co.uk with subject: WWRBD1 {Name Surname}</strong><br><br>The salary displayed is negotiable and depends on experience.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote">https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote</a></p>
 
                 </details>
                 </td>
@@ -210,7 +232,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/kapsys-back-end-developer-node-js-1" align="right" target="_blank">Apply</a>
@@ -297,7 +319,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>63 days ago</text>
+                <text>64 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-frontend-webflow-developer" align="right" target="_blank">Apply</a>
@@ -382,7 +404,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>94 days ago</text>
+                <text>95 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/composable-finance-senior-frontend-developer" align="right" target="_blank">Apply</a>
@@ -450,7 +472,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>120 days ago</text>
+                <text>121 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tactica-interactive-full-stack-developer-react-rails-1" align="right" target="_blank">Apply</a>
@@ -506,7 +528,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>840 days ago</text>
+                <text>841 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/g2i-inc-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -554,7 +576,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -765,7 +787,7 @@
                     <code>developer,drupal,growth,design</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
@@ -790,7 +812,7 @@
                     <code>android,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
@@ -861,7 +883,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -938,7 +960,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -985,7 +1007,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255729" align="right" target="_blank">Apply</a>
@@ -1010,7 +1032,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255704" align="right" target="_blank">Apply</a>
@@ -1035,7 +1057,7 @@
                     <code>developer,rails,ruby,growth</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1255730" align="right" target="_blank">Apply</a>
@@ -1060,7 +1082,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1255725" align="right" target="_blank">Apply</a>
@@ -1085,7 +1107,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1255719" align="right" target="_blank">Apply</a>
@@ -1110,7 +1132,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1255718" align="right" target="_blank">Apply</a>
@@ -1135,7 +1157,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1255721" align="right" target="_blank">Apply</a>
