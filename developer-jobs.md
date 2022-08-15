@@ -50,27 +50,100 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/2217c3c70719930c2bab5e594fd68f6b1659654005.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7299/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Ethereum Foundation</h5>
-                    <h3>
-					Front End TypeScript Developer				</h3>
+                    <h5>Data Virtuality GmbH</h5>
+                    <h3> Senior Java Backend Developer. Full-time. Unlimited. Contractor.</h3>
                 </td>
                 <td width="300">
-                    <code>front end, javascript, react</code>
+                    <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/111934" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-java-backend-developer-full-time-unlimited-contractor" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                About the Ethereum FoundationThe Ethereum Foundation (EF) is a global non-profit organization dedicated to supporting Ethereum and related technologies. Our mission is to do what is best for Ethereumâs long-term success. Our role is to allocate resources to critical projects, to be a valued voice within the Ethereum ecosystem, and to advocate for Ethereum to the outside world.About RemixRemix is building tools for smart contract development. We are dedicated to helping the Ethereum community by improving its developer experience and often collaborate with different teams from the Ethereum ecosystem (e.g. the Solidity team).We focus on multiple areas of developer tooling:+ Remix libraries are a set of modules critical for dev tools (solidity compiler, unit testing, debugging, static analysis, ...). + Remix IDE is the application front end which makes use of these modules. + Remix plugins provides an API for external teams to integrate with Remix IDE.As a member of our team, you will help us maintain and break new ground in blockchain development.We are located in Berlin in a wonderful office but remote working is also possible. Our team is composed of people from Berlin and abroad (France, US, India, Nigeria). We usually meet everyone in person several times a year for team gathering or conferences (Devcon, EthCC, Dappcon, etc.)About YouWe are looking for a talented frontend developer with strong React skills to help us design, build and maintain Remix IDE.We aim to diversify the scope of your activities as much as possible, and you will work with us in the Remix IDE project in organizing workshops, keeping in touch with the community and trying to make blockchain development accessible to the mainstream.To apply to this position, please respond to our questions in the application form, along with a resume or CV. Bonus points for adding a link to open source contributions or projects done by you!
+                <img src="https://we-work-remotely.imgix.net/logos/0074/7299/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Leipzig, Germany
+    <br /><strong>URL:</strong> <a href="https://datavirtuality.com/en/careers/">https://datavirtuality.com/en/careers/</a>
+</p>
+
+<div>
+<strong><br>We would love to be your new team!<br></strong><br>
+</div><div>Working at Data Virtuality means being part of an international team and thriving. What we offer is remote work from your home, wherever it is. Further, you can expect an unlimited long-term freelance contract with full-time work, benefits, and genuine team spirit.<br><br>
+</div><div>At Data Virtuality, you will experience respectful interactions, harmonious teamwork,<br>without a dog-eat-dog mentality!<br><br>
+</div><div>
+<strong><br>What you will be doing:<br></strong><br>
+</div><div>
+<strong>Coding Expert</strong> – You push on further developing our monolithic product Data Virtuality Platform. With your</div><div>clean coding approach and your creative power, you conceive, develop, and integrate new components and</div><div>applications into our products with the highest quality.</div><div>
+<br><strong>Bug Buster </strong>– Your mission is to keep an eye on our existing products: You analyze and improve our</div><div>components and fix bugs.</div><div>
+<br><strong>Team Player</strong> – Working remotely: You are independent, reliable, and constantly in touch with the Data Virtuality Team. You keep exchanging ideas with your colleagues and help the team develop the best performance.</div><div>
+<br><strong><br></strong><br>
+</div><div>
+<strong>Your skills. Your tech stack.<br></strong><br>
+</div><div><strong>Must have</strong></div><ul>
+<li>“Fluent in” Java</li>
+<li>strong experience (5+ years) in database design, complex SQL queries</li>
+<li>in-depth knowledge of OOD methodology, Java, XML, J2EE (JSP, JMS, EJB, Servlet, JDBC, JPA), and Web Services (SOAP &amp; REST)</li>
+<li>working knowledge of Hibernate</li>
+<li>keen understanding of the internal operation principles of an RDBMS, knowledge of Data Warehousing is a plus</li>
+<li>practical knowledge of standard technologies for development, assembly (Maven),and versioning (Git)</li>
+</ul><div><strong>Desired</strong></div><ul>
+<li>substantial experience (5+ years) in J2EE-development with a focus on WildFly,/JBoss, or a similar application server</li>
+<li>in-depth knowledge of modern architectural concepts, design patterns, and agile software development (Scrum, Kanban)</li>
+</ul><div>
+<strong><br>Tenacious, Ambitious, International!<br></strong><br>
+</div><div>
+<strong>…what you should bring from the personal side.<br></strong><br>
+</div><ul>
+<li>fluent spoken and written English is a must-have criterion</li>
+<li>clean and good quality coding approach is very important because of our complex<br>product</li>
+<li>analytical thinking, pragmatic development approach with a hands-on mentality</li>
+<li>being a team player, but also being able to solve problems independently</li>
+<li>understanding the requirements from customer view</li>
+<li>generally very good communication behavior</li>
+</ul><div>
+<br><strong>What our fantastic team worldwide loves about working with Data Virtuality</strong>
+</div><ul>
+<li>A job with the stability and team spirit of an employee, but also with the freedom and flexibility of a freelancer</li>
+<li>Stable partnership for years</li>
+<li>Fix salary + paid vacation + paid sick leave</li>
+<li>Flexibility to decide where to work</li>
+<li>Knowledgeable and approachable C-Level</li>
+<li>Reliable and fast monthly payment – in <strong>EUR, USD, or various cryptocurrencies</strong>, as you prefer</li>
+<li>Continuity and growth potential</li>
+<li>Friendly and international colleagues</li>
+<li>Full integration into our teams and invitation for our team events worldwide</li>
+<li>If you want, possibility to relocate to Germany after min. five years of a great collaboration</li>
+</ul><div><strong><br>Our Tech Stack</strong></div><ul>
+<li>
+<strong>Backend: </strong>J2EE application running in a JBoss/WildFly container to connect to any kind of<br>data source (relational/NoSQL/cloud based databases, web services, text files, etc.) and to<br>query data by using SQL. Persistence layers and internal configurations are delegated to<br>Hibernate.</li>
+<li>Frontend (Desktop): Desktop Application based on Eclipse RCP</li>
+<li>Frontend (Web): several Web applications based on Angular</li>
+<li>Operating System: Linux, Microsoft Windows, macOs</li>
+<li>Languages: Java 11, C, C++, TypeScript, SQL, XML</li>
+<li>Databases: Oracle, PostgreSQL, MySQL, MS SQL Server, Amazon Redshift, Snowflake, Microsoft Azure Synapse Analytics, Exasol, Teradata, Vertica, MongoDB, etc.</li>
+<li>Others: Web Services, JDBC, ODBC, REST, OData, LDAP</li>
+<li>IDE: IntelliJ IDEA, Eclipse</li>
+<li>Framework: Eclipse Rich Client Platform, JUnit, Spring, Hibernate, Angular, JQuery</li>
+<li>
+<strong>Application Servers:</strong> WildFly, JBoss</li>
+<li>Cloud Technologies: Amazon Web Services, Microsoft Azure, Google Cloud Platform</li>
+<li>Development, Building, Versioning tools: Maven, Ant, Git</li>
+<li>Dev and CI tools: Jira, FishEye, BitBucket, GitLab, Crucible, Confluence, Jenkins</li>
+<li>Virtualization and Containers: Docker, VirtualBox, VMware, Vagrant</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-java-backend-developer-full-time-unlimited-contractor">https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-java-backend-developer-full-time-unlimited-contractor</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -184,7 +257,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote" align="right" target="_blank">Apply</a>
@@ -413,62 +486,6 @@
 </ul>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/composable-finance-senior-frontend-developer">https://weworkremotely.com/remote-jobs/composable-finance-senior-frontend-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/4420/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Tactica Interactive</h5>
-                    <h3> Full Stack Developer - React & Rails</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>122 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/tactica-interactive-full-stack-developer-react-rails-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/4420/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Winnipeg, Canada
-    <br /><strong>URL:</strong> <a href="http://tactica.ca">http://tactica.ca</a>
-</p>
-
-<div>Do you want to take your Full Stack Developer career to the next level? At Tactica, you will have the opportunity to collaborate with top talent to solve interesting challenges while crafting mobile apps, games, and web apps for health, agriculture, and research clients. You'll be an important player on a team making a difference in the world.<br><br>
-</div><div>We are looking for a completely remote Full Stack Developer to work with our team from your own location. You’ll use your analytical and creative abilities throughout the development process.<br><br><br>
-</div><div><strong>Responsibilities</strong></div><ul>
-<li>Develop new mobile apps, websites, and web applications</li>
-<li>Help define application architecture and plan solutions to technical challenges</li>
-<li>Research and implement tools and libraries that evolve development processes and capabilities</li>
-<li>Collaborate with designers to craft cutting-edge user experiences</li>
-<li>Manage your time against multiple deadlines and requirements</li>
-</ul><div><br></div><div><strong>Requirements</strong></div><ul>
-<li>Three or more years of Full Stack development experience and a track record of excellence as demonstrated in your body of work.</li>
-<li>A post-secondary education studying computer science, web/app development or comparable.</li>
-<li>Proficient with HTML5/CSS/JavaScript technologies</li>
-<li>Proficient with Ruby on Rails &amp; React.js</li>
-<li>Proficient using responsive development techniques</li>
-<li>Good communication skills to help you collaborate with your team and clients</li>
-<li>A dependable home office including private working area, fast &amp; reliable internet<br><br>
-</li>
-</ul><div><strong>Experience with the following technologies will be an asset but are not required:</strong></div><ul>
-<li>Agile development methodologies</li>
-<li>Styling frameworks (Bootstrap, Foundation, or similar)</li>
-<li>React Native</li>
-<li>Cloud computing (Google, AWS or similar)</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tactica-interactive-full-stack-developer-react-rails-1">https://weworkremotely.com/remote-jobs/tactica-interactive-full-stack-developer-react-rails-1</a></p>
 
                 </details>
                 </td>
