@@ -11,7 +11,7 @@
                     <code>dev, defi, crypto</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112012" align="right" target="_blank">Apply</a>
@@ -21,62 +21,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <h2 dir="ltr"><br /></h2><h2 dir="ltr">What is the job?Â </h2><p dir="ltr">Do you enjoy the nuts and bolts of how code gets built, packaged, and executed? Appreciate the challenge of creating safe ways of executing untrusted third-party code? Want to spend every day discussing chewy problems with great people? Ready to never, ever look on Stack Overflow for an answer, because thereâs absolutely no chance anyone has had to solve what youâre solving? Youâve come to the right place.Â <strong></strong></p><p dir="ltr">Weâre building the worldâs first purpose-built engine for decentralized finance. Delivering safe, approachable, parallelizable programming suitable for global finance on an open distributed ledger. The big pieces of the design are done, the market test data is in, our community is building like crazy on our pre-alpha, and we know we have a hit on our hands.Â  Now we need to get the next big release across the line and then turn our sights to designing v-next-next.<strong></strong></p><p dir="ltr">We are seeking an Engineer with a hefty background in some mix of compilers, virtual machines, and systems design to help implement the execution layer backing our unique asset-oriented programming model.</p><p dir="ltr">Youâll start with a period of intense research while you come up the curve on the design and function of the Radix Engine. Then roll up your sleeves and get straight to building alongside folks who have years of experience thinking about the problem set. Your brain will bend in ways it wasnât meant to be bent, you will form lifelong bonds with a team of incredible people, and you will forever remember the journey!</p><h2 dir="ltr"><br /></h2><h2 dir="ltr">What are we looking for?Â </h2><ul><li dir="ltr"><p dir="ltr">You deeply understand everything that happens between code written in text files to program execution for at least one high-level language.</p></li><li dir="ltr"><p dir="ltr">You have a wealth of knowledge about compilers and interpreters that you never get to use at parties.</p></li><li dir="ltr"><p dir="ltr">Youâre familiar with the basis of some existing VM architectures, and can speak intelligently about the pros and cons of various design approaches.</p></li><li dir="ltr"><p dir="ltr">You have previously shipped production software, and understand the importance of timely solutions over academic elegance.</p></li></ul><p><strong><br /></strong></p><h2 dir="ltr">What do you need?</h2><ul><li dir="ltr"><p dir="ltr">4+ years as a professional Software Engineer.</p></li><li dir="ltr"><p dir="ltr">Strong debugging skills.</p></li><li dir="ltr"><p dir="ltr">Fluent in Rust, C, or C++.Â  Youâll be programming in Rust here.</p></li><li dir="ltr"><p dir="ltr">Familiarity with the underpinnings of LLVM and WASM is a plus.</p></li><li dir="ltr"><p dir="ltr">Solid understanding of computer architecture is also a plus.</p></li></ul><p><br /></p><h2 dir="ltr">Who are we?Â </h2><p dir="ltr">At RDX Works, we're a team of like-minded thinkers who have long been convinced that we're living in the earliest stages of a global financial revolution. This revolution is being fuelled by decentralized finance (or DeFi for short), which is enabling an assortment of pioneering developers and entrepreneurs to re-invent almost every financial product that is currently traded and invested in traditional markets, without requiring central authorities or siloed infrastructure. DeFi has captured a great deal of attention and investment in the crypto-aware niche, growing assets under management from $1 billion to over $200 billion in a few years. Impressive as its growth has been, its current market size isn't even a rounding error on the over $400 trillion held in traditional finance. We're focused on what it will take to go from billions to trillions.</p><p dir="ltr">RDX went back to first principles to come up with the right technical solutionâthe first layer-one protocol built specifically for mainstream DeFiâand we have already tested out at over 1 million transactions per second. We're keenly aware that the need for an infinitely scalable platform is only one prerequisite among many for mass adoption, and we're also blazing new ground in the areas of purpose-built developer tools, user experiences, and regulatory integration.</p><p dir="ltr">We have forged a path deep into the future of what distributed ledger technology is going to look like and we need you to come and be part of the team that is making that happen right now.</p><p dir="ltr">If this job sounds like it was made for you, then please apply directly via the link or if you donât have an up-to-date CV to apply with, please contact careers@rdx.works for more information.</p><p dir="ltr">Check out our company benefits here - <a href="https://www.rdx.works/careers">RDX Works Benefits</a></p><p dir="ltr">Alternatively, if you feel like you donât match all of the requirements, we would love you to still apply anyway. We understand that confidence gaps and imposter syndrome can get in the way of meeting incredible candidates and we wouldnât want this to prevent us from meeting you; especially as we are big advocates of helping people learn &amp; grow. This is also another reason we do not advertise salaries, we want to keep it as even a playing field as possible!Â </p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/3890/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Springboard</h5>
-                    <h3> Mentor - Software Engineering Career Track (Part-time/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>32 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0016/3890/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="https://www.springboard.com/">https://www.springboard.com/</a>
-</p>
-
-<div><strong>The Opportunity</strong></div><div><br></div><div>Springboard runs an online, self-paced Software Engineering Career Track in which participants learn with the help of a curated curriculum and 1-1 guidance from an expert mentor. Our mentor community - the biggest strength of our programs - comprises some of the best software engineering experts in the field.</div><div><br></div><div>If you are as passionate about mentoring as you are about software engineering, and can give a few hours per week in return for an honorarium, we would love to hear from you.</div><div><br></div><div>Please reach out to us with any questions at mentorrecruiting@springboard.com <br><br><strong>The Program</strong>
-</div><ul>
-<li>Completely online and self-paced</li>
-<li>Students become proficient in Software Engineering with the help of a curated online curriculum and project-based deliverables</li>
-<li>Coursework is made up of 800+ hour expert-curated curriculum in partnership with <a href="https://www.rithmschool.com/">Rithm School</a>
-</li>
-<li>On average, students finish in 9 months</li>
-<li>Students are working professionals from all over the world, dedicated to switching careers into Software Engineering</li>
-<li>Students have a weekly 30-minute checkin with their mentor to discuss questions, projects, and career advice!</li>
-</ul><div><strong>You</strong></div><ul>
-<li>are as passionate about teaching coding as about software engineering itself</li>
-<li>are proficient in the topics covered in our <a href="https://ddf46429.springboard.com/uploads/resources/1572915743_Software_Engineering_Career_Track_-_Syllabus_2019.11.04.pdf">Software Engineering Career Track</a> and are fluent in technologies such as HTML, CSS, JavaScript, React, Python, Flask, SQL, Data Structures and Algorithms</li>
-<li>have at least 3+ years of relevant work experience </li>
-<li>are available for weekly, 30-minute video check-ins with students to help them set and achieve learning goals, answer subject matter questions, provide feedback on projects, and offer career advice</li>
-<li>have experience critiquing work, in particular giving meaningful feedback on web development, and are able to think on your feet quickly</li>
-<li>are empathetic and have excellent communication skills</li>
-</ul><div><strong>Benefits</strong></div><ul>
-<li>Receive a monthly per-student honorarium</li>
-<li>Membership in a rich community of expert mentors from great companies like AirBnB, Uber, Google, and Pivotal</li>
-<li>Change the lives of students in our program</li>
-<li>Help us revolutionize online education and inspire the next generation of software engineers!</li>
-<li>Work at your convenience</li>
-</ul><div><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3">https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3</a></p>
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -91,7 +35,7 @@
                     <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1352183" align="right" target="_blank">Apply</a>
@@ -132,7 +76,7 @@
                     <code>api,AWS,backend,C</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-python-1350221" align="right" target="_blank">Apply</a>
@@ -214,7 +158,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -282,7 +226,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -344,7 +288,7 @@
                     <code>cloud,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1342235" align="right" target="_blank">Apply</a>
