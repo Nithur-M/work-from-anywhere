@@ -82,61 +82,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0079/8627/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Torc</h5>
-                    <h3> Frontend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/torc-frontend-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0079/8627/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Boston
-    <br /><strong>URL:</strong> <a href="https://www.opentorc.com/">https://www.opentorc.com/</a>
-</p>
-
-<div>Frontend engineers bring applications to life by building and implementing the best designs and user experiences. These engineers are highly skilled in coding the front end of an application and really know how to bring all the little features to life that delight end users. Skills for a frontend engineer range from covering languages and frameworks like HTML, CSS and Javascript. Frontend engineers are expected to be able to work with backend APIs and frontend frameworks. They enjoy bringing static designs to life by implementing well formatted and documented CSS, design systems and frontend components, and know the benefits and trade-offs to make decisions on when to use server side rendering.<br><br>
-</div><div>
-<strong><br>Responsibilities<br></strong><br>
-</div><ul>
-<li>Convert Figma, Zeplin, Adobe AI or other products to frontend code</li>
-<li>Build out and utilize complex CSS</li>
-<li>Troubleshoot and bug fixing frontend code</li>
-<li>Build new features in the front end while interacting with both designers and developers</li>
-<li>Participate in software development lifecycle and understand how the frontend code is structured</li>
-<li>Understand trade offs and performance issues on the frontend including how to debug a slowly performing front end,</li>
-<li>Exposure to SVGs (optional; nice to have)</li>
-</ul><div>
-<strong><br>Requirements<br></strong><br>
-</div><ul>
-<li>Advanced knowledge of one or more of the following frontend languages: HTML5, CSS, JavaScript, and JQuery</li>
-<li>Advanced knowledge of one or more frontend frameworks, such as React, NEXTJS, Svelte, Angular, etc.</li>
-<li>Able to work with designers and developers</li>
-<li>Able to transform frontend mock ups to high quality frontend frameworks</li>
-<li>Understanding of APIs, ideally REST and GraphQL, and how to interact with them</li>
-<li>Advanced troubleshooting skills</li>
-<li>Advanced debugging skills for the front end</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/torc-frontend-engineer">https://weworkremotely.com/remote-jobs/torc-frontend-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4921/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
