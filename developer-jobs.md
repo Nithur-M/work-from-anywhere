@@ -294,54 +294,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/4964/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>mtc.</h5>
-                    <h3> PHP Backend Developer Remote</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>33 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/4964/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Dundee, UK
-    <br /><strong>URL:</strong> <a href="https://www.mtc.co.uk">https://www.mtc.co.uk</a>
-</p>
-
-<div>We are currently looking for experienced <strong>Remote</strong> <strong>PHP Backend Web Developers.<br></strong><br>
-</div><div>
-<strong><br>Role Description:<br></strong><br>
-</div><div>• create technical specifications from business requirements<br>• develop websites in a team together with a project manager, designer, and a frontend developer<br>• develop new features and reusable components<br>• communicate with the client when required<br>• independently develop new features and resolve issues for existing websites<br>• optionally contribute and maintain our internal codebase and tools<br><br>
-</div><div><strong>Tech Stack:</strong></div><div>
-<br>On <strong>LAMP</strong> architecture choose to be a <strong>General PHP Backend Web Developer</strong> or if you have relevant experience - specialize in one of the below</div><div>
-<br>• <strong>mtc. Core</strong> - Custom, Laravel flavoured mtc. framework<br>• <strong>Shopify<br>• Magento 2<br>• WordPress<br>• Big Commerce<br></strong><br>
-</div><div><strong><br>Requirements:</strong></div><ul>
-<li>4-5 year web development work experience</li>
-<li>Fluent English (written &amp; verbal)</li>
-<li>Experience with modern and legacy code, SQL databases, and Linux CLI.</li>
-</ul><div><br></div><div><strong>We consider it a plus if you have experience in:</strong></div><div>
-<br>• Vue.js</div><div>
-<strong><br>We offer<br></strong><br>
-</div><div>• Salary range 2300 - 3500 EUR / month before taxes<br>• 37.5h work week<br>• 31 - 37 holidays per year<br>• Flexible &amp; cross-departmental career progression opportunities<br>• Ability to work from home or one of our offices<br>• Ability to choose your own start time<br>• Interesting and diverse projects<br>• An option to travel to meet the other teams<br>• Quarterly events at our offices and an annual Christmas party<br>• International contacts and experience<br> <br><strong>Send CV to jobs@mtc.co.uk with subject: WWRBD1 {Name Surname}</strong><br><br>The salary displayed is negotiable and depends on experience.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote">https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/5800/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
