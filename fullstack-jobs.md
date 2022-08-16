@@ -11,7 +11,7 @@
                     <code>full stack, tech, front end</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112035" align="right" target="_blank">Apply</a>
@@ -25,94 +25,51 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/4192/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Expensify inc.</h5>
-                    <h3> Full Stack Engineer</h3>
+                    <h5>Pandell-Houston</h5>
+                    <h3> Senior Full Stack Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>571 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/expensify-inc-full-stack-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/listings/pandell-houston-senior-full-stack-software-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/4192/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="https://we.are.expensify.com/how-we-got-here">https://we.are.expensify.com/how-we-got-here</a>
+  <strong>Headquarters:</strong> Houston, Texas, United States
+    <br /><strong>URL:</strong> <a href="http://www.landworks.com">http://www.landworks.com</a>
 </p>
 
-<h1>Your Mission, Should You Choose to Accept:</h1><div>
-<br>Join our passionate team of top-notch engineers to solve a real-world problem, and help people spend less time managing expenses and more time pursuing their real goals. As we revolutionize the way people manage their expenses, being part of the Expensify team means building the easiest, fastest, and most efficient platform to automate everything expense-related.<br><br><br>
-</div><div>Our employees work from all over the world, but if you’re looking for a change of scene we offer visa sponsorship and relocation assistance to join us at one of our rad locations:</div><ul>
-<li>San Francisco</li>
-<li>Portland</li>
-<li>Michigan</li>
-<li>New York</li>
-<li>London</li>
-<li>Melbourne</li>
-<li>And more to come!</li>
-</ul><div>
-<br>Even though we work hard at Expensify, we make sure our employees are happy. Our most talked about perk is our<a href="https://we.are.expensify.com/explore-the-world"> Offshore</a> where we spend a month abroad working from a remote location as a team. This year we’re going to Spain, do you want to join?<br><br><br>
-</div><div>
-<strong><br>About You<br></strong><br><br>
-</div><div>
-<br>Whether you’re building features like calendar integrations, importing credit card transactions, or pulling information from receipts, you’re self-driven and collaborative. You’re an autonomous individual who is passionate about writing beautiful and concise code. You’re willing to work with other engineers, designers, and customer facing teams to turn our dreams into reality. <br><br><br>
-</div><div>
-<br>As a Web Full Stack Engineer, your responsibilities include:<br><br><br>
-</div><ul>
-<li>Implementing improvements</li>
-<li>Planning, building, and maintaining cross-stack features like accounting integrations, advanced receipt scanning, and more.</li>
-<li>Guiding and enabling others in the organization: we'll share our editor tricks, dotfiles and productive workflows. Share yours!</li>
-<li>Asking questions about things you don’t understand and challenging the status quo.<br><br><br>
-</li>
-</ul><div>
-<br>For the best possible fit, we are looking for someone who:<br><br><br>
-</div><ul>
-<li>Has experience writing real-world software to solve real-world problems.</li>
-<li>Communicates well, both interpersonally and in their code.</li>
-<li>Is a natural problem solver, knows how to solve problems by automating their solutions.</li>
-<li>Understands the role and impact that programming can have on the organization as a whole.</li>
-<li>Wants to develop and grow their skills in programming and leadership within the organization.<br><br><br>
-</li>
-</ul><div>
-<br>We are looking for people who have a strong understanding of algorithms and design patterns that can apply those concepts into a production level codebase. Knowledge and experience with Javascript, React, React Native, PHP, C++, Java, iOS or Android is a plus. This position is the foundation for launching a career with Expensify, with the expectation that you’ll carry these skills into new domains.<br><br><br>
-</div><div>
-<strong><br>Compensation &amp; Benefits<br></strong><br><br>
-</div><ul>
-<li>Full-time, salaried position</li>
-<li>401k with employer match</li>
-<li>100% Medical/Dental/Vision contributions</li>
-<li>Commuter benefits</li>
-<li>Free lunch</li>
-<li>Flexible vacation policy</li>
-<li>Relocation available</li>
-<li>Work from home when you need to<br><br><br>
-</li>
-</ul><div>
-<strong><br>Next Steps<br></strong><br><br>
-</div><div>
-<br>Applying is easy, but it takes time. See, while we know you're awesome, it's actually really hard and time consuming to find you in the midst of literally hundreds of other applications we get from everyone else. So this is where we're going to ask our first favor: can you make it really easy and obvious how great you are, so we don't accidentally overlook you? There are probably many ways to do that, but the easiest way to help us out is by answering the following questions:<br><br><br>
-</div><ol>
-<li>What's the URL of your website? If you don't have one, why not?</li>
-<li>What's your coding history? When did you start, and what have you done between then and now?</li>
-<li>What do you want to do with the rest of your life, and how is Expensify a step toward your long-term goals?</li>
-<li>How did you hear about us? A job posting? Chalk on a sidewalk? From a friend? Let us know where you saw this opening.<br><br><br>
-</li>
-</ol><div>
-<strong><br>Resume not your thing? That’s great, we don’t really read them anyway! Forward your responses to the questions to apply@expensify.com. We're excited to hear from you!<br></strong><br><br>
-</div><div><br></div>
+<p>Pandell is growing and we are looking to add a Senior Full Stack Developer to join our amazing, best-in-class development team. If you get what quality code looks like and are driven to learn and master new technologies, then check out this opportunity.</p>
+<p><strong>Who are we?</strong><br></p>
+<p>The inclusive team at Pandell works collaboratively towards writing high-quality code that meets our customers' needs. We've found that embracing new technologies and paradigms like reactive extensions (RxJS) and declarative rendering (React) has allowed us to make our code better and easier to understand and test. We love finding new tools that help us work better. As a stable, growing company for over 25 years, we work to make these transitions so that we can continually provide bug fixes and improvements to our clients. We do this by encouraging developers of all levels to collaborate, design, and refactor as work is completed. We believe that even the best programmers are helped by automated testing, continuous integration, and a robust code review process. In addition, our developers are aided by subject matter experts that collaborate on the design and QA specialists that help us by checking all the details.</p>
+<p><strong>Who are you?</strong></p>
+<p>At Pandell, we create awesome customer experiences. We are advocates for the user and take the time to do things right the first time. Pandell employees have opportunities to engage in professional development through optional activities such as a book club. A positive and welcoming office culture gives Pandell employees the opportunity to work and play with an awesome team. This includes working through interesting design problems as well as regular optional social events. At Pandell we value mentorship, giving Pandell employees an opportunity to share their love of programming with others. Pandell offers a diverse culture in which employees can give their best and achieve exceptional results together.<br></p>
+<p><strong>Requirements</strong></p>
+<p><strong>What Will Make You An Ideal Candidate:</strong></p>
+<ul> <li>You have strong technical skills in full-stack web development</li> <li>Experience with the following: C#, SQL Server, JavaScript, TypeScript, React, Git, ASP.NET</li> <li>Excel at delivering high quality code using multiple styles of programming (functional, OOP)</li> <li>You have a strong understanding of team development including source control technology, product deployment strategies, and team software design</li> </ul>
+<p><strong>Your Responsibilities:</strong></p>
+<ul> <li>Review, analyze, program, and deploy software products</li> <li>Use tools as provided for proper software source code management and business operations</li> <li>Provide software design and architectural input</li> <li>Reviewing code and having your code reviewed</li> <li>Mentoring and being mentored by other Pandell developers</li> </ul>
+<p><strong>Your Experience:</strong></p>
+<ul><li>5+ years of software development experience</li></ul>
+<p><strong>Other Skills/Experience We Value:<br></strong></p>
+<ul> <li>We love to see your code - if you have a Github account, be sure to include it on your resume!</li> <li>Disciplined self-starter, capable of working independently or in close collaboration with the development team</li> <li>Curiosity and the drive to challenge yourself</li> </ul>
+<p><strong>Benefits</strong></p>
+<p><strong>All the extras (some pending office return):</strong></p>
+<ul> <li>Semi-Annual Bonuses</li> <li>Flexible optional home/office work environment</li> <li>Flexible hours</li> <li>Competitive benefits package</li> <li>Training budget</li> <li>Fully stocked kitchen (never pack your lunch again)</li> <li>Games room &amp; lounge area</li> <li>Virtual social activities &amp; learning events</li> <li>Rebates towards personal fitness and electronics purchases</li> <li>Shared community cards</li> <li>Awesome new development machines (full accessories &amp; dual monitor)</li> </ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/expensify-inc-full-stack-engineer">https://weworkremotely.com/remote-jobs/expensify-inc-full-stack-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pandell-houston-senior-full-stack-software-engineer">https://weworkremotely.com/remote-jobs/pandell-houston-senior-full-stack-software-engineer</a></p>
 
                 </details>
                 </td>
@@ -128,7 +85,7 @@
                     <code>developer,javascript,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-customer-solutions-team-1224255" align="right" target="_blank">Apply</a>
