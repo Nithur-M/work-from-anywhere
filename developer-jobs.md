@@ -11,7 +11,7 @@
                     <code>dev, rust, scrypto</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111996" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>javascript, react, node</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111985" align="right" target="_blank">Apply</a>
@@ -46,6 +46,106 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p><strong>Description</strong></p><p>- We are a Tech Consultancy looking for talented, passionate software developers.</p><p><br /></p><p><strong>Required Skills</strong></p><ul><li>2+ years of experience in web development (front-end development is preferred).</li><li>Strong background with the front-end technologies (HTML, CSS, JS, React).</li><li>Node.js experience is a plus.</li><li>Strong knowledge of VCS (git).</li><li>Industrial experience with React.js (developed projects using React).</li><li>Responsible and ready to deliver the assigned work with the highest quality possible.</li><li>Familiarity with clean code.Eager to grow and never stop learning.</li><li>Excellent communication skills (English).</li><li>Strong team player.</li></ul><p><br /></p><p><strong>Preferred Skills</strong></p><ul><li>Experience with TS.</li><li>Experience with testing tools: Jest, Cypress.Experience with styled-component.</li><li>Open to working with full-stack tools (GraphQL, SQL, Node, ...etc).</li></ul><p><br /></p><p><strong>Benefits</strong></p><ul><li>Remote workðï¸ from any place of your preference.</li><li>Work only 4 days a week - Fridays off (applicable after 3 months).</li><li>Unlimited holidays.</li><li>Salary ðµ of $2000/month.</li><li>Cool teammates who are willing to help you refine and strengthen your software skills ð¨âð»</li></ul>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/5929/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Clevertech</h5>
+                    <h3> Frontend Developer (Canadian Visa Sponsorship Opportunity)</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/clevertech-frontend-developer-canadian-visa-sponsorship-opportunity-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/5929/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
+</p>
+
+<div>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects</div><div>
+<br><strong>What we're working on:</strong>
+</div><div>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries</div><div><strong><br>Requirements</strong></div><ul>
+<li>7+ years of professional experience (A technical assessment will be required)</li>
+<li>Senior-level experience with Javascript, React, Redux, Websockets, Async/Await</li>
+<li>Ability to create clean, modern, testable, well-documented code</li>
+<li>English fluency, verbal and written</li>
+<li>Professional, empathic, team player</li>
+<li>Problem solver, proactive, go getter</li>
+</ul><div><strong>Straight from the Devs</strong></div><div>Watch short snippets of actual developers (Real, not scripted) share why they joined <a href="https://cleverte.ch/3"><strong>YouTube Playlist</strong></a>
+</div><div>
+<br><strong>Why Clevertech is an amazing place to work at</strong>
+</div><div>At Clevertech, you can expect that you will:</div><ul>
+<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
+<li>Be a part of a team of talented and friendly senior-level developers</li>
+<li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li>
+</ul><div>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-frontend-developer-canadian-visa-sponsorship-opportunity-1">https://weworkremotely.com/remote-jobs/clevertech-frontend-developer-canadian-visa-sponsorship-opportunity-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/5928/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Clevertech</h5>
+                    <h3> Fullstack Developer (Canadian Visa Sponsorship Opportunity)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/clevertech-fullstack-developer-canadian-visa-sponsorship-opportunity-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/5928/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
+</p>
+
+<div>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects</div><div>
+<br><strong>What we're working on:</strong>
+</div><div>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries</div><div><strong><br>Requirements</strong></div><ul>
+<li>7+ years of professional experience (A technical assessment will be required)</li>
+<li>Senior-level experience in the front-end (React) and back-end (Node, Express, Mongo, SQL)</li>
+<li>Ability to create clean, modern, testable, well-documented code</li>
+<li>English fluency, verbal and written</li>
+<li>Professional, empathic, team player</li>
+<li>Problem solver, proactive, go-getter</li>
+</ul><div><strong>Straight from the Devs</strong></div><div>Watch short snippets of actual developers (Real, not scripted) share why they joined <a href="https://cleverte.ch/3"><strong>YouTube Playlist</strong></a>
+</div><div>
+<br><strong>Why Clevertech is an amazing place to work at</strong>
+</div><div>At Clevertech, you can expect that you will:</div><ul>
+<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
+<li>Be a part of a team of talented and friendly senior-level developers</li>
+<li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li>
+</ul><div>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-fullstack-developer-canadian-visa-sponsorship-opportunity-1">https://weworkremotely.com/remote-jobs/clevertech-fullstack-developer-canadian-visa-sponsorship-opportunity-1</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -148,59 +248,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/5885/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TrendSpider LLC</h5>
-                    <h3> Backend Javascript Engineer (Middle Node.JS Developer)</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/trendspider-llc-backend-javascript-engineer-middle-node-js-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/5885/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Chicago IL
-    <br /><strong>URL:</strong> <a href="https://trendspider.com">https://trendspider.com</a>
-</p>
-
-<div>
-<br>Backend Javascript Engineer  <br><br>
-</div><div><br></div><div>TrendSpider is an advanced platform for traders used by thousands of traders around the world. As a backend engineer, you will be responsible for building and maintaining microservices (mostly Node.js-based) which handle significant payloads and functions related to our financial market data. You will be dealing with the market data, managing its flow and generating various kinds of derivative data (i.e., analyzing trading strategies and their efficacy). </div><div><br></div><div>Please reach out if that's you:</div><div><br></div><ul>
-<li>You are very familiar with ideas if OOP and functional programming, you know their pros and cons and can use both.</li>
-<li>You can write using ES2020+</li>
-<li>You know that you write code for readers and care about transparency and good names. </li>
-<li>You have used Node.js in highly loaded scenarios</li>
-<li>You understand why automated tests are a must-have on the backend.</li>
-<li>You have experience with event driven architecture (using EventEmitter, in example)</li>
-<li>You understand difference between stateless and stateful microservices.</li>
-<li>You are trading (or have traded actively).</li>
-<li>Having experience working with time zones and DST switch would be a bonus</li>
-</ul><div><br></div><div>Benefits of working at TrendSpider:</div><div><br></div><ul>
-<li>Minimum-to-no hierarchy and bureaucracy. Time from idea to product can be VERY short. </li>
-<li>Your contribution can make a real difference. You’re not going to be coding internal utilities nobody wants; your work will impact real customers immediately. </li>
-<li>Competitive salaries and benefits tailored to your skills and capabilities.</li>
-<li>Flexible work hours.</li>
-<li>Brilliant, international team working on bleeding edge technologies that have a real impact on the lives of millions of traders world wide.</li>
-<li>Extensive learning opportunities about financial markets, trading, investing, algorithmic trading and more.</li>
-</ul><div><br></div><div>Check out our website to know more about the company and our quest for better trading software for retail investors here: <a href="https://www.trendspider.com/about.php">https://www.trendspider.com/about.php</a> </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/trendspider-llc-backend-javascript-engineer-middle-node-js-developer">https://weworkremotely.com/remote-jobs/trendspider-llc-backend-javascript-engineer-middle-node-js-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/0156/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -211,7 +258,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-back-end-developer-1" align="right" target="_blank">Apply</a>
@@ -305,7 +352,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>65 days ago</text>
+                <text>66 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-frontend-webflow-developer" align="right" target="_blank">Apply</a>
@@ -390,7 +437,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>90 days ago</text>
+                <text>91 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/groove-senior-full-stack-developer-3" align="right" target="_blank">Apply</a>
@@ -423,74 +470,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Composable Finance</h5>
-                    <h3> Senior Frontend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>96 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/composable-finance-senior-frontend-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Germany
-    <br /><strong>URL:</strong> <a href="https://composable.finance">https://composable.finance</a>
-</p>
-
-<div><strong>Full time remote position</strong></div><div><em>Are you a quick learner when it comes to new technologies, frameworks, or libraries? Do you want to work with the latest technologies used in the blockchain world? If you answered yes to most of the questions, then we are looking forward to working with you.</em></div><div><br></div><div>
-<em>You will be joining a fast moving company, highly technical team that has deep knowledge of DeFi and all the cool things from the blockchain ecosystem.</em><br><br><strong>Responsibilities</strong>
-</div><ul>
-<li>Implement full fledged and performant UI for web3 apps with beautiful designs.</li>
-<li>Create trustworthy user experiences by building interfaces that are simple, easy to comprehend, performant and reliable</li>
-<li>Discuss and adapt designs with the design team</li>
-<li>Integrate your own UI/UX improvements to incentivize the users to use the platform.</li>
-<li>Work with the state of the art developer stack.</li>
-<li>Continually learn and apply relevant software development practices, patterns, tools and technologies.</li>
-</ul><div>
-<br><strong>Requirements &amp; skills</strong>
-</div><div><br></div><ul>
-<li>5+ years of programming experience.</li>
-<li>Excellent knowledge with React Material UI v4 (or preferably v5) framework.</li>
-<li>Excellent knowledge of CSS and precompilation technologies such as Sass or Less.</li>
-<li>Strong UX experience.</li>
-<li>Strong knowledge of React.</li>
-<li>Self-motivated with a high level of autonomy.</li>
-<li>Excellent communication skills as our entire team is remote.</li>
-<li>Advanced English proficiency.</li>
-</ul><div> </div><div><strong>Bonus points:</strong></div><ul>
-<li>Experience working in DeFi frontend development - understand the flow of the web3 application.</li>
-<li>Understand the interaction between frontend and solidity contracts.</li>
-</ul><div> </div><div><strong>Perks</strong></div><ul>
-<li>Competitive Crypto payments, all made in USDC. </li>
-<li>100% remote work. No geographic restrictions. </li>
-<li>An entrepreneurial environment that encourages innovation and facilitates the growth of cutting-edge technology. </li>
-<li>The ability to work as an independent contractor: We treat you as your own agent and support you accordingly!</li>
-<li>Annual Working Equipment Allowance.</li>
-<li>Monthly Gym &amp; Fitness Bonus</li>
-<li>Paid Absence Days</li>
-<li>Global WeWork membership, with access to more than 600 locations worldwide.</li>
-<li>Annual personal development funding to facilitate career development</li>
-<li>Diversity &amp; Inclusion: A company commitment to equal opportunity. We do not condone discrimination on the premise of race, color, religion, sexual orientation, age, gender identity or expression.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/composable-finance-senior-frontend-developer">https://weworkremotely.com/remote-jobs/composable-finance-senior-frontend-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/2452/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -501,7 +480,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>842 days ago</text>
+                <text>843 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/g2i-inc-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -549,7 +528,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -760,7 +739,7 @@
                     <code>developer,drupal,growth,design</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
@@ -785,7 +764,7 @@
                     <code>android,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
@@ -856,7 +835,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -933,7 +912,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -980,7 +959,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255729" align="right" target="_blank">Apply</a>
@@ -1005,7 +984,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255704" align="right" target="_blank">Apply</a>
