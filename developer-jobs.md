@@ -160,7 +160,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-java-backend-developer-full-time-unlimited-contractor" align="right" target="_blank">Apply</a>
@@ -304,7 +304,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote" align="right" target="_blank">Apply</a>
@@ -337,6 +337,121 @@
 </div><div>• Salary range 2300 - 3500 EUR / month before taxes<br>• 37.5h work week<br>• 31 - 37 holidays per year<br>• Flexible &amp; cross-departmental career progression opportunities<br>• Ability to work from home or one of our offices<br>• Ability to choose your own start time<br>• Interesting and diverse projects<br>• An option to travel to meet the other teams<br>• Quarterly events at our offices and an annual Christmas party<br>• International contacts and experience<br> <br><strong>Send CV to jobs@mtc.co.uk with subject: WWRBD1 {Name Surname}</strong><br><br>The salary displayed is negotiable and depends on experience.</div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote">https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/5800/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CVEDIA</h5>
+                    <h3> Senior C++ Developer - Remote - EU Time Zone</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>60 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/5800/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London - UK
+    <br /><strong>URL:</strong> <a href="https://www.cvedia.com/">https://www.cvedia.com/</a>
+</p>
+
+<div>
+<br>About CVEDIA<br><br>
+</div><div>CVEDIA is an AI company that develops deep learning solutions for some of the world's largest organizations to solve real-world problems and improve our world and the lives of people for the years to come.<br><br>
+</div><div>Our computer vision runtime engine CVEDIA-RT is a unique software that simplifies designing, testing, and deploying AI solutions on Cloud and on Edge devices without worrying about system details.<br>CVEDIA-RT runs our AI models, created using synthetic data, which are suitable for many different applications and use-cases like perimeter security, intelligent traffic systems, home security, drone detection, and many more.<br><br>
+</div><div>
+<br>About you<br><br>
+</div><div>
+<strong>We are looking for C++ Developers to extend and improve our core product CVEDIA-RT and implement the runtime solutions for customer-specific projects.<br></strong><br>
+</div><div>In this role, you will be able to work with exceptionally talented and driven individuals who are all making a massive impact on our business.<br><br>
+</div><div>Everyone here drives their own ideas all the way from start to finish, everyone is given an equal opportunity to flourish and see the fruits of their labor.<br><br>
+</div><div>For this position, we’re currently only accepting applicants in European countries.<br><br>
+</div><div>
+<br>Responsibilities<br><br>
+</div><ul>
+<li>Take on the challenge to improve the features of CVEDIA-RT.</li>
+<li>Manage and implement customer-specific solutions using LUA scripting.</li>
+<li>Participate and contribute to improving the entire production pipeline: software design, implementation, tests, documentation, release cycle, etc.</li>
+<li>Collaborate with the AI team to discuss and plan new features and improvements.</li>
+<li>Self-manage your work by proposing solutions, reporting progress, and promoting an active collaboration with other team members.</li>
+</ul><div>
+<br>Requirements<br><br>
+</div><ul>
+<li>Very good English verbal and written communication skills.</li>
+<li>Very good time management and organizational skills, and attention to detail.</li>
+<li>Great problem-solving skills paired with the ability to present and discuss ideas and solutions.</li>
+<li>5+ years of experience in C++. It would be great if you have been already working in these contexts:<ul>
+<li>Windows and Linux</li>
+<li>Computer vision</li>
+<li>Tracking algorithms</li>
+<li>CUDA</li>
+<li>OpenCV</li>
+<li>Embedded systems</li>
+</ul>
+</li>
+<li>Experience in object-oriented design and test-driven development.</li>
+<li>Experience with GIT</li>
+</ul><div><br></div><div>
+<br>Considered a plus<br><br>
+</div><ul>
+<li>Experience in leading projects and interacting with customers</li>
+<li>Experience in LUA scripting</li>
+<li>Experience with CI/CD tools</li>
+<li>Experience in neural networks and computer vision</li>
+</ul><div>
+<br><br>
+</div><div><br></div><div>
+<br>Perks and Benefits<br><br>
+</div><div>🌴VACATION TIME<br><br>
+</div><div>CVEDIA offers 4 weeks of paid vacation time per year, plus local holidays and paid sick days.<br><br>
+</div><div>🍸PERSONAL DAYS<br><br>
+</div><div>On top of the paid vacation time and local holidays, CVEDIA offers the opportunity to take up to one paid day off per week for personal reasons, as far as it's not impacting the deadlines and productivity of other team members. Work smarter, not harder!<br><br>
+</div><div>🕒FLEXIBLE WORK HOURS<br><br>
+</div><div>We focus on making your personal life as much of a priority as work is - we're focused on making the two compatible. Work with us to define your needs.<br><br>
+</div><div>🥳COMPANY RETREATS<br><br>
+</div><div>Our team goes on an all-expenses-paid trip every year simply to socialize. We're planning for Italy next year!<br><br>
+</div><div>🌍100% REMOTE TEAM<br><br>
+</div><div>Our team is global and located in 15+ countries across North America and the EU. Work from wherever you have a good internet connection!<br><br>
+</div><div>🔍IMPROVEMENT-FOCUSED<br><br>
+</div><div>Our operations and management team focus on consistently improving CVEDIA through feedback. No feedback is left unattended - our employees are instrumental in shaping our company.<br><br>
+</div><div>💰COMPETITIVE SALARY<br><br>
+</div><div>Our salaries are competitive and based on experience!<br><br>
+</div><div>📈STOCK OPTIONS<br><br>
+</div><div>All CVEDIA employees receive company stock options - so if the company does well, we all do well.<br><br>
+</div><div>
+<br><br>
+</div><div>
+<br>Our Values<br><br>
+</div><div>PASSION<br><br>
+</div><div>We need both energy and passion to develop cutting-edge AI. To succeed at CVEDIA, you’ll need to have a strong investment in both your career and the role of AI in the future of the planet.<br><br>
+</div><div>COMMITMENT<br><br>
+</div><div>CVEDIA has the opposite of a 'quick-n-dirty' mentality. Every aspect of our technology has been meticulously built and is always the product of very hard work.<br><br>
+</div><div>AUTONOMY<br><br>
+</div><div>Carrying confidence in the work we do individually is required to work at the pace that we do as a team. Academic research, tutorials, and even creating our own solutions with the tools we have are all on the board during a regular day's work.<br><br>
+</div><div>JOY<br><br>
+</div><div>It's one of our greatest strengths to bring excitement to our workplace. We carry this energy into meetings, project planning, and our dedication to our work, and focus on work that feels meaningful.<br><br>
+</div><div>COMMUNICATION<br><br>
+</div><div>Honest discussions are imperative to the flow of work and ideas. Team members need to be able to effectively communicate complex ideas to those who don’t work in their field. It's a regular occurrence to discuss plans and ideas with any team member on the fly spontaneously, including our CEO or CTO. Each team member is respected equally and acts as a valuable contributor.<br><br>
+</div><div>RESPECT<br><br>
+</div><div>Anti-discriminatory company culture – we won’t discount you for things like age, ethnicity, or gender.<br><br>
+</div><div>
+<br><br>
+</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone">https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone</a></p>
 
                 </details>
                 </td>
