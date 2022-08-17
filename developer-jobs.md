@@ -11,7 +11,7 @@
                     <code>dev, rust, scrypto</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111996" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>javascript, react, node</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/111985" align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-frontend-developer-canadian-visa-sponsorship-opportunity-1" align="right" target="_blank">Apply</a>
@@ -110,7 +110,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-fullstack-developer-canadian-visa-sponsorship-opportunity-1" align="right" target="_blank">Apply</a>
@@ -258,7 +258,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-back-end-developer-1" align="right" target="_blank">Apply</a>
@@ -409,134 +409,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Close</h5>
-                    <h3> Frontend Webflow Developer </h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>66 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/close-frontend-webflow-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> USA
-    <br /><strong>URL:</strong> <a href="http://www.close.com">http://www.close.com</a>
-</p>
-
-<div><strong>About Us</strong></div><div>At Close we’re building the sales communication platform of the future. With our roots as the very first sales CRM to include built-in calling, we’re leading the industry toward eliminating manual processes and helping companies to close more deals (faster). </div><div><br></div><div>Since our founding in 2013 we’ve grown to become a profitable, 100% globally distributed team of 55+ high-performing, happy people that are dedicated to building a product our customers love. </div><div><br></div><div>We want to change how the world sells not only through thought leadership in toolset, but also in mindset. As we expand our customer base, release new features, create new content, and provide additional sales resources to customers and non-customers alike, we want a website that can keep up. That’s where you come in!</div><div><br></div><div>
-<br><strong>About You</strong>
-</div><div>We’re looking for an intrepid Webflow and Frontend Developer who knows how to marry the science of development with the art of web design. Someone with an analytical mindset who still has the ability to think outside of the box in order to maintain an ever evolving, aesthetically pleasing, functional, secure, and easy to use website. </div><div><br></div><div>Our site is built out in Webflow and our blog in Ghost. You’ll need to maintain and improve these systems, generate component libraries to make site updates more sustainable across the company, and act as our internal thought leader on all things related to our website. </div><div><br></div><div>You’ll report to the Director of Sales and Marketing as part of a growing Product Marketing team and should be comfortable working in a fast-paced environment with a medium-sized, talented team where you’re supported in your efforts to grow professionally. You are able to manage your time well, communicate effectively, and collaborate in a fully distributed team. <br><br><strong>What You'll Do...</strong>
-</div><ul>
-<li>Assist in maintaining our existing website and blog, including verifying functionality, performance, and security.</li>
-<li>Restructure and organize existing and new content within Webflow and Ghost</li>
-<li>Create wireframes, storyboards, user and process flows and sitemaps to communicate interaction and design ideas</li>
-<li>Design and implement on-brand and aesthetically pleasing landing pages </li>
-<li>Ensure existing and new landing page implementations align with SEO, accessibility, and usability best practices and company objectives</li>
-<li>Work with our marketing team to increase site traffic and conversion rates</li>
-<li>Create component libraries that others on the team can use as self-service options for minimal site updates, such as publishing blog posts</li>
-<li>Address internal and external user feedback regarding the website and own related QA processes and documentation</li>
-<li>Be a thought leader regarding all things Close branding and website design</li>
-</ul><div>
-<br><strong>You Should...</strong>
-</div><ul>
-<li>Have 3+ years of experience as a frontend developer</li>
-<li>Have 1+ years of Webflow experience</li>
-<li>Have advanced experience with modern HTML and  CSS</li>
-<li>Have at intermediate experience with JavaScript</li>
-<li>Ideally have experience with REST APIs, JSON, XML, and/or SQL (these skillsets would be a huge bonus)</li>
-<li>Have a keen eye for UX/UI and a pulse on current related trends</li>
-<li>Have experience with search engine optimisation</li>
-<li>Have strong troubleshooting and analytical abilities</li>
-<li>Have excellent communication and collaboration skills</li>
-<li>Be proficient in Figma or other visual design and wire-framing tools</li>
-</ul><div>
-<br><strong>Why Close?</strong>
-</div><ul>
-<li>
-<a href="https://www.youtube.com/watch?v=ZbyGnLhtj0o&amp;feature=youtu.be">Culture video</a> 💚</li>
-<li>100% remote company <em>(we believe in trust and autonomy)</em>
-</li>
-<li>Choose between working 5 days/wk (standard full-time) or 4 days/wk @ 80% pay</li>
-<li>
-<a href="https://www.youtube.com/watch?v=gKjyXMz-q-Q&amp;feature=youtu.be">Annual team retreats</a> ✈️</li>
-<li>Quarterly virtual summits</li>
-<li>5 weeks PTO + Winter Holiday Break</li>
-<li>2 additional PTO days every year with the company</li>
-<li>1 month paid sabbatical every 5 years</li>
-<li>Co-working stipend</li>
-<li>Revenue Share (after 1 year)</li>
-<li>Paid parental leave</li>
-<li>Medical, Dental, Vision with HSA option (US residents)</li>
-<li>401k matching at 6% (US residents)</li>
-<li>Dependent care FSA (US residents)</li>
-<li>Contributor to <a href="https://stripe.com/climate">Stripe's climate</a> initiative 🌍❤️ </li>
-<li>
-<a href="https://close.io/about/">Our story and team</a> 🚀</li>
-</ul><div>At Close, everyone has a voice. We encourage transparency and practice a mature approach to the work-place. In general, we don’t have strict policies, we have guidelines. Work/Life harmony is an important part of our business - we believe you bring your best to work when you practice self-care (whatever that looks like for you).  </div><div><br></div><div>We come from 16 countries located in 5 of the 7 continents. We’re a collection of talented humans rich in diverse backgrounds, lifestyles, and cultures. Every year we meet up somewhere around the world to spend time with one another. These gatherings are an opportunity to strengthen the social fiber of our global community.</div><div><br></div><div>Our team is growing in more ways than one - we’ve recently launched 17 babies (and counting!). Unanimously, our favorite and most impactful value is “Build a house you want to live in.” We strive to make decisions that are authentic for our people and help our customers become more successful. </div><div><br></div><div><em>Our application process was designed to promote equitable and unbiased hiring practices. We ask a small series of questions that are similar to what would be asked in the first interview. This helps us learn more about you right from the start so please be sure to answer each question thoughtfully. Each application will receive two screens by two different reviewers. Regardless of fit, you will hear back from us letting you know if we'll be moving forward.</em></div><div><br></div><div>
-<em>Interested in </em><a href="https://close.com/"><em>Close</em></a><em> but don't think this role is the best fit for you? View our </em><a href="http://jobs.close.com/"><em>other positions</em></a><em>.</em>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/close-frontend-webflow-developer">https://weworkremotely.com/remote-jobs/close-frontend-webflow-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/1384/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Groove</h5>
-                    <h3> Senior Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>91 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/groove-senior-full-stack-developer-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/1384/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Newport, RI
-    <br /><strong>URL:</strong> <a href="https://groovehq.com">https://groovehq.com</a>
-</p>
-
-<div>Groove is looking for a very senior full-stack developer to help us accelerate our pursuit of building the best damn customer support tools on the planet. <br><br>You may have heard of us from our <a href="https://www.groovehq.com/top-posts">Journey to 500K blog</a> or from seeing us in places like NY Times, BBC, Forbes, Entrepreneur, Hacker News or elsewhere around the web. <br><br>This gig is not for the unseasoned. We need someone who's been in the trenches and helped grow a B2B SaaS company. A coder and a leader, who can hack with the best of them, and has an appreciation for good design and usability. A craftsman with the fire to help us execute on our product roadmap and move us along on our journey to 10MM in ARR. We've got a tight, scrappy team of former CTOs and founders working to make our app simpler, stronger and better. <br><br>We've put the time into talking with our customers and hitting product/market fit, and and need your help to step on the gas.<br><strong><br>From the technical side, here's what you'll need to know:</strong>
-</div><ul>
-<li>Ruby (with and without Rails)  </li>
-<li>Expert knowledge of Javascript </li>
-<li>In-depth knowledge of React, Redux and GraphQL</li>
-<li>Deep understanding of HTML and CSS</li>
-<li>Proficient understanding of git</li>
-<li>Location: US or EU</li>
-</ul><div>Experience working remotely is the only other requirement. You’ll be joining a completely remote team that knows how hackers work best. Meetings are kept to a minimum and everyone is left to get things done. Familiarity with Slack is a plus, and advanced-level Giphy skills will take you far.<br><br>If you’ve helped a fast-moving team win before and are ready to do it again, we want you on board. Our work impacts thousands of businesses around the globe, and we have our sights (very publicly) set on massive growth goals. If you think you can help us get there and are ready to join the family, email us at wewantyou@groovehq.com.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/groove-senior-full-stack-developer-3">https://weworkremotely.com/remote-jobs/groove-senior-full-stack-developer-3</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/2452/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -547,7 +419,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>843 days ago</text>
+                <text>844 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/g2i-inc-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -595,7 +467,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -806,7 +678,7 @@
                     <code>developer,drupal,growth,design</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
@@ -831,7 +703,7 @@
                     <code>android,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
@@ -902,7 +774,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -979,7 +851,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -1026,7 +898,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1255729" align="right" target="_blank">Apply</a>
@@ -1051,7 +923,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1255704" align="right" target="_blank">Apply</a>
