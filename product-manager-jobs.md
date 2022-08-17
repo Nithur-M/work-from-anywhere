@@ -1,5 +1,81 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/5946/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>PSPDFKit</h5>
+                    <h3> Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/pspdfkit-product-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/5946/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Vienna, Austria
+    <br /><strong>URL:</strong> <a href="https://pspdfkit.com">https://pspdfkit.com</a>
+</p>
+
+<div><strong>What you will do...</strong></div><div><br></div><div>At PSPDFKit, Product Managers are internal champions for our customers and essential partners to our engineering, support, marketing and sales teams. As a Product Manager, you will take product ownership for several products from our product portfolio and their respective teams.</div><div><br></div><div>You will partner with:</div><ul>
+<li>
+<strong>Support</strong> to gather, learn, and analyze our customers' needs, ensure best-in-class customer experience across multiple products and ensure customer satisfaction;</li>
+<li>
+<strong>Engineering</strong> to groom features and components, envision and scope product MVPs and help plan development cycles aligned with product objectives;</li>
+<li>
+<strong>Marketing</strong> to help communicate our products to the market with DEMOs and guides, bring clarity for compelling product messaging and be up-to-date with market trends;</li>
+<li>
+<strong>Sales</strong> to help differentiate our products from competitors, present a clear and compelling offer to new customers and enable revenue growth;</li>
+<li>
+<strong>Customers</strong> to communicate our development roadmap and maintain a continuous feedback loop;</li>
+<li>
+<strong>Product</strong>: to help grow our product organization and facilitate product licensing and packaging.</li>
+</ul><div><br></div><div>Your responsibilities will include:</div><ul>
+<li>
+<strong>Product Roadmap.</strong> You will work closely with multiple teams to build and execute on the product roadmap, identifying and prioritizing features through customer insights that improve customer engagement and grow revenue. </li>
+<li>
+<strong>Customer Feedback</strong>. You will engage our customers to understand their challenges and needs, manage and curate our database of customer insights, balancing existing priorities with these inputs and translating them into clear product updates for multiple products.</li>
+<li>
+<strong>Domain Authority</strong>. You will strive to gain, evolve and document domain knowledge through research and by keeping a constant foothold into industry trends.</li>
+<li>
+<strong>Influence</strong>: You will help define product strategy, evaluate and balance trade-offs between functional work and technical debt.</li>
+<li>
+<strong>Leadership</strong>:  You will lead product initiatives, develop milestones,  and be accountable for delivery of product through partnerships and collaboration.</li>
+<li>
+<strong>Enablement</strong>: You will continuously enable other departments to execute by partnering with them, understanding their needs and proactively helping them with clarity, guidance, vision and oversight.</li>
+</ul><div><br></div><div><strong>About you…</strong></div><div><br></div><ul>
+<li>3+ years experience in software product management or relevant experience in adjacent roles;</li>
+<li>Strong technical understanding of how software products are built and integrated with other services and APIs;</li>
+<li>Experience managing technical software products from kick-off to ship;</li>
+<li>Experience leading and coordinating with cross-functional teams and prioritizing high impact activities;</li>
+<li>Adept at pairing data with product intuition to always keep product decisions data-informed and always moving forward;</li>
+<li>Understanding of UI/UX design concepts and principles;</li>
+<li>Exceptional presentation, communication and organizational skills;</li>
+<li>Ability to turn incomplete, conflicting, or ambiguous inputs into solid action plans;</li>
+<li>Not only shipped new products, but is obsessed about continuous product improvement;</li>
+<li>Ability to optimize activities for shipping a portfolio of small, medium and large releases.</li>
+</ul><div>It would be great if you have:</div><ul>
+<li>Experience working in a Product Organization with Product Managers as peers;</li>
+<li>Engineering and/or UX/UI experience;</li>
+<li>Experience with ProductBoard;</li>
+<li>Understanding or experience with Agile/Scrum.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pspdfkit-product-manager">https://weworkremotely.com/remote-jobs/pspdfkit-product-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +86,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-product-manager" align="right" target="_blank">Apply</a>
@@ -85,73 +161,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2157/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SafetyWing</h5>
-                    <h3> Product Manager Nomad Insurance</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>34 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/safetywing-product-manager-nomad-insurance-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/2157/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Francisco
-    <br /><strong>URL:</strong> <a href="https://safetywing.com">https://safetywing.com</a>
-</p>
-
-<div>
-<a href="https://safetywing.com/"><strong>SafetyWing</strong></a> (YC W18) is seeking an ambitious and creative <strong>Product Manager - Nomad Insurance</strong> to help make our product something our customers love so much they’ll tell their friends about it. <br><br><strong>Nomad Insurance</strong> is rapidly scaling, and we need an experienced product leader to partner with the General Manager to own and implement the product roadmap. You will be working on the very first product we have launched.<br><br>
-</div><div>
-<br>💻 <strong>Your responsibilities will include</strong><br><br>
-</div><ul>
-<li>Identify the most pressing issues in the product, find creative solutions to them, and quickly implement improvements with optimism and enthusiasm. </li>
-<li>Lead cross-functional projects most important to the team. If you were to join today, these would include things like implementing better processes for handling customer claims and working with legal, compliance, and partnership stakeholders to improve both our current nomad insurance product and our affiliate product for ambassadors.</li>
-<li>Help Nomad Insurance achieve its potential by understanding the latest status of all priority projects happening, pushing goals to be met, and being a jack of all trades to support your team in implementation. </li>
-<li>Build out operational systems and automation SafetyWing as we scale and grow, and ultimately make a product people love so much they tell their friends about it.</li>
-</ul><div>
-<br><br>🧪 <strong>We are looking for someone who</strong><br><br>
-</div><ul>
-<li>Is ambitious, organized, and great with a verbal and written communication</li>
-<li>Has had Product Management experience or equivalent experience as an entrepreneur. Ideally, you’ve also worked in the B2C space before.</li>
-<li>Has strong leadership skills and the ability to make people around you fulfill their potential.</li>
-<li>Is comfortable with product development cycles and ready to iterate and innovate on our processes. </li>
-<li>Has a growth-oriented mindset and is motivated by challenging growth targets.</li>
-<li>Has the ability to plan a project, gather the resources and see it through to completion no matter what challenges you encounter.</li>
-<li>Has good judgment in making something people love so much they tell their friends.</li>
-</ul><div>
-<br><strong>😀 We like to work with people who</strong>
-</div><ul>
-<li>Want to help build a global social safety net on the Internet.</li>
-<li>Think for themselves instead of copying others.</li>
-<li>Are willing to try new things, even with the risk of failure.</li>
-<li>Are intellectually curious and open to new ideas.</li>
-<li>Are creative and bold in the face of any problems.</li>
-<li>Have strong integrity and do the right thing.</li>
-</ul><div>
-<br>🧘 <strong>What we offer</strong><br><br>
-</div><div>We operate in a fully remote work environment – work from anywhere globally. <br><br>You will receive salary and equity compensation, health insurance, a laptop, a minimum of four weeks of the yearly vacation, personal development budget, attendance of professional conferences (and much more 😉).<br><br>We have a minimum of two annual team gatherings where you will join us. The previous gatherings were in  Ljubljana, San Francisco, and Mexico.<br><br>We are looking forward to hearing from you!</div><div>
-<br><br><strong>About SafetyWing</strong><br><br>
-</div><div>
-<strong>SafetyWing</strong> was founded to support nomads like ourselves by building an adaptable software-based global social safety net.<br><strong>Our products</strong> are created by a fully remote team distributed across the globe and stretching ten timezones while headquartered in San Francisco.<br><strong>We’re here</strong> to remove the role of geographical borders as a barrier to equal opportunities and freedom for everyone.</div><div><br></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/safetywing-product-manager-nomad-insurance-1">https://weworkremotely.com/remote-jobs/safetywing-product-manager-nomad-insurance-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1339868/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -162,7 +171,7 @@
                     <code>android,education,go,ios</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/senior-product-manager-mobile-1339868" align="right" target="_blank">Apply</a>
