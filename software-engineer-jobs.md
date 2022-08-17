@@ -11,7 +11,7 @@
                     <code>dev, defi, crypto</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112012" align="right" target="_blank">Apply</a>
@@ -35,7 +35,7 @@
                     <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1352183" align="right" target="_blank">Apply</a>
@@ -76,7 +76,7 @@
                     <code>api,AWS,backend,C</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-python-1350221" align="right" target="_blank">Apply</a>
@@ -113,13 +113,13 @@
 <div class="h2"><strong>Requirements</strong></div>
 <p><strong> </strong></p>
 <ul>
-<li>5+ years of professional experience building backend applications using any popular language such as Python, Java, C#, JavaScript, Go, C/C++</li>
-<li>3+ years of working with SQL and NoSQL databases</li>
+<li>6+ years of professional experience building backend applications using any popular language such as Python, Java, C#, JavaScript, Go, C/C++</li>
+<li>4+ years of working with SQL and NoSQL databases</li>
 <li>3+ years of production support experience</li>
 <li>3+ years working with common AWS services</li>
-<li>2+ years developing REST APIs</li>
-<li>2+ years of experience working with Python</li>
-<li>2+ working with Python backend frameworks like Django, Flask, or Tornado</li>
+<li>3+ years developing REST APIs</li>
+<li>3+ years of experience working with Python</li>
+<li>3+ working with Python backend frameworks like Django, Flask, or Tornado</li>
 <li>Experience migrating systems to meet increasing traffic/scale</li>
 <li><strong>Startup or FAANG-type experience </strong>- Has worked at a startup or high growth company</li>
 <li><strong>Deep AWS knowledge </strong>- Has many years of experience solutioning within AWS</li>
@@ -158,7 +158,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -226,7 +226,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -288,7 +288,7 @@
                     <code>cloud,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1342235" align="right" target="_blank">Apply</a>
