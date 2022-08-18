@@ -1,5 +1,166 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2096/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Viva Translate</h5>
+                    <h3> Diseñador/a Web UX Senior</h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/viva-translate-inc-disenador-a-web-ux-senior" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/2096/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> USA
+    <br /><strong>URL:</strong> <a href="https://vivatraduce.com/en/">https://vivatraduce.com/en/</a>
+</p>
+
+<div>Viva Traduce (<a href="https://contxto.com/es/news/viva-translate-ayuda-a-profesionales-hispanoparalntes-a-obtener-mejores-empleos/">más información</a>) está dirigido por un equipo de ingenieros procedentes de empresas e instituciones de primera línea, como Google y el MIT, con un sueño compartido. Estamos creando un mundo en el que el idioma y la nacionalidad ya no son barreras para el trabajo, ni para las oportunidades y estamos empezando por toda América Latina.</div><div><br></div><div>La tecnología es el centro de nuestro producto. Viva se basa en una plataforma de traducción que automatiza las comunicaciones en el lugar de trabajo, permitiendo que nuestros equipos de desarrollo y diseño colaboren sin problemas con nuestros clientes.</div><div><br></div><div>Tenemos un sueño increíble para el futuro del trabajo sin fronteras. Pero sabemos que los grandes sueños comienzan con grandes personas. ¿Cuál es tu historia? Si tú también eres un explorador, un soñador y un constructor, nos encantaría conocerte.</div><div><br></div><div><strong>Tenemos un desafío para quienes:</strong></div><ul>
+<li>Vibran energía emprendedora: se mueven por la curiosidad, nunca se rinden y se enfocan en superar sus propios límites<br>Son grandes comunicadores: proactivos, extrovertidos, con ganas de discutir problemas y soluciones</li>
+<li>Dan el máximo porque les gusta trabajar con compromiso y dedicación</li>
+<li>Viven los cambios como oportunidades y aprenden de sus errores</li>
+<li>Promueven el buen clima, aportan alegría y diversión</li>
+<li>Saben cómo construir con otras personas y disfrutan trabajando en equipo</li>
+</ul><div>
+<br>Imagínate emprendiendo proyectos desafiantes, dinámicos e innovadores y <strong>siendo responsable de:</strong>
+</div><ol>
+<li>
+<strong>Perspectiva de diseño única </strong>- perspicaz en el deleite y el juego</li>
+<li>
+<strong>Experiencia del usuario</strong> - Dirigir todas las fases del diseño del producto para diferentes proyectos web, asegurando la mejor experiencia del usuario en cada iniciativa.</li>
+<li>
+<strong>Investigación </strong>- Llevar a cabo la investigación de tendencias de los usuarios y de la  industria. Definir los casos de uso, las necesidades y la identidad de nuestros clientes. Definir los casos de uso, las necesidades y la identidad de nuestros clientes.</li>
+<li>
+<strong>Diseños de alta fidelidad </strong>- Crear wireframes y diseños detallados listos para la ingeniería.</li>
+<li>
+<strong>Experimentos </strong>- Ayudar a ejecutar rigurosos experimentos de diseño, con experiencia en el análisis cuantitativo de los comportamientos de los usuarios. Probar e iterar rápidamente los diseños para optimizar el rendimiento.</li>
+<li>
+<strong>Mejoras del producto: </strong>identificar las oportunidades de grandes cambios. Revisar los flujos de usuarios existentes y proponer áreas de mejora. Trabajar estrechamente con ingeniería y otros equipos para sugerir e implementar mejoras.</li>
+<li>
+<strong>Colaboración interfuncional </strong>- Colaborar con ingeniería y otros equipos para identificar e implementar oportunidades de mejora del producto.</li>
+</ol><div><br></div><div><strong>Requisitos:</strong></div><ul>
+<li>Tener 5 o más años de experiencia trabajando en UX/UI, Web o puestos similares</li>
+<li>Conocer el diseño centrado en el usuario y la interacción</li>
+<li>Contar con un portafolio de diseño de producto o diseño UI/UX con múltiples casos de estudio de productos en los que hayas trabajado</li>
+<li>Tener experiencia en Figma</li>
+<li>Poseer una profunda empatía por los usuarios y un buen ojo para la UX/UI de la web</li>
+<li>Poseer gran capacidad de comunicación y organización</li>
+<li>Desenvolverse bien en un entorno startup de ritmo rápido</li>
+<li>Poseer capacidad para trabajar con ambigüedad y ajustar las prioridades según las necesidades del negocio</li>
+<li>Estar basado en América Latina con al menos un nivel B1-B2 de inglés</li>
+</ul><div><br></div><div><strong>Se agradece tener:</strong></div><ul>
+<li>Un título de licenciatura, preferiblemente </li>
+<li>Experiencia previa en una startup de alto crecimiento liderada por un producto</li>
+<li>Pasión por crear canales de comunicación entre culturas diferentes </li>
+<li>Experiencia de dominio trabajando en SaaS</li>
+</ul><div><br></div><div><strong>Información adicional:</strong></div><ul><li>Esta posición es totalmente remota</li></ul><div><br></div><div><strong>Capacidad de adherirse a nuestros valores:</strong></div><ul>
+<li>Subiendo siempre de nivel </li>
+<li>Basados en la ciencia</li>
+<li>De integridad abierta</li>
+<li>Divertidos</li>
+</ul><div>
+<br><strong>Te proponemos:</strong>
+</div><ul>
+<li>Ser parte de una compañía con espíritu emprendedor en la que nos encanta pensar en grande y a largo plazo.</li>
+<li>Ser protagonista de tu desarrollo en un ambiente de oportunidades, aprendizaje, crecimiento, expansión y proyectos desafiantes. </li>
+<li>Compartir y aprender en equipo junto a grandes profesionales y especialistas.</li>
+<li>Un excelente clima de trabajo, con todo lo necesario para que vivas una gran experiencia. :)</li>
+</ul><div><br></div><div>En Viva Traduce trabajamos para promover una cultura inclusiva, que busca la equidad y valora las diferentes perspectivas. Esto se traduce en género, religión, personas con discapacidad, LGBTQ+, raza, etnia y diversidad de experiencias. Trabajamos todas nuestras búsquedas con base en esta premisa. ¡Súmate a nuestro equipo!</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/viva-translate-inc-disenador-a-web-ux-senior">https://weworkremotely.com/remote-jobs/viva-translate-inc-disenador-a-web-ux-senior</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6011/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Tixel</h5>
+                    <h3> Product Designer (UX/UI)</h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/tixel-product-designer-ux-ui-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6011/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://www.tixel.com">https://www.tixel.com</a>
+</p>
+
+<p><strong>You</strong>: You are passionate about all things UX and design and consider yourself an expert in the field. You have a creative flare and an inherent desire to design products people love to use.</p><p><strong>Us</strong>: A rapidly growing ticket marketplace that is making waves, a huge positive impact, and changing the game in the live entertainment space. We're on a mission to fill every seat with a happy fan and work hand-in-hand with festivals, promoters, artists, and venues around the world.</p><p>Still interested? Good! On we go…</p><p>This is an exciting opportunity to get in on the ground floor of a fast-growing start-up whilst immersing yourself in tech, music, and live events. We're looking for a Product Designer who is excited and ready to deliver high-quality, beautifully simple user experiences that our customers will love - a true advocate for Tixel’s product and users.</p><p><strong>What will you do?</strong></p><ul>
+<li><p>Take lead on all things design. Find creative ways to solve UX problems (e.g. usability, findability)</p></li>
+<li><p>Create wireframes, interactive prototypes, specifications and other design documents to communicate design ideas and intent</p></li>
+<li><p>Collaborate with our Product Manager and engineering team to deliver effective product solutions</p></li>
+<li><p>Conduct usability tests, collect qualitative user feedback and quantitative data to help shape roadmap priorities for the team.</p></li>
+<li><p>Join our CRO in-house team responsible for optimising Tixel's most valuable growth variables.</p></li>
+<li><p>Employ user-centered design methods and best practices to cultivate a deep understanding of the needs and aspirations of the people our products are designed for</p></li>
+<li><p>Work with developers to do reviews of frontend products before they are pushed in production</p></li>
+<li><p>Create designs with high-quality aesthetics to complement usability, and enhance functionality with attractive layouts.</p></li>
+</ul><p> </p><p><strong>Skills and Experience:</strong></p><ul>
+<li><p>You have over 3 years experience designing across mobile and web interfaces</p></li>
+<li><p>You’re an expert in prototyping tools such as Figma and design software such as Adobe Creative Suite</p></li>
+<li><p>Experience in developing UI guidelines and/or design systems that enable others to build on your work effectively.</p></li>
+<li><p>Deep understanding of how to uncover user needs through research and user empathy.</p></li>
+<li><p>An excellent understanding of customer-centred design (Design thinking, HCD, Agile, Lean UX a must)</p></li>
+<li><p>You appreciate big picture thinking and recognise the importance of prioritising the short term milestones that will move the needle towards the long term mission.</p></li>
+</ul><ul>
+<li><p>You're data-driven and use data insights to influence designs</p></li>
+<li><p>You have a creative mindset</p></li>
+<li><p>You can work independently and take full ownership of your projects</p></li>
+<li><p>You're highly organised and great at time management<br></p></li>
+</ul><p><strong>Nice to haves</strong></p><ul>
+<li><p>You’ve been part of cross-functional CRO teams</p></li>
+<li><p>Understanding of front-end web technologies such as HTML/CSS/Javascript</p></li>
+<li><p>Experience with native mobile design (iOS and Android)</p></li>
+</ul><p></p><p> <strong>Why you'll love it here...</strong></p><ul>
+<li><p>You'll be a part of a fast-paced, high-energy team aligned with the love of music and live events.</p></li>
+<li><p>We work hard, but we have fun. Otherwise, what's the point?</p></li>
+<li><p>You will have true ownership over your area of responsibility, and your input will be pivotal to the company's success. In turn, you'll have a real impact on people and the live events industry.</p></li>
+<li><p>You will have the opportunity to roll up your sleeves and get down into the weeds to build out the future. You will have unlimited scope to grow as the business scales, developing your career and building a team along the way.</p></li>
+<li>
+<p>We're proud that we have a diverse team, are family-friendly, and have a flexible work environment with our HQ based in Melbourne, and a growing team in the UK.</p>
+<p></p>
+</li>
+</ul><p><strong>Other benefits</strong></p><ul>
+<li><p>An extra personal day off every month.</p></li>
+<li><p>We encourage all staff to attend live events. You'll even have a monthly ticket allowance as a perk of the job.</p></li>
+<li><p>We will invest in your development and make it our priority to help you achieve your career objectives. You'll have access to a 'level-up allowance'.</p></li>
+<li><p>Flexibility to work from wherever you want</p></li>
+<li>
+<p>AND a genuine opportunity to be a very key part of a high growth business</p>
+<p></p>
+</li>
+</ul><p>Apply now, with a short note introducing yourself and a portfolio showcasing previously shipped UX/UI design for digital products. </p><p><br></p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tixel-product-designer-ux-ui-2">https://weworkremotely.com/remote-jobs/tixel-product-designer-ux-ui-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4850/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +171,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-ux-design-team-lead" align="right" target="_blank">Apply</a>
@@ -87,7 +248,7 @@
                     <code>contract,go,ui,ux</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
@@ -162,7 +323,7 @@
                     <code>ui,ux,management,networking</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-ux-ui-designer-1255726" align="right" target="_blank">Apply</a>
