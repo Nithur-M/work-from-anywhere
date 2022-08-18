@@ -11,7 +11,7 @@
                     <code>full stack, tech, front end</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112035" align="right" target="_blank">Apply</a>
@@ -21,56 +21,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p dir="ltr">Jam.gg is a social and low tech-friendly cloud gaming platform. It has been designed to be accessible to everyone: available directly from a web browser, it does not require a high-speed internet connection to provide a seamless multiplayer game experience. Jam.gg is all about bringing people together through games, with a touch of childhood playfulness and creativity.</p><p dir="ltr">We are led by an experienced team of ex Facebook, Google, Twitter, Amazon, Docker, EA, King and other top tech companies. Jam.gg is a YCombinator company and backed by top VC firms and LEGO Ventures.</p><p dir="ltr">We're at the stage where we're scaling our Engineering department as one of our key units. This is an incredible opportunity to join a booming company in its growth phase. Driven by a strong inclusive culture, we welcome self-starting, fast learning, talented people wishing to start and manage unique, and challenging projects where collaboration (internal and external) is everything.</p><p dir="ltr">We are looking for a talented Senior Fullstack Engineer Â to join our growing Engineering team.</p><p dir="ltr"><br /></p><p dir="ltr"><strong>Start date</strong>: As soon as possible</p><p dir="ltr"><strong>Location</strong>: Full remote. The candidate must be in Europe for time zone reasons.</p><p dir="ltr"><strong>Type of contract</strong> : Fixed term or non-fixed term depending on the candidate</p><p><strong><br /></strong></p><p dir="ltr"><strong>What you will be doing</strong>:</p><ul><li dir="ltr"><p dir="ltr">The role involves interfacing with design, implementing features, and being a strong advocate for the user.</p></li><li dir="ltr"><p dir="ltr">You will be working with an engineering manager and reporting to him.</p></li></ul><p><strong><br /></strong></p><p dir="ltr"><strong>What we are looking for:</strong></p><p dir="ltr">Requirements for the role include:</p><ul><li dir="ltr"><p dir="ltr">Minimum of 4 years experience as a Frontend Software Engineer</p></li><li dir="ltr"><p dir="ltr">Obsession for building and shipping amazing user experiences</p></li><li dir="ltr"><p dir="ltr">Experience feature development in close collaboration with design</p></li><li dir="ltr"><p dir="ltr">Expert knowledge of JavaScript Proficiency with React and Redux</p></li><li dir="ltr"><p dir="ltr">Solid understanding of the JavaScript/TypeScript and web application ecosystem</p></li><li dir="ltr"><p dir="ltr">Working knowledge of TypeScript</p></li><li dir="ltr"><p dir="ltr">Working knowledge of Storybook</p></li><li dir="ltr"><p dir="ltr">Working knowledge of Golang (this is what we use in the backend)</p></li><li dir="ltr"><p dir="ltr">Familiarity with test-driven development (Jest, Cypress, etc)</p></li><li dir="ltr"><p dir="ltr">Familiarity with Git and GitHub</p></li><li dir="ltr"><p dir="ltr">Passion for shaping and scaling an early stage, user-first application</p></li><li dir="ltr"><p dir="ltr">Self-motivation: highly autonomous &amp; working capabilities.</p></li><li dir="ltr"><p dir="ltr">Communication &amp; Teamwork: excellent communication and organization skills, team spirit, proactivity.</p></li><li dir="ltr"><p dir="ltr">Good spoken and written communication skills (English)</p></li></ul><p dir="ltr"><br /></p><p dir="ltr"><strong>Experience that would be great for you to have (or you'd be excited about acquiring):</strong></p><ul><li dir="ltr"><p dir="ltr">Previous remote-work experience</p></li><li dir="ltr"><p dir="ltr">Previous startup/growth-stage experience</p></li><li dir="ltr"><p dir="ltr">Prior experience building web services using NodeJS</p></li><li dir="ltr"><p dir="ltr">Google's Firebase, particularly Firestore, NoSQL</p></li><li dir="ltr"><p dir="ltr">General AWS and GCP experience</p></li></ul><p><br /></p><p dir="ltr"><strong>Benefits</strong>:</p><p dir="ltr"><strong>For International and French permanent contracts:</strong></p><ul><li dir="ltr"><p dir="ltr">Unlimited holiday leave (minimum 5 weeks).</p></li><li dir="ltr"><p dir="ltr">Monthly well-being allowance (mental well-being, sports, massage, etc.).</p></li><li dir="ltr"><p dir="ltr">Home office allowance.</p></li><li dir="ltr"><p dir="ltr">Fully remote &amp; flexible working hours.</p></li><li dir="ltr"><p dir="ltr">Equal pay policy.</p></li><li dir="ltr"><p dir="ltr">Equal maternity and paternity leave (18 weeks).</p></li><li dir="ltr"><p dir="ltr">Maternity/Paternity subsidy of 3k euros.</p></li><li dir="ltr"><p dir="ltr">Stock option plan.</p></li><li dir="ltr"><p dir="ltr">Health insurance compensation on a one-to-one basis, depending on geographical location &amp; company's policy.</p></li><li dir="ltr"><p dir="ltr">Additional benefits depending on the geographical location.</p></li></ul><p><strong><br /></strong></p><p dir="ltr"><strong>For international and French fixed-term contracts :</strong></p><ul><li dir="ltr"><p dir="ltr">5 weeks of holiday per year (2.08 days per month)Â </p></li><li dir="ltr"><p dir="ltr">Monthly well-being allowance (mental well-being, sports, massage, etc.).</p></li><li dir="ltr"><p dir="ltr">Home office allowance.Â </p></li><li dir="ltr"><p dir="ltr">Fully remote &amp; flexible working hours.</p></li><li dir="ltr"><p dir="ltr">Equal pay policy.</p></li><li dir="ltr"><p dir="ltr">Health insurance compensation on a one-to-one basis, depending on geographical location &amp; company's policy.</p></li><li dir="ltr"><p dir="ltr">Additional benefits depending on the geographical location</p></li></ul><p dir="ltr"><br /></p><p dir="ltr"><strong>Why Jam.gg?</strong></p><p dir="ltr">At the heart of Jam.ggâs mission is the creation of a new way to share games with friends and family: a free online place for gamers to play and hangout together, with video cameras, bringing back the golden era of multiplayer couch gaming. In a world of constraining internet connections and paid services, we think differently: we are building a free, âlow-techâ friendly platform for everyone to jump in, directly from their browser. Our platform is social by design and packed with fun games curated by our community. We want to create new virtual social spaces that fundamentally diverge from today's typical social networks, focusing a lot less on appearance and a lot more on experience. We are building a social gaming platform for all gamers who enjoy playing together.</p><p dir="ltr"><br /></p><p dir="ltr">Our startup has been growing very quickly since the end of 2020, attracting more than 40 gaming talents from developers and social media experts to designers. In June 2021, we introduced our cloud gaming beta platform featuring 80+ licensed games, including titles from industry-renowned publishers such as Codemasters, Interplay, Team 17, and Data East. Discovered and supported by Y Combinator (Twitch, Reddit, Stripe, etc), our board of advisors include former SEGA CEO Kenji Matsubara, Zynga co-founders Justin Waldron and Tom Bollich, Crunchyrollâs Kun Gao, and Humble Bundleâs Jeffrey Rosen. Our last round was led by LEGO Ventures and top gaming VC firms.</p><p dir="ltr"><br /></p><p dir="ltr">With almost half a million users who have joined us so far, our teams are prepping for our next chapter and are on the lookout for talented and motivated folks who share our passionÂ  for gaming and want to make a real impact while embracing a true startup spirit (autonomy, transparency, user centric).</p><p dir="ltr"><br /></p><p dir="ltr">Jam.gg is an equal opportunity employer and we proudly value and promote diversity in our team. We do not discriminate on the basis of ethnicity, religion, color, national origin, gender, sexual orientation, age, marital status, World of Warcraft faction or disability status.</p><p dir="ltr"><br /></p><p dir="ltr">More info <a href="https://jamgg.medium.com/join-our-team-edee635107c1">here</a> on our mission, culture and team</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Pandell-Houston</h5>
-                    <h3> Senior Full Stack Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/pandell-houston-senior-full-stack-software-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Houston, Texas, United States
-    <br /><strong>URL:</strong> <a href="http://www.landworks.com">http://www.landworks.com</a>
-</p>
-
-<p>Pandell is growing and we are looking to add a Senior Full Stack Developer to join our amazing, best-in-class development team. If you get what quality code looks like and are driven to learn and master new technologies, then check out this opportunity.</p>
-<p><strong>Who are we?</strong><br></p>
-<p>The inclusive team at Pandell works collaboratively towards writing high-quality code that meets our customers' needs. We've found that embracing new technologies and paradigms like reactive extensions (RxJS) and declarative rendering (React) has allowed us to make our code better and easier to understand and test. We love finding new tools that help us work better. As a stable, growing company for over 25 years, we work to make these transitions so that we can continually provide bug fixes and improvements to our clients. We do this by encouraging developers of all levels to collaborate, design, and refactor as work is completed. We believe that even the best programmers are helped by automated testing, continuous integration, and a robust code review process. In addition, our developers are aided by subject matter experts that collaborate on the design and QA specialists that help us by checking all the details.</p>
-<p><strong>Who are you?</strong></p>
-<p>At Pandell, we create awesome customer experiences. We are advocates for the user and take the time to do things right the first time. Pandell employees have opportunities to engage in professional development through optional activities such as a book club. A positive and welcoming office culture gives Pandell employees the opportunity to work and play with an awesome team. This includes working through interesting design problems as well as regular optional social events. At Pandell we value mentorship, giving Pandell employees an opportunity to share their love of programming with others. Pandell offers a diverse culture in which employees can give their best and achieve exceptional results together.<br></p>
-<p><strong>Requirements</strong></p>
-<p><strong>What Will Make You An Ideal Candidate:</strong></p>
-<ul> <li>You have strong technical skills in full-stack web development</li> <li>Experience with the following: C#, SQL Server, JavaScript, TypeScript, React, Git, ASP.NET</li> <li>Excel at delivering high quality code using multiple styles of programming (functional, OOP)</li> <li>You have a strong understanding of team development including source control technology, product deployment strategies, and team software design</li> </ul>
-<p><strong>Your Responsibilities:</strong></p>
-<ul> <li>Review, analyze, program, and deploy software products</li> <li>Use tools as provided for proper software source code management and business operations</li> <li>Provide software design and architectural input</li> <li>Reviewing code and having your code reviewed</li> <li>Mentoring and being mentored by other Pandell developers</li> </ul>
-<p><strong>Your Experience:</strong></p>
-<ul><li>5+ years of software development experience</li></ul>
-<p><strong>Other Skills/Experience We Value:<br></strong></p>
-<ul> <li>We love to see your code - if you have a Github account, be sure to include it on your resume!</li> <li>Disciplined self-starter, capable of working independently or in close collaboration with the development team</li> <li>Curiosity and the drive to challenge yourself</li> </ul>
-<p><strong>Benefits</strong></p>
-<p><strong>All the extras (some pending office return):</strong></p>
-<ul> <li>Semi-Annual Bonuses</li> <li>Flexible optional home/office work environment</li> <li>Flexible hours</li> <li>Competitive benefits package</li> <li>Training budget</li> <li>Fully stocked kitchen (never pack your lunch again)</li> <li>Games room &amp; lounge area</li> <li>Virtual social activities &amp; learning events</li> <li>Rebates towards personal fitness and electronics purchases</li> <li>Shared community cards</li> <li>Awesome new development machines (full accessories &amp; dual monitor)</li> </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pandell-houston-senior-full-stack-software-engineer">https://weworkremotely.com/remote-jobs/pandell-houston-senior-full-stack-software-engineer</a></p>
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -85,7 +35,7 @@
                     <code>developer,javascript,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-customer-solutions-team-1224255" align="right" target="_blank">Apply</a>
@@ -137,7 +87,7 @@
                     <code>ADS,AWS,backend,C++</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-1339259" align="right" target="_blank">Apply</a>
