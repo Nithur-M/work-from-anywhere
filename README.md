@@ -53,7 +53,7 @@ Do you want to post a job ad here? <a href="https://github.com/Nithur-M/work-fro
 Want to receive email alerts instantly for your preferred job? <a href="https://docs.google.com/forms/d/e/1FAIpQLSdRyfuSFMIEA8WNNepqQeaXlWMGVNayf1Rd_MFqi0mNOBmSjA/viewform?usp=sf_link">Please subscribe here.</a>
 
 
-<br /><p>❤️ Help me buy a domain for this project:</p>
+<br /><p>❤️ Support this project:</p>
 <a href="https://www.buymeacoffee.com/nithur">
 <img src="https://camo.githubusercontent.com/862680c88edc05aa2082149628393a6aa90e1d848c78cbd1db283daca709cee5/68747470733a2f2f666972656261736573746f726167652e676f6f676c65617069732e636f6d2f76302f622f74656d706e6f74652d696f2e61707073706f742e636f6d2f6f2f617373657473253246626d632d627574746f6e2e706e673f616c743d6d6564696126746f6b656e3d32383461623139352d353462642d346434662d623161622d323765393638633537396661" width="150px" />
 </a>
