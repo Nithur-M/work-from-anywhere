@@ -4,6 +4,9 @@
       <h2>🌍️👩‍💻 Work from Anywhere</h2>
       <p>A daily curated list of location independent jobs.</p>
       <img alt="Version" src="https://img.shields.io/badge/version-0.1.0-blue.svg?cacheSeconds=2592000" />
+      <a href="https://realworkfromanywhere.com" target="_blank">
+         <img alt="Real Work From Anywhere" src="https://img.shields.io/badge/Real Work from Anywhere-orange?style=flat-square&logo=appveyorlogo=data:image/png;base64" />
+      </a>
       <a href="https://twitter.com/RemoteWFA" target="_blank">
             <img alt="Twitter: Remote Work From Anywhere" src="https://img.shields.io/twitter/follow/RemoteWFA.svg?style=social" />
       </a>
