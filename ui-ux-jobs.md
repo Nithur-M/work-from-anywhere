@@ -1,5 +1,30 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/e376fe9133d0000088cec660a5c0211c1660842003.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ClickTime</h5>
+                    <h3>
+					Senior UX Designer				</h3>
+                </td>
+                <td width="300">
+                    <code>ux, leader, management</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/112153" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                About UsÂ ClickTime is a recognized leader in time management software, serving thousands of enterprises, nonprofits, and governments worldwide. From bootstrapped beginnings to sustained profitability - all funded by a dedicated, growing customer base, and without any venture capital funding - ClickTime has tracked over $170 billion worth of employee time, helping customers improve their workforce efficiency, profitability, and resource planning. While headquartered in San Francisco, ClickTimeâs 40+ employees work remotely throughout the United States, with continued plans for remote growth. About the RoleAs ClickTimeâs first-ever Senior UX Designer, youâll own the user experience for the ClickTime product and customer. Youâll deeply understand the needs of our users, advocate for those needs within the organization, and help create product experiences that delight. In addition, youâll work with internal stakeholders to influence new features, standardize our visual branding across the product, and become a champion of usability and great design. Reporting to the Director of Product Management, this is an opportunity to harness your ambition and creativity to make your mark on an established SaaS company.ClickTime provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2096/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +35,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/viva-translate-inc-disenador-a-web-ux-senior" align="right" target="_blank">Apply</a>
@@ -94,7 +119,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/tixel-product-designer-ux-ui-2" align="right" target="_blank">Apply</a>
@@ -171,7 +196,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-ux-design-team-lead" align="right" target="_blank">Apply</a>
@@ -248,7 +273,7 @@
                     <code>contract,go,ui,ux</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
