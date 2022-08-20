@@ -11,7 +11,7 @@
                     <code>dev, javascript, react</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112140" align="right" target="_blank">Apply</a>
@@ -21,31 +21,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p dir="ltr">About us:Â </p><p><strong><br /></strong></p><p dir="ltr">"Talent has no borders." We strongly believe in uplifting talent by providing them with the right opportunities - no matter which part of the world you are from, we value your skills and offer every member the growth possibilities they deserve. ð</p><p><strong><br /></strong></p><p dir="ltr">Proxify is a global network and a supportive community of talented developers interested in long-term remote jobs.Â </p><p dir="ltr">With us, you will get opportunities:</p><ul><li dir="ltr"><p dir="ltr">To work remotely on exciting projects with leading brands and fast-growing startups.</p></li><li dir="ltr"><p dir="ltr">To work on commision free project-based jobs.</p></li><li dir="ltr"><p dir="ltr">To work with companies that respect and value your skills.</p></li></ul><p><strong><br /></strong></p><p dir="ltr">Since our launch, talented developers on Proxify have worked with 620+ happy clients to build their products and growth features. 1400+ talented developers trust Proxify and the community we are building to fulfil their dreams and objectives.Â </p><p><strong><br /><br /></strong></p><p dir="ltr">The Role:</p><p dir="ltr">We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features.Â </p><p><strong><br /><br /></strong></p><h3 dir="ltr">What we are looking for:</h3><ul><li dir="ltr"><p dir="ltr">4+ years of working experience as a FullStack;</p></li><li dir="ltr"><p dir="ltr">Frontend:<br />- React JS;<br />- Design System;</p></li><li dir="ltr"><p dir="ltr">Backend:<br />- Microservices architecture;<br />- NodeJS;Â </p></li><li dir="ltr"><p dir="ltr">Database:<br />- SQL;<br />- MongoDB;</p></li><li dir="ltr"><p dir="ltr">Upper-intermediate or higher English level.</p></li></ul><p><strong><br /></strong></p><h4 dir="ltr">Nice-to-have:Â </h4><ul><li dir="ltr"><p dir="ltr">Timezone: CET (+/- 3 hours);</p></li><li dir="ltr"><p dir="ltr">Database Architecture knowledge</p></li></ul><p><strong><br /><br /></strong></p><div dir="ltr" align="left"><table class="mce-item-table"><colgroup><col width="600" /></colgroup><tbody><tr><td><p dir="ltr">What we offer:</p><ul><li dir="ltr"><p dir="ltr">ð» 100% remote work: Work from anywhere.</p></li><li dir="ltr"><p dir="ltr">ðð» Flexibility: The ability to change the project to another one.</p></li><li dir="ltr"><p dir="ltr">ðµ Financial growth: Competitive compensation and performance-based increases.</p></li><li dir="ltr"><p dir="ltr">ð§ð»ââï¸ Freedom: Very flexible working schedule.</p></li><li dir="ltr"><p dir="ltr">ð 360 degree growth: Opportunities for professional development and personal growth.</p></li></ul></td></tr></tbody></table></div><p><strong><br /><br /></strong></p><p dir="ltr">Your benefits with Proxify:</p><ul><li dir="ltr"><p dir="ltr">Be part of Proxify community: Network with like-minded and enthusiastic individuals to make a difference.Â </p></li><li dir="ltr"><p dir="ltr">Make an impact: You get the opportunity to work on the projects that inspire you and add value to your career.</p></li><li dir="ltr"><p dir="ltr">Transparency: Contracts with transparency in earnings and working hours.</p></li><li dir="ltr"><p dir="ltr">Save your time: Fast and efficient hiring process to match you with the project of your preference.</p></li><li dir="ltr"><p dir="ltr">Ownership: Take ownership of your work and enjoy more freedom in your career.</p></li></ul>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/img/jobs/7fc629e6055cf769299e0c839d08c1ed1659967732.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>RDX Works</h5>
-                    <h3>
-					Developer Advocate				</h3>
-                </td>
-                <td width="300">
-                    <code>dev, rust, scrypto</code>
-                </td>
-                <td width="200">
-                <text>10 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/111996" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h1 dir="ltr">What is the job?Â </h1><p dir="ltr">We are looking for an enthusiastic, motivated developer to serve as a strong advocate in the Radix developer community â our bridge between the Radix team and the builders that Radix exists to make successful with our technology.</p><p dir="ltr">Scrypto is Radixâs breakthrough programming language for decentralized finance (or DeFi) and Web3.0. Radixâs community of developers are passionate about Scrypto and the enormous opportunity that DeFi offers them. You will be joining the Developer Ecosystem team whose mission is to ensure that every developer that gives Scrypto a try and shows up in our community social channels has a great experience that makes them want to return, learn, build, and ultimately contribute back to that community.</p><p dir="ltr">You will start by becoming an expert in the ins and outs of building smart contracts the Scrypto way, and where Scrypto is headed over the coming months.</p><p dir="ltr">Armed with this knowledge and a passion to show others the path, you will ensure that no question goes unanswered, that Radix developer channels are places of learning and fun, and that the Radix development team is aware of the day-to-day challenges and desires of Scrypto developers as the tools evolve and grow. You will be expected to be a consistent and respected presence on multiple channels of developer interaction, such as Discord, Telegram, Stack Overflow, Github, and Twitter.</p><p dir="ltr">You will also be taking part in developer events, conferences and webinars where you will have the opportunity to interact with our community and present Scrypto in various settings.Â </p><p dir="ltr">Click here to see our CPO Matt talk about why we think DeFi/Web3.0 matters and why Scrypto is the key to unlocking its potential for developers: <a href="https://youtu.be/oeqb6_l7hLQ?t=3948">https://youtu.be/oeqb6_l7hLQ?t=3948</a>Â </p><p><strong><br /></strong></p><h2 dir="ltr">What are we looking for?Â </h2><ul><li dir="ltr"><p dir="ltr">You are a developer, who has at least dabbled in smart contract development and who has started learning Scrypto</p></li><li dir="ltr"><p dir="ltr">You are a crypto native, familiar with the crypto and DeFi ecosystem and why it matters</p></li><li dir="ltr"><p dir="ltr">You thrive on people, drawing energy from connecting, engaging, understanding needs, and helping them be successful with whatever excites them</p></li><li dir="ltr"><p dir="ltr">You are a natural educator, continually coming up with the most effective ways to convey technical concepts to developers in words and code and accelerating their work</p></li></ul><p><strong><br /></strong></p><h2 dir="ltr">What do you need?<strong></strong></h2><ul><li dir="ltr"><p dir="ltr">3+ years of professional development experience.</p></li><li dir="ltr"><p dir="ltr">Some participation in an open source project which has at least 4 contributors.</p></li><li dir="ltr"><p dir="ltr">Familiarity with multiple programming languages.Â  At least 2 out of Rust, C/C++, Java, Scala, C#, Python, Erlang, and JavaScript.<br /></p></li></ul><h2 dir="ltr"><strong>Nice to haves:Â </strong></h2><ul><li dir="ltr"><p dir="ltr">Experience with development and deployment of Solidity smart contracts</p></li><li dir="ltr"><p dir="ltr">Experience with Rust (on which Scrypto is heavily based)</p></li><li dir="ltr"><p dir="ltr">Experience with technical writing / documentation</p></li><li dir="ltr"><p dir="ltr">Online community moderation experience</p></li><li dir="ltr"><p dir="ltr">Comfortable with presenting during webinars, live Q&amp;As and at meetups</p></li><li dir="ltr"><p dir="ltr">Current Radix community members are welcomed!</p></li></ul><p><strong><br /></strong></p><h1 dir="ltr">Who are we?Â </h1><p dir="ltr">At RDX Works, we're a team of like-minded thinkers who have long been convinced that we're living in the earliest stages of a global financial revolution. This revolution is being fuelled by decentralized finance (or DeFi for short), which is enabling an assortment of pioneering developers and entrepreneurs to re-invent almost every financial product that is currently traded and invested in traditional markets, without requiring central authorities or siloed infrastructure. DeFi has captured a great deal of attention and investment in the crypto-aware niche, growing assets under management from $1 billion to over $200 billion in a few years. Impressive as its growth has been, its current market size isn't even a rounding error on the over $400 trillion held in traditional finance. We're focused on what it will take to go from billions to trillions.</p><p dir="ltr">RDX went back to first principles to come up with the right technical solutionâthe first layer-one protocol built specifically for mainstream DeFiâand we have already tested out at over 1 million transactions per second. We're keenly aware that the need for an infinitely scalable platform is only one prerequisite among many for mass adoption, and we're also blazing new ground in the areas of purpose-built developer tools, user experiences, and regulatory integration.</p><p dir="ltr">We have forged a path deep into the future of what distributed ledger technology is going to look like and we need you to come and be part of the team that is making that happen right now.</p><p dir="ltr">If this job sounds like it was made for you, then please apply directly via the link or if you donât have an up to date CV to apply with, contact careers@rdx.works for more information.</p><p dir="ltr">Check out our company benefits here - <a href="https://www.rdx.works/careers">RDX Works Benefits</a>Â Â </p><p dir="ltr">Alternatively, if you feel like you donât match all of the requirements, we would love you to still apply anyway. We understand that confidence gaps and imposter syndrome can get in the way of meeting incredible candidates and we wouldnât want this to prevent us from meeting you; especially as we are big advocates of helping people learn &amp; grow. This is also another reason we do not advertise salaries, we want to keep it as even a playing field as possible!Â </p><p><br /></p>
                 </details>
                 </td>
             </tr>,<tr>
@@ -60,7 +35,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/yassi-react-frontend-developer" align="right" target="_blank">Apply</a>
@@ -100,7 +75,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-frontend-developer-canadian-visa-sponsorship-opportunity-1" align="right" target="_blank">Apply</a>
@@ -150,7 +125,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-java-backend-developer-full-time-unlimited-contractor" align="right" target="_blank">Apply</a>
@@ -238,6 +213,63 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5246/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bottomless</h5>
+                    <h3> Senior Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0077/5246/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Seattle, Wa
+    <br /><strong>URL:</strong> <a href="https://www.bottomless.com/">https://www.bottomless.com/</a>
+</p>
+
+<div>We are a fast-growing startup with a product used by thousands of consumers every day.<br><br>We are looking for a jack-of-all-trades <strong><em>senior</em></strong> javascript/full stack developer.<br><br>The ideal candidate for this position would be able to dive into any kind of project, from frontend UI/UX tasks in React.js to backend tasks running on Node.js.<br><br>If you’re interested in variety and working hard to build something big, this might be a good fit.<br><br>We need to achieve <em>80% of the results with 20% of the effort</em>.<br><br><strong>Responsibilities:</strong>
+</div><ul>
+<li>Design and build infrastructure and products for a sensor-enabled e-commerce marketplace.</li>
+<li>Build robust infrastructure to support existing product lines and the ability to roll out new ones.</li>
+<li>Responsibility over the user-facing product</li>
+<li>Quick iteration on different fronts from fronted UX changes to database design to quick and dirty implementations.</li>
+<li>Responsible for full deployment and testing of applications.</li>
+</ul><div><br></div><div><strong>Skill, Qualifications, and Experience:</strong></div><div><br></div><div><em>Expert proficiency required:</em></div><ul>
+<li>Node.js</li>
+<li>NoSQL databases</li>
+<li>React.js</li>
+<li>English (written and verbal)</li>
+</ul><div><br></div><div><em>Intermediate proficiency, at a minimum:</em></div><ul>
+<li>UI/UX design</li>
+<li>Software architecture</li>
+</ul><div>
+<br>Not required, but a plus:</div><ul>
+<li>Python (background tasks)</li>
+<li>Embedded systems (C++)</li>
+</ul><div> <br><strong>Details:</strong>
+</div><ul>
+<li>Remote OK. Must be flexible with hours as we have a remote international team.</li>
+<li>Competitive equity and cash compensation</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-1">https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/5800/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -248,7 +280,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>62 days ago</text>
+                <text>63 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone" align="right" target="_blank">Apply</a>
@@ -363,7 +395,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>90 days ago</text>
+                <text>91 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testdome-frontend-developer-vue-js-asp-net-core-1" align="right" target="_blank">Apply</a>
@@ -389,8 +421,7 @@
 <li>Working knowledge of backend development using C# and ASP.NET Core.</li>
 </ul><div><br></div><div><strong>Hiring Process</strong></div><div>Our goal is to make an offer within two weeks. We have a staged approach and successful applications will progress through each step:</div><ul>
 <li>Take a TestDome screening test to assess your skills. Naturally, we dogfood our product so you will get a chance to see what we are building to make hiring better.</li>
-<li>A technical interview with an engineer from your future team</li>
-<li>An interview with our CEO</li>
+<li>Job interview</li>
 <li>Job offer</li>
 </ul><div><br></div><div><strong>What we offer</strong></div><ul>
 <li>Salary from $50,000 - 85,000 USD per year</li>
@@ -401,7 +432,7 @@
 <li>24 days of paid vacation</li>
 <li>Paid sick leave</li>
 <li>Paid special leave</li>
-</ul><div><br></div><div>To apply, start your programming screening test by clicking on <a href="https://app.testdome.com/apply/06a26de89551435fbf01f3d6e56ebdd2">this link</a>.</div><div><br></div>
+</ul><div><br></div><div>To apply, start your programming screening test by clicking on <a href="https://app.testdome.com/apply/13d818c3ef214a9d931796a9b87e733d">this link</a>.</div><div><br></div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testdome-frontend-developer-vue-js-asp-net-core-1">https://weworkremotely.com/remote-jobs/testdome-frontend-developer-vue-js-asp-net-core-1</a></p>
 
@@ -419,7 +450,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>330 days ago</text>
+                <text>331 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -466,7 +497,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>330 days ago</text>
+                <text>331 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-front-end-developer" align="right" target="_blank">Apply</a>
@@ -512,7 +543,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>570 days ago</text>
+                <text>571 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
@@ -584,27 +615,71 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1349101/logo" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Langate</h5>
-                    <h3>DB developer/DBA </h3>
+                    <h5>Proxify</h5>
+                    <h3>Senior Full Stack Developer</h3>
                 </td>
                 <td width="300">
-                    <code>admin,api,azure,DBA</code>
+                    <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/db-developer-dba-1349101" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>Skills &amp; Experience:<br><br>• 3+ years of experience administering database servers, including MSSQL<br>• Strong understanding of database structures, theories, principles, and practices.<br>• Experience in database and system performance tuning<br>• Experience with common database monitoring, diagnostic, trending, and admin tools.<br>• Experience with MSSQL Replication.<br>• Ability to be self-directed and motivated and work well both independently and as part of a team.<br><br>Responsibilities:<br><br>•Monitor the system performance by performing regular tests, troubleshooting, and integrating new features.<br>•Recommend solutions to improve new and existing database systems.<br>•Design and implement effective database solutions and models to store and retrieve company data.<br>•Examine and identify database structural necessities by evaluating client operations, applications, and programming.<br><br>We offer:<br><br>• Paid courses, certifications (constant learning — is our motto)<br>• Competitive salary<br>• Official employment, paid sick leave, 20 days of paid vacation<br>• Free English lessons<br>• Flexible work schedule<br>• Official Ukrainian holidays are non-working days<br>• Career development plan<br>• Friendly team of IT professionals<br>• Workshops<br><br>About the project<br><br>The project is targeting USA healthcare industry and provides business workflow of Pharmacy organization.<br><br>It is distributed system, which contains ASP.NET Core, Web API services, Azure Devops, Azure pipelines, Windows service</p>
-<p> </p><img src="https://remotive.com/job/track/1349101/blank.gif?source=public_api" alt=""/>
+                <p>About us: </p>
+<p> </p>
+<p>"Talent has no borders." We strongly believe in uplifting talent by providing them with the right opportunities - no matter which part of the world you are from, we value your skills and offer every member the growth possibilities they deserve. 🙂</p>
+<p> </p>
+<p>Proxify is a global network and a supportive community of talented developers interested in long-term remote jobs. </p>
+<p>With us, you will get opportunities:</p>
+<p>To work remotely on exciting projects with leading brands and fast-growing startups.</p>
+<p>To work on commision free project-based jobs.</p>
+<p>To work with companies that respect and value your skills.</p>
+<p> </p>
+<p>Since our launch, talented developers on Proxify have worked with 620+ happy clients to build their products and growth features. 1400+ talented developers trust Proxify and the community we are building to fulfil their dreams and objectives. </p>
+<p><br><br></p>
+<p>The Role:</p>
+<p>We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </p>
+<p><br><br></p>
+<p>What we are looking for:</p>
+<p>4+ years of working experience as a FullStack;</p>
+<p>Frontend:</p>
+<p>- React JS;</p>
+<p>- Design System;</p>
+<p>Backend:</p>
+<p>- Microservices architecture;</p>
+<p>- NodeJS; </p>
+<p>Database:</p>
+<p>- SQL;</p>
+<p>- MongoDB;</p>
+<p>Upper-intermediate or higher English level.</p>
+<p> </p>
+<p>Nice-to-have: </p>
+<p>Timezone: CET (+/- 3 hours);</p>
+<p>Database Architecture knowledge</p>
+<p><br><br></p>
+<p>What we offer:</p>
+<p>💻 100% remote work: Work from anywhere.</p>
+<p>👌🏻 Flexibility: The ability to change the project to another one.</p>
+<p>💵 Financial growth: Competitive compensation and performance-based increases.</p>
+<p>🧘🏻‍♂️ Freedom: Very flexible working schedule.</p>
+<p>🚀 360 degree growth: Opportunities for professional development and personal growth.</p>
+<p><br><br><br></p>
+<p>Your benefits with Proxify:</p>
+<p>Be part of Proxify community: Network with like-minded and enthusiastic individuals to make a difference. </p>
+<p>Make an impact: You get the opportunity to work on the projects that inspire you and add value to your career.</p>
+<p>Transparency: Contracts with transparency in earnings and working hours.</p>
+<p>Save your time: Fast and efficient hiring process to match you with the project of your preference.</p>
+<p>Ownership: Take ownership of your work and enjoy more freedom in your career.</p>
+<img src="https://remotive.com/job/track/1359476/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -619,7 +694,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -830,7 +905,7 @@
                     <code>developer,drupal,growth,design</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
@@ -855,7 +930,7 @@
                     <code>android,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
@@ -926,7 +1001,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -989,53 +1064,6 @@
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
 <img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1322995/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3>Fullstack Javascript Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,fullstack,go,javascript</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 27px; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects</p>
-<div class="h4" id="what-were-working-on" style="padding: 35px 0px; border-style: initial; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 600; font-stretch: normal; line-height: 1.1; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">What we're working on:</div>
-<p style="padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 27px; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries</p>
-<div class="h4" id="requirements" style="margin-top: 1rem; padding: 35px 0px; border-style: initial; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 600; font-stretch: normal; line-height: 1.1; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Requirements</div>
-<ul>
-<li>7+ years of professional experience (A technical assessment will be required)</li>
-<li>Senior-level experience in the front-end (React) and back-end (Node, Express, Mongo, SQL)</li>
-<li>Ability to create clean, modern, testable, well-documented code</li>
-<li>English fluency, verbal and written</li>
-<li>Professional, empathic, team player</li>
-<li>Problem solver, proactive, go-getter</li>
-</ul>
-<div class="h4" id="straight-from-the-devs" style="padding: 35px 0px; border-style: initial; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 600; font-stretch: normal; line-height: 1.1; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Straight from the Devs</div>
-<p style="padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 27px; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Watch short snippets of actual developers (Real, not scripted) share why they joined <a href="https://cleverte.ch/3" rel="nofollow" style="margin: 0px; padding: 0px; border-bottom-width: 1px; border-top-style: initial; border-right-style: initial; border-left-style: initial; border-bottom-color: #f9d247; font-style: inherit; font-variant: inherit; font-weight: 600; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38; text-decoration: none; transition: all 0.2s ease-in 0s;">YouTube Playlist</a></p>
-<div class="h4" id="why-clevertech-is-an-amazing-place-to-work-at" style="padding: 35px 0px; border-style: initial; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 600; font-stretch: normal; line-height: 1.1; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Why Clevertech is an amazing place to work at</div>
-<p style="padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 27px; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">At Clevertech, you can expect that you will:</p>
-<ul>
-<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
-<li>Be a part of a team of talented and friendly senior-level developers</li>
-<li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li>
-</ul>
-<p> </p>
-<p style="padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 27px; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.</p>
-<img src="https://remotive.com/job/track/1322995/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
