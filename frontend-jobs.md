@@ -1,30 +1,5 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/img/jobs/d9441ba413a50ee7ea336bfa544edfaa1659987499.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>FM</h5>
-                    <h3>
-					Senior Software Engineer Front End				</h3>
-                </td>
-                <td width="300">
-                    <code>javascript, react, front end</code>
-                </td>
-                <td width="200">
-                <text>10 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/111999" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Weâre hiring a Senior/Staff Front End Engineer to work on our web applications. These web applications are the way that thousands of creative people around the world find great music and inspiring clips for use in their projects and campaigns.</p><p><br /></p><p>As part of the Engineering team, your time will be spent collaborating with other front end engineers, back end engineers, product managers and designers to create the best experience for our customers. The ideal candidate loves tinkering with cutting edge technology and has at least 5 years experience building large scale React applications.</p><p><br /></p><p>The engineering team has a remote-first culture. As such, you will be comfortable working remotely, possess excellent verbal and written communication skills and be able to manage your own time. We have a relaxed working environment, great team culture and push for a standard of excellence in everything we do.</p><p><br /></p><p>There are a lot of challenging and interesting technical problems to solve that directly impact our clients and colleagues. Here are some example projects that we have worked on recently:</p><p><br /></p><ul><li>Build a custom audio player that includes the ability to track progress, expands to show additional details and allows users to easily explore our artist catalogue.</li><li>Enhance the purchase flow with additional payment options, subscriptions, and a seamless checkout.</li><li>Help maintain a beautiful custom React component library, including reusable components with tailored functionality and consistent design attributes.</li><li>Work on a multi-month greenfield project in Next.js.</li><li>Implement a robust CI/CD pipeline.</li></ul><p><br /></p><p>Weâre after individuals that are curious about the possibility of technology, are eager to learn, and are diligent and kind. Our teams work well because we place trust in them to succeed. We believe in collaboration and that great ideas can come from anybody.</p><p><br /></p><p>We welcome and encourage candidates from diverse backgrounds.</p><p><br /></p><p><br /></p><p><strong><u>About Us</u></strong></p><p><br /></p><p>FM is the parent company of Musicbed and Filmsupply, two premium content licensing brands in the filmmaking industry. We represent an elite roster of musicians and filmmakers and place their work in movies, shows, ads, short films, and more.</p><p><br /></p><p>Headquartered in Fort Worth, Texas, we work with entertainment powerhouses like Sony Pictures, 20th Century Fox, Lionsgate, Netflix, MTV, and ESPN; as well as the worldâs top brands like Nike, Apple, Google, Lamborghini, and Spotify.</p><p><br /></p><p><br /></p><p><strong><u>Core Duties</u></strong></p><p><br /></p><ul><li><strong>Lead the front end development of product features:</strong>Â As well as coding out complex features, you will contribute to the technical design process. You will collaborate with your teammates (including other senior engineers) to refine the product roadmap and vision, and guide your team in building out new features.</li><li><strong>Define technical direction:Â </strong>You will help maintain the standard of engineering excellence at FM and shape the technical vision for our front end engineering stack (React, Next.js, React Native). You will influence best practices and introduce new technologies when appropriate.</li><li><strong>Mentor other engineers:</strong>Â Work with more junior engineers to help them grow and develop their skills.</li></ul><p><br /></p><p><strong><u>A Great Candidate Will Have</u></strong></p><p><br /></p><ul><li>At least 5 years experience developing front end applications with React (and preferably Next.js).</li><li>A love of Typescript and unit-tested React components.</li><li>Highly skilled in HTML and CSS (including responsive design and cross-browser compatibility).</li><li>Proven technical leadership skills, including the ability to architect complex front-end web applications.</li><li>Excellent communication skills (written and verbal).</li><li>Experience in any of the following is a bonus: Webpack, Unstated, Cypress, React Native.</li></ul>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0006/6308/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -35,7 +10,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>90 days ago</text>
+                <text>91 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/slab-frontend-engineer" align="right" target="_blank">Apply</a>
@@ -101,7 +76,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-1347890" align="right" target="_blank">Apply</a>
