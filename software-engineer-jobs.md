@@ -11,7 +11,7 @@
                     <code>dev, defi, crypto</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112012" align="right" target="_blank">Apply</a>
@@ -21,194 +21,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <h2 dir="ltr"><br /></h2><h2 dir="ltr">What is the job?Â </h2><p dir="ltr">Do you enjoy the nuts and bolts of how code gets built, packaged, and executed? Appreciate the challenge of creating safe ways of executing untrusted third-party code? Want to spend every day discussing chewy problems with great people? Ready to never, ever look on Stack Overflow for an answer, because thereâs absolutely no chance anyone has had to solve what youâre solving? Youâve come to the right place.Â <strong></strong></p><p dir="ltr">Weâre building the worldâs first purpose-built engine for decentralized finance. Delivering safe, approachable, parallelizable programming suitable for global finance on an open distributed ledger. The big pieces of the design are done, the market test data is in, our community is building like crazy on our pre-alpha, and we know we have a hit on our hands.Â  Now we need to get the next big release across the line and then turn our sights to designing v-next-next.<strong></strong></p><p dir="ltr">We are seeking an Engineer with a hefty background in some mix of compilers, virtual machines, and systems design to help implement the execution layer backing our unique asset-oriented programming model.</p><p dir="ltr">Youâll start with a period of intense research while you come up the curve on the design and function of the Radix Engine. Then roll up your sleeves and get straight to building alongside folks who have years of experience thinking about the problem set. Your brain will bend in ways it wasnât meant to be bent, you will form lifelong bonds with a team of incredible people, and you will forever remember the journey!</p><h2 dir="ltr"><br /></h2><h2 dir="ltr">What are we looking for?Â </h2><ul><li dir="ltr"><p dir="ltr">You deeply understand everything that happens between code written in text files to program execution for at least one high-level language.</p></li><li dir="ltr"><p dir="ltr">You have a wealth of knowledge about compilers and interpreters that you never get to use at parties.</p></li><li dir="ltr"><p dir="ltr">Youâre familiar with the basis of some existing VM architectures, and can speak intelligently about the pros and cons of various design approaches.</p></li><li dir="ltr"><p dir="ltr">You have previously shipped production software, and understand the importance of timely solutions over academic elegance.</p></li></ul><p><strong><br /></strong></p><h2 dir="ltr">What do you need?</h2><ul><li dir="ltr"><p dir="ltr">4+ years as a professional Software Engineer.</p></li><li dir="ltr"><p dir="ltr">Strong debugging skills.</p></li><li dir="ltr"><p dir="ltr">Fluent in Rust, C, or C++.Â  Youâll be programming in Rust here.</p></li><li dir="ltr"><p dir="ltr">Familiarity with the underpinnings of LLVM and WASM is a plus.</p></li><li dir="ltr"><p dir="ltr">Solid understanding of computer architecture is also a plus.</p></li></ul><p><br /></p><h2 dir="ltr">Who are we?Â </h2><p dir="ltr">At RDX Works, we're a team of like-minded thinkers who have long been convinced that we're living in the earliest stages of a global financial revolution. This revolution is being fuelled by decentralized finance (or DeFi for short), which is enabling an assortment of pioneering developers and entrepreneurs to re-invent almost every financial product that is currently traded and invested in traditional markets, without requiring central authorities or siloed infrastructure. DeFi has captured a great deal of attention and investment in the crypto-aware niche, growing assets under management from $1 billion to over $200 billion in a few years. Impressive as its growth has been, its current market size isn't even a rounding error on the over $400 trillion held in traditional finance. We're focused on what it will take to go from billions to trillions.</p><p dir="ltr">RDX went back to first principles to come up with the right technical solutionâthe first layer-one protocol built specifically for mainstream DeFiâand we have already tested out at over 1 million transactions per second. We're keenly aware that the need for an infinitely scalable platform is only one prerequisite among many for mass adoption, and we're also blazing new ground in the areas of purpose-built developer tools, user experiences, and regulatory integration.</p><p dir="ltr">We have forged a path deep into the future of what distributed ledger technology is going to look like and we need you to come and be part of the team that is making that happen right now.</p><p dir="ltr">If this job sounds like it was made for you, then please apply directly via the link or if you donât have an up-to-date CV to apply with, please contact careers@rdx.works for more information.</p><p dir="ltr">Check out our company benefits here - <a href="https://www.rdx.works/careers">RDX Works Benefits</a></p><p dir="ltr">Alternatively, if you feel like you donât match all of the requirements, we would love you to still apply anyway. We understand that confidence gaps and imposter syndrome can get in the way of meeting incredible candidates and we wouldnât want this to prevent us from meeting you; especially as we are big advocates of helping people learn &amp; grow. This is also another reason we do not advertise salaries, we want to keep it as even a playing field as possible!Â </p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/2885/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Contra</h5>
-                    <h3> Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/contra-software-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/2885/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="https://contra.com/">https://contra.com/</a>
-</p>
-
-<div>Contra is an Independent-first community and commission-free hiring platform empowering the future of work. We match Independents with flexible opportunities and Clients with the perfect Independent for any project — from content creation to coding. We strongly believe that independence isn’t just a gig, it’s a way of life.</div><div><br></div><div>Welcome to Contra! We’re an empathetic, kind, and humble team looking for Software Engineers to join us in building the Future of Work and the best community for independents. This is a full-stack role, meaning you’ll have the opportunity to contribute across our web applications and backend services, while focusing on a specific part of the stack that plays to your strengths and preferences, like Frontend or Backend.</div><div><br></div><div>We build with cutting-edge technology and have even open-sourced some of our internal inventions, like <a href="https://github.com/contra/graphql-helix">GraphQL Helix</a> and <a href="https://github.com/contra/yarr">Yarr</a> that power our codebases. Our team loves to innovate to benefit everyone and deliver a top-notch Developer Experience for our internal team: fast pipelines, great API tooling, and the like. If this environment resonates with your engineering values, we’d love to talk to you!</div><div>
-<strong><br>How you’ll add value at Contra<br></strong><br>
-</div><ul>
-<li>Contribute to our rapidly growing React and NodeJS codebases — everything from our web application to our backend GraphQL API, to our internal services that power payments.</li>
-<li>Contribute well-tested, end-to-end TypeScript code. We use Jest, Cypress, and some other tooling of our own design to power our tests.</li>
-<li>Craft readable, performant, and scaleable SQL queries and database schemas to solve data modeling problems.</li>
-<li>Help improve our internal design system, codebase architecture, application performance, and Developer Experience.</li>
-<li>Participate in all parts of the product development process, like design critiques, code reviews, and cross-functional planning with your team.</li>
-</ul><div>
-<strong><br>You’ll be successful here if you<br></strong><br>
-</div><ul>
-<li>
-<strong>Mission-driven.</strong> Our mission truly resonates with you and you would like to be a part of what we are building together at Contra!</li>
-<li>
-<strong>A dedicated team player.</strong> You thrive in a collaborative, remote-only environment and you are comfortable with 8 am-12 pm PST core hours!</li>
-<li>
-<strong>Passionate about learning.</strong> Share a genuine curiosity for learning, always eager to pick up new skills. We don’t expect everyone to know everything but you learn quickly!</li>
-<li>
-<strong>Goal oriented.</strong> Understand what you need to do in order to achieve your goals without needing all of the bells and whistles.</li>
-<li>
-<strong>Committed to trying.</strong> Have the resilience and willingness to try and try again even if you fail after a few attempts!</li>
-<li>
-<strong>Ambitious attitude.</strong> You bring a strong work ethic and contagious energy to your team as we work towards our North Star.</li>
-<li>
-<strong>Path Paver.</strong> Joining a startup you enjoy taking ownership, building out processes and documentation that might not exist to share with your team members.</li>
-</ul><div>
-<strong><br>Our stack<br></strong><br>
-</div><ul>
-<li>Typescript</li>
-<li>Backend: NodeJS, GraphQL, GraphQL Helix, Redis, PostgreSQL</li>
-<li>DevOps: ArgoCD, Docker, GitHub, Google Cloud Platform, Kubernetes</li>
-<li>Frontend: React, Suspense, Relay, Stitches, <a href="http://three.js/">Three.js</a>, react-three-fiber, GLSL shaders</li>
-</ul><div>
-<strong><br>You will love Contra for our<br></strong><br>
-</div><ul>
-<li>🌎 Remote-only culture that is here to stay</li>
-<li>🍎 100% health coverage for US full-time employees, and health reimbursements for all international contractors</li>
-<li> 💸 $4,000 laptop reimbursement upon starting + additional equipment, co-working, education, and meetups</li>
-<li>💰 401k matching for US full-time employees</li>
-<li>💛 No-meeting Wednesdays</li>
-<li>🥬 Half days every third Friday of the month to enjoy a long weekend, reduce screen fatigue, and decompress</li>
-<li>👋 Generous time off — 2 week-long company-wide shutdowns per year, so we can all collectively relax together, in addition to paid time off and flex days to look after your wellbeing.</li>
-<li>👶  Flexible parental leave</li>
-<li>🌴 Annual team-wide off-site</li>
-<li>💁 A custom slack emoji, just for you!</li>
-</ul><div>
-<strong><br>Our interview process<br></strong><br>
-</div><ul>
-<li>Intro call (15-30 minutes)</li>
-<li>Complete a Technical assessment (2 hours maximum)</li>
-<li>Technical interview (30-45 minutes)</li>
-<li>Non-technical (culture) interview (30-45 minutes)</li>
-<li>Strengths-based technical interview (30-45 minutes)</li>
-<li>Cross-Functional Interview (45 minutes)</li>
-<li>High-level technical interview with CTO (30-45 minutes)</li>
-</ul><div>
-<strong><br>Salary + Equity Range<br></strong><br>
-</div><ul>
-<li>$130k - $160k USD</li>
-<li>Equity Value Range: $72k - $180k USD</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-software-engineer">https://weworkremotely.com/remote-jobs/contra-software-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Contra</h5>
-                    <h3> Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/contra-senior-software-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="https://contra.com/">https://contra.com/</a>
-</p>
-
-<div>Contra is an Independent-first community and commission-free hiring platform empowering the future of work. We match Independents with flexible opportunities and Clients with the perfect Independent for any project — from content creation to coding. We strongly believe that independence isn’t just a gig, it’s a way of life.</div><div><br></div><div>Welcome to Contra! We’re an empathetic, kind, and humble team looking for Software Engineers to join us in building the Future of Work and the best community for independents. This is a Senior full-stack role, meaning you’ll have the opportunity to contribute across our web applications and backend services, while focusing on a specific part of the stack that plays to your strengths and preferences, like Frontend or Backend.</div><div><br></div><div>We build with cutting-edge technology and have even open-sourced some of our internal inventions, like <a href="https://github.com/contra/graphql-helix">GraphQL Helix</a> and <a href="https://github.com/contra/yarr">Yarr</a> that power our codebases. Our team loves to innovate to benefit everyone and deliver a top-notch Developer Experience for our internal team: fast pipelines, great API tooling, and the like. If this environment resonates with your engineering values, we’d love to talk to you!</div><div>
-<strong><br>How you’ll add value at Contra<br></strong><br>
-</div><ul>
-<li>Contribute to our rapidly growing React and NodeJS codebases — everything from our web application to our backend GraphQL API, to our internal services that power payments.</li>
-<li>Contribute well-tested, end-to-end TypeScript code. We use Jest, Cypress, and some other tooling of our own design to power our tests.</li>
-<li>Craft readable, performant, and scaleable SQL queries and database schemas to solve data modeling problems.</li>
-<li>Help improve our internal design system, codebase architecture, application performance, and Developer Experience.</li>
-<li>Participate in all parts of the product development process, like design critiques, code reviews, and cross-functional planning with your team.</li>
-</ul><div>
-<strong><br>You’ll be successful here if you<br></strong><br>
-</div><ul>
-<li>
-<strong>Mission-driven.</strong> Our mission truly resonates with you and you would like to be a part of what we are building together at Contra!</li>
-<li>
-<strong>A dedicated team player.</strong> You thrive in a collaborative, remote-only environment and you are comfortable with 8 am-12 pm PST core hours!</li>
-<li>
-<strong>Passionate about learning.</strong> Share a genuine curiosity for learning, always eager to pick up new skills. We don’t expect everyone to know everything but you learn quickly!</li>
-<li>
-<strong>Goal oriented.</strong> Understand what you need to do in order to achieve your goals without needing all of the bells and whistles.</li>
-<li>
-<strong>Committed to trying.</strong> Have the resilience and willingness to try and try again even if you fail after a few attempts!</li>
-<li>
-<strong>Ambitious attitude.</strong> You bring a strong work ethic and contagious energy to your team as we work towards our North Star.</li>
-<li>
-<strong>Path Paver.</strong> Joining a startup you enjoy taking ownership, building out processes and documentation that might not exist to share with your team members.</li>
-</ul><div>
-<strong><br>Our stack<br></strong><br>
-</div><ul>
-<li>Typescript</li>
-<li>Backend: NodeJS, GraphQL, GraphQL Helix, Redis, PostgreSQL</li>
-<li>DevOps: ArgoCD, Docker, GitHub, Google Cloud Platform, Kubernetes</li>
-<li>Frontend: React, Suspense, Relay, Stitches, <a href="http://three.js/">Three.js</a>, react-three-fiber, GLSL shaders</li>
-</ul><div>
-<strong><br>You will love Contra for our<br></strong><br>
-</div><ul>
-<li>🌎 Remote-only culture that is here to stay</li>
-<li>🍎 100% health coverage for US full-time employees, and health reimbursements for all international contractors</li>
-<li> 💸 $4,000 laptop reimbursement upon starting + additional equipment, co-working, education, and meetups</li>
-<li>💰 401k matching for US full-time employees</li>
-<li>💛 No-meeting Wednesdays</li>
-<li>🥬 Half days every third Friday of the month to enjoy a long weekend, reduce screen fatigue, and decompress</li>
-<li>👋 Generous time off — 2 week-long company-wide shutdowns per year, so we can all collectively relax together, in addition to paid time off and flex days to look after your wellbeing.</li>
-<li>👶  Flexible parental leave</li>
-<li>🌴 Annual team-wide off-site</li>
-<li>💁 A custom slack emoji, just for you!</li>
-</ul><div>
-<strong><br>Our interview process<br></strong><br>
-</div><ul>
-<li>Intro call (15-30 minutes)</li>
-<li>Complete a Technical assessment (2 hours maximum)</li>
-<li>Technical interview (30-45 minutes)</li>
-<li>Non-technical (culture) interview (30-45 minutes)</li>
-<li>Strengths-based technical interview (30-45 minutes)</li>
-<li>Cross-Functional Interview (45 minutes)</li>
-<li>High-level technical interview with CTO (30-45 minutes)</li>
-</ul><div>
-<strong><br>Salary + Equity Range<br></strong><br>
-</div><ul>
-<li>$130k - $160k USD</li>
-<li>Equity Value Range: $72k - $180k USD</li>
-</ul><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-senior-software-engineer">https://weworkremotely.com/remote-jobs/contra-senior-software-engineer</a></p>
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -223,7 +35,7 @@
                     <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1352183" align="right" target="_blank">Apply</a>
@@ -264,7 +76,7 @@
                     <code>api,AWS,backend,C</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-python-1350221" align="right" target="_blank">Apply</a>
@@ -346,7 +158,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -414,7 +226,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -476,7 +288,7 @@
                     <code>cloud,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1342235" align="right" target="_blank">Apply</a>
