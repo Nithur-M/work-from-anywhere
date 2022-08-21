@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pspdfkit-product-manager" align="right" target="_blank">Apply</a>
@@ -76,91 +76,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1327988/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>IOHK</h5>
-                    <h3>Principal Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>marketing,product manager,sales,blockchain</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/principal-product-manager-1327988" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>IO Global is searching for a Principal Product Manager to join their Stablecoins team. As Principal Product Manager, you will oversee a product line from end to end, from inception and ideation through to implementation. You will report to the Director of Product Management with regular milestone updates and progress on strategic objectives. You will be tasked to develop a strategy around IOG’s role in your respective vertical, rationalize and elaborate a strong offering by capitalizing on existing products of our ecosystem and on emerging opportunities.</p>
-<p><strong>Your mission </strong></p>
-<ul>
-<li>Tightly collaborate with CPO to develop and drive strategy, global product vision and goals for stablecoin initiatives.</li>
-<li>Manage product lifecycle from strategic planning to tactical activities. Oversee all product roadmaps for stablecoin products</li>
-<li>Be a product advocate, subject matter expert and evangelist</li>
-<li>Be actively involved with the community, ecosystem stakeholders and partners</li>
-<li>Collaborate with CFund to implement DEFI strategy, including integration of 3rd party Stablecoins and bridges</li>
-<li>Identify product objectives that contribute to the overall business objectives and strategy and ensure proper alignment across teams</li>
-<li>Be a Technical Product leader and create strong and effective relationships with our engineering teams</li>
-<li>Provide technical guidance in evaluating applications systems or evaluating requests for proposals.</li>
-<li>Elaborate recurring technical benchmark of stablecoins products to orient our product decision and market positioning</li>
-<li>Leverage technical intelligence to identify emerging players, potential partners and support our build/buy strategy for stablecoins</li>
-<li>Conduct market research, market surveillance and customer visits to understand and specify requirements for target markets</li>
-<li>Collaborate with product marketing, product design and ecosystem teams to understand industry and community needs.</li>
-<li>Ensure successful launch and positioning of our offerings</li>
-<li>Analyze competitive landscape</li>
-<li>Execute roadmap strategies and bring valuable, highly differentiated and elegantly designed capabilities to market</li>
-<li>Work with operations to gain awareness of potential defects and prioritize their resolution in the product release plan and roadmap</li>
-<li>Work with other Product Managers on product roadmap integration points</li>
-<li>Provide support to the sales group on product selection, presentations and pricing strategy.</li>
-<li>Work in an Agile Product Development process. Take an active role in PI planning to create well thought-out and consumable user stories.</li>
-</ul>
-<p><strong>Requirements</strong></p>
-<p><strong>Your expertise </strong></p>
-<ul>
-<li>A BS/MS in Computer Science (or equivalent)</li>
-<li>Product Management certification is a plus (CPM, AIPMM)</li>
-<li>Experience as a Product Manager</li>
-<li>A background in distributed computing and experience with blockchain technologies.</li>
-<li>At least 1 year of business experience of blockchain or cryptocurrency technology.</li>
-<li>Experience working in an Agile environment and leading highly technical engineering teams.</li>
-<li>Experience implementing processes to define metrics and measure the success of products that are launched.</li>
-<li>Experience working with software development and marketing teams, preferably in fintech.</li>
-<li>Experience implementing processes to define metrics and measure the success of products that are launched.</li>
-<li>Experience leading highly technical engineering, design and business teams.</li>
-<li>Proven ability in developing productive relationships with a variety of levels and roles and managing user expectations effectively.</li>
-</ul>
-<p><strong>Benefits</strong></p>
-<p><strong>Location</strong></p>
-<p>IOG is a fully distributed organization and therefore this is a remote position. Due to team distribution we are ideally searching for someone in an European timezone.</p>
-<p><strong>All Colleagues</strong></p>
-<ul>
-<li>Flexible schedule</li>
-<li>Remote work - ability to work anywhere</li>
-<li>Laptop reimbursement</li>
-<li>New starter package to buy hardware essentials (headphones, monitor, etc)</li>
-<li>Learning &amp; Development Opportunities</li>
-<li>Competitive PTO and Sick Leave plan</li>
-</ul>
-<p><strong>US Employees</strong></p>
-<ul>
-<li>Medical, Dental, and Vision benefits coverage through Anthem with 100% premium cost covered by IO Global for the employee and dependents</li>
-<li>Health Savings Account</li>
-<li>Life Insurance</li>
-</ul>
-<p><strong>UK Employees</strong></p>
-<ul>
-<li>Monthly Health Stipend to use towards any wellness or medical coverage/service</li>
-<li>Pension</li>
-</ul>
-<img src="https://remotive.com/job/track/1327988/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1339868/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -171,7 +86,7 @@
                     <code>android,education,go,ios</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/senior-product-manager-mobile-1339868" align="right" target="_blank">Apply</a>
