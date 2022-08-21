@@ -11,7 +11,7 @@
                     <code>ux, leader, management</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112153" align="right" target="_blank">Apply</a>
@@ -35,7 +35,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/viva-translate-inc-disenador-a-web-ux-senior" align="right" target="_blank">Apply</a>
@@ -119,7 +119,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/tixel-product-designer-ux-ui-2" align="right" target="_blank">Apply</a>
@@ -186,83 +186,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4850/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TestGorilla</h5>
-                    <h3> UX Design Team Lead</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/testgorilla-ux-design-team-lead" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/4850/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Amsterdam
-    <br /><strong>URL:</strong> <a href="https://www.testgorilla.com/">https://www.testgorilla.com/</a>
-</p>
-
-<div>Hi,</div><div><br></div><div>I’m Michel, the Head of Product at TestGorilla. We’re a fast-growing HR tech startup that helps teams make better hiring decisions, faster and bias-free.</div><div><br></div><div>Over the past year, we’ve experienced tremendous growth. More than 5,700 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way.</div><div><br></div><div>As we scale our efforts in 2022 and beyond, we’re looking for a <strong>UX Design Team </strong>Lead who’s passionate about creating amazing product experiences and helping people land dream jobs.</div><div>
-<br><br>
-</div><h1><strong>What’s in it for you?</strong></h1><ul>
-<li>Helping shape a fast-growing HR tech startup as an early employee</li>
-<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
-<li>Competitive salary + Share appreciation rights (SARs)</li>
-<li>Flexible hours and vacation</li>
-<li>Paid parental leave </li>
-<li>Remote working budget: €1,000 per year</li>
-<li>Learning and development budget: 3.5% of salary</li>
-</ul><div>
-<br><br>
-</div><h1>The job in a nutshell</h1><div>As our first <strong>UX Design Team Lead</strong>, you will be a formative part of the early UX design team as well as an essential part of the leadership of the Product team. You will recruit, train, grow and drive the UX Design team. </div><div>You will be directly involved in all UX design initiatives and ensure the quality and standard of our product. You will report directly to the Head of Product and collaborate across all departments. </div><div><br></div><div>This is an amazing opportunity for a UX Design Team Lead that is looking to embark on an entrepreneurial journey and is ready to put a dent in the universe! </div><div>
-<br><br>
-</div><h1><strong>You’ll spend time on the following:</strong></h1><ul>
-<li>Creating, managing and growing a team of UX designers and researchers</li>
-<li>Implementing and optimizing workflows between collaborating teams</li>
-<li>Identifying what freelance/agency resources we need to support our internal in-house team, finding that resource and ensuring it delivers to the same high standards as we hold our internal team</li>
-<li>Managing and reviewing the team’s work to ensure high product quality </li>
-<li>Managing and improving TestGorilla’s product roadmap from a design perspective</li>
-<li>Understanding and reviewing the performance results of your team and sharing this with the broader product team</li>
-<li>Being a technical coach for the UX design team to ensure continuous growth</li>
-<li>Liaising with Marketing design to ensure consistent use of our Brand throughout all of our communications and on into the Product itself</li>
-<li>Being an integral part of the leadership of the larger Product department </li>
-</ul><div><br></div><div><br></div><h1><strong>Here's what we are looking for:</strong></h1><ul>
-<li>You are inspired by our mission to put <em>one billion people in dream jobs</em>
-</li>
-<li>You are fully aligned with our <a href="https://www.testgorilla.com/careers/">values </a>
-</li>
-<li>You have experience leading a team of in-house UX designers and researchers from research to high-quality execution, including testing the designs and iterating to improve performance</li>
-<li>You have a Product Design or<a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/ux-ui-design-test/"> UI/UX design</a> portfolio with multiple case studies of products you worked on</li>
-<li>You have a strong ability to balance hands-on execution and strategy</li>
-<li>You can think through complex interaction problems with a systematic approach and attention to detail</li>
-<li>You have experience creating complex interaction design, user experiences, flows and prototypes with high-fidelity visuals</li>
-<li> You can handle multiple projects at the same time and are able to adjust priorities as our business needs change</li>
-<li>You are comfortable with the ambiguity and pace of an early-stage startup</li>
-</ul><div><br></div><div><em>We typically expect candidates with at least 5  y. of experience in UX Design Team Lead or similar positions to have the skills mentioned above.</em></div><div><br></div><div><br></div><h1><strong>Bonus points if…</strong></h1><ul>
-<li>You have experience working in a high growth product-led startup</li>
-<li>You have domain experience working in HR-tech and/or SaaS<br><br>
-</li>
-</ul><div><br></div><h1><strong>Interested?</strong></h1><div>We don’t offer rainbow glitter unicorns or dog-friendly offices (we literally don’t have an office), but we do offer real people, solid core values, and a product meant to give everyone a fair, unbiased chance at their dream jobs.</div><div>
-<br>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions, faster and bias-free. </div><div>
-<br>So if this role sounds like a good fit for you, I’d like you to take an assessment so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product!</div><div>
-<br>If you’re hired, I’ll do everything I can to help you succeed at TestGorilla and throughout the rest of your career.</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-ux-design-team-lead">https://weworkremotely.com/remote-jobs/testgorilla-ux-design-team-lead</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -273,7 +196,7 @@
                     <code>contract,go,ui,ux</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
