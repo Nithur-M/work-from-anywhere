@@ -11,7 +11,7 @@
                     <code>full stack, tech, front end</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112035" align="right" target="_blank">Apply</a>
@@ -35,7 +35,7 @@
                     <code>developer,javascript,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-customer-solutions-team-1224255" align="right" target="_blank">Apply</a>
@@ -87,7 +87,7 @@
                     <code>ADS,AWS,backend,C++</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-1339259" align="right" target="_blank">Apply</a>
