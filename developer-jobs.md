@@ -1,5 +1,30 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/cf6b9836c295b2b369aa5d9e0c4ee7271660968004.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Upshot</h5>
+                    <h3>
+					Developer Advocate				</h3>
+                </td>
+                <td width="300">
+                    <code>developer, nft, financial</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/112161" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Upshot is the preeminent company providing appraisal services for NFTs and unique digital assets. Leveraging cutting-edge machine learning models, Upshot produces accurate, real-time appraisals for almost any NFT. Our products create a broad new frontier for NFT markets, enabling an entirely new class of financial primitives.We are a team of crypto-natives and ML experts, with deep experience working on some of the leading projects in Web3, and backed by the foremost funds and angels in crypto. At Upshot, we are committed to nurturing top talent looking to make an impact at the forefront of this new frontier.Developer relations is a highly visible and critical function. In this role, you will connect with, inspire, and educate developers on all the capabilities of Upshot. This is a full-time position.Â We are looking for a Developer Advocate to work alongside our engineers with our community. This is a unique opportunity for an engineer who wants to gain hands-on experience in a fast-growing tech industry and enjoys supporting developer teams. The ideal candidate likes writing, public speaking, documentation, and who is outgoing and enjoys educating others.Upshot is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteOK.com/assets/img/jobs/2293b9dc75996a1157c02d8e1dc9e24e1660755332.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -11,7 +36,7 @@
                     <code>dev, javascript, react</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112140" align="right" target="_blank">Apply</a>
@@ -35,7 +60,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/yassi-react-frontend-developer" align="right" target="_blank">Apply</a>
@@ -65,56 +90,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/5929/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3> Frontend Developer (Canadian Visa Sponsorship Opportunity)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clevertech-frontend-developer-canadian-visa-sponsorship-opportunity-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/5929/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
-</p>
-
-<div>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects</div><div>
-<br><strong>What we're working on:</strong>
-</div><div>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries</div><div><strong><br>Requirements</strong></div><ul>
-<li>7+ years of professional experience (A technical assessment will be required)</li>
-<li>Senior-level experience with Javascript, React, Redux, Websockets, Async/Await</li>
-<li>Ability to create clean, modern, testable, well-documented code</li>
-<li>English fluency, verbal and written</li>
-<li>Professional, empathic, team player</li>
-<li>Problem solver, proactive, go getter</li>
-</ul><div><strong>Straight from the Devs</strong></div><div>Watch short snippets of actual developers (Real, not scripted) share why they joined <a href="https://cleverte.ch/3"><strong>YouTube Playlist</strong></a>
-</div><div>
-<br><strong>Why Clevertech is an amazing place to work at</strong>
-</div><div>At Clevertech, you can expect that you will:</div><ul>
-<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
-<li>Be a part of a team of talented and friendly senior-level developers</li>
-<li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li>
-</ul><div>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-frontend-developer-canadian-visa-sponsorship-opportunity-1">https://weworkremotely.com/remote-jobs/clevertech-frontend-developer-canadian-visa-sponsorship-opportunity-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7299/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -125,7 +100,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-java-backend-developer-full-time-unlimited-contractor" align="right" target="_blank">Apply</a>
@@ -213,63 +188,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5246/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bottomless</h5>
-                    <h3> Senior Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/5246/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Seattle, Wa
-    <br /><strong>URL:</strong> <a href="https://www.bottomless.com/">https://www.bottomless.com/</a>
-</p>
-
-<div>We are a fast-growing startup with a product used by thousands of consumers every day.<br><br>We are looking for a jack-of-all-trades <strong><em>senior</em></strong> javascript/full stack developer.<br><br>The ideal candidate for this position would be able to dive into any kind of project, from frontend UI/UX tasks in React.js to backend tasks running on Node.js.<br><br>If you’re interested in variety and working hard to build something big, this might be a good fit.<br><br>We need to achieve <em>80% of the results with 20% of the effort</em>.<br><br><strong>Responsibilities:</strong>
-</div><ul>
-<li>Design and build infrastructure and products for a sensor-enabled e-commerce marketplace.</li>
-<li>Build robust infrastructure to support existing product lines and the ability to roll out new ones.</li>
-<li>Responsibility over the user-facing product</li>
-<li>Quick iteration on different fronts from fronted UX changes to database design to quick and dirty implementations.</li>
-<li>Responsible for full deployment and testing of applications.</li>
-</ul><div><br></div><div><strong>Skill, Qualifications, and Experience:</strong></div><div><br></div><div><em>Expert proficiency required:</em></div><ul>
-<li>Node.js</li>
-<li>NoSQL databases</li>
-<li>React.js</li>
-<li>English (written and verbal)</li>
-</ul><div><br></div><div><em>Intermediate proficiency, at a minimum:</em></div><ul>
-<li>UI/UX design</li>
-<li>Software architecture</li>
-</ul><div>
-<br>Not required, but a plus:</div><ul>
-<li>Python (background tasks)</li>
-<li>Embedded systems (C++)</li>
-</ul><div> <br><strong>Details:</strong>
-</div><ul>
-<li>Remote OK. Must be flexible with hours as we have a remote international team.</li>
-<li>Competitive equity and cash compensation</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-1">https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/5800/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -280,7 +198,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>63 days ago</text>
+                <text>64 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone" align="right" target="_blank">Apply</a>
@@ -395,7 +313,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>92 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testdome-frontend-developer-vue-js-asp-net-core-1" align="right" target="_blank">Apply</a>
@@ -440,48 +358,49 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3719/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7735/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Toptal</h5>
-                    <h3> Senior Full-Stack Developer</h3>
+                    <h5>G2i Inc.</h5>
+                    <h3> Mid-Senior or Senior React Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>331 days ago</text>
+                <text>150 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/toptal-senior-full-stack-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/g2i-inc-mid-senior-or-senior-react-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0071/3719/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0074/7735/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong>  Wilmington, DE
-    <br /><strong>URL:</strong> <a href="https://www.toptal.com/">https://www.toptal.com/</a>
+  <strong>Headquarters:</strong> Delray Beach, FL
+    <br /><strong>URL:</strong> <a href="https://g2i.co">https://g2i.co</a>
 </p>
 
-<div><strong><em>Design your full-time freelance career as a top freelance developer with Toptal. </em></strong></div><div><br></div><div>Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. </div><div><br></div><div>Toptal is an elite talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere.<strong> Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </strong>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. </div><div><br></div><div>As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. </div><div><br></div><div>That’s why the world’s top 3% of developers choose Toptal. Developers in our elite network share:</div><ul>
-<li>English language proficiency</li>
-<li>
-<strong>3+ years</strong> of professional experience in software development</li>
-<li>Solid experience with <strong>React.js, Ruby on Rails, Go</strong> or/and <strong>Node.js</strong> is a strong advantage</li>
-<li>Project management skills</li>
-<li>A keen attention to detail</li>
-<li>Experience with system architecture or leading a software team is a strong advantage</li>
-<li>
-<strong>Full-time availability</strong> is a strong advantage<br><br>
-</li>
-</ul><div><br></div><div>Curious to know how much you could make? Check out our developer rate calculator: <a href="https://topt.al/BGcrNP">https://topt.al/BGcrNP</a>
-</div><div><br></div><div>If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/MbcZDV"><strong>https://topt.al/MbcZDV</strong></a>
-</div><div><br></div>
+<div>We’re looking for a Mid-Senior or Senior React Developer that would like to work on products ranging from cutting-edge FinTech and Crypto to traditional Food and Beverage industries and everything in between, depending on their own preferences. Even though it's a contracting position, the vast majority of developers that finish a project with us simply move to another one, and many stay with us for several years. </div><div><br></div><div>If you’re curious why we have such a high contractor retention rate, you should read the About G2i section below. You won't regret it.</div><div><br></div><div>Must-haves:</div><ul>
+<li>Fluent in both spoken and written English - clear communication is required, perfect grammar is not.</li>
+<li>Willingness to complete a 6-8 hour code challenge - test once and never again</li>
+<li>32-40 hours per week of availability</li>
+<li>Mid-Senior or Senior level (3+ years of professional experience)</li>
+<li>1+ year of professional experience with React and/or React Native</li>
+</ul><div><br></div><div>Nice-to-haves (but really just optional): </div><ul>
+<li>Full stack experience (Rails or Node.js)</li>
+<li>Experience with Apollo Client &amp; GraphQL</li>
+<li>Experience with web deployment tooling and processes</li>
+</ul><div><br></div><div>This role is perfect for you if: </div><ul>
+<li>You are comfortable working remote — We are a 100% remote first company and have been since 2016.</li>
+<li>You value work life balance — We want you to enjoy your life outside of work and be able to prioritize your physical/mental health. Our leadership models this behavior, it's not just lip service.</li>
+<li>You want to work for the company that’s leading the charge towards better work environments with the Developer Health movement.</li>
+</ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toptal-senior-full-stack-developer">https://weworkremotely.com/remote-jobs/toptal-senior-full-stack-developer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/g2i-inc-mid-senior-or-senior-react-developer">https://weworkremotely.com/remote-jobs/g2i-inc-mid-senior-or-senior-react-developer</a></p>
 
                 </details>
                 </td>
@@ -497,7 +416,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>331 days ago</text>
+                <text>332 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-front-end-developer" align="right" target="_blank">Apply</a>
@@ -533,84 +452,49 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1322995/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Storetasker</h5>
-                    <h3> Senior Shopify Developer (Remote + Flexible)</h3>
+                    <h5>Clevertech</h5>
+                    <h3>Fullstack Javascript Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>571 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/8032/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Brooklyn, NY
-    <br /><strong>URL:</strong> <a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_expert">https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_expert</a>
-</p>
-
-<h1>Shopify developers love to freelance with Storetasker.</h1><ul>
-<li>
-<strong>Endless, quality clients: </strong>from well known DTC brands to top agencies. </li>
-<li>
-<strong>Fully remote, flexible: </strong>work as much or as little as you want, wherever you want. </li>
-<li>
-<strong>A talented and helpful community: </strong>it's freelance (with a team).</li>
-<li>
-<strong>Earn $80-$120 per hour: </strong>pick your clients, and send your own quotes or retainers. <br><br>
-</li>
-</ul><div>We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: <a href="https://www.alphaindustries.com/">Alpha Industries</a>, <a href="https://www.bollandbranch.com/">Boll &amp; Branch</a>, <a href="https://getsuperfluid.com">Superfluid</a>, <a href="https://jackhenry.co/">Jack Henry</a>, <a href="http://plenaire.co/">Plenaire</a>, and <a href="https://walkfulton.com/">Fulton</a> among many more. <br><br><strong>Why Storetasker?</strong>
-</div><ul>
-<li>
-<strong>Endless clients &amp; project opportunities:</strong> you’ll see between 5 - 50 new opportunities per day and can pick any lead you want. </li>
-<li>
-<strong>You’ll earn more:</strong> some experts are making $150-200k per year. </li>
-<li>
-<strong>A high quality community:</strong> we carefully select about 5% of those who apply. </li>
-<li>
-<strong>Remote:</strong> work from anywhere, anytime. </li>
-<li>
-<strong>Flexible:</strong> take on as many clients as you want.</li>
-<li>
-<strong>No external ratings:</strong> you’re already a professional. No need to prove it. </li>
-<li>
-<strong>Great Software:</strong> that makes it easy to manage more clients and increase billable hours.</li>
-<li>
-<strong>Support when you need it:</strong> we offer project support 7 days per week. </li>
-<li>
-<strong>Community (not competition):</strong> you pick your clients, projects, and never compete against other Experts in the community. </li>
-</ul><div><br></div><div>
-<a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>Learn more and join</strong></a>! It’s confidential, and takes less than 5 minutes. <br><br><strong>Here's who we're looking for:</strong>
-</div><ul>
-<li>Ambitious part time and full-time freelancers and boutique agencies.</li>
-<li>Who have 3+ years of Shopify experience, and 5+ years of web development experience. </li>
-<li>And who have managed projects, deadlines, and communication successfully. </li>
-</ul><div>
-<br><strong>Especially people with some of these skills:</strong>
-</div><ul>
-<li>Front-end or full-stack Shopify development</li>
-<li>Klaviyo Email flows</li>
-<li>Headless e-commerce development</li>
-<li>Conversion rate optimization</li>
-<li>E-commerce expertise and strategy</li>
-<li>SEO </li>
-<li>Site Speed</li>
-<li>Builder and/or Shogun</li>
-</ul><div>
-<br><a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>It takes just a few minutes to join.</strong></a><br><br><strong>Here's what a few current members have to say:</strong><br><br>"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!" - Adan, United States, Storetasker Expert since March 2020<br><br>"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”" - Mark, England, Storetasker Expert since 2019<br><br>"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow." - Siah, Canada, Storetasker Expert since 2017<br><br><strong>Our Mission: </strong><br><br>We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.  <br><br><strong>Questions?</strong> Reach out at experts@storetasker.com.</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1">https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1</a></p>
-
+                <p style="padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 27px; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects</p>
+<div class="h4" id="what-were-working-on" style="padding: 35px 0px; border-style: initial; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 600; font-stretch: normal; line-height: 1.1; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">What we're working on:</div>
+<p style="padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 27px; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries</p>
+<div class="h4" id="requirements" style="margin-top: 1rem; padding: 35px 0px; border-style: initial; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 600; font-stretch: normal; line-height: 1.1; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Requirements</div>
+<ul>
+<li>7+ years of professional experience (A technical assessment will be required)</li>
+<li>Senior-level experience in the front-end (React) and back-end (Node, Express, Mongo, SQL)</li>
+<li>Ability to create clean, modern, testable, well-documented code</li>
+<li>English fluency, verbal and written</li>
+<li>Professional, empathic, team player</li>
+<li>Problem solver, proactive, go-getter</li>
+</ul>
+<div class="h4" id="straight-from-the-devs" style="padding: 35px 0px; border-style: initial; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 600; font-stretch: normal; line-height: 1.1; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Straight from the Devs</div>
+<p style="padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 27px; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Watch short snippets of actual developers (Real, not scripted) share why they joined <a href="https://cleverte.ch/3" rel="nofollow" style="margin: 0px; padding: 0px; border-bottom-width: 1px; border-top-style: initial; border-right-style: initial; border-left-style: initial; border-bottom-color: #f9d247; font-style: inherit; font-variant: inherit; font-weight: 600; font-stretch: inherit; line-height: inherit; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38; text-decoration: none; transition: all 0.2s ease-in 0s;">YouTube Playlist</a></p>
+<div class="h4" id="why-clevertech-is-an-amazing-place-to-work-at" style="padding: 35px 0px; border-style: initial; font-variant-numeric: normal; font-variant-east-asian: normal; font-weight: 600; font-stretch: normal; line-height: 1.1; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">Why Clevertech is an amazing place to work at</div>
+<p style="padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 27px; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">At Clevertech, you can expect that you will:</p>
+<ul>
+<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
+<li>Be a part of a team of talented and friendly senior-level developers</li>
+<li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li>
+</ul>
+<p> </p>
+<p style="padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 27px; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.</p>
+<img src="https://remotive.com/job/track/1322995/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -625,7 +509,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -694,7 +578,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -905,7 +789,7 @@
                     <code>developer,drupal,growth,design</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
@@ -930,7 +814,7 @@
                     <code>android,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
@@ -1001,7 +885,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
