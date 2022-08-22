@@ -1,81 +1,5 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/5946/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>PSPDFKit</h5>
-                    <h3> Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/pspdfkit-product-manager" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/5946/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Vienna, Austria
-    <br /><strong>URL:</strong> <a href="https://pspdfkit.com">https://pspdfkit.com</a>
-</p>
-
-<div><strong>What you will do...</strong></div><div><br></div><div>At PSPDFKit, Product Managers are internal champions for our customers and essential partners to our engineering, support, marketing and sales teams. As a Product Manager, you will take product ownership for several products from our product portfolio and their respective teams.</div><div><br></div><div>You will partner with:</div><ul>
-<li>
-<strong>Support</strong> to gather, learn, and analyze our customers' needs, ensure best-in-class customer experience across multiple products and ensure customer satisfaction;</li>
-<li>
-<strong>Engineering</strong> to groom features and components, envision and scope product MVPs and help plan development cycles aligned with product objectives;</li>
-<li>
-<strong>Marketing</strong> to help communicate our products to the market with DEMOs and guides, bring clarity for compelling product messaging and be up-to-date with market trends;</li>
-<li>
-<strong>Sales</strong> to help differentiate our products from competitors, present a clear and compelling offer to new customers and enable revenue growth;</li>
-<li>
-<strong>Customers</strong> to communicate our development roadmap and maintain a continuous feedback loop;</li>
-<li>
-<strong>Product</strong>: to help grow our product organization and facilitate product licensing and packaging.</li>
-</ul><div><br></div><div>Your responsibilities will include:</div><ul>
-<li>
-<strong>Product Roadmap.</strong> You will work closely with multiple teams to build and execute on the product roadmap, identifying and prioritizing features through customer insights that improve customer engagement and grow revenue. </li>
-<li>
-<strong>Customer Feedback</strong>. You will engage our customers to understand their challenges and needs, manage and curate our database of customer insights, balancing existing priorities with these inputs and translating them into clear product updates for multiple products.</li>
-<li>
-<strong>Domain Authority</strong>. You will strive to gain, evolve and document domain knowledge through research and by keeping a constant foothold into industry trends.</li>
-<li>
-<strong>Influence</strong>: You will help define product strategy, evaluate and balance trade-offs between functional work and technical debt.</li>
-<li>
-<strong>Leadership</strong>:  You will lead product initiatives, develop milestones,  and be accountable for delivery of product through partnerships and collaboration.</li>
-<li>
-<strong>Enablement</strong>: You will continuously enable other departments to execute by partnering with them, understanding their needs and proactively helping them with clarity, guidance, vision and oversight.</li>
-</ul><div><br></div><div><strong>About you…</strong></div><div><br></div><ul>
-<li>3+ years experience in software product management or relevant experience in adjacent roles;</li>
-<li>Strong technical understanding of how software products are built and integrated with other services and APIs;</li>
-<li>Experience managing technical software products from kick-off to ship;</li>
-<li>Experience leading and coordinating with cross-functional teams and prioritizing high impact activities;</li>
-<li>Adept at pairing data with product intuition to always keep product decisions data-informed and always moving forward;</li>
-<li>Understanding of UI/UX design concepts and principles;</li>
-<li>Exceptional presentation, communication and organizational skills;</li>
-<li>Ability to turn incomplete, conflicting, or ambiguous inputs into solid action plans;</li>
-<li>Not only shipped new products, but is obsessed about continuous product improvement;</li>
-<li>Ability to optimize activities for shipping a portfolio of small, medium and large releases.</li>
-</ul><div>It would be great if you have:</div><ul>
-<li>Experience working in a Product Organization with Product Managers as peers;</li>
-<li>Engineering and/or UX/UI experience;</li>
-<li>Experience with ProductBoard;</li>
-<li>Understanding or experience with Agile/Scrum.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pspdfkit-product-manager">https://weworkremotely.com/remote-jobs/pspdfkit-product-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1339868/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -86,7 +10,7 @@
                     <code>android,education,go,ios</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/senior-product-manager-mobile-1339868" align="right" target="_blank">Apply</a>
