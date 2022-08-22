@@ -11,7 +11,7 @@
                     <code>developer, nft, financial</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112161" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>dev, javascript, react</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112140" align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/yassi-react-frontend-developer" align="right" target="_blank">Apply</a>
@@ -100,7 +100,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-java-backend-developer-full-time-unlimited-contractor" align="right" target="_blank">Apply</a>
@@ -188,6 +188,70 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2545/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>RealTools.com</h5>
+                    <h3> Senior Front End Developer (UX)</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/realtools-com-senior-front-end-developer-ux" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/2545/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Global
+    <br /><strong>URL:</strong> <a href="http://realtools.com">http://realtools.com</a>
+</p>
+
+<div>
+<strong>About RealTools<br></strong><br>
+</div><div>There are over 4 million real estate agents in the world. On average, a real estate agent uses 14 different tools for their business. There are thousands of options for each tool. Tools can be like website management applications, CRM, email marketing applications, etc.<br><br>
+</div><div>RealTools is a startup community-focused application that will be made for real estate agents. Using RealTools, real estate agents will be able to search and filter through all the tools available to them and find the best one for their needs.<br><br>
+</div><div>
+<strong>About the Job<br></strong><br>
+</div><div>We are looking for a senior UX/UI Developer to join our team. As the UX/UI Developer, you will play the most important role. You will create the application interface that will be used by millions of real estate agents.<br><br>
+</div><div>You will have autonomy in developing your designs, from concept to execution, but you won't be alone. You will be part of a cross-functional team. Product managers will help you understand where your work fits in our roadmap; data analysts will help you define metrics and measure success; developers will help you make your designs come to life.<br><br>
+</div><div>You must be able to create UX designs from scratch.<br><br>
+</div><div><strong>TYPE OF SKILLS NEEDED</strong></div><ul>
+<li>an expert in html5/css3/javascript</li>
+<li>very comfortable coding in modern frameworks</li>
+<li>dedicated experience creating UX interfaces</li>
+<li>able to design UX interfaces directly<br><br>
+</li>
+</ul><div><strong>TYPE OF PERSON NEEDED</strong></div><ul>
+<li>very detailed originated</li>
+<li>loves working on new innovating applications</li>
+<li>very focused</li>
+<li>team player</li>
+<li>a true artist</li>
+<li>passionate about their craft</li>
+</ul><div>
+<br><br>
+</div><div><strong>WHAT WE OFFER</strong></div><ul>
+<li>focused on happiness first</li>
+<li>flexible schedule</li>
+<li>continuous growth opportunity</li>
+<li>be part of something that will have a big positive impact in the world</li>
+<li>bonuses as the company grows</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/realtools-com-senior-front-end-developer-ux">https://weworkremotely.com/remote-jobs/realtools-com-senior-front-end-developer-ux</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/5800/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -198,7 +262,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>64 days ago</text>
+                <text>65 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone" align="right" target="_blank">Apply</a>
@@ -313,7 +377,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>92 days ago</text>
+                <text>93 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testdome-frontend-developer-vue-js-asp-net-core-1" align="right" target="_blank">Apply</a>
@@ -368,7 +432,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>150 days ago</text>
+                <text>151 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/g2i-inc-mid-senior-or-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -416,7 +480,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>332 days ago</text>
+                <text>333 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-front-end-developer" align="right" target="_blank">Apply</a>
@@ -462,7 +526,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -509,7 +573,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -578,7 +642,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -789,7 +853,7 @@
                     <code>developer,drupal,growth,design</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
@@ -814,7 +878,7 @@
                     <code>android,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
@@ -885,7 +949,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
