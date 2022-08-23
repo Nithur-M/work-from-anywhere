@@ -11,7 +11,7 @@
                     <code>developer, nft, financial</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112161" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>dev, javascript, react</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112140" align="right" target="_blank">Apply</a>
@@ -50,203 +50,60 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6022/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/3747/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>YASSI</h5>
-                    <h3> React Frontend Developer</h3>
+                    <h5>Credit Glory</h5>
+                    <h3> Senior Ruby on Rails Developer</h3>
                 </td>
                 <td width="300">
-                    <code>All Other Remote</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/yassi-react-frontend-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/credit-glory-senior-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6022/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0018/3747/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Santa Rosa, California, United States
-    <br /><strong>URL:</strong> <a href="https://www.yassi.com">https://www.yassi.com</a>
-</p>
-
-<p>Get in on the ground floor of a well-funded software start-up that has a depth of industry-specific experience. In this <strong>fully remote</strong> position, you will use React to create and architect frontend user interfaces for various end-user workflows of DMV services used by businesses. You will lead frontend development on our business-to-business product and work closely with backend engineers and product owners to develop new proprietary software and features in a competitive marketplace. We are looking for a self-motivated developer that is comfortable working in a project-based environment with utmost importance placed on highly performing software, customer satisfaction, deadlines, and future growth. In your role, you will work in a small team engineers directly with our CTO and product owners to build new features, develop product road maps, and grow our software as a service web product. <br></p>
-<p><strong>Must be a United States citizen. Must be located in the United States.</strong><br></p>
-<p><strong>Requirements</strong></p>
-<p><strong>Responsibilities</strong></p>  <ul> <li>Lead front-end development in implementing best practices and technologies</li> <li>Push for user interest in design and UI/UX workflow decisions</li> <li>Participate in discussion of product direction</li> <li>Perform code review across the stack</li> </ul>          <p><strong>Skills</strong></p>  <ul> <li>2 years professional experience in creating and implementing React web applications</li> <li>Experience with react state management libraries such as React Redux, MobX, or Recoil</li> <li>Experience with TypeScript</li> <li>Strong professional coding experience with JavaScript, Node, and comparable languages in a front-end development capacity</li> <li>Ability to construct and implement user interface solutions for a variety of end-user workflows</li> <li>4 years professional coding experience with JavaScript and 2 years in any other language</li> <li>2 years professional experience using a SQL database such as PostgreSQL, MySQL, Oracle, or MSSQL</li>  <li>Comfortable developing in a either a Mac or Linux environment</li> <li>Security-conscious practices in any software built</li> </ul>
-<p><strong>Nice to Have</strong></p>  <ul> <li>Experience with Golang, Java, Python, or C</li> <li>Exposure to DevOps practices including infrastructure as code, continuous integration, monitoring, and logging</li>  <li>Experience with cloud-based distributed systems on providers such as AWS</li> <li>Experience with docker or container technologies</li> <li>Experience with AWS Lambda or serverless function frameworks </li> <li>Experience with CDNs</li>  <li>Bachelor's degree, preferably in Computer Science or related discipline</li> <li>Competitive attitude with a passion for besting other companies</li> </ul>
-<p><strong>Benefits</strong></p>
-<ul> <li>Salary based on experience ($120k - $160k).</li> <li>Medical stipend to cover personalized insurance and expenses</li> <li>Stock Options</li> <li>Paid Vacation</li> <li>Performance Bonuses</li> <li>Technology stipend for equipment (laptop, books, etc.)</li> <li>100% Remote Position</li> </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/yassi-react-frontend-developer">https://weworkremotely.com/remote-jobs/yassi-react-frontend-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7299/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Data Virtuality GmbH</h5>
-                    <h3> Senior Java Backend Developer. Full-time. Unlimited. Contractor.</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-java-backend-developer-full-time-unlimited-contractor" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/7299/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Leipzig, Germany
-    <br /><strong>URL:</strong> <a href="https://datavirtuality.com/en/careers/">https://datavirtuality.com/en/careers/</a>
+  <strong>Headquarters:</strong> Henderson, NV
+    <br /><strong>URL:</strong> <a href="http://www.creditglory.com">http://www.creditglory.com</a>
 </p>
 
 <div>
-<strong><br>We would love to be your new team!<br></strong><br>
-</div><div>Working at Data Virtuality means being part of an international team and thriving. What we offer is remote work from your home, wherever it is. Further, you can expect an unlimited long-term freelance contract with full-time work, benefits, and genuine team spirit.<br><br>
-</div><div>At Data Virtuality, you will experience respectful interactions, harmonious teamwork,<br>without a dog-eat-dog mentality!<br><br>
-</div><div>
-<strong><br>What you will be doing:<br></strong><br>
-</div><div>
-<strong>Coding Expert</strong> – You push on further developing our monolithic product Data Virtuality Platform. With your</div><div>clean coding approach and your creative power, you conceive, develop, and integrate new components and</div><div>applications into our products with the highest quality.</div><div>
-<br><strong>Bug Buster </strong>– Your mission is to keep an eye on our existing products: You analyze and improve our</div><div>components and fix bugs.</div><div>
-<br><strong>Team Player</strong> – Working remotely: You are independent, reliable, and constantly in touch with the Data Virtuality Team. You keep exchanging ideas with your colleagues and help the team develop the best performance.</div><div>
-<br><strong><br></strong><br>
-</div><div>
-<strong>Your skills. Your tech stack.<br></strong><br>
-</div><div><strong>Must have</strong></div><ul>
-<li>“Fluent in” Java</li>
-<li>strong experience (5+ years) in database design, complex SQL queries</li>
-<li>in-depth knowledge of OOD methodology, Java, XML, J2EE (JSP, JMS, EJB, Servlet, JDBC, JPA), and Web Services (SOAP &amp; REST)</li>
-<li>working knowledge of Hibernate</li>
-<li>keen understanding of the internal operation principles of an RDBMS, knowledge of Data Warehousing is a plus</li>
-<li>practical knowledge of standard technologies for development, assembly (Maven),and versioning (Git)</li>
-</ul><div><strong>Desired</strong></div><ul>
-<li>substantial experience (5+ years) in J2EE-development with a focus on WildFly,/JBoss, or a similar application server</li>
-<li>in-depth knowledge of modern architectural concepts, design patterns, and agile software development (Scrum, Kanban)</li>
-</ul><div>
-<strong><br>Tenacious, Ambitious, International!<br></strong><br>
-</div><div>
-<strong>…what you should bring from the personal side.<br></strong><br>
+<strong><em>Complete the following to apply:</em></strong><br><br>1. Email jiri@creditglory.com as the main recipient (our CTO) + cc adam@creditglory.com (COO)<br>2. Use subject line: WWR: [yourname] Senior Ruby on Rails Developer<br>3. Attach your resume/CV<br>4. Add anything else relevant in the body of your email (why you would be a good fit, what you are looking for etc).<br><br><strong>About Us<br></strong><br>
+</div><div>We are a fully remote team looking for a proactive and experienced Senior Rails Developer to join our team.</div><div> </div><div>Your responsibilities will include working closely with our CTO &amp; COO to develop new, innovative &amp; exciting features (+ improve existing ones) that help improve our customers’ financial future. </div><div> </div><div>If you enjoy solving complex problems, can work across the whole stack from backend to frontend, and know how to get the job done right the first time, this might be a great position for you.</div><div><br></div><div>
+<br><strong>What We’re Looking For:</strong>
 </div><ul>
-<li>fluent spoken and written English is a must-have criterion</li>
-<li>clean and good quality coding approach is very important because of our complex<br>product</li>
-<li>analytical thinking, pragmatic development approach with a hands-on mentality</li>
-<li>being a team player, but also being able to solve problems independently</li>
-<li>understanding the requirements from customer view</li>
-<li>generally very good communication behavior</li>
-</ul><div>
-<br><strong>What our fantastic team worldwide loves about working with Data Virtuality</strong>
-</div><ul>
-<li>A job with the stability and team spirit of an employee, but also with the freedom and flexibility of a freelancer</li>
-<li>Stable partnership for years</li>
-<li>Fix salary + paid vacation + paid sick leave</li>
-<li>Flexibility to decide where to work</li>
-<li>Knowledgeable and approachable C-Level</li>
-<li>Reliable and fast monthly payment – in <strong>EUR, USD, or various cryptocurrencies</strong>, as you prefer</li>
-<li>Continuity and growth potential</li>
-<li>Friendly and international colleagues</li>
-<li>Full integration into our teams and invitation for our team events worldwide</li>
-<li>If you want, possibility to relocate to Germany after min. five years of a great collaboration</li>
-</ul><div><strong><br>Our Tech Stack</strong></div><ul>
-<li>
-<strong>Backend: </strong>J2EE application running in a JBoss/WildFly container to connect to any kind of<br>data source (relational/NoSQL/cloud based databases, web services, text files, etc.) and to<br>query data by using SQL. Persistence layers and internal configurations are delegated to<br>Hibernate.</li>
-<li>Frontend (Desktop): Desktop Application based on Eclipse RCP</li>
-<li>Frontend (Web): several Web applications based on Angular</li>
-<li>Operating System: Linux, Microsoft Windows, macOs</li>
-<li>Languages: Java 11, C, C++, TypeScript, SQL, XML</li>
-<li>Databases: Oracle, PostgreSQL, MySQL, MS SQL Server, Amazon Redshift, Snowflake, Microsoft Azure Synapse Analytics, Exasol, Teradata, Vertica, MongoDB, etc.</li>
-<li>Others: Web Services, JDBC, ODBC, REST, OData, LDAP</li>
-<li>IDE: IntelliJ IDEA, Eclipse</li>
-<li>Framework: Eclipse Rich Client Platform, JUnit, Spring, Hibernate, Angular, JQuery</li>
-<li>
-<strong>Application Servers:</strong> WildFly, JBoss</li>
-<li>Cloud Technologies: Amazon Web Services, Microsoft Azure, Google Cloud Platform</li>
-<li>Development, Building, Versioning tools: Maven, Ant, Git</li>
-<li>Dev and CI tools: Jira, FishEye, BitBucket, GitLab, Crucible, Confluence, Jenkins</li>
-<li>Virtualization and Containers: Docker, VirtualBox, VMware, Vagrant</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-java-backend-developer-full-time-unlimited-contractor">https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-java-backend-developer-full-time-unlimited-contractor</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2545/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>RealTools.com</h5>
-                    <h3> Senior Front End Developer (UX)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/realtools-com-senior-front-end-developer-ux" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/2545/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Global
-    <br /><strong>URL:</strong> <a href="http://realtools.com">http://realtools.com</a>
-</p>
-
-<div>
-<strong>About RealTools<br></strong><br>
-</div><div>There are over 4 million real estate agents in the world. On average, a real estate agent uses 14 different tools for their business. There are thousands of options for each tool. Tools can be like website management applications, CRM, email marketing applications, etc.<br><br>
-</div><div>RealTools is a startup community-focused application that will be made for real estate agents. Using RealTools, real estate agents will be able to search and filter through all the tools available to them and find the best one for their needs.<br><br>
-</div><div>
-<strong>About the Job<br></strong><br>
-</div><div>We are looking for a senior UX/UI Developer to join our team. As the UX/UI Developer, you will play the most important role. You will create the application interface that will be used by millions of real estate agents.<br><br>
-</div><div>You will have autonomy in developing your designs, from concept to execution, but you won't be alone. You will be part of a cross-functional team. Product managers will help you understand where your work fits in our roadmap; data analysts will help you define metrics and measure success; developers will help you make your designs come to life.<br><br>
-</div><div>You must be able to create UX designs from scratch.<br><br>
-</div><div><strong>TYPE OF SKILLS NEEDED</strong></div><ul>
-<li>an expert in html5/css3/javascript</li>
-<li>very comfortable coding in modern frameworks</li>
-<li>dedicated experience creating UX interfaces</li>
-<li>able to design UX interfaces directly<br><br>
+<li>5+ years experience with Ruby on Rails</li>
+<li>Ability to work across the whole stack</li>
+<li>Hotwire and Stimulus.JS experience is a plus</li>
+<li>TailwindCSS experience is a plus as well</li>
+<li>Good experience with testing - both unit, integration, and E2E</li>
+<li>Good working knowledge of SQL and PostgresSQL</li>
+<li>Previous experience working remotely</li>
+<li>Analytical, pro-active &amp; problem-solving skills (along with attention to detail)</li>
+<li>Good written and verbal communication skills</li>
+<li>Ability to receive &amp; administer constructive feedback</li>
+<li>4-hour overlap with CET timezone required.<br><br>
 </li>
-</ul><div><strong>TYPE OF PERSON NEEDED</strong></div><ul>
-<li>very detailed originated</li>
-<li>loves working on new innovating applications</li>
-<li>very focused</li>
-<li>team player</li>
-<li>a true artist</li>
-<li>passionate about their craft</li>
+</ul><div><strong>What You’ll Do:</strong></div><ul>
+<li>You’ll work with us to architect, build, deploy, and maintain applications that serve both internal and external users</li>
+<li>Design and develop well-tested code when needed</li>
+<li>Write proof of concept or throwaway code when the situation calls for it</li>
+<li>Increase overall code quality long-term<br><br>
+</li>
 </ul><div>
-<br><br>
-</div><div><strong>WHAT WE OFFER</strong></div><ul>
-<li>focused on happiness first</li>
-<li>flexible schedule</li>
-<li>continuous growth opportunity</li>
-<li>be part of something that will have a big positive impact in the world</li>
-<li>bonuses as the company grows</li>
-</ul><div><br></div>
+<strong>Pay<br></strong><br>
+</div><div>Starting salary is between $80,000 - $120,000 USD depending on your skills and experience. Earning potential for tenured developers is &gt;=$150,000 + based on tangible value provision.</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/realtools-com-senior-front-end-developer-ux">https://weworkremotely.com/remote-jobs/realtools-com-senior-front-end-developer-ux</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/credit-glory-senior-ruby-on-rails-developer">https://weworkremotely.com/remote-jobs/credit-glory-senior-ruby-on-rails-developer</a></p>
 
                 </details>
                 </td>
@@ -262,7 +119,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>65 days ago</text>
+                <text>66 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone" align="right" target="_blank">Apply</a>
@@ -377,7 +234,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>93 days ago</text>
+                <text>94 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testdome-frontend-developer-vue-js-asp-net-core-1" align="right" target="_blank">Apply</a>
@@ -432,7 +289,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>151 days ago</text>
+                <text>152 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/g2i-inc-mid-senior-or-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -480,7 +337,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>333 days ago</text>
+                <text>334 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-front-end-developer" align="right" target="_blank">Apply</a>
@@ -516,6 +373,50 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/2036/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3> Senior React Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>630 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/toptal-senior-react-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/2036/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Wilmington, DE
+    <br /><strong>URL:</strong> <a href="https://www.toptal.com/">https://www.toptal.com/</a>
+</p>
+
+<div>
+<strong><em>Design your full-time freelance career as a top freelance developer with Toptal. </em></strong><br><br>Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. <br><br>Toptal is an elite talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <strong>Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </strong>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. <br><br>As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. <br><br>That’s why the world’s top 3% of developers choose Toptal. Developers in our elite network share:</div><ul>
+<li>English language proficiency</li>
+<li>3+ years of professional experience  </li>
+<li>Project management skills</li>
+<li>A keen attention to detail</li>
+<li>Experience with system architecture or leading a software team is a strong advantage</li>
+<li>Full-time availability is a strong advantage</li>
+</ul><div>
+<br>Curious to know how much you could make? Check out our React developer rate calculator: <a href="https://topt.al/6DcyVr">https://topt.al/6DcyVr</a><br><br>If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/nzc7vw"><strong>https://topt.al/nzc7vw</strong></a>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toptal-senior-react-developer">https://weworkremotely.com/remote-jobs/toptal-senior-react-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1322995/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -526,7 +427,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -573,7 +474,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -642,7 +543,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -853,7 +754,7 @@
                     <code>developer,drupal,growth,design</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
@@ -878,7 +779,7 @@
                     <code>android,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
@@ -949,7 +850,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
