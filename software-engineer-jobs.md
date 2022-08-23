@@ -1,98 +1,35 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/img/jobs/8c9dd6a6b8fb0bed234dd8f5cbfc26e21660035389.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/9371/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>RDX Works</h5>
-                    <h3>
-					Systems Software Engineer Virtual Machines				</h3>
-                </td>
-                <td width="300">
-                    <code>dev, defi, crypto</code>
-                </td>
-                <td width="200">
-                <text>12 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/112012" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h2 dir="ltr"><br /></h2><h2 dir="ltr">What is the job?Â </h2><p dir="ltr">Do you enjoy the nuts and bolts of how code gets built, packaged, and executed? Appreciate the challenge of creating safe ways of executing untrusted third-party code? Want to spend every day discussing chewy problems with great people? Ready to never, ever look on Stack Overflow for an answer, because thereâs absolutely no chance anyone has had to solve what youâre solving? Youâve come to the right place.Â <strong></strong></p><p dir="ltr">Weâre building the worldâs first purpose-built engine for decentralized finance. Delivering safe, approachable, parallelizable programming suitable for global finance on an open distributed ledger. The big pieces of the design are done, the market test data is in, our community is building like crazy on our pre-alpha, and we know we have a hit on our hands.Â  Now we need to get the next big release across the line and then turn our sights to designing v-next-next.<strong></strong></p><p dir="ltr">We are seeking an Engineer with a hefty background in some mix of compilers, virtual machines, and systems design to help implement the execution layer backing our unique asset-oriented programming model.</p><p dir="ltr">Youâll start with a period of intense research while you come up the curve on the design and function of the Radix Engine. Then roll up your sleeves and get straight to building alongside folks who have years of experience thinking about the problem set. Your brain will bend in ways it wasnât meant to be bent, you will form lifelong bonds with a team of incredible people, and you will forever remember the journey!</p><h2 dir="ltr"><br /></h2><h2 dir="ltr">What are we looking for?Â </h2><ul><li dir="ltr"><p dir="ltr">You deeply understand everything that happens between code written in text files to program execution for at least one high-level language.</p></li><li dir="ltr"><p dir="ltr">You have a wealth of knowledge about compilers and interpreters that you never get to use at parties.</p></li><li dir="ltr"><p dir="ltr">Youâre familiar with the basis of some existing VM architectures, and can speak intelligently about the pros and cons of various design approaches.</p></li><li dir="ltr"><p dir="ltr">You have previously shipped production software, and understand the importance of timely solutions over academic elegance.</p></li></ul><p><strong><br /></strong></p><h2 dir="ltr">What do you need?</h2><ul><li dir="ltr"><p dir="ltr">4+ years as a professional Software Engineer.</p></li><li dir="ltr"><p dir="ltr">Strong debugging skills.</p></li><li dir="ltr"><p dir="ltr">Fluent in Rust, C, or C++.Â  Youâll be programming in Rust here.</p></li><li dir="ltr"><p dir="ltr">Familiarity with the underpinnings of LLVM and WASM is a plus.</p></li><li dir="ltr"><p dir="ltr">Solid understanding of computer architecture is also a plus.</p></li></ul><p><br /></p><h2 dir="ltr">Who are we?Â </h2><p dir="ltr">At RDX Works, we're a team of like-minded thinkers who have long been convinced that we're living in the earliest stages of a global financial revolution. This revolution is being fuelled by decentralized finance (or DeFi for short), which is enabling an assortment of pioneering developers and entrepreneurs to re-invent almost every financial product that is currently traded and invested in traditional markets, without requiring central authorities or siloed infrastructure. DeFi has captured a great deal of attention and investment in the crypto-aware niche, growing assets under management from $1 billion to over $200 billion in a few years. Impressive as its growth has been, its current market size isn't even a rounding error on the over $400 trillion held in traditional finance. We're focused on what it will take to go from billions to trillions.</p><p dir="ltr">RDX went back to first principles to come up with the right technical solutionâthe first layer-one protocol built specifically for mainstream DeFiâand we have already tested out at over 1 million transactions per second. We're keenly aware that the need for an infinitely scalable platform is only one prerequisite among many for mass adoption, and we're also blazing new ground in the areas of purpose-built developer tools, user experiences, and regulatory integration.</p><p dir="ltr">We have forged a path deep into the future of what distributed ledger technology is going to look like and we need you to come and be part of the team that is making that happen right now.</p><p dir="ltr">If this job sounds like it was made for you, then please apply directly via the link or if you donât have an up-to-date CV to apply with, please contact careers@rdx.works for more information.</p><p dir="ltr">Check out our company benefits here - <a href="https://www.rdx.works/careers">RDX Works Benefits</a></p><p dir="ltr">Alternatively, if you feel like you donât match all of the requirements, we would love you to still apply anyway. We understand that confidence gaps and imposter syndrome can get in the way of meeting incredible candidates and we wouldnât want this to prevent us from meeting you; especially as we are big advocates of helping people learn &amp; grow. This is also another reason we do not advertise salaries, we want to keep it as even a playing field as possible!Â </p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5374/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Trade</h5>
-                    <h3> Senior Software Engineer</h3>
+                    <h5>Sticker Mule</h5>
+                    <h3> Software engineer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>510 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/trade-senior-software-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/5374/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0018/9371/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
   <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://www.drinktrade.com">https://www.drinktrade.com</a>
+    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
 </p>
 
-<div>
-<strong><br>Company Overview<br></strong><br>
-</div><div>
-<br>At Trade we’re inspiring better brewing, and we believe that starts by connecting our customers to the best craft roasters. We also enable independent roasters a new level of access to nationwide consumers through our products and systems supporting local shopping and global community. As part of the Trade team you'll collaborate with a group of caring, passionate, and high-performing people to realize our vision and to build a culture where everyone feels empowered to do their best work.<br><br>
-</div><div>
-<strong><br>The Role<br></strong><br>
-</div><div>
-<br>Trade is hiring a Senior Full Stack engineer who will be embedded on one of  Trade’s Acquisition, Experience or B2B squad. Our stack is Rails, React, and Node hosted on Heroku with Postgres and Elasticsearch. We deploy continuously in small, incremental chunks using feature flags and canary testing. We strive to create loveable, frictionless experiences which extend to our end users, the independent roasters in our marketplace, and our internal employees. <br><br>
-</div><div>
-<br>We believe engineering is at the heart of our product development process — and we’re building first-class teams to help redefine how coffee is consumed, enjoyed, and engaged with from Roaster to Customer.<br><br>
-</div><div>
-<br>Sound interesting? Give us a shout!<br><br><em>We are open to remote candidates living in CA, CT, DC, FL, MA, NY, NJ, and PA</em><br><br>
-</div><div>
-<strong><em><br>You will...<br></em></strong><br>
-</div><ul>
-<li>Design, build, test and deploy scalable applications and features </li>
-<li>Deliver high quality code and follow our SDLC process</li>
-<li>Define readability and coding standards for your team. </li>
-<li>Understand the technical and business aspects of your applications to contribute meaningful, strategic and future-thinking features for our customers + business.</li>
-<li>Partner closely with our product team to deliver against Trade’s key objectives and metrics.</li>
-<li>Upskill our internal team members through technical talks and knowledge transfers.</li>
-</ul><div>
-<strong><em><br>You have...<br></em></strong><br>
-</div><ul>
-<li>5+ years experience working on web applications in production.</li>
-<li>2+ years experience designing software systems</li>
-<li>Deep understanding of JavaScript (React, Node) and Ruby on Rails.</li>
-<li>Some experience working with Figma, Sketch, Zeplin, or similar tools.</li>
-<li>Some experience working in e-commerce/marketplace platforms.</li>
-<li>Familiar with React Native.</li>
-<li>Familiar with GraphQL</li>
-</ul><div>
-<strong><em><br>You'll get...<br></em></strong><br>
-</div><ul>
-<li>$500 a year to spend on amazing coffee!</li>
-<li>To be involved in building an early-stage company with an experienced leadership team</li>
-<li>Opportunities to personally shape this new and innovative marketplace</li>
-<li>Competitive salary and vacation offering</li>
-<li>Health benefits and 401K</li>
-</ul>
+<div><strong>About Sticker Mule</strong></div><div>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a  globally distributed team who cares deeply about delivering a great customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.</div><div><br></div><div>The Software team is responsible for building and maintaining our front-end and back-end services, developing new features and products, and troubleshooting problems.</div><div><br></div><div><a href="https://www.stickermule.com/about"><strong>See more about our teams here</strong></a></div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. Varied, interesting technical challenges to solve</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div><strong>We like you to know</strong></div><div>1. Docker</div><div>2. NextJS</div><div>3. React</div><div>4. NodeJS</div><div>5. GraphQL</div><div>6. Postgres</div><div>7. Redis</div><div>8. Familiarity with Ruby</div><div>9. Excellent communication skills (English)</div><div>10. Degree in Computer Science or equivalent practical experience<br><br><strong>Challenges</strong>
+</div><div>1. Improve and expand our React shared components gallery</div><div>2. Migrate a large Rails code base to JavaScript front-ends and back-ends</div><div>3. Maintain optimal front-end performance on desktop and mobile</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. $112,000/yr</div><div>2. $20,000 signing bonus</div><div>3. 28 vacation days (+ holidays based on your country of residence) </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/trade-senior-software-engineer">https://weworkremotely.com/remote-jobs/trade-senior-software-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer</a></p>
 
                 </details>
                 </td>
@@ -108,7 +45,7 @@
                     <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1352183" align="right" target="_blank">Apply</a>
@@ -139,88 +76,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1350221/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>AssemblyAI</h5>
-                    <h3>Senior Software Engineer, Python</h3>
-                </td>
-                <td width="300">
-                    <code>api,AWS,backend,C</code>
-                </td>
-                <td width="200">
-                <text>11 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-python-1350221" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h2"><strong>The Role</strong></div>
-<p><strong> </strong></p>
-<p class="styles--2kg4_"> </p>
-<p class="p1">We're looking for a senior backend engineer with strong software and cloud engineering skills. You'll help us build highly scalable developer-centric APIs and backend systems powered by state-of-the-art ML models.</p>
-<p> </p>
-<p class="p1"> Some of your responsibilities will include:</p>
-<p> </p>
-<ul class="ul1">
-<li class="li2">Build new API features and endpoints</li>
-<li class="li2">Build automated test suites and CI/CD pipelines</li>
-<li class="li2">Build highly scalable event-driven and realtime systems</li>
-<li class="li2">Instrument systems with metrics, tracing, and logging<span class="Apple-converted-space"> </span></li>
-<li class="li2">Refactor applications to eliminate tech debt</li>
-<li class="li2">Troubleshoot production issues</li>
-</ul>
-<p> </p>
-<div class="h2"><strong>You'll love this job if you....</strong></div>
-<p><strong> </strong></p>
-<ul class="ul1">
-<li class="li2">Enjoy solving complex technical problems, even when there is no perfect solution.</li>
-<li class="li2">Enjoy being in a fast-paced, customer-facing role.</li>
-<li class="li2">Thrive in small, cross-functional teams. We like to wear many hats here!</li>
-<li class="li3">You're excited to tackle big technical challenges like building highly scalable architectures and achieving zero-downtime deploys.</li>
-</ul>
-<p> </p>
-<div class="h2"><strong>Requirements</strong></div>
-<p><strong> </strong></p>
-<ul>
-<li>6+ years of professional experience building backend applications using any popular language such as Python, Java, C#, JavaScript, Go, C/C++</li>
-<li>4+ years of working with SQL and NoSQL databases</li>
-<li>3+ years of production support experience</li>
-<li>3+ years working with common AWS services</li>
-<li>3+ years developing REST APIs</li>
-<li>3+ years of experience working with Python</li>
-<li>3+ working with Python backend frameworks like Django, Flask, or Tornado</li>
-<li>Experience migrating systems to meet increasing traffic/scale</li>
-<li><strong>Startup or FAANG-type experience </strong>- Has worked at a startup or high growth company</li>
-<li><strong>Deep AWS knowledge </strong>- Has many years of experience solutioning within AWS</li>
-<li><strong>Strong Python coding abilities </strong>- Can pass difficult programming challenges in a relatively short period of time. Can speak clearly about their thinking throughout these challenges. Can speak to O-notation of algorithms. Has excellent knowledge of common python idioms and libraries.</li>
-<li><strong>High scalability experience</strong> - Has been a tech leader on scaling systems to hundreds of millions of requests/events per day. Has experience with hyper-observability, scaling algorithms, and using production data to drive system changes</li>
-</ul>
-<p> </p>
-<div class="h2"><strong>Skills</strong></div>
-<p><strong> </strong></p>
-<ul>
-<li><strong>Amazing system design chops </strong>- When given a hard problem to solve with a new system, they can quickly shape an effective design and communicate its strengths, weaknesses, and tradeoffs.</li>
-<li><strong>High-octane thinking</strong> - Engages deeply on subjects of expertise. Thinks ahead many steps and can see where decisions are likely to lead. Their brains compute at a very high level.</li>
-<li><strong>Extremely creative </strong>- Can find both novel and effective solutions within highly constrained time and resources</li>
-<li><strong>Fast learner</strong> - Has shown they can ramp up on difficult topics very fast</li>
-<li><strong>Exceptional gut instincts </strong>- Can practically feel when something is right or wrong. Can use these instincts to quickly point themselves in the right direction.</li>
-<li><strong>Opinionated</strong> - They have convictions in what they believe and can communicate their position clearly without drama.</li>
-</ul>
-<p> </p>
-<div class="h2"><strong>Nice to Have<br></strong></div>
-<ul>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Machine learning experience - Has worked with machine learning models at scale</span></li>
-<li style="font-weight: 400;"><span style="font-weight: 400;">Experience integrating and deploying ML models into production</span></li>
-</ul>
-<img src="https://remotive.com/job/track/1350221/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1187416/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -231,7 +86,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -299,7 +154,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -361,7 +216,7 @@
                     <code>cloud,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1342235" align="right" target="_blank">Apply</a>
