@@ -990,7 +990,7 @@
                     <h3>Principal Developer Advocate</h3>
                 </td>
                 <td width="300">
-                    <code>undefined</code>
+                    <code>Full Time</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
