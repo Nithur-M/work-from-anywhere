@@ -986,7 +986,7 @@
                     <img src="https://freshremote.work/media/company/logo/22/02/100mslive.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>undefined</h5>
+                    <h5>100ms</h5>
                     <h3>Principal Developer Advocate</h3>
                 </td>
                 <td width="300">
@@ -1003,6 +1003,7 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 About us:100ms is building infrastructure for developers integrating live, interactive video experiences into their apps. Our SDKs enable developers to add gold standard audio-video quickly and more reliably than our competition.We are a team uniquel …
+About us:100ms is building infrastructure for developers integrating live, interactive video experiences into their apps. Our SDKs enable developers to add gold standard audio-video quickly and more reliably than our competition.We are a team uniquely placed to work on this problem. We have built world-record scale live video infrastructure powering billions of live video minutes in a day across Disney+ Hotstar and Facebook. We are a remote-first global team.<br/>What would you do:Your role will be to drive awareness and develop interest towards 100ms, and its benefits among the broader developer community, with a critical focus on designated target groups.<br/>You will:Become the zeroth customer for our APIs and SDKs to create examples of what can be built with 100msCreate large (blog posts, videos) and small content (social media posts) around what can be built with 100msInfluence the 100ms brand and other GTM efforts to increase developer empathyGrow the audience of 100ms developers by managing and expanding online and offline communities<br/>Who can apply:Seasoned developer advocates (or equivalent) with 5-10 yrs of work experienceExperience in shipping open source code on at least one client platforms (JavaScript, iOS, Android, Flutter, React Native)Strong understanding of SDK/API related terminologies and trendsProven experience in building developer communitiesBe able to work flexible hours to interact with the developer communityPast experience of working as a developer and familiarity with engineering processesNative or near-native level ability in the local language<br/>Good to have:Passion for marketing and storytellingAn ability to understand complex technology products easilyAn eye for detail and strong inclination towards data analysis
                 </details>
                 </td>
             </tr></table>
