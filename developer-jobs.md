@@ -981,4 +981,28 @@
 <img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/02/100mslive.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>undefined</h5>
+                    <h3>Principal Developer Advocate</h3>
+                </td>
+                <td width="300">
+                    <code>undefined</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J110353/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                About us:100ms is building infrastructure for developers integrating live, interactive video experiences into their apps. Our SDKs enable developers to add gold standard audio-video quickly and more reliably than our competition.We are a team uniquel …
+                </details>
+                </td>
             </tr></table>
