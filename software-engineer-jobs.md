@@ -304,7 +304,7 @@
                     <h3>Senior Software Engineer - Robotics</h3>
                 </td>
                 <td width="300">
-                    <code>undefined</code>
+                    <code>Full Time</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
@@ -359,7 +359,7 @@
                     <h3>Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>undefined</code>
+                    <code>Full Time</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
