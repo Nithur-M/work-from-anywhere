@@ -10,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/nagarro-digital-ventures-nodejs-backend-engineer" align="right" target="_blank">Apply</a>
@@ -52,7 +52,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>63 days ago</text>
+                <text>64 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/argyle-backend-engineer" align="right" target="_blank">Apply</a>
@@ -122,87 +122,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/argyle-backend-engineer">https://weworkremotely.com/remote-jobs/argyle-backend-engineer</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1346307/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Qui Identity</h5>
-                    <h3>Backend System Engineer, Decentralized Identity</h3>
-                </td>
-                <td width="300">
-                    <code>backend,excel,security,blockchain</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/backend-system-engineer-decentralized-identity-1346307" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At Qui, we're reinventing how trusted interactions take place for each of us, every day. Based on decentralized identity standards, we are building the infrastructure that will allow individuals and companies to instantly exchange permissioned, verified identity information.  The result: secure, trusted and frictionless access to products and services, with complete control for the individual.</p>
-<p>Qui is led by successful, experienced technology professionals, and backed by $6.5 million in seed funding from leading investors and prominent angels in the United States and Canada.</p>
-<p>We're looking for a <strong>Backend Engineer</strong> with decentralized identity experience to join our founding team. We believe that people are the backbone of any great product organization. We're hiring truly incredible people and surrounding them with the right tools, processes, and culture to build, thrive and grow. </p>
-<p><strong>Why you might be excited about this opportunity: </strong></p>
-<ul>
-<li>You'll be trusted as an expert at what you do and challenged to come up with decentralized identity solutions. You'll get to work on every aspect of our products as we build from the ground up. </li>
-<li>As a Backend Engineer with decentralized systems experience, you know that data security is a very real and growing problem. At Qui, you'll be helping individuals and businesses take back control of their data. </li>
-<li>There's tremendous opportunity for professional growth as we scale Qui</li>
-</ul>
-<p> </p>
-<p><strong>How you'll make an impact at Qui: </strong></p>
-<ul>
-<li>Develop product and related project development, configuration, and maintenance tools</li>
-<li>Build core infrastructure software, instrument it for scalability and performance, and optimize it for throughput</li>
-<li>Build core backend modules such as authentication, session, queues and schedulers</li>
-<li>Write unit and end-to-end test scripts for required modules/packages</li>
-<li>Integrate and consume other services/APIs.</li>
-</ul>
-<p><strong>To be successful, you'll need to have:</strong></p>
-<ul>
-<li>3+ years of professional experience building server-side code developed with high-levels of scalability, reliability, and performance..</li>
-<li>Familiarity with decentralized identity management solutions</li>
-<li>Experience implementing solutions based on the Decentralized Identifier (DID), Verifiable Credentials, secure storage, DIDCOMM, and related specifications</li>
-<li>Experience with REST, OIDC/OAuth, or gRPC protocols</li>
-<li>Experience building from the designs of APIs and documented application flows.</li>
-<li>Familiarity with industry-wide processes, patterns and practices</li>
-<li>You understand and can implement testing strategies</li>
-<li>You have strong verbal and written communication skills</li>
-<li>Ability to deconstruct complex business requirements and think out of the box</li>
-<li>Excitement for working in a start-up environment with a high level of ambiguity and change</li>
-</ul>
-<p><strong>Bonus points: </strong></p>
-<ul>
-<li>Experience working with Blockchain, PKI or Identity Management technologies</li>
-<li>Experience thriving on a small team where you've made a big impact. You are confident in your toolkit and experience, and you also love to pick up new skills and knowledge.<br><br></li>
-</ul>
-<p><strong>Why you might be **NOT** be excited about this role:</strong></p>
-<ul>
-<li>You prefer highly structured teams with well-defined roles and clear progression plans. Projects and priorities are likely to shift as this role evolves.</li>
-<li>You are uncomfortable with just a dash of chaos. This is not the kind of job where you show up and we tell you exactly what to do every day.</li>
-</ul>
-<p> </p>
-<p><strong>Working at Qui: </strong></p>
-<p>Decentralized identity will change how we interact with people and businesses, online and off. Qui will be a driving force in the mass adoption of this powerful technology. We value employee life outside of work and provide many ways to accommodate and support our staff in achieving their goals. A few examples:</p>
-<ul>
-<li>Remote work (we are based in Toronto, Canada but building a global team)</li>
-<li>Health &amp; Extended Benefits Plan</li>
-<li>Fair compensation + equity options</li>
-<li>Flexible vacation policy</li>
-<li>Parental leave top-up program (from day one!)</li>
-</ul>
-<p> </p>
-<p>Experience comes in many forms, many skills are transferable, and passion goes a long way. If the job description gets you pumped but your background isn't exactly what we've described above, or if you strongly believe you bring qualifications beyond what we've outlined that would help you excel in this position, please consider applying.</p>
-<p>Qui is committed to providing accommodations for people with disabilities. If you require an accommodation, we will work with you to meet your needs.</p>
-<p><em>Qui is an equal opportunity employer that is committed to diversity and inclusion in the workplace. We prohibit discrimination and harassment of any kind based on race, color, sex, religion, sexual orientation, national origin, disability, genetic information, pregnancy, or any other protected characteristic as outlined by federal, or local laws.</em></p>
-<p><em>This policy applies to all employment practices within our organization, including hiring, recruiting, promotion, termination, layoff, recall, leave of absence, compensation, benefits, training, and apprenticeship. Qui makes hiring decisions based solely on qualifications, merit, and business needs at the time.</em></p>
-<p> </p>
-<img src="https://remotive.com/job/track/1346307/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
