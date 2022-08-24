@@ -1,36 +1,72 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/9371/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1357365/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Sticker Mule</h5>
-                    <h3> Software engineer</h3>
+                    <h5>Ukio</h5>
+                    <h3>Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>AWS,docker,product manager,growth</code>
                 </td>
                 <td width="200">
-                <text>510 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1357365" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/9371/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
-</p>
-
-<div><strong>About Sticker Mule</strong></div><div>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a  globally distributed team who cares deeply about delivering a great customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.</div><div><br></div><div>The Software team is responsible for building and maintaining our front-end and back-end services, developing new features and products, and troubleshooting problems.</div><div><br></div><div><a href="https://www.stickermule.com/about"><strong>See more about our teams here</strong></a></div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. Varied, interesting technical challenges to solve</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div><strong>We like you to know</strong></div><div>1. Docker</div><div>2. NextJS</div><div>3. React</div><div>4. NodeJS</div><div>5. GraphQL</div><div>6. Postgres</div><div>7. Redis</div><div>8. Familiarity with Ruby</div><div>9. Excellent communication skills (English)</div><div>10. Degree in Computer Science or equivalent practical experience<br><br><strong>Challenges</strong>
-</div><div>1. Improve and expand our React shared components gallery</div><div>2. Migrate a large Rails code base to JavaScript front-ends and back-ends</div><div>3. Maintain optimal front-end performance on desktop and mobile</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. $112,000/yr</div><div>2. $20,000 signing bonus</div><div>3. 28 vacation days (+ holidays based on your country of residence) </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer</a></p>
-
+                <p><strong>About Ukio</strong></p>
+<p>Ranked as one of the most promising Spanish startups of 2022, Ukio is a hyper-growth proptech started in 2020 by founders with deep experience in travel and technology.</p>
+<p>Our mission is to empower individuals to live where they want, when they want. We do this by disrupting the traditional residential real estate market and providing turn-key design-forward residential apartments for monthly stays powered by tech.</p>
+<p>Having raised €10M in capital last year from Europe's leading VC firms, we are now at 120 employees across four markets and have experienced a 12x growth in revenue in the last year alone surpassing a €10M annual run rate.</p>
+<p>We are in the process of closing our series A round and in the next 12-18 months, we will continue rapidly expanding into multiple markets across Europe and building out a world class executive team to help the business reach new heights!</p>
+<p>Find out more:</p>
+<ul>
+<li>Ukio - <a class="external" href="https://www.stayukio.com/" rel="nofollow">https://www.ukio.com/</a></li>
+<li>TechCrunch - <a class="external" href="https://techcrunch.com/2021/09/23/as-remote-work-becomes-normal-ukio-raises-9m-for-premium-long-term-rentals/?guccounter=1" rel="nofollow">https://techcrunch.com/2021/09/23/as-remote-work-b...</a></li>
+<li>Top-10 Start-Ups Ranking - <a class="external" href="https://www.eu-startups.com/2022/01/10-super-promising-spanish-startups-to-keep-an-eye-on-in-2022-and-beyond/" rel="nofollow">https://www.eu-startups.com/2022/01/10-super-promi...</a></li>
+</ul>
+<p> </p>
+<p><strong>Role </strong></p>
+<p>This is a unique opportunity to see out and work in developing Ukio's products from very early conception to the final stage. Working 100% remotely you will join a highly skilled, forward-thinking team working in a cross-discipline manner. As a start-up, and with Ukio’s unique culture you can expect an exciting environment, with a lot of room for innovation, new ideas and suggestions. You will work on development and maintenance of the company's main commercial platform but also internal tools, in fact, our main focus is creating those tools so we can help other teams to optimize their time or improve certain flows. You will lead a significant part of the implementation and deployment of these projects.</p>
+<p> </p>
+<p><strong>Requirements</strong></p>
+<p>Responsible for the end-to-end software development process, working closely with the team to scope, design, and deploy innovative new features.</p>
+<p>Code review and support high quality standards, ensuring best practices are fulfilled and we release only the highest quality products</p>
+<p>Liaise with our product manager and the rest of the team members/leads to identify opportunities for improvement and optimization of existing projects.</p>
+<p>Contribute to analysis of projects including performance, diagnosis, and troubleshooting.</p>
+<p>Act as an example to others in your team, encouraging and mentoring Junior Engineers in your craft.</p>
+<p>Objectively explore multiple approaches and recommend the best technical direction including logic and reasoning.</p>
+<p> </p>
+<p><strong>About you</strong></p>
+<p>1-10 years working experience in a professional programming position</p>
+<p>Experience with Docker, and ideally AWS ECS (if you have worked with k8s the transition will be easy)</p>
+<p>Proficient with database technologies</p>
+<p>Understand the importance of testing and the tradeoffs between different types of testing</p>
+<p>Attention to detail and problem-solving ability</p>
+<p>Ability to analyze data and communicate ideas clearly so the whole team can be in the loop</p>
+<p>Ability to independently learn new technologies.</p>
+<p>Proven ownership of an engineering initiative</p>
+<p><strong>Benefits</strong></p>
+<p>Bonus Scheme</p>
+<p>Flexible schedule</p>
+<p>Employee Stock Options Plan</p>
+<p>Fully Remote (work from home or where you prefer)</p>
+<p>Investment in your learning and development</p>
+<p>Fully paid private health care</p>
+<p>Team events (when it is safe to do so :)</p>
+<p>Competitive annual gross salary in line with your knowledge and experience:</p>
+<p>0-5 years experience: 25,000 - 45,000 Euros</p>
+<p>5-10 years experience: 45,000 - 65,000 Euros</p>
+<p> </p>
+<p><strong>Our culture</strong></p>
+<p>We honor diversity, compassion, and honesty above all else in our team. We’ve got a great mix of dedicated, collaborative, and results-driven people. In a true startup fashion, we always embrace the unknown and grant full autonomy to our team to act as owners of their projects and tasks. Our team is composed of everything from foodies to athletes, adventure seekers to art buffs. We know fun and we always have a team event on our calendars.</p>
+<p>Ukio's culture promotes and values each individual's contribution. Diversity and inclusion it’s a big topic for us, as such, we encourage applications from individuals from all backgrounds, regardless of age, gender, ethnicity, disability, sexual orientation, gender identity, socio-economic background, religion and/or belief.</p>
+<img src="https://remotive.com/job/track/1357365/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -45,7 +81,7 @@
                     <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1352183" align="right" target="_blank">Apply</a>
@@ -86,7 +122,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -154,7 +190,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -216,7 +252,7 @@
                     <code>cloud,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1342235" align="right" target="_blank">Apply</a>
