@@ -11,7 +11,7 @@
                     <code>ux, leader, management</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112153" align="right" target="_blank">Apply</a>
@@ -21,6 +21,62 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 About UsÂ ClickTime is a recognized leader in time management software, serving thousands of enterprises, nonprofits, and governments worldwide. From bootstrapped beginnings to sustained profitability - all funded by a dedicated, growing customer base, and without any venture capital funding - ClickTime has tracked over $170 billion worth of employee time, helping customers improve their workforce efficiency, profitability, and resource planning. While headquartered in San Francisco, ClickTimeâs 40+ employees work remotely throughout the United States, with continued plans for remote growth. About the RoleAs ClickTimeâs first-ever Senior UX Designer, youâll own the user experience for the ClickTime product and customer. Youâll deeply understand the needs of our users, advocate for those needs within the organization, and help create product experiences that delight. In addition, youâll work with internal stakeholders to influence new features, standardize our visual branding across the product, and become a champion of usability and great design. Reporting to the Director of Product Management, this is an opportunity to harness your ambition and creativity to make your mark on an established SaaS company.ClickTime provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/4652/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sticker Mule</h5>
+                    <h3> UX Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-ux-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/4652/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Amsterdam, NY
+    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
+</p>
+
+<div><strong>About Sticker Mule</strong></div><div>
+<br>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.</div><div>
+<br><br>
+</div><div>
+<br>The Software team is responsible for building and maintaining our front-end and back-end services, developing new features and products, and troubleshooting problems.</div><div>
+<br><br>
+</div><div><a href="https://www.stickermule.com/about"><strong>See more about our teams here</strong></a></div><div>
+<br><br>
+</div><div><strong><br>We offer:</strong></div><ol>
+<li>Remote work with flexible schedules</li>
+<li>A privately owned, low-stress culture</li>
+<li>A fun "no bullshit" work environment</li>
+</ol><div><br></div><div><strong>We like you know:</strong></div><ol>
+<li>Figma</li>
+<li>HTML</li>
+<li>CSS</li>
+<li>JavaScript</li>
+<li>React</li>
+</ol><div><strong><br>Compensation and benefits:</strong></div><ol>
+<li>Salary $120k+ based on experience</li>
+<li>$20,000 signing bonus</li>
+<li>4 weeks vacation + holidays based on your country of residence</li>
+</ol><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-ux-engineer">https://weworkremotely.com/remote-jobs/sticker-mule-ux-engineer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +91,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -100,7 +156,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/viva-translate-inc-disenador-a-web-ux-senior" align="right" target="_blank">Apply</a>
@@ -184,7 +240,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/tixel-product-designer-ux-ui-2" align="right" target="_blank">Apply</a>
@@ -261,7 +317,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>180 days ago</text>
+                <text>181 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -322,7 +378,7 @@
                     <code>contract,go,ui,ux</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
