@@ -297,11 +297,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/08/M289IlBz_400x400.jpg" width="38px" height="auto">
+                    <img src="https://freshremote.work/media/company/logo/22/06/GnGbxfUe_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>undefined</h5>
-                    <h3>Software Engineering</h3>
+                    <h5>6 River Systems</h5>
+                    <h3>Senior Software Engineer - Robotics</h3>
                 </td>
                 <td width="300">
                     <code>undefined</code>
@@ -310,15 +310,116 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J110096/" align="right" target="_blank">Apply</a>
+                <a href="https://freshremote.work/J110236/" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                Software Engineering
-Summary
-The Wikimedia Foundation is looking for a product software engineer to join our Structured Data team, reporting to product engineering management. As a product software engineer, you will be responsible for software engin …
+                6 River Systems (6RS) is a Shopify (SHOP) company leading the way to faster fulfillment. E-commerce has changed the world and our solutions power winning warehouses of the future. We’re revolutionizing warehouse automation with collaborative mobile r …
+<p><a href="https://6river.com/"><strong>6 River Systems</strong></a> (6RS) is a<a href="https://www.shopify.com/about"> <strong>Shopify</strong></a> (<a href="https://investors.shopify.com/stock-information/default.aspx">SHOP</a>) company leading the way to faster fulfillment. E-commerce has changed the world and our solutions power winning warehouses of the future. We’re revolutionizing warehouse automation with collaborative mobile robots driven by artificial intelligence and advanced cloud-based software.</p>
+<p>As a <strong>Senior Software Engineer</strong>, you will build practical localization and mapping solutions for autonomous mobile robots. This is an opportunity to join an experienced robotics team and learn from them, as well as bring more software best practices into the team’s daily work.</p>
+<p><strong>In this new position, you will: </strong></p>
+<ul>
+<li style="font-weight: 400;">Solve complex, practical problems to improve localization and mapping for mobile robots</li>
+<li style="font-weight: 400;">Help maintain high standards of code quality and test coverage, both through your own work and through code reviews.</li>
+<li style="font-weight: 400;">Implement solutions in the cloud and on robots</li>
+<li style="font-weight: 400;">Write thorough test procedures for QA engineers and colleagues</li>
+<li style="font-weight: 400;">Share knowledge and refine designs based on input from the team</li>
+</ul>
+<p><strong>What you'll need day one: </strong></p>
+<ul>
+<li style="font-weight: 400;">Professional experience programming in C++</li>
+<li style="font-weight: 400;">Scrappy, yet thoughtful approach to problem solving</li>
+<li style="font-weight: 400;">Be ready to help define architecture / implementation designs for major components of our software</li>
+<li style="font-weight: 400;">Experience working across teams to find elegant solutions integrating with technology not immediately owned by your team</li>
+<li style="font-weight: 400;">Experience mentoring newer engineers</li>
+<li style="font-weight: 400;">Experience helping define best practices</li>
+<li style="font-weight: 400;">Experience designing APIs </li>
+</ul>
+<p> </p>
+<p><strong>It would be a bonus if you have: </strong></p>
+<ul>
+<li style="font-weight: 400;">Experience programming in Typescript and/or Python</li>
+<li style="font-weight: 400;">Practical experience with robotics projects and the Robot Operating System (ROS) </li>
+</ul>
+<p><strong>About 6 River Systems</strong></p>
+<p>Founded in Waltham, Massachusetts in 2015, 6 River Systems is a leading collaborative mobile robotics fulfilment solution and part of global commerce company Shopify. Founders Jerome Dubois and Rylan Hamilton were previously executives at Kiva Systems (now Amazon Robotics). The 6 River Systems solution is operating in more than 20 facilities in the U.S., Canada and Europe, fulfilling millions of units each week for companies including Lockheed Martin, CSAT Solutions, ACT Fulfillment, DHL, XPO Logistics, and Office Depot. To learn more, visit<a href="http://www.6river.com/"> www.6river.com</a>.</p>
+<p><strong>About Shopify</strong></p>
+<p>Shopify is a leading global commerce company, providing trusted tools to start, grow, market, and manage a retail business of any size. Shopify makes commerce better for everyone with a platform and services that are engineered for reliability, while delivering a better shopping experience for consumers everywhere. Headquartered in Ottawa, Canada, Shopify powers over one million businesses in more than 175 countries and is trusted by brands such as Allbirds, Gymshark, PepsiCo, Staples, and many more. For more information, visit<a href="http://www.shopify.com/"> www.shopify.com</a>.</p>
+<p> </p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/06/_Et3eqZH_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Beyond Finance</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>undefined</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J110156/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Beyond Finance is a next generation financial services company. Our goal is to provide financial peace of mind to our clients by giving them simple and transparent financial products that are customized to their individual circumstances.
+We're in con …
+<p>Beyond Finance is a next generation financial services company. Our goal is to provide financial peace of mind to our clients by giving them simple and transparent financial products that are customized to their individual circumstances.</p>
+<p>We're in constant pursuit of new collaborators that will help us get to the next level. Our workforce includes celebrated, diverse talents working towards the common objective of developing something transformational for the debt relief industry.</p>
+<p>Our team spirit and culture are what set us apart as a company. We love what we do, and we have fun doing it.</p><h2>About The Role</h2>
+<p>We are seeking an early career engineer for a new product line that is in early-stage, digital growth, to help empower consumers to improve their financial health. As a software engineer, you'll be working hand-in-hand with other engineers, product managers, and designers to design and deliver our new lead generation platform. Our product managers help determine the biggest opportunities we have to improve our customer's experience, and our engineers create and implement solutions to those problems. As a financial company, data security and integrity are top of mind, so you'll also help ensure our customer's data is safe by using secure coding practices and tooling that automates those checks for us.</p>
+<h2>What You’ll Do</h2>
+<ul>
+<li style="font-weight: 400;">Contribute to decisions for greenfield and existing projects that will drive the business for the next 3-5 years</li>
+<li style="font-weight: 400;">Design and build our consumer-facing web platform and lead gen API using Ruby on Rails, PostgreSQL, and AWS</li>
+<li style="font-weight: 400;">Participate in technical conversations with other engineers and help steer decisions in the right direction</li>
+<li style="font-weight: 400;">Offer constructive and respectful feedback via code reviews</li>
+<li style="font-weight: 400;">Research and promote design patterns and practices that fit our technical challenges</li>
+<li style="font-weight: 400;">Write automated unit and integration tests as well as build tools to assist in testing various aspects of our platform</li>
+<li style="font-weight: 400;">Create business and technical metrics alongside features you build to data-driven decisions for our organization</li>
+<li style="font-weight: 400;">Work with our DevOps team to ensure our CI/CD pipeline, built with CircleCI, Jenkins, and AWS tooling fits our growing needs.</li>
+<li style="font-weight: 400;">Receive a personalized development program and sponsorship from your manager.</li>
+<li style="font-weight: 400;">Add features and make fixes with some initial guidance</li>
+<li style="font-weight: 400;">Provides transparency into progress</li>
+<li style="font-weight: 400;">Work with stakeholders to fully understand requirements</li>
+<li style="font-weight: 400;">Deliver high quality features with test coverage according to requirements</li>
+<li style="font-weight: 400;">Work with senior engineers to determine best solutions to problems</li>
+<li style="font-weight: 400;">Work with senior engineers to determine performance metrics in production</li>
+<li style="font-weight: 400;">Decompose features for day-to-day work</li>
+<li style="font-weight: 400;">Troubleshoot issues in code they’re familiar with, with some guidance</li>
+<li style="font-weight: 400;">Create post-release checks for all stories</li>
+</ul>
+<h2>What We Look For</h2>
+<ul>
+<li style="font-weight: 400;">Experience developing, releasing, and maintaining production-quality software using Ruby on Rails.</li>
+<li style="font-weight: 400;">Expertise in building and consuming APIs</li>
+<li style="font-weight: 400;">Strong knowledge of database design and writing SQL statements</li>
+<li style="font-weight: 400;">Ability to troubleshoot production issues in unfamiliar code</li>
+<li style="font-weight: 400;">Experience scoping projects into small iterations for release</li>
+<li style="font-weight: 400;">Clear and efficient communication skills</li>
+<li style="font-weight: 400;">Mentorship skills and the ability to give well-crafted constructive feedback</li>
+</ul><strong>Why join us?</strong> 
+<p>We are looking for great people to join a fast-paced, growing, and innovative business. For eligible fulltime employees, we offer:</p>
+<ul>
+<li>Considerable employer contributions for health, dental and vision programs  </li>
+<li>Generous personal time-off </li>
+<li>401(K) match</li>
+<li>Merit advancement opportunities </li>
+<li>Career development &amp; training </li>
+</ul>
+<p>More importantly, our team spirit and culture are what really sets us apart as a company. We’re a world-class company that loves what we do…and we have fun doing it!</p>
+<p><em>Under the California Consumer Privacy Act (“CCPA”), Beyond Finance is informing California residents who are our job applicants, contractors or prospective employees (together “job applicants”) about the categories of personal information we collect about you and the purposes for which we will use this information. This notice and our Privacy Policy contain important information relating to the CCPA and apply only to personal information that is subject to the CCPA. Please see our website for the full CCPA statement.</em></p>
+<p>*Beyond Finance is an equal opportunity Employer*</p>
+<p><em>Beyond Finance does not accept unsolicited resumes from individual recruiters or third-party recruiting agencies in response to job positions.  No fee will be paid to their parties who submit unsolicited candidates directly to Beyond Finance employees or the Beyond Finance Finance and HR teams.  No placement fee will be paid to any third party unless such a request has been made by the Beyond Finance HR team.</em></p>
                 </details>
                 </td>
             </tr></table>
