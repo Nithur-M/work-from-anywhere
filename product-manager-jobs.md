@@ -1,105 +1,5 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6201/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Inflow</h5>
-                    <h3> Lead Growth Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Sales and Marketing</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/inflow-lead-growth-product-manager" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6201/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London
-    <br /><strong>URL:</strong> <a href="https://getinflow.io">https://getinflow.io</a>
-</p>
-
-<div>
-<strong>About Inflow</strong><br><br>
-</div><div>ADHD can be challenging, but that doesn’t mean accessing support should be hard or expensive. Our mission? Empower every person with ADHD to reach their full potential. We use technology to provide comprehensive tailor-made programs designed by leading doctors &amp; coaches. By owning the entire ADHD patient experience from diagnosis to medication &amp; coaching combined with community support we help people better manage their ADHD.<br><br>
-</div><div>We are a fiercely ambitious team. Since launching in April 2021, we have helped tens of thousands of people manage their ADHD (as well as being the #1 ADHD app) and we’re just getting started. We think through everything from first-principles and value logic over experience. In order to move fast, we learn fast. We believe in learning by doing - so we like to jump straight in. We say things as they are and believe success is driven by honesty. We’re not afraid to be ourselves and while our mission is serious, we don’t take ourselves too seriously.<br><br>
-</div><div>
-<br><strong>About the role</strong><br><br>
-</div><div>We’re looking for a Lead Growth Product Manager to do the following:<br><br>
-</div><ul>
-<li>Join a cross-functional growth team managing everything from ad to sign-up<br><br>
-</li>
-<li>Take ownership of our growth experimentation process<ul>
-<li>Establish a strong framework and process for prioritizing new experiments and opportunities to drive growth<br><br>
-</li>
-<li>Own the backlog and roadmap for key initiatives and opportunities<br><br>
-</li>
-<li>Take responsibility for the delivery of different growth experiments and initiatives<br><br>
-</li>
-</ul>
-</li>
-<li>Optimize the acquisition funnel to increase the number of people starting / converting from a free-trial<br><br>
-</li>
-<li>Collaborate with product to improve a member’s experience and product retention<br><br>
-</li>
-</ul><div>You will have a lot of autonomy over your workflow.<br><br>
-</div><div>
-<br><strong>What we can offer</strong><br><br>
-</div><ul>
-<li>Competitive Salary + Equity<br><br>
-</li>
-<li>The opportunity to work for a mission-based company and positively impact the lives of those with ADHD<br><br>
-</li>
-<li>Being one of the first employees in an exciting early-stage startup<br><br>
-</li>
-<li>Fast-paced learning through direct hands-on experience<br><br>
-</li>
-<li>Flexible working environment<br><br>
-</li>
-<li>Pension plan<br><br>
-</li>
-<li>Up to 25 vacation days per year + an additional 10 mental health days per year</li>
-</ul><div>
-<br><strong>What our members say about us</strong><br><br>
-</div><ul>
-<li><em>"I thought I was beyond help and that there just weren’t any ADHD-specific strategies out there. This app has already given me so much hope that I have lost over the years.”</em></li>
-<li><em>“This app is amazing and I’ve recommended it to everyone in my life who has ADHD or other mental health issues that they cope with.”</em></li>
-</ul><div>
-<br><strong>Job requirements</strong><br><br>
-</div><ul>
-<li>2+ years of experience in a previous Growth Product role at a high-growth startup<br><br>
-</li>
-<li>Experience with hypothesis-driven development, experimentation, and conducting A/B tests<br><br>
-</li>
-<li>Strong written and verbal communicator<br><br>
-</li>
-<li>Highly analytical, data-driven and detail-oriented<br><br>
-</li>
-<li>Enjoy analyzing data using tools such as Mixpanel, Google Analytics<br><br>
-</li>
-<li>Strong technical understanding and obsessed with product/technology<br><br>
-</li>
-<li>Has an MVP-mindset with a preference for speed and validating ideas as quickly as possible<br><br>
-</li>
-<li>Scrappy, willing to get their hands dirty and wear multiple hats<br><br>
-</li>
-<li>Highly collaborative team player<br><br>
-</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/inflow-lead-growth-product-manager">https://weworkremotely.com/remote-jobs/inflow-lead-growth-product-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1339868/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -110,7 +10,7 @@
                     <code>android,education,go,ios</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/senior-product-manager-mobile-1339868" align="right" target="_blank">Apply</a>
