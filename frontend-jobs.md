@@ -1,66 +1,84 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0006/6308/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4666/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Slab</h5>
-                    <h3> Frontend Engineer </h3>
+                    <h5>TestGorilla</h5>
+                    <h3> Senior Frontend Engineer</h3>
                 </td>
                 <td width="300">
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>95 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/slab-frontend-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-8" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0006/6308/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4666/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> San Francisco
-    <br /><strong>URL:</strong> <a href="https://slab.com/">https://slab.com/</a>
+  <strong>Headquarters:</strong> Amsterdam, The Netherlands
+    <br /><strong>URL:</strong> <a href="https://www.testgorilla.com/">https://www.testgorilla.com/</a>
 </p>
 
-<div><strong>About:</strong></div><div><br></div><div>At <a href="https://slab.com/">Slab</a>, we believe that knowledge is the foundation of any organization's success. When a team's collective knowledge is accessible, that team's potential is limitless. That's why we're making the workplace a source of learning and purpose through knowledge-sharing. Our product helps teams easily create, organize, and discover knowledge across the entire company, from non-technical to tech-savvy. Thousands of customers rely on Slab across their entire workforces, including Asana, Benchling, and Fivetran.</div><div><br></div><div>As a small product-focused company, you'll join a team of experienced engineers, working on shipping features that delight users, fixing issues that get in their way while keeping our codebase, infrastructure, and tooling modern and well-maintained. We are globally distributed, with processes that minimize meetings and overhead, letting makers build on the maker's schedule.</div><div><strong><br>Technologies we use:</strong></div><ul>
-<li>React + TypeScript + Sass</li>
-<li>GraphQL + Apollo + Absinthe</li>
-<li>Elixir + Phoenix</li>
-<li>Postgres + Redis</li>
-<li>Docker + Kubernetes</li>
-<li>Google Cloud Platform</li>
-</ul><div><strong>Sound like you?</strong></div><ul>
-<li>You have a strong technical background, with experience solving complex engineering challenges</li>
-<li>You love delighting users with great product experiences and resolving issues that get in their way</li>
-<li>You're curious to learn and demonstrate the ability to do so very quickly</li>
-<li>You communicate with clearly and concisely, whether with teammates or users</li>
-<li>You are self-motivated and possess a strong work ethic</li>
-<li>You are passionate about knowledge-sharing and identify with Slab's mission and values</li>
-</ul><div><strong>What we value:</strong></div><ul>
+<div>Hi there,<br><br>
+</div><div>I’m Nicolas, TestGorilla’s Head of Engineering. We’re a fast-growing HR tech startup that helps hiring teams make better hiring decisions faster and bias-free.<br><br>
+</div><div>Over the past year, we’ve experienced tremendous growth. More than 5,700 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way.<br><br>
+</div><div>As we scale our efforts in 2022 and beyond, we’re looking for a <strong>Senior Frontend Engineer</strong> who’s passionate about joining our quest to help people land dream jobs.<br><br>
+</div><div>
+<br><br>
+</div><h1>The proposition</h1><ul>
+<li>Helping shape a fast-growing HR tech startup as an early employee</li>
+<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
+<li>Competitive salary incl. bonus and stock options</li>
+<li>Flexible hours and vacation</li>
+<li>Paid parental leave </li>
+<li>€1000 remote working budget per year</li>
+<li>3.5% of salary learning &amp; development budget</li>
+</ul><div>
+<br><br>
+</div><h1>The role in context</h1><div>We are looking for a <strong>Senior Frontend Engineer</strong> to join our engineering department and help us bring our product to Enterprise level maturity. Your work will directly impact hundreds of thousands of users around the world.</div><div> </div><div>As a senior member of the engineering team, you will build and deliver frontend solutions to provide extraordinary product experiences for our users, including SPAs and reusable components for the rapid growth of all our products.</div><div> </div><div>You’ll own the design, code, and deployment of solutions and make sure they perform and scale in production. </div><div> <br><br>
+</div><h1>You’ll spend time on the following</h1><ul>
+<li>Take full <strong>ownership</strong> of the frontend; from low-level optimizations to improving user experience</li>
+<li>Build <strong>reusable</strong> code and libraries for future use</li>
+<li>Ensure the technical feasibility of <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/ux-ui-design-test/">UI/UX designs</a> and propose features and functionalities to the product team</li>
 <li>
-<strong>Stay lean</strong> - We strive for the greatest possible impact with the fewest number of employees. We empower our teammates with the most leveraged tools and efficient processes.</li>
-<li>
-<strong>Default to open</strong> - We encourage and nurture open exchanges of knowledge and ideas — while acting with respect and regard for each other.</li>
-<li>
-<strong>Think rigorously</strong> - We act and execute after careful thought and examination of known information, while acknowledging the risks we accept in its absence.</li>
-<li>
-<strong>Say no</strong> - We aim to deliver exceptionally high value in a small set of focus areas. We willingly abstain from good ideas to give only the most promising paths the attention they deserve.</li>
-<li>
-<strong>The best prevails</strong> - Whether an idea or an individual, the best will rise to the top at Slab. Ideas we pursue can come from anywhere, and individuals gain responsibilities due to outperformance.</li>
-<li>
-<strong>Global optimization</strong> - We believe that our mission — to make the workplace a source of learning and purpose — is the ultimate priority, above any single project, team, or individual.</li>
-</ul><div><strong><br>Benefits:</strong></div><ul>
-<li>Full health insurance (USA) or stipend (International)</li>
-<li>Wellness &amp; remote work stipends</li>
-<li>$5k workspace setup, renewed biannually</li>
-<li>7-year options exercise window</li>
-</ul><div><em>Slab is an equal opportunity employer. We welcome people of diverse backgrounds, experiences, and perspectives.</em></div><div><br></div>
+<strong>Optimize</strong> the application for maximum speed and scalability</li>
+<li>Lead the entire <strong>software development and delivery</strong> cycle from ideation to deployment and everything in between</li>
+<li>Efficiently utilize <strong>DevOps</strong> tools and practices to deliver high-quality software as well as value to end customers as early as possible</li>
+<li>Work in a collaborative, talented <strong>distributed team</strong> across Europe, United States, South America, and Asia</li>
+<li>You will act as a <strong>mentor</strong> for less-experienced team members through both your technical knowledge and leadership skills</li>
+</ul><div>
+<br><br>
+</div><h1>Here’s what we’re looking for</h1><ul>
+<li>You are inspired by our mission to put <em>one billion people in dream jobs</em>
+</li>
+<li>You are fully aligned with our <a href="https://www.testgorilla.com/careers/">values</a>
+</li>
+<li>Experience designing, implementing, running, and maintaining production front-end code using modern client-side development frameworks based on JS/TS such as <a href="https://www.testgorilla.com/test-library/programming-skills-tests/angular-test/">Angular</a>
+</li>
+<li>You strive for excellence: pixel-perfect, high-quality code, and lightning-fast load times</li>
+<li>You care deeply about building a world-class engineering team</li>
+<li>You have a solid understanding ofUX/UI design, usability, and accessibility</li>
+<li>You are passionate about improving skills and learning new technologies</li>
+<li>You enjoy influencing others and always advocate for technical excellence while being open to change</li>
+<li>You’re resilient in ambiguous situations and can approach challenges from multiple perspectives</li>
+<li>You have strong written and verbal communication skills. You can validate your decisions and communicate them clearly</li>
+</ul><div>We typically expect candidates with at least <strong><em>7 years of  Senior Frontend Engineer experience</em></strong> to have the skills mentioned above.<br><br>
+</div><h1>Bonus points if ...</h1><ul>
+<li>you have experience in a SaaS product based company</li>
+<li>you are comfortable with Agile methods, such as Extreme Programming (XP), Scrum, and/or Kanban</li>
+<li>you have a working knowledge of cloud technology such as <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/aws-test/">AWS</a>, Azure, Kubernetes, and Docker</li>
+</ul><div><br></div><h1>Interested?</h1><div>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions faster and bias-free. I took one too and I enjoyed it!<br><br>
+</div><div>So if this role sounds like a good fit for you, I’d like you to <a href="https://assessment.testgorilla.com/testtaker/publicinvitation/2c0ba627-eba6-43c0-bad5-ffac23b42f2a">take an assessment</a> so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product! Simply use the Apply button.<br><br>
+</div><div>If you’re hired, I’ll do everything I can to help you succeed at <a href="https://www.testgorilla.com/">TestGorilla</a> and throughout the rest of your career.</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/slab-frontend-engineer">https://weworkremotely.com/remote-jobs/slab-frontend-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-8">https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-8</a></p>
 
                 </details>
                 </td>
@@ -76,7 +94,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-1347890" align="right" target="_blank">Apply</a>
