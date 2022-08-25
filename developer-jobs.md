@@ -11,7 +11,7 @@
                     <code>developer, nft, financial</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112161" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>dev, javascript, react</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112140" align="right" target="_blank">Apply</a>
@@ -50,230 +50,85 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/3747/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0075/9084/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Credit Glory</h5>
-                    <h3> Senior Ruby on Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/credit-glory-senior-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/3747/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Henderson, NV
-    <br /><strong>URL:</strong> <a href="http://www.creditglory.com">http://www.creditglory.com</a>
-</p>
-
-<div>
-<strong><em>Complete the following to apply:</em></strong><br><br>1. Email jiri@creditglory.com as the main recipient (our CTO) + cc adam@creditglory.com (COO)<br>2. Use subject line: WWR: [yourname] Senior Ruby on Rails Developer<br>3. Attach your resume/CV<br>4. Add anything else relevant in the body of your email (why you would be a good fit, what you are looking for etc).<br><br><strong>About Us<br></strong><br>
-</div><div>We are a fully remote team looking for a proactive and experienced Senior Rails Developer to join our team.</div><div> </div><div>Your responsibilities will include working closely with our CTO &amp; COO to develop new, innovative &amp; exciting features (+ improve existing ones) that help improve our customers’ financial future. </div><div> </div><div>If you enjoy solving complex problems, can work across the whole stack from backend to frontend, and know how to get the job done right the first time, this might be a great position for you.</div><div><br></div><div>
-<br><strong>What We’re Looking For:</strong>
-</div><ul>
-<li>5+ years experience with Ruby on Rails</li>
-<li>Ability to work across the whole stack</li>
-<li>Hotwire and Stimulus.JS experience is a plus</li>
-<li>TailwindCSS experience is a plus as well</li>
-<li>Good experience with testing - both unit, integration, and E2E</li>
-<li>Good working knowledge of SQL and PostgresSQL</li>
-<li>Previous experience working remotely</li>
-<li>Analytical, pro-active &amp; problem-solving skills (along with attention to detail)</li>
-<li>Good written and verbal communication skills</li>
-<li>Ability to receive &amp; administer constructive feedback</li>
-<li>4-hour overlap with CET timezone required.<br><br>
-</li>
-</ul><div><strong>What You’ll Do:</strong></div><ul>
-<li>You’ll work with us to architect, build, deploy, and maintain applications that serve both internal and external users</li>
-<li>Design and develop well-tested code when needed</li>
-<li>Write proof of concept or throwaway code when the situation calls for it</li>
-<li>Increase overall code quality long-term<br><br>
-</li>
-</ul><div>
-<strong>Pay<br></strong><br>
-</div><div>Starting salary is between $80,000 - $120,000 USD depending on your skills and experience. Earning potential for tenured developers is &gt;=$150,000 + based on tangible value provision.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/credit-glory-senior-ruby-on-rails-developer">https://weworkremotely.com/remote-jobs/credit-glory-senior-ruby-on-rails-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/5800/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CVEDIA</h5>
-                    <h3> Senior C++ Developer - Remote - EU Time Zone</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>67 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/5800/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London - UK
-    <br /><strong>URL:</strong> <a href="https://www.cvedia.com/">https://www.cvedia.com/</a>
-</p>
-
-<div>
-<br>About CVEDIA<br><br>
-</div><div>CVEDIA is an AI company that develops deep learning solutions for some of the world's largest organizations to solve real-world problems and improve our world and the lives of people for the years to come.<br><br>
-</div><div>Our computer vision runtime engine CVEDIA-RT is a unique software that simplifies designing, testing, and deploying AI solutions on Cloud and on Edge devices without worrying about system details.<br>CVEDIA-RT runs our AI models, created using synthetic data, which are suitable for many different applications and use-cases like perimeter security, intelligent traffic systems, home security, drone detection, and many more.<br><br>
-</div><div>
-<br>About you<br><br>
-</div><div>
-<strong>We are looking for C++ Developers to extend and improve our core product CVEDIA-RT and implement the runtime solutions for customer-specific projects.<br></strong><br>
-</div><div>In this role, you will be able to work with exceptionally talented and driven individuals who are all making a massive impact on our business.<br><br>
-</div><div>Everyone here drives their own ideas all the way from start to finish, everyone is given an equal opportunity to flourish and see the fruits of their labor.<br><br>
-</div><div>For this position, we’re currently only accepting applicants in European countries.<br><br>
-</div><div>
-<br>Responsibilities<br><br>
-</div><ul>
-<li>Take on the challenge to improve the features of CVEDIA-RT.</li>
-<li>Manage and implement customer-specific solutions using LUA scripting.</li>
-<li>Participate and contribute to improving the entire production pipeline: software design, implementation, tests, documentation, release cycle, etc.</li>
-<li>Collaborate with the AI team to discuss and plan new features and improvements.</li>
-<li>Self-manage your work by proposing solutions, reporting progress, and promoting an active collaboration with other team members.</li>
-</ul><div>
-<br>Requirements<br><br>
-</div><ul>
-<li>Very good English verbal and written communication skills.</li>
-<li>Very good time management and organizational skills, and attention to detail.</li>
-<li>Great problem-solving skills paired with the ability to present and discuss ideas and solutions.</li>
-<li>5+ years of experience in C++. It would be great if you have been already working in these contexts:<ul>
-<li>Windows and Linux</li>
-<li>Computer vision</li>
-<li>Tracking algorithms</li>
-<li>CUDA</li>
-<li>OpenCV</li>
-<li>Embedded systems</li>
-</ul>
-</li>
-<li>Experience in object-oriented design and test-driven development.</li>
-<li>Experience with GIT</li>
-</ul><div><br></div><div>
-<br>Considered a plus<br><br>
-</div><ul>
-<li>Experience in leading projects and interacting with customers</li>
-<li>Experience in LUA scripting</li>
-<li>Experience with CI/CD tools</li>
-<li>Experience in neural networks and computer vision</li>
-</ul><div>
-<br><br>
-</div><div><br></div><div>
-<br>Perks and Benefits<br><br>
-</div><div>🌴VACATION TIME<br><br>
-</div><div>CVEDIA offers 4 weeks of paid vacation time per year, plus local holidays and paid sick days.<br><br>
-</div><div>🍸PERSONAL DAYS<br><br>
-</div><div>On top of the paid vacation time and local holidays, CVEDIA offers the opportunity to take up to one paid day off per week for personal reasons, as far as it's not impacting the deadlines and productivity of other team members. Work smarter, not harder!<br><br>
-</div><div>🕒FLEXIBLE WORK HOURS<br><br>
-</div><div>We focus on making your personal life as much of a priority as work is - we're focused on making the two compatible. Work with us to define your needs.<br><br>
-</div><div>🥳COMPANY RETREATS<br><br>
-</div><div>Our team goes on an all-expenses-paid trip every year simply to socialize. We're planning for Italy next year!<br><br>
-</div><div>🌍100% REMOTE TEAM<br><br>
-</div><div>Our team is global and located in 15+ countries across North America and the EU. Work from wherever you have a good internet connection!<br><br>
-</div><div>🔍IMPROVEMENT-FOCUSED<br><br>
-</div><div>Our operations and management team focus on consistently improving CVEDIA through feedback. No feedback is left unattended - our employees are instrumental in shaping our company.<br><br>
-</div><div>💰COMPETITIVE SALARY<br><br>
-</div><div>Our salaries are competitive and based on experience!<br><br>
-</div><div>📈STOCK OPTIONS<br><br>
-</div><div>All CVEDIA employees receive company stock options - so if the company does well, we all do well.<br><br>
-</div><div>
-<br><br>
-</div><div>
-<br>Our Values<br><br>
-</div><div>PASSION<br><br>
-</div><div>We need both energy and passion to develop cutting-edge AI. To succeed at CVEDIA, you’ll need to have a strong investment in both your career and the role of AI in the future of the planet.<br><br>
-</div><div>COMMITMENT<br><br>
-</div><div>CVEDIA has the opposite of a 'quick-n-dirty' mentality. Every aspect of our technology has been meticulously built and is always the product of very hard work.<br><br>
-</div><div>AUTONOMY<br><br>
-</div><div>Carrying confidence in the work we do individually is required to work at the pace that we do as a team. Academic research, tutorials, and even creating our own solutions with the tools we have are all on the board during a regular day's work.<br><br>
-</div><div>JOY<br><br>
-</div><div>It's one of our greatest strengths to bring excitement to our workplace. We carry this energy into meetings, project planning, and our dedication to our work, and focus on work that feels meaningful.<br><br>
-</div><div>COMMUNICATION<br><br>
-</div><div>Honest discussions are imperative to the flow of work and ideas. Team members need to be able to effectively communicate complex ideas to those who don’t work in their field. It's a regular occurrence to discuss plans and ideas with any team member on the fly spontaneously, including our CEO or CTO. Each team member is respected equally and acts as a valuable contributor.<br><br>
-</div><div>RESPECT<br><br>
-</div><div>Anti-discriminatory company culture – we won’t discount you for things like age, ethnicity, or gender.<br><br>
-</div><div>
-<br><br>
-</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone">https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TestDome</h5>
-                    <h3> Frontend Developer (Vue.js + ASP.NET Core)</h3>
+                    <h5>TestGorilla</h5>
+                    <h3> Frontend Engineer (Angular Developer)</h3>
                 </td>
                 <td width="300">
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>95 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/testdome-frontend-developer-vue-js-asp-net-core-1" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-2" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0075/9084/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Croatia
-    <br /><strong>URL:</strong> <a href="https://www.testdome.com/">https://www.testdome.com/</a>
+  <strong>Headquarters:</strong> Amsterdam, The Netherlands
+    <br /><strong>URL:</strong> <a href="https://www.testgorilla.com/">https://www.testgorilla.com/</a>
 </p>
 
-<div>At <a href="https://www.testdome.com/">TestDome</a>, we make it easy for companies to screen job applicants with work-sample tests for multiple skills. We offer programming assessments, tests for non-technical disciplines, and reasoning tests. Some of our customers include Ernst &amp; Young, PayPal, and Turkish Airlines.</div><div><br></div><div>We are fully remote with a small and dedicated team based around the world. The team works in an agile style using the Kanban framework, prefers documentation over chat, and aims for async communication. You will be working alongside 5 full-stack developers, 1 UX designer/developer, and 1 QA engineer. To learn more about the way we work, check our <a href="https://docs.google.com/document/d/1wUxGV9eDLuurOUhRhVyBx1j3ie_WNjJjy8oORSnSHdQ/edit?usp=sharing">public company manual</a>.</div><div><br></div><div><strong>About the job</strong></div><ul>
-<li>Take an active role in the entire software development cycle, from conception to delivery.</li>
-<li>Plan, build, and release new features using TypeScript, Vue.js and C# (ASP.NET Core).</li>
-<li>Work closely with our UI/UX designer to help design beautiful user-interfaces that are easy to use.</li>
-</ul><div><br></div><div><strong>Requirements</strong></div><ul>
-<li>Expert in modern web development (ideally with Vue.js).</li>
-<li>Solid UX/UI design skills (ideally with Figma).</li>
-<li>Working knowledge of backend development using C# and ASP.NET Core.</li>
-</ul><div><br></div><div><strong>Hiring Process</strong></div><div>Our goal is to make an offer within two weeks. We have a staged approach and successful applications will progress through each step:</div><ul>
-<li>Take a TestDome screening test to assess your skills. Naturally, we dogfood our product so you will get a chance to see what we are building to make hiring better.</li>
-<li>Job interview</li>
-<li>Job offer</li>
-</ul><div><br></div><div><strong>What we offer</strong></div><ul>
-<li>Salary from $50,000 - 85,000 USD per year</li>
-<li>Work from anywhere with flexible working hours</li>
-<li>We cover the cost of a coworking space</li>
-<li>Work-related education costs are covered</li>
-<li>Paid public holidays based on where you live</li>
-<li>24 days of paid vacation</li>
-<li>Paid sick leave</li>
-<li>Paid special leave</li>
-</ul><div><br></div><div>To apply, start your programming screening test by clicking on <a href="https://app.testdome.com/apply/13d818c3ef214a9d931796a9b87e733d">this link</a>.</div><div><br></div>
+<div>Hi there,<br><br>
+</div><div>I’m Nicolas, TestGorilla’s Head of Engineering. We’re a fast-growing HR tech startup that helps hiring teams make better hiring decisions faster and bias-free.<br><br>Over the past year, we’ve experienced tremendous growth. More than 5,700 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way.<br><br>
+</div><div>As we scale our efforts in 2022 and beyond, we’re looking for a<strong> Frontend Engineer</strong> who’s passionate about joining our quest to help people land dream jobs.<br><br>
+</div><h1>The proposition</h1><ul>
+<li>Helping shape a fast-growing HR tech startup as an early employee</li>
+<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
+<li>Competitive salary incl. bonus and stock options</li>
+<li>Flexible hours and vacation</li>
+<li>Paid parental leave </li>
+<li>€1000 remote working budget per year</li>
+<li>Learning &amp; development budget of 3.5% of salary</li>
+</ul><div>
+<br><br>
+</div><h1>The role in context</h1><div>We are looking for a<strong> Frontend Engineer</strong> to join our engineering department and help us bring our product to Enterprise level maturity. Your work will directly impact hundreds of thousands of users around the world.</div><div> </div><div>As a member of the engineering team, you will build and deliver frontend solutions to provide extraordinary product experiences for our users, including SPAs and reusable components for the rapid growth of all our products.</div><div> </div><div>You’ll own the design, code, and deployment of solutions and make sure they perform and scale in production. </div><div>
+<br> </div><h1>You’ll spend time on the following</h1><ul>
+<li>Take full <strong>ownership</strong> of the frontend; from low-level optimizations to improving user experience</li>
+<li>Build <strong>reusable</strong> code and libraries for future use</li>
+<li>Ensure the technical feasibility of <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/ux-ui-design-test/">UI/UX designs</a> and propose features and functionalities to the product team</li>
+<li>
+<strong>Optimize</strong> the application for maximum speed and scalability</li>
+<li>Lead the entire <strong>software development and delivery</strong> cycle from ideation to deployment and everything in between</li>
+<li>Efficiently utilize <strong>DevOps</strong> tools and practices to deliver high-quality software as well as value to end customers as early as possible</li>
+<li>Work in a collaborative, talented <strong>distributed team</strong> across Europe, United States, South America, and Asia</li>
+<li>You will act as a <strong>mentor</strong> for less-experienced team members through both your technical knowledge and leadership skills</li>
+</ul><div>
+<br><br>
+</div><h1>Here’s what we’re looking for</h1><ul>
+<li>You are inspired by our mission of putting<em> 1 billion people in dream jobs</em> </li>
+<li> You are fully aligned with our <a href="https://www.testgorilla.com/careers/">values</a>
+</li>
+<li>You have 4-6 years of experience designing, implementing, running, and maintaining production <strong>front-end code</strong> using modern client-side development frameworks based on JS/TS such as <a href="https://www.testgorilla.com/test-library/programming-skills-tests/angular-test/">Angular</a>
+</li>
+<li>You strive for <strong>excellence:</strong> pixel-perfect, high-quality code, and lightning-fast load times</li>
+<li>You care deeply about building a <strong>world-class engineering</strong> team</li>
+<li>You have a solid understanding of<strong> UX/UI design, usability, and accessibility</strong>
+</li>
+<li>You are passionate about improving skills and <strong>learning</strong> new technologies</li>
+<li>You enjoy <strong>influencing others</strong> and always advocate for technical excellence while being open to change</li>
+<li>You’re <strong>resilient</strong> in ambiguous situations and can approach challenges from multiple perspectives</li>
+<li>You have strong written and verbal <strong>communication skills</strong>. You can validate your decisions and communicate them clearly</li>
+</ul><div>
+<br><br>
+</div><h1>Bonus points if ...</h1><ul>
+<li>you have experience in a SaaS product based company</li>
+<li>you are comfortable with Agile methods, such as Extreme Programming (XP), Scrum, and/or Kanban</li>
+<li>you have a working knowledge of cloud technology such as <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/aws-test/">AWS</a>, Azure, Kubernetes, and Docker </li>
+</ul><div>
+<br><br>
+</div><h1>Interested?</h1><div>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions faster and bias-free. I took one too and I enjoyed it!<br><br>
+</div><div>So if this role sounds like a good fit for you, I’d like you to <a href="https://assessment.testgorilla.com/testtaker/publicinvitation/dfb458d5-b49e-4c93-a830-fdfa210e733f">take an assessment </a>so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product! <br><br>
+</div><div>If you’re hired, I’ll do everything I can to help you succeed at <a href="https://www.testgorilla.com/">TestGorilla</a> and throughout the rest of your career.</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testdome-frontend-developer-vue-js-asp-net-core-1">https://weworkremotely.com/remote-jobs/testdome-frontend-developer-vue-js-asp-net-core-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-2">https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-2</a></p>
 
                 </details>
                 </td>
@@ -289,7 +144,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>153 days ago</text>
+                <text>154 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/g2i-inc-mid-senior-or-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -327,52 +182,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/0588/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Toptal</h5>
-                    <h3> Senior Front-End Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>335 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/toptal-senior-front-end-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0067/0588/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong>  Wilmington, DE
-    <br /><strong>URL:</strong> <a href="https://www.toptal.com/">https://www.toptal.com/</a>
-</p>
-
-<div><strong><em>Design your full-time freelance career as a top freelance developer with Toptal. </em></strong></div><div><br></div><div>Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. </div><div><br></div><div>Toptal is an elite talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere.<strong> Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </strong>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. </div><div><br></div><div>As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. </div><div><br></div><div>That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</div><ul>
-<li>English language proficiency</li>
-<li>
-<strong>3+ years</strong> of professional experience in software development</li>
-<li>Solid experience with<strong> React.js</strong> is a strong advantage</li>
-<li>Project management skills</li>
-<li>A keen attention to detail</li>
-<li>Experience with system architecture or leading a software team is a strong advantage</li>
-<li>
-<strong>Full-time availability</strong> is a strong advantage<br><br>
-</li>
-</ul><div><br></div><div>Curious to know how much you could make? Check out our developer rate calculator: <a href="https://topt.al/dwc7v2">https://topt.al/dwc7v2</a> </div><div><br></div><div>If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/jmc7Q3"><strong>https://topt.al/jmc7Q3</strong></a>
-</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toptal-senior-front-end-developer">https://weworkremotely.com/remote-jobs/toptal-senior-front-end-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -383,7 +192,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>390 days ago</text>
+                <text>391 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -449,7 +258,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>631 days ago</text>
+                <text>632 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -493,7 +302,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -540,7 +349,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -609,7 +418,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -820,7 +629,7 @@
                     <code>developer,drupal,growth,design</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
@@ -845,7 +654,7 @@
                     <code>android,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
@@ -916,7 +725,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -979,31 +788,6 @@
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
 <img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/02/100mslive.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>100ms</h5>
-                    <h3>Principal Developer Advocate</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J110353/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                About us:100ms is building infrastructure for developers integrating live, interactive video experiences into their apps. Our SDKs enable developers to add gold standard audio-video quickly and more reliably than our competition.We are a team uniquel …
-About us:100ms is building infrastructure for developers integrating live, interactive video experiences into their apps. Our SDKs enable developers to add gold standard audio-video quickly and more reliably than our competition.We are a team uniquely placed to work on this problem. We have built world-record scale live video infrastructure powering billions of live video minutes in a day across Disney+ Hotstar and Facebook. We are a remote-first global team.<br/>What would you do:Your role will be to drive awareness and develop interest towards 100ms, and its benefits among the broader developer community, with a critical focus on designated target groups.<br/>You will:Become the zeroth customer for our APIs and SDKs to create examples of what can be built with 100msCreate large (blog posts, videos) and small content (social media posts) around what can be built with 100msInfluence the 100ms brand and other GTM efforts to increase developer empathyGrow the audience of 100ms developers by managing and expanding online and offline communities<br/>Who can apply:Seasoned developer advocates (or equivalent) with 5-10 yrs of work experienceExperience in shipping open source code on at least one client platforms (JavaScript, iOS, Android, Flutter, React Native)Strong understanding of SDK/API related terminologies and trendsProven experience in building developer communitiesBe able to work flexible hours to interact with the developer communityPast experience of working as a developer and familiarity with engineering processesNative or near-native level ability in the local language<br/>Good to have:Passion for marketing and storytellingAn ability to understand complex technology products easilyAn eye for detail and strong inclination towards data analysis
                 </details>
                 </td>
             </tr></table>
