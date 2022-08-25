@@ -1,76 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1357365/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Ukio</h5>
-                    <h3>Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,docker,product manager,growth</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1357365" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>About Ukio</strong></p>
-<p>Ranked as one of the most promising Spanish startups of 2022, Ukio is a hyper-growth proptech started in 2020 by founders with deep experience in travel and technology.</p>
-<p>Our mission is to empower individuals to live where they want, when they want. We do this by disrupting the traditional residential real estate market and providing turn-key design-forward residential apartments for monthly stays powered by tech.</p>
-<p>Having raised €10M in capital last year from Europe's leading VC firms, we are now at 120 employees across four markets and have experienced a 12x growth in revenue in the last year alone surpassing a €10M annual run rate.</p>
-<p>We are in the process of closing our series A round and in the next 12-18 months, we will continue rapidly expanding into multiple markets across Europe and building out a world class executive team to help the business reach new heights!</p>
-<p>Find out more:</p>
-<ul>
-<li>Ukio - <a class="external" href="https://www.stayukio.com/" rel="nofollow">https://www.ukio.com/</a></li>
-<li>TechCrunch - <a class="external" href="https://techcrunch.com/2021/09/23/as-remote-work-becomes-normal-ukio-raises-9m-for-premium-long-term-rentals/?guccounter=1" rel="nofollow">https://techcrunch.com/2021/09/23/as-remote-work-b...</a></li>
-<li>Top-10 Start-Ups Ranking - <a class="external" href="https://www.eu-startups.com/2022/01/10-super-promising-spanish-startups-to-keep-an-eye-on-in-2022-and-beyond/" rel="nofollow">https://www.eu-startups.com/2022/01/10-super-promi...</a></li>
-</ul>
-<p> </p>
-<p><strong>Role </strong></p>
-<p>This is a unique opportunity to see out and work in developing Ukio's products from very early conception to the final stage. Working 100% remotely you will join a highly skilled, forward-thinking team working in a cross-discipline manner. As a start-up, and with Ukio’s unique culture you can expect an exciting environment, with a lot of room for innovation, new ideas and suggestions. You will work on development and maintenance of the company's main commercial platform but also internal tools, in fact, our main focus is creating those tools so we can help other teams to optimize their time or improve certain flows. You will lead a significant part of the implementation and deployment of these projects.</p>
-<p> </p>
-<p><strong>Requirements</strong></p>
-<p>Responsible for the end-to-end software development process, working closely with the team to scope, design, and deploy innovative new features.</p>
-<p>Code review and support high quality standards, ensuring best practices are fulfilled and we release only the highest quality products</p>
-<p>Liaise with our product manager and the rest of the team members/leads to identify opportunities for improvement and optimization of existing projects.</p>
-<p>Contribute to analysis of projects including performance, diagnosis, and troubleshooting.</p>
-<p>Act as an example to others in your team, encouraging and mentoring Junior Engineers in your craft.</p>
-<p>Objectively explore multiple approaches and recommend the best technical direction including logic and reasoning.</p>
-<p> </p>
-<p><strong>About you</strong></p>
-<p>1-10 years working experience in a professional programming position</p>
-<p>Experience with Docker, and ideally AWS ECS (if you have worked with k8s the transition will be easy)</p>
-<p>Proficient with database technologies</p>
-<p>Understand the importance of testing and the tradeoffs between different types of testing</p>
-<p>Attention to detail and problem-solving ability</p>
-<p>Ability to analyze data and communicate ideas clearly so the whole team can be in the loop</p>
-<p>Ability to independently learn new technologies.</p>
-<p>Proven ownership of an engineering initiative</p>
-<p><strong>Benefits</strong></p>
-<p>Bonus Scheme</p>
-<p>Flexible schedule</p>
-<p>Employee Stock Options Plan</p>
-<p>Fully Remote (work from home or where you prefer)</p>
-<p>Investment in your learning and development</p>
-<p>Fully paid private health care</p>
-<p>Team events (when it is safe to do so :)</p>
-<p>Competitive annual gross salary in line with your knowledge and experience:</p>
-<p>0-5 years experience: 25,000 - 45,000 Euros</p>
-<p>5-10 years experience: 45,000 - 65,000 Euros</p>
-<p> </p>
-<p><strong>Our culture</strong></p>
-<p>We honor diversity, compassion, and honesty above all else in our team. We’ve got a great mix of dedicated, collaborative, and results-driven people. In a true startup fashion, we always embrace the unknown and grant full autonomy to our team to act as owners of their projects and tasks. Our team is composed of everything from foodies to athletes, adventure seekers to art buffs. We know fun and we always have a team event on our calendars.</p>
-<p>Ukio's culture promotes and values each individual's contribution. Diversity and inclusion it’s a big topic for us, as such, we encourage applications from individuals from all backgrounds, regardless of age, gender, ethnicity, disability, sexual orientation, gender identity, socio-economic background, religion and/or belief.</p>
-<img src="https://remotive.com/job/track/1357365/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1352183/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -81,7 +10,7 @@
                     <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1352183" align="right" target="_blank">Apply</a>
@@ -122,7 +51,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -190,7 +119,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -252,7 +181,7 @@
                     <code>cloud,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1342235" align="right" target="_blank">Apply</a>
@@ -297,11 +226,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/06/GnGbxfUe_400x400.jpg" width="38px" height="auto">
+                    <img src="https://freshremote.work/media/company/logo/22/06/andopen_.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>6 River Systems</h5>
-                    <h3>Senior Software Engineer - Robotics</h3>
+                    <h5>&Open</h5>
+                    <h3>Head of Software Engineering</h3>
                 </td>
                 <td width="300">
                     <code>Full Time</code>
@@ -310,53 +239,67 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J110236/" align="right" target="_blank">Apply</a>
+                <a href="https://freshremote.work/J110541/" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                6 River Systems (6RS) is a Shopify (SHOP) company leading the way to faster fulfillment. E-commerce has changed the world and our solutions power winning warehouses of the future. We’re revolutionizing warehouse automation with collaborative mobile r …
-<p><a href="https://6river.com/"><strong>6 River Systems</strong></a> (6RS) is a<a href="https://www.shopify.com/about"> <strong>Shopify</strong></a> (<a href="https://investors.shopify.com/stock-information/default.aspx">SHOP</a>) company leading the way to faster fulfillment. E-commerce has changed the world and our solutions power winning warehouses of the future. We’re revolutionizing warehouse automation with collaborative mobile robots driven by artificial intelligence and advanced cloud-based software.</p>
-<p>As a <strong>Senior Software Engineer</strong>, you will build practical localization and mapping solutions for autonomous mobile robots. This is an opportunity to join an experienced robotics team and learn from them, as well as bring more software best practices into the team’s daily work.</p>
-<p><strong>In this new position, you will: </strong></p>
+                About &amp;Open🙂 The world’s first happiness platform🎁  Our platform sends digital, physical and cause gifts at scale🤝 Clients include Airbnb, Spotify, Reebok and more📈 Join our growing teamAbout the team&amp;Open’s Engineering team is a multidiscipl …
+<p><strong>About &amp;Open</strong><br/>🙂 The world’s first happiness platform<br/>🎁  Our platform sends digital, physical and cause gifts at scale<br/>🤝 Clients include Airbnb, Spotify, Reebok and more<br/>📈 Join our growing team</p><p><strong>About the team</strong><br/>&amp;Open’s Engineering team is a multidisciplinary group of software engineers, UI designers and technical architects. Together, our task is to build the best gifting platform in the world. We obsess over the details, the connections and touch points. We use modern tooling to develop refined and reliable code.</p>
+
+
+
+
+<p>About the role</p>
+<p>We’re seeking a Head of Software Engineering to lead and develop our talented Software Engineers who are building new powerful APIs, features and integrations into our gifting platform. This role will attract, retain, and manage a highly-skilled remote Software Engineering team. We need someone who knows how to foster and grow a positive and performant environment in order to maximise the value generated.</p>
+
+
+
+
+
+
+
+
+<p><strong>What you’ll do</strong></p>
 <ul>
-<li style="font-weight: 400;">Solve complex, practical problems to improve localization and mapping for mobile robots</li>
-<li style="font-weight: 400;">Help maintain high standards of code quality and test coverage, both through your own work and through code reviews.</li>
-<li style="font-weight: 400;">Implement solutions in the cloud and on robots</li>
-<li style="font-weight: 400;">Write thorough test procedures for QA engineers and colleagues</li>
-<li style="font-weight: 400;">Share knowledge and refine designs based on input from the team</li>
+<li><strong>Lead.</strong> You will lead by example and passionately foster great engineering practices and processes. You will provide and promote technical leadership. You will create a world-class Engineering environment that produces high quality scalable solutions.</li>
+<li><strong>Mentor.</strong> Through regular 1-on-1 meetings with your team, you will provide feedback and direction to ensure they are continually learning and growing.</li>
+<li><strong>Nurture.</strong> You’ll help us build a diverse team with a healthy culture. You will empower Engineering managers and Software Engineers to take well-defined ownership and responsibility, collectively delivering to the company’s objectives.</li>
+<li><strong>Cultivate.</strong> Engineers need to constantly hone their skills and expand their horizons; you’ll help them do that by empowering them and encouraging excellence.</li>
+<li><strong>Promote wellbeing</strong>. As an Engineering leader, you’ll share in the responsibility of ensuring we offer a safe and positive space for our Engineers to thrive.</li>
+<li><strong>Collaborate</strong>. You’ll work closely with other managers of the people in our cross-functional product teams to ensure we work with clear communication, common understandings, and effective processes.</li>
+<li><strong>Research and innovate.</strong> We aim for continuous improvement and you’ll bring that through in all aspects of your work.</li>
+<li><strong>Recruit.</strong> You’ll play an active role in identifying future members of our high-performing team.</li>
+<li><strong>Refine</strong>. You’ll constantly monitor productivity and process effectiveness, driving improvements to process, tooling, and methodology in order to increase value delivery and job satisfaction for our Software Engineering team.</li>
+<li><strong>Communicate.</strong> You will represent Software Engineering in the Senior Management Team and translate complex technical concepts, features, and results to the company. You will build effective relationships with the other business functions, ensuring that their insights are reflected in our technical strategy and operations.</li>
 </ul>
-<p><strong>What you'll need day one: </strong></p>
+<p><strong>What you'll need</strong></p>
 <ul>
-<li style="font-weight: 400;">Professional experience programming in C++</li>
-<li style="font-weight: 400;">Scrappy, yet thoughtful approach to problem solving</li>
-<li style="font-weight: 400;">Be ready to help define architecture / implementation designs for major components of our software</li>
-<li style="font-weight: 400;">Experience working across teams to find elegant solutions integrating with technology not immediately owned by your team</li>
-<li style="font-weight: 400;">Experience mentoring newer engineers</li>
-<li style="font-weight: 400;">Experience helping define best practices</li>
-<li style="font-weight: 400;">Experience designing APIs </li>
+<li>5+ years as a software engineer</li>
+<li>3+ years of people management experience, across multiple teams</li>
+<li>A track record of leading teams delivering complex and high-impact services at scale</li>
+<li>Experience managing a technical roadmap, ensuring short-term and long-term, product and technology objectives are objectively prioritised, tracked, and delivered</li>
+<li>Computer Science fundamentals in object-oriented design, data structures, algorithm design, problem-solving, and complexity analysis</li>
+<li>Excellent problem-solving abilities, attention to detail, time estimation and communication skills</li>
+<li>An entrepreneurial and strategic mindset: you know how to collaborate, use initiative, and guide the team’s activities according to commercial impact and direction</li>
+<li>An eye for quality and a solid understanding of how to achieve it in complex software systems</li>
+<li>You know how to apply agile methodologies and software development best practices to deliver meaningful impact</li>
+<li>Previous experience managing remote teams</li>
 </ul>
-<p> </p>
-<p><strong>It would be a bonus if you have: </strong></p>
-<ul>
-<li style="font-weight: 400;">Experience programming in Typescript and/or Python</li>
-<li style="font-weight: 400;">Practical experience with robotics projects and the Robot Operating System (ROS) </li>
-</ul>
-<p><strong>About 6 River Systems</strong></p>
-<p>Founded in Waltham, Massachusetts in 2015, 6 River Systems is a leading collaborative mobile robotics fulfilment solution and part of global commerce company Shopify. Founders Jerome Dubois and Rylan Hamilton were previously executives at Kiva Systems (now Amazon Robotics). The 6 River Systems solution is operating in more than 20 facilities in the U.S., Canada and Europe, fulfilling millions of units each week for companies including Lockheed Martin, CSAT Solutions, ACT Fulfillment, DHL, XPO Logistics, and Office Depot. To learn more, visit<a href="http://www.6river.com/"> www.6river.com</a>.</p>
-<p><strong>About Shopify</strong></p>
-<p>Shopify is a leading global commerce company, providing trusted tools to start, grow, market, and manage a retail business of any size. Shopify makes commerce better for everyone with a platform and services that are engineered for reliability, while delivering a better shopping experience for consumers everywhere. Headquartered in Ottawa, Canada, Shopify powers over one million businesses in more than 175 countries and is trusted by brands such as Allbirds, Gymshark, PepsiCo, Staples, and many more. For more information, visit<a href="http://www.shopify.com/"> www.shopify.com</a>.</p>
-<p> </p>
+
+
+
+<p><strong>All welcome here</strong><br/>We believe diverse teammates, opinions and backgrounds generate a larger global impact and more considerate acts of care. &amp;Open is an equal opportunity employer and we do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status or disability status.</p>
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/06/_Et3eqZH_400x400.png" width="38px" height="auto">
+                    <img src="https://freshremote.work/media/company/logo/22/05/fazz.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Beyond Finance</h5>
-                    <h3>Software Engineer</h3>
+                    <h5>Fazz Financial Group</h5>
+                    <h3>Senior Software Engineer</h3>
                 </td>
                 <td width="300">
                     <code>Full Time</code>
@@ -365,61 +308,29 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J110156/" align="right" target="_blank">Apply</a>
+                <a href="https://freshremote.work/J110823/" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                Beyond Finance is a next generation financial services company. Our goal is to provide financial peace of mind to our clients by giving them simple and transparent financial products that are customized to their individual circumstances.
-We're in con …
-<p>Beyond Finance is a next generation financial services company. Our goal is to provide financial peace of mind to our clients by giving them simple and transparent financial products that are customized to their individual circumstances.</p>
-<p>We're in constant pursuit of new collaborators that will help us get to the next level. Our workforce includes celebrated, diverse talents working towards the common objective of developing something transformational for the debt relief industry.</p>
-<p>Our team spirit and culture are what set us apart as a company. We love what we do, and we have fun doing it.</p><h2>About The Role</h2>
-<p>We are seeking an early career engineer for a new product line that is in early-stage, digital growth, to help empower consumers to improve their financial health. As a software engineer, you'll be working hand-in-hand with other engineers, product managers, and designers to design and deliver our new lead generation platform. Our product managers help determine the biggest opportunities we have to improve our customer's experience, and our engineers create and implement solutions to those problems. As a financial company, data security and integrity are top of mind, so you'll also help ensure our customer's data is safe by using secure coding practices and tooling that automates those checks for us.</p>
-<h2>What You’ll Do</h2>
+                About Fazz Financial Group Fazz Financial Group is a digital financial services group founded in 2016. It is based in Southeast Asia, and is the holding group for over 10 FinTech startups, which includes PayFazz, Xfers, Modal Rakyat, StraitsX, and ot …
+About Fazz Financial Group Fazz Financial Group is a digital financial services group founded in 2016. It is based in Southeast Asia, and is the holding group for over 10 FinTech startups, which includes PayFazz, Xfers, Modal Rakyat, StraitsX, and others. Fazz Financial Group’s mission is to enable financial access for everyone, especially within Southeast Asia, where 70% of its population is underserved. Fazz Financial Group has headquarters in Singapore and Indonesia, with 600 staff spread across regional offices in Malaysia, Taiwan, and Vietnam. We are proud to be local and knowledgeable about the region, giving an intimate understanding of Southeast Asia’s financial needs. As a local group born and bred in Southeast Asia, companies within Fazz Financial Group are among the first Indonesian startups, and one of the many Singaporean startups to be seeded by the prestigious Y-Combinator programme. We are backed by  both global and local investors including Insignia Venture Partners, B Capital, BRI Ventures, and many others.  We know how important our mission is to improving the livelihoods of millions of people in Southeast Asia. That's why we're looking for passionate and driven people to join us to accelerate financial access for everyone. Head to our website to get to know us better: <a class="postings-link" href="https://fazzfinancial.com/">https://fazzfinancial.com/</a>
+<h3>About the Team</h3>
 <ul>
-<li style="font-weight: 400;">Contribute to decisions for greenfield and existing projects that will drive the business for the next 3-5 years</li>
-<li style="font-weight: 400;">Design and build our consumer-facing web platform and lead gen API using Ruby on Rails, PostgreSQL, and AWS</li>
-<li style="font-weight: 400;">Participate in technical conversations with other engineers and help steer decisions in the right direction</li>
-<li style="font-weight: 400;">Offer constructive and respectful feedback via code reviews</li>
-<li style="font-weight: 400;">Research and promote design patterns and practices that fit our technical challenges</li>
-<li style="font-weight: 400;">Write automated unit and integration tests as well as build tools to assist in testing various aspects of our platform</li>
-<li style="font-weight: 400;">Create business and technical metrics alongside features you build to data-driven decisions for our organization</li>
-<li style="font-weight: 400;">Work with our DevOps team to ensure our CI/CD pipeline, built with CircleCI, Jenkins, and AWS tooling fits our growing needs.</li>
-<li style="font-weight: 400;">Receive a personalized development program and sponsorship from your manager.</li>
-<li style="font-weight: 400;">Add features and make fixes with some initial guidance</li>
-<li style="font-weight: 400;">Provides transparency into progress</li>
-<li style="font-weight: 400;">Work with stakeholders to fully understand requirements</li>
-<li style="font-weight: 400;">Deliver high quality features with test coverage according to requirements</li>
-<li style="font-weight: 400;">Work with senior engineers to determine best solutions to problems</li>
-<li style="font-weight: 400;">Work with senior engineers to determine performance metrics in production</li>
-<li style="font-weight: 400;">Decompose features for day-to-day work</li>
-<li style="font-weight: 400;">Troubleshoot issues in code they’re familiar with, with some guidance</li>
-<li style="font-weight: 400;">Create post-release checks for all stories</li>
-</ul>
-<h2>What We Look For</h2>
+<li>You will be contributing to a new product launch that would unite various business units and internal core systems that would be the lifeblood and primary focus of our entire organization in the years ahead.</li><li>We are really excited about the possibilities of changing the way payments and business banking are done, and with our unique proprietary model, we are able to derive innovative unit economics which no other competitors are able to replicate.</li></ul>
+<h3>About the Team</h3>
 <ul>
-<li style="font-weight: 400;">Experience developing, releasing, and maintaining production-quality software using Ruby on Rails.</li>
-<li style="font-weight: 400;">Expertise in building and consuming APIs</li>
-<li style="font-weight: 400;">Strong knowledge of database design and writing SQL statements</li>
-<li style="font-weight: 400;">Ability to troubleshoot production issues in unfamiliar code</li>
-<li style="font-weight: 400;">Experience scoping projects into small iterations for release</li>
-<li style="font-weight: 400;">Clear and efficient communication skills</li>
-<li style="font-weight: 400;">Mentorship skills and the ability to give well-crafted constructive feedback</li>
-</ul><strong>Why join us?</strong> 
-<p>We are looking for great people to join a fast-paced, growing, and innovative business. For eligible fulltime employees, we offer:</p>
+<li>This is a role with a lot of opportunity for impact. We are looking to scale our engineering team from scratch in various countries such as Vietnam, Taiwan, Malaysia, and many more.</li><li>As the team is rapidly expanding in scope and size, you would be entrusted with many opportunities to coach and to mentor your team. This is a great learning opportunity for you in helping others to be a better version of themselves.</li><li>You would be making a direct impact on our product launch and contributing to something meaningful that would help improve the way businesses are done in Singapore, Indonesia, and in the future - South East Asia.</li></ul>
+<h3>What you'll do</h3>
 <ul>
-<li>Considerable employer contributions for health, dental and vision programs  </li>
-<li>Generous personal time-off </li>
-<li>401(K) match</li>
-<li>Merit advancement opportunities </li>
-<li>Career development &amp; training </li>
-</ul>
-<p>More importantly, our team spirit and culture are what really sets us apart as a company. We’re a world-class company that loves what we do…and we have fun doing it!</p>
-<p><em>Under the California Consumer Privacy Act (“CCPA”), Beyond Finance is informing California residents who are our job applicants, contractors or prospective employees (together “job applicants”) about the categories of personal information we collect about you and the purposes for which we will use this information. This notice and our Privacy Policy contain important information relating to the CCPA and apply only to personal information that is subject to the CCPA. Please see our website for the full CCPA statement.</em></p>
-<p>*Beyond Finance is an equal opportunity Employer*</p>
-<p><em>Beyond Finance does not accept unsolicited resumes from individual recruiters or third-party recruiting agencies in response to job positions.  No fee will be paid to their parties who submit unsolicited candidates directly to Beyond Finance employees or the Beyond Finance Finance and HR teams.  No placement fee will be paid to any third party unless such a request has been made by the Beyond Finance HR team.</em></p>
+<li>Being responsible for the overall health and productivity of the engineers within your team</li><li>Providing feedback on architecture and approach and helping teams make data-driven decisions</li><li>Having an overview of what’s happening across the organization and collaborating with other engineering teams to build the product</li><li>Code reviews and code implementation</li><li>Designing complex systems in a microservices architecture</li><li>Hiring and interviewing engineers for the team</li><li>The ability to read and write frontend is a bonus</li><li>Full autonomy in deriving impact – we believe people and teams are most empowered when they can act autonomously. You’ll work with your team to create a vision of your own on how to launch the ahead of our competitors</li></ul>
+<h3>What we're looking for in you</h3>
+<ul>
+<li>3+ years of relevant backend engineering experience, familiar with MVC frameworks such as Golang, Ruby on Rails, or any JS web frameworks</li><li>Expertise in SQL, database design, and writing optimal SQL queries.</li><li>Deep Knowledge of RESTful APIs</li><li>Proficient user of Git and GitHub</li><li>Evidence of understanding system design and being able to build a new system from scratch</li><li>Evidence of ability to maintain and scale a system</li></ul>
+<h3>Nice to haves</h3>
+<ul>
+<li>Experience with building intelligent, risk decision systems</li><li>Interested in financial systems, security and financial crime</li><li>Experience in developing on a large legacy production codebase</li><li>Experience with developing and managing MQ or Kafka messaging systems</li><li>Relevant experience in Payments, Retail or Consumer Financial Services</li><li>Experience in development in a zero-downtime CI/CD environment</li></ul>We love reviewing all the applications we receive, but unfortunately, we may not be able to get back to everyone individually.  If we’d like to move forward with your application, we’ll definitely be in touch!<br/>Fazz Financial Group is an equal opportunity employer. Individuals seeking employment at Fazz Financial Group will be considered without regard to race, religion, national origin, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, medical condition, ancestry, physical or mental disability, or any other characteristic protected by applicable laws. <br/>By submitting your application, you agree that Fazz Financial Group may collect your personal data for recruiting, regional organization planning, and related purposes.
                 </details>
                 </td>
             </tr></table>
