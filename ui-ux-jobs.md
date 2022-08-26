@@ -25,6 +25,65 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0001/6931/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Baymard Institute</h5>
+                    <h3> UX Research Writer & Analyst</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/baymard-institute-ux-research-writer-analyst-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0001/6931/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Denmark
+    <br /><strong>URL:</strong> <a href="https://baymard.com/">https://baymard.com/</a>
+</p>
+
+<div>Would you like to join a team of dedicated usability researchers, who produce cutting-edge User Experience research? Producing UX research findings that will be used by thousands of web professionals, including some of the biggest brands in the world (including Nike, Sears, Lenovo, Etsy)? Are you excellent at presenting complex research findings on web user behavior through the written word?</div><div><br></div><div>Then apply for the remote full-time position as 'UX Research Writer &amp; Analyst' at Baymard Institute.</div><div>
+<br><br>
+</div><div><strong>About Your Job at Baymard</strong></div><div>In this position, you will join Baymard’s team of usability researchers and primarily work at analyzing our raw annotated usability test data and writing the insights from this into usability guidelines. The guidelines go directly into our subscription platform <a href="https://baymard.com/research"><strong>Baymard Premium</strong></a>. </div><div><br></div><div>Our Baymard Premium customers are eagerly waiting for your UX research insights, be it the UI designer at Nike or the e-commerce director at Lenovo, as they use it as direct input for their UX and UI design decisions.</div><div><br></div><div>In this role, you’ll need to enjoy analysis and writing, since analyzing usability test data and writing usability test findings will be at least 50–80% of what you’ll be doing all year round.</div><div><br></div><div>Besides writing, the job involves moderating 1-1 usability tests, analyzing web user behavior, identifying themes and issues across multiple sites, and coming up with proposals for design patterns that can alleviate the identified problems.</div><div><br></div><div>In this job, you’ll be directly shaping the future of e-commerce, become a published usability research author, and should expect to join the ranks of the absolute top experts within e-commerce usability within a few years (if you aren’t already).</div><div><br></div><div>We want to work with the smartest and most dedicated people around the world, and the position is therefore open to full-time remote work. All of Baymard’s current team is already working remotely, so the entire company is structured around remote work. In other words, you are welcome to work with us from any location you prefer (as long as there’s a stable internet connection). </div><div>
+<br><br>
+</div><div><strong>Job Qualifications</strong></div><div>While we will train you in Baymard’s methodology and analysis process, we expect that you have the following qualifications. The numbers in brackets indicate the weighted importance of each on a 7-point scale (higher = more important). These weights reflect how candidates are evaluated, so make sure your application illustrates your prowess in the highest-weighted skills and traits.</div><div><br></div><ul>
+<li>[7/7] Requirement: Substantial experience with technical or <strong>professional writing</strong>. While UX writing is preferred, this experience can also come from other paths, e.g. a background in journalism, technical writing, research, etc.</li>
+<li>[6/7] Strong <strong>reasoning and logical deduction</strong> skills. Specifically in relation to your ability to deconstruct user behavior and understand what can and cannot be concluded from our usability research data (typically this is qualitative think-aloud test session data).</li>
+<li>[5/7] Experience with <strong>usability research</strong> (e.g., conducting think-aloud usability test sessions, analyzing data, writing findings).</li>
+<li>[5/7] Ability to <strong>propose web design recommendations</strong> for the usability issues we identify.</li>
+<li>[4/7] Familiarity with the <strong>‘web industry’</strong> and especially its jargon (can be from experience with web development, design, research, writing, etc.).</li>
+<li>[2/7] <strong>Editor experience</strong>, by helping other writers craft and improve their own written work.</li>
+<li>[1/7] Experience using a <strong>style manual</strong> (e.g. Chicago Manual of Style, APA, AP, or similar substantial style manual).</li>
+</ul><div>We furthermore expect that you are comfortable working remotely via digital platforms. Additionally, as most of our team is either based in the eastern USA or western Europe, you must have at least 2 hours of daily scheduled work overlap with those timezones. </div><div><br></div><div><em>Salary: in accordance with qualifications.</em></div><div><em>Start date: as soon as possible.</em></div><div>
+<br><br>
+</div><div><strong>How to Apply</strong></div><div>If you’re interested in this position, please send the following:</div><ol>
+<li>At least one long-form writing sample (1,000+ words) or a series of samples that collectively demonstrate your writing. Ideally, these are on a web-related topic (e.g., UX, e-commerce, information architecture, documentation). Samples can be both published or unpublished works; all materials are kept confidential. (Note: slide decks and samples with multiple authors are not considered.) <em>(Required)</em>
+</li>
+<li>A cover letter and a resume/CV. <em>(Required)</em>
+</li>
+<li>Other information you find relevant (hobbies, interests, ..). <em>(Optional)</em>
+</li>
+</ol><div>Send the above to <a href="mailto:info+research-writer22Q4@baymard.com?subject=Application%20for%20UX%20Research%20Writer%20position%20at%20Baymard"><strong>info+research-writer22Q4@baymard.com</strong></a> (all applications and materials are treated confidentially).</div><div><br></div><div><strong>Deadline is September 25th, 2022 (end of day).</strong></div><div><br></div><div><em>Note: Based on the applications, a few selected candidates will be assigned a paid writing and analysis test, which will be the main evaluation criterion for the position. This will also be a good way for you to get a feel for the primary task of this job.  (The test will be performed remotely. You’ll be given a real usability test dataset to analyze and describe within a 10-day deadline.)</em></div><div><br></div><div>Sincerely,</div><div>Edward Scott, UX Research Lead at the Baymard Institute</div><div>
+<br><br>
+</div><div>
+<strong><em>Referral Bonus:</em></strong><em> If this job isn’t you, but you know someone who’ll be the perfect fit, please send them the link to this page. If we end up hiring the person you referred, we’ll give you one year of access to a Baymard Premium </em><a href="https://baymard.com/research"><em>‘</em><strong><em>Medium’</em></strong></a><strong><em> </em></strong><em>plan (a $1,560 value).</em>
+</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/baymard-institute-ux-research-writer-analyst-1">https://weworkremotely.com/remote-jobs/baymard-institute-ux-research-writer-analyst-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/4652/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -35,7 +94,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-ux-engineer" align="right" target="_blank">Apply</a>
@@ -91,7 +150,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -141,90 +200,6 @@
 </ul><div>If you’re interested in joining us, please send your application. We’re very eager to meet you.</div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/onthegosystems-ui-ux-designer">https://weworkremotely.com/remote-jobs/onthegosystems-ui-ux-designer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2096/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Viva Translate</h5>
-                    <h3> Diseñador/a Web UX Senior</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>8 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/viva-translate-inc-disenador-a-web-ux-senior" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/2096/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> USA
-    <br /><strong>URL:</strong> <a href="https://vivatraduce.com/en/">https://vivatraduce.com/en/</a>
-</p>
-
-<div>Viva Traduce (<a href="https://contxto.com/es/news/viva-translate-ayuda-a-profesionales-hispanoparalntes-a-obtener-mejores-empleos/">más información</a>) está dirigido por un equipo de ingenieros procedentes de empresas e instituciones de primera línea, como Google y el MIT, con un sueño compartido. Estamos creando un mundo en el que el idioma y la nacionalidad ya no son barreras para el trabajo, ni para las oportunidades y estamos empezando por toda América Latina.</div><div><br></div><div>La tecnología es el centro de nuestro producto. Viva se basa en una plataforma de traducción que automatiza las comunicaciones en el lugar de trabajo, permitiendo que nuestros equipos de desarrollo y diseño colaboren sin problemas con nuestros clientes.</div><div><br></div><div>Tenemos un sueño increíble para el futuro del trabajo sin fronteras. Pero sabemos que los grandes sueños comienzan con grandes personas. ¿Cuál es tu historia? Si tú también eres un explorador, un soñador y un constructor, nos encantaría conocerte.</div><div><br></div><div><strong>Tenemos un desafío para quienes:</strong></div><ul>
-<li>Vibran energía emprendedora: se mueven por la curiosidad, nunca se rinden y se enfocan en superar sus propios límites<br>Son grandes comunicadores: proactivos, extrovertidos, con ganas de discutir problemas y soluciones</li>
-<li>Dan el máximo porque les gusta trabajar con compromiso y dedicación</li>
-<li>Viven los cambios como oportunidades y aprenden de sus errores</li>
-<li>Promueven el buen clima, aportan alegría y diversión</li>
-<li>Saben cómo construir con otras personas y disfrutan trabajando en equipo</li>
-</ul><div>
-<br>Imagínate emprendiendo proyectos desafiantes, dinámicos e innovadores y <strong>siendo responsable de:</strong>
-</div><ol>
-<li>
-<strong>Perspectiva de diseño única </strong>- perspicaz en el deleite y el juego</li>
-<li>
-<strong>Experiencia del usuario</strong> - Dirigir todas las fases del diseño del producto para diferentes proyectos web, asegurando la mejor experiencia del usuario en cada iniciativa.</li>
-<li>
-<strong>Investigación </strong>- Llevar a cabo la investigación de tendencias de los usuarios y de la  industria. Definir los casos de uso, las necesidades y la identidad de nuestros clientes. Definir los casos de uso, las necesidades y la identidad de nuestros clientes.</li>
-<li>
-<strong>Diseños de alta fidelidad </strong>- Crear wireframes y diseños detallados listos para la ingeniería.</li>
-<li>
-<strong>Experimentos </strong>- Ayudar a ejecutar rigurosos experimentos de diseño, con experiencia en el análisis cuantitativo de los comportamientos de los usuarios. Probar e iterar rápidamente los diseños para optimizar el rendimiento.</li>
-<li>
-<strong>Mejoras del producto: </strong>identificar las oportunidades de grandes cambios. Revisar los flujos de usuarios existentes y proponer áreas de mejora. Trabajar estrechamente con ingeniería y otros equipos para sugerir e implementar mejoras.</li>
-<li>
-<strong>Colaboración interfuncional </strong>- Colaborar con ingeniería y otros equipos para identificar e implementar oportunidades de mejora del producto.</li>
-</ol><div><br></div><div><strong>Requisitos:</strong></div><ul>
-<li>Tener 5 o más años de experiencia trabajando en UX/UI, Web o puestos similares</li>
-<li>Conocer el diseño centrado en el usuario y la interacción</li>
-<li>Contar con un portafolio de diseño de producto o diseño UI/UX con múltiples casos de estudio de productos en los que hayas trabajado</li>
-<li>Tener experiencia en Figma</li>
-<li>Poseer una profunda empatía por los usuarios y un buen ojo para la UX/UI de la web</li>
-<li>Poseer gran capacidad de comunicación y organización</li>
-<li>Desenvolverse bien en un entorno startup de ritmo rápido</li>
-<li>Poseer capacidad para trabajar con ambigüedad y ajustar las prioridades según las necesidades del negocio</li>
-<li>Estar basado en América Latina con al menos un nivel B1-B2 de inglés</li>
-</ul><div><br></div><div><strong>Se agradece tener:</strong></div><ul>
-<li>Un título de licenciatura, preferiblemente </li>
-<li>Experiencia previa en una startup de alto crecimiento liderada por un producto</li>
-<li>Pasión por crear canales de comunicación entre culturas diferentes </li>
-<li>Experiencia de dominio trabajando en SaaS</li>
-</ul><div><br></div><div><strong>Información adicional:</strong></div><ul><li>Esta posición es totalmente remota</li></ul><div><br></div><div><strong>Capacidad de adherirse a nuestros valores:</strong></div><ul>
-<li>Subiendo siempre de nivel </li>
-<li>Basados en la ciencia</li>
-<li>De integridad abierta</li>
-<li>Divertidos</li>
-</ul><div>
-<br><strong>Te proponemos:</strong>
-</div><ul>
-<li>Ser parte de una compañía con espíritu emprendedor en la que nos encanta pensar en grande y a largo plazo.</li>
-<li>Ser protagonista de tu desarrollo en un ambiente de oportunidades, aprendizaje, crecimiento, expansión y proyectos desafiantes. </li>
-<li>Compartir y aprender en equipo junto a grandes profesionales y especialistas.</li>
-<li>Un excelente clima de trabajo, con todo lo necesario para que vivas una gran experiencia. :)</li>
-</ul><div><br></div><div>En Viva Traduce trabajamos para promover una cultura inclusiva, que busca la equidad y valora las diferentes perspectivas. Esto se traduce en género, religión, personas con discapacidad, LGBTQ+, raza, etnia y diversidad de experiencias. Trabajamos todas nuestras búsquedas con base en esta premisa. ¡Súmate a nuestro equipo!</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/viva-translate-inc-disenador-a-web-ux-senior">https://weworkremotely.com/remote-jobs/viva-translate-inc-disenador-a-web-ux-senior</a></p>
 
                 </details>
                 </td>
