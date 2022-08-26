@@ -1,5 +1,219 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0075/9006/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>LeadSimple, Inc.</h5>
+                    <h3> Lead Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-lead-software-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0075/9006/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Washington State, U.S.A.
+    <br /><strong>URL:</strong> <a href="https://www.leadsimple.com/careers">https://www.leadsimple.com/careers</a>
+</p>
+
+<div>🚀 Want to join a team of A-players in an exciting, high-growth, entrepreneurial environment?</div><div><br></div><div><strong>LeadSimple is a small team solving big problems in the property management industry. Bootstrapped since 2013, we're passionate about helping small businesses grow sustainably.</strong></div><div><br></div><div>Our software provides a powerful foundation for any property management company to take their business to the next level. Thousands of property managers rely on us for their day-to-day operations and we’re only getting started. </div><div><br></div><div>We’re looking for seasoned Senior and Lead Ruby on Rails Engineers to join our fully-remote team to help us scale to meet market demand. This is an opportunity to join on the ground floor of a bootstrapped, growing company with a lot of upside.</div><div><br></div><div><strong>What we’d want you to do:</strong></div><ul>
+<li>Take technical ownership of our product’s architecture and capabilities</li>
+<li>Recommend and lead complex refactoring projects and migrations, without sacrificing stability, such as:</li>
+<li>Modernizing our back-end stack (we’re currently on Rails 4)</li>
+<li>Optimizing our API and PostgreSQL database for scale and performance</li>
+<li>Suggest and implement scalability &amp; productivity improvements</li>
+<li>Collaborate with the rest of the team in weekly meetings, chat and code reviews</li>
+<li>Develop new full-stack features from start to finish using the <a href="https://basecamp.com/shapeup/webbook">Shape Up method</a>
+</li>
+<li>Participate in our <a href="https://basecamp.com/shapeup/2.2-chapter-08">Betting Table</a> planning meetings</li>
+<li>Write high-quality and maintainable Ruby and Typescript code</li>
+<li>Write high-quality documentation on our product’s architecture to assist collaboration</li>
+</ul><div><br></div><div><strong>Qualifications</strong></div><div><br></div><div><em>Must have</em></div><ul>
+<li>5+ years of experience with Ruby on Rails</li>
+<li>Fluent spoken and written English at a professional level.</li>
+<li>Working hours must overlap with PST for at least 3 hours.</li>
+<li>Familiarity with PostgreSQL query optimization and scaling strategies</li>
+<li>Past experience with complex upgrades and migrations</li>
+<li>Prior experience as a software architect or technical lead</li>
+<li>Strong analytical and debugging skills</li>
+<li>Strong communication skills, able to recommend decisions using data and experience</li>
+</ul><div><br></div><div><em>Nice to have</em></div><ul>
+<li>Prior experience upgrading Ruby on Rails (this would be a big plus!)</li>
+<li>React, Typescript or GraphQL experience</li>
+<li>Elixir experience (we have 1 service using Elixir)</li>
+</ul><div><br></div><div><strong>Our Stack</strong></div><div><br></div><div><em>Front-end</em></div><ul>
+<li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+<li>
+<a href="https://reactjs.org/">React</a> </li>
+<li><a href="http://mui.com">MaterialUI</a></li>
+<li><a href="https://relay.dev/">Relay</a></li>
+</ul><div><em>Back-end</em></div><ul>
+<li>
+<a href="http://rubyonrails.org">Ruby on Rails</a> monolith (with 95% test coverage)</li>
+<li>GraphQL (via <a href="https://graphql-ruby.org/">graphql-ruby</a> gem)</li>
+<li>Sidekiq</li>
+<li>PostgreSQL</li>
+<li>Redis</li>
+<li>Heroku<br><br>
+</li>
+</ul><div><br></div><div><strong>What it’s like to work here</strong></div><ul>
+<li>You’ll have opportunities to work on the entire stack, from databases to user interfaces and everything in between, in a wide variety of product areas.</li>
+<li>You’ll own the delivery of high-impact projects that affect real customers, from start to finish, with no bureaucracy, following the <a href="https://basecamp.com/shapeup/webbook">Shape Up method</a>. </li>
+<li>You’ll collaborate within a small, highly productive team, reviewing code and helping other engineers with their roadblocks.</li>
+<li>You’ll have time to focus. We don’t micromanage, and we do our best to keep distractions (and meetings) to a minimum. </li>
+<li>When assigned to on-call duty, you’ll investigate and fix bugs and respond to incidents. </li>
+<li>You’ll deploy early and often. We ship to production multiple times per day.<br><br>
+</li>
+</ul><div><strong><br>Benefits</strong></div><ul>
+<li>Remote-only team, location independent</li>
+<li>3rd Friday of every month off</li>
+<li>6 US Holidays</li>
+<li>3 Weeks Paid Time Off (in addition to the above)</li>
+<li>Quarterly Two-Week Hackathons</li>
+<li>Monthly Healthcare Allowance</li>
+<li>Yearly Vacation Allowance</li>
+<li>$2000 equipment stipend upon hire</li>
+<li>Focused and dedicated environment with smart, caring people</li>
+<li>Consistent, but flexible working schedule with minimum 3hr Pacific Time Zone overlap</li>
+<li>Mission driven, non-political company and values-based culture<br><br>
+</li>
+</ul><div><strong>Our Interview Process</strong></div><ul>
+<li>Fill out our application, located <a href="https://docs.google.com/forms/d/e/1FAIpQLSeF5zo6hIcTQK8gP9LLGz6sTZMXGI1vDHPVbkpISxiy9CvOfQ/viewform?usp=sf_link">here</a>
+</li>
+<li>Intro call (30 minutes)</li>
+<li>Offline work sample test (up to 60 minutes)</li>
+<li>Work history interview with Hiring Manager (up to 90 minutes)</li>
+<li>Culture interview with People Operations(30 minutes)</li>
+<li>Meet the CTO(30 minutes)</li>
+<li>Meet the CEO (30 minutes)</li>
+<li>Offer call (15 minutes), followed by a written offer</li>
+<li>If you accept the offer, you enter a 90-day trial period, fully paid.</li>
+<li>If all goes well in your first 90 days, you convert to a full-time team member!<br><br>
+</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-lead-software-engineer">https://weworkremotely.com/remote-jobs/leadsimple-inc-lead-software-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6327/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>LeadSimple, Inc.</h5>
+                    <h3> Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6327/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Washington State, U.S.A.
+    <br /><strong>URL:</strong> <a href="https://www.leadsimple.com/careers">https://www.leadsimple.com/careers</a>
+</p>
+
+<div>🚀 Want to join a team of A-players in an exciting, high-growth, entrepreneurial environment?</div><div><br></div><div><strong>LeadSimple is a small team solving big problems in the property management industry. Bootstrapped since 2013, we're passionate about helping small businesses grow sustainably.</strong></div><div><br></div><div>Our software provides a powerful foundation for any property management company to take their business to the next level. Thousands of property managers rely on us for their day-to-day operations and we’re only getting started. </div><div><br></div><div>We’re looking for seasoned Senior and Lead Ruby on Rails Engineers to join our fully-remote team to help us scale to meet market demand. This is an opportunity to join on the ground floor of a bootstrapped, growing company with a lot of upside.</div><div><br></div><h1><strong>What we’d want you to do:</strong></h1><ul>
+<li>Assist with complex migration projects, such as:</li>
+<li>Modernizing our back-end stack (we’re currently on Rails 4)</li>
+<li>Optimizing our API and PostgreSQL database for scale and performance</li>
+<li>Suggest and implement scalability improvements</li>
+<li>Collaborate with the rest of the team in weekly meetings, chat and code reviews</li>
+<li>Develop new full-stack features from start to finish using the <a href="https://basecamp.com/shapeup/webbook">Shape Up method</a>
+</li>
+<li>Write high-quality and maintainable Ruby and Typescript code</li>
+</ul><div><br></div><h1><strong>Qualifications</strong></h1><div><br></div><div><em>Must have</em></div><ul>
+<li>5+ years of experience with Ruby on Rails</li>
+<li>Fluent spoken and written English at a professional level.</li>
+<li>Working hours must overlap with PST for at least 3 hours.</li>
+<li>Familiarity with PostgreSQL query optimization and scaling strategies</li>
+<li>Strong analytical and debugging skills</li>
+<li>Strong communication skills, able to recommend decisions using data and experience</li>
+</ul><div><br></div><div><em>Nice to have</em></div><ul>
+<li>Prior experience upgrading Ruby on Rails (this would be a big plus!)</li>
+<li>React, Typescript or GraphQL experience</li>
+<li>Elixir experience (we have 1 service using Elixir)</li>
+</ul><div><br></div><h1><strong>Our Stack</strong></h1><div><br></div><div><em>Front-end</em></div><ul>
+<li><a href="https://www.typescriptlang.org/">Typescript</a></li>
+<li>
+<a href="https://reactjs.org/">React</a> </li>
+<li><a href="http://mui.com">MaterialUI</a></li>
+<li>
+<a href="https://relay.dev/">Relay<br></a><br>
+</li>
+</ul><div>
+<em>Back-end<br></em><br>
+</div><ul>
+<li>
+<a href="http://rubyonrails.org">Ruby on Rails</a> monolith (with 95% test coverage)</li>
+<li>GraphQL (via <a href="https://graphql-ruby.org/">graphql-ruby</a> gem)</li>
+<li>Sidekiq</li>
+<li>PostgreSQL</li>
+<li>Redis</li>
+<li>Heroku<br><br>
+</li>
+</ul><h1><strong>What it’s like to work here</strong></h1><ul>
+<li>You’ll have opportunities to work on the entire stack, from databases to user interfaces and everything in between, in a wide variety of product areas.</li>
+<li>You’ll own the delivery of high-impact projects that affect real customers, from start to finish, with no bureaucracy, following the <a href="https://basecamp.com/shapeup/webbook">Shape Up method</a>. </li>
+<li>You’ll collaborate within a small, highly productive team, reviewing code and helping other engineers with their roadblocks.</li>
+<li>You’ll have time to focus. We don’t micromanage, and we do our best to keep distractions (and meetings) to a minimum. </li>
+<li>When assigned to on-call duty, you’ll investigate and fix bugs and respond to incidents. </li>
+<li>You’ll deploy early and often. We ship to production multiple times per day.<br><br>
+</li>
+</ul><div><br></div><h1><strong>Benefits</strong></h1><ul>
+<li>Remote-only team, location independent</li>
+<li>3rd Friday of every month off</li>
+<li>6 US Holidays</li>
+<li>3 Weeks Paid Time Off (in addition to the above)</li>
+<li>Quarterly Two-Week Hackathons</li>
+<li>Monthly Healthcare Allowance</li>
+<li>Yearly Vacation Allowance</li>
+<li>$2000 equipment stipend upon hire</li>
+<li>Focused and dedicated environment with smart, caring people</li>
+<li>Consistent, but flexible working schedule with minimum 3hr Pacific Time Zone overlap</li>
+<li>Mission driven, non-political company and values-based culture<br><br>
+</li>
+</ul><h1><strong>Our Interview Process</strong></h1><ul>
+<li>Fill out our application, located <a href="https://docs.google.com/forms/d/e/1FAIpQLSeF5zo6hIcTQK8gP9LLGz6sTZMXGI1vDHPVbkpISxiy9CvOfQ/viewform?usp=sf_link">here</a>
+</li>
+<li>Intro call (30 minutes)</li>
+<li>Offline work sample test (up to 60 minutes)</li>
+<li>Work history interview with Hiring Manager (up to 90 minutes)</li>
+<li>Culture interview with People Operations<strong> </strong>(30 minutes)</li>
+<li>Meet the CTO<strong> </strong>(30 minutes)</li>
+<li>Meet the CEO (30 minutes)</li>
+<li>Offer call (15 minutes), followed by a written offer</li>
+<li>If you accept the offer, you enter a 90-day trial period, fully paid.</li>
+<li>If all goes well in your first 90 days, you convert to a full-time team member!</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer">https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1352183/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +224,7 @@
                     <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1352183" align="right" target="_blank">Apply</a>
@@ -51,7 +265,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -119,7 +333,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -181,7 +395,7 @@
                     <code>cloud,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-1342235" align="right" target="_blank">Apply</a>
@@ -222,115 +436,6 @@
 <li style="border-width: 0px; border-style: solid; border-color: rgb(238 239 242/var(--tw-border-opacity)); border-image: initial; box-sizing: border-box; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)); --tw-scroll-snap-strictness: proximity; --tw-border-opacity: 1; --tw-ring-inset: var(--tw-empty, ); --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: var(--tw-empty, ); --tw-brightness: var(--tw-empty, ); --tw-contrast: var(--tw-empty, ); --tw-grayscale: var(--tw-empty, ); --tw-hue-rotate: var(--tw-empty, ); --tw-invert: var(--tw-empty, ); --tw-saturate: var(--tw-empty, ); --tw-sepia: var(--tw-empty, ); --tw-drop-shadow: var(--tw-empty, ); --tw-filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow); --tw-backdrop-blur: var(--tw-empty, ); --tw-backdrop-brightness: var(--tw-empty, ); --tw-backdrop-contrast: var(--tw-empty, ); --tw-backdrop-grayscale: var(--tw-empty, ); --tw-backdrop-hue-rotate: var(--tw-empty, ); --tw-backdrop-invert: var(--tw-empty, ); --tw-backdrop-opacity: var(--tw-empty, ); --tw-backdrop-saturate: var(--tw-empty, ); --tw-backdrop-sepia: var(--tw-empty, ); --tw-backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia); margin-bottom: 0.5em; margin-top: 0.5em; padding-left: 0.375em;"><span style="border-width: 0px; border-style: solid; border-color: rgb(238 239 242/var(--tw-border-opacity)); border-image: initial; box-sizing: border-box; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-transform: translateX(var(--tw-translate-x)) translateY(var(--tw-translate-y)) rotate(var(--tw-rotate)) skewX(var(--tw-skew-x)) skewY(var(--tw-skew-y)) scaleX(var(--tw-scale-x)) scaleY(var(--tw-scale-y)); --tw-scroll-snap-strictness: proximity; --tw-border-opacity: 1; --tw-ring-inset: var(--tw-empty, ); --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(59,130,246,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: var(--tw-empty, ); --tw-brightness: var(--tw-empty, ); --tw-contrast: var(--tw-empty, ); --tw-grayscale: var(--tw-empty, ); --tw-hue-rotate: var(--tw-empty, ); --tw-invert: var(--tw-empty, ); --tw-saturate: var(--tw-empty, ); --tw-sepia: var(--tw-empty, ); --tw-drop-shadow: var(--tw-empty, ); --tw-filter: var(--tw-blur) var(--tw-brightness) var(--tw-contrast) var(--tw-grayscale) var(--tw-hue-rotate) var(--tw-invert) var(--tw-saturate) var(--tw-sepia) var(--tw-drop-shadow); --tw-backdrop-blur: var(--tw-empty, ); --tw-backdrop-brightness: var(--tw-empty, ); --tw-backdrop-contrast: var(--tw-empty, ); --tw-backdrop-grayscale: var(--tw-empty, ); --tw-backdrop-hue-rotate: var(--tw-empty, ); --tw-backdrop-invert: var(--tw-empty, ); --tw-backdrop-opacity: var(--tw-empty, ); --tw-backdrop-saturate: var(--tw-empty, ); --tw-backdrop-sepia: var(--tw-empty, ); --tw-backdrop-filter: var(--tw-backdrop-blur) var(--tw-backdrop-brightness) var(--tw-backdrop-contrast) var(--tw-backdrop-grayscale) var(--tw-backdrop-hue-rotate) var(--tw-backdrop-invert) var(--tw-backdrop-opacity) var(--tw-backdrop-saturate) var(--tw-backdrop-sepia); font-weight: 600; color: inherit;">Your engineering skills </span>You have a solid understanding of how web applications are built and delivered to users. You are comfortable with topics such as performance optimisation, data synchronisation, and caching. Your experience in application monitoring and debugging will also be valued and it will be an added plus if you have experience with server-less infrastructure.</li>
 </ul>
 <img src="https://remotive.com/job/track/1342235/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/06/andopen_.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>&Open</h5>
-                    <h3>Head of Software Engineering</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J110541/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                About &amp;Open🙂 The world’s first happiness platform🎁  Our platform sends digital, physical and cause gifts at scale🤝 Clients include Airbnb, Spotify, Reebok and more📈 Join our growing teamAbout the team&amp;Open’s Engineering team is a multidiscipl …
-<p><strong>About &amp;Open</strong><br/>🙂 The world’s first happiness platform<br/>🎁  Our platform sends digital, physical and cause gifts at scale<br/>🤝 Clients include Airbnb, Spotify, Reebok and more<br/>📈 Join our growing team</p><p><strong>About the team</strong><br/>&amp;Open’s Engineering team is a multidisciplinary group of software engineers, UI designers and technical architects. Together, our task is to build the best gifting platform in the world. We obsess over the details, the connections and touch points. We use modern tooling to develop refined and reliable code.</p>
-
-
-
-
-<p>About the role</p>
-<p>We’re seeking a Head of Software Engineering to lead and develop our talented Software Engineers who are building new powerful APIs, features and integrations into our gifting platform. This role will attract, retain, and manage a highly-skilled remote Software Engineering team. We need someone who knows how to foster and grow a positive and performant environment in order to maximise the value generated.</p>
-
-
-
-
-
-
-
-
-<p><strong>What you’ll do</strong></p>
-<ul>
-<li><strong>Lead.</strong> You will lead by example and passionately foster great engineering practices and processes. You will provide and promote technical leadership. You will create a world-class Engineering environment that produces high quality scalable solutions.</li>
-<li><strong>Mentor.</strong> Through regular 1-on-1 meetings with your team, you will provide feedback and direction to ensure they are continually learning and growing.</li>
-<li><strong>Nurture.</strong> You’ll help us build a diverse team with a healthy culture. You will empower Engineering managers and Software Engineers to take well-defined ownership and responsibility, collectively delivering to the company’s objectives.</li>
-<li><strong>Cultivate.</strong> Engineers need to constantly hone their skills and expand their horizons; you’ll help them do that by empowering them and encouraging excellence.</li>
-<li><strong>Promote wellbeing</strong>. As an Engineering leader, you’ll share in the responsibility of ensuring we offer a safe and positive space for our Engineers to thrive.</li>
-<li><strong>Collaborate</strong>. You’ll work closely with other managers of the people in our cross-functional product teams to ensure we work with clear communication, common understandings, and effective processes.</li>
-<li><strong>Research and innovate.</strong> We aim for continuous improvement and you’ll bring that through in all aspects of your work.</li>
-<li><strong>Recruit.</strong> You’ll play an active role in identifying future members of our high-performing team.</li>
-<li><strong>Refine</strong>. You’ll constantly monitor productivity and process effectiveness, driving improvements to process, tooling, and methodology in order to increase value delivery and job satisfaction for our Software Engineering team.</li>
-<li><strong>Communicate.</strong> You will represent Software Engineering in the Senior Management Team and translate complex technical concepts, features, and results to the company. You will build effective relationships with the other business functions, ensuring that their insights are reflected in our technical strategy and operations.</li>
-</ul>
-<p><strong>What you'll need</strong></p>
-<ul>
-<li>5+ years as a software engineer</li>
-<li>3+ years of people management experience, across multiple teams</li>
-<li>A track record of leading teams delivering complex and high-impact services at scale</li>
-<li>Experience managing a technical roadmap, ensuring short-term and long-term, product and technology objectives are objectively prioritised, tracked, and delivered</li>
-<li>Computer Science fundamentals in object-oriented design, data structures, algorithm design, problem-solving, and complexity analysis</li>
-<li>Excellent problem-solving abilities, attention to detail, time estimation and communication skills</li>
-<li>An entrepreneurial and strategic mindset: you know how to collaborate, use initiative, and guide the team’s activities according to commercial impact and direction</li>
-<li>An eye for quality and a solid understanding of how to achieve it in complex software systems</li>
-<li>You know how to apply agile methodologies and software development best practices to deliver meaningful impact</li>
-<li>Previous experience managing remote teams</li>
-</ul>
-
-
-
-<p><strong>All welcome here</strong><br/>We believe diverse teammates, opinions and backgrounds generate a larger global impact and more considerate acts of care. &amp;Open is an equal opportunity employer and we do not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status or disability status.</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/05/fazz.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Fazz Financial Group</h5>
-                    <h3>Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J110823/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                About Fazz Financial Group Fazz Financial Group is a digital financial services group founded in 2016. It is based in Southeast Asia, and is the holding group for over 10 FinTech startups, which includes PayFazz, Xfers, Modal Rakyat, StraitsX, and ot …
-About Fazz Financial Group Fazz Financial Group is a digital financial services group founded in 2016. It is based in Southeast Asia, and is the holding group for over 10 FinTech startups, which includes PayFazz, Xfers, Modal Rakyat, StraitsX, and others. Fazz Financial Group’s mission is to enable financial access for everyone, especially within Southeast Asia, where 70% of its population is underserved. Fazz Financial Group has headquarters in Singapore and Indonesia, with 600 staff spread across regional offices in Malaysia, Taiwan, and Vietnam. We are proud to be local and knowledgeable about the region, giving an intimate understanding of Southeast Asia’s financial needs. As a local group born and bred in Southeast Asia, companies within Fazz Financial Group are among the first Indonesian startups, and one of the many Singaporean startups to be seeded by the prestigious Y-Combinator programme. We are backed by  both global and local investors including Insignia Venture Partners, B Capital, BRI Ventures, and many others.  We know how important our mission is to improving the livelihoods of millions of people in Southeast Asia. That's why we're looking for passionate and driven people to join us to accelerate financial access for everyone. Head to our website to get to know us better: <a class="postings-link" href="https://fazzfinancial.com/">https://fazzfinancial.com/</a>
-<h3>About the Team</h3>
-<ul>
-<li>You will be contributing to a new product launch that would unite various business units and internal core systems that would be the lifeblood and primary focus of our entire organization in the years ahead.</li><li>We are really excited about the possibilities of changing the way payments and business banking are done, and with our unique proprietary model, we are able to derive innovative unit economics which no other competitors are able to replicate.</li></ul>
-<h3>About the Team</h3>
-<ul>
-<li>This is a role with a lot of opportunity for impact. We are looking to scale our engineering team from scratch in various countries such as Vietnam, Taiwan, Malaysia, and many more.</li><li>As the team is rapidly expanding in scope and size, you would be entrusted with many opportunities to coach and to mentor your team. This is a great learning opportunity for you in helping others to be a better version of themselves.</li><li>You would be making a direct impact on our product launch and contributing to something meaningful that would help improve the way businesses are done in Singapore, Indonesia, and in the future - South East Asia.</li></ul>
-<h3>What you'll do</h3>
-<ul>
-<li>Being responsible for the overall health and productivity of the engineers within your team</li><li>Providing feedback on architecture and approach and helping teams make data-driven decisions</li><li>Having an overview of what’s happening across the organization and collaborating with other engineering teams to build the product</li><li>Code reviews and code implementation</li><li>Designing complex systems in a microservices architecture</li><li>Hiring and interviewing engineers for the team</li><li>The ability to read and write frontend is a bonus</li><li>Full autonomy in deriving impact – we believe people and teams are most empowered when they can act autonomously. You’ll work with your team to create a vision of your own on how to launch the ahead of our competitors</li></ul>
-<h3>What we're looking for in you</h3>
-<ul>
-<li>3+ years of relevant backend engineering experience, familiar with MVC frameworks such as Golang, Ruby on Rails, or any JS web frameworks</li><li>Expertise in SQL, database design, and writing optimal SQL queries.</li><li>Deep Knowledge of RESTful APIs</li><li>Proficient user of Git and GitHub</li><li>Evidence of understanding system design and being able to build a new system from scratch</li><li>Evidence of ability to maintain and scale a system</li></ul>
-<h3>Nice to haves</h3>
-<ul>
-<li>Experience with building intelligent, risk decision systems</li><li>Interested in financial systems, security and financial crime</li><li>Experience in developing on a large legacy production codebase</li><li>Experience with developing and managing MQ or Kafka messaging systems</li><li>Relevant experience in Payments, Retail or Consumer Financial Services</li><li>Experience in development in a zero-downtime CI/CD environment</li></ul>We love reviewing all the applications we receive, but unfortunately, we may not be able to get back to everyone individually.  If we’d like to move forward with your application, we’ll definitely be in touch!<br/>Fazz Financial Group is an equal opportunity employer. Individuals seeking employment at Fazz Financial Group will be considered without regard to race, religion, national origin, age, sex, gender, gender identity, gender expression, sexual orientation, marital status, medical condition, ancestry, physical or mental disability, or any other characteristic protected by applicable laws. <br/>By submitting your application, you agree that Fazz Financial Group may collect your personal data for recruiting, regional organization planning, and related purposes.
                 </details>
                 </td>
             </tr></table>
