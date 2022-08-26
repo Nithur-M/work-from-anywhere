@@ -1,5 +1,30 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/d5e2868382eb41cacd969d4698433a431661436005.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>QuickNode</h5>
+                    <h3>
+					Software Engineer Frontend				</h3>
+                </td>
+                <td width="300">
+                    <code>frontend, software, engineer</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/112227" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                QuickNode is a cloud-based infrastructure company that powers the blockchain ecosystem.Our mission is to be the indispensable utility that empowers companies and innovators globally to build next-generation, Web3 enabled businesses & applications using blockchain technology. QuickNode is backed by some of the world's best investors including Tiger Global, Y Combinator, SoftBank, and the Seven Seven Six Fund. The QuickNode team has over 90 people maintaining high performance global data infrastructure for amazing customers serving billions of requests daily.We are a global remote first company HQ'd in Miami, Florida.The RoleÂ We are looking for a Frontend engineer who can deliver value and impact to the team in a fast and nimble way. This engineer will be focused on internal products as well as customer facing products and working with a team of outside the box thinkers and visionaries. You will have the opportunity to work with a great deal of different technologies in the blockchain/web3 space. We at Quicknode are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4666/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
