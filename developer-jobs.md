@@ -11,7 +11,7 @@
                     <code>developer, nft, financial</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112161" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>dev, javascript, react</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112140" align="right" target="_blank">Apply</a>
@@ -46,6 +46,70 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p dir="ltr">About us:Â </p><p><strong><br /></strong></p><p dir="ltr">"Talent has no borders." We strongly believe in uplifting talent by providing them with the right opportunities - no matter which part of the world you are from, we value your skills and offer every member the growth possibilities they deserve. ð</p><p><strong><br /></strong></p><p dir="ltr">Proxify is a global network and a supportive community of talented developers interested in long-term remote jobs.Â </p><p dir="ltr">With us, you will get opportunities:</p><ul><li dir="ltr"><p dir="ltr">To work remotely on exciting projects with leading brands and fast-growing startups.</p></li><li dir="ltr"><p dir="ltr">To work on commision free project-based jobs.</p></li><li dir="ltr"><p dir="ltr">To work with companies that respect and value your skills.</p></li></ul><p><strong><br /></strong></p><p dir="ltr">Since our launch, talented developers on Proxify have worked with 620+ happy clients to build their products and growth features. 1400+ talented developers trust Proxify and the community we are building to fulfil their dreams and objectives.Â </p><p><strong><br /><br /></strong></p><p dir="ltr">The Role:</p><p dir="ltr">We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features.Â </p><p><strong><br /><br /></strong></p><h3 dir="ltr">What we are looking for:</h3><ul><li dir="ltr"><p dir="ltr">4+ years of working experience as a FullStack;</p></li><li dir="ltr"><p dir="ltr">Frontend:<br />- React JS;<br />- Design System;</p></li><li dir="ltr"><p dir="ltr">Backend:<br />- Microservices architecture;<br />- NodeJS;Â </p></li><li dir="ltr"><p dir="ltr">Database:<br />- SQL;<br />- MongoDB;</p></li><li dir="ltr"><p dir="ltr">Upper-intermediate or higher English level.</p></li></ul><p><strong><br /></strong></p><h4 dir="ltr">Nice-to-have:Â </h4><ul><li dir="ltr"><p dir="ltr">Timezone: CET (+/- 3 hours);</p></li><li dir="ltr"><p dir="ltr">Database Architecture knowledge</p></li></ul><p><strong><br /><br /></strong></p><div dir="ltr" align="left"><table class="mce-item-table"><colgroup><col width="600" /></colgroup><tbody><tr><td><p dir="ltr">What we offer:</p><ul><li dir="ltr"><p dir="ltr">ð» 100% remote work: Work from anywhere.</p></li><li dir="ltr"><p dir="ltr">ðð» Flexibility: The ability to change the project to another one.</p></li><li dir="ltr"><p dir="ltr">ðµ Financial growth: Competitive compensation and performance-based increases.</p></li><li dir="ltr"><p dir="ltr">ð§ð»ââï¸ Freedom: Very flexible working schedule.</p></li><li dir="ltr"><p dir="ltr">ð 360 degree growth: Opportunities for professional development and personal growth.</p></li></ul></td></tr></tbody></table></div><p><strong><br /><br /></strong></p><p dir="ltr">Your benefits with Proxify:</p><ul><li dir="ltr"><p dir="ltr">Be part of Proxify community: Network with like-minded and enthusiastic individuals to make a difference.Â </p></li><li dir="ltr"><p dir="ltr">Make an impact: You get the opportunity to work on the projects that inspire you and add value to your career.</p></li><li dir="ltr"><p dir="ltr">Transparency: Contracts with transparency in earnings and working hours.</p></li><li dir="ltr"><p dir="ltr">Save your time: Fast and efficient hiring process to match you with the project of your preference.</p></li><li dir="ltr"><p dir="ltr">Ownership: Take ownership of your work and enjoy more freedom in your career.</p></li></ul>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6306/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>EventMobi</h5>
+                    <h3> Senior Back End Developer (Python) - [Remote]</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/eventmobi-senior-back-end-developer-python-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6306/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 207 Queens Quay West, Suite 320 Toronto Ontario M5J 1A7 Canada
+    <br /><strong>URL:</strong> <a href="https://eventmobi.com">https://eventmobi.com</a>
+</p>
+
+<div>
+<strong>WHY EVENTMOBI?</strong> <br> <br>Events and conferences are being reimagined online, and EventMobi is building on ten years of event technology experience to innovate one of the most flexible and engaging virtual event platforms. We are an award-winning tech startup with teams in Toronto, Berlin and Manila, with thousands of customers around the globe. <br> <br> <br>We believe that live events bring people together to enable change – both in business and our society at large. In the era of COVID-19, we have become a remote-first company and are hard at work helping thousands of events pivot to virtual. EventMobi has a huge impact on the success of our customers’ events and on their attendee experience. We are on a mission to revolutionize how event planners create, market and manage their virtual and in-person events, and how remote and on-site attendees experience conferences. We would love for you to join us and leave your mark. <br><br> <br> <br> <br><strong>ABOUT YOU</strong> <br><br>If you're looking for a software development role that allows you to hone your software design skills, both learn and teach on a team of senior developers, and progress your career, you've come to the right place! Whether you want to build robust APIs, design architectures that scale, learn new skill-sets, or optimize a platform that supports millions of users, this is a role that requires you to think holistically about evolving and maintaining a large and complex system architecture. <br> <br> <br> <br> <br> <strong>WHAT YOUR WORK WILL FOCUS ON</strong> <br> <br><br>
+</div><ul>
+<li>API &amp; Platform Development - You will help to build out EventMobi’s platform capabilities by developing elegant and performant API endpoints and the code that supports them. </li>
+<li>System Architecture - From Auth to Caches, Data Management to Cloud Hosting, APIs to Message Queues, there are a lot of components that make up a system’s architecture. You will help to architect solutions throughout the system that solve domain challenges, are robust, performant, secure, and scalable. </li>
+<li>Shared Ownership - Along with a team of experienced peers, you will take initiative to identify and design solutions for hard problems and apply them to improve an existing code base. </li>
+<li>Software Craftsmanship - Best practices, well thought out code, continuous learning, and collaboration with your team is your ideal and you preach this in your own work as well as with your teammates.</li>
+<li>Quality - You will help grow the team around you in not only pushing new capabilities for our customers, but also maintaining the utmost quality in everything we build.</li>
+</ul><div>  <br> <br> <br><br> <strong>WHAT YOU WILL BRING TO THE TEAM</strong> <br><br>
+</div><ul>
+<li>5+ years experience as a software developer working on large, complex, or fast scaling products</li>
+<li>Extensive experience and deeply knowledgeable with Python</li>
+<li>  Experience with RESTful APIs, RDBMS, ORMs, Caching, Queues</li>
+<li> Knowledge of Clean Architecture, SOLID Principles, Domain Modelling, and Design Patterns is a major benefit </li>
+<li>Experience with DevOps &amp; Cloud is a major benefit (AWS, CI/CD, Linux, Networking, Alerting &amp; Monitoring) </li>
+<li>Experience with Information Security best practices is a nice to have </li>
+<li>Ability to mentor and grow team members, provide technical guidance and oversight on implementation direction</li>
+<li>Excellent written and verbal communication </li>
+</ul><div>
+<br> <br><br><strong>REMOTE WORKSPACE REQUIREMENTS: <br></strong><br><br>
+</div><ul>
+<li>You have a safe, comfortable, and ergonomic workspace and working environment - a private and quiet workspace is vital for doing your best work!</li>
+<li>You have a reliable ethernet connection of at least 30Mbps upload speed with a wired connection or reliable WiFi at home. </li>
+</ul><div>
+<br> <br> <br><strong><br>WHAT WILL YOU GET FROM EVENTMOBI? <br></strong><br><br>
+</div><ul>
+<li>We offer the experience of a lifetime working with a dynamic, open-minded and diverse team, who are excited to come to work every day and passionate about what they do and the clients they help.</li>
+<li>Competitive compensation </li>
+<li>Company Stock-Options </li>
+<li>A great culture with much more along the way</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/eventmobi-senior-back-end-developer-python-remote">https://weworkremotely.com/remote-jobs/eventmobi-senior-back-end-developer-python-remote</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -60,7 +124,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-2" align="right" target="_blank">Apply</a>
@@ -134,115 +198,75 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7735/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5553/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>G2i Inc.</h5>
-                    <h3> Mid-Senior or Senior React Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>154 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/g2i-inc-mid-senior-or-senior-react-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/7735/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Delray Beach, FL
-    <br /><strong>URL:</strong> <a href="https://g2i.co">https://g2i.co</a>
-</p>
-
-<div>We’re looking for a Mid-Senior or Senior React Developer that would like to work on products ranging from cutting-edge FinTech and Crypto to traditional Food and Beverage industries and everything in between, depending on their own preferences. Even though it's a contracting position, the vast majority of developers that finish a project with us simply move to another one, and many stay with us for several years. </div><div><br></div><div>If you’re curious why we have such a high contractor retention rate, you should read the About G2i section below. You won't regret it.</div><div><br></div><div>Must-haves:</div><ul>
-<li>Fluent in both spoken and written English - clear communication is required, perfect grammar is not.</li>
-<li>Willingness to complete a 6-8 hour code challenge - test once and never again</li>
-<li>32-40 hours per week of availability</li>
-<li>Mid-Senior or Senior level (3+ years of professional experience)</li>
-<li>1+ year of professional experience with React and/or React Native</li>
-</ul><div><br></div><div>Nice-to-haves (but really just optional): </div><ul>
-<li>Full stack experience (Rails or Node.js)</li>
-<li>Experience with Apollo Client &amp; GraphQL</li>
-<li>Experience with web deployment tooling and processes</li>
-</ul><div><br></div><div>This role is perfect for you if: </div><ul>
-<li>You are comfortable working remote — We are a 100% remote first company and have been since 2016.</li>
-<li>You value work life balance — We want you to enjoy your life outside of work and be able to prioritize your physical/mental health. Our leadership models this behavior, it's not just lip service.</li>
-<li>You want to work for the company that’s leading the charge towards better work environments with the Developer Health movement.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/g2i-inc-mid-senior-or-senior-react-developer">https://weworkremotely.com/remote-jobs/g2i-inc-mid-senior-or-senior-react-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>A.Team</h5>
-                    <h3> Senior Independent Software Developer ($110-$190/hr)</h3>
+                    <h5>Causalytics</h5>
+                    <h3> Full-stack Developer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>391 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/causalytics-full-stack-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/7400/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0077/5553/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> NYC, SF, and TLV
-    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
+  <strong>Headquarters:</strong> Turku, Finland
+    <br /><strong>URL:</strong> <a href="https://causalytics.ai">https://causalytics.ai</a>
 </p>
 
-<div>
-<a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
-<li>
-<strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li>
-<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li>
-<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li>
-<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li>
-<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul><div>
-<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
-</div><ul>
-<li>Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would.</li>
-<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
-<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is for:</strong>
-</div><ul>
-<li>Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
-<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
-<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
-</div><ul>
-<li>People looking for small gigs.</li>
-<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
-<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
-</ul><div>
-<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
-<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
+<div>We are looking for a Fullstack developer to join a tightly-knit team and help us develop the Causalytics platform. You do not have to be an expert in every area, or have many years of corporate experience as long as you have been busy with various projects (pro or hobby) and are able and willing to learn (fast) as you go.</div><div> </div><div>We are building a platform that automates decision making for digital advertising. The product was born when we won the Sanoma Data Challenge Hackathon in March 2021.  </div><div> </div><div>Causalytics is a fast-paced growth company with a startup soul. You'll work in a collaborative and inclusive environment built on a culture of trust, transparency and feedback. You will get to take on challenging software problems, but don't worry we will be there to support you.</div><div>​</div><div>​</div><div><strong>What we can offer:</strong></div><ul>
+<li>Influence. You'll play an important part in the frequent decisions regarding features, technologies and architecture</li>
+<li>Opportunity to learn. You’ll be working on the entire product, not just modules or features. You will learn a lot and you will learn fast, thanks to the pace of a startup in a growth phase.</li>
+<li>Focus on one product. Work on, master and own one product rather than scratching the surface of multiple ones or barely supporting multiple projects.</li>
+<li>Work with the best. Our first developer, CTO and Co-founder (<a href="https://www.linkedin.com/in/john-kronstr%C3%B6m-98178923/">John Kronström</a>) is a highly efficient, business-oriented and experienced full-stack developer. He’s also a really nice guy. :)</li>
+<li>Modern tools. Only work with the best technologies where the stack or legacy is not a constraint.</li>
+<li>Challenge. We're riding on the trend of automating data-driven decision making, so we need to come up with lots of "never seen before" features.</li>
+</ul><div>​</div><div>​</div><div><strong>Our current stack consists of:</strong></div><ul>
+<li>Vue.js with Vuex and Vuetify</li>
+<li>Node.js with Feathers.js and Sequelize</li>
+<li>Sass and Stylus</li>
+<li>Postgres</li>
+<li>AWS<ul>
+<li>Aurora</li>
+<li>EC2</li>
+<li>S3</li>
+<li>ECS</li>
+</ul>
+</li>
+<li>Docker</li>
+</ul><div>We're constantly updating our stack to only include the best tools.</div><div> </div><div>​</div><div><strong>Our Ideal Candidate:</strong></div><div> </div><div><strong>Is...</strong></div><ul>
+<li>A team player</li>
+<li>A problem solver</li>
+<li>Honest, open and ready to speak their mind to defend their ideas</li>
+<li>Eager to learn new things, continuously</li>
+</ul><div> </div><div><strong>Has...</strong></div><ul>
+<li>Worked as a full-stack developer on various projects (pro or hobby)</li>
+<li>Experience developing complex web applications from scratch</li>
+<li>Experience with our stack or willingness (and capability) to learn it fast</li>
+</ul><div> </div><div>Any history in data science or even just an interest in analytics is a bonus.</div><div> </div><div>Being a startup everyone gets to do everything, so if you have some other talents, we'll certainly put them all to use.</div><div>​</div><div>​</div><div><strong>Worktime, salary and specifications:</strong></div><ul>
+<li>This is a full-time position</li>
+<li>The salary range for this position is 3500€ - 4500€ per month</li>
+<li>We are all working remotely currently,  in the future a hybrid model will be possible with offices based in Turku (Finland). Relocation is possible.</li>
+<li>Succeeding in this position requires English proficiency, Finnish is a bonus.</li>
+</ul><div>​</div><div><strong>The hiring process:</strong></div><ol>
+<li>Screening call</li>
+<li>Interview with the team</li>
+<li>Code review (for candidates able to share previous projects they worked on independently) or test.</li>
+<li>Offer</li>
+</ol><div>
+<br>For more information and if you have questions, please contact us at <a href="mailto:akram@causalytics.ai">akram@causalytics.ai</a> . Candidates are interviewed as we go, and we'll hire as soon as we find good ones. If you feel we could be a good match, send us your application fast. If you think your friend cold be a good match don't hesitate to share it with them.</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/causalytics-full-stack-developer">https://weworkremotely.com/remote-jobs/causalytics-full-stack-developer</a></p>
 
                 </details>
                 </td>
@@ -258,7 +282,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>632 days ago</text>
+                <text>633 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -292,6 +316,78 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1359239/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kisi</h5>
+                    <h3>Backend Developer</h3>
+                </td>
+                <td width="300">
+                    <code>api,backend,cloud,developer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/backend-developer-1359239" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>About Kisi</strong></p>
+<p dir="ltr"><strong>Kisi is a security platform with offices in Brooklyn and Stockholm and a global remote team spanning from America, Europe, Africa and Asia. We create hardware and software that helps businesses connect and control their spaces through the cloud.</strong></p>
+<p dir="ltr"><em>A little bit more about our team:</em></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr"><em>We value being</em><strong><em> forward, human, trusted, and responsible.</em></strong><em> As a team, we make a tangible and lasting impact on the real world.</em></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><em>Our product</em><a href="https://www.getkisi.com/blog/the-new-reader-pro" rel="nofollow"><em> (Reader Pro) </em></a><em>is an </em><strong><em>award-winning access control solution.</em></strong><em> We are a </em><strong><em>design focused company</em></strong><em> and recently won the coveted GOOD DESIGN award as well as the prestigious iF Design Award.</em><em><br></em></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><em>Our </em><strong><em>customers and users come first </em></strong><em>- We are rated 4.9 in the </em><a href="https://apps.apple.com/us/app/kisi/id687291321" rel="nofollow"><em>App Store</em></a><em> and 4.8 on </em><a href="https://www.capterra.com/p/147727/Keyless-Door-Access/" rel="nofollow"><em>Capterra</em></a><em>.</em></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><em>Our team is </em><strong><em>unique</em></strong><em> (and a bit quirky) and </em><strong><em>diverse</em></strong><em>. We hail from </em><strong><em>25 nationalitie</em></strong><em>s (&amp; counting!) and look forward to our </em><strong><em>annual global meetup</em></strong><em> to bringing the whole team together.</em></p>
+</li>
+<li dir="ltr">
+<p dir="ltr"><em>We are building a </em><strong><em>supportive and flexible working environment</em></strong><em> by offering health &amp; retirement benefits (location based), generous vacation time and daily challenges and growth.</em></p>
+</li>
+</ul>
+<p dir="ltr"><em><br></em><strong>About the role:</strong></p>
+<p><strong>Your tasks as a backend developer of Kisi will be a lot of things, but never dull. In helping us build a highly robust and scalable public API (used by hundreds of thousands of users from all over the world!), you will:</strong></p>
+<ul>
+<li>Implement new features and help define and tackle projects big and small</li>
+<li>Collaborate with our web, mobile and hardware teams </li>
+<li>Design and maintain internal frameworks and standards</li>
+<li>Work on improving security and performance of endpoints and background jobs </li>
+<li>Work on internal tooling for logging, error reporting, releasing, testing etc.</li>
+</ul>
+<p>We move fast, plan frequently, release to production daily and keep our meetings short. Our API is currently a Rails monolith running on Heroku &amp; GCP, and we're documenting it with OpenAPI 3. Familiarity with this stack is a big plus!</p>
+<p><strong>Requirements</strong></p>
+<ul>
+<li>
+<p>Solid experience with Ruby and Ruby on Rails (or a similar language/framework)</p>
+</li>
+<li>
+<p>You've mastered the latest technologies and you're experienced with modern tools and workflows </p>
+</li>
+<li>
+<p>You are well versed in writing good code: clean, modular, tested, scalable</p>
+</li>
+<li>
+<p>You love cutting edge tech and you're passionate about working on a product that is solving real world problems </p>
+</li>
+<li>
+<p>High level of communication and teamwork skills</p>
+</li>
+</ul>
+<img src="https://remotive.com/job/track/1359239/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1322995/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -302,7 +398,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -349,7 +445,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -418,7 +514,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -629,7 +725,7 @@
                     <code>developer,drupal,growth,design</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
@@ -654,7 +750,7 @@
                     <code>android,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
@@ -725,7 +821,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
