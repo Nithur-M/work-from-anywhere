@@ -11,7 +11,7 @@
                     <code>ux, leader, management</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112153" align="right" target="_blank">Apply</a>
@@ -35,7 +35,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-ux-engineer" align="right" target="_blank">Apply</a>
@@ -91,7 +91,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -156,7 +156,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/viva-translate-inc-disenador-a-web-ux-senior" align="right" target="_blank">Apply</a>
@@ -230,83 +230,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6199/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Tixel</h5>
-                    <h3> Product Designer (UX/UI)</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/tixel-product-designer-ux-ui-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6199/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> 
-    <br /><strong>URL:</strong> <a href="https://www.tixel.com">https://www.tixel.com</a>
-</p>
-
-<p><strong>You</strong>: You are passionate about all things UX and design and consider yourself an expert in the field. You have a creative flare and an inherent desire to design products people love to use.</p><p><strong>Us</strong>: A rapidly growing ticket marketplace that is making waves, a huge positive impact, and changing the game in the live entertainment space. We're on a mission to fill every seat with a happy fan and work hand-in-hand with festivals, promoters, artists, and venues around the world.</p><p>Still interested? Good! On we go…</p><p>This is an exciting opportunity to get in on the ground floor of a fast-growing start-up whilst immersing yourself in tech, music, and live events. We're looking for a Product Designer who is excited and ready to deliver high-quality, beautifully simple user experiences that our customers will love - a true advocate for Tixel’s product and users.</p><p><strong>What will you do?</strong></p><ul>
-<li><p>Take lead on all things design. Find creative ways to solve UX problems (e.g. usability, findability)</p></li>
-<li><p>Create wireframes, interactive prototypes, specifications and other design documents to communicate design ideas and intent</p></li>
-<li><p>Collaborate with our Product Manager and engineering team to deliver effective product solutions</p></li>
-<li><p>Conduct usability tests, collect qualitative user feedback and quantitative data to help shape roadmap priorities for the team.</p></li>
-<li><p>Join our CRO in-house team responsible for optimising Tixel's most valuable growth variables.</p></li>
-<li><p>Employ user-centered design methods and best practices to cultivate a deep understanding of the needs and aspirations of the people our products are designed for</p></li>
-<li><p>Work with developers to do reviews of frontend products before they are pushed in production</p></li>
-<li><p>Create designs with high-quality aesthetics to complement usability, and enhance functionality with attractive layouts.</p></li>
-</ul><p> </p><p><strong>Skills and Experience:</strong></p><ul>
-<li><p>You have over 3 years experience designing across mobile and web interfaces</p></li>
-<li><p>You’re an expert in prototyping tools such as Figma and design software such as Adobe Creative Suite</p></li>
-<li><p>Experience in developing UI guidelines and/or design systems that enable others to build on your work effectively.</p></li>
-<li><p>Deep understanding of how to uncover user needs through research and user empathy.</p></li>
-<li><p>An excellent understanding of customer-centred design (Design thinking, HCD, Agile, Lean UX a must)</p></li>
-<li><p>You appreciate big picture thinking and recognise the importance of prioritising the short term milestones that will move the needle towards the long term mission.</p></li>
-</ul><ul>
-<li><p>You're data-driven and use data insights to influence designs</p></li>
-<li><p>You have a creative mindset</p></li>
-<li><p>You can work independently and take full ownership of your projects</p></li>
-<li><p>You're highly organised and great at time management<br></p></li>
-</ul><p><strong>Nice to haves</strong></p><ul>
-<li><p>You’ve been part of cross-functional CRO teams</p></li>
-<li><p>Understanding of front-end web technologies such as HTML/CSS/Javascript</p></li>
-<li><p>Experience with native mobile design (iOS and Android)</p></li>
-</ul><p></p><p> <strong>Why you'll love it here...</strong></p><ul>
-<li><p>You'll be a part of a fast-paced, high-energy team aligned with the love of music and live events.</p></li>
-<li><p>We work hard, but we have fun. Otherwise, what's the point?</p></li>
-<li><p>You will have true ownership over your area of responsibility, and your input will be pivotal to the company's success. In turn, you'll have a real impact on people and the live events industry.</p></li>
-<li><p>You will have the opportunity to roll up your sleeves and get down into the weeds to build out the future. You will have unlimited scope to grow as the business scales, developing your career and building a team along the way.</p></li>
-<li>
-<p>We're proud that we have a diverse team, are family-friendly, and have a flexible work environment with our HQ based in Melbourne, and a growing team in the UK.</p>
-<p></p>
-</li>
-</ul><p><strong>Other benefits</strong></p><ul>
-<li><p>An extra personal day off every month.</p></li>
-<li><p>We encourage all staff to attend live events. You'll even have a monthly ticket allowance as a perk of the job.</p></li>
-<li><p>We will invest in your development and make it our priority to help you achieve your career objectives. You'll have access to a 'level-up allowance'.</p></li>
-<li><p>Flexibility to work from wherever you want</p></li>
-<li>
-<p>AND a genuine opportunity to be a very key part of a high growth business</p>
-<p></p>
-</li>
-</ul><p>Apply now, with a short note introducing yourself and a portfolio showcasing previously shipped UX/UI design for digital products. </p><p><br></p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tixel-product-designer-ux-ui-2">https://weworkremotely.com/remote-jobs/tixel-product-designer-ux-ui-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -317,7 +240,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>182 days ago</text>
+                <text>183 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -378,7 +301,7 @@
                     <code>contract,go,ui,ux</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
