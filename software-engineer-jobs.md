@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-lead-software-engineer" align="right" target="_blank">Apply</a>
@@ -118,7 +118,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer" align="right" target="_blank">Apply</a>
@@ -224,7 +224,7 @@
                     <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1352183" align="right" target="_blank">Apply</a>
@@ -381,6 +381,90 @@
 </ul>
 <p> </p>
 <img src="https://remotive.com/job/track/1187421/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/06/Cerosdotcom.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Ceros</h5>
+                    <h3>Sr. Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J111665/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                About Ceros
+Join us as Ceros embarks on the next chapter in our mission to unlock creativity. Ceros is evolving into the essential design platform for professional creatives the world over. Our suite of cloud-based tools empower professional creators …
+<p><strong>About Ceros</strong></p>
+<p>Join us as Ceros embarks on the next chapter in our mission to unlock creativity. Ceros is evolving into the essential design platform for professional creatives the world over. Our suite of cloud-based tools empower professional creators to push the boundaries of creativity, while our collaboration tools make it easy to get everyone involved in the process.</p>
+<p>Today, our products power some of the most engaging experiences on the web. In 2021 alone, interactive content created with Ceros Studio — from landing pages and pitch decks to interactive social media — has been viewed more than half a billion times. In the meantime, more than 3 million comments have been added to digital content using Markup, our new visual collaboration tool.</p>
+<p>Working at Ceros means having an impact at scale. Our products and services are leveraged by top tier brands such as Mashable, Bloomberg, Red Bull or Pinterest and are loved by more than 500,000 users. And we are building something even bigger and better: the creative operating system of the future.</p>
+<p>We are backed up and well-funded by top-tier investors including Sumeru Equity Partners, Grotech Ventures, Greycroft, and Starvest Partners.</p>
+<p>We are remote first forever with a 4½ day workweek that finishes every Friday at 1pm.</p>
+<p><strong>About the Team</strong></p>
+<p>As part of the Ceros product team, you’ll be working with a small, cross-functional group of the most talented people you’ve ever worked with. We hire only passionate and creative people with a proven and unquestionable ability to execute, and every member of the team is equally responsible for moving the product forward.</p>
+<p>We have a dynamic company culture that collaborates daily. We care deeply about the user experience, and we debate passionately about our ideas. When you work at Ceros, you check your ego at the door, and you aren’t afraid to be honest, especially to yourself. We take our jobs seriously but ourselves not so much -- whether it’s cracking jokes in the chat room or poking fun at the CEO’s atrocious spelling.</p>
+<p><strong>The Role</strong></p>
+<p>Designing and building the Ceros platform is not an easy task. We require the best-of-the-best Software Engineers, Designers, and QA Testers, ready to bring the functionality of desktop software to the web, often pushing web browsers to the limits of what’s currently possible.</p>
+<p>Our codebase is 95% JavaScript and the Ceros product is comprised of multiple single-page applications with a client-heavy focus. We use libraries like jQuery, Require, and Backbone. The Ceros Studio is architected around the HTML5 Canvas element. We’re not language zealots. We believe in using the right tool for the job, and our current server-side infrastructure runs PHP, Node.js, Redis, AWS Aurora, Docker, Jenkins, etc. on the Amazon AWS cloud.</p>
+<p><strong>Key Responsibilities</strong></p>
+<ul>
+<li style="font-weight: 400;">Writing maintainable code (probably goes without saying)</li>
+<li style="font-weight: 400;">Having your day ruined by functional QA testers who find every bug you write</li>
+<li style="font-weight: 400;">Planning and leading high-complexity stories and epics</li>
+<li style="font-weight: 400;">Reviewing story docs and offering insights on impacts to other parts of the application</li>
+<li style="font-weight: 400;">Performing code reviews and helping to enforce our code and architectural standards</li>
+<li style="font-weight: 400;">Participating as a primary on-call resource for service disruptions</li>
+<li style="font-weight: 400;">Handling superfriend responsibilities with minimal assistance</li>
+<li style="font-weight: 400;">Acting as release owner</li>
+<li style="font-weight: 400;">Mentoring other software engineers</li>
+<li style="font-weight: 400;">Suggesting new technologies and techniques to improve engineer productivity</li>
+<li style="font-weight: 400;">Agonizing over the user experience until even a trained monkey could use the product</li>
+<li style="font-weight: 400;">Collaborating with and mentoring your peers on security best practices</li>
+<li style="font-weight: 400;">And finally, deploying your code to production and seeing the customer create something amazing and beautiful with it</li>
+</ul>
+<p><strong>What we’re looking for from the heart</strong></p>
+<ul>
+<li style="font-weight: 400;">Creativity - You find a way</li>
+<li style="font-weight: 400;">Authenticity - You take your job more seriously than you take yourself</li>
+<li style="font-weight: 400;">Passion - You give a shit</li>
+<li style="font-weight: 400;">Courageous honesty - You speak up and push boundaries</li>
+<li style="font-weight: 400;">Respect - you are thoughtful and respectful in all interactions and expect the same from others</li>
+<li style="font-weight: 400;">Curiosity - You want to learn new things</li>
+</ul>
+<p><strong>Key Things to Know</strong></p>
+<ul>
+<li style="font-weight: 400;">We want you to start ASAP</li>
+<li style="font-weight: 400;">This is a full-time position</li>
+<li style="font-weight: 400;">This is a remote first role</li>
+</ul>
+<p><strong>Benefits</strong></p>
+<ul>
+<li style="font-weight: 400;">Competitive Salary</li>
+<li style="font-weight: 400;">Stock options</li>
+<li style="font-weight: 400;">Premium health insurance</li>
+<li style="font-weight: 400;">401K match</li>
+<li style="font-weight: 400;">Paid parental leave</li>
+<li style="font-weight: 400;">Unlimited vacation days</li>
+<li style="font-weight: 400;">Wellness Fridays (Half Day Fridays)</li>
+<li style="font-weight: 400;">Excellent gear (Macbook Air, external monitor, etc.)</li>
+<li style="font-weight: 400;">Stipend for the home office set up</li>
+<li style="font-weight: 400;">Growth and Learning opportunities within the company</li>
+<li style="font-weight: 400;">Virtual experiences in which Cerosians can collaborate, educate, and create social connections with one another</li>
+</ul>
+<p><em>At Ceros, we are deeply committed to the recruitment, retention, and growth of diverse talent; </em><em>uniting people from unique backgrounds in our shared passion for unlocking creativity through technology.</em></p>
+<p><em>As an equal opportunity employer, we prohibit any unlawful discrimination against a job applicant on the basis of their race, color, religion, veteran status, parental status, gender identity or expression, transgender status, sexual orientation, national origin, age, disability or genetic information.  We respect the laws enforced by the EEOC and are dedicated to going above and beyond in fostering diversity across our company.</em></p>
                 </details>
                 </td>
             </tr></table>
