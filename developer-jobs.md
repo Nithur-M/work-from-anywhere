@@ -11,7 +11,7 @@
                     <code>developer, nft, financial</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112161" align="right" target="_blank">Apply</a>
@@ -46,6 +46,59 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p dir="ltr">About us:Â </p><p><strong><br /></strong></p><p dir="ltr">"Talent has no borders." We strongly believe in uplifting talent by providing them with the right opportunities - no matter which part of the world you are from, we value your skills and offer every member the growth possibilities they deserve. ð</p><p><strong><br /></strong></p><p dir="ltr">Proxify is a global network and a supportive community of talented developers interested in long-term remote jobs.Â </p><p dir="ltr">With us, you will get opportunities:</p><ul><li dir="ltr"><p dir="ltr">To work remotely on exciting projects with leading brands and fast-growing startups.</p></li><li dir="ltr"><p dir="ltr">To work on commision free project-based jobs.</p></li><li dir="ltr"><p dir="ltr">To work with companies that respect and value your skills.</p></li></ul><p><strong><br /></strong></p><p dir="ltr">Since our launch, talented developers on Proxify have worked with 620+ happy clients to build their products and growth features. 1400+ talented developers trust Proxify and the community we are building to fulfil their dreams and objectives.Â </p><p><strong><br /><br /></strong></p><p dir="ltr">The Role:</p><p dir="ltr">We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features.Â </p><p><strong><br /><br /></strong></p><h3 dir="ltr">What we are looking for:</h3><ul><li dir="ltr"><p dir="ltr">4+ years of working experience as a FullStack;</p></li><li dir="ltr"><p dir="ltr">Frontend:<br />- React JS;<br />- Design System;</p></li><li dir="ltr"><p dir="ltr">Backend:<br />- Microservices architecture;<br />- NodeJS;Â </p></li><li dir="ltr"><p dir="ltr">Database:<br />- SQL;<br />- MongoDB;</p></li><li dir="ltr"><p dir="ltr">Upper-intermediate or higher English level.</p></li></ul><p><strong><br /></strong></p><h4 dir="ltr">Nice-to-have:Â </h4><ul><li dir="ltr"><p dir="ltr">Timezone: CET (+/- 3 hours);</p></li><li dir="ltr"><p dir="ltr">Database Architecture knowledge</p></li></ul><p><strong><br /><br /></strong></p><div dir="ltr" align="left"><table class="mce-item-table"><colgroup><col width="600" /></colgroup><tbody><tr><td><p dir="ltr">What we offer:</p><ul><li dir="ltr"><p dir="ltr">ð» 100% remote work: Work from anywhere.</p></li><li dir="ltr"><p dir="ltr">ðð» Flexibility: The ability to change the project to another one.</p></li><li dir="ltr"><p dir="ltr">ðµ Financial growth: Competitive compensation and performance-based increases.</p></li><li dir="ltr"><p dir="ltr">ð§ð»ââï¸ Freedom: Very flexible working schedule.</p></li><li dir="ltr"><p dir="ltr">ð 360 degree growth: Opportunities for professional development and personal growth.</p></li></ul></td></tr></tbody></table></div><p><strong><br /><br /></strong></p><p dir="ltr">Your benefits with Proxify:</p><ul><li dir="ltr"><p dir="ltr">Be part of Proxify community: Network with like-minded and enthusiastic individuals to make a difference.Â </p></li><li dir="ltr"><p dir="ltr">Make an impact: You get the opportunity to work on the projects that inspire you and add value to your career.</p></li><li dir="ltr"><p dir="ltr">Transparency: Contracts with transparency in earnings and working hours.</p></li><li dir="ltr"><p dir="ltr">Save your time: Fast and efficient hiring process to match you with the project of your preference.</p></li><li dir="ltr"><p dir="ltr">Ownership: Take ownership of your work and enjoy more freedom in your career.</p></li></ul>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4936/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>RESONANZ Group / QuickTrials</h5>
+                    <h3> Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/resonanz-group-quicktrials-full-stack-developer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/4936/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Switzerland
+    <br /><strong>URL:</strong> <a href="https://www.quicktrials.com/">https://www.quicktrials.com/</a>
+</p>
+
+<div>We’re growing and looking for a talented, full-stack web developer to join the QuickTrials team!  <br><br>
+</div><div>QuickTrials is a category-leading SaaS product that is used to collect field trial data around the world.  We play a part in helping to speed up agricultural innovation, which is important in these times of climate change and other global pressures.  The job is multifaceted and involves interesting computer science challenges that require deep thinking and strong coding skills.  You’ll be working with a great team of co-workers in a positive, results focused environment. It is a rewarding position where you can develop your skills and grow with the company.<br><br>
+</div><h1>Skills</h1><div>We are looking for a developer who is detail oriented and can work through complex issues to find elegant solutions.  Key technical skills include: <br>Typescript</div><ul>
+<li>HTML/CSS</li>
+<li>Python</li>
+<li>SQL</li>
+</ul><div>
+<br>The ideal candidate would also have good mathematical skills and know some: </div><ul>
+<li>Flutter</li>
+<li>Knockout.js</li>
+<li>Django</li>
+<li>Google Cloud</li>
+</ul><h1>Location</h1><div>This is a remote-work opportunity and is location-independent. Engineers from Europe or Brazil (or similar time zones) are preferred.  A good command of English is required. <br><br>
+</div><h1>Application Process (5 min – 2 hours in total)</h1><div>
+<br>We understand that job seeking can be time consuming and we try to keep the evaluation process to a minimum.  You can expect the following process.<br><br>
+</div><ol>
+<li>Apply at the email below (5 min)</li>
+<li>If selected, complete an application form with some simple coding exercises (60 min)</li>
+<li>If selected, complete a technical interview with an engineer (30-60 min)</li>
+</ol><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/resonanz-group-quicktrials-full-stack-developer-1">https://weworkremotely.com/remote-jobs/resonanz-group-quicktrials-full-stack-developer-1</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -314,7 +367,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -619,7 +672,7 @@
                     <code>android,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
