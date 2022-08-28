@@ -11,7 +11,7 @@
                     <code>developer, nft, financial</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112161" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>dev, javascript, react</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112140" align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/eventmobi-senior-back-end-developer-python-remote" align="right" target="_blank">Apply</a>
@@ -126,7 +126,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-2" align="right" target="_blank">Apply</a>
@@ -200,6 +200,63 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4259/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Switch Themes</h5>
+                    <h3> Front-end developer (Shopify)</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/4259/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Melbourne, Australia
+    <br /><strong>URL:</strong> <a href="https://switchthemes.co/">https://switchthemes.co/</a>
+</p>
+
+<div>Switch Themes design and build premium Shopify themes that are sold exclusively on the Shopify theme store. We currently have 5 themes on the theme store - with our most recent theme Shapes launching this year.</div><div><br></div><div>We’re looking for an experienced front-end developer to help us with our themes. </div><div><br></div><div><strong>Responsibilities</strong></div><ul>
+<li>Expert experience with building Shopify Themes and Shopify’s liquid templating language</li>
+<li>Expert knowledge in the Shopify platform and Shopify Themes</li>
+<li>Understand all requirements for Shopify Themes to be listed on the theme store: <a href="https://shopify.dev/themes/store/requirements">https://shopify.dev/themes/store/requirements</a>
+</li>
+<li>Strong web development skills (HTML, CSS and Javascript)</li>
+<li>Experience with build tools</li>
+<li>Strong Javascript skills (Vanilla JS)</li>
+<li>Experience with version control and Git</li>
+<li>Take initiative to follow wireframes / designs and apply beyond what is provided</li>
+<li>Understanding of semantic web standards and web accessibility</li>
+<li>Understanding of web performance </li>
+</ul><div><br></div><div><strong>Bonus if you have experience with the following</strong></div><ul>
+<li>Tailwind</li>
+<li>Rollup.js</li>
+<li>Alpine.js</li>
+<li>Figma</li>
+<li>Design/UX</li>
+</ul><div><br></div><div><strong>About you</strong></div><ul>
+<li>You are self-motivated and self-directed</li>
+<li>Have a minimum 2 years of front-end development experience</li>
+<li>You like the idea of working from home and not having anyone bother you all day whilst you do deep work</li>
+<li>Speak English at an intermediate-high level</li>
+</ul><div><br></div><div><br></div><div><strong>Working at Switch</strong></div><div><br></div><div>This is a 3-4 day per week role for a 6 month contract.</div><div><br></div><div>We are a fully remote team spread out across Melbourne, Hong Kong, Vietnam, Ireland, Jamaica &amp; Canada. Don’t worry, we aren’t that big - we have just one team member in each of those locations!</div><div><br></div><div>Your working hours are flexible. The 20-30 hours a week (based on 3/4 days a week) can be broken up however you like. Do you prefer working at 5am in the morning? No worries. Want to schedule your day so you can have an afternoon nap? Go for it. </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify">https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1322995/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -210,7 +267,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -257,7 +314,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -326,7 +383,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -537,7 +594,7 @@
                     <code>developer,drupal,growth,design</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
@@ -562,7 +619,7 @@
                     <code>android,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
@@ -633,7 +690,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
