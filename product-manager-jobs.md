@@ -303,7 +303,7 @@
                     <code>Full Time</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://freshremote.work/J111679/" align="right" target="_blank">Apply</a>
@@ -368,7 +368,7 @@ Our first product eliminates cash security deposits an …
                     <code>Full Time</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://freshremote.work/J111488/" align="right" target="_blank">Apply</a>
