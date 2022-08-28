@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-lead-software-engineer" align="right" target="_blank">Apply</a>
@@ -108,112 +108,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6327/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>LeadSimple, Inc.</h5>
-                    <h3> Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6327/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Washington State, U.S.A.
-    <br /><strong>URL:</strong> <a href="https://www.leadsimple.com/careers">https://www.leadsimple.com/careers</a>
-</p>
-
-<div>🚀 Want to join a team of A-players in an exciting, high-growth, entrepreneurial environment?</div><div><br></div><div><strong>LeadSimple is a small team solving big problems in the property management industry. Bootstrapped since 2013, we're passionate about helping small businesses grow sustainably.</strong></div><div><br></div><div>Our software provides a powerful foundation for any property management company to take their business to the next level. Thousands of property managers rely on us for their day-to-day operations and we’re only getting started. </div><div><br></div><div>We’re looking for seasoned Senior and Lead Ruby on Rails Engineers to join our fully-remote team to help us scale to meet market demand. This is an opportunity to join on the ground floor of a bootstrapped, growing company with a lot of upside.</div><div><br></div><h1><strong>What we’d want you to do:</strong></h1><ul>
-<li>Assist with complex migration projects, such as:</li>
-<li>Modernizing our back-end stack (we’re currently on Rails 4)</li>
-<li>Optimizing our API and PostgreSQL database for scale and performance</li>
-<li>Suggest and implement scalability improvements</li>
-<li>Collaborate with the rest of the team in weekly meetings, chat and code reviews</li>
-<li>Develop new full-stack features from start to finish using the <a href="https://basecamp.com/shapeup/webbook">Shape Up method</a>
-</li>
-<li>Write high-quality and maintainable Ruby and Typescript code</li>
-</ul><div><br></div><h1><strong>Qualifications</strong></h1><div><br></div><div><em>Must have</em></div><ul>
-<li>5+ years of experience with Ruby on Rails</li>
-<li>Fluent spoken and written English at a professional level.</li>
-<li>Working hours must overlap with PST for at least 3 hours.</li>
-<li>Familiarity with PostgreSQL query optimization and scaling strategies</li>
-<li>Strong analytical and debugging skills</li>
-<li>Strong communication skills, able to recommend decisions using data and experience</li>
-</ul><div><br></div><div><em>Nice to have</em></div><ul>
-<li>Prior experience upgrading Ruby on Rails (this would be a big plus!)</li>
-<li>React, Typescript or GraphQL experience</li>
-<li>Elixir experience (we have 1 service using Elixir)</li>
-</ul><div><br></div><h1><strong>Our Stack</strong></h1><div><br></div><div><em>Front-end</em></div><ul>
-<li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-<li>
-<a href="https://reactjs.org/">React</a> </li>
-<li><a href="http://mui.com">MaterialUI</a></li>
-<li>
-<a href="https://relay.dev/">Relay<br></a><br>
-</li>
-</ul><div>
-<em>Back-end<br></em><br>
-</div><ul>
-<li>
-<a href="http://rubyonrails.org">Ruby on Rails</a> monolith (with 95% test coverage)</li>
-<li>GraphQL (via <a href="https://graphql-ruby.org/">graphql-ruby</a> gem)</li>
-<li>Sidekiq</li>
-<li>PostgreSQL</li>
-<li>Redis</li>
-<li>Heroku<br><br>
-</li>
-</ul><h1><strong>What it’s like to work here</strong></h1><ul>
-<li>You’ll have opportunities to work on the entire stack, from databases to user interfaces and everything in between, in a wide variety of product areas.</li>
-<li>You’ll own the delivery of high-impact projects that affect real customers, from start to finish, with no bureaucracy, following the <a href="https://basecamp.com/shapeup/webbook">Shape Up method</a>. </li>
-<li>You’ll collaborate within a small, highly productive team, reviewing code and helping other engineers with their roadblocks.</li>
-<li>You’ll have time to focus. We don’t micromanage, and we do our best to keep distractions (and meetings) to a minimum. </li>
-<li>When assigned to on-call duty, you’ll investigate and fix bugs and respond to incidents. </li>
-<li>You’ll deploy early and often. We ship to production multiple times per day.<br><br>
-</li>
-</ul><div><br></div><h1><strong>Benefits</strong></h1><ul>
-<li>Remote-only team, location independent</li>
-<li>3rd Friday of every month off</li>
-<li>6 US Holidays</li>
-<li>3 Weeks Paid Time Off (in addition to the above)</li>
-<li>Quarterly Two-Week Hackathons</li>
-<li>Monthly Healthcare Allowance</li>
-<li>Yearly Vacation Allowance</li>
-<li>$2000 equipment stipend upon hire</li>
-<li>Focused and dedicated environment with smart, caring people</li>
-<li>Consistent, but flexible working schedule with minimum 3hr Pacific Time Zone overlap</li>
-<li>Mission driven, non-political company and values-based culture<br><br>
-</li>
-</ul><h1><strong>Our Interview Process</strong></h1><ul>
-<li>Fill out our application, located <a href="https://docs.google.com/forms/d/e/1FAIpQLSeF5zo6hIcTQK8gP9LLGz6sTZMXGI1vDHPVbkpISxiy9CvOfQ/viewform?usp=sf_link">here</a>
-</li>
-<li>Intro call (30 minutes)</li>
-<li>Offline work sample test (up to 60 minutes)</li>
-<li>Work history interview with Hiring Manager (up to 90 minutes)</li>
-<li>Culture interview with People Operations<strong> </strong>(30 minutes)</li>
-<li>Meet the CTO<strong> </strong>(30 minutes)</li>
-<li>Meet the CEO (30 minutes)</li>
-<li>Offer call (15 minutes), followed by a written offer</li>
-<li>If you accept the offer, you enter a 90-day trial period, fully paid.</li>
-<li>If all goes well in your first 90 days, you convert to a full-time team member!</li>
-</ul><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer">https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1352183/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -224,7 +118,7 @@
                     <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1352183" align="right" target="_blank">Apply</a>
@@ -265,7 +159,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -333,7 +227,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -385,11 +279,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/06/Cerosdotcom.png" width="38px" height="auto">
+                    <img src="https://freshremote.work/media/company/logo/20/05/Newsela.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Ceros</h5>
-                    <h3>Sr. Software Engineer</h3>
+                    <h5>Newsela</h5>
+                    <h3>Lead Software Engineer, Alexandria</h3>
                 </td>
                 <td width="300">
                     <code>Full Time</code>
@@ -398,73 +292,57 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J111665/" align="right" target="_blank">Apply</a>
+                <a href="https://freshremote.work/J111560/" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                About Ceros
-Join us as Ceros embarks on the next chapter in our mission to unlock creativity. Ceros is evolving into the essential design platform for professional creatives the world over. Our suite of cloud-based tools empower professional creators …
-<p><strong>About Ceros</strong></p>
-<p>Join us as Ceros embarks on the next chapter in our mission to unlock creativity. Ceros is evolving into the essential design platform for professional creatives the world over. Our suite of cloud-based tools empower professional creators to push the boundaries of creativity, while our collaboration tools make it easy to get everyone involved in the process.</p>
-<p>Today, our products power some of the most engaging experiences on the web. In 2021 alone, interactive content created with Ceros Studio — from landing pages and pitch decks to interactive social media — has been viewed more than half a billion times. In the meantime, more than 3 million comments have been added to digital content using Markup, our new visual collaboration tool.</p>
-<p>Working at Ceros means having an impact at scale. Our products and services are leveraged by top tier brands such as Mashable, Bloomberg, Red Bull or Pinterest and are loved by more than 500,000 users. And we are building something even bigger and better: the creative operating system of the future.</p>
-<p>We are backed up and well-funded by top-tier investors including Sumeru Equity Partners, Grotech Ventures, Greycroft, and Starvest Partners.</p>
-<p>We are remote first forever with a 4½ day workweek that finishes every Friday at 1pm.</p>
-<p><strong>About the Team</strong></p>
-<p>As part of the Ceros product team, you’ll be working with a small, cross-functional group of the most talented people you’ve ever worked with. We hire only passionate and creative people with a proven and unquestionable ability to execute, and every member of the team is equally responsible for moving the product forward.</p>
-<p>We have a dynamic company culture that collaborates daily. We care deeply about the user experience, and we debate passionately about our ideas. When you work at Ceros, you check your ego at the door, and you aren’t afraid to be honest, especially to yourself. We take our jobs seriously but ourselves not so much -- whether it’s cracking jokes in the chat room or poking fun at the CEO’s atrocious spelling.</p>
-<p><strong>The Role</strong></p>
-<p>Designing and building the Ceros platform is not an easy task. We require the best-of-the-best Software Engineers, Designers, and QA Testers, ready to bring the functionality of desktop software to the web, often pushing web browsers to the limits of what’s currently possible.</p>
-<p>Our codebase is 95% JavaScript and the Ceros product is comprised of multiple single-page applications with a client-heavy focus. We use libraries like jQuery, Require, and Backbone. The Ceros Studio is architected around the HTML5 Canvas element. We’re not language zealots. We believe in using the right tool for the job, and our current server-side infrastructure runs PHP, Node.js, Redis, AWS Aurora, Docker, Jenkins, etc. on the Amazon AWS cloud.</p>
-<p><strong>Key Responsibilities</strong></p>
+                The Role:
+The Lead Software Engineer for Alexandria will lead their team to break down and deliver high-quality work on time. You will be researching and leading the scoping efforts for software development projects focused on delivering best-in-clas …
+<p><strong>The Role:</strong></p>
+<p>The Lead Software Engineer for Alexandria will lead their team to break down and deliver high-quality work on time. You will be researching and leading the scoping efforts for software development projects focused on delivering best-in-class content in a variety of different types which are then transformed into an engaging learning experience. Additionally, you will guide and mentor team members to write clean, clear code, and robust tests. You will also independently own delivery of features. Reporting to the Director of Author and Publish, you will partner closely with Engineering, Product Management and Product Design to refine ambiguous work items into clearly defined, valuable work items and properly represent the technical concerns for each project. </p>
+<p><strong>Why You’ll Love This Role:</strong></p>
+<p>As a member of our growing Software Engineering team, you will have the opportunity to build innovative educational solutions for millions of teachers and students. You will also gain exposure to our tech-forward culture that is highly influenced by educators. You’ll also have the opportunity to ensure students and teachers have a first-class experience in accessing our content. You will have a direct impact on improving our users’ first experience with our platform, which will ultimately scale Newsela’s ability to bring engaging, culturally responsive learning content to K-12 classrooms nationwide. And because we're a technology company focused on improving the way students learn, you’ll be part of an engineering culture that values teaching, learning, and questioning. As as result, as lead you will be helping define the mentorship and growth pathways for your team members as they work on technical projects. </p>
+<p><strong>Why We’ll Love You: </strong></p>
+<p>You have 5+ years of experience in leading software development teams and demonstrated success in building software as a service (SaaS products). You are able to leverage your leadership skills, planing abilities and, expert experience working with front-end frameworks (e.g. React/Preact and Node.js). You have strong data modeling skills and experience with REST API’s and database understanding to effectively build and deploy a highly performant content creation system and ecosystem. You are deeply committed to building a more inclusive digital education platform and have experience working with WCAG and accessibility standards, web fundamentals, and responsive design. While not required, Graph DB, and API Gateway experience is a plus.</p>
+<p><strong>About Newsela:</strong></p>
+<p>One of the fastest growing tech companies in K-12 education, Newsela was founded on the principle that while every child may have unique learning preferences, they all deserve a rich learning experience that ignites a love of learning. We built our platform based on learning science research to deliver the most engaging, authentic content to modernize how teaching happens in the classroom. Along with interactive assessments and tools, we provide teachers with digital content at five reading levels -- from +100 of the best sources -- that is relevant to the diverse backgrounds and interests of their students. Since we started in 2013, we’ve established a presence in 90% of U.S. K-12 schools and over 2.5M teachers and 37M students have registered with Newsela.</p>
+<p> </p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/06/U18XLJNh_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Corestream</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J111618/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Corestream is seeking a Software Engineer to join our dynamic, entrepreneurial tech team. This is a unique ground floor opportunity where you will help design, write, and deliver features to our end users. You will work as part of an autonomous Agile …
+Corestream is seeking a Software Engineer to join our dynamic, entrepreneurial tech team. This is a unique ground floor opportunity where you will help design, write, and deliver features to our end users. You will work as part of an autonomous Agile product team, delivering working code to our users.
+<h3>Your Mission</h3>
 <ul>
-<li style="font-weight: 400;">Writing maintainable code (probably goes without saying)</li>
-<li style="font-weight: 400;">Having your day ruined by functional QA testers who find every bug you write</li>
-<li style="font-weight: 400;">Planning and leading high-complexity stories and epics</li>
-<li style="font-weight: 400;">Reviewing story docs and offering insights on impacts to other parts of the application</li>
-<li style="font-weight: 400;">Performing code reviews and helping to enforce our code and architectural standards</li>
-<li style="font-weight: 400;">Participating as a primary on-call resource for service disruptions</li>
-<li style="font-weight: 400;">Handling superfriend responsibilities with minimal assistance</li>
-<li style="font-weight: 400;">Acting as release owner</li>
-<li style="font-weight: 400;">Mentoring other software engineers</li>
-<li style="font-weight: 400;">Suggesting new technologies and techniques to improve engineer productivity</li>
-<li style="font-weight: 400;">Agonizing over the user experience until even a trained monkey could use the product</li>
-<li style="font-weight: 400;">Collaborating with and mentoring your peers on security best practices</li>
-<li style="font-weight: 400;">And finally, deploying your code to production and seeing the customer create something amazing and beautiful with it</li>
-</ul>
-<p><strong>What we’re looking for from the heart</strong></p>
+<li>Create software in an Agile environment</li><li>Willingness to work on all layers of our technology stack (React, Typescript, C# .NET Core, SQL Server)</li><li>Embrace best practices in software development (Code reviews, unit tests, CI/CD)</li><li>Close collaboration with the engineering team, design team, QA, architect, and product managers</li><li>Produce quality, testable code</li></ul>
+<h3>Recipe for Success</h3>
 <ul>
-<li style="font-weight: 400;">Creativity - You find a way</li>
-<li style="font-weight: 400;">Authenticity - You take your job more seriously than you take yourself</li>
-<li style="font-weight: 400;">Passion - You give a shit</li>
-<li style="font-weight: 400;">Courageous honesty - You speak up and push boundaries</li>
-<li style="font-weight: 400;">Respect - you are thoughtful and respectful in all interactions and expect the same from others</li>
-<li style="font-weight: 400;">Curiosity - You want to learn new things</li>
-</ul>
-<p><strong>Key Things to Know</strong></p>
+<li>2+ years’ experience in React, React hooks</li><li>Experience with global state management tools (Redux, Zustand, Context API)</li><li>Strong experience with CSS and mobile-first design</li><li>Experience with responsive design</li><li>Cloud experience</li><li>Attention to detail &amp; design</li><li>Ability to balance attention to detail with swift execution</li><li>Ability to develop automated tests to ensure business needs are met</li><li>Eye for documentation</li></ul>
+<h3>Cherries on Top</h3>
 <ul>
-<li style="font-weight: 400;">We want you to start ASAP</li>
-<li style="font-weight: 400;">This is a full-time position</li>
-<li style="font-weight: 400;">This is a remote first role</li>
-</ul>
-<p><strong>Benefits</strong></p>
-<ul>
-<li style="font-weight: 400;">Competitive Salary</li>
-<li style="font-weight: 400;">Stock options</li>
-<li style="font-weight: 400;">Premium health insurance</li>
-<li style="font-weight: 400;">401K match</li>
-<li style="font-weight: 400;">Paid parental leave</li>
-<li style="font-weight: 400;">Unlimited vacation days</li>
-<li style="font-weight: 400;">Wellness Fridays (Half Day Fridays)</li>
-<li style="font-weight: 400;">Excellent gear (Macbook Air, external monitor, etc.)</li>
-<li style="font-weight: 400;">Stipend for the home office set up</li>
-<li style="font-weight: 400;">Growth and Learning opportunities within the company</li>
-<li style="font-weight: 400;">Virtual experiences in which Cerosians can collaborate, educate, and create social connections with one another</li>
-</ul>
-<p><em>At Ceros, we are deeply committed to the recruitment, retention, and growth of diverse talent; </em><em>uniting people from unique backgrounds in our shared passion for unlocking creativity through technology.</em></p>
-<p><em>As an equal opportunity employer, we prohibit any unlawful discrimination against a job applicant on the basis of their race, color, religion, veteran status, parental status, gender identity or expression, transgender status, sexual orientation, national origin, age, disability or genetic information.  We respect the laws enforced by the EEOC and are dedicated to going above and beyond in fostering diversity across our company.</em></p>
+<li>Experience with back-end technologies &amp; concepts (.NET Core preferred, but concepts are key over technology)</li><li>Micro-service architecture experience</li><li>Experience with Azure DevOps</li><li>Domain-driven-design knowledge</li></ul>About Us Corestream is a fast-growing, cutting-edge financial and benefits technology company. We are an industry leader in the delivery of Voluntary Benefits; our proprietary software is the engine for large, Fortune-500 companies to easily and cost-effectively offer unlimited Voluntary Benefits to its employees through payroll deduction.  We have a driven, flexible, and fun team and offer competitive compensation and benefit packages. Although we are over ten years old, we still have a “start-up” culture and when we are in the office we have a casual dress code, weekly yoga, free snacks and beverages, and Friday lunches are on the house.  We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
                 </details>
                 </td>
             </tr></table>
