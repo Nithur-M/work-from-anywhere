@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/slate-product-manager" align="right" target="_blank">Apply</a>
@@ -104,7 +104,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>211 days ago</text>
+                <text>212 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/buildbook-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -202,7 +202,7 @@
                     <code>android,education,go,ios</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/senior-product-manager-mobile-1339868" align="right" target="_blank">Apply</a>
@@ -289,6 +289,155 @@
 </li>
 </ol>
 <img src="https://remotive.com/job/track/1339868/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/20/06/sayrhino.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Rhino</h5>
+                    <h3>Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J111679/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Please note: All roles at Rhino are remote-first, and there will be no future in-office mandate.
+Our mission is to give renters everywhere greater financial freedom to plan and enjoy their lives.
+Our first product eliminates cash security deposits an …
+<p><em>Please note: All roles at Rhino are remote-first, and there will be no future in-office mandate.</em></p>
+<p>Our mission is to give renters everywhere greater financial freedom to plan and enjoy their lives.</p>
+<p>Our first product eliminates cash security deposits and puts more money back in renters’ pockets. With over $45 billion tied up in security deposits for 110 million renters in the United States alone, it’s time for security deposits to officially become a thing of the past. Tying up money at one of life’s biggest and most expensive moments just isn’t fair.</p>
+<p>So we threw out the antiquated “way of doing things” and built a technology-driven insurance product to help bring renting into the 21st century. With Rhino, millions of renters across the country now have the opportunity to save with our award-winning deposit insurance. We’ve already saved hundreds of millions of dollars for renters and are trusted in over 2.4 million homes nationwide, and most importantly, we’re just getting started…</p>
+<p>As a product manager at Rhino you will be focused on shaping the future of our products. This position is focused on our security deposit insurance product and is fully responsible for the long term success of this product. </p>
+<p><strong>In this role you will:</strong></p>
+<ul>
+<li style="font-weight: 400;">Help execute on and contribute to a product roadmap that achieves our company’s business goals and long-term vision.</li>
+<li style="font-weight: 400;">Collaborate with teams like Risk, Finance, Insurance, Claims, and Analytics to optimize our loss ratios and build robust systems for pricing, renter underwriting, and risk management.</li>
+<li style="font-weight: 400;">Be a strong advocate for our renters and landlord partners’ needs so we can grow the product while continually mitigating risk and staying compliant.</li>
+<li style="font-weight: 400;">Utilize user research, A/B testing, and quantitative data to inform your product decisions.</li>
+<li style="font-weight: 400;">Work closely with Design and Engineering on implementation from start to finish.</li>
+<li style="font-weight: 400;">Help with QA/UAT of new features as needed.</li>
+</ul>
+<p><strong>We’re ideally seeking:</strong></p>
+<ul>
+<li style="font-weight: 400;">At least 5+ years of Product Management experience.</li>
+<li style="font-weight: 400;">Experience in navigating trade-offs between regulatory requirements, technical complexity, and user experience.</li>
+<li style="font-weight: 400;">Strong data analysis skills -- from writing SQL to conducting and synthesizing results from both qualitative and quantitative user research.</li>
+<li style="font-weight: 400;">Demonstrated success in launching and maintaining excellent products.</li>
+<li style="font-weight: 400;">A willingness to navigate complicated and ambiguous problems.</li>
+<li style="font-weight: 400;">Strong working experience with Agile/SCRUM development process.</li>
+<li style="font-weight: 400;">Experience within InsurTech is a big plus.</li>
+<li style="font-weight: 400;">Experience within another regulated space is a plus.</li>
+<li style="font-weight: 400;">Previous B2B2C or D2C experience is a plus.</li>
+</ul>
+<p> </p>
+<p><strong>Benefits:</strong></p>
+<ul>
+<li style="font-weight: 400;">Competitive compensation package including base salary, performance bonus, and other financial perks</li>
+<li style="font-weight: 400;">Medical, Dental, and Vision coverage (90% employer contribution) - Eligible on your start date</li>
+<li style="font-weight: 400;">Unlimited PTO Policy, quarterly team recharge days focused on mental and physical wellness; generous paid parental leave</li>
+<li style="font-weight: 400;">Stock option plan to give our employees a direct stake in Rhino’s success</li>
+<li style="font-weight: 400;">Bi-annual performance reviews and ongoing professional coaching and development opportunities with external partners</li>
+<li style="font-weight: 400;">Remote-first work culture with opportunities to collaborate as a team in person</li>
+<li style="font-weight: 400;">Opportunities to participate in ongoing diversity, inclusion and equity programming or join an ERG</li>
+<li style="font-weight: 400;">401(k), HSA, Life &amp; Disability Insurance Coverage ($0 employee contribution)</li>
+<li style="font-weight: 400;">Monthly lifestyle stipend to fit your needs (meals, wellness and/or co-working)</li>
+</ul><p><em>Rhino is committed to the principle of equal employment opportunity for all employees, and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Rhino are without regard to race, color, age, religion or belief, sexual orientation, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Rhino has a zero-tolerance policy against discrimination or harassment based on any of these characteristics. This includes recruitment, hiring, promotions, transfers, discipline, terminations, wage and salary administration, benefits, and training.</em></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/08/M289IlBz_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Wikimedia Foundation</h5>
+                    <h3>Senior Product Manager, Platform</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J111488/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Summary
+The Wikimedia Foundation is looking for a Design Systems, Platform Senior Product Manager to join our recently formed Platform Product management team, reporting to the Director of Platform Product Management. As a Platform Senior Product Man …
+<p><strong>Summary</strong></p>
+<p>The Wikimedia Foundation is looking for a Design Systems, Platform Senior Product Manager to join our recently formed Platform Product management team, reporting to the Director of Platform Product Management. As a Platform Senior Product Manager, you will be responsible for working closely with our engineering teams across the foundation to build and deliver technical capabilities that create value, support our mission, and positions our technical stack to sustainably grow and scale to empower the free-knowledge community. Platform Product Managers possess deep expertise in various areas of technology, serving as Subject Matter Experts to development and non-development audiences alike.   </p>
+<p>Wikipedia is one of the largest internet properties in the world, visited by 1 billion people a month across 280 different languages. Our foundational technology supports all of our properties, products, and offerings that empower the global free-knowledge community to produce and consume knowledge. </p>
+<p>Due to our scale, commitment to opensource, and our desire to support the infrastructure of free knowledge, it is no easy task to build and maintain foundational technology. To deliver key capabilities that are needed, Platform Product Managers must develop strong understandings of internal and external clients, leverage their product management skills to distill capabilities from user needs, and partner closely with partners in engineering to identify, design, and build technical capabilities that support products and services that unlock value. </p>
+<p>In this role, the Design Systems Senior Product Manager will be responsible for developing capabilities, solutions, and platforms that enable the Foundation to improve consistency within the user experience, increase efficiency by focusing on reusability, speed up our time-to-market for features, and simplify maintenance of our front-end code and systems. This will involve guiding the development and adoption of a new design system for Wikimedia projects, improving Server Side Rendering (SSR), mitigating redundancies, etc. Platform Product Managers will be working closely with one or more engineering teams on a daily basis and will have to collaborate closely within the team in order to deliver solutions at scale.</p>
+<p><strong>You are responsible for:</strong></p>
+<ul>
+<li style="font-weight: 400;">Developing a deep understanding of critical areas of our front-end technology stack, identifying opportunities to improve, extend, and/or leverage existing and new technologies to deliver against our mission and strategy</li>
+<li style="font-weight: 400;">Translating product/technical strategy into a roadmap containing well-defined and prioritized user stories and features </li>
+<li style="font-weight: 400;">Working with the Design Systems Team to manage incoming requests, including triaging, clarifying, generating estimates, prioritizing, and managing stakeholder expectations</li>
+<li style="font-weight: 400;">Establishing clear guidelines and methodologies to support development, adoption, and ongoing maintenance of a Design System</li>
+<li style="font-weight: 400;">Uncovering and understanding client needs and translating them into requirements and user stories</li>
+<li style="font-weight: 400;">Ensuring that requirements are fully understood and implementation plans match expectations</li>
+<li style="font-weight: 400;">Partnering with the Movement to assess  and address technical risks</li>
+<li style="font-weight: 400;">Working closely with engineering teams to communicate the product vision, clarify use cases and requirements, and resolve questions and issues that arise during development.</li>
+<li style="font-weight: 400;">Clearly defining success criteria for testing and product acceptance</li>
+<li style="font-weight: 400;">Using both qualitative and quantitative methods to measure the impact of your work</li>
+<li style="font-weight: 400;">Serving as a product evangelist and subject matter expert to the technical community</li>
+<li style="font-weight: 400;">Establishing and analyzing important metrics related to design system usage that inform product decisions</li>
+<li style="font-weight: 400;">Managing a governance and contribution model that facilitates collaboration across designers, engineers, and the community</li>
+</ul>
+<p><strong>Skills and Experience:</strong></p>
+<ul>
+<li style="font-weight: 400;">3+ years of experience designing and building web and/or mobile products as a technical product manager, software engineer, or equivalent role</li>
+<li style="font-weight: 400;">Proven project, communication, and time management skills</li>
+<li style="font-weight: 400;">Agility and flexibility to work with multiple different teams, projects, and technologies while delivering value and impact</li>
+<li style="font-weight: 400;">Ability to partner and work closely with internal teams, including developers, engineers, architects, security, and product teams.</li>
+<li style="font-weight: 400;">Strong understanding of development concepts</li>
+<li style="font-weight: 400;">Demonstrated experience prioritizing work</li>
+<li style="font-weight: 400;">Outstanding written and verbal communication skills with the ability to translate complex technical requirements to non-technical audiences, as well as turn non-technical requirements into specs that engineering teams can execute against.</li>
+<li style="font-weight: 400;">Ability to solve complex business problems to maximize value while balancing technical constraints</li>
+<li style="font-weight: 400;">Able to draft documentation and visualizations that clarify technical concepts to non-technical audiences and vice-versa</li>
+<li style="font-weight: 400;">Direct experience in companies or initiatives that have pulled together disparate products or services into a common experience for customers.</li>
+<li style="font-weight: 400;">Bachelor’s degree or equivalent in relevant work experience</li>
+<li style="font-weight: 400;">Working closely with design and engineering leadership in evolving the product over time</li>
+</ul>
+<p><strong>Qualities that are important to us:</strong></p>
+<ul>
+<li style="font-weight: 400;">Problem-solver with a passion and willingness to learn and dive-deep into technical details</li>
+<li style="font-weight: 400;">Possess a growth mindset with ability to identify additional skills, knowledge, and/or expertise required and the drive to develop themselves where needed  </li>
+</ul>
+<p><strong>Additionally, we’d love it if you have:</strong></p>
+<ul>
+<li style="font-weight: 400;">Familiarity with PHP, JSON, Python, and/or Javascript (Vue.js)</li>
+<li style="font-weight: 400;">Experience using, building, and/or contributing to a design system</li>
+<li style="font-weight: 400;">Experience working with Design tools such as Figma</li>
+<li style="font-weight: 400;">Experience working with microservice architectures</li>
+<li style="font-weight: 400;">Experience with open-source technology </li>
+<li style="font-weight: 400;">Experience interacting with free and open-source software projects and communities</li>
+<li style="font-weight: 400;">Experience editing Wikipedia or contributing to other wiki projects</li>
+</ul>
+<h4>About the Wikimedia Foundation</h4>
+<p>The Wikimedia Foundation is the nonprofit organization that operates Wikipedia and the other Wikimedia free knowledge projects. Our vision is a world in which every single human can freely share in the sum of all knowledge. We believe that everyone has the potential to contribute something to our shared knowledge, and that everyone should be able to access that knowledge freely. We host Wikipedia and the Wikimedia projects, build software experiences for reading, contributing, and sharing Wikimedia content, support the volunteer communities and partners who make Wikimedia possible, and advocate for policies that enable Wikimedia and free knowledge to thrive. </p>
+<p>The Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations. We receive donations from millions of individuals around the world, with an average donation of about $15. We also receive donations through institutional grants and gifts. The Wikimedia Foundation is a United States 501(c)(3) tax-exempt organization with offices in San Francisco, California, USA.</p>
+<p><em><strong>As an equal opportunity employer, the Wikimedia Foundation values having a diverse workforce and continuously strives to maintain an inclusive and equitable workplace. We encourage people with a diverse range of backgrounds to apply. We do not discriminate against any person based upon their race, traits historically associated with race, religion, color, national origin, sex, pregnancy or related medical conditions, parental status, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, or any other legally protected characteristics.</strong></em></p>
+<p><em><strong>If you are a qualified applicant requiring assistance or an accommodation to complete any step of the application process due to a disability, you may contact us at recruiting@wikimedia.org or +1 (415) 839-6885.</strong></em></p>
+<p><strong>More information</strong></p>
+<p><a href="https://wikimediafoundation.org/about/jobs/#section-12"><strong>U.S. Benefits &amp; Perks</strong></a><br/><a href="https://wikimediafoundation.org/"><strong>Wikimedia Foundation</strong></a><br/><a href="https://foundation.wikimedia.org/wiki/Applicant_privacy_policy"><strong>Applicant Privacy Policy</strong></a><br/><a href="https://diff.wikimedia.org/"><strong>News from across the Wikimedia movement</strong></a><br/><a href="https://wikimediafoundation.org/news/"><strong>Blog</strong></a><br/><a href="https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017"><strong>Wikimedia 2030</strong></a><br/><a href="https://medium.com/freely-sharing-the-sum-of-all-knowledge/we-stand-for-racial-justice-49c31afbabca"><strong>Our Commitment to Equity</strong></a><br/><a href="https://www.youtube.com/watch?v=OQzZI0l3IOw"><strong>This is Wikimedia Foundation</strong></a><strong> </strong><br/><a href="https://www.youtube.com/watch?v=xQ4ba28-oGs"><strong>Facts Matter</strong></a><br/><a href="https://wikimediafoundation.org/wiki/Our_projects"><strong>Our Projects</strong></a><br/><a href="https://techblog.wikimedia.org/"><strong>Our Tech Stack</strong></a></p>
+
                 </details>
                 </td>
             </tr></table>
