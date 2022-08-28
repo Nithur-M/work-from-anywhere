@@ -1,5 +1,78 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>SOCi</h5>
+                    <h3> Full Stack Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>180 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/soci-full-stack-software-engineer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> San Diego, CA
+    <br /><strong>URL:</strong> <a href="https://engineering.meetsoci.com/">https://engineering.meetsoci.com/</a>
+</p>
+
+<div>About SOCi<br><br>
+</div><div>
+<br>SOCi is an award-winning all-in-one local marketing platform built specifically for "next-level" multi-location marketers. Our customers include top brands and influencers like Ace Hardware, Sport Clips, and Anytime Fitness who have the impossible challenge of managing their digital presence across hundreds and thousands of locations. The SOCi platform empowers local management of the entire customer journey across multiple mediums including local business listings, social, reviews, listening, ads, bots, and more. As the central command for multi-location marketers, SOCi makes the impossible possible by enabling top brands and their locations to strengthen and scale their digital presence across limitless local search and social pages while protecting what matters most, their reputation.<br><br>
+</div><div>
+<br>*** This is a fully remote position; <strong>international applicants welcome!<br></strong><br>
+</div><div>
+<br>Full Stack Web Developer<br><br>
+</div><ul>
+<li>As a member of an Empowered Product Team, you'll be accountable for deeply understanding the customer's problem, actively contributing to ideating on the solutions and measuring your impact through the results on our customers, not code written. You and your team will be responsible for creating the functional and technical specs and determining estimates to present to management. </li>
+<li>A Product Team consists of 2 mobs (each mob consists of 3 engineers), an Engineering Manager (EM), a UX designer, and a Product Manager (PM). You'll be "mob programming" with the other engineers, in real-time over Zoom throughout the day, while ad-hoc collaborating with your EM, UX designer, and PM, as needed.</li>
+<li>This position is fully remote, our teams are distributed across four continents. You'll be expected to have 6 hours of overlap with your team within the ~6am...~4pm PST (±2) window (varies by team).</li>
+<li>You'll be deploying incremental slices of progress to production daily or even multiple times throughout the day; the only measure of progress is delivery of customer value to production.</li>
+</ul><div>
+<br> Requirements<br><br>
+</div><ul>
+<li>7+ years experience in building complex software systems</li>
+<li>Deep understanding of object-oriented programming, ability to articulate the pros and cons of inheritance vs composition, discuss common design patterns, their applications and common mistakes when using them.</li>
+<li>Deep understanding of relational database systems (MySQL, Postgres), including normalization (pros, cons), indexing strategies for large databases (100s millions of rows), and query optimization strategies (and common pitfalls).</li>
+<li>Demonstrated track record of being able to balance making the right architectural decisions while moving fast do deliver customer value; can show examples of prior architectures built, articulate the tradeoffs and reasons for them. </li>
+<li>Solid programming skills in a couple of languages (JS, PHP preferred, but not required).</li>
+<li>Understanding of modern cloud technologies (AWS, GCP) and ability to use them to solve common technology problems in a simple and quick way. </li>
+<li>Basic understanding of micro-services and service-oriented architectures, and the benefits and tradeoffs of monolith vs SOA, single-tenant vs multi-tenant systems.</li>
+<li>High-level awareness of available ML technologies, ability to recognize their application in solving common business problems.</li>
+<li>High-level awareness of basic visual and user experience principles (recognize obviously ugly and/or unusable experiences), and corresponding CSS skills to remedy them, in partnership with a UX designer.</li>
+</ul><div>
+<br>Why you’ll love it here<br><br>
+</div><ul>
+<li>Fully remote, diverse international team</li>
+<li>An extremely talented group of engineers and tech leads to learn from</li>
+<li>Work directly with product and technology executives</li>
+<li>Active career coaching and professional development to keep you growing</li>
+<li>Learning budget (books, online courses)</li>
+<li>Directly see the impact of your work by working closely with customers and help build the fastest-growing mar-tech platform for top brands</li>
+</ul><div>
+<br>What's SOCi's culture like?<br><br>
+</div><div>
+<br>SOCi stands for Selfless, Overachievers, Customer Centric, and Innovative. We strive to be in service to each other, consider learning as Job #1. We are life-long learners and care to grow the company just as much as we care to grow each other. We obsess over the customer problems such that we can deliver the most valuable solutions to them. We hold each other accountable, are candid in our feedback, and expect you to do the same. It's okay to make mistakes, it's not okay to not learn from them. We partner strongly across departments and function, as we know it'll take a village to succeed. One team, one dream.<br><br>
+</div><div>
+<br>SOCi is an Equal Opportunity/Affirmative Action employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex including sexual orientation and gender identity, national origin, disability, protected Veteran Status, or any other characteristic protected by applicable federal, state, or local law.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/soci-full-stack-software-engineer-1">https://weworkremotely.com/remote-jobs/soci-full-stack-software-engineer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1224255/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +83,7 @@
                     <code>developer,javascript,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-customer-solutions-team-1224255" align="right" target="_blank">Apply</a>
@@ -62,7 +135,7 @@
                     <code>ADS,AWS,backend,C++</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-1339259" align="right" target="_blank">Apply</a>
