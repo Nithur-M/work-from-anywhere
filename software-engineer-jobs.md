@@ -10,7 +10,7 @@
                     <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1352183" align="right" target="_blank">Apply</a>
