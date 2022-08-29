@@ -11,7 +11,7 @@
                     <code>developer, nft, financial</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112161" align="right" target="_blank">Apply</a>
