@@ -60,7 +60,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/resonanz-group-quicktrials-full-stack-developer-1" align="right" target="_blank">Apply</a>
