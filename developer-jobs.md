@@ -50,6 +50,81 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/2835/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>KAPSYS</h5>
+                    <h3> Senior Front-End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/kapsys-senior-front-end-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/2835/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Singapore
+    <br /><strong>URL:</strong> <a href="https://kapsys.ch">https://kapsys.ch</a>
+</p>
+
+<div>Looking for a Challenge? You will be crafting the Front end structure that will lead to optimal Product Adoption. Angular and React are your Swiss army knives that you know to use. Taking designs and enhancing them with your experience is what we would like you to do. You will be involved mainly in 2 Projects, Seobase.com and our Custom Insurance CRM, which is used in Switzerland by our partners.</div><div> </div><div>Kapsys is a fully remote powerhouse that delivers software solutions. Our main mission is to speed up the IT sphere by making next-generation omnichannel platforms. We challenge assumptions and speak up when we believe a client may be making a mistake. Good business practices and purpose-built teams ensure optimal outcomes for our clients.</div><div><br></div><div>Our continuous devotion to developing internal knowledge and collaborative processes allows us to solve problems that other people can't. </div><div><br></div><div>Want to join our Kapsys Team? Keep Reading!<br><br>
+</div><div><strong>What you'll bring:</strong></div><div><br></div><ul>
+<li>4+ years of experience in Front-End Development</li>
+<li>Proven experience leading Front-End teams</li>
+<li>Proficiency in working with GraphQL</li>
+<li>Solid experience in Angular</li>
+<li>Keen attention to detail</li>
+<li>Experience with version control — Git</li>
+<li>UX/UI design knowledge and conceptual thinking skills</li>
+<li>Upper-Intermediate English level </li>
+<li>Fast learning skills and proactivity</li>
+<li>Enthusiasm with a ‘can do will do’ attitude</li>
+</ul><div><strong><br>Nice to have:</strong></div><div><br></div><ul>
+<li>Bachelor's and Master's degree in Computer Science, Information Technology, Software Engineering, or related discipline</li>
+<li>Projects done in React</li>
+<li>Experience in GatsbyJs</li>
+<li>End2End testing frameworks</li>
+</ul><div> </div><div><strong>What will you do:</strong></div><ul>
+<li>Front-end development and maintenance of web apps</li>
+<li>Improve and maintain system architecture integrity</li>
+<li>Maintaining system security and integrity</li>
+<li>Process creation, documentation, and maintenance</li>
+<li>Debugging errors as they arise, adding user trace flags, and reviewing debug logs</li>
+<li>Other projects and assignments as needed</li>
+<li>Team leadership</li>
+</ul><div> </div><div><br></div><div>
+<strong>We offer - more than just a job</strong>:</div><ul>
+<li>100% remote work with the ability to work from anywhere</li>
+<li>Broad and advanced technology stack, massive opportunities to grow, learn, and advance your skills</li>
+<li>Excellent team communication and amazing cross-cultural team: you will collaborate with teammates from around the world and get to know new cultures</li>
+<li>Flexible schedule</li>
+<li>19 Paid Time Off days (PTO)</li>
+<li>Elevation plan available after your first year with us</li>
+<li>Company perks and recognition plan</li>
+<li>Competitive compensation depending on experience and skills</li>
+<li>Open-minded management, no bureaucracy, flat hierarchy</li>
+</ul><div>
+<br><br>
+</div><div><strong>Interview stages-step by step:</strong></div><div><br></div><ul>
+<li>1st stage - HR Interview</li>
+<li>2nd stage - Team Lead + CEO Interview</li>
+</ul><div><br></div><div><strong>Want to speed up the IT sphere with us? Then join our ride and apply now!</strong></div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/kapsys-senior-front-end-developer">https://weworkremotely.com/remote-jobs/kapsys-senior-front-end-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6306/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
