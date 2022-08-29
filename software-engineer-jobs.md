@@ -249,38 +249,4 @@ The Lead Software Engineer for Alexandria will lead their team to break down and
 <p> </p>
                 </details>
                 </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/06/U18XLJNh_400x400.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Corestream</h5>
-                    <h3>Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J111618/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Corestream is seeking a Software Engineer to join our dynamic, entrepreneurial tech team. This is a unique ground floor opportunity where you will help design, write, and deliver features to our end users. You will work as part of an autonomous Agile …
-Corestream is seeking a Software Engineer to join our dynamic, entrepreneurial tech team. This is a unique ground floor opportunity where you will help design, write, and deliver features to our end users. You will work as part of an autonomous Agile product team, delivering working code to our users.
-<h3>Your Mission</h3>
-<ul>
-<li>Create software in an Agile environment</li><li>Willingness to work on all layers of our technology stack (React, Typescript, C# .NET Core, SQL Server)</li><li>Embrace best practices in software development (Code reviews, unit tests, CI/CD)</li><li>Close collaboration with the engineering team, design team, QA, architect, and product managers</li><li>Produce quality, testable code</li></ul>
-<h3>Recipe for Success</h3>
-<ul>
-<li>2+ years’ experience in React, React hooks</li><li>Experience with global state management tools (Redux, Zustand, Context API)</li><li>Strong experience with CSS and mobile-first design</li><li>Experience with responsive design</li><li>Cloud experience</li><li>Attention to detail &amp; design</li><li>Ability to balance attention to detail with swift execution</li><li>Ability to develop automated tests to ensure business needs are met</li><li>Eye for documentation</li></ul>
-<h3>Cherries on Top</h3>
-<ul>
-<li>Experience with back-end technologies &amp; concepts (.NET Core preferred, but concepts are key over technology)</li><li>Micro-service architecture experience</li><li>Experience with Azure DevOps</li><li>Domain-driven-design knowledge</li></ul>About Us Corestream is a fast-growing, cutting-edge financial and benefits technology company. We are an industry leader in the delivery of Voluntary Benefits; our proprietary software is the engine for large, Fortune-500 companies to easily and cost-effectively offer unlimited Voluntary Benefits to its employees through payroll deduction.  We have a driven, flexible, and fun team and offer competitive compensation and benefit packages. Although we are over ten years old, we still have a “start-up” culture and when we are in the office we have a casual dress code, weekly yoga, free snacks and beverages, and Friday lunches are on the house.  We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. 
-                </details>
-                </td>
             </tr></table>
