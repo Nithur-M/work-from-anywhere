@@ -36,7 +36,7 @@
                     <code>dev, javascript, react</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112140" align="right" target="_blank">Apply</a>
@@ -113,7 +113,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/eventmobi-senior-back-end-developer-python-remote" align="right" target="_blank">Apply</a>
@@ -179,7 +179,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-2" align="right" target="_blank">Apply</a>
@@ -253,6 +253,55 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5572/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>LateNiteSoft S.L.</h5>
+                    <h3> iOS Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/latenitesoft-s-l-ios-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0077/5572/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Madrid, Spain
+    <br /><strong>URL:</strong> <a href="https://latenitesoft.com">https://latenitesoft.com</a>
+</p>
+
+<div>We are looking for a person who is passionate about iOS app development, who enjoys creating and learning, someone who has attention to detail, who enjoys writing beautiful, efficient and well-structured code and is happy working in a team of similar people.<br><br>
+</div><div>We organize ourselves into small, autonomous teams that are as self-sufficient and independent as possible. You will be helping develop the next version of Camera+, one of the most successful apps in the history of the App Store. You will also work on new or existing products with the potential to become major hits in their own right.</div><div><br></div><div>We require that you have experience with:</div><ul>
+<li>2+ years of experience in iOS development</li>
+<li>Proficiency in Swift programming</li>
+<li>Experience writing efficient, responsive and easy to understand code</li>
+<li>Knowledge of Apple’s design principles and interface guidelines</li>
+<li>Complete fluency in English</li>
+<li>The ability to work full-time (40 hours/week)</li>
+</ul><div>A published app in the App Store would be a great letter of introduction.</div><div>
+<br>The ideal candidate would also have knowledge about Photography, Filmmaking, Machine Learning and Core ML, Metal, Core Image, AVFoundation. <br><br>
+</div><div>We will also value knowledge about SwiftUI, Objective-C, Instruments, Core Data, Core Media, Core Video, Core Text, Image I/O, Swift Package Manager, Swift Async/Await, StoreKit, Combine, Python and Figma.<br><br>
+</div><div>We offer:</div><ul>
+<li>Competitive compensation</li>
+<li>Working from home</li>
+<li>The ability to contribute to successful products enjoyed by millions</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/latenitesoft-s-l-ios-developer">https://weworkremotely.com/remote-jobs/latenitesoft-s-l-ios-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4259/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -263,7 +312,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
@@ -320,7 +369,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -436,7 +485,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -743,7 +792,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
