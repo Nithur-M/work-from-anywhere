@@ -50,59 +50,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4936/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>RESONANZ Group / QuickTrials</h5>
-                    <h3> Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/resonanz-group-quicktrials-full-stack-developer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4936/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Switzerland
-    <br /><strong>URL:</strong> <a href="https://www.quicktrials.com/">https://www.quicktrials.com/</a>
-</p>
-
-<div>We’re growing and looking for a talented, full-stack web developer to join the QuickTrials team!  <br><br>
-</div><div>QuickTrials is a category-leading SaaS product that is used to collect field trial data around the world.  We play a part in helping to speed up agricultural innovation, which is important in these times of climate change and other global pressures.  The job is multifaceted and involves interesting computer science challenges that require deep thinking and strong coding skills.  You’ll be working with a great team of co-workers in a positive, results focused environment. It is a rewarding position where you can develop your skills and grow with the company.<br><br>
-</div><h1>Skills</h1><div>We are looking for a developer who is detail oriented and can work through complex issues to find elegant solutions.  Key technical skills include: <br>Typescript</div><ul>
-<li>HTML/CSS</li>
-<li>Python</li>
-<li>SQL</li>
-</ul><div>
-<br>The ideal candidate would also have good mathematical skills and know some: </div><ul>
-<li>Flutter</li>
-<li>Knockout.js</li>
-<li>Django</li>
-<li>Google Cloud</li>
-</ul><h1>Location</h1><div>This is a remote-work opportunity and is location-independent. Engineers from Europe or Brazil (or similar time zones) are preferred.  A good command of English is required. <br><br>
-</div><h1>Application Process (5 min – 2 hours in total)</h1><div>
-<br>We understand that job seeking can be time consuming and we try to keep the evaluation process to a minimum.  You can expect the following process.<br><br>
-</div><ol>
-<li>Apply at the email below (5 min)</li>
-<li>If selected, complete an application form with some simple coding exercises (60 min)</li>
-<li>If selected, complete a technical interview with an engineer (30-60 min)</li>
-</ol><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/resonanz-group-quicktrials-full-stack-developer-1">https://weworkremotely.com/remote-jobs/resonanz-group-quicktrials-full-stack-developer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6306/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
