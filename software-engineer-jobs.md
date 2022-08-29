@@ -1,5 +1,51 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Draft.dev</h5>
+                    <h3> Software Engineering Content Writer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>90 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/draft-dev-software-engineering-content-writer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> USA
+    <br /><strong>URL:</strong> <a href="https://draft.dev/">https://draft.dev/</a>
+</p>
+
+<div>
+<br>If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics on the side, this will be a great part-time role for you!<br><br>
+</div><div>
+<br>We are specifically looking for developers with experience in the following areas:</div><ol>
+<li>Kubernetes</li>
+<li>Machine Learning</li>
+<li>Data Engineering</li>
+<li>Event Streaming</li>
+<li>Site Reliability Engineering</li>
+<li>DevSecOps</li>
+</ol><div>Draft.dev’s writers create technical blog posts and tutorials for clients in a wide range of industries and areas of technology. Writer pay starts at $315 per ~1500-word article and goes up as you complete more assignments.<br><br>
+</div><div>This is a great side hustle as almost all our 200+ writers are full-time developers with a background in software engineering, data engineering, machine learning, product management, or similar.<br><br>
+</div><div>Because we create content that will be read by a wide range of readers around the world, we are committed to supporting diversity in our writers (we currently have writers in over 50 countries). If you have any of the skills listed above and you’ve written at least 3 blog posts in the past, <a href="https://draft.dev/write">please apply</a>!</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/draft-dev-software-engineering-content-writer">https://weworkremotely.com/remote-jobs/draft-dev-software-engineering-content-writer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1352183/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -181,7 +227,7 @@
                     <code>Full Time</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://freshremote.work/J111560/" align="right" target="_blank">Apply</a>
