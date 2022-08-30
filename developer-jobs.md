@@ -36,7 +36,7 @@
                     <code>dev, javascript, react</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112140" align="right" target="_blank">Apply</a>
@@ -46,6 +46,60 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p dir="ltr">About us:Â </p><p><strong><br /></strong></p><p dir="ltr">"Talent has no borders." We strongly believe in uplifting talent by providing them with the right opportunities - no matter which part of the world you are from, we value your skills and offer every member the growth possibilities they deserve. ð</p><p><strong><br /></strong></p><p dir="ltr">Proxify is a global network and a supportive community of talented developers interested in long-term remote jobs.Â </p><p dir="ltr">With us, you will get opportunities:</p><ul><li dir="ltr"><p dir="ltr">To work remotely on exciting projects with leading brands and fast-growing startups.</p></li><li dir="ltr"><p dir="ltr">To work on commision free project-based jobs.</p></li><li dir="ltr"><p dir="ltr">To work with companies that respect and value your skills.</p></li></ul><p><strong><br /></strong></p><p dir="ltr">Since our launch, talented developers on Proxify have worked with 620+ happy clients to build their products and growth features. 1400+ talented developers trust Proxify and the community we are building to fulfil their dreams and objectives.Â </p><p><strong><br /><br /></strong></p><p dir="ltr">The Role:</p><p dir="ltr">We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features.Â </p><p><strong><br /><br /></strong></p><h3 dir="ltr">What we are looking for:</h3><ul><li dir="ltr"><p dir="ltr">4+ years of working experience as a FullStack;</p></li><li dir="ltr"><p dir="ltr">Frontend:<br />- React JS;<br />- Design System;</p></li><li dir="ltr"><p dir="ltr">Backend:<br />- Microservices architecture;<br />- NodeJS;Â </p></li><li dir="ltr"><p dir="ltr">Database:<br />- SQL;<br />- MongoDB;</p></li><li dir="ltr"><p dir="ltr">Upper-intermediate or higher English level.</p></li></ul><p><strong><br /></strong></p><h4 dir="ltr">Nice-to-have:Â </h4><ul><li dir="ltr"><p dir="ltr">Timezone: CET (+/- 3 hours);</p></li><li dir="ltr"><p dir="ltr">Database Architecture knowledge</p></li></ul><p><strong><br /><br /></strong></p><div dir="ltr" align="left"><table class="mce-item-table"><colgroup><col width="600" /></colgroup><tbody><tr><td><p dir="ltr">What we offer:</p><ul><li dir="ltr"><p dir="ltr">ð» 100% remote work: Work from anywhere.</p></li><li dir="ltr"><p dir="ltr">ðð» Flexibility: The ability to change the project to another one.</p></li><li dir="ltr"><p dir="ltr">ðµ Financial growth: Competitive compensation and performance-based increases.</p></li><li dir="ltr"><p dir="ltr">ð§ð»ââï¸ Freedom: Very flexible working schedule.</p></li><li dir="ltr"><p dir="ltr">ð 360 degree growth: Opportunities for professional development and personal growth.</p></li></ul></td></tr></tbody></table></div><p><strong><br /><br /></strong></p><p dir="ltr">Your benefits with Proxify:</p><ul><li dir="ltr"><p dir="ltr">Be part of Proxify community: Network with like-minded and enthusiastic individuals to make a difference.Â </p></li><li dir="ltr"><p dir="ltr">Make an impact: You get the opportunity to work on the projects that inspire you and add value to your career.</p></li><li dir="ltr"><p dir="ltr">Transparency: Contracts with transparency in earnings and working hours.</p></li><li dir="ltr"><p dir="ltr">Save your time: Fast and efficient hiring process to match you with the project of your preference.</p></li><li dir="ltr"><p dir="ltr">Ownership: Take ownership of your work and enjoy more freedom in your career.</p></li></ul>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0015/9656/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Falkbuilt</h5>
+                    <h3> [Full-time, Remote] Senior 3D Developer with Unity</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/falkbuilt-full-time-remote-senior-3d-developer-with-unity" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0015/9656/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Calgary
+    <br /><strong>URL:</strong> <a href="https://falkbuilt.com/">https://falkbuilt.com/</a>
+</p>
+
+<div>Falkbuilt is a technology driven start-up venture. Founders include Mogens Smed and Barrie Loberg. With digital intelligence we will revolutionize the construction industry. Our work leverages the video game experience while making it real with data to build the physical replica of the virtual. </div><div> </div><div>Falkbuilt is based in Calgary, Canada (MST), we have a top-shelf team of developers to implement a state-of-the-art platform. It is a small, tight, clean-coding group of professionals. This position is open for remote work from the comfort of your own home in any time zone from the Pacific coast of North America east to Europe.</div><div> </div><div>We have a mobile and desktop multi-player, multi-platform application for visualizing building designs in an immersive and collaborative environment using the Unity platform. We need an expert 3D graphics developer to take this application to the next level.</div><div> </div><div><strong>Requirements</strong></div><ul>
+<li>This is a very technical role. Expert experience in solving low-level development challenges like multi-threading and optimization, CPU, GPU.</li>
+<li>Expert in C#.</li>
+<li>Expert in Unity game engine.</li>
+<li>Wizard with 3D mathematics and transforms.</li>
+<li>We have a small team of expert developers with the highest standards for architecture, design, and code quality. You will need to demonstrate you have the same standards.</li>
+<li>Expert knowledge of PBR materials and textures for photo real rendering: still, fly-through, and game environments.</li>
+<li>Working knowledge of other non-Unity rendering engines.</li>
+<li>Ability to deliver an awesome real-time user experience.</li>
+<li>Shipped a commercial product with Unity3D.</li>
+<li>Flexibility: on occasion you will be asked to support other development projects, especially web-app frontends.</li>
+<li>First and foremost - you are a great developer with 3D visualization skills, not the other way around.</li>
+</ul><div> </div><div>
+<strong>Bonus Points</strong> </div><ul>
+<li>Experience in C++.</li>
+<li>Experience in Web Development using Angular.</li>
+<li>Experience with Autodesk products like Revit, Inventor. </li>
+<li>Experience in the construction industry, shop drawings, architectural drawings, etc.</li>
+<li>Knowledge of Unity Reflect.</li>
+<li>Knowledge of Enscape.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/falkbuilt-full-time-remote-senior-3d-developer-with-unity">https://weworkremotely.com/remote-jobs/falkbuilt-full-time-remote-senior-3d-developer-with-unity</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -135,7 +189,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/eventmobi-senior-back-end-developer-python-remote" align="right" target="_blank">Apply</a>
@@ -201,7 +255,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-2" align="right" target="_blank">Apply</a>
@@ -285,7 +339,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/latenitesoft-s-l-ios-developer" align="right" target="_blank">Apply</a>
@@ -334,7 +388,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
@@ -381,6 +435,55 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1368220/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Wolfram</h5>
+                    <h3>Incremental Quality Developer</h3>
+                </td>
+                <td width="300">
+                    <code>C,developer,git,linux</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/qa/incremental-quality-developer-1368220" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Wolfram, creator of Mathematica, Wolfram|Alpha and the Wolfram Language, is seeking a highly motivated and skilled Incremental Quality Developer to be a part of its IQD department. This developer would be part of the IQD team for the Wolfram Language, focusing on reducing outstanding issues in the product and improving the product's quality with every release. An ideal candidate would have strong debugging skills and good code analysis acumen and would enjoy improving code quality. This position requires fluency in English and strong programming, communication and code review skills.<br><br>Responsibilities</p>
+<ul>
+<li>Improving code quality and reducing defects in any part of the Wolfram Language system</li>
+<li>Reviewing open issues and verifying reproducibility</li>
+<li>Debugging and understanding open issues and proposing potential fixes</li>
+<li>Reviewing pull requests created for user interface repositories</li>
+<li>Developing and maintaining code analysis tools</li>
+<li>Interacting with managers and user interface developers to understand and improve the code base</li>
+</ul>
+<p>Qualifications</p>
+<ul>
+<li>Bachelor's degree in computer science, engineering, math, physics or a related technical or quantitative field</li>
+<li>Experience with multiple common programming languages (C/Java/...), including the Wolfram Language</li>
+<li>Good verbal and written communication skills</li>
+<li>Familiarity with different operating systems, including Linux</li>
+</ul>
+<p>Preferred qualifications</p>
+<ul>
+<li>Experience in source control systems such as Git, Stash and CVS</li>
+<li>Experience working in Workbench/Eclipse or other IDE development tools</li>
+<li>Experience using project-tracking tools such as Jira</li>
+<li>Experience in the software development cycle and testing methodologies</li>
+</ul>
+<p>Location: Remote</p>
+<p>Wolfram is an equal opportunity employer and values diversity at its company. Women, people of color, members of the LGBTQ community, individuals with disabilities and veterans are strongly encouraged to apply.</p>
+<img src="https://remotive.com/job/track/1368220/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1322995/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -391,7 +494,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -507,7 +610,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -718,7 +821,7 @@
                     <code>developer,drupal,growth,design</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
@@ -743,7 +846,7 @@
                     <code>android,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
@@ -800,83 +903,6 @@
 <p><em> </em></p>
 <p><em>At Aldrin Labs, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.</em></p>
 <img src="https://remotive.com/job/track/1342094/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>A.Team</h5>
-                    <h3>Senior Independent Software Developer</h3>
-                </td>
-                <td width="300">
-                    <code>contract,developer,go,wordpress</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="text-size-adjust: 100%; overflow-wrap: break-word;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. </p>
-<p style="text-size-adjust: 100%; overflow-wrap: break-word;">After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><em>As part of A·Team, you can expect:</em></span></p>
-<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
-<li><strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li><strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li><strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li><strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li><strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul>
-<p> </p>
-<p> </p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>How to apply:</strong></span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Go here: <a href="https://build.a.team/remotivereferral" rel="nofollow">https://build.a.team/remotivereferral</a> + mention Remotive. </span>No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>What you’ll do:</strong></span></p>
-<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is for:</span></strong></p>
-<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">not</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> for:</span></strong></p>
-<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">People looking for small gigs</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Folks looking to build simple wordpress/wix/squarespace-style websites</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those still early in their careers and recent university/bootcamp grads (at least not yet)</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Our long-term vision:</strong></span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
-<img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
