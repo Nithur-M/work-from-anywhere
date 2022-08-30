@@ -56,7 +56,7 @@
                     <code>AWS,backend,education,frontend</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1352183" align="right" target="_blank">Apply</a>
@@ -97,7 +97,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -165,7 +165,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -213,40 +213,6 @@
 </ul>
 <p> </p>
 <img src="https://remotive.com/job/track/1187421/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/20/05/Newsela.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Newsela</h5>
-                    <h3>Lead Software Engineer, Alexandria</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J111560/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                The Role:
-The Lead Software Engineer for Alexandria will lead their team to break down and deliver high-quality work on time. You will be researching and leading the scoping efforts for software development projects focused on delivering best-in-clas …
-<p><strong>The Role:</strong></p>
-<p>The Lead Software Engineer for Alexandria will lead their team to break down and deliver high-quality work on time. You will be researching and leading the scoping efforts for software development projects focused on delivering best-in-class content in a variety of different types which are then transformed into an engaging learning experience. Additionally, you will guide and mentor team members to write clean, clear code, and robust tests. You will also independently own delivery of features. Reporting to the Director of Author and Publish, you will partner closely with Engineering, Product Management and Product Design to refine ambiguous work items into clearly defined, valuable work items and properly represent the technical concerns for each project. </p>
-<p><strong>Why You’ll Love This Role:</strong></p>
-<p>As a member of our growing Software Engineering team, you will have the opportunity to build innovative educational solutions for millions of teachers and students. You will also gain exposure to our tech-forward culture that is highly influenced by educators. You’ll also have the opportunity to ensure students and teachers have a first-class experience in accessing our content. You will have a direct impact on improving our users’ first experience with our platform, which will ultimately scale Newsela’s ability to bring engaging, culturally responsive learning content to K-12 classrooms nationwide. And because we're a technology company focused on improving the way students learn, you’ll be part of an engineering culture that values teaching, learning, and questioning. As as result, as lead you will be helping define the mentorship and growth pathways for your team members as they work on technical projects. </p>
-<p><strong>Why We’ll Love You: </strong></p>
-<p>You have 5+ years of experience in leading software development teams and demonstrated success in building software as a service (SaaS products). You are able to leverage your leadership skills, planing abilities and, expert experience working with front-end frameworks (e.g. React/Preact and Node.js). You have strong data modeling skills and experience with REST API’s and database understanding to effectively build and deploy a highly performant content creation system and ecosystem. You are deeply committed to building a more inclusive digital education platform and have experience working with WCAG and accessibility standards, web fundamentals, and responsive design. While not required, Graph DB, and API Gateway experience is a plus.</p>
-<p><strong>About Newsela:</strong></p>
-<p>One of the fastest growing tech companies in K-12 education, Newsela was founded on the principle that while every child may have unique learning preferences, they all deserve a rich learning experience that ignites a love of learning. We built our platform based on learning science research to deliver the most engaging, authentic content to modernize how teaching happens in the classroom. Along with interactive assessments and tools, we provide teachers with digital content at five reading levels -- from +100 of the best sources -- that is relevant to the diverse backgrounds and interests of their students. Since we started in 2013, we’ve established a presence in 90% of U.S. K-12 schools and over 2.5M teachers and 37M students have registered with Newsela.</p>
-<p> </p>
                 </details>
                 </td>
             </tr></table>
