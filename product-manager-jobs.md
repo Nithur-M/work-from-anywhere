@@ -1,5 +1,80 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4850/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TestGorilla</h5>
+                    <h3> Growth Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/4850/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Amsterdam, The Netherlands
+    <br /><strong>URL:</strong> <a href="https://www.testgorilla.com/">https://www.testgorilla.com/</a>
+</p>
+
+<div>Hi there,</div><div><br></div><div>I’m Michel, the Head of Product at TestGorilla. We’re a fast-growing HR tech startup that helps teams make better hiring decisions faster and bias-free.</div><div><br></div><div>Over the last year, we’ve experienced tremendous growth. More than 6,000 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way. That growth is in part thanks to our extensive inbound marketing program. <br><br>As we look to scale our efforts in 2022 and beyond, we’re looking for a <strong> Growth Product Manager</strong> who’s passionate about joining our quest to help people land dream jobs. </div><div><br></div><div><br></div><h1><strong>What’s in it for you?</strong></h1><ul>
+<li>Helping shape a fast-growing HR tech startup as an early employee</li>
+<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
+<li>Chance to be at the forefront of a growing trend of Agile Marketing</li>
+<li>Competitive salary + share appreciation rights (SARs)</li>
+<li>Flexible hours and vacation</li>
+<li>Paid parental leave </li>
+<li>Remote working budget: €1,000 per year</li>
+<li>Learning and development budget: 3,5% of salary</li>
+</ul><div><br></div><div><br></div><h1><strong>The job in a nutshell</strong></h1><div>Reporting into our Head of Product, we are looking for a creative and highly collaborative <strong>Growth Product Manager</strong> with a solid experimentation background and an obsession over the user's needs to lead one of our new Marketing Squads. <br><br>As a Growth Product Manager in our Marketing Department, you'll collaborate with stakeholders and teams from multiple departments to help attract new users to TestGorilla, and convert them into valued customers. You will do this by developing in-depth product, customer, and market insight, translating that insight into a healthy portfolio of marketing experiments that can help us provide a better experience to our users, and validating &amp; informing our brand positioning and product strategy. </div><div><br></div><div>This is an amazing opportunity for a Growth Product Manager who is looking to embark on an entrepreneurial journey and is ready to put a dent in the universe! </div><div>
+<br><br>
+</div><h1><strong>You’ll spend time on the following:</strong></h1><ul>
+<li>Collaborate with Test Gorilla's Product and Marketing leadership teams to help plan and execute an acquisition strategy to drive sustainable user growth</li>
+<li>Prioritize a healthy portfolio of marketing experiments and marketing campaigns that can move the needle for user visits, conversion, and engagement </li>
+<li>Develop a deep understanding of our users and our content through qualitative research, data analytics and experimentation </li>
+<li>Form part of the Product and Engineering team by collaborating with Product Designers and Engineers - from discovery to delivery, on to monitoring after release</li>
+<li>Work cross-functionally across the company to understand how Marketing can leverage our product, content, articles, creatives, and landing pages to grow our user base</li>
+</ul><div><br></div><h1><strong><br>Here's what we are looking for:</strong></h1><ul>
+<li>You are inspired by our mission of <em>putting people in their dream jobs</em> </li>
+<li>You are fully aligned with our <a href="https://www.testgorilla.com/careers/">values </a>
+</li>
+<li>You are natively proficient in written English</li>
+<li>You are passionate about Product Management and <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/growth-marketing-b2c-test/">Marketing</a> </li>
+<li>Prior experience in a marketing role</li>
+<li>Experience running experiments with lean thinking and quick iterations</li>
+<li>Data-driven approach to product management and prioritization</li>
+<li>Excellent stakeholder management skills</li>
+<li>Mindset that always thinks MVP first</li>
+<li>User psychology and marketing know-how </li>
+<li>You are comfortable with the ambiguity and pace of iteration of a hyper-growth startup</li>
+</ul><div><br></div><div>
+<em>We typically expect candidates with at least </em><strong><em>3 years of experience in agile cross-functional product</em></strong><em> and/or marketing team to have the skills mentioned above.</em>
+</div><div>
+<br><br>
+</div><h1><strong>Bonus points if…</strong></h1><ul>
+<li>You have experience working in a SaaS company and a fast-growing startup </li>
+<li>You have experience working in a Product-led growth environment</li>
+<li>You have experience with Agile Marketing </li>
+</ul><div><br></div><div><br></div><h1><strong>Interested?</strong></h1><div>We don’t offer rainbow glitter unicorns or dog-friendly offices (we literally don’t have an office), but we do offer real people, solid core values, and a product meant to give everyone a fair, unbiased chance at their dream jobs.</div><div>
+<br>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions faster and bias-free. I took one too and I enjoyed it!</div><div>
+<br>So if this role sounds like a good fit for you, I’d like you to <a href="https://assessment.testgorilla.com/testtaker/publicinvitation/cc74819f-dbe4-4978-b112-8d75fc0923b2">take an assessment</a> so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product!</div><div>
+<br>If you’re hired, I’ll do everything I can to help you succeed at TestGorilla and throughout the rest of your career.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager">https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6291/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +85,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/slate-product-manager" align="right" target="_blank">Apply</a>
@@ -104,7 +179,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>213 days ago</text>
+                <text>214 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/buildbook-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -202,7 +277,7 @@
                     <code>android,education,go,ios</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/senior-product-manager-mobile-1339868" align="right" target="_blank">Apply</a>
@@ -293,151 +368,41 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/20/06/sayrhino.jpg" width="38px" height="auto">
+                    <img src="https://freshremote.work/media/company/logo/22/08/ClipboardHealth.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Rhino</h5>
-                    <h3>Senior Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J111679/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Please note: All roles at Rhino are remote-first, and there will be no future in-office mandate.
-Our mission is to give renters everywhere greater financial freedom to plan and enjoy their lives.
-Our first product eliminates cash security deposits an …
-<p><em>Please note: All roles at Rhino are remote-first, and there will be no future in-office mandate.</em></p>
-<p>Our mission is to give renters everywhere greater financial freedom to plan and enjoy their lives.</p>
-<p>Our first product eliminates cash security deposits and puts more money back in renters’ pockets. With over $45 billion tied up in security deposits for 110 million renters in the United States alone, it’s time for security deposits to officially become a thing of the past. Tying up money at one of life’s biggest and most expensive moments just isn’t fair.</p>
-<p>So we threw out the antiquated “way of doing things” and built a technology-driven insurance product to help bring renting into the 21st century. With Rhino, millions of renters across the country now have the opportunity to save with our award-winning deposit insurance. We’ve already saved hundreds of millions of dollars for renters and are trusted in over 2.4 million homes nationwide, and most importantly, we’re just getting started…</p>
-<p>As a product manager at Rhino you will be focused on shaping the future of our products. This position is focused on our security deposit insurance product and is fully responsible for the long term success of this product. </p>
-<p><strong>In this role you will:</strong></p>
-<ul>
-<li style="font-weight: 400;">Help execute on and contribute to a product roadmap that achieves our company’s business goals and long-term vision.</li>
-<li style="font-weight: 400;">Collaborate with teams like Risk, Finance, Insurance, Claims, and Analytics to optimize our loss ratios and build robust systems for pricing, renter underwriting, and risk management.</li>
-<li style="font-weight: 400;">Be a strong advocate for our renters and landlord partners’ needs so we can grow the product while continually mitigating risk and staying compliant.</li>
-<li style="font-weight: 400;">Utilize user research, A/B testing, and quantitative data to inform your product decisions.</li>
-<li style="font-weight: 400;">Work closely with Design and Engineering on implementation from start to finish.</li>
-<li style="font-weight: 400;">Help with QA/UAT of new features as needed.</li>
-</ul>
-<p><strong>We’re ideally seeking:</strong></p>
-<ul>
-<li style="font-weight: 400;">At least 5+ years of Product Management experience.</li>
-<li style="font-weight: 400;">Experience in navigating trade-offs between regulatory requirements, technical complexity, and user experience.</li>
-<li style="font-weight: 400;">Strong data analysis skills -- from writing SQL to conducting and synthesizing results from both qualitative and quantitative user research.</li>
-<li style="font-weight: 400;">Demonstrated success in launching and maintaining excellent products.</li>
-<li style="font-weight: 400;">A willingness to navigate complicated and ambiguous problems.</li>
-<li style="font-weight: 400;">Strong working experience with Agile/SCRUM development process.</li>
-<li style="font-weight: 400;">Experience within InsurTech is a big plus.</li>
-<li style="font-weight: 400;">Experience within another regulated space is a plus.</li>
-<li style="font-weight: 400;">Previous B2B2C or D2C experience is a plus.</li>
-</ul>
-<p> </p>
-<p><strong>Benefits:</strong></p>
-<ul>
-<li style="font-weight: 400;">Competitive compensation package including base salary, performance bonus, and other financial perks</li>
-<li style="font-weight: 400;">Medical, Dental, and Vision coverage (90% employer contribution) - Eligible on your start date</li>
-<li style="font-weight: 400;">Unlimited PTO Policy, quarterly team recharge days focused on mental and physical wellness; generous paid parental leave</li>
-<li style="font-weight: 400;">Stock option plan to give our employees a direct stake in Rhino’s success</li>
-<li style="font-weight: 400;">Bi-annual performance reviews and ongoing professional coaching and development opportunities with external partners</li>
-<li style="font-weight: 400;">Remote-first work culture with opportunities to collaborate as a team in person</li>
-<li style="font-weight: 400;">Opportunities to participate in ongoing diversity, inclusion and equity programming or join an ERG</li>
-<li style="font-weight: 400;">401(k), HSA, Life &amp; Disability Insurance Coverage ($0 employee contribution)</li>
-<li style="font-weight: 400;">Monthly lifestyle stipend to fit your needs (meals, wellness and/or co-working)</li>
-</ul><p><em>Rhino is committed to the principle of equal employment opportunity for all employees, and to providing employees with a work environment free of discrimination and harassment. All employment decisions at Rhino are without regard to race, color, age, religion or belief, sexual orientation, family or parental status, or any other status protected by the laws or regulations in the locations where we operate. Rhino has a zero-tolerance policy against discrimination or harassment based on any of these characteristics. This includes recruitment, hiring, promotions, transfers, discipline, terminations, wage and salary administration, benefits, and training.</em></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/08/M289IlBz_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Wikimedia Foundation</h5>
-                    <h3>Senior Product Manager, Platform</h3>
+                    <h5>Clipboard Health</h5>
+                    <h3>Product Manager</h3>
                 </td>
                 <td width="300">
                     <code>Full Time</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J111488/" align="right" target="_blank">Apply</a>
+                <a href="https://freshremote.work/J112178/" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                Summary
-The Wikimedia Foundation is looking for a Design Systems, Platform Senior Product Manager to join our recently formed Platform Product management team, reporting to the Director of Platform Product Management. As a Platform Senior Product Man …
-<p><strong>Summary</strong></p>
-<p>The Wikimedia Foundation is looking for a Design Systems, Platform Senior Product Manager to join our recently formed Platform Product management team, reporting to the Director of Platform Product Management. As a Platform Senior Product Manager, you will be responsible for working closely with our engineering teams across the foundation to build and deliver technical capabilities that create value, support our mission, and positions our technical stack to sustainably grow and scale to empower the free-knowledge community. Platform Product Managers possess deep expertise in various areas of technology, serving as Subject Matter Experts to development and non-development audiences alike.   </p>
-<p>Wikipedia is one of the largest internet properties in the world, visited by 1 billion people a month across 280 different languages. Our foundational technology supports all of our properties, products, and offerings that empower the global free-knowledge community to produce and consume knowledge. </p>
-<p>Due to our scale, commitment to opensource, and our desire to support the infrastructure of free knowledge, it is no easy task to build and maintain foundational technology. To deliver key capabilities that are needed, Platform Product Managers must develop strong understandings of internal and external clients, leverage their product management skills to distill capabilities from user needs, and partner closely with partners in engineering to identify, design, and build technical capabilities that support products and services that unlock value. </p>
-<p>In this role, the Design Systems Senior Product Manager will be responsible for developing capabilities, solutions, and platforms that enable the Foundation to improve consistency within the user experience, increase efficiency by focusing on reusability, speed up our time-to-market for features, and simplify maintenance of our front-end code and systems. This will involve guiding the development and adoption of a new design system for Wikimedia projects, improving Server Side Rendering (SSR), mitigating redundancies, etc. Platform Product Managers will be working closely with one or more engineering teams on a daily basis and will have to collaborate closely within the team in order to deliver solutions at scale.</p>
-<p><strong>You are responsible for:</strong></p>
+                Why Clipboard Health Exists:
+We exist to lift as many people up the socioeconomic ladder as possible. We dramatically improve lives, by letting healthcare professionals turn extra time and ambition into career growth and financial opportunity. We ach …
+<h2 style="text-align: justify;"><strong>Why Clipboard Health Exists:</strong></h2>
+<p style="text-align: justify;">We exist to lift as many people up the socioeconomic ladder as possible. We dramatically improve lives, by letting healthcare professionals turn extra time and ambition into career growth and financial opportunity. We achieve this with our app-based marketplace that connects healthcare facilities and healthcare professionals, allowing healthcare professionals to book on-demand shifts and healthcare facilities to access on-demand talent. Our mission is to enable healthcare professionals to work when and where they want, and to enable healthcare facilities to meet their talent needs.</p>
+<h2 style="text-align: justify;"><strong>About Clipboard Health:</strong></h2>
+<p style="text-align: justify;">Clipboard Health is a post-Series C, extremely fast-growing tech startup with classic two-sided network effects, revolutionizing the market for healthcare talent. We are a diverse and inclusive company with a global, remote team. We have been named one of <a class="c-link" data-sk="tooltip_parent" data-stringify-link="https://www.ycombinator.com/topcompanies/" href="https://www.ycombinator.com/topcompanies/" target="_blank">YC’s Top Companies</a> for two years running, and have grown 25x across all key metrics in the last 18 months. There has never been a more exciting time to join our growing team and help us serve even more healthcare professionals and healthcare facilities, who can then better serve patients. To learn more about the culture at Clipboard Health, take a look at our culture hub <a class="c-link" data-remove-tab-index="true" data-sk="tooltip_parent" data-stringify-link="http://culture.clipboardhealth.com" href="http://culture.clipboardhealth.com/" target="_blank">here</a>.</p><h3 style="text-align: justify;"><strong>About the Role:</strong></h3>
+<p style="text-align: justify;">You would be joining our PM team working with a fast-growing and fast-moving engineering organization. Our product today manages millions of dollars of invoices and pays thousands of participants on both sides of the market. But, we have only scratched the surface in the space of products and experiences we could build, and we need your help.</p>
+<p style="text-align: justify;">We're looking for a Senior Product Manager that's excited to be a generalist in our rapidly growing Marketplace. You will not be building things with the hope that people need it, but rather filling the desperate needs of our users while innovating in ways they didn't even know they needed. You'll have to be adaptable, learn quickly, and have a deep interest in understanding our business, our users, and our product.</p>
+<p style="text-align: justify;">I’d read our Product Team Standards document (<a class="editor-rtfLink" href="https://creatingvalue.substack.com/p/high-quality-and-fast" target="_blank">https://creatingvalue.substack.com/p/high-quality-and-fast</a>) and our Product Team Structure document (<a class="editor-rtfLink" href="https://creatingvalue.substack.com/p/the-product-team?justPublished=true" target="_blank">https://creatingvalue.substack.com/p/the-product-team</a>) to get a sense of how we think and what we value.</p>
+<h3 style="text-align: justify;"><strong>Beyond the basics, what will make you successful:</strong></h3>
 <ul>
-<li style="font-weight: 400;">Developing a deep understanding of critical areas of our front-end technology stack, identifying opportunities to improve, extend, and/or leverage existing and new technologies to deliver against our mission and strategy</li>
-<li style="font-weight: 400;">Translating product/technical strategy into a roadmap containing well-defined and prioritized user stories and features </li>
-<li style="font-weight: 400;">Working with the Design Systems Team to manage incoming requests, including triaging, clarifying, generating estimates, prioritizing, and managing stakeholder expectations</li>
-<li style="font-weight: 400;">Establishing clear guidelines and methodologies to support development, adoption, and ongoing maintenance of a Design System</li>
-<li style="font-weight: 400;">Uncovering and understanding client needs and translating them into requirements and user stories</li>
-<li style="font-weight: 400;">Ensuring that requirements are fully understood and implementation plans match expectations</li>
-<li style="font-weight: 400;">Partnering with the Movement to assess  and address technical risks</li>
-<li style="font-weight: 400;">Working closely with engineering teams to communicate the product vision, clarify use cases and requirements, and resolve questions and issues that arise during development.</li>
-<li style="font-weight: 400;">Clearly defining success criteria for testing and product acceptance</li>
-<li style="font-weight: 400;">Using both qualitative and quantitative methods to measure the impact of your work</li>
-<li style="font-weight: 400;">Serving as a product evangelist and subject matter expert to the technical community</li>
-<li style="font-weight: 400;">Establishing and analyzing important metrics related to design system usage that inform product decisions</li>
-<li style="font-weight: 400;">Managing a governance and contribution model that facilitates collaboration across designers, engineers, and the community</li>
+<li style="text-align: justify;">Extreme Ownership: the buck stops with you, no matter what anyone else did or did not do. You're self-reliant, and can get things done in the chaos that is an early-stage startup scaling quickly.</li>
+<li style="text-align: justify;">Extreme Curiosity: you ask "why" 3-5 times in a row for the same problem and are excited to tap into your inner archaeologist -- digging and digging and not being satisfied until you truly understand the root cause.</li>
+<li style="text-align: justify;">&gt;0 years of PM experience, with some coming preferably from marketplace companies.</li>
+<li style="text-align: justify;">You've shipped features in a small PM team, love both the strategy and the details.</li>
 </ul>
-<p><strong>Skills and Experience:</strong></p>
-<ul>
-<li style="font-weight: 400;">3+ years of experience designing and building web and/or mobile products as a technical product manager, software engineer, or equivalent role</li>
-<li style="font-weight: 400;">Proven project, communication, and time management skills</li>
-<li style="font-weight: 400;">Agility and flexibility to work with multiple different teams, projects, and technologies while delivering value and impact</li>
-<li style="font-weight: 400;">Ability to partner and work closely with internal teams, including developers, engineers, architects, security, and product teams.</li>
-<li style="font-weight: 400;">Strong understanding of development concepts</li>
-<li style="font-weight: 400;">Demonstrated experience prioritizing work</li>
-<li style="font-weight: 400;">Outstanding written and verbal communication skills with the ability to translate complex technical requirements to non-technical audiences, as well as turn non-technical requirements into specs that engineering teams can execute against.</li>
-<li style="font-weight: 400;">Ability to solve complex business problems to maximize value while balancing technical constraints</li>
-<li style="font-weight: 400;">Able to draft documentation and visualizations that clarify technical concepts to non-technical audiences and vice-versa</li>
-<li style="font-weight: 400;">Direct experience in companies or initiatives that have pulled together disparate products or services into a common experience for customers.</li>
-<li style="font-weight: 400;">Bachelor’s degree or equivalent in relevant work experience</li>
-<li style="font-weight: 400;">Working closely with design and engineering leadership in evolving the product over time</li>
-</ul>
-<p><strong>Qualities that are important to us:</strong></p>
-<ul>
-<li style="font-weight: 400;">Problem-solver with a passion and willingness to learn and dive-deep into technical details</li>
-<li style="font-weight: 400;">Possess a growth mindset with ability to identify additional skills, knowledge, and/or expertise required and the drive to develop themselves where needed  </li>
-</ul>
-<p><strong>Additionally, we’d love it if you have:</strong></p>
-<ul>
-<li style="font-weight: 400;">Familiarity with PHP, JSON, Python, and/or Javascript (Vue.js)</li>
-<li style="font-weight: 400;">Experience using, building, and/or contributing to a design system</li>
-<li style="font-weight: 400;">Experience working with Design tools such as Figma</li>
-<li style="font-weight: 400;">Experience working with microservice architectures</li>
-<li style="font-weight: 400;">Experience with open-source technology </li>
-<li style="font-weight: 400;">Experience interacting with free and open-source software projects and communities</li>
-<li style="font-weight: 400;">Experience editing Wikipedia or contributing to other wiki projects</li>
-</ul>
-<h4>About the Wikimedia Foundation</h4>
-<p>The Wikimedia Foundation is the nonprofit organization that operates Wikipedia and the other Wikimedia free knowledge projects. Our vision is a world in which every single human can freely share in the sum of all knowledge. We believe that everyone has the potential to contribute something to our shared knowledge, and that everyone should be able to access that knowledge freely. We host Wikipedia and the Wikimedia projects, build software experiences for reading, contributing, and sharing Wikimedia content, support the volunteer communities and partners who make Wikimedia possible, and advocate for policies that enable Wikimedia and free knowledge to thrive. </p>
-<p>The Wikimedia Foundation is a charitable, not-for-profit organization that relies on donations. We receive donations from millions of individuals around the world, with an average donation of about $15. We also receive donations through institutional grants and gifts. The Wikimedia Foundation is a United States 501(c)(3) tax-exempt organization with offices in San Francisco, California, USA.</p>
-<p><em><strong>As an equal opportunity employer, the Wikimedia Foundation values having a diverse workforce and continuously strives to maintain an inclusive and equitable workplace. We encourage people with a diverse range of backgrounds to apply. We do not discriminate against any person based upon their race, traits historically associated with race, religion, color, national origin, sex, pregnancy or related medical conditions, parental status, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, genetic information, or any other legally protected characteristics.</strong></em></p>
-<p><em><strong>If you are a qualified applicant requiring assistance or an accommodation to complete any step of the application process due to a disability, you may contact us at recruiting@wikimedia.org or +1 (415) 839-6885.</strong></em></p>
-<p><strong>More information</strong></p>
-<p><a href="https://wikimediafoundation.org/about/jobs/#section-12"><strong>U.S. Benefits &amp; Perks</strong></a><br/><a href="https://wikimediafoundation.org/"><strong>Wikimedia Foundation</strong></a><br/><a href="https://foundation.wikimedia.org/wiki/Applicant_privacy_policy"><strong>Applicant Privacy Policy</strong></a><br/><a href="https://diff.wikimedia.org/"><strong>News from across the Wikimedia movement</strong></a><br/><a href="https://wikimediafoundation.org/news/"><strong>Blog</strong></a><br/><a href="https://meta.wikimedia.org/wiki/Strategy/Wikimedia_movement/2017"><strong>Wikimedia 2030</strong></a><br/><a href="https://medium.com/freely-sharing-the-sum-of-all-knowledge/we-stand-for-racial-justice-49c31afbabca"><strong>Our Commitment to Equity</strong></a><br/><a href="https://www.youtube.com/watch?v=OQzZI0l3IOw"><strong>This is Wikimedia Foundation</strong></a><strong> </strong><br/><a href="https://www.youtube.com/watch?v=xQ4ba28-oGs"><strong>Facts Matter</strong></a><br/><a href="https://wikimediafoundation.org/wiki/Our_projects"><strong>Our Projects</strong></a><br/><a href="https://techblog.wikimedia.org/"><strong>Our Tech Stack</strong></a></p>
-
                 </details>
                 </td>
             </tr></table>
