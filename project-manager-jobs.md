@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sendwave-creative-project-manager-parental-leave-cover-for-art-director" align="right" target="_blank">Apply</a>
@@ -82,7 +82,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ombu-labs-senior-project-manager" align="right" target="_blank">Apply</a>
@@ -186,6 +186,67 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ombu-labs-senior-project-manager">https://weworkremotely.com/remote-jobs/ombu-labs-senior-project-manager</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1355294/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Distributed</h5>
+                    <h3>Senior Project Manager</h3>
+                </td>
+                <td width="300">
+                    <code>excel,hr,management,operations</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/all-others/senior-project-manager-1355294" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Senior Project Manager</strong></p>
+<p><strong>UK - Outside IR35 </strong></p>
+<p><strong>6 months</strong></p>
+<p><strong>£550/day <br></strong></p>
+<p><em><em><em><strong>Who are we?</strong></em></em></em></p>
+<p>We're a software development company building the world's Elastic Workforce, reinventing work and challenging the assumption that a local team = the best team.</p>
+<p>We help businesses deliver technical projects better than ever before through our platform and on-demand Elastic Teams™. </p>
+<blockquote data-o-mail-quote="1">What's in it for you? <em><strong>Our mission is to create freelance jobs with more benefits than permanent.</strong></em></blockquote>
+<p><em><em><em>Want to know more? read: <a href="https://distributed.co/about" rel="nofollow">https://distributed.co/about</a></em></em></em></p>
+<p><strong><em>About this role </em></strong></p>
+<p>Our mission is to break down the barriers of today to release the potential of tomorrow. Join us today and release yours.</p>
+<p>We're transforming our HR Digital &amp; Business systems to modernise our suite of applications and services. We need you to help us develop a detailed programme plan considering the full project scope, all workstreams, and the key stakeholders.</p>
+<p><strong>Your Responsibilities</strong></p>
+<ul>
+<li>Working with senior clients and key stakeholders across the HR Business &amp; Digital teams and associated departments/partners to deliver deliver to the agreed scope as per the Release timelines.</li>
+<li>Taking ownership for driving delivery through and being business facing whilst building a level of respect and trust with all key Business Stakeholders.</li>
+<li>Managing programme delivery, working to enable continuous delivery against roadmap. This will involve the coordination of many teams including<br>the Solution Arichitecture teams, Business Teams, Engineering Teams , SI partner teams, etc</li>
+<li>Managing of budgets and resources needed to deliver the programme against the vision.</li>
+<li>Organising the internal digital teams to ensure timings are being hit and key meetings are in place and work is correctly prioritized and dependencies between workstreams are understood and managed in each delivery schedule such that they align.</li>
+<li>Manage budgets for all streams within the programme and be accountable for delivering against established business goals/objectives, margins and subsequent regular reporting to business and senior stakeholders</li>
+<li>Providing clear financial reports and utilization of teams – integrating with resourcing and cross various teams(offshore, SI partners etc).</li>
+<li>Focus on driving solutions rather than highlighting problems, working collaboratively across teams.</li>
+<li>Manage programme RAID with the Business Teams, Analyze, evaluate, identify and mitigate any risks and issues, and produce program reports for management and key stakeholders</li>
+</ul>
+<p><strong>About You</strong></p>
+<p>We’re looking for passionate technologists who enjoy working in collaborative agile teams. You’ll need to be a clear, concise &amp; engaging communicator with people on your team. We enjoy the big picture and the detail; we want people who excel at both.</p>
+<ul>
+<li>Working with Corporate Unit infrastructure system stacks and operations teams, understanding the detail of how orders are progressed from bid to delivery.</li>
+<li>Can-do attitude in identifying problems related to customer solutions, engaging the appropriate teams and ensuring rapid resolution/fix for future.</li>
+<li>Analytically driven, able to focus on KPIs that matter and actions that will address and resolve programme activities.</li>
+<li>Demonstrable communication, interpersonal and relationship management skills to Director level</li>
+<li>Shown leadership and management skills by delivering projects to a successful outcome</li>
+<li>Formal SAP Success Factor certification</li>
+</ul>
+<p><strong><em>About us</em></strong></p>
+<p><em>Distributed is proud to be an equal opportunities employer. Employees and contractors, as well as prospective employees and contractors, will all be treated equally and fairly. Distributed is committed to ensuring no less favourable treatment is experienced by any current or prospective employee because of any of the protected characteristics under the UK Equality Act 2010 or equivalent local equality legislation.</em></p>
+<p><em>By submitting your application you give us permission to store and use the information from your CV and your answers to application questions.</em></p>
+<img src="https://remotive.com/job/track/1355294/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
