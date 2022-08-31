@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager" align="right" target="_blank">Apply</a>
@@ -85,7 +85,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/slate-product-manager" align="right" target="_blank">Apply</a>
@@ -179,7 +179,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>214 days ago</text>
+                <text>215 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/buildbook-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -277,7 +277,7 @@
                     <code>android,education,go,ios</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/senior-product-manager-mobile-1339868" align="right" target="_blank">Apply</a>
@@ -364,45 +364,6 @@
 </li>
 </ol>
 <img src="https://remotive.com/job/track/1339868/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/08/ClipboardHealth.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clipboard Health</h5>
-                    <h3>Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J112178/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Why Clipboard Health Exists:
-We exist to lift as many people up the socioeconomic ladder as possible. We dramatically improve lives, by letting healthcare professionals turn extra time and ambition into career growth and financial opportunity. We ach …
-<h2 style="text-align: justify;"><strong>Why Clipboard Health Exists:</strong></h2>
-<p style="text-align: justify;">We exist to lift as many people up the socioeconomic ladder as possible. We dramatically improve lives, by letting healthcare professionals turn extra time and ambition into career growth and financial opportunity. We achieve this with our app-based marketplace that connects healthcare facilities and healthcare professionals, allowing healthcare professionals to book on-demand shifts and healthcare facilities to access on-demand talent. Our mission is to enable healthcare professionals to work when and where they want, and to enable healthcare facilities to meet their talent needs.</p>
-<h2 style="text-align: justify;"><strong>About Clipboard Health:</strong></h2>
-<p style="text-align: justify;">Clipboard Health is a post-Series C, extremely fast-growing tech startup with classic two-sided network effects, revolutionizing the market for healthcare talent. We are a diverse and inclusive company with a global, remote team. We have been named one of <a class="c-link" data-sk="tooltip_parent" data-stringify-link="https://www.ycombinator.com/topcompanies/" href="https://www.ycombinator.com/topcompanies/" target="_blank">YC’s Top Companies</a> for two years running, and have grown 25x across all key metrics in the last 18 months. There has never been a more exciting time to join our growing team and help us serve even more healthcare professionals and healthcare facilities, who can then better serve patients. To learn more about the culture at Clipboard Health, take a look at our culture hub <a class="c-link" data-remove-tab-index="true" data-sk="tooltip_parent" data-stringify-link="http://culture.clipboardhealth.com" href="http://culture.clipboardhealth.com/" target="_blank">here</a>.</p><h3 style="text-align: justify;"><strong>About the Role:</strong></h3>
-<p style="text-align: justify;">You would be joining our PM team working with a fast-growing and fast-moving engineering organization. Our product today manages millions of dollars of invoices and pays thousands of participants on both sides of the market. But, we have only scratched the surface in the space of products and experiences we could build, and we need your help.</p>
-<p style="text-align: justify;">We're looking for a Senior Product Manager that's excited to be a generalist in our rapidly growing Marketplace. You will not be building things with the hope that people need it, but rather filling the desperate needs of our users while innovating in ways they didn't even know they needed. You'll have to be adaptable, learn quickly, and have a deep interest in understanding our business, our users, and our product.</p>
-<p style="text-align: justify;">I’d read our Product Team Standards document (<a class="editor-rtfLink" href="https://creatingvalue.substack.com/p/high-quality-and-fast" target="_blank">https://creatingvalue.substack.com/p/high-quality-and-fast</a>) and our Product Team Structure document (<a class="editor-rtfLink" href="https://creatingvalue.substack.com/p/the-product-team?justPublished=true" target="_blank">https://creatingvalue.substack.com/p/the-product-team</a>) to get a sense of how we think and what we value.</p>
-<h3 style="text-align: justify;"><strong>Beyond the basics, what will make you successful:</strong></h3>
-<ul>
-<li style="text-align: justify;">Extreme Ownership: the buck stops with you, no matter what anyone else did or did not do. You're self-reliant, and can get things done in the chaos that is an early-stage startup scaling quickly.</li>
-<li style="text-align: justify;">Extreme Curiosity: you ask "why" 3-5 times in a row for the same problem and are excited to tap into your inner archaeologist -- digging and digging and not being satisfied until you truly understand the root cause.</li>
-<li style="text-align: justify;">&gt;0 years of PM experience, with some coming preferably from marketplace companies.</li>
-<li style="text-align: justify;">You've shipped features in a small PM team, love both the strategy and the details.</li>
-</ul>
                 </details>
                 </td>
             </tr></table>
