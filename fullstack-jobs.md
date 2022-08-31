@@ -1,5 +1,108 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6499/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>International NGO Safety Organisation</h5>
+                    <h3> Full Stack Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/international-ngo-safety-organisation-full-stack-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6499/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> The Hague, Netherlands
+    <br /><strong>URL:</strong> <a href="https://ngosafety.org">https://ngosafety.org</a>
+</p>
+
+<div><br></div><div>
+<strong>Job Summary</strong>:<br><br>
+</div><div>We are looking for an experienced and talented individual to join our team at our HQ in The Hague (remote-based is an option) as a Full Stack Developer.<br><br>
+</div><div>You will be responsible for providing substantial assistance in the design, implementation and maintenance of INSO’s Conflict &amp; Humanitarian Data Centre. The system will be used in contexts where internet bandwidth is very limited. User roles will be defined with different permissions that require interaction with each other across multiple countries. You will help develop the data entry and incident analysis phases of the application with the guidance of the Senior Developer. You will also provide substantial programming assistance for further development and troubleshooting of INSO’s partner and service distribution portal.<br><br>
+</div><div>
+<strong><br>INSO’s Development Stack:<br></strong><br>
+</div><ul>
+<li>Angular 8+ with Typescript</li>
+<li>Electron Framework (client app) and Service/Web Workers (offline web app)</li>
+<li>Visualization development using D3 library and JQuery</li>
+<li>Data storage and synchronization using Indexed DB and PouchDB</li>
+<li>Google Maps, OpenStreetMap, and PowerBI integration</li>
+<li>OpenID Implicit Flow authentication</li>
+<li>i18n localization English/French</li>
+<li>DevOps using Webpack and Docker containers</li>
+<li>js with Express.js framework</li>
+<li>Session caching using Redis</li>
+<li>OAuth and JWT authentication with Azure AD</li>
+<li>Java Spring (boot) with Maven using Apache Tomcat</li>
+<li>Clustering with multiple Apache CouchDB NoSQL nodes</li>
+<li>NRT Indexing with Apache Solr 8+ using Zookeeper</li>
+<li>Docker orchestration using Kubernetes</li>
+<li>MS SQL Server replication for 3rd party connections</li>
+<li>PHP with Codeigniter using Nginx</li>
+<li>Azure MySQL Server</li>
+<li>Communication with Twilio, SendGrid and BulkSMS</li>
+<li>Azure Serverless Functions with Queue processing</li>
+<li>Maintenance and scheduled tasks using cron and Bash</li>
+</ul><div>
+<strong><br>Qualifications:<br></strong><br>
+</div><ul>
+<li>Strong understanding of data modeling and storage with both NoSQL and relational DBs</li>
+<li>Detail-oriented design skills</li>
+<li>Experience with RESTful APIs</li>
+<li>Knowledge of modern web and client development with distributed system architectures</li>
+<li>Familiarity with Azure and Active Directory, VM server management, DNS, and SSL techniques</li>
+<li>Experience in “big data” processing and analysis with dynamic visualizations</li>
+<li>Paramount attention to detail in application and data security</li>
+<li>Solid understanding of performance testing, deployment strategies, and DevOps</li>
+<li>The ability to learn quickly and use innovative technologies</li>
+<li>Be a conscientious team worker who meets commitments and deadlines and takes pride in being reliable within a multi-cultural team across different time zones</li>
+<li>Outstanding communication skills in English<strong> </strong>
+</li>
+</ul><div>
+<strong><br>Bonus points: <br></strong><br>
+</div><ul>
+<li>Communication skills in French</li>
+<li>Knowledge of Python</li>
+<li>Prior humanitarian or NGO experience</li>
+<li>Contributed to relevant open source projects or impressive portfolio</li>
+<li>Prior work in computer graphics with SVG web technologies</li>
+</ul><div>
+<strong><br>INSO’s Safeguarding Policy:<br></strong><br>
+</div><div>
+<br>INSO is fully committed to safe recruitment, selection and vetting of all potential new staff, trustees and volunteers and we will ensure rigorous compliance with our Code of Conduct and Safeguarding policy throughout the recruitment process.<br><br>
+</div><div>
+<strong><br>Terms &amp; Conditions</strong>:<br><br>
+</div><div>
+<br>Full-time position based in The Hague, Netherlands, EUR 4750 per month, 8% vacation pay (<em>vakentiengeld) </em> if based in the Netherlands, and 2.5 days of annual leave accrued per month. We provide Basic Premium ONVZ health insurance in the Netherlands. This post is eligible for Highly Skilled Migrant visa sponsorship.  There is the possibility that this position can be remote-based.<br><br>
+</div><div>
+<strong><br>How to apply</strong>:<br><br>
+</div><div>
+<br>Interested applicants are requested to send the following to <a href="mailto:jobs@hq.ngosafety.org">jobs@hq.ngosafety.org</a> and reference <strong>“Developer 2022” </strong>in the subject line of the email. Only shortlisted candidates will be contacted.<br><br>
+</div><ul>
+<li>Updated CV.</li>
+<li>A cover letter explaining your motivation and interest in the position.</li>
+<li>Any relevant software project samples as links or documents (optional)</li>
+</ul><div>
+<br>Please do not send any additional information (such as copies of certificates, copies of diplomas, other writing samples, etc.) and keep the total size of your application under 8MB if possible.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/international-ngo-safety-organisation-full-stack-engineer">https://weworkremotely.com/remote-jobs/international-ngo-safety-organisation-full-stack-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1224255/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +113,7 @@
                     <code>developer,javascript,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-customer-solutions-team-1224255" align="right" target="_blank">Apply</a>
@@ -62,7 +165,7 @@
                     <code>ADS,AWS,backend,C++</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-1339259" align="right" target="_blank">Apply</a>
