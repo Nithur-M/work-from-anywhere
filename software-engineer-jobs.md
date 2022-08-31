@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>90 days ago</text>
+                <text>91 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/draft-dev-software-engineering-content-writer" align="right" target="_blank">Apply</a>
@@ -46,47 +46,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1352183/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Edquity</h5>
-                    <h3>Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,backend,education,frontend</code>
-                </td>
-                <td width="200">
-                <text>18 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1352183" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Company Overview:</strong></p><p><strong><br></strong></p>
-<p><a href="http://edquity.co/" rel="nofollow">Edquity</a> is seeking to transform the social safety net by equipping institutions and governments with equitable cash assistance technology. Edquity offers an end-to-end cash assistance solution to help our partners prioritize incoming applications, verify and process applicants, and pay people quickly to support them through their most vulnerable moments and track outcomes over time.  Our end-to-end platform is supporting communities around the country with a streamlined process to receive rental assistance, emergency aid grants, child care subsidies, utility assistance, inflation subsidies and other benefits programs. We work with over 40 postsecondary institutions and multiple local governments and have administered over $175M in funding in an average of 25 hours from application.</p><br>
-<p>Edquity is a Series A stage, venture-backed company and has received support from many of the leading impact and postsecondary success investors, and has also received non-dilutive support from foundations like the Bill and Melinda Gates Foundation. <br><strong><br></strong></p>
-<p><strong>Job Overview:</strong></p><p><strong><br></strong></p>
-<p>Edquity, an anti-poverty technology company, is seeking an experienced Senior Software Engineer who is passionate about enhancing financial stability and social mobility in higher education and improving college graduation rates for low and middle-income students.</p><br>
-<p>The Senior Software Engineer will utilize modern architecture and technology in a collaborative environment and should have a keen interest in System Design and Architecture to quickly identify improvements and implement them. The Senior Software Engineer should work towards a vision beyond the daily tasks with a proactive, solutions-oriented mindset and appreciate autonomous responsibility.</p><br>
-<p>This role is full-stack; the Engineer will participate in building and maintaining backend services, optimizing query performance and cost, and using cutting-edge frontend technologies to create an incredible user experience.</p>
-<p><strong><br></strong></p>
-<p><strong>What you will do:</strong></p><p><strong><br></strong></p>
-<ul><li>Work with designers, product managers, QA engineers, and other developers in a highly collaborative agile environment.</li><li>Build our products out further by improving the performance of our codebase and handling scaling issues to accommodate user growth, as well as writing rigorous and thorough tests to ensure code stability.</li><li>Create new products and features to match business needs, while maintaining our current product and keeping technical debt to a minimum.</li><li>Digest and distill technical problems and propose and execute creative technical solutions.</li><li>Review code, identify technical priorities, and system design trade-offs</li><li>Build for scale, availability, performance, and security across the stack. </li></ul>
-<p><strong><br></strong></p>
-<p><strong>Qualifications:</strong></p><p><strong><br></strong></p>
-<ul><li>4+ years of professional Javascript experience (Node, React, etc.)</li><li>Experience working in AWS </li><li>Git: Professional experience with version control</li><li>SQL: Experience building data models and writing complex SQL queries</li><li>Experience building/maintaining web apps in production, and  testing front and backend code and TDD</li><li>A strong work ethic: ability to be self-motivated and take ownership over tasks</li><li>A strong belief in equity and a desire to reduce structural inequality<strong></strong></li></ul>
-<p>*<em>Don't hesitate to apply even if you don't meet every qualification, as we individually evaluate all applications and do consider candidates with outside experience. </em><strong></strong><br></p>
-<p><strong><br></strong></p><p><strong>Compensation and Benefits:</strong><br></p><p><strong><br></strong></p>
-<p>The salary range for this position has been benchmarked in relation to scope of role, market rate, company stage, and internal equity.  The salary for this role will be between $130,000 - $160,000. Where a candidate falls within the band is determined by skillset, experience level, and geographic location. In addition to base salary, this role will come a total compensation package that includes equity shares and competitive benefits. </p><br><p>Some of our benefits include:</p><br>
-<ul><li>Fully remote</li><li>Fully paid health insurance (Medical/Vision/Dental)</li><li>Unlimited PTO, Sick and Mental Health Benefits </li><li>11 paid company holidays</li><li>401k with a 4% match</li><li>Generous parental leave</li><li>Annual Professional Development Stipend</li><li>One time Home Office Setup Stipend</li><li>Equity in Edquity </li><li>Many <a href="https://secure.justworks.com/benefits/company_benefits_overviews/11e5bd4c-af24-464d-959c-dd40124fa39a/show" rel="nofollow">more</a>! </li></ul>
-<p><em><em><br></em></em></p><p><em><em>Edquity is committed to building a diverse staff and strongly encourages applications from candidates of color. Edquity provides equal employment opportunities to all employees and applicants for employment and prohibits discrimination and harassment of any type without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.</em></em></p><img src="https://remotive.com/job/track/1352183/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1187416/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -97,7 +56,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -165,7 +124,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -213,6 +172,145 @@
 </ul>
 <p> </p>
 <img src="https://remotive.com/job/track/1187421/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/03/AbarcaHealth.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Abarca Health</h5>
+                    <h3>Software Engineer II</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J112441/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                What you’ll do  
+In a few words… 
+Abarca is igniting a revolution in healthcare.  We built our company on the belief that with smarter technology we are redefining pharmacy benefits, but this is just the beginning.
+We are looking for an experienced S …
+<p style="text-align: justify;"><strong>What you’ll do </strong> </p>
+<p style="text-align: justify;"><em>In a few words…</em> </p>
+<p style="text-align: justify;"><strong>Abarca is igniting a revolution in healthcare.  We built our company on the belief that with smarter technology we are redefining pharmacy benefits, but this is just the beginning.</strong></p>
+<p style="text-align: justify;">We are looking for an experience<u>d</u> Software Engineer to join the Member Experience Development team at Abarca.  This team is responsible for our customer-facing applications, which include mobile-apps and web-portals that drive the way members interact with their pharmacy benefits.</p>
+<p style="text-align: justify;">In this critical role as a Software Engineer with the Member Experience Development team, you would be responsible for participating in the analysis, design, development, implementation, maintenance and automatization of critical business processes for Abarca and its internal and external clients. You will work to automate processes that allow for the exchange of data within the Company and between the Company and its external partners/clients.   </p>
+<p style="text-align: justify;"><em>The fundamentals for the job…</em> </p>
+<ul style="text-align: justify;">
+<li data-aria-level="1" data-aria-posinset="1" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="43">You'll collaborate with other analysts and designers in the development and initiation of new software programs, applications, and tools. </li>
+<li data-aria-level="1" data-aria-posinset="2" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="43">You’ll be writing, translating and coding software programs, applications, tools, and prototypes according to specifications  </li>
+<li data-aria-level="1" data-aria-posinset="3" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="43">Oversee the quality assurance of program logic, data processing, and error resolution.</li>
+<li data-aria-level="1" data-aria-posinset="3" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="43">You’d be also the one running and monitoring performance tests on new and existing software for the purpose of correcting mistakes, isolating areas for improvement, and general debugging.</li>
+<li data-aria-level="1" data-aria-posinset="2" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="43">You’ll have plenty of opportunity to design interactive software tools for internal and external deployment, including platforms to create reports, manipulate and interact with data, submit information, and connect with users.</li>
+<li data-aria-level="1" data-aria-posinset="3" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="43">Researching, investigating, and staying at the forefront of technology is an important part of the job. (Software Development, Hardware, Programming Languages, etc.) </li>
+<li data-aria-level="1" data-aria-posinset="4" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="43">Administer diagnostic analysis of test results and deliver solutions to critical areas. </li>
+<li data-aria-level="1" data-aria-posinset="5" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="43">You’ll be developing and maintaining user manuals and guidelines.</li>
+<li data-aria-level="1" data-aria-posinset="5" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="43">You’ll be writing and/or modifying programming scripts to enhance functionality and/or appearance of company website and web applications as necessary.</li>
+<li data-aria-level="1" data-aria-posinset="5" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="43">Business Process Automatization is key to your role</li>
+<li data-aria-level="1" data-aria-posinset="5" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="43">Direct research on emerging applications’ software development products, languages, and standards in support of procurement and development efforts.</li>
+<li data-aria-level="1" data-aria-posinset="5" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="43">Work closely with Business Analysts, Software Engineers, and key stakeholders across the business to understand internal and external requirements and create optimal software and technology solutions to address those needs.  </li>
+</ul>
+<p style="text-align: justify;"><strong>What you’re made of </strong> </p>
+<p style="text-align: justify;"><em>The bold requirements… </em> </p>
+<ul style="text-align: justify;">
+<li data-aria-level="1" data-aria-posinset="2" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="45">Bachelor or Master’s Degree in Computer Engineering, Computer Science, or related field. (In lieu of a degree, equivalent relevant experience may be considered.)  </li>
+<li data-aria-level="1" data-aria-posinset="3" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="45">3+ years of experience in Software Engineering/Development.</li>
+<li>2+ years of experience with SQL Server, Database Design, T-SQL and Stored Procedures. </li>
+<li data-aria-level="1" data-aria-posinset="3" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="45">Computer proficient (Software and Hardware) with experience in computer programming using NET 1.1 / 2.0 / 3.5, ASP.NET, AJAX, VB / C#, JavaScript, VB Script, HTML and XML - XSLT.</li>
+<li data-aria-level="1" data-aria-posinset="3" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="45">Knowledge of Web and Windows Applications architecture and Microsoft programming.</li>
+<li data-aria-level="1" data-aria-posinset="3" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="45">Experience in Visual SourceSafe and Microsoft’s .Net Framework.</li>
+<li data-aria-level="1" data-aria-posinset="4" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="45">You know your way around Object‐Oriented languages and Design Patterns </li>
+<li data-aria-level="1" data-aria-posinset="5" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="45">Experience with Healthcare, Pharmacy, and Pharmacy Benefit Management industries, Medicare Part D, and CMS regulations is a plus. </li>
+<li data-aria-level="1" data-aria-posinset="5" data-font="Wingdings 3" data-leveltext="" data-list-defn-props="{335551500:8137092,335552541:1,335559684:-2,335559685:360,335559991:360,469769226:Wingdings 3,469769242:[8226],469777803:left,469777804:,469777815:hybridMultilevel}" data-listid="45">Excellent oral and written communication skills. </li>
+</ul>
+<p style="text-align: justify;"> <em>That something extra we´d love to see… </em> </p>
+<ol style="text-align: justify;">
+<li>Innovator </li>
+<li>Logical </li>
+<li>Master cross-collaborator </li>
+<li>System thinker </li>
+<li>Team Player </li>
+</ol>
+<p style="text-align: justify;"><em>Physical requirements… </em></p>
+<ul style="text-align: justify;">
+<li>Must be able to access and navigate each department at the organization’s facilities.</li>
+<li>Sedentary work that primarily involves sitting/standing.</li>
+</ul>
+<p style="text-align: justify;"><strong><em>T</em></strong><strong><em>he above description is not intended to limit the scope of the job or to exclude other duties not mentioned. It is not a final set of specifications for the position. It’s simply meant to give readers an idea of what the role entails.</em></strong></p>
+<p style="text-align: justify;"><strong><em>Abarca Health LLC is an equal employment opportunity employer and participates in E-Verify.  “Applicant must be a United States’ citizen. Abarca Health LLC does not this time currently sponsor employment visas”</em></strong></p>
+<p style="text-align: justify;"><strong><em>All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of gender, race/ethnicity, gender identity, sexual orientation, protected veteran status, disability, or other protected group status.</em></strong></p>
+<p style="text-align: justify;"><strong>#LI-REMOTE #LI-NO1</strong></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/07/StarryInternet.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Starry</h5>
+                    <h3>Software Engineer (Node.js)</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J112603/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                About Starry:
+Starry is a rapidly growing internet service provider and we are proud to be an Equal Opportunity workplace. Just like the internet service we provide, we do not discriminate. We welcome people from all over the world to share their kno …
+<p><strong>About Starry:</strong></p>
+<p>Starry is a rapidly growing internet service provider and we are proud to be an Equal Opportunity workplace. Just like the internet service we provide, we do not discriminate. We welcome people from all over the world to share their knowledge and perspectives. At Starry, you can discover the many careers and opportunities that are made possible when you connect people to the limitless possibilities of the internet.</p>
+<p>Our mission focuses on two things. First, we’re making the experience of accessing the internet simple, transparent, and delightful. Second, we’re bringing that experience to underserved communities around the world. We approach our mission with a cutting-edge wireless technology, customer service designed to delight, and a culture of innovation and intellectual curiosity.</p><p><strong>Team Overview:</strong></p>
+<p>The Cloud Services team here at Starry owns the central nervous system that powers the critical business and network operations stack for the company. This is made up of over 140 distributed systems which span a truly hybrid environment of cloud software and on-premise deployments. Our applications deal with a real-time load of hundreds of millions requests per day and support the systems responsible for the end-to-end pipeline of acquiring and supporting our subscriber base at scale. </p>
+<p><strong>What you’ll do:</strong></p>
+<p>As a full-time Software Engineer on the Cloud Services team, you would be responsible for the development of RESTful web services in addition to building diverse distributed networking applications, development tools, internal applications, and third-party API integrations.</p>
+<ul>
+<li>Implement and maintain test suites (100% coverage is always the objective)</li>
+<li>Collaborate on data architecture and implementations using MongoDB, Redis, Elasticsearch, and other NoSQL databases</li>
+<li>Participate in an Agile environment, providing leadership through example</li>
+</ul>
+<p><strong>Qualifications:</strong></p>
+<ul>
+<li>Bachelor of Science in Computer Science or equivalent professional experience</li>
+<li>Demonstrated understanding of the JavaScript language and specification</li>
+<li>2 years minimum professional experience </li>
+<li>Working knowledge of TCP, UDP, and other networking protocols</li>
+<li>TDD experience preferred</li>
+<li>Proficiency in HTML and CSS a plus</li>
+</ul>
+<p>Starry values providing prospective employees with a fair chance to pursue opportunities. We will consider for employment all qualified applicants with criminal histories in a manner consistent with the requirements of any applicable Fair Chance ordinance.</p>
+<p><strong>For Colorado residents: Salary range of $90,000 to $145,000. Final salary will be based on a variety of factors, including experience, education, and training.</strong></p>
+<p><em>Please note that the title referenced in this job description is intended to provide a representation of the work that will be done in this role and the actual internal job title for this role will be Software Engineer I, Software Engineer II or Senior Software Engineer. The final internal job title assigned will be based on a variety of factors, including without limitation, experience, education, and training.</em></p>
+#LI-STARRY<br/><br/><p><strong>We work hard, so we take care of each other and try to enjoy ourselves along the way.</strong></p>
+<strong data-stringify-type="bold">All full time Starry employees receive:</strong>
+ 
+<ul class="p-rich_text_list p-rich_text_list__bullet" data-border="false" data-border-radius-bottom-cap="false" data-border-radius-top-cap="false" data-indent="0" data-stringify-type="unordered-list">
+<li data-stringify-border="0" data-stringify-indent="0">100% employer-paid low deductible health plan, dental plan, vision plan, AD&amp;D, and life insurance and access to our 401(k) retirement plan</li>
+<li data-stringify-border="0" data-stringify-indent="0">Equity compensation grant - so all employees have a stake in our continued success</li>
+<li data-stringify-border="0" data-stringify-indent="0">12 weeks of 100% paid parental leave for all new parents after six months of continuous employment</li>
+<li data-stringify-border="0" data-stringify-indent="0">Professional development assistance after six months of employment</li>
+<li data-stringify-border="0" data-stringify-indent="0">Catered meals on a weekly basis for employees working in the office</li>
+<li data-stringify-border="0" data-stringify-indent="0">Casual dress, annual fitness reimbursement, stocked kitchen, and other perks and discounts</li>
+</ul>
+<p>Happy Interneting!</p>
+<p>In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification document form upon hire. Starry does not sponsor applicants for employment visa status. </p>
+<p>Disclaimer: This job description is not designed to cover or contain a comprehensive listing of activities, duties or responsibilities that are required of the employee.</p>
                 </details>
                 </td>
             </tr></table>
