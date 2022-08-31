@@ -11,7 +11,7 @@
                     <code>developer, nft, financial</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112161" align="right" target="_blank">Apply</a>
@@ -25,36 +25,134 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/img/jobs/2293b9dc75996a1157c02d8e1dc9e24e1660755332.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6517/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Proxify</h5>
-                    <h3>
-					Senior Full Stack Developer Long term job 100				</h3>
+                    <h5>Bitrefill</h5>
+                    <h3> Backend Developer</h3>
                 </td>
                 <td width="300">
-                    <code>dev, javascript, react</code>
+                    <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/112140" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/bitrefill-backend-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p dir="ltr">About us:Â </p><p><strong><br /></strong></p><p dir="ltr">"Talent has no borders." We strongly believe in uplifting talent by providing them with the right opportunities - no matter which part of the world you are from, we value your skills and offer every member the growth possibilities they deserve. ð</p><p><strong><br /></strong></p><p dir="ltr">Proxify is a global network and a supportive community of talented developers interested in long-term remote jobs.Â </p><p dir="ltr">With us, you will get opportunities:</p><ul><li dir="ltr"><p dir="ltr">To work remotely on exciting projects with leading brands and fast-growing startups.</p></li><li dir="ltr"><p dir="ltr">To work on commision free project-based jobs.</p></li><li dir="ltr"><p dir="ltr">To work with companies that respect and value your skills.</p></li></ul><p><strong><br /></strong></p><p dir="ltr">Since our launch, talented developers on Proxify have worked with 620+ happy clients to build their products and growth features. 1400+ talented developers trust Proxify and the community we are building to fulfil their dreams and objectives.Â </p><p><strong><br /><br /></strong></p><p dir="ltr">The Role:</p><p dir="ltr">We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features.Â </p><p><strong><br /><br /></strong></p><h3 dir="ltr">What we are looking for:</h3><ul><li dir="ltr"><p dir="ltr">4+ years of working experience as a FullStack;</p></li><li dir="ltr"><p dir="ltr">Frontend:<br />- React JS;<br />- Design System;</p></li><li dir="ltr"><p dir="ltr">Backend:<br />- Microservices architecture;<br />- NodeJS;Â </p></li><li dir="ltr"><p dir="ltr">Database:<br />- SQL;<br />- MongoDB;</p></li><li dir="ltr"><p dir="ltr">Upper-intermediate or higher English level.</p></li></ul><p><strong><br /></strong></p><h4 dir="ltr">Nice-to-have:Â </h4><ul><li dir="ltr"><p dir="ltr">Timezone: CET (+/- 3 hours);</p></li><li dir="ltr"><p dir="ltr">Database Architecture knowledge</p></li></ul><p><strong><br /><br /></strong></p><div dir="ltr" align="left"><table class="mce-item-table"><colgroup><col width="600" /></colgroup><tbody><tr><td><p dir="ltr">What we offer:</p><ul><li dir="ltr"><p dir="ltr">ð» 100% remote work: Work from anywhere.</p></li><li dir="ltr"><p dir="ltr">ðð» Flexibility: The ability to change the project to another one.</p></li><li dir="ltr"><p dir="ltr">ðµ Financial growth: Competitive compensation and performance-based increases.</p></li><li dir="ltr"><p dir="ltr">ð§ð»ââï¸ Freedom: Very flexible working schedule.</p></li><li dir="ltr"><p dir="ltr">ð 360 degree growth: Opportunities for professional development and personal growth.</p></li></ul></td></tr></tbody></table></div><p><strong><br /><br /></strong></p><p dir="ltr">Your benefits with Proxify:</p><ul><li dir="ltr"><p dir="ltr">Be part of Proxify community: Network with like-minded and enthusiastic individuals to make a difference.Â </p></li><li dir="ltr"><p dir="ltr">Make an impact: You get the opportunity to work on the projects that inspire you and add value to your career.</p></li><li dir="ltr"><p dir="ltr">Transparency: Contracts with transparency in earnings and working hours.</p></li><li dir="ltr"><p dir="ltr">Save your time: Fast and efficient hiring process to match you with the project of your preference.</p></li><li dir="ltr"><p dir="ltr">Ownership: Take ownership of your work and enjoy more freedom in your career.</p></li></ul>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6517/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Stockholm
+    <br /><strong>URL:</strong> <a href="https://bitrefill.com">https://bitrefill.com</a>
+</p>
+
+<div>Bitrefill is the biggest and best crypto e-commerce site in the world. We are creating a circular economy, enabling people to opt out from the traditional banking system and choose freedom... We make it easy for people to live on crypto around the world.<br><br>
+</div><div>Does this sound like something for you? Then keep reading :)<br><strong><br>Why are we awesome?<br></strong>Bitrefill believes in the freedom to work remotely and flexibly and we are built around this. But don’t fear, you will never feel lonely as you will have the opportunity to meet your coworkers in person at our team retreats every year. Some reasons people choose us are:</div><ul>
+<li>Freedom to work from anywhere</li>
+<li>We pay and compensate well</li>
+<li>25 days of paid annual leave</li>
+<li>Paid parental leave</li>
+<li>Health and remote workspace allowances</li>
+<li>Our team retreats consist of two get-togethers every year. (Stockholm in the summer and a warmer location in the winter)</li>
+<li>Curious about the Bitcoin country? We offer company-paid business trips to El Salvador.</li>
+<li>Central office in Stockholm</li>
+<li>We welcome the crypto curious and expert and are happy to help you learn and grow</li>
+<li>We have a super-talented and passionate team who believe in our mission</li>
+</ul><div>
+<strong><br>Your Mission: <br></strong>As a Backend developer at Bitrefill, you will be part of building solutions for our Lightning, Bitcoin and cryptocurrency services as well as doing integrations to suppliers and working on the backend of our overall service. You will be part of our product team and partner up with Backend Developers, Frontend developers and designers to ensure our services have high availability, low latency and great scalability.<br><br><strong><br>Your Responsibilities:</strong>
+</div><ul>
+<li>Be part of building tomorrow’s Lighting, Bitcoin and cryptocurrency services</li>
+<li>Working to maintain our current service, implement new supplier integrations</li>
+<li>Make recommendations on the strategy for our lightning, Bitcoin and cryptocurrency services</li>
+</ul><div><strong><br>You bring with you:</strong></div><ul>
+<li>You love to code and are passionate about building effective systems and to create something from scratch</li>
+<li>You have 2+ years of experience in modern backend technologies, preferably with a focus in Node.js</li>
+<li>You have experience with implementing backend system integrations with 3rd party suppliers</li>
+<li>You have good experience working with modern databases, with MongoDB knowledge as a plus</li>
+<li>You have experience running highly available distributed applications</li>
+<li>You are familiar with AWS/Cloud Services</li>
+<li>You are familiar with infrastructure/container orchestration, experience with tools such as Docker and Terraform is a plus</li>
+<li>You are comfortable with the command line, Linux system administration</li>
+<li>Experience with Bitcoin, Lightning, Ethereum from a technical perspective is a plus</li>
+<li>You are a natural problem solver and analytical, who is also passionate about the vision of allowing people to live on cryptocurrency</li>
+<li>Fluent skills in English, in speaking as well as writing</li>
+<li>Excellent communication skills</li>
+</ul><div><strong><br>We offer</strong></div><ul>
+<li>To become part of a talented team with high ambitions for a world where bitcoin is money for everyday use</li>
+<li>A challenging workplace and a great education when it comes to everything involving cryptocurrency.</li>
+<li>Competitive salary and compensation</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bitrefill-backend-developer">https://weworkremotely.com/remote-jobs/bitrefill-backend-developer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0015/9656/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/3868/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Falkbuilt</h5>
-                    <h3> [Full-time, Remote] Senior 3D Developer with Unity</h3>
+                    <h5>Nearcut</h5>
+                    <h3> Rails Backend Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/nearcut-rails-backend-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/3868/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Berlin, Germany
+    <br /><strong>URL:</strong> <a href="https://nearcut.com/">https://nearcut.com/</a>
+</p>
+
+<h1><strong>Senior Back End Ruby on Rails Dev</strong></h1><div>
+<strong>Location: Remote<br></strong><br>
+</div><div><strong><br>About the Opportunity</strong></div><div>
+<br>We’re looking for a freelance Senior Ruby on Rails Backend Developer to integrate Amazon SES into a Rails application, supporting multiple domains on a request-by-request basis. We expect this work to take 1 month, full-time (40 hours per week).<br><br><strong>About Nearcut<br></strong><br>
+</div><div>We are the industry leader in online booking and marketing software for barbers. Barbershops often don't have the capacity to attract business online and organise their time — on top of providing their barbering service. We provide booking and marketing software to enable business owners to easily take bookings online, manage their time and market to their customers. The business is built on Ruby on Rails.</div><div>
+<strong><br>Your expertise<br><br></strong>- You use TDD in all of your work<br>- You have at least 5 years of full-time professional experience with Rails<br>- You have at least 3 years of experience using Rspec<br>- You have experience with integrating Mailgun, Amazon SES or another transactional email provider.</div><div><br></div><div><br></div><div><strong>The project</strong></div><div>
+<br>As a Senior Ruby on Rails Backend Developer, you will work closely with the technical founder/CEO to integrate a new email provider into a Rails application.<br><br>
+</div><div>
+<strong>Availability<br><br></strong>You can focus on this project full-time (40 hours per week) or close to full-time for one month. You can be available to investigate bugs quickly and take responsibility for maintenance during the transition period of the project.<br><br>If this project goes well, there will be opportunity to work together on more projects.</div><div><br></div><div><strong>Benefits of our working environment</strong></div><ul>
+<li>
+<strong>Remote-first</strong>: We are a remote-first company without an in person office. We trust our employees to work flexibility and autonomously to efficiently meet business goals.</li>
+<li>
+<strong>Flexible working hours:</strong> Aside from regular team meetings and availability during core hours, we are happy for you to complete your work whenever you’re most productive.</li>
+<li>
+<strong>Close team:</strong> Although we work remotely, our team is close knit and colleagues are always there to help one another.</li>
+<li>
+<strong>Customer feedback:</strong> Our customers are small business owners and we are privileged to work closely with them to continue to improve our product.</li>
+<li>
+<strong>Bootstrapped</strong>: We have never raised external capital. We have no distractions from past or future investors. We're entirely focused helping our customers and we're taking our time to grow sustainably.</li>
+</ul><div>We’re a small team and we’re passionate about being a great company to work with and work for.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/nearcut-rails-backend-developer">https://weworkremotely.com/remote-jobs/nearcut-rails-backend-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bellroy</h5>
+                    <h3> Developer (Haskell)</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
@@ -63,42 +161,96 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/falkbuilt-full-time-remote-senior-3d-developer-with-unity" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/bellroy-developer-haskell-3" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0015/9656/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> Calgary
-    <br /><strong>URL:</strong> <a href="https://falkbuilt.com/">https://falkbuilt.com/</a>
+  <strong>Headquarters:</strong> Australia
+    <br /><strong>URL:</strong> <a href="https://bellroy.com">https://bellroy.com</a>
 </p>
 
-<div>Falkbuilt is a technology driven start-up venture. Founders include Mogens Smed and Barrie Loberg. With digital intelligence we will revolutionize the construction industry. Our work leverages the video game experience while making it real with data to build the physical replica of the virtual. </div><div> </div><div>Falkbuilt is based in Calgary, Canada (MST), we have a top-shelf team of developers to implement a state-of-the-art platform. It is a small, tight, clean-coding group of professionals. This position is open for remote work from the comfort of your own home in any time zone from the Pacific coast of North America east to Europe.</div><div> </div><div>We have a mobile and desktop multi-player, multi-platform application for visualizing building designs in an immersive and collaborative environment using the Unity platform. We need an expert 3D graphics developer to take this application to the next level.</div><div> </div><div><strong>Requirements</strong></div><ul>
-<li>This is a very technical role. Expert experience in solving low-level development challenges like multi-threading and optimization, CPU, GPU.</li>
-<li>Expert in C#.</li>
-<li>Expert in Unity game engine.</li>
-<li>Wizard with 3D mathematics and transforms.</li>
-<li>We have a small team of expert developers with the highest standards for architecture, design, and code quality. You will need to demonstrate you have the same standards.</li>
-<li>Expert knowledge of PBR materials and textures for photo real rendering: still, fly-through, and game environments.</li>
-<li>Working knowledge of other non-Unity rendering engines.</li>
-<li>Ability to deliver an awesome real-time user experience.</li>
-<li>Shipped a commercial product with Unity3D.</li>
-<li>Flexibility: on occasion you will be asked to support other development projects, especially web-app frontends.</li>
-<li>First and foremost - you are a great developer with 3D visualization skills, not the other way around.</li>
-</ul><div> </div><div>
-<strong>Bonus Points</strong> </div><ul>
-<li>Experience in C++.</li>
-<li>Experience in Web Development using Angular.</li>
-<li>Experience with Autodesk products like Revit, Inventor. </li>
-<li>Experience in the construction industry, shop drawings, architectural drawings, etc.</li>
-<li>Knowledge of Unity Reflect.</li>
-<li>Knowledge of Enscape.</li>
-</ul>
+<div><strong>IN A NUTSHELL</strong></div><div><br></div><div>
+<a href="https://bellroy.com/">Bellroy</a>, an Australian accessories brand helping people carry better, has grown rapidly since its inception. We’re looking to magnify the capabilities of our technology teams to keep pace with that ongoing growth, while remaining <a href="https://greatplacetowork.com.au/best-places-to-work-australia-2021-small-companies/">Australia’s Best Place to Work</a>. We’re not a software company, but software development is one of our core competencies. Technology underpins the success of our business. This means the Technology Team rarely works to hard delivery deadlines (we prioritise “correct” over “now”) and we regularly make open-source contributions.</div><div><br></div><div>We’re on the search for a Haskell developer to help us not just to ship features but to ship features from a codebase that’s better than it was last time we shipped a feature - and do this <em>every time we ship a feature</em>. We need you to help us use Haskell as it should be used, not merely as it can be used. Yes, to ship features (we’re not a language research lab and we’re not afraid of a slightly inelegant hack that gets the job done without polluting the codebase) but to be able to look back and see that we used the right tools and  abstractions, that our architecture served our business needs, and that we didn’t brute force what we could have finessed. </div><div><br></div><div>You can expect to learn a lot while you’re here. We will support your development with an allocated learning budget, hack days, and company-wide learning events. The Technology Team also runs a book club that meets weekly . We’ve discussed books like <a href="https://leanpub.com/optics-by-example">Optics By Example</a>, <a href="https://sensible.com/dont-make-me-think/">Don’t Make Me Think</a> and <a href="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/">The Pragmatic Programmer</a>, and worked through <a href="https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02">courses</a> together as well.</div><div><br></div><div>Bring us your problem solving skills, quick wit and fast fingers. In return we’ll provide you with a culture of intellectual honesty, autonomy to do your work and the tools you need to get shit done.</div><div><br></div><div>
+<br><strong>YOU COULD BE THE ONE IF, YOU…</strong>
+</div><ul>
+<li>Have at least 1-3 years (commercial or committed hobbyist) experience with Haskell and functional programming</li>
+<li>Strive to deliver high quality code with strong, well-researched design principles</li>
+<li>Prefer mastering your craft over managing people (for now, but you’re welcome to change your mind about that in the future)</li>
+<li>Want to join a highly competent technical team, supporting and supported by world-class professionals in product design, data science, logistics, production, sales, finance and customer support</li>
+<li>Don’t work just to pay the bills, but also because you’re passionate about contributing to the team and the open source community</li>
+<li>Get excited about great ideas, wherever they come from – books, blogs and podcasts, technical and non-technical</li>
+<li>Want to work for a company that cares about doing good things for the world</li>
+</ul><div>
+<br><br>
+</div><div><strong>WE’D GET REALLY EXCITED IF YOU…</strong></div><ul>
+<li>Have experience wrangling Nix</li>
+<li>Can read and understand Ruby on Rails code (we have a significant Ruby on Rails codebase that we’re migrating away from, and many of our Haskell services talk to Rails services)</li>
+<li>Have operational AWS experience (Lambda, DynamoDB, etc)</li>
+<li>Have built event-driven systems using Kafka</li>
+<li>Can’t do any of that right now, but can learn really quickly</li>
+</ul><div>
+<br><br>
+</div><div><strong>WHY WORK FOR BELLROY?</strong></div><div><br></div><div>Bellroy’s mission is to inspire better ways to carry; use business as a force for good; and help the world – and our crew – flourish. We make great carry products that delight people in their everyday lives, while constantly innovating to improve <a href="https://bellroy.com/collection/materials-guide">the sustainability of our materials</a>. We help our staff love their work and grow as people. We donate a portion of our revenue to some of the world’s most effective charities and are a certified <a href="https://www.bcorporation.com.au/directory/Australia/Victoria/Bellroy">B Corporation</a>.</div><div><br></div><div>We have carefully built our culture on radical effectiveness. Our credo is "smart people with good intentions who get shit done" (yes, really). We help our staff love their work and grow as people. Internally, we’re proud of our workplace culture; externally, we’ve been recognised as <a href="https://greatplacetowork.com.au/best-places-to-work-australia-2021-small-companies/">Australia’s Best Place to Work 2021</a>, in the "&lt; 100 Employees" category. We have two awesome physical workspaces in Victoria, Australia - one in the heart of <a href="https://www.visitvictoria.com/Regions/Melbourne/Destinations/Fitzroy">Melbourne’s Fitzroy,</a> and a smaller space in <a href="https://www.visitvictoria.com/regions/great-ocean-road/things-to-do/nature-and-wildlife/beaches-and-coastlines/vv-bells-beach">Bells Beach</a>. Our remote team members are a critical part of our business, and are treated as such: prior to 2020, we would gather all our people together once or twice a year, and plan to do this again as soon as it’s practical and safe.</div><div><br></div><div>
+<br><strong>LOCATION AND HOURS</strong>
+</div><div>
+<br><strong>Fitzroy or remote, that’s up to you.</strong> We have people that work with and for Bellroy on most continents. Our distributed team members are a critical part of our business, and are treated as such. We ask our remote people to overlap Melbourne office hours a few hours a day but other than that the hours that you work are totally up to you. We care about outcomes, not micromanagement. </div><div><br></div><div>The majority of our team is based in Australia and Europe. <strong>If you’re based in the Americas, the Oceania/European timing probably won’t work for you unless you’re willing to work odd hours (our existing team in the Americas work late nights a few days a week)</strong>. If you’re located in or near Melbourne, we’re flexible about how much of your week is spent in our offices.</div><div><br></div><div>
+<br><strong>REMUNERATION</strong>
+</div><div><br></div><div>In a global company, remuneration is hard. We try our best to pay people fairly for their skills relative to their circumstances. You can expect the following benefits plus some other nice surprises:</div><div><br></div><ul>
+<li>a good, fair salary that means you don’t have to worry about money, as well as have room to be rewarded as you grow</li>
+<li>help setting up your home office, both financially and technically</li>
+<li>team training budget for courses, conferences and certifications</li>
+<li>travel and accommodation to get together face-to-face with your colleagues (when practical and safe)</li>
+</ul><div><br></div><div>If you're expecting a FAANG-like compensation package we're sorry, but we'll likely disappoint you.</div><div>
+<br><strong><br>IF YOU'RE READY TO APPLY<br><br></strong>Click apply. You'll be redirected to a page where you can attach a resume, cover letter and complete an application exercise.<strong> <br></strong><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/falkbuilt-full-time-remote-senior-3d-developer-with-unity">https://weworkremotely.com/remote-jobs/falkbuilt-full-time-remote-senior-3d-developer-with-unity</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bellroy-developer-haskell-3">https://weworkremotely.com/remote-jobs/bellroy-developer-haskell-3</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6504/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Webrex Studio</h5>
+                    <h3> Java Developer - Remote</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/webrex-studio-java-developer-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6504/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Webrex Studio
+    <br /><strong>URL:</strong> <a href="https://www.webrexstudio.com/">https://www.webrexstudio.com/</a>
+</p>
+
+<div>If you are a good developer with 3+ years of experience looking for a decent freelancer or remote job then you landed the right place. </div><div><br></div><div>We are working with mid and enterprise-level IT service-based companies. We have ongoing openings for the same position with different companies. Right now we have 50+ Java remote developer openings combining all companies. </div><div><br></div><div><strong>Responsibility</strong></div><div>A developer is responsible for several Java-related duties throughout the software development lifecycle, from concept and design to testing. The developer is required to create user information solutions through the development, implementation, and maintenance of Java-based components and interfaces.</div><div><br></div><div>Skills:-  <strong>Springboot, MVC, Microservices, Java 8, SQL, Scala, Or AWS Is Good to have, etc.</strong>
+</div><div><br></div><div><strong>We offer:</strong></div><ul>
+<li>Permanent Work From Home </li>
+<li>5 Days/Week</li>
+<li>We pay between <strong>$1000 to $3000/monthly</strong> depending on your experience. </li>
+<li>This can be your full-time freelancing remote job. </li>
+<li>Day Shift</li>
+</ul><div><br></div><div>Once you successfully submit a form, our Recruiting Manager will get in touch with you via phone within the next 1-2 business days.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/webrex-studio-java-developer-remote">https://weworkremotely.com/remote-jobs/webrex-studio-java-developer-remote</a></p>
 
                 </details>
                 </td>
@@ -114,7 +266,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/kapsys-senior-front-end-developer" align="right" target="_blank">Apply</a>
@@ -179,205 +331,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6306/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>EventMobi</h5>
-                    <h3> Senior Back End Developer (Python) - [Remote]</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/eventmobi-senior-back-end-developer-python-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6306/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> 207 Queens Quay West, Suite 320 Toronto Ontario M5J 1A7 Canada
-    <br /><strong>URL:</strong> <a href="https://eventmobi.com">https://eventmobi.com</a>
-</p>
-
-<div><em>EventMobi is a remote-first company and this is a remote job. You may reside anywhere in the world to do this job. However, you must be willing to work during Eastern Standard Time business hours. The salary range for this role is between 60k - 90k CAD per annum.  This posting is open to all candidates globally.</em></div><div>
-<br><br>
-</div><div>
-<br><strong>WHY EVENTMOBI?</strong> <br> <br>Events and conferences are being reimagined online, and EventMobi is building on ten years of event technology experience to innovate one of the most flexible and engaging virtual event platforms. We are an award-winning tech startup with teams in Toronto, Berlin and Manila, with thousands of customers around the globe. <br> <br> <br>We believe that live events bring people together to enable change – both in business and our society at large. In the era of COVID-19, we have become a remote-first company and are hard at work helping thousands of events pivot to virtual. EventMobi has a huge impact on the success of our customers’ events and on their attendee experience. We are on a mission to revolutionize how event planners create, market and manage their virtual and in-person events, and how remote and on-site attendees experience conferences. We would love for you to join us and leave your mark. <br><br> <br> <br> <br><strong>ABOUT YOU</strong> <br><br>If you're looking for a software development role that allows you to hone your software design skills, both learn and teach on a team of senior developers, and progress your career, you've come to the right place! Whether you want to build robust APIs, design architectures that scale, learn new skill-sets, or optimize a platform that supports millions of users, this is a role that requires you to think holistically about evolving and maintaining a large and complex system architecture. <br> <br> <br> <br> <br> <strong>WHAT YOUR WORK WILL FOCUS ON</strong> <br> <br><br>
-</div><ul>
-<li>API &amp; Platform Development - You will help to build out EventMobi’s platform capabilities by developing elegant and performant API endpoints and the code that supports them. </li>
-<li>System Architecture - From Auth to Caches, Data Management to Cloud Hosting, APIs to Message Queues, there are a lot of components that make up a system’s architecture. You will help to architect solutions throughout the system that solve domain challenges, are robust, performant, secure, and scalable. </li>
-<li>Shared Ownership - Along with a team of experienced peers, you will take initiative to identify and design solutions for hard problems and apply them to improve an existing code base. </li>
-<li>Software Craftsmanship - Best practices, well thought out code, continuous learning, and collaboration with your team is your ideal and you preach this in your own work as well as with your teammates.</li>
-<li>Quality - You will help grow the team around you in not only pushing new capabilities for our customers, but also maintaining the utmost quality in everything we build.</li>
-</ul><div>  <br> <br> <br><br> <strong>WHAT YOU WILL BRING TO THE TEAM</strong> <br><br>
-</div><ul>
-<li>5+ years experience as a software developer working on large, complex, or fast scaling products</li>
-<li>Extensive experience and deeply knowledgeable with Python</li>
-<li>  Experience with RESTful APIs, RDBMS, ORMs, Caching, Queues</li>
-<li> Knowledge of Clean Architecture, SOLID Principles, Domain Modelling, and Design Patterns is a major benefit </li>
-<li>Experience with DevOps &amp; Cloud is a major benefit (AWS, CI/CD, Linux, Networking, Alerting &amp; Monitoring) </li>
-<li>Experience with Information Security best practices is a nice to have </li>
-<li>Ability to mentor and grow team members, provide technical guidance and oversight on implementation direction</li>
-<li>Excellent written and verbal communication </li>
-</ul><div>
-<br> <br><br><strong>REMOTE WORKSPACE REQUIREMENTS: <br></strong><br><br>
-</div><ul>
-<li>You have a safe, comfortable, and ergonomic workspace and working environment - a private and quiet workspace is vital for doing your best work!</li>
-<li>You have a reliable ethernet connection of at least 30Mbps upload speed with a wired connection or reliable WiFi at home. </li>
-</ul><div>
-<br> <br> <br><strong><br>WHAT WILL YOU GET FROM EVENTMOBI? <br></strong><br><br>
-</div><ul>
-<li>We offer the experience of a lifetime working with a dynamic, open-minded and diverse team, who are excited to come to work every day and passionate about what they do and the clients they help.</li>
-<li>Competitive compensation </li>
-<li>Company Stock-Options </li>
-<li>A great culture with much more along the way</li>
-</ul><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/eventmobi-senior-back-end-developer-python-remote">https://weworkremotely.com/remote-jobs/eventmobi-senior-back-end-developer-python-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0075/9084/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TestGorilla</h5>
-                    <h3> Frontend Engineer (Angular Developer)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0075/9084/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Amsterdam, The Netherlands
-    <br /><strong>URL:</strong> <a href="https://www.testgorilla.com/">https://www.testgorilla.com/</a>
-</p>
-
-<div>Hi there,<br><br>
-</div><div>I’m Nicolas, TestGorilla’s Head of Engineering. We’re a fast-growing HR tech startup that helps hiring teams make better hiring decisions faster and bias-free.<br><br>Over the past year, we’ve experienced tremendous growth. More than 5,700 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way.<br><br>
-</div><div>As we scale our efforts in 2022 and beyond, we’re looking for a<strong> Frontend Engineer</strong> who’s passionate about joining our quest to help people land dream jobs.<br><br>
-</div><h1>The proposition</h1><ul>
-<li>Helping shape a fast-growing HR tech startup as an early employee</li>
-<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
-<li>Competitive salary incl. bonus and stock options</li>
-<li>Flexible hours and vacation</li>
-<li>Paid parental leave </li>
-<li>€1000 remote working budget per year</li>
-<li>Learning &amp; development budget of 3.5% of salary</li>
-</ul><div>
-<br><br>
-</div><h1>The role in context</h1><div>We are looking for a<strong> Frontend Engineer</strong> to join our engineering department and help us bring our product to Enterprise level maturity. Your work will directly impact hundreds of thousands of users around the world.</div><div> </div><div>As a member of the engineering team, you will build and deliver frontend solutions to provide extraordinary product experiences for our users, including SPAs and reusable components for the rapid growth of all our products.</div><div> </div><div>You’ll own the design, code, and deployment of solutions and make sure they perform and scale in production. </div><div>
-<br> </div><h1>You’ll spend time on the following</h1><ul>
-<li>Take full <strong>ownership</strong> of the frontend; from low-level optimizations to improving user experience</li>
-<li>Build <strong>reusable</strong> code and libraries for future use</li>
-<li>Ensure the technical feasibility of <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/ux-ui-design-test/">UI/UX designs</a> and propose features and functionalities to the product team</li>
-<li>
-<strong>Optimize</strong> the application for maximum speed and scalability</li>
-<li>Lead the entire <strong>software development and delivery</strong> cycle from ideation to deployment and everything in between</li>
-<li>Efficiently utilize <strong>DevOps</strong> tools and practices to deliver high-quality software as well as value to end customers as early as possible</li>
-<li>Work in a collaborative, talented <strong>distributed team</strong> across Europe, United States, South America, and Asia</li>
-<li>You will act as a <strong>mentor</strong> for less-experienced team members through both your technical knowledge and leadership skills</li>
-</ul><div>
-<br><br>
-</div><h1>Here’s what we’re looking for</h1><ul>
-<li>You are inspired by our mission of putting<em> 1 billion people in dream jobs</em> </li>
-<li> You are fully aligned with our <a href="https://www.testgorilla.com/careers/">values</a>
-</li>
-<li>You have 4-6 years of experience designing, implementing, running, and maintaining production <strong>front-end code</strong> using modern client-side development frameworks based on JS/TS such as <a href="https://www.testgorilla.com/test-library/programming-skills-tests/angular-test/">Angular</a>
-</li>
-<li>You strive for <strong>excellence:</strong> pixel-perfect, high-quality code, and lightning-fast load times</li>
-<li>You care deeply about building a <strong>world-class engineering</strong> team</li>
-<li>You have a solid understanding of<strong> UX/UI design, usability, and accessibility</strong>
-</li>
-<li>You are passionate about improving skills and <strong>learning</strong> new technologies</li>
-<li>You enjoy <strong>influencing others</strong> and always advocate for technical excellence while being open to change</li>
-<li>You’re <strong>resilient</strong> in ambiguous situations and can approach challenges from multiple perspectives</li>
-<li>You have strong written and verbal <strong>communication skills</strong>. You can validate your decisions and communicate them clearly</li>
-</ul><div>
-<br><br>
-</div><h1>Bonus points if ...</h1><ul>
-<li>you have experience in a SaaS product based company</li>
-<li>you are comfortable with Agile methods, such as Extreme Programming (XP), Scrum, and/or Kanban</li>
-<li>you have a working knowledge of cloud technology such as <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/aws-test/">AWS</a>, Azure, Kubernetes, and Docker </li>
-</ul><div>
-<br><br>
-</div><h1>Interested?</h1><div>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions faster and bias-free. I took one too and I enjoyed it!<br><br>
-</div><div>So if this role sounds like a good fit for you, I’d like you to <a href="https://assessment.testgorilla.com/testtaker/publicinvitation/dfb458d5-b49e-4c93-a830-fdfa210e733f">take an assessment </a>so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product! <br><br>
-</div><div>If you’re hired, I’ll do everything I can to help you succeed at <a href="https://www.testgorilla.com/">TestGorilla</a> and throughout the rest of your career.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-2">https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5572/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>LateNiteSoft S.L.</h5>
-                    <h3> iOS Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>31 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/latenitesoft-s-l-ios-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/5572/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Madrid, Spain
-    <br /><strong>URL:</strong> <a href="https://latenitesoft.com">https://latenitesoft.com</a>
-</p>
-
-<div>We are looking for a person who is passionate about iOS app development, who enjoys creating and learning, someone who has attention to detail, who enjoys writing beautiful, efficient and well-structured code and is happy working in a team of similar people.<br><br>
-</div><div>We organize ourselves into small, autonomous teams that are as self-sufficient and independent as possible. You will be helping develop the next version of Camera+, one of the most successful apps in the history of the App Store. You will also work on new or existing products with the potential to become major hits in their own right.</div><div><br></div><div>We require that you have experience with:</div><ul>
-<li>2+ years of experience in iOS development</li>
-<li>Proficiency in Swift programming</li>
-<li>Experience writing efficient, responsive and easy to understand code</li>
-<li>Knowledge of Apple’s design principles and interface guidelines</li>
-<li>Complete fluency in English</li>
-<li>The ability to work full-time (40 hours/week)</li>
-</ul><div>A published app in the App Store would be a great letter of introduction.</div><div>
-<br>The ideal candidate would also have knowledge about Photography, Filmmaking, Machine Learning and Core ML, Metal, Core Image, AVFoundation. <br><br>
-</div><div>We will also value knowledge about SwiftUI, Objective-C, Instruments, Core Data, Core Media, Core Video, Core Text, Image I/O, Swift Package Manager, Swift Async/Await, StoreKit, Combine, Python and Figma.<br><br>
-</div><div>We offer:</div><ul>
-<li>Competitive compensation</li>
-<li>Working from home</li>
-<li>The ability to contribute to successful products enjoyed by millions</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/latenitesoft-s-l-ios-developer">https://weworkremotely.com/remote-jobs/latenitesoft-s-l-ios-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4259/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -388,7 +341,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
@@ -435,51 +388,327 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1368220/logo" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Wolfram</h5>
-                    <h3>Incremental Quality Developer</h3>
+                    <h5>Toggl</h5>
+                    <h3> Backend Developer</h3>
                 </td>
                 <td width="300">
-                    <code>C,developer,git,linux</code>
+                    <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>210 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/qa/incremental-quality-developer-1368220" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/toggl-backend-developer-5" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>Wolfram, creator of Mathematica, Wolfram|Alpha and the Wolfram Language, is seeking a highly motivated and skilled Incremental Quality Developer to be a part of its IQD department. This developer would be part of the IQD team for the Wolfram Language, focusing on reducing outstanding issues in the product and improving the product's quality with every release. An ideal candidate would have strong debugging skills and good code analysis acumen and would enjoy improving code quality. This position requires fluency in English and strong programming, communication and code review skills.<br><br>Responsibilities</p>
-<ul>
-<li>Improving code quality and reducing defects in any part of the Wolfram Language system</li>
-<li>Reviewing open issues and verifying reproducibility</li>
-<li>Debugging and understanding open issues and proposing potential fixes</li>
-<li>Reviewing pull requests created for user interface repositories</li>
-<li>Developing and maintaining code analysis tools</li>
-<li>Interacting with managers and user interface developers to understand and improve the code base</li>
+                
+
+<p>
+  <strong>Headquarters:</strong> Tallinn, Estonia
+    <br /><strong>URL:</strong> <a href="https://toggl.com/jobs/">https://toggl.com/jobs/</a>
+</p>
+
+<div>
+<br>We are looking for a passionate and sharp Backend Developer to be a part of one of our cross-functional product development teams to help us shape the future of the time tracking industry and deliver real value to our customers with both new and improved features. </div><div>
+<br>Gross annual compensation range for the role is <strong>€63,000-€70,000 based on experience </strong>and we are committed to increasing salaries every year based on company and individual performance. In addition to that, we also have awesome benefits, which you can check out below.</div><div><br></div><div>You can work <strong>from anywhere in the world.</strong>
+</div><div><br></div><div>
+<strong><br>About the Team<br></strong><br>
+</div><div>We are a global team of 100+ awesome people working from over 40 countries around the globe. We hire globally, you work locally - in the heart of London, a beach outside of São Paulo, or a quiet village near Florence, the choice is yours. Every few months we travel to meet up somewhere in the world and spend some quality time together. We place a huge amount of trust in our people, and we measure the outcomes rather than the work itself. Our values fuel our results.<br><br>
+</div><div>
+<strong>The Role<br></strong><br>
+</div><div>As a Backend Developer, you will be taking ownership of one or more domains of our product and will work closely with other developers and product designers in lean ways using cutting-edge technologies powering highly-available RESTful services and back-end systems.</div><div>
+<br>The main technologies you will be working with are Go, PostgreSQL, REST, JSON and Google Cloud Infrastructure.<br><br>Even though you can work whenever you want on your tasks, our team meetings can happen between 11:00 to 15:00 UTC. You need to be willing and available to attend these meetings when they happen.</div><div>
+<br>Your main responsibilities will be:</div><ul>
+<li>developing and maintaining backend services such as API's, reports, payments, and operations tools that manage our product worldwide</li>
+<li>working with product managers and designers day to day to bring more value to Toggl’s users, covering customer-facing web and native applications and public APIs</li>
+<li>completing small to medium features independently and in collaboration with frontend developers</li>
+<li>resolving most technical issues autonomously and designing well-organized code</li>
+<li>driving assigned requests to improve the codebase, such as migrating it to modern frameworks and adding missing tests</li>
+</ul><div>
+<strong><br>About you<br></strong><br>
+</div><div>We would love to hear from you if you are passionate about technology and you are experienced with or willing to learn to program in Go.</div><div>
+<br>In particular, we are looking for:</div><ul>
+<li>Strong backend engineering experience in any language</li>
+<li>Passion for cross-discipline collaboration and problem-solving</li>
+<li>Eagerness to learn new skills, and take ownership of your work</li>
+</ul><div>Bonus points for:</div><ul>
+<li>Experience with our main technologies: Go, PostgreSQL, REST, JSON and/or Google Cloud Infrastructure</li>
+<li>Experience with software engineering best practices (e.g. unit testing, code reviews, design documentation)</li>
+<li>Experience with system architecture, particularly at scale</li>
+<li>Experience with Ruby, Elixir, noSQL databases</li>
+</ul><div><br></div><div><strong>Benefits</strong></div><ul>
+<li>Freedom to choose where and when you work</li>
+<li>24 days of paid time off a year, plus your local holidays</li>
+<li>In-person meetups for team-building (expenses covered)</li>
+<li>Laptop and a €2,000 budget to set up your home office</li>
+<li>Reimbursement for co-working space membership or internet service at home</li>
+<li>€4,000 contribution to use for training, workshops, and conferences</li>
+<li>€2,000 contribution for any physical or mental health service-related</li>
+<li>Support for buying tools you need for doing your best work (even eyeglasses if you need a new pair)</li>
+</ul><div><br></div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toggl-backend-developer-5">https://weworkremotely.com/remote-jobs/toggl-backend-developer-5</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>A.Team</h5>
+                    <h3>Senior Independent Software Developer</h3>
+                </td>
+                <td width="300">
+                    <code>contract,developer,go,wordpress</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="text-size-adjust: 100%; overflow-wrap: break-word;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. </p>
+<p style="text-size-adjust: 100%; overflow-wrap: break-word;">After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.</p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><em>As part of A·Team, you can expect:</em></span></p>
+<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
+<li><strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li><strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li><strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li><strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li><strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
 </ul>
-<p>Qualifications</p>
-<ul>
-<li>Bachelor's degree in computer science, engineering, math, physics or a related technical or quantitative field</li>
-<li>Experience with multiple common programming languages (C/Java/...), including the Wolfram Language</li>
-<li>Good verbal and written communication skills</li>
-<li>Familiarity with different operating systems, including Linux</li>
+<p> </p>
+<p> </p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>How to apply:</strong></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Go here: <a href="https://build.a.team/remotivereferral" rel="nofollow">https://build.a.team/remotivereferral</a> + mention Remotive. </span>No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.</p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>What you’ll do:</strong></span></p>
+<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </span></p>
+</li>
 </ul>
-<p>Preferred qualifications</p>
-<ul>
-<li>Experience in source control systems such as Git, Stash and CVS</li>
-<li>Experience working in Workbench/Eclipse or other IDE development tools</li>
-<li>Experience using project-tracking tools such as Jira</li>
-<li>Experience in the software development cycle and testing methodologies</li>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is for:</span></strong></p>
+<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing</span></p>
+</li>
 </ul>
-<p>Location: Remote</p>
-<p>Wolfram is an equal opportunity employer and values diversity at its company. Women, people of color, members of the LGBTQ community, individuals with disabilities and veterans are strongly encouraged to apply.</p>
-<img src="https://remotive.com/job/track/1368220/blank.gif?source=public_api" alt=""/>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">not</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> for:</span></strong></p>
+<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">People looking for small gigs</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Folks looking to build simple wordpress/wix/squarespace-style websites</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those still early in their careers and recent university/bootcamp grads (at least not yet)</span></p>
+</li>
+</ul>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Our long-term vision:</strong></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
+<img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1344656/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3>Senior Front End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,growth,management,design</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your full-time freelance career as a top freelance developer with Toptal.</em></span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</span> Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</p><ul><li>English language proficiency</li><li>3+ years of professional experience in software development</li><li>Solid experience with <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">React.js</span> is a strong advantage</li><li>Project management skills</li><li>A keen attention to detail</li><li>Experience with system architecture or leading a software team is a strong advantage</li><li>Full-time availability is a strong advantage</li></ul> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Curious to know how much you could make? Check out our developer rate calculator: <a href="https://topt.al/WDcMbK" rel="nofollow">https://topt.al/WDcMbK</a></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/Z8cMeK" rel="nofollow"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">https://topt.al/Z8cMeK</span></a></p>
+<img src="https://remotive.com/job/track/1344656/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1344657/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3>Senior Back End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,node.js,rails,ruby</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;"><span style="text-size-adjust: 100%;"><span style="color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em><span style="font-weight: 600;">Design your full-time freelance career as a top freelance developer with Toptal. </span></em></span></span></p> <p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. </p> <p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere.<span style="text-size-adjust: 100%;"> <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</span> </span>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. </p> <p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. </p> <p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</p><ul style="margin-top: 1em; margin-bottom: 1em; margin-left: 25px; padding-left: 0px; text-size-adjust: 100%; overflow-wrap: break-word;"><li style="margin: 5px 0px; text-size-adjust: 100%; list-style-type: square;">English language proficiency</li><li style="margin: 5px 0px; text-size-adjust: 100%; list-style-type: square;">3+ years of professional experience in Back-End Development</li><li style="margin: 5px 0px; text-size-adjust: 100%; list-style-type: square;">Solid experience in Ruby on Rails or/and Node.js is a strong advantage</li><li style="margin: 5px 0px; text-size-adjust: 100%; list-style-type: square;">Project management skills</li><li style="margin: 5px 0px; text-size-adjust: 100%; list-style-type: square;">A keen attention to detail</li><li style="margin: 5px 0px; text-size-adjust: 100%; list-style-type: square;">Experience with system architecture or leading a software team is a strong advantage</li><li style="margin: 5px 0px; text-size-adjust: 100%; list-style-type: square;">Full-time availability is a strong advantage<br style="text-size-adjust: 100%;"><br></li></ul><p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;">Curious to know how much you could make? Check out our Back-End developer rate calculator: <a href="https://topt.al/KVcMX5" rel="nofollow">https://topt.al/KVcMX5</a></p><p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;"><br style="text-size-adjust: 100%;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/RQcM3R" rel="nofollow"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">https://topt.al/RQcM3R</span></a></p>
+<img src="https://remotive.com/job/track/1344657/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1344658/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3>Senior Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,go,node.js,rails</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your full-time freelance career as a top freelance developer with Toptal.</em></span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</span> Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</p><ul><li>English language proficiency</li><li>3+ years of professional experience in software development</li><li>Solid experience with <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">React.js, Ruby on Rails, Go</span> or/and <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Node.js</span> is a strong advantage</li><li>Project management skills</li><li>A keen attention to detail</li><li>Experience with system architecture or leading a software team is a strong advantage</li><li>Full-time availability is a strong advantage</li></ul> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Curious to know how much you could make? Check out our developer rate calculator: <a href="https://topt.al/jPc6x7" rel="nofollow">https://topt.al/jPc6x7</a></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/gncyw3" rel="nofollow"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">https://topt.al/gncyw3</span></a></p>
+<img src="https://remotive.com/job/track/1344658/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1344660/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3>Senior React Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,react,growth,management</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your full-time freelance career as a top freelance developer with Toptal.</em></span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.</p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</span> Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.</p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.</p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</p><ul class="ul1"><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">English language proficiency</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">3+ years of professional experience</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Project management skills</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">A keen attention to detail</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Experience with system architecture or leading a software team is a strong advantage</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Full-time availability is a strong advantage</li></ul> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Curious to know how much you could make? Check out our React.js developer rate calculator: <a href="https://topt.al/A2cgNw" rel="nofollow">https://topt.al/A2cgNw</a></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/8Xcjw8" rel="nofollow"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">https://topt.al/8Xcjw8</span></a></p>
+<img src="https://remotive.com/job/track/1344660/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1344661/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3>Senior Blockchain Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,blockchain,growth,management</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your full-time freelance career as a top freelance developer with Toptal.</em></span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.</p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </span>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.</p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.</p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</p><ul class="ul1"><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">English language proficiency</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">3+ years of professional experience</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Project management skills</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">A keen attention to detail</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Experience with system architecture or leading a software team is a strong advantage</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Full-time availability is a strong advantage</li></ul> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Curious to know how much you could make? Check out our Blockchain developer rate calculator: <a href="https://topt.al/GGca4Q" rel="nofollow">https://topt.al/GGca4Q</a></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form:<span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"> <a href="https://topt.al/52c6zr" rel="nofollow">https://topt.al/52c6zr</a></span></p>
+<img src="https://remotive.com/job/track/1344661/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1344662/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3>Senior React Native Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,react,growth,management</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your full-time freelance career as a top freelance developer with Toptal.</em></span></p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.</p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </span>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.</p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.</p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</p><ul class="ul1"><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span class="s1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>English language proficiency</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span class="s1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>3+ years of professional experience</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span class="s1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>Project management skills</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span class="s1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>A keen attention to detail</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span class="s1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>Experience with system architecture or leading a software team is a strong advantage</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span class="s1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>Full-time availability is a strong advantage</li></ul><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Curious to know how much you could make? Check out our React Native developer rate calculator: <a href="https://topt.al/Pxcdm5" rel="nofollow">https://topt.al/Pxcdm5</a></p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/WbcRKb" rel="nofollow"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">https://topt.al/WbcRKb</span></a></p>
+<img src="https://remotive.com/job/track/1344662/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1344665/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3>Senior Ruby On Rails Developer</h3>
+                </td>
+                <td width="300">
+                    <code>CSS,developer,javascript,rails</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your full-time freelance career as a top freelance developer with Toptal.</em></span></p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.</p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </span>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.</p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.</p><span style="color: var(--remotive-chocolate);"><br></span><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="color: var(--remotive-chocolate);">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</span></p><ul><li><span style="border-style: initial;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">3+ years</span></span> of professional experience in software development</li><li>Experience with<span style="color: var(--remotive-chocolate);"> </span><span style="border-style: initial; color: var(--remotive-chocolate);"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Ruby on Rails</span></span><span style="color: var(--remotive-chocolate);"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">,</span> along with other common libraries such as RSpec and Resque</span></li><li>Good understanding of the syntax of Ruby and its nuances</li><li>Solid understanding of object-oriented programming</li><li>Good understanding of server-side templating languages</li><li>Good understanding of server-side CSS preprocessors</li><li>Basic understanding of front-end technologies, such as JavaScript, HTML5, and CSS3</li><li>Familiarity with concepts of MVC, Mocking, ORM, and RESTful</li><li>A knack for writing clean, readable Ruby code</li><li>Ability to integrate multiple data sources and databases into one system</li><li>Understanding of fundamental design principles behind a scalable application</li><li>Able to create database schemas that represent and support business processes</li><li>Able to implement automated testing platforms and unit tests</li><li>Proficient understanding of code versioning tools</li><li>Familiarity with development aiding tools</li><li>Experience with system architecture or leading a software team is a strong advantage</li><li><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><span style="border-style: initial;">Full-time availability</span> </span>is a strong advantage</li></ul><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Curious to know how much you could make? Check out our Back-End developer rate calculator: <a href="https://topt.al/k6cxBx" rel="nofollow">https://topt.al/k6cxBx</a></p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/jzckvg" rel="nofollow"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">https://topt.al/jzckvg</span></a></p>
+<img src="https://remotive.com/job/track/1344665/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -494,7 +723,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -541,7 +770,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -610,7 +839,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -821,7 +1050,7 @@
                     <code>developer,drupal,growth,design</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
@@ -846,7 +1075,7 @@
                     <code>android,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
