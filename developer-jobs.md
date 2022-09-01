@@ -11,7 +11,7 @@
                     <code>developer, nft, financial</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112161" align="right" target="_blank">Apply</a>
@@ -21,6 +21,263 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 Upshot is the preeminent company providing appraisal services for NFTs and unique digital assets. Leveraging cutting-edge machine learning models, Upshot produces accurate, real-time appraisals for almost any NFT. Our products create a broad new frontier for NFT markets, enabling an entirely new class of financial primitives.We are a team of crypto-natives and ML experts, with deep experience working on some of the leading projects in Web3, and backed by the foremost funds and angels in crypto. At Upshot, we are committed to nurturing top talent looking to make an impact at the forefront of this new frontier.Developer relations is a highly visible and critical function. In this role, you will connect with, inspire, and educate developers on all the capabilities of Upshot. This is a full-time position.Â We are looking for a Developer Advocate to work alongside our engineers with our community. This is a unique opportunity for an engineer who wants to gain hands-on experience in a fast-growing tech industry and enjoys supporting developer teams. The ideal candidate likes writing, public speaking, documentation, and who is outgoing and enjoys educating others.Upshot is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/6479/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Liquid Web Family of Brands</h5>
+                    <h3> WordPress Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/liquid-web-family-of-brands-wordpress-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/6479/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Lansing, MI
+    <br /><strong>URL:</strong> <a href="https://www.liquidweb.com/">https://www.liquidweb.com/</a>
+</p>
+
+<div>We are looking for a WordPress developer to join our iThemes team. The engineer will be responsible for developing code that can withstand high profile sites and intense loads. You will collaborate with a cross-functional team to architect and develop durable, extensible, and secure code. This role requires advanced to expert PHP, advanced to expert level in the frontend stack CSS and JS, impeccable WordPress experience; and solid MySQL, automated testing, and CLI skills.<br><br>
+</div><div>This is a remote position with a flexible schedule.<br><br>
+</div><div>
+<br><strong>As a WordPress Developer you would:</strong>
+</div><ul>
+<li>Develop new software solutions and maintain existing applications</li>
+<li>Work with stakeholders to understand requirements and objectives</li>
+<li>Create, review, and update technical documentation</li>
+<li>Keep apprised of relevant new technology and best practices</li>
+<li>Write tests to validate code function</li>
+<li>Execute bug fixes</li>
+<li>Measure results of implemented solutions</li>
+<li>Participate in troubleshooting/triaging of issues and document them appropriately</li>
+</ul><div>
+<br><strong>You Have:</strong>
+</div><ul>
+<li>5+ years Experience in the WordPress space</li>
+<li>Thorough knowledge of MySQL</li>
+<li>Basic knowledge of the product development life cycle</li>
+<li>Exceptional organizational and communication skills</li>
+<li>Skilled at crafting modern PHP (ex: autoloading, dependency management, dependency injection, templating libraries, automated testing, OOP, and/or frameworks like Symfony or Laravel, etc.)</li>
+<li>Mid to advanced level vanilla JavaScript experience (including experience with webpack, babel, and ES2015+ syntax)</li>
+<li>Exceptional HTML &amp; CSS (including experience with PostCSS or Sass and BEM) skills</li>
+<li>Comfortable working in a Linux environment</li>
+<li>A passion for improving software/systems</li>
+<li>Ability to work remotely with little-to-no supervision</li>
+</ul><div>
+<br><strong>Bonus Points for:</strong>
+</div><ul>
+<li>Experience with developing blocks for the Block Editor</li>
+<li>Experience with continuous integration and automated deployment pipelines</li>
+<li>Experience with JS application frameworks</li>
+<li>Experience with server technologies like Redis or Elasticsearch</li>
+<li>Experience building sites that are accessible (you’ve worked with WAI-ARIA and done WCAG 2.0+ AA/Section 508 work) and performant (working knowledge of best practices)</li>
+<li>Experience in more advanced areas of JavaScript (state management; async operations; unit, snapshot, and integration testing; REST APIs)</li>
+</ul><div>
+<br><strong>We Offer:</strong>
+</div><ul>
+<li>100% Employer paid Benefits options - Medical, Dental, Vision, Prescription</li>
+<li>Traditional and Roth 401k with company matching</li>
+<li>A collaborative team culture</li>
+<li>Consistent/set work hours</li>
+<li>Challenging non-redundant daily duties</li>
+<li>A voice in how things get done</li>
+<li>Access to ongoing training</li>
+</ul><div>
+<br><strong>Disclaimer:<br></strong><br>
+</div><div>This job description is only a summary of the typical functions of the position. It is not intended to be an exhaustive or comprehensive list of all job responsibilities, tasks, or duties. Additional duties and tasks may be assigned as part of the job function. Liquid Web Inc. reserves the right to modify, interpret, or apply this job description in a way that best supports the organizational needs. The job description in no way creates or implies an employment contract. The employment contract remains “at will”.<br><br>
+</div><div>Equal Employment Opportunity Policy: Liquid Web is committed to offering equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/liquid-web-family-of-brands-wordpress-developer">https://weworkremotely.com/remote-jobs/liquid-web-family-of-brands-wordpress-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6573/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Creative Noggin</h5>
+                    <h3> Web Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/creative-noggin-web-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6573/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Antonio, Texas
+    <br /><strong>URL:</strong> <a href="https://creativenoggin.com">https://creativenoggin.com</a>
+</p>
+
+<div> </div><h1>Web Developer</h1><div>
+<strong>What we’re looking for.<br><br></strong>We’re looking for a web developer to collaborate closely with our creative and account teams to help plan, build and manage websites. You’ll play a critical role in maintaining our clients’ online experiences and bringing technical knowledge to our team.<br><br><strong>Would you love working from home?<br><br></strong>Creative Noggin is an award-winning 100% remote branding and marketing agency that has long embraced the fact that employees working from home are more focused, productive, and most of all, happy.We offer a work lifestyle that is attractive to people who despise commuting, prefer to avoid large egos, want challenging work they can be proud of, and love personal time. We are looking for others that share our values!<br><br><strong>Essential Functions<br><br>Website Development, Troubleshooting, and Maintenance</strong>
+</div><ul>
+<li>Development &amp; testing</li>
+<li>Routine website maintenance</li>
+<li>Troubleshooting and resolving website issues</li>
+<li>Coordinating with outside development resources as needed</li>
+<li>Successfully prioritize and manage development requests</li>
+<li>Ability to use your technical knowledge to bring ideas and make recommendations on client projects</li>
+</ul><div><strong>Search Engine Optimization</strong></div><ul>
+<li>Regularly evaluate site technical effectiveness</li>
+<li>Resolve technical SEO issues</li>
+<li>Assist in running technical SEO scans</li>
+</ul><div><strong>Desired Skills and Experience</strong></div><ul>
+<li>3 – 4 years of web development experience</li>
+<li>Fluent in HTML, CSS, PHP, and JavaScript and WordPress</li>
+<li>Familiar with popular content management systems</li>
+<li>Self-motivated and a problem-solver</li>
+<li>A desire to collaborate with others</li>
+<li>Love to learn and stay up-to-date with current best practices and new technologies</li>
+<li>An ability to explain complex solutions in non-technical terms</li>
+</ul><div><strong>Agency Values</strong></div><ul>
+<li>
+<strong>WE ARE COLLABORATIVE. </strong>We strive to bring something to every table. We work remotely yet together with open minds—and hearts, welcoming new ideas and alternative ways of thinking to make our clients successful.</li>
+<li>
+<strong>WE ARE STRATEGIC. </strong>We keep the ultimate destination in mind with every footstep. Everything we do, every decision we make, comes down to three little letters: WHY?</li>
+<li>
+<strong>WE ARE SMART. </strong>We each fan our flames to fuel collective excellence. From learning new skills to researching the latest best practices, we each take pride in advancing our knowledge for the betterment of the agency, the clients we serve, and ourselves.</li>
+<li>
+<strong>WE ARE FUN.</strong> It doesn’t take long at Creative Noggin to discover your inner child. We may have even competitively shaken a tissue box full of ping pong balls strapped to our backside at a company retreat (we got in trouble from the venue for laughing too hard!). We frequently let our hair down, laughing at ourselves—and with each other.</li>
+<li>
+<strong>WE ARE PASSIONATE.</strong> We use our expertise—and common sense. Our clients are counting on us to take care of them. Protecting their time, budget and brand is an important part of our mission at Creative Noggin.</li>
+<li>
+<strong>WE WORK FROM HOME. </strong>That’s right. Creative Noggin is 100% virtual and always has been. We honor this flexibility and privilege by taking our work seriously and servicing our clients better than if we were all in an office together.</li>
+</ul><div><strong>Our company runs on the Entrepreneurial Operating System (EOS)</strong></div><ul>
+<li>That means as a member of this team, you will have a leader who:</li>
+<li>Gives clear directions</li>
+<li>Makes sure you have the necessary tools</li>
+<li>Acts with the greater good in mind</li>
+<li>Delegates appropriately</li>
+<li>Takes time to truly understand your role and how you can help the company</li>
+<li>Makes their expectations clear</li>
+<li>Communicates well</li>
+<li>Has effective meetings</li>
+<li>Meets one-on-one with you quarterly or more, if needed</li>
+<li>Rewards and recognizes your performance</li>
+</ul><div><strong>Benefits</strong></div><div>
+<br>We offer a competitive benefits package that includes the following:<br><br>
+</div><ul>
+<li>Medical, Dental &amp; Vision Coverage</li>
+<li>Company Paid Basic Life, AD&amp;D Insurance</li>
+<li>Retirement Plan with Company Match</li>
+<li>Short-Term and Long-Term Disability</li>
+<li>Friendly, fun, and flexible work environment with a team of awesome people</li>
+<li>Pay commensurate with experience.</li>
+</ul><div><strong>To Apply</strong></div><div>
+<br>Please send the following to digital@creativenoggin.com with the subject 'Job Application – Creative Noggin Web Developer.<br><br>
+</div><ul>
+<li>A cover letter</li>
+<li>Resume</li>
+<li>A link to your online portfolio</li>
+<li>Your salary history and requirements</li>
+</ul><div>
+<br>Please visit this link <a href="https://take.surveys.ci/s/6wsWVe58Hg/68909">https://take.surveys.ci/s/6wsWVe58Hg/68909</a> and take a short 10-12 minute Culture Index survey. The survey <strong>MUST</strong> be complete for interview consideration.<br><br>
+</div><div>
+<br>We’re reserving the phone lines for all of the clients we need your help servicing, so at this point no calls…email only, please!<br><br>
+</div><div><br></div><div><br></div><div><br></div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/creative-noggin-web-developer">https://weworkremotely.com/remote-jobs/creative-noggin-web-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6568/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Ranchr</h5>
+                    <h3> Lead/Senior React Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/ranchr-lead-senior-react-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6568/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> USA
+    <br /><strong>URL:</strong> <a href="https://ranchr.ag">https://ranchr.ag</a>
+</p>
+
+<div>Get on the ground floor of an upcoming SAAS company looking to 10X its growth in the next 12 months.</div><div><br></div><div><strong>Ranchr is a small SAAS app in the cattle management industry. Bootstrapped since 2017, we're looking to accelerate our growth into the next year.</strong></div><div><br></div><div>Our app gives cattle growers a powerful tool out in the field where it belongs. Thousands of ranchers already trust us as their cattle record keeping solution. </div><div><br></div><div>We’re looking for a seasoned Senior and Lead React Engineer to join our fully-remote team to help us scale to the next level. This is an opportunity to join a growing business with a lot of upside.</div><h1><strong>What we’d want you to do:</strong></h1><ul>
+<li>Add new features to our already existing react native mobile app.</li>
+<li>Help clean up and refactor our framework.</li>
+<li>Optimizing our app for scale and performance</li>
+<li>Suggest and implement scalability improvements</li>
+<li>Collaborate with the rest of the team in weekly meetings, chat and code reviews</li>
+<li>Write high-quality and maintainable code</li>
+</ul><div><br></div><h1><strong>Qualifications</strong></h1><div><br></div><div><em>Must have</em></div><ul>
+<li>5+ years of experience in React.</li>
+<li>Fluent spoken and written English at a professional level.</li>
+<li>Familiarity with PostgreSQL query optimization and scaling strategies</li>
+<li>Strong analytical and debugging skills</li>
+<li>Strong communication skills, able to recommend decisions using data and experience</li>
+</ul><div><br></div><div><em>Nice to have</em></div><ul>
+<li>3+ years of experience with React Native</li>
+<li>Typescript or GraphQL experience</li>
+<li>Ruby on Rails experience</li>
+<li>Strong experience with React hooks</li>
+</ul><div><br></div><h1><strong>Our Stack</strong></h1><div><br></div><div><em>Front-end</em></div><ul>
+<li>React Native</li>
+<li>React </li>
+<li>Redux</li>
+</ul><div><em>Back-end</em></div><ul>
+<li>Ruby on Rails</li>
+<li>Rest API</li>
+<li>PostgreSQL</li>
+<li>Redis</li>
+<li>Heroku<br><br>
+</li>
+</ul><h1><strong>What it’s like to work here</strong></h1><ul>
+<li>You’ll be working directly with the owner/CTO to build out new features on the mobile and web app. </li>
+<li>You’ll have time to focus. We don’t micromanage, and we do our best to keep distractions (and meetings) to a minimum. </li>
+<li>You'll be able to make your own schedule aside from a couple of meetings a week.</li>
+<li>You’ll have to meet some reasonable deadlines.  Just to ensure timely updates for our users.</li>
+<li>You'll have the opportunity to learn and gain knowledge from our team and understand what it's like to run a bootstrapped SAAS app.</li>
+</ul><h1>
+<strong>What we offer</strong>     </h1><ul>
+<li>Part-Time. $3000-$5000/month. Hourly rate is negotiable</li>
+<li>Flexible hours</li>
+<li>Full time position may be available at a later date</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ranchr-lead-senior-react-developer">https://weworkremotely.com/remote-jobs/ranchr-lead-senior-react-developer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +292,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bitrefill-backend-developer" align="right" target="_blank">Apply</a>
@@ -104,7 +361,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/nearcut-rails-backend-developer" align="right" target="_blank">Apply</a>
@@ -148,114 +405,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bellroy</h5>
-                    <h3> Developer (Haskell)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bellroy-developer-haskell-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Australia
-    <br /><strong>URL:</strong> <a href="https://bellroy.com">https://bellroy.com</a>
-</p>
-
-<div><strong>IN A NUTSHELL</strong></div><div><br></div><div>
-<a href="https://bellroy.com/">Bellroy</a>, an Australian accessories brand helping people carry better, has grown rapidly since its inception. We’re looking to magnify the capabilities of our technology teams to keep pace with that ongoing growth, while remaining <a href="https://greatplacetowork.com.au/best-places-to-work-australia-2021-small-companies/">Australia’s Best Place to Work</a>. We’re not a software company, but software development is one of our core competencies. Technology underpins the success of our business. This means the Technology Team rarely works to hard delivery deadlines (we prioritise “correct” over “now”) and we regularly make open-source contributions.</div><div><br></div><div>We’re on the search for a Haskell developer to help us not just to ship features but to ship features from a codebase that’s better than it was last time we shipped a feature - and do this <em>every time we ship a feature</em>. We need you to help us use Haskell as it should be used, not merely as it can be used. Yes, to ship features (we’re not a language research lab and we’re not afraid of a slightly inelegant hack that gets the job done without polluting the codebase) but to be able to look back and see that we used the right tools and  abstractions, that our architecture served our business needs, and that we didn’t brute force what we could have finessed. </div><div><br></div><div>You can expect to learn a lot while you’re here. We will support your development with an allocated learning budget, hack days, and company-wide learning events. The Technology Team also runs a book club that meets weekly . We’ve discussed books like <a href="https://leanpub.com/optics-by-example">Optics By Example</a>, <a href="https://sensible.com/dont-make-me-think/">Don’t Make Me Think</a> and <a href="https://pragprog.com/titles/tpp20/the-pragmatic-programmer-20th-anniversary-edition/">The Pragmatic Programmer</a>, and worked through <a href="https://learn.cantrill.io/p/aws-certified-solutions-architect-associate-saa-c02">courses</a> together as well.</div><div><br></div><div>Bring us your problem solving skills, quick wit and fast fingers. In return we’ll provide you with a culture of intellectual honesty, autonomy to do your work and the tools you need to get shit done.</div><div><br></div><div>
-<br><strong>YOU COULD BE THE ONE IF, YOU…</strong>
-</div><ul>
-<li>Have at least 1-3 years (commercial or committed hobbyist) experience with Haskell and functional programming</li>
-<li>Strive to deliver high quality code with strong, well-researched design principles</li>
-<li>Prefer mastering your craft over managing people (for now, but you’re welcome to change your mind about that in the future)</li>
-<li>Want to join a highly competent technical team, supporting and supported by world-class professionals in product design, data science, logistics, production, sales, finance and customer support</li>
-<li>Don’t work just to pay the bills, but also because you’re passionate about contributing to the team and the open source community</li>
-<li>Get excited about great ideas, wherever they come from – books, blogs and podcasts, technical and non-technical</li>
-<li>Want to work for a company that cares about doing good things for the world</li>
-</ul><div>
-<br><br>
-</div><div><strong>WE’D GET REALLY EXCITED IF YOU…</strong></div><ul>
-<li>Have experience wrangling Nix</li>
-<li>Can read and understand Ruby on Rails code (we have a significant Ruby on Rails codebase that we’re migrating away from, and many of our Haskell services talk to Rails services)</li>
-<li>Have operational AWS experience (Lambda, DynamoDB, etc)</li>
-<li>Have built event-driven systems using Kafka</li>
-<li>Can’t do any of that right now, but can learn really quickly</li>
-</ul><div>
-<br><br>
-</div><div><strong>WHY WORK FOR BELLROY?</strong></div><div><br></div><div>Bellroy’s mission is to inspire better ways to carry; use business as a force for good; and help the world – and our crew – flourish. We make great carry products that delight people in their everyday lives, while constantly innovating to improve <a href="https://bellroy.com/collection/materials-guide">the sustainability of our materials</a>. We help our staff love their work and grow as people. We donate a portion of our revenue to some of the world’s most effective charities and are a certified <a href="https://www.bcorporation.com.au/directory/Australia/Victoria/Bellroy">B Corporation</a>.</div><div><br></div><div>We have carefully built our culture on radical effectiveness. Our credo is "smart people with good intentions who get shit done" (yes, really). We help our staff love their work and grow as people. Internally, we’re proud of our workplace culture; externally, we’ve been recognised as <a href="https://greatplacetowork.com.au/best-places-to-work-australia-2021-small-companies/">Australia’s Best Place to Work 2021</a>, in the "&lt; 100 Employees" category. We have two awesome physical workspaces in Victoria, Australia - one in the heart of <a href="https://www.visitvictoria.com/Regions/Melbourne/Destinations/Fitzroy">Melbourne’s Fitzroy,</a> and a smaller space in <a href="https://www.visitvictoria.com/regions/great-ocean-road/things-to-do/nature-and-wildlife/beaches-and-coastlines/vv-bells-beach">Bells Beach</a>. Our remote team members are a critical part of our business, and are treated as such: prior to 2020, we would gather all our people together once or twice a year, and plan to do this again as soon as it’s practical and safe.</div><div><br></div><div>
-<br><strong>LOCATION AND HOURS</strong>
-</div><div>
-<br><strong>Fitzroy or remote, that’s up to you.</strong> We have people that work with and for Bellroy on most continents. Our distributed team members are a critical part of our business, and are treated as such. We ask our remote people to overlap Melbourne office hours a few hours a day but other than that the hours that you work are totally up to you. We care about outcomes, not micromanagement. </div><div><br></div><div>The majority of our team is based in Australia and Europe. <strong>If you’re based in the Americas, the Oceania/European timing probably won’t work for you unless you’re willing to work odd hours (our existing team in the Americas work late nights a few days a week)</strong>. If you’re located in or near Melbourne, we’re flexible about how much of your week is spent in our offices.</div><div><br></div><div>
-<br><strong>REMUNERATION</strong>
-</div><div><br></div><div>In a global company, remuneration is hard. We try our best to pay people fairly for their skills relative to their circumstances. You can expect the following benefits plus some other nice surprises:</div><div><br></div><ul>
-<li>a good, fair salary that means you don’t have to worry about money, as well as have room to be rewarded as you grow</li>
-<li>help setting up your home office, both financially and technically</li>
-<li>team training budget for courses, conferences and certifications</li>
-<li>travel and accommodation to get together face-to-face with your colleagues (when practical and safe)</li>
-</ul><div><br></div><div>If you're expecting a FAANG-like compensation package we're sorry, but we'll likely disappoint you.</div><div>
-<br><strong><br>IF YOU'RE READY TO APPLY<br><br></strong>Click apply. You'll be redirected to a page where you can attach a resume, cover letter and complete an application exercise.<strong> <br></strong><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bellroy-developer-haskell-3">https://weworkremotely.com/remote-jobs/bellroy-developer-haskell-3</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6504/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Webrex Studio</h5>
-                    <h3> Java Developer - Remote</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/webrex-studio-java-developer-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6504/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Webrex Studio
-    <br /><strong>URL:</strong> <a href="https://www.webrexstudio.com/">https://www.webrexstudio.com/</a>
-</p>
-
-<div>If you are a good developer with 3+ years of experience looking for a decent freelancer or remote job then you landed the right place. </div><div><br></div><div>We are working with mid and enterprise-level IT service-based companies. We have ongoing openings for the same position with different companies. Right now we have 50+ Java remote developer openings combining all companies. </div><div><br></div><div><strong>Responsibility</strong></div><div>A developer is responsible for several Java-related duties throughout the software development lifecycle, from concept and design to testing. The developer is required to create user information solutions through the development, implementation, and maintenance of Java-based components and interfaces.</div><div><br></div><div>Skills:-  <strong>Springboot, MVC, Microservices, Java 8, SQL, Scala, Or AWS Is Good to have, etc.</strong>
-</div><div><br></div><div><strong>We offer:</strong></div><ul>
-<li>Permanent Work From Home </li>
-<li>5 Days/Week</li>
-<li>We pay between <strong>$1000 to $3000/monthly</strong> depending on your experience. </li>
-<li>This can be your full-time freelancing remote job. </li>
-<li>Day Shift</li>
-</ul><div><br></div><div>Once you successfully submit a form, our Recruiting Manager will get in touch with you via phone within the next 1-2 business days.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/webrex-studio-java-developer-remote">https://weworkremotely.com/remote-jobs/webrex-studio-java-developer-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/2835/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -266,7 +415,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/kapsys-senior-front-end-developer" align="right" target="_blank">Apply</a>
@@ -341,7 +490,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
@@ -398,7 +547,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>210 days ago</text>
+                <text>212 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-backend-developer-5" align="right" target="_blank">Apply</a>
@@ -461,6 +610,124 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3> Senior Blockchain Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>300 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/toptal-senior-blockchain-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://www.toptal.com/">https://www.toptal.com/</a>
+</p>
+
+<div>
+<strong><em>Design your full-time freelance career as a top freelance developer with Toptal. </em></strong><br><br>Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. <br><br>Toptal is an elite talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <strong>Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </strong>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. <br><br>As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. <br><br>That’s why the world’s top 3% of developers choose Toptal. Developers in our elite network share:</div><ul>
+<li>English language proficiency</li>
+<li>3+ years of professional experience</li>
+<li>Experience with Blockchain development is a must.  </li>
+<li>Project management skills</li>
+<li>A keen attention to detail</li>
+<li>Experience with system architecture or leading a software team is a strong advantage</li>
+<li>Full-time availability is a strong advantage</li>
+</ul><div>
+<br>Curious to know how much you could make? Check out our Blockchain developer rate calculator: <a href="https://topt.al/NDcMza">https://topt.al/NDcMza</a><br><br>If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/kZcw6z"><strong>https://topt.al/kZcw6z</strong></a><a href="https://topt.al/Amcw8w"><br></a><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toptal-senior-blockchain-developer">https://weworkremotely.com/remote-jobs/toptal-senior-blockchain-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1349272/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bitfinex</h5>
+                    <h3>Open Source RGB/Lightning Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,go,security,open source</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/open-source-rgb-lightning-developer-1349272" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Bitfinex is a digital asset trading platform offering state-of-the-art services for digital currency traders and global liquidity providers.</p>
+<p dir="ltr">Founded in 2012, Bitfinex was one of the first professional platforms set up to accommodate for the booming interest in Bitcoin and cryptocurrency trading. Since then, our team has gained invaluable experience whilst cementing our spot as the go-to platform for digital asset traders and institutions.</p>
+<p dir="ltr"> </p>
+<p dir="ltr"> </p>
+<p dir="ltr"><strong>Our Mission</strong></p>
+<p dir="ltr">Our aim is to create a free and accessible global digital economy by disrupting the current financial services industry.</p>
+<p dir="ltr">Our team is <strong>entirely remote</strong>, composed of individuals with an ownership mentality; no one waits to be told what to do. Each member of the team is a highly motivated self-starter that is comfortable with autonomy and believes in lifelong learning. When we’re not working, we’re dreaming about it. We place our egos aside and thrive within a culture that fosters one another from the birth of a concept to launch of a product.</p>
+<p dir="ltr">As part of our mission, we also promote and sponsor the development of open source decentralized systems to facilitate the growth of a permissionless economy</p>
+<p dir="ltr">At Bitfinex you have the freedom to work as you please - all that matters is execution.</p>
+<p dir="ltr">Join us and help lay the foundation for a decentralized future.</p>
+<p dir="ltr"> </p>
+<p dir="ltr"> </p>
+<p dir="ltr"><strong>Key responsibilities</strong></p>
+<p dir="ltr">As an Open Source RGB/Lightning Developer, you will be a part of the team that contributes to the development of the RGB protocol for assets on top of Bitcoin and the Lightning Network, aimed at building a new ecosystem of Bitcoin based decentralized financial applications. This includes:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Contributing to improve and evolve the code functional to the RGB protocol.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Development and maintenance of libraries to facilitate RGB integration for wallet developers.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Development and maintenance of an RGB compatible Bitcoin wallet.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Integration with the Lightning Network.</p>
+</li>
+</ul>
+<p>To enjoy this role, you should possess the personal attributes and experience outlined above. On top of this, we expect you to be:</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Knowledgeable about Bitcoin, Lightning Network and related applications.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Expertise and experience with Rust.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Ability to quickly learn new technologies.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Good understanding of security practices.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Understanding of the RGB protocol is a plus.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Experience with open source development is a plus.</p>
+</li>
+</ul>
+<img src="https://remotive.com/job/track/1349272/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -471,7 +738,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -548,7 +815,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -573,7 +840,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -598,7 +865,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -623,7 +890,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -648,7 +915,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -673,7 +940,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -698,7 +965,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
@@ -723,7 +990,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -770,7 +1037,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -839,7 +1106,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -1050,7 +1317,7 @@
                     <code>developer,drupal,growth,design</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
@@ -1075,7 +1342,7 @@
                     <code>android,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
