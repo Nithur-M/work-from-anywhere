@@ -10,7 +10,7 @@
                     <code>AWS,backend,business intelligence,docker</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineering-manager-1368348" align="right" target="_blank">Apply</a>
@@ -103,7 +103,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
