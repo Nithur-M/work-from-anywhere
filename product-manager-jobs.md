@@ -1,5 +1,112 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/4971/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Whitespectre</h5>
+                    <h3> Associate Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/whitespectre-associate-product-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0077/4971/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="http://www.whitespectre.com/">http://www.whitespectre.com/</a>
+</p>
+
+<div>We’re looking for a talented Associate Product Manager to join our team. This role is an excellent opportunity for candidates looking to pursue the product management career path.<br><br>
+</div><div>In this role, you’ll partner closely with senior product team members to execute major roadmap initiatives and identify new opportunities. Day to day, you’ll work within a fast-moving delivery pod alongside engineering and UI/UX to design, deliver, and optimize features that drive significant business value, insights, and great user experiences. You’ll have the chance to work on products for our client partners as well as Whitepectre’s own software products.<br><br>
+</div><div>
+<a href="http://www.whitespectre.com/">Whitespectre</a> is a product development company that creates high-performing platforms and apps, both for our long-term client partners and our own products. Founded in 2013, we partner with both large established companies and high-growth start-ups in the US and Europe. We're a close-knit team of 70 smart and diverse architects, engineers, product managers and designers, working together remotely and growing! Only candidates from outside of the US will be considered for this role.<br><br>
+</div><div>
+<br><strong>In this role, you will:<br></strong><br>
+</div><ul>
+<li>Collaborate with the product management team/exec stakeholders to build and support product roadmaps and track achievement of key objectives</li>
+<li>Translate roadmap initiatives into epics, user stories, and acceptance criteria and help define the ‘release and iterate’ strategy</li>
+<li>Define and communicate detailed user stories, participate in, then lead, the team’s grooming and sprint planning sessions, and eventually ‘own’ the backlog</li>
+<li>Work alongside engineering and UI/UX to create compelling user experiences and launch and optimize product features</li>
+<li>Analyze and share key performance metrics, and use this data to evaluate optimizations, improve user experiences, and identify new opportunities</li>
+<li>Develop a deep understanding of the business goals, end user and market to inform prioritization and strategic recommendations. Stay up to date with new ideas in relevant verticals to identify potential opportunities.</li>
+<li>Present updates to internal stakeholders and clients and help drive alignment; ensure the roadmap is continuously up to date</li>
+<li>Support training and implementation activities required for delivery</li>
+<li>Capture customer feedback and triage production issues/bugs to ensure the best user experience</li>
+<li>We work on fast iteration cycles using an agile/scrum methodology. This job is ideal for APMs who are action-oriented, self-directed and enjoy a highly collaborative, fast-paced environment.</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>The check the box requirements:<br></strong><br>
+</div><ul>
+<li>At least 2 years of work experience (or significant academic internships), with at least 1 year of experience in product management, product development, entrepreneurship/ start-ups, design thinking, business analytics, market strategy, or other related work.</li>
+<li>Excellent verbal and written communication skills</li>
+<li>Demonstrated track record of taking on new opportunities and successfully seeing them through</li>
+<li>Experience working within a US, UK, or Canada-based company (or clients from those countries), or significant time in an English-first university environment</li>
+<li>Availability to work full-time within a fast-moving cross-functional team, crossing over with 11am - 7pm Central European Time</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>We’re excited about candidates who are:<br></strong><br>
+</div><ul>
+<li>Strong collaborators and communicators, both in verbal and written communication. You’re clear and specific, and you consider the perspective and priorities of each collaborator in advance when you communicate.</li>
+<li>Team players- you enjoy working in a close-knit team and learning from others. You’re skilled at building trust.</li>
+<li>Excellent organizers; able to catch and juggle competing priorities while understanding the bigger project management picture to make yourself and your team successful.</li>
+<li>Passionate and intellectually curious about new products, market opportunities, and product strategy.</li>
+<li>Seeking a long-term, growth opportunity. While our work is fast-paced, we also work consistent hours and value stability. If you’re a ‘Digital Nomad’ and/or looking for something short-term, then we’re not the right fit for you.</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>Benefits<br></strong><br>
+</div><ul>
+<li>Competitive salaries, with payment in USD</li>
+<li>Annual Performance &amp; Salary Reviews, with proactive career management</li>
+<li>20 Days PTO &amp; 3 Charity Days annually</li>
+<li>Funded face-to-face meet ups in Barcelona, as well as, South America and Asia</li>
+<li>Assisted Relocation package up to $5k</li>
+<li>Flexible working hours for efficient teaming in a 100% remote environment (proudly remote-first for 9 years!)</li>
+<li>Free English classes &amp; educational expenses support</li>
+<li>Generous Employee Referral Plan</li>
+<li>Team Fitness and Charity Initiatives</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>Cultural benefits<br></strong><br>
+</div><div>In addition to the above benefits, we foster an inclusive working environment that provides:<br><br>
+</div><ul>
+<li>Great company environment - check out <a href="https://www.glassdoor.com.ar/Reviews/Whitespectre-Reviews-E1575846.htm?countryRedirect=true">Glassdoor</a>
+</li>
+<li>Personalized onboardings</li>
+<li>Opportunity to contribute to company-level initiatives</li>
+<li>Work with a broad range of best-in-class technologies</li>
+<li>Cross-company knowledge groups - improve your expertise, share your learnings and work with different technologies and tools</li>
+<li>Regular brown bag learning sessions</li>
+<li>An emphasis on Work-life balance</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>Interested in applying?<br></strong><br>
+</div><ul>
+<li>Apply by completing the form below</li>
+<li>Include a brief statement on why you think you are a good fit for this role (up to 3 sentences)</li>
+<li>Or email us with any questions on recruiting@whitespectre.com</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/whitespectre-associate-product-manager">https://weworkremotely.com/remote-jobs/whitespectre-associate-product-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4850/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +117,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager" align="right" target="_blank">Apply</a>
@@ -85,7 +192,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/slate-product-manager" align="right" target="_blank">Apply</a>
@@ -179,7 +286,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>215 days ago</text>
+                <text>216 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/buildbook-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -267,6 +374,61 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1368696/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Fuse Digital</h5>
+                    <h3>Scrum Master / Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>azure,devops,product manager,scrum</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/scrum-master-product-manager-1368696" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Our </strong><strong>Services</strong></p>
+<p>We help our customers build successful, scalable digital products and services that people love. </p>
+<p>Passion and dedication are what drives the engine of our growth. Our agile approach allows us to constantly monitor, analyse, iterate, and improve the products and services we build.</p>
+<p><strong>Our </strong><strong>Team</strong></p>
+<p>Our team of exceptional Engineers and UX Design talent enable us to create agile, scalable products and services that respond quickly to the ever-changing nature of the digital economy.</p>
+<p><strong>Our </strong><strong>Customers</strong></p>
+<p>We are fortunate enough to work with customers in Europe and Africa's Financial Services and Energy sector.</p>
+<p><strong>Our </strong><strong>Values</strong></p>
+<ul><li> <strong>Integrity -</strong> The quality of being open, honest, with strong moral principles.</li><li> <strong>Quality</strong> - We take pride in providing high-value products and services.</li><li> <strong>Fun</strong> - We enjoy what we and we don't take ourselves too seriously.</li></ul>
+<p><strong>Who </strong><strong>are we looking for?</strong></p>
+<p>We are looking for an experienced <strong>Scrum Master</strong> that can use hybrid skills to perform a dual <strong>Product Management</strong> role. A strong communicator and capable leader. Someone who would love the autonomy to help us grow, scale, and lead a team to deliver high-quality digital products for our customers.</p>
+<p><strong>What would be your </strong><strong>responsibilities?</strong></p>
+<p>       Scrum Master: </p>
+<ul><li>Coach software development teams and clients on agile methodologies. </li><li>Guide development teams to higher scrum maturity.</li><li>Help create self-organizing teams that are flexible and fully productive during sprints.</li><li>Ensure the development team is working effectively, by conducting regular reviews.</li><li>Act as a bridge between the team and organisation.</li><li>Coordinate scrum ceremonies e.g., sprints, sprint planning, reviews, retrospectives, and daily stand ups. </li><li>Prioritise and manage sprint planning. </li><li>Facilitate internal communication and collaboration.</li><li>Co-ordinate people and projects. </li><li>Manage project scope and timelines.</li><li>Be the point of contact for external customers or stakeholders. </li><li>Manage the product backlog and new requests.  </li><li>Remove obstacles that occur. </li><li>Ensure deliverables are of a high standard at the end of every sprint.</li></ul>
+<p>Product Management: </p>
+<ul><li> Own the product backlog.</li><li>Create user stories and good acceptance criteria.</li><li>Be the voice of the customer.</li><li>Build an understanding of digital customer experiences.</li><li>Embed user experience best practice in everything we do.</li><li>Conceptualize and build customer-led digital products.</li><li>Consult to clients by providing digital thought leadership.</li><li>Be instrumental in educating clients on the importance of User Experience through sharing feedback and insights.</li><li>Accountable for design, development, and delivery across digital channels.</li><li>Identify opportunities to improve digital customer experiences and conversion Optimisation.   </li><li>Monthly reporting</li></ul>
+<p><strong>What qualifications or skills </strong><strong>are required?</strong></p>
+<ul><li>       Experience in a scrum master role </li><li>       Excellent knowledge of scrum techniques </li><li>       Familiar with software development and user experience </li><li>       Excellent communication and leadership skills </li></ul>
+<p><strong>What tools </strong><strong>will you be using?</strong></p>
+<p>Azure DevOps, Slack, Teams </p>
+<p><strong>Where </strong><strong>would you be based?</strong></p>
+<p>We have offices in Ireland, South Africa and Mauritius, but the use of fantastic collaboration tools like Slack and Zoom enables us to provide 100% remote working, which means you can choose where you want to be based.</p>
+<p></p>
+<p><strong>Our </strong><strong>Interview Process</strong></p>
+<p>At Fuse Digital, we like to be upfront and transparent about our interview process so that you know what to expect.</p>
+<p>We have a 3-stage staggered interview process that comprises of:</p>
+<ul><li>       A 30-minute cultural fit interview with our executive team to establish whether our values align.</li></ul>
+<ul><li>       An hour interview with a couple of our technical leaders establishes how you think and work in a team context.</li></ul>
+<ul><li>       A small take-home assignment that can be completed in your own time. Although the assignment can be completed within a few hours, we'd rather not impact the candidate's schedule too much and allow them to submit the assignment within seven days of receiving it. We realise that a candidate's time is valuable, so they will be compensated with a gift voucher.</li></ul>
+<p></p>
+<p></p>
+<img src="https://remotive.com/job/track/1368696/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1339868/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -277,7 +439,7 @@
                     <code>android,education,go,ios</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/senior-product-manager-mobile-1339868" align="right" target="_blank">Apply</a>
