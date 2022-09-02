@@ -11,7 +11,7 @@
                     <code>frontend, software, engineer</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112227" align="right" target="_blank">Apply</a>
@@ -94,173 +94,92 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1339249/logo" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Vacuumgroup</h5>
-                    <h3>Frontend Engineer</h3>
+                    <h5>Facet Wealth</h5>
+                    <h3> Staff Front End Engineer - React</h3>
                 </td>
                 <td width="300">
-                    <code>cloud,contract,crypto,data science</code>
+                    <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>150 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/frontend-engineer-1339249" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/facet-wealth-staff-front-end-engineer-react" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p style="min-height: 1.5em;"><strong>About Vacuumlabs</strong></p>
-<p style="min-height: 1.5em;"><u>WE PUT TECH INTO FINTECH! </u></p>
-<p style="min-height: 1.5em;">Vacuumlabs provides design, product development, engineering, and data science services for the fintech industry.</p>
-<p style="min-height: 1.5em;"><br>We support over 115 clients in 20 different locations in Europe, North America, and Asia. Our 10 years history of successful collaborations includes companies at all stages of development – leading corporations, scaleups, and startups. </p>
-<p style="min-height: 1.5em;"><br>Focusing on banking and cryptocurrency, we explore topics in cloud banking, community banking, and blockchain technology. We're proud of our track record of working with clients such as Standard Chartered, Twisto, Erste Group IT, Kiwi, Railsbank, Doconomy, Emurgo Innovatrics, and others.</p>
-<p style="min-height: 1.5em;">Our engineers are one of the best engineers on the market, holding Masters and PhD degrees in computer science, winning coding competitions (Facebook Hacker Cup, Google Code Jam, ICPC, etc.), and have worked for leading tech giants.</p>
-<p style="min-height: 1.5em;"><br>Still not sure what we are doing? So let's check this video out: <br><a href="https://www.youtube.com/watch?v=jS9L-uYs1cA%EF%BF%BC%EF%BF%BC" rel="nofollow" target="_blank"><u>https://www.youtube.com/watch?v=jS9L-uYs1cA<br><br></u></a></p>
-<div class="h2"><strong>Who are we looking for?</strong></div>
-<p style="min-height: 1.5em;">As a Software Engineer at Vacuumlabs, you’ll work on global fintech innovations, blockchain-based products, and socially responsible projects.</p>
-<p style="min-height: 1.5em;"><br>Our Software Engineers are analytical thinkers with strong intuition and a knack for simplicity. They even established their own manifesto -  with 1 simple goal - to rid the world of spaghetti code! Learn more over here: <a href="https://www.youtube.com/watch?v=RiVroIhVepc" rel="nofollow" target="_blank"><u>https://www.youtube.com/watch?v=RiVroIhVepc</u></a>  </p>
-<p style="min-height: 1.5em;">We believe general coding skills and algorithmic thinking are more important than knowing a specific tech stack. We are open to candidates with a variety of tech stack knowledge and are happy to support our developers with learning new and needed tech stacks for specific projects. We provide our developers with an environment to learn while getting paid. </p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">Due to the current situation, we are only able to start the recruitment process with the candidates that are based outside Russia, Belarus, and Ukraine (or with relocation plans) with valid (or soon to be valid) working permits in any EU and non-EU countries. </p>
-<p style="min-height: 1.5em;"> </p>
-<div class="h2"><strong>What you will do:</strong></div>
-<ul style="min-height: 1.5em;">
-<li>
-<p style="min-height: 1.5em;">Design, develop, and improve products for the global fintech industry - including digital banks and blockchain-based products.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Develop and maintain an above-standard code for our products.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Select and apply the most appropriate framework, database, or programming language.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Communicate and collaborate with Project Managers and team members.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Be able to lead less experienced developers</p>
-</li>
-</ul>
-<div class="h2"><strong><br>What we expect from you:</strong></div>
-<ul style="min-height: 1.5em;">
-<li>
-<p style="min-height: 1.5em;">Demonstrated skill in programming (more than 2 years of full-time experience for middle seniors and over 5 years for senior developers).</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Past experience as a frontend developer (Typescript, React, React Native, and many more) </p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Willingness to adapt to a variety of programming languages.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Strong intuition for problem-solving and process improvement.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Ability to clearly and concisely communicate your thought process.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Fluent English language skills.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Algorithmically strong</p>
-<p style="min-height: 1.5em;"> </p>
-</li>
-</ul>
-<div class="h2"><strong>What’s in it for you?</strong></div>
-<ul style="min-height: 1.5em;">
-<li>
-<p style="min-height: 1.5em;">Take part in the success story! Great goals ahead of Vacuumlabs: grow from 300 colleagues in 2021 to 1000 colleagues in 2023 and from revenue of 10 mil EUR in 2021 to 40 mil EUR in 2023.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">You will be working remotely for the first few months and then you may become a foundation of our current global expansion activities to set up delivery hubs in Cyprus, Asia, and Latin America regions</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">In the future, we are considering relocation or temporary work assignments around the globe! </p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Various fintech and crypto projects - from internal, clients, and spinoffs - therefore with Vacuumlabs, you don’t need to change the company in order to get new experiences, you just change the project you are working on.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">International teams, not based in offices, 100% remote work supported.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">No big investors are involved with the company, the growth is mostly supported by the co-founders themselves.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">LGBTI+ and family-friendly (vacuum weekend).</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Strong company values</p>
-<ul style="min-height: 1.5em;">
-<li>
-<p style="min-height: 1.5em;">Integrity over profit - even during difficult covid times</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Full transparency (every great relationship is built on trust)</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Arguments matter more than ranks (our ranks don’t matter in discussions only arguments do)</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Greatness is worth sacrifices (there is no growth without pain, we work hard and we are proud of it)</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">We care for each other (we support each other in our growth, joy, and difficult moments alike)</p>
-</li>
-</ul>
-</li>
-<li>
-<p style="min-height: 1.5em;">Quarterly revaluation - we offer regular salary evaluations and provide feedback on their performance</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Paid needed overtimes</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">One-off payment to help establish remote working space</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Paid vacation days &amp; unlimited sick days</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Paid self-development </p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Salary Range: </strong></p>
-<p style="min-height: 1.5em;">Depending on the outcomes of interviewing process, the salary may vary from 2.500 euros to 6.000 euros </p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Next Steps:</strong></p>
-<p style="min-height: 1.5em;">First, you will need to undergo automated task testing fundamental principles of algorithmic thinking. The time limit is 2 hours, but it can be done faster. When you succeed, our recruiters will get in contact with you to walk you through our recruitment process. </p>
-<p style="min-height: 1.5em;"><strong>Contractual requirements of working with Vacuumlabs:</strong></p>
-<p style="min-height: 1.5em;">We have several legal requirements that need to be met prior to signing a contract with candidates, this means you can enter the process, but <u>starting date and date of contract signing can be only confirmed if:</u></p>
-<ul style="min-height: 1.5em;">
-<li>
-<p style="min-height: 1.5em;">Legal address (permanent residence, temporary residence, address of freelance license, address of ltd) <u>must be out of Russia and any other country on the sanction list</u></p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Candidate must have either a<u> freelance license or working permit</u> in the country that is not on the sanction lists</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Banking account in a country that is not on the sanction list.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;"><u>Copy of clear criminal record</u> - in case a candidate needs to wait for its issuance, and above mentioned is fulfilled we can accept solemn confirmation until the official document arrives. If the official document is not presented in the course of 3 months, the contract will be <u>immediately terminated</u><strong>.</strong></p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"><strong>Timezone requirements:</strong></p>
-<ul style="min-height: 1.5em;">
-<li>
-<p style="min-height: 1.5em;">We are more than happy to collaborate with anyone across the globe. Our employees can work at their preferred time of the day, however, they need to be able to<u> participate in our internal meetings in CET daylight time </u>(the frequency and exact time depends on the project but in most cases, it should be 2-3 meetings per week)</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">Vacuumlabs is one of the multi-awarded companies across the globe. <strong>Join a company you can truly engage with!</strong></p>
-<p style="min-height: 1.5em;"> </p>
-<img src="https://remotive.com/job/track/1339249/blank.gif?source=public_api" alt=""/>
+                
+
+<p>
+  <strong>Headquarters:</strong> Baltimore, MD
+    <br /><strong>URL:</strong> <a href="https://facetwealth.com">https://facetwealth.com</a>
+</p>
+
+<div>Facet is a fully remote FinTech company with a mission to empower people to live more enriched lives by delivering a new standard of financial advice that elevates expectations across consumers and the industry.<br><br>
+</div><div>We believe that unbiased, personalized financial advice that integrates into every facet of life is essential to living well. People’s financial lives are dynamic and ever-evolving, so we cover everything money touches–from starting a business to buying real estate to your investments and much more. Facet believes financial advice should be delivered with a fresh, human-plus-tech approach, that includes a CFP® professional–the highest certification possible.<br><br>
+</div><div>
+<strong>The Role:<br></strong><br>
+</div><div>As a<strong> Staff Front End Engineer </strong>at Facet Wealth, you will work with our Engineering &amp; Product teams, playing a critical role in developing world class commercial software used by our lead planners &amp; clients. Our goals are focused on developing a product to improve the financial lives of millions.<br><br>
+</div><div>A successful candidate would be proficient in modern front and back end tools and development methodologies. As well as being interested in learning new languages, technology stacks, tackling large and complex problems, and the ability to work both independently and in a peer programming environment.<br><br>
+</div><div>Tremendous growth potential exists at Facet - your growth opportunities are virtually unlimited. We are truly passionate about helping realize our team members’ potential through active mentorship. We value drive, ownership, and commitment as we grow our company.<br><br>
+</div><div>
+<strong>Day-To-Day Responsibilities: <br></strong><br>
+</div><ul>
+<li>Collaborate with Product and Planners to define solutions to problems</li>
+<li>Design, develop, and test code written in Golang and React and deployed to AWS</li>
+<li>Estimate tickets in a ScrumBan process</li>
+<li>Commit code constantly to Git/Bitbucket in a mainline development environment</li>
+<li>Write all the tests. Frustrated about never having time for tests? Not at Facet</li>
+<li>Pair program with other developers as desired</li>
+<li>Participate in daily standups</li>
+<li>Participate in weekly “Tech Stack Tuesdays” to learn new development skills and techniques</li>
+<li>Participate in bi-weekly “Fast Fridays” focused on performance improvements in the app</li>
+<li>Participate in in quarterly 3 day Hackathons and win fun prizes</li>
+<li>Constant learning and personal growth</li>
+</ul><div>
+<strong>Basic Qualifications:<br></strong><br>
+</div><ul>
+<li>Excited about learning new skills and working in a startup environment where change is normal</li>
+<li>5-10+ years of full stack web development or related experience</li>
+<li>3+ years of experience in Go/Golang and/or React 16+</li>
+<li>Relational databases experience, MySQL is preferred</li>
+</ul><div>
+<strong>Preferred Qualifications:<br></strong><br>
+</div><ul>
+<li>Experience with Golang and React</li>
+<li>Experience with AWS: ECS, EC2, RDS, S3</li>
+<li>Experience with the REST Architectural style</li>
+<li>Experience with The Clean Architecture </li>
+<li>Experience with Git, Bitbucket</li>
+<li>Experience with frontend toolchains such as Webpack, Gulp, or Grunt </li>
+<li>Experience with frontend testing tools and frameworks such as Mocha/Chai, BrowserStack, Puppeteer</li>
+<li>Experience with automated testing (unit, integration, regression, performance)</li>
+<li>Experience with responsive design and PWAs</li>
+<li>Familiarity with Linux</li>
+<li>Familiarity with Docker </li>
+<li>Familiarity with FinTech APIs such as Plaid, Finicity, Yodlee, APEX, Orion</li>
+</ul><div>
+<strong>Perks &amp; Benefits<br></strong><br>
+</div><ul>
+<li>$100,000-$185,000 annual salary + bonus determined by the experience, knowledge, skills, and abilities of the applicant - Please note, our salary ranges are based on current market data. Should you feel strongly that we are not in line, we highly recommend you to reach out and let us know. We are always looking to improve on building the best place for employees.</li>
+<li>Equity</li>
+<li>Unlimited PTO</li>
+<li>All the benefits: medical, dental, and vision insurance, 401(k) with employer match, short- and long-term disability coverage (paid by Facet), life insurance options and paid parental leave</li>
+<li>Certification reimbursement program </li>
+<li>Work from anywhere in the US</li>
+</ul><div>
+<strong>Equal Opportunity Employer<br></strong><br>
+</div><div>We’ve consciously built an equitable and inclusive culture where everyone is welcome to bring their authentic selves to work. At Facet Wealth, we specifically look for individuals of varying strengths, skills, backgrounds, and ideas. We believe this gives us a competitive advantage to better serve our clients and employees.<br><br>
+</div><div>All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/facet-wealth-staff-front-end-engineer-react">https://weworkremotely.com/remote-jobs/facet-wealth-staff-front-end-engineer-react</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -275,7 +194,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-1347890" align="right" target="_blank">Apply</a>
