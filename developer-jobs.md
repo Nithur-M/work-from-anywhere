@@ -25,6 +25,84 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6597/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Aldrin</h5>
+                    <h3> Lead Back-End Developer Node.js Web3 (Remote)</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/aldrin-lead-back-end-developer-node-js-web3-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6597/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Europe
+    <br /><strong>URL:</strong> <a href="https://aldrin.com">https://aldrin.com</a>
+</p>
+
+<div>
+<strong>Please Note: </strong>This is a<strong> remote </strong>position<strong>.</strong> Aldrin Labs is a fully remote company. We are interested in capturing the best talent, no matter where you live.<br><br>
+</div><div>
+<strong>The Role<br></strong><br>
+</div><div>We’re looking for a Senior Back-End Developer skilled in designing, building, and deploying highly secure, scalable, and maintainable backend services for the Aldrin decentralized exchange.<br><br>
+</div><div>You will:<br><br>
+</div><ul>
+<li>Develop backend service for Aldrin’s new products, including but not limited to our centralized and decentralized exchange platform, as well as other internal applications as necessary</li>
+<li>Work closely with traders and Aldrin developers and have the opportunity to improve your knowledge of building high-performance scalable applications, understand broader system architecture and understand the cryptocurrency market</li>
+<li>Be passionate about the crypto markets, blockchain technology, and decentralized applications.</li>
+</ul><div><br></div><div>
+<strong>Minimum Requirements:<br></strong><br>
+</div><ul>
+<li>Professional experience in <strong>Node.js of 5+ years</strong>
+</li>
+<li>Professional experience programming in <strong>Golang</strong>
+</li>
+<li>Strong experience in Express.js, Docker, <strong>Kubernetes</strong>
+</li>
+<li>Significant professional experience programming in Typescript</li>
+<li>Development experience on <strong>cloud computing platform (AWS)</strong>
+</li>
+<li>Experience working with a large codebase, distributed teams</li>
+<li>Experience with NoSQL and RDBMS database systems such as PostgreSQL, MySQL, or MongoDB</li>
+<li>Strong understanding of database schema design</li>
+<li>Strong understanding of networking concepts (load balancers, routers, etc.)</li>
+<li>Experience with high load applications (1000 RPS), performance tuning experience</li>
+</ul><div>
+<br><strong>Nice-to-Haves:</strong>
+</div><ul>
+<li>Experience working with a large codebase</li>
+<li>A proactive team player with strong problem solving capabilities</li>
+<li>Passionate about the cryptocurrency market and developing apps using blockchain (e.g. web3.js)</li>
+<li>BS in Computer Science or equivalent</li>
+</ul><div>
+<br><strong>Benefits:</strong>
+</div><ul>
+<li>Competitive salary + equity/tokens</li>
+<li>Remote work in a dynamic, fast-growth Web3 startup</li>
+<li>Flexible working hours</li>
+<li>Opportunity to work with a diverse, global, and passionate team</li>
+<li>Collaboration with leading projects and thought leaders in the crypto space</li>
+</ul><div>
+<em>At Aldrin Labs, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.<br></em><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/aldrin-lead-back-end-developer-node-js-web3-remote">https://weworkremotely.com/remote-jobs/aldrin-lead-back-end-developer-node-js-web3-remote</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/6479/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -35,7 +113,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/liquid-web-family-of-brands-wordpress-developer" align="right" target="_blank">Apply</a>
@@ -118,7 +196,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/creative-noggin-web-developer" align="right" target="_blank">Apply</a>
@@ -218,7 +296,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ranchr-lead-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -277,129 +355,6 @@
 </ul>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ranchr-lead-senior-react-developer">https://weworkremotely.com/remote-jobs/ranchr-lead-senior-react-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6517/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bitrefill</h5>
-                    <h3> Backend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bitrefill-backend-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6517/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Stockholm
-    <br /><strong>URL:</strong> <a href="https://bitrefill.com">https://bitrefill.com</a>
-</p>
-
-<div>Bitrefill is the biggest and best crypto e-commerce site in the world. We are creating a circular economy, enabling people to opt out from the traditional banking system and choose freedom... We make it easy for people to live on crypto around the world.<br><br>
-</div><div>Does this sound like something for you? Then keep reading :)<br><strong><br>Why are we awesome?<br></strong>Bitrefill believes in the freedom to work remotely and flexibly and we are built around this. But don’t fear, you will never feel lonely as you will have the opportunity to meet your coworkers in person at our team retreats every year. Some reasons people choose us are:</div><ul>
-<li>Freedom to work from anywhere</li>
-<li>We pay and compensate well</li>
-<li>25 days of paid annual leave</li>
-<li>Paid parental leave</li>
-<li>Health and remote workspace allowances</li>
-<li>Our team retreats consist of two get-togethers every year. (Stockholm in the summer and a warmer location in the winter)</li>
-<li>Curious about the Bitcoin country? We offer company-paid business trips to El Salvador.</li>
-<li>Central office in Stockholm</li>
-<li>We welcome the crypto curious and expert and are happy to help you learn and grow</li>
-<li>We have a super-talented and passionate team who believe in our mission</li>
-</ul><div>
-<strong><br>Your Mission: <br></strong>As a Backend developer at Bitrefill, you will be part of building solutions for our Lightning, Bitcoin and cryptocurrency services as well as doing integrations to suppliers and working on the backend of our overall service. You will be part of our product team and partner up with Backend Developers, Frontend developers and designers to ensure our services have high availability, low latency and great scalability.<br><br><strong><br>Your Responsibilities:</strong>
-</div><ul>
-<li>Be part of building tomorrow’s Lighting, Bitcoin and cryptocurrency services</li>
-<li>Working to maintain our current service, implement new supplier integrations</li>
-<li>Make recommendations on the strategy for our lightning, Bitcoin and cryptocurrency services</li>
-</ul><div><strong><br>You bring with you:</strong></div><ul>
-<li>You love to code and are passionate about building effective systems and to create something from scratch</li>
-<li>You have 2+ years of experience in modern backend technologies, preferably with a focus in Node.js</li>
-<li>You have experience with implementing backend system integrations with 3rd party suppliers</li>
-<li>You have good experience working with modern databases, with MongoDB knowledge as a plus</li>
-<li>You have experience running highly available distributed applications</li>
-<li>You are familiar with AWS/Cloud Services</li>
-<li>You are familiar with infrastructure/container orchestration, experience with tools such as Docker and Terraform is a plus</li>
-<li>You are comfortable with the command line, Linux system administration</li>
-<li>Experience with Bitcoin, Lightning, Ethereum from a technical perspective is a plus</li>
-<li>You are a natural problem solver and analytical, who is also passionate about the vision of allowing people to live on cryptocurrency</li>
-<li>Fluent skills in English, in speaking as well as writing</li>
-<li>Excellent communication skills</li>
-</ul><div><strong><br>We offer</strong></div><ul>
-<li>To become part of a talented team with high ambitions for a world where bitcoin is money for everyday use</li>
-<li>A challenging workplace and a great education when it comes to everything involving cryptocurrency.</li>
-<li>Competitive salary and compensation</li>
-</ul><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bitrefill-backend-developer">https://weworkremotely.com/remote-jobs/bitrefill-backend-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/3868/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Nearcut</h5>
-                    <h3> Rails Backend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/nearcut-rails-backend-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/3868/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Berlin, Germany
-    <br /><strong>URL:</strong> <a href="https://nearcut.com/">https://nearcut.com/</a>
-</p>
-
-<h1><strong>Senior Back End Ruby on Rails Dev</strong></h1><div>
-<strong>Location: Remote<br></strong><br>
-</div><div><strong><br>About the Opportunity</strong></div><div>
-<br>We’re looking for a freelance Senior Ruby on Rails Backend Developer to integrate Amazon SES into a Rails application, supporting multiple domains on a request-by-request basis. We expect this work to take 1 month, full-time (40 hours per week).<br><br><strong>About Nearcut<br></strong><br>
-</div><div>We are the industry leader in online booking and marketing software for barbers. Barbershops often don't have the capacity to attract business online and organise their time — on top of providing their barbering service. We provide booking and marketing software to enable business owners to easily take bookings online, manage their time and market to their customers. The business is built on Ruby on Rails.</div><div>
-<strong><br>Your expertise<br><br></strong>- You use TDD in all of your work<br>- You have at least 5 years of full-time professional experience with Rails<br>- You have at least 3 years of experience using Rspec<br>- You have experience with integrating Mailgun, Amazon SES or another transactional email provider.</div><div><br></div><div><br></div><div><strong>The project</strong></div><div>
-<br>As a Senior Ruby on Rails Backend Developer, you will work closely with the technical founder/CEO to integrate a new email provider into a Rails application.<br><br>
-</div><div>
-<strong>Availability<br><br></strong>You can focus on this project full-time (40 hours per week) or close to full-time for one month. You can be available to investigate bugs quickly and take responsibility for maintenance during the transition period of the project.<br><br>If this project goes well, there will be opportunity to work together on more projects.</div><div><br></div><div><strong>Benefits of our working environment</strong></div><ul>
-<li>
-<strong>Remote-first</strong>: We are a remote-first company without an in person office. We trust our employees to work flexibility and autonomously to efficiently meet business goals.</li>
-<li>
-<strong>Flexible working hours:</strong> Aside from regular team meetings and availability during core hours, we are happy for you to complete your work whenever you’re most productive.</li>
-<li>
-<strong>Close team:</strong> Although we work remotely, our team is close knit and colleagues are always there to help one another.</li>
-<li>
-<strong>Customer feedback:</strong> Our customers are small business owners and we are privileged to work closely with them to continue to improve our product.</li>
-<li>
-<strong>Bootstrapped</strong>: We have never raised external capital. We have no distractions from past or future investors. We're entirely focused helping our customers and we're taking our time to grow sustainably.</li>
-</ul><div>We’re a small team and we’re passionate about being a great company to work with and work for.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/nearcut-rails-backend-developer">https://weworkremotely.com/remote-jobs/nearcut-rails-backend-developer</a></p>
 
                 </details>
                 </td>
@@ -490,7 +445,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
@@ -540,79 +495,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Toggl</h5>
-                    <h3> Backend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>212 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/toggl-backend-developer-5" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Tallinn, Estonia
-    <br /><strong>URL:</strong> <a href="https://toggl.com/jobs/">https://toggl.com/jobs/</a>
-</p>
-
-<div>
-<br>We are looking for a passionate and sharp Backend Developer to be a part of one of our cross-functional product development teams to help us shape the future of the time tracking industry and deliver real value to our customers with both new and improved features. </div><div>
-<br>Gross annual compensation range for the role is <strong>€63,000-€70,000 based on experience </strong>and we are committed to increasing salaries every year based on company and individual performance. In addition to that, we also have awesome benefits, which you can check out below.</div><div><br></div><div>You can work <strong>from anywhere in the world.</strong>
-</div><div><br></div><div>
-<strong><br>About the Team<br></strong><br>
-</div><div>We are a global team of 100+ awesome people working from over 40 countries around the globe. We hire globally, you work locally - in the heart of London, a beach outside of São Paulo, or a quiet village near Florence, the choice is yours. Every few months we travel to meet up somewhere in the world and spend some quality time together. We place a huge amount of trust in our people, and we measure the outcomes rather than the work itself. Our values fuel our results.<br><br>
-</div><div>
-<strong>The Role<br></strong><br>
-</div><div>As a Backend Developer, you will be taking ownership of one or more domains of our product and will work closely with other developers and product designers in lean ways using cutting-edge technologies powering highly-available RESTful services and back-end systems.</div><div>
-<br>The main technologies you will be working with are Go, PostgreSQL, REST, JSON and Google Cloud Infrastructure.<br><br>Even though you can work whenever you want on your tasks, our team meetings can happen between 11:00 to 15:00 UTC. You need to be willing and available to attend these meetings when they happen.</div><div>
-<br>Your main responsibilities will be:</div><ul>
-<li>developing and maintaining backend services such as API's, reports, payments, and operations tools that manage our product worldwide</li>
-<li>working with product managers and designers day to day to bring more value to Toggl’s users, covering customer-facing web and native applications and public APIs</li>
-<li>completing small to medium features independently and in collaboration with frontend developers</li>
-<li>resolving most technical issues autonomously and designing well-organized code</li>
-<li>driving assigned requests to improve the codebase, such as migrating it to modern frameworks and adding missing tests</li>
-</ul><div>
-<strong><br>About you<br></strong><br>
-</div><div>We would love to hear from you if you are passionate about technology and you are experienced with or willing to learn to program in Go.</div><div>
-<br>In particular, we are looking for:</div><ul>
-<li>Strong backend engineering experience in any language</li>
-<li>Passion for cross-discipline collaboration and problem-solving</li>
-<li>Eagerness to learn new skills, and take ownership of your work</li>
-</ul><div>Bonus points for:</div><ul>
-<li>Experience with our main technologies: Go, PostgreSQL, REST, JSON and/or Google Cloud Infrastructure</li>
-<li>Experience with software engineering best practices (e.g. unit testing, code reviews, design documentation)</li>
-<li>Experience with system architecture, particularly at scale</li>
-<li>Experience with Ruby, Elixir, noSQL databases</li>
-</ul><div><br></div><div><strong>Benefits</strong></div><ul>
-<li>Freedom to choose where and when you work</li>
-<li>24 days of paid time off a year, plus your local holidays</li>
-<li>In-person meetups for team-building (expenses covered)</li>
-<li>Laptop and a €2,000 budget to set up your home office</li>
-<li>Reimbursement for co-working space membership or internet service at home</li>
-<li>€4,000 contribution to use for training, workshops, and conferences</li>
-<li>€2,000 contribution for any physical or mental health service-related</li>
-<li>Support for buying tools you need for doing your best work (even eyeglasses if you need a new pair)</li>
-</ul><div><br></div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toggl-backend-developer-5">https://weworkremotely.com/remote-jobs/toggl-backend-developer-5</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>Toptal</h5>
                     <h3> Senior Blockchain Developer</h3>
                 </td>
@@ -620,7 +502,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>300 days ago</text>
+                <text>301 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-blockchain-developer" align="right" target="_blank">Apply</a>
@@ -655,75 +537,182 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1349272/logo" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/3489/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Bitfinex</h5>
-                    <h3>Open Source RGB/Lightning Developer</h3>
+                    <h5>OpenCraft</h5>
+                    <h3> Senior Open Source Developer & DevOps (Python, Django, React, AWS/OpenStack)</h3>
                 </td>
                 <td width="300">
-                    <code>developer,go,security,open source</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>660 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/open-source-rgb-lightning-developer-1349272" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>Bitfinex is a digital asset trading platform offering state-of-the-art services for digital currency traders and global liquidity providers.</p>
-<p dir="ltr">Founded in 2012, Bitfinex was one of the first professional platforms set up to accommodate for the booming interest in Bitcoin and cryptocurrency trading. Since then, our team has gained invaluable experience whilst cementing our spot as the go-to platform for digital asset traders and institutions.</p>
-<p dir="ltr"> </p>
-<p dir="ltr"> </p>
-<p dir="ltr"><strong>Our Mission</strong></p>
-<p dir="ltr">Our aim is to create a free and accessible global digital economy by disrupting the current financial services industry.</p>
-<p dir="ltr">Our team is <strong>entirely remote</strong>, composed of individuals with an ownership mentality; no one waits to be told what to do. Each member of the team is a highly motivated self-starter that is comfortable with autonomy and believes in lifelong learning. When we’re not working, we’re dreaming about it. We place our egos aside and thrive within a culture that fosters one another from the birth of a concept to launch of a product.</p>
-<p dir="ltr">As part of our mission, we also promote and sponsor the development of open source decentralized systems to facilitate the growth of a permissionless economy</p>
-<p dir="ltr">At Bitfinex you have the freedom to work as you please - all that matters is execution.</p>
-<p dir="ltr">Join us and help lay the foundation for a decentralized future.</p>
-<p dir="ltr"> </p>
-<p dir="ltr"> </p>
-<p dir="ltr"><strong>Key responsibilities</strong></p>
-<p dir="ltr">As an Open Source RGB/Lightning Developer, you will be a part of the team that contributes to the development of the RGB protocol for assets on top of Bitcoin and the Lightning Network, aimed at building a new ecosystem of Bitcoin based decentralized financial applications. This includes:</p>
-<ul>
-<li dir="ltr">
-<p dir="ltr">Contributing to improve and evolve the code functional to the RGB protocol.</p>
+                <img src="https://we-work-remotely.imgix.net/logos/0017/3489/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Fully remote company (worldwide, incorporated in Berlin)
+    <br /><strong>URL:</strong> <a href="https://opencraft.com/">https://opencraft.com/</a>
+</p>
+
+<div>Do you care about contributing to open-source, and appreciate a good challenge? We do too! :) <br><br>
+</div><div>
+<strong>Open-source<br></strong><br>
+</div><div>We are a team of veteran open-source developers, working on educational and community-based projects in an<a href="https://handbook.opencraft.com/en/latest/open_first/"> open-first</a> environment – and we are looking for new members. By joining us, you will work full-time on open-source, pushing your changes to free software projects upstream through pull requests, contributing features, documentation, or help on public forums. </div><div>
+<br>We care deeply about contributing our work upstream. You will see the results of your work reused and recognized across the educational community, increasing access to quality education for everyone, everywhere.</div><div>
+<br><strong>Remote-first</strong>
+</div><div>
+<br>Unlike companies who reluctantly started to accept remote workers recently, we have embraced it from day 1. For the past 7 years, we have based and refined our way of working around remote-friendly workflows, from the ground up. No day-long video meetings, mandatory work hours, or risk of being forced back into an office one day -- as long as you have a good internet connection, it’s none of our business when or where you work from. :)</div><div>
+<br>We are all working remotely, from all continents (except Antarctica, at least so far - applicants welcome!). We use remote-friendly and timezone-agnostic workflows based on asynchronous principles and good documentation practices.</div><div>
+<br><strong>Online education<br></strong><br>
+</div><div>We are one of the main contributors to the <a href="https://open.edx.org/">Open edX project</a>, the main open-source MOOC platform created by MIT, Harvard and many other top universities. It powers sites like <a href="https://www.edx.org/">edX.org</a>, the <a href="https://openlearning.mit.edu/courses-programs/open-learning-library">MIT Open Learning Library</a>, and the <a href="https://www.fun-mooc.fr/">national online learning platform for France</a>. We provide development and hosting for institutions like <a href="https://onlinelearning.hms.harvard.edu/hmx/">Harvard Medical School</a>, <a href="https://www.labxchange.org">Harvard LabXchange</a>, <a href="https://ondemand.cloudera.com">Cloudera</a>, <a href="https://www.upskill.autodesk.com">Autodesk</a>, and several governments. We are not affiliated with <a href="https://www.edx.org/">edX.org</a>, but we contribute and work with them on various projects. </div><div>
+<br><strong>Technical stack</strong><br><br>
+</div><div>The Open edX project is a large Python/Django codebase, with good code standards and architecture. Tasks are varied, from developing core platform features, custom exercises and tools for specific courses (XBlocks), customizing and deploying instances, working full-stack, operating our service infrastructure, improving our hosting platform, etc. You won't get bored here.<br><br>
+</div><div>
+<strong>Contracting terms<br></strong><br>
+</div><div>This is a full-time, permanent contract position. We aim for long-term relationships -- once in, almost all team members stay for many years. </div><div><br></div><div>We care about paying fairly: </div><ul>
+<li>Team members set their own compensation level, which is paid based on hours worked (no unpaid overtime!). </li>
+<li>When determining your rate, we will expect you to factor in benefits (vacation, healthcare, purchase budgets, etc.) - the idea is to let <em>you</em> pick the benefits that are useful to you, rather than offer one-size-fits-all packages that aren’t always very valuable.</li>
+<li>We also proactively apply generous raises team-wide, based on the company results at the end of each year. <a href="https://handbook.opencraft.com/en/latest/team_compensation/">See the details about how we approach compensation in our handbook</a>.</li>
+</ul><div>We also firmly believe in work-life balance: as long as you deliver what you commit to, there is a lot of latitude in how much work you can choose to accept. We are open to time commitments anywhere in the 30h to 40h/week range, and highly discourage working more than that. It’s important to have time to ourselves, as well as having some slack, and there are diminishing returns in working more anyway. We are currently recruiting precisely to preserve that balance, and ensure we have plenty of capacity to handle our projects.</div><div><br></div><div>We welcome applicants of all genders and ethnicities.</div><div>
+<br><strong>Basic Requirements:</strong>
+</div><ul>
+<li>Experience with contributing to free software projects - small contributions are completely fine, but you <em>must</em> have at least one patch or pull request merged in a third-party project, or been a maintainer of an open source project with significant adoption. (Note that you can contribute now to satisfy this requirement - see for example the <a href="https://github.com/openedx/build-test-release-wg/projects/1">Open edX release issues</a>, fixing one of these issues guarantees an interview.)</li>
+<li>Senior developer with 3+ years working with Python</li>
+<li>Experience with Python web frameworks, specifically Django</li>
+<li>3+ years of HTML, Javascript, and CSS (experience with React and/or Typescript is a big plus!)</li>
+<li>Experience with unit testing</li>
+<li>Comfortable working in a Linux environment, specifically Debian or Ubuntu</li>
+<li>Experience with databases: MySQL, MongoDB, PostgreSQL</li>
+</ul><div>
+<strong>Additional Skills:</strong><br><br>
+</div><div>You will work on tasks from the following categories, but you can pick up the skills on the job if you haven't mastered these yet:</div><ul>
+<li>DevOps experience, especially on Debian/Ubuntu servers, Terraform, Vault, Packer, Prometheus, ELK, Docker. We are building a modern infrastructure and having a strong DevOps presence on top of core software engineering skills is a big plus with us.</li>
+<li>Cloud computing, like AWS or OpenStack</li>
+<li>Configuration management tools such as Ansible, Consul</li>
+<li>RabbitMQ, Redis &amp; Elasticsearch</li>
+<li>Mobile development (iOS and/or Android)</li>
+<li>Managing clients &amp; projects from beginning to completion (senior developer)</li>
+<li>Public speaking at conferences (you would present a talk every year at the Open edX Con)</li>
+</ul><div>
+<br><strong>Apply for this Position</strong><br><br>
+</div><div>Our recruitment process differs from most other companies - we don’t believe resumes and the traditional interviews to be particularly effective. Often, they tell more about how good someone is at interviewing, rather than at the actual work. So, our initial interview is lighter and easier to pass than in other companies - but we then provide you with real (and paid!) work to see how it works out in reality.</div><ul>
+<li>Step 1: You apply by filling out this form: <a href="https://opencraft.com/jobs/open-source-developer/">https://opencraft.com/jobs/open-source-developer/</a> </li>
+<li>Step 2: We do two interviews with candidates matching the requirements listed above. The first interview includes a (simple) coding exercise.</li>
+<li>Step 3: If this works out, we hire you! We start with a 2 months <a href="https://handbook.opencraft.com/en/latest/processes/#recruitment">trial period</a>, which allows both you and the rest of the team to fully evaluate how we work together, and is followed by a final review and confirmation. </li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack">https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1367190/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>AirCrew by Outliant</h5>
+                    <h3>Full-Stack React/Node/Solidity/Blockchain Web Developer</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,consulting,developer,node.js</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-react-node-solidity-blockchain-web-developer-1367190" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height: 1.5em;">We’re looking to hire a full-time, remote <strong>React/Node/Solidity/Blockchain</strong> <strong>Developer</strong>. For this role, your primary focus will be collaborating with a team of developers in creating and implementing software applications and components. You’ll have the opportunity to choose your hours and work and learn with a team of world-class engineers and designers, through a commitment to team collaboration, communication, and product quality.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Requirements</strong></p>
+<ul style="min-height: 1.5em;">
+<li>
+<p style="min-height: 1.5em;"><strong>3+ years</strong> of professional experience as a developer</p>
 </li>
-<li dir="ltr">
-<p dir="ltr">Development and maintenance of libraries to facilitate RGB integration for wallet developers.</p>
+<li>
+<p style="min-height: 1.5em;">Expertise in <strong>Solidity and/or Ethereum</strong></p>
 </li>
-<li dir="ltr">
-<p dir="ltr">Development and maintenance of an RGB compatible Bitcoin wallet.</p>
+<li>
+<p style="min-height: 1.5em;">Thorough understanding of <strong>React.js and Node.js,</strong> and their core principles</p>
 </li>
-<li dir="ltr">
-<p dir="ltr">Integration with the Lightning Network.</p>
+<li>
+<p style="min-height: 1.5em;">Knowledge of a diversity of <strong>blockchain projects</strong></p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Experience with full-stack web development, AWS, and Databases</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Strong understanding of blockchain, cryptography, smart contracts, and distributed applications</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Experience developing web applications and using blockchain technology</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Experience developing smart contracts (ideally on Solidity)</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Open-source contributions in the blockchain space are a huge plus</p>
 </li>
 </ul>
-<p>To enjoy this role, you should possess the personal attributes and experience outlined above. On top of this, we expect you to be:</p>
-<ul>
-<li dir="ltr">
-<p dir="ltr">Knowledgeable about Bitcoin, Lightning Network and related applications.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><em><strong>We offer flexible rates for the monthly salary, plus full-time benefits!</strong></em></p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">A candidate should have their own computer and stable internet connection to apply. We want a full-time employee that is only working for us and able to commit around 40 hours per week. You are in charge of your own hours!</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>About Us </strong></p>
+<p style="min-height: 1.5em;">Outliant is a fully-remote, US-based, digital product development and startup consulting company, with a team of culturally diverse creators whose exceptional skills and talents help conceive seamless digital products. Our teams exhibit work-play energy that supports individual growth, as well as encourages the freedom of creativity and “thinking outside the box.”</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Why You Should Work with Us</strong></p>
+<p style="min-height: 1.5em;">As a full-time member of our team, you’ll enjoy:</p>
+<ul style="min-height: 1.5em;">
+<li>
+<p style="min-height: 1.5em;">Flexible hours - work whenever you choose</p>
 </li>
-<li dir="ltr">
-<p dir="ltr">Expertise and experience with Rust.</p>
+<li>
+<p style="min-height: 1.5em;">Work from home</p>
 </li>
-<li dir="ltr">
-<p dir="ltr">Ability to quickly learn new technologies.</p>
+<li>
+<p style="min-height: 1.5em;">Unlimited PTO</p>
 </li>
-<li dir="ltr">
-<p dir="ltr">Good understanding of security practices.</p>
+<li>
+<p style="min-height: 1.5em;">Non-working holidays per country of residence</p>
 </li>
-<li dir="ltr">
-<p dir="ltr">Understanding of the RGB protocol is a plus.</p>
+<li>
+<p style="min-height: 1.5em;">13th-month bonus</p>
 </li>
-<li dir="ltr">
-<p dir="ltr">Experience with open source development is a plus.</p>
+<li>
+<p style="min-height: 1.5em;">Salary increases</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Financial support for online courses</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Mental health and well-being programs</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Fun and casual work environment</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Employee engagement activities and virtual gatherings</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">We are a very diverse bunch! 🌍</p>
 </li>
 </ul>
-<img src="https://remotive.com/job/track/1349272/blank.gif?source=public_api" alt=""/>
+<img src="https://remotive.com/job/track/1367190/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -738,7 +727,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -815,7 +804,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -840,7 +829,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -865,7 +854,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -890,7 +879,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -915,7 +904,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -940,7 +929,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -965,7 +954,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
@@ -990,7 +979,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -1106,7 +1095,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -1317,7 +1306,7 @@
                     <code>developer,drupal,growth,design</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
@@ -1399,6 +1388,31 @@
 <p><em> </em></p>
 <p><em>At Aldrin Labs, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.</em></p>
 <img src="https://remotive.com/job/track/1342094/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/20/05/openlogix.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Openlogix Corporation</h5>
+                    <h3>Salesforce OmniChannel Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time, Contract</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J113431/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Position: Salesforce OmniChannel Developer (Onshore, US)Duration: 6-12 MonthsRequired Skills:Atleast 5+ years of Core Development experience in Salesforce.comAtleast 3+ years of development experience in Visual Force, Apex, Process flows.Atleast 4+ y …
+Position: Salesforce OmniChannel Developer (Onshore, US)Duration: 6-12 Months<br/>Required Skills:<br/>Atleast 5+ years of Core Development experience in <a href="http://Salesforce.com">Salesforce.com</a>Atleast 3+ years of development experience in Visual Force, Apex, Process flows.Atleast 4+ years of Omni Channel experience in Lightening Component, Lightening Event, Lightening page TemplateHands-on experience in Salesforce Omni Channel and administration (e.g., Define routing, queues, managing users, security controls, and data as well as creating roles, profiles, and reports).Automatically route cases, leads, or other work, to the most appropriate employee, based on their skill set, availability, and capacityEnsure a unified customer journey on one centralized platform, from call to conversion, and an automated flow of communication, escalation, hand-off, and reporting between departments.Experience in designing custom objects, custom fields, picklists, page layouts, record layout, workflow, approval processes, validation rules, custom tabs, reports, Visualforce pages, dashboards, and email generation according to application requirements.Experience in integrating external applications to SalesforceExperience with Five9, SMS Magic or 360SMS is a plus
                 </details>
                 </td>
             </tr></table>
