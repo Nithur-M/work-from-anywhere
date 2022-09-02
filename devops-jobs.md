@@ -11,7 +11,7 @@
                     <code>dev, devops, infosec</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112127" align="right" target="_blank">Apply</a>
@@ -21,52 +21,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <p><span style="font-weight: 400;">Coconut Software is looking for an ambitious DevOps Engineer to be a key contributor in our infrastructure game. In joining our growing team, the DevOps Engineer will be an integral part of site reliability at Coconut. They will be responsible for implementing and delivering innovation to the CI/CD pipeline. Security is at the heart of our culture and the DevOps Engineer will document and practice the highest security standards to deliver key initiatives. This role is perfect for a self-starter who is keen to operate with minimal supervision within our highly collaborative environment.Â  </span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">We donât expect people to fit into neat little boxes. We are looking for curious and empathetic people who are driven by a need for continuous learning and growth. We are excited to continue to scale on our path to success by building a diverse and inclusive team. </span><span style="font-weight: 400;">Weâre pretty passionate about what we do weâre looking for people as passionate about their work as we are!Â </span></p><h3><span style="font-weight: 800;">YOU ARE FIRED UP TO:</span></h3><ul><li style="font-weight: 400;"><span style="font-weight: 400;">Work within a team of like-minded professionals to plan, deploy, and maintain critical business applications.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Apply your strong experience of DevOps engineering best practices.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Apply your strong expertise in Kubernetes, focussed on the development and maintenance of our Kubernetes cluster.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Support implementation of cloud products through architecture guidance, best practices, data migration, capacity planning, implementation, troubleshooting, monitoring, backups, etc.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Understand how IT operations are managed, identify recurring issues, and work with IT & Business partners to remediate using the problem management process.Â </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Utilize various open source technologies and tools to orchestrate solutions.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Write scripts and automation using Perl/Python/Groovy/Java/Bash.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Configure and manage data sources like MySQL.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Manage source control including SVN and GIT.</span></li></ul><h3><span style="font-weight: 800;">WHAT YOU BRING TO THE TEAM</span></h3><ul><li style="font-weight: 400;"><span style="font-weight: 400;">Bachelorâs Degree or equivalent experience required.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Located or ability to work in an Eastern timezone is preferredÂ Â </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">At least 3+ years of hands-on experience as an SRE or Devops Engineer.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Demonstrated experience with Kubernetes, working in a DevOps environment.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Previous experience with: Kubernetes, Cloud, and CI/CDÂ </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Strong background in Linux / Unix Administration.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">A working understanding of code and script (PHP, Python, Perl and/or Ruby).</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Have an understanding of server architecture, DNS, ipv4/ipv6, acl.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Strong critical thinker with problem solving aptitude.Â </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Unending curiosity and passion for continuous learning.Â </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">MariaDB, Elastic Search, Redis.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Must have proficient Oral and Written English language and good communication skills.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Bonus: General banking knowledge or knowledge related to Wealth Management / Private banking.</span></li></ul>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6595/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Azumo</h5>
-                    <h3> Cloud DevOps Engineer - Remote - Latin America</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/azumo-cloud-devops-engineer-remote-latin-america" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6595/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Rosario, Santa Fe Province, Argentina
-    <br /><strong>URL:</strong> <a href="https://azumo.com">https://azumo.com</a>
-</p>
-
-<p>Azumo is currently looking for a highly motivated Cloud DevOps Engineer to develop and maintain cloud infrastructure for next-generation web, mobile, and IoT Applications. <strong>The position is FULLY REMOTE based in Latin America.</strong></p> <p><br></p>
-<p>The Cloud DevOps Engineer will focus on designing and developing automation to support continuous delivery and continuous integration processes. A successful candidate will have an obsessive focus on automation and building repeatable solutions. They will have worked in Microsoft Azure and AWS environments leveraging services beyond basic IaaS provisioning. You will have the ability to lead projects and be the key person for interactions with the customer.</p>
-<p><br></p>
-<p>The <strong>Cloud DevOps Engineer</strong> will be <strong>based in Latin America</strong>. Compensation is commensurate with experience and candidate potential.<br></p> <p><br></p>
-<p>At Azumo we strive for excellence and strongly believe in professional and personal growth.  We want each individual to be successful and pledge to help each achieve their goals while at Azumo and beyond.  Challenging ourselves and learning new technologies is at the core of what we do.</p> <p><br></p>
-<p>Based in San Francisco, California, Azumo is an innovative software development firm helping organizations make insightful decisions using the latest technologies in data, cloud and mobility.  We are focused on helping companies build intelligent software applications.</p>
-<p><br></p>
-<p>If you  are based in Latin America.abd qualified for the opportunity and looking for a challenge please apply online at <a href="https://azumo.workable.com" class="external">https://azumo.workable.com</a> or connect with us at <a href="mailto:people@azumo.co" class="external">people@azumo.co</a></p>
-<p><strong>Requirements</strong></p>
-<ul> <li>BS or Master's degree in Computer Science, related degree, or equivalent experience</li> <li>Experience in automation of code deployment across multiple cloud providers such as <strong>Amazon Web Services, Microsoft Azure, Google Cloud, VMWare and OpenStack</strong> </li> <li>Experience in <strong>Azure </strong>services or <strong>AWS</strong> or <strong>Google Cloud</strong> beyond basic IaaS functionality</li> <li>Engineering experience in building production infrastructure using code and repeatable designs</li> <li>Experience with Windows and Linux systems in public clouds such as <strong>Azure </strong>and <strong>AWS</strong> </li> <li>Experience developing solutions using automation tools such as Ansible, Chief, or Puppet</li> <li>Experience with <strong>Docker </strong>containers and orchestration platforms such as ECS, <strong>Kubernetes</strong>, Mesos and/or Swarm</li> <li>Knowledge of ITIL processes and experience evolving to Agile development lifecycles</li> <li>Knowledge of networking and software defined networking in cloud environments</li> <li>Ability to articulate complex architectures to non-technical audiences</li> <li>Ability to document solutions and train operational teams on supportability</li> <li>Self-driven and motivated, with a strong work ethic and a passion for problem solving</li> <li>Ability to work effectively in a distributed or remote environment</li> <li>Certifications in relevant frameworks</li> </ul>
-<p><strong>Benefits</strong></p>
-<p><strong>Company benefits include:</strong></p>
-<ul> <li>Paid time off</li> <li>English classes</li> <li>U.S. Holidays</li> <li>Training</li> <li>Udemy free Premium access</li> <li>Profit Sharing</li> <li>Mentored career development</li> <li>$US Remuneration</li> </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/azumo-cloud-devops-engineer-remote-latin-america">https://weworkremotely.com/remote-jobs/azumo-cloud-devops-engineer-remote-latin-america</a></p>
-
                 </details>
                 </td>
             </tr>,<tr>
@@ -81,7 +35,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-devops-engineer-gcp-expert" align="right" target="_blank">Apply</a>
@@ -142,7 +96,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>92 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-devops-engineer-1" align="right" target="_blank">Apply</a>
@@ -198,7 +152,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1344659" align="right" target="_blank">Apply</a>
