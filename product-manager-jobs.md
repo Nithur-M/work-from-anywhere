@@ -117,7 +117,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager" align="right" target="_blank">Apply</a>
@@ -192,7 +192,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/slate-product-manager" align="right" target="_blank">Apply</a>
@@ -276,6 +276,75 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Facet Wealth</h5>
+                    <h3> Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>150 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/facet-wealth-product-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Baltimore, MD
+    <br /><strong>URL:</strong> <a href="https://facetwealth.com">https://facetwealth.com</a>
+</p>
+
+<div>Facet is a fully remote FinTech company with a mission to empower people to live more enriched lives by delivering a new standard of financial advice that elevates expectations across consumers and the industry.<br><br>
+</div><div>We believe that unbiased, personalized financial advice that integrates into every facet of life is essential to living well. People’s financial lives are dynamic and ever-evolving, so we cover everything money touches–from starting a business to buying real estate to your investments and much more. Facet believes financial advice should be delivered with a fresh, human-plus-tech approach, that includes a CFP® professional–the highest certification possible.<br><br>
+</div><div>
+<strong>The Role:</strong><br>As a <strong>Product Manager</strong>, you will live out this value each day as you work to develop and execute on strategic product roadmaps for our investment product  to maintain Facet’s status as a premier, industry disrupting product. This role will have you be both a critical thought leader and hands-on creator for our Product team.<br><br>
+</div><div>
+<strong>Day-To-Day Responsibilities:<br></strong><br>
+</div><ul>
+<li>Collaborate cross-functionally with multiple stakeholders to develop clear and precise product roadmaps to ensure our continued development of existing products as well as new products</li>
+<li>Develop requirements and determine priorities for implementations and improvements four our investment product</li>
+<li>Monitor and review KPIs to understand product performance </li>
+<li>Use data to make informed decisions and communicate those decisions to non-technical stakeholders</li>
+<li>Develop compelling arguments to advocate for the value product updates will create for the company</li>
+</ul><div>
+<strong>Basic Qualifications:<br></strong><br>
+</div><ul>
+<li>5+ years of relevant Product experience in financial services and/or investment products</li>
+<li>Demonstrated expertise following the full product lifecycle from requirements gathering through delivery</li>
+<li>Experience working with engineering and product teams focusing on data &amp; code-driven products</li>
+<li>Experience communicating technical requirements to non-technical audiences</li>
+<li>Professional experience using SQL strongly preferable </li>
+<li>Proven ability to be a strategic thinker and hands on problem solver</li>
+<li>Prior experience in fintech or similar industry is a plus</li>
+</ul><div>
+<strong>Perks &amp; Benefits<br></strong><br>
+</div><ul>
+<li>$100,000-$150,000 annual salary determined by the experience, knowledge, skills, and abilities of the applicant - Please note, our salary ranges are based on current market data. Should you feel strongly that we are not in line, we highly recommend you to reach out and let us know. We are always looking to improve on building the best place for employees.</li>
+<li>Equity </li>
+<li>Unlimited PTO</li>
+<li>All the benefits: medical, dental, and vision insurance, 401(k) with employer match, short and long term disability coverage (paid by Facet), life insurance options and paid parental leave</li>
+<li>Certification reimbursement program </li>
+<li>Work from anywhere in the US</li>
+</ul><div>
+<strong>Equal Opportunity Employer<br></strong><br>
+</div><div>We’ve consciously built an equitable and inclusive culture where everyone is welcome to bring their authentic selves to work. At Facet Wealth, we specifically look for individuals of varying strengths, skills, backgrounds, and ideas. We believe this gives us a competitive advantage to better serve our clients and employees.<br><br>
+</div><div>All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/facet-wealth-product-manager">https://weworkremotely.com/remote-jobs/facet-wealth-product-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/6658/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -286,7 +355,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>216 days ago</text>
+                <text>217 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/buildbook-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -374,158 +443,120 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1368696/logo" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1367600/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Fuse Digital</h5>
-                    <h3>Scrum Master / Product Manager</h3>
+                    <h5>Medely</h5>
+                    <h3>Lead Product Manager - Marketplace</h3>
                 </td>
                 <td width="300">
-                    <code>azure,devops,product manager,scrum</code>
+                    <code>accounting,C,data science,product manager</code>
                 </td>
                 <td width="200">
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/scrum-master-product-manager-1368696" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/product/lead-product-manager-marketplace-1367600" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><strong>Our </strong><strong>Services</strong></p>
-<p>We help our customers build successful, scalable digital products and services that people love. </p>
-<p>Passion and dedication are what drives the engine of our growth. Our agile approach allows us to constantly monitor, analyse, iterate, and improve the products and services we build.</p>
-<p><strong>Our </strong><strong>Team</strong></p>
-<p>Our team of exceptional Engineers and UX Design talent enable us to create agile, scalable products and services that respond quickly to the ever-changing nature of the digital economy.</p>
-<p><strong>Our </strong><strong>Customers</strong></p>
-<p>We are fortunate enough to work with customers in Europe and Africa's Financial Services and Energy sector.</p>
-<p><strong>Our </strong><strong>Values</strong></p>
-<ul><li> <strong>Integrity -</strong> The quality of being open, honest, with strong moral principles.</li><li> <strong>Quality</strong> - We take pride in providing high-value products and services.</li><li> <strong>Fun</strong> - We enjoy what we and we don't take ourselves too seriously.</li></ul>
-<p><strong>Who </strong><strong>are we looking for?</strong></p>
-<p>We are looking for an experienced <strong>Scrum Master</strong> that can use hybrid skills to perform a dual <strong>Product Management</strong> role. A strong communicator and capable leader. Someone who would love the autonomy to help us grow, scale, and lead a team to deliver high-quality digital products for our customers.</p>
-<p><strong>What would be your </strong><strong>responsibilities?</strong></p>
-<p>       Scrum Master: </p>
-<ul><li>Coach software development teams and clients on agile methodologies. </li><li>Guide development teams to higher scrum maturity.</li><li>Help create self-organizing teams that are flexible and fully productive during sprints.</li><li>Ensure the development team is working effectively, by conducting regular reviews.</li><li>Act as a bridge between the team and organisation.</li><li>Coordinate scrum ceremonies e.g., sprints, sprint planning, reviews, retrospectives, and daily stand ups. </li><li>Prioritise and manage sprint planning. </li><li>Facilitate internal communication and collaboration.</li><li>Co-ordinate people and projects. </li><li>Manage project scope and timelines.</li><li>Be the point of contact for external customers or stakeholders. </li><li>Manage the product backlog and new requests.  </li><li>Remove obstacles that occur. </li><li>Ensure deliverables are of a high standard at the end of every sprint.</li></ul>
-<p>Product Management: </p>
-<ul><li> Own the product backlog.</li><li>Create user stories and good acceptance criteria.</li><li>Be the voice of the customer.</li><li>Build an understanding of digital customer experiences.</li><li>Embed user experience best practice in everything we do.</li><li>Conceptualize and build customer-led digital products.</li><li>Consult to clients by providing digital thought leadership.</li><li>Be instrumental in educating clients on the importance of User Experience through sharing feedback and insights.</li><li>Accountable for design, development, and delivery across digital channels.</li><li>Identify opportunities to improve digital customer experiences and conversion Optimisation.   </li><li>Monthly reporting</li></ul>
-<p><strong>What qualifications or skills </strong><strong>are required?</strong></p>
-<ul><li>       Experience in a scrum master role </li><li>       Excellent knowledge of scrum techniques </li><li>       Familiar with software development and user experience </li><li>       Excellent communication and leadership skills </li></ul>
-<p><strong>What tools </strong><strong>will you be using?</strong></p>
-<p>Azure DevOps, Slack, Teams </p>
-<p><strong>Where </strong><strong>would you be based?</strong></p>
-<p>We have offices in Ireland, South Africa and Mauritius, but the use of fantastic collaboration tools like Slack and Zoom enables us to provide 100% remote working, which means you can choose where you want to be based.</p>
-<p></p>
-<p><strong>Our </strong><strong>Interview Process</strong></p>
-<p>At Fuse Digital, we like to be upfront and transparent about our interview process so that you know what to expect.</p>
-<p>We have a 3-stage staggered interview process that comprises of:</p>
-<ul><li>       A 30-minute cultural fit interview with our executive team to establish whether our values align.</li></ul>
-<ul><li>       An hour interview with a couple of our technical leaders establishes how you think and work in a team context.</li></ul>
-<ul><li>       A small take-home assignment that can be completed in your own time. Although the assignment can be completed within a few hours, we'd rather not impact the candidate's schedule too much and allow them to submit the assignment within seven days of receiving it. We realise that a candidate's time is valuable, so they will be compensated with a gift voucher.</li></ul>
-<p></p>
-<p></p>
-<img src="https://remotive.com/job/track/1368696/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1339868/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Customer.io</h5>
-                    <h3>Senior Product Manager - Mobile</h3>
-                </td>
-                <td width="300">
-                    <code>android,education,go,ios</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/senior-product-manager-mobile-1339868" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Hello! I’m LJ, Group Product Manager at <a href="http://Customer.io" rel="nofollow">Customer.io</a>.</p><br>
-<p>I’m looking for someone to help make Customer.io the go-to messaging solution for teams building mobile apps. You’ll drive the roadmap for a product squad, shaping the features and Software Development Kit (SDK) capabilities that mobile app teams need when connecting with their customers.</p><br>
-<p>This role is perfect for you if you love staying on top of how mobile apps are created. You’ll learn directly from exceptional mobile app developers about what they need to run their communications. You’ll build expertise in the rapidly changing environment of iOS and Android development. You’ll take those insights and partner with your squad to ship software that makes it easier for them to make their perfect communication strategy a reality.</p><br>
-<div class="h3">What you'll do</div>
+                <div><strong>THE COMPANY</strong></div>
+<div> </div>
+<div>Medely is the largest workforce management platform specializing in delivering healthcare professionals through an on demand marketplace. As an economic empowerment engine, Medely allows healthcare professionals instant access to high paying jobs with the freedom and flexibility to work when/where they want, while providing healthcare facilities access to the largest on-demand network of ready to work healthcare professionals.</div>
+<div> </div>
+<div>We believe that empowering healthcare professionals will bring more open, efficient, and increasingly higher quality to patient care. We are a team of sharp, entrepreneurial individuals who are redefining the way healthcare staffing is done. We are currently looking for candidates to join our growing team who share our enthusiasm for tackling today’s toughest challenges in healthcare.</div>
+<div> </div>
+<div><strong>HIGHLIGHTS</strong></div>
+<div> </div>
+<div>- Founded in 2016 and having recently secured their Series C, Medely is facing explosive growth in a $<a class="postings-link" href="http://3.65" rel="nofollow">3.65</a> trillion U.S. healthcare market ripe for tech disruption (Forbes, 2019).</div>
+<div>- Medely’s staffing platform provides high quality, on-demand professionals to more than four thousand healthcare facilities in over 50 U.S. markets. Their network boasts over 90,000 selectively vetted and credentialed healthcare professionals including nurses, medical assistants, technicians, and specialists.</div>
+<div>- Medely has consistently exceeded growth goals and is excited to continue the momentum in 2022!</div>
+<div> </div>
+<div><strong style="">The Opportunity</strong></div>
+<div><span style="">Medely’s vision to transform how healthcare works is only realized if professionals (supply side) can seamlessly connect with facilities (demand side) through our on demand marketplace. The Marketplace Dynamics team is the connecting tissue that sits at the intersection of many teams at Medely (Pros, Facilities, internal Ops &amp; Sales teams, etc). You will be responsible for product vision and strategic decisions that impact multiple lines of business and will require a deep understanding of each team's requirements and business priorities. As the Lead Product Manager responsible for this charter, you will set the vision across Matching &amp; Pricing, and execute on it. You will help answer business critical questions like - how do we ensure and improve on an industry leading fill rate, how can we create the best match between a Pro and assignment, what should be the key elements of our pricing strategy, how should we think about dynamic pricing, what levers do we use to maintain a balanced marketplace, how should we think about trade-offs across all dimensions including reliability vs convenience vs quality. You will operate as a key thought leader and decision-maker across both business and tech, and will work with a broad set of cross-functional partners across sales, operations, engineering, data science, design, and more!Our ideal candidate for this role will be someone who thrives in a fast-paced environment, is motivated by challenging problems and constraints, and is passionate about great user experiences, scaling through technology, and combining quantitative and qualitative data to guide decision-making. </span></div>
+<p><br><br></p>
+<div class="h3">What you will do:</div>
 <ul>
-<li>You'll lead a squad consisting of engineers and a designer to achieve strategic outcomes with solutions that are:
+<li>Set a multi-year roadmap to make Medely the most reliable and efficient labor marketplace, while maintaining and enhancing marketplace health</li>
+</ul>
 <ul>
-<li>Valuable (our customers choose to use)</li>
-<li>Viable (the solution works within the constraints of the business)</li>
-<li>Usable (our customers can figure out how to use)</li>
-<li>Feasible (our engineers have the skills and technology to implement)</li>
+<li>Innovate on matching improvements ranging from optimizing the matching of complex job types to appropriate supply types, to crafting a world class discovery experience for pros</li>
 </ul>
-</li>
-<li>You'll contribute a deep knowledge of our prospects and customers, industry trends, and the competitive landscape.</li>
-<li>You’ll find and nurture ideas from anywhere in the company, expecting many of the best ideas will not be your own.</li>
-<li>You'll take accountability for results, even though you're working through others to achieve them.</li>
-</ul>
-<div class="h3"><br></div><div class="h3">What we're looking for</div>
 <ul>
-<li><strong>You can commit to at least 3 hrs of working overlap with the Americas (GMT-8 to GMT-5 timezone)</strong></li>
-<li>You have a track record of successfully taking software products from “idea” to “shipped”.</li>
-<li>You’ve got infectious energy when sharing customer stories, and you use those stories to align your team around the customer’s experience.</li>
-<li>You’re hungry to learn, and love asking “Why?” one more time.</li>
-<li>You know how to source, analyze, and present quantitative and qualitative data.</li>
-<li>You’re an exceptionally organized and motivated person.</li>
-<li>You take ownership of problems even when the next steps and solutions aren't clear.</li>
-<li>You are a proactive communicator who believes in “working out loud” to share work early and often.</li>
-<li>You’re an excellent writer who values clarity and brevity while avoiding jargon.</li>
+<li>Set our pricing strategy accounting for more predictable and less predictable changes in supply and demand and to craft and influence customer behaviors</li>
 </ul>
-<div class="h3"><strong><br></strong></div><div class="h3">Bonus! Not a requirement, but let us know if you have experience with...</div>
 <ul>
-<li>Building and launching mobile apps.</li>
-<li>Working as a Product Manager on B2B SaaS products (especially in the MarTech space).</li>
-<li>Using Customer.io or other marketing automation services in a previous role.</li>
+<li>Define and build the levers to balance the marketplace across all vectors</li>
 </ul>
-<div class="h3"><br></div><div class="h3">About Customer.io</div>
-<p>Our mission at Customer.io is to power automated communication that people like to receive. Today over 4,200 internet businesses use Customer.io to manage, send, and track the performance of email, SMS, and push notifications. Unlike typical marketing platforms, Customer.io helps businesses increase relevance by using behavioral data: what people do or don’t do when logged in to a web or mobile app.</p>
-<p>We are offering a starting salary of $145,000 - $169,000 USD depending on experience and subject to market rate.</p>
-<div class="h3"><br></div><div class="h3">Benefits at Customer.io include:</div>
 <ul>
-<li>Unlimited PTO - we recommend 20 vacation days (in addition to holidays and sick days) so that you can unwind, unplug, and recharge</li>
-<li>100% medical, dental, vision, and supplemental insurance for you <strong>and</strong> your dependents</li>
-<li>12 weeks paid parental leave - for birth, adoption, or foster care</li>
-<li>401k retirement matching - up to 5% dollar for dollar match to retirement contributions</li>
-<li>Health and wellness allowance - Up to $200 USD per month that can be used for your healthy living needs, including gym membership, acupuncture, massage, or bike repairs</li>
-<li>Home office stipend - Up to $2,000 USD to help you get your home office set up so you can do your best work</li>
-<li>Internet + cell phone reimbursement - Up to $200 USD per month for your internet and cell phone plans</li>
-<li>Co-working space reimbursement - Up to $300 USD per month for those times you'd prefer to work in a co-working environment</li>
-<li>Learning + development - Up to $2,000 USD reimbursement per year to use on conferences, books, classes, or workshops - anything that will help you develop your skills</li>
-<li>1 month paid sabbatical after four years at Customer.io - to treat yourself to a vacation, or spend however you choose</li>
-<li>1 annual company retreat per year and opportunities to meet in smaller groups throughout the year</li>
-<li>Flexible schedule, work anywhere you want! - as long as you have a reliable internet connection and some overlapping work time with your manager, you can work where and when you want</li>
+<li>Own and lead the end-to-end product development process of major features and iterations, including creating high quality PRDs, working closely with engineering, design, etc. to bring world class products to market</li>
 </ul>
-<p>All final candidates will be asked to complete an employment and education verification authorization form (which allows us to verify your job history and education listed on your resume) as part of our pre-employment process.</p>
-<p>Customer.io recognizes the stifling impact of systemic injustice on diverse communities. We commit to using our influence to increase inclusion and equity within the tech industry. We strive to build an inclusive team culture, implement bias-free hiring practices, and develop community partnerships to expand our global impact.</p>
-<div class="h3"><strong><br></strong></div><div class="h3"><strong>Join us!</strong></div>
-<p>Check out our <a href="https://customer.io/careers/" rel="nofollow">careers page</a> for more information about why you should <a href="https://customer.io/about/" rel="nofollow">come work with us!</a> We are passionate about our core values of Empathy, Transparency, Responsibility, and Awkwardness and are looking for new coworkers to share and build that passion!</p>
-<div class="h3"><br></div><div class="h3">How to apply</div>
-<p>Apply at the link below by <strong>5pm PST on Friday, August 12th</strong> and tell us why you're interested in the position! In your cover letter, be sure to tell us about your favorite mobile app. There is no advantage to applying early so put your best foot forward. We plan to respond to all applicants by <strong>August 19th </strong>with a status update about your application.</p><p><strong><br></strong></p>
-<p>Here's what you can expect from our hiring process:</p>
-<ol>
-<li>
-<p>30-minute video call with Maria, Recruiter</p>
-</li>
-<li>
-<p>60-minute video call with Lj, Hiring Manager</p>
-</li>
-<li>
-<p>Take Home Assignment</p>
-</li>
-<li>
-<p>Assignment Review Call with two potential team members</p>
-</li>
-<li>
-<p>Final Interview</p>
-</li>
-</ol>
-<img src="https://remotive.com/job/track/1339868/blank.gif?source=public_api" alt=""/>
+<ul>
+<li>Monitor and measure launched products and feed insights back into the product development process</li>
+</ul>
+<ul>
+<li>Own your numbers, drive your cross-functional team of engineers, designers, etc. to set qualitative objectives and quantitative goals - challenging all members to think ambitiously and creatively - and overachieve them</li>
+</ul>
+<ul>
+<li>Distill vision and strategy for the team, rally all members of the cross-functional team</li>
+</ul>
+<ul>
+<li>Clearly communicate product plans, benefits, and results to stakeholders</li>
+</ul>
+<p><br><br></p>
+<div class="h3">What we are seeking:</div>
+<ul>
+<li>6+ years of PM or similar experience developing successful consumer products</li>
+</ul>
+<ul>
+<li>Experience partnering closely with engineers and data scientists to launch analytically rigorous, algorithmic, or data products</li>
+</ul>
+<ul>
+<li>Experience with a marketplace business is a plus</li>
+</ul>
+<ul>
+<li>Strong customer compassion, and the ability to blend user research with data to build a prioritized product roadmap. Data driven. You always get the data you need, and you can distill it into an insightful story. Most importantly, you use data to drive strategic decisions. </li>
+</ul>
+<ul>
+<li>Technical skills. Don’t have to have a Computer Science degree, but the ability to inform and evaluate engineering decisions</li>
+</ul>
+<ul>
+<li>The ability to zoom out and think strategically and execute methodically</li>
+</ul>
+<ul>
+<li>Superior verbal and written communications skills</li>
+</ul>
+<ul>
+<li>The ability to work in a fast-paced startup environment where continuous innovation is desired</li>
+</ul>
+<ul>
+<li>A willingness to roll up your sleeves and do whatever is necessary; general manager / owner mentality</li>
+</ul>
+<div>In accordance with Colorado's Equal Pay for Equal Work Act, the expected base salary range for this role in Colorado is $155,000 to $195,000.</div>
+<div>This position may be eligible for additional compensation and benefits including: equity, bonus, health benefits; flexible spending account; retirement benefits; life insurance; paid time off (including PTO, paid sick leave, medical leave, floating holidays and paid holidays); and parental leave and benefits. Actual compensation will be determined by experience and other factors permitted by law. Connecticut, Ohio, Rhode Island, Nevada, NYC, Maryland and Washington all have compensation laws typically requiring that the compensation is disclosed after the first round of interviews.</div>
+<div> </div>
+<div><strong style="">WHY MEDELY: </strong><span style="">BENEFITS &amp; PERKS</span></div>
+<div> </div>
+<div>- Competitive Compensation: Based on experience and performance</div>
+<div>- Long Term Incentives: 401k</div>
+<div>- Healthcare Benefits: Full suite of benefits including medical, dental, and vision insurance</div>
+<div>- Flexibility: We believe that work/life balance is important, so we offer three weeks of vacation and ten paid holidays</div>
+<div>- Energetic team environment</div>
+<div>- Purpose: Join a growing mission-oriented startup that is modernizing the healthcare industry on a national scale!</div>
+<div>- Ownership: Drive meaningful business impact on a team that you’ll help build and define!</div>
+<div>- Remote: Work in a digital environment with all the tools to achieve your work as though you were in the office!</div>
+<div> </div>
+<div> </div>
+<div><em>We're an equal opportunity employer to all. We interview and hire applicants of all backgrounds, orientations, expressions, and identities.</em></div>
+<div> </div>
+<div><em style="">Work location is flexible if approved by Medely.</em></div>
+<div><em> </em></div>
+<div><em>Medely does not accept unsolicited resumes from agencies. We consider any resume (CV) or biography received from an agency or outside recruiter without prior approval from a member of the Medely Human Resources or Recruiting team to be unsolicited and gratuitous, and such submissions will not be recognized by Medely for purposes of “ownership” of the candidate. </em></div>
+<div> </div>
+<div><em>We are an E-Verify company.</em></div>
+<img src="https://remotive.com/job/track/1367600/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
