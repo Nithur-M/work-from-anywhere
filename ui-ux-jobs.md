@@ -11,7 +11,7 @@
                     <code>ux, leader, management</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112153" align="right" target="_blank">Apply</a>
@@ -21,6 +21,68 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 About UsÂ ClickTime is a recognized leader in time management software, serving thousands of enterprises, nonprofits, and governments worldwide. From bootstrapped beginnings to sustained profitability - all funded by a dedicated, growing customer base, and without any venture capital funding - ClickTime has tracked over $170 billion worth of employee time, helping customers improve their workforce efficiency, profitability, and resource planning. While headquartered in San Francisco, ClickTimeâs 40+ employees work remotely throughout the United States, with continued plans for remote growth. About the RoleAs ClickTimeâs first-ever Senior UX Designer, youâll own the user experience for the ClickTime product and customer. Youâll deeply understand the needs of our users, advocate for those needs within the organization, and help create product experiences that delight. In addition, youâll work with internal stakeholders to influence new features, standardize our visual branding across the product, and become a champion of usability and great design. Reporting to the Director of Product Management, this is an opportunity to harness your ambition and creativity to make your mark on an established SaaS company.ClickTime provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1362294/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>iVisa</h5>
+                    <h3>Interaction UX Designer</h3>
+                </td>
+                <td width="300">
+                    <code>mobile,ui,ux,growth</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/design/interaction-ux-designer-1362294" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We're growing! Don't miss the opportunity to be part of our global team as a <strong>Prototype </strong><strong>Designer</strong><strong>.</strong></p>
+<div class="h3"><strong>About Us</strong></div>
+<p>At iVisa we believe that traveling should be simple. That's why over 1.1 million travelers have chosen us to facilitate their photos, passports, visas, and other travel documents.We are the easiest, fastest, and simplest solution in the market. Our company is growing 100% year on year. We know our biggest strength is our people and we're looking for the right new team members to help propel our culture and achieve our goals. Above all else, we always have fun!.</p>
+<p>The Experience Design Team is looking for an energetic and creative Senior Designer who is passionate about enhancing and improving application interactions, user flows, information architecture and pristine customer/user experiences. We're seeking a designer who wants to work on important and complex challenges and who understands UX methodologies, user centered design and the steps in design thinking.</p>
+<p> </p>
+<div class="h2"><strong>What would you do?</strong></div>
+<ul>
+<li>Translate user needs, to improved patterns, information architecture, process flows, and other design inputs for the best easy-to-use and desired solutions by using available data findings, user research, analysis, and UX methodologies.</li>
+<li>Perform design duties for projects daily to meet UX, technical, and business needs.</li>
+<li>Design for mobile, desktop and web responsive platforms.</li>
+<li>Use wireframes, flow diagrams, sketches and low fidelity mockups to communicate idea.</li>
+<li>Use interactive prototypes to communicate the current or future user experience.</li>
+<li>Create prototypes to bring ideas to reality and evaluate which features present challenges for implementation.</li>
+<li>Advocate for user-centered design including research, design, and accessibility.</li>
+<li>Leverage, govern and contribute to existing design systems, pattern libraries, and UI guidelines.</li>
+<li>Critique in-progress design work, evaluating the usability and effectiveness of “the” solution.</li>
+</ul>
+<div class="h2"><strong>What are we looking for?</strong></div>
+<ul>
+<li>Excellent communicator and collaborator on a team.</li>
+<li>5+ years of UX design experience.</li>
+<li>Experience creating wireframes and prototypes to communicate idea and design concepts.</li>
+<li>Experience with UX design and collaboration tools (Sketch, Axure, XD, Figma, InVision, Miro).</li>
+<li>Demonstrated understanding of mature user-centered design and research practices.</li>
+<li>Working with and in a design system and contributing to its expansion. </li>
+<li>Participated in Agile sprints, design tasks, requirements gathering.</li>
+<li>Experience designing for mobile and responsive web.</li>
+</ul>
+<div class="h2"><strong>What we offer?</strong></div>
+<ul>
+<li>Remote-first: work from everywhere</li>
+<li>The opportunity to collaborate and learn from Data Analysts , UX Designers, Software Developers, Engineers and many other experts.</li>
+<li>Work in a hyper-growth, dynamic and international environment. Run in a highly tech-minded company with top of line tools.</li>
+<li>The opportunity to help build a company that will continue to redefine the travel industry.</li>
+<li>Transparent company culture with flat hierarchies (and super cool co-workers).</li>
+<li>Lots of responsibility and a real chance to make an impact.</li>
+</ul>
+<p><br>iVisa ensures equal employment opportunity to all employees and applicants without discrimination or harassment based on race, religious creed, color, age, sex, sexual orientation, gender identity, national origin, marital status or medical condition.</p>
+<img src="https://remotive.com/job/track/1362294/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +97,7 @@
                     <code>ui,ux,management,networking</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-ux-ui-designer-1344663" align="right" target="_blank">Apply</a>
@@ -60,7 +122,7 @@
                     <code>contract,go,ui,ux</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
