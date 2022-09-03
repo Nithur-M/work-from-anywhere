@@ -1,5 +1,88 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4683/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Close</h5>
+                    <h3> Sr. Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/close-sr-product-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/4683/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> USA
+    <br /><strong>URL:</strong> <a href="http://www.close.com">http://www.close.com</a>
+</p>
+
+<div><strong>About Us</strong></div><div>At Close, we're building the sales communication and collaboration platform of the future. With our roots as the very first sales CRM to include built-in calling, we're leading the industry in sales automation—helping companies to close more deals, faster than ever.  Since our founding in 2013, we've grown to become a profitable, 100% globally distributed ~60 person team that is dedicated to building a product our customers love.</div><div> </div><div>Our Product team is currently made up of three Designers and two Product Managers. We're looking for our third Product Manager to help accelerate product development at Close from idea through launch. </div><div><br></div><div>
+<br><strong>About You</strong>
+</div><div>We’re looking for someone with a unique talent set - someone who understands sales and can “speak the language” with sales managers, reps, and directors. Someone who can synthesize various use cases into clear problem statements. Someone who cares deeply about product details, has a great sense of product aesthetics, and can discuss the nitty gritty with engineers. </div><div><br></div><div>As a small product, design, and engineering team you’ll be responsible for all aspects of delivering a feature -- from concept through project managing it’s delivery. You will do it all.<br><br><strong>What you’ll do...</strong>
+</div><ul>
+<li>Turn the vague into the concrete. Talk with customers to discover &amp; define their needs, understand their problems, and document their use cases. </li>
+<li>Write problem statements that clearly define shared needs across customers.</li>
+<li>Create detailed product specs from your problem statements through collaboration with Product Design and Engineering.</li>
+<li>Project manage the delivery of the feature -- get it on the engineering roadmap and ensure it’s delivered on time and up to the Product team’s standards. </li>
+<li>Prepare for launches: work with the Marketing team on positioning/collateral, manage beta testers, write FAQs, define adoption / usage metrics, measure success, and share learnings.</li>
+</ul><div>
+<br><strong>You should...</strong>
+</div><ul>
+<li><strong>Be located in an Americas or European time zone </strong></li>
+<li>Have 2+ years of Product Management experience shipping B2B SaaS for SMBs.</li>
+<li>Have 2+ years experience at software/internet companies in a product, engineering, or customer-facing role.</li>
+<li>Love listening to customers and diving deep into their problems and needs.</li>
+<li>Be detail-oriented, organized, and great at writing.</li>
+<li>Have good product vision &amp; design sense. </li>
+<li>Be comfortable writing specs, drawing wireframes, &amp; rapidly iterating on new feature ideas.</li>
+<li>Have experience with metrics/analytics tools</li>
+<li>Be growth minded; pushing to ship Product that focuses on moving the needle.</li>
+</ul><div>
+<br><strong>Bonus points if you...</strong>
+</div><ul>
+<li>Have experience in sales or with sales tools / CRMs</li>
+<li>Have significant experience in Figma or other design/prototyping tools</li>
+<li>Have a technical/engineering background, not afraid to dabble in Python, HTML, CSS, or SQL.</li>
+</ul><div>
+<br><strong>Why Close? </strong>
+</div><ul>
+<li>
+<a href="https://www.youtube.com/watch?v=ZbyGnLhtj0o&amp;feature=youtu.be">Culture video</a> 💚</li>
+<li>100% remote company <em>(we believe in trust and autonomy)</em>
+</li>
+<li>Choose between working 5 days/wk (standard full-time) or 4 days/wk @ 80% pay</li>
+<li>
+<a href="https://www.youtube.com/watch?v=gKjyXMz-q-Q&amp;feature=youtu.be">Annual team retreats</a> ✈️</li>
+<li>Quarterly virtual summits</li>
+<li>5 weeks PTO + Winter Holiday Break</li>
+<li>2 additional PTO days every year with the company</li>
+<li>1 month paid sabbatical every 5 years</li>
+<li>Co-working stipend</li>
+<li>Paid parental leave</li>
+<li>Medical, Dental, Vision with HSA option (US residents)</li>
+<li>401k matching at 6% (US residents)</li>
+<li>Dependent care FSA (US residents)</li>
+<li>Contributor to <a href="https://stripe.com/climate">Stripe's climate</a> initiative 🌍❤️ </li>
+<li>
+<a href="https://close.io/about/">Our story and team</a> 🚀</li>
+</ul><div>At Close, everyone has a voice. We encourage transparency and practice a mature approach to the work-place. In general, we don’t have strict policies, we have guidelines. Work/Life harmony is an important part of our business - we believe you bring your best to work when you practice self-care (whatever that looks like for you).  </div><div><br></div><div>We come from 16 countries located in 5 of the 7 continents -- looking at you Antarctica and Australia ;-) ….. We’re a collection of talented humans rich in diverse backgrounds, lifestyles, and cultures. Every year we meet up somewhere around the world to spend time with one another. These gatherings are an opportunity to strengthen the social fiber of our global community.</div><div><br></div><div>Our team is growing in more ways than one - we’ve recently launched 17 babies (and counting!). Unanimously, our favorite and most impactful value is “Build a house you want to live in.” We strive to make decisions that are authentic for our people and help our customers become more successful. </div><div><br></div><div><em>Our application process was designed to promote equitable and unbiased hiring practices. We ask a small series of questions that are similar to what would be asked in the first interview. This helps us learn more about you right from the start so please be sure to answer each question thoughtfully. Each application will receive two screens by two different reviewers. Regardless of fit, you will hear back from us letting you know if we'll be moving forward.</em></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/close-sr-product-manager">https://weworkremotely.com/remote-jobs/close-sr-product-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/4971/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +93,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/whitespectre-associate-product-manager" align="right" target="_blank">Apply</a>
@@ -117,7 +200,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager" align="right" target="_blank">Apply</a>
@@ -182,169 +265,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6291/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Slate</h5>
-                    <h3> Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>8 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/slate-product-manager" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6291/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://slateteams.com">https://slateteams.com</a>
-</p>
-
-<div>About the job-PRODUCT MANAGER 📱<br><br>
-</div><div>🔑 THE KEY BITS</div><ul>
-<li>Whereabouts: We are a fully remote company with distributed team members. For this role, we prioritize candidates who are based in the EST or any European time zones.</li>
-<li>Visas: We do not sponsor work visas or relocation expenses.</li>
-<li>Salary: This position is super important for us since it is brand new. Therefore, we want to take the opportunity to talk to a diverse pool of candidates who think they could be the perfect fit. With that being said we want to be transparent in sharing our budget is somewhere between $80-110k USD depending on experience and location but we are open to discussing your salary expectations during an interview.</li>
-<li>Interviews: Phone Screen with People &amp; Culture Lead Nicole, Second Interview with CoFounder/CEO/Head of Product Michael, Third Interview (combined) with Project Manager Nicoleta &amp; Senior Product Designer Dawson, Fourth-a project to see more into your thinking and skills, and a Final interview with Michael &amp; Dawson</li>
-<li>Ideal Start Date: ASAP</li>
-<li>Reporting to: Michael Horton-CoFounder/CEO/Head of Product</li>
-</ul><div><br></div><div>🌍 OUR MISSION<br><br>
-</div><div>Slate has big ambitions: We were born out of our Founders’ own experiences to solve the problems we all faced with social media. We have come together out of a passion for solving problems, building a company based on the deeply held values we share, and to make social content creation effortless for brands.<br><br>
-</div><div>🔎 OUR VISION<br><br>
-</div><div>Our vision is to become the undisputed leader in social media content creation, by uniting all parts of the creation workflow into a one-stop solution for brands.<br><br>
-</div><div>🌠 YOUR CONTRIBUTION<br><br>
-</div><div>In this rapidly evolving world, Slate is always looking for new ways to disrupt the status quo, go to market faster, and optimize customer experiences. We are seeking an experienced Product Manager to lead the charge on this mission working on our Product team but also working very closely with our Engineering Team. Our current Product team includes our Co-Founder/CEO Michael, Project Manager Nicoleta, and Product Designer Dawson. The ideal candidate will have big ideas and strategies that foster an environment of collaboration and creativity. This role is ideal for someone with an entrepreneurial mindset and real-world experience distilling business value and goals into roadmaps and refined product backlogs. Most importantly, you will be integral to helping us build better products that people and businesses love to use.<br><br>
-</div><div>You will:<br><br>
-</div><ol>
-<li>Collaborate with stakeholders, prospective users, and clients to understand and anticipate their needs to help craft vision and concept development of a product</li>
-<li>Develop user stories for new features and or products</li>
-<li>Develop detailed product feature specifications and ensure they’re clearly understood by the development team</li>
-<li>Oversee all stages of product creation including design and development to ensure a feature/product is being implemented according to spec</li>
-<li>Monitor and evaluate product progress at each stage of the process</li>
-<li>Liaise with the product team and end-users to deliver updates</li>
-<li>Communicate often and effectively with stakeholders throughout the project</li>
-<li>Work with internal and external contacts to analyze needs and align product roadmap to strategic goals</li>
-<li>Work closely with the product team to create and maintain a product backlog according to business priorities and changing requirements</li>
-<li>Assess value, develop cases, and prioritize stories, epics, and themes to ensure work aligns with product strategy</li>
-<li>Lead the product-release plans and set expectations for delivery of new functionalities</li>
-<li>Serve as the product ambassador internally and externally, sharing knowledge and answering questions related to the product</li>
-<li>Work cross-department with marketing, sales, and CS to communicate product vision and align on releases</li>
-</ol><div>
-<strong>Requirements<br></strong><br>📬 WE'D LOVE TO HEAR FROM YOU IF YOU MEET THESE QUALIFICATIONS:</div><ol>
-<li>4+ years experience in product management in digital products (web &amp; mobile app development)</li>
-<li>Understanding of business value around feature/functions</li>
-<li>Outstanding communication, presentation, and leadership skills</li>
-<li>Sharp analytical and problem-solving skills</li>
-<li>Able to effectively manage conflicting stakeholder needs</li>
-</ol><div>
-<br>You also approach work in a way that emphasizes our values:</div><ul>
-<li>🧑‍🤝‍🧑 #PeopleFirst: We put people first, and care about the personal well being of our colleagues. We go above and beyond for our customers and each other.</li>
-<li>⛰️ #EmbraceAdventure: We are excited to take on new challenges, grow, and change in a fast changing environment. A willingness to pitch in and get outside of your comfort zone will help us thrive.</li>
-<li>🚀 #Innovate to be Great: We're creative, innovative, &amp; think BIG! We’re a unique company blazing our own path. We got to where we are through creativity and innovation and are only confined by our notions of what is possible.</li>
-<li>🙋‍♀️ #Win or Lose, Wear It: Celebrate your successes but also own your failures.</li>
-<li>🤝 #Stronger Together: We are a team dedicated to collaboration and transparency. We keep lines of communication open and realize that we can only win if we work together.</li>
-</ul><div>
-<br><strong>Benefits<br></strong><br>
-</div><div>WHAT WE OFFER:<br><br>
-</div><ul>
-<li>🏡 Fully remote - work where you want.</li>
-<li>🕰 Flex hours - we just ask you be available for core meetings</li>
-<li>📈 Equity options</li>
-<li>🌏 Unlimited PTO policy - we mean it and encourage you to take it.</li>
-<li>🩺 Medical, Dental, Vision Benefits (US-85% medical, 75% dental &amp; vision; 25% for dependents)(International-stipend)</li>
-<li>💝 Health and Wellness $250 monthly stipend</li>
-<li>🖥 Home office budget or co-working space allowance</li>
-<li>🌱 Learning and Development Support</li>
-<li>💰 401k options - US only (we hope to have a match soon)</li>
-<li>👨‍👨‍👧‍👧 Work with an Amazingly Fun and Collaborative Team!!</li>
-</ul><div>🌈 We support DEIB initiatives and strongly encourage women and those in traditionally underrepresented groups to apply even if you don’t check all boxes. If this job interests you and you think you have what it takes, please still get in touch. We'd love to have a chat and see if you could be a great fit.<br><br>
-</div><div>🏆 Fun Fact: Slate was named to Fast Company's list of the World’s Most Innovative Companies for 2022 as No. 2 in the video category!<br><br>
-</div><div>👉 View our our website: <a href="https://slateteams.com/">https://slateteams.com</a> for more information about us!<br><br>
-</div><div>… WE LOOK FORWARD TO HEARING FROM YOU.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/slate-product-manager">https://weworkremotely.com/remote-jobs/slate-product-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Facet Wealth</h5>
-                    <h3> Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>150 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/facet-wealth-product-manager" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Baltimore, MD
-    <br /><strong>URL:</strong> <a href="https://facetwealth.com">https://facetwealth.com</a>
-</p>
-
-<div>Facet is a fully remote FinTech company with a mission to empower people to live more enriched lives by delivering a new standard of financial advice that elevates expectations across consumers and the industry.<br><br>
-</div><div>We believe that unbiased, personalized financial advice that integrates into every facet of life is essential to living well. People’s financial lives are dynamic and ever-evolving, so we cover everything money touches–from starting a business to buying real estate to your investments and much more. Facet believes financial advice should be delivered with a fresh, human-plus-tech approach, that includes a CFP® professional–the highest certification possible.<br><br>
-</div><div>
-<strong>The Role:</strong><br>As a <strong>Product Manager</strong>, you will live out this value each day as you work to develop and execute on strategic product roadmaps for our investment product  to maintain Facet’s status as a premier, industry disrupting product. This role will have you be both a critical thought leader and hands-on creator for our Product team.<br><br>
-</div><div>
-<strong>Day-To-Day Responsibilities:<br></strong><br>
-</div><ul>
-<li>Collaborate cross-functionally with multiple stakeholders to develop clear and precise product roadmaps to ensure our continued development of existing products as well as new products</li>
-<li>Develop requirements and determine priorities for implementations and improvements four our investment product</li>
-<li>Monitor and review KPIs to understand product performance </li>
-<li>Use data to make informed decisions and communicate those decisions to non-technical stakeholders</li>
-<li>Develop compelling arguments to advocate for the value product updates will create for the company</li>
-</ul><div>
-<strong>Basic Qualifications:<br></strong><br>
-</div><ul>
-<li>5+ years of relevant Product experience in financial services and/or investment products</li>
-<li>Demonstrated expertise following the full product lifecycle from requirements gathering through delivery</li>
-<li>Experience working with engineering and product teams focusing on data &amp; code-driven products</li>
-<li>Experience communicating technical requirements to non-technical audiences</li>
-<li>Professional experience using SQL strongly preferable </li>
-<li>Proven ability to be a strategic thinker and hands on problem solver</li>
-<li>Prior experience in fintech or similar industry is a plus</li>
-</ul><div>
-<strong>Perks &amp; Benefits<br></strong><br>
-</div><ul>
-<li>$100,000-$150,000 annual salary determined by the experience, knowledge, skills, and abilities of the applicant - Please note, our salary ranges are based on current market data. Should you feel strongly that we are not in line, we highly recommend you to reach out and let us know. We are always looking to improve on building the best place for employees.</li>
-<li>Equity </li>
-<li>Unlimited PTO</li>
-<li>All the benefits: medical, dental, and vision insurance, 401(k) with employer match, short and long term disability coverage (paid by Facet), life insurance options and paid parental leave</li>
-<li>Certification reimbursement program </li>
-<li>Work from anywhere in the US</li>
-</ul><div>
-<strong>Equal Opportunity Employer<br></strong><br>
-</div><div>We’ve consciously built an equitable and inclusive culture where everyone is welcome to bring their authentic selves to work. At Facet Wealth, we specifically look for individuals of varying strengths, skills, backgrounds, and ideas. We believe this gives us a competitive advantage to better serve our clients and employees.<br><br>
-</div><div>All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/facet-wealth-product-manager">https://weworkremotely.com/remote-jobs/facet-wealth-product-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/6658/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -355,7 +275,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>217 days ago</text>
+                <text>218 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/buildbook-senior-product-manager" align="right" target="_blank">Apply</a>
@@ -439,124 +359,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/buildbook-senior-product-manager">https://weworkremotely.com/remote-jobs/buildbook-senior-product-manager</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1367600/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Medely</h5>
-                    <h3>Lead Product Manager - Marketplace</h3>
-                </td>
-                <td width="300">
-                    <code>accounting,C,data science,product manager</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/lead-product-manager-marketplace-1367600" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><strong>THE COMPANY</strong></div>
-<div> </div>
-<div>Medely is the largest workforce management platform specializing in delivering healthcare professionals through an on demand marketplace. As an economic empowerment engine, Medely allows healthcare professionals instant access to high paying jobs with the freedom and flexibility to work when/where they want, while providing healthcare facilities access to the largest on-demand network of ready to work healthcare professionals.</div>
-<div> </div>
-<div>We believe that empowering healthcare professionals will bring more open, efficient, and increasingly higher quality to patient care. We are a team of sharp, entrepreneurial individuals who are redefining the way healthcare staffing is done. We are currently looking for candidates to join our growing team who share our enthusiasm for tackling today’s toughest challenges in healthcare.</div>
-<div> </div>
-<div><strong>HIGHLIGHTS</strong></div>
-<div> </div>
-<div>- Founded in 2016 and having recently secured their Series C, Medely is facing explosive growth in a $<a class="postings-link" href="http://3.65" rel="nofollow">3.65</a> trillion U.S. healthcare market ripe for tech disruption (Forbes, 2019).</div>
-<div>- Medely’s staffing platform provides high quality, on-demand professionals to more than four thousand healthcare facilities in over 50 U.S. markets. Their network boasts over 90,000 selectively vetted and credentialed healthcare professionals including nurses, medical assistants, technicians, and specialists.</div>
-<div>- Medely has consistently exceeded growth goals and is excited to continue the momentum in 2022!</div>
-<div> </div>
-<div><strong style="">The Opportunity</strong></div>
-<div><span style="">Medely’s vision to transform how healthcare works is only realized if professionals (supply side) can seamlessly connect with facilities (demand side) through our on demand marketplace. The Marketplace Dynamics team is the connecting tissue that sits at the intersection of many teams at Medely (Pros, Facilities, internal Ops &amp; Sales teams, etc). You will be responsible for product vision and strategic decisions that impact multiple lines of business and will require a deep understanding of each team's requirements and business priorities. As the Lead Product Manager responsible for this charter, you will set the vision across Matching &amp; Pricing, and execute on it. You will help answer business critical questions like - how do we ensure and improve on an industry leading fill rate, how can we create the best match between a Pro and assignment, what should be the key elements of our pricing strategy, how should we think about dynamic pricing, what levers do we use to maintain a balanced marketplace, how should we think about trade-offs across all dimensions including reliability vs convenience vs quality. You will operate as a key thought leader and decision-maker across both business and tech, and will work with a broad set of cross-functional partners across sales, operations, engineering, data science, design, and more!Our ideal candidate for this role will be someone who thrives in a fast-paced environment, is motivated by challenging problems and constraints, and is passionate about great user experiences, scaling through technology, and combining quantitative and qualitative data to guide decision-making. </span></div>
-<p><br><br></p>
-<div class="h3">What you will do:</div>
-<ul>
-<li>Set a multi-year roadmap to make Medely the most reliable and efficient labor marketplace, while maintaining and enhancing marketplace health</li>
-</ul>
-<ul>
-<li>Innovate on matching improvements ranging from optimizing the matching of complex job types to appropriate supply types, to crafting a world class discovery experience for pros</li>
-</ul>
-<ul>
-<li>Set our pricing strategy accounting for more predictable and less predictable changes in supply and demand and to craft and influence customer behaviors</li>
-</ul>
-<ul>
-<li>Define and build the levers to balance the marketplace across all vectors</li>
-</ul>
-<ul>
-<li>Own and lead the end-to-end product development process of major features and iterations, including creating high quality PRDs, working closely with engineering, design, etc. to bring world class products to market</li>
-</ul>
-<ul>
-<li>Monitor and measure launched products and feed insights back into the product development process</li>
-</ul>
-<ul>
-<li>Own your numbers, drive your cross-functional team of engineers, designers, etc. to set qualitative objectives and quantitative goals - challenging all members to think ambitiously and creatively - and overachieve them</li>
-</ul>
-<ul>
-<li>Distill vision and strategy for the team, rally all members of the cross-functional team</li>
-</ul>
-<ul>
-<li>Clearly communicate product plans, benefits, and results to stakeholders</li>
-</ul>
-<p><br><br></p>
-<div class="h3">What we are seeking:</div>
-<ul>
-<li>6+ years of PM or similar experience developing successful consumer products</li>
-</ul>
-<ul>
-<li>Experience partnering closely with engineers and data scientists to launch analytically rigorous, algorithmic, or data products</li>
-</ul>
-<ul>
-<li>Experience with a marketplace business is a plus</li>
-</ul>
-<ul>
-<li>Strong customer compassion, and the ability to blend user research with data to build a prioritized product roadmap. Data driven. You always get the data you need, and you can distill it into an insightful story. Most importantly, you use data to drive strategic decisions. </li>
-</ul>
-<ul>
-<li>Technical skills. Don’t have to have a Computer Science degree, but the ability to inform and evaluate engineering decisions</li>
-</ul>
-<ul>
-<li>The ability to zoom out and think strategically and execute methodically</li>
-</ul>
-<ul>
-<li>Superior verbal and written communications skills</li>
-</ul>
-<ul>
-<li>The ability to work in a fast-paced startup environment where continuous innovation is desired</li>
-</ul>
-<ul>
-<li>A willingness to roll up your sleeves and do whatever is necessary; general manager / owner mentality</li>
-</ul>
-<div>In accordance with Colorado's Equal Pay for Equal Work Act, the expected base salary range for this role in Colorado is $155,000 to $195,000.</div>
-<div>This position may be eligible for additional compensation and benefits including: equity, bonus, health benefits; flexible spending account; retirement benefits; life insurance; paid time off (including PTO, paid sick leave, medical leave, floating holidays and paid holidays); and parental leave and benefits. Actual compensation will be determined by experience and other factors permitted by law. Connecticut, Ohio, Rhode Island, Nevada, NYC, Maryland and Washington all have compensation laws typically requiring that the compensation is disclosed after the first round of interviews.</div>
-<div> </div>
-<div><strong style="">WHY MEDELY: </strong><span style="">BENEFITS &amp; PERKS</span></div>
-<div> </div>
-<div>- Competitive Compensation: Based on experience and performance</div>
-<div>- Long Term Incentives: 401k</div>
-<div>- Healthcare Benefits: Full suite of benefits including medical, dental, and vision insurance</div>
-<div>- Flexibility: We believe that work/life balance is important, so we offer three weeks of vacation and ten paid holidays</div>
-<div>- Energetic team environment</div>
-<div>- Purpose: Join a growing mission-oriented startup that is modernizing the healthcare industry on a national scale!</div>
-<div>- Ownership: Drive meaningful business impact on a team that you’ll help build and define!</div>
-<div>- Remote: Work in a digital environment with all the tools to achieve your work as though you were in the office!</div>
-<div> </div>
-<div> </div>
-<div><em>We're an equal opportunity employer to all. We interview and hire applicants of all backgrounds, orientations, expressions, and identities.</em></div>
-<div> </div>
-<div><em style="">Work location is flexible if approved by Medely.</em></div>
-<div><em> </em></div>
-<div><em>Medely does not accept unsolicited resumes from agencies. We consider any resume (CV) or biography received from an agency or outside recruiter without prior approval from a member of the Medely Human Resources or Recruiting team to be unsolicited and gratuitous, and such submissions will not be recognized by Medely for purposes of “ownership” of the candidate. </em></div>
-<div> </div>
-<div><em>We are an E-Verify company.</em></div>
-<img src="https://remotive.com/job/track/1367600/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
