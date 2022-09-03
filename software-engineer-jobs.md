@@ -10,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-sr-software-engineer-data-engineer-golang-kafka" align="right" target="_blank">Apply</a>
@@ -63,7 +63,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>180 days ago</text>
+                <text>181 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-blockchain-integrations-1" align="right" target="_blank">Apply</a>
@@ -121,7 +121,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>180 days ago</text>
+                <text>181 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-golang-2" align="right" target="_blank">Apply</a>
@@ -166,6 +166,65 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/2645/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Iterative</h5>
+                    <h3> Senior Software Engineer - Open Source, Dev Tools, Core</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>630 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/iterative-senior-software-engineer-open-source-dev-tools-core" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/2645/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco
+    <br /><strong>URL:</strong> <a href="http://dvc.org">http://dvc.org</a>
+</p>
+
+<h1><strong>## TLDR</strong></h1><div>We’re seeking a senior core, distributed systems engineers to build dev tools. Join our well-funded remote-first <a href="https://dvc.org">DVC</a> team if you love building open source, developer tools, and CLI. If you want to see how your code is used by thousands of developers every day! If you don't mind Python.<br><br><br><strong>What we offer:</strong>
+</div><ul>
+<li>Team is <strong>distributed remotely worldwide</strong>.</li>
+<li>DVC core is still small - 4 folks. You will be one of the first employees and can drive major parts of the product.</li>
+<li>Highly <strong>competitive salary</strong>, stock options, and bonuses.</li>
+<li>
+<strong>Open source-first</strong> company- you work will be visible and will be used by thousands developers every day! This feels great! Check out our Discord and GitHub.</li>
+<li>Founders and team with strong engineering, data science, and open source experience. We all code and understand engineering first-hand.</li>
+<li>Engineering team is involved into product discussions and planning. We do it openly via <a href="https://github.com/iterative/dvc">Github</a> or <a href="http://dvc.org/chat">Discord chat</a>
+</li>
+<li>Besides building the product we participate in conferences (PyCon, PyData, O'Reilly AI, etc). We encourage and support the team in giving talks, writing blog-posts, and other activities.</li>
+<li>Well-defined process that we all participate in improving.</li>
+</ul><div><br></div><h1><strong>## About you</strong></h1><ul>
+<li>Passionate about building highly reliable system software<br>At least one year of experience with file systems, concurrency, multithreading, and server architectures</li>
+<li>Initiative to help shape the engineering practices, products, and culture of a young startup</li>
+<li>
+<strong>Remote work self-discipline.</strong> A lot of our processes are built on trust- we don't like and don't have time to micro-manage</li>
+<li>
+<strong>Python knowledge</strong> and excellent coding culture (standards, unit test,  docs, etc) are required. Alternatively very strong experience with languages like Go, C, Rust + some experience with Python).</li>
+<li>
+<strong>Remote work self-discipline.</strong> A lot of our processes are built on trust- we don't like and don't have time to micro-manage</li>
+<li>
+<strong>Excellent communication skills</strong> - clear, constructive, and respectful dialog  with other team members, community</li>
+<li>
+<strong>Ability to write technical docs</strong>, blogs. Team is responsible to keep basic docs up to date</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/iterative-senior-software-engineer-open-source-dev-tools-core">https://weworkremotely.com/remote-jobs/iterative-senior-software-engineer-open-source-dev-tools-core</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1187416/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -176,7 +235,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -244,7 +303,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -296,45 +355,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/20/05/Newsela.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Newsela</h5>
-                    <h3>Senior Software Engineer, Recommendations</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J113389/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                The Role:
-You will be part of a new organization called “Content Discovery” that focuses on helping the teachers and students to find the right content at the right time and at the right level. You will be working on our Recommendations teams that fo …
-<p><strong>The Role:</strong></p>
-<p>You will be part of a new organization called “Content Discovery” that focuses on helping the teachers and students to find the right content at the right time and at the right level. You will be working on our Recommendations teams that focusses on helping teachers and students with recommending personalized content thats tailored to their needs. As part of your job, you will work with data scientists, product managers, other engineers on our frontend and backend teams to delight our users with amazing feature launches. You will use cutting edge techniques to improve our personalization efforts, which is a new endeavor to delight our teachers and students in finding content thats tailored to their specific needs.</p>
-<p><strong>Why You’ll Love This Role:</strong></p>
-<p>You’ll be joining a newly formed team and collaborating with Senior and Principal engineers and other stakeholders to help shape the future of K-12 education. Using cutting edge techniques to build our recommendation engine, your work will directly impact our platform’s ability to serve the content teachers and students are looking for, and enable discovery of engaging, relevant content that further enriches the learning experience in K-12 classrooms nationwide. And because we're a technology company focused on improving the way students learn, you’ll be part of an engineering culture that values teaching, learning, and questioning.</p>
-<p><strong>Why We’ll Love You: </strong></p>
-<p>You have multiple years of experience in building, working and improving ML algorithms. You are enthusiastic and you revel in dealing with ambiguity. You have a high bias for action and you actively look for areas to improve, whether it be in improving personalization across the product  or in reducing latency or in improving code quality. You understand the tradeoffs between over-engineering vs thinking too small and are comfortable in making the case for when to do what. You are comfortable working with cross functional teams and can advocate for the customer. </p>
-<p><br/>You know how to find a shared language between product managers, data scientists, and software developers. You balance your engineering expertise with a product mindset, always digging for the underlying user and system <em>needs</em>, rather than simply settling for surface-level “requirements.” Your passion for complex technical problems is matched by your excitement to lead a team through large, multi-faceted technical projects. You can seamlessly distinguish and delegate responsibilities, set success criteria for projects, and coach teammates with a high level of organizational awareness to ensure each team member is growing and developing professionally.</p>
-<p><strong>About Newsela:</strong></p>
-<p>One of the fastest growing tech companies in K-12 education, Newsela was founded on the principle that while every child may have unique learning preferences, they all deserve a rich learning experience that ignites a love of learning. We built our platform based on learning science research to deliver the most engaging, authentic content to modernize how teaching happens in the classroom. Along with interactive assessments and tools, we provide teachers with digital content at five reading levels -- from +100 of the best sources -- that is relevant to the diverse backgrounds and interests of their students. Since we started in 2013, we’ve established a presence in 90% of U.S. K-12 schools and over 2.5M teachers and 37M students have registered with Newsela.</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://freshremote.work/media/company/logo/20/05/mural.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>MURAL</h5>
-                    <h3>Staff Software Engineer</h3>
+                    <h3>Software Engineer, Canvas Facilitation</h3>
                 </td>
                 <td width="300">
                     <code>Full Time</code>
@@ -343,7 +368,7 @@ You will be part of a new organization called “Content Discovery” that focus
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J113412/" align="right" target="_blank">Apply</a>
+                <a href="https://freshremote.work/J113954/" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -356,38 +381,34 @@ MURAL created the Collaborative Intelligence System™ to power cultures of effe
 <h2 class="Theme__P-sc-1tezyi0-2 THRES"><strong>MURAL’s mission is to inspire teams to connect and innovate, while bringing purpose and intention to the craft of collaboration</strong>.</h2>
 <p>MURAL created the Collaborative Intelligence System™ to power cultures of effective collaboration where everyone is connected, contributing, and empowered to deliver business-driving outcomes.</p>
 <p>Founded in 2011, MURAL is a leading innovator in visual collaboration for hybrid, remote, and distributed teams. We believe in what we build, and our team of more than 900 “MURAListas” around the world collaborate in the MURAL® app. Our values guide our intentionally inclusive product and culture, which includes collaboration design education and a flexible monthly stipend for learning, wellness, and coworking.<br/><br/>MURAL has raised $200M to date and is growing rapidly to fulfill our mission. The company is trusted by 95% of the Fortune 100, including innovative teams at IBM, Intuit, GitLab, Microsoft, and Atlassian.</p><h3>YOUR MISSION</h3>
-<p>As a Staff Software Engineer on our Platform Ecosystem team, our platform will evolve organically by developing our APIs and other capabilities and tools, which allow internal and external developers to connect Mural with other apps and platforms. This will also help us expand globally and increase our extensibility. In this role, you will grow our business by crafting and advocating tools that improve that efficiency and extensibility.</p>
-<p>We believe that enabling our Product teams, Customers, Partners, and an ecosystem of developers to create new features more efficiently, safely, and with new capabilities will unlock new imagination workflows to drive enterprise transformation at scale.</p>
+<p>As a Full Stack Engineer, you will help grow our business by developing features that power our cutting-edge visual collaboration app. You will be working with a team of dedicated engineers, designers, and product managers. You will drive improvements to our product offering, helping all our customers collaborate more effectively. </p>
+<p>Our belief is simple: delivering great quality features as a team effort.</p>
 <p><strong>In this role, you will:</strong></p>
 <ul>
-<li>Help design team’s architecture and advocate for sound building principles.</li>
-<li>Work big picture and detail oriented towards shaping the final product.</li>
-<li>Pair and collaborate across teams, focusing on product and engineering efficiency through creating tools, abstractions, layers, connectors, and libraries designed for usability, performance, and security.</li>
-<li>Be an advocate for new technologies, methods, and approaches to solving problems and achieving product goals.</li>
-<li>Provide well-considered, complete, intuitive documentation, guides, and examples to support adoption.</li>
-<li>Understand our goals as a platform product and translate them into tangible, measurable artifacts.</li>
-<li>Identify industry trends to support Product Management in prioritizing solutions.</li>
+<li style="font-weight: 400;">Be a part of building a product and adding value to it, owning what you do and seeing it evolve.</li>
+<li style="font-weight: 400;">Understand user requirements and pain points to be able to help solve them.</li>
+<li style="font-weight: 400;">Collaborate with QA engineers, product managers, designers, and the data team.</li>
+<li style="font-weight: 400;">Have a strong sense of teamwork and collaboration. We strongly encourage doing pair programming and code reviews!</li>
+<li style="font-weight: 400;">Be a problem solver, use your resources to work autonomously, and bring new ideas to our work by sharing your particular experience and knowledge.</li>
+<li style="font-weight: 400;">Generate experiments, test them with production users, analyze, repeat</li>
+<li style="font-weight: 400;">Be part of tech designs and talks, helping level up others around you</li>
 </ul>
 <h3>YOUR PROFILE</h3>
 <ul>
-<li>At least 2 years of Staff or Lead experience.</li>
-<li>Able to mentor Junior to Senior developers and has a passion for putting the engineer first.</li>
-<li>Has designed systems that are used in large-scale production environments.</li>
-<li>5 years of experience with Javascript development (bonus: Typescript), NodeJS, Express, building APIs, and building SDK.</li>
-<li>Experience with React and other similar frameworks.</li>
-<li>Deep understanding of distributed systems, patterns, and practices related to building fault-tolerant and performant services and applications.</li>
-<li>Excellent architectural team collaboration.</li>
-<li>Has taken code from idea to production on their own.</li>
-<li>You impact our product self-sufficiently and deliver without hand-holding.</li>
-<li>You love to remove toil and strive for automation in the average developer’s work.</li>
-<li>An undying concern about DX and a desire to build the best possible experience.</li>
-<li>Focus on quality; you build quality in your products and actively participate in setting the standard in your team.</li>
-<li>Strive to experiment with different solutions based on user feedback.</li>
-<li>Excellent command of English, both written and verbal.</li>
-<li>A degree in computer science or relevant work experience.</li>
-<li>Independently work from anywhere, meeting your teammates virtually on our collaboration platform.</li>
+<li style="font-weight: 400;">You have 2 or more years of relevant professional experience in a similar position. </li>
+<li style="font-weight: 400;">You are proficient in building pixel-perfect user interfaces, ideally, experience with ReactJS and TypeScript.</li>
+<li style="font-weight: 400;">You have some experience with the backend, ideally with our tech stack - MongoDB and Node.js.</li>
+<li style="font-weight: 400;">You have experience with Git.</li>
+<li style="font-weight: 400;">You know how to collaborate with others to achieve a common goal</li>
+<li style="font-weight: 400;">You can analyze problems and recommend solutions</li>
+<li style="font-weight: 400;">You have an excellent command of English, both written and verbal</li>
+<li style="font-weight: 400;">You have a bias for action</li>
 </ul>
-<p>#LI-Remote #LI-MB1</p><p>Please submit your resume in English.</p>
+<h4><strong>Ideally you have...</strong></h4>
+<ul>
+<li>Experience with JS testing and code analysis frameworks like Mocha, Istanbul, ESLint, and Jasmine.</li>
+</ul>
+<p>#LI-Remote #LI-ABW1</p><p>Please submit your resume in English.</p>
 <h3>WHAT WE OFFER</h3>
 <p>In addition to being part of our quest to help people empower their imagination, we offer:</p>
 <ul class="p-rich_text_list p-rich_text_list__bullet" data-border="0" data-indent="0" data-stringify-type="unordered-list">
