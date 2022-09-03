@@ -1,26 +1,26 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/img/jobs/9fee523d1a300d17fd7a63052facd9131660766206.png" width="38px" height="auto">
+                    <img src="https://remoteOK.com/assets/logo-square.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Coconut Software</h5>
+                    <h5>Chartbeat</h5>
                     <h3>
-					DevOps Engineer				</h3>
+					Senior DevOps Engineer				</h3>
                 </td>
                 <td width="300">
-                    <code>dev, devops, infosec</code>
+                    <code>frontend, react, devops</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/112127" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/jobs/112309" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><span style="font-weight: 400;">Coconut Software is looking for an ambitious DevOps Engineer to be a key contributor in our infrastructure game. In joining our growing team, the DevOps Engineer will be an integral part of site reliability at Coconut. They will be responsible for implementing and delivering innovation to the CI/CD pipeline. Security is at the heart of our culture and the DevOps Engineer will document and practice the highest security standards to deliver key initiatives. This role is perfect for a self-starter who is keen to operate with minimal supervision within our highly collaborative environment.Â  </span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;"><br></span><span style="font-weight: 400;">We donât expect people to fit into neat little boxes. We are looking for curious and empathetic people who are driven by a need for continuous learning and growth. We are excited to continue to scale on our path to success by building a diverse and inclusive team. </span><span style="font-weight: 400;">Weâre pretty passionate about what we do weâre looking for people as passionate about their work as we are!Â </span></p><h3><span style="font-weight: 800;">YOU ARE FIRED UP TO:</span></h3><ul><li style="font-weight: 400;"><span style="font-weight: 400;">Work within a team of like-minded professionals to plan, deploy, and maintain critical business applications.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Apply your strong experience of DevOps engineering best practices.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Apply your strong expertise in Kubernetes, focussed on the development and maintenance of our Kubernetes cluster.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Support implementation of cloud products through architecture guidance, best practices, data migration, capacity planning, implementation, troubleshooting, monitoring, backups, etc.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Understand how IT operations are managed, identify recurring issues, and work with IT & Business partners to remediate using the problem management process.Â </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Utilize various open source technologies and tools to orchestrate solutions.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Write scripts and automation using Perl/Python/Groovy/Java/Bash.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Configure and manage data sources like MySQL.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Manage source control including SVN and GIT.</span></li></ul><h3><span style="font-weight: 800;">WHAT YOU BRING TO THE TEAM</span></h3><ul><li style="font-weight: 400;"><span style="font-weight: 400;">Bachelorâs Degree or equivalent experience required.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Located or ability to work in an Eastern timezone is preferredÂ Â </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">At least 3+ years of hands-on experience as an SRE or Devops Engineer.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Demonstrated experience with Kubernetes, working in a DevOps environment.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Previous experience with: Kubernetes, Cloud, and CI/CDÂ </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Strong background in Linux / Unix Administration.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">A working understanding of code and script (PHP, Python, Perl and/or Ruby).</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Have an understanding of server architecture, DNS, ipv4/ipv6, acl.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Strong critical thinker with problem solving aptitude.Â </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Unending curiosity and passion for continuous learning.Â </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">MariaDB, Elastic Search, Redis.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Must have proficient Oral and Written English language and good communication skills.</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Bonus: General banking knowledge or knowledge related to Wealth Management / Private banking.</span></li></ul>
+                About UsChartbeatâs (www.chartbeat.com) mission is to help content creators around the world better connect with their audiences. Leading media brands â including The New York Times, ESPN, the Washington Post, the BBC, and CNN â trust our suite of analytics and optimization tools to understand digital audience behavior and strengthen their content strategies. With a customer list of many of the worldâs largest websites, our systems are built to handle over 300,000 requests per second and deliver data back in real-time. You'll be joining a group of focused, hard-working, people who are passionate about doing work that's challenging and funâand who strive to maintain a healthy work/life balance.The TeamWe use an exciting array of technologies. Most of our backend code is written in Python, with a few systems in Clojure and C++. We use a variety of database technologies, including PostgreSQL, HBase, MongoDB, Redshift, and Redis. Everything is connected by message buses powered by Apache Kafka and RabbitMQ. Our frontend applications use React, React Native, Angular and rely on the Django framework for authentication. We are seeking a curious DevOps engineer to join us on this adventure by helping build and maintain the infrastructure for all core services that power our products and dashboards that newsrooms use to learn about and grow their audiences. As a member of a small team operating hundreds of machines on EC2, youâll have a material impact on our business and the ability to architect our future approaches to managing our infrastructure.Diversity, Equity, and Inclusion StatementAt Chartbeat, we strive to create and continually grow as a company where all employees are able to be their authentic selves. We are committed to recruiting, hiring, and retaining employees from different backgrounds, viewpoints, and experiences. Our strength is our diversity and we are dedicated to continuously reflect upon, and evolve our efforts to maintain a diverse, equitable and inclusive ecosystem.Equal Opportunity Employment StatementChartbeat is an Equal Opportunity Employer and does not discriminate on the basis of race, color, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by applicable national, federal, state, or local law.
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +35,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-devops-engineer-gcp-expert" align="right" target="_blank">Apply</a>
@@ -96,7 +96,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>92 days ago</text>
+                <text>93 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-devops-engineer-1" align="right" target="_blank">Apply</a>
@@ -152,7 +152,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1344659" align="right" target="_blank">Apply</a>
