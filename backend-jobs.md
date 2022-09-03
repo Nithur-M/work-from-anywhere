@@ -1,5 +1,138 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5898/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Baremetrics</h5>
+                    <h3> Senior Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/baremetrics-senior-backend-engineer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0077/5898/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://baremetrics.com">https://baremetrics.com</a>
+</p>
+
+<div>
+<strong>Senior Backend Engineer<br></strong><br>
+</div><div>$140k+<br><br>
+</div><div>
+<br><br>
+</div><div>As a senior backend developer at <a href="https://baremetrics.com/">Baremetrics</a>, you will be working on a variety of projects from payment provider integrations and data ingestion to metrics processing and user-facing features.<br><br>
+</div><div>We're a very small team with a huge bias for simplicity. You'll be working on projects, large and small, from inception to completion.<br><br>
+</div><div>We approach our work with focus and purpose in an environment of trust and autonomy. When we work on a difficult problem, we take the time to think through and research the possible solutions and then write an implementation plan. Sometimes that may also include some tinkering.<br><br>
+</div><div>
+<strong><br>The stack you’ll use<br></strong><br>
+</div><div>Baremetrics is built atop Ruby on Rails and PostgreSQL, and uses VueJS and Typescript on the frontend. You should feel comfortable exploring and learning new technologies and languages.<br><br>
+</div><div>
+<strong><br>The work to be done<br></strong><br>
+</div><div>We have interesting engineering challenges and exciting plans for the future of the product, much of which revolves around processing and finding insights in large data sets.<br><br>
+</div><div>Here are some examples of the type of problems you would work on:<br><br>
+</div><ul>
+<li>Implement new user-facing product features</li>
+<li>Investigate metric discrepancies reported by customers and fix them at the root cause</li>
+<li>Develop tooling to surface business insights across many terabytes of data</li>
+<li>Mentor junior programmers</li>
+</ul><div>
+<strong><br>About you<br></strong><br>
+</div><div>You have a strong track record of shipping great products using Ruby on Rails. You understand the language in depth. You should also be experienced in SQL query optimization and designing efficient schemas, as that's a big part of our core business logic.<br><br>
+</div><div>We expect you to be self-motivated and self-directed, a strong individual contributor, and a true "manager of one".  Much of our communication happens in writing. It is important that you are a good writer and effective communicator.<br><br>
+</div><div>
+<strong><br>The hiring process<br></strong><br>
+</div><div>There are a few stages in the hiring process. We know how nerve-racking applying for a new job can be and we want to make it as smooth and enjoyable as possible. We're looking to make an offer to someone no later than September 30.<br><br>
+</div><div>
+<strong>Stage 1: Initial application &amp; questions</strong> — You’ll send in your basic info and we’ll send over a few questions about your experience and skills.<br> <br>- <strong>Please send an email to allison@baremetrics.com introducing yourself and attach your resume!<br></strong><br>
+</div><div>
+<strong>Stage 2: Interviews</strong> — You’ll have a video interview with someone on the engineering team. You’ll then do a final video interview with our CEO to talk about company culture, benefits, perks, and the future of the company as well as to answer any questions you have.<br><br>
+</div><div>
+<strong>Stage 3: Job Offer</strong> — After consulting a few of your references, we’ll make an offer and hope that you’ll join the team!<br><br>
+</div><div>
+<strong><br>Benefits<br></strong><br>
+</div><ul>
+<li>Work from anywhere (we're 100% remote) but prefer a candidate that is located/works US timezones. </li>
+<li>Competitive salary ($140,000+)</li>
+<li>Flexible work hours</li>
+<li>Full health, vision &amp; dental insurance for you and your family</li>
+</ul><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/baremetrics-senior-backend-engineer-1">https://weworkremotely.com/remote-jobs/baremetrics-senior-backend-engineer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/6411/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TheoremOne, LLC</h5>
+                    <h3> Senior Backend Engineer - Python</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>780 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/theoremone-llc-senior-backend-engineer-python" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/6411/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Fully Distributed
+    <br /><strong>URL:</strong> <a href="https://theorem.co/">https://theorem.co/</a>
+</p>
+
+<div>Join our global team of 350+ craftspeople! We are a consultancy that solves business problems by designing and building highly complex custom software for the world's leading companies. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.</div><div><br></div><div>We are looking for a passionate and high experience Senior Developer to be a part of one of our cross-functional product development teams to help us build projects that delivers real value to our customers with new and improved features.</div><div><br></div><div>As Python Senior Engineer you will be taking ownership and start projects from scratch in one or more domains of our products and will work closely with other developers using cutting-edge open source frameworks, highly-available RESTful services and back-end systems.</div><div>About You</div><ul>
+<li>You have a strong Python engineering background. You had the opportunity worked on project from conception to delivery.</li>
+<li>You care about producing high quality solution using good engineering principles and practices.</li>
+<li>You want to take ownership, break down and tackle real problems while bringing value to real users.</li>
+<li>You are a great team player and communicator, you prefer over-communication rather than under-communicate</li>
+<li>You are a passionate technologist with the discipline to create and finish projects. You have opinions about your favorite open source projects, or perhaps you have contributed to some or started one of your own.</li>
+</ul><div><br></div><div>The technologies you and your team will work on:</div><ul><li>Python 3.6+, FaspAPI, pandas, SQLAlchemy, Alembic, PostgreSQL, requests, loguru</li></ul><div>Required Qualifications</div><ul>
+<li>5+ years of experience building clean, maintainable, and well-tested code</li>
+<li>You feel comfortable working with modern python technologies like FastAPI, Requests, etc.</li>
+<li>Working experience with FastAPI or other python frameworks</li>
+<li>Working experience with MongoDB or Postgres or MySQL, writing efficient queries, data modeling</li>
+<li>Previous experience collaborating on highly distributed teams</li>
+<li>Previous experience working within an Agile/Scrum environment.</li>
+<li>Possess a strong and reliable internet connection.</li>
+</ul><div>You will be successful when</div><ul>
+<li>You are able to hit the ground running within your area of expertise and are not afraid of challenges outside of it</li>
+<li>Thrive on collaborating with other team members and across disciplines</li>
+<li>You are happy to receive feedback and see it as an opportunity for reflection and improvement </li>
+<li>You are always learning - Whether you are learning to help your team and customer work through new concepts and technology </li>
+<li>You are astute, you know when to push an issue and when to let things lie</li>
+<li>You are friendly - you reach out to your teammates even if they aren’t on your project team</li>
+<li>You can work through ambiguity - you aren’t shy about asking questions to gain clarity</li>
+<li>Entrepreneurial and intrapreneurial - always on the lookout for new opportunities to improve the company externally and internally</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/theoremone-llc-senior-backend-engineer-python">https://weworkremotely.com/remote-jobs/theoremone-llc-senior-backend-engineer-python</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1368348/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +143,7 @@
                     <code>AWS,backend,business intelligence,docker</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineering-manager-1368348" align="right" target="_blank">Apply</a>
@@ -103,7 +236,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
