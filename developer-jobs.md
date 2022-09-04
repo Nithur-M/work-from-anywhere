@@ -1,30 +1,5 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/cf6b9836c295b2b369aa5d9e0c4ee7271660968004.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Upshot</h5>
-                    <h3>
-					Developer Advocate				</h3>
-                </td>
-                <td width="300">
-                    <code>developer, nft, financial</code>
-                </td>
-                <td width="200">
-                <text>13 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/112161" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Upshot is the preeminent company providing appraisal services for NFTs and unique digital assets. Leveraging cutting-edge machine learning models, Upshot produces accurate, real-time appraisals for almost any NFT. Our products create a broad new frontier for NFT markets, enabling an entirely new class of financial primitives.We are a team of crypto-natives and ML experts, with deep experience working on some of the leading projects in Web3, and backed by the foremost funds and angels in crypto. At Upshot, we are committed to nurturing top talent looking to make an impact at the forefront of this new frontier.Developer relations is a highly visible and critical function. In this role, you will connect with, inspire, and educate developers on all the capabilities of Upshot. This is a full-time position.Â We are looking for a Developer Advocate to work alongside our engineers with our community. This is a unique opportunity for an engineer who wants to gain hands-on experience in a fast-growing tech industry and enjoys supporting developer teams. The ideal candidate likes writing, public speaking, documentation, and who is outgoing and enjoys educating others.Upshot is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/3487/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -35,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/innovation-upstream-inc-lead-golang-react-developer" align="right" target="_blank">Apply</a>
@@ -100,7 +75,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/thoughtbot-senior-react-native-developer-remote" align="right" target="_blank">Apply</a>
@@ -154,167 +129,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6597/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Aldrin</h5>
-                    <h3> Lead Back-End Developer Node.js Web3 (Remote)</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/aldrin-lead-back-end-developer-node-js-web3-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6597/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Europe
-    <br /><strong>URL:</strong> <a href="https://aldrin.com">https://aldrin.com</a>
-</p>
-
-<div>
-<strong>Please Note: </strong>This is a<strong> remote </strong>position<strong>.</strong> Aldrin Labs is a fully remote company. We are interested in capturing the best talent, no matter where you live.<br><br>
-</div><div>
-<strong>The Role<br></strong><br>
-</div><div>We’re looking for a Senior Back-End Developer skilled in designing, building, and deploying highly secure, scalable, and maintainable backend services for the Aldrin decentralized exchange.<br><br>
-</div><div>You will:<br><br>
-</div><ul>
-<li>Develop backend service for Aldrin’s new products, including but not limited to our centralized and decentralized exchange platform, as well as other internal applications as necessary</li>
-<li>Work closely with traders and Aldrin developers and have the opportunity to improve your knowledge of building high-performance scalable applications, understand broader system architecture and understand the cryptocurrency market</li>
-<li>Be passionate about the crypto markets, blockchain technology, and decentralized applications.</li>
-</ul><div><br></div><div>
-<strong>Minimum Requirements:<br></strong><br>
-</div><ul>
-<li>Professional experience in <strong>Node.js of 5+ years</strong>
-</li>
-<li>Professional experience programming in <strong>Golang</strong>
-</li>
-<li>Strong experience in Express.js, Docker, <strong>Kubernetes</strong>
-</li>
-<li>Significant professional experience programming in Typescript</li>
-<li>Development experience on <strong>cloud computing platform (AWS)</strong>
-</li>
-<li>Experience working with a large codebase, distributed teams</li>
-<li>Experience with NoSQL and RDBMS database systems such as PostgreSQL, MySQL, or MongoDB</li>
-<li>Strong understanding of database schema design</li>
-<li>Strong understanding of networking concepts (load balancers, routers, etc.)</li>
-<li>Experience with high load applications (1000 RPS), performance tuning experience</li>
-</ul><div>
-<br><strong>Nice-to-Haves:</strong>
-</div><ul>
-<li>Experience working with a large codebase</li>
-<li>A proactive team player with strong problem solving capabilities</li>
-<li>Passionate about the cryptocurrency market and developing apps using blockchain (e.g. web3.js)</li>
-<li>BS in Computer Science or equivalent</li>
-</ul><div>
-<br><strong>Benefits:</strong>
-</div><ul>
-<li>Competitive salary + equity/tokens</li>
-<li>Remote work in a dynamic, fast-growth Web3 startup</li>
-<li>Flexible working hours</li>
-<li>Opportunity to work with a diverse, global, and passionate team</li>
-<li>Collaboration with leading projects and thought leaders in the crypto space</li>
-</ul><div>
-<em>At Aldrin Labs, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.<br></em><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/aldrin-lead-back-end-developer-node-js-web3-remote">https://weworkremotely.com/remote-jobs/aldrin-lead-back-end-developer-node-js-web3-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/6479/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Liquid Web Family of Brands</h5>
-                    <h3> WordPress Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/liquid-web-family-of-brands-wordpress-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/6479/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Lansing, MI
-    <br /><strong>URL:</strong> <a href="https://www.liquidweb.com/">https://www.liquidweb.com/</a>
-</p>
-
-<div>We are looking for a WordPress developer to join our iThemes team. The engineer will be responsible for developing code that can withstand high profile sites and intense loads. You will collaborate with a cross-functional team to architect and develop durable, extensible, and secure code. This role requires advanced to expert PHP, advanced to expert level in the frontend stack CSS and JS, impeccable WordPress experience; and solid MySQL, automated testing, and CLI skills.<br><br>
-</div><div>This is a remote position with a flexible schedule.<br><br>
-</div><div>
-<br><strong>As a WordPress Developer you would:</strong>
-</div><ul>
-<li>Develop new software solutions and maintain existing applications</li>
-<li>Work with stakeholders to understand requirements and objectives</li>
-<li>Create, review, and update technical documentation</li>
-<li>Keep apprised of relevant new technology and best practices</li>
-<li>Write tests to validate code function</li>
-<li>Execute bug fixes</li>
-<li>Measure results of implemented solutions</li>
-<li>Participate in troubleshooting/triaging of issues and document them appropriately</li>
-</ul><div>
-<br><strong>You Have:</strong>
-</div><ul>
-<li>5+ years Experience in the WordPress space</li>
-<li>Thorough knowledge of MySQL</li>
-<li>Basic knowledge of the product development life cycle</li>
-<li>Exceptional organizational and communication skills</li>
-<li>Skilled at crafting modern PHP (ex: autoloading, dependency management, dependency injection, templating libraries, automated testing, OOP, and/or frameworks like Symfony or Laravel, etc.)</li>
-<li>Mid to advanced level vanilla JavaScript experience (including experience with webpack, babel, and ES2015+ syntax)</li>
-<li>Exceptional HTML &amp; CSS (including experience with PostCSS or Sass and BEM) skills</li>
-<li>Comfortable working in a Linux environment</li>
-<li>A passion for improving software/systems</li>
-<li>Ability to work remotely with little-to-no supervision</li>
-</ul><div>
-<br><strong>Bonus Points for:</strong>
-</div><ul>
-<li>Experience with developing blocks for the Block Editor</li>
-<li>Experience with continuous integration and automated deployment pipelines</li>
-<li>Experience with JS application frameworks</li>
-<li>Experience with server technologies like Redis or Elasticsearch</li>
-<li>Experience building sites that are accessible (you’ve worked with WAI-ARIA and done WCAG 2.0+ AA/Section 508 work) and performant (working knowledge of best practices)</li>
-<li>Experience in more advanced areas of JavaScript (state management; async operations; unit, snapshot, and integration testing; REST APIs)</li>
-</ul><div>
-<br><strong>We Offer:</strong>
-</div><ul>
-<li>100% Employer paid Benefits options - Medical, Dental, Vision, Prescription</li>
-<li>Traditional and Roth 401k with company matching</li>
-<li>A collaborative team culture</li>
-<li>Consistent/set work hours</li>
-<li>Challenging non-redundant daily duties</li>
-<li>A voice in how things get done</li>
-<li>Access to ongoing training</li>
-</ul><div>
-<br><strong>Disclaimer:<br></strong><br>
-</div><div>This job description is only a summary of the typical functions of the position. It is not intended to be an exhaustive or comprehensive list of all job responsibilities, tasks, or duties. Additional duties and tasks may be assigned as part of the job function. Liquid Web Inc. reserves the right to modify, interpret, or apply this job description in a way that best supports the organizational needs. The job description in no way creates or implies an employment contract. The employment contract remains “at will”.<br><br>
-</div><div>Equal Employment Opportunity Policy: Liquid Web is committed to offering equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/liquid-web-family-of-brands-wordpress-developer">https://weworkremotely.com/remote-jobs/liquid-web-family-of-brands-wordpress-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6573/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -325,7 +139,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/creative-noggin-web-developer" align="right" target="_blank">Apply</a>
@@ -415,81 +229,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/2835/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>KAPSYS</h5>
-                    <h3> Senior Front-End Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/kapsys-senior-front-end-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/2835/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Singapore
-    <br /><strong>URL:</strong> <a href="https://kapsys.ch">https://kapsys.ch</a>
-</p>
-
-<div>Looking for a Challenge? You will be crafting the Front end structure that will lead to optimal Product Adoption. Angular and React are your Swiss army knives that you know to use. Taking designs and enhancing them with your experience is what we would like you to do. You will be involved mainly in 2 Projects, Seobase.com and our Custom Insurance CRM, which is used in Switzerland by our partners.</div><div> </div><div>Kapsys is a fully remote powerhouse that delivers software solutions. Our main mission is to speed up the IT sphere by making next-generation omnichannel platforms. We challenge assumptions and speak up when we believe a client may be making a mistake. Good business practices and purpose-built teams ensure optimal outcomes for our clients.</div><div><br></div><div>Our continuous devotion to developing internal knowledge and collaborative processes allows us to solve problems that other people can't. </div><div><br></div><div>Want to join our Kapsys Team? Keep Reading!<br><br>
-</div><div><strong>What you'll bring:</strong></div><div><br></div><ul>
-<li>4+ years of experience in Front-End Development</li>
-<li>Proven experience leading Front-End teams</li>
-<li>Proficiency in working with GraphQL</li>
-<li>Solid experience in Angular</li>
-<li>Keen attention to detail</li>
-<li>Experience with version control — Git</li>
-<li>UX/UI design knowledge and conceptual thinking skills</li>
-<li>Upper-Intermediate English level </li>
-<li>Fast learning skills and proactivity</li>
-<li>Enthusiasm with a ‘can do will do’ attitude</li>
-</ul><div><strong><br>Nice to have:</strong></div><div><br></div><ul>
-<li>Bachelor's and Master's degree in Computer Science, Information Technology, Software Engineering, or related discipline</li>
-<li>Projects done in React</li>
-<li>Experience in GatsbyJs</li>
-<li>End2End testing frameworks</li>
-</ul><div> </div><div><strong>What will you do:</strong></div><ul>
-<li>Front-end development and maintenance of web apps</li>
-<li>Improve and maintain system architecture integrity</li>
-<li>Maintaining system security and integrity</li>
-<li>Process creation, documentation, and maintenance</li>
-<li>Debugging errors as they arise, adding user trace flags, and reviewing debug logs</li>
-<li>Other projects and assignments as needed</li>
-<li>Team leadership</li>
-</ul><div> </div><div><br></div><div>
-<strong>We offer - more than just a job</strong>:</div><ul>
-<li>100% remote work with the ability to work from anywhere</li>
-<li>Broad and advanced technology stack, massive opportunities to grow, learn, and advance your skills</li>
-<li>Excellent team communication and amazing cross-cultural team: you will collaborate with teammates from around the world and get to know new cultures</li>
-<li>Flexible schedule</li>
-<li>19 Paid Time Off days (PTO)</li>
-<li>Elevation plan available after your first year with us</li>
-<li>Company perks and recognition plan</li>
-<li>Competitive compensation depending on experience and skills</li>
-<li>Open-minded management, no bureaucracy, flat hierarchy</li>
-</ul><div>
-<br><br>
-</div><div><strong>Interview stages-step by step:</strong></div><div><br></div><ul>
-<li>1st stage - HR Interview</li>
-<li>2nd stage - Team Lead + CEO Interview</li>
-</ul><div><br></div><div><strong>Want to speed up the IT sphere with us? Then join our ride and apply now!</strong></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/kapsys-senior-front-end-developer">https://weworkremotely.com/remote-jobs/kapsys-senior-front-end-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5868/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -500,7 +239,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-back-end-developer-node-js-web3-remote" align="right" target="_blank">Apply</a>
@@ -577,7 +316,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>661 days ago</text>
+                <text>662 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -656,7 +395,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -733,7 +472,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -758,7 +497,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -783,7 +522,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -808,7 +547,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -833,7 +572,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -858,7 +597,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -883,7 +622,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
@@ -908,7 +647,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -955,7 +694,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -1024,7 +763,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -1235,7 +974,7 @@
                     <code>developer,drupal,growth,design</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
@@ -1250,73 +989,59 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1342094/logo" width="38px" height="auto">
+                    <img src="https://freshremote.work/media/company/logo/22/03/AkoyaNetwork.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Aldrin</h5>
-                    <h3>Senior React Native Mobile Developer Web3</h3>
+                    <h5>Akoya</h5>
+                    <h3>Product Manager - Developer Experience</h3>
                 </td>
                 <td width="300">
-                    <code>android,backend,crypto,developer</code>
+                    <code>Full Time</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-mobile-developer-web3-1342094" align="right" target="_blank">Apply</a>
+                <a href="https://freshremote.work/J113986/" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p> </p>
-<p><strong>The Role</strong></p>
-<p>We are looking for a <strong>Senior React Native Mobile Developer</strong> with extensive experience in designing, building, and deploying highly secure, scalable, and maintainable client-facing UI systems.</p>
-<p>You will be one of the senior developers of the mobile app working closely with our designers, product owners, and backend engineers to develop and maintain high-quality mobile applications for a global audience in an extremely fast-growing industry. We work with a modern tech-stack. We use Typescript, hooks, eslint, reanimated, automated CI and deployments, etc. We work with a design system and an updated figma design.</p>
-<p>If you are extremely passionate about mobile platforms and translating code into user-friendly apps, we would like to meet you. Ultimately, you should be able to help design and build the next generation of our mobile applications that will impact and shape the financial lives of a growing audience.</p>
-<p><strong> </strong></p>
-<p><strong>You will:</strong></p>
+                Meet the future
+Akoya is an API-based network backed by major financial institutions that creates a safer and more transparent way for people to safely send their personal financial data to third-party financial apps. If you are inspired and fascinat …
+<h3>Meet the future</h3>
+<p>Akoya is an API-based network backed by major financial institutions that creates a safer and more transparent way for people to safely send their personal financial data to third-party financial apps. If you are inspired and fascinated by innovative technology that solves complex, real-world problems, then join us as we transform how financial data is accessed and shared. Akoya offers a highly collaborative, fast-paced, and fun working environment and our team is comprised of diverse, creative, and driven professionals with expertise in the banking, securities, fintech, and data aggregation industries. We are an equal opportunity employer. Come join us and be part of this exciting journey – check out <a href="http://www.akoya.com/"><strong>www.akoya.com</strong></a> for more information!</p><h3><strong>The Role</strong></h3>
+<p>At Akoya, we are focused on helping third-party developers build applications and integrations to meet the needs of Data Providers and Recipients on our network. Delivering a best-in-class experience is an important priority for Akoya.</p>
+<p>You will oversee the strategy, priorities, road-map and delivery of services that ensure a rich Developer Experience for third-party developers using our platform. You will work with our most senior leaders in both engineering and product to establish the investment strategy for this area. Your responsibilities will help us to grow the Products and APIs we launch for third-party developers.</p>
+<p>If you're looking to impact the growth and direction of a company, you will find this role compelling and rewarding. This role will provide the opportunity to develop the overall strategy for Akoya’s API and developer facing tools.</p>
+<p>We’re looking for creative and curious product thinkers who can develop and grow a compelling vision for the future of Akoya’s API and overall developer experience</p>
+<p>You will: </p>
 <ul>
-<li>Contribute code to our iOS &amp; Android React Native apps from the get-go</li>
-<li>Work on integrating and collaborating with other crypto products to enrich the user experience</li>
-<li>Implement features with the aim to provide long term stability of a highly scalable application</li>
-<li>Developing clean and reusable react native components</li>
-<li>Actively contributing new ideas and innovative UX/UI patterns</li>
-<li>Play an active role in evolving our mobile engineering practices</li>
+<li>Create and execute the strategy for developer tools including SDKs, Sandbox, dashboard and technical documentation for Akoya’s platform.</li>
+<li>Take end-to-end responsibility for the product's success.</li>
+<li>Work with our engineering managers to guide delivery of this work.</li>
+<li>Excellent collaboration and communication skills - leading execution across Akoya and customers</li>
+<li>Apply a data-driven and qualitative approach in developing industry-leading products that uniquely serve Akoya's customers.</li>
+<li>Inspire your peers to build a partnership in delivering excellent products and services (which spans engineering, product, design and marketing teams).</li>
+</ul>
+<p>Actively participate in and be a thought leader in the open-source community around public platform engineering projects and well versed in industry best practices, patterns and tools.</p>
+<h3 data-renderer-start-pos="3295"><strong>Qualifications: </strong></h3>
+<p data-renderer-start-pos="3295">Not all applicants will have skills that match a job description exactly. Akoya values diverse experiences in other industries, and we encourage everyone who meets the required qualifications to apply. While having “desired” qualifications make for a strong candidate, we encourage applicants with alternative experiences to also apply. If your career is just starting or has not followed a traditional path, do not let that stop you from considering Akoya. We are always looking for people who will bring something new to the table!</p>
+<h3><strong>Required Experience/skills</strong></h3>
+<ul>
+<li>Experience working with APIs.</li>
+<li>A love of developer products and tools</li>
+<li>A strong understanding of the developer community</li>
+<li>Motivation to improve the lives of developers</li>
+<li>Strong written and verbal communication skills with a talent for precise articulations of developer problems</li>
+<li>You have experience managing technical software products from concept to commercialization</li>
+<li>You do whatever it takes to make your product and team successful whether that means writing a QA plan or hunting down the root cause of a user’s frustration</li>
+<li>You can turn incomplete, conflicting, or ambiguous inputs into solid action plans</li>
+<li>Beyond just shipping new products, you obsess about continuous product improvement</li>
 </ul>
 <p> </p>
-<p><strong>Minimum Qualifications:</strong></p>
-<ul>
-<li>Strong expertise in React Native with 3-5+ years of professional experience building high-quality mobile apps</li>
-<li>High-level experience with TypeScript</li>
-<li>Have experience with best-in-class client-side data design and management, whether that’s experience with GraphQL/ Apollo or other such tools</li>
-<li>Have a passion for good design and attention to detail. You’ll collaborate with designers but undoubtedly have the opportunity to express your own design sense if desired</li>
-<li>Verbal fluency in English</li>
-</ul>
-<p> </p>
-<p><strong>Nice-to-Have Qualifications:</strong></p>
-<ul>
-<li>Demonstrable portfolio of released applications on the App Store or the Android</li>
-<li>Passionate about crypto markets, blockchain technology, and decentralized applications</li>
-<li>Knowledge/experience working on mobile financial applications/cryptocurrencies/wallets</li>
-<li>Experience with Solana Web3 frameworks and technologies, especially on mobile</li>
-<li>Experience working with a large codebase and detox or appium testing tools</li>
-<li>Experience with responsive UI and debugging skills</li>
-<li>Experience developing high-performance mobile app interfaces</li>
-<li>Bachelors or Masters degree, preferably in Computer Science, Computer Engineering or other technical (STEM) field or an equivalent of experience</li>
-</ul>
-<p><strong> </strong></p>
-<p><strong>Benefits:</strong></p>
-<ul>
-<li>Competitive salary</li>
-<li>Remote work in a dynamic, fast-growth Web3 startup</li>
-<li>Flexible working hours</li>
-<li>Opportunity to work with a diverse, global, and passionate team</li>
-<li>Collaboration with leading projects and thought leaders in the crypto space</li>
-</ul>
-<p><em> </em></p>
-<p><em>At Aldrin Labs, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.</em></p>
-<img src="https://remotive.com/job/track/1342094/blank.gif?source=public_api" alt=""/>
+<p>Akoya is an equal opportunity employer.</p>
                 </details>
                 </td>
             </tr></table>
