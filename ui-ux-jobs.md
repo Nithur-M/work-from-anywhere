@@ -1,26 +1,26 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/e376fe9133d0000088cec660a5c0211c1660842003.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/40856810aa6083272e2b5b804bc248f71662138415.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>ClickTime</h5>
+                    <h5>Barrel</h5>
                     <h3>
-					Senior UX Designer				</h3>
+					Freelance UX UI Product Designer				</h3>
                 </td>
                 <td width="300">
-                    <code>ux, leader, management</code>
+                    <code>lead, sales, engineer</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/112153" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/jobs/112350" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                About UsÂ ClickTime is a recognized leader in time management software, serving thousands of enterprises, nonprofits, and governments worldwide. From bootstrapped beginnings to sustained profitability - all funded by a dedicated, growing customer base, and without any venture capital funding - ClickTime has tracked over $170 billion worth of employee time, helping customers improve their workforce efficiency, profitability, and resource planning. While headquartered in San Francisco, ClickTimeâs 40+ employees work remotely throughout the United States, with continued plans for remote growth. About the RoleAs ClickTimeâs first-ever Senior UX Designer, youâll own the user experience for the ClickTime product and customer. Youâll deeply understand the needs of our users, advocate for those needs within the organization, and help create product experiences that delight. In addition, youâll work with internal stakeholders to influence new features, standardize our visual branding across the product, and become a champion of usability and great design. Reporting to the Director of Product Management, this is an opportunity to harness your ambition and creativity to make your mark on an established SaaS company.ClickTime provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, sex, national origin, age, disability or genetics. Pursuant to the San Francisco Fair Chance Ordinance, we will consider for employment qualified applicants with arrest and conviction records. 
+                Barrel is a creative and digital marketing agency founded in 2006. We are a remote-first team with members across the world and an office in New York City.Â We partner with the worldâs most loved brands to scale and optimize their direct-to-consumer (DTC) businesses through brand, UX/design, technology/development, and marketing strategy.Â Barrel specializes in the Fashion & Apparel, CPG Food & Beverage, Beauty & Skincare and Home Goods verticals. Past and current clients include LâOreal Paris, Gap, SmartyPants Vitamins, Rowing Blazers, Barryâs, & ScottsMiracle-Gro.Company BackgroundBarrel is a creative and digital marketing agency that works with exciting wellness brands such as Barryâs, Well+Good, Hu, and Sakara Life. We design meaningful experiences that help our clients create deeper relationships with their customers. Founded in 2006, we are a remote-first team with members of the team located around the world. This role does not require on-site work.The RoleWeâre seeking a UX/UI Product Designer to collaborate with our team in leading and executing digital-focused projects for a client in the fashion industry. This role would be on an ongoing, retainer basis. Projects include e-commerce experiences, web/mobile apps, extending visual guidelines to new assets, and research and applying ecommerce best practices to all designs.As a UX/UI product designer at Barrel, you carry the responsibility to not only ideate and execute on creative and intelligent design concepts but to lead by example, motivate other team members, and therefore, reach the highest standards of work. We are looking for someone who is a creative problem solver who combines visual design and product design, knowing how to build appealing and functional experiences.For Barrel, design is the process of thinking, planning, and imagining products that effectively solve problems for our clients. In addition to creating compelling visuals, our design team plays a key part in crafting intuitive user experiences through wireframing, mapping user flows and navigation, and developing micro-interactions.ResponsibilitiesAt Barrel, we value openness, constant communication, and a sense of humor. No matter your level of skill, we look first and foremost for a cultural fit. Our culture revolves around our core behaviors: Continuous Growth & Learning, Focus & Discipline, Team-First Mentality, and Positive Attitude.Â - Ideate and execute on creative concepts- Create conceptual and practical designs that map back to the clientâs business goals, audience, and vertical- Maintain high standards among the team and ensure only the best work is shared with the client- Confidently lead client meetings and workshops as requested- Confidently delegate tasks to and provide support for juniors members of the team- Challenge clients on their requirements and advise on best practices- Take and develop briefs from CD/ACD/account team into execution- Contribute to and drive the process with both internal and client teams- Provide scoping estimates for new and ongoing client work as requested- Continually experiments with new tools and technologies, and prototypes with those existing. Encourages the same among the team- Provide, and often lead, useful contributions to team meetings and conversations- Provide thoughtful and constructive feedback during presentations and critiques of junior team membersâ workSkills Required- At least 4+ years of agency experience preferred, demonstrated expertise in digital design. Product design experience is a bonus.- Has a solid knowledge of industry tools and understanding of designing intuitive and responsive user experiences- Has a strong digital and web vocabulary. Can speak confidently to clients about web platforms, how designs will function and how designs will be implemented.- Able to work efficiently under pressure and tight deadlines, always aware of budgets and time spent- Possess strong project management and organizational skills, able to confidently communicate with external teams and clients alike- Able to articulate thoughts clearly and concisely in all verbal and written communications- Maintains a meticulous attention to detail in all deliverables- Has the foresight to see upcoming challenges and proactively plans ahead to ensure all deadlines are metTo ApplyTo apply, please fill out our online application form below. We will not accept applications that do not come through the online application form.Barrel is proud to be an equal opportunity employer dedicated to pursuing and hiring a diverse workforce. All qualified applicants will receive consideration for employment without regard to their race, color, culture, ethnicity, sex, gender identity and expression, nation of origin, age, veteranâs status, religion, disability, sexual orientation, appearance, opinions, beliefs and more.
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +35,7 @@
                     <code>ui,ux,management,networking</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-ux-ui-designer-1344663" align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                     <code>contract,go,ui,ux</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
@@ -121,6 +121,31 @@
 <p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivedesignerreferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
 <p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
 <img src="https://remotive.com/job/track/986276/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/07/barrelny.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Barrel</h5>
+                    <h3>Freelance UX/UI Product Designer (Fashion Client)</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time, Freelance, Contract</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J113911/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Barrel is a creative and digital marketing agency founded in 2006. We are a remote-first team with members across the world and an office in New York City. We partner with the world’s most loved brands to scale and optimize their direct-to-consumer ( …
+Barrel is a creative and digital marketing agency founded in 2006. We are a remote-first team with members across the world and an office in New York City. We partner with the world’s most loved brands to scale and optimize their direct-to-consumer (DTC) businesses through brand, UX/design, technology/development, and marketing strategy. <br/>Barrel specializes in the Fashion &amp; Apparel, CPG Food &amp; Beverage, Beauty &amp; Skincare and Home Goods verticals. Past and current clients include L’Oreal Paris, Gap, SmartyPants Vitamins, Rowing Blazers, Barry’s, &amp; ScottsMiracle-Gro.<br/>Company BackgroundBarrel is a creative and digital marketing agency that works with exciting wellness brands such as Barry’s, Well+Good, Hu, and Sakara Life. We design meaningful experiences that help our clients create deeper relationships with their customers. Founded in 2006, we are a remote-first team with members of the team located around the world. This role does not require on-site work.<br/>The RoleWe’re seeking a UX/UI Product Designer to collaborate with our team in leading and executing digital-focused projects for a client in the fashion industry. This role would be on an ongoing, retainer basis. Projects include e-commerce experiences, web/mobile apps, extending visual guidelines to new assets, and research and applying ecommerce best practices to all designs.<br/>As a UX/UI product designer at Barrel, you carry the responsibility to not only ideate and execute on creative and intelligent design concepts but to lead by example, motivate other team members, and therefore, reach the highest standards of work. We are looking for someone who is a creative problem solver who combines visual design and product design, knowing how to build appealing and functional experiences.<br/>For Barrel, design is the process of thinking, planning, and imagining products that effectively solve problems for our clients. In addition to creating compelling visuals, our design team plays a key part in crafting intuitive user experiences through wireframing, mapping user flows and navigation, and developing micro-interactions.<br/>ResponsibilitiesAt Barrel, we value openness, constant communication, and a sense of humor. No matter your level of skill, we look first and foremost for a cultural fit. Our culture revolves around our core behaviors: Continuous Growth &amp; Learning, Focus &amp; Discipline, Team-First Mentality, and Positive Attitude. - Ideate and execute on creative concepts- Create conceptual and practical designs that map back to the client’s business goals, audience, and vertical- Maintain high standards among the team and ensure only the best work is shared with the client- Confidently lead client meetings and workshops as requested- Confidently delegate tasks to and provide support for juniors members of the team- Challenge clients on their requirements and advise on best practices- Take and develop briefs from CD/ACD/account team into execution- Contribute to and drive the process with both internal and client teams- Provide scoping estimates for new and ongoing client work as requested- Continually experiments with new tools and technologies, and prototypes with those existing. Encourages the same among the team- Provide, and often lead, useful contributions to team meetings and conversations- Provide thoughtful and constructive feedback during presentations and critiques of junior team members’ work<br/>Skills Required- At least 4+ years of agency experience preferred, demonstrated expertise in digital design. Product design experience is a bonus.- Has a solid knowledge of industry tools and understanding of designing intuitive and responsive user experiences- Has a strong digital and web vocabulary. Can speak confidently to clients about web platforms, how designs will function and how designs will be implemented.- Able to work efficiently under pressure and tight deadlines, always aware of budgets and time spent- Possess strong project management and organizational skills, able to confidently communicate with external teams and clients alike- Able to articulate thoughts clearly and concisely in all verbal and written communications- Maintains a meticulous attention to detail in all deliverables- Has the foresight to see upcoming challenges and proactively plans ahead to ensure all deadlines are met<br/>To ApplyTo apply, please fill out our online application form below. We will not accept applications that do not come through the online application form.Barrel is proud to be an equal opportunity employer dedicated to pursuing and hiring a diverse workforce. All qualified applicants will receive consideration for employment without regard to their race, color, culture, ethnicity, sex, gender identity and expression, nation of origin, age, veteran’s status, religion, disability, sexual orientation, appearance, opinions, beliefs and more.
                 </details>
                 </td>
             </tr></table>
