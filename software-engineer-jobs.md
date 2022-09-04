@@ -10,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-sr-software-engineer-data-engineer-golang-kafka" align="right" target="_blank">Apply</a>
@@ -63,7 +63,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>181 days ago</text>
+                <text>182 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-blockchain-integrations-1" align="right" target="_blank">Apply</a>
@@ -121,7 +121,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>181 days ago</text>
+                <text>182 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-golang-2" align="right" target="_blank">Apply</a>
@@ -176,7 +176,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>630 days ago</text>
+                <text>631 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/iterative-senior-software-engineer-open-source-dev-tools-core" align="right" target="_blank">Apply</a>
@@ -235,7 +235,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -303,7 +303,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -351,91 +351,6 @@
 </ul>
 <p> </p>
 <img src="https://remotive.com/job/track/1187421/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/20/05/mural.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MURAL</h5>
-                    <h3>Software Engineer, Canvas Facilitation</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J113954/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-MURAL’s mission is to inspire teams to connect and innovate, while bringing purpose and intention to the craft of collaboration.
-MURAL created the Collaborative Intelligence System™ to power cultures of effective collaboration where everyone is conn …
-<h2></h2>
-<h2 class="Theme__P-sc-1tezyi0-2 THRES"><strong>MURAL’s mission is to inspire teams to connect and innovate, while bringing purpose and intention to the craft of collaboration</strong>.</h2>
-<p>MURAL created the Collaborative Intelligence System™ to power cultures of effective collaboration where everyone is connected, contributing, and empowered to deliver business-driving outcomes.</p>
-<p>Founded in 2011, MURAL is a leading innovator in visual collaboration for hybrid, remote, and distributed teams. We believe in what we build, and our team of more than 900 “MURAListas” around the world collaborate in the MURAL® app. Our values guide our intentionally inclusive product and culture, which includes collaboration design education and a flexible monthly stipend for learning, wellness, and coworking.<br/><br/>MURAL has raised $200M to date and is growing rapidly to fulfill our mission. The company is trusted by 95% of the Fortune 100, including innovative teams at IBM, Intuit, GitLab, Microsoft, and Atlassian.</p><h3>YOUR MISSION</h3>
-<p>As a Full Stack Engineer, you will help grow our business by developing features that power our cutting-edge visual collaboration app. You will be working with a team of dedicated engineers, designers, and product managers. You will drive improvements to our product offering, helping all our customers collaborate more effectively. </p>
-<p>Our belief is simple: delivering great quality features as a team effort.</p>
-<p><strong>In this role, you will:</strong></p>
-<ul>
-<li style="font-weight: 400;">Be a part of building a product and adding value to it, owning what you do and seeing it evolve.</li>
-<li style="font-weight: 400;">Understand user requirements and pain points to be able to help solve them.</li>
-<li style="font-weight: 400;">Collaborate with QA engineers, product managers, designers, and the data team.</li>
-<li style="font-weight: 400;">Have a strong sense of teamwork and collaboration. We strongly encourage doing pair programming and code reviews!</li>
-<li style="font-weight: 400;">Be a problem solver, use your resources to work autonomously, and bring new ideas to our work by sharing your particular experience and knowledge.</li>
-<li style="font-weight: 400;">Generate experiments, test them with production users, analyze, repeat</li>
-<li style="font-weight: 400;">Be part of tech designs and talks, helping level up others around you</li>
-</ul>
-<h3>YOUR PROFILE</h3>
-<ul>
-<li style="font-weight: 400;">You have 2 or more years of relevant professional experience in a similar position. </li>
-<li style="font-weight: 400;">You are proficient in building pixel-perfect user interfaces, ideally, experience with ReactJS and TypeScript.</li>
-<li style="font-weight: 400;">You have some experience with the backend, ideally with our tech stack - MongoDB and Node.js.</li>
-<li style="font-weight: 400;">You have experience with Git.</li>
-<li style="font-weight: 400;">You know how to collaborate with others to achieve a common goal</li>
-<li style="font-weight: 400;">You can analyze problems and recommend solutions</li>
-<li style="font-weight: 400;">You have an excellent command of English, both written and verbal</li>
-<li style="font-weight: 400;">You have a bias for action</li>
-</ul>
-<h4><strong>Ideally you have...</strong></h4>
-<ul>
-<li>Experience with JS testing and code analysis frameworks like Mocha, Istanbul, ESLint, and Jasmine.</li>
-</ul>
-<p>#LI-Remote #LI-ABW1</p><p>Please submit your resume in English.</p>
-<h3>WHAT WE OFFER</h3>
-<p>In addition to being part of our quest to help people empower their imagination, we offer:</p>
-<ul class="p-rich_text_list p-rich_text_list__bullet" data-border="0" data-indent="0" data-stringify-type="unordered-list">
-<li data-stringify-border="0" data-stringify-indent="0">Competitive salary</li>
-<li data-stringify-border="0" data-stringify-indent="0">401K (US only)</li>
-<li data-stringify-border="0" data-stringify-indent="0">Company equity</li>
-<li data-stringify-border="0" data-stringify-indent="0">Health insurance</li>
-<li data-stringify-border="0" data-stringify-indent="0">Fertility benefits</li>
-<li data-stringify-border="0" data-stringify-indent="0">MURALvida stipend (for fitness, wellness, learning and coworking)</li>
-<li data-stringify-border="0" data-stringify-indent="0">Fully remote team</li>
-<li data-stringify-border="0" data-stringify-indent="0">Parental leave</li>
-<li data-stringify-border="0" data-stringify-indent="0">End of year closure</li>
-<li data-stringify-border="0" data-stringify-indent="0">Design thinking trainings</li>
-<li data-stringify-border="0" data-stringify-indent="0">MURAL free forever plan</li>
-</ul>
-<h3>OUR VALUES</h3>
-<p>We bring people to our team that care about our mission to inspire and connect creative people globally, and who feel aligned with our values:</p>
-<ul>
-<li>Make others successful</li>
-<li>Adapt to thrive</li>
-<li>Play to wow</li>
-<li>Think global</li>
-<li>Experiment like an owner</li>
-</ul>
-<h3>Practicing equality through imagination work.</h3>
-<p>MURAL is committed to creating diverse and inclusive workspaces where people can make a positive impact on the world and share their vision of how they achieve it. We are dedicated to working alongside multiple communities to help build this dream and bring it to life. </p>
-<p></p>
                 </details>
                 </td>
             </tr></table>
