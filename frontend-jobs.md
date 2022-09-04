@@ -1,99 +1,5 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/d5e2868382eb41cacd969d4698433a431661436005.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>QuickNode</h5>
-                    <h3>
-					Software Engineer Frontend				</h3>
-                </td>
-                <td width="300">
-                    <code>frontend, software, engineer</code>
-                </td>
-                <td width="200">
-                <text>8 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/112227" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                QuickNode is a cloud-based infrastructure company that powers the blockchain ecosystem.Our mission is to be the indispensable utility that empowers companies and innovators globally to build next-generation, Web3 enabled businesses & applications using blockchain technology. QuickNode is backed by some of the world's best investors including Tiger Global, Y Combinator, SoftBank, and the Seven Seven Six Fund. The QuickNode team has over 90 people maintaining high performance global data infrastructure for amazing customers serving billions of requests daily.We are a global remote first company HQ'd in Miami, Florida.The RoleÂ We are looking for a Frontend engineer who can deliver value and impact to the team in a fast and nimble way. This engineer will be focused on internal products as well as customer facing products and working with a team of outside the box thinkers and visionaries. You will have the opportunity to work with a great deal of different technologies in the blockchain/web3 space. We at Quicknode are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/9797/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>GOhiring</h5>
-                    <h3> Senior Frontend Engineer (React.js)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/gohiring-senior-frontend-engineer-react-js-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/9797/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Berlin
-    <br /><strong>URL:</strong> <a href="https://gohiring.com/en/jobs/">https://gohiring.com/en/jobs/</a>
-</p>
-
-<div>We are looking for a Senior Frontend Software Engineer (React.js) – f/m/d to join our profitable, remote-first B2B SaaS company. Join us on our mission to empower thousands of enterprise customers to make data-based recruitment decisions. You will be working on the full stack of the whole product ecosystem, contributing to tasks of all sizes. We are proud of our top-notch tech stack and are serious about following best practices (CI, TDD, PRs, code reviews, good design practices). If you are a creative problem solver who loves code quality and thought-through processes, an international remote-first workplace is waiting for you!<br><br><strong><br>Your impact</strong>
-</div><ul>
-<li>You’re not just a little cog in a big wheel: You will work mainly on the frontend of the whole product-ecosystem and contribute to tasks of all sizes (including developing products from scratch)</li>
-<li>You’re a creative problem solver: You will implement impactful and sustainable solutions to complex and varying challenges</li>
-<li>You make a difference: As an integral part of an experienced development team you’ll work in close collaboration with product managers, testers and our data warehouse team (suggestions in the stack, architecture or patterns which might improve our code base/processes are welcome)</li>
-<li>Frontend transition: Help us standardize the way we do frontend in our transition towards React (from custom JS and Ember) </li>
-<li>We love code quality and don’t like putting out fires: Work on our up to date tech stack and follow best practices with us (CI, TDD, PRs, code reviews and good design practices). Proactively monitor and optimize for security and performance</li>
-</ul><div><br></div><div><strong>Your profile</strong></div><ul>
-<li>At least 5 years of experience in software development</li>
-<li>At least 2 years of experience with React.js</li>
-<li>Very good knowledge of frontend technologies such as HTML/CSS/Javascript </li>
-<li>Good knowledge of Ruby </li>
-<li>Advocate of high code quality and engineering best practices</li>
-<li>Experience with tools built on top of REST API and JSON API</li>
-<li>It comes naturally to you to write your own tests with Jest and you have experience with acceptance testing in other frameworks (for example, Capybara in Ruby)</li>
-<li>You’re located +-4 hours CET</li>
-<li>Fluent in English</li>
-</ul><div><br></div><div><strong>Our stack</strong></div><ul>
-<li>A small cluster of microservices. Hosted on Heroku, supported by AWS (RDS, S3, CloudFront, CloudWatch), with RabbitMQ for async communication. Docker for easy development setup</li>
-<li>Ruby, Rails, Postgres, React.js (client-facing) and Ember.js (internal tools)</li>
-<li>REST, JSON API</li>
-<li>CircleCI. Unit tests, integration tests and linters everywhere</li>
-<li>GitHub. 100 % commitment to code review</li>
-<li>ZenHub for seamless kanban project management in GitHub</li>
-</ul><div><br></div><div><strong>Why GOhiring?</strong></div><ul>
-<li>Making a big difference in a small team: We celebrate the benefits of a small team - direct collaboration, creative freedom, growing and learning together. You'll never be just a little cog in a big wheel, but always be part of the big picture</li>
-<li>The perfect environment to grow: You'll not only work with a top-notch tech stack, but find optimum conditions to grow - professionally and personally </li>
-<li>You will join a senior engineering and product team that is really, really serious about code quality and best practices: Work on challenging, interesting problems while relying on thought-through processes and a setup that just works</li>
-<li>Award winning remote setup that connects people: Meet the team for one week twice a year in varying locations in Europe (join now to be part of our next offsite on an island in 2022)</li>
-<li>Work equipment of your choice: For your mobile job you will receive a laptop and technical setup of your choice. We'll also take care of your mobile phone and internet contract</li>
-<li>Competitive salary package: Base salary plus performance-related company-wide bonus and employee stock ownership plan (ESOP)</li>
-</ul><div><br></div><div><strong>Want to work together on the future of recruiting?</strong></div><div>
-<br>Simply send us your profile in addition or optionally your Github handle. We are happy to hear from you.<br><em>Diversity and equal opportunity are important to us. We are happy about the interest of all candidates and strive to provide feedback as quickly as possible.</em>
-</div><div>
-<strong><br>Company<br></strong><br>
-</div><div>GOhiring is a profitable, fast growing B2B SaaS company that empowers thousands of enterprise customers to make data-based recruitment decisions. Our great international team of 25 hand picked geeks is passionate about technology and data - working remotely since 2012. If you would like to work with nice and talented people in a software company that cares about thought-through processes, we are waiting for you! </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/gohiring-senior-frontend-engineer-react-js-1">https://weworkremotely.com/remote-jobs/gohiring-senior-frontend-engineer-react-js-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -104,7 +10,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>151 days ago</text>
+                <text>152 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/facet-wealth-staff-front-end-engineer-react" align="right" target="_blank">Apply</a>
@@ -194,7 +100,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-1347890" align="right" target="_blank">Apply</a>
@@ -209,11 +115,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/20/07/gitlab.png" width="38px" height="auto">
+                    <img src="https://freshremote.work/media/company/logo/22/08/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>GitLab</h5>
-                    <h3>Senior Frontend Engineer, Manage: Compliance</h3>
+                    <h5>Kraken</h5>
+                    <h3>Staff Software Engineer - Frontend</h3>
                 </td>
                 <td width="300">
                     <code>Full Time</code>
@@ -222,69 +128,20 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J113864/" align="right" target="_blank">Apply</a>
+                <a href="https://freshremote.work/J113892/" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                The GitLab DevOps platform empowers 100,000+ organizations to deliver software faster and more efficiently. We are one of the world’s largest all-remote companies with 1,800+ team members and values that guide a culture where people embrace the belie …
-<p>The GitLab <a class="editor-rtfLink" href="https://about.gitlab.com/solutions/devops-platform/" target="_blank">DevOps platform</a> empowers 100,000+ organizations to deliver software faster and more efficiently. We are one of the <a class="editor-rtfLink" href="https://about.gitlab.com/company/culture/all-remote/guide/" target="_blank">world’s largest all-remote companies</a> with 1,800+ team members and <a class="editor-rtfLink" href="https://about.gitlab.com/handbook/values/" target="_blank">values</a> that guide a culture where people embrace the belief that everyone can contribute.</p><p>This Senior Frontend Engineer position for our<a href="https://about.gitlab.com/handbook/product/categories/#compliance-group"> Manage: Compliance group</a> is 100% remote.</p>
-<p>As a Senior Frontend Engineer in our<a href="https://about.gitlab.com/handbook/product/categories/#compliance-group"> Compliance group</a>, you'll play a key role in<a href="https://about.gitlab.com/solutions/compliance/"> maturing enterprise-grade Compliance features</a> which have a direct impact on GitLab's enterprise sales success.</p>
-<p>You will be responsible for implementing and improving front-end features in the GitLab product. The work you’ll be overseeing will be impactful and highly visible to millions of our users across the globe. </p>
-<p>The<a href="https://about.gitlab.com/company/culture/"> culture</a> here at GitLab is something we're incredibly proud of. Some of the<a href="https://about.gitlab.com/handbook/total-rewards/benefits/"> benefits</a> you'll be entitled to vary by region or country you're in. However, all GitLab team members are fully remote and receive a "no ask, must tell" paid-time-off policy, where we don't count the number of days you take off annually -- instead, we focus on your results. You can work the hours you choose, enabled by our<a href="https://about.gitlab.com/handbook/communication/#asynchronous-communication"> asynchronous approach to communication</a>. You can also expect stock options and a competitive salary. Our compensation calculator will be shared with selected candidates before any interview.</p>
-<p><a href="https://about.gitlab.com/company/culture/inclusion/">Diversity, Inclusion, and Belonging</a> (DIB) are fundamental to the success of GitLab. We want to infuse DIB in every way possible and in all that we do. We strive to create a transparent environment where all team members around the world feel that their voices are heard and welcomed. We also aim to be a place where people can show up as their full selves each day and contribute their best. With more than 100,000 organizations using GitLab, our goal is to have a team that is representative of our users.</p>
-<p><strong>What you'll do in this role</strong></p>
+                About KrakenAs one of the largest and most trusted digital asset platforms globally, we are empowering people to experience the life-changing potential of crypto. Trusted by over 8 million consumer and pro traders, institutions, and authorities world …
+About Kraken<br/>As one of the largest and most trusted digital asset platforms globally, we are empowering people to experience the life-changing potential of crypto. Trusted by over 8 million consumer and pro traders, institutions, and authorities worldwide - our unique combination of products, services, and global expertise is helping tip the scales towards mass crypto adoption. But we’re only just getting started. We want to be pioneers in crypto and add value to the everyday lives of billions. Now is not the time to sit on the sidelines. Join us to bring crypto to the world.<br/>To ensure Kraken is the right fit for you, please ensure you read <a class="postings-link" href="https://kraken-culture.notion.site/">Kraken Culture Explained</a> to find out more about us!<br/>UI Engineering at KrakenKraken’s Software Engineers are tasked with developing cutting edge interfaces that change how millions of users interact with our platform. Our products need to handle processing and displaying huge amounts of real-time information whilst also maintaining an intuitive and friendly user experience, to achieve this engineers with both a strong technical background and keen eye for design are required. We're looking for passionate and talented engineers who can bring fresh ideas and expertise from all industries. As a Software Engineer, you will work as a core member of a fully remote team on a specific project critical to Kraken’s needs with opportunities to switch teams and projects as you and our fast-paced business grow and evolve. We need all of our engineers to display a versatile talent set, from exceptional technical ability to strong communication skills and passion for the monumental change that the crypto industry can bring to society.<br/>About the RoleStaff Software Engineer is the second of Kraken’s two senior levels. At this level we expect you to know everything you need to know to be a professional software engineer: You should have acquired all the technical and leadership skills required to make a significant impact on complex engineering projects. Staff Software Engineer engineers must have demonstrated technical breadth and depth. You should be an expert in your part of the business, a strong communicator, a trusted mentor, a role model for more junior engineers, a driver of best practices for hiring and interviewing, and have delivered multiple projects that move the needle for your team. At Staff Software Engineer your job starts to become just as much about exercising technical judgment as it does about implementation, you will display a deep knowledge about Kraken’s entire technology stack, evolves your domains architecture to support future requirements, mentors others to accelerate their career-growth, adjusts the team processes based off feedback and previous experience, make an impact not only your workgroup but also other workgroups that your primary workgroup collaborates with.<br/>
+<h3>Basic Qualifications</h3>
 <ul>
-<li style="font-weight: 400;">Contribute to the<a href="https://about.gitlab.com/direction/manage/compliance/"> overall direction of the Compliance group</a> and play a key role in maturing GitLab's Compliance offering.</li>
-<li style="font-weight: 400;">Develop features and improvements to the GitLab product in a secure, well-tested, and performant way</li>
-<li style="font-weight: 400;">Work with Product Management and other stakeholders (Backend, UX, etc.) to iterate on new features within the GitLab product.</li>
-<li style="font-weight: 400;">Craft code that meets our internal standards for style, maintainability, and best practices for a high-scale web environment. Maintain and advocate for these standards through code review.</li>
-<li style="font-weight: 400;">Confidently ship small features and improvements with minimal guidance and support from other team members. Collaborate with the team on larger projects.</li>
-<li style="font-weight: 400;">You'll help improve the overall experience of our product by improving the quality of the Frontend features both in your<a href="https://about.gitlab.com/handbook/product/categories/#compliance-group"> group</a> and features that benefit other groups.</li>
-<li style="font-weight: 400;">You’ll help identify areas of improvement in the code base, both specific to your<a href="https://about.gitlab.com/handbook/product/categories/#compliance-group"> group</a> and outside your group (eg. component library) and help contribute to making it better</li>
-<li style="font-weight: 400;">You’ll learn, collaborate and teach other Frontend Engineers. Everyone can contribute something new to the team regardless of how long they’ve been in the industry.</li>
-<li style="font-weight: 400;">You’ll fix prioritized issues from the issue tracker. These are typically bugs listed in a GitLab issue with an attached severity and priority label.</li>
-<li style="font-weight: 400;">You’ll contribute to and follow our workflow process, alongside the rest of the Frontend Engineers and the GitLab community as a whole.</li>
-</ul>
-<h2><strong>You should apply if you bring:</strong></h2>
+<li>9+ years of full-time professional engineering experience</li><li>Deep knowledge of HTML, CSS, TypeScript, React (or other UI libraries), client side state management solutions and basic web/mobile rendering performance techniques</li><li>Experience building and maintaining production quality applications using React or React Native</li><li>Experience working with both RESTful APIs and WebSockets</li><li>Experience working with multi-threaded code architectures (WebWorkers)</li><li>Deep knowledge of software development and delivery best practices, you know when a team isn’t moving fast enough and you know how to fix it</li><li>Experience both mentoring junior engineers and interviewing for Software Engineers</li><li>Clear passion for both Software Engineering and Crypto</li></ul>
+<h3>Preferred Qualifications</h3>
 <ul>
-<li style="font-weight: 400;">Professional experience with VueJS or another modern JavaScript web framework (React, Angular, Ember, etc)</li>
-<li style="font-weight: 400;">Experience with writing automated tests (eg. Jest, Karma, Jasmine, Mocha, AVA, tape)</li>
-<li style="font-weight: 400;">A solid understanding of core web and browser concepts (eg. how the browser parses and constructs a web page)</li>
-<li style="font-weight: 400;">A solid understanding of semantic HTML, CSS, and core JavaScript concepts.</li>
-<li style="font-weight: 400;">Proficiency in the English language, both written and verbal, sufficient for success in a remote and largely asynchronous work environment</li>
-<li style="font-weight: 400;">Demonstrated capacity to clearly and concisely communicate about complex technical, architectural, and/or organizational problems and propose thorough iterative solutions</li>
-<li style="font-weight: 400;">Experience with performance and optimization problems and a demonstrated ability to both diagnose and prevent these problems</li>
-<li style="font-weight: 400;">Comfort working in a highly agile, intensely iterative software development process</li>
-<li style="font-weight: 400;">Positive and solution-oriented mindset</li>
-<li style="font-weight: 400;">An inclination towards communication, inclusion, and visibility</li>
-<li style="font-weight: 400;">Self-motivated and self-managing, with strong organizational skills.</li>
-<li style="font-weight: 400;">Demonstrated ability to work closely with other parts of the organization</li>
-<li style="font-weight: 400;">Share our values, and work in accordance with those values</li>
-<li style="font-weight: 400;">Ability to thrive in a fully remote organization</li>
-<li style="font-weight: 400;">Ability to use GitLab</li>
-</ul>
-<h2><strong>You'll stand out if you bring:</strong></h2>
-<ul>
-<li style="font-weight: 400;">Working knowledge of Ruby on Rails, Haml, or GraphQL</li>
-<li style="font-weight: 400;">Experience with the GitLab product as a user or contributor</li>
-<li style="font-weight: 400;">Product company experience</li>
-<li style="font-weight: 400;">Experience working with a remote team</li>
-<li style="font-weight: 400;">Enterprise software company experience</li>
-<li style="font-weight: 400;">Developer platform/tool industry experience</li>
-<li style="font-weight: 400;">Experience working with a global or otherwise multicultural team</li>
-<li style="font-weight: 400;">Domain knowledge relevant to the product stage in which you are looking to join (eg. someone with CI/CD experience applying for the Verify &amp; Release team)</li>
-</ul>
-<p>Also, we know it’s tough, but please try to avoid the ​​confidence gap​. You don’t have to match all the listed requirements exactly to be considered for this role.</p>
-<p> </p>
-<p><strong>Hiring Process</strong></p>
-<p>The details of this process and our leveling structure can be found<a href="https://about.gitlab.com/job-families/engineering/frontend-engineer/#hiring-process"> on our job family page</a>.</p>
-<p>For Colorado residents: The base salary range for this role’s listed level is currently $107,500.00 - $195,800.00 for Colorado residents only. Grade level and salary ranges are determined through interviews and a review of the education, experience, knowledge, skills, abilities of the applicant, equity with other team members, and alignment with market data. See more information on our<a href="https://bit.ly/GLBeneUS"> benefits</a> and <a href="https://bit.ly/GLequity">equity</a>. Sales roles are also eligible for incentive pay targeted at up to 100% of the offered base salary. Disclosure as required by the Colorado Equal Pay for Equal Work Act, C.R.S. § 8-5-101 et seq.</p>
-<p> </p>
-<p><strong>Country Hiring Guidelines: </strong>GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.  </p>
-<p><strong>Privacy Policy: </strong>Please review our <a href="https://about.gitlab.com/handbook/hiring/recruitment-privacy-policy/" target="_blank">Recruitment Privacy Policy.</a> Your privacy is important to us.</p>
-<p>GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also <a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy" target="_blank">GitLab’s EEO Policy</a> and <a href="https://about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices" target="_blank">EEO is the Law</a>. If you have a disability or special need that requires <a href="https://about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation" target="_blank">accommodation</a>, please let us know during the <a href="https://about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process" target="_blank">recruiting process</a>.</p>
+<li>9+ years of full-time engineering experience within a large technology organization or fast growing startup</li><li>Deep knowledge of browser (or Native Mobile) internals (eg. Rendering engines, Parsing and DOM tree construction, Layout, Painting, and optimization techniques)</li><li>Experience starting greenfield projects and running from inception to production successfully</li><li>Experience interviewing for Senior Software Engineers</li><li>Experience building small teams when required</li><li>Experience driving solutions to key business problems, even if the requirements are not clear</li></ul>Location Tagging: #US #EU<br/>We’re powered by people from around the world with their own unique and diverse experiences. We value all Krakenites and their talents, contributions, and perspectives, regardless of their background. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!<br/>As an equal opportunity employer we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws. <br/>Stay in the know<br/><a class="postings-link" href="https://kraken-culture.notion.site/">Kraken Culture Explained</a><a class="postings-link" href="https://twitter.com/krakenfx">Follow us on Twitter</a><a class="postings-link" href="https://blog.kraken.com/">Catch up on our blog</a><a class="postings-link" href="https://www.linkedin.com/company/kraken-exchange/">Follow us on LinkedIn</a>
                 </details>
                 </td>
             </tr></table>
