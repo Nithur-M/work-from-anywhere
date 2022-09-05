@@ -10,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/innovation-upstream-inc-lead-golang-react-developer" align="right" target="_blank">Apply</a>
@@ -75,7 +75,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/thoughtbot-senior-react-native-developer-remote" align="right" target="_blank">Apply</a>
@@ -129,106 +129,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6573/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Creative Noggin</h5>
-                    <h3> Web Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/creative-noggin-web-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6573/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Antonio, Texas
-    <br /><strong>URL:</strong> <a href="https://creativenoggin.com">https://creativenoggin.com</a>
-</p>
-
-<div> </div><h1>Web Developer</h1><div>
-<strong>What we’re looking for.<br><br></strong>We’re looking for a web developer to collaborate closely with our creative and account teams to help plan, build and manage websites. You’ll play a critical role in maintaining our clients’ online experiences and bringing technical knowledge to our team.<br><br><strong>Would you love working from home?<br><br></strong>Creative Noggin is an award-winning 100% remote branding and marketing agency that has long embraced the fact that employees working from home are more focused, productive, and most of all, happy.We offer a work lifestyle that is attractive to people who despise commuting, prefer to avoid large egos, want challenging work they can be proud of, and love personal time. We are looking for others that share our values!<br><br><strong>Essential Functions<br><br>Website Development, Troubleshooting, and Maintenance</strong>
-</div><ul>
-<li>Development &amp; testing</li>
-<li>Routine website maintenance</li>
-<li>Troubleshooting and resolving website issues</li>
-<li>Coordinating with outside development resources as needed</li>
-<li>Successfully prioritize and manage development requests</li>
-<li>Ability to use your technical knowledge to bring ideas and make recommendations on client projects</li>
-</ul><div><strong>Search Engine Optimization</strong></div><ul>
-<li>Regularly evaluate site technical effectiveness</li>
-<li>Resolve technical SEO issues</li>
-<li>Assist in running technical SEO scans</li>
-</ul><div><strong>Desired Skills and Experience</strong></div><ul>
-<li>3 – 4 years of web development experience</li>
-<li>Fluent in HTML, CSS, PHP, and JavaScript and WordPress</li>
-<li>Familiar with popular content management systems</li>
-<li>Self-motivated and a problem-solver</li>
-<li>A desire to collaborate with others</li>
-<li>Love to learn and stay up-to-date with current best practices and new technologies</li>
-<li>An ability to explain complex solutions in non-technical terms</li>
-</ul><div><strong>Agency Values</strong></div><ul>
-<li>
-<strong>WE ARE COLLABORATIVE. </strong>We strive to bring something to every table. We work remotely yet together with open minds—and hearts, welcoming new ideas and alternative ways of thinking to make our clients successful.</li>
-<li>
-<strong>WE ARE STRATEGIC. </strong>We keep the ultimate destination in mind with every footstep. Everything we do, every decision we make, comes down to three little letters: WHY?</li>
-<li>
-<strong>WE ARE SMART. </strong>We each fan our flames to fuel collective excellence. From learning new skills to researching the latest best practices, we each take pride in advancing our knowledge for the betterment of the agency, the clients we serve, and ourselves.</li>
-<li>
-<strong>WE ARE FUN.</strong> It doesn’t take long at Creative Noggin to discover your inner child. We may have even competitively shaken a tissue box full of ping pong balls strapped to our backside at a company retreat (we got in trouble from the venue for laughing too hard!). We frequently let our hair down, laughing at ourselves—and with each other.</li>
-<li>
-<strong>WE ARE PASSIONATE.</strong> We use our expertise—and common sense. Our clients are counting on us to take care of them. Protecting their time, budget and brand is an important part of our mission at Creative Noggin.</li>
-<li>
-<strong>WE WORK FROM HOME. </strong>That’s right. Creative Noggin is 100% virtual and always has been. We honor this flexibility and privilege by taking our work seriously and servicing our clients better than if we were all in an office together.</li>
-</ul><div><strong>Our company runs on the Entrepreneurial Operating System (EOS)</strong></div><ul>
-<li>That means as a member of this team, you will have a leader who:</li>
-<li>Gives clear directions</li>
-<li>Makes sure you have the necessary tools</li>
-<li>Acts with the greater good in mind</li>
-<li>Delegates appropriately</li>
-<li>Takes time to truly understand your role and how you can help the company</li>
-<li>Makes their expectations clear</li>
-<li>Communicates well</li>
-<li>Has effective meetings</li>
-<li>Meets one-on-one with you quarterly or more, if needed</li>
-<li>Rewards and recognizes your performance</li>
-</ul><div><strong>Benefits</strong></div><div>
-<br>We offer a competitive benefits package that includes the following:<br><br>
-</div><ul>
-<li>Medical, Dental &amp; Vision Coverage</li>
-<li>Company Paid Basic Life, AD&amp;D Insurance</li>
-<li>Retirement Plan with Company Match</li>
-<li>Short-Term and Long-Term Disability</li>
-<li>Friendly, fun, and flexible work environment with a team of awesome people</li>
-<li>Pay commensurate with experience.</li>
-</ul><div><strong>To Apply</strong></div><div>
-<br>Please send the following to digital@creativenoggin.com with the subject 'Job Application – Creative Noggin Web Developer.<br><br>
-</div><ul>
-<li>A cover letter</li>
-<li>Resume</li>
-<li>A link to your online portfolio</li>
-<li>Your salary history and requirements</li>
-</ul><div>
-<br>Please visit this link <a href="https://take.surveys.ci/s/6wsWVe58Hg/68909">https://take.surveys.ci/s/6wsWVe58Hg/68909</a> and take a short 10-12 minute Culture Index survey. The survey <strong>MUST</strong> be complete for interview consideration.<br><br>
-</div><div>
-<br>We’re reserving the phone lines for all of the clients we need your help servicing, so at this point no calls…email only, please!<br><br>
-</div><div><br></div><div><br></div><div><br></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/creative-noggin-web-developer">https://weworkremotely.com/remote-jobs/creative-noggin-web-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5868/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -239,7 +139,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-back-end-developer-node-js-web3-remote" align="right" target="_blank">Apply</a>
@@ -316,7 +216,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>662 days ago</text>
+                <text>663 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -385,6 +285,162 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1366761/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Publitas.com</h5>
+                    <h3>Senior Front End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,backend,contract,developer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1366761" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p dir="ltr"><strong><em>Create customer value.</em></strong></p>
+<p dir="ltr"><strong><em> </em></strong></p>
+<p dir="ltr">We believe that business growth starts with a fantastic product that people want to use. And with Publitas, we aim to create an exceptional experience for browsing shoppers by publishing engaging content online. We are on a mission to inspire people from all over the world (60M today) through a more sustainable discovery experience. We guide our customers, leading retailers such as Mattel, IKEA, Home Depot, Lenovo, and Williams Sonoma, through the print transition and provide the personalized service they deserve, which has earned us their trust and loyalty. As a result, we have more than 1900 passionate customers and advocates worldwide.</p>
+<p dir="ltr"> </p>
+<p dir="ltr">At Publitas we’re looking to add an experienced and self-driven Senior Frontend Developer to help us develop and improve our product. You will join our Development team consisting of 1 Development Lead, 8 Developers and 2 QA engineers.</p>
+<p dir="ltr"> </p>
+<p> </p>
+<p dir="ltr"><strong>As part of this role: </strong></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">You will collaborate with a cross functional team to translate customer needs and product vision into new features.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">You will help us maintain and build highly interactive and performant web applications.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">You will contribute to our frontend architecture and strategy.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">You will be involved in monitoring and triaging issues &amp; bugs.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">You will help and mentor less experienced developers and help us build a strong engineering team.</p>
+</li>
+</ul>
+<div>
+<p dir="ltr"><strong> </strong></p>
+<p dir="ltr"><strong>About you:</strong></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">You like and have experience developing complex graphical user interfaces using web technology.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">You have several years of experience using modern frontend frameworks, such as React, Vue, Svelte etc. Our frontend is mostly written in React &amp; Redux.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">You can work back from the problem domain towards technical solutions, making technical decisions and breaking problems into manageable chunks on the way.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">You're a strong written and verbal communicator and very fluent and comfortable with English. You are able to explain technical concepts and help bring consensus within the team.</p>
+</li>
+</ul>
+<p dir="ltr"><strong> </strong></p>
+<p dir="ltr"><strong>Bonus: </strong></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">You enjoy and have a good eye for design and UX</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">You have experience with performance intensive graphics (video game graphics, data visualization etc)</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">You have experience with our backend technologies (Ruby on Rails, NodeJS, AWS) and you can build simple things end-to-end if need be.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">You are working in the European time zone</p>
+</li>
+</ul>
+<p dir="ltr"><strong> </strong></p>
+<p dir="ltr"><strong>If you’ve been reading this far, chances are high you're a bit like us:</strong></p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">You desire to do things better and to improve the world around you.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">You believe that results and impact matter more than hours spent.</p>
+</li>
+<li dir="ltr">You’re self-driven, and you love the fact that Publitas operates through <a href="https://sites.google.com/publitas.com/habits-values/" rel="nofollow">values &amp; habits</a> such as:
+<ul>
+<li dir="ltr">
+<p dir="ltr">Honesty</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Respect</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Passion</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Generosity</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Excellence</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Curiosity</p>
+</li>
+</ul>
+</li>
+</ul>
+<div class="h3" dir="ltr"><strong> </strong></div>
+<div class="h3" dir="ltr"><strong>What can you expect from us?</strong></div>
+<ul>
+<li dir="ltr">
+<p dir="ltr">€38.4k - €94.6k gross salary per year.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Twenty-five vacation days per year and your National Holidays off.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">A contract of indefinite duration.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Work from anywhere you desire.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">A monthly shared office space/coworking allowance.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">A one-time home office setup stipend.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">A top-of-the-line MacBook.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Monthly wellness allowance to stay healthy while working remotely.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Annual retreats in some of the greatest cities in the world.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Free books in Kindle and Audible store.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">We'll challenge and support you to get the most out of your potential through personal coaching sessions.</p>
+</li>
+</ul>
+<br>
+<p dir="ltr"><em>We promise to get rid of everything that stands in your way so you can create your best work. If this sounds like your kind of place, it’s time to get in touch.</em></p>
+<p dir="ltr"><em> </em></p>
+<p dir="ltr"><strong>Please feel free to contact our Recruitment team at </strong><a href="mailto:careers@publitas.com" rel="nofollow"><strong>careers@publitas.com</strong></a><strong> if you have any questions. </strong></p>
+</div>
+<img src="https://remotive.com/job/track/1366761/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -395,7 +451,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -472,7 +528,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -497,7 +553,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -522,7 +578,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -547,7 +603,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -572,7 +628,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -597,7 +653,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -622,7 +678,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
@@ -647,7 +703,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -694,7 +750,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -763,7 +819,7 @@
                     <code>copywriting,education,marketing,seo</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
@@ -964,31 +1020,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1255727/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Toptal</h5>
-                    <h3>Senior Drupal Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,drupal,growth,design</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-drupal-developer-1255727" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your full-time freelance career as a top freelance developer with Toptal.</em></span></p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.</p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </span>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.</p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.</p><span style="color: var(--remotive-chocolate);"><br></span><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="color: var(--remotive-chocolate);">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</span></p><span style="color: var(--remotive-chocolate);"><br></span><ul style="border-style: initial; margin-bottom: 24px; margin-left: 24px; padding-left: 0px; vertical-align: baseline; list-style-type: none;"><li style="border-style: initial; margin: 0px 0px 8px; padding: 0px 0px 0px 8px; vertical-align: baseline; list-style: disc;">English language proficiency</li><li style="border-style: initial; margin: 0px 0px 8px; padding: 0px 0px 0px 8px; vertical-align: baseline; list-style: disc;"><span style="border-style: initial;">3+ years</span> of professional experience in software development</li><li style="border-style: initial; margin: 0px 0px 8px; padding: 0px 0px 0px 8px; vertical-align: baseline; list-style: disc;">Proficiency in <span style="border-style: initial;">Drupal</span> is required</li><li style="border-style: initial; margin: 0px 0px 8px; padding: 0px 0px 0px 8px; vertical-align: baseline; list-style: disc;">Experience with system architecture or leading a software team is a strong advantage</li><li style="border-style: initial; margin: 0px 0px 8px; padding: 0px 0px 0px 8px; vertical-align: baseline; list-style: disc;"><span style="border-style: initial;">Full-time availability</span> is a strong advantage</li></ul><span style="color: var(--remotive-chocolate);"><br></span><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Curious to know how much you could make? Check out our Drupal developer rate calculator: <a class="in-cell-link" href="https://topt.al/e8cvQJ" rel="nofollow" style="text-align: center;" target="_blank">https://topt.al/e8cvQJ</a></p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a class="in-cell-link" href="https://topt.al/AKc4dk" rel="nofollow" style="text-align: center;" target="_blank"><strong>https://topt.al/AKc4dk</strong></a></p>
-<img src="https://remotive.com/job/track/1255727/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://freshremote.work/media/company/logo/22/03/AkoyaNetwork.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -999,7 +1030,7 @@
                     <code>Full Time</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://freshremote.work/J113986/" align="right" target="_blank">Apply</a>
