@@ -1,26 +1,26 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/logo-square.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/ca4689cfee9eba859abb79957afc3f371662323475.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Chartbeat</h5>
+                    <h5>NOBI</h5>
                     <h3>
 					Senior DevOps Engineer				</h3>
                 </td>
                 <td width="300">
-                    <code>frontend, react, devops</code>
+                    <code>devops, crypto, cryptocurrency</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/112309" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/jobs/112528" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                About UsChartbeatâs (www.chartbeat.com) mission is to help content creators around the world better connect with their audiences. Leading media brands â including The New York Times, ESPN, the Washington Post, the BBC, and CNN â trust our suite of analytics and optimization tools to understand digital audience behavior and strengthen their content strategies. With a customer list of many of the worldâs largest websites, our systems are built to handle over 300,000 requests per second and deliver data back in real-time. You'll be joining a group of focused, hard-working, people who are passionate about doing work that's challenging and funâand who strive to maintain a healthy work/life balance.The TeamWe use an exciting array of technologies. Most of our backend code is written in Python, with a few systems in Clojure and C++. We use a variety of database technologies, including PostgreSQL, HBase, MongoDB, Redshift, and Redis. Everything is connected by message buses powered by Apache Kafka and RabbitMQ. Our frontend applications use React, React Native, Angular and rely on the Django framework for authentication. We are seeking a curious DevOps engineer to join us on this adventure by helping build and maintain the infrastructure for all core services that power our products and dashboards that newsrooms use to learn about and grow their audiences. As a member of a small team operating hundreds of machines on EC2, youâll have a material impact on our business and the ability to architect our future approaches to managing our infrastructure.Diversity, Equity, and Inclusion StatementAt Chartbeat, we strive to create and continually grow as a company where all employees are able to be their authentic selves. We are committed to recruiting, hiring, and retaining employees from different backgrounds, viewpoints, and experiences. Our strength is our diversity and we are dedicated to continuously reflect upon, and evolve our efforts to maintain a diverse, equitable and inclusive ecosystem.Equal Opportunity Employment StatementChartbeat is an Equal Opportunity Employer and does not discriminate on the basis of race, color, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by applicable national, federal, state, or local law.
+                <div><div><p></p><h2>Company Description</h2></div><div><p>NOBI helps people easily get more from their crypto asset & simplify their crypto investment experience. Our engineering team run hundreds of blockchain nodes, integrates with numerous DeFi smart contracts and run numerous real time robo trading to simplify the life our customers. <br><br>Weâre here so that everyone can be part of the global cryptocurrency movement. Join us.</p></div><div><p></p><h2>Job Description</h2></div><div><p>As Senior DevOps you will benchmark system performance, build automation tool, enhance deployment process, secure servers, run security exercise, DR plans, build service monitoring, pinpoint infrastructure issues and involved with system designs.</p><p>This includes not only the execution, but also planning, prioritization & budgeting. You need to use all the tools you build (or enforce their usage) to maintain system availability (especially production environment) close to 100% at all times (including adrenaline-rushing emergency situations & keeping up with normal maintenance)</p><p>You will closely work with our developer division to ensure the product development needed within infrastructure is fulfilled , and when needed you and are also responsible to assist developer team debugging certain case that might affected system stability</p></div><div><p></p><h2>Qualifications</h2></div><div><ul><li>Having 4 years of experience with DevOps practices, including infrastructure as code, continuous integration, and automated deployment.</li><li>At least 2 years of experience with container and microservices technology (Docker,  Kubernetes, etc).</li><li>Experience with Monitoring and Alerting systems (using Grafana, Prometheus, NewRelic, etc).</li><li>Automation scripting (using scripting languages such as Terraform, Ansible etc).</li><li>Experienced in Cloud Provider (Google Cloud Platform, AWS or Alicloud, etc).</li><li>Strong AWS and/or GCP knowledge to architect a solid infrastructure built for scalability, resilience, and security & cost optimisation.</li><li>Understands essential security practices in managing Server & Networking.</li><li>Skilled in Bash scripting and general Linux commands.</li><li>Understanding of CI/CD and available tools.</li><li>Strong analytical skill & capability to think the bigger picture.</li><li>Thirst for knowledge and new technologies.</li></ul></div></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +35,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-devops-engineer-gcp-expert" align="right" target="_blank">Apply</a>
@@ -96,7 +96,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>94 days ago</text>
+                <text>95 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-devops-engineer-1" align="right" target="_blank">Apply</a>
@@ -152,7 +152,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1344659" align="right" target="_blank">Apply</a>
@@ -177,7 +177,7 @@
                     <code>Full Time</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://freshremote.work/J114098/" align="right" target="_blank">Apply</a>
