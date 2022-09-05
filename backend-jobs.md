@@ -1,5 +1,30 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/159db70088d20a0ea78a98f13610ac8e1662323495.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TRM Labs</h5>
+                    <h3>
+					Lead Software Engineer Backend				</h3>
+                </td>
+                <td width="300">
+                    <code>software, crypto, cryptocurrency</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/112549" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>At TRM, we're on a mission to build a safer financial system for billions of people around the globe. Our next-generation platform, which combines threat intelligence with machine learning, enables financial institutions and governments to detect cryptocurrency fraud and financial crime on an unprecedented scale.</p><p>As a fast-growing team, we are looking for an experienced Tech Lead to oversee the design, development, and deployment of highly available distributed systems, services, and infrastructure for TRM's product offerings. Bringing a wealth of experience to the team, youâll directly influence the product roadmap with a clear plan for executing mission-critical features that analyze blockchain transaction activity at a massive scale. Recognized as a strategic thought leader across the company, youâll work closely with our leadership team to champion TRM's product's velocity, quality, and overall impact.</p><p><strong>Your responsibilities will include:</strong></p><ul><li>Lead an engineering team developing innovative solutions for TRM's Blockchain Intelligence platform.</li><li>Architect and design highly scalable, reliable, and data-heavy backend systems, web applications, and APIs.</li><li>Collaborate with stakeholders on transforming your teamâs vision into a tangible roadmap with clear outcomes.</li><li>Be hands-on as needed across the stack (databases, cache, code, deploy).</li><li>Develop a comprehensive team vision, strategy, and culture.</li><li>Mentor and coach teammates, supporting their learning and development.</li><li>Collaborate with TRMâs Recruiting team to identify and attract exceptional talent.</li><li>Demonstrate strong cross-functional collaboration with stakeholders including Data Engineering, Product - Management, Design, Machine Learning, and Data Science.</li></ul><p><strong>Some of the traits we value:</strong></p><ul><li>Experience designing and building scalable backend systems, web applications, APIs, and services.</li><li>We mostly work in Node.js and Typescript. However, languages can be learned: we care much more about your general engineering skill than knowledge of a particular language or framework.</li><li>A high degree of initiative and ownership, combined with the ability to navigate ambiguity and adapt quickly to change.</li><li>Exceptional ability to structure problems and identify the most critical issues to prioritize.</li><li>Ability to communicate complex ideas effectively to both technical and non-technical audiences, verbally and in writing.</li><li>Experience working collaboratively in a cross-functional environment with a diverse group of people at all levels in an organization.</li><li>Interest in virtual currencies, applications, and their use in financial networks and blockchain analysis is a plus.</li></ul><div class="content-conclusion"><p><strong>About TRM</strong></p><p>TRM Labs is a blockchain intelligence company that helps financial institutions, crypto businesses and government agencies detect and investigate crypto-related financial crime and fraud. Our products are trusted by leading companies including PayPal, Visa, FTX, Uniswap, Anchorage, and federal agencies such as the FBI and Dept. of Treasury. Every day, we tackle challenges in data engineering, data science, and threat intelligence to advance our mission to build a safer financial system for billions of people. </p><p>To accomplish our mission, we have raised nearly $80M from JPMorgan Chase, Visa, Citi, PayPal, Block, Tiger Global and Bessemer. Our team is made up of world class experts from the FBI, U.S. Secret Service, US Treasury Department, McKinsey, Coinbase, and top-tier tech companies.</p><p>TRM is a remote-first workplace, with hubs in San Francisco, Washington, DC and London. We are looking for people with grit, passion, and humility to join our global team.</p><p><strong>Our Values</strong></p><ul><li><strong>Impact Oriented Trailblazer</strong> - We define high-impact targets through customer centricity, prioritization, and adaptability.</li><li><strong>Master Craftsperson</strong> - We execute efficiently to achieve goals through good judgment, velocity, and grit.</li><li><strong>Inspiring Colleague</strong> - We elevate team performance through integrity, apprenticeship, and positive energy.</li></ul><p><strong>Our Employee Benefits</strong></p><ul><li>Remote-first work environment, with optional in-person offices</li><li>Regular team off-sites and retreats</li><li>Competitive salaries and stock options</li><li>Premium health, dental, and vision insurance</li><li>FSA, HSA, and 401K programs</li><li>Life & disability coverage</li><li>Paid time for vacations, volunteering, sick leave, and generous parental leave</li><li>Fitness, co-working, and home office reimbursements</li><li>Professional learning and development stipends</li></ul><p>We encourage you to reach out even if your experience doesn't precisely match the job description. Do not worry about picking exactly the right job; we can always explore other options after starting the conversation. Your passion and interests will set you apart, especially if your background or career is unconventional. Join us!</p></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/694d358bb77f95cfc90ce5648935d77a1662156005.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -11,7 +36,7 @@
                     <code>c#, financial, finance</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112382" align="right" target="_blank">Apply</a>
@@ -21,31 +46,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 Join our global team of 350+ craftspeople! We are a consultancy that solves business problems by designing and building highly complex custom software for the world's leading companies. We are on a mission to dismantle the traditional consulting ecosystem and replace it with an effective framework for innovation that transforms the way businesses think about and solve problems from the inside out.WHAT YOU'LL DOAs Experienced Backend EngineerÂ  you will build greenfield and brownfield, scalable web platforms within the .NET Core environment. In addition to providing input on app architecture, you will create and review pull requests daily and engage with internal teams and directly with clients with an agile environment. You will work in small teams with a product manager, designers and other engineers to scope design and implement features.Â WHO YOU AREYou are a passionate technologist with the discipline to create and finish projects. You have opinions about your favorite open source projects, or perhaps you have contributed to some or started one of your own.Â  You are a communicator. Whether you are raising the flag within an implementation or sharing your favorite playlist in Slack, you will not shy away from letting your voice be heard.Â Â This program interacts with teams on the Pacific coast of the US. Successful candidates will have to align a portion of their day to the morning hours of the client.Unsure if your skills meet all of our requirements?Apply anyway! We would love to meet you and find out more about how your skills could add value. At TheoremOne, we value open communication and feedback. We believe that diversity of identity, perspective, and experience makes us stronger; we would love to hear your perspective too!Recording disclosureTheoremOne records interviews so that we can focus on delivering a great interview experience. If you are uncomfortable with being recorded, please let our recruiters know when they reach out to you.About TheoremOneFounded in 2007, TheoremOne LLC is a remote-first technology consulting company, globally distributed by design. We are privately-owned and committed to building a sustainable organization. Our services range from:Â -New product development-Pure R & D-Legacy modernization-Revenue generation-Process optimization-Organizational transformationIf itâs cool and engaging in technology, we are likely working on it.Customers come to us because they need to change to succeed and are looking for a solution that isn't just about technology â but also people, process, and leadership. We consult, form a diverse team of experts, and deliver strategy and execution under one roof.Consultants come to us for the autonomy, depth of project, and challenge of working with a wide range of clients across multiple platforms and industries. Our contributors are master puzzle solvers in a vast range of technologies. Benefits and Perks100% REMOTE - We're fully distributedTEAM RETREATS -Â We value our face to face interaction, so our team enjoys regular retreats (on pause due to Covid-but will kick back off when safe and compliant)EDUCATION AND CAREER GROWTH - We encourage our team to undertake any professional growth opportunities available, and we offer programs and financial assistance to achieve this!HEALTHY BODY, HEALTHY MIND - HAPPY TEAM  -Â We offer paid vacation and support healthy lifestyles through our physical fitness benefits program.COMPANYWIDE VISIBILITY - We operate in a fully transparent environment to ensure we as a company and team have full understanding of where we came from, and where we are going.HEALTHCARE & FINANCE -Â For US, UK, Canada, Spain and Brazil based full time employees; we have comprehensive benefits.#LI-RemoteÂ TheoremOne expects all team members to be honest, trustworthy, and operate with integrity. Discrimination and all unlawful harassment (including sexual harassment) in employment is not tolerated. We encourage success based on our individual merits and abilities, and all decisions regarding recruitment, hiring, promotion, compensation, employee development decisions such as training, and all other terms and conditions of employment, are based on business needs, job requirements and individual qualifications without regard to race, genetics, nationality, national origin, citizenship status, employment status, ethnicity, ethnic origin, color, creed, religion, belief, age, family or parental status, pregnancy, marital status, sex, gender, sex or gender assigned at birth, gender identity, gender expression, sexual orientation, sexual preference, romantic orientation, romantic preference, pairing orientation, pairing preference, language, lifestyle, social class, socio-economic status, political affiliation, military or veteran status, physical and mental ability, disability, hairstyle, physical features, medical condition, or any other other status protected by the laws or regulations in the locations where we operate. We oppose all forms of unlawful or unfair discrimination. TheoremOne encourages applicants of all ages. We've created a competitive rewards model for our team members around the world. TheoremOne's benefit and compensation offerings vary depending on geographic location, are subject to eligibility requirements, and may be modified from time to time. TheoremOne is an equal opportunity employer.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/logo-square.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sphinx Defense</h5>
-                    <h3>
-					Senior Backend Engineer				</h3>
-                </td>
-                <td width="300">
-                    <code>test, security, senior</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/112330" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Sphinx is hiring a Senior Backend Engineer to join our Space  Communications team building a ground communications and  data-transport  platform for US government satellites. As a Senior Backend Engineer  you will lead the development of core  platform services, designing and  building technology to support the operations of a wide variety of US  Government satellites. You'll work as both a individual contributor and a lead for more junior engineers. Sphinx builds software to solve complex national security problems for America and its allies. Founded by engineers and technologists with deep experience across commercial and defense technology, we were frustrated by the outdated and insecure technology America's service members are forced to rely on. We're here to do better. Weâre focused on building modern, scalable products with an emphasis on using open source technologies. Expect talented, motivated, and interesting colleagues who emphasize collaboration, transparency, and individual responsibility.Â The base compensation range for this position is 160-185k/year, and includes meaningful equity ownership, profit sharing, employer 401(k) contribution, and 100% employer covered medical, dental, and vision insurance for you and your dependents. We work across time zones and are very accommodating of flexible schedules. Eligibility: The position is only open to US Citizens. This is a full time, remote (anywhere in the US) position.
                 </details>
                 </td>
             </tr>,<tr>
@@ -60,7 +60,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/baremetrics-senior-backend-engineer-1" align="right" target="_blank">Apply</a>
@@ -136,7 +136,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>781 days ago</text>
+                <text>782 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/theoremone-llc-senior-backend-engineer-python" align="right" target="_blank">Apply</a>
@@ -193,7 +193,7 @@
                     <code>AWS,backend,business intelligence,docker</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineering-manager-1368348" align="right" target="_blank">Apply</a>
@@ -286,7 +286,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
