@@ -1,5 +1,30 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/689211b6baece602bd01bc7c60c1484b1662249606.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Mountaintop Studios, Inc.</h5>
+                    <h3>
+					Software Engineer Audio				</h3>
+                </td>
+                <td width="300">
+                    <code>software, math, content</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/112420" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                ABOUT USMountaintop is a new game studio creating multiplayer games for players that crave a challenge. Weâre an independent, remote-first studio primarily located in the US.Weâre creating the types of games that bring people together â and keep them together for âjust one more round.â The types of games that inspired us as kids. The games that become our hobbies, and sometimes our obsessions.Games are a reflection of the teams that make them. So to make the best games, weâre building a studio that puts the team first â one that's collaborative, anti-crunch, diverse, and inclusive.Weâd love for you to join us.THE ROLEWeâre looking for a Software Engineer whoâs passionate about building extraordinary new audio experiences that inspire others. Awesome and immersive audio is a major part of the player experience, so youâll play a crucial role in bringing our first title to life.You should be comfortable working with both programmers and audio content creators as you will be working with both teams. The ideal candidate is an excellent general programmer with strong 3D math skills who is passionately dedicated to the world of audio.Â 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +35,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>62 days ago</text>
+                <text>63 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-sr-software-engineer-data-engineer-golang-kafka" align="right" target="_blank">Apply</a>
@@ -63,7 +88,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>182 days ago</text>
+                <text>183 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-blockchain-integrations-1" align="right" target="_blank">Apply</a>
@@ -121,7 +146,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>182 days ago</text>
+                <text>183 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-golang-2" align="right" target="_blank">Apply</a>
@@ -176,7 +201,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>631 days ago</text>
+                <text>632 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/iterative-senior-software-engineer-open-source-dev-tools-core" align="right" target="_blank">Apply</a>
@@ -235,7 +260,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -303,7 +328,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
