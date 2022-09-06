@@ -11,7 +11,7 @@
                     <code>software, math, content</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112420" align="right" target="_blank">Apply</a>
@@ -21,6 +21,61 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 ABOUT USMountaintop is a new game studio creating multiplayer games for players that crave a challenge. Weâre an independent, remote-first studio primarily located in the US.Weâre creating the types of games that bring people together â and keep them together for âjust one more round.â The types of games that inspired us as kids. The games that become our hobbies, and sometimes our obsessions.Games are a reflection of the teams that make them. So to make the best games, weâre building a studio that puts the team first â one that's collaborative, anti-crunch, diverse, and inclusive.Weâd love for you to join us.THE ROLEWeâre looking for a Software Engineer whoâs passionate about building extraordinary new audio experiences that inspire others. Awesome and immersive audio is a major part of the player experience, so youâll play a crucial role in bringing our first title to life.You should be comfortable working with both programmers and audio content creators as you will be working with both teams. The ideal candidate is an excellent general programmer with strong 3D math skills who is passionately dedicated to the world of audio.Â 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6755/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Decrypt</h5>
+                    <h3> Full-Stack Web3 Application Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/decrypt-full-stack-web3-application-software-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6755/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://decrypt.co">https://decrypt.co</a>
+</p>
+
+<div>
+<strong>Decrypt</strong><br><br>Decrypt is a media company for the Web3 age, with a readership of around five million across the globe. We develop content and products for blockchain education and news, and aim to be a guide to the innovative projects, companies and concepts being built on blockchain and other decentralization technologies. <br><br><strong>The Role</strong><br><br>We are looking for a Full-Stack Web3 Application Software Engineer to help us create the future of the Decrypt experience.<br><br>You will be working on a team that is focused on creating novel platform experiences with media and blockchain technologies. This role is perfect for someone with a passion for digital media and Web3 products who wants to work on projects with large impact and new technologies. <br><br>You will work collaboratively with your team on operational and technical projects. In this role, you should be able to work independently with little supervision. You should have excellent organization and problem-solving skills, with hands-on experience in software development and agile methodologies.<br><br>You’ll join our tight, remote product team and be surrounded by passionate people who are excited by the potential of blockchain and other decentralization technologies, and eager to spread their adoption. You’ll work with engineering, product, design, commercial, and editorial colleagues globally across time zones from a wide range of backgrounds and nationalities. We are a remote first team, and have been since our inception.<br><br><strong>You Will</strong>
+</div><ul>
+<li> Work with a team of other engineers, designers, product managers, and editorial stakeholders to shape and elevate the core Decrypt experience.</li>
+<li>Focus on the frontend vision and implementation of our reader experience, with attention to performance, maintainability, and user experience.</li>
+<li>Implement tools for our commercial partnerships</li>
+<li>Contribute to the creation, maintenance and improvement of supporting backend systems.</li>
+<li>Reach across the entire tech stack at Decrypt and get a deep understanding of a Web3 media company’s architecture and operations.</li>
+</ul><div><br></div><div><strong>You Have</strong></div><ul>
+<li>You have proven experience as a Software Engineer, ideally 5 years or more, in software development, scripting, and project management.</li>
+<li>You are comfortable working with most, if not all, of the following: JavaScript, React, Docker, container orchestration (Kubernetes,) distributed systems architecture.</li>
+<li>You have an analytical mind with problem-solving aptitude, and ability to work independently.</li>
+<li>You are a passionate, empathetic, and product-focused engineer who enjoys contributing to and leading technical projects and working with engineers at all levels.</li>
+<li>You value testing, instrumenting, and documenting your work.</li>
+<li>You adapt quickly to change and love to ship and iterate, building on new user research, insights and data.</li>
+</ul><div>
+<br><em>Preferred:</em>
+</div><ul>
+<li> General knowledge in blockchain / cryptocurrency</li>
+<li> Experience working remotely or with otherwise asynchronous teams</li>
+<li> BSc/BA in Computer Science or a related degree</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/decrypt-full-stack-web3-application-software-engineer">https://weworkremotely.com/remote-jobs/decrypt-full-stack-web3-application-software-engineer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +90,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>63 days ago</text>
+                <text>64 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-sr-software-engineer-data-engineer-golang-kafka" align="right" target="_blank">Apply</a>
@@ -88,7 +143,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>183 days ago</text>
+                <text>184 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-blockchain-integrations-1" align="right" target="_blank">Apply</a>
@@ -146,7 +201,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>183 days ago</text>
+                <text>184 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-golang-2" align="right" target="_blank">Apply</a>
@@ -201,7 +256,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>632 days ago</text>
+                <text>633 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/iterative-senior-software-engineer-open-source-dev-tools-core" align="right" target="_blank">Apply</a>
@@ -250,132 +305,65 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1187416/logo" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1368221/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Iterative</h5>
-                    <h3>Senior Software Engineer  - DevTools, Open Source, Python</h3>
+                    <h5>Wolfram</h5>
+                    <h3>Software Engineer - Web Product Engineering</h3>
                 </td>
                 <td width="300">
-                    <code>data science,machine learning,python,open source</code>
+                    <code>apache,cloud,CSS,education</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-web-product-engineering-1368221" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><strong>Job Description</strong></p>
-<p>Strong Python knowledge and excellent coding culture (standards, unit test, etc) are required. Alternatively, strong skill in other languages along with some knowledge of Python is also acceptable.</p>
-<p><br><br></p>
-<div class="h3">Responsibilities</div>
+                <div>
+<div>
+<div>
+<div>
+<div>
+<p>Wolfram, creator of Mathematica, Wolfram|Alpha and the Wolfram Language, is seeking a highly motivated and skilled Software Engineer to join its Web Product Engineering group. The Software Engineer will be responsible for designing, developing, implementing and maintaining software applications. This position involves analyzing users’ needs and then designing, testing and developing software to meet those needs. The Software Engineer also recommends software upgrades for customers’ existing programs and systems.</p>
+<p><strong>Responsibilities </strong></p>
 <ul>
-<li>Discuss and research issues, features, new products.</li>
+<li>Collaborating with multiple teams to produce projects of varying sizes and levels of complexity</li>
+<li>Building and maintaining web applications for the Wolfram Cloud, Wolfram Community and other Wolfram products</li>
+<li>Creating and utilizing REST web services</li>
+<li>Configuring and running Apache Tomcat, NGINX and similar servlet containers</li>
+<li>Creating technical documentation for applications</li>
+<li>Helping with the maintenance of legacy applications</li>
+<li>Utilizing knowledge of and experience with J2EE, Java, MySQL, HTML, CSS, LifeRay, JavaScript (React, Vue, etc.), Spring MVC, Spring Boot, Hibernate, unit testing, OAuth, Mathematica, Git, Jira and the Apache HTTP web server</li>
+<li>Working closely with Quality Assurance to test, debug and release quality code updates</li>
+<li>Writing unit tests to prevent common regressions</li>
 </ul>
+<p><strong>Education and work experience</strong></p>
 <ul>
-<li>Write code (see some <a class="postings-link" href="https://github.com/iterative/dvc/pulls?q=is%3Apr+is%3Aclosed" rel="nofollow"><strong>PR examples</strong></a>).</li>
+<li>Bachelor’s degree (or a foreign equivalent) in computer science, engineering, math, physics or a related technical or quantitative field</li>
 </ul>
+<p><strong>Experience must include the following skills</strong></p>
 <ul>
-<li>Write docs if needed for your code (see this <a class="postings-link" href="https://github.com/iterative/dvc.org" rel="nofollow"><strong>repo</strong></a>).</li>
+<li>Analyzing requirements and developing software applications using SDLC methodologies</li>
+<li>Designing and developing interactive user interfaces</li>
+<li>Writing custom APIs using Java</li>
+<li>Providing manual and automated testing solutions for distributed application architectures</li>
+<li>Developing and executing automated functional, regression and integration test cases using an automation tool</li>
+<li>Delivering quality assurance testing reports for product quality and testing readiness</li>
+<li>Developing database wrapper functions for data staging and modeling data objects</li>
 </ul>
-<ul>
-<li>Being actively involved with the community - talk to users on Github, Discord, forum.</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Must have</div>
-<ul>
-<li>Motivation and interest</li>
-</ul>
-<ul>
-<li>Remote work self-discipline</li>
-</ul>
-<ul>
-<li>Excellent communication skills - clear, constructive, and respectful dialog with other team members, community.</li>
-</ul>
-<ul>
-<li>Can focus and deliver a task w/o constantly switching to other stuff - respect team's planning, deadlines, etc</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Great to have</div>
-<ul>
-<li>Experience working remotely</li>
-</ul>
-<ul>
-<li>Open source contributions or experience of maintaining, developing an open source project</li>
-</ul>
-<ul>
-<li>System programming experience - kernel, databases, etc.</li>
-</ul>
-<ul>
-<li>Machine learning or data science experience</li>
-</ul>
-<img src="https://remotive.com/job/track/1187416/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Iterative</h5>
-                    <h3>Senior Software Engineer - Front-end, Typescript</h3>
-                </td>
-                <td width="300">
-                    <code>backend,git,machine learning,python</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>The ML tools ecosystem is what JS space was 10 years ago: there’s a clear need for better tools, frameworks, and open standards. <span class="notion-enable-hover" style="font-style: italic;">ITERATIVE</span> is already a well known company in this fast-evolving space with a big, engaged open-source community. Please consider joining our <span class="notion-enable-hover" style="font-style: italic;">remote-first team</span> if you love open-source, if you’re interested in building dev tools and simplifying the lives of many, many developers in ML.</p>
-<p><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;"><br class="Apple-interchange-newline">Job Description</span></p>
-<p>We’re seeking<span class="notion-enable-hover" style="font-weight: 600;"> </span><span class="notion-enable-hover">TypeScript front-end engineers to build our</span><span class="notion-enable-hover"> <a href="https://studio.iterative.ai/" rel="nofollow" style="font-weight: 600;">SaaS product</a> and a</span><span class="notion-enable-hover" style="font-weight: 600;"> VS Code UI</span> (to be open sourced soon!) for our popular machine learning tools: <a class="notion-link-token notion-enable-hover" href="http://dvc.org/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--1168671846" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">DVC</span></a> (9k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span>on GitHub) and <a class="notion-link-token notion-enable-hover" href="http://cml.dev/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--2051758088" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">CML</span></a> (3k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span> on GitHub).</p>
-<p><span style="color: var(--remotive-chocolate);">If you have experience with dev tools like GitHub, UI plugins for Git, etc., you should have some sense what the project is like (if not, check our <a href="https://iterative.ai/" rel="nofollow">site</a>).</span></p>
-<p> </p>
-<p class="h3">Tech Stack</p>
-<ul>
-<li>TypeScript</li>
-</ul>
-<ul>
-<li>Node</li>
-</ul>
-<ul>
-<li>React</li>
-</ul>
-<ul>
-<li>Python (on the backend)</li>
-</ul>
-<p> </p>
-<p class="h3">Must have</p>
-<ul>
-<li>Strong TS/JS/Node experience (5+ years)</li>
-</ul>
-<ul>
-<li>Excellent communication skills and a positive mindset 🤗</li>
-</ul>
-<ul>
-<li>Initiative to help shape the engineering practices, products, and culture of a young startup</li>
-</ul>
-<p><br><br></p>
-<p class="h3">Nice to have</p>
-<ul>
-<li>Python or open source experience - good to have</li>
-</ul>
-<ul>
-<li>Some domain knowledge (DS/ML understanding) - an advantage</li>
-</ul>
-<p> </p>
-<img src="https://remotive.com/job/track/1187421/blank.gif?source=public_api" alt=""/>
+<p><strong>Location:</strong> Remote</p>
+<p>Wolfram is an equal opportunity employer and values diversity at its company. Women, people of color, members of the LGBTQ community, individuals with disabilities and veterans are strongly encouraged to apply.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+<img src="https://remotive.com/job/track/1368221/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
