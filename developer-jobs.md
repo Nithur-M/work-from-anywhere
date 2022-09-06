@@ -1,5 +1,91 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/6cc3f12877148b9a277b836fa2d164491662269724.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>3XM Group</h5>
+                    <h3>
+					S Salesforce Developer				</h3>
+                </td>
+                <td width="300">
+                    <code>education, marketing, legal</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/112454" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                3XM Group develops quality software solutions, with offices in the US and Argentina. We aim to be strategic advisors for our clients, taking care of all their technology needs, focusing on delivering tailored solutions on-time and within scope.We provide Data Analytics, Cloud, DevOps, and Software Development services, with agile teams that can work with you as stand-alone teams, integrating into your inhouse dev teams, or providing external architectural guidance.We are looking for an experienced APEX Developer to help our client on building scalable solutions with focus on Sales and Service Processes to support both the B2B and B2C business practices. This role will be involved in assisting with the merger of different Salesforce Cloud platforms.  
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6740/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6740/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
+
+<div><strong>The Role:</strong></div><div>We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
+<br><br>
+</div><div><strong>What we are looking for:</strong></div><ul>
+<li>4+ years of working experience as a FullStack;</li>
+<li>Frontend:<br>- React JS;<br>- Design System;</li>
+<li>Backend:<br>- Microservices architecture;<br>- NodeJS; </li>
+<li>Database:<br>- SQL;<br>- MongoDB;</li>
+<li>Upper-intermediate or higher English level.</li>
+</ul><div><br></div><div><strong>Nice-to-have: </strong></div><ul>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Database Architecture knowledge</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.🚀 <strong>360 degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<br><br>
+</div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/3487/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +96,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/innovation-upstream-inc-lead-golang-react-developer" align="right" target="_blank">Apply</a>
@@ -65,7 +151,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6641/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6752/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>thoughtbot</h5>
@@ -75,7 +161,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/thoughtbot-senior-react-native-developer-remote" align="right" target="_blank">Apply</a>
@@ -84,7 +170,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6641/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6752/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
   <strong>Headquarters:</strong> New York, United States
@@ -129,6 +215,106 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6573/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Creative Noggin</h5>
+                    <h3> Web Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>5 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/creative-noggin-web-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6573/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Antonio, Texas
+    <br /><strong>URL:</strong> <a href="https://creativenoggin.com">https://creativenoggin.com</a>
+</p>
+
+<div> </div><h1>Web Developer</h1><div>
+<strong>What we’re looking for.<br><br></strong>We’re looking for a web developer to collaborate closely with our creative and account teams to help plan, build and manage websites. You’ll play a critical role in maintaining our clients’ online experiences and bringing technical knowledge to our team.<br><br><strong>Would you love working from home?<br><br></strong>Creative Noggin is an award-winning 100% remote branding and marketing agency that has long embraced the fact that employees working from home are more focused, productive, and most of all, happy.We offer a work lifestyle that is attractive to people who despise commuting, prefer to avoid large egos, want challenging work they can be proud of, and love personal time. We are looking for others that share our values!<br><br><strong>Essential Functions<br><br>Website Development, Troubleshooting, and Maintenance</strong>
+</div><ul>
+<li>Development &amp; testing</li>
+<li>Routine website maintenance</li>
+<li>Troubleshooting and resolving website issues</li>
+<li>Coordinating with outside development resources as needed</li>
+<li>Successfully prioritize and manage development requests</li>
+<li>Ability to use your technical knowledge to bring ideas and make recommendations on client projects</li>
+</ul><div><strong>Search Engine Optimization</strong></div><ul>
+<li>Regularly evaluate site technical effectiveness</li>
+<li>Resolve technical SEO issues</li>
+<li>Assist in running technical SEO scans</li>
+</ul><div><strong>Desired Skills and Experience</strong></div><ul>
+<li>3 – 4 years of web development experience</li>
+<li>Fluent in HTML, CSS, PHP, and JavaScript and WordPress</li>
+<li>Familiar with popular content management systems</li>
+<li>Self-motivated and a problem-solver</li>
+<li>A desire to collaborate with others</li>
+<li>Love to learn and stay up-to-date with current best practices and new technologies</li>
+<li>An ability to explain complex solutions in non-technical terms</li>
+</ul><div><strong>Agency Values</strong></div><ul>
+<li>
+<strong>WE ARE COLLABORATIVE. </strong>We strive to bring something to every table. We work remotely yet together with open minds—and hearts, welcoming new ideas and alternative ways of thinking to make our clients successful.</li>
+<li>
+<strong>WE ARE STRATEGIC. </strong>We keep the ultimate destination in mind with every footstep. Everything we do, every decision we make, comes down to three little letters: WHY?</li>
+<li>
+<strong>WE ARE SMART. </strong>We each fan our flames to fuel collective excellence. From learning new skills to researching the latest best practices, we each take pride in advancing our knowledge for the betterment of the agency, the clients we serve, and ourselves.</li>
+<li>
+<strong>WE ARE FUN.</strong> It doesn’t take long at Creative Noggin to discover your inner child. We may have even competitively shaken a tissue box full of ping pong balls strapped to our backside at a company retreat (we got in trouble from the venue for laughing too hard!). We frequently let our hair down, laughing at ourselves—and with each other.</li>
+<li>
+<strong>WE ARE PASSIONATE.</strong> We use our expertise—and common sense. Our clients are counting on us to take care of them. Protecting their time, budget and brand is an important part of our mission at Creative Noggin.</li>
+<li>
+<strong>WE WORK FROM HOME. </strong>That’s right. Creative Noggin is 100% virtual and always has been. We honor this flexibility and privilege by taking our work seriously and servicing our clients better than if we were all in an office together.</li>
+</ul><div><strong>Our company runs on the Entrepreneurial Operating System (EOS)</strong></div><ul>
+<li>That means as a member of this team, you will have a leader who:</li>
+<li>Gives clear directions</li>
+<li>Makes sure you have the necessary tools</li>
+<li>Acts with the greater good in mind</li>
+<li>Delegates appropriately</li>
+<li>Takes time to truly understand your role and how you can help the company</li>
+<li>Makes their expectations clear</li>
+<li>Communicates well</li>
+<li>Has effective meetings</li>
+<li>Meets one-on-one with you quarterly or more, if needed</li>
+<li>Rewards and recognizes your performance</li>
+</ul><div><strong>Benefits</strong></div><div>
+<br>We offer a competitive benefits package that includes the following:<br><br>
+</div><ul>
+<li>Medical, Dental &amp; Vision Coverage</li>
+<li>Company Paid Basic Life, AD&amp;D Insurance</li>
+<li>Retirement Plan with Company Match</li>
+<li>Short-Term and Long-Term Disability</li>
+<li>Friendly, fun, and flexible work environment with a team of awesome people</li>
+<li>Pay commensurate with experience.</li>
+</ul><div><strong>To Apply</strong></div><div>
+<br>Please send the following to digital@creativenoggin.com with the subject 'Job Application – Creative Noggin Web Developer.<br><br>
+</div><ul>
+<li>A cover letter</li>
+<li>Resume</li>
+<li>A link to your online portfolio</li>
+<li>Your salary history and requirements</li>
+</ul><div>
+<br>Please visit this link <a href="https://take.surveys.ci/s/6wsWVe58Hg/68909">https://take.surveys.ci/s/6wsWVe58Hg/68909</a> and take a short 10-12 minute Culture Index survey. The survey <strong>MUST</strong> be complete for interview consideration.<br><br>
+</div><div>
+<br>We’re reserving the phone lines for all of the clients we need your help servicing, so at this point no calls…email only, please!<br><br>
+</div><div><br></div><div><br></div><div><br></div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/creative-noggin-web-developer">https://weworkremotely.com/remote-jobs/creative-noggin-web-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5868/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -139,7 +325,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-back-end-developer-node-js-web3-remote" align="right" target="_blank">Apply</a>
@@ -206,241 +392,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/3489/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OpenCraft</h5>
-                    <h3> Senior Open Source Developer & DevOps (Python, Django, React, AWS/OpenStack)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>663 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0017/3489/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Fully remote company (worldwide, incorporated in Berlin)
-    <br /><strong>URL:</strong> <a href="https://opencraft.com/">https://opencraft.com/</a>
-</p>
-
-<div>Do you care about contributing to open-source, and appreciate a good challenge? We do too! :) <br><br>
-</div><div>
-<strong>Open-source<br></strong><br>
-</div><div>We are a team of veteran open-source developers, working on educational and community-based projects in an<a href="https://handbook.opencraft.com/en/latest/open_first/"> open-first</a> environment – and we are looking for new members. By joining us, you will work full-time on open-source, pushing your changes to free software projects upstream through pull requests, contributing features, documentation, or help on public forums. </div><div>
-<br>We care deeply about contributing our work upstream. You will see the results of your work reused and recognized across the educational community, increasing access to quality education for everyone, everywhere.</div><div>
-<br><strong>Remote-first</strong>
-</div><div>
-<br>Unlike companies who reluctantly started to accept remote workers recently, we have embraced it from day 1. For the past 7 years, we have based and refined our way of working around remote-friendly workflows, from the ground up. No day-long video meetings, mandatory work hours, or risk of being forced back into an office one day -- as long as you have a good internet connection, it’s none of our business when or where you work from. :)</div><div>
-<br>We are all working remotely, from all continents (except Antarctica, at least so far - applicants welcome!). We use remote-friendly and timezone-agnostic workflows based on asynchronous principles and good documentation practices.</div><div>
-<br><strong>Online education<br></strong><br>
-</div><div>We are one of the main contributors to the <a href="https://open.edx.org/">Open edX project</a>, the main open-source MOOC platform created by MIT, Harvard and many other top universities. It powers sites like <a href="https://www.edx.org/">edX.org</a>, the <a href="https://openlearning.mit.edu/courses-programs/open-learning-library">MIT Open Learning Library</a>, and the <a href="https://www.fun-mooc.fr/">national online learning platform for France</a>. We provide development and hosting for institutions like <a href="https://onlinelearning.hms.harvard.edu/hmx/">Harvard Medical School</a>, <a href="https://www.labxchange.org">Harvard LabXchange</a>, <a href="https://ondemand.cloudera.com">Cloudera</a>, <a href="https://www.upskill.autodesk.com">Autodesk</a>, and several governments. We are not affiliated with <a href="https://www.edx.org/">edX.org</a>, but we contribute and work with them on various projects. </div><div>
-<br><strong>Technical stack</strong><br><br>
-</div><div>The Open edX project is a large Python/Django codebase, with good code standards and architecture. Tasks are varied, from developing core platform features, custom exercises and tools for specific courses (XBlocks), customizing and deploying instances, working full-stack, operating our service infrastructure, improving our hosting platform, etc. You won't get bored here.<br><br>
-</div><div>
-<strong>Contracting terms<br></strong><br>
-</div><div>This is a full-time, permanent contract position. We aim for long-term relationships -- once in, almost all team members stay for many years. </div><div><br></div><div>We care about paying fairly: </div><ul>
-<li>Team members set their own compensation level, which is paid based on hours worked (no unpaid overtime!). </li>
-<li>When determining your rate, we will expect you to factor in benefits (vacation, healthcare, purchase budgets, etc.) - the idea is to let <em>you</em> pick the benefits that are useful to you, rather than offer one-size-fits-all packages that aren’t always very valuable.</li>
-<li>We also proactively apply generous raises team-wide, based on the company results at the end of each year. <a href="https://handbook.opencraft.com/en/latest/team_compensation/">See the details about how we approach compensation in our handbook</a>.</li>
-</ul><div>We also firmly believe in work-life balance: as long as you deliver what you commit to, there is a lot of latitude in how much work you can choose to accept. We are open to time commitments anywhere in the 30h to 40h/week range, and highly discourage working more than that. It’s important to have time to ourselves, as well as having some slack, and there are diminishing returns in working more anyway. We are currently recruiting precisely to preserve that balance, and ensure we have plenty of capacity to handle our projects.</div><div><br></div><div>We welcome applicants of all genders and ethnicities.</div><div>
-<br><strong>Basic Requirements:</strong>
-</div><ul>
-<li>Experience with contributing to free software projects - small contributions are completely fine, but you <em>must</em> have at least one patch or pull request merged in a third-party project, or been a maintainer of an open source project with significant adoption. (Note that you can contribute now to satisfy this requirement - see for example the <a href="https://github.com/openedx/build-test-release-wg/projects/1">Open edX release issues</a>, fixing one of these issues guarantees an interview.)</li>
-<li>Senior developer with 3+ years working with Python</li>
-<li>Experience with Python web frameworks, specifically Django</li>
-<li>3+ years of HTML, Javascript, and CSS (experience with React and/or Typescript is a big plus!)</li>
-<li>Experience with unit testing</li>
-<li>Comfortable working in a Linux environment, specifically Debian or Ubuntu</li>
-<li>Experience with databases: MySQL, MongoDB, PostgreSQL</li>
-</ul><div>
-<strong>Additional Skills:</strong><br><br>
-</div><div>You will work on tasks from the following categories, but you can pick up the skills on the job if you haven't mastered these yet:</div><ul>
-<li>DevOps experience, especially on Debian/Ubuntu servers, Terraform, Vault, Packer, Prometheus, ELK, Docker. We are building a modern infrastructure and having a strong DevOps presence on top of core software engineering skills is a big plus with us.</li>
-<li>Cloud computing, like AWS or OpenStack</li>
-<li>Configuration management tools such as Ansible, Consul</li>
-<li>RabbitMQ, Redis &amp; Elasticsearch</li>
-<li>Mobile development (iOS and/or Android)</li>
-<li>Managing clients &amp; projects from beginning to completion (senior developer)</li>
-<li>Public speaking at conferences (you would present a talk every year at the Open edX Con)</li>
-</ul><div>
-<br><strong>Apply for this Position</strong><br><br>
-</div><div>Our recruitment process differs from most other companies - we don’t believe resumes and the traditional interviews to be particularly effective. Often, they tell more about how good someone is at interviewing, rather than at the actual work. So, our initial interview is lighter and easier to pass than in other companies - but we then provide you with real (and paid!) work to see how it works out in reality.</div><ul>
-<li>Step 1: You apply by filling out this form: <a href="https://opencraft.com/jobs/open-source-developer/">https://opencraft.com/jobs/open-source-developer/</a> </li>
-<li>Step 2: We do two interviews with candidates matching the requirements listed above. The first interview includes a (simple) coding exercise.</li>
-<li>Step 3: If this works out, we hire you! We start with a 2 months <a href="https://handbook.opencraft.com/en/latest/processes/#recruitment">trial period</a>, which allows both you and the rest of the team to fully evaluate how we work together, and is followed by a final review and confirmation. </li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack">https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1366761/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Publitas.com</h5>
-                    <h3>Senior Front End Developer</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,backend,contract,developer</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1366761" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p dir="ltr"><strong><em>Create customer value.</em></strong></p>
-<p dir="ltr"><strong><em> </em></strong></p>
-<p dir="ltr">We believe that business growth starts with a fantastic product that people want to use. And with Publitas, we aim to create an exceptional experience for browsing shoppers by publishing engaging content online. We are on a mission to inspire people from all over the world (60M today) through a more sustainable discovery experience. We guide our customers, leading retailers such as Mattel, IKEA, Home Depot, Lenovo, and Williams Sonoma, through the print transition and provide the personalized service they deserve, which has earned us their trust and loyalty. As a result, we have more than 1900 passionate customers and advocates worldwide.</p>
-<p dir="ltr"> </p>
-<p dir="ltr">At Publitas we’re looking to add an experienced and self-driven Senior Frontend Developer to help us develop and improve our product. You will join our Development team consisting of 1 Development Lead, 8 Developers and 2 QA engineers.</p>
-<p dir="ltr"> </p>
-<p> </p>
-<p dir="ltr"><strong>As part of this role: </strong></p>
-<ul>
-<li dir="ltr">
-<p dir="ltr">You will collaborate with a cross functional team to translate customer needs and product vision into new features.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">You will help us maintain and build highly interactive and performant web applications.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">You will contribute to our frontend architecture and strategy.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">You will be involved in monitoring and triaging issues &amp; bugs.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">You will help and mentor less experienced developers and help us build a strong engineering team.</p>
-</li>
-</ul>
-<div>
-<p dir="ltr"><strong> </strong></p>
-<p dir="ltr"><strong>About you:</strong></p>
-<ul>
-<li dir="ltr">
-<p dir="ltr">You like and have experience developing complex graphical user interfaces using web technology.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">You have several years of experience using modern frontend frameworks, such as React, Vue, Svelte etc. Our frontend is mostly written in React &amp; Redux.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">You can work back from the problem domain towards technical solutions, making technical decisions and breaking problems into manageable chunks on the way.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">You're a strong written and verbal communicator and very fluent and comfortable with English. You are able to explain technical concepts and help bring consensus within the team.</p>
-</li>
-</ul>
-<p dir="ltr"><strong> </strong></p>
-<p dir="ltr"><strong>Bonus: </strong></p>
-<ul>
-<li dir="ltr">
-<p dir="ltr">You enjoy and have a good eye for design and UX</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">You have experience with performance intensive graphics (video game graphics, data visualization etc)</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">You have experience with our backend technologies (Ruby on Rails, NodeJS, AWS) and you can build simple things end-to-end if need be.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">You are working in the European time zone</p>
-</li>
-</ul>
-<p dir="ltr"><strong> </strong></p>
-<p dir="ltr"><strong>If you’ve been reading this far, chances are high you're a bit like us:</strong></p>
-<ul>
-<li dir="ltr">
-<p dir="ltr">You desire to do things better and to improve the world around you.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">You believe that results and impact matter more than hours spent.</p>
-</li>
-<li dir="ltr">You’re self-driven, and you love the fact that Publitas operates through <a href="https://sites.google.com/publitas.com/habits-values/" rel="nofollow">values &amp; habits</a> such as:
-<ul>
-<li dir="ltr">
-<p dir="ltr">Honesty</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Respect</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Passion</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Generosity</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Excellence</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Curiosity</p>
-</li>
-</ul>
-</li>
-</ul>
-<div class="h3" dir="ltr"><strong> </strong></div>
-<div class="h3" dir="ltr"><strong>What can you expect from us?</strong></div>
-<ul>
-<li dir="ltr">
-<p dir="ltr">€38.4k - €94.6k gross salary per year.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Twenty-five vacation days per year and your National Holidays off.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">A contract of indefinite duration.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Work from anywhere you desire.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">A monthly shared office space/coworking allowance.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">A one-time home office setup stipend.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">A top-of-the-line MacBook.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Monthly wellness allowance to stay healthy while working remotely.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Annual retreats in some of the greatest cities in the world.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Free books in Kindle and Audible store.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">We'll challenge and support you to get the most out of your potential through personal coaching sessions.</p>
-</li>
-</ul>
-<br>
-<p dir="ltr"><em>We promise to get rid of everything that stands in your way so you can create your best work. If this sounds like your kind of place, it’s time to get in touch.</em></p>
-<p dir="ltr"><em> </em></p>
-<p dir="ltr"><strong>Please feel free to contact our Recruitment team at </strong><a href="mailto:careers@publitas.com" rel="nofollow"><strong>careers@publitas.com</strong></a><strong> if you have any questions. </strong></p>
-</div>
-<img src="https://remotive.com/job/track/1366761/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -451,7 +402,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -528,7 +479,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -553,7 +504,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -578,7 +529,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -603,7 +554,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -628,7 +579,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -653,7 +604,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -678,7 +629,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
@@ -703,7 +654,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -750,7 +701,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -805,274 +756,6 @@
 <p>Save your time: Fast and efficient hiring process to match you with the project of your preference.</p>
 <p>Ownership: Take ownership of your work and enjoy more freedom in your career.</p>
 <img src="https://remotive.com/job/track/1359476/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1114350/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Interaction Design Foundation</h5>
-                    <h3>Senior PHP Developer (Laravel)</h3>
-                </td>
-                <td width="300">
-                    <code>copywriting,education,marketing,seo</code>
-                </td>
-                <td width="200">
-                <text>25 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-php-developer-laravel-1114350" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size); color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">Are you an ambitious PHP developer who is <strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">looking for a truly challenging role</strong> in a growing dev team? Do you wish to <strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">use your coding superpowers for a good cause</strong> and help improve the lives of millions of people around the world? Do you want to work with <strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">a team that values your insights and contributions </strong>to a dynamic product with an exciting future? </p>
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size); color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">This is a <strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">rare opportunity </strong>to work exclusively with senior-level PHP devs in a diverse, highly organized, result-driven environment where you can <strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">thrive personally and professionally</strong>. We’ve gone above and beyond to carve this role into a unique dev position, where all the things that made your previous job suck are gone:</p>
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size); color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">Here, you’ll never have to advocate for the <strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">importance of investing in code quality -</strong> our founder is a coder himself, and our<strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;"> elegant code </strong>is the vein that keeps the IxDF healthy and growing. We understand how critical your superpowers are, and don’t believe in making our dev team work on pointless tasks, nor suffer the consequences of technical decisions being made by people in other departments (we know you’ve been there). Instead, you’ll <strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">work on stimulating projects </strong>in a healthy, collaborative environment where<strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;"> your ideas and time are valued</strong>. You’ll be involved in decision-making processes which means there are incredible possibilities for you to <strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">take initiative and grow </strong>here. In fact, it’s encouraged! Traditional hierarchies don’t lead to brilliant, effective outcomes, so we’ve thrown them out. </p>
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size); color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">We’re proud to say that<strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;"> we’ve put together an amazing team of unicorns </strong>who support, inspire and challenge each other every day, and <strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">we are looking for equally talented and like-minded PHP developers to join us</strong>. We’re lucky enough to get up each day and <strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">build a better future for thousands of people </strong>around the world. But something’s missing. And we think it could be you.</p>
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size); color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">The Interaction Design Foundation is the biggest online design school globally. Founded in 2002, we have over 120,000 graduates and counting. We’re <strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">market leaders</strong> in online design education because <strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">the world’s leading experts</strong> create our content and because we’re specialized in design. What’s more, with over 1.5 million monthly visitors, we’re at the forefront of providing premier design education to such organizations as IBM and SAP, as well as thousands of other companies. </p>
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size); color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">This is a paid <strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">full-time</strong> position and is <strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">fully remote </strong>so you can work from anywhere! You will have regular video-based contact with your colleagues and get to meet them physically on team trips a few times per year.</p>
-<div class="h2" style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 40px 0px 16px; padding: 0px; line-height: 1.2; letter-spacing: -0.5px; color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">About our Platform</div>
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size); color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">You will join our back-end team, which is constantly improving our main product — a web application with online courses, bootcamps and community tools. The architecture is a multi-page application — an MVC-based, <strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">modular monolith using Laravel</strong> as a back-end framework. It was started back in 2013, and since then we’ve relentlessly increased code quality, features and test coverage, and are proud to say that we have almost zero legacy code or technical debt. We believe a modular monolithic architecture can reach a <strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">level of perfection</strong> where it’s <strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">superior to a micro-service architecture</strong> — despite an ever-increasing number of features.</p>
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size); color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">How have we achieved that?</p>
-<ul style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px 0px 0px 24px; list-style-position: outside; line-height: 1.78; color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Robust conventions: <u style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;"><a href="https://handbook.interaction-design.org/development/library/back-end/conventions--php.html" rel="nofollow" style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; touch-action: manipulation; appearance: none; cursor: pointer; -webkit-tap-highlight-color: transparent;" target="_blank">IxDF PHP conventions</a></u>, <u style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;"><a href="https://handbook.interaction-design.org/development/library/back-end/conventions--laravel.html" rel="nofollow" style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; touch-action: manipulation; appearance: none; cursor: pointer; -webkit-tap-highlight-color: transparent;" target="_blank">IxDF Laravel conventions</a></u>, <u style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;"><a href="https://handbook.interaction-design.org/development/library/front-end/conventions--js.html" rel="nofollow" style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; touch-action: manipulation; appearance: none; cursor: pointer; -webkit-tap-highlight-color: transparent;" target="_blank">IxDF JavaScript conventions</a></u>, naming, etc.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Well-automated CI with code quality tools: Psalm (errorLevel="1"), PHPStan (level: 7), Rector, PHPCS, PHP-CS-Fixer, Deptrac, phpcpd, ESLint, etc.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Regular pull request review sessions</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">All front-end code built using reusable well-documented <u style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;"><a href="https://ui-kit.interaction-design.org/" rel="nofollow" style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; touch-action: manipulation; appearance: none; cursor: pointer; -webkit-tap-highlight-color: transparent;" target="_blank">IxDF UI Kit</a></u>.</p>
-</li>
-</ul>
-<div class="h3" style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 40px 0px 16px; padding: 0px; line-height: 1.2; letter-spacing: -0.25px; color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;"><strong style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit;">The stack you will be working with</strong></div>
-<ul style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px 0px 0px 24px; list-style-position: outside; line-height: 1.78; color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">PHP 8.1 and Laravel 9 (always the latest versions)</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Vanilla JavaScript (incl. Web Components) and Vue.js for Laravel Nova</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Server: Docker, nginx</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">DBs: MySQL, Redis</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Testing: PHPUnit, Laravel Dusk, cypress.io</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Cloud: Amazon S3, CloudFront</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">CI/CD: GitHub actions + Deployer</p>
-</li>
-</ul>
-<div class="h2" style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 40px 0px 16px; padding: 0px; line-height: 1.2; letter-spacing: -0.5px; color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">What you will be doing</div>
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size); color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">You will be working with several teams: Back-end devs, front-end devs, designers, content and product managers, as well as our founders, who are also actively involved in the processes. You will work most closely with our back-end team, which we are extending from 4 to 7 senior engineers.</p>
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size); color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">Your main responsibilities will be to:</p>
-<ul style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px 0px 0px 24px; list-style-position: outside; line-height: 1.78; color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Help develop back-end of the interaction-design.org platform: new features, refactorings and (rarely) bug-fixing.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Write clean and maintainable back-end code (incl. our open-source projects and external packages we use).</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Communicate with other teams to clarify specifications for new features and improve existing ones.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Keep documentation up to date for code you create and change.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Constantly increase test coverage (we use PHPUnit, Laravel Dusk, cypress.io, and we love TDD).</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Participate in refactoring and continually eradicate technical debt whenever it arises. The goal is the ultimate developer experience.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Optimize infrastructure (DB, nginx, queues) for better scalability.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Review code from your colleagues (we love PR reviews as a great way to share knowledge and find optimal solutions for any challenge).</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Actively participate in planning, stand-up and workshop video calls (we have 3 meeting-free days per week for ultimate focus time)</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Regularly ship your code (we usually deploy a few releases per day: zero downtime, just a few clicks).</p>
-</li>
-</ul>
-<div class="h2" style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 40px 0px 16px; padding: 0px; line-height: 1.2; letter-spacing: -0.5px; color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">What you will get</div>
-<ul style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px 0px 0px 24px; list-style-position: outside; line-height: 1.78; color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Expert-level colleagues who contribute to the Laravel framework and packages from its ecosystem.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Zero-effort development environment based on Docker.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Battle-tested guidelines for PHP, JS, CSS and Laravel code.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Up-to-date domain, product and project documentation.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Great library of books and courses to keep your knowledge and skills at peak level.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">The chance to impact the lives of tens of thousands of designers around the world and put smiles on their faces as you ease their learning journeys.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">The opportunity to do the best work of your life—if you’re willing to invest the effort that will require.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">A founder and CEO who is a developer.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">A competitive salary based on your location and local economy.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Smooth and well-organized workflows for collaboration with other teams.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">5 weeks (25 days) of paid vacation per year to do whatever makes you happy, rested and fulfilled.</p>
-</li>
-</ul>
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size); color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">To learn more about what it's like working with us, refer to our main <a href="https://www.interaction-design.org/about/careers" rel="nofollow" style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; touch-action: manipulation; appearance: none; cursor: pointer; -webkit-tap-highlight-color: transparent;">career page</a></p>
-<div class="h2" style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 40px 0px 16px; padding: 0px; line-height: 1.2; letter-spacing: -0.5px; color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">Requirements</div>
-<ul style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px 0px 0px 24px; list-style-position: outside; line-height: 1.78; color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">You have expert knowledge of PHP.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">You have expert knowledge of Laravel or Symfony.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">You have 6+ years of experience working professionally with OOP.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">Your work is based on a solid foundation in computer science fundamentals from data structures and algorithms to design patterns.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">You are an engineer by mindset and always try to understand how things work under the hood.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">You love to learn through doing. You’re ready to put in some hard work to expand your skills.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">You speak and write acceptable English — not perfect English, just acceptable — since you will be working with people from the US, England, Canada, Denmark, Belarus and Australia among others. Your timezone does not matter!</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">You are a team player and you don’t bring your ego to work.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">You are self-motivated and self-disciplined and thus work well in a flat hierarchy with lots of freedom.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">You love to have creative freedom, make independent judgments and live up to the responsibility that comes with that freedom.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">You love to create tangible results — every hour and every day.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">You love to make a positive impact on the world and the lives of others.</p>
-</li>
-</ul>
-<div class="h2" style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 40px 0px 16px; padding: 0px; line-height: 1.2; letter-spacing: -0.5px; color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">Bonus points</div>
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size); color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">You get bonus points…</p>
-<ul style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 24px; padding: 0px 0px 0px 24px; list-style-position: outside; line-height: 1.78; color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">…if you have contributed to open-source projects.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">…if you have worked professionally with at least one statically typed programming language like C, C++, C#, Python, Java, Kotlin, Rust, Scala, Go, etc.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">…if you have prior experience with k8s, Stripe, GraphQL, Swoole.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">…if you have prior experience with Customer Data Platforms (like Segment) or Product Analytics &amp; Tracking tools like Amplitude, Heap, or the Google suite (Analytics, Optimize, Tag Manager).</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">…if you have a Master’s Degree in Computer Science.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">…if you have experience with test-driven development (TDD).</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">…if you have experience with DDD, Event Sourcing, CQRS.</p>
-</li>
-<li style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px 0px 8px; padding: 0px;">
-<p style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 0px; padding: 0px; line-height: 1.78; max-width: var(--max-text-width-size);">…if you have strong database management, scaling and optimization skills.</p>
-</li>
-</ul>
-<div class="h2" style="background-position: 50% center; background-repeat: no-repeat; box-sizing: inherit; margin: 40px 0px 16px; padding: 0px; line-height: 1.2; letter-spacing: -0.5px; color: #2b2b2b; font-variant-ligatures: common-ligatures; background-color: #f9f9f9;">What’s the next step?<br><br><img alt="" height="400" src="https://public-images.interaction-design.org/user-uploads/11988/discussions/Rjz3pkVRaDiZgo1zLkD3WkSbWu2a0wIcm1vynTgH.png" width="400"></div>
-<img src="https://remotive.com/job/track/1114350/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/03/AkoyaNetwork.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Akoya</h5>
-                    <h3>Product Manager - Developer Experience</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J113986/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Meet the future
-Akoya is an API-based network backed by major financial institutions that creates a safer and more transparent way for people to safely send their personal financial data to third-party financial apps. If you are inspired and fascinat …
-<h3>Meet the future</h3>
-<p>Akoya is an API-based network backed by major financial institutions that creates a safer and more transparent way for people to safely send their personal financial data to third-party financial apps. If you are inspired and fascinated by innovative technology that solves complex, real-world problems, then join us as we transform how financial data is accessed and shared. Akoya offers a highly collaborative, fast-paced, and fun working environment and our team is comprised of diverse, creative, and driven professionals with expertise in the banking, securities, fintech, and data aggregation industries. We are an equal opportunity employer. Come join us and be part of this exciting journey – check out <a href="http://www.akoya.com/"><strong>www.akoya.com</strong></a> for more information!</p><h3><strong>The Role</strong></h3>
-<p>At Akoya, we are focused on helping third-party developers build applications and integrations to meet the needs of Data Providers and Recipients on our network. Delivering a best-in-class experience is an important priority for Akoya.</p>
-<p>You will oversee the strategy, priorities, road-map and delivery of services that ensure a rich Developer Experience for third-party developers using our platform. You will work with our most senior leaders in both engineering and product to establish the investment strategy for this area. Your responsibilities will help us to grow the Products and APIs we launch for third-party developers.</p>
-<p>If you're looking to impact the growth and direction of a company, you will find this role compelling and rewarding. This role will provide the opportunity to develop the overall strategy for Akoya’s API and developer facing tools.</p>
-<p>We’re looking for creative and curious product thinkers who can develop and grow a compelling vision for the future of Akoya’s API and overall developer experience</p>
-<p>You will: </p>
-<ul>
-<li>Create and execute the strategy for developer tools including SDKs, Sandbox, dashboard and technical documentation for Akoya’s platform.</li>
-<li>Take end-to-end responsibility for the product's success.</li>
-<li>Work with our engineering managers to guide delivery of this work.</li>
-<li>Excellent collaboration and communication skills - leading execution across Akoya and customers</li>
-<li>Apply a data-driven and qualitative approach in developing industry-leading products that uniquely serve Akoya's customers.</li>
-<li>Inspire your peers to build a partnership in delivering excellent products and services (which spans engineering, product, design and marketing teams).</li>
-</ul>
-<p>Actively participate in and be a thought leader in the open-source community around public platform engineering projects and well versed in industry best practices, patterns and tools.</p>
-<h3 data-renderer-start-pos="3295"><strong>Qualifications: </strong></h3>
-<p data-renderer-start-pos="3295">Not all applicants will have skills that match a job description exactly. Akoya values diverse experiences in other industries, and we encourage everyone who meets the required qualifications to apply. While having “desired” qualifications make for a strong candidate, we encourage applicants with alternative experiences to also apply. If your career is just starting or has not followed a traditional path, do not let that stop you from considering Akoya. We are always looking for people who will bring something new to the table!</p>
-<h3><strong>Required Experience/skills</strong></h3>
-<ul>
-<li>Experience working with APIs.</li>
-<li>A love of developer products and tools</li>
-<li>A strong understanding of the developer community</li>
-<li>Motivation to improve the lives of developers</li>
-<li>Strong written and verbal communication skills with a talent for precise articulations of developer problems</li>
-<li>You have experience managing technical software products from concept to commercialization</li>
-<li>You do whatever it takes to make your product and team successful whether that means writing a QA plan or hunting down the root cause of a user’s frustration</li>
-<li>You can turn incomplete, conflicting, or ambiguous inputs into solid action plans</li>
-<li>Beyond just shipping new products, you obsess about continuous product improvement</li>
-</ul>
-<p> </p>
-<p>Akoya is an equal opportunity employer.</p>
                 </details>
                 </td>
             </tr></table>
