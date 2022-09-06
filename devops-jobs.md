@@ -11,7 +11,7 @@
                     <code>devops, crypto, cryptocurrency</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112528" align="right" target="_blank">Apply</a>
@@ -35,7 +35,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-devops-engineer-gcp-expert" align="right" target="_blank">Apply</a>
@@ -96,7 +96,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>95 days ago</text>
+                <text>96 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-devops-engineer-1" align="right" target="_blank">Apply</a>
@@ -152,7 +152,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1344659" align="right" target="_blank">Apply</a>
@@ -163,152 +163,6 @@
                 <details><summary>Description</summary>
                 <p class="h2" dir="ltr" style="margin-top: 18pt; margin-bottom: 4pt; line-height: 1.38;"><em style="color: rgb(0, 0, 0);   font-weight: 600; letter-spacing: 0.75px;">Design your full-time freelance career as a top freelance developer with Toptal.</em><br></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. </span></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; font-weight: 700; color: rgb(0, 0, 0);">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);"> Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. </span></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. </span></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">That’s why the world’s top 3% of developers choose Toptal. DevOps Engineers in our network share:</span></p><ul style="padding-inline-start: 48px;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">English language proficiency</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; font-weight: 700;">3+ years</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> of professional experience in software development</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Solid experience with </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; font-weight: 700;">AWS</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> is a strong advantage</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Project management skills</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">A keen attention to detail</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Experience with system architecture or leading a software team is a strong advantage</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 42pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; font-weight: 700;">Full-time availability</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> is a strong advantage</span></p></li></ul><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">Curious to know how much you could make? Check out our DevOps engineer rate calculator:</span><a href="https://topt.al/rRcmJn" rel="nofollow" style="text-decoration: none;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);"> </span></a><a href="https://topt.al/rqcbMg" rel="nofollow">https://topt.al/rqcbMg</a></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form:</span><a href="https://topt.al/VwcMQG" rel="nofollow" style="text-decoration: none;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);"> </span></a><span style="font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap; color: rgb(17, 85, 204);"><a href="https://topt.al/Qkcv4y" rel="nofollow"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">https://topt.al/Qkcv4y</span></a></span></p>
 <img src="https://remotive.com/job/track/1344659/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/06/PayPayOfficial.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>PayPay</h5>
-                    <h3>DevOps（システム運用）</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J114098/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-PayPayについて
-2018年にサービスを開始してからわずか約4年でユーザー数5000万人を突破したフィンテック企業であるPayPayは現在約40か国以上の国と地域から集まった多様なメンバーで構成されています。従業員は数千名をすでに超えていますが、まだまだ会社は成長段階であり「未完成」です。「PayPay」の提供に当たっては、インド最大の決済サービス事業者であるPaytm社と連携し、同社の顧客本位のテクノロジーを活用して日本におけるスマホ決済を構築しサービスを拡大していきます。
-わたしたちの …
-<h2><strong></strong></h2>
-<h2><strong>PayPayについて</strong></h2>
-<p><br/>2018年にサービスを開始してからわずか約4年でユーザー数5000万人を突破したフィンテック企業であるPayPayは現在約40か国以上の国と地域から集まった多様なメンバーで構成されています。従業員は数千名をすでに超えていますが、まだまだ会社は成長段階であり「未完成」です。「PayPay」の提供に当たっては、インド最大の決済サービス事業者であるPaytm社と連携し、同社の顧客本位のテクノロジーを活用して日本におけるスマホ決済を構築しサービスを拡大していきます。</p>
-<p>わたしたちの最大のライバルは“現金”です。この困難な課題に前向きに取り組み、他社に真似できない圧倒的なスピードでプロダクトを磨き上げ、日本のキャッシュレス決済、またそれを使用した金融ライフプラットフォームとしての普及を一気に推進することにプロフェッショナルとして情熱を持って取り組み、自ら課題発見し、周囲と協力して新しい価値創出を共に推進する仲間を募集します。</p>
-<p></p>
-<h2 class="col-sm-9 col-12 content"><strong>About PayPay</strong></h2>
-PayPay, a fintech company, that achieved more than 49M users within around 3.5 years since its launch in 2018 has hugely diversified employees who are from 40 different countries. To build "PayPay", we allied with Paytm, the biggest payment service company in India. Based on their customer-first technologies , we created and expanded the smartphone payment service in Japan.<br/><br/>Our biggest competitor is "cash". We are seeking for people who can accept this challenge positively, brush up the product at a tremendous speed that other companies could never achieve, and who are passionate about promoting and spreading such a financial life platform in a short time along with professionalism.
-<p></p>
-<h2> </h2>
-<h2><strong>PayPayのコーポレートエンジニアリング</strong></h2>
-<p>急速なサービス成長や、それに伴う組織拡大には、業務フロー・システムのスピーディーなアップデートが必要不可欠です。PayPayのコーポレートエンジニアは、マーチャント領域、カスタマー領域、オーソリティ領域に広がるPayPayの全領域を支える業務システムの内製開発を担っています。「技術で会社の成長に貢献する」をMissionに掲げ、圧倒的なスピード感で開発と業務効率化を推し進めます。本部署にはIT戦略の策定からフルスクラッチのアプリ開発、インフラエンジニアまで、内製開発に関わる様々な職種のメンバーが在籍し、Oneチームで仕事をしています。</p>
-<h2> </h2>
-<h2><strong>DevOpsの展望</strong></h2>
-<p>チームを横断したアプリ開発・保守業務/インフラ運用・保守業務の業務最適化を実施します。</p>
-<ul>
-<li>開発と運用、それぞれの業務における生産性向上施策の検討/実行</li>
-<li>開発環境や開発手法、ならびに成果物の標準化</li>
-<li>システム安定稼働に付随する業務全般</li>
-</ul>
-<h2><strong>業務内容について</strong></h2>
-<ul>
-<li>以下に区分される保守運用業務のタスク管理<br/>インフラストラクチャー、アプリケーション、業務運用、監査</li>
-<li>各種アカウント（インフラアカウント及び内製システムユーザ）の定期棚卸と申請フォーム管理、権限モニタリング</li>
-<li>定型作業の洗い出しと作業フロー整備、作業実施</li>
-<li>本番環境作業における各種作業時の一時権限付与設計と管理、事後検証</li>
-<li>内外監査対応における調査や改善</li>
-<li>その他、システム運用保守業務の最適化（ツール作成含む）</li>
-</ul>
-<p> </p>
-<h2><strong>過去の主なプロジェクト</strong></h2>
-<ul>
-<li>顧客本人確認システム構築</li>
-<li>加盟店請求管理システム構築</li>
-<li>キャンペーン管理システム構築</li>
-<li>顧客管理システム導入</li>
-</ul>
-<h2> </h2>
-<h2><strong>開発環境/ Tech Stack</strong></h2>
-<p>・Java, Python<br/>・Spring Boot, Vue<br/>・Docker / Kubernetes<br/>・MySQL<br/>・AWS各種サービス（S3, EC2, RDS, Lambda, など）</p>
-<p class="c-mrkdwn__pre" data-stringify-type="pre">&lt;システム本部でのアプリ開発環境&gt;</p>
-<ul>
-<li class="c-mrkdwn__pre" data-stringify-type="pre">IDE: Eclipse</li>
-<li class="c-mrkdwn__pre" data-stringify-type="pre">実行／コンパイラ環境: JDK</li>
-<li class="c-mrkdwn__pre" data-stringify-type="pre">APサーバ: Apache Tomcat</li>
-<li class="c-mrkdwn__pre" data-stringify-type="pre">ライブラリ管理: Maven</li>
-<li class="c-mrkdwn__pre" data-stringify-type="pre">サーバーフレームワーク: SpringBoot</li>
-<li class="c-mrkdwn__pre" data-stringify-type="pre">ORMappar: Mybatis ・RDS: MYSQL</li>
-<li class="c-mrkdwn__pre" data-stringify-type="pre">負荷試験ツール: Jmeter</li>
-<li class="c-mrkdwn__pre" data-stringify-type="pre">フロントフレームワーク: node.js + Vue</li>
-</ul>
-<p> </p>
-<h3>必要な経験/スキル</h3>
-<ul>
-<li>AWSを利用したWEBシステムの構築、もしくは運用に携わった3年以上の実務経験</li>
-</ul>
-<h3>あると望ましい経験/スキル</h3>
-<ul>
-<li>オンプレミス、もしくはパブリッククラウドを用いたシステムのインフラ設計および構築のご経験</li>
-<li>１つ以上のIaCの導入、運用のご経験 対象システムへのCI/CD、自動モニタリング等の導入、構築運用のご経験</li>
-<li>１つ以上の汎用プログラミング言語のご経験</li>
-<li>マイクロサービスアーキテクチャへの理解</li>
-<li>英語力（メールや社内チャット等でのやり取りが可能なレベル）</li>
-</ul>
-<h3>期待する人物像</h3>
-<ul>
-<li><a href="https://speakerdeck.com/paypaycorporation/6deed4120e21c6e72efdbff49ea3c077" target="_blank">PayPay 5 senses</a>に当てはまる方</li>
-</ul>
-<p> </p>
-<ul>
-<li> </li>
-</ul>
-<h2><strong>待遇・条件</strong></h2>
-<h4 id="id-待遇・条件の記載方法-雇用形態">雇用形態</h4>
-<ul>
-<li>正社員</li>
-</ul>
-<h4 id="id-待遇・条件の記載方法-勤務地">勤務地</h4>
-<ul>
-<li><a class="external-link" href="https://speakerdeck.com/paypaycorporation/f1be200aa0c1a273ce97fd91676e621e">WFA（Work From Anywhere at Anytime)</a></li>
-<li>原則在宅勤務（自宅もしくはサテライトオフィスにてリモートワーク）</li>
-<li>全国居住可能</li>
-</ul>
-<h4 id="id-待遇・条件の記載方法-勤務時間">勤務時間</h4>
-<ul>
-<li>スーパーフレックス制（コアタイム無し）</li>
-<li>原則：午前10時～午後6時45分（実働7時間45分＋休憩時間 1時間）</li>
-</ul>
-<h4 id="id-待遇・条件の記載方法-休日・休暇">休日・休暇</h4>
-<ul>
-<li>土日祝日、年末年始など会社指定日</li>
-<li>年次有給休暇、慶弔休暇、産前産後休暇、子の看護休暇、介護休暇、介護休業、育児休業等</li>
-</ul>
-<h4 id="id-待遇・条件の記載方法-給与">給与</h4>
-<ul>
-<li>年俸制（一部固定残業代含む）</li>
-<li>経験、スキル、業績、貢献度に応じ当社規定により決定</li>
-<li>毎年1回見直し</li>
-<li>会社業績および個人貢献度により特別一時金（インセンティブ）を支給（年1回）</li>
-<li>
-<p>時間外勤務手当、深夜勤務手当、在宅勤務手当（年10万円）有</p>
-</li>
-</ul>
-<h4 id="id-待遇・条件の記載方法-ベネフィット">ベネフィット</h4>
-<ul>
-<li>社会保険（健康保険、厚生年金、雇用保険、労災保険）</li>
-<li>企業型確定拠出年金制度</li>
-<li>語学学習のサポート</li>
-</ul>
-<p> </p>
-<p><strong>Other Information:</strong></p>
-<ul>
-<li><a href="https://insideout.paypay.ne.jp/" target="_blank">PayPay Inside-Out (Corporate Blog)</a></li>
-</ul>
-<p>        ・<a href="https://insideout.paypay.ne.jp/en/category/tech-talks-en/" target="_blank">Tech Talks Series</a></p>
-<p>　　  ・ <a href="https://insideout.paypay.ne.jp/category/paypay-professionals/" target="_blank">PayPay Professionals Series</a></p>
-<p>　　  ・ <a href="https://insideout.paypay.ne.jp/category/wfa-series/" target="_blank">WFA (work from anywhere, at anytime) series</a></p>
-<ul>
-<li><a href="https://blog.paypay.ne.jp/" target="_blank">PayPay Product Blog </a></li>
-</ul>
                 </details>
                 </td>
             </tr></table>
