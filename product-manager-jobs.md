@@ -1,5 +1,55 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/08d7a796f74442ab28bdf22e84d167ca1662362117.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>NOBI</h5>
+                    <h3>
+					Associate Product Manager				</h3>
+                </td>
+                <td width="300">
+                    <code>manager, crypto, cryptocurrency</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/112643" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><div><p></p><h2>Company Description</h2></div><div><p>NOBI helps people easily get more from their crypto asset & simplify their crypto investment experience. Our engineering team run hundreds of blockchain nodes, integrates with numerous DeFi smart contracts and run numerous real time robo trading to simplify the life our customers. <br><br>Weâre here so that everyone can be part of the global cryptocurrency movement. Join us.</p></div><div><p></p><h2>Job Description</h2></div><div><ul><li>Create Business Requirement Document (BRDs) / Product Requirement Documents (PRDs) with clarity on objective and execution details on product goals for all stakeholders.</li><li>Drive product vision and prioritize roadmap based on market opportunity to shape the business.</li><li>Responsible for execution the end-to-end product development and timeline.</li><li>Launch product improvements on regular basis and integrate user research.</li><li>Establish shared vision, prioritize, and align the product needs with all stakeholders.</li></ul></div><div><p></p><h2>Qualifications</h2></div><div><ul><li>Hands-on experience with product, customer and/or competitor analytics</li><li>Ability to influence & execute among an informal, cross-functional team in a matrixed organization</li><li>Interpersonal skills to work collaboratively with various stakeholders</li><li>Proven project leadership and critical thinking skills; ability to manage time effectively</li></ul></div><div><p></p><h2>Additional Information</h2></div><div><p>All your information will be kept confidential according to EEO guidelines.</p></div></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/78b8e13c5ddab7122aa2adf322702cad1662362125.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Voyager</h5>
+                    <h3>
+					Group Product Manager Retail Payments				</h3>
+                </td>
+                <td width="300">
+                    <code>manager, crypto, cryptocurrency</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/112646" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro"><p><span style="font-weight:400;">Voyager is a Publicly traded company listed on the Toronto Stock Exchange (VOYG), OTC Markets (VYGVF) and the Frankfurt Exchange (UCD2). Voyager is the global leader in agency cryptocurrency brokerage. At Voyager we are building the financial services firm of the future that will be used by millions of users globally to easily access trade, invest and earn in the cryptocurrency markets. </span></p><p><span style="font-weight:400;">We are a team of finance and technology industry veterans dedicated to empowering and servicing investors in one of the most exciting asset classes to date - crypto. Our founders stem from reputable finance and technology organizations like E*TRADE, Uber, TradeIt, Lightspeed Financial and more.</span></p><p><span style="font-weight:400;">The Voyager team includes employees with diverse backgrounds and skills. Our culture has quickly grown into one that promotes collaboration, transparency, and entrepreneurialism.</span></p><p><span style="font-weight:400;">To learn more about Voyager please visit us at <a href="http://www.investvoyager.com" target="_blank" rel="noopener noreferrer nofollow">www.investvoyager.com</a>.</span></p><p><span style="font-weight:400;">We are changing the world and love what we do so if you want to work at a fast paced, exciting environment please apply.</span></p></div><p><span style="font-weight:400;">Voyager is seeking product leadership to join a team of talented professionals with a mission to deliver a best-in-class platform that enables Crypto for All. This role will specifically lead product strategy, vision, growth, and delivery of Voyagerâs Retail Payments product line. This position will report directly to the VP of Product and work closely with Engineering and Marketing leadership to develop strong partnerships and workflows. </span></p><p><span style="font-weight:400;">Responsibilities will range from product vision and strategy, prioritization of initiatives and leadership of several product managers and owners. The role will require a hands-on leader, capable of being deeply involved in the product management and delivery side of the business, while simultaneously recruiting and building a team of highly skilled product managers. </span></p><p><strong>The ideal candidate for this position has experience and involvement within payment card product offerings and maturity</strong></p><h2><strong>Responsibilities: </strong></h2><ul><li style="font-weight:400;"><span style="font-weight:400;">Oversight for the direction of Voyagerâs Retail Payments line of products</span></li><li style="font-weight:400;"><span style="font-weight:400;">Management and leadership of product managers within the Retail Payments product group</span></li><li style="font-weight:400;"><span style="font-weight:400;">Development of strong partnerships with engineering, business development, product design and marketing teams </span></li><li style="font-weight:400;"><span style="font-weight:400;">Product line roadmapping, prioritization, and status reporting</span></li><li style="font-weight:400;"><span style="font-weight:400;">Alignment to the overall Voyager business strategy and vision</span></li></ul><h2><strong>Qualifications:</strong></h2><ul><li style="font-weight:400;"><span style="font-weight:400;">8+ years working in a product management role, preferably financial services and payments </span></li><li style="font-weight:400;"><span style="font-weight:400;">Proven success in leading people, preferably product managers </span></li><li style="font-weight:400;"><span style="font-weight:400;">Executive level communication skills</span></li><li style="font-weight:400;"><span style="font-weight:400;">Proven ability of leading cross-functional teams</span></li><li style="font-weight:400;"><span style="font-weight:400;">External relationships and marketplace awareness</span></li></ul><p> </p><div class="content-conclusion"><h2><span style="font-weight:400;">What we offer</span></h2><ul><li style="font-weight:400;"><span style="font-weight:400;">Competitive Salary</span></li><li style="font-weight:400;"><span style="font-weight:400;">Employee Benefits including healthcare (medical, dental, vision) and 401k</span></li><li style="font-weight:400;"><span style="font-weight:400;">Stock Options </span></li><li style="font-weight:400;"><span style="font-weight:400;">Unlimited PTO</span></li></ul><p><span style="font-weight:400;">Voyager is headquartered in New York City with satellite offices in New Jersey, California, Toronto and Bordeaux.</span></p><p><span style="font-weight:400;">Please contact us via the button below or at careers@investvoyager.com with your resume and a brief explanation as to why you would like to join the Voyager team.</span></p><p><span style="font-weight:400;">*Please note that during COVID-19 we are working remotely.</span></p></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4683/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +60,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-sr-product-manager" align="right" target="_blank">Apply</a>
@@ -93,7 +143,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/whitespectre-associate-product-manager" align="right" target="_blank">Apply</a>
@@ -200,7 +250,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager" align="right" target="_blank">Apply</a>
@@ -265,100 +315,140 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/6658/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>BuildBook</h5>
-                    <h3> Senior Product Manager</h3>
+                    <h5>A.Team</h5>
+                    <h3> Senior Independent Product Manager/Product Designer ($110-$190/hr)</h3>
                 </td>
                 <td width="300">
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>220 days ago</text>
+                <text>300 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/buildbook-senior-product-manager" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/6658/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4151/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Greenwich, CT
-    <br /><strong>URL:</strong> <a href="https://buildbook.co/">https://buildbook.co/</a>
+  <strong>Headquarters:</strong> NYC, SF, and TLV
+    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
 </p>
 
 <div>
-<strong>About BuildBook</strong><br><br>
-</div><div>Home remodeling and construction projects are often a stressful and painful experience – but it doesn’t have to be that way. BuildBook is on a mission to eliminate that stress and bring joy back to home improvement – for everyone involved.</div><div><br></div><div>BuildBook is the best construction management platform for home remodelers and builders. Our goal is to become the default choice for the over 550,000 small businesses focused on residential construction and remodeling. It’s a $540B dollar a year industry, and we plan to make a dent in it by creating the best product in the space. </div><div><br></div><div>Builders love us because we give them simple, powerful tools to run their business and help them keep their clients happy. Homeowners love us because we give them a feeling of control and help make renovations and new home builds less stressful.</div><div><br></div><div>We are a remote-first startup with team members all across the US. We have a small, tight-knit team, a solid product that is gaining momentum daily, and big plans for the future. As an early member of the product team, your work is going to have a major impact on the future of the product and company. You’ll ship your work often and see its impact in the hands of real people every day.</div><div>
-<br><strong>About the Job</strong>
-</div><div><br></div><div>As a Senior Product Manager, you will lead teams and contribute directly to the success of our pro-facing product in addition to participating in strategic discussions that define the company’s roadmap and trajectory. </div><div><br></div><div>You’ll work directly with the Head of Product &amp; Design to help prioritize, plan and execute our product roadmap, and as an early member of the product team, you’ll have a lot of opportunity for growth both as an individual contributor and/or as a leader. </div><div><br></div><div>You’ll be responsible for helping to define the product roadmap, managing agile sprints and team communications, driving the QA process, and running a tight build-measure-learn development cycle. You'll articulate and develop new product ideas with the design team through written spec, diagrams and wireframes. You’ll partner closely with engineering to ensure the most impactful ideas are scoped, built, tested, deployed, and iterated on. </div><div><br></div><div>You’ll have plenty of support along the way, working very collaboratively with the entire team – but you’ll also have the freedom to focus and execute on deep work, which we prioritize over meetings.</div><div><br></div><div>On a given day, you might be focused on shaping up a roadmap of features to work on, pitching your own ideas, chatting with a customer to understand their workflow, or providing feedback on a feature that the engineering team is working on. </div><div>
-<br><strong>In your first 60 days, you will: </strong>
+<a href="https://build.a.team/wwrproductmgrfasttrack">A·Team</a> is a VC-backed, stealth, application-only home on the internet for Senior Product Managers &amp; Product Designers (along with developers &amp; UX/UI folks) to team up with the best companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
+<li>
+<strong>High-paying, meaningful client missions (where you'd lead Product) with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li>
+<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li>
+<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li>
+<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li>
+<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul><div>
+<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrproductmgrfasttrack">https://build.a.team/wwrproductmgrfasttrack</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
 </div><ul>
-<li>Hit the ground running: Manage the in-flight priorities across multiple platforms (web and mobile) with existing commitments and deadlines</li>
-<li>Become familiar with our backlog and roadmap, and lead your team’s sprint process</li>
-<li>Establish backlog grooming, prioritization, and management cadence</li>
-<li>Work across Engineering, Sales, and Marketing to gather stakeholder requirements </li>
-<li>Write clear product requirements and desired project outcomes</li>
-<li>Scope and validate roadmap features, so they are ready to tackle in upcoming sprints</li>
-<li>Get acclimated with available business and customer data and start drawing inferences and conclusions that inform product decisions</li>
-<li>Research and deeply understand our customer by interviewing a few, and understanding their workflows and needs. </li>
-<li>Know the competition’s features, offerings, value propositions – and help BuildBook maintain its unique edge in the industry</li>
-<li>Manage quality assurance process, including feature testing, regression, and release support.</li>
+<li>Once part of A.Team, you’ll regularly be invited to be the lead Product manager/designer for impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old-school non-tech incumbents looking to build as a tech giant would.</li>
+<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
+<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
 </ul><div>
-<br><strong>Qualities we look for:</strong>
-</div><div><br></div><div><em>Curiosity</em></div><ul>
-<li>You have a desire to become a domain expert in the residential construction industry</li>
-<li>You’re driven to improve your tactical software management skills, are inspired by new best practices from other industries and companies, and share your acumen with the rest of the team </li>
-</ul><div><em>Empathy</em></div><ul>
-<li>You develop informed insights about our customers (builders, contractors, and remodelers), and can speak passionately about their needs and problems.</li>
-<li>You are a helpful partner to your teammates in design, engineering, marketing, and leadership, you communicate with positivity, and focus on solutions.</li>
-</ul><div><em>Discipline</em></div><ul>
-<li>You are a manager of one: You take ownership, set direction, make calls, and get projects across the finish line without a lot of oversight.</li>
-<li>You clarify goals, prioritize ruthlessly, course correct when needed, and deliver work quickly and confidently.</li>
-<li>Your written communication is clear, concise, and effective, and you keep conversations moving forward through the development pipeline</li>
-<li>You use data (market, qualitative, quantitative, and heuristic) to make informed decisions about what, when, and how to build.</li>
-</ul><div>
-<br><strong>To be considered, you’ll need...</strong>
+<br><strong>Who A</strong>·<strong>Team is for:</strong>
 </div><ul>
-<li>5+ years of relevant experience in a fast-growth tech startup, at least two years in B2B SaaS space</li>
-<li>Rich knowledge of mobile applications, interfaces, and development/submit/release processes</li>
-<li>Experience product-managing fast-moving Agile teams</li>
-<li>Code competency: a basic understanding of the capabilities and limitations of React, React Native, and related frameworks </li>
-<li>Strong Analytical skills, including the ability to derive insights from data sets, analyze product usage, measure adoption, and understand client needs</li>
-<li>Expert communication skills that can leverage the benefits - and overcome the drawbacks - of being a fully distributed product and engineering team</li>
-<li>Experience crafting product requirements and specifications</li>
-<li>Understanding of UI/UX design concepts, principles, best practices, and tools</li>
-<li>An eye for - and appreciation of - good visual design and clean user experiences</li>
-<li>You are inclined to being scrappy to unlock product growth</li>
-<li>The ability to be autonomous, driven, and self-directed</li>
+<li>Senior Product Managers/Designers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
+<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
+<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
 </ul><div>
-<br><strong>We’ll be even more impressed if you…</strong>
+<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
 </div><ul>
-<li>Possess UX design skills and are comfortable in Sketch, Figma, etc.</li>
-<li>Have additional ”vertical” experience, namely growth-marketing or engineering. </li>
-<li>Have a track record of improving customer acquisition, feature adoption, and product growth</li>
-<li>Know the residential construction space</li>
-<li>Have worked on peer-to-peer communication applications</li>
-<li>Are experienced in working remotely or with distributed teams</li>
+<li>People looking for small gigs.</li>
+<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
+<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
 </ul><div>
-<strong><br>How to Apply</strong><br><br>
-</div><div>Please submit a cover letter that speaks directly to this position. Tell us about yourself, and tell us what interests you about this role at BuildBook. Share your past experience, key projects, lessons learned, and what excites you about product management.</div><div><br></div><div>For selected applicants, expect 2-3 interviews with your future colleagues to talk through your past experience and approach to design. We’ll share what it’s like to work here, more details about the role, and answer any questions that you have. </div><div>
-<br><strong>Compensation &amp; Benefits</strong>
-</div><div>
-<br>We offer competitive compensation based on your experience and capabilities, as well as:</div><ul>
-<li>A generous benefits program that supports the whole you with medical, dental, vision, life, disability, and 401(k)</li>
-<li>Paid holidays and flexible, take-it-as-you-need-it paid time off </li>
-<li>Equity in a rapidly growing startup backed by top-tier VCs</li>
-<li>Monthly tech reimbursements</li>
-<li>A culture built on innovation that values big ideas, no matter where they come from</li>
+<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrproductmgrfasttrack"><span>A·Team</span></a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
+<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1367189/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>AirCrew by Outliant</h5>
+                    <h3>Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>ADS,consulting,marketing,product manager</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/marketing/senior-product-manager-1367189" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height: 1.5em;">We’re looking to hire a part-time, remote <strong>Product Manager </strong>to join our development team. For this role, you’ll have the opportunity to work with a diverse team of creators and grow and learn with exceptional world-class engineers. In addition to choosing your work hours, you will be paid to learn new skills and lead and manage projects from the ground up. </p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Requirements</strong></p>
+<ul style="min-height: 1.5em;">
+<li>
+<p style="min-height: 1.5em;">Extensive experience in managing technical digital products and projects</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Proven track record of going through a full product lifecycle from ideation to post-launch growth</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">3+ years of experience in the marketing and advertising industry</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Expertise in running and managing paid ads, as well as analyzing budgets and conversions</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Excellent written and verbal communication skills</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Experience working in a startup environment</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Great teamwork skills</p>
+</li>
 </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/buildbook-senior-product-manager">https://weworkremotely.com/remote-jobs/buildbook-senior-product-manager</a></p>
-
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><em>A candidate must be willing to work some US overlap hours.</em></p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>About Us </strong></p>
+<p style="min-height: 1.5em;">Outliant is a fully-remote, US-based, digital product development and startup consulting company, with a team of culturally diverse creators whose exceptional skills and talents help conceive seamless digital products. Our teams exhibit work-play energy that supports individual growth, as well as encourages the freedom of creativity and “thinking outside the box.”</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Why You Should Work with Us</strong></p>
+<p style="min-height: 1.5em;">As a part-time member of our team, you’ll enjoy: </p>
+<ul style="min-height: 1.5em;">
+<li>
+<p style="min-height: 1.5em;">Flexible hours, work wherever you choose</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Fun and casual work environment</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Employee engagement activities and virtual gatherings</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">We are a very diverse bunch! 🌍</p>
+</li>
+</ul>
+<img src="https://remotive.com/job/track/1367189/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
