@@ -1,57 +1,62 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/0951/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>TimeZest</h5>
-                    <h3> Full-Stack / Frontend Engineer - React / Ruby</h3>
+                    <h5>Clevertech</h5>
+                    <h3> Senior Frontend Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>Front-End Programming</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/timezest-full-stack-frontend-engineer-react-ruby-1" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0017/0951/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://timezest.com">https://timezest.com</a>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
 </p>
 
-<div>TimeZest makes it easy for end users to schedule appointments with IT service providers. Since launching in 2019, TimeZest has grown amazingly fast, and we're a critical piece of software for over 1,000 businesses. We’ve been a remote-only company since the day we launched, and currently have 16 great people in Europe, the Philippines and the United States. We have a relaxed working environment and use just enough process to keep ourselves efficient. <br><br>
-</div><div>We offer engineering challenges to deliver an elegant, reliable and performant user experience while dealing with the complex nature of the APIs we use and our business domain under the hood. Our stack is Ruby on Rails, PostgreSQL, Sidekiq, TypeScript and React, all running on Heroku. We’re looking for people who can work independently, who’ll help us discover new technologies and better ways to work, and who are as passionate about keeping our customers delighted as we are. <br><br>
-</div><div>This is a<strong> full-stack position</strong>, but we're looking for someone with particular strength in the frontend who can help us build an incredible product. </div><div>
-<br><strong>Requirements</strong> </div><ul>
-<li>You have several years' experience building complex user interfaces with <strong>React </strong>and <strong>Typescript</strong>. </li>
-<li>You have experience developing with <strong>Ruby on Rails</strong> &amp; <strong>PostgreSQL</strong>.<strong> </strong>
-</li>
-<li>You have previous experience working in a <strong>complex business domain</strong>. </li>
-<li>You're comfortable writing tests, particularly with <strong>Rspec</strong>.</li>
-<li>You are able to use <strong>Git </strong>and <strong>GitHub</strong>.</li>
-<li>You speak English to a level where you can fluently discuss business and technical concepts.</li>
-<li>You value elegant and maintainable code and architecture, and delight in finding simple solutions to complex problems.</li>
+<div>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects<br><br>
+</div><div><strong>What we're working on:</strong></div><div>
+<br>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries<br><br>
+</div><div><strong><br>Requirements</strong></div><ul>
+<li>7+ years of professional experience (A technical assessment will be required)</li>
+<li>Senior-level experience with Javascript, React, Redux, Websockets, Async/Await</li>
+<li>Ability to create clean, modern, testable, well-documented code</li>
+<li>English fluency, verbal and written</li>
+<li>Professional, empathic, team player</li>
+<li>Problem solver, proactive, go getter</li>
+</ul><div><br></div><div><strong>Why Clevertech is an amazing place to work at</strong></div><div>At Clevertech, you can expect that you will:<br><br>
+</div><ul>
+<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
+<li>Be a part of a team of talented and friendly senior-level developers</li>
+<li>Work on projects that allow you to use cutting-edge tech. We believe in constantly evolving your mastery</li>
 </ul><div>
-<br><strong>Nice to Have</strong> </div><ul>
-<li>A good eye for UI details and an ability to develop UI concepts. </li>
-<li>Experience with APIs and integrating to 3rd party software. </li>
-<li>Previous experience working in a remote role. </li>
+<br>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.<br><br><strong>Benefits of joining the Clevertech team</strong>
+</div><div>We know that people do their best work when they’re taken care of. So we make sure to offer great benefits:<br><br>
+</div><div><br></div><div><strong><br>Competitive Salaries</strong></div><ul>
+<li>1 Month Paid Time Off For You</li>
+<li>Personal Development Fund</li>
+<li>Tenure-Based Rewards</li>
+<li>Flexible Family Leave</li>
+<li>Clevertech University</li>
+<li>Clevertech Gives Back</li>
+<li>Amazing Culture &amp; Strong Community</li>
 </ul><div>
-<br>This is a <strong>permanent, full-time position</strong> with a salary paid monthly in arrears. It is a remote position, and you can be based anywhere in the world, provided that you have 2-3 hours daily overlap with Central European Standard Time.<br><br>Additionally, we offer <strong>24 days paid leave per year</strong>, as well as an annual "home office" stipend to ensure you have an awesome working environment.<br><br>
-</div><div>
-<strong>How to Apply</strong> </div><div>Simply send your CV to <a href="mailto:jobs@timezest.com"><strong>jobs@timezest.com</strong></a>, with a brief email that answers the following questions: </div><ol>
-<li>What is the largest or most complex application you’ve worked on in your career? </li>
-<li>What are your salary requirements (in US$/month)? </li>
-</ol><div>That’s it. We’re looking forward to hearing from you! </div>
+<br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/timezest-full-stack-frontend-engineer-react-ruby-1">https://weworkremotely.com/remote-jobs/timezest-full-stack-frontend-engineer-react-ruby-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-engineer">https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-engineer</a></p>
 
                 </details>
                 </td>
@@ -67,7 +72,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>154 days ago</text>
+                <text>155 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/facet-wealth-staff-front-end-engineer-react" align="right" target="_blank">Apply</a>
@@ -157,7 +162,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-1347890" align="right" target="_blank">Apply</a>
