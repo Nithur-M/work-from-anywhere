@@ -11,7 +11,7 @@
                     <code>manager, crypto, cryptocurrency</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112643" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>manager, crypto, cryptocurrency</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112646" align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-sr-product-manager" align="right" target="_blank">Apply</a>
@@ -143,7 +143,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/whitespectre-associate-product-manager" align="right" target="_blank">Apply</a>
@@ -250,7 +250,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager" align="right" target="_blank">Apply</a>
@@ -325,7 +325,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>300 days ago</text>
+                <text>301 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -377,78 +377,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1367189/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>AirCrew by Outliant</h5>
-                    <h3>Senior Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>ADS,consulting,marketing,product manager</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/marketing/senior-product-manager-1367189" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="min-height: 1.5em;">We’re looking to hire a part-time, remote <strong>Product Manager </strong>to join our development team. For this role, you’ll have the opportunity to work with a diverse team of creators and grow and learn with exceptional world-class engineers. In addition to choosing your work hours, you will be paid to learn new skills and lead and manage projects from the ground up. </p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Requirements</strong></p>
-<ul style="min-height: 1.5em;">
-<li>
-<p style="min-height: 1.5em;">Extensive experience in managing technical digital products and projects</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Proven track record of going through a full product lifecycle from ideation to post-launch growth</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">3+ years of experience in the marketing and advertising industry</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Expertise in running and managing paid ads, as well as analyzing budgets and conversions</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Excellent written and verbal communication skills</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Experience working in a startup environment</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Great teamwork skills</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><em>A candidate must be willing to work some US overlap hours.</em></p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>About Us </strong></p>
-<p style="min-height: 1.5em;">Outliant is a fully-remote, US-based, digital product development and startup consulting company, with a team of culturally diverse creators whose exceptional skills and talents help conceive seamless digital products. Our teams exhibit work-play energy that supports individual growth, as well as encourages the freedom of creativity and “thinking outside the box.”</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Why You Should Work with Us</strong></p>
-<p style="min-height: 1.5em;">As a part-time member of our team, you’ll enjoy: </p>
-<ul style="min-height: 1.5em;">
-<li>
-<p style="min-height: 1.5em;">Flexible hours, work wherever you choose</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Fun and casual work environment</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Employee engagement activities and virtual gatherings</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">We are a very diverse bunch! 🌍</p>
-</li>
-</ul>
-<img src="https://remotive.com/job/track/1367189/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
