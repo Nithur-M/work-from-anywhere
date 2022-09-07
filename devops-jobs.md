@@ -1,31 +1,75 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/ca4689cfee9eba859abb79957afc3f371662323475.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7619/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>NOBI</h5>
-                    <h3>
-					Senior DevOps Engineer				</h3>
+                    <h5>Clevertech</h5>
+                    <h3> Senior DevOps Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>devops, crypto, cryptocurrency</code>
+                    <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/112528" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-8" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><div><p></p><h2>Company Description</h2></div><div><p>NOBI helps people easily get more from their crypto asset & simplify their crypto investment experience. Our engineering team run hundreds of blockchain nodes, integrates with numerous DeFi smart contracts and run numerous real time robo trading to simplify the life our customers. <br><br>Weâre here so that everyone can be part of the global cryptocurrency movement. Join us.</p></div><div><p></p><h2>Job Description</h2></div><div><p>As Senior DevOps you will benchmark system performance, build automation tool, enhance deployment process, secure servers, run security exercise, DR plans, build service monitoring, pinpoint infrastructure issues and involved with system designs.</p><p>This includes not only the execution, but also planning, prioritization & budgeting. You need to use all the tools you build (or enforce their usage) to maintain system availability (especially production environment) close to 100% at all times (including adrenaline-rushing emergency situations & keeping up with normal maintenance)</p><p>You will closely work with our developer division to ensure the product development needed within infrastructure is fulfilled , and when needed you and are also responsible to assist developer team debugging certain case that might affected system stability</p></div><div><p></p><h2>Qualifications</h2></div><div><ul><li>Having 4 years of experience with DevOps practices, including infrastructure as code, continuous integration, and automated deployment.</li><li>At least 2 years of experience with container and microservices technology (Docker,  Kubernetes, etc).</li><li>Experience with Monitoring and Alerting systems (using Grafana, Prometheus, NewRelic, etc).</li><li>Automation scripting (using scripting languages such as Terraform, Ansible etc).</li><li>Experienced in Cloud Provider (Google Cloud Platform, AWS or Alicloud, etc).</li><li>Strong AWS and/or GCP knowledge to architect a solid infrastructure built for scalability, resilience, and security & cost optimisation.</li><li>Understands essential security practices in managing Server & Networking.</li><li>Skilled in Bash scripting and general Linux commands.</li><li>Understanding of CI/CD and available tools.</li><li>Strong analytical skill & capability to think the bigger picture.</li><li>Thirst for knowledge and new technologies.</li></ul></div></div>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/7619/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
+</p>
+
+<div>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects<br><br>
+</div><div><strong>What we're working on:</strong></div><div>
+<br>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries<br><br>
+</div><div><strong><br>Requirements</strong></div><ul>
+<li>7+ years of professional experience (A technical assessment will be required)</li>
+<li>Senior-level experience with AWS (EC2, RDS, S3, ECS, ELB)</li>
+<li>Strong background in Linux and Mongo Atlas administration</li>
+<li>Experience deploying Kubernetes in a production environment</li>
+<li>Experience with CI/CD in Jenkins or CircleCi</li>
+<li>Infrastructure as code (we use Terraform)</li>
+<li>Experience with requirement gathering and presentation to executives</li>
+<li>English fluency, verbal and written</li>
+<li>Professional, empathic, team player</li>
+<li>Problem solver, proactive, go-getter</li>
+</ul><div>
+<a href="https://cleverte.ch/3"><strong><br></strong></a><br>
+</div><div><strong>Why Clevertech is an amazing place to work at</strong></div><div>At Clevertech, you can expect that you will:<br><br>
+</div><ul>
+<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
+<li>Be a part of a team of talented and friendly senior-level developers</li>
+<li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li>
+</ul><div>
+<br>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.<br><br><br><strong>Benefits of joining the Clevertech team</strong>
+</div><div>We know that people do their best work when they’re taken care of. So we make sure to offer great benefits:<br><br>
+</div><ul>
+<li>Competitive Salaries</li>
+<li>1 Month Paid Time Off For You</li>
+<li>Personal Development Fund</li>
+<li>Tenure-Based Rewards</li>
+<li>Flexible Family Leave</li>
+<li>Clevertech University</li>
+<li>Clevertech Gives Back</li>
+<li>Amazing Culture &amp; Strong Community</li>
+</ul><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-8">https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-8</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7619/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Clevertech</h5>
@@ -35,7 +79,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-devops-engineer-gcp-expert" align="right" target="_blank">Apply</a>
@@ -44,7 +88,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/7619/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
   <strong>Headquarters:</strong> New York, NY
@@ -96,7 +140,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>96 days ago</text>
+                <text>97 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-devops-engineer-1" align="right" target="_blank">Apply</a>
@@ -142,6 +186,41 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1378913/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Blankfactor</h5>
+                    <h3>Senior DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>.Net,amazon,AWS,azure</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1378913" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Who we are</strong></p><p><strong></strong>Blankfactor is a global service provider. We offer mission-critical full-stack development, management, and consulting services to supplement our clients' teams or manage end-to-end delivery of custom software solutions. Headquartered in the United States, we have offices in Bulgaria, Colombia, and Costa Rica. Our culture anchors on expertise, excellence, and care for our talent and our clients. </p>
+<p><strong>What you'll do</strong></p><p><strong></strong>We are looking for a <em><strong>Senior DevOps Engineer</strong></em> to join our team. In this role, you will work with application developers to automate and accelerate the testing, release, and deployment of applications into a runtime environment quickly and reliably. You have a background in development, operations, and full-stack implementations. Your experience in programming helps to script installation, configuration, and provisioning. You will employ industry Continuous Delivery patterns and collaboratively work with other members of our team to achieve successful continuous delivery solutions. You are also responsible for mentoring the junior team members. As such, the ideal candidate must have experience clearly explaining solutions to complex problems and demonstrate the ability to impart knowledge effectively to junior resources.</p>
+<p><strong>Responsibilities</strong></p>
+<ul><li>Practice: Drive DevOps program initiatives. Lead secure tech implementation. Direct DevOps implementations to be aligned with planned roadmap and standards.</li><li>Partner: Partner with developer teams to create shared solutions for DevOps needs across IDS. Ensure that the DevOps tools are secure and used in a secure manner. Collaborate and investigate to understand developer needs and use-cases.</li><li>Measure: Implement methods to measure the capabilities of our toolkit, to drive continuous improvement</li><li>Drive and enable adoption: Maximize value derived from the toolset by increasing knowledge across IDS of capabilities and how to leverage the services and technologies.</li><li>Follow standards: Follow principles and standards for DevOps based on anticipated and repeated needs across projects. Document and advocate these principles, guidelines, patterns, and methodologies while ensuring they are well understood and adopted.</li></ul>
+<p><strong>Requirements and technical skills</strong></p>
+<ul><li>BS/MS in Computer Science/Engineering or related discipline and 7 years of relevant experience OR at least 5 years of relevant experience.</li><li>Proficiency in English and excellent communication and collaboration skills</li><li>Proven experience with either Amazon AWS, Azure, or GCP</li><li>Experience managing Linux (any distribution) and/or Windows operating systems</li><li>Good knowledge and usage of version control particularly Git (Github /Bitbucket)</li><li>Experience with scripting languages such as Bash and Python</li><li>Working knowledge of CI/CD Practices and Technologies like Jenkins and TeamCity</li><li>Experience with Infrastructure-as-a-Code (IaC) technologies such as Terraform and Cloud Formation, Azure Resource Manager templates</li><li>Experience with monitoring and alerting systems </li><li>Strong advocate of security principles and tools</li></ul>
+<p><strong>Following skills are considered a bonus</strong></p>
+<ul><li>Experience in software development, any programming language such as Python, Ruby, Java, .NET </li><li>Experience with Modern Authentication technologies  (OIDC, SSO, SAML, Federation)</li><li>Experience in building and supporting solutions both for serverless and server-based infrastructure in Amazon AWS, Azure, or GCP cloud environments</li></ul>
+<p><strong>What we offer</strong></p>
+<ul><li>Competitive salary with an attractive social package</li><li>Working on wide-ranging and sophisticated projects with highly skilled professionals, international clients, and the latest technologies.</li><li>A culture of collaboration and continuous learning in a work environment invested both in nurturing your skills and shaping our common technological future.</li></ul>
+<p>We believe that diversity of experience and background contributes to more robust ideas and a stronger team. All qualied applicants will receive consideration for employment without regard to religion, race, sex, sexual orientation, gender identity, national origin, or disability.</p>
+<img src="https://remotive.com/job/track/1378913/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1344659/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -152,7 +231,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1344659" align="right" target="_blank">Apply</a>
