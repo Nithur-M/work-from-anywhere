@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>184 days ago</text>
+                <text>185 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-site-reliability-engineer-1" align="right" target="_blank">Apply</a>
@@ -54,6 +54,106 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-site-reliability-engineer-1">https://weworkremotely.com/remote-jobs/chainlink-labs-site-reliability-engineer-1</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1378161/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DRUID</h5>
+                    <h3>Senior Site Reliability Engineer (SRE)</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,cloud,devops,docker</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/senior-site-reliability-engineer-sre-1378161" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h1">Description</div>
+<p>This is a remote position.</p>
+<div><span lang="EN-US" style="">We are looking for a <strong>Senior Site Reliability Engineer</strong> to work remotely at an international client of Druid.</span> </div>
+<div> </div>
+<p> </p>
+<div class="h3">Requirements</div>
+<div><span class="font" style=""><span class="size" style="">To apply to this opening, candidates <strong>must have</strong>:</span></span> </div>
+<ul>
+<li><span class="font" style=""><span class="size" style="">Solid experience as SRE or DevOps;</span></span></li>
+<li><span class="font" style=""><span class="size" style="">AWS cloud platform (S3, EC2, EKS);</span></span></li>
+<li><span class="font" style=""><span class="size" style="">Strong knowledge of Docker, Kubernetes, </span></span><span class="font" style=""><span class="size" style="">Terraform;</span></span></li>
+<li><span class="font" style=""><span class="size" style="">Jira, Confluence, OpsGenie, Jira Service Desk.</span></span></li>
+<li><span class="font" style=""><span class="size" style=""><span class="font" style=""><span class="size" style="">Intermediary English proficiency.</span></span></span></span></li>
+</ul>
+<p style="margin-bottom: 0cm; text-align: justify; line-height: normal; margin-top: 0px;">Also <strong>desirable </strong>requirements:</p>
+<ul>
+<li>AWS Solutions Architect certificate; </li>
+<li><span class="font" style=""><span class="size" style="">GITHub, CodeFresh, ArgoCD, Jenkins;</span></span></li>
+<li><span class="font" style=""><span class="size" style=""><span class="font" style=""><span class="size" style=""><span class="font" style=""><span class="size" style="">Istio, </span></span>Helm;</span></span></span></span></li>
+<li><span class="font" style=""><span class="size" style=""><span class="font" style=""><span class="size" style=""><span class="font" style=""><span class="size" style="">Grafana, Prometheus, Honeycomb.</span></span></span></span></span></span></li>
+</ul>
+<div> </div>
+<p style="margin-bottom: 0cm; text-align: justify; line-height: normal; margin-top: 0px;"><span class="font" style=""><span class="size" style=""><strong>Soft skills required:</strong></span></span></p>
+<ul>
+<li><span class="font" style=""><span class="size" style="">Comfortable with changes;</span></span></li>
+<li><span class="font" style=""><span class="size" style="">Strives to achieve ambitious goals even in challenging environments;</span></span></li>
+<li><span class="font" style=""><span class="size" style="">A good problem resolver capable of taking into account the vision of the whole.</span></span></li>
+</ul>
+<div> </div>
+<p> </p>
+<div class="h3">Benefits</div>
+<div><strong>Druid offers:</strong> </div>
+<ul>
+<li>Competitive compensation;</li>
+<li>Remote job;</li>
+<li>Work from anywhere;</li>
+<li>Opportunities to work on international projects;</li>
+<li>Equal opportunity workplace;</li>
+<li>Paid time off;</li>
+<li>Rump-up program for AWS certifications;</li>
+<li>Educational reimbursement;</li>
+<li>Bonus opportunities;</li>
+<li>Technical communities for knowledge exchange.</li>
+</ul>
+<p> </p>
+<img src="https://remotive.com/job/track/1378161/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/03/5fI4d2YF_400x400.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Offchain Labs</h5>
+                    <h3>Site Reliability Engineer - Europe</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J114835/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Offchain Labs is building a suite of scaling solutions for Ethereum. This includes Arbitrum, an Optimistic Rollup, that instantly scales apps, reducing costs and increasing capacity, without sacrificing Ethereum's security. Porting contracts to Arbit …
+Offchain Labs is building a suite of scaling solutions for Ethereum. This includes Arbitrum, an Optimistic Rollup, that instantly scales apps, reducing costs and increasing capacity, without sacrificing Ethereum's security. Porting contracts to Arbitrum requires no code changes or downloads since it’s compatible with existing Ethereum developer languages and tooling. Arbitrum today is the leading Ethereum scaling solution with dominant market share including hundreds of apps on the platform and over 50% of all rollup liquidity. <br/>Our team is extremely passionate and works tirelessly to bridge the gap between what blockchain is and what blockchain can be. We strive to maintain an atmosphere that fosters innovation and new ideas through collaboration, research, and deep discussions. After raising an initial round of $3.8M in seed funding in January 2019 and a $20M series A, as well as a $100M series B in 2021, we are ready to hire additional team members that have an interest in working in the blockchain space and a knack for approaching problems in unconventional ways
+<h3>Who You Are</h3>
+<ul>
+<li>Excited to learn and develop blockchain technology (No experience yet? No problem!)</li><li>Posses experience with Kubernetes and AWS</li><li>Experience with CI/CD pipelines; preferably CodeBuild, CodePipeline, Spinnaker, and Github Actions</li><li>Have worked with log collection frameworks; preferably NewRelic, ELK, and Cloudwatch</li><li>Experience with Terraform or Cloudformation</li><li>Solid understanding of threat modeling and secure system architecture  </li><li>Experience with high performance networking, application load balancers, and VPC setup</li><li>Experienced in Linux and shell scripting; Python and Go experience strongly preferred  </li><li>Have set up VPNs and multi-region access</li><li>Possess a strong sense of ownership in your work, which drives you to find ways to do things better and faster</li><li>Always up-to-speed on the latest technologies</li><li>Constantly on the lookout for new and innovative ways to solve complex problems through rigorous experimentation</li><li>Open, transparent and direct communication style while working in tight collaboration with your teammates</li><li>Always open to feedback, new ideas and opportunities for self-improvement</li><li>Actively look for ways to help out beyond the scope of your day-to-day work</li></ul>
+<h3>What You've Done</h3>
+<ul>
+<li>Significant hands on experience with a cloud environment and Kubernetes</li><li>Security background and knowledge</li><li>Experience with high performance networking </li><li>Significant experience with a scripting language</li></ul>We understand it takes a diverse team of highly intelligent, passionate, curious, and creative people to solve the challenges involved in developing and improving Arbitrum. Our dynamic team has incredible perspectives to share, just as we know you do, and we take great pride in being an equal opportunity workplace.
                 </details>
                 </td>
             </tr></table>
