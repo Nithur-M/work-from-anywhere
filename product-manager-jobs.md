@@ -11,7 +11,7 @@
                     <code>manager, crypto, cryptocurrency</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112643" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>manager, crypto, cryptocurrency</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112646" align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-sr-product-manager" align="right" target="_blank">Apply</a>
@@ -143,7 +143,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/whitespectre-associate-product-manager" align="right" target="_blank">Apply</a>
@@ -240,81 +240,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4850/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TestGorilla</h5>
-                    <h3> Growth Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>8 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/4850/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Amsterdam, The Netherlands
-    <br /><strong>URL:</strong> <a href="https://www.testgorilla.com/">https://www.testgorilla.com/</a>
-</p>
-
-<div>Hi there,</div><div><br></div><div>I’m Michel, the Head of Product at TestGorilla. We’re a fast-growing HR tech startup that helps teams make better hiring decisions faster and bias-free.</div><div><br></div><div>Over the last year, we’ve experienced tremendous growth. More than 6,000 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way. That growth is in part thanks to our extensive inbound marketing program. <br><br>As we look to scale our efforts in 2022 and beyond, we’re looking for a <strong> Growth Product Manager</strong> who’s passionate about joining our quest to help people land dream jobs. </div><div><br></div><div><br></div><h1><strong>What’s in it for you?</strong></h1><ul>
-<li>Helping shape a fast-growing HR tech startup as an early employee</li>
-<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
-<li>Chance to be at the forefront of a growing trend of Agile Marketing</li>
-<li>Competitive salary + share appreciation rights (SARs)</li>
-<li>Flexible hours and vacation</li>
-<li>Paid parental leave </li>
-<li>Remote working budget: €1,000 per year</li>
-<li>Learning and development budget: 3,5% of salary</li>
-</ul><div><br></div><div><br></div><h1><strong>The job in a nutshell</strong></h1><div>Reporting into our Head of Product, we are looking for a creative and highly collaborative <strong>Growth Product Manager</strong> with a solid experimentation background and an obsession over the user's needs to lead one of our new Marketing Squads. <br><br>As a Growth Product Manager in our Marketing Department, you'll collaborate with stakeholders and teams from multiple departments to help attract new users to TestGorilla, and convert them into valued customers. You will do this by developing in-depth product, customer, and market insight, translating that insight into a healthy portfolio of marketing experiments that can help us provide a better experience to our users, and validating &amp; informing our brand positioning and product strategy. </div><div><br></div><div>This is an amazing opportunity for a Growth Product Manager who is looking to embark on an entrepreneurial journey and is ready to put a dent in the universe! </div><div>
-<br><br>
-</div><h1><strong>You’ll spend time on the following:</strong></h1><ul>
-<li>Collaborate with Test Gorilla's Product and Marketing leadership teams to help plan and execute an acquisition strategy to drive sustainable user growth</li>
-<li>Prioritize a healthy portfolio of marketing experiments and marketing campaigns that can move the needle for user visits, conversion, and engagement </li>
-<li>Develop a deep understanding of our users and our content through qualitative research, data analytics and experimentation </li>
-<li>Form part of the Product and Engineering team by collaborating with Product Designers and Engineers - from discovery to delivery, on to monitoring after release</li>
-<li>Work cross-functionally across the company to understand how Marketing can leverage our product, content, articles, creatives, and landing pages to grow our user base</li>
-</ul><div><br></div><h1><strong><br>Here's what we are looking for:</strong></h1><ul>
-<li>You are inspired by our mission of <em>putting people in their dream jobs</em> </li>
-<li>You are fully aligned with our <a href="https://www.testgorilla.com/careers/">values </a>
-</li>
-<li>You are natively proficient in written English</li>
-<li>You are passionate about Product Management and <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/growth-marketing-b2c-test/">Marketing</a> </li>
-<li>Prior experience in a marketing role</li>
-<li>Experience running experiments with lean thinking and quick iterations</li>
-<li>Data-driven approach to product management and prioritization</li>
-<li>Excellent stakeholder management skills</li>
-<li>Mindset that always thinks MVP first</li>
-<li>User psychology and marketing know-how </li>
-<li>You are comfortable with the ambiguity and pace of iteration of a hyper-growth startup</li>
-</ul><div><br></div><div>
-<em>We typically expect candidates with at least </em><strong><em>3 years of experience in agile cross-functional product</em></strong><em> and/or marketing team to have the skills mentioned above.</em>
-</div><div>
-<br><br>
-</div><h1><strong>Bonus points if…</strong></h1><ul>
-<li>You have experience working in a SaaS company and a fast-growing startup </li>
-<li>You have experience working in a Product-led growth environment</li>
-<li>You have experience with Agile Marketing </li>
-</ul><div><br></div><div><br></div><h1><strong>Interested?</strong></h1><div>We don’t offer rainbow glitter unicorns or dog-friendly offices (we literally don’t have an office), but we do offer real people, solid core values, and a product meant to give everyone a fair, unbiased chance at their dream jobs.</div><div>
-<br>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions faster and bias-free. I took one too and I enjoyed it!</div><div>
-<br>So if this role sounds like a good fit for you, I’d like you to <a href="https://assessment.testgorilla.com/testtaker/publicinvitation/cc74819f-dbe4-4978-b112-8d75fc0923b2">take an assessment</a> so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product!</div><div>
-<br>If you’re hired, I’ll do everything I can to help you succeed at TestGorilla and throughout the rest of your career.</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager">https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -325,7 +250,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>301 days ago</text>
+                <text>302 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -377,6 +302,86 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/07/BQ3b3Y7C_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>SPINS</h5>
+                    <h3>Product Manager - Authentication & Authorization Management</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J115225/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Who We Are
+SPINS is the leading provider of retail consumer insights, analytics, and consulting for the Natural, Organic and Specialty Products Industry. We transform raw data into intelligent and actionable business solutions that enable consumers t …
+<h3>Who We Are</h3>
+<p><strong>SPINS</strong> is the leading provider of retail consumer insights, analytics, and consulting for the Natural, Organic and Specialty Products Industry. We transform raw data into intelligent and actionable business solutions that enable consumers to pursue wellness. At SPINS, we believe data is important, but our people are the real differentiator. That’s why we maintain a culture that is focused on collaboration, flexibility, and open communication.</p><p>We are seeking a <strong>Product Manager </strong>to lead our teams in building a world class platform authorization and authentication management system. We are stewards for the security and management of access to our data for our partners and this role will ensure our platform seamlessly provides our users access unique to their contracts. This role is critical to our success by ensuring that our users experience a seamless experience and appropriate access across all of our solutions. </p>
+<p>You will work as part of a dynamic and highly collaborative team, gaining and sharing insight with other experienced professionals. You will see many aspects of the SPINS business. You will have a direct impact on SPINS growth and delivering major new capabilities for our customers. You will have ownership and be given incredible opportunity for professional growth.</p>
+<p>The ideal candidate will be exceptional in communication, analytic problem solving, and navigating ambiguity. The successful candidate will thrive in a fast-paced environment, can operate within periods of limited guidance, and is a creative problem solver. The candidate will be comfortable working with a distributed team, working with diverse stakeholders and helping everyone stay focused on the right priorities.  The candidate will have high standards for themselves and others.  They will be constantly looking for ways to improve product performance, quality, and cost.</p>
+<p>Not in Chicago – No Problem, this role can be fully remote.</p>
+<p><strong>What You Will Do</strong></p>
+<ul>
+<li>Manage the product lifecycle from strategic planning, research, development to full scale delivery for Access and Authorization solutions</li>
+<li>Develop a clear understanding of the supported business domains and how the different aspects of the access and authorization platform support our end customers</li>
+<li>Own and be an advocate for your product roadmap and backlog</li>
+<li>Drive priorities and requirements for our core platform in alignment with SPINS strategic objectives</li>
+<li>Define the business case and justification for new product capabilities</li>
+<li>Collaborate cross-functionally with product, technology, and UX to deliver world class experiences for our internal and partner development teams</li>
+<li>Plan new builds, engage in design discussions, ensure requirements are well understood, create user stories and acceptance criteria, and provide testing guidance to your team</li>
+<li>Understand and articulate the product KPIs, COGS, and profitability of your product</li>
+<li>Collaborate with your peers, teams, and leadership to continuously improve our Product Management practices</li>
+</ul>
+<p><strong>What You Bring</strong></p>
+<ul>
+<li>4+ years of relevant experience in Product Management</li>
+<li>Experience with implementing access and authorization solutions</li>
+<li>Experience translating business and system requirements into user and product permission rules</li>
+<li>Strong problem solving, critical thinking, and analytic skills</li>
+<li>Strong technical background combined with solid business acumen</li>
+<li>Experience with software development tools (Jira, Product Board, etc.)</li>
+<li>Experience with agile development methodologies</li>
+<li>Proven leadership ability in leading a cross functional team of engineers</li>
+<li>Strong planning, organizational, and time management</li>
+<li>Strong communication skills</li>
+<li>Desire to learn and contribute</li>
+</ul>
+<p><strong>Preferable Skills</strong></p>
+<ul>
+<li>Prior experience related to access and authorization platform development</li>
+<li>Prior experience with CRM system, such as Salesforce</li>
+<li>Prior experience related to big data and cloud platforms</li>
+<li>Subject matter expertise in retail or brand marketing</li>
+</ul>
+<p> </p>
+<p style="color: #ffffff;">#LI-RT1 #LI-Remote</p><p><strong>What SPINS Offers</strong></p>
+<p>We have enjoyed tremendous growth over the years and, as a leader in a fast-growing industry, we have no plans to slow down!  While all that growth brings excitement, it is also an opportunity for SPINS to show it values the health and wellness of its team members. Whether you are based at our Chicago headquarters or remote, we continue to stay true to SPINS:</p>
+<ul>
+<li>We embrace hybrid and remote work options so that you have the flexibility to create a work/life balance that actually works!</li>
+<li>Virtual yoga, HIIT, meditation classes, and “team SPINS” Peloton rides</li>
+<li>Each employee is allotted paid time to use to volunteer with an organization of their choice and charitable donations are matched.</li>
+<li>CEO Connect, a monthly informal small group Q&amp;A session with our top leader </li>
+<li>Semi-annual company-wide survey that is used to shape company programs, perks, and culture.</li>
+</ul>
+<p> <strong> </strong><strong>The SPINS Way</strong></p>
+<ul>
+<li><strong>Direct</strong> – We communicate with clarity, honesty and respect in all situations and embrace opportunities to provide solution-oriented feedback.</li>
+<li><strong>Determined</strong> – We are committed to overcoming all obstacles to achieve results. We adapt to change, seek opportunities to learn and rapidly translate that learning into action.</li>
+<li><strong>Passionate</strong> – We go above and beyond to help our partners achieve their goals. We challenge assumptions and are comfortable forging new paths.</li>
+<li><strong>Collaborative</strong> – We leave our egos at the door, believing that working together we will produce an outcome that’s greater than each individual contribution.</li>
+</ul>
                 </details>
                 </td>
             </tr></table>
