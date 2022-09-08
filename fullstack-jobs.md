@@ -1,5 +1,30 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/d427faf23e4198612044d1d5f3f498051662454804.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Feed Media Group</h5>
+                    <h3>
+					Senior Full Stack Engineer				</h3>
+                </td>
+                <td width="300">
+                    <code>music, management, senior</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/112701" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                We are looking for an experienced software engineer who thrives mentoring fellow engineers. If you are interested in growing your career towards people management and leadership, this role is for you. We are a small team, so you will have a hand in all aspects of our services, including our music ingestion and delivery, analytics collection and reporting, and web services used by our clients and curation team.About UsFeed Media Group makes it easy, fast and legal for businesses to use music to drive revenues by delivering the most engaging customer experiences. We deliver pre-cleared musicâcompiled by the industryâs best curatorsâcomplete with user analytics, payments to rights holders, and legal indemnification for our customers. Feed.fm powers music for the worldâs leading brands including American Eagle Outfitters, Mayo Clinic, Mirror, Nautilus and Tonal; and up-and-coming startups use Adaptr to create unique music-based experiences. Our music partners include Warner, BMG, Merlin and Kobalt. Read more about us here.Â At Feed Media Group, we believe the best candidates are eager communicators, learn quickly, are compassionate, collaborate well with others, and have a strong desire to see their work in action. We are an equal opportunity/affirmative action employer committed to an inclusive and diverse workplace. If you are a member of a group that has been historically underrepresented in technology, we especially encourage you to apply.BenefitsRemote companyCompetitive salaryEquityComprehensive health, dental, vision and disability insurance along with a 401k contribution planAll qualified applicants will receive consideration for employmentÂ  without regards to race, color, religion, sex, sexual orientation, gender identity, national origin, disability status, protected veteran status or any other basis prohibited by law. We also consider qualified applicants with criminal histories consistent with applicable federal, state and local law.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +35,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-fullstack-javascript-engineer-1" align="right" target="_blank">Apply</a>
@@ -74,7 +99,7 @@
                     <code>developer,javascript,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-customer-solutions-team-1224255" align="right" target="_blank">Apply</a>
