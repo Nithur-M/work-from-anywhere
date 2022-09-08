@@ -1,6 +1,6 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7619/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Clevertech</h5>
@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-8" align="right" target="_blank">Apply</a>
@@ -19,7 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/7619/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
   <strong>Headquarters:</strong> New York, NY
@@ -72,67 +72,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3> DevOps Engineer - GCP Expert</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>8 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clevertech-devops-engineer-gcp-expert" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
-</p>
-
-<div>
-<br>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects<br><br>
-</div><div><strong>What we're working on:</strong></div><div>
-<br>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries<br><br>
-</div><div><strong><br>Requirements</strong></div><ul>
-<li>7+ years of professional experience (A technical assessment will be required)</li>
-<li>Senior-level experience with GCP</li>
-<li>Previous experience in cost reductions required</li>
-<li>Strong background in Linux and Mongo Atlas administration</li>
-<li>Experience deploying Kubernetes in a production environment</li>
-<li>Experience with CI/CD in Jenkins or CircleCi</li>
-<li>Infrastructure as code (we use Terraform)</li>
-<li>English fluency, verbal and written</li>
-</ul><div>
-<br><strong>Straight from the Devs</strong>
-</div><div>
-<br>Watch short snippets of actual developers (Real, not scripted) share why they joined <a href="https://cleverte.ch/3"><strong>YouTube Playlist<br></strong></a><br>
-</div><div>
-<br><strong>Why Clevertech is an amazing place to work at</strong>
-</div><div>
-<br>At Clevertech, you can expect that you will:<br><br>
-</div><ul>
-<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
-<li>Be a part of a team of talented and friendly senior-level developers</li>
-<li>Work on projects that allow you to use cutting-edge tech. We believe in constantly evolving your mastery</li>
-</ul><div>
-<br>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-devops-engineer-gcp-expert">https://weworkremotely.com/remote-jobs/clevertech-devops-engineer-gcp-expert</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>Chainlink Labs</h5>
                     <h3> DevOps Engineer</h3>
                 </td>
@@ -140,7 +79,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>97 days ago</text>
+                <text>98 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-devops-engineer-1" align="right" target="_blank">Apply</a>
@@ -186,41 +125,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1378913/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Blankfactor</h5>
-                    <h3>Senior DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>.Net,amazon,AWS,azure</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1378913" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Who we are</strong></p><p><strong></strong>Blankfactor is a global service provider. We offer mission-critical full-stack development, management, and consulting services to supplement our clients' teams or manage end-to-end delivery of custom software solutions. Headquartered in the United States, we have offices in Bulgaria, Colombia, and Costa Rica. Our culture anchors on expertise, excellence, and care for our talent and our clients. </p>
-<p><strong>What you'll do</strong></p><p><strong></strong>We are looking for a <em><strong>Senior DevOps Engineer</strong></em> to join our team. In this role, you will work with application developers to automate and accelerate the testing, release, and deployment of applications into a runtime environment quickly and reliably. You have a background in development, operations, and full-stack implementations. Your experience in programming helps to script installation, configuration, and provisioning. You will employ industry Continuous Delivery patterns and collaboratively work with other members of our team to achieve successful continuous delivery solutions. You are also responsible for mentoring the junior team members. As such, the ideal candidate must have experience clearly explaining solutions to complex problems and demonstrate the ability to impart knowledge effectively to junior resources.</p>
-<p><strong>Responsibilities</strong></p>
-<ul><li>Practice: Drive DevOps program initiatives. Lead secure tech implementation. Direct DevOps implementations to be aligned with planned roadmap and standards.</li><li>Partner: Partner with developer teams to create shared solutions for DevOps needs across IDS. Ensure that the DevOps tools are secure and used in a secure manner. Collaborate and investigate to understand developer needs and use-cases.</li><li>Measure: Implement methods to measure the capabilities of our toolkit, to drive continuous improvement</li><li>Drive and enable adoption: Maximize value derived from the toolset by increasing knowledge across IDS of capabilities and how to leverage the services and technologies.</li><li>Follow standards: Follow principles and standards for DevOps based on anticipated and repeated needs across projects. Document and advocate these principles, guidelines, patterns, and methodologies while ensuring they are well understood and adopted.</li></ul>
-<p><strong>Requirements and technical skills</strong></p>
-<ul><li>BS/MS in Computer Science/Engineering or related discipline and 7 years of relevant experience OR at least 5 years of relevant experience.</li><li>Proficiency in English and excellent communication and collaboration skills</li><li>Proven experience with either Amazon AWS, Azure, or GCP</li><li>Experience managing Linux (any distribution) and/or Windows operating systems</li><li>Good knowledge and usage of version control particularly Git (Github /Bitbucket)</li><li>Experience with scripting languages such as Bash and Python</li><li>Working knowledge of CI/CD Practices and Technologies like Jenkins and TeamCity</li><li>Experience with Infrastructure-as-a-Code (IaC) technologies such as Terraform and Cloud Formation, Azure Resource Manager templates</li><li>Experience with monitoring and alerting systems </li><li>Strong advocate of security principles and tools</li></ul>
-<p><strong>Following skills are considered a bonus</strong></p>
-<ul><li>Experience in software development, any programming language such as Python, Ruby, Java, .NET </li><li>Experience with Modern Authentication technologies  (OIDC, SSO, SAML, Federation)</li><li>Experience in building and supporting solutions both for serverless and server-based infrastructure in Amazon AWS, Azure, or GCP cloud environments</li></ul>
-<p><strong>What we offer</strong></p>
-<ul><li>Competitive salary with an attractive social package</li><li>Working on wide-ranging and sophisticated projects with highly skilled professionals, international clients, and the latest technologies.</li><li>A culture of collaboration and continuous learning in a work environment invested both in nurturing your skills and shaping our common technological future.</li></ul>
-<p>We believe that diversity of experience and background contributes to more robust ideas and a stronger team. All qualied applicants will receive consideration for employment without regard to religion, race, sex, sexual orientation, gender identity, national origin, or disability.</p>
-<img src="https://remotive.com/job/track/1378913/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1344659/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -231,7 +135,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1344659" align="right" target="_blank">Apply</a>
@@ -242,6 +146,90 @@
                 <details><summary>Description</summary>
                 <p class="h2" dir="ltr" style="margin-top: 18pt; margin-bottom: 4pt; line-height: 1.38;"><em style="color: rgb(0, 0, 0);   font-weight: 600; letter-spacing: 0.75px;">Design your full-time freelance career as a top freelance developer with Toptal.</em><br></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. </span></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; font-weight: 700; color: rgb(0, 0, 0);">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);"> Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. </span></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. </span></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">That’s why the world’s top 3% of developers choose Toptal. DevOps Engineers in our network share:</span></p><ul style="padding-inline-start: 48px;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">English language proficiency</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; font-weight: 700;">3+ years</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> of professional experience in software development</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Solid experience with </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; font-weight: 700;">AWS</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> is a strong advantage</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Project management skills</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">A keen attention to detail</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Experience with system architecture or leading a software team is a strong advantage</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 42pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; font-weight: 700;">Full-time availability</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> is a strong advantage</span></p></li></ul><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">Curious to know how much you could make? Check out our DevOps engineer rate calculator:</span><a href="https://topt.al/rRcmJn" rel="nofollow" style="text-decoration: none;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);"> </span></a><a href="https://topt.al/rqcbMg" rel="nofollow">https://topt.al/rqcbMg</a></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form:</span><a href="https://topt.al/VwcMQG" rel="nofollow" style="text-decoration: none;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);"> </span></a><span style="font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap; color: rgb(17, 85, 204);"><a href="https://topt.al/Qkcv4y" rel="nofollow"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">https://topt.al/Qkcv4y</span></a></span></p>
 <img src="https://remotive.com/job/track/1344659/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/20/05/amwell.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Amwell</h5>
+                    <h3>DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J115201/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Company Description
+Amwell is a leading telehealth platform in the United States and globally, connecting and enabling providers, insurers, patients, and innovators to deliver greater access to more affordable, higher quality care. Amwell believes th …
+<p><strong>Company Description</strong></p>
+<p>Amwell is a leading telehealth platform in the United States and globally, connecting and enabling providers, insurers, patients, and innovators to deliver greater access to more affordable, higher quality care. Amwell believes that digital care delivery will transform healthcare. We offer a single, comprehensive platform to support all telehealth needs from urgent to acute and post-acute care, as well as chronic care management and healthy living. With over a decade of experience, Amwell powers telehealth solutions for over 150 health systems comprised of 2,000 hospitals and 55 health plan partners with over 36,000 employers, covering over 80 million lives.</p>
+<p><strong>Brief Overview</strong></p>
+<p>The DevOps Engineer will play a key role in maintaining and improving the Amwell Devops Team. The platform incorporates a wide variety of features in providing world-class telehealth solutions through scalable web APIs, video Infrastructure and other technologies. This role requires working closely with the members of our engineering and operations teams, building and maintaining production environments in AWS and other Cloud Solutions.</p>
+<p><strong>Core Responsibilities</strong></p>
+<ul>
+<li>Build and maintain infrastructure on AWS environment and other Cloud Solutions</li>
+<li>Write scripts to automate deployments and server management</li>
+<li>Maintain Dev, Stg, QA and Production configuration using automated deployments</li>
+<li>Build and maintain operations tools for monitoring, notifications, log collection, and debugging.</li>
+<li>Troubleshoot/Debug production issues</li>
+<li>Maintain and enhance the Continuous Integration &amp; Deployment environment</li>
+<li>Document current and future configuration processes and policies.</li>
+</ul>
+<p><strong>Qualifications</strong></p>
+<ul>
+<li>3-5 years experience building and maintaining production environments in large-scale AWS enterprises.</li>
+<li>3+ years of practical experience with the following components of AWS: VPC, EC2, ELB, EBS, Route53, S3, CloudWatch, CloudTrail, IAM, RDS, SNS, Lambda, WAF</li>
+<li>Experience administering web services on Linux using Nginx</li>
+<li>Fluent in Linux administration &amp; shell scripting (BASH), AWS CLI</li>
+<li>Experience with:</li>
+<li>The integration and customization of the Atlassian Software Development and Collaboration products (Jira, Confluence)</li>
+<li>High availability and scalability in AWS</li>
+<li>SQL Databases (configuring and maintaining): RDS, Postgres DB’s</li>
+<li>Configuration tools like Puppet, Chef, Ansible</li>
+<li>Continuous Integration tools (Gitlab, Circle CI and/or Jenkins preferred)</li>
+<li>Experience in programming with Python, T-SQL</li>
+<li>Experience with and understanding of networking concepts and Internet protocols</li>
+<li>Production experience developing, configuring and supporting monitoring systems, alerting and analytics</li>
+<li>Familiar with source control tools GIT</li>
+<li>Strong troubleshooting, Problem Solving, QA skills</li>
+<li>Demonstrated ability to work as part of an integrated team, as well as independently.</li>
+<li>Strong interpersonal and relationship building skills conducive to team building.</li>
+<li>Effective communication with the local and remote team members</li>
+</ul>
+<p><strong>Preferred Experience (Not Required)</strong></p>
+<ul>
+<li>Video platforms: Twillio, WebRTC, Pexip</li>
+<li>Security Tools: AlertLogic, Tripwire</li>
+<li>Containers: Docker, ECS, Kubernetes</li>
+<li>VMware virtualization products such as ESX or vSphere</li>
+</ul>
+<p><strong>Additional information</strong></p>
+<p><strong>Working at Amwell</strong></p>
+<p>Amwell is changing how care is delivered through online and mobile technology. We strive to make the hard work of healthcare look easy. In order to make this a reality, we look for people with a fast-paced, mission-driven mentality. We’re a culture that prides itself on quality, efficiency, smarts, initiative, creative thinking, and a strong work ethic. </p>
+<p>Our Core Values include One Team, Customer First, and Deliver Awesome. Customer First and Deliver Awesome are all about our product and services and how we strive to serve. As part of One Team, we operate the Amwell Cares program, which brings needed assistance to our communities, whether that be free healthcare for the underserved or for people affected by natural disasters, support for equality, honoring doctors and nurses, or annual Amwell-matched donations to food banks. Amwell aims to be a force for good for our employees, our clients, and our communities.</p>
+<p>Amwell cares deeply about and supports Diversity, Equity and Inclusion. These initiatives are highlighted and reflected within our Three DE&amp;I Pillars - our Workplace, our Workforce and our Community.</p>
+<p><strong>Amwell </strong>is a "virtual first" workplace, which means you can work from anywhere, coming together physically for ideation, collaboration and client meetings. We enable our employees with the tools, resources and opportunities to do their jobs effectively wherever they are! <strong> Amwell has collaboration spaces in Boston, Tysons Corner, Portland, Woodland Hills, and Seattle.</strong></p>
+<ul>
+<li>Unlimited Personal Time Off (Vacation time)</li>
+<li>401K match</li>
+<li>Competitive healthcare, dental and vision insurance plans</li>
+<li>Paid Parental Leave (Maternity and Paternity leave)</li>
+<li>Employee Stock Purchase Program</li>
+<li>Free access to Amwell’s Telehealth Services, SilverCloud and The Clinic by Cleveland Clinic’s second opinion program</li>
+<li>Free Subscription to the Calm App</li>
+<li>Tuition Assistance Program</li>
+<li>Pet Insurance</li>
+</ul>
                 </details>
                 </td>
             </tr></table>
