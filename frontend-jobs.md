@@ -1,5 +1,30 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/df8fda2a602bc386e2842fb728bfea091662519607.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Fuel Labs</h5>
+                    <h3>
+					Senior Frontend Engineer				</h3>
+                </td>
+                <td width="300">
+                    <code>frontend, senior, engineer</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/112727" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Fuel Labs is building the fastest modular execution layer in the world. Your work will be the face of our bleeding edge blockchain scalability tech, which will include a suite of dapp , block explorer, and wallet frontends.We are seeking a Frontend Engineer  who loves to produce beautiful, clean, and intuitive interfaces, and can move seamlessly between solving creative and technical challenges. 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +35,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-engineer" align="right" target="_blank">Apply</a>
@@ -72,7 +97,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>155 days ago</text>
+                <text>156 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/facet-wealth-staff-front-end-engineer-react" align="right" target="_blank">Apply</a>
@@ -162,7 +187,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-1347890" align="right" target="_blank">Apply</a>
