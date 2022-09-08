@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/baremetrics-senior-backend-engineer-1" align="right" target="_blank">Apply</a>
@@ -86,7 +86,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>784 days ago</text>
+                <text>785 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/theoremone-llc-senior-backend-engineer-python" align="right" target="_blank">Apply</a>
@@ -133,77 +133,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1366877/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>GitLab</h5>
-                    <h3>Backend Engineer, CI, CD & Observability (Rails)</h3>
-                </td>
-                <td width="300">
-                    <code>backend,devops,education,go</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/backend-engineer-ci-cd-observability-rails-1366877" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class='"content-intro"'>
-<p>The GitLab <a class='"editor-rtfLink"' href="%22https:/about.gitlab.com/solutions/devops-platform/%22" rel="nofollow" target='"_blank"'>DevOps platform</a> empowers 100,000+ organizations to deliver software faster and more efficiently. We are one of the <a class='"editor-rtfLink"' href="%22https:/about.gitlab.com/company/culture/all-remote/guide/%22" rel="nofollow" target='"_blank"'>world’s largest all-remote companies</a> with 1,800+ team members and <a class='"editor-rtfLink"' href="%22https:/about.gitlab.com/handbook/values/%22" rel="nofollow" target='"_blank"'>values</a> that guide a culture where people embrace the belief that everyone can contribute.</p>
-</div>
-<p>Come join GitLab's software development team focused on improving and expanding the CI, CD and Observability capabilities of the DevOps platform.  Hundreds of thousands of developers depend on GitLab everyday to get their jobs done. </p>
-<p>We are hiring engineers with experience in Ruby/Rails, both Engineer and Senior Engineers!  We have a variety of open roles across the group and are growing fast!</p>
-<p> </p>
-<p><strong>Things you might work on:</strong></p>
-<ul>
-<li>Improving the scalability, performance, and reliability of our core CI engine</li>
-<li>Adding GitLab Runner support to new platforms</li>
-<li>Expanding Pipeline Authoring capabilities to make it easier for customers to configure and visualize complex pipelines</li>
-<li>Implementing deeper integrations with other GitLab features such as Continuous Delivery, Observability, Infrastructure as code, and more!</li>
-</ul>
-<div class="h4">Transparency is big to us, so here are some links to go as deep as you like:</div>
-<ul>
-<li><a rel="nofollow" target='"_blank"'>The Ops Group - CI, CD and Observability</a></li>
-<li><a href="%22https:/about.gitlab.com/handbook/engineering/development/ops/verify/%22" rel="nofollow" target='"_blank"'>Verify (Continuous Integration) Stage Handbook page, includes Pipeline and Runner teams</a></li>
-<li>Our CD Teams, including <a href="%22https:/about.gitlab.com/handbook/engineering/development/ops/package/%22" rel="nofollow" target='"_blank"'>Package</a>, <a href="%22https:/about.gitlab.com/handbook/engineering/development/ops/release/%22" rel="nofollow" target='"_blank"'>Release</a>, <a href="%22https:/about.gitlab.com/handbook/engineering/development/ops/configure/%22" rel="nofollow" target='"_blank"'>Configure</a> and <a href="%22https:/about.gitlab.com/handbook/engineering/development/ops/monitor/%22" rel="nofollow" target='"_blank"'>Monitor/Observability</a></li>
-<li><a href="%22https:/about.gitlab.com/job-families/engineering/backend-engineer/%22" rel="nofollow">Backend Engineering at GitLab</a></li>
-<li><a href="%22https:/about.gitlab.com/handbook/total-rewards/benefits/general-and-entity-benefits/%22" rel="nofollow" target='"_blank"'>Benefits at GitLab</a></li>
-</ul>
-<div class="h4">Experience you'll need:</div>
-<ul>
-<li>Professional experience with Ruby on Rails</li>
-<li>Working knowledge of CI/CD</li>
-<li>Have the ability to clearly and concisely communicate complex problems</li>
-<li>Proficiency in the English language, both written and verbal, sufficient for success in a remote work environment</li>
-<li>Self-motivated and self-managing, with strong organizational skills</li>
-</ul>
-<div class="h4">Experience that will set you apart:</div>
-<ul>
-<li>Previous experience working on high scale or highly critical systems</li>
-<li>Previous experience running services in production</li>
-<li>Experience with the GitLab product as a user or contributor</li>
-<li>Demonstrated ability to contribute to architecture design</li>
-<li>Product company experience</li>
-<li>Experience working with a globally distributed, remote team</li>
-</ul>
-<div class="h4"><strong>Compensation</strong></div>
-<p>To view the full job description and its compensation calculator, view our handbook. Candidates will have access to the compensation calculator after an initial screen conversation with a member of our recruiting team. Additional details about our process can be found on our<a href="%22https:/about.gitlab.com/handbook/hiring/interviewing/%22" rel="nofollow"> hiring page</a>.</p>
-<p> </p>
-<p>For Colorado residents: The base salary range for this role’s listed level is currently $107,500 - $188,900 for Colorado residents only. Grade level and salary ranges are determined through interviews and a review of education, experience, knowledge, skills, abilities of the applicant, equity with other team members, and alignment with market data. See more information on our<a href="%22https:/bit.ly/GLBeneUS%22" rel="nofollow"> benefits</a> and <a href="%22https:/bit.ly/GLequity%22" rel="nofollow">equity</a>. Sales roles are also eligible for incentive pay targeted at up to 100% of the offered base salary. Disclosure as required by the Colorado Equal Pay for Equal Work Act, C.R.S. § 8-5-101 et seq.</p>
-<div class='"content-conclusion"'><hr>
-<p><strong>Country Hiring Guidelines: </strong>GitLab hires new team members in countries around the world. All of our roles are remote, however some roles may carry specific location-based eligibility requirements. Our Talent Acquisition team can help answer any questions about location after starting the recruiting process.  </p>
-<p><strong>Privacy Policy: </strong>Please review our <a href="%22https:/about.gitlab.com/handbook/hiring/recruitment-privacy-policy/%22" rel="nofollow" target='"_blank"'>Recruitment Privacy Policy.</a> Your privacy is important to us.</p>
-<p>GitLab is proud to be an equal opportunity workplace and is an affirmative action employer. GitLab’s policies and practices relating to recruitment, employment, career development and advancement, promotion, and retirement are based solely on merit, regardless of race, color, religion, ancestry, sex (including pregnancy, lactation, sexual orientation, gender identity, or gender expression), national origin, age, citizenship, marital status, mental or physical disability, genetic information (including family medical history), discharge status from the military, protected veteran status (which includes disabled veterans, recently separated veterans, active duty wartime or campaign badge veterans, and Armed Forces service medal veterans), or any other basis protected by law. GitLab will not tolerate discrimination or harassment based on any of these characteristics. See also <a href="%22https:/about.gitlab.com/handbook/people-policies/inc-usa/#equal-employment-opportunity-policy%22" rel="nofollow" target='"_blank"'>GitLab’s EEO Policy</a> and <a href="%22https:/about.gitlab.com/handbook/labor-and-employment-notices/#eeoc-us-equal-employment-opportunity-commission-notices%22" rel="nofollow" target='"_blank"'>EEO is the Law</a>. If you have a disability or special need that requires <a href="%22https:/about.gitlab.com/handbook/people-policies/inc-usa/#reasonable-accommodation%22" rel="nofollow" target='"_blank"'>accommodation</a>, please let us know during the <a href="%22https:/about.gitlab.com/handbook/hiring/interviewing/#adjustments-to-our-interview-process%22" rel="nofollow" target='"_blank"'>recruiting process</a>.</p>
-</div>
-<img src="https://remotive.com/job/track/1366877/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1368348/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -214,7 +143,7 @@
                     <code>AWS,backend,business intelligence,docker</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineering-manager-1368348" align="right" target="_blank">Apply</a>
@@ -307,7 +236,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
