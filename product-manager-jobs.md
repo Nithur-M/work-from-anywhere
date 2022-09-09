@@ -1,55 +1,5 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/08d7a796f74442ab28bdf22e84d167ca1662362117.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>NOBI</h5>
-                    <h3>
-					Associate Product Manager				</h3>
-                </td>
-                <td width="300">
-                    <code>manager, crypto, cryptocurrency</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/112643" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><div><p></p><h2>Company Description</h2></div><div><p>NOBI helps people easily get more from their crypto asset & simplify their crypto investment experience. Our engineering team run hundreds of blockchain nodes, integrates with numerous DeFi smart contracts and run numerous real time robo trading to simplify the life our customers. <br><br>Weâre here so that everyone can be part of the global cryptocurrency movement. Join us.</p></div><div><p></p><h2>Job Description</h2></div><div><ul><li>Create Business Requirement Document (BRDs) / Product Requirement Documents (PRDs) with clarity on objective and execution details on product goals for all stakeholders.</li><li>Drive product vision and prioritize roadmap based on market opportunity to shape the business.</li><li>Responsible for execution the end-to-end product development and timeline.</li><li>Launch product improvements on regular basis and integrate user research.</li><li>Establish shared vision, prioritize, and align the product needs with all stakeholders.</li></ul></div><div><p></p><h2>Qualifications</h2></div><div><ul><li>Hands-on experience with product, customer and/or competitor analytics</li><li>Ability to influence & execute among an informal, cross-functional team in a matrixed organization</li><li>Interpersonal skills to work collaboratively with various stakeholders</li><li>Proven project leadership and critical thinking skills; ability to manage time effectively</li></ul></div><div><p></p><h2>Additional Information</h2></div><div><p>All your information will be kept confidential according to EEO guidelines.</p></div></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/78b8e13c5ddab7122aa2adf322702cad1662362125.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Voyager</h5>
-                    <h3>
-					Group Product Manager Retail Payments				</h3>
-                </td>
-                <td width="300">
-                    <code>manager, crypto, cryptocurrency</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/112646" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro"><p><span style="font-weight:400;">Voyager is a Publicly traded company listed on the Toronto Stock Exchange (VOYG), OTC Markets (VYGVF) and the Frankfurt Exchange (UCD2). Voyager is the global leader in agency cryptocurrency brokerage. At Voyager we are building the financial services firm of the future that will be used by millions of users globally to easily access trade, invest and earn in the cryptocurrency markets. </span></p><p><span style="font-weight:400;">We are a team of finance and technology industry veterans dedicated to empowering and servicing investors in one of the most exciting asset classes to date - crypto. Our founders stem from reputable finance and technology organizations like E*TRADE, Uber, TradeIt, Lightspeed Financial and more.</span></p><p><span style="font-weight:400;">The Voyager team includes employees with diverse backgrounds and skills. Our culture has quickly grown into one that promotes collaboration, transparency, and entrepreneurialism.</span></p><p><span style="font-weight:400;">To learn more about Voyager please visit us at <a href="http://www.investvoyager.com" target="_blank" rel="noopener noreferrer nofollow">www.investvoyager.com</a>.</span></p><p><span style="font-weight:400;">We are changing the world and love what we do so if you want to work at a fast paced, exciting environment please apply.</span></p></div><p><span style="font-weight:400;">Voyager is seeking product leadership to join a team of talented professionals with a mission to deliver a best-in-class platform that enables Crypto for All. This role will specifically lead product strategy, vision, growth, and delivery of Voyagerâs Retail Payments product line. This position will report directly to the VP of Product and work closely with Engineering and Marketing leadership to develop strong partnerships and workflows. </span></p><p><span style="font-weight:400;">Responsibilities will range from product vision and strategy, prioritization of initiatives and leadership of several product managers and owners. The role will require a hands-on leader, capable of being deeply involved in the product management and delivery side of the business, while simultaneously recruiting and building a team of highly skilled product managers. </span></p><p><strong>The ideal candidate for this position has experience and involvement within payment card product offerings and maturity</strong></p><h2><strong>Responsibilities: </strong></h2><ul><li style="font-weight:400;"><span style="font-weight:400;">Oversight for the direction of Voyagerâs Retail Payments line of products</span></li><li style="font-weight:400;"><span style="font-weight:400;">Management and leadership of product managers within the Retail Payments product group</span></li><li style="font-weight:400;"><span style="font-weight:400;">Development of strong partnerships with engineering, business development, product design and marketing teams </span></li><li style="font-weight:400;"><span style="font-weight:400;">Product line roadmapping, prioritization, and status reporting</span></li><li style="font-weight:400;"><span style="font-weight:400;">Alignment to the overall Voyager business strategy and vision</span></li></ul><h2><strong>Qualifications:</strong></h2><ul><li style="font-weight:400;"><span style="font-weight:400;">8+ years working in a product management role, preferably financial services and payments </span></li><li style="font-weight:400;"><span style="font-weight:400;">Proven success in leading people, preferably product managers </span></li><li style="font-weight:400;"><span style="font-weight:400;">Executive level communication skills</span></li><li style="font-weight:400;"><span style="font-weight:400;">Proven ability of leading cross-functional teams</span></li><li style="font-weight:400;"><span style="font-weight:400;">External relationships and marketplace awareness</span></li></ul><p> </p><div class="content-conclusion"><h2><span style="font-weight:400;">What we offer</span></h2><ul><li style="font-weight:400;"><span style="font-weight:400;">Competitive Salary</span></li><li style="font-weight:400;"><span style="font-weight:400;">Employee Benefits including healthcare (medical, dental, vision) and 401k</span></li><li style="font-weight:400;"><span style="font-weight:400;">Stock Options </span></li><li style="font-weight:400;"><span style="font-weight:400;">Unlimited PTO</span></li></ul><p><span style="font-weight:400;">Voyager is headquartered in New York City with satellite offices in New Jersey, California, Toronto and Bordeaux.</span></p><p><span style="font-weight:400;">Please contact us via the button below or at careers@investvoyager.com with your resume and a brief explanation as to why you would like to join the Voyager team.</span></p><p><span style="font-weight:400;">*Please note that during COVID-19 we are working remotely.</span></p></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4683/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -60,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-sr-product-manager" align="right" target="_blank">Apply</a>
@@ -133,113 +83,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/4971/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Whitespectre</h5>
-                    <h3> Associate Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/whitespectre-associate-product-manager" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/4971/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="http://www.whitespectre.com/">http://www.whitespectre.com/</a>
-</p>
-
-<div>We’re looking for a talented Associate Product Manager to join our team. This role is an excellent opportunity for candidates looking to pursue the product management career path.<br><br>
-</div><div>In this role, you’ll partner closely with senior product team members to execute major roadmap initiatives and identify new opportunities. Day to day, you’ll work within a fast-moving delivery pod alongside engineering and UI/UX to design, deliver, and optimize features that drive significant business value, insights, and great user experiences. You’ll have the chance to work on products for our client partners as well as Whitepectre’s own software products.<br><br>
-</div><div>
-<a href="http://www.whitespectre.com/">Whitespectre</a> is a product development company that creates high-performing platforms and apps, both for our long-term client partners and our own products. Founded in 2013, we partner with both large established companies and high-growth start-ups in the US and Europe. We're a close-knit team of 70 smart and diverse architects, engineers, product managers and designers, working together remotely and growing! Only candidates from outside of the US will be considered for this role.<br><br>
-</div><div>
-<br><strong>In this role, you will:<br></strong><br>
-</div><ul>
-<li>Collaborate with the product management team/exec stakeholders to build and support product roadmaps and track achievement of key objectives</li>
-<li>Translate roadmap initiatives into epics, user stories, and acceptance criteria and help define the ‘release and iterate’ strategy</li>
-<li>Define and communicate detailed user stories, participate in, then lead, the team’s grooming and sprint planning sessions, and eventually ‘own’ the backlog</li>
-<li>Work alongside engineering and UI/UX to create compelling user experiences and launch and optimize product features</li>
-<li>Analyze and share key performance metrics, and use this data to evaluate optimizations, improve user experiences, and identify new opportunities</li>
-<li>Develop a deep understanding of the business goals, end user and market to inform prioritization and strategic recommendations. Stay up to date with new ideas in relevant verticals to identify potential opportunities.</li>
-<li>Present updates to internal stakeholders and clients and help drive alignment; ensure the roadmap is continuously up to date</li>
-<li>Support training and implementation activities required for delivery</li>
-<li>Capture customer feedback and triage production issues/bugs to ensure the best user experience</li>
-<li>We work on fast iteration cycles using an agile/scrum methodology. This job is ideal for APMs who are action-oriented, self-directed and enjoy a highly collaborative, fast-paced environment.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>The check the box requirements:<br></strong><br>
-</div><ul>
-<li>At least 2 years of work experience (or significant academic internships), with at least 1 year of experience in product management, product development, entrepreneurship/ start-ups, design thinking, business analytics, market strategy, or other related work.</li>
-<li>Excellent verbal and written communication skills</li>
-<li>Demonstrated track record of taking on new opportunities and successfully seeing them through</li>
-<li>Experience working within a US, UK, or Canada-based company (or clients from those countries), or significant time in an English-first university environment</li>
-<li>Availability to work full-time within a fast-moving cross-functional team, crossing over with 11am - 7pm Central European Time</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>We’re excited about candidates who are:<br></strong><br>
-</div><ul>
-<li>Strong collaborators and communicators, both in verbal and written communication. You’re clear and specific, and you consider the perspective and priorities of each collaborator in advance when you communicate.</li>
-<li>Team players- you enjoy working in a close-knit team and learning from others. You’re skilled at building trust.</li>
-<li>Excellent organizers; able to catch and juggle competing priorities while understanding the bigger project management picture to make yourself and your team successful.</li>
-<li>Passionate and intellectually curious about new products, market opportunities, and product strategy.</li>
-<li>Seeking a long-term, growth opportunity. While our work is fast-paced, we also work consistent hours and value stability. If you’re a ‘Digital Nomad’ and/or looking for something short-term, then we’re not the right fit for you.</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>Benefits<br></strong><br>
-</div><ul>
-<li>Competitive salaries, with payment in USD</li>
-<li>Annual Performance &amp; Salary Reviews, with proactive career management</li>
-<li>20 Days PTO &amp; 3 Charity Days annually</li>
-<li>Funded face-to-face meet ups in Barcelona, as well as, South America and Asia</li>
-<li>Assisted Relocation package up to $5k</li>
-<li>Flexible working hours for efficient teaming in a 100% remote environment (proudly remote-first for 9 years!)</li>
-<li>Free English classes &amp; educational expenses support</li>
-<li>Generous Employee Referral Plan</li>
-<li>Team Fitness and Charity Initiatives</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>Cultural benefits<br></strong><br>
-</div><div>In addition to the above benefits, we foster an inclusive working environment that provides:<br><br>
-</div><ul>
-<li>Great company environment - check out <a href="https://www.glassdoor.com.ar/Reviews/Whitespectre-Reviews-E1575846.htm?countryRedirect=true">Glassdoor</a>
-</li>
-<li>Personalized onboardings</li>
-<li>Opportunity to contribute to company-level initiatives</li>
-<li>Work with a broad range of best-in-class technologies</li>
-<li>Cross-company knowledge groups - improve your expertise, share your learnings and work with different technologies and tools</li>
-<li>Regular brown bag learning sessions</li>
-<li>An emphasis on Work-life balance</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>Interested in applying?<br></strong><br>
-</div><ul>
-<li>Apply by completing the form below</li>
-<li>Include a brief statement on why you think you are a good fit for this role (up to 3 sentences)</li>
-<li>Or email us with any questions on recruiting@whitespectre.com</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/whitespectre-associate-product-manager">https://weworkremotely.com/remote-jobs/whitespectre-associate-product-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -250,7 +93,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>302 days ago</text>
+                <text>303 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -302,86 +145,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/07/BQ3b3Y7C_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SPINS</h5>
-                    <h3>Product Manager - Authentication & Authorization Management</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J115225/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Who We Are
-SPINS is the leading provider of retail consumer insights, analytics, and consulting for the Natural, Organic and Specialty Products Industry. We transform raw data into intelligent and actionable business solutions that enable consumers t …
-<h3>Who We Are</h3>
-<p><strong>SPINS</strong> is the leading provider of retail consumer insights, analytics, and consulting for the Natural, Organic and Specialty Products Industry. We transform raw data into intelligent and actionable business solutions that enable consumers to pursue wellness. At SPINS, we believe data is important, but our people are the real differentiator. That’s why we maintain a culture that is focused on collaboration, flexibility, and open communication.</p><p>We are seeking a <strong>Product Manager </strong>to lead our teams in building a world class platform authorization and authentication management system. We are stewards for the security and management of access to our data for our partners and this role will ensure our platform seamlessly provides our users access unique to their contracts. This role is critical to our success by ensuring that our users experience a seamless experience and appropriate access across all of our solutions. </p>
-<p>You will work as part of a dynamic and highly collaborative team, gaining and sharing insight with other experienced professionals. You will see many aspects of the SPINS business. You will have a direct impact on SPINS growth and delivering major new capabilities for our customers. You will have ownership and be given incredible opportunity for professional growth.</p>
-<p>The ideal candidate will be exceptional in communication, analytic problem solving, and navigating ambiguity. The successful candidate will thrive in a fast-paced environment, can operate within periods of limited guidance, and is a creative problem solver. The candidate will be comfortable working with a distributed team, working with diverse stakeholders and helping everyone stay focused on the right priorities.  The candidate will have high standards for themselves and others.  They will be constantly looking for ways to improve product performance, quality, and cost.</p>
-<p>Not in Chicago – No Problem, this role can be fully remote.</p>
-<p><strong>What You Will Do</strong></p>
-<ul>
-<li>Manage the product lifecycle from strategic planning, research, development to full scale delivery for Access and Authorization solutions</li>
-<li>Develop a clear understanding of the supported business domains and how the different aspects of the access and authorization platform support our end customers</li>
-<li>Own and be an advocate for your product roadmap and backlog</li>
-<li>Drive priorities and requirements for our core platform in alignment with SPINS strategic objectives</li>
-<li>Define the business case and justification for new product capabilities</li>
-<li>Collaborate cross-functionally with product, technology, and UX to deliver world class experiences for our internal and partner development teams</li>
-<li>Plan new builds, engage in design discussions, ensure requirements are well understood, create user stories and acceptance criteria, and provide testing guidance to your team</li>
-<li>Understand and articulate the product KPIs, COGS, and profitability of your product</li>
-<li>Collaborate with your peers, teams, and leadership to continuously improve our Product Management practices</li>
-</ul>
-<p><strong>What You Bring</strong></p>
-<ul>
-<li>4+ years of relevant experience in Product Management</li>
-<li>Experience with implementing access and authorization solutions</li>
-<li>Experience translating business and system requirements into user and product permission rules</li>
-<li>Strong problem solving, critical thinking, and analytic skills</li>
-<li>Strong technical background combined with solid business acumen</li>
-<li>Experience with software development tools (Jira, Product Board, etc.)</li>
-<li>Experience with agile development methodologies</li>
-<li>Proven leadership ability in leading a cross functional team of engineers</li>
-<li>Strong planning, organizational, and time management</li>
-<li>Strong communication skills</li>
-<li>Desire to learn and contribute</li>
-</ul>
-<p><strong>Preferable Skills</strong></p>
-<ul>
-<li>Prior experience related to access and authorization platform development</li>
-<li>Prior experience with CRM system, such as Salesforce</li>
-<li>Prior experience related to big data and cloud platforms</li>
-<li>Subject matter expertise in retail or brand marketing</li>
-</ul>
-<p> </p>
-<p style="color: #ffffff;">#LI-RT1 #LI-Remote</p><p><strong>What SPINS Offers</strong></p>
-<p>We have enjoyed tremendous growth over the years and, as a leader in a fast-growing industry, we have no plans to slow down!  While all that growth brings excitement, it is also an opportunity for SPINS to show it values the health and wellness of its team members. Whether you are based at our Chicago headquarters or remote, we continue to stay true to SPINS:</p>
-<ul>
-<li>We embrace hybrid and remote work options so that you have the flexibility to create a work/life balance that actually works!</li>
-<li>Virtual yoga, HIIT, meditation classes, and “team SPINS” Peloton rides</li>
-<li>Each employee is allotted paid time to use to volunteer with an organization of their choice and charitable donations are matched.</li>
-<li>CEO Connect, a monthly informal small group Q&amp;A session with our top leader </li>
-<li>Semi-annual company-wide survey that is used to shape company programs, perks, and culture.</li>
-</ul>
-<p> <strong> </strong><strong>The SPINS Way</strong></p>
-<ul>
-<li><strong>Direct</strong> – We communicate with clarity, honesty and respect in all situations and embrace opportunities to provide solution-oriented feedback.</li>
-<li><strong>Determined</strong> – We are committed to overcoming all obstacles to achieve results. We adapt to change, seek opportunities to learn and rapidly translate that learning into action.</li>
-<li><strong>Passionate</strong> – We go above and beyond to help our partners achieve their goals. We challenge assumptions and are comfortable forging new paths.</li>
-<li><strong>Collaborative</strong> – We leave our egos at the door, believing that working together we will produce an outcome that’s greater than each individual contribution.</li>
-</ul>
                 </details>
                 </td>
             </tr></table>
