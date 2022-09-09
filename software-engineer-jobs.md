@@ -11,7 +11,7 @@
                     <code>director, leader, strategy</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112723" align="right" target="_blank">Apply</a>
@@ -35,7 +35,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -97,7 +97,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -151,6 +151,70 @@
 <li>Machine learning or data science experience</li>
 </ul>
 <img src="https://remotive.com/job/track/1187416/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/09/myfO2swO_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Cowbell</h5>
+                    <h3>Senior Software Engineer - Python</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J115443/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                At Cowbell, our mission is to protect small to medium-sized enterprises by making cyber insurance accessible to all. Join our fast-growing team of diverse and passionate individuals on this mission to reinvent how businesses manage cyber risk and buy …
+At Cowbell, our mission is to protect small to medium-sized enterprises by making cyber insurance accessible to all. Join our fast-growing team of diverse and passionate individuals on this mission to reinvent how businesses manage cyber risk and buy cyber insurance.
+<p>Cowbell is a fast-growing, next-generation cyber insurance provider, built on cutting-edge technology by a team of seasoned professionals united in their mission to achieve our ambitious goals. We believe in a people-first culture and know that great work isn’t done without a phenomenal team, so we make sure to reflect that in our core values, benefits &amp; wellness program. </p>
+<p>In support of increasing demand, we are actively looking for ambitious people, who are not afraid of hard-work, ambiguity and a dash of chaos, to join our team and be part of a growing institution where they can hone their skills and develop new ones in a fun, challenging and dynamic environment.</p>
+<p>If that sounds like you, we want to hear from you!</p><p><strong>Cowbell Cyber</strong> is hiring a <strong>Senior Software Engineer (Python)</strong> to join our Data Science team.</p>
+<p><strong>What you will do:</strong></p>
+<ul>
+<li style="font-weight: 400;">Own the service end-to-end and contribute to all phases of the software development cycle including ideation, prototyping, design, test, document, deployment &amp; monitoring at scale, and also take part in on-call rotation</li>
+<li style="font-weight: 400;">Collaborate and grow in a dynamic &amp; fast paced environment while working across teams including data engineers, data scientists, underwriting and GTM.</li>
+<li style="font-weight: 400;">Help the team with sharing resources/technologies, mentoring junior engineers and hiring </li>
+<li style="font-weight: 400;">Drive enhancements for core data infrastructure at scale</li>
+<li>Partner with data scientists and business stakeholders to understand data needs and help build data products that scale across the company</li>
+<li>Drive the collection of new data from first-party and third party data sources and the refinement of existing data sources.</li>
+<li>Interface with other engineering groups in order to integrate with third-party APIs and service layers</li>
+</ul>
+<p><strong>What Cowbell needs from you:</strong></p>
+<ul>
+<li>Proficient in developing RESTful APIs using Python Web Framework like Django, Flask</li>
+<li>Write modular, scalable, testable server side code in Python</li>
+<li>Develop libraries and frameworks to be used across multiple projects</li>
+<li>Address software quality issues as they arise and identify areas for improvement proactively</li>
+<li>Experience in data modeling, relational databases like MySQL, Postgres</li>
+</ul>
+<p><strong>Preferred qualifications:</strong></p>
+<ul>
+<li>Bachelors or advanced degree in Computer Science or closely related field</li>
+<li>2-5 years experience Python programming</li>
+<li>Familiarity with event-driven programming in Python</li>
+<li>Experience working with AWS/GCP/Azure big data technologies</li>
+<li>Experience working with Apache Spark/PySpark</li>
+<li>Strong communication skills and experienced in gathering requirements</li>
+<li>Knowledge of database and software engineering best practices across the development lifecycle.</li>
+<li style="font-weight: 400;">Experience in data modeling, cyber security or actuarial science is a plus</li>
+<li style="font-weight: 400;">Experience using tool such as: Airflow, GraphQL, Actions, RDS, Snowflake, Databricks, Kafka, Redis, Elastic, Flask, Django</li>
+</ul><p><strong>What Cowbell brings to the table:</strong></p>
+<ul>
+<li>Winner of Inc. Magazine’s Annual List of Best Workplaces for 2022</li>
+<li>Nationwide medical, dental and vision coverage plus life insurance, long term disability and flexible spending accounts.</li>
+<li>Employee equity plan for all and wealth enablement plan for select customer facing roles.</li>
+<li>Comprehensive wellness program including unlimited PTO, monthly company-wide wellness days, wellness app subscriptions, lunch and learn, book club, get-togethers, lunch &amp; communication stipends, happy hours and much more.</li>
+</ul>
                 </details>
                 </td>
             </tr></table>
