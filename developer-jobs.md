@@ -1,5 +1,80 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/8a22b64b4251e39184c091b1c91ec92c1662555080.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Scorpion</h5>
+                    <h3>
+					Front End Developer				</h3>
+                </td>
+                <td width="300">
+                    <code>manager, frontend, cloud</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/112797" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                About the Front-End Developer role:As a Front End Developer, innovation, collaboration, and a knack for creating quality code are what drives you. You will work closely with Developers, Product Designers, Product Managers, and senior leadership to deliver on the needs of department initiatives. Youâll work with others to identify and implement design system standards and best UI practices. The purpose of this role is to develop the front-end needs and infrastructure for advanced internal platforms scorpion runs on.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/8a22b64b4251e39184c091b1c91ec92c1662555079.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Scorpion</h5>
+                    <h3>
+					Front End Developer				</h3>
+                </td>
+                <td width="300">
+                    <code>manager, seo, salesforce</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/112796" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                About the Front-End Developer role:As a Front End Developer, innovation, collaboration, and a knack for creating quality code are what drives you. You will work closely with Developers, Product Designers, Product Managers, and senior leadership to deliver on the needs of department initiatives. Youâll work with others to identify and implement design system standards and best UI practices. The purpose of this role is to develop the front-end needs and infrastructure for advanced internal platforms scorpion runs on.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/9f4d38972a35345cd900cd3e78a4457b1662621331.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Soramitsu</h5>
+                    <h3>
+					Substrate runtime Developer				</h3>
+                </td>
+                <td width="300">
+                    <code>developer, devops, education</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/113023" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 14pt 0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">As a Substrate runtime Developer at SORAMITSU, you'll be working on some of our most exciting projects</span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> including: </span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">SORA network </span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">that provides tools for decentralized applications that use digital assets</span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> and </span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Polkaswap</span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> - the eagerly anticipated AMM DEX (decentralized exchange) based on SORA network. </span></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 14pt 0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Donât worry about Substrate in the job description! Youâll be focused on extending SORA and Polkaswap with new features. SORA and Polkaswap are live now, you can check them here </span><a href="https://polkaswap.io/" rel="noreferrer noopener nofollow" style="text-decoration:none;"><span style="font-size:11.5pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">polkaswap.io</span></a> <span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">and </span><a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fws.alb.sora.org#/explorer" rel="noreferrer noopener nofollow"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">here</span></a></p><p><strong>Your work time</strong></p><p>Youâll spend 50% of your time writing new pallets, 20% of your time checking PRs from your colleagues, 20% of your time on fixing and researching some technical issues and helping other teams and 10% of your time on meetings.</p><p><strong>Your schedule</strong></p><p>Our team is distributed and everyone has his own schedule. The main thing is to join daily team meetings and reply in chats if you were tagged. As was mentioned above youâll spend most of your time on coding and itâs great! We donât spend much time on meetings that we donât need.</p><p> </p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:14pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Responsibilities include:</span></p><ul><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Design, implement and support software production.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Write tests that guarantee high quality of functional and non-functional characteristics of produced code.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Perform code review for other developers.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:20pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Take part in making architectural decisions.</span></li></ul><p><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The ideal candidate has:</span></p><ul><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2+ years of experience in development.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Experience in Rust, with a fair knowledge of the language specification.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Experience in Substrate development.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Good knowledge of Substrate, Polkadot, Kusama ecosystem.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Thorough knowledge of the standard library, and algorithms.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Understanding cryptography algorithms, blockchain concepts is a plus.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Understanding of blockchain consensus algorithms work is a plus.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Knowledge of one or more blockchain protocols: Ethereum,Polkadot</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Understanding of basics in DevOps engineering.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Knowledge of principles and practices in Agile development.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:20pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Proficient understanding of code versioning and git-flow.</span></li></ul><p><strong>Working Conditions</strong></p><ul><li><p>Flexible 40-hour work week;</p></li><li><p>Permanent, full-time position;</p></li><li><p>The international team of professionals;</p></li><li><p>Possibility to work from offices around the globe;</p></li><li><p>Possibility to visit global meetups and conferences for education and/or for giving a speech;</p></li><li><p>An absence of a strict dress code;</p></li><li><p>Relaxed work environment.</p></li></ul>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/83093662fcd66f86e0f0c3acb62b53e71662526804.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -11,7 +86,7 @@
                     <code>developer, software, senior</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112729" align="right" target="_blank">Apply</a>
@@ -21,56 +96,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 Tegus is the leading market intelligence platform for key decision makers.Â We power some of the worldâs most well-respected institutional investors, corporations, and consultancies through the largest and most comprehensive database of primary and market information. Our products and services enable clients to discover unmatched insights and answers to the most challenging questions they face to help them make better informed decisions. (And because a job description can only contain a fraction of how we operate, click here to learn more about the Tech Team at Tegus!)Tegusâs tech team has gone international! We are looking for an experienced senior developer to help us build better products faster than ever on our newly founded team in Poland. As a true specialist and one of our first hires, youâll be the voice of backend excellence and have the unique opportunity to help establish Tegusâs presence in Poland. Youâll not only be hands on coding, but have ample opportunity to mentor teammates as the team expands. Weâre excited to see the impact this role will make!Donât meet every single requirement? Studies have shown that women and people of color are less likely to apply to jobs unless they meet every single qualification. At Tegus we are dedicated to building a diverse, inclusive and authentic workplace, so if youâre excited about this role but your past experience doesnât align perfectly with every qualification in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles. Tegus, Inc. provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, or veteran status. In addition to federal law requirements, Tegus complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company operates. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.Â Tegus expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, national origin, age, disability, or veteran status.The only @email addresses we use are @tegus.coÂ or @tegus.com. If you receive emails from any other domain (including .us), please assume they are fraudulent and let us know by sending an email toÂ fraudreporting@tegus.com
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/535fe36a7caddc39712bfbebd91f0a171662534921.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Boson Protocol</h5>
-                    <h3>
-					Senior Blockchain Developer				</h3>
-                </td>
-                <td width="300">
-                    <code>developer, security, senior</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/112736" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Position:</strong> <strong>Senior Blockchain Engineer</strong></p><p><strong>Role:</strong> <strong>Full time</strong></p><p><strong>Location:</strong> <strong>Remote</strong></p><p><strong>Salary:</strong> <strong>Competitive</strong></p><p> </p><h4><strong>Why work with us </strong></h4><p><span style="font-weight:400;">Boson Protocol enables an open tokenized economy by automating digital to physical redemptions using NFTs encoded with game theory. Boson Protocol disrupts e-commerce platforms by tokenizing Things and commerce data within a liquid digital market, built on DeFi. </span></p><p><span style="font-weight:400;">We call this Decentralized Autonomous Commerce (dCommerce).</span></p><p><span style="font-weight:400;">Boson Protocolâs vision is to enable a capture resistant, decentralized commerce ecosystem, by funding and accelerating the development of a stack of specialized applications to disrupt, demonopolize and democratize commerce.</span></p><p><span style="font-weight:400;">We are empowering builders and partners to reinvent commercial exchange as we know it. If you are passionate about becoming part of that revolution, we hope you apply to join us!</span></p><p><span style="font-weight:400;">Read more about us here: </span><a href="https://bosonprotocol.io/" rel="noopener noreferrer nofollow"><span style="font-weight:400;">https://bosonprotocol.io/</span></a></p><h4><strong>Role Summary </strong></h4><p><span style="font-weight:400;">Boson Protocol is looking for a senior blockchain Developer that can comfortably navigate through the rapidly evolving blockchain technology. As a Senior developer, you will take initiative in building at the bleeding edge of technology that is going to be immediately applied in real life. The ideal candidate has a Computer Science degree, is well versed in advanced cryptographic concepts, esp. with advancements in zero knowledge proofs, has a minimum of 3 years of experience in Ethereum and is effective in inspiring and mentoring colleagues.</span></p><p><span style="font-weight:400;">The role open is for a long-term relationship, working predominantly remotely and you can expect to become an integral part of a diverse international team.</span></p><p><strong>Roles and responsibilities</strong></p><ul><li style="font-weight:400;"><span style="font-weight:400;">The design and build of the Boson Protocol, the core of the project</span></li><li style="font-weight:400;"><span style="font-weight:400;">Take ownership over core parts of the protocol, from specification to implementation & maintenance</span></li><li style="font-weight:400;"><span style="font-weight:400;">Coordinate large scale upgrades and releases with other team members</span></li><li style="font-weight:400;"><span style="font-weight:400;">Perform internal code reviews as well as rigorous testing & verification practices</span></li><li style="font-weight:400;"><span style="font-weight:400;">Assist the rest of the protocol team with writing and maintaining up to date documentation</span></li><li style="font-weight:400;"><span style="font-weight:400;">Stay up to date with relevant updates in the industry and foster a growing internal knowledge base</span></li></ul><h3><strong>Requirements:</strong></h3><ul><li style="font-weight:400;"><span style="font-weight:400;">Working understanding of how Ethereum works, with a familiarity with its rivals</span></li><li style="font-weight:400;"><span style="font-weight:400;">Prior experience of building a production system on Ethereum</span></li><li style="font-weight:400;"><span style="font-weight:400;">Understanding of smart contract security and the common pitfalls. </span></li><li style="font-weight:400;"><span style="font-weight:400;">Experience of testing best practices</span></li><li style="font-weight:400;"><span style="font-weight:400;">A strong understanding of the blockchain ecosystem, layer 2, side chains, rollups etc</span></li><li style="font-weight:400;"><span style="font-weight:400;">You can work with high autonomy</span></li><li style="font-weight:400;"><span style="font-weight:400;">Strong written and verbal communication skills</span></li><li style="font-weight:400;"><span style="font-weight:400;">Strong familiarity of Agile methodologies </span></li><li style="font-weight:400;"><span style="font-weight:400;">A never ending curiosity to learn and master new tooling and best practices</span></li></ul><h3><strong>Bonus:</strong></h3><ul><li style="font-weight:400;"><span style="font-weight:400;">Knowledge about the inner workings of the EVM</span></li><li style="font-weight:400;"><span style="font-weight:400;">Practical experience with scaling strategies and layer 2 systems</span></li><li style="font-weight:400;"><span style="font-weight:400;">Have knowledge of another layer 1 besides Ethereum</span></li><li style="font-weight:400;"><span style="font-weight:400;">Adept with applied cryptographic concepts & tools including zero knowledge systems</span></li><li style="font-weight:400;"><span style="font-weight:400;">Experience of using smart contract security tools, e.g. static analysis, fuzzy testing, etc</span></li></ul><h3><strong>Our tech stack:</strong></h3><ul><li><span style="font-weight:400;">Solidity</span></li><li style="font-weight:400;">Waffle </li><li style="font-weight:400;"><span style="font-weight:400;">Node.js</span></li><li style="font-weight:400;"><span style="font-weight:400;">Javascript</span></li><li style="font-weight:400;"><span style="font-weight:400;">Ethers.js / web3.js</span></li><li style="font-weight:400;"><span style="font-weight:400;">Hardhat </span></li><li style="font-weight:400;"><span style="font-weight:400;">MongoDB</span></li><li style="font-weight:400;"><span style="font-weight:400;">IPFS</span></li><li style="font-weight:400;"><span style="font-weight:400;">GitHub Actions</span></li></ul><p><strong>What we offer you:</strong></p><ul><li style="font-weight:400;"><span style="font-weight:400;">Flexible, remote work with a high degree of autonomy in a dynamic, fast growth startup</span></li><li style="font-weight:400;"><span style="font-weight:400;">An opportunity to leverage bleeding edge technology and industry-leading development practices</span></li><li style="font-weight:400;"><span style="font-weight:400;">Close collaboration with leading projects in the space, e.g. immediate deep dive into Ocean Protocol integration</span></li><li style="font-weight:400;"><span style="font-weight:400;">A highly competitive salary and other potential arrangements. Details depend on ability and experience. Come and talk to us.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Your choice of equipment</span></li></ul><p><strong>Some of our guiding principles: </strong></p><ul><li><strong>Dream Big:</strong><span style="font-weight:400;"> We want to build technology that can outlast the founders and reshape commerce and society at large</span></li><li><strong>Self-Mastery: </strong><span style="font-weight:400;">Mindful conduct and always on learning are critical components of personal and collective growth</span></li><li><strong>Collaboration:</strong><span style="font-weight:400;"> Expertise is key, but sharing knowledge and building together with joy is the foundation of truly remarkable work</span></li><li><strong>Stay lean:</strong><span style="font-weight:400;"> Our ethos is to create and share value equitably, with minimal value extraction.</span></li></ul>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/e86e541abb347ac23e9a7b105226503a1662448523.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Token Metrics</h5>
-                    <h3>
-					FinTech Web Developer				</h3>
-                </td>
-                <td width="300">
-                    <code>developer, web, crypto</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/112700" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>We are looking for a web designer who will be responsible for creating great websites for our clients. Primary duties include conceptualizing and implementing creative ideas for client websites, as well as creating visual elements that are in line with our clients' branding. You will be working closely with our web development team to ensure proper and hassle-free implementation.</div><div><br></div><div>To be successful in this role, you will need to have excellent visual design skills and be proficient in graphic design software such as Adobe Photoshop and Adobe Illustrator.</div><p></p><h4>Web Designer Responsibilities</h4><p></p><p></p><li>Preparing design plans and presenting the website structure.</li><li>Create optimized websites and landing pages that convert well</li><li>Create A/B tests for landing pages and ads </li><li>Track existing websites and landing page conversions </li><li>Optimize heat maps to boost conversions </li><li>Testing and improving the design of the website.</li><li>Establishing design guidelines, standards, and best practices.</li><li>Maintaining the appearance of websites by enforcing content standards.</li><li>Communicating design ideas using user flows, process flows, site maps, and wireframes.</li><li>Incorporating functionalities and features into websites.</li><p></p><h4>Web Designer Requirements</h4><p></p><p></p><li>Hubspot </li><li>Wordpress</li><li>Create landing pages for Ads for Google, Facebook, Twitter, Youtube</li><li>HTML, CSS, Javascript, PHP</li><li>A relevant diploma in a related field.</li><li>Good understanding of search engine optimization principles.</li><li>Proficient understanding of cross-browser compatibility issues.</li><li>Excellent visual design skills.</li><li>Up-to-date experience with international web protocols, standards, and technologies.</li><li>Adaptable and willing to learn new techniques.</li><div><span style="font-size:24px;">About Token Metrics</span></div><div><br></div><div>Token Metrics is an AI-driven cryptocurrency research company that uses artificial intelligence to build Crypto indices, rankings, and price predictions. </div><div><br></div><div>Token Metrics has a diverse set of customers, from retail investors and traders to Crypto fund managers, in more than 50 countries.</div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -85,7 +110,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/in99-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -136,7 +161,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/torc-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -191,7 +216,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/appy-ventures-experienced-flutter-developer" align="right" target="_blank">Apply</a>
@@ -240,7 +265,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-1" align="right" target="_blank">Apply</a>
@@ -284,7 +309,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>331 days ago</text>
+                <text>332 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
@@ -351,7 +376,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -428,7 +453,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -505,7 +530,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -530,7 +555,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -555,7 +580,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -580,7 +605,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -605,7 +630,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -630,7 +655,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -655,7 +680,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
@@ -680,7 +705,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -727,7 +752,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
