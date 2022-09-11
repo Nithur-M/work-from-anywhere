@@ -11,7 +11,7 @@
                     <code>manager, frontend, cloud</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112797" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>manager, seo, salesforce</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/112796" align="right" target="_blank">Apply</a>
@@ -50,112 +50,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/9f4d38972a35345cd900cd3e78a4457b1662621331.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6863/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Soramitsu</h5>
-                    <h3>
-					Substrate runtime Developer				</h3>
-                </td>
-                <td width="300">
-                    <code>developer, devops, education</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/113023" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 14pt 0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">As a Substrate runtime Developer at SORAMITSU, you'll be working on some of our most exciting projects</span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> including: </span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">SORA network </span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">that provides tools for decentralized applications that use digital assets</span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> and </span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Polkaswap</span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> - the eagerly anticipated AMM DEX (decentralized exchange) based on SORA network. </span></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 14pt 0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Donât worry about Substrate in the job description! Youâll be focused on extending SORA and Polkaswap with new features. SORA and Polkaswap are live now, you can check them here </span><a href="https://polkaswap.io/" rel="noreferrer noopener nofollow" style="text-decoration:none;"><span style="font-size:11.5pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">polkaswap.io</span></a> <span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">and </span><a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fws.alb.sora.org#/explorer" rel="noreferrer noopener nofollow"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">here</span></a></p><p><strong>Your work time</strong></p><p>Youâll spend 50% of your time writing new pallets, 20% of your time checking PRs from your colleagues, 20% of your time on fixing and researching some technical issues and helping other teams and 10% of your time on meetings.</p><p><strong>Your schedule</strong></p><p>Our team is distributed and everyone has his own schedule. The main thing is to join daily team meetings and reply in chats if you were tagged. As was mentioned above youâll spend most of your time on coding and itâs great! We donât spend much time on meetings that we donât need.</p><p> </p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:14pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Responsibilities include:</span></p><ul><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Design, implement and support software production.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Write tests that guarantee high quality of functional and non-functional characteristics of produced code.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Perform code review for other developers.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:20pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Take part in making architectural decisions.</span></li></ul><p><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The ideal candidate has:</span></p><ul><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2+ years of experience in development.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Experience in Rust, with a fair knowledge of the language specification.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Experience in Substrate development.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Good knowledge of Substrate, Polkadot, Kusama ecosystem.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Thorough knowledge of the standard library, and algorithms.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Understanding cryptography algorithms, blockchain concepts is a plus.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Understanding of blockchain consensus algorithms work is a plus.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Knowledge of one or more blockchain protocols: Ethereum,Polkadot</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Understanding of basics in DevOps engineering.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Knowledge of principles and practices in Agile development.</span></li><li style="line-height:1.38;margin-top:0pt;margin-bottom:20pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Proficient understanding of code versioning and git-flow.</span></li></ul><p><strong>Working Conditions</strong></p><ul><li><p>Flexible 40-hour work week;</p></li><li><p>Permanent, full-time position;</p></li><li><p>The international team of professionals;</p></li><li><p>Possibility to work from offices around the globe;</p></li><li><p>Possibility to visit global meetups and conferences for education and/or for giving a speech;</p></li><li><p>An absence of a strict dress code;</p></li><li><p>Relaxed work environment.</p></li></ul>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/83093662fcd66f86e0f0c3acb62b53e71662526804.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Tegus</h5>
-                    <h3>
-					Senior Software Developer				</h3>
-                </td>
-                <td width="300">
-                    <code>developer, software, senior</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/112729" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Tegus is the leading market intelligence platform for key decision makers.Â We power some of the worldâs most well-respected institutional investors, corporations, and consultancies through the largest and most comprehensive database of primary and market information. Our products and services enable clients to discover unmatched insights and answers to the most challenging questions they face to help them make better informed decisions. (And because a job description can only contain a fraction of how we operate, click here to learn more about the Tech Team at Tegus!)Tegusâs tech team has gone international! We are looking for an experienced senior developer to help us build better products faster than ever on our newly founded team in Poland. As a true specialist and one of our first hires, youâll be the voice of backend excellence and have the unique opportunity to help establish Tegusâs presence in Poland. Youâll not only be hands on coding, but have ample opportunity to mentor teammates as the team expands. Weâre excited to see the impact this role will make!Donât meet every single requirement? Studies have shown that women and people of color are less likely to apply to jobs unless they meet every single qualification. At Tegus we are dedicated to building a diverse, inclusive and authentic workplace, so if youâre excited about this role but your past experience doesnât align perfectly with every qualification in the job description, we encourage you to apply anyways. You may be just the right candidate for this or other roles. Tegus, Inc. provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, national origin, age, disability, or veteran status. In addition to federal law requirements, Tegus complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company operates. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.Â Tegus expressly prohibits any form of workplace harassment based on race, color, religion, gender, sexual orientation, national origin, age, disability, or veteran status.The only @email addresses we use are @tegus.coÂ or @tegus.com. If you receive emails from any other domain (including .us), please assume they are fraudulent and let us know by sending an email toÂ fraudreporting@tegus.com
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>in99</h5>
-                    <h3> Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/in99-full-stack-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Barcelona, Catalonia, Spain
-    <br /><strong>URL:</strong> <a href="https://www.in99.com/">https://www.in99.com/</a>
-</p>
-
-<p>El propósito de este rol es el desarrollo de la plataforma de servicios profesionales e implementar nuevos productos.</p>
-<p><strong>Impacto</strong></p>
-<ul> <li>Usamos tecnología de vanguardia para proporcionar valor a nuestros clientes.</li> <li>Resolvemos los retos a los que nos enfrentamos cada día en esta etapa de disrupción tecnológica de los servicios legales y profesionales.</li> <li>Consolidamos y potenciamos el grado de empoderamiento de la compañía y de nuestros colaboradores.</li> <li>Afianzamos nuestro liderazgo tecnológico, marcando la diferencia en el sector de los servicios profesionales en línea.</li> </ul>
-<p><strong>Funciones</strong></p>
-<ul> <li>Analizar e implementar aplicaciones, procesos, APIs y webs.</li> <li>Documentar los desarrollos.</li> <li>Integraciones con terceros.</li> <li>Colaborar en nuevos proyectos web o APIs con equipos de producto, marketing y/o análisis.</li> </ul>
-<p><strong>100% Trabajo en remoto</strong></p>
-<p>En in99 todos trabajamos en remoto y de manera distribuida, tenlo en cuenta antes de aplicar a este puesto.</p>
-<p><strong>Requirements</strong></p>
-<p>Al menos 3 años de experiencia con:</p>
-<ul> <li>PHP</li> <li>Laravel / PHP framework</li> <li>Bases de datos (Mysql, SqlServer)</li> <li>Desarrollo y consumo de APIs (Rest).</li> <li>JQuery, HTML, CSS, JavaScript</li> <li>Experiencia en el desarrollo de aplicaciones web (backend/frontend)</li> <li>Git</li> </ul>
-<p>Suma puntos si tienes experiencia con:</p>
-<ul> <li>Python </li> <li>WP</li> <li>Javascript frameworks: AngularJS, React.</li> <li>Herramientas de análisis datos: Excel, Power BI, Google Analytics, etc.</li> <li>Integración continua.</li> <li>Testing y debugging.</li> <li>Saber programar y ser creativo resolviendo los retos.</li> <li>Saber trabajar en equipo, ayudar y que te ayuden.</li> <li>Ser organizado. Atención al detalle.</li> <li>Ser positivo, curioso, comunicativo y ágil.</li> <li>Estar al día de las tendencias actuales y mejores prácticas en programación.</li> <li>Valoramos experiencia en otras áreas como SEM, PPC, Email marketing.</li> </ul>
-<p><strong>Benefits</strong></p>
-<ul> <li>Equipo joven y motivado, donde todos trabajamos en remoto</li> <li>Equipos autónomos y alineados</li> <li>Salario competitivo</li> </ul>
-<p><strong>Más acerca de in99</strong></p>
-<ul> <li>En in99 conectarás con un propósito, el de hacer accesible a todos los servicios profesionales</li> <li>Somos la única empresa totalmente distribuida del sector de los servicios profesionales en España</li> <li>Somos una de las empresas con mayor crecimiento en Europa con un crecimiento del 500% en facturación.</li> <li>Nos han certificado como "Great Place to Work"</li> <li>Estamos en el proceso de certificarnos como Empresa B</li> </ul>
-<p>Descubre más en <a href="https://www.in99.com/nosotros/" class="external">nuestra web</a>.</p>
-<ul> </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/in99-full-stack-developer">https://weworkremotely.com/remote-jobs/in99-full-stack-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0079/8627/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Torc</h5>
-                    <h3> Full Stack Developer</h3>
+                    <h5>Shneorweb</h5>
+                    <h3> Senior Fullstack JS Developer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
@@ -164,43 +63,22 @@
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/torc-full-stack-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/shneorweb-senior-fullstack-js-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0079/8627/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6863/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Boston
-    <br /><strong>URL:</strong> <a href="https://www.opentorc.com/">https://www.opentorc.com/</a>
+  <strong>Headquarters:</strong> London, UK
+    <br /><strong>URL:</strong> <a href="http://shneorweb.com">http://shneorweb.com</a>
 </p>
 
-<div>Full stack engineers are highly skilled and sought after experts in the software development spanning the areas of web, mobile, and software development. These engineers are highly skilled in coding both the frontend and the backend of systems. In addition to coding, these engineers are able to discuss, visualize and comprehend the full system architecture. Skills for a Full Stack engineer range from covering languages and frameworks like HTML, CSS and Javascript on the frontend to Java, NodeJS, C# and SQL on the backend. Full stack engineers are expected to be able to handle everything that is thrown at them, including API development, frontend coding, deployment of systems, or delivering entire products<br><br>
-</div><div><strong><br>Responsibilities</strong></div><ul>
-<li>Meet with the software development team to define the scope of software projects</li>
-<li>Understand data structures and design patterns</li>
-<li>Design and implement scalable web services, applications, and APIs</li>
-<li>Develop and maintain internal software tools</li>
-<li>Write low-level and high-level code</li>
-<li>Troubleshoot and fix bugs</li>
-<li>Develop efficient software</li>
-<li>Work across the full stack, building highly scalable distributed solutions that enable positive user experiences and measurable business growth</li>
-<li>Develop new features and infrastructure development in support of rapidly emerging business and project requirements</li>
-<li>Ensure application performance, uptime, and scale, maintaining high standards of code quality and thoughtful application design</li>
-<li>Understand and are able to participate in the latest development methodologies by following best practices</li>
-</ul><div><strong><br>Requirements</strong></div><ul>
-<li>Previous experience as a full stack engineer</li>
-<li>Advanced knowledge of one or more of the following frontend languages: HTML5, CSS, JavaScript, PHP, and JQuery</li>
-<li>Proficient in one or more of the following backend languages: Java, Python, Rails, Ruby, .NET, and NodeJS</li>
-<li>Knowledge of database systems and SQL</li>
-<li>Advanced troubleshooting skills</li>
-<li>Familiarity with JavaScript frameworks</li>
-<li>Good communication skills</li>
-</ul>
+<div>hey tere<br><br>We're looking to hire senior full-stack JS developers for a <strong>full-time long-term</strong> contract working a vast project for the UK healthcare industry.<br><br>The project is full-stack JS Nextjs+Nestjs, and you shall be capable of developing entire and complex features from start to finish.<br><br>If you have the right experience and are available to join our remote team <strong>immediately</strong>, use the link to enter a skills test. Upon passing, you will be directed to submit your application.<br><br>The monthly payment range is subject to experience and skills between $2k to $4k +</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/torc-full-stack-developer">https://weworkremotely.com/remote-jobs/torc-full-stack-developer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/shneorweb-senior-fullstack-js-developer">https://weworkremotely.com/remote-jobs/shneorweb-senior-fullstack-js-developer</a></p>
 
                 </details>
                 </td>
@@ -216,7 +94,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/appy-ventures-experienced-flutter-developer" align="right" target="_blank">Apply</a>
@@ -258,17 +136,17 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>BBE Marketing Inc</h5>
-                    <h3> Full-Stack Wordpress Developer</h3>
+                    <h5>much. GmbH</h5>
+                    <h3> Remote Odoo Developer (m/f/d)</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>60 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-1" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/much-gmbh-remote-odoo-developer-m-f-d-3" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -277,91 +155,104 @@
                 
 
 <p>
-  <strong>Headquarters:</strong> Hurst, TX
-    <br /><strong>URL:</strong> <a href="http://bbemarketing.com/">http://bbemarketing.com/</a>
+  <strong>Headquarters:</strong> much. GmbH
+    <br /><strong>URL:</strong> <a href="https://muchconsulting.de/en/">https://muchconsulting.de/en/</a>
 </p>
 
-<div>BBE Marketing creates online products that help businesses connect with celebrities and influencers. We are looking for a talented Full-Stack Wordpress Developer to join our team, who could help us in shipping features for our application and drive our application design and architecture as we grow.<br><br>
-</div><div>The tasks include:<br><br>
-</div><div>- Developing plugins<br>- Making fixes and updates to existing plugins<br>- Work with team in planning and strategizing<br>- Working with designer in developing designs<br>- Various backend tasks<br><br>
-</div><div>You will love this role if:<br><br>
-</div><div>- You like working with the stakeholders directly. We’re a relatively small startup, there’s no bureaucracy and complex hierarchy. You’ll be communicating directly with all the team members, from CEO to Customer Support.<br>- You like to work and ship stuff fast without compromising quality. You know when to stop and call it done without trying to achieve the unattainable perfection.<br>- You’re not afraid to prove your point when necessary. We trust our team members and believe they have businesses best interest at heart. If there’s no simple solution to a problem, you can provide the arguments and clearly communicate the risks.<br>- Self-starter, we don’t like to micro-manage our team<br>- You treat privileged information with care. You can be trusted with sensitive company data<br>- Great communication skills<br><br>
-</div><div>Requirements:<br>- Experience with PHP<br>- Experience with Wordpress<br>- Experience with MySQL;<br>- Experience with Asana (preferred)<br>- Written and spoken English (required).<br>- Able to work 4 hours overlap within 08:00 - 18:00 EST<br><br>
-</div><div>
-<br><br>
-</div><div>
-<br><br>
-</div>
+<div>You want to work as a remote developer with the prospect of coming to Germany or Portugal after a successful freelance cooperation?<br>We are a boutique consultancy in the heart of Munich with a focus on business IT &amp; ERP systems.<br>Our customers are fast-growing, international start-ups and medium-sized companies. We are ambitious, team-oriented and passionate about our work.<br>We are looking for a dedicated full time Odoo developer to support our Team in ERP development.<br><br>
+</div><div><strong>Our offer</strong></div><ul>
+<li>The chance to come to Germany or Portugal after your freelance work </li>
+<li>Support with visa process, bureaucracy &amp; help to find an apartment in Germany </li>
+<li>Inclusion in our motivated &amp; high-performing international team through daily  meetings  </li>
+<li>Above-average remuneration  </li>
+</ul><div><strong>Your profile</strong></div><ul>
+<li>Studies in computer engineering or similar </li>
+<li>Programming skills in Python, HTML,  CSS, XML  </li>
+<li>Experience with Odoo and QWeb </li>
+<li>Adaptive, quick working method &amp;  high commitment </li>
+<li>Independent working style </li>
+<li>English speaking team player </li>
+</ul><div><strong>Your tasks</strong></div><ul>
+<li>Evolve and maintain custom and  open source used modules in our  ERP System Odoo </li>
+<li>Assist our consultants analysing  customer needs to design and build  the best fit IT solutions  </li>
+<li>Development, maintenance,  technical fixing &amp; management of  our systems </li>
+</ul><div>Send your CV or expressive LinkedIn profile to: <a href="mailto:apply-@muchconsulting.de">apply-rod@muchconsulting.de</a>
+</div><div>Learn more about much. Consulting at muchconsulting.com/join</div><div><br></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-1">https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/much-gmbh-remote-odoo-developer-m-f-d-3">https://weworkremotely.com/remote-jobs/much-gmbh-remote-odoo-developer-m-f-d-3</a></p>
 
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/1147/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1383881/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>OperateBeyond</h5>
-                    <h3> PHP Developer</h3>
+                    <h5>Sticky</h5>
+                    <h3>Blockchain Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>crypto,developer,ios,mobile</code>
                 </td>
                 <td width="200">
-                <text>332 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/devops/blockchain-developer-1383881" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0067/1147/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Michigan
-    <br /><strong>URL:</strong> <a href="http://operatebeyond.com/">http://operatebeyond.com/</a>
-</p>
-
-<div><br></div><div>OperateBeyond is a fast growing technology company building web and mobile applications. We specialize in delivering top-notch user experiences paired with solid technology in non-auto vehicle software industry. Our successes come from our teamwork and mutual respect for each other’s talents and unique perspectives.<br><br>
-</div><div>
-<br>So when we say we are looking for a PHP Developer we do want want you to be an awesome back-end developer who’s dabbled with many different projects. We are looking for someone who can hold their own when when it comes to system integrations, databases, and even be interested in understanding more about user experience to help us shape amazing products.<br><br>
-</div><div>
-<strong><br>What you might do on any given day:<br></strong><br>
-</div><ul>
-<li>Work with a variety of technologies and platforms such as PHP, ZF2, ZF1, Laravel, ElasticSearch, MySQL, Vue.js, jQuery and many more technologies we may introduce<br><br>
-</li>
-<li>Collaborate with product managers and technical leads<br><br>
-</li>
-<li>Develop comprehensive use cases and test conditions<br><br>
-</li>
-<li>Take part in analysis efforts, identification, and recommendation of solutions, integration points and related implementation architecture for business usage improvements, scalability and performance.<br><br>
-</li>
-<li>Provide guidance in the form of code review, solution design, and recommended training and development plans.<br><br>
-</li>
-<li>Write unit tests, specs, integration tests, UI tests, and acceptance tests.<br><br>
-</li>
-<li>Advocate for new or improved development practices that increase craftsmanship, availability, resilience, and scalability of our solutions<br><br>
-</li>
-</ul><div>
-<strong><br>We think you’ll enjoy working with our team if you:<br></strong><br>
-</div><ul>
-<li>Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in technology communities.<br><br>
-</li>
-<li>Can be flexible, agile, dependable, and responsive even when there are a lot of moving parts and prefer that over following rigid processes and guidelines.<br><br>
-</li>
-<li>Believe that good application development includes good testing, good documentation, and good collaboration.<br><br>
-</li>
-<li>Have great communication and reasoning skills, including the ability to make a strong case for technology choices while understanding other viewpoints and the need to find the best possible solution for everyone.<br><br>
-</li>
-<li>Have a positive yet practical attitude; You are willing to take on any task that might help take one of our products, or our company, a little further.<br><br>
-</li>
-</ul><div><br></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer">https://weworkremotely.com/remote-jobs/operatebeyond-php-developer</a></p>
-
+                <p>This job:</p>
+<ul>
+<li>You will be responsible for leading all aspects of our technology that involves blockchains, both public (Ethereum, Polygon, Solana) and our private ledger.</li>
+<li>This is a unique opportunity to lead blockchain technology for a VC-backed global marketplace.</li>
+<li>Key priorities include:</li>
+<li>Integrating purchases in our app (USD) with transactions on public blockchains (Ethereum, Polygon, Solana)</li>
+<li>Bridging our ledger with public blockchains (e.g. letting users export/import NFTs from one to the other)</li>
+<li>Further design, development of our ledger/blockchain and of the NFT standards</li>
+<li>Ensuring performance &amp; security.</li>
+</ul>
+<p> </p>
+<p>About Us:</p>
+<ul>
+<li>Sticky aims to be the leading worldwide mobile-native token marketplace.</li>
+<li>Creators &amp; collectors on Sticky get the fun of NFTs and other non-currency tokens in a fun &amp; inviting app, with the safety of the App Store, without the hassle of setting up crypto wallets.</li>
+<li>Sticky has a private ledger and is in the process of integrating with Ethereum, Polygon and Solana.</li>
+<li>Launched in Dec 2021 by experienced founders, it has received early-stage backing from top VC investors and is now building an all-star, remote-first team.</li>
+<li>iOS: <a class="external" href="https://apps.apple.com/us/app/nft-marketplace-maker-sticky/id1497044357" rel="nofollow">https://apps.apple.com/us/app/nft-marketplace-make...</a></li>
+<li>Web: <a class="external" href="https://getstic.ky/" rel="nofollow">https://getstic.ky/</a></li>
+</ul>
+<p><strong>Requirements</strong></p>
+<p>You need to have:</p>
+<ul>
+<li>Proficient blockchain development skills - subject to technical test</li>
+<li>5+ years of experience with Blockchain development (e.g. Solidity, Hyperledger, R3 Corda, Bluemix, Rubix)</li>
+<li>Deep knowledge of blockchain, cryptocurrencies, system architecture, data structure and algorithms.</li>
+<li>Security, coding &amp; version control best practices</li>
+<li>Basic English skills to read documentation &amp; communicate with the rest of the team.</li>
+<li>Interest in working on the Sticky platform.</li>
+</ul>
+<p>If you have these too that's nice:</p>
+<ul>
+<li>Entrepreneurial experience (e.g. a startup or side project of your own)</li>
+<li>Early-stage startup experience</li>
+<li>Strong academic credentials (e.g. top university, degree in Computer Science / Engineering)</li>
+<li>Practical experience with automated testing development</li>
+</ul>
+<p><strong>Benefits</strong></p>
+<p>We offer:</p>
+<ul>
+<li>Generous salary and stock options.</li>
+<li>The opportunity to build and grow with a cutting-edge VC-backed global marketplace from the start, as one of its first 10 developers</li>
+<li>An entrepreneurial, pragmatic, high performance, transparent and friendly culture.</li>
+</ul>
+<p>Place of work:</p>
+<ul>
+<li>Wherever you want (fully remote)</li>
+</ul>
+<img src="https://remotive.com/job/track/1383881/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -376,7 +267,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -453,7 +344,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -530,7 +421,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -555,7 +446,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -580,7 +471,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -605,7 +496,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -630,7 +521,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -655,7 +546,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -680,7 +571,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
@@ -705,7 +596,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -752,7 +643,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
