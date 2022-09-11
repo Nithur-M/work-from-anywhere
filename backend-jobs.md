@@ -11,7 +11,7 @@
                     <code>manager, financial, security</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/113013" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>cryptocurrency, crypto, security</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/113020" align="right" target="_blank">Apply</a>
@@ -50,77 +50,168 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5898/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Baremetrics</h5>
-                    <h3> Senior Backend Engineer</h3>
+                    <h5>Rainforest QA</h5>
+                    <h3> Senior Engineer (Backend)</h3>
                 </td>
                 <td width="300">
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>36 days ago</text>
+                <text>60 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/baremetrics-senior-backend-engineer-1" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/5898/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
   <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://baremetrics.com">https://baremetrics.com</a>
+    <br /><strong>URL:</strong> <a href="https://www.rainforestqa.com/">https://www.rainforestqa.com/</a>
 </p>
 
-<div>
-<strong>Senior Backend Engineer<br></strong><br>
-</div><div>$140k+<br><br>
-</div><div>
-<br><br>
-</div><div>As a senior backend developer at <a href="https://baremetrics.com/">Baremetrics</a>, you will be working on a variety of projects from payment provider integrations and data ingestion to metrics processing and user-facing features.<br><br>
-</div><div>We're a very small team with a huge bias for simplicity. You'll be working on projects, large and small, from inception to completion.<br><br>
-</div><div>We approach our work with focus and purpose in an environment of trust and autonomy. When we work on a difficult problem, we take the time to think through and research the possible solutions and then write an implementation plan. Sometimes that may also include some tinkering.<br><br>
-</div><div>
-<strong><br>The stack you’ll use<br></strong><br>
-</div><div>Baremetrics is built atop Ruby on Rails and PostgreSQL, and uses VueJS and Typescript on the frontend. You should feel comfortable exploring and learning new technologies and languages.<br><br>
-</div><div>
-<strong><br>The work to be done<br></strong><br>
-</div><div>We have interesting engineering challenges and exciting plans for the future of the product, much of which revolves around processing and finding insights in large data sets.<br><br>
-</div><div>Here are some examples of the type of problems you would work on:<br><br>
+<div><strong>About Rainforest</strong></div><div>Rainforest QA is a distributed company full of smart, capable people from around the world who enjoy working together to make our customers successful.</div><div><br></div><div>Our mission is to make product quality accessible for every software company. The Rainforest QA solution combines no-code test automation and crowdsourced testing in a single, one-of-a-kind QA platform, allowing anyone to get the exact insights they need to release with quality, quickly.  </div><div><br></div><div><strong>About the Team</strong></div><div>As a Senior Engineer at Rainforest QA you'll be part of an experienced and diverse team with members all over the world.</div><div><br></div><div>We were built as a distributed team from the beginning and we've committed to implementing tools and processes that allow for and support continuous and effective communication across the world.<br><br><strong>About the Role</strong>
 </div><ul>
-<li>Implement new user-facing product features</li>
-<li>Investigate metric discrepancies reported by customers and fix them at the root cause</li>
-<li>Develop tooling to surface business insights across many terabytes of data</li>
-<li>Mentor junior programmers</li>
+<li>Work on our main app, which contains the majority of our business logic and is written in Ruby-on-Rails and backed by PostgreSQL and Redis</li>
+<li>Work on numerous support services (including our work scheduler and VM management system - both of which manage hundreds of thousands of requests a day) written in a variety of languages (Elixir, Golang, Crystal, Node, Python) chosen because of their suitability to the problem the service is solving</li>
+<li>Work on internal tooling to improve the development experience of other engineers and ship faster and safer</li>
+<li>Collaborate with product managers and our customer facing teams to analyze customer problems and design high impact features</li>
+<li>Lead projects to implement those features</li>
+<li>Help other team members to achieve their goals</li>
+<li>Continuously learn about new technologies and ways to solve problems</li>
+<li>Work with our customer facing teams to triage, troubleshoot, and fix bugs</li>
+<li>Write unit and integration tests (using our own product!) to ship high quality software</li>
+</ul><div><strong>About You</strong></div><ul>
+<li>Extensive experience in Ruby (or equivalent dynamic language) and be extremely knowledgeable of the language and associated ecosystem</li>
+<li>Extensive experience in Ruby on Rails (or equivalent framework) and be extremely knowledgeable of the framework and associated ecosystem</li>
+<li>Experience in writing and debugging SQL</li>
+<li>Enthusiasm for building applications using tools like Ruby on Rails, Golang, Elixir, React, PostgreSQL, Redis, BigQuery, and Kubernetes - amongst others</li>
+<li>Practical experience of working on a React codebase</li>
+<li>Even though this position is mainly backend focused, we expect you to have some grasp of the whole stack to be able to effectively communicate with engineers across the team, and can make frontend or infrastructure changes when the situation calls for it</li>
+<li>Professional experience in engineering SaaS products</li>
+<li>Experience leading projects with teams</li>
+<li>An ownership mindset: you should look not only at what you’re asked to do, but ask why you’re doing it and how it impacts on the rest of the product, our customers, and whether it makes sense. We expect you to be responsible for your work and to resolve any bugs you might ship</li>
+<li>Excitement to learn</li>
+<li>Excellent communication skills and able to give and receive constructive feedback</li>
+<li>Happy to review code and have your code reviewed</li>
+<li>Can work effectively remotely with remote team members (we are a fully distributed company)</li>
+<li>Comfortable working in a large codebase with many stakeholders</li>
+</ul><div>How we’ll reward you</div><ul>
+<li>Competitive salary plus equity.</li>
+<li>100% company-paid medical, dental, and vision insurance coverage for employees, 75% for dependents (U.S., only).</li>
+<li>Unlimited paid time-off (PTO).</li>
+<li>A weekly allowance for lunches and a monthly allowance for remote office supplies or personal development.</li>
+<li>Semi-annual company off-sites in exciting destinations around the world.</li>
+<li>12 weeks of paid maternity leave and 8 weeks of paid leave for supporting parents.</li>
+<li>401k (U.S., only).</li>
 </ul><div>
-<strong><br>About you<br></strong><br>
-</div><div>You have a strong track record of shipping great products using Ruby on Rails. You understand the language in depth. You should also be experienced in SQL query optimization and designing efficient schemas, as that's a big part of our core business logic.<br><br>
-</div><div>We expect you to be self-motivated and self-directed, a strong individual contributor, and a true "manager of one".  Much of our communication happens in writing. It is important that you are a good writer and effective communicator.<br><br>
-</div><div>
-<strong><br>The hiring process<br></strong><br>
-</div><div>There are a few stages in the hiring process. We know how nerve-racking applying for a new job can be and we want to make it as smooth and enjoyable as possible. We're looking to make an offer to someone no later than September 30.<br><br>
-</div><div>
-<strong>Stage 1: Initial application &amp; questions</strong> — You’ll send in your basic info and we’ll send over a few questions about your experience and skills.<br> <br>- <strong>Please send an email to allison@baremetrics.com introducing yourself and attach your resume!<br></strong><br>
-</div><div>
-<strong>Stage 2: Interviews</strong> — You’ll have a video interview with someone on the engineering team. You’ll then do a final video interview with our CEO to talk about company culture, benefits, perks, and the future of the company as well as to answer any questions you have.<br><br>
-</div><div>
-<strong>Stage 3: Job Offer</strong> — After consulting a few of your references, we’ll make an offer and hope that you’ll join the team!<br><br>
-</div><div>
-<strong><br>Benefits<br></strong><br>
-</div><ul>
-<li>Work from anywhere (we're 100% remote) but prefer a candidate that is located/works US timezones. </li>
-<li>Competitive salary ($140,000+)</li>
-<li>Flexible work hours</li>
-<li>Full health, vision &amp; dental insurance for you and your family</li>
-</ul><div>
+<br><strong>A Note on Diversity and Inclusion</strong>
+</div><div>At Rainforest we believe that diverse teams improve our business. We are an equal opportunity employer and do not discriminate on the basis of race, religion, color, nationality, gender, sexual orientation, age, marital status, veteran status, or disability status.</div><div><br></div><div>Due to employment laws, we are unable to hire individuals internationally located in these following countries at this time: China, France, Iran, Egypt, Russia.</div><div>
 <br><br>
 </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/baremetrics-senior-backend-engineer-1">https://weworkremotely.com/remote-jobs/baremetrics-senior-backend-engineer-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2">https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Chili Piper</h5>
+                    <h3> Back End Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>270 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/chili-piper-back-end-engineer-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> One Dock 72 Way Brooklyn, NY 11205
+    <br /><strong>URL:</strong> <a href="https://www.chilipiper.com/">https://www.chilipiper.com/</a>
+</p>
+
+<div>
+<em>**Please note: this role is </em><strong><em>non-US</em></strong><em> only**</em><br><br>Chili Piper is seeking talented, motivated engineers to join our fully remote team building interactive data applications. As a part of our growing back-end team, you will collaborate with others throughout our organization and technology stack to build products that are revolutionizing the way our clients achieve their business goals.<br><br>
+</div><div>
+<br>On the back-end team, we invite you to bring your experience and perspective to conversations about the future growth of our applications and environment. We work closely together, with a healthy and non-combative review process aimed at improving code as well as developing each other’s skills. In short, we strive to write solid, thoroughly tested, and readable code; and we are seeking a new contributor to our already highly effective team.<br><br>
+</div><div>
+<strong><em><br>What You'll Do</em></strong> <br><br>
+</div><ul>
+<li>Build API to a multi-tenant backend services to enable easy access by internal applications, clients, and partners</li>
+<li>Continuously integrate and ship code into the cloud environment</li>
+<li>Develop applications from ground up using a modern technology stack such as Scala, Akka, Play NoSQL</li>
+<li>Participate in defining the architecture of modern tools and runtime for operating your code such as GCP, Docker, Kubernetes</li>
+<li>Work directly with Product Owners to deliver products in a collaborative and agile environment</li>
+<li>As a part of growing team, you will collaborate with engineers  throughout our organization and technology stack to build products that are revolutionizing the way our clients achieve their business goals</li>
+</ul><div>
+<strong><em><br>Who You Are<br></em></strong><br>
+</div><ul>
+<li>You are passionate to be part of cutting edge projects and are motivated by delivering world-class products with great architecture on an aggressive schedule</li>
+<li>You are not intimidated by challenges; thrives even under pressure; are passionate about your craft; and hyper focused on delivering exceptional results</li>
+<li>You love to learn new technologies and mentor engineers to raise the bar on your team</li>
+<li>You use, or are passionate about learning, functional programming the right way, GCP, Docker, Scala, Akka, Mong</li>
+<li>Not afraid of implementing UI for new and existing features</li>
+</ul><div>
+<strong><br>Qualifications<br></strong><br>
+</div><div>
+<strong><em><br>What We're Looking For<br></em></strong><br>
+</div><ul>
+<li>4+ years of full stack development experience</li>
+<li>2+ years of experience in Scala</li>
+<li>Experience working with Play Scala or Akka HTTP</li>
+<li>Experience in designing API and documenting them</li>
+<li>Experience in Unix/Linux including basic commands and scripting</li>
+<li>Solid understanding of continuous integration, deployment and monitoring</li>
+<li>Excellent communication skills</li>
+<li>Passion for Chili Piper Values of Help, Innovate, Have Fun</li>
+<li>Thrive in a fast pace environment with ability to prioritize and multi-task on the fly</li>
+<li>Resourcefulness, creativity and strategic thinking for troubleshooting problems</li>
+<li>Self motivated and self-directed; Fast learner</li>
+<li>Strong English communication and documentation skills</li>
+<li>Ability to work in a dynamic environment in which the requirements are not always well defined and priorities change frequently</li>
+<li>Strong attention to detail and documentation</li>
+<li>Comfortable in supporting and working with global customers across many time zones</li>
+</ul><div>
+<strong><br>Additional Information<br></strong><br>
+</div><div>
+<strong><em><br>How We Work<br></em></strong><br>
+</div><ul>
+<li>
+<strong>Freedom and flexibility.</strong> We’re a 100% distributed team working from around the world. <strong><em>Our team members can work from wherever they want</em></strong> in the world, as long as they show up on our weekly all hands meeting on Zoom.</li>
+<li>
+<strong>Solve interesting problems.</strong> The software landscape has exploded. There are dozens of solutions for each problem. We want to be different. We come up with new angles on existing problems or invent better solutions to help companies with their sales and marketing. Then we turn these ideas into beautiful, smart software.</li>
+<li>
+<strong>Autonomy and ownership.</strong> Working on a distributed team means you don’t have someone micromanaging you or looking over your shoulder to make sure you’re getting things done. We’re a team of do-ers who take full ownership for their results.</li>
+<li>
+<strong>Be helpful.</strong> Our first value as a company is help. Help our customers be successful. Help our prospects get the right information and make the right decision whether or not it includes our products. Help our team members reach their full potential.</li>
+</ul><div>
+<strong><em><br>The Perks<br></em></strong><br>
+</div><ul>
+<li>Unlimited Vacation</li>
+<li>Generous Health, Dental, and Vision Insurance</li>
+<li>WeWork membership so you can work from anywhere</li>
+<li>Any equipment/software/tech that you need to do your job</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chili-piper-back-end-engineer-2">https://weworkremotely.com/remote-jobs/chili-piper-back-end-engineer-2</a></p>
 
                 </details>
                 </td>
@@ -136,7 +227,7 @@
                     <code>AWS,backend,business intelligence,docker</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineering-manager-1368348" align="right" target="_blank">Apply</a>
@@ -229,7 +320,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
