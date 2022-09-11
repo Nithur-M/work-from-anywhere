@@ -1,88 +1,5 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4683/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Close</h5>
-                    <h3> Sr. Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/close-sr-product-manager" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/4683/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> USA
-    <br /><strong>URL:</strong> <a href="http://www.close.com">http://www.close.com</a>
-</p>
-
-<div><strong>About Us</strong></div><div>At Close, we're building the sales communication and collaboration platform of the future. With our roots as the very first sales CRM to include built-in calling, we're leading the industry in sales automation—helping companies to close more deals, faster than ever.  Since our founding in 2013, we've grown to become a profitable, 100% globally distributed ~60 person team that is dedicated to building a product our customers love.</div><div> </div><div>Our Product team is currently made up of three Designers and two Product Managers. We're looking for our third Product Manager to help accelerate product development at Close from idea through launch. </div><div><br></div><div>
-<br><strong>About You</strong>
-</div><div>We’re looking for someone with a unique talent set - someone who understands sales and can “speak the language” with sales managers, reps, and directors. Someone who can synthesize various use cases into clear problem statements. Someone who cares deeply about product details, has a great sense of product aesthetics, and can discuss the nitty gritty with engineers. </div><div><br></div><div>As a small product, design, and engineering team you’ll be responsible for all aspects of delivering a feature -- from concept through project managing it’s delivery. You will do it all.<br><br><strong>What you’ll do...</strong>
-</div><ul>
-<li>Turn the vague into the concrete. Talk with customers to discover &amp; define their needs, understand their problems, and document their use cases. </li>
-<li>Write problem statements that clearly define shared needs across customers.</li>
-<li>Create detailed product specs from your problem statements through collaboration with Product Design and Engineering.</li>
-<li>Project manage the delivery of the feature -- get it on the engineering roadmap and ensure it’s delivered on time and up to the Product team’s standards. </li>
-<li>Prepare for launches: work with the Marketing team on positioning/collateral, manage beta testers, write FAQs, define adoption / usage metrics, measure success, and share learnings.</li>
-</ul><div>
-<br><strong>You should...</strong>
-</div><ul>
-<li><strong>Be located in an Americas or European time zone </strong></li>
-<li>Have 2+ years of Product Management experience shipping B2B SaaS for SMBs.</li>
-<li>Have 2+ years experience at software/internet companies in a product, engineering, or customer-facing role.</li>
-<li>Love listening to customers and diving deep into their problems and needs.</li>
-<li>Be detail-oriented, organized, and great at writing.</li>
-<li>Have good product vision &amp; design sense. </li>
-<li>Be comfortable writing specs, drawing wireframes, &amp; rapidly iterating on new feature ideas.</li>
-<li>Have experience with metrics/analytics tools</li>
-<li>Be growth minded; pushing to ship Product that focuses on moving the needle.</li>
-</ul><div>
-<br><strong>Bonus points if you...</strong>
-</div><ul>
-<li>Have experience in sales or with sales tools / CRMs</li>
-<li>Have significant experience in Figma or other design/prototyping tools</li>
-<li>Have a technical/engineering background, not afraid to dabble in Python, HTML, CSS, or SQL.</li>
-</ul><div>
-<br><strong>Why Close? </strong>
-</div><ul>
-<li>
-<a href="https://www.youtube.com/watch?v=ZbyGnLhtj0o&amp;feature=youtu.be">Culture video</a> 💚</li>
-<li>100% remote company <em>(we believe in trust and autonomy)</em>
-</li>
-<li>Choose between working 5 days/wk (standard full-time) or 4 days/wk @ 80% pay</li>
-<li>
-<a href="https://www.youtube.com/watch?v=gKjyXMz-q-Q&amp;feature=youtu.be">Annual team retreats</a> ✈️</li>
-<li>Quarterly virtual summits</li>
-<li>5 weeks PTO + Winter Holiday Break</li>
-<li>2 additional PTO days every year with the company</li>
-<li>1 month paid sabbatical every 5 years</li>
-<li>Co-working stipend</li>
-<li>Paid parental leave</li>
-<li>Medical, Dental, Vision with HSA option (US residents)</li>
-<li>401k matching at 6% (US residents)</li>
-<li>Dependent care FSA (US residents)</li>
-<li>Contributor to <a href="https://stripe.com/climate">Stripe's climate</a> initiative 🌍❤️ </li>
-<li>
-<a href="https://close.io/about/">Our story and team</a> 🚀</li>
-</ul><div>At Close, everyone has a voice. We encourage transparency and practice a mature approach to the work-place. In general, we don’t have strict policies, we have guidelines. Work/Life harmony is an important part of our business - we believe you bring your best to work when you practice self-care (whatever that looks like for you).  </div><div><br></div><div>We come from 16 countries located in 5 of the 7 continents -- looking at you Antarctica and Australia ;-) ….. We’re a collection of talented humans rich in diverse backgrounds, lifestyles, and cultures. Every year we meet up somewhere around the world to spend time with one another. These gatherings are an opportunity to strengthen the social fiber of our global community.</div><div><br></div><div>Our team is growing in more ways than one - we’ve recently launched 17 babies (and counting!). Unanimously, our favorite and most impactful value is “Build a house you want to live in.” We strive to make decisions that are authentic for our people and help our customers become more successful. </div><div><br></div><div><em>Our application process was designed to promote equitable and unbiased hiring practices. We ask a small series of questions that are similar to what would be asked in the first interview. This helps us learn more about you right from the start so please be sure to answer each question thoughtfully. Each application will receive two screens by two different reviewers. Regardless of fit, you will hear back from us letting you know if we'll be moving forward.</em></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/close-sr-product-manager">https://weworkremotely.com/remote-jobs/close-sr-product-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -93,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>303 days ago</text>
+                <text>305 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -145,6 +62,78 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1388899/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Ortnec</h5>
+                    <h3>Product Manager (B2C)</h3>
+                </td>
+                <td width="300">
+                    <code>ecommerce,education,marketing,product manager</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-b2c-1388899" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>About Us</strong></p>
+<p>We are a thriving company in the eCommerce space, with operations worldwide. As a 19-year-old “startup”, we offer employees a balance between the stability of a larger organisation, while maintaining our culture of an innovative, leading-edge startup. <br>The head office is located in Montreal and we have offices in Canada, United States and Europe (Cyprus, Georgia, Ukraine).</p>
+<p><strong>Our commitment to diversity &amp; inclusion</strong><br>We are building a diverse and inclusive company. As an equal opportunity employer (EOE) we do not discriminate based on race, color, ethnicity, ancestry, national origin, religion, sex, gender identity, gender expression, sexual orientation, age, disability, veteran status, genetic information, marital status or any legally protected status.<br>We are a people first company that strives to create the best experience for our employees by creating an inclusive, collaborative, challenging environment to learn and problem solve on a daily basis. We are a remote-enabled company, so if you want to work remotely once, twice or five days a week, you’ll have all the necessary tools and support you need to do so.</p>
+<p><br><strong>About the Product</strong></p>
+<p>Our website is the original clip marketplace delivering authentic content from studios to consumers worldwide. We are offering niche content not found anywhere else. </p>
+<p><br><strong>Our Core Values</strong><br>• I TRUST YOU - We are honest, transparent and communicate with each other<br>• ONE TEAM - We collaborate, learn from each other, and are driven by continuous improvement and respect<br>• DRIVEN BY SUCCESS - We are like a competitive sports team. We build together, we are flexible and adaptive, and driven to win<br>• IDEAS DONE RIGHT - We value ideas and creativity, but we implement them right on the first try<br>• CUSTOMER-FOCUSED - DELIVERING HAPPINESS - We understand that our C4S community is at the core of our success<br>• THIS PLACE ROCKS! - We want to work in a place that is leading, amazing and we each take responsibility to make it amazing for our teammates<br> </p>
+<p><strong>Job Summary</strong></p>
+<p>As a Product Manager, B2C, you will be responsible for the business-to-consumer aspect of our 2-sided e-commerce marketplace. Driven by performance metrics, you understand that success is a balancing act between our business-minded Content Creators and our customers, whose purchases are driven by emotions. Your role is to achieve stability, growth and drive innovation. The two squads that deal directly with our customers are the Revenue squad and the Customers squad. The Revenue squad works on the shopping cart, the checkout page and all of the Calls To Action (CTAs) related to conversion on our e-commerce website. The goal of the Revenue squad is to increase revenue by converting our website visitors into paying customers. The Customers squad focuses on the user interface (UI) of our customer-facing website, and providing the best user experience (UX) possible. We are always looking to improve our UI/UX. The squad’s goal is to increase website visitors.</p>
+<p><br>You will report to the Director of Product Management and will work alongside the Product Manager B2B. The Product Owner of each squad will help you implement the product vision and monitor progress. You will work with other departments including Design, Marketing, and BI to understand, prioritise and define the customer needs, while collaborating with the Engineering team to bring them to fruition. You will lead the product requirement gathering efforts and collaborate closely with stakeholders to ensure alignment with product vision, strategy, and business needs.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li>Track daily performance and be the Studios voice in delivering happiness</li>
+<li>Monitor Key Performance Indicators (KPIs) daily and drive improvements</li>
+<li>Create, plan, and communicate the product vision and roadmap</li>
+<li>Create strategic plans which target company objectives and prioritise business value</li>
+<li>Facilitate internal needs analysis with various departments, especially BI</li>
+<li>Gather and analyse data for each feature, to build a business case, check viability, and forecast expected results</li>
+<li>Gather requirements using established methods such as interviewing, surveys, prototyping and diagrams, to create effective well-researched specifications with clear acceptance criteria</li>
+<li>Define product functionalities and plan feature iterations</li>
+<li>Work with other Product Managers to ensure all dependencies are understood so new features can be released in a timely fashion</li>
+<li>Work closely with the Product Owner who will focus on the work coordination of your vision and strategy</li>
+<li>Determine key performance indicators (KPIs) for features</li>
+<li>Monitor, maintain, and optimise all product features. Foster a sense of ownership with the team.</li>
+</ul>
+<p><strong>Skills and Qualifications</strong></p>
+<ol>
+<li>3 - 5 years experience as a professional Product Manager</li>
+<li>Strong leadership skills</li>
+<li>Experience with Scrum and Agile development</li>
+<li>Strong analytical, technical, verbal, and written communication skills</li>
+<li>Experience with Jira and Confluence</li>
+<li>Fluent in English, spoken and written </li>
+</ol>
+<p><strong>Nice to have</strong></p>
+<p>• Experience in the online entertainment space</p>
+<p><strong>Personal Skills</strong></p>
+<ul>
+<li>You like the big picture, pushing the limits of what can be done, and outshining the competition</li>
+<li>You live by the philosophy that great product development is a team sport and requires flexibility and relationship building</li>
+<li>Able to work with all stakeholders and team members</li>
+<li>Comfortable with multi-tasking, context switch, and able to handle a high volume of work and pressure</li>
+<li>You listen well, are open minded, and respect other opinions, but you are decisive and confident</li>
+</ul>
+<p> </p>
+<p><strong>Location: </strong>Remote. You are NOT required in the office - you can work 100% remotely.</p>
+<p><strong>Time zone: </strong>Eastern (9-5 EST or close to that)</p>
+<p><strong>We offer a competitive compensation plan and various perks including:</strong><br>• Annual bonus plans<br>• Employee benefits and insurance plan<br>• Paid vacation, personal days, and sick days<br>• Gym/fitness allowance<br>• Day off for your birthday<br>• Education allowance to keep your skills and learning current</p>
+<p> </p>
+<img src="https://remotive.com/job/track/1388899/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
