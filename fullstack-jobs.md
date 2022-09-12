@@ -11,7 +11,7 @@
                     <code>software, javascript, nft</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/114723" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>junior, engineer, engineering</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/113015" align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
                     <code>developer,javascript,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-customer-solutions-team-1224255" align="right" target="_blank">Apply</a>
