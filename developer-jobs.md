@@ -1,89 +1,5 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/8a22b64b4251e39184c091b1c91ec92c1662555080.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Scorpion</h5>
-                    <h3>
-					Front End Developer				</h3>
-                </td>
-                <td width="300">
-                    <code>manager, frontend, cloud</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/112797" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                About the Front-End Developer role:As a Front End Developer, innovation, collaboration, and a knack for creating quality code are what drives you. You will work closely with Developers, Product Designers, Product Managers, and senior leadership to deliver on the needs of department initiatives. Youâll work with others to identify and implement design system standards and best UI practices. The purpose of this role is to develop the front-end needs and infrastructure for advanced internal platforms scorpion runs on.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/8a22b64b4251e39184c091b1c91ec92c1662555079.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Scorpion</h5>
-                    <h3>
-					Front End Developer				</h3>
-                </td>
-                <td width="300">
-                    <code>manager, seo, salesforce</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/112796" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                About the Front-End Developer role:As a Front End Developer, innovation, collaboration, and a knack for creating quality code are what drives you. You will work closely with Developers, Product Designers, Product Managers, and senior leadership to deliver on the needs of department initiatives. Youâll work with others to identify and implement design system standards and best UI practices. The purpose of this role is to develop the front-end needs and infrastructure for advanced internal platforms scorpion runs on.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6863/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Shneorweb</h5>
-                    <h3> Senior Fullstack JS Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/shneorweb-senior-fullstack-js-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6863/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London, UK
-    <br /><strong>URL:</strong> <a href="http://shneorweb.com">http://shneorweb.com</a>
-</p>
-
-<div>hey tere<br><br>We're looking to hire senior full-stack JS developers for a <strong>full-time long-term</strong> contract working a vast project for the UK healthcare industry.<br><br>The project is full-stack JS Nextjs+Nestjs, and you shall be capable of developing entire and complex features from start to finish.<br><br>If you have the right experience and are available to join our remote team <strong>immediately</strong>, use the link to enter a skills test. Upon passing, you will be directed to submit your application.<br><br>The monthly payment range is subject to experience and skills between $2k to $4k +</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/shneorweb-senior-fullstack-js-developer">https://weworkremotely.com/remote-jobs/shneorweb-senior-fullstack-js-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7867/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -94,7 +10,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/appy-ventures-experienced-flutter-developer" align="right" target="_blank">Apply</a>
@@ -143,7 +59,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/much-gmbh-remote-odoo-developer-m-f-d-3" align="right" target="_blank">Apply</a>
@@ -185,74 +101,50 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1383881/logo" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/2452/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Sticky</h5>
-                    <h3>Blockchain Developer</h3>
+                    <h5>G2i Inc.</h5>
+                    <h3> Senior React Developer</h3>
                 </td>
                 <td width="300">
-                    <code>crypto,developer,ios,mobile</code>
+                    <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>870 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/blockchain-developer-1383881" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/g2i-inc-senior-react-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>This job:</p>
-<ul>
-<li>You will be responsible for leading all aspects of our technology that involves blockchains, both public (Ethereum, Polygon, Solana) and our private ledger.</li>
-<li>This is a unique opportunity to lead blockchain technology for a VC-backed global marketplace.</li>
-<li>Key priorities include:</li>
-<li>Integrating purchases in our app (USD) with transactions on public blockchains (Ethereum, Polygon, Solana)</li>
-<li>Bridging our ledger with public blockchains (e.g. letting users export/import NFTs from one to the other)</li>
-<li>Further design, development of our ledger/blockchain and of the NFT standards</li>
-<li>Ensuring performance &amp; security.</li>
+                <img src="https://we-work-remotely.imgix.net/logos/0016/2452/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Delray Beach, FL
+    <br /><strong>URL:</strong> <a href="https://g2i.co/">https://g2i.co/</a>
+</p>
+
+<div>We’re looking for a Senior React Developer that would like to work on products ranging from cutting-edge FinTech and Crypto to traditional Food and Beverage industries and everything in between, depending on their own preferences. Even though it's a contracting position, the vast majority of developers that finish a project with us simply move to another one, and many stay with us for several years. </div><div><br></div><div>If you’re curious why we have such a high contractor retention rate, you should read the About G2i section below. You won't regret it.</div><div><br></div><div>Must-haves:</div><ul>
+<li>Fluent in both spoken and written English - clear communication is required, perfect grammar is not.</li>
+<li>Willingness to complete a 4-5 hour code challenge - test once and never again</li>
+<li>32-40 hours per week of availability</li>
+<li>Senior level (5+ years of professional experience)</li>
+<li>3+ year of professional experience with React and/or React Native</li>
+</ul><div><br></div><div>Nice-to-haves (but really just optional): </div><ul>
+<li>Full stack experience (Rails or Node.js)</li>
+<li>Experience with Apollo Client &amp; GraphQL</li>
+<li>Experience with web deployment tooling and processes</li>
+</ul><div><br></div><div>This role is perfect for you if: </div><ul>
+<li>You are comfortable working remote — We are a 100% remote first company and have been since 2016.</li>
+<li>You value work life balance — We want you to enjoy your life outside of work and be able to prioritize your physical/mental health. Our leadership models this behavior, it's not just lip service.</li>
+<li>You want to work for the company that’s leading the charge towards better work environments with the Developer Health movement.</li>
 </ul>
-<p> </p>
-<p>About Us:</p>
-<ul>
-<li>Sticky aims to be the leading worldwide mobile-native token marketplace.</li>
-<li>Creators &amp; collectors on Sticky get the fun of NFTs and other non-currency tokens in a fun &amp; inviting app, with the safety of the App Store, without the hassle of setting up crypto wallets.</li>
-<li>Sticky has a private ledger and is in the process of integrating with Ethereum, Polygon and Solana.</li>
-<li>Launched in Dec 2021 by experienced founders, it has received early-stage backing from top VC investors and is now building an all-star, remote-first team.</li>
-<li>iOS: <a class="external" href="https://apps.apple.com/us/app/nft-marketplace-maker-sticky/id1497044357" rel="nofollow">https://apps.apple.com/us/app/nft-marketplace-make...</a></li>
-<li>Web: <a class="external" href="https://getstic.ky/" rel="nofollow">https://getstic.ky/</a></li>
-</ul>
-<p><strong>Requirements</strong></p>
-<p>You need to have:</p>
-<ul>
-<li>Proficient blockchain development skills - subject to technical test</li>
-<li>5+ years of experience with Blockchain development (e.g. Solidity, Hyperledger, R3 Corda, Bluemix, Rubix)</li>
-<li>Deep knowledge of blockchain, cryptocurrencies, system architecture, data structure and algorithms.</li>
-<li>Security, coding &amp; version control best practices</li>
-<li>Basic English skills to read documentation &amp; communicate with the rest of the team.</li>
-<li>Interest in working on the Sticky platform.</li>
-</ul>
-<p>If you have these too that's nice:</p>
-<ul>
-<li>Entrepreneurial experience (e.g. a startup or side project of your own)</li>
-<li>Early-stage startup experience</li>
-<li>Strong academic credentials (e.g. top university, degree in Computer Science / Engineering)</li>
-<li>Practical experience with automated testing development</li>
-</ul>
-<p><strong>Benefits</strong></p>
-<p>We offer:</p>
-<ul>
-<li>Generous salary and stock options.</li>
-<li>The opportunity to build and grow with a cutting-edge VC-backed global marketplace from the start, as one of its first 10 developers</li>
-<li>An entrepreneurial, pragmatic, high performance, transparent and friendly culture.</li>
-</ul>
-<p>Place of work:</p>
-<ul>
-<li>Wherever you want (fully remote)</li>
-</ul>
-<img src="https://remotive.com/job/track/1383881/blank.gif?source=public_api" alt=""/>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/g2i-inc-senior-react-developer">https://weworkremotely.com/remote-jobs/g2i-inc-senior-react-developer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -267,7 +159,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -344,7 +236,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -421,7 +313,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -446,7 +338,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -471,7 +363,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -496,7 +388,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -521,7 +413,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -546,7 +438,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -571,7 +463,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
@@ -596,7 +488,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -643,7 +535,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
