@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python" align="right" target="_blank">Apply</a>
@@ -100,7 +100,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
@@ -156,7 +156,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/kumu-senior-software-engineer-1" align="right" target="_blank">Apply</a>
@@ -213,7 +213,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -275,7 +275,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -343,7 +343,7 @@
                     <code>Full Time</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://freshremote.work/J116408/" align="right" target="_blank">Apply</a>
@@ -414,7 +414,7 @@ At Civis, we take a science-first approach to solving problems. With a blend of 
                     <code>Internship</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://freshremote.work/J116062/" align="right" target="_blank">Apply</a>
