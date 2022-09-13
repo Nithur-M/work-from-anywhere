@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python" align="right" target="_blank">Apply</a>
@@ -100,7 +100,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
@@ -146,63 +146,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4898/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kumu</h5>
-                    <h3> Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>62 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/kumu-senior-software-engineer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4898/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://kumu.io">https://kumu.io</a>
-</p>
-
-<div>Kumu is a small but mighty team building tools to tackle tough problems. We are bootstrapped and profitable, which gives us the luxury to focus our efforts on more niche use cases that make a meaningful difference in the world. We’re looking for a Senior Software Engineer to join our team. Our current products include:</div><div><br></div><div>
-<a href="https://kumu.io"><strong>Kumu</strong></a> - our flagship data viz platform that helps people understand complex relationships, primarily through network, systems, and stakeholder maps.</div><div><br></div><div>
-<a href="https://sticky.studio"><strong>Sticky Studio</strong></a> - a collaborative whiteboard that focuses on simplicity while supporting the depth and richness of the interconnected nature of the challenges we face.</div><div><br></div><div>
-<a href="https://undercurrent.io"><strong>Undercurrent</strong></a> - a platform that crowdsources understanding of complex systems through identification of root causes and relationships</div><div><br></div><div>
-<a href="https://weavr.app/product"><strong>Weavr</strong></a>- a community engagement platform that maximizes the impact of networks by building shared awareness of people, projects, and relationships</div><div><br></div><div>You’d be involved throughout the entire development process, from initial brainstorms and sketching to final stages of testing and release. We use a 6 week cycle, with 4 weeks of more structured effort followed by 2 weeks of more flexible downtime. We care about supporting each other as human beings and making sure work is a meaningful part of your life, but not all encompassing (or leading to burnout).</div><div>
-<br><strong>Stack:</strong> react, rails, typescript<br><br><strong>Bonus points for experience with: </strong>tdd, graphs/networks, couchdb, elasticsearch, cloudformation, ubuntu, docker, bash, webpack/babel, aws, vmware/virtualbox, packer</div><div>
-<br><strong>You’re probably a great fit if:</strong>
-</div><ul>
-<li>You’re a talented web developer (both frontend and backend)</li>
-<li>You work well setting your own priorities and working with lots of freedom</li>
-<li>You’ve built and maintained a complex library, single page web app, or product</li>
-<li>You care about design and UX and can implement new features without guidance</li>
-<li>You aren’t afraid to get your hands dirty with VMs, linux, shell scripting, networking, and a parallel product release cycle (for our Enterprise offering of Kumu)</li>
-</ul><div>
-<br><strong>If you’re interested, please send an email to careers@kumu.io including the following:</strong>
-</div><ul>
-<li>Tell us a little about yourself. Who are you? Where do you come from?</li>
-<li>Tell us about a project you’ve worked on that you’re proud of</li>
-<li>Include links where we could learn more about you professionally and personally (website/github/twitter/medium/instagram/etc)</li>
-<li>Include a recent photo of you doing something that you love</li>
-<li>Tell us why you're excited to work for Kumu</li>
-</ul><div>
-<br><strong>Experienced developers only. Generic applications will be ignored. Thanks!</strong>
-</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/kumu-senior-software-engineer-1">https://weworkremotely.com/remote-jobs/kumu-senior-software-engineer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -213,7 +156,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -275,7 +218,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -333,101 +276,67 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/03/CivisAnalytics.jpg" width="38px" height="auto">
+                    <img src="https://freshremote.work/media/company/logo/22/02/RobinhoodApp.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Civis Analytics</h5>
-                    <h3>Software Engineering Manager (Remote)</h3>
+                    <h5>Robinhood</h5>
+                    <h3>Senior Software Engineer, Service Discovery and Communication</h3>
                 </td>
                 <td width="300">
                     <code>Full Time</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J116408/" align="right" target="_blank">Apply</a>
+                <a href="https://freshremote.work/J116611/" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                What we do
-At Civis, we take a science-first approach to solving problems. With a blend of proprietary technology and statistical advisory services, we help public and private sector organizations find, understand and connect with the people they car …
-<p><strong>What we do</strong></p>
-<p>At Civis, we take a science-first approach to solving problems. With a blend of proprietary technology and statistical advisory services, we help public and private sector organizations find, understand and connect with the people they care about, so they can stop guessing and start using mathematical proof to guide decisions. We know others use “data science” and “analytics” as buzzwords, but at Civis we don’t stand for fluff, and we will always deliver scalable products and technologies — not PowerPoints — to drive your business forward. Learn more about Civis at<a href="http://www.civisanalytics.com/"> www.civisanalytics.com</a>.</p>
-<p><strong>Our mission</strong></p>
-<p>Our mission is to bring objective, data-driven truth to organizational decision-making – all the way from the boardroom to the world’s largest social causes.</p>
-<p><em><strong>All employees either must be fully vaccinated against COVID-19, initiate vaccination before your start date, or file an exemption request prior to start date per company policy for review. Due to the uncertainty of COVID-19, all Civis offices are closed and employees are remote until further notice. This is being closely monitored as the situation evolves. Although it’s likely our offices will reopen, positions hired outside of Civis office locations will be remote roles</strong>.</em></p>
-<p><strong>What we are looking for/Responsibilities</strong></p>
-<p>We are looking for a Software Engineering Manager to lead 5 - 10 direct reports across multiple teams. Engineering Managers are responsible for building an engaging team environment, recruiting talent to the team, and developing staff to their highest potential. They are also expected to participate in technical project planning with other senior members of the team.</p>
-<p>At Civis, we build software products for teams of Data Professionals. Civis Platform, our flagship product, makes cutting-edge data science and data warehousing techniques available to a broad audience. We are looking to hire experienced engineers to scale our team to achieve our ambitious goals. Civis Engineering Managers exhibit sound judgment, ownership, and autonomy. At Civis, you will be responsible for fostering an inclusive, supportive, and high performance environment for your direct reports. </p>
-<p><strong>Required Qualifications</strong></p>
+                Join a leading fintech company that’s democratizing finance for all.
+Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers and prov …
+<h2><strong>Join a leading fintech company that’s democratizing finance for all.</strong></h2>
+<p>Robinhood was founded on a simple idea: that our financial markets should be accessible to all. With customers at the heart of our decisions, Robinhood is lowering barriers and providing greater access to financial information. Together, we are building products and services that help create a financial system everyone can participate in.</p>
+<p> </p>
+<p><strong>As we continue to build...</strong></p>
+<p>We’re seeking curious thinkers looking to co-author the next chapters of our story. Joining now means helping shape our vision, structures and systems; playing a key-role as we launch into our ambitious future.</p>
+<p> </p>
+<p>Check out life at Robinhood on <a href="https://www.themuse.com/profiles/robinhood">The Muse</a>!</p><h2><strong>About the team: </strong></h2>
+<p>Robinhood’s products are powered by a multitude of powerful microservices working in unison. In order for these microservices to work, they need to be able to locate and communicate with each other. We build and deploy the fundamental systems that enable this real-time, inter-service communication all while being highly-scaleable, robust and reliable!</p>
+<h2><strong>About the Role:</strong></h2>
+<p>We are looking for a Senior Software Engineer to help build and lead from a very technical lens. This engineer will have true ownership, continuing to build the innovation to continue to delight our users.</p>
+<h2><strong>What you’ll do day-to-day:</strong></h2>
 <ul>
-<li style="font-weight: 400;">5+ years of experience as a data engineer, software engineer, or similar role, including experience taking a leading role in significant technical projects</li>
-<li style="font-weight: 400;">2+ years leading teams of engineers</li>
-<li style="font-weight: 400;">Demonstrated experience building team culture and engineering processes, especially on high growth teams</li>
-<li style="font-weight: 400;">Experience building complex software with modern languages and frameworks</li>
-<li style="font-weight: 400;">Experience with Python and SQL</li>
-<li style="font-weight: 400;">Exemplification of an eagerness to constantly learn and teach others</li>
-<li style="font-weight: 400;">US work authorization</li>
+<li>Design large scale systems within a team, making the right tradeoffs for risk and long-term maintainability.</li>
+<li>Proactively identify and drive optimizations and improvements to the infrastructure and systems.</li>
+<li>Mentor and train junior engineers in the team.</li>
+<li>Contribute to open source projects.</li>
 </ul>
-<p><strong>Preferred Qualifications</strong></p>
+<h2><strong>About you:</strong></h2>
 <ul>
-<li style="font-weight: 400;">Significant experience with any of the following:<br/>
-<ul>
-<li style="font-weight: 400;">Python, R, or JavaScript</li>
-<li style="font-weight: 400;">Project management</li>
-<li style="font-weight: 400;">Database design and optimization</li>
-<li style="font-weight: 400;">Automated software testing and Continuous Integration</li>
-<li style="font-weight: 400;">Amazon Web Services (AWS)</li>
-<li style="font-weight: 400;">Tools for Web APIs (e.g., Flask)</li>
-<li style="font-weight: 400;">Tools for data pipelines (e.g., dbt)</li>
-<li style="font-weight: 400;">Apache Spark/PySpark</li>
+<li>Proven understanding of Networking and Microservice Architecture and a familiarity with writing highly concurrent systems with load balancing techniques.</li>
+<li>Have a strong technical grasp and have excellent judgment on task prioritizations.</li>
+<li>You are able to tackle sophisticated engineering problems that deliver results which help the team to achieve its objectives.</li>
+<li>You have a history of creating and applying new processes and tooling to increase engineering efficiency.</li>
+<li>Passion in mentoring junior engineers and improving the engineering craftsmanship!</li>
 </ul>
-</li>
-<li style="font-weight: 400;">Person management experience (e.g., conducting performance reviews for direct reports)</li>
-<li style="font-weight: 400;">Experience working with survey data, government data (e.g., from the Census Bureau), or political data</li>
-</ul>
-<p><strong>Why join our team?</strong></p>
+<h2><strong>Bonus points:</strong></h2>
 <ul>
-<li style="font-weight: 400;">The opportunity to be part of a growing tech startup focused on solving interesting and meaningful problems, invested in internal promotion, and committed to fostering a diverse, equal and inclusive workplace. </li>
-<li style="font-weight: 400;">Competitive benefits, including unlimited PTO, 401K match with immediate vesting, health, dental, and vision benefits, fully paid parental leave, breastfeeding support including breastmilk shipping services for traveling moms, commuter benefits, wellness initiatives including weekly group meditations, monthly on-site massage therapy, and pet insurance. </li>
-<li style="font-weight: 400;"><strong>To support employees in our now fully remote work environment</strong>, we also have expanded our virtual journal and book clubs, Donut Pals (organized virtual coffee meet-ups), Lightning Talks (5-minute presentations on anything you’d like), Lunch-and-Learns, and HR Open Discussions (bi-weekly meet-up where we discuss ideas and topics of the day in a casual format). We are also able to support and accommodate flexible work from home schedules to help employees juggle responsibilities at home.</li>
+<li>Intimate familiarity of Python/Django or Go and writing low latency, large scale distributed systems.</li>
+<li>Experience working on Kubernetes, AWS, and service discovery or service mesh type systems.</li>
 </ul>
-<p>Civis Analytics embraces the individuality of our employees and we celebrate each other's differences. Our products, services, and culture benefit from and thrive on the unique perspectives brought by each person in our community. We're proud to be an equal opportunity workplace, and we are committed to equal employment opportunity regardless of race, age, sex, color, ancestry, religion, national origin, sexual orientation, gender identity, citizenship, marital status, disability, or Veteran status. If you have a disability or special need that requires accommodation, please contact internalrecruiting@civisanalytics.com</p>
-<p>In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States.</p>
-<p><a href="https://www.dol.gov/ofccp/regs/compliance/posters/pdf/eeopost.pdf">EEO IS THE LAW</a></p>
-<p><a href="https://www.dol.gov/ofccp/regs/compliance/posters/pdf/OFCCP_EEO_Supplement_Final_JRF_QA_508c.pdf">EEO Supplement</a></p>
-<p><a href="https://www.dol.gov/ofccp/pdf/pay-transp_English_unformattedESQA508c.pdf">Pay Transparency</a> </p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/20/07/Plaid.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Plaid Inc.</h5>
-                    <h3>Software Engineer - Intern</h3>
-                </td>
-                <td width="300">
-                    <code>Internship</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J116062/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own p …
-We believe that the way people interact with their finances will drastically improve in the next few years. We’re dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaid’s network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Salt Lake City, Washington D.C., London and Amsterdam. #LI-Remote<br/>We’re architected around decoupled services. You could be working on our internal distributed systems framework that holds them all together, or building out the newest version of our API. Most of our back-end core systems are written in Go, but that's not a prerequisite. We pick the right tool for the job and have systems in Go, TypeScript, and Python. 
-<h3>What excites us</h3>
+<h2><strong>Technologies we use:</strong></h2>
 <ul>
-<li>Degree in engineering, CS, physics, math, statistics, or another related field</li><li>Strong track record of building interesting projects, whether during internships, for school, or independently</li><li>Great fundamentals and a strong command of at least one language</li><li>Product mindset. You understand that building the right tools and systems can impact millions of users</li><li>Adaptability. Most of our engineers work across the entire stack, touching everything from the front end to our core infrastructure</li></ul>Plaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at accommodations@plaid.com.
+<li>Python/Django, Go as the main languages and frameworks of choice. Experience with C++ is a bonus as we construct our global edge.</li>
+<li>Unbound and CoreDNS as our DNS</li>
+<li>Envoy for load balancing and global routing</li>
+<li>gRPC for inter-service communication</li>
+</ul><p>We’re looking for more growth-minded and collaborative people to be a part of our journey in democratizing finance for all. If you’re ready to give 100% in helping us achieve our mission—we’d love to have you apply even if you feel unsure about whether you meet every single requirement in this posting. At Robinhood, we're looking for people invigorated by our mission, values, and drive to change the world, not just those who simply check off all the boxes.</p>
+<p>Robinhood promotes diversity and provides equal opportunity for all applicants and employees. We are dedicated to building a company that represents a variety of backgrounds, perspectives, and skills. We believe that the more inclusive we are, the better our work (and work environment) will be for everyone. Additionally, Robinhood provides reasonable accommodations for candidates on request and respects applicants' privacy rights. To review Robinhood's Privacy Policy please visit <a class="sc-1ko78hw-0 fiVZLH" data-renderer-mark="true" href="https://app.box.com/s/7xapqr14mbgy1p85toqusy1zrum9bv8e">Robinhood - US Applicant Privacy Policy</a>.</p>
+<p>Click <a href="https://app.box.com/s/43kz944zm0rolmhm8j3wjft50ktu6fr5">here</a> to learn more about Robinhood’s Benefits. </p>
+<p>Robinhood is a primarily remote company. If hired, you will work as a remote employee unless the job you are applying for has a different working model specified. Please reach-out  to your recruiter if you have any questions regarding the job’s working model.</p>
                 </details>
                 </td>
             </tr></table>
