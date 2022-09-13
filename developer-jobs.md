@@ -1,5 +1,128 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6914/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Front-end Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6914/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
+
+<div><br></div><div><strong>The Role:</strong></div><div>We are searching for a Senior Front-End Developer (Angular.js/React.js). You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
+<br><br>
+</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
+<li>You have +3 years experience with React.js/Angular.js;</li>
+<li>You follow best practices and conventions;</li>
+<li>Relevant experience in CI/CD and related tools;</li>
+<li>Responsible and able to work with minimal supervision;</li>
+<li>Upper-intermediate English level;</li>
+<li>You can communicate well with both technical and non-technical clients.</li>
+</ul><div>
+<strong><br>Nice-to-have:</strong> <br><br>
+</div><ul>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Basic back-end knowledge for minor back-end jobs where necessary.</li>
+</ul><div>
+<strong><br>Responsibilities:<br></strong><br>
+</div><ul>
+<li>Build reusable code and libraries for future use;</li>
+<li>Ensure the technical feasibility of UI/UX designs;</li>
+<li>Transform visual designs and wireframes into working products;</li>
+<li>Accurate planning of the feature delivery;</li>
+<li>Collaborate with other team members and stakeholders</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.🚀 <strong>360 degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<br><br>
+</div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6913/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CODECABIN_</h5>
+                    <h3> Full-stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/codecabin_-full-stack-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6913/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> South Africa &amp; United States
+    <br /><strong>URL:</strong> <a href="http://codecabin.io">http://codecabin.io</a>
+</p>
+
+<div>CodeCabin has a wide range of products which require continuous support and development. <br><br>
+</div><div>We are looking for intelligent and well-spoken individuals who have an understanding of PHP (WordPress is a bonus) and have great problem-solving skills. The individual <strong>MUST HAVE a passion for programming</strong> and be emotionally mature. <br><br>
+</div><div>Our core products:<br><br>
+</div><ul>
+<li>wpgmaps.com</li>
+<li>contentbot.ai</li>
+</ul><div><br></div><div>Duties and Responsibilities:<br><br>
+</div><ul>
+<li>Software development</li>
+<li>To monitor, support, maintain products</li>
+<li>Respond to customers enquiries via support channels (email and support desk)</li>
+<li>Internal escalation and communication with different departments</li>
+<li>Following a query through from start to finish</li>
+<li>Reporting</li>
+<li>Working effectively within a team</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/codecabin_-full-stack-developer">https://weworkremotely.com/remote-jobs/codecabin_-full-stack-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7867/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +133,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/appy-ventures-experienced-flutter-developer" align="right" target="_blank">Apply</a>
@@ -49,53 +172,95 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/0156/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>much. GmbH</h5>
-                    <h3> Remote Odoo Developer (m/f/d)</h3>
+                    <h5>Toptal</h5>
+                    <h3> Senior Back-End Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>60 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/much-gmbh-remote-odoo-developer-m-f-d-3" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/toptal-senior-back-end-developer-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0067/0156/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> much. GmbH
-    <br /><strong>URL:</strong> <a href="https://muchconsulting.de/en/">https://muchconsulting.de/en/</a>
+  <strong>Headquarters:</strong>  Wilmington, DE
+    <br /><strong>URL:</strong> <a href="https://www.toptal.com/">https://www.toptal.com/</a>
 </p>
 
-<div>You want to work as a remote developer with the prospect of coming to Germany or Portugal after a successful freelance cooperation?<br>We are a boutique consultancy in the heart of Munich with a focus on business IT &amp; ERP systems.<br>Our customers are fast-growing, international start-ups and medium-sized companies. We are ambitious, team-oriented and passionate about our work.<br>We are looking for a dedicated full time Odoo developer to support our Team in ERP development.<br><br>
-</div><div><strong>Our offer</strong></div><ul>
-<li>The chance to come to Germany or Portugal after your freelance work </li>
-<li>Support with visa process, bureaucracy &amp; help to find an apartment in Germany </li>
-<li>Inclusion in our motivated &amp; high-performing international team through daily  meetings  </li>
-<li>Above-average remuneration  </li>
-</ul><div><strong>Your profile</strong></div><ul>
-<li>Studies in computer engineering or similar </li>
-<li>Programming skills in Python, HTML,  CSS, XML  </li>
-<li>Experience with Odoo and QWeb </li>
-<li>Adaptive, quick working method &amp;  high commitment </li>
-<li>Independent working style </li>
-<li>English speaking team player </li>
-</ul><div><strong>Your tasks</strong></div><ul>
-<li>Evolve and maintain custom and  open source used modules in our  ERP System Odoo </li>
-<li>Assist our consultants analysing  customer needs to design and build  the best fit IT solutions  </li>
-<li>Development, maintenance,  technical fixing &amp; management of  our systems </li>
-</ul><div>Send your CV or expressive LinkedIn profile to: <a href="mailto:apply-@muchconsulting.de">apply-rod@muchconsulting.de</a>
-</div><div>Learn more about much. Consulting at muchconsulting.com/join</div><div><br></div>
+<div><strong><em>Design your full-time freelance career as a top freelance developer with Toptal. </em></strong></div><div><br></div><div>Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. </div><div><br></div><div>Toptal is an elite talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere.<strong> Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </strong>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. </div><div><br></div><div>As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. </div><div><br></div><div>That’s why the world’s top 3% of developers choose Toptal. Developers in our elite network share:</div><ul>
+<li>English language proficiency</li>
+<li>3+ years of professional experience in Back-End Development</li>
+<li>Solid experience in Ruby on Rails or/and Node.js is a strong advantage</li>
+<li>Project management skills</li>
+<li>A keen attention to detail</li>
+<li>Experience with system architecture or leading a software team is a strong advantage</li>
+<li>Full-time availability is a strong advantage<br><br>
+</li>
+</ul><div><br></div><div>Curious to know how much you could make? Check out our developer rate calculator: <a href="https://topt.al/vqcdQ8">https://topt.al/vqcdQ8</a>
+</div><div>
+<br>If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/rGc2aB"><strong>https://topt.al/rGc2aB</strong></a>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/much-gmbh-remote-odoo-developer-m-f-d-3">https://weworkremotely.com/remote-jobs/much-gmbh-remote-odoo-developer-m-f-d-3</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toptal-senior-back-end-developer-1">https://weworkremotely.com/remote-jobs/toptal-senior-back-end-developer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/4964/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>mtc.</h5>
+                    <h3> PHP Backend Developer Remote</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>60 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0077/4964/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Dundee, UK
+    <br /><strong>URL:</strong> <a href="https://www.mtc.co.uk">https://www.mtc.co.uk</a>
+</p>
+
+<div>We are currently looking for experienced <strong>Remote</strong> <strong>PHP Backend Web Developers.<br></strong><br>
+</div><div>
+<strong><br>Role Description:<br></strong><br>
+</div><div>• create technical specifications from business requirements<br>• develop websites in a team together with a project manager, designer, and a frontend developer<br>• develop new features and reusable components<br>• communicate with the client when required<br>• independently develop new features and resolve issues for existing websites<br>• optionally contribute and maintain our internal codebase and tools<br><br>
+</div><div><strong>Tech Stack:</strong></div><div>
+<br>On <strong>LAMP</strong> architecture choose to be a <strong>General PHP Backend Web Developer</strong> or if you have relevant experience - specialize in one of the below</div><div>
+<br>• <strong>mtc. Core</strong> - Custom, Laravel flavoured mtc. framework<br>• <strong>Shopify<br>• Magento 2<br>• WordPress<br>• Big Commerce<br></strong><br>
+</div><div><strong><br>Requirements:</strong></div><ul>
+<li>4-5 year web development work experience</li>
+<li>Fluent English (written &amp; verbal)</li>
+<li>Experience with modern and legacy code, SQL databases, and Linux CLI.</li>
+</ul><div><br></div><div><strong>We consider it a plus if you have experience in:</strong></div><div>
+<br>• Vue.js</div><div>
+<strong><br>We offer<br></strong><br>
+</div><div>• Salary range 2300 - 3500 EUR / month before taxes<br>• 37.5h work week<br>• 31 - 37 holidays per year<br>• Flexible &amp; cross-departmental career progression opportunities<br>• Ability to work from home or one of our offices<br>• Ability to choose your own start time<br>• Interesting and diverse projects<br>• An option to travel to meet the other teams<br>• Quarterly events at our offices and an annual Christmas party<br>• International contacts and experience<br> <br><strong>Send CV to jobs@mtc.co.uk with subject: WWRBD1 {Name Surname}</strong><br><br>The salary displayed is negotiable and depends on experience.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote">https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote</a></p>
 
                 </details>
                 </td>
@@ -111,7 +276,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>870 days ago</text>
+                <text>871 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/g2i-inc-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -159,7 +324,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -236,7 +401,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -313,7 +478,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -338,7 +503,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -363,7 +528,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -388,7 +553,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -413,7 +578,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -438,7 +603,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -463,7 +628,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
@@ -488,7 +653,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -535,7 +700,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -590,6 +755,92 @@
 <p>Save your time: Fast and efficient hiring process to match you with the project of your preference.</p>
 <p>Ownership: Take ownership of your work and enjoy more freedom in your career.</p>
 <img src="https://remotive.com/job/track/1359476/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/09/vn3GOPZL_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Abarca Health</h5>
+                    <h3>Software Engineer III (Full Stack Developer)</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J116476/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                What you’ll do
+In a few words…
+Abarca is igniting a revolution in healthcare. We built our company on the belief that with smarter technology we are redefining pharmacy benefits, but this is just the beginning...
+We are seeking a Software Engineer II …
+<p style="text-align: justify;"><strong>What you’ll do</strong></p>
+<p style="text-align: justify;"><em>In a few words…</em></p>
+<p style="text-align: justify;"><em>Abarca is igniting a revolution in healthcare. We built our company on the belief that with smarter technology we are redefining pharmacy benefits, but this is just the beginning...</em></p>
+<p style="text-align: justify;">We are seeking a Software Engineer III to join our software development team. As a Software Engineer III you’ll define enterprise-level design standards for diverse software applications that serve a dynamic community of internal and external clients. You will work with business analysts, software engineers, quality assurance teams and technology leaders to understand business and clients needs and provide design guidelines that offer technical solutions and support complex decision making.</p>
+<p style="text-align: justify;"><br/><em>The fundamentals for the job…</em></p>
+<ul>
+<li>You'll provide technical support in the development and deployment of complex backend processes and APIs.</li>
+<li style="text-align: justify;">You'll help define product requirements for creating high-level architectural specifications, ensuring feasibility, functionality, and integration with existing systems and services.</li>
+<li style="text-align: justify;">You'll lead the way in the classification and documentation of development best practices, processes, and methodologies.</li>
+<li style="text-align: justify;">You'll create scalable, maintainable designs that support loosely-coupled enterprise components and foster reuse of software.</li>
+<li style="text-align: justify;">You'll make high-level design choices and dictate technical standards, including software coding, tools, and platforms.</li>
+<li style="text-align: justify;">You'll create, define and choose application frameworks for new applications.</li>
+<li style="text-align: justify;">You'll identify paths from existing to future software architectures, cultivate and disseminate knowledge of application development best practices.</li>
+<li style="text-align: justify;">You'll train, manage and provide guidance to junior development staff. </li>
+<li style="text-align: justify;">You'll research, investigate, and stay at the forefront of technology (Software Development, Hardware, Programming Languages, etc).</li>
+<li style="text-align: justify;">You'll take an active role in cross‐departmental projects when needed.</li>
+<li>Other duties and special projects as assigned.</li>
+</ul>
+<p> </p>
+<p><strong>What you’re made of</strong></p>
+<p><em>The bold requirements…</em></p>
+<ul>
+<li>Bachelor Degree in Computer Engineering, Computer Science, or related field, plus (In lieu of a degree, equivalent relevant experience may be considered.)</li>
+<li>5+ years of experience in Software Engineering/Development.</li>
+<li>4+ years of experience with SQL Server, Database Design, T-SQL and Stored Procedures.</li>
+<li>Experience in computer programming using Microsoft .Net Framework, ASP.NET, AJAX, VB / C#, JavaScript, HTML and XML.</li>
+<li>Experience with Source Controls such as GIT, TFS, SVN, etc.</li>
+<li>Experience with Object‐Oriented languages and Design Patterns.</li>
+<li>Knowledge of Web and Windows Applications architecture and Microsoft programming.</li>
+<li>Excellent oral and written communication skills.</li>
+</ul>
+<p><em> Nice to have… </em>(You don’t need these, but if you have these, your levels of awesome would increase exponentially.)</p>
+<ul>
+<li>Experience in Microservices, Domain Driven Design and/or Service-Oriented Architecture</li>
+<li>Hands on experience with Front-End Frameworks (Angular, etc.)</li>
+<li>Experience with Azure Devops and Cloud Development (Azure, etc.)</li>
+<li>Hands experience with Relational Databases</li>
+<li>Experience with Containerization (Kubernetes, etc.)</li>
+<li>Knowledge and experience in H7L Integrations Tools and Standards (Mirth Connect, etc.)</li>
+<li>Knowledge of the Healthcare, Pharmacy, and Pharmacy Benefit Management industries, Medicare Part D, and CMS regulations is preferred.</li>
+</ul>
+<p style="text-align: justify;"><em>That something extra we´d love to see…</em></p>
+<ol>
+<li style="text-align: justify;">Innovator</li>
+<li style="text-align: justify;">Logical</li>
+<li style="text-align: justify;">Leader/Mentor</li>
+<li style="text-align: justify;">Master cross-collaborator</li>
+<li style="text-align: justify;">System thinker</li>
+</ol>
+<p><em>Physical requirements…</em></p>
+<ul>
+<li>Must be able to access and navigate each department at the organization’s facilities.</li>
+<li>Sedentary work that primarily involves sitting/standing.</li>
+</ul>
+<p><strong><em>The above description is not intended to limit the scope of the job or to exclude other duties not mentioned. It is not a final set of specifications for the position. It’s simply meant to give readers an idea of what the role entails.</em></strong></p>
+<p><strong><em>Abarca Health LLC is an equal employment opportunity employer and participates in E-Verify.  “Applicant must be a United States’ citizen. Abarca Health LLC does not this time currently sponsor employment visas”</em></strong></p>
+<p><strong><em>All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of gender, race/ethnicity, gender identity, sexual orientation, protected veteran status, disability, or other protected group status.</em></strong></p>
+<p> </p>
+<p style="text-align: justify;"><strong><em>#LI-NO1 #LI-REMOTE</em></strong></p>
                 </details>
                 </td>
             </tr></table>
