@@ -1,5 +1,30 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/afe1435b159b1caa71a5e4731d287ea11662966914.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Paradigm</h5>
+                    <h3>
+					Senior Backend Engineer				</h3>
+                </td>
+                <td width="300">
+                    <code>financial, senior, engineer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/116209" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro"><p><span style="font-weight:400;">At Paradigm, we are changing the future of finance! By joining us at this early stage, youâll be building cutting-edge, distributed financial service infrastructure that will reshape financial services across CeFi and DeFi markets. </span></p><p><strong>About Paradigm</strong></p><ul><li style="font-weight:400;"><span style="font-weight:400;">Paradigm is a zero-fee, institutional liquidity network for derivatives traders across CeFi and DeFi. </span></li><li style="font-weight:400;"><span style="font-weight:400;">We provide unified access to multi-asset, multi-protocol liquidity on demand without compromising on execution preferences, costs, and immediacy. </span></li><li style="font-weight:400;"><span style="font-weight:400;">Weâve built the largest network of institutional counterparties in crypto, with over 600 institutional clients trading over $10 B per month.</span></li><li style="font-weight:400;"><span style="font-weight:400;">We are a diverse, global team led by our </span><a href="https://www.paradigm.co/company#principles" rel="noopener noreferrer nofollow"><span style="font-weight:400;">organizational principles</span></a><span style="font-weight:400;"> and united by our mission to bring on-demand liquidity for traders, anytime and anywhere, without compromises. We also strive to ship faster than anyone else in the industry!</span></li><li style="font-weight:400;"><span style="font-weight:400;">We are backed by the best traders and investors in the space, including Jump Capital, Alameda Ventures/FTX, Dragonfly Capital, Digital Currency Group, Genesis Trading, QCP Capital, Optiver US, IMC, GSR Markets, Akuna Capital, Fidelity Digital Assets CMT Digital, Goldentree Asset Management, Amber Group, OK Group, Bybit Fintech, and CoinShares.</span></li></ul></div><div> </div><div> </div><div><strong>The role</strong></div><div> </div><div>As a core member of our backend team, you will build and maintain major features, through inception, design, implementation and launch, working closely with product and engineering disciplines across the company. You will spend the majority of your time on cross-functional self-contained feature teams focused on delivering value to the customer, while other projects will be more internally focused on integrations, scalability, and performance.</div><div> </div><div><strong>Responsibilities </strong></div><div><ul><li>Design, build and maintain scalable, secure web services and distributed systems</li><li>Design and develop robust solutions for trade negotiation and execution, real-time market data, chat messaging, authentication, and security</li><li>Help maintain existing codebase, infrastructure, test coverage, and documentation</li><li>Communicate requirements effectively within and across teams</li></ul><p><strong>Requirements </strong></p><ul><li>7+ years of backend engineering experience, ideally building products from ideation to launch with a strong engineering team</li><li>Experience monitoring and scaling microservice-oriented systems</li><li>Familiarity with websocket architecture and implementation</li><li>Team-building and technical leadership experience</li><li>B.S. in Computer Science or a related field (M.S. a plus)</li></ul><p><strong>Nice to have </strong></p><ul><li>Working knowledge of Python/Django, Go, Rust</li><li>Experience working with cloud-native AWS infrastructure and/or Kubernetes</li></ul></div><div class="content-conclusion"><div><p><strong>Our Benefits and Perks</strong></p><ul><li style="font-weight:400;"><span style="font-weight:400;">Competitive pay and transparent pay bands</span></li><li style="font-weight:400;"><span style="font-weight:400;">Flexible work environment</span></li><ul><li style="font-weight:400;"><span style="font-weight:400;">Unlimited vacation with a minimum required PTO of 10 days annually.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Celebrate your national holidays, </span><span style="text-decoration:underline;"><span style="font-weight:400;">in addition</span></span><span style="font-weight:400;"> to floating holidays, to honor what matters to you, not HQ.</span></li></ul><li style="font-weight:400;"><span style="font-weight:400;">Full benefits (</span><span style="font-weight:400;">vary by location)</span></li><ul><li style="font-weight:400;"><span style="font-weight:400;">Medical, dental, vision</span></li><li style="font-weight:400;"><span style="font-weight:400;">Health Flexible Savings Account (FSA)</span></li><li style="font-weight:400;"><span style="font-weight:400;">Long Term Disability and Life Insurance</span></li><li style="font-weight:400;"><span style="font-weight:400;">Retirement savings (i.e. Traditional and Roth 401(k))</span></li><li style="font-weight:400;"><span style="font-weight:400;">Paid Parental Leave</span></li></ul><li style="font-weight:400;"><span style="font-weight:400;">Generous technology and learning allowances</span></li><ul><li style="font-weight:400;"><span style="font-weight:400;">$5000 first-year budget to spend on your computer, peripherals, office essentials...whatever makes you most efficient and comfortable. You'll receive a $2000 refresh each anniversary.</span></li><li style="font-weight:400;"><span style="font-weight:400;">$1000 budget to spend on learning and development materials, courses or conferences.</span></li></ul></ul><br><p><em><span style="font-weight:400;">Paradigm US is an equal opportunity employer.</span></em></p></div><div> </div><div>#LI-Remote</div></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/bbb3387c55d23977297ed6b23257e5b11662820806.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -11,7 +36,7 @@
                     <code>frontend, video, api</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/114951" align="right" target="_blank">Apply</a>
@@ -36,7 +61,7 @@
                     <code>manager, financial, security</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/113013" align="right" target="_blank">Apply</a>
@@ -60,7 +85,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2" align="right" target="_blank">Apply</a>
@@ -132,7 +157,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>271 days ago</text>
+                <text>272 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chili-piper-back-end-engineer-2" align="right" target="_blank">Apply</a>
@@ -227,7 +252,7 @@
                     <code>AWS,backend,business intelligence,docker</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineering-manager-1368348" align="right" target="_blank">Apply</a>
@@ -320,7 +345,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
