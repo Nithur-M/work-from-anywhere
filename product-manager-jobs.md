@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>306 days ago</text>
+                <text>307 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -76,7 +76,7 @@
                     <code>ecommerce,education,marketing,product manager</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-b2c-1388899" align="right" target="_blank">Apply</a>
@@ -134,6 +134,76 @@
 <p><strong>We offer a competitive compensation plan and various perks including:</strong><br>• Annual bonus plans<br>• Employee benefits and insurance plan<br>• Paid vacation, personal days, and sick days<br>• Gym/fitness allowance<br>• Day off for your birthday<br>• Education allowance to keep your skills and learning current</p>
 <p> </p>
 <img src="https://remotive.com/job/track/1388899/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/04/CockroachDB.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CockroachDB</h5>
+                    <h3>Lead Product Manager, SQL</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J116651/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+Databases are the beating heart of every business in the world
+What you build and where it takes you shouldn't be limited by the capabilities of your database. We created CockroachDB to be the most highly evolved, cloud-native, distributed SQL datab …
+
+<h3><strong>Databases are the beating heart of every business in the world</strong></h3>
+<p>What you build and where it takes you shouldn't be limited by the capabilities of your database. We created CockroachDB to be the most highly evolved, cloud-native, distributed SQL database on the planet. Making scale so simple, you don't even have to think about it. Making data so resilient, it becomes impossible to destroy. Making delivery so seamless, your apps run anywhere. Join us on our mission to build a different breed of database—one born in the cloud and built from the ground up to help companies of any size scale fast, survive disaster, and thrive everywhere.</p>
+<h3><strong>About the Role</strong></h3>
+<p>We are looking for a Lead Product Manager to build an excellent developer experience for our cloud-native distributed SQL database. You will lead the SQL teams that include the SQL Sessions (e.g., connection experience, drivers/ORMs), SQL Schema (e.g., online schema changes, schema design), and SQL Queries (e.g., performance, correctness).</p>
+<p>You will also own the end-to-end user journeys and user experience for SQL Queries, including performance (e.g., HTAP, OLAP), multi-region access patterns, and own the platform layers that include the Cost-based Optimizer and Distributed Execution Engine. You will define and execute against a product roadmap, including interfacing with product marketing for go-to-market activities. You will interface with developers daily and advocate on their behalf to help CockroachDB provide an excellent developer experience.</p>
+<h3><strong>You Will</strong></h3>
+<ul>
+<li style="font-weight: 400;">Manage a team of product managers in the SQL product area, including the SQL Sessions, SQL Schema, and SQL Queries product development teams. </li>
+<li style="font-weight: 400;">Work directly with customers to understand and address their primary pain points, diligently collect product requirements, and document customer needs.</li>
+<li style="font-weight: 400;">Collaborate with Engineering, Design, and Documentation to develop cloud-native solutions and iterate toward a delightful user experience.</li>
+<li style="font-weight: 400;">Put yourself in our users’ shoes and acceptance test features before they go live to prioritize and iterate on usability gaps.</li>
+<li style="font-weight: 400;">Leverage our BI platform to understand product adoption and prioritize enhancements to improve our product.</li>
+<li style="font-weight: 400;">Drive adoption of our solutions by working with marketing and other departments to highlight differentiated workflows for developers.</li>
+</ul>
+<h3><strong>You Have</strong></h3>
+<ul>
+<li style="font-weight: 400;">5 - 10+ years of work experience in product management, including technical expertise working with engineering and/or design teams.</li>
+<li style="font-weight: 400;">We prefer previous management experience, but it is not required </li>
+<li style="font-weight: 400;">Computer Science Degree and/or experience as a developer</li>
+<li style="font-weight: 400;">Excellent writing skills; our strategic product meetings are based on docs rather than decks. </li>
+<li style="font-weight: 400;">Familiarity and comfort using SQL, including working with databases</li>
+<li style="font-weight: 400;">A collaborative nature and are an enthusiastic, amiable, and personable teammate, open to partnering with all other functions in the company.</li>
+<li style="font-weight: 400;">The ability to communicate the unique value proposition of your product area to support the Marketing and Sales teams. You will periodically produce content to drive adoption and awareness of particular features. </li>
+</ul>
+<h3><strong>The Expectations</strong></h3>
+<p>In the first 30 days, you will go through PM onboarding with your roachmate. You will shadow your area's Senior Group Product Manager (SGPM) and understand the team culture and processes. You will meet the SQL PM team and spend time learning about their expertise, goals, and ambitions. You will spin up a CockroachDB cluster and test core features, getting a sense of the end-to-end experience for yourself. You will work with your GPM as well as our customers to understand the significant user pain points for the area and spend time getting familiar with the specific developer and industry problems your team is solving. You'll review your backlog, get up to speed on in-flight features, and learn how to understand feature adoption using our analytics platform.</p>
+<p>You'll also build relationships with the tech leads, other product managers, and members of the broader organization you'll be working with daily. You and the SQL SGPM will have the first of many long-term career planning conversations to understand your goals and how Cockroach Labs can best help you achieve them. </p>
+<p>In your first 60 days, you will work with the SQL SGPM to drive monthly product-market-fit meetings, which require you to summarize your team's progress towards our OKRs (Objectives and Key Results) and product-market fit. You will start to vet new feature requests and add them to the backlog.</p>
+<p>After three months, you will lead your team and meet with your direct reports to provide guidance, unblock development, and build their careers. You'll identify, research, and test solutions to problems. You will analyze product data from alpha releases to determine where to focus our efforts to create the most impact. There are countless opportunities for us to invest in, and you will be responsible for prioritizing the ones that will exceed our customers' expectations while generating a competitive advantage over the long term. We want our users to have a phenomenal experience using CockroachDB, which requires excellent products built by you and your team.</p>
+<h3><strong>The Team</strong></h3>
+<p>Reporting to Andy Woods, Data Interfaces Senior Group Product Manager</p>
+<p>Andy is responsible for the overall roadmap for the Data Interfaces product area, which covers the primary developer interface for using CockroachDB, including SQL, Migrations, and SQL Observability. User journeys in this area include connecting to the database, schema design &amp; migration, SQL coverage, query performance (including cost-based optimizer and execution engines), and query introspection (why is my query slow?). Andy is also responsible for the multi-region experience inside CockroachDB, including the SQL abstractions and underlying technology that make CockroachDB a globally distributed database. Andy joined Cockroach Labs in 2017 to help build our core database offering. Andy enjoys a good book, movies, Crossfit workouts, and the new puppy that keeps him on his toes when not at work.</p>
+<h3><strong>Our Benefits</strong></h3>
+<ul>
+<li style="font-weight: 400;">100% health insurance coverage (for you and your dependents!)</li>
+<li style="font-weight: 400;">Paid parental leave (with baby bucks)</li>
+<li style="font-weight: 400;">Flex Fridays</li>
+<li style="font-weight: 400;">Flexible time off &amp; flexible hours</li>
+<li style="font-weight: 400;">Education reimbursement</li>
+<li style="font-weight: 400;">Relocation support</li>
+</ul>
+<p>Cockroach Labs is proud to be an Equal Opportunity Employer building a diverse and inclusive workforce. If you need additional accommodations to feel comfortable during your interview process, please email us at accessibility@cockroachlabs.com. </p>
+
                 </details>
                 </td>
             </tr></table>
