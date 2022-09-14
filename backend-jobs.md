@@ -11,7 +11,7 @@
                     <code>financial, senior, engineer</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/116209" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>frontend, video, api</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/114951" align="right" target="_blank">Apply</a>
@@ -46,31 +46,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 Medal.tvÂ is one of the fastest-growing consumer applications in gaming! Our users capture and share millions of videos every day. Our mission is to connect people by creating memories while they are physically apart!We're a productive team shipping code to production 20-30 times a week, working on the platform powering all the other teams at Medal. We have a fast feedback loop where code generally hits live users within minutes of a merge. As part of the team, you'll be working with product and frontend teams to ship new features and improvements across all of our features, which includes everything from video processing to social integrations and everything in between, but primarily the API used by the other teams.You'll be part of an experienced engineering team and your work will be used by millions of gamers around the world. You will be working on helping us scale the platform to 100 million users by building features that our creators love.We're a 40+ engineering team spread across US and EU time zones, where everyone works autonomously with the expectation that you can be available for team syncs in the same core hours (9:00 am and 12:00 pm PST).Â We hope to hear from you! When you apply, include some examples of systems you've worked on and a description of your professional experience. If you've done any open source work you can include your GitHub profile, but this is not expected.Benefitsð°Â  Competitive compensation: Our compensation formula adjusts to your cost of living and experience. For this role, the range is $110k â $170k per year.ð¦Â  Competitive stock options: Joining the Medal journey means you can take part of the company upsideð»Â  Technology: Get hooked up with a laptop to do your best work.ðï¸Â  Fully remote work environmentðââï¸Â  Unlimited vacations (4+ weeks standard)ð¤Â  $1k Home office budgetâï¸Â  Team gatherings once we can travel againð¼Â  Paid parental leave: 20 weeks for primary caregiver and 12 weeks for secondaryð¥Â  Full Medical for employee and two dependents (US employees only)ð¥Â  Full Dental and Vision for employee and all dependents (US employees only)ðµÂ  401K (US employees only)ðÂ  All the fun and frolics that come with working for a gaming companyIf you made it all the way here, include âggâ in your note and we will give you a virtual high-five when we talk!
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/8ab632a24c2eff27d3853fb391a9444f1662606015.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>PolicyFly</h5>
-                    <h3>
-					Senior Backend Engineer				</h3>
-                </td>
-                <td width="300">
-                    <code>manager, financial, security</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/113013" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                PolicyFly empowers insurers to sell and manage specialty insurance in minutes instead of months. Every year, $200B of specialty insurance like Cyber, Flood, or Trucking is processed over email between agents and insurers. Itâs a slow, inefficient world where 55% of agents' time is spent on paperwork and it can take 30-90 days to get coverage.Â Our mission is to create a modern exchange for hard-to-insure things â connecting all parties to automate workflows and consolidate data. We are modernizing specialty insurance with software. Weâre already managing $70M in premium with leading insurers in both the US and UK markets.Â Weâre on the hunt for a talented Senior Backend Engineer that will help transform the ancient world of specialty insurance with robust, distributed systems and clean, backend API architectures. We are converting prior monolith architectures to microservices and rapidly adding various system integrations as the product matures.Think youâre a good fit? Please apply, weâd love to chat!Requirements:
                 </details>
                 </td>
             </tr>,<tr>
@@ -85,7 +60,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>62 days ago</text>
+                <text>63 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2" align="right" target="_blank">Apply</a>
@@ -157,7 +132,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>272 days ago</text>
+                <text>273 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chili-piper-back-end-engineer-2" align="right" target="_blank">Apply</a>
@@ -252,7 +227,7 @@
                     <code>AWS,backend,business intelligence,docker</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineering-manager-1368348" align="right" target="_blank">Apply</a>
@@ -345,7 +320,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
