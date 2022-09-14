@@ -1,5 +1,131 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6961/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Pangolia</h5>
+                    <h3> Remote WordPress Developer for Fast Growing Pet Company</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/pangolia-remote-wordpress-developer-for-fast-growing-pet-company" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6961/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Singapore
+    <br /><strong>URL:</strong> <a href="https://pangolia.com">https://pangolia.com</a>
+</p>
+
+<div>Are you a talented web developer who loves WordPress? And do you get excited about building new features that will be used by millions of pet lovers every month? Then this could very well be the opportunity for you!</div><div>
+<br>We’re Pangolia—one of the fastest-growing pet companies, and we’re on a mission to create the biggest, most helpful pet company in the world. Our biggest sites: PetKeen.com, Hepper.com, and ExcitedCats.com, are visited by millions of pet lovers every month, and we’re undergoing rapid growth.</div><div>
+<br>Our sites are all built on WordPress, and our own cat furniture e-commerce brand: Hepper is running on WooCommerce. In this position you will be working alongside our Lead Developer on building new features and tools that help pet lovers all over the world.</div><div>
+<br>We’re a 100% remote company so you’d have the freedom to work from anywhere. It's a full-time position (40 hours a week), yet you get to plan your own schedule and work whenever you want. You will become an integral member of our team at Pangolia consisting of a diverse group of 95 talented individuals from all over the world, joining us on our united goal of improving the lives of pets and those who care for them. </div><div>
+<br>This is a great opportunity if you’re an amazing developer looking to rapidly grow your skills whilst working alongside peers who are at the top of their field.<br><br>
+</div><div><strong>You will be responsible for</strong></div><ul>
+<li>Developing new tools and software that help millions of pet lovers every month (could for example be to develop a Puppy Weight Chart Tool / Calculator that helps pet owners predict how fast, and how big their dog will grow)</li>
+<li>Developing, testing, and maintaining new features and solutions for our WordPress sites for desktop and mobile browsers that are optimized for high traffic</li>
+<li>Optimize our websites for mobile users</li>
+<li>Create, review, and update technical documentation</li>
+<li>Contributing to our development processes, QA procedures, and technical planning</li>
+<li>Communicating and supporting our content and marketing departments with dev/IT requests, troubleshooting, fixing bugs</li>
+<li>Performing scheduled and non-scheduled maintenance and security updates on our WordPress sites</li>
+<li>Securing and protecting our WordPress sites from hackers and malware, as well as eliminating risks</li>
+<li>Ensuring that our servers and content delivery network (CDN) are stable enough to handle millions of users</li>
+<li>Improve our team’s IT infrastructure</li>
+<li>Keep apprised of relevant new technology and best practices</li>
+</ul><div><strong>You are expected to have:</strong></div><ul>
+<li>Experience with HTML, CSS, JavaScript/jQuery</li>
+<li>Experience with PHP (7.4/8) and object-oriented programming (OOP)</li>
+<li>Experience with MySQL and managing databases</li>
+<li>Experience with WordPress development (eg themes, hooks, filters, plugin API, etc)</li>
+<li>Experience with build tools like Webpack or ViteJS</li>
+<li>Experience with Composer and basic understanding of autoloading, dependency management, and dependency injection</li>
+<li>Experience with SSH and comfortable with basic terminal usage</li>
+<li>Experience with Git (and GitHub) </li>
+<li>Experience with TailwindCSS &amp; PostCSS</li>
+<li>Troubleshooting abilities (ie include finding CSS and JavaScript conflicts using browser developer tools, navigating codebases in theme and plugins, and determining whether a plugin or theme code could be causing a code conflict)</li>
+<li>The ability to take a project on your own and get it done before the deadline</li>
+<li>The ability to communicate well as we work remote (most of our communication is written in Slack with occasional calls)</li>
+</ul><div><strong>It would be nice if you have:</strong></div><ul>
+<li>Experience creating custom Elementor widgets</li>
+<li>Experience with Docker and<a href="http://ddev.com">DDev.com</a> for local development</li>
+<li>Experience with WP CLI, WP REST API, and WP cron jobs</li>
+<li>Experience with CDNs/Cloudflare </li>
+<li>Experience with unit testing</li>
+<li> Good understanding of website architecture, aesthetics and UI/UX best practices</li>
+<li>Understanding of basic principles behind technical SEO and performance optimization</li>
+<li>We would appreciate it if you could work with PHPStorm so that we can use their collaborative features and have some consistency in our development processes. However, if you prefer and work better with another IDE or coding tool, that's fine! Either way, we will pay for your license.</li>
+</ul><div><strong>Type of person we would love for this role</strong></div><ul>
+<li>You're a dependable, friendly communicator</li>
+<li>You’re passionate about solving problems with smart and elegant programming solutions. Your code is clean, understandable, and well commented</li>
+<li>You’re a self-starter who loves taking initiative and seeing things through to completion.</li>
+<li>You have the curiosity and desire to learn and grow your skills and discover new modern practices and follow the latest trends in WordPress</li>
+<li>You take pride in the quality and craftsmanship of your work rather than just doing it to get it done but you are also able to balance it with not overdoing your work and being able to move and work fast</li>
+<li>You’re able to juggle around and work on different projects and side tasks on a weekly basis. While we wish we could focus on one thing for weeks at a time to make it perfect, that’s often not the reality in a competitive market.</li>
+</ul><div><strong>Benefits/Perks</strong></div><ul>
+<li>Work from anywhere (we’re 100% remote)</li>
+<li>Flexible work hours, you get to plan your own schedule and work whenever you want</li>
+<li>Developer Growth. <ul>
+<li>You work with modern practices and you gain valuable experience with high-traffic sites</li>
+<li>We value self-improvement. We cover expenses for books and work-related courses</li>
+<li>We're open to changes, you have a voice in how things get done</li>
+</ul>
+</li>
+<li>Your monthly pay is paid biweekly (You’re paid every two weeks)</li>
+<li>We'll pay for all your software needs that relate to your work (IDE/Coding tools, SnagIt, VPN, etc.). Usually, we provide license (serial) keys. </li>
+<li>We cover 100% of your home internet bill.</li>
+<li>We encourage you to find a working environment that suits your needs the best if working from home every single day isn’t for you.<ul>
+<li>We’ll cover monthly membership and/or day passes for co-working spaces </li>
+<li>We’ll cover all your coffee purchases for the day in coffee shops</li>
+<li>We give you a day off for your birthday! You get to stay in bed or hang with loved ones.</li>
+</ul>
+</li>
+<li>Paid company retreats</li>
+<li>21 days of paid time off every year</li>
+<li>Your work with a great, talented team that produces a high-growth work environment (we move fast)</li>
+<li>Opportunity to move up in the company, and earn higher pay and bonuses</li>
+</ul><div><strong>A typical workweek (example)</strong></div><ul>
+<li>Every Monday, we have a one-on-one Zoom meeting to discuss our goals, whether you are meeting your goals, what went well, what did not go well, and so on.</li>
+<li>You have one or multiple projects to complete. You can work on them whenever and however you want without being micromanaged. However, you must be able to meet the deadline and be accountable for the quality of the end solution.<ul><li>You’re also responsible for maintaining the Github repository of the project you’re working on, committing/pushing/documenting your changes, commenting on your code, and writing SOPs or technical documentation (if necessary). It doesn’t have to be pages long and can be very short and concise. But, as a developer, it makes life so much easier if you can return to your code in the future without having to think too hard about what you did. This is also about being considerate of your teammates' time.</li></ul>
+</li>
+<li>There must be some overlap in our working hours so you can respond to urgent requests (if any) or chat with your manager or any of our departments on demand if they have an IT question. This means that some extra tasks may arise during the week.<ul>
+<li>You might have a day where one of our team members needs something urgent and needs it done the same or the next day, which can be valuable to the company, or a major issue needs to be fixed ASAP, in which case you might have to drop what you're working on and work on that or troubleshoot the entire day. If your main project's deadline cannot be met because of this (which is understandable), you should be able to communicate this on time.</li>
+<li>However, most of the time you are able to work on your main projects in solitary. We understand that developers need complete focus. You can also chat and ask questions in our Slack channels.</li>
+</ul>
+</li>
+<li>You might get stuck in programming and need help, or some development processes may need to be explained. If it cannot be explained/resolved via chat or video, screen-sharing calls can be scheduled throughout the week.</li>
+</ul><div><br></div><div><strong>The team (and our work culture)</strong></div><div>You’ll get to be part of a 100% remote company consisting of a diverse group of 95 talented individuals from all over the world. The people you will find on the team are veterinarians, marketers, content writers, editors, social media managers, graphics designers, content managers, and a lot more.<br><br>
+</div><div>And you’ll get to join us on our united mission of improving the lives of pets and those who care for them. We dream big, and our vision is to become the biggest, most helpful pet company in the world.</div><div>
+<br>You’ll get to be part of a company that’s undergoing hyper-growth, and the fast-paced work environment that comes with it. </div><div>
+<br>And we’ve managed to grow at a healthy pace without ever sacrificing our culture and values.<br><br>
+</div><div>Our company culture is focused on work and collaboration, but also while being open to the casual humor and chatter that makes us get to know each other.<br><br>
+</div><div>We work hard, and you may have to work on the weekend every now and then if you have a lot on your plate. However, we have a huge understanding of the importance of time off, and we encourage each other to take time off.<br><br>
+</div><div>A lot of us love traveling, and therefore, we plan on doing yearly company retreats, where we all meet up together and have fun.</div><div>
+<br>We value the freedom of being able to work from anywhere, trust, and collaboration.<br><br>
+</div><div><strong>How to Apply for this Position</strong></div><ol>
+<li>You apply by completing this form, which will ask you a series of questions: <a href="https://forms.gle/jXsVzCPAE9uzvK5R8">https://forms.gle/jXsVzCPAE9uzvK5R8</a>
+</li>
+<li>If we think you’d be a good fit for this role then we'd like to provide you an assignment that mimics an internal project as the following phase. You'll have the chance to demonstrate your abilities and have a better understanding of what to anticipate. This is a paid assignment for which you will be compensated hourly based on your expected salary for the position.</li>
+<li>If there is a match, you will be invited to an interview where we will discuss the job, the company, and you’ll have the chance to ask any questions you may have.</li>
+<li>If this goes well, we'll hire you! We begin with a trial period to allow you and the rest of the team to fully evaluate how we collaborate, followed by a final review and confirmation.</li>
+</ol>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pangolia-remote-wordpress-developer-for-fast-growing-pet-company">https://weworkremotely.com/remote-jobs/pangolia-remote-wordpress-developer-for-fast-growing-pet-company</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6914/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +136,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -74,104 +200,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6913/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CODECABIN_</h5>
-                    <h3> Full-stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/codecabin_-full-stack-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6913/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> South Africa &amp; United States
-    <br /><strong>URL:</strong> <a href="http://codecabin.io">http://codecabin.io</a>
-</p>
-
-<div>CodeCabin has a wide range of products which require continuous support and development. <br><br>
-</div><div>We are looking for intelligent and well-spoken individuals who have an understanding of PHP (WordPress is a bonus) and have great problem-solving skills. The individual <strong>MUST HAVE a passion for programming</strong> and be emotionally mature. <br><br>
-</div><div>Our core products:<br><br>
-</div><ul>
-<li>wpgmaps.com</li>
-<li>contentbot.ai</li>
-</ul><div><br></div><div>Duties and Responsibilities:<br><br>
-</div><ul>
-<li>Software development</li>
-<li>To monitor, support, maintain products</li>
-<li>Respond to customers enquiries via support channels (email and support desk)</li>
-<li>Internal escalation and communication with different departments</li>
-<li>Following a query through from start to finish</li>
-<li>Reporting</li>
-<li>Working effectively within a team</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/codecabin_-full-stack-developer">https://weworkremotely.com/remote-jobs/codecabin_-full-stack-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7867/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Appy Ventures</h5>
-                    <h3> Experienced Flutter developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/appy-ventures-experienced-flutter-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/7867/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London
-    <br /><strong>URL:</strong> <a href="https://appyventures.com/">https://appyventures.com/</a>
-</p>
-
-<div>
-<strong>Frontend Flutter for a fast-growing UK company</strong><br><br>Why you should apply:<br>We are a remote-first company, with a focus on creating a genuinely positive working culture. We want to fast-track your learning and personal development - our goal is to help you to grow with us. Most of all, we believe that creating tech should be fun.<br><br>We’re scaling and want to find our next A-Player - here’s what you can expect when work with us:<br>Live where you want and work at your own pace/timezone (with UK overlap)<br>Great paid holidays (of course) and local bank holidays<br>Learn and grow from a fun/supportive/experienced team<br>Be part of a rocketing startup creating a product to be proud of<br><br>What do we need<br>We are currently looking for a Flutter developer that will be working as part of a team of programmers across a variety of products. This is a full-time, fully remote role.<br><br>What you'll do:</div><ul>
-<li>be responsible for creating extremely well-crafted mobile applications in a way that is attractive and convenient for users</li>
-<li>write resilient code that will be continuously tested, deployed and performed at scale</li>
-<li>be able to work well under pressure and to deliver to tight timescales</li>
-<li>improve overall software quality whilst also helping fellow team members</li>
-</ul><div>
-<br>What you'll bring:</div><ul>
-<li>5 years of Mobile programming experience (Flutter, Swift, Kotlin)</li>
-<li>Extensive commercial experience in Development</li>
-<li>Experience in developing web or iOS and Android apps</li>
-<li>Experience with optimizing applications in areas such as performance, security and resilience</li>
-<li>Ability and enthusiasm to push for new improvements across the code base and influence/learn from a large community of developers</li>
-<li>Ability to help in coaching and mentoring junior members of the team</li>
-</ul><div>
-<br>Who we are<br>An accelerator (of ideas) and an incubator (of businesses). Since 2012, we have been creating and building tech businesses with Entrepreneurs, many of which have seen significant growth after working with us. Our team culture is all about being open, communicating well, taking ownership and thinking entrepreneurially.<br><br>How to apply<br>We like to keep things simple so our hiring process is straightforward and fast, all you need to do to get things started is fill in the application form on the link below: <a href="https://forms.clickup.com/2616371/f/2fv1k-15604/Q8MCFLO8424SH4GAL6">https://forms.clickup.com/2616371/f/2fv1k-8861/OP6AWSJ6MIF9CVF6ZM</a><br><br>From there it is a simple three-step process:<br>1-1 interview with our Tech Lead<br>Quick technical test<br>1-1 call with our CEO and start your journey<br>That’s it! We move fast and want the best to join us - look forward to meeting you soon.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/appy-ventures-experienced-flutter-developer">https://weworkremotely.com/remote-jobs/appy-ventures-experienced-flutter-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/0156/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -182,7 +210,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-back-end-developer-1" align="right" target="_blank">Apply</a>
@@ -228,7 +256,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote" align="right" target="_blank">Apply</a>
@@ -266,6 +294,49 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/1384/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Groove</h5>
+                    <h3> Senior Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>120 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/groove-senior-full-stack-developer-3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/1384/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Newport, RI
+    <br /><strong>URL:</strong> <a href="https://groovehq.com">https://groovehq.com</a>
+</p>
+
+<div>Groove is looking for a very senior full-stack developer to help us accelerate our pursuit of building the best damn customer support tools on the planet. <br><br>You may have heard of us from our <a href="https://www.groovehq.com/top-posts">Journey to 500K blog</a> or from seeing us in places like NY Times, BBC, Forbes, Entrepreneur, Hacker News or elsewhere around the web. <br><br>This gig is not for the unseasoned. We need someone who's been in the trenches and helped grow a B2B SaaS company. A coder and a leader, who can hack with the best of them, and has an appreciation for good design and usability. A craftsman with the fire to help us execute on our product roadmap and move us along on our journey to 10MM in ARR. We've got a tight, scrappy team of former CTOs and founders working to make our app simpler, stronger and better. <br><br>We've put the time into talking with our customers and hitting product/market fit, and and need your help to step on the gas.<br><strong><br>From the technical side, here's what you'll need to know:</strong>
+</div><ul>
+<li>Ruby (with and without Rails)  </li>
+<li>Expert knowledge of Javascript </li>
+<li>In-depth knowledge of React, Redux and GraphQL</li>
+<li>Deep understanding of HTML and CSS</li>
+<li>Proficient understanding of git</li>
+<li>Location: US or EU</li>
+</ul><div>Experience working remotely is the only other requirement. You’ll be joining a completely remote team that knows how hackers work best. Meetings are kept to a minimum and everyone is left to get things done. Familiarity with Slack is a plus, and advanced-level Giphy skills will take you far.<br><br>If you’ve helped a fast-moving team win before and are ready to do it again, we want you on board. Our work impacts thousands of businesses around the globe, and we have our sights (very publicly) set on massive growth goals. If you think you can help us get there and are ready to join the family, email us at wewantyou@groovehq.com.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/groove-senior-full-stack-developer-3">https://weworkremotely.com/remote-jobs/groove-senior-full-stack-developer-3</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/2452/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -276,7 +347,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>871 days ago</text>
+                <text>872 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/g2i-inc-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -324,7 +395,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -401,7 +472,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -478,7 +549,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -503,7 +574,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -528,7 +599,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -553,7 +624,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -578,7 +649,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -603,7 +674,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -628,7 +699,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
@@ -653,7 +724,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -700,7 +771,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -755,92 +826,6 @@
 <p>Save your time: Fast and efficient hiring process to match you with the project of your preference.</p>
 <p>Ownership: Take ownership of your work and enjoy more freedom in your career.</p>
 <img src="https://remotive.com/job/track/1359476/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/09/vn3GOPZL_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Abarca Health</h5>
-                    <h3>Software Engineer III (Full Stack Developer)</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J116476/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                What you’ll do
-In a few words…
-Abarca is igniting a revolution in healthcare. We built our company on the belief that with smarter technology we are redefining pharmacy benefits, but this is just the beginning...
-We are seeking a Software Engineer II …
-<p style="text-align: justify;"><strong>What you’ll do</strong></p>
-<p style="text-align: justify;"><em>In a few words…</em></p>
-<p style="text-align: justify;"><em>Abarca is igniting a revolution in healthcare. We built our company on the belief that with smarter technology we are redefining pharmacy benefits, but this is just the beginning...</em></p>
-<p style="text-align: justify;">We are seeking a Software Engineer III to join our software development team. As a Software Engineer III you’ll define enterprise-level design standards for diverse software applications that serve a dynamic community of internal and external clients. You will work with business analysts, software engineers, quality assurance teams and technology leaders to understand business and clients needs and provide design guidelines that offer technical solutions and support complex decision making.</p>
-<p style="text-align: justify;"><br/><em>The fundamentals for the job…</em></p>
-<ul>
-<li>You'll provide technical support in the development and deployment of complex backend processes and APIs.</li>
-<li style="text-align: justify;">You'll help define product requirements for creating high-level architectural specifications, ensuring feasibility, functionality, and integration with existing systems and services.</li>
-<li style="text-align: justify;">You'll lead the way in the classification and documentation of development best practices, processes, and methodologies.</li>
-<li style="text-align: justify;">You'll create scalable, maintainable designs that support loosely-coupled enterprise components and foster reuse of software.</li>
-<li style="text-align: justify;">You'll make high-level design choices and dictate technical standards, including software coding, tools, and platforms.</li>
-<li style="text-align: justify;">You'll create, define and choose application frameworks for new applications.</li>
-<li style="text-align: justify;">You'll identify paths from existing to future software architectures, cultivate and disseminate knowledge of application development best practices.</li>
-<li style="text-align: justify;">You'll train, manage and provide guidance to junior development staff. </li>
-<li style="text-align: justify;">You'll research, investigate, and stay at the forefront of technology (Software Development, Hardware, Programming Languages, etc).</li>
-<li style="text-align: justify;">You'll take an active role in cross‐departmental projects when needed.</li>
-<li>Other duties and special projects as assigned.</li>
-</ul>
-<p> </p>
-<p><strong>What you’re made of</strong></p>
-<p><em>The bold requirements…</em></p>
-<ul>
-<li>Bachelor Degree in Computer Engineering, Computer Science, or related field, plus (In lieu of a degree, equivalent relevant experience may be considered.)</li>
-<li>5+ years of experience in Software Engineering/Development.</li>
-<li>4+ years of experience with SQL Server, Database Design, T-SQL and Stored Procedures.</li>
-<li>Experience in computer programming using Microsoft .Net Framework, ASP.NET, AJAX, VB / C#, JavaScript, HTML and XML.</li>
-<li>Experience with Source Controls such as GIT, TFS, SVN, etc.</li>
-<li>Experience with Object‐Oriented languages and Design Patterns.</li>
-<li>Knowledge of Web and Windows Applications architecture and Microsoft programming.</li>
-<li>Excellent oral and written communication skills.</li>
-</ul>
-<p><em> Nice to have… </em>(You don’t need these, but if you have these, your levels of awesome would increase exponentially.)</p>
-<ul>
-<li>Experience in Microservices, Domain Driven Design and/or Service-Oriented Architecture</li>
-<li>Hands on experience with Front-End Frameworks (Angular, etc.)</li>
-<li>Experience with Azure Devops and Cloud Development (Azure, etc.)</li>
-<li>Hands experience with Relational Databases</li>
-<li>Experience with Containerization (Kubernetes, etc.)</li>
-<li>Knowledge and experience in H7L Integrations Tools and Standards (Mirth Connect, etc.)</li>
-<li>Knowledge of the Healthcare, Pharmacy, and Pharmacy Benefit Management industries, Medicare Part D, and CMS regulations is preferred.</li>
-</ul>
-<p style="text-align: justify;"><em>That something extra we´d love to see…</em></p>
-<ol>
-<li style="text-align: justify;">Innovator</li>
-<li style="text-align: justify;">Logical</li>
-<li style="text-align: justify;">Leader/Mentor</li>
-<li style="text-align: justify;">Master cross-collaborator</li>
-<li style="text-align: justify;">System thinker</li>
-</ol>
-<p><em>Physical requirements…</em></p>
-<ul>
-<li>Must be able to access and navigate each department at the organization’s facilities.</li>
-<li>Sedentary work that primarily involves sitting/standing.</li>
-</ul>
-<p><strong><em>The above description is not intended to limit the scope of the job or to exclude other duties not mentioned. It is not a final set of specifications for the position. It’s simply meant to give readers an idea of what the role entails.</em></strong></p>
-<p><strong><em>Abarca Health LLC is an equal employment opportunity employer and participates in E-Verify.  “Applicant must be a United States’ citizen. Abarca Health LLC does not this time currently sponsor employment visas”</em></strong></p>
-<p><strong><em>All qualified applicants will receive consideration for employment and will not be discriminated against on the basis of gender, race/ethnicity, gender identity, sexual orientation, protected veteran status, disability, or other protected group status.</em></strong></p>
-<p> </p>
-<p style="text-align: justify;"><strong><em>#LI-NO1 #LI-REMOTE</em></strong></p>
                 </details>
                 </td>
             </tr></table>
