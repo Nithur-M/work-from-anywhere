@@ -1,5 +1,30 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/b768e438ce5acd7d64ff26f4c3562a541663020305.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Academia.edu</h5>
+                    <h3>
+					Product Manager				</h3>
+                </td>
+                <td width="300">
+                    <code>manager, education, lead</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/116635" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Academia.edu is a venture-backed, for-profit business based in San Francisco.Â  We have spent the last 13 years building the worldâs largest network for sharing and finding academic research online.Â  With over 180MM users and nearly half of the worldâs academics using our platform every month, our product team develops and grows compelling products for researchers and academics at a massive scale.Â  In addition to our mission of accelerating the worldâs research, we are in a unique position to disrupt the $25BB academic publishing industry as well as develop highly impactful products in the education space.Â  We raised our Series D funding round in December 2021 and are focused on growth. Come join us and make a difference while building a successful business!As a Product Manager, you will develop and ship amazing products that delight Academiaâs millions of readers and authors and drive meaningful business impact. You will lead a cross-functional team to both roadmaps and execute on a product vision.Â  
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +35,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>307 days ago</text>
+                <text>308 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -66,6 +91,102 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1363153/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Mobalytics</h5>
+                    <h3>Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>marketing,product manager,video,management</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-1363153" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p dir="ltr">The Mobalytics mission is to create the ultimate gaming companion, providing powerful tools that enable all players to step up their game and be their best selves. In the last four years we have gone from just servicing League of Legends players to empowering players of different genres through Teamfight Tactics, Legends of Runeterra, and Valorant. We’ve achieved a lot but there is so much we can accomplish with the right talent onboard. We need razor-sharp, experienced, and responsible professionals who can help us grow and evolve from a small adventurous party into a disciplined raid team who can conquer any challenge.</p>
+<p dir="ltr">We consider ourselves a gaming company even though we don’t make games because we work hand-in-hand with world-famous developers. We love these games and are members of the communities that make them thrive. What we do is not for the faint of heart. Working in a startup is hard, unpredictable, and demanding. Only the most passionate people thrive. Your love for video games, your expertise in your craft, attention to detail, and your dedication to a great user experience will take you far with us.</p>
+<p dir="ltr">As a <strong>Product Owner</strong>, you will own the strategic direction of new game products. You will lead the team of engineers, and designers to build products that drive the learning outcomes unique to the game community. In this product leadership role, you’ll be making strategic recommendations to Mobalytics executives for the next game products that should be launched.</p>
+<div class="h1" dir="ltr"><strong>Responsibilities:</strong></div>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Define and execute vision and strategy for Mobalytics products, as well as for broader strategic initiatives at the company aligning to company objectives.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Lead the ideation, technical development and launch of innovative products for gamers.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Define and analyze metrics that inform the success of products.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Work with cross-functional product, engineering, design, business, marketing and customer stakeholders to develop and drive a long-term roadmap.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Be a leader of your own team of engineers and designers</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Set processes and standards that enable the team and organization to consistently deliver strong outcomes.</p>
+</li>
+</ul>
+<div class="h3" dir="ltr"><strong>Minimum Qualifications:</strong></div>
+<ul>
+<li dir="ltr">
+<p dir="ltr">5+ years of product management experience.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">More than 2.000 hours of game-playing experience.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Deep understanding of the game market despite the platforms and devices.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Strong knowledge of game mechanics.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Proven record of successful product outcomes.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Experience designing user interfaces, including creating examples through wireframes and mock-ups.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Communication and presentation skills.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Organizational and analytical skills.</p>
+</li>
+</ul>
+<div>
+<div class="h3" dir="ltr"><strong>What we offer:</strong></div>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Fully remote job - we're a remote company from day one. We've figured that being remote is cool 5 years before COVID made others learn it.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Flexible working hours - except for scheduled meetings, we don’t have a working schedule or the required amount of working hours. Mobalytics is not about time spent on achieving results but about results themselves.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Home Office bonus after trial period.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Salary paid in USD, no matter where you are in the world.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">14 Vacation Days + 2 more weeks of company-wide vacation in Dec-Jan.</p>
+</li>
+</ul>
+<div>If you love games and have a strong desire to create beautiful and intelligent products for passionate communities of gamers, this is the place for you. We really want to help players be their best selves when playing with others around the world, and you should join us and help create that environment.</div>
+</div>
+<img src="https://remotive.com/job/track/1363153/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1388899/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -76,7 +197,7 @@
                     <code>ecommerce,education,marketing,product manager</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-b2c-1388899" align="right" target="_blank">Apply</a>
@@ -134,76 +255,6 @@
 <p><strong>We offer a competitive compensation plan and various perks including:</strong><br>• Annual bonus plans<br>• Employee benefits and insurance plan<br>• Paid vacation, personal days, and sick days<br>• Gym/fitness allowance<br>• Day off for your birthday<br>• Education allowance to keep your skills and learning current</p>
 <p> </p>
 <img src="https://remotive.com/job/track/1388899/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/04/CockroachDB.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CockroachDB</h5>
-                    <h3>Lead Product Manager, SQL</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J116651/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-Databases are the beating heart of every business in the world
-What you build and where it takes you shouldn't be limited by the capabilities of your database. We created CockroachDB to be the most highly evolved, cloud-native, distributed SQL datab …
-
-<h3><strong>Databases are the beating heart of every business in the world</strong></h3>
-<p>What you build and where it takes you shouldn't be limited by the capabilities of your database. We created CockroachDB to be the most highly evolved, cloud-native, distributed SQL database on the planet. Making scale so simple, you don't even have to think about it. Making data so resilient, it becomes impossible to destroy. Making delivery so seamless, your apps run anywhere. Join us on our mission to build a different breed of database—one born in the cloud and built from the ground up to help companies of any size scale fast, survive disaster, and thrive everywhere.</p>
-<h3><strong>About the Role</strong></h3>
-<p>We are looking for a Lead Product Manager to build an excellent developer experience for our cloud-native distributed SQL database. You will lead the SQL teams that include the SQL Sessions (e.g., connection experience, drivers/ORMs), SQL Schema (e.g., online schema changes, schema design), and SQL Queries (e.g., performance, correctness).</p>
-<p>You will also own the end-to-end user journeys and user experience for SQL Queries, including performance (e.g., HTAP, OLAP), multi-region access patterns, and own the platform layers that include the Cost-based Optimizer and Distributed Execution Engine. You will define and execute against a product roadmap, including interfacing with product marketing for go-to-market activities. You will interface with developers daily and advocate on their behalf to help CockroachDB provide an excellent developer experience.</p>
-<h3><strong>You Will</strong></h3>
-<ul>
-<li style="font-weight: 400;">Manage a team of product managers in the SQL product area, including the SQL Sessions, SQL Schema, and SQL Queries product development teams. </li>
-<li style="font-weight: 400;">Work directly with customers to understand and address their primary pain points, diligently collect product requirements, and document customer needs.</li>
-<li style="font-weight: 400;">Collaborate with Engineering, Design, and Documentation to develop cloud-native solutions and iterate toward a delightful user experience.</li>
-<li style="font-weight: 400;">Put yourself in our users’ shoes and acceptance test features before they go live to prioritize and iterate on usability gaps.</li>
-<li style="font-weight: 400;">Leverage our BI platform to understand product adoption and prioritize enhancements to improve our product.</li>
-<li style="font-weight: 400;">Drive adoption of our solutions by working with marketing and other departments to highlight differentiated workflows for developers.</li>
-</ul>
-<h3><strong>You Have</strong></h3>
-<ul>
-<li style="font-weight: 400;">5 - 10+ years of work experience in product management, including technical expertise working with engineering and/or design teams.</li>
-<li style="font-weight: 400;">We prefer previous management experience, but it is not required </li>
-<li style="font-weight: 400;">Computer Science Degree and/or experience as a developer</li>
-<li style="font-weight: 400;">Excellent writing skills; our strategic product meetings are based on docs rather than decks. </li>
-<li style="font-weight: 400;">Familiarity and comfort using SQL, including working with databases</li>
-<li style="font-weight: 400;">A collaborative nature and are an enthusiastic, amiable, and personable teammate, open to partnering with all other functions in the company.</li>
-<li style="font-weight: 400;">The ability to communicate the unique value proposition of your product area to support the Marketing and Sales teams. You will periodically produce content to drive adoption and awareness of particular features. </li>
-</ul>
-<h3><strong>The Expectations</strong></h3>
-<p>In the first 30 days, you will go through PM onboarding with your roachmate. You will shadow your area's Senior Group Product Manager (SGPM) and understand the team culture and processes. You will meet the SQL PM team and spend time learning about their expertise, goals, and ambitions. You will spin up a CockroachDB cluster and test core features, getting a sense of the end-to-end experience for yourself. You will work with your GPM as well as our customers to understand the significant user pain points for the area and spend time getting familiar with the specific developer and industry problems your team is solving. You'll review your backlog, get up to speed on in-flight features, and learn how to understand feature adoption using our analytics platform.</p>
-<p>You'll also build relationships with the tech leads, other product managers, and members of the broader organization you'll be working with daily. You and the SQL SGPM will have the first of many long-term career planning conversations to understand your goals and how Cockroach Labs can best help you achieve them. </p>
-<p>In your first 60 days, you will work with the SQL SGPM to drive monthly product-market-fit meetings, which require you to summarize your team's progress towards our OKRs (Objectives and Key Results) and product-market fit. You will start to vet new feature requests and add them to the backlog.</p>
-<p>After three months, you will lead your team and meet with your direct reports to provide guidance, unblock development, and build their careers. You'll identify, research, and test solutions to problems. You will analyze product data from alpha releases to determine where to focus our efforts to create the most impact. There are countless opportunities for us to invest in, and you will be responsible for prioritizing the ones that will exceed our customers' expectations while generating a competitive advantage over the long term. We want our users to have a phenomenal experience using CockroachDB, which requires excellent products built by you and your team.</p>
-<h3><strong>The Team</strong></h3>
-<p>Reporting to Andy Woods, Data Interfaces Senior Group Product Manager</p>
-<p>Andy is responsible for the overall roadmap for the Data Interfaces product area, which covers the primary developer interface for using CockroachDB, including SQL, Migrations, and SQL Observability. User journeys in this area include connecting to the database, schema design &amp; migration, SQL coverage, query performance (including cost-based optimizer and execution engines), and query introspection (why is my query slow?). Andy is also responsible for the multi-region experience inside CockroachDB, including the SQL abstractions and underlying technology that make CockroachDB a globally distributed database. Andy joined Cockroach Labs in 2017 to help build our core database offering. Andy enjoys a good book, movies, Crossfit workouts, and the new puppy that keeps him on his toes when not at work.</p>
-<h3><strong>Our Benefits</strong></h3>
-<ul>
-<li style="font-weight: 400;">100% health insurance coverage (for you and your dependents!)</li>
-<li style="font-weight: 400;">Paid parental leave (with baby bucks)</li>
-<li style="font-weight: 400;">Flex Fridays</li>
-<li style="font-weight: 400;">Flexible time off &amp; flexible hours</li>
-<li style="font-weight: 400;">Education reimbursement</li>
-<li style="font-weight: 400;">Relocation support</li>
-</ul>
-<p>Cockroach Labs is proud to be an Equal Opportunity Employer building a diverse and inclusive workforce. If you need additional accommodations to feel comfortable during your interview process, please email us at accessibility@cockroachlabs.com. </p>
-
                 </details>
                 </td>
             </tr></table>
