@@ -1,5 +1,145 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/f61a6a25d85dc7afe67cb47ff3a9c22f1663083095.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>3XM Group</h5>
+                    <h3>
+					S FullStack Developer				</h3>
+                </td>
+                <td width="300">
+                    <code>accounting, bookkeeping, lead</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/117002" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                3XM Group develops quality software solutions, with offices in the US and Argentina. We aim to be strategic advisors for our clients, taking care of all their technology needs, focusing on delivering tailored solutions on-time and within scope.We provide Data Analytics, Cloud, DevOps, and Software Development services, with agile teams that can work with you as stand-alone teams, integrating into your inhouse dev teams, or providing external architectural guidance.We are looking for an enthusiastic Fullstack Developer with a startup mindset to join our client's team. You will be contributing to developing and maintaining web applications for a media, technology and commerce company oriented to a black women audience.Â As part of this role, at least initially, you would be contributing to the development of features for a Vue.js v3 application and also with their backend layer where PHP or equivalente server-side languages are used.Â 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/f15ff32d44c081499462c1b4013fb6021663139710.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Gelato</h5>
+                    <h3>
+					Smart Contract Ethereum Developer				</h3>
+                </td>
+                <td width="300">
+                    <code>ethereum, developer, crypto</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/117348" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Gelato Network </strong>is a protocol that automates smart contract executions on Ethereum. We develop an open-source decentralized network of relay nodes that developers can plug into to create amazing automated dApps for their users.</p><p><br>Join as one of the first employees and work directly with the founders to build the future of Automation for the upcoming decentralized web. Enjoy a lot of perks, travel with us to cool events (after Corona), and participate in amazing off-side retreats with the team!</p><p><br>Participate in creating the most sophisticated crypto bot network ever created by designing the smart contracts that will rule them all!<br><br></p><p><strong>What we offer:</strong><br><br></p><ul><li>Small, fully remote team, with team members in Paris, Berlin & Munich</li><li>Be one of the first employees and work directly with the founders</li><li>Participate in building the infrastructure that aims to become the glue between all crypto networks and power the most promising dApps on Ethereum</li><li>Token Options - Get a share of the networks future token and be able to participate in Gelatoâs upcoming DAO</li><li>Worldclass Investors - We are backed by the community, including industry leading experts such as Gnosis, Christoph Jentzsch, IOSG, Galaxy Digital and the two largest Venture DAOs (The LAO, Metacartel Ventures)</li></ul><p><br></p><p><strong>Requirements:</strong><br><br></p><ul><li>Experience in writing smart contracts in solidity</li><li>Experience with web3 libraries (ethers.js, web3.js)</li><li>Experience with testing your code locally and on ethereum test networks</li><li>You can work with high autonomy</li><li>Strong written and verbal communication skills</li></ul><p><br></p><p><strong>Bonus:</strong><br><br></p><ul><li>Knowledge about the inner workings of the EVM</li><li>Mathematics & Finance Background</li><li>Experience in building and running bots that interact with smart contracts on Ethereum</li><li>Knowledge about Ethereum Client & Mining software</li><li>Front-end experience, building dApps on existing smart contracts</li></ul><p><br></p><p><strong>Technologies we use and teach:</strong><br><br></p><ul><li>Solidity</li><li>Node.js</li><li>Typescript</li><li>Javascript</li><li>Ethers.js / web3.js</li><li>Buidler / Truffle</li><li>React</li></ul>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7014/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kratzen Partners</h5>
+                    <h3> Senior Software Developer - web/bots </h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/kratzen-partners-senior-software-developer-web-bots" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7014/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> United States
+    <br /><strong>URL:</strong> <a href="https://www.kratzenpartners.com/">https://www.kratzenpartners.com/</a>
+</p>
+
+<div>Kratzen Partners is recruiting a <strong>full time 100% remote</strong> senior software developer to build an internal toolset for scraping public websites that have been specifically hardened against simple scraping methods.­­ The key to the project’s success will be problem solving, clever experimentation, grit, and creativity. </div><div> </div><div>
+<strong>About Us: </strong>Kratzen Partners is a global technology services provider specializing in discovering, collecting, and analyzing internet data and discretely relieving internal information collection operating burdens of the world’s leading data driven corporations and institutions. </div><div> </div><div><strong>Qualifications:</strong></div><div>·      Expert level experience in JavaScript, including web programming</div><div>·      Experience with website scraping, and/or writing stealthy bots</div><div>·      Naturally inquisitive and curious  </div><div>·      A knack for problem-solving, combining creativity and logical thinking<br>       ·      You probably enjoy solving puzzles and brain teasers</div><div>·      Fluent in English, especially written English</div><div>·      <strong><em>BONUS</em></strong>: experience with playwright framework</div><div> </div><div>
+<strong>Pay</strong>: €70-85k per year, based on experience. </div><div> </div><div><strong>What the job will be like</strong></div><div>Your initial role will be to build out the MVP for this new advanced scraping toolset, working with a PM and reporting to our VP of engineering, leveraging existing systems designs and experimentation results. However, you will be writing the production code from a blank slate, and there will still be considerable experimentation and problem solving required as we work through the inevitable unexpected hurdles. <br><br>
+</div><div>You’ll be primarily work on your own -- your VP and PM will help set direction and be available to brainstorm and provide suggested avenues of exploration. However, the more you can generate your own ideas, plans, and work independently, the better. Initial onboarding  will include daily check-ins, shifting to a 2/week cadence as you get settled. As long as you attend our calls, meet deadlines, and get your work done, you’re welcome to work your own schedule.</div><div> </div><div><strong>Our Interview Process </strong></div><div>1.     Submit an application (instructions below) </div><div>2.     We’ll interview the strongest 8-12 applicants, hopefully including you </div><div>3.     You will complete a small self-paced practical test: reverse engineer a simple, but obfuscated, JavaScript web app. We expect this project to take 2-5 hours. </div><div>4.     You will have a final interview with the product and engineering manager to ensure there is a good fit</div><div>5.     We’ll send you an offer!<br><br>We know interviews are no fun by their very nature. We dont know how how to fix, but please, have lunch on us! We’ll send €20 to anyone that even submits a take home test. </div><div>
+<strong> </strong> </div><div><strong>Application Submission</strong></div><div>If this sounds like the right job for you, please send your first and last name, resume, and 2 or 3 sentences for each of following questions to <a href="mailto:careers@kratzenpartners.com">careers@kratzenpartners.com</a> : </div><div> </div><div>1.     What’s your experience scraping internet data?</div><div>2.     What are hard-to-spoof ways to fingerprint what browser someone is actually using?</div><div>3.     Without using the ip address, how might you detect a web client is using a vpn?</div><div>4.     Are there more avenues of detection available if the client is using an https proxy?</div><div> </div><div>
+<em>Please remember, THERE ARE NO WRONG ANSWERS to these question!</em> </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/kratzen-partners-senior-software-developer-web-bots">https://weworkremotely.com/remote-jobs/kratzen-partners-senior-software-developer-web-bots</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6989/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ProjectDiscovery.io</h5>
+                    <h3> Senior Back End Developer (Golang)</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6989/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco
+    <br /><strong>URL:</strong> <a href="https://projectdiscovery.io">https://projectdiscovery.io</a>
+</p>
+
+<div>ProjectDiscovery is an open-source cyber-security company that builds a range of softwares for security engineers and developers. Our user base is among the largest in the InfoSec community, and we are used by top internet companies’ security and developer teams, including Fastly, Microsoft, CloudFlare, Gitlab, Facebook, IBM, and many others.</div><div><br></div><div>We are well funded and just recently raised $25M in our Series A. Backed by current/former CXOs from companies like Fastly, Databricks, Google, Twitter, HashiCorp, RedHat.</div><div><br></div><div>→ github.com/projectdiscovery</div><div><br></div><div>
+<br>You're a backend engineer with 6+ years of software experience. You're ready to be an individual contributor, design and build sophisticated systems quickly, and collaborate in a fast-paced environment.</div><div><br></div><div>You are a product-focused engineer that takes just as much pride in the user experience of your product as you do the performance.</div><div>
+<br><strong>Requirements:</strong>
+</div><ul>
+<li>6+ years of experience as a backend developer, with at least 3+ years of experience working with GO language.</li>
+<li>Strong knowledge of working with Go paradigms and best practices</li>
+<li>Good knowledge of concurrency in Go - goroutines, channel patterns, Go ecosystem, and tools available</li>
+<li>Worked on or have an understanding of various frameworks in Go</li>
+<li>Ability to dissect and recommend best tools for the job</li>
+<li>Worked with microservices architecture and patterns, DevOps, and continuous delivery.</li>
+<li>Experience building APIs with gRPC or REST</li>
+<li>Some experience with deployment processes including knowledge of Kubernetes and Docker.</li>
+<li>Strong knowledge of PostgreSQL / MySQL</li>
+</ul><div><br></div><div><strong>What will you work on:</strong></div><ul>
+<li>Here is our work: https://github.com/projectdiscovery you are directly going to be involved in many of these open-source projects. 90%+ code base is written in Go.</li>
+<li>Developing high-volume, low-latency applications for large systems and coping with the challenges of working in a distributed and highly concurrent environment.</li>
+<li>You will also be coding new features and have an active role in the defining the backend architecture, which includes designing microservices and researching new alternatives and technologies.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang">https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6961/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +150,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pangolia-remote-wordpress-developer-for-fast-growing-pet-company" align="right" target="_blank">Apply</a>
@@ -136,7 +276,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -200,6 +340,59 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/9140/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>PostPilot</h5>
+                    <h3> Senior Ruby/Rails Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/postpilot-senior-ruby-rails-developer-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/9140/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> US
+    <br /><strong>URL:</strong> <a href="https://www.postpilot.com/">https://www.postpilot.com/</a>
+</p>
+
+<div><strong>About the Job at PostPilot.com / Handwrite.io </strong></div><div>You’ll pitch in on building our <strong>Ruby on Rails + Hotwire app(s)</strong> as we continue to grow, add new features, keep them fast, and ratchet up their reliability &amp; robustness. <br><br>At PostPilot we build our product following the Basecamp <a href="https://basecamp.com/shapeup">Shape Up</a> methodology and keep our apps fast, secure, and reliable. Right now, we're hoping to further develop our flagship product PostPilot and work on problems like A/B testing, MFA, Adding more e-commerce integrations, building external APIs, and of course, making sure our existing infrastructure is scalable and maintained. </div><div><br></div><div>This position includes building features, deep-dive debugging, internal tooling, web performance, and internal support, with a bit of Robots and hardware thrown in. Day in and day out you’ll get to the bottom of multiple different issues across the stack and across projects. You can expect an <strong>inclusive, eager small team (of 4 devs)</strong> team who’ll support you in it, rise to challenges with you, and grow together. </div><div><br></div><div>Here are real examples of the work we’ve done lately that might help you to get a better idea of what this job entails:</div><ul>
+<li>Built a way for email lists to be converted into physical mailable addresses. </li>
+<li>Built software to manage pulling, printing, and monitoring our in-house printshop manufacturing process.</li>
+<li>Built a fleet of handwriting <strong>robots</strong> driven by Ruby on Rails.</li>
+<li>Built support for single-use unique coupon codes in <strong>direct mail campaigns</strong> </li>
+<li>Built the ability for <strong>Shopify</strong> brands (our users) to send real handwritten notes (postcards in envelopes, with real pens) with live in-browser previews</li>
+<li>Created a Public API for sending <strong>postcards</strong> and <strong>handwritten notes</strong> in our production facility.</li>
+<li>Developing a load balancing strategy for “expensive” <strong>Sidekiq</strong> background jobs that were crushing<strong> external APIs</strong> and our queues.</li>
+<li>Improved developer experience with <strong>Heroku</strong> (Pipelines, CI, and Review apps), <strong>Github</strong> Actions</li>
+<li>Deep dive into expensive queries in our application and working to improve performance and memory consumption from <strong>Postgres</strong> to Rails</li>
+<li>Built a <strong>webhook</strong> event publishing system for events from our production facility.</li>
+<li>Upgraded our main application to <strong>Rails 7 with import maps and hotwire</strong>.</li>
+</ul><div><br></div><div><strong>About you</strong></div><div>We’re looking for candidates who are ready for a similar breadth and depth of work. There are a lot of areas of responsibility! Solid fundamentals with software development, systems, troubleshooting, and teamwork pave the way.</div><div><br></div><div>We value people who have an opinion but can commit even if they disagree. People who understand the value of others being heard. This is only possible with direct feedback, openness to each others’ experiences, and willingness to show up for each other.</div><div><br></div><div>You can expect a team that listens, and to be heard. You can expect to be counted on. We care about what you can do and how you do it, not about how you got here. This is a remote-friendly job. You’re free to work where you work best. The bulk of our work is written via Slack and Github, from pull request discussions to team chats, and video recordings with a few video calls thrown in. </div><div>
+<br><strong>We require an overlap at least 4 hours</strong> with the United States east coast workday. That said, we’re not hiring from locations that require a graveyard shift to make the overlap happen.<br><br><strong>Pay and benefits</strong><br>The annual salary for this position is $80,000 - $120,000 USD. Applicants from outside the US will be offered a contractor role with comparable terms and at the same rate of pay as our US-based employees. <br><br>Our target start date for our new hire is as soon as possible.<br><br><strong>How to apply</strong><br>Please send a quick message tailored to this position that speaks to us.  Include the phrase "Ghostbusters!" and we'll know you're a real person that made it this far. Introduce yourself to us as a colleague. Give us some examples of how you’ve been successful in the past and attach a resume.<br><br>You should expect to hear from us fairly quickly. After that, there are 3 phases of the process. </div><ol>
+<li>A quick call to learn more about each other. <em>Expect a 30-minute call.</em>
+</li>
+<li>A take-home exercise, our ​​technical exercise is representative of the kind of day-to-day work we do with a follow-up code walkthrough call. <em>Plan for around 4 hours for the exercise and 30-minutes for the follow-up.</em>
+</li>
+<li>One last call with one of our Founders and the CEO of the company. <em>Expect this to take 20-minutes.</em> </li>
+</ol><div> Our interviews are conversations held over video with future colleagues – no tests, no surprises! </div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/postpilot-senior-ruby-rails-developer-2">https://weworkremotely.com/remote-jobs/postpilot-senior-ruby-rails-developer-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/0156/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -210,7 +403,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-back-end-developer-1" align="right" target="_blank">Apply</a>
@@ -256,7 +449,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote" align="right" target="_blank">Apply</a>
@@ -304,7 +497,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>120 days ago</text>
+                <text>121 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/groove-senior-full-stack-developer-3" align="right" target="_blank">Apply</a>
@@ -347,7 +540,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>872 days ago</text>
+                <text>873 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/g2i-inc-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -385,6 +578,132 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1394324/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Pangolia</h5>
+                    <h3>WordPress Developer for Fast Growing Pet Company</h3>
+                </td>
+                <td width="300">
+                    <code>api,CSS,developer,docker</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="MsoNormal" style="margin: 12.0pt 0cm 12.0pt 0cm;"><span lang="EN-GB">Are you a talented web developer who loves WordPress? And do you get excited about building new features that will be used by millions of pet lovers every month? Then this could very well be the opportunity for you!</span></p>
+<p class="MsoNormal" style="margin: 12.0pt 0cm 12.0pt 0cm;"><span lang="EN-GB">We’re Pangolia—one of the fastest-growing pet companies, and we’re on a mission to create the biggest, most helpful pet company in the world. Our biggest sites: PetKeen.com, Hepper.com, and ExcitedCats.com, are visited by millions of pet lovers every month, and we’re undergoing rapid growth.</span></p>
+<p class="MsoNormal" style="margin: 12.0pt 0cm 12.0pt 0cm;"><span lang="EN-GB">Our sites are all built on WordPress, and our own cat furniture e-commerce brand: Hepper is running on WooCommerce. In this position you will be working alongside our Lead Developer on building new features and tools that help pet lovers all over the world.</span></p>
+<p class="MsoNormal" style="margin: 12.0pt 0cm 12.0pt 0cm;"><span lang="EN-GB">We’re a 100% remote company so you’d have the freedom to work from anywhere. It's a full-time position (40 hours a week), yet you get to plan your own schedule and work whenever you want. You will become an integral member of our team at Pangolia consisting of a diverse group of 95 talented individuals from all over the world, joining us on our united goal of improving the lives of pets and those who care for them.</span></p>
+<p class="MsoNormal" style="margin: 12.0pt 0cm 12.0pt 0cm;"><span lang="EN-GB">This is a great opportunity if you’re an amazing developer looking to rapidly grow your skills whilst working alongside peers who are at the top of their field.</span></p>
+<p class="h3" style="margin-top: 14.0pt; mso-pagination: widow-orphan; page-break-after: auto;"><a name="_f6gyfmiem09e" rel="nofollow"></a><strong><strong><span lang="EN-GB" style="line-height: 115%;">You will be responsible for</span></strong></strong>
+ 
+</p>
+<p class="MsoNormal" style="text-indent: -18.0pt; mso-list: l3 level1 lfo7; margin: 12.0pt 0cm .0001pt 36.0pt;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">    </span></span><span lang="EN-GB">Developing new tools and software that help millions of pet lovers every month (could for example be to develop a Puppy Weight Chart Tool / Calculator that helps pet owners predict how fast, and how big their dog will grow)</span></p>
+<p class="MsoNormal" style="text-indent: -18.0pt; mso-list: l3 level1 lfo7; margin: 12.0pt 0cm .0001pt 36.0pt;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Developing, testing, and maintaining new features and solutions for our WordPress sites for desktop and mobile browsers that are optimized for high traffic</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l3 level1 lfo7;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Optimize our websites for mobile users</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l3 level1 lfo7;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Create, review, and update technical documentation</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l3 level1 lfo7;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Contributing to our development processes, QA procedures, and technical planning</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l3 level1 lfo7;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Communicating and supporting our content and marketing departments with dev/IT requests, troubleshooting, fixing bugs</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l3 level1 lfo7;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Performing scheduled and non-scheduled maintenance and security updates on our WordPress sites</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l3 level1 lfo7;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Securing and protecting our WordPress sites from hackers and malware, as well as eliminating risks</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l3 level1 lfo7;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Ensuring that our servers and content delivery network (CDN) are stable enough to handle millions of users</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l3 level1 lfo7;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Improve our team’s IT infrastructure</span></p>
+<p class="MsoNormal" style="text-indent: -18.0pt; mso-list: l3 level1 lfo7; margin: 0cm 0cm 12.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Keep apprised of relevant new technology and best practices</span></p>
+<p class="h3" style="margin-top: 14.0pt; mso-pagination: widow-orphan; page-break-after: auto;"><a name="_br6lzms8ltu9" rel="nofollow"></a><strong><span lang="EN-GB" style="line-height: 115%;">You are expected to have:</span></strong></p>
+<p class="MsoNormal" style="text-indent: -18.0pt; mso-list: l4 level1 lfo1; margin: 12.0pt 0cm .0001pt 36.0pt;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Experience with HTML, CSS, JavaScript/jQuery</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Experience with PHP (7.4/8) and object-oriented programming (OOP)</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Experience with MySQL and managing databases</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Experience with WordPress development (eg themes, hooks, filters, plugin API, etc)</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Experience with build tools like Webpack or ViteJS</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Experience with Composer and basic understanding of autoloading, dependency management, and dependency injection</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Experience with SSH and comfortable with basic terminal usage</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Experience with Git (and GitHub)</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Experience with TailwindCSS &amp; PostCSS</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Troubleshooting abilities (ie include finding CSS and JavaScript conflicts using browser developer tools, navigating codebases in theme and plugins, and determining whether a plugin or theme code could be causing a code conflict)</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l4 level1 lfo1;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">The ability to take a project on your own and get it done before the deadline</span></p>
+<p class="MsoNormal" style="text-indent: -18.0pt; mso-list: l4 level1 lfo1; margin: 0cm 0cm 12.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">The ability to communicate well as we work remote (most of our communication is written in Slack with occasional calls)</span></p>
+<p class="h3" style="margin-top: 14.0pt; mso-pagination: widow-orphan; page-break-after: auto;"><a name="_996hsb8f662v" rel="nofollow"></a><strong><strong><span lang="EN-GB" style="line-height: 115%;">It would be nice if you have:</span></strong></strong></p>
+<p class="MsoNormal" style="text-indent: -18.0pt; mso-list: l2 level1 lfo8; margin: 12.0pt 0cm .0001pt 36.0pt;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Experience creating custom Elementor widgets</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l2 level1 lfo8;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Experience with Docker and <a href="http://ddev.com/" rel="nofollow"><span style="color: #1155cc;">DDev.com</span></a> for local development</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l2 level1 lfo8;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Experience with WP CLI, WP REST API, and WP cron jobs</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l2 level1 lfo8;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Experience with CDNs/Cloudflare</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l2 level1 lfo8;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Experience with unit testing</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l2 level1 lfo8;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Good understanding of website architecture, aesthetics and UI/UX best practices</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l2 level1 lfo8;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Understanding of basic principles behind technical SEO and performance optimization<br></span></p>
+<p class="MsoNormal" style="text-indent: -18.0pt; mso-list: l6 level1 lfo2; margin: 0cm 0cm 12.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">We would appreciate it if you could work with PHPStorm so that we can use their collaborative features and have some consistency in our development processes. However, if you prefer and work better with another IDE or coding tool, that's fine! <strong>Either way, we will pay for your license.</strong></span></p>
+<p class="h3" style="margin-top: 14.0pt; mso-pagination: widow-orphan; page-break-after: auto;"><a name="_krwfm64vgzgt" rel="nofollow"></a><strong><strong><span lang="EN-GB" style="line-height: 115%;">Type of person we would love for this role</span></strong></strong></p>
+<p class="MsoNormal" style="text-indent: -18.0pt; mso-list: l1 level1 lfo3; margin: 12.0pt 0cm .0001pt 36.0pt;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">You’re a dependable, friendly communicator</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l1 level1 lfo3;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">You’re passionate about solving problems with smart and elegant programming solutions. Your code is clean, understandable, and well commented</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l1 level1 lfo3;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">You’re a self-starter who loves taking initiative and seeing things through to completion.</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l1 level1 lfo3;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">You have the curiosity and desire to learn and grow your skills and discover new modern practices and follow the latest trends in WordPress</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l1 level1 lfo3;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">You take pride in the quality and craftsmanship of your work rather than just doing it to get it done but you are also able to balance it with not overdoing your work and being able to move and work fast</span></p>
+<p class="MsoNormal" style="text-indent: -18.0pt; mso-list: l1 level1 lfo3; margin: 0cm 0cm 12.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">You’re able to juggle around and work on different projects and side tasks on a weekly basis. While we wish we could focus on one thing for weeks at a time to make it perfect, that’s often not the reality in a competitive market.</span></p>
+<p class="h3" style="margin-top: 14.0pt; mso-pagination: widow-orphan; page-break-after: auto;"><a name="_8n7x1uhhpvq3" rel="nofollow"></a><strong><strong><span lang="EN-GB" style="line-height: 115%;">Benefits/Perks</span></strong></strong></p>
+<p class="MsoNormal" style="text-indent: -18.0pt; mso-list: l7 level1 lfo6; margin: 12.0pt 0cm .0001pt 36.0pt;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Work from anywhere (we’re 100% remote)</span></p><p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l7 level1 lfo6;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Flexible work hours, you get to plan your own schedule and work whenever you want</span></p><p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l7 level1 lfo6;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Developer Growth. </span></p><p class="MsoNormal" style="margin-left: 72.0pt; text-indent: -18.0pt; mso-list: l7 level2 lfo6;"><!-- [if !supportLists]--><span lang="EN-GB">○<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">You work with modern practices and you gain valuable experience with high-traffic sites</span></p><p class="MsoNormal" style="margin-left: 72.0pt; text-indent: -18.0pt; mso-list: l7 level2 lfo6;"><!-- [if !supportLists]--><span lang="EN-GB">○<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">We value self-improvement. We cover expenses for books and work-related courses</span></p><p class="MsoNormal" style="margin-left: 72.0pt; text-indent: -18.0pt; mso-list: l7 level2 lfo6;"><!-- [if !supportLists]--><span lang="EN-GB">○<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">We're open to changes, you have a voice in how things get done</span></p><p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l7 level1 lfo6;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Your monthly pay is paid biweekly (You’re paid every two weeks)</span></p><p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l7 level1 lfo6;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">We'll pay for all your software needs that relate to your work (IDE/Coding tools, SnagIt, VPN, etc.). Usually, we provide license (serial) keys. </span></p><p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l7 level1 lfo6;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">We cover 100% of your home internet bill.</span></p><p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l7 level1 lfo6;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">We encourage you to find a working environment that suits your needs the best if working from home every single day isn’t for you.</span></p><p class="MsoNormal" style="margin-left: 72.0pt; text-indent: -18.0pt; mso-list: l7 level2 lfo6;"><!-- [if !supportLists]--><span lang="EN-GB">○<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">We’ll cover monthly membership and/or day passes for co-working spaces </span></p><p class="MsoNormal" style="margin-left: 72.0pt; text-indent: -18.0pt; mso-list: l7 level2 lfo6;"><!-- [if !supportLists]--><span lang="EN-GB">○<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">We’ll cover all your coffee purchases for the day in coffee shops</span></p><p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l7 level1 lfo6;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">We give you a day off for your birthday! You get to stay in bed or hang with loved ones.</span></p><p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l7 level1 lfo6;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Paid company retreats</span></p><p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l7 level1 lfo6;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">21 days of paid time off every year</span></p><p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l7 level1 lfo6;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Your work with a great, talented team that produces a high-growth work environment (we move fast)</span></p><p class="MsoNormal" style="text-indent: -18.0pt; mso-list: l7 level1 lfo6; margin: 0cm 0cm 12.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Opportunity to move up in the company, and earn higher pay and bonuses</span></p><p class="h3" style="margin-top: 14.0pt; mso-pagination: widow-orphan; page-break-after: auto;"><a name="_nu1ls319mw53" rel="nofollow"></a><strong><strong><span lang="EN-GB" style="line-height: 115%;">A typical workweek (example)</span></strong></strong>
+ 
+</p>
+<p class="MsoNormal" style="text-indent: -18.0pt; mso-list: l0 level1 lfo4; margin: 12.0pt 0cm .0001pt 36.0pt;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">Every Monday, we have a one-on-one Zoom meeting to discuss our goals, whether you are meeting your goals, what went well, what did not go well, and so on.</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo4;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">You have one or multiple projects to complete. You can work on them whenever and however you want without being micromanaged. However, you must be able to meet the deadline and be accountable for the quality of the end solution.</span></p>
+<p class="MsoNormal" style="margin-left: 72.0pt; text-indent: -18.0pt; mso-list: l0 level2 lfo4;"><!-- [if !supportLists]--><span lang="EN-GB">○<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">You’re also responsible for maintaining the Github repository of the project you’re working on, committing/pushing/documenting your changes, commenting on your code, and writing SOPs or technical documentation (if necessary). It doesn’t have to be pages long and can be very short and concise. But, as a developer, it makes life so much easier if you can return to your code in the future without having to think too hard about what you did. This is also about being considerate of your teammates' time.</span></p>
+<p class="MsoNormal" style="margin-left: 36.0pt; text-indent: -18.0pt; mso-list: l0 level1 lfo4;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">There must be some overlap in our working hours so you can respond to urgent requests (if any) or chat with your manager or any of our departments on demand if they have an IT question. This means that some extra tasks may arise during the week.</span></p>
+<p class="MsoNormal" style="margin-left: 72.0pt; text-indent: -18.0pt; mso-list: l0 level2 lfo4;"><!-- [if !supportLists]--><span lang="EN-GB">○<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">You might have a day where one of our team members needs something urgent and needs it done the same or the next day, which can be valuable to the company, or a major issue needs to be fixed ASAP, in which case you might have to drop what you're working on and work on that or troubleshoot the entire day. If your main project's deadline cannot be met because of this (which is understandable), you should be able to communicate this on time.</span></p>
+<p class="MsoNormal" style="margin-left: 72.0pt; text-indent: -18.0pt; mso-list: l0 level2 lfo4;"><!-- [if !supportLists]--><span lang="EN-GB">○<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">However, most of the time you are able to work on your main projects in solitary. We understand that developers need complete focus. You can also chat and ask questions in our Slack channels.</span></p>
+<p class="MsoNormal" style="text-indent: -18.0pt; mso-list: l0 level1 lfo4; margin: 0cm 0cm 12.0pt 36.0pt;"><!-- [if !supportLists]--><span lang="EN-GB">●<span style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">       </span></span><!--[endif]--><span lang="EN-GB">You might get stuck in programming and need help, or some development processes may need to be explained. If it cannot be explained/resolved via chat or video, screen-sharing calls can be scheduled throughout the week.</span></p>
+<p class="h3" style="margin-top: 14.0pt; mso-pagination: widow-orphan; page-break-after: auto;"><a name="_jdrx5pbgm0hq" rel="nofollow"></a><strong><strong><span lang="EN-GB" style="line-height: 115%;">The team (and our work culture)</span></strong></strong>
+ 
+</p>
+<p class="MsoNormal" style="margin: 12.0pt 0cm 12.0pt 0cm;"><span lang="EN-GB">You’ll get to be part of a 100% remote company consisting of a diverse group of 95 talented individuals from all over the world. The people you will find on the team are veterinarians, marketers, content writers, editors, social media managers, graphics designers, content managers, and a lot more.</span></p>
+<p class="MsoNormal" style="margin: 12.0pt 0cm 12.0pt 0cm;"><span lang="EN-GB">And you’ll get to join us on our united mission of improving the lives of pets and those who care for them. We dream big, and our vision is to become the biggest, most helpful pet company in the world.</span></p>
+<p class="MsoNormal" style="margin: 12.0pt 0cm 12.0pt 0cm;"><span lang="EN-GB">You’ll get to be part of a company that’s undergoing hyper-growth, and the fast-paced work environment that comes with it. </span></p>
+<p class="MsoNormal" style="margin: 12.0pt 0cm 12.0pt 0cm;"><span lang="EN-GB">And we’ve managed to grow at a healthy pace without ever sacrificing our culture and values.</span></p>
+<p class="MsoNormal" style="margin: 12.0pt 0cm 12.0pt 0cm;"><span lang="EN-GB">Our company culture is focused on work and collaboration, but also while being open to the casual humor and chatter that makes us get to know each other.</span></p>
+<p class="MsoNormal" style="margin: 12.0pt 0cm 12.0pt 0cm;"><span lang="EN-GB">We work hard, and you may have to work on the weekend every now and then if you have a lot on your plate. However, we have a huge understanding of the importance of time off, and we encourage each other to take time off.</span></p>
+<p class="MsoNormal" style="margin: 12.0pt 0cm 12.0pt 0cm;"><span lang="EN-GB">A lot of us love traveling, and therefore, we plan on doing yearly company retreats, where we all meet up together and have fun.</span></p>
+<p class="MsoNormal" style="margin: 12.0pt 0cm 12.0pt 0cm;"><span lang="EN-GB">We value the freedom of being able to work from anywhere, trust, and collaboration.</span></p>
+<p class="h3" style="margin-top: 14.0pt; mso-pagination: widow-orphan; page-break-after: auto;"><a name="_h9ny6e8ntppt" rel="nofollow"></a><strong><strong><span lang="EN-GB" style="line-height: 115%;">How to Apply for this Position</span></strong></strong>
+ 
+</p>
+<p><span lang="EN-GB"><span lang="EN-GB">1. You apply by completing this form, which will ask you a series of questions: <a href="https://forms.gle/RP8KpPVABuVZXqQP7" rel="nofollow">https://forms.gle/RP8KpPVABuVZXqQP7</a></span></span><span lang="EN-GB"><span lang="EN-GB"><br></span></span></p>
+<p><span lang="EN-GB"><span lang="EN-GB">2. If we think you’d be a good fit for this role then we'd like to provide you an assignment that mimics an internal project as the following phase. You'll have the chance to demonstrate your abilities and have a better understanding of what to anticipate. This is a paid assignment for which you will be compensated hourly based on your expected salary for the position.<br></span></span></p>
+<p><span lang="EN-GB"><span lang="EN-GB">3. If there is a match, you will be invited to an interview where we will discuss the job, the company, and you’ll have the chance to ask any questions you may have.<br></span></span></p>
+<p><span lang="EN-GB"><span lang="EN-GB">4. If this goes well, we'll hire you! We begin with a trial period to allow you and the rest of the team to fully evaluate how we collaborate, followed by a final review and confirmation.</span></span></p>
+<img src="https://remotive.com/job/track/1394324/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1393221/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Quinncia Inc</h5>
+                    <h3>Frontend Developer</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,cloud,CSS,developer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1393221" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">This posting is for a Frontend Developer, you would work alongside our team. We are a fully remote team so it does not matter which country or time zone you are in, as long as you are available from 10 AM to 1 PM (EST). We are NOT looking for part-time work, contractors, software development companies or consultants, so please only apply if you're looking for a full-time position.</p><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">Quinncia is a career readiness platform that improves college student outcomes by improving students' resumes and interview skills using our AI. Quinncia allows career service to scale their offerings allowing each student to get personalized feedback on their resume and interviewing skills. With over 60% unemployment or underemployment rate among recently graduated students, our goal is to integrate career readiness into the academic curriculum and make sure every student has a job within 90 days of graduation.</p><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">Projects you'll be working on:</p><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">We're focused on enhancing our UI and UX, as well as streamlining operations and improving our technical foundation. As a core member of the Front-End team, you will influence how we build individual features, take ownership of end to end product quality that will help make our app/website reliable We want you to focus on high-quality code and know that quality is more than just unit tests and code coverage. You would look for opportunities to automate, always package up reusable code, be constantly learning, ready to pick up new technologies, patterns, and paradigms.</p><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">COOL TECH</p><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">Chatbots Computer vision Data visualization Machine learning Natural language processing Video processing and everything else - our team is small and you'll likely be involved in almost every tech-related thing going on</p><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">Being a Frontend engineer you will need strong logical skills but also understand design patterns and ability to predict edge cases for handling different issues. You will be working with our lead designer but a good understanding of UI and UX would be needed.</p><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">Requirements Front-end developer position (required tech):</p><ul style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-top: 16px; margin-bottom: 24px; padding-left: 32px; color: rgb(22, 32, 64); "><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Profound knowledge of JavaScript</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Comfortable with ES6</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Practical and recent experience with React.js</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Experience communicating with RESTful services</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Experience with testing (e.g. Jest)</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Experience with bundling of JavaScript code (e.g. Webpack)</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Have deep knowledge in CSS, preprocessors (e.g. Sass)</li></ul><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">Bonus skills:</p><ul style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-top: 16px; margin-bottom: 24px; padding-left: 32px; color: rgb(22, 32, 64); "><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">GraphQL</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Docker</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Cloud platforms (GCP, AWS)</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Git</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Redux/Flux</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Ramda</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">HTML5, Bootstrap</li></ul><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">Whatever else you decide - we're constantly re-evaluating our stack and tools Having prior experience with the technologies is a plus, but not mandatory for skilled candidates.</p><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">PS: Please add your Github account link to your application, as it will make the evaluation process easier and more robust.</p>
+<img src="https://remotive.com/job/track/1393221/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -395,7 +714,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -472,7 +791,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -549,7 +868,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -574,7 +893,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -599,7 +918,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -624,7 +943,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -649,7 +968,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -674,7 +993,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -699,7 +1018,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
@@ -724,7 +1043,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -771,7 +1090,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
