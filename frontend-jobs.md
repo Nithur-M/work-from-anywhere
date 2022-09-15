@@ -1,30 +1,5 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/0d7596097c26394c0e17a6b9aeaf66671662794118.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Rarible</h5>
-                    <h3>
-					Senior Frontend Engineer				</h3>
-                </td>
-                <td width="300">
-                    <code>frontend, react, nft</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/114725" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size:18px;">About Rarible</b></div><div>Rarible is a creator-centric NFT marketplace with a community governance model. We are a #1 ranked marketplace in the world, having exceeded $40 million USD in monthly trading volume. Rarible reached over 10x growth in the past 3 months, and is expanding rapidly! In addition, Rarible is releasing the Rarible Protocol which allows developers, other marketplaces, and partners to easily mint NFTs and to share NFT inventory with a decentralized order book.</div><div><br></div><div>Join our decentralized, motivated and fully remote team building the NFT marketplace of the future.</div><div><br></div><div><br></div><div><b style="font-size:18px;">Senior Frontend Engineer (React)</b></div><div>We invite Frontend React / React-native, ready to work at the intersection of web and mobile technologies. </div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4921/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -35,7 +10,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>63 days ago</text>
+                <text>64 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-frontend" align="right" target="_blank">Apply</a>
@@ -103,7 +78,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-1347890" align="right" target="_blank">Apply</a>
