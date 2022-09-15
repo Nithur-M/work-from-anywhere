@@ -1,123 +1,5 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/7565dec0ebfd7cb63f773bf7d2832d401662794110.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>3mint</h5>
-                    <h3>
-					Senior Full Stack Software Engineer				</h3>
-                </td>
-                <td width="300">
-                    <code>software, javascript, nft</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/114723" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                First senior engineering hire at Web3 developer tools startup<br><h3></h3><br><h3><b>Description</b></h3><br>3mint is looking for a passionate, experienced full stack software engineer to help us build the foundations of Web3-enabled ecommerce. This is a first employee position and a great opportunity to join a fast-paced startup at the ground floor.<p>Youâll be joining a well-capitalized team of former ConsenSys / MetaMask builders and will have meaningful impact on technical architecture and direction, direct input into product vision, the opportunity to build out the engineering team, competitive compensation, and an equity package commensurate with the position.Â </p><p>We are looking for an individual who is not afraid to roll up their sleeves, get in the trenches with the founders, and are ready for an entrepreneurial challenge. If youâre interested in having a massive impact at a quickly growing startup, this opportunity is for you.</p><p></p><h3><b>3mint</b></h3><br>3mint is building the foundations of Web3-enabled ecommerce, because we believe this is the single most impactful way to accelerate the global shift to Web3 and bring on the next 100 million users into this ecosystem.<p>3mint is building a Web3 toolkit for consumer brands, NFT communities, and blockchain games to enable them to easily build Web3-enabled products and experiences. We want to make it dead simple for any developer to build out use cases on Web3, and that starts with our token-gating API, our airdropping SDK, and our custodial wallet SDK.Â </p><p></p><h3><b>Role Responsibilities</b></h3><br><ul><li align="left">Have direct input in setting direction of technical architecture and make key decisions on technical stack as our first full-time engineering hire</li><li align="left">Have direct input in product roadmap and shape best practices</li><li align="left">Ship excellent code and develop highly performant, stable, and fast APIs and SDKs based on the most cutting-edge technologies in Web3</li><li align="left">Contribute to building out and leading the technical teamÂ </li><li align="left">Work closely with the founding team and contribute directly, not only to product and technology, but also to strategy and positioning</li></ul><br><h3><b>Requirements</b></h3><br><ul><li align="left">4+ years experience in backend development, with preferred experience in Javascript (Node.js, NestJS, NextJS, Express), building event streaming queues (Kafka), and scaling APIs to 100,000+ users</li><li align="left">Experience implementing CI/CD pipelines with AWS</li><li align="left">Experience with (some) elements of Web3 development: working with RPC nodes, gas optimization, smart contract deployment, etc.</li><li align="left">Passion for Web3, crypto, and / or blockchain (you need to care aboutÂ <i>whyÂ </i>weâre building these tools!)</li><li align="left">Comfort working in a fast-paced, entrepreneurial environment and a strong desire to build at the Zero to One stage.</li></ul><br><h3><b>Benefits</b></h3><br><ul><li align="left">Top-tier health, vision, dental, and disability insurance</li><li align="left">Unlimited PTO / sick leave</li><li align="left">Hybrid work environment</li><li align="left">Competitive salary & equity compensation</li><li align="left">Biannual company off-sites</li></ul><br><i>3mint is proud to be an Equal Employment Opportunity employer. We do not discriminate based upon race, religion, color, national origin, gender (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or other applicable legally protected characteristics.Â </i>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/4192/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Expensify inc.</h5>
-                    <h3> Full Stack Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>601 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/expensify-inc-full-stack-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/4192/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="https://we.are.expensify.com/how-we-got-here">https://we.are.expensify.com/how-we-got-here</a>
-</p>
-
-<h1>Your Mission, Should You Choose to Accept:</h1><div>
-<br>Join our passionate team of top-notch engineers to solve a real-world problem, and help people spend less time managing expenses and more time pursuing their real goals. As we revolutionize the way people manage their expenses, being part of the Expensify team means building the easiest, fastest, and most efficient platform to automate everything expense-related.<br><br><br>
-</div><div>Our employees work from all over the world, but if you’re looking for a change of scene we offer visa sponsorship and relocation assistance to join us at one of our rad locations:</div><ul>
-<li>San Francisco</li>
-<li>Portland</li>
-<li>Michigan</li>
-<li>New York</li>
-<li>London</li>
-<li>Melbourne</li>
-<li>And more to come!</li>
-</ul><div>
-<br>Even though we work hard at Expensify, we make sure our employees are happy. Our most talked about perk is our<a href="https://we.are.expensify.com/explore-the-world"> Offshore</a> where we spend a month abroad working from a remote location as a team. This year we’re going to Spain, do you want to join?<br><br><br>
-</div><div>
-<strong><br>About You<br></strong><br><br>
-</div><div>
-<br>Whether you’re building features like calendar integrations, importing credit card transactions, or pulling information from receipts, you’re self-driven and collaborative. You’re an autonomous individual who is passionate about writing beautiful and concise code. You’re willing to work with other engineers, designers, and customer facing teams to turn our dreams into reality. <br><br><br>
-</div><div>
-<br>As a Web Full Stack Engineer, your responsibilities include:<br><br><br>
-</div><ul>
-<li>Implementing improvements</li>
-<li>Planning, building, and maintaining cross-stack features like accounting integrations, advanced receipt scanning, and more.</li>
-<li>Guiding and enabling others in the organization: we'll share our editor tricks, dotfiles and productive workflows. Share yours!</li>
-<li>Asking questions about things you don’t understand and challenging the status quo.<br><br><br>
-</li>
-</ul><div>
-<br>For the best possible fit, we are looking for someone who:<br><br><br>
-</div><ul>
-<li>Has experience writing real-world software to solve real-world problems.</li>
-<li>Communicates well, both interpersonally and in their code.</li>
-<li>Is a natural problem solver, knows how to solve problems by automating their solutions.</li>
-<li>Understands the role and impact that programming can have on the organization as a whole.</li>
-<li>Wants to develop and grow their skills in programming and leadership within the organization.<br><br><br>
-</li>
-</ul><div>
-<br>We are looking for people who have a strong understanding of algorithms and design patterns that can apply those concepts into a production level codebase. Knowledge and experience with Javascript, React, React Native, PHP, C++, Java, iOS or Android is a plus. This position is the foundation for launching a career with Expensify, with the expectation that you’ll carry these skills into new domains.<br><br><br>
-</div><div>
-<strong><br>Compensation &amp; Benefits<br></strong><br><br>
-</div><ul>
-<li>Full-time, salaried position</li>
-<li>401k with employer match</li>
-<li>100% Medical/Dental/Vision contributions</li>
-<li>Commuter benefits</li>
-<li>Free lunch</li>
-<li>Flexible vacation policy</li>
-<li>Relocation available</li>
-<li>Work from home when you need to<br><br><br>
-</li>
-</ul><div>
-<strong><br>Next Steps<br></strong><br><br>
-</div><div>
-<br>Applying is easy, but it takes time. See, while we know you're awesome, it's actually really hard and time consuming to find you in the midst of literally hundreds of other applications we get from everyone else. So this is where we're going to ask our first favor: can you make it really easy and obvious how great you are, so we don't accidentally overlook you? There are probably many ways to do that, but the easiest way to help us out is by answering the following questions:<br><br><br>
-</div><ol>
-<li>What's the URL of your website? If you don't have one, why not?</li>
-<li>What's your coding history? When did you start, and what have you done between then and now?</li>
-<li>What do you want to do with the rest of your life, and how is Expensify a step toward your long-term goals?</li>
-<li>How did you hear about us? A job posting? Chalk on a sidewalk? From a friend? Let us know where you saw this opening.<br><br><br>
-</li>
-</ol><div>
-<strong><br>Resume not your thing? That’s great, we don’t really read them anyway! Forward your responses to the questions to apply@expensify.com. We're excited to hear from you!<br></strong><br><br>
-</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/expensify-inc-full-stack-engineer">https://weworkremotely.com/remote-jobs/expensify-inc-full-stack-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1224255/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -128,7 +10,7 @@
                     <code>developer,javascript,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-customer-solutions-team-1224255" align="right" target="_blank">Apply</a>
@@ -166,6 +48,100 @@
 <!--block-->
 <p><br><br></p>
 <img src="https://remotive.com/job/track/1224255/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/07/HeyOyster.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Oyster HR</h5>
+                    <h3>Engineer (Fullstack)</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J117666/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                ✨ One platform, a whole world of opportunity 
+Right now, the best jobs are limited to people in a handful of the world’s wealthiest cities, yet brilliant people are everywhere. Driven to overturn the status quo and distribute opportunities equally ar …
+<h2><strong>✨ One platform, a whole world of opportunity </strong></h2>
+<p>Right now, the best jobs are limited to people in a handful of the world’s wealthiest cities, yet brilliant people are <em>everywhere</em>. Driven to overturn the status quo and distribute opportunities equally around the world, Oyster launched its global employment platform to help companies hire, pay, and care for talent anywhere. </p>
+<p>When it comes to global employment, we walk the walk. We’re proof that companies don't need an office to create a highly-engaged culture. Since the company’s inception in January 2020, Oyster has:</p>
+🌏 Created a fully-distributed, vibrant team of 500+ employees across 60+ countries
+🌈 Established a diverse leadership team and an employee base that’s 60% female
+🏆 Achieved one of the highest employee engagement scores in its class
+🦄 <strong>Raised $150 million in Series C funding at a valuation of over $1 billion!</strong>
+<p>Our momentum speaks to the power of global employment—and we’re just getting started! If you want to change the world with Oyster <em>and</em> be empowered to work remotely while doing so, we’d love for you to apply! </p><h2>The Role 👩‍💻</h2>
+<p><strong>Location</strong>: Anywhere within timezones UTC-8 to UTC+3. All of Oyster’s positions are fully remote and you can work from home, forever.</p>
+<h2><strong>What you'll do</strong></h2>
+<p>As a Fullstack Developer at Oyster, you’ll get to work on both the frontend and backend of our system to deliver a holistic experience for the user. Your changes between our Rails backend and React frontend will be communicated via our GraphQL API. Being in a fullstack role enables you to see the impact your changes make on the user from end to end.</p>
+<h3>Delivering projects to empower companies and remote workers</h3>
+<p>You will <strong>own the delivery of user stories</strong>. You'll be writing code, tests, and debugging issues. You'll apply high standards of code quality and development best practices, such as TDD or continuous integration, and secure code thinking.</p>
+<p>You'll play an important role in our delivery process. It will be important to understand the product goals and then provide technical input to specification. You'll participate in discussions on domain model design and coordinate with the Product Owner on acceptance criteria. And you'll collaborate with Lead Developers on architecture and implementation planning.</p>
+<h3>Be a key part of our development team</h3>
+<p>We're a young team, you'll help shape our team's process and help us make technical decisions to make us effective and a great place to work as a developer.</p>
+<p>We also expect you to support developers by answering questions and offering support when needed, or to pair on complex problems.</p>
+<p>And to advance technical excellence at Oyster by researching new tools and practices, taking initiative on technical improvements and refactorings, and moving best practice forward through pairing, discussions in the team.</p>
+<p> </p>
+<h2><strong>What we're looking for 📜</strong></h2>
+<ul>
+<li style="font-weight: 400;">At least 1 year experience with Rub and 3+ years of experience overall. </li>
+<li style="font-weight: 400;">Experience working with a frontend web framework such as React, Vue, etc.</li>
+<li style="font-weight: 400;">Experience with API implementation and design.</li>
+</ul>
+<h3><strong>You'll also need</strong></h3>
+<ul>
+<li style="font-weight: 400;">Fluent English language skills</li>
+<li style="font-weight: 400;">A drive to learn, and help the development team to progress.</li>
+</ul>
+<h2><strong>More on our teams</strong></h2>
+<p>You'll be a member of one of our product teams, working on:</p>
+<ul>
+<li style="font-weight: 400;">Hiring automation. Hiring a team member cross-border should be quick and frictionless, but there are too many barriers to that today. Our teams on hiring automation create processes that integrate structured knowledge on hiring from dozens of countries into a seamless experience.</li>
+<li style="font-weight: 400;">HR tools for distributed teams. Companies are more and more building global, distributed teams, and they'll need the tools to enable them to work effectively.</li>
+<li style="font-weight: 400;">Payroll and payments. We run complex payroll jobs that combine accounting information from over eighty countries, as well as collecting payments and disbursing millions of dollars of salary to employees every month.</li>
+<li style="font-weight: 400;">Enterprise platform features. Our customers demand high quality security, access, communication, and auditing features.</li>
+<li style="font-weight: 400;">Growth teams. We are growing quickly and have teams devoted to experimenting in growth hacking.</li>
+</ul>
+<h2>Engineering at Oyster</h2>
+<p>At Oyster, we are on a mission to create a more equal world by making it possible for companies everywhere to hire people anywhere. The Engineering team is responsible for building up the platform, tooling, automation, and experience to help Oyster achieve this mission. Together with Product and Design, we partner closely with subject matter experts in Finance, Legal, Workplace, and more to build and refine our offerings to make a single product that is a pleasure to work with. We’re breaking new ground in the hiring market and have a wealth of interesting challenges to tackle!</p>
+<p>We seek out and build up engineers and leaders who have strong software engineering fundamentals, value transparency, promote knowledge sharing, and thrive in a distributed, remote-first, and asynchronous working environment.</p>
+<p>Finally, we live and champion our company values.</p>
+<ul>
+<li><strong>We elevate talent:</strong> We hire our team (using our own product!) and continue to grow their abilities through mentorship, challenges that stretch and strengthen their skills, and giving them room to explore.</li>
+<li><strong>We build trust:</strong> We are transparent and promote an active flow of information throughout the team. We believe that people can do their best work when they feel supported, heard, and safe to challenge ideas to make the product, and team or company stronger. To do that we value egoless sharing of information, transparency throughout the company, actively promote knowledge sharing, and promote a safe environment to try and fail. Failures are not the end; they are moments to learn and grow!</li>
+<li><strong>We thrive together:</strong> By building upon our first two values, we promote teamwork and collaboration to come together a globally-minded, remote-first company that values collective wins over individual wins.</li>
+</ul>
+<h3>Working in our teams</h3>
+<p>We have have seven development teams totalling about forty developers, ten designers, and fifteen in product. We're growing fast.</p>
+<p>We use Agile development processes. Our teams are allowed to decide on processes that work for them, but all are expected to have daily check-ins (sync or async), and regular retrospectives. Some teams use pure kanban, others fortnightly development cycles.</p>
+<p>Our current technology stack includes Ruby, Rails, PostgreSQL, TypeScript, React, GraphQL, and we deploy to Heroku.</p>
+<p>You’ll receive a new M1 or M1 Pro laptop to work on, and have a stipend to equip your home office with whatever else you need to be productive at home.</p><h2><strong>🦪 How we work together at Oyster</strong></h2>
+<p>Our values guide the work we do, the decisions we make, and the culture that makes us special. We elevate talent. 🙌  We build trust. 🤝 We thrive together. 🌍</p>
+<p>Our mission is to create a more equal world—one global hire at a time. Everything we do ladders up to our mission—and that doesn’t just mean building software. We develop programs, participate in workshops, and create dedicated teams to ensure we successfully support companies and knowledge workers in this new world of work. </p>
+<p>We embrace asynchronous communication and collaborative work—and we share how we work in the <a class="c-link c-link--focus-visible c-link--underline" data-sk="tooltip_parent" data-stringify-link="https://oysterhr.notion.site/Welcome-to-The-Reef-Oyster-s-Open-Source-Employee-Guide-fc482e3f107c4afd8c85ed217f1d0c1d" href="https://oysterhr.notion.site/Welcome-to-The-Reef-Oyster-s-Open-Source-Employee-Guide-fc482e3f107c4afd8c85ed217f1d0c1d" target="_blank">Oyster Public HQ</a> —to help other global teams learn from our experiences.</p>
+<h2><strong>💌  How YOU work</strong></h2>
+<p>Different countries have different statutory benefits, different cultures have different norms, and different people have different needs! In order to best support and encourage our diverse team, we’ve created <a href="https://oysterhr.notion.site/How-YOU-work-ac16c1932e314ffd8cb693e332458395" target="_blank">How YOU Work; </a>a program of policies, practices, and perks to support your whole human experience as an employee at Oyster. </p>
+<ul>
+<li style="font-weight: 400;"><strong>Work from anywhere: </strong>Oyster is a borderless, HQ-less company. As long as your work gets done on time, your team has the support they need, and you're authorized to work where you live, the world is truly your Oyster.</li>
+<li style="font-weight: 400;"><strong>Paid time off: </strong>We’re all about taking breaks—we all need it. Oyster provides employees with 40 days off each year, which includes public/bank holidays and vacation/holiday leave (unless your country mandates more).</li>
+<li style="font-weight: 400;"><strong>Mental health support:</strong> We consider your mental health a top priority. We offer access to <a href="https://oysterhr.notion.site/Plumm-3b5e7e70dec6428e975f68f25972cfb7">Plumm</a>, a mental well-being service, to support your mental health.</li>
+<li style="font-weight: 400;"><strong>Wellbeing allowance:</strong>  Each month, Oyster will top up your <a href="https://oysterhr.notion.site/Juno-987fd6194012448d94ef85e36a4fe213">Juno</a> wallet with a wellbeing allowance. Juno Points can be applied to anything that helps you show up to work as your best self, whether that’s your internet bill, a class, gym membership, or houseplants. The choices are endless!</li>
+<li style="font-weight: 400;"><strong>Flexible parental leave:</strong> Families are created in lots of different ways. Our parental leave policy applies to all employees who are becoming parents, regardless of <em>how</em> they become a parent. Oysters are eligible for a minimum of three months of paid parental leave and your job will be held for 12 months (or longer if required by local jurisdiction).</li>
+<li style="font-weight: 400;"><strong>WFH stipend:</strong> We give you a laptop and $1500 for equipment so you can have your remote office up and running in no time<em>.</em> Check out <a href="https://www.notion.so/Equipment-at-Oyster-bf47a128141d47729e06c79bb3ac072d">Equipment at Oyster</a> for more details.  </li>
+</ul>
+<h2><strong>✨ The best jobs should be available to everyone </strong></h2>
+<p>At Oyster, we celebrate a variety of perspectives and experiences and we’ve intentionally built our product and our company with an inclusive, global mindset. We know from experience that people from underrepresented groups often don’t apply for roles they don’t feel they meet all the criteria for. We’re committed to elevating talent by creating a trust-based environment where we can all thrive together. So if you think you have what it takes, but don’t necessarily check every single box, please consider applying. We’d love to hear how you might contribute to our mission and our team.</p>
+<p>Oyster is committed to ensuring equal opportunity of employment for qualified persons with disabilities and actively fosters an inclusive work environment. Please email jobs@oysterhr.com with the subject line: Interview Accommodations if you require any reasonable accommodations throughout the recruiting process.</p>
                 </details>
                 </td>
             </tr></table>
