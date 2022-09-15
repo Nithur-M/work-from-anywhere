@@ -11,7 +11,7 @@
                     <code>manager, education, lead</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/116635" align="right" target="_blank">Apply</a>
@@ -21,168 +21,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 Academia.edu is a venture-backed, for-profit business based in San Francisco.Â  We have spent the last 13 years building the worldâs largest network for sharing and finding academic research online.Â  With over 180MM users and nearly half of the worldâs academics using our platform every month, our product team develops and grows compelling products for researchers and academics at a massive scale.Â  In addition to our mission of accelerating the worldâs research, we are in a unique position to disrupt the $25BB academic publishing industry as well as develop highly impactful products in the education space.Â  We raised our Series D funding round in December 2021 and are focused on growth. Come join us and make a difference while building a successful business!As a Product Manager, you will develop and ship amazing products that delight Academiaâs millions of readers and authors and drive meaningful business impact. You will lead a cross-functional team to both roadmaps and execute on a product vision.Â  
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>A.Team</h5>
-                    <h3> Senior Independent Product Manager/Product Designer ($110-$190/hr)</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>308 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0071/4151/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> NYC, SF, and TLV
-    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
-</p>
-
-<div>
-<a href="https://build.a.team/wwrproductmgrfasttrack">A·Team</a> is a VC-backed, stealth, application-only home on the internet for Senior Product Managers &amp; Product Designers (along with developers &amp; UX/UI folks) to team up with the best companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
-<li>
-<strong>High-paying, meaningful client missions (where you'd lead Product) with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li>
-<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li>
-<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li>
-<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li>
-<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul><div>
-<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrproductmgrfasttrack">https://build.a.team/wwrproductmgrfasttrack</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
-</div><ul>
-<li>Once part of A.Team, you’ll regularly be invited to be the lead Product manager/designer for impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old-school non-tech incumbents looking to build as a tech giant would.</li>
-<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
-<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is for:</strong>
-</div><ul>
-<li>Senior Product Managers/Designers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
-<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
-<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
-</div><ul>
-<li>People looking for small gigs.</li>
-<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
-<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
-</ul><div>
-<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrproductmgrfasttrack"><span>A·Team</span></a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
-<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1363153/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Mobalytics</h5>
-                    <h3>Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>marketing,product manager,video,management</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-manager-1363153" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p dir="ltr">The Mobalytics mission is to create the ultimate gaming companion, providing powerful tools that enable all players to step up their game and be their best selves. In the last four years we have gone from just servicing League of Legends players to empowering players of different genres through Teamfight Tactics, Legends of Runeterra, and Valorant. We’ve achieved a lot but there is so much we can accomplish with the right talent onboard. We need razor-sharp, experienced, and responsible professionals who can help us grow and evolve from a small adventurous party into a disciplined raid team who can conquer any challenge.</p>
-<p dir="ltr">We consider ourselves a gaming company even though we don’t make games because we work hand-in-hand with world-famous developers. We love these games and are members of the communities that make them thrive. What we do is not for the faint of heart. Working in a startup is hard, unpredictable, and demanding. Only the most passionate people thrive. Your love for video games, your expertise in your craft, attention to detail, and your dedication to a great user experience will take you far with us.</p>
-<p dir="ltr">As a <strong>Product Owner</strong>, you will own the strategic direction of new game products. You will lead the team of engineers, and designers to build products that drive the learning outcomes unique to the game community. In this product leadership role, you’ll be making strategic recommendations to Mobalytics executives for the next game products that should be launched.</p>
-<div class="h1" dir="ltr"><strong>Responsibilities:</strong></div>
-<ul>
-<li dir="ltr">
-<p dir="ltr">Define and execute vision and strategy for Mobalytics products, as well as for broader strategic initiatives at the company aligning to company objectives.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Lead the ideation, technical development and launch of innovative products for gamers.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Define and analyze metrics that inform the success of products.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Work with cross-functional product, engineering, design, business, marketing and customer stakeholders to develop and drive a long-term roadmap.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Be a leader of your own team of engineers and designers</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Set processes and standards that enable the team and organization to consistently deliver strong outcomes.</p>
-</li>
-</ul>
-<div class="h3" dir="ltr"><strong>Minimum Qualifications:</strong></div>
-<ul>
-<li dir="ltr">
-<p dir="ltr">5+ years of product management experience.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">More than 2.000 hours of game-playing experience.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Deep understanding of the game market despite the platforms and devices.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Strong knowledge of game mechanics.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Proven record of successful product outcomes.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Experience designing user interfaces, including creating examples through wireframes and mock-ups.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Communication and presentation skills.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Organizational and analytical skills.</p>
-</li>
-</ul>
-<div>
-<div class="h3" dir="ltr"><strong>What we offer:</strong></div>
-<ul>
-<li dir="ltr">
-<p dir="ltr">Fully remote job - we're a remote company from day one. We've figured that being remote is cool 5 years before COVID made others learn it.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Flexible working hours - except for scheduled meetings, we don’t have a working schedule or the required amount of working hours. Mobalytics is not about time spent on achieving results but about results themselves.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Home Office bonus after trial period.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Salary paid in USD, no matter where you are in the world.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">14 Vacation Days + 2 more weeks of company-wide vacation in Dec-Jan.</p>
-</li>
-</ul>
-<div>If you love games and have a strong desire to create beautiful and intelligent products for passionate communities of gamers, this is the place for you. We really want to help players be their best selves when playing with others around the world, and you should join us and help create that environment.</div>
-</div>
-<img src="https://remotive.com/job/track/1363153/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -197,7 +35,7 @@
                     <code>ecommerce,education,marketing,product manager</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-b2c-1388899" align="right" target="_blank">Apply</a>
