@@ -11,7 +11,7 @@
                     <code>financial, investment, fintech</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/117350" align="right" target="_blank">Apply</a>
@@ -25,52 +25,54 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/afe1435b159b1caa71a5e4731d287ea11662966914.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7038/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Paradigm</h5>
-                    <h3>
-					Senior Backend Engineer				</h3>
+                    <h5>Gridium</h5>
+                    <h3> Backend engineer - data ingestion (Python, remote)</h3>
                 </td>
                 <td width="300">
-                    <code>financial, senior, engineer</code>
+                    <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/116209" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/listings/gridium-backend-engineer-data-ingestion-python-remote-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="content-intro"><p><span style="font-weight:400;">At Paradigm, we are changing the future of finance! By joining us at this early stage, youâll be building cutting-edge, distributed financial service infrastructure that will reshape financial services across CeFi and DeFi markets. </span></p><p><strong>About Paradigm</strong></p><ul><li style="font-weight:400;"><span style="font-weight:400;">Paradigm is a zero-fee, institutional liquidity network for derivatives traders across CeFi and DeFi. </span></li><li style="font-weight:400;"><span style="font-weight:400;">We provide unified access to multi-asset, multi-protocol liquidity on demand without compromising on execution preferences, costs, and immediacy. </span></li><li style="font-weight:400;"><span style="font-weight:400;">Weâve built the largest network of institutional counterparties in crypto, with over 600 institutional clients trading over $10 B per month.</span></li><li style="font-weight:400;"><span style="font-weight:400;">We are a diverse, global team led by our </span><a href="https://www.paradigm.co/company#principles" rel="noopener noreferrer nofollow"><span style="font-weight:400;">organizational principles</span></a><span style="font-weight:400;"> and united by our mission to bring on-demand liquidity for traders, anytime and anywhere, without compromises. We also strive to ship faster than anyone else in the industry!</span></li><li style="font-weight:400;"><span style="font-weight:400;">We are backed by the best traders and investors in the space, including Jump Capital, Alameda Ventures/FTX, Dragonfly Capital, Digital Currency Group, Genesis Trading, QCP Capital, Optiver US, IMC, GSR Markets, Akuna Capital, Fidelity Digital Assets CMT Digital, Goldentree Asset Management, Amber Group, OK Group, Bybit Fintech, and CoinShares.</span></li></ul></div><div> </div><div> </div><div><strong>The role</strong></div><div> </div><div>As a core member of our backend team, you will build and maintain major features, through inception, design, implementation and launch, working closely with product and engineering disciplines across the company. You will spend the majority of your time on cross-functional self-contained feature teams focused on delivering value to the customer, while other projects will be more internally focused on integrations, scalability, and performance.</div><div> </div><div><strong>Responsibilities </strong></div><div><ul><li>Design, build and maintain scalable, secure web services and distributed systems</li><li>Design and develop robust solutions for trade negotiation and execution, real-time market data, chat messaging, authentication, and security</li><li>Help maintain existing codebase, infrastructure, test coverage, and documentation</li><li>Communicate requirements effectively within and across teams</li></ul><p><strong>Requirements </strong></p><ul><li>7+ years of backend engineering experience, ideally building products from ideation to launch with a strong engineering team</li><li>Experience monitoring and scaling microservice-oriented systems</li><li>Familiarity with websocket architecture and implementation</li><li>Team-building and technical leadership experience</li><li>B.S. in Computer Science or a related field (M.S. a plus)</li></ul><p><strong>Nice to have </strong></p><ul><li>Working knowledge of Python/Django, Go, Rust</li><li>Experience working with cloud-native AWS infrastructure and/or Kubernetes</li></ul></div><div class="content-conclusion"><div><p><strong>Our Benefits and Perks</strong></p><ul><li style="font-weight:400;"><span style="font-weight:400;">Competitive pay and transparent pay bands</span></li><li style="font-weight:400;"><span style="font-weight:400;">Flexible work environment</span></li><ul><li style="font-weight:400;"><span style="font-weight:400;">Unlimited vacation with a minimum required PTO of 10 days annually.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Celebrate your national holidays, </span><span style="text-decoration:underline;"><span style="font-weight:400;">in addition</span></span><span style="font-weight:400;"> to floating holidays, to honor what matters to you, not HQ.</span></li></ul><li style="font-weight:400;"><span style="font-weight:400;">Full benefits (</span><span style="font-weight:400;">vary by location)</span></li><ul><li style="font-weight:400;"><span style="font-weight:400;">Medical, dental, vision</span></li><li style="font-weight:400;"><span style="font-weight:400;">Health Flexible Savings Account (FSA)</span></li><li style="font-weight:400;"><span style="font-weight:400;">Long Term Disability and Life Insurance</span></li><li style="font-weight:400;"><span style="font-weight:400;">Retirement savings (i.e. Traditional and Roth 401(k))</span></li><li style="font-weight:400;"><span style="font-weight:400;">Paid Parental Leave</span></li></ul><li style="font-weight:400;"><span style="font-weight:400;">Generous technology and learning allowances</span></li><ul><li style="font-weight:400;"><span style="font-weight:400;">$5000 first-year budget to spend on your computer, peripherals, office essentials...whatever makes you most efficient and comfortable. You'll receive a $2000 refresh each anniversary.</span></li><li style="font-weight:400;"><span style="font-weight:400;">$1000 budget to spend on learning and development materials, courses or conferences.</span></li></ul></ul><br><p><em><span style="font-weight:400;">Paradigm US is an equal opportunity employer.</span></em></p></div><div> </div><div>#LI-Remote</div></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/bbb3387c55d23977297ed6b23257e5b11662820806.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Medal</h5>
-                    <h3>
-					Senior Backend Engineer				</h3>
-                </td>
-                <td width="300">
-                    <code>frontend, video, api</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/114951" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Medal.tvÂ is one of the fastest-growing consumer applications in gaming! Our users capture and share millions of videos every day. Our mission is to connect people by creating memories while they are physically apart!We're a productive team shipping code to production 20-30 times a week, working on the platform powering all the other teams at Medal. We have a fast feedback loop where code generally hits live users within minutes of a merge. As part of the team, you'll be working with product and frontend teams to ship new features and improvements across all of our features, which includes everything from video processing to social integrations and everything in between, but primarily the API used by the other teams.You'll be part of an experienced engineering team and your work will be used by millions of gamers around the world. You will be working on helping us scale the platform to 100 million users by building features that our creators love.We're a 40+ engineering team spread across US and EU time zones, where everyone works autonomously with the expectation that you can be available for team syncs in the same core hours (9:00 am and 12:00 pm PST).Â We hope to hear from you! When you apply, include some examples of systems you've worked on and a description of your professional experience. If you've done any open source work you can include your GitHub profile, but this is not expected.Benefitsð°Â  Competitive compensation: Our compensation formula adjusts to your cost of living and experience. For this role, the range is $110k â $170k per year.ð¦Â  Competitive stock options: Joining the Medal journey means you can take part of the company upsideð»Â  Technology: Get hooked up with a laptop to do your best work.ðï¸Â  Fully remote work environmentðââï¸Â  Unlimited vacations (4+ weeks standard)ð¤Â  $1k Home office budgetâï¸Â  Team gatherings once we can travel againð¼Â  Paid parental leave: 20 weeks for primary caregiver and 12 weeks for secondaryð¥Â  Full Medical for employee and two dependents (US employees only)ð¥Â  Full Dental and Vision for employee and all dependents (US employees only)ðµÂ  401K (US employees only)ðÂ  All the fun and frolics that come with working for a gaming companyIf you made it all the way here, include âggâ in your note and we will give you a virtual high-five when we talk!
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7038/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> United States
+    <br /><strong>URL:</strong> <a href="https://www.gridium.com/">https://www.gridium.com/</a>
+</p>
+
+<p>Gridium's mission is to hasten the transition to a no-carbon economy. Our software helps people run commercial buildings better, at lower cost and with less energy. Gridium is looking for a backend software engineer to help us bring deep efficiency to the built environment, which is responsible for 40% of the world's energy use.</p>
+<p>We are looking for a US-based software engineer with strong Python experience to develop and scale our data ingestion platform. We ingest the energy and cost data for thousands of buildings from APIs, websites, and other sources. Our stack lives on AWS and includes Python, Aurora (Postgres), Elasticsearch / Kibana, and Selenium. We use flake8, black, and mypy to help us write clean, consistent Python code.</p>
+<p>In this role you will:</p>
+<ul> <li>Dive into the details using Kibana logs, SQL queries, or new tools to diagnose issues with missing or incorrect data, then find and fix the root cause.</li> <li>Write technical specifications for new Python Selenium web scrapers and review code from others to ensure quality and consistency.</li> <li>Write tools, templates, and documentation to simplify and improve our data ingestion processes.</li> </ul>
+<p></p>
+<p><strong>About Gridium</strong></p>
+<p>Gridium is a venture-backed SaaS application provider with a mission to bring cost-effective energy savings to commercial real estate. We are growing faster than ever due to increasing demand for real energy solutions.</p>
+<p>We have been an all-remote company since our founding, and we love the fact that remote work gives us flexibility to balance our roles as employees, parents, family members, or however else we round out our time. </p>
+<p>Of course, spending time face-to-face is important, so every three months we pick a city and meet up for several days of highly productive and highly fun planning and doing. </p>
+<p>We have a casual, collaborative work environment where everyone's ideas matter. Since creative, enthusiastic employees are the basis for our success, we take great care in how we attract, hire, and support our employees.</p>
+<p><strong>And of course</strong></p>
+<p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>
+<p><strong>Requirements</strong></p>
+<p>Candidates must reside in the United States and have the legal right to work in the United States.</p>
+<p>You must have at least 3 years of experience as a member of a professional software development team. This is not an entry-level position. </p>
+<p>You should be self-directed, responsible, and committed to delivering efficient, well-documented, and well-tested code. You should be comfortable analyzing product requirements to produce technical specifications that go beyond coding to cover testing, monitoring, and future maintainability. We need a problem solver who can ask good questions and collaborate effectively with teammates.</p>
+<ul> <li>Drive to fully own the data ingestion process, including developing general solutions and improving internal tools.</li> <li>Strong experience with Python, with an interest in writing clean, readable code.</li> <li>Ability to effectively manage your time and communicate in an all-remote environment</li> <li>Enthusiasm for regular expressions, PDF parsing, and getting the details right.</li> <li>Strong debugging skills and ability to trace issues across multiple systems.</li> <li>Interest in wearing multiple hats and working on a broad range of problems as a member of a small team in a fast-moving environment.</li> <li>Excellent English communication skills.</li> </ul>
+<p><strong>Benefits</strong></p>
+<p>The position comes with salary, stock options, 401(k) match, a great health plan, vision, dental, generous parental leave, and a flexible vacation policy — we want you to take the time off you need so that you are happy and productive.</p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/gridium-backend-engineer-data-ingestion-python-remote-1">https://weworkremotely.com/remote-jobs/gridium-backend-engineer-data-ingestion-python-remote-1</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -85,7 +87,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pspdfkit-web-backend-team-manager" align="right" target="_blank">Apply</a>
@@ -133,7 +135,7 @@
                     <code>AWS,backend,business intelligence,docker</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineering-manager-1368348" align="right" target="_blank">Apply</a>
@@ -226,7 +228,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
