@@ -11,7 +11,7 @@
                     <code>accounting, bookkeeping, lead</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/117002" align="right" target="_blank">Apply</a>
@@ -25,27 +25,59 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/f15ff32d44c081499462c1b4013fb6021663139710.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7016/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Gelato</h5>
-                    <h3>
-					Smart Contract Ethereum Developer				</h3>
+                    <h5>Bottomless</h5>
+                    <h3> Senior Full Stack Developer</h3>
                 </td>
                 <td width="300">
-                    <code>ethereum, developer, crypto</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/117348" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-2" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><strong>Gelato Network </strong>is a protocol that automates smart contract executions on Ethereum. We develop an open-source decentralized network of relay nodes that developers can plug into to create amazing automated dApps for their users.</p><p><br>Join as one of the first employees and work directly with the founders to build the future of Automation for the upcoming decentralized web. Enjoy a lot of perks, travel with us to cool events (after Corona), and participate in amazing off-side retreats with the team!</p><p><br>Participate in creating the most sophisticated crypto bot network ever created by designing the smart contracts that will rule them all!<br><br></p><p><strong>What we offer:</strong><br><br></p><ul><li>Small, fully remote team, with team members in Paris, Berlin & Munich</li><li>Be one of the first employees and work directly with the founders</li><li>Participate in building the infrastructure that aims to become the glue between all crypto networks and power the most promising dApps on Ethereum</li><li>Token Options - Get a share of the networks future token and be able to participate in Gelatoâs upcoming DAO</li><li>Worldclass Investors - We are backed by the community, including industry leading experts such as Gnosis, Christoph Jentzsch, IOSG, Galaxy Digital and the two largest Venture DAOs (The LAO, Metacartel Ventures)</li></ul><p><br></p><p><strong>Requirements:</strong><br><br></p><ul><li>Experience in writing smart contracts in solidity</li><li>Experience with web3 libraries (ethers.js, web3.js)</li><li>Experience with testing your code locally and on ethereum test networks</li><li>You can work with high autonomy</li><li>Strong written and verbal communication skills</li></ul><p><br></p><p><strong>Bonus:</strong><br><br></p><ul><li>Knowledge about the inner workings of the EVM</li><li>Mathematics & Finance Background</li><li>Experience in building and running bots that interact with smart contracts on Ethereum</li><li>Knowledge about Ethereum Client & Mining software</li><li>Front-end experience, building dApps on existing smart contracts</li></ul><p><br></p><p><strong>Technologies we use and teach:</strong><br><br></p><ul><li>Solidity</li><li>Node.js</li><li>Typescript</li><li>Javascript</li><li>Ethers.js / web3.js</li><li>Buidler / Truffle</li><li>React</li></ul>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7016/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Seattle, Wa
+    <br /><strong>URL:</strong> <a href="https://www.bottomless.com/">https://www.bottomless.com/</a>
+</p>
+
+<div>We are a fast-growing startup with a product used by thousands of consumers every day.<br><br>We are looking for a jack-of-all-trades <strong><em>senior</em></strong> javascript/full stack developer.<br><br>The ideal candidate for this position would be able to dive into any kind of project, from frontend UI/UX tasks in React.js to backend tasks running on Node.js.<br><br>If you’re interested in variety and working hard to build something big, this might be a good fit.<br><br>We need to achieve <em>80% of the results with 20% of the effort</em>.<br><br><strong>Responsibilities:</strong>
+</div><ul>
+<li>Design and build infrastructure and products for a sensor-enabled e-commerce marketplace.</li>
+<li>Build robust infrastructure to support existing product lines and the ability to roll out new ones.</li>
+<li>Responsibility over the user-facing product</li>
+<li>Quick iteration on different fronts from fronted UX changes to database design to quick and dirty implementations.</li>
+<li>Responsible for full deployment and testing of applications.</li>
+</ul><div><br></div><div><strong>Skill, Qualifications, and Experience:</strong></div><div><br></div><div><em>Expert proficiency required:</em></div><ul>
+<li>Node.js</li>
+<li>NoSQL databases</li>
+<li>React.js</li>
+<li>English (written and verbal)</li>
+</ul><div><br></div><div><em>Intermediate proficiency, at a minimum:</em></div><ul>
+<li>UI/UX design</li>
+<li>Software architecture</li>
+</ul><div>
+<br>Not required, but a plus:</div><ul>
+<li>Python (background tasks)</li>
+<li>Embedded systems (C++)</li>
+</ul><div> <br><strong>Details:</strong>
+</div><ul>
+<li>Remote OK. Must be flexible with hours as we have a remote international team.</li>
+<li>Competitive equity and cash compensation</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-2">https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-2</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -60,7 +92,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/kratzen-partners-senior-software-developer-web-bots" align="right" target="_blank">Apply</a>
@@ -99,7 +131,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
@@ -140,132 +172,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6961/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Pangolia</h5>
-                    <h3> Remote WordPress Developer for Fast Growing Pet Company</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/pangolia-remote-wordpress-developer-for-fast-growing-pet-company" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6961/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Singapore
-    <br /><strong>URL:</strong> <a href="https://pangolia.com">https://pangolia.com</a>
-</p>
-
-<div>Are you a talented web developer who loves WordPress? And do you get excited about building new features that will be used by millions of pet lovers every month? Then this could very well be the opportunity for you!</div><div>
-<br>We’re Pangolia—one of the fastest-growing pet companies, and we’re on a mission to create the biggest, most helpful pet company in the world. Our biggest sites: PetKeen.com, Hepper.com, and ExcitedCats.com, are visited by millions of pet lovers every month, and we’re undergoing rapid growth.</div><div>
-<br>Our sites are all built on WordPress, and our own cat furniture e-commerce brand: Hepper is running on WooCommerce. In this position you will be working alongside our Lead Developer on building new features and tools that help pet lovers all over the world.</div><div>
-<br>We’re a 100% remote company so you’d have the freedom to work from anywhere. It's a full-time position (40 hours a week), yet you get to plan your own schedule and work whenever you want. You will become an integral member of our team at Pangolia consisting of a diverse group of 95 talented individuals from all over the world, joining us on our united goal of improving the lives of pets and those who care for them. </div><div>
-<br>This is a great opportunity if you’re an amazing developer looking to rapidly grow your skills whilst working alongside peers who are at the top of their field.<br><br>
-</div><div><strong>You will be responsible for</strong></div><ul>
-<li>Developing new tools and software that help millions of pet lovers every month (could for example be to develop a Puppy Weight Chart Tool / Calculator that helps pet owners predict how fast, and how big their dog will grow)</li>
-<li>Developing, testing, and maintaining new features and solutions for our WordPress sites for desktop and mobile browsers that are optimized for high traffic</li>
-<li>Optimize our websites for mobile users</li>
-<li>Create, review, and update technical documentation</li>
-<li>Contributing to our development processes, QA procedures, and technical planning</li>
-<li>Communicating and supporting our content and marketing departments with dev/IT requests, troubleshooting, fixing bugs</li>
-<li>Performing scheduled and non-scheduled maintenance and security updates on our WordPress sites</li>
-<li>Securing and protecting our WordPress sites from hackers and malware, as well as eliminating risks</li>
-<li>Ensuring that our servers and content delivery network (CDN) are stable enough to handle millions of users</li>
-<li>Improve our team’s IT infrastructure</li>
-<li>Keep apprised of relevant new technology and best practices</li>
-</ul><div><strong>You are expected to have:</strong></div><ul>
-<li>Experience with HTML, CSS, JavaScript/jQuery</li>
-<li>Experience with PHP (7.4/8) and object-oriented programming (OOP)</li>
-<li>Experience with MySQL and managing databases</li>
-<li>Experience with WordPress development (eg themes, hooks, filters, plugin API, etc)</li>
-<li>Experience with build tools like Webpack or ViteJS</li>
-<li>Experience with Composer and basic understanding of autoloading, dependency management, and dependency injection</li>
-<li>Experience with SSH and comfortable with basic terminal usage</li>
-<li>Experience with Git (and GitHub) </li>
-<li>Experience with TailwindCSS &amp; PostCSS</li>
-<li>Troubleshooting abilities (ie include finding CSS and JavaScript conflicts using browser developer tools, navigating codebases in theme and plugins, and determining whether a plugin or theme code could be causing a code conflict)</li>
-<li>The ability to take a project on your own and get it done before the deadline</li>
-<li>The ability to communicate well as we work remote (most of our communication is written in Slack with occasional calls)</li>
-</ul><div><strong>It would be nice if you have:</strong></div><ul>
-<li>Experience creating custom Elementor widgets</li>
-<li>Experience with Docker and<a href="http://ddev.com">DDev.com</a> for local development</li>
-<li>Experience with WP CLI, WP REST API, and WP cron jobs</li>
-<li>Experience with CDNs/Cloudflare </li>
-<li>Experience with unit testing</li>
-<li> Good understanding of website architecture, aesthetics and UI/UX best practices</li>
-<li>Understanding of basic principles behind technical SEO and performance optimization</li>
-<li>We would appreciate it if you could work with PHPStorm so that we can use their collaborative features and have some consistency in our development processes. However, if you prefer and work better with another IDE or coding tool, that's fine! Either way, we will pay for your license.</li>
-</ul><div><strong>Type of person we would love for this role</strong></div><ul>
-<li>You're a dependable, friendly communicator</li>
-<li>You’re passionate about solving problems with smart and elegant programming solutions. Your code is clean, understandable, and well commented</li>
-<li>You’re a self-starter who loves taking initiative and seeing things through to completion.</li>
-<li>You have the curiosity and desire to learn and grow your skills and discover new modern practices and follow the latest trends in WordPress</li>
-<li>You take pride in the quality and craftsmanship of your work rather than just doing it to get it done but you are also able to balance it with not overdoing your work and being able to move and work fast</li>
-<li>You’re able to juggle around and work on different projects and side tasks on a weekly basis. While we wish we could focus on one thing for weeks at a time to make it perfect, that’s often not the reality in a competitive market.</li>
-</ul><div><strong>Benefits/Perks</strong></div><ul>
-<li>Work from anywhere (we’re 100% remote)</li>
-<li>Flexible work hours, you get to plan your own schedule and work whenever you want</li>
-<li>Developer Growth. <ul>
-<li>You work with modern practices and you gain valuable experience with high-traffic sites</li>
-<li>We value self-improvement. We cover expenses for books and work-related courses</li>
-<li>We're open to changes, you have a voice in how things get done</li>
-</ul>
-</li>
-<li>Your monthly pay is paid biweekly (You’re paid every two weeks)</li>
-<li>We'll pay for all your software needs that relate to your work (IDE/Coding tools, SnagIt, VPN, etc.). Usually, we provide license (serial) keys. </li>
-<li>We cover 100% of your home internet bill.</li>
-<li>We encourage you to find a working environment that suits your needs the best if working from home every single day isn’t for you.<ul>
-<li>We’ll cover monthly membership and/or day passes for co-working spaces </li>
-<li>We’ll cover all your coffee purchases for the day in coffee shops</li>
-<li>We give you a day off for your birthday! You get to stay in bed or hang with loved ones.</li>
-</ul>
-</li>
-<li>Paid company retreats</li>
-<li>21 days of paid time off every year</li>
-<li>Your work with a great, talented team that produces a high-growth work environment (we move fast)</li>
-<li>Opportunity to move up in the company, and earn higher pay and bonuses</li>
-</ul><div><strong>A typical workweek (example)</strong></div><ul>
-<li>Every Monday, we have a one-on-one Zoom meeting to discuss our goals, whether you are meeting your goals, what went well, what did not go well, and so on.</li>
-<li>You have one or multiple projects to complete. You can work on them whenever and however you want without being micromanaged. However, you must be able to meet the deadline and be accountable for the quality of the end solution.<ul><li>You’re also responsible for maintaining the Github repository of the project you’re working on, committing/pushing/documenting your changes, commenting on your code, and writing SOPs or technical documentation (if necessary). It doesn’t have to be pages long and can be very short and concise. But, as a developer, it makes life so much easier if you can return to your code in the future without having to think too hard about what you did. This is also about being considerate of your teammates' time.</li></ul>
-</li>
-<li>There must be some overlap in our working hours so you can respond to urgent requests (if any) or chat with your manager or any of our departments on demand if they have an IT question. This means that some extra tasks may arise during the week.<ul>
-<li>You might have a day where one of our team members needs something urgent and needs it done the same or the next day, which can be valuable to the company, or a major issue needs to be fixed ASAP, in which case you might have to drop what you're working on and work on that or troubleshoot the entire day. If your main project's deadline cannot be met because of this (which is understandable), you should be able to communicate this on time.</li>
-<li>However, most of the time you are able to work on your main projects in solitary. We understand that developers need complete focus. You can also chat and ask questions in our Slack channels.</li>
-</ul>
-</li>
-<li>You might get stuck in programming and need help, or some development processes may need to be explained. If it cannot be explained/resolved via chat or video, screen-sharing calls can be scheduled throughout the week.</li>
-</ul><div><br></div><div><strong>The team (and our work culture)</strong></div><div>You’ll get to be part of a 100% remote company consisting of a diverse group of 95 talented individuals from all over the world. The people you will find on the team are veterinarians, marketers, content writers, editors, social media managers, graphics designers, content managers, and a lot more.<br><br>
-</div><div>And you’ll get to join us on our united mission of improving the lives of pets and those who care for them. We dream big, and our vision is to become the biggest, most helpful pet company in the world.</div><div>
-<br>You’ll get to be part of a company that’s undergoing hyper-growth, and the fast-paced work environment that comes with it. </div><div>
-<br>And we’ve managed to grow at a healthy pace without ever sacrificing our culture and values.<br><br>
-</div><div>Our company culture is focused on work and collaboration, but also while being open to the casual humor and chatter that makes us get to know each other.<br><br>
-</div><div>We work hard, and you may have to work on the weekend every now and then if you have a lot on your plate. However, we have a huge understanding of the importance of time off, and we encourage each other to take time off.<br><br>
-</div><div>A lot of us love traveling, and therefore, we plan on doing yearly company retreats, where we all meet up together and have fun.</div><div>
-<br>We value the freedom of being able to work from anywhere, trust, and collaboration.<br><br>
-</div><div><strong>How to Apply for this Position</strong></div><ol>
-<li>You apply by completing this form, which will ask you a series of questions: <a href="https://forms.gle/jXsVzCPAE9uzvK5R8">https://forms.gle/jXsVzCPAE9uzvK5R8</a>
-</li>
-<li>If we think you’d be a good fit for this role then we'd like to provide you an assignment that mimics an internal project as the following phase. You'll have the chance to demonstrate your abilities and have a better understanding of what to anticipate. This is a paid assignment for which you will be compensated hourly based on your expected salary for the position.</li>
-<li>If there is a match, you will be invited to an interview where we will discuss the job, the company, and you’ll have the chance to ask any questions you may have.</li>
-<li>If this goes well, we'll hire you! We begin with a trial period to allow you and the rest of the team to fully evaluate how we collaborate, followed by a final review and confirmation.</li>
-</ol>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pangolia-remote-wordpress-developer-for-fast-growing-pet-company">https://weworkremotely.com/remote-jobs/pangolia-remote-wordpress-developer-for-fast-growing-pet-company</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6914/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -276,7 +182,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -350,7 +256,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/postpilot-senior-ruby-rails-developer-2" align="right" target="_blank">Apply</a>
@@ -393,138 +299,116 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/0156/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/5800/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Toptal</h5>
-                    <h3> Senior Back-End Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>62 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/toptal-senior-back-end-developer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0067/0156/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong>  Wilmington, DE
-    <br /><strong>URL:</strong> <a href="https://www.toptal.com/">https://www.toptal.com/</a>
-</p>
-
-<div><strong><em>Design your full-time freelance career as a top freelance developer with Toptal. </em></strong></div><div><br></div><div>Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. </div><div><br></div><div>Toptal is an elite talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere.<strong> Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </strong>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. </div><div><br></div><div>As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. </div><div><br></div><div>That’s why the world’s top 3% of developers choose Toptal. Developers in our elite network share:</div><ul>
-<li>English language proficiency</li>
-<li>3+ years of professional experience in Back-End Development</li>
-<li>Solid experience in Ruby on Rails or/and Node.js is a strong advantage</li>
-<li>Project management skills</li>
-<li>A keen attention to detail</li>
-<li>Experience with system architecture or leading a software team is a strong advantage</li>
-<li>Full-time availability is a strong advantage<br><br>
-</li>
-</ul><div><br></div><div>Curious to know how much you could make? Check out our developer rate calculator: <a href="https://topt.al/vqcdQ8">https://topt.al/vqcdQ8</a>
-</div><div>
-<br>If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/rGc2aB"><strong>https://topt.al/rGc2aB</strong></a>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toptal-senior-back-end-developer-1">https://weworkremotely.com/remote-jobs/toptal-senior-back-end-developer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/4964/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>mtc.</h5>
-                    <h3> PHP Backend Developer Remote</h3>
+                    <h5>CVEDIA</h5>
+                    <h3> Senior C++ Developer - Remote - EU Time Zone</h3>
                 </td>
                 <td width="300">
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>62 days ago</text>
+                <text>90 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/4964/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0018/5800/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Dundee, UK
-    <br /><strong>URL:</strong> <a href="https://www.mtc.co.uk">https://www.mtc.co.uk</a>
+  <strong>Headquarters:</strong> London - UK
+    <br /><strong>URL:</strong> <a href="https://www.cvedia.com/">https://www.cvedia.com/</a>
 </p>
 
-<div>We are currently looking for experienced <strong>Remote</strong> <strong>PHP Backend Web Developers.<br></strong><br>
+<div>
+<br>About CVEDIA<br><br>
+</div><div>CVEDIA is an AI company that develops deep learning solutions for some of the world's largest organizations to solve real-world problems and improve our world and the lives of people for the years to come.<br><br>
+</div><div>Our computer vision runtime engine CVEDIA-RT is a unique software that simplifies designing, testing, and deploying AI solutions on Cloud and on Edge devices without worrying about system details.<br>CVEDIA-RT runs our AI models, created using synthetic data, which are suitable for many different applications and use-cases like perimeter security, intelligent traffic systems, home security, drone detection, and many more.<br><br>
 </div><div>
-<strong><br>Role Description:<br></strong><br>
-</div><div>• create technical specifications from business requirements<br>• develop websites in a team together with a project manager, designer, and a frontend developer<br>• develop new features and reusable components<br>• communicate with the client when required<br>• independently develop new features and resolve issues for existing websites<br>• optionally contribute and maintain our internal codebase and tools<br><br>
-</div><div><strong>Tech Stack:</strong></div><div>
-<br>On <strong>LAMP</strong> architecture choose to be a <strong>General PHP Backend Web Developer</strong> or if you have relevant experience - specialize in one of the below</div><div>
-<br>• <strong>mtc. Core</strong> - Custom, Laravel flavoured mtc. framework<br>• <strong>Shopify<br>• Magento 2<br>• WordPress<br>• Big Commerce<br></strong><br>
-</div><div><strong><br>Requirements:</strong></div><ul>
-<li>4-5 year web development work experience</li>
-<li>Fluent English (written &amp; verbal)</li>
-<li>Experience with modern and legacy code, SQL databases, and Linux CLI.</li>
-</ul><div><br></div><div><strong>We consider it a plus if you have experience in:</strong></div><div>
-<br>• Vue.js</div><div>
-<strong><br>We offer<br></strong><br>
-</div><div>• Salary range 2300 - 3500 EUR / month before taxes<br>• 37.5h work week<br>• 31 - 37 holidays per year<br>• Flexible &amp; cross-departmental career progression opportunities<br>• Ability to work from home or one of our offices<br>• Ability to choose your own start time<br>• Interesting and diverse projects<br>• An option to travel to meet the other teams<br>• Quarterly events at our offices and an annual Christmas party<br>• International contacts and experience<br> <br><strong>Send CV to jobs@mtc.co.uk with subject: WWRBD1 {Name Surname}</strong><br><br>The salary displayed is negotiable and depends on experience.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote">https://weworkremotely.com/remote-jobs/mtc-php-backend-developer-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/1384/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Groove</h5>
-                    <h3> Senior Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>121 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/groove-senior-full-stack-developer-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/1384/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Newport, RI
-    <br /><strong>URL:</strong> <a href="https://groovehq.com">https://groovehq.com</a>
-</p>
-
-<div>Groove is looking for a very senior full-stack developer to help us accelerate our pursuit of building the best damn customer support tools on the planet. <br><br>You may have heard of us from our <a href="https://www.groovehq.com/top-posts">Journey to 500K blog</a> or from seeing us in places like NY Times, BBC, Forbes, Entrepreneur, Hacker News or elsewhere around the web. <br><br>This gig is not for the unseasoned. We need someone who's been in the trenches and helped grow a B2B SaaS company. A coder and a leader, who can hack with the best of them, and has an appreciation for good design and usability. A craftsman with the fire to help us execute on our product roadmap and move us along on our journey to 10MM in ARR. We've got a tight, scrappy team of former CTOs and founders working to make our app simpler, stronger and better. <br><br>We've put the time into talking with our customers and hitting product/market fit, and and need your help to step on the gas.<br><strong><br>From the technical side, here's what you'll need to know:</strong>
+<br>About you<br><br>
+</div><div>
+<strong>We are looking for C++ Developers to extend and improve our core product CVEDIA-RT and implement the runtime solutions for customer-specific projects.<br></strong><br>
+</div><div>In this role, you will be able to work with exceptionally talented and driven individuals who are all making a massive impact on our business.<br><br>
+</div><div>Everyone here drives their own ideas all the way from start to finish, everyone is given an equal opportunity to flourish and see the fruits of their labor.<br><br>
+</div><div>For this position, we’re currently only accepting applicants in European countries.<br><br>
+</div><div>
+<br>Responsibilities<br><br>
 </div><ul>
-<li>Ruby (with and without Rails)  </li>
-<li>Expert knowledge of Javascript </li>
-<li>In-depth knowledge of React, Redux and GraphQL</li>
-<li>Deep understanding of HTML and CSS</li>
-<li>Proficient understanding of git</li>
-<li>Location: US or EU</li>
-</ul><div>Experience working remotely is the only other requirement. You’ll be joining a completely remote team that knows how hackers work best. Meetings are kept to a minimum and everyone is left to get things done. Familiarity with Slack is a plus, and advanced-level Giphy skills will take you far.<br><br>If you’ve helped a fast-moving team win before and are ready to do it again, we want you on board. Our work impacts thousands of businesses around the globe, and we have our sights (very publicly) set on massive growth goals. If you think you can help us get there and are ready to join the family, email us at wewantyou@groovehq.com.<br><br>
-</div>
+<li>Take on the challenge to improve the features of CVEDIA-RT.</li>
+<li>Manage and implement customer-specific solutions using LUA scripting.</li>
+<li>Participate and contribute to improving the entire production pipeline: software design, implementation, tests, documentation, release cycle, etc.</li>
+<li>Collaborate with the AI team to discuss and plan new features and improvements.</li>
+<li>Self-manage your work by proposing solutions, reporting progress, and promoting an active collaboration with other team members.</li>
+</ul><div>
+<br>Requirements<br><br>
+</div><ul>
+<li>Very good English verbal and written communication skills.</li>
+<li>Very good time management and organizational skills, and attention to detail.</li>
+<li>Great problem-solving skills paired with the ability to present and discuss ideas and solutions.</li>
+<li>5+ years of experience in C++. It would be great if you have been already working in these contexts:<ul>
+<li>Windows and Linux</li>
+<li>Computer vision</li>
+<li>Tracking algorithms</li>
+<li>CUDA</li>
+<li>OpenCV</li>
+<li>Embedded systems</li>
+</ul>
+</li>
+<li>Experience in object-oriented design and test-driven development.</li>
+<li>Experience with GIT</li>
+</ul><div><br></div><div>
+<br>Considered a plus<br><br>
+</div><ul>
+<li>Experience in leading projects and interacting with customers</li>
+<li>Experience in LUA scripting</li>
+<li>Experience with CI/CD tools</li>
+<li>Experience in neural networks and computer vision</li>
+</ul><div>
+<br><br>
+</div><div><br></div><div>
+<br>Perks and Benefits<br><br>
+</div><div>🌴VACATION TIME<br><br>
+</div><div>CVEDIA offers 4 weeks of paid vacation time per year, plus local holidays and paid sick days.<br><br>
+</div><div>🍸PERSONAL DAYS<br><br>
+</div><div>On top of the paid vacation time and local holidays, CVEDIA offers the opportunity to take up to one paid day off per week for personal reasons, as far as it's not impacting the deadlines and productivity of other team members. Work smarter, not harder!<br><br>
+</div><div>🕒FLEXIBLE WORK HOURS<br><br>
+</div><div>We focus on making your personal life as much of a priority as work is - we're focused on making the two compatible. Work with us to define your needs.<br><br>
+</div><div>🥳COMPANY RETREATS<br><br>
+</div><div>Our team goes on an all-expenses-paid trip every year simply to socialize. We're planning for Italy next year!<br><br>
+</div><div>🌍100% REMOTE TEAM<br><br>
+</div><div>Our team is global and located in 15+ countries across North America and the EU. Work from wherever you have a good internet connection!<br><br>
+</div><div>🔍IMPROVEMENT-FOCUSED<br><br>
+</div><div>Our operations and management team focus on consistently improving CVEDIA through feedback. No feedback is left unattended - our employees are instrumental in shaping our company.<br><br>
+</div><div>💰COMPETITIVE SALARY<br><br>
+</div><div>Our salaries are competitive and based on experience!<br><br>
+</div><div>📈STOCK OPTIONS<br><br>
+</div><div>All CVEDIA employees receive company stock options - so if the company does well, we all do well.<br><br>
+</div><div>
+<br><br>
+</div><div>
+<br>Our Values<br><br>
+</div><div>PASSION<br><br>
+</div><div>We need both energy and passion to develop cutting-edge AI. To succeed at CVEDIA, you’ll need to have a strong investment in both your career and the role of AI in the future of the planet.<br><br>
+</div><div>COMMITMENT<br><br>
+</div><div>CVEDIA has the opposite of a 'quick-n-dirty' mentality. Every aspect of our technology has been meticulously built and is always the product of very hard work.<br><br>
+</div><div>AUTONOMY<br><br>
+</div><div>Carrying confidence in the work we do individually is required to work at the pace that we do as a team. Academic research, tutorials, and even creating our own solutions with the tools we have are all on the board during a regular day's work.<br><br>
+</div><div>JOY<br><br>
+</div><div>It's one of our greatest strengths to bring excitement to our workplace. We carry this energy into meetings, project planning, and our dedication to our work, and focus on work that feels meaningful.<br><br>
+</div><div>COMMUNICATION<br><br>
+</div><div>Honest discussions are imperative to the flow of work and ideas. Team members need to be able to effectively communicate complex ideas to those who don’t work in their field. It's a regular occurrence to discuss plans and ideas with any team member on the fly spontaneously, including our CEO or CTO. Each team member is respected equally and acts as a valuable contributor.<br><br>
+</div><div>RESPECT<br><br>
+</div><div>Anti-discriminatory company culture – we won’t discount you for things like age, ethnicity, or gender.<br><br>
+</div><div>
+<br><br>
+</div><div><br></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/groove-senior-full-stack-developer-3">https://weworkremotely.com/remote-jobs/groove-senior-full-stack-developer-3</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone">https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone</a></p>
 
                 </details>
                 </td>
@@ -540,7 +424,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>873 days ago</text>
+                <text>874 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/g2i-inc-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -588,7 +472,7 @@
                     <code>api,CSS,developer,docker</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
@@ -689,7 +573,7 @@
                     <code>AWS,cloud,CSS,developer</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1393221" align="right" target="_blank">Apply</a>
@@ -714,7 +598,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -791,7 +675,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -868,7 +752,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -893,7 +777,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -918,7 +802,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -943,7 +827,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -968,7 +852,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -993,7 +877,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -1018,7 +902,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
@@ -1043,7 +927,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -1090,7 +974,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
