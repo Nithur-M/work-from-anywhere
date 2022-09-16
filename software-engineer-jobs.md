@@ -10,7 +10,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -72,7 +72,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -126,6 +126,43 @@
 <li>Machine learning or data science experience</li>
 </ul>
 <img src="https://remotive.com/job/track/1187416/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/09/ETHGlobal.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ETHGlobal</h5>
+                    <h3>Software Engineering Intern</h3>
+                </td>
+                <td width="300">
+                    <code>Internship</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J118174/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                ETHGlobal is growing the most valuable developer community in web3. We're a small team and we’re looking for passionate engineers to join us. We work closely with organizations like the Ethereum Foundation, IPFS, Uniswap, Polygon, Hack the North and  …
+ETHGlobal is growing the most valuable developer community in web3. We're a small team and we’re looking for passionate engineers to join us. We work closely with organizations like the Ethereum Foundation, IPFS, Uniswap, Polygon, Hack the North and more.We’re building products and protocols for developers to help them learn smart contract development, creating new infrastructure, and managing payments at scale.<br/>As the usage of blockchain technology grows, the world is going to need more talented engineers, designers, and product leaders to build the future that blockchain technology is promising. We work with exactly these kinds of people every single day through the products we organize for our community. By focusing on this community, we think we can accelerate the transition to enabling more open, decentralized, and fundamentally ground-breaking systems.<br/>If you’re curious about web3 &amp; crypto you can have a major impact on how fellow developers learn and grow in this industry! You would be a successful candidate if you are self-motivated, have a sense of urgency, like getting things done, and are committed to learning more about engineering and the exciting world of web3.
+<h3>You will</h3>
+<ul>
+<li>Work closely with Engineering, Partnerships, and Leadership teams to build new ETHGlobal products</li><li>Contribute to our new educational product — <a>guides.ethglobal.com</a></li><li>Engage and educate the web3 community, from users to contributors</li><li>Build integrations with third-party APIs and tools we use to manage events</li><li>Build experiences around integrating with web3 wallets and protocols</li><li>Contribute to infrastructure to test, deploy and run systems that power ETHGlobal products</li><li>Develop high-quality, performant, modern, clean and readable code</li><li>Implement functional UI elements from design mocks, with an eye toward performance and accessibility</li></ul>
+<h3>You may be a fit for this role if you </h3>
+<ul>
+<li>Are currently enrolled in a Bachelor’s, Master’s, or PhD in computer science, software engineering, mathematics or a related discipline</li><li>Have prior programming experience shipping products – we work mostly with TypeScript, React, NextJS, GraphQL, Python</li><li>Knowledge of SQL and relational databases – we use PostgresSQL</li><li>Familiarity with Vercel, Google Cloud Compute or Kubernetes is a bonus</li><li>Excellent communication skills on both technical and non-technical issues</li><li>You're excited about difficult challenges and getting things done from start to finish</li><li>You’re a self-motivated learner – take initiative to learn the unknown &amp; share new understanding for yourself and your peers</li><li>You believe shipped is better than perfect – ship early and often</li><li>You thrive on feedback from your peers and are constantly looking to improve</li><li>No prior knowledge of web3 required — experience with web3, ethers, truffle/foundry/hardhat is a plus</li><li>Have a strong desire to keep up with modern best practices in web development</li><li>Want to join a fast-paced, early-stage organization, where you can have a direct impact on the organization’s objectives and ship things to prod which are used by people from 80+ countries</li></ul>
+<h3>You're interested in </h3>
+<ul>
+<li>A co-op or internship position</li><li>Fully remote work environment</li><li>NFTs, DAOs and all things at the cutting edge of web3</li><li>Occasionally travelling to international locations for physical weekend hackathons (e.g., Bogota, San Francisco, or other major cities across the world)</li></ul>
+<h3>Perks</h3>
+<ul>
+<li>Competitive salary (option to be paid in cryptocurrency)</li><li>Flexible vacation and remote work policy</li><li>Additional remote-work benefits</li></ul>At ETHGlobal, we're looking for people with passion, grit, and integrity. You're encouraged to apply even if your experience doesn't precisely match the job description. Your skills and passion will stand out—and set you apart—especially if your career has taken some extraordinary twists and turns.
                 </details>
                 </td>
             </tr></table>
