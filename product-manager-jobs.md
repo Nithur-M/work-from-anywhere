@@ -1,105 +1,5 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1354422/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Graphitehq</h5>
-                    <h3>Technical Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>api,cloud,machine learning,marketing</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/technical-product-manager-1354422" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p dir="ltr">Graphite is a boutique digital marketing firm that builds scalable growth engines for consumer technology companies such as Ticketmaster, MasterClass, BetterUp, and Honey. We specialize in search engine optimization (SEO), content strategy, mobile app growth, and conversion optimization. We are a fully distributed team that is dedicated to creating an environment where you do the best work of your career. With headquarters in San Francisco and team members across North America, Latin America, Europe, and Asia, we are ready to welcome our next team member!</p>
-<p dir="ltr">Graphite is innovating in a highly technical space, so we are looking for a Technical Product Manager that can help lead multiple projects at the core of our offerings. This Product Manager will be collaborating closely with the AI and Machine Learning teams to collect data, organize it, and build models that will be leveraged across our suite of products. At the same time, this Product Manager will lead the charge to build our infrastructure products, which are expected to expand as we gain market share. This role requires a high level of technical understanding, from how the web works, to how to collect data at scale and deliver APIs for our clients. This is a fully remote job opportunity.</p>
-<p dir="ltr"> </p>
-<p dir="ltr"><strong>Responsibilities:</strong></p>
-<ul>
-<li dir="ltr">
-<p dir="ltr">Owning the infrastructure and data-intensive products. This includes but is not limited to our Internal Links API product.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Work closely with technical end-users to ensure execution of a premium product.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Clearly communicate product ideas, user value, and benefits to our users and internal partners.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Proactively identify product risks and mitigate inter-project and inter-team issues.</p>
-</li>
-</ul>
-<ul>
-<li dir="ltr">
-<p dir="ltr">Write specs, work cross-functionally with the AI and engineering teams, launch features, analyze results, synthesize insights, and iterate.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Measure success using version tests to drive up conversion, revenue, retention, and customer happiness.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Present clear measurable objectives that will lead to achieving business goals.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Execute cross-functional projects from kickoff to completion. To include: initiating, planning, scheduling, forecasting, budgeting, and coordinating all activities while working to ensure project deliverables are on track, on time, and in scope.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Act as a key liaison between our internal development team and business stakeholders, own communication &amp; reporting on product status, deliverables, key decisions, and action items.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Support the spirit of continuous improvement by developing processes, frameworks and best practices that enable the product team to operate with greater predictability, visibility, and efficiency.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Manage and report on budget adherence, performance trends, product progress, and stakeholder happiness to senior management.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Mentor and develop other members of the product team as we grow and scale.</p>
-</li>
-</ul>
-<p><strong>Required:</strong></p>
-<p dir="ltr"><strong>Professional</strong></p>
-<ul>
-<li dir="ltr">
-<p dir="ltr">Bachelor’s degree in Engineering, Computer Science or equivalent related professional experience building and shipping technical products.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">4+ years of product management experience in a technical, data-oriented environment or equivalent experience.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Excellent working knowledge of technical products, web architecture, and APIs.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Experience managing day-to-day technical and design direction.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Ability to partner effectively with cross-functional geographically disparate teams</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Ability to manage nearshore and offshore remote teams.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">You will be very collaborative partnering closely with our engineering and AI teams to find effective solutions to address customer needs.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Proven track record managing multiple project deadlines in a cross-functional environment.</p>
-</li>
-<li dir="ltr">
-<p dir="ltr">Nice to have: working knowledge of web crawling and scraping, Python, and cloud services.</p>
-</li>
-</ul>
-<div> </div>
-<img src="https://remotive.com/job/track/1354422/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1388899/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -110,7 +10,7 @@
                     <code>ecommerce,education,marketing,product manager</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-b2c-1388899" align="right" target="_blank">Apply</a>
@@ -172,11 +72,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/09/NateraGenetics.png" width="38px" height="auto">
+                    <img src="https://freshremote.work/media/company/logo/22/02/happymoney.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Natera</h5>
-                    <h3>Senior Product Manager, Platform</h3>
+                    <h5>Happy Money</h5>
+                    <h3>Staff Product Manager, Marketplace</h3>
                 </td>
                 <td width="300">
                     <code>Full Time</code>
@@ -185,102 +85,51 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J118188/" align="right" target="_blank">Apply</a>
+                <a href="https://freshremote.work/J118683/" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                Successful applicants for this position must be fully vaccinated against COVID-19 as a condition of employment. Vaccine verification will be required.Position Summary
-As part of the digital product management group, the Senior Product Manager, Platfo …
-<p><em><strong>Successful applicants for this position must be fully vaccinated against COVID-19 as a condition of employment. Vaccine verification will be required.</strong></em></p><p>Position Summary</p>
-<p>As part of the digital product management group, the Senior Product Manager, Platform will be responsible for defining and leading initiatives for our shared services platform.    </p>
-<p>In this role,  you will own the roadmap planning, implementation and delivery of several platform services which are leveraged by a broad range of applications, multiple teams and spanning multiple business lines.    You will partner with a team of product managers, engineering, architects and others to define new capabilities and support cross-business unit initiatives and platform enhancements.  You will work closely and build technical alignment across multiple teams to enable a solid platform foundation and scalable system integrations. </p>
-<p>The ideal candidate will be someone who can navigate a fast paced environment while demonstrating strong analytical and technical skills. </p>
-<p>Primary Responsibilities</p>
+                ABOUT HAPPY MONEY Happy Money is a financial technology company on a mission to develop and deliver affordable, accessible financial tools and services that empower people to use money as a tool for their happiness. Members benefit from loans funded  …
+ABOUT HAPPY MONEY <br/>Happy Money is a financial technology company on a mission to develop and deliver affordable, accessible financial tools and services that empower people to use money as a tool for their happiness. Members benefit from loans funded by a national network of customer-focused lending partners and designed to help them accomplish their goals. <br/>Backed by leading investors, Happy Money has helped nearly 205,000 members since inception – working with lending partners to fund over $3.7 billion in loans*. Founded in 2009, Happy Money has a passionate and purpose-driven employee base of approximately 400 people across the United States. For more information, please visit <a>happymoney.com</a>. <br/>*As of 12/31/2021<br/><br/>About the roleAt Happy Money, we're on a mission to transform people's relationships with their money by helping borrowers become savers. Our core product, <a>Payoff.com</a>, has helped hundreds of thousands of people get out of their spiraling credit card debt and on the path to saving. We value love, trust, and hustle.<br/>Happy Money is looking for a Staff Product Manager to lead our new Marketplace product called Hive by Happy Money. This future strategic flagship product allows credit unions to discover and trade different loan types as well as optimize their overall balance sheet. In this role you will be critical to defining our product vision and strategy, collaborating with UX design, engineering, business development, and partners team as well as other product managers to drive execution of the Go-to-market phase and then scale fast.
+<h3>You Will</h3>
 <ul>
-<li>
-<p>Partner with internal stakeholders (including but not limited to other product managers and engineering teams) to manage the shared services from the strategic planning to tactical implementation plans</p>
-</li>
-<li>
-<p>Collaborate with multiple engineering teams to define scope, detailed requirements and system design for each platform component</p>
-</li>
-<li>
-<p>Own the product roadmap, definition and its execution </p>
-</li>
-<li>
-<p>Manage the backlog of requests and features and prioritize it accordingly</p>
-</li>
-<li>
-<p>Accountable for high quality, solid documentation of APIs, functional and technical requirements</p>
-</li>
-<li>
-<p>Maintain a documentation library of requirements, API catalogs and product performance KPIs/metrics  and update as required</p>
-</li>
-<li>
-<p>Participate / Facilitate scrum ceremonies and help define technical solutions with on-shore and off-shore scrum teams</p>
-</li>
-<li>
-<p>Analyze relevant data to drive decision-making and inform future roadmaps</p>
-</li>
-<li>
-<p>Establish key processes to increase team velocity </p>
-</li>
-<li>
-<p>Partner with QA teams to align on quality benchmarks</p>
-</li>
-</ul>
-<p>Qualifications</p>
+<li>Be the subject matter expert on marketplace products </li><li>Be the subject matter expert on trading and pricing between credit unions</li><li>Partner with engineering and risk in defining what portfolio optimization means in the context of Credit Unions</li><li>Refine the product vision, strategy, metrics, and goals for Hive</li><li>Define and deliver compelling product roadmaps based on partner and internal needs, as well as strategic opportunities</li><li>Build alignment across cross-functional teams through clear communication and strategic influence</li><li>Partner with functions across the company (Engineering and Design, Sales, Marketing, Operations, Risk) to execute the plan</li><li>Connect the dots across experiences and teams to create a sticky experience for our credit union partners</li><li>Help implement best-in-class product development and management practices</li><li>Communicate concisely and influence outcomes</li><li>Mentor junior product managers in your area of expertise</li></ul>
+<h3>About You</h3>
 <ul>
-<li>
-<p>Bachelors in Computer Science or related field</p>
-</li>
-<li>
-<p>5+ years of experience in platform or API product management</p>
-</li>
-<li>
-<p>Validated experience in the development of highly performing backend applications and API design, web services technologies and application ecosystems</p>
-</li>
-<li>
-<p>Proven track record of launching common components for internal consumption</p>
-</li>
-<li>
-<p>Experience with Lean-Agile principles / Devops environment</p>
-</li>
-<li>
-<p>Prior experience leading and influencing remote engineering teams</p>
-</li>
-<li>
-<p>Excellent verbal and written communication skills</p>
-</li>
-<li>
-<p>Proven ability to work and influence cross functional teams; effective at building rapport with key stakeholders</p>
-</li>
-<li>
-<p>Excellent communication, presentation, and relationship-building skills.</p>
-</li>
-<li>
-<p>Flexible, and agile; willingness to tackle any type of challenge; highly motivated to roll up sleeves and get work done while also thinking strategically</p>
-</li>
-<li>
-<p>Experience working in an agile development environment</p>
-</li>
-</ul>
-<p>#LI-Remote</p>
-<p>#LI-JR1</p><p><strong>PHYSICAL DEMANDS &amp; WORK ENVIRONMENT</strong></p>
-<p>Duties are typically performed in an office setting. This position requires the ability to use a computer keyboard, communicate over the telephone and read printed material.</p>
-<p><strong>OUR OPPORTUNITY</strong></p>
-<p>Natera™ is a global leader in cell-free DNA (cfDNA) testing, dedicated to oncology, women’s health, and organ health. Our aim is to make personalized genetic testing and diagnostics part of the standard of care to protect health and enable earlier and more targeted interventions that lead to longer, healthier lives.</p>
-<p>The Natera team consists of highly dedicated statisticians, geneticists, doctors, laboratory scientists, business professionals, software engineers and many other professionals from world-class institutions, who care deeply for our work and each other. When you join Natera, you’ll work hard and grow quickly. Working alongside the elite of the industry, you’ll be stretched and challenged, and take pride in being part of a company that is changing the landscape of genetic disease management.</p>
-<p><strong>WHAT WE OFFER</strong></p>
-<p>Competitive Benefits - Employee benefits include comprehensive medical, dental, vision, life and disability plans for eligible employees and their dependents. Additionally, Natera employees and their immediate families receive free testing in addition to fertility care benefits. Other benefits include pregnancy and baby bonding leave, 401k benefits, commuter benefits and much more. We also offer a generous employee referral program!</p>
-<p>For more information, visit <a>www.natera.com</a>.</p>
-<p>Natera is proud to be an Equal Opportunity Employer. We are committed to ensuring a diverse and inclusive workplace environment, and welcome people of different backgrounds, experiences, abilities and perspectives. Inclusive collaboration benefits our employees, our community and our patients, and is critical to our mission of changing the management of disease worldwide.</p>
-<p>All qualified applicants are encouraged to apply, and will be considered without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, age, veteran status, disability or any other legally protected status. We also consider qualified applicants regardless of criminal histories, consistent with applicable laws.</p>
-<p><em>If you are based in California, we encourage you to read this important information for California residents. </em></p>
-<p>Link: <a>https://www.natera.com/notice-of-data-collection-california-residents/</a></p>
-<p>Please be advised that Natera will reach out to candidates with a @<a>natera.com</a> email domain ONLY. Email communications from all other domain names are not from Natera or its employees and are fraudulent. Natera does not request interviews via text messages and does not ask for personal information until a candidate has engaged with the company and has spoken to a recruiter and the hiring team. Natera takes cyber crimes seriously, and will collaborate with law enforcement authorities to prosecute any related cyber crimes.</p>
-<p>For more information:<br/>- <a>BBB announcement on job scams</a> <br/>- <a>FBI Cyber Crime resource page</a> </p>
+<li>5+ years of product management experience, ideally in FinTech, Trading, or with Credit Unions</li><li>Demonstrable experience building or scaling a multi-sided marketplace</li><li>Strong understanding of different financial assets, and ideally of foundational corporate finance concepts</li><li>A plus if you have experience working with API-based implementations</li></ul>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/20/10/binance.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Binance</h5>
+                    <h3>Product Manager (Liquid Staking platform)</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J118757/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.Are you looking to be a part of  …
+Binance is the global blockchain company behind the world’s largest digital asset exchange by trading volume and users, serving a greater mission to accelerate cryptocurrency adoption and increase the freedom of money.<br/>Are you looking to be a part of the most influential company in the blockchain industry and contribute to the crypto-currency revolution that is changing the world?<br/>We are building an upcoming decentralized stablecoin lending and liquid staking platform on BNB Chain, enabling liquid BNB as collateral by leveraging the MakerDAO model. <br/>The vision is to enrich the BNB Chain ecosystem by building a new DeFi and staking infrastructure while connecting both native legacy projects and emerging DeFi labels.<br/>We are looking for a Product Manager to join the team, who will lead the product initiatives from inception through execution.<br/>The ideal candidate should be deeply knowledgeable about the crypto ecosystem and, specifically, have experience building dApps / distributed systems and intimate knowledge of Web3 technologies
+<h3>Responsibilities:</h3>
+<ul>
+<li>Drive innovative and viable new product development strategies and take ownership of the entire process from execution to product launch, and <a>beyond.</a></li><li>Create, execute and manage a product roadmap and milestones.</li><li>Prioritize requirements, conduct product requirement documents with a clear and detailed plan.</li><li>Responsible for providing secured, easy-accessing, reliable tools or infrastructures to developers across the world.</li><li>Proactively collaborate with internal and external teams to define, prioritize, and build users features that best serve the needs of current a future customers.</li><li>Prioritize initiatives and projects appropriately and weigh tradeoffs that must be made.</li><li>Perform market research and competitive analysis, keeping up-to-date to the latest developments in the crypto space.</li></ul>
+<h3>Requirements:</h3>
+<ul>
+<li>Bachelor’s/Master’s degree or equivalent experience.</li><li>Ability to strategize, plan and execute on the product development roadmap.</li><li>Experience in product lifecycle management, especially in agile.</li><li>Experience in defining, designing, and delivering new product features.User-focused and data-driven mindset.</li><li>Excellent interpersonal, and communication skills.English language fluency</li><li>Extensive knowledge and experience in DeFi preferred (particularly, decentralized algo stablecoins, lending &amp; borrowing).</li></ul>Working at Binance•     Do something meaningful; Be a part of the future of finance technology and the no.1 company in the industry•     Fast moving, challenging and unique business problems•     International work environment and flat organisation•     Great career development opportunities in a growing company•     Possibility for relocation and international transfers mid-career•     Competitive salary•     Flexible working hours, Casual work attire<br/>By submitting a job application, you confirm that you have read and agree to our <a>Candidate Privacy Notice</a>.
                 </details>
                 </td>
             </tr></table>
