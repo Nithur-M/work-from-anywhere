@@ -1,5 +1,30 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/b3a0d83447bc39d4b1a64030b7c69c821663258567.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Calm</h5>
+                    <h3>
+					Senior DevOps Engineer				</h3>
+                </td>
+                <td width="300">
+                    <code>engineer, senior, finance</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/118081" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Who We Are:Â </strong></p><p><span style="font-weight: 400;">At Calm, we have a simple, albeit BIG mission: to make the world a happier and healthier place. Through our website, blog, and appâfilled with meditations, sleep stories, music, movement, and moreâweâre redefining what mental care looks like in 2022 and beyond. With over 100 million users worldwide, 100,000 new users daily, and our growing partnerships with major companies, weâre having a positive effect on more and more people each and every day. And while the heart of Calm is digital, we are growing and expanding offline with a variety of products and services to help deliver on our mission of health and happiness, the world over.</span></p><p><strong>What We Do:</strong></p><p>We build Calmâs product, guide Calmâs analysis, secure Calmâs data, and operate the platforms that underpin it all. Weâre product-minded, team-oriented, and grounded in the mission of making the world a happier and healthier place. We work closely with every part of Calm from Legal to Customer Experience, and partner on every initiative from content launches to B2B.</p><p><span style="font-weight: 400;">We are highly collaborative and focused on building scalable and foundational services for other engineering teams. Our team provides the services and systems that power a global distribution of content from Calmâs many content partners and producers. You will be responsible for owning, maintaining, and scaling Calmâs distributed backend infrastructure.Â </span></p><p><strong>What Youâll Do:</strong></p><p>You will be a part of Calmâs core infrastructure team, and help guide efforts across engineering to build a scalable, reliable platform that millions around the world depend on.Â </p><ul><li style="font-weight: 400;"><span style="font-weight: 400;">Systems performance tuning with a focus on high availability and scalability</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Application and infrastructure monitoring and troubleshooting</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Assist engineering team with debugging issues</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Assist engineering team with accelerating processes through automation</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Ensure we are up to date on the latest patches, security issues through automation and building security into our SDLC processesÂ </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Accelerate code velocity and improve process for engineering to improve ship timeÂ </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Continually improve reliability of systemsÂ </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Championing the concepts of immutable containers, Infrastructure as Code, stateless applications, and software observability throughout the organization</span></li></ul><p><strong>Who You Are:</strong></p><ul><li style="font-weight: 400;"><span style="font-weight: 400;">5+ years experience in DevOps</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Strong communicator, both written and verbal</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Familiar with</span></li><ul><li style="font-weight: 400;"><span style="font-weight: 400;">AWS or GCP (Prefer AWS)Â </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Terraform</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Kubernetes</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Docker</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Advanced networking concepts</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Cloud architecture</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Advanced networking concepts and design</span></li></ul></ul><p><strong>Nice-to-Haves:Â </strong></p><ul><li style="font-weight: 400;"><span style="font-weight: 400;">Aurora</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Redis</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Jenkins or GitHub Actions</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Python</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Crossplane</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Vault</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Datadog</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">GCP Identity Access Management (IAM) and Identity Aware Proxy (IAP)</span></li></ul>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/5816/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +35,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bitovi-sre-and-devops-consultant-2" align="right" target="_blank">Apply</a>
@@ -111,75 +136,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3> Senior DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>9 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-8" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
-</p>
-
-<div>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects<br><br>
-</div><div><strong>What we're working on:</strong></div><div>
-<br>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries<br><br>
-</div><div><strong><br>Requirements</strong></div><ul>
-<li>7+ years of professional experience (A technical assessment will be required)</li>
-<li>Senior-level experience with AWS (EC2, RDS, S3, ECS, ELB)</li>
-<li>Strong background in Linux and Mongo Atlas administration</li>
-<li>Experience deploying Kubernetes in a production environment</li>
-<li>Experience with CI/CD in Jenkins or CircleCi</li>
-<li>Infrastructure as code (we use Terraform)</li>
-<li>Experience with requirement gathering and presentation to executives</li>
-<li>English fluency, verbal and written</li>
-<li>Professional, empathic, team player</li>
-<li>Problem solver, proactive, go-getter</li>
-</ul><div>
-<a href="https://cleverte.ch/3"><strong><br></strong></a><br>
-</div><div><strong>Why Clevertech is an amazing place to work at</strong></div><div>At Clevertech, you can expect that you will:<br><br>
-</div><ul>
-<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
-<li>Be a part of a team of talented and friendly senior-level developers</li>
-<li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li>
-</ul><div>
-<br>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.<br><br><br><strong>Benefits of joining the Clevertech team</strong>
-</div><div>We know that people do their best work when they’re taken care of. So we make sure to offer great benefits:<br><br>
-</div><ul>
-<li>Competitive Salaries</li>
-<li>1 Month Paid Time Off For You</li>
-<li>Personal Development Fund</li>
-<li>Tenure-Based Rewards</li>
-<li>Flexible Family Leave</li>
-<li>Clevertech University</li>
-<li>Clevertech Gives Back</li>
-<li>Amazing Culture &amp; Strong Community</li>
-</ul><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-8">https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-8</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1344659/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -190,7 +146,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1344659" align="right" target="_blank">Apply</a>
