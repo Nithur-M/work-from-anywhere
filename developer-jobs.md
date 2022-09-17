@@ -1,26 +1,89 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/f61a6a25d85dc7afe67cb47ff3a9c22f1663083095.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/ea26b466519d221c16cd1233584fc22f1663312524.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>3XM Group</h5>
+                    <h5>Cryptohopper</h5>
                     <h3>
-					S FullStack Developer				</h3>
+					Android Native Developer				</h3>
                 </td>
                 <td width="300">
-                    <code>accounting, bookkeeping, lead</code>
+                    <code>developer, crypto, cryptocurrency</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/117002" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/jobs/118398" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                3XM Group develops quality software solutions, with offices in the US and Argentina. We aim to be strategic advisors for our clients, taking care of all their technology needs, focusing on delivering tailored solutions on-time and within scope.We provide Data Analytics, Cloud, DevOps, and Software Development services, with agile teams that can work with you as stand-alone teams, integrating into your inhouse dev teams, or providing external architectural guidance.We are looking for an enthusiastic Fullstack Developer with a startup mindset to join our client's team. You will be contributing to developing and maintaining web applications for a media, technology and commerce company oriented to a black women audience.Â As part of this role, at least initially, you would be contributing to the development of features for a Vue.js v3 application and also with their backend layer where PHP or equivalente server-side languages are used.Â 
+                <p></p><p>At Cryptohopper we're looking for an AndroidÃÂ Native Developer to join our team.</p><br><p><b>You probably think cryptocurrency trading bots are like the current housing market. A black hole for many, a goldmine for few. However, these bots should be leveraged by a lot more people, because, well, they frigging work wonders. ;-) While the early adopters have been mining cryptos since the beginning. HODLING their investments for the big win. You might still be HOLDING on to your traditional savings, thinking the crypto-ship has sailedÃ¢â¬Â¦</b></p><p><b>But hey ho, hell no. There is crypto-hope on the horizon. And we invite you to embark on our mission to simplify and clarify our Ã¢â¬ËmysteriousÃ¢â¬â¢ product. To all. Including yourself, your friends, (grand)parents and that nerdy nephew who keeps pestering you with terms like FOMO, FUD and Satoshi. Take those shitcoins and run, kiddo!</b>ÃÂ </p><br><h1>Forecast: raining FOMO</h1><p>Do you ever trust the weatherman? Neither do we. But we do trust the unbeatable experts on our Cryptohopper team. And they predicted FOMO season is coming. Of course you may think this is a far-fetched prophecy. But weÃ¢â¬â¢ve been back-testing our gut feeling since the early days and we were rarely wrong. So. Buckle up. We prepare for storm.<br></p><br><h1>Android App Developer?</h1><p>Turn right if you want to develop an edge-of-your-seat app that creates an awesome experience for our traders. Prepare to snuggle up (currently not too closely) to our product teams, so you can build (and run, and love) the exact app our users need to trade on cryptocurrency markets. To succeed, you have to be versed in Kotlin and Java, and willing to get up close and personal with up-and-coming tooling. Including tech that you introduce to the stack. This is the perfect position if you combine Ã¢â¬ËhardcoreÃ¢â¬â¢ coding skills with a Ã¢â¬Ësecurity firstÃ¢â¬â¢ mindset and are excited to learn about crypto trading and blockchain technologies<br></p><br><h1>Hi, we're the stack.</h1><p>Kotlin and Java, JUnit, Truth,ÃÂ RESTful APIs, Git, Bitrise.</p><br><h1>You know you got this if.<br></h1><ul><li>You have 3+ years of experience as an Android Native app developer</li><li><p>You dream about Kotlin, Java, Android's design principles and application interface guidelines</p></li><li><p>Your lunch break experiments sometimes get out of hand. One time you accidentally developed an app that correlated caffeine intake with sock funkiness. And it worked<br></p></li><li><p>You have knowledge of automation and testing methodologies used for automated testing (JUnit, Truth), familiar with RESTful API's, offline storage, threading and perfomance tuningÃÂ </p></li><li><p>Proficient in code versioning tools such as Git and familiair withÃÂ push notifications, APIs, and cloud messaging</p></li><li><p>Experience with continuous integration (CI) and continuous deployment (CD) solutions such as Bitrise</p></li>                </ul><br><h1>What we offer.</h1><p>A mission-driven culture with a great work/life balance and a good benefits package. Sure, we work hard to get sh*t done, but we also regularly push our moustache (sorry, itÃ¢â¬â¢s a silly joke for Dutch readers) for a VR gaming session, picnics in the park, indoor bouldering, drinks at the pub, live DJ sessions and whatever happens in our (wo)man cave - and probably best stays there. The setting aside, we also:</p><ul><li>Pay you (pinky promise!): between EUR 55K and 75K per year [skill dependent]</li><li>Allow you to work wherever, including 2 days at our Amsterdam HQ </li><li>Send you on your merry way for 25 days each year, minimum (more is negotiable)</li><li>Provide you with great gear; a high-end laptop and whatever else you need to succeed. Perhaps an AI-driven desk chair that *knows* when you want to lean back?</li><li>Lifetime Cryptohopper subscription (if you donÃ¢â¬â¢t break our BFF vows)</li><li>Shower you with extras, like trading benefits, a generous training budget, and (mom will be proud!) the opportunity to work in a domain that accelerates financial inclusion for the unbanked</li><li>Pour you a stiff drink on Fridays, coffee that wonÃ¢â¬â¢t make you wish you chose tea, and lots of mind-blowing feedback on your work, hobbyÃ¢â¬â¢s, and pets. And we sincerely look forward to hearing whatÃ¢â¬â¢s on your mind, too.</li></ul><br><p></p><h1>Ready to virtually meet our engineers?</h1><p>We donÃ¢â¬â¢t require (in fact, please donÃ¢â¬â¢t) a motivation letter; weÃ¢â¬â¢d rather have a good chat and tell you everything you want to know. About life, the universe, and everything! Mail your resume to hr@cryptohopper.com. More information? Call or WhatsApp Laura at +31614886381 (n/a for trading insights ;-)</p><br>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/8312/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>XM</h5>
+                    <h3> Go developers</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/xm-go-developers-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0066/8312/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Cyprus, Greece or Remote
+    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
+</p>
+
+<div>
+<strong>Reference Number: GOD1021<br></strong><br>
+</div><div>
+<strong>The position: <br></strong><br>
+</div><div>We are looking for passionate and self-motivated professionals to join our IT team. <br><br>
+</div><div> <br><br>
+</div><div>
+<strong>The main responsibilities include:<br></strong><br>
+</div><div>·        Write clean, simple, maintainable and testable code</div><div>·        Design, implement and maintain cloud-based services and APIs</div><div>·        Monitor, troubleshoot and debug applications</div><div>·        Participate and run code reviews</div><div>·        Follow emerging technologies and frameworks</div><div> </div><div>
+<strong>Main requirements:<br></strong><br>
+</div><div>·        BSc/MSc in Computer Science, Engineering, or any other relevant degree</div><div>·        In-depth experience with Go. Experience in other programming languages is considered a plus</div><div>·        In-depth experience with REST service designs</div><div>·        Experience with monitoring, logging and tracing systems</div><div>·        Proven experience using SQL and NoSQL databases</div><div>·        Very good knowledge of programming best practices and design patterns</div><div>·        Experience using systems and tools for automating deployment, scaling, and management of containerized applications for production service deployments</div><div>·        Good understanding of algorithmic complexity, data structures and multi-threading concepts</div><div>·        Knowledge of AWS Cloud Services is considered a plus</div><div>·        A keen interest in benchmarking and optimisation</div><div>·        Contributions in open source projects are considered a plus</div><div>·        Strong teamwork skills with a problem-solving attitude and interest in personal development</div><div> </div><div>
+<strong>Benefits include:<br></strong><br>
+</div><ul>
+<li>Attractive remuneration package</li>
+<li>Private health insurance </li>
+<li>Food allowance </li>
+<li>Intellectually stimulating work environment</li>
+<li>Continuous personal development and international training opportunities</li>
+<li>Attractive relocation package. Relocation support for a smooth relocation for you and your family </li>
+</ul><div> <br><br>
+</div><div>Type of employment: Full time<br><br>
+</div><div>Location: Limassol, Cyprus or remote<br><br>
+</div><div> </div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position.</div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div><div> <br><br>
+</div><div> <br><br>
+</div><div> <br><br>
+</div><div> <br><br>
+</div><div> <br><br>
+</div><div> <br><br>
+</div><div> <br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-go-developers-2">https://weworkremotely.com/remote-jobs/xm-go-developers-2</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +98,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-2" align="right" target="_blank">Apply</a>
@@ -86,16 +149,16 @@
                 </td>
                 <td width="300">
                     <h5>Kratzen Partners</h5>
-                    <h3> Senior Software Developer - web/bots </h3>
+                    <h3> Senior Javascript Developer</h3>
                 </td>
                 <td width="300">
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/kratzen-partners-senior-software-developer-web-bots" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/kratzen-partners-senior-javascript-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -110,12 +173,12 @@
 
 <div>Kratzen Partners is recruiting a <strong>full time 100% remote</strong> senior software developer to build an internal toolset for scraping public websites that have been specifically hardened against simple scraping methods.­­ The key to the project’s success will be problem solving, clever experimentation, grit, and creativity. </div><div> </div><div>
 <strong>About Us: </strong>Kratzen Partners is a global technology services provider specializing in discovering, collecting, and analyzing internet data and discretely relieving internal information collection operating burdens of the world’s leading data driven corporations and institutions. </div><div> </div><div><strong>Qualifications:</strong></div><div>·      Expert level experience in JavaScript, including web programming</div><div>·      Experience with website scraping, and/or writing stealthy bots</div><div>·      Naturally inquisitive and curious  </div><div>·      A knack for problem-solving, combining creativity and logical thinking<br>       ·      You probably enjoy solving puzzles and brain teasers</div><div>·      Fluent in English, especially written English</div><div>·      <strong><em>BONUS</em></strong>: experience with playwright framework</div><div> </div><div>
-<strong>Pay</strong>: €70-85k per year, based on experience. </div><div> </div><div><strong>What the job will be like</strong></div><div>Your initial role will be to build out the MVP for this new advanced scraping toolset, working with a PM and reporting to our VP of engineering, leveraging existing systems designs and experimentation results. However, you will be writing the production code from a blank slate, and there will still be considerable experimentation and problem solving required as we work through the inevitable unexpected hurdles. <br><br>
+<strong>Pay</strong>: €100-140k+ per year, based on experience. </div><div> </div><div><strong>What the job will be like</strong></div><div>Your initial role will be to build out the MVP for this new advanced scraping toolset, working with a PM and reporting to our VP of engineering, leveraging existing systems designs and experimentation results. However, you will be writing the production code from a blank slate, and there will still be considerable experimentation and problem solving required as we work through the inevitable unexpected hurdles. <br><br>
 </div><div>You’ll be primarily work on your own -- your VP and PM will help set direction and be available to brainstorm and provide suggested avenues of exploration. However, the more you can generate your own ideas, plans, and work independently, the better. Initial onboarding  will include daily check-ins, shifting to a 2/week cadence as you get settled. As long as you attend our calls, meet deadlines, and get your work done, you’re welcome to work your own schedule.</div><div> </div><div><strong>Our Interview Process </strong></div><div>1.     Submit an application (instructions below) </div><div>2.     We’ll interview the strongest 8-12 applicants, hopefully including you </div><div>3.     You will complete a small self-paced practical test: reverse engineer a simple, but obfuscated, JavaScript web app. We expect this project to take 2-5 hours. </div><div>4.     You will have a final interview with the product and engineering manager to ensure there is a good fit</div><div>5.     We’ll send you an offer!<br><br>We know interviews are no fun by their very nature. We dont know how how to fix, but please, have lunch on us! We’ll send €20 to anyone that even submits a take home test. </div><div>
 <strong> </strong> </div><div><strong>Application Submission</strong></div><div>If this sounds like the right job for you, please send your first and last name, resume, and 2 or 3 sentences for each of following questions to <a href="mailto:careers@kratzenpartners.com">careers@kratzenpartners.com</a> : </div><div> </div><div>1.     What’s your experience scraping internet data?</div><div>2.     What are hard-to-spoof ways to fingerprint what browser someone is actually using?</div><div>3.     Without using the ip address, how might you detect a web client is using a vpn?</div><div>4.     Are there more avenues of detection available if the client is using an https proxy?</div><div> </div><div>
 <em>Please remember, THERE ARE NO WRONG ANSWERS to these question!</em> </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/kratzen-partners-senior-software-developer-web-bots">https://weworkremotely.com/remote-jobs/kratzen-partners-senior-software-developer-web-bots</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/kratzen-partners-senior-javascript-developer">https://weworkremotely.com/remote-jobs/kratzen-partners-senior-javascript-developer</a></p>
 
                 </details>
                 </td>
@@ -131,7 +194,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
@@ -182,7 +245,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -256,7 +319,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/postpilot-senior-ruby-rails-developer-2" align="right" target="_blank">Apply</a>
@@ -309,7 +372,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>90 days ago</text>
+                <text>91 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone" align="right" target="_blank">Apply</a>
@@ -424,7 +487,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>874 days ago</text>
+                <text>875 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/g2i-inc-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -472,7 +535,7 @@
                     <code>api,CSS,developer,docker</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
@@ -573,7 +636,7 @@
                     <code>AWS,cloud,CSS,developer</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1393221" align="right" target="_blank">Apply</a>
@@ -598,7 +661,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -675,7 +738,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -752,7 +815,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -777,7 +840,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -802,7 +865,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -827,7 +890,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -852,7 +915,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -877,7 +940,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -902,7 +965,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
@@ -927,7 +990,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -974,7 +1037,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -1029,6 +1092,37 @@
 <p>Save your time: Fast and efficient hiring process to match you with the project of your preference.</p>
 <p>Ownership: Take ownership of your work and enjoy more freedom in your career.</p>
 <img src="https://remotive.com/job/track/1359476/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/05/BHGfinancial.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>BHG Financial</h5>
+                    <h3>Salesforce Developer Intern - Spring 2023</h3>
+                </td>
+                <td width="300">
+                    <code>Internship</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J118603/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Are you ready to kickstart your career, create a lasting impact, and learn skills that will make you a future leader? Here at BHG Financial, you will have the opportunity to gain cross-functional skills and visibility in all areas of the business fro …
+Are you ready to kickstart your career, create a lasting impact, and learn skills that will make you a future leader? Here at BHG Financial, you will have the opportunity to gain cross-functional skills and visibility in all areas of the business from our virtual training sessions, hands-on experience, mentorship program, and access to diverse subject matter experts. Join a growing internship program that transforms talented interns into influential business leaders. BHG Financial offers innovative financial solutions to licensed, highly-skilled professionals representing the best of both traditional lending and fintech and are looking for passionate, impact players to help take our company to the next level.<br/>Who You Are<br/>You are a motivated Salesforce Developer Intern professional passionate about delivering meaningful solutions to support positive business outcomes. You excel at rising to a challenge and have experience developing applications in a collegiate or professional setting. You are a focused individual and thrive in a fast-paced environment where you can understand how to succeed as a developer/admin in a scrum team and develop key technical skills focusing on the Salesforce Platform.
+<h3>What You'll Do</h3>
+<ul>
+<li>Work within a collaborative scrum team.</li><li>Partner with other Developers, Admins, and QA Testers to deliver value to the business.</li><li>Triage bugs and defects and collaborate with Sr Developers/Admins to provide solutions. </li><li>Learn best practices as a Developer in the Salesforce Platform.</li><li>Design solutions using declarative salesforce tools such as Flows, Assignment Rules, Workflow Rules, Validations, Page Layouts, and Lightning Pages.</li><li>Directly involved with creating and maintance of the Salesforce data structure by creating/maintaining objects and fields in alignment with best practices.  </li><li>Design solutions using programmatic salesforce tools such as VS Code, Apex, Platform Events, Batch Processing, LWC, and Aura.</li><li>Will be involved in the creation and maintenance of Unit tests to support a clean product.</li><li>Participate in Code Review sessions with Sr Developers to gain a deep understanding of developing enterprise solutions in the Salesforce Platform.</li><br/></ul>
+<h3>What You'll Need</h3>
+<ul>
+<li>Students pursuing a   Bachelor's or Master's degree program in   Computer Science, Engineering, Analytics, Management Information Systems, or a related field, graduating in   May 2023 - August 2023</li><li>Availability from   Spring: January - April</li><li>  Part-Time availability of at LEAST 25 hours a week EST (NO Weekends).</li><li>Comfortable working with Object-Oriented programming and Relational Databases.</li><li>Capable of working efficiently and  effectively in a 100% Remote Capacity</li></ul>Life at BHGAt BHG, you'll have the opportunity to build a career that has an impact and develop new skill sets that will set you up for success in this constantly changing world. Our interns work hard and aren't afraid to take risks. Since the beginning, our core values of PMA (positive mental attitude), team player, and loyalty have been the driving force behind our interactions with each other and our customers. We have a healthy respect for the daily grind, yet we value work/life balance. We believe that all interns should have the opportunity to lead and that good ideas can come from anyone at any level. From the top-down, our leaders are actively involved in strategic oversight and running the business, as well as in the wellbeing and growth of our interns. We consider people our #1 asset and help interns realize their full potential, set and exceed their goals, and explore new personal and professional development opportunities.<br/>Why You Should Join BHGOur internship program is at the center of BHG's growth and innovation. Our program supports the interest of our interns by creating opportunities for them to engage with other interns, leaders across the organization, and the community through lunch &amp; learn virtual team-building events and giveback projects. We strive to prepare students for success while furthering the culture that makes us Great Place to Work® certified. Some of the benefits you can expect when you join BHG include:<br/>·         You'll be granted time off for all designated BHG Paid Holidays and Wellness Fridays·         Interns are given four wellness hours a month to support their physical, emotional, and social wellbeing·         Intern Mentoring Program: BHG pairs our interns with more experienced members to provide guidance and support through the internship process·         Access to Executive Leadership across BHG through one on ones and lunch and learns ·         If you join BHG Financial full-time after your internships, we offer a competitive compensation package, 100% coverage of your monthly health insurance premiums, PTO, Wellness Fridays, and Company 401(k) plan with employer contributions after one year as a reward for the value you bring to BHG everyday<br/>If you're ready to kickstart your career, exercise your passions, be surrounded by co-workers committed to your development, and have an all-ores-in mindset, apply to our internship program today! Bankers Healthcare Group is committed to equal treatment and opportunity in all aspects of recruitment, selection, and employment without regard to gender, race, religion, national origin, ethnicity, disability, gender identity/expression, sexual orientation, veteran or military status, or any other category protected under the law. Bankers Healthcare Group is an equal opportunity employer; committed to a community of inclusion and an environment free from discrimination, harassment, and retaliation.
                 </details>
                 </td>
             </tr></table>
