@@ -10,7 +10,7 @@
                     <code>Sales and Marketing</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/community-phone-quality-assurance-lead" align="right" target="_blank">Apply</a>
