@@ -1,30 +1,5 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/bd0101f1fb3c02a1ef68a9c5774ca0961663139723.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Upvest</h5>
-                    <h3>
-					Senior Backend Engineer Payments				</h3>
-                </td>
-                <td width="300">
-                    <code>financial, investment, fintech</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/117350" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Weâre looking for fintech enthusiasts to join us in creating the financial infrastructure of tomorrow. Weâre building the first European Investment API to enable any financial institution to offer a broad range of investment products in their apps. Our view is backed by Europe's largest tech VCs (Earlybird, Notion Capital, Partech, HV Capital, ABN AMRO Ventures) by renowned fintech entrepreneurs (including <a target="_blank" href="https://www.linkedin.com/in/ACoAAA5D6LAB1cJ1GBRZ8whwsc6ZI78kDf1Ulx0" rel="noopener noreferrer nofollow">Maximilian Tayenthal</a>, founder of N26, and <a target="_blank" href="https://www.linkedin.com/in/ACoAAAAAH8AB8C9RXofd6q-Ux6PSMs23ahwpU8U" rel="noopener noreferrer nofollow">Felix Haas</a>, founder of IDnow) and Bessemer Venture Partners in the USA.<br></p><p>Weâre based in Berlin but would consider <strong>hiring</strong> <strong>remotely</strong> for this role. If you do want to move to Berlin though, weâre happy to support your relocation.</p><p>At Upvest, our vision is <strong>to make investing as easy as spending money</strong>. By enabling any business to offer investment opportunities, our goal is to empower anyone to invest. Today, we count 100+ talented people from 20 different countries<br></p>  <p><span style="font-family:-apple-system , BlinkMacSystemFont ,;"></span><strong><br>Your mission:</strong></p><p>We are seeking a full-time backend engineer to join the Payments team in the Core Banking tribe and help to build stable and effective integrations with various payment providers, at the same time with a strong user-<br>experience focus.<br><br></p><p><strong>Team's mission</strong><span style="font-family:-apple-system , BlinkMacSystemFont ,;"></span><strong>Â Payments team's mission:</strong></p>  <p>The Payments team in Core Banking is responsible for the integrations with various Payin and Payout providers, designing a logical and error-proof interface for the end customers and an effective processing flow for the internal operational teams.</p><p>The Core Banking team is keeping control that the Runtime processes remain logical and consistent by tracking the results of the order processing in the Position, Reconciliation, and Booking domains. The products delivered by this team are the ones letting us sleep at night, knowing the platform is functioning correctly on a big scale of things. <br></p><p><strong>This role will give you the opportunity to:</strong></p><ul><li>Design and build fault-tolerant, horizontally scalable systems. Using Microservice architecture powered by Docker, Kubernetes, Linkerd service mesh, and Kong as a Gateway</li><li>Build event-driven applications using Kafka</li><li>Work on different aspects of our API-product portfolio as part of the development team</li><li>Develop data processing and storing mechanisms</li><li>Work on improving the reliability of our API tools, as well as developing innovative tools</li><li>Work with an agile methodology with flexible processes, that focus on helping the engineering teams be more effective in their work</li><li>Work with the cutting edge technologies (Go is the primary language) without legacy codebase</li></ul><p><br></p><ul></ul><p><strong>Job requirements:</strong></p><ul><li>Prior experience with distributed systems</li><li>Willingness to make Go your day-to-day language (production experience is not strictly required)</li><li>Fluency with SQL databases such as PostgreSQL, transaction isolation, performance optimization</li><li>Experience with event-driven architecture and concurrent algorithms</li><li>Be proactive in learning new stacks and have a high sense of taking ownership</li><li>Excited to work in a dynamic startup environment</li></ul><p><br></p><ul></ul><p><strong>Why Upvest?</strong></p><ul><li>We're working on solving a hard problem: fixing the European securities financial infrastructure that empowers more people to be able to invest. You have the opportunity to contribute to this change.</li><li>We invest in you. From access to a personal coach, development budget and plenty of opportunities to grow in your role.</li><li>We take hiring seriously with a strong focus on keeping a high bar when interviewing (equally important is that we hire decent people, who are passionate about their craft and helping us achieve our shared mission).</li><li>While we're not quite fully-remote, we are committed to being a flexible employer, as we understand you don't have to be in the office to do your best work.</li><li>We live a culture of empowerment, trust (that we hire the best people and get out of their way) and openness (there's a greater advantage in sharing information than keeping it to ourselves).</li></ul><p><strong>Our values:</strong><br></p><ul><li><strong>Learn and grow. </strong>We aim high to shape our future. We give and request honest feedback knowing that we develop together. Progression over Perfection.</li><li><strong>Team first. </strong>We make it easy for others. We value our differences and are open to others' opinions. We win and celebrate together! Team over Egos.</li><li><strong>Own the outcome. </strong>Whether we win or we lose, we stand together. We are proactive and get the job done. Outcome over Process.</li><li><strong>Tell the story. </strong>We always start with the <em>why</em>. We share knowledge to empower others. Transparency over Complexity.</li></ul>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7038/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -35,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/gridium-backend-engineer-data-ingestion-python-remote-1" align="right" target="_blank">Apply</a>
@@ -87,7 +62,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pspdfkit-web-backend-team-manager" align="right" target="_blank">Apply</a>
@@ -135,7 +110,7 @@
                     <code>AWS,backend,business intelligence,docker</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineering-manager-1368348" align="right" target="_blank">Apply</a>
@@ -228,7 +203,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
