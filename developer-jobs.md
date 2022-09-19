@@ -1,5 +1,55 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/87993810d7506251e2eb0a3f706d0e091663485311.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Keyrock</h5>
+                    <h3>
+					Algorithm Developer with Rust				</h3>
+                </td>
+                <td width="300">
+                    <code>developer, teaching, crypto</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/119451" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Keyrock is expanding!</strong></p><p> </p><p style="line-height:1.38;text-align:justify;background-color:#ffffff;margin-top:12pt;margin-bottom:0pt;padding:0pt 0pt 12pt 0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Keyrock was founded in 2017 and has quickly grown from 3 to over 60 people today, half of which work remotely around the globe. As an industry recognized liquidity provider and market maker, Keyrock is a leading European creator of algorithmic trading technology in the digital asset space. With VC backing and a constantly expanding global client base, Keyrock is one of Belgiumâs fastest-growing fintech companies.</span></p><p style="line-height:1.38;text-align:justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 12pt 0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Weâre currently active on over 80 exchanges and count numerous marketplaces and asset issuers among our clients, including some of the best-known companies in the crypto space.</span></p><p style="line-height:1.38;text-align:justify;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Keyrock's beating heart is its technical team filled with software engineers, digital scientists and PhDs, who themselves are supported by university professors, industry-leading experts and a strong management team. Over the years Keyrock has become a company that is both idealistic and practical.</span></p><p style="line-height:1.38;text-align:justify;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Important: It is worth to understand we are not a blockchain company per se and as such, blockchain development experience is not significant nor sought after by us. Our software is blockchain agnostic and it could be deployed on any type of assets, not limited to blockchain-based assets. We do however welcome blockchain engineers, especially those passionate about trading, as it generally indicated passion for the industry which we value. </span></p><p style="line-height:1.38;text-align:justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 12pt 0pt;"><span style="font-size:10.5pt;font-family:Roboto , sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">NB We are open for exquisite developers, experienced in other languages (C++, Java, Go or similar) and passionate about low-latency, low-level trading systems who have just recently started their journey with Rust and need to master it. We provide training and materials and space to learn. For these profiles we will initially offer slightly decreased package to compensate for our investment in teaching and will increase it to regular level after 3-6 months from joining (guaranteed by contract) when proficiency in Rust and full productivity is reached. </span><br><br></p><p style="line-height:1.38;text-align:justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 12pt 0pt;"><strong>We are looking for</strong></p><p style="line-height:1.38;text-align:justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 12pt 0pt;"><br>An experienced Rust developer to support the growth of our infrastructure, which is based on an exciting and constantly evolving technology stack. You will be working in collaboration with our engineers, data scientists, and architects to develop new features, integrate new liquidity sources and structure financial systems. As an important member of the algorithm team, your mission would be to develop new features and trading algorithms, integrate thirty party APIs and propose improvements to our current infrastructure. <span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">An ideal candidate has experience in developing low-latency trading systems, is passionate about algo trading and crypto and is a low-level system thinker.</span></p><p><br></p><p><strong>NB We are open for exquisite algorithm developers who have just recently started their journey with Rust. We provide training and materials and space to learn. For these profiles we will initially offer slightly decreased package to compensate for our investment in teaching and will increase it to regular level after 3-6 months from joining (guaranteed by contract) when proficiency in Rust and full productivity is reached. </strong></p><p> </p><p><strong>What you will be doing</strong></p><p> </p><ul><li><p>Supporting the implementation of trading algorithms</p></li><li><p>Setup and deployment of algorithms</p></li><li><p>Integrating the APIs of cryptocurrency exchanges, banks and brokers to the Keyrock infrastructure</p></li><li><p>Implement financial logic on multiple Keyrock microservices</p></li><li><p>System monitoring<br><br></p></li></ul><p><strong>Skills and experience:</strong></p><p><strong> </strong></p><ul><li><p>Team player</p></li><li><p>Know your way around Linux CLI</p></li><li><p>Rust</p></li><li><p>Node.js</p></li><li><p>C++</p></li><li><p>MongoDB</p></li><li><p>Redis</p></li><li><p>Docker</p></li><li><p>Deep understanding of the full web technology stack (e.g. HTTP, cookies, asset loading, caching, REST, websockets, gRPC, etc)  </p></li><li><p>Basic understanding of the financial market, order books, and trading</p></li><li><p>At least 5 years of coding experience</p></li></ul><p> </p><p><strong>That little extra</strong></p><p> </p><ul><li><p>Interest in Blockchain/DLT and digital assets</p></li><li><p>Background or interest in financial/capital markets</p></li><li><p>Stream-based processing</p></li><li><p>Kubernetes</p></li><li><p>Proactive challenger and proposer</p></li><li><p>Statistical analysis and/or ML</p></li></ul><p> </p><p><strong>Our recruitment philosophy</strong></p><p><br>We believe the most important aspect of our recruitment process is self-awareness: we are looking for people who have a clear understanding of themselves and what they are looking for in their professional career. That means that we expect to work with people who not only have the right skills, but who have also made the conscious decision to look for a company in our industry and with our characteristics.<br><br></p><p> </p><p><strong>Our offer</strong></p><p><br></p><ul><li><p>A competitive salary package, including 25 days paid vacation per year plus national holidays</p></li><li><p>Complete autonomy in your time management thanks to flexible working hours and the opportunity to work remotely </p></li><li><p>The freedom to create your own entrepreneurial experience by being part of a team of people in search of excellence who all receive stock options from the first year</p></li><li><p>A ton of fun in a thriving and multicultural environment, with colleagues enjoying regular team building activities</p></li></ul><p><br></p><p><br></p><p>Keyrock offers you both a career and a large range of benefits that we will gladly discuss in the course of the application process.</p><p><br></p><p>As an employer we are committed to build an inclusive, diverse and non-discriminating work environment. We welcome employees of all backgrounds, ethnicities, genders, creed and sexual orientation. We hire, reward and promote entirely based on merit and performance.</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/b02a6dc4a1fc2d2c88df5303fe5f7e1c1663485320.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Parity Technologies</h5>
+                    <h3>
+					Rust Core Developer Parachain Node Implementation Monitoring				</h3>
+                </td>
+                <td width="300">
+                    <code>developer, node, lead</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/119455" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><span style="font-weight:400;"><em>This position can be remote or based near one of our offices in Berlin, Lisbon, or London. It's up to you to decide where you work best.</em></span></p><p>Parity Technologies builds core infrastructure for blockchains and Web 3.0 technologies. This means dealing with P2P networking, consensus algorithms, cryptography, databases, and decentralized applications. We strive to write the fastest, lightest, and safest core technology in Blockchain and write lots of open-source code. </p><p>We are looking to expand the Parachain Engineering team, which does performance measurements, observability, and integration tooling and crafts the required tooling for this as needed. This involves a deep knowledge and integration in the Polkadot project and codebase in order to change it and interface with it as needed.</p><p>As a part of your job, you will conduct performance experiments from single-node to many-node test networks, add observability metrics, craft malicious nodes for integration tests, and also participate in refactoring in a large codebase. You will need to write comprehensive tests, ranging from unit to integration tests. You will need to architect and implement new (cli) tools, communicate requirements and goals clearly, and be ready to ship tools with a great usability experience for developers.</p><p>The team is all about engineering challenges.</p><p><a href="https://github.com/eskimor" target="_blank" rel="noopener noreferrer nofollow">Robert Klotzner</a> is the lead of the Parachain team. In this position, you'll also be working closely alongside <a href="https://github.com/vstakhov" target="_blank" rel="noopener noreferrer nofollow">Vsevolod</a>, <a href="https://github.com/sandreim" target="_blank" rel="noopener noreferrer nofollow">Andrei</a>, and <a href="https://github.com/ordian" target="_blank" rel="noopener noreferrer nofollow">Andronik.</a></p><p>Much of the team's work is in the <a href="https://github.com/paritytech/polkadot" target="_blank" rel="noopener noreferrer nofollow">main Polkadot repository.</a></p><p><strong>Requirements:</strong></p><ul><li style="font-weight:400;">Experience with Rust, particularly writing high-performance high-security code.</li><li style="font-weight:400;">Familiarity with the Rust ecosystem.</li><li style="font-weight:400;">An interest in decentralized technology and Web 3.</li><li style="font-weight:400;">Interest in Performance Engineering.</li></ul><p><strong>Nice to have:</strong></p><p>At Parity Technologies we write software across the whole blockchain stack and a developer you can be expected to work on any of these things, but deep knowledge in one of the following areas is especially appreciated.</p><ul><li>Custom performance optimization and tuning tooling</li><li>Distributed systems caveats</li><li>Experience with observability tools (OpenTracing, Zipkin, Jaeger, ..)</li><li>Experience with fuzzing tools (honggfuzz, libfuzzer, ...)</li><li>Interest or experience in blockchain technologies.</li></ul><h4><strong>Benefits:</strong></h4><ul><li>Competitive salaries and benefits.</li><li>Opportunity to become an expert in latest blockchain technologies.</li><li>Working at Parity means focusing on stuff that matters: building cutting-edge technology for a better and more decentralized internet. Our teams enjoy a high degree of freedom and autonomy to achieve that goal.</li><li>Because we value initiative and learning, we've defined a generous personal improvement budget to attend conferences or skills courses of your own choosing. We think you know what's best for you!</li><li>Parity is a diverse company with people from various countries and we will support you with German or English language courses where needed (and desired).</li><li>We have a remote-friendly company setup.</li><li>Bringing the team together is something we value a lot and we have regular company retreats</li></ul><p> </p><p>Not a perfect match to our requirements? We're happy to receive your application anyways and hear how you think you can help us achieve our mission.</p><p>To see how we use your data please see our <a href="https://www.parity.io/applicant-notice/" target="_blank" rel="noopener noreferrer nofollow">Applicant Notice.</a></p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/LZd6z7HiTLw" frameborder="0" allowfullscreen=""></iframe></figure></p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/7d5059a8b143d2a90fea292c4e33b4121663398944.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -11,7 +61,7 @@
                     <code>developer, financial, security</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/118941" align="right" target="_blank">Apply</a>
@@ -36,7 +86,7 @@
                     <code>developer, react, security</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/118450" align="right" target="_blank">Apply</a>
@@ -46,31 +96,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 Job Details:We are looking for a Senior Full Stack Developer to produce scalable software solutions. Youâll be part of a digital/product team thatâs responsible for the full software development life cycle, from conception to deployment.As a Senior Full Stack Developer, you should be bringing your expertise and experience to the table. Weâre building out a real estate analytics portal to monetize the extended set of data that we have to support multiple parties within the real estate lifecycle. Weâre looking for someone to help us build upon what we have started and has expertise in converting large datasets into easy to understand graphical interfaces.Job Responsibilities:âÂ Â Â Â Â  Build marketing pages and optimize current site UX and user flowsâÂ Â Â Â Â  Build high performing ad units (familiarity with GAM and GPT a plus)âÂ Â Â Â Â  Enhance and support a high volume headless WordPress application using next.jsâÂ Â Â Â Â  Develop and manage well-functioning databases and applicationsâÂ Â Â Â Â  Build test cases to ensure cross platform/browser, responsiveness and efficiency for web applicationsâÂ Â Â Â Â  Troubleshoot, debug and upgrade softwareâÂ Â Â Â Â  Create security and data protection settingsâÂ Â Â Â Â  Write technical documentationJob Requirements:âÂ Â Â Â Â  5+ years of software development experience with extensive knowledge of WordPress and PHPâÂ Â Â Â Â  5+ years of experience with front-end development including HTML5/CSS3/JavascriptâÂ Â Â Â Â  3+ years of experience with the next.js framework or React frameworksâÂ Â Â Â Â  Experience developing responsive web applicationsâÂ Â Â Â Â  Experience in headless WordPress is desiredâÂ Â Â Â Â  Experience architecting and building GraphQL APIs and REST-ful services using WordPressâÂ Â Â Â Â  Experience working with git source/version control platformsâÂ Â Â Â Â  Experience working with GitHub actions and CI/CDâÂ Â Â Â Â  Expert knowledge developing cross platform/browser (iOS, Android, IE, Firefox, Safari, Opera, etc.) for web applications (React Native)âÂ Â Â Â Â  Familiarity with and adherence to web standards and best practices for performance and accessibility (WCAG)âÂ Â Â Â Â  Knowledge of SEO best practices and Web AnalyticsâÂ Â Â Â Â  Proven ability to manage large scale technology projects successfullyâÂ Â Â Â Â  Ability to effectively prioritize and execute tasks in a high-pressure environmentâÂ Â Â Â Â  Strong communication skills (both in person and in writing) while interacting with individuals with a range of technical understandingâÂ Â Â Â Â  Excellent organizational and time management skillsWho We Are: Â The Real Deal is the largest real-estate news outlet in the US, reaching millions of professionals daily through our media channels. We have received 60+ awards for editorial excellence over the past six years, including the General Excellence award from the Society of Business Writers and Editors. Â Quantcast rates us among the 300-most visited sites in the US and the website with the wealthiest audience and one of the most educated.As a publication, The Real Deal is to real estate what Variety is to entertainment or what Politico is to Beltway politics â a plugged-in news outlet that is read by the entire industry. Â We are an equal opportunity employer and value diversity at our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We partner with our employees to support diversity and inclusion in the workplace and through higher education programs supporting rising journalists.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/ea26b466519d221c16cd1233584fc22f1663312524.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Cryptohopper</h5>
-                    <h3>
-					Android Native Developer				</h3>
-                </td>
-                <td width="300">
-                    <code>developer, crypto, cryptocurrency</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/118398" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p></p><p>At Cryptohopper we're looking for an AndroidÃÂ Native Developer to join our team.</p><br><p><b>You probably think cryptocurrency trading bots are like the current housing market. A black hole for many, a goldmine for few. However, these bots should be leveraged by a lot more people, because, well, they frigging work wonders. ;-) While the early adopters have been mining cryptos since the beginning. HODLING their investments for the big win. You might still be HOLDING on to your traditional savings, thinking the crypto-ship has sailedÃ¢â¬Â¦</b></p><p><b>But hey ho, hell no. There is crypto-hope on the horizon. And we invite you to embark on our mission to simplify and clarify our Ã¢â¬ËmysteriousÃ¢â¬â¢ product. To all. Including yourself, your friends, (grand)parents and that nerdy nephew who keeps pestering you with terms like FOMO, FUD and Satoshi. Take those shitcoins and run, kiddo!</b>ÃÂ </p><br><h1>Forecast: raining FOMO</h1><p>Do you ever trust the weatherman? Neither do we. But we do trust the unbeatable experts on our Cryptohopper team. And they predicted FOMO season is coming. Of course you may think this is a far-fetched prophecy. But weÃ¢â¬â¢ve been back-testing our gut feeling since the early days and we were rarely wrong. So. Buckle up. We prepare for storm.<br></p><br><h1>Android App Developer?</h1><p>Turn right if you want to develop an edge-of-your-seat app that creates an awesome experience for our traders. Prepare to snuggle up (currently not too closely) to our product teams, so you can build (and run, and love) the exact app our users need to trade on cryptocurrency markets. To succeed, you have to be versed in Kotlin and Java, and willing to get up close and personal with up-and-coming tooling. Including tech that you introduce to the stack. This is the perfect position if you combine Ã¢â¬ËhardcoreÃ¢â¬â¢ coding skills with a Ã¢â¬Ësecurity firstÃ¢â¬â¢ mindset and are excited to learn about crypto trading and blockchain technologies<br></p><br><h1>Hi, we're the stack.</h1><p>Kotlin and Java, JUnit, Truth,ÃÂ RESTful APIs, Git, Bitrise.</p><br><h1>You know you got this if.<br></h1><ul><li>You have 3+ years of experience as an Android Native app developer</li><li><p>You dream about Kotlin, Java, Android's design principles and application interface guidelines</p></li><li><p>Your lunch break experiments sometimes get out of hand. One time you accidentally developed an app that correlated caffeine intake with sock funkiness. And it worked<br></p></li><li><p>You have knowledge of automation and testing methodologies used for automated testing (JUnit, Truth), familiar with RESTful API's, offline storage, threading and perfomance tuningÃÂ </p></li><li><p>Proficient in code versioning tools such as Git and familiair withÃÂ push notifications, APIs, and cloud messaging</p></li><li><p>Experience with continuous integration (CI) and continuous deployment (CD) solutions such as Bitrise</p></li>                </ul><br><h1>What we offer.</h1><p>A mission-driven culture with a great work/life balance and a good benefits package. Sure, we work hard to get sh*t done, but we also regularly push our moustache (sorry, itÃ¢â¬â¢s a silly joke for Dutch readers) for a VR gaming session, picnics in the park, indoor bouldering, drinks at the pub, live DJ sessions and whatever happens in our (wo)man cave - and probably best stays there. The setting aside, we also:</p><ul><li>Pay you (pinky promise!): between EUR 55K and 75K per year [skill dependent]</li><li>Allow you to work wherever, including 2 days at our Amsterdam HQ </li><li>Send you on your merry way for 25 days each year, minimum (more is negotiable)</li><li>Provide you with great gear; a high-end laptop and whatever else you need to succeed. Perhaps an AI-driven desk chair that *knows* when you want to lean back?</li><li>Lifetime Cryptohopper subscription (if you donÃ¢â¬â¢t break our BFF vows)</li><li>Shower you with extras, like trading benefits, a generous training budget, and (mom will be proud!) the opportunity to work in a domain that accelerates financial inclusion for the unbanked</li><li>Pour you a stiff drink on Fridays, coffee that wonÃ¢â¬â¢t make you wish you chose tea, and lots of mind-blowing feedback on your work, hobbyÃ¢â¬â¢s, and pets. And we sincerely look forward to hearing whatÃ¢â¬â¢s on your mind, too.</li></ul><br><p></p><h1>Ready to virtually meet our engineers?</h1><p>We donÃ¢â¬â¢t require (in fact, please donÃ¢â¬â¢t) a motivation letter; weÃ¢â¬â¢d rather have a good chat and tell you everything you want to know. About life, the universe, and everything! Mail your resume to hr@cryptohopper.com. More information? Call or WhatsApp Laura at +31614886381 (n/a for trading insights ;-)</p><br>
                 </details>
                 </td>
             </tr>,<tr>
@@ -85,7 +110,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-go-developers-2" align="right" target="_blank">Apply</a>
@@ -148,7 +173,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/kratzen-partners-senior-javascript-developer" align="right" target="_blank">Apply</a>
@@ -187,7 +212,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
@@ -238,7 +263,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>92 days ago</text>
+                <text>93 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone" align="right" target="_blank">Apply</a>
@@ -353,7 +378,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>120 days ago</text>
+                <text>121 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testdome-frontend-developer-vue-js-asp-net-core-1" align="right" target="_blank">Apply</a>
@@ -408,7 +433,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>360 days ago</text>
+                <text>361 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -455,7 +480,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>360 days ago</text>
+                <text>361 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-front-end-developer" align="right" target="_blank">Apply</a>
@@ -501,7 +526,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>600 days ago</text>
+                <text>601 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
@@ -573,6 +598,37 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1390116/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>SourceTER</h5>
+                    <h3>Lead Developer Relations</h3>
+                </td>
+                <td width="300">
+                    <code>apache,backend,cloud,developer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/lead-developer-relations-1390116" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Our client is the only low-code messaging platform that provides a full ecosystem for streaming use cases over a cloud-native message broker that supports modern streaming pipelines and use-cases by removing frictions of management, cost, resources, language barriers, and time for data-oriented developers and data engineers, unlike other message brokers and queues that requires a great amount of code, optimizations, adjustments, and mainly time.</p>
+<p>It's an open-source project that brings dev-first experience.</p>
+<p>Our DevRel will drive the marketing, growth, and tech awareness among developers, communities, and tech leaders, help to build the brand and position as a powerful yet easy-to-onboard and use tool for data engineers and developers,who are required to utilize queues and brokers in their design pattern and architecture.</p>
+<p><br>DevRel will speak and interact with developers, write compelling materials, engage with our current community, and lead the marketing team (2 people).<br>Main KPI is to drive overall growth and adoption rate by developers.</p>
+<p>Requirements:<br>3-5 years of experience in development, not necessarily<br>Backend/Full-stack developer around data and data engineering projects, companies, product, technologies<br>Experience with one or more modern data tools like Apache Kafka, RabbitMQ, Apache Pulsar, Apache Pinot, Apache Flink, Apache Spark<br>Data Engineer / data-oriented developer<br>Experience in building data pipelines / Batch processing / Data Streaming use cases<br>Excellent in content writing and do it on a regular basis<br>Participating now or in the past in one or more open-source projects<br>An active member in one or more dev communities<br>Speak in conferences/meetups<br>Writes blog/articles/posts often<br>Ability to lead a team</p>
+<p>Responsibilities:<br>Engage with existing users to increase usage<br>Expand user base and research for potential new crowds<br>Develop and write content on a regular basis<br>Craft and work around our messaging across the different platforms from GitHub readme to our website to our docs.<br>Develop thought-leadership materials for technical audiences<br>Working directly with our Product Manager, Content developers, R&amp;D Team and Executive Leadership<br>Collaborate with industry leaders and organizations to initiate joint marketing opportunities<br>Drive growth across dev-based platforms</p>
+<p>We Offer:<br>Competitive market salary<br>Flexible working hours<br>Paid sick leaves and vacations<br>Team of professionals who knows how to build world-class products<br>Wide range of cool opportunities for professional and personal growth</p>
+<img src="https://remotive.com/job/track/1390116/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1394324/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -583,7 +639,7 @@
                     <code>api,CSS,developer,docker</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
@@ -684,7 +740,7 @@
                     <code>AWS,cloud,CSS,developer</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1393221" align="right" target="_blank">Apply</a>
@@ -709,7 +765,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -786,7 +842,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -863,7 +919,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -888,7 +944,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -913,7 +969,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -938,7 +994,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -963,7 +1019,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -988,7 +1044,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -1013,7 +1069,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
@@ -1038,7 +1094,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -1071,75 +1127,6 @@
 <p> </p>
 <p style="padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 27px; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.</p>
 <img src="https://remotive.com/job/track/1322995/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify</h5>
-                    <h3>Senior Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>backend,developer,frontend,fullstack</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>About us: </p>
-<p> </p>
-<p>"Talent has no borders." We strongly believe in uplifting talent by providing them with the right opportunities - no matter which part of the world you are from, we value your skills and offer every member the growth possibilities they deserve. 🙂</p>
-<p> </p>
-<p>Proxify is a global network and a supportive community of talented developers interested in long-term remote jobs. </p>
-<p>With us, you will get opportunities:</p>
-<p>To work remotely on exciting projects with leading brands and fast-growing startups.</p>
-<p>To work on commision free project-based jobs.</p>
-<p>To work with companies that respect and value your skills.</p>
-<p> </p>
-<p>Since our launch, talented developers on Proxify have worked with 620+ happy clients to build their products and growth features. 1400+ talented developers trust Proxify and the community we are building to fulfil their dreams and objectives. </p>
-<p><br><br></p>
-<p>The Role:</p>
-<p>We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </p>
-<p><br><br></p>
-<p>What we are looking for:</p>
-<p>4+ years of working experience as a FullStack;</p>
-<p>Frontend:</p>
-<p>- React JS;</p>
-<p>- Design System;</p>
-<p>Backend:</p>
-<p>- Microservices architecture;</p>
-<p>- NodeJS; </p>
-<p>Database:</p>
-<p>- SQL;</p>
-<p>- MongoDB;</p>
-<p>Upper-intermediate or higher English level.</p>
-<p> </p>
-<p>Nice-to-have: </p>
-<p>Timezone: CET (+/- 3 hours);</p>
-<p>Database Architecture knowledge</p>
-<p><br><br></p>
-<p>What we offer:</p>
-<p>💻 100% remote work: Work from anywhere.</p>
-<p>👌🏻 Flexibility: The ability to change the project to another one.</p>
-<p>💵 Financial growth: Competitive compensation and performance-based increases.</p>
-<p>🧘🏻‍♂️ Freedom: Very flexible working schedule.</p>
-<p>🚀 360 degree growth: Opportunities for professional development and personal growth.</p>
-<p><br><br><br></p>
-<p>Your benefits with Proxify:</p>
-<p>Be part of Proxify community: Network with like-minded and enthusiastic individuals to make a difference. </p>
-<p>Make an impact: You get the opportunity to work on the projects that inspire you and add value to your career.</p>
-<p>Transparency: Contracts with transparency in earnings and working hours.</p>
-<p>Save your time: Fast and efficient hiring process to match you with the project of your preference.</p>
-<p>Ownership: Take ownership of your work and enjoy more freedom in your career.</p>
-<img src="https://remotive.com/job/track/1359476/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
