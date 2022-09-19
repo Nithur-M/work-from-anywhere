@@ -10,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/baymard-institute-e-commerce-ux-auditor" align="right" target="_blank">Apply</a>
@@ -91,7 +91,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>312 days ago</text>
+                <text>313 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -157,7 +157,7 @@
                     <code>contract,go,ui,ux</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
@@ -232,7 +232,7 @@
                     <code>ui,ux,management,networking</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-ux-ui-designer-1344663" align="right" target="_blank">Apply</a>
@@ -243,77 +243,6 @@
                 <details><summary>Description</summary>
                 <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your lifestyle with the freedom to work however, wherever — on your terms. </em></span></span></p><br><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Freelance work is defining the careers of today's designers in exciting new ways. If you're passionate about working flexibly with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career move. </span></p><br><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Toptal is an exclusive talent network for the world's top 3% of designers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you'll choose your own schedule and work from anywhere.  </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won't bid for projects against other designers in a race to the bottom.</span></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"> </span>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. </span></p><br><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">As a freelance designer, you'll instantly join a thriving community of experts in over 120 countries. Work remotely on projects that meet your career ambitions, and expand your impact through networking events, volunteering, publishing, public speaking opportunities, and more.</span></p><br><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">That's why the world's top 3% of designers choose Toptal. Designers in our network share:</span></p><ul style="padding-inline-start: 48px;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">3+ years</span></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"> of professional experience</span> working on </span><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">UX</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">, </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">UI</span></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">,</span> or/and </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Interaction Design</span></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> of digital products</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Portfolio of at least 6 design projects</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Experience with </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Landing Page</span>, <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Dashboard</span>, </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">or/and </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Web App Design</span></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> is a bonus</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Ability to collaborate with cross-functional team members is required</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Ability to collect and interpret both qualitative and quantitative feedback is required</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Experience with AR/VR is a strong advantage</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Project management skills</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">A keen attention to detail</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Full-time availability</span></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> is a strong advantage</span></p></li></ul><p><span style="color: var(--remotive-chocolate); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">If you're ready for a career shift to impactful freelance work, take the next step by clicking apply and filling out the short form:</span><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><a href="https://topt.al/q3cbPV" rel="nofollow">https://topt.al/q3cbPV</a><br></span></p>
 <img src="https://remotive.com/job/track/1344663/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/20/05/amwell.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Amwell</h5>
-                    <h3>VP, UX Design and Research</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J118606/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Company Description
-Amwell is a leading telehealth platform in the United States and globally, connecting and enabling providers, insurers, patients, and innovators to deliver greater access to more affordable, higher quality care. Amwell believes th …
-<p><strong>Company Description</strong></p>
-<p>Amwell is a leading telehealth platform in the United States and globally, connecting and enabling providers, insurers, patients, and innovators to deliver greater access to more affordable, higher quality care. Amwell believes that digital care delivery will transform healthcare. We offer a single, comprehensive platform to support all telehealth needs from urgent to acute and post-acute care, as well as chronic care management and healthy living. With over a decade of experience, Amwell powers telehealth solutions for over 150 health systems comprised of 2,000 hospitals and 55 health plan partners with over 36,000 employers, covering over 80 million lives.</p>
-<p><strong>Brief Overview:</strong></p>
-<p>We are driving a digital revolution in healthcare that is dramatically improving the access to, quality of and affordability of care. We need a driven, passionate, and seasoned senior UX Design leader to play a critical role in developing and guiding the user experience and research strategy of this revolution. These products literally help improve lives every day by helping patients get the help they need for everything from a sore throat to anxiety to a stroke.</p>
-<p>This leader will be a key part of the collective product development leadership team, reporting to the Chief Product Officer.</p>
-<p><strong>Core Responsibilities:</strong></p>
-<ul>
-<li>Develop and implement design strategy, principles, processes, and tools to guide the design of Amwell products</li>
-<li>Create, socialize, and implement user experience strategies for the product portfolio</li>
-<li>Provide key upstream guidance in the product development lifecycle on personas and user segments and their unique needs to shape the future roadmap of innovations and existing products</li>
-<li>Partner with product leadership to define goals for the user experience team, monitor progress, and track results</li>
-<li>Define effective cross-functional collaboration approaches within the product and engineering group, optimizing UX team delivery processes in partnership with product management, engineering, marketing, and other relevant teams</li>
-<li>Ensure products meet objectives for usability, adhere to relevant design, localization, and accessibility standards, comply with company identity guidelines, and deliver positive experiences</li>
-<li>Attract, recruit, coach, and retain exceptional talent</li>
-<li>Grow the next level of leaders, ensuring that team members are equipped with the necessary skillsets, processes, training, and tools to execute great work</li>
-<li>Infuse the team culture with a design thinking mindset to solve business, product, and user problems</li>
-</ul>
-<p><strong>Qualifications:</strong></p>
-<ul>
-<li>10+ years of experience successfully leading and managing large multi-disciplinary design teams</li>
-<li>A portfolio of work demonstrating experience creating great user-centered design solutions</li>
-<li>Excellent communication, presentation, and storytelling skills</li>
-<li>Proven experience with rapid, iterative research, design and development processes</li>
-<li>Proven track record presenting to and influencing people, from other designers to senior executive management</li>
-<li>Experience presenting to and effectively advising senior leaders outside of design</li>
-<li>Experience leading projects in a collaborative multi-disciplinary team including designers, researchers, design technologists, writers, product managers, program managers, and software developers</li>
-<li>Fluency in best practices for multi-platform research, information architecture and design, as well as strong knowledge of usability principles and techniques</li>
-<li>Bachelor’s, or equivalent degree, in Design, HCI, or related field or equivalent professional experience within the design field</li>
-</ul>
-<p><strong>Additional information</strong></p>
-<p><strong>Working at Amwell:</strong></p>
-<p>Amwell is changing how care is delivered through online and mobile technology. We strive to make the hard work of healthcare look easy. In order to make this a reality, we look for people with a fast-paced, mission-driven mentality. We’re a culture that prides itself on quality, efficiency, smarts, initiative, creative thinking, and a strong work ethic. </p>
-<p>Our Core Values include One Team, Customer First, and Deliver Awesome. Customer First and Deliver Awesome are all about our product and services and how we strive to serve. As part of One Team, we operate the Amwell Cares program, which brings needed assistance to our communities, whether that be free healthcare for the underserved or for people affected by natural disasters, support for equality, honoring doctors and nurses, or annual Amwell-matched donations to food banks. Amwell aims to be a force for good for our employees, our clients, and our communities.</p>
-<p>Amwell cares deeply about and supports Diversity, Equity and Inclusion. These initiatives are highlighted and reflected within our Three DE&amp;I Pillars - our Workplace, our Workforce and our Community.</p>
-<p><strong>Amwell </strong>is a "virtual first" workplace, which means you can work from anywhere, coming together physically for ideation, collaboration and client meetings. We enable our employees with the tools, resources and opportunities to do their jobs effectively wherever they are! <strong> Amwell has collaboration spaces in Boston, Tysons Corner, Portland, Woodland Hills, and Seattle.</strong></p>
-<ul>
-<li>Unlimited Personal Time Off (Vacation time)</li>
-<li>401K match</li>
-<li>Competitive healthcare, dental and vision insurance plans</li>
-<li>Paid Parental Leave (Maternity and Paternity leave)</li>
-<li>Employee Stock Purchase Program</li>
-<li>Free access to Amwell’s Telehealth Services, SilverCloud and The Clinic by Cleveland Clinic’s second opinion program</li>
-<li>Free Subscription to the Calm App</li>
-<li>Tuition Assistance Program</li>
-<li>Pet Insurance</li>
-</ul>
                 </details>
                 </td>
             </tr></table>
