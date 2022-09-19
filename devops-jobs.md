@@ -1,30 +1,5 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/b3a0d83447bc39d4b1a64030b7c69c821663258567.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Calm</h5>
-                    <h3>
-					Senior DevOps Engineer				</h3>
-                </td>
-                <td width="300">
-                    <code>engineer, senior, finance</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/118081" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Who We Are:Â </strong></p><p><span style="font-weight: 400;">At Calm, we have a simple, albeit BIG mission: to make the world a happier and healthier place. Through our website, blog, and appâfilled with meditations, sleep stories, music, movement, and moreâweâre redefining what mental care looks like in 2022 and beyond. With over 100 million users worldwide, 100,000 new users daily, and our growing partnerships with major companies, weâre having a positive effect on more and more people each and every day. And while the heart of Calm is digital, we are growing and expanding offline with a variety of products and services to help deliver on our mission of health and happiness, the world over.</span></p><p><strong>What We Do:</strong></p><p>We build Calmâs product, guide Calmâs analysis, secure Calmâs data, and operate the platforms that underpin it all. Weâre product-minded, team-oriented, and grounded in the mission of making the world a happier and healthier place. We work closely with every part of Calm from Legal to Customer Experience, and partner on every initiative from content launches to B2B.</p><p><span style="font-weight: 400;">We are highly collaborative and focused on building scalable and foundational services for other engineering teams. Our team provides the services and systems that power a global distribution of content from Calmâs many content partners and producers. You will be responsible for owning, maintaining, and scaling Calmâs distributed backend infrastructure.Â </span></p><p><strong>What Youâll Do:</strong></p><p>You will be a part of Calmâs core infrastructure team, and help guide efforts across engineering to build a scalable, reliable platform that millions around the world depend on.Â </p><ul><li style="font-weight: 400;"><span style="font-weight: 400;">Systems performance tuning with a focus on high availability and scalability</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Application and infrastructure monitoring and troubleshooting</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Assist engineering team with debugging issues</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Assist engineering team with accelerating processes through automation</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Ensure we are up to date on the latest patches, security issues through automation and building security into our SDLC processesÂ </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Accelerate code velocity and improve process for engineering to improve ship timeÂ </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Continually improve reliability of systemsÂ </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Championing the concepts of immutable containers, Infrastructure as Code, stateless applications, and software observability throughout the organization</span></li></ul><p><strong>Who You Are:</strong></p><ul><li style="font-weight: 400;"><span style="font-weight: 400;">5+ years experience in DevOps</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Strong communicator, both written and verbal</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Familiar with</span></li><ul><li style="font-weight: 400;"><span style="font-weight: 400;">AWS or GCP (Prefer AWS)Â </span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Terraform</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Kubernetes</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Docker</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Advanced networking concepts</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Cloud architecture</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Advanced networking concepts and design</span></li></ul></ul><p><strong>Nice-to-Haves:Â </strong></p><ul><li style="font-weight: 400;"><span style="font-weight: 400;">Aurora</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Redis</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Jenkins or GitHub Actions</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Python</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Crossplane</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Vault</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">Datadog</span></li><li style="font-weight: 400;"><span style="font-weight: 400;">GCP Identity Access Management (IAM) and Identity Aware Proxy (IAP)</span></li></ul>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/5816/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -35,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bitovi-sre-and-devops-consultant-2" align="right" target="_blank">Apply</a>
@@ -146,7 +121,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1344659" align="right" target="_blank">Apply</a>
