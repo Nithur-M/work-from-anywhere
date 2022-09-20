@@ -11,7 +11,7 @@
                     <code>manager, nft, health</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/119464" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>manager, react, financial</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/119457" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>manager, nft, management</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/119460" align="right" target="_blank">Apply</a>
@@ -86,7 +86,7 @@
                     <code>manager, crypto, financial</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/118938" align="right" target="_blank">Apply</a>
@@ -110,7 +110,7 @@
                     <code>ecommerce,education,marketing,product manager</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-b2c-1388899" align="right" target="_blank">Apply</a>
@@ -168,6 +168,70 @@
 <p><strong>We offer a competitive compensation plan and various perks including:</strong><br>• Annual bonus plans<br>• Employee benefits and insurance plan<br>• Paid vacation, personal days, and sick days<br>• Gym/fitness allowance<br>• Day off for your birthday<br>• Education allowance to keep your skills and learning current</p>
 <p> </p>
 <img src="https://remotive.com/job/track/1388899/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/20/05/Newsela.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Newsela</h5>
+                    <h3>Senior Product Manager, Content Discovery</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J119274/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                The Role:
+As Senior Product Manager, Content Discovery you will be responsible for improving the Content Discovery experience on Newsela to help teachers and students find great content for their classrooms. You will leverage your strong analytical s …
+<p><strong>The Role:</strong></p>
+<p>As Senior Product Manager, Content Discovery you will be responsible for improving the Content Discovery experience on Newsela to help teachers and students find great content for their classrooms. You will leverage your strong analytical skills to dig into data and identify the opportunities that  drive the largest impact. Reporting to the Principal Product Manager, Content Discovery, you will own and manage core functions of the discovery experience and drive impact through iteration in partnership with Engineering, Design, Technology and Data Science.  We are looking to bring on talented Product Managers passionate about optimizing content discovery experiences through enhancements to search relevance, recommendations, and personalization. Come and help bring joy to the millions of students and teachers that use Newsela. </p>
+<p><strong>Why You’ll Love This</strong></p>
+<p>The Content Discovery team is responsible for some of the most important core features on Newsela. As a member of the Content Discovery team, you will have the opportunity to join a key business function at Newsela and directly impact our mission to deliver meaningful classroom learning to every student. We are a customer-obsessed, highly analytical team that cares deeply about helping our teachers facilitate meaningful classroom learning.This is a high trust team that likes to have fun and celebrate our wins with virtual get-togethers and in-person gatherings planned throughout the year.</p>
+<p><strong>Why We’ll Love You:</strong></p>
+<p>With 4+ years of experience, you are a customer centric Product Manager with a track record of delighting users with impactful product launches. You are familiar with SQL and comfortable using those skills to analyze experiment results and communicate them with the team, executives, and the company. You have excellent analytical sense, and have experience driving product &amp; business decisions that involve quantitative analysis and experimentation. You have a passion and drive for testing and learning at a face paced and are a tactical executor. While not required, experience with search relevance and/or recommendations is preferred. </p>
+<p><strong>About Newsela:</strong></p>
+<p>One of the fastest growing tech companies in K-12 education, Newsela was founded on the principle that while every child may have unique learning preferences, they all deserve a rich learning experience that ignites a love of learning. We built our platform based on learning science research to deliver the most engaging, authentic content to modernize how teaching happens in the classroom. Along with interactive assessments and tools, we provide teachers with digital content at five reading levels -- from +100 of the best sources -- that is relevant to the diverse backgrounds and interests of their students. Since we started in 2013, we’ve established a presence in 90% of U.S. K-12 schools and over 2.5M teachers and 37M students have registered with Newsela.</p>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/08/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kraken</h5>
+                    <h3>Product Manager, Compliance</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J119411/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                About KrakenAs one of the largest and most trusted digital asset platforms globally, we are empowering people to experience the life-changing potential of crypto. Trusted by over 8 million consumer and pro traders, institutions, and authorities world …
+About Kraken<br/>As one of the largest and most trusted digital asset platforms globally, we are empowering people to experience the life-changing potential of crypto. Trusted by over 8 million consumer and pro traders, institutions, and authorities worldwide - our unique combination of products, services, and global expertise is helping tip the scales towards mass crypto adoption. But we’re only just getting started. We want to be pioneers in crypto and add value to the everyday lives of billions. Now is not the time to sit on the sidelines. Join us to bring crypto to the world.<br/>To ensure Kraken is the right fit for you, please ensure you read <a>Kraken Culture Explained</a> to find out more about us!<br/>We will consider candidates at all experience levels. This is a fully remote role and we will consider applicants based throughout the world.<br/>The Product Compliance team is looking for a Product Compliance Manager. <br/>This role supports the success of Kraken across its products, providing expertise in industry best practices and regulatory requirements. You will use your knowledge of rules and regulations, AML compliance, and Sanctions laws to establish regulatory go-to market strategies and influence expansion for new global product launches. 
+<h3>Responsibilities</h3>
+<ul>
+<li>Embedding within a team or teams to ensure compliance considerations are included from project initiation through initial scoping to ongoing execution and international expansion</li><li>Ensuring that compliance data and reporting considerations are built into new products</li><li>Supporting expansion for new global product launches by scoping and communicating compliance requirements </li><li>Designing go-to market strategies that comply with applicable regulatory obligations </li><li>Advising on Compliance operational process and regulatory requirements across markets</li><li>Determining operational requirements of new global product plans, including partnering with various teams (trading engine, mobile app, etc…) across the organization</li><li>Drafting and Editing product requirements documents (PRDs)</li><li>Drafting relevant program documentation, content, and processes</li><li>Remaining up-to-date on regulatory changes and landscape, best practices, and cutting-edge developments in the industry</li></ul>
+<h3>Requirements</h3>
+<ul>
+<li>5+ years in regulatory compliance industry, ideally with significant experience in international markets and across products</li><li>Ability to effectively communicate across multiple lines of business and senior management, including across technical and non-technical groups</li><li>Ability to quickly identify and understand complex problems, and to build internal consensus toward mitigation</li><li>Executive level presentation skills, both verbal and written</li><li>Knowledge of Global AML compliance and Sanctions Regulations</li><li>Strong product background, including experience drafting PRDs</li><li>Experience working with engineering teams</li><li>Strong Regulatory knowledge</li></ul>Location Tagging: #US #EU<br/>We’re powered by people from around the world with their own unique and diverse experiences. We value all Krakenites and their talents, contributions, and perspectives, regardless of their background. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!<br/>As an equal opportunity employer we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws. <br/>Stay in the know<br/><a>Kraken Culture Explained</a><a>Follow us on Twitter</a><a>Catch up on our blog</a><a>Follow us on LinkedIn</a>
                 </details>
                 </td>
             </tr></table>
