@@ -11,7 +11,7 @@
                     <code>developer, teaching, crypto</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/119451" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>developer, node, lead</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/119455" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>developer, financial, security</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/118941" align="right" target="_blank">Apply</a>
@@ -71,31 +71,6 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="content-intro"><h3><strong>About us</strong></h3><p><span style="font-weight:400;">OpenZeppelin is a leading cybersecurity company that provides security products to build, automate, and operate decentralized applications.</span></p><p><span style="font-weight:400;">With a mission to protect the open economy, our team created the most popular open source library for smart contract development with over 4 million downloads. Our unique expertise subsequently allowed us to uncover major security vulnerabilities for the Ethereum Foundation,  MakerDAO, and Facebookâs Libra, and conduct security audits for many top blockchain companies including Coinbase, Brave, Compound, Aave, and Augur. </span></p><p><span style="font-weight:400;">Building on this experience, we recently launched a platform to help teams automate their Ethereum operations and securely ship products faster: OpenZeppelin Defender. </span></p><p><span style="font-weight:400;">With the success of our products, security audit work, and open source educational efforts, we are setting industry standards for building secure systems in a fast-growing industry that is creating an open financial system for the world.</span></p></div><h3><strong>What you'll be doing</strong></h3><p><span style="font-weight:400;">As a Forta Node Developer, you will join the Forta core dev team at OpenZeppelin working on Forta scan nodes. Forta is a decentralized protocol for scanning smart contracts that OpenZeppelin incubated and launched in 2021. Forta is already used by many top projects including Balancer, Compound, Curve, InstaDapp, Lido,  Maker, UMA, Uniswap, and Yearn. </span></p><p><span style="font-weight:400;">Forta scan nodes are built using Go and Docker and interact with Solidity smart contracts and IPFS. We are looking for developers who have strength in Go and Docker. We also operate Forta community resources in AWS, so skills in AWS services, Elasticsearch and GraphQL are a plus. All of our work integrates with Solidity smart contracts, so experience and understanding working with Ethereum and EVM-compatible blockchains is a must.</span></p><p><span style="font-weight:400;">In this role, you will play an essential part in building new components, communicating with users and node runners to gather feedback, and working collaboratively with the rest of the team to make sure we solve important problems and provide a great user experience. </span></p><p><span style="font-weight:400;">Specifically, you will:</span></p><ul><li style="font-weight:400;"><span style="font-weight:400;">Design and implement new features including writing tests and documentation.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Participate in community forums to collect feedback and define new features.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Help build reliable and scalable systems with a strong focus on security.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Contribute to the operational support of nodes that OpenZeppelin runs.</span></li></ul><h3><strong>You have</strong></h3><ul><li style="font-weight:400;"><span style="font-weight:400;">2+ years of experience developing programs in Golang.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Good understanding of Ethereum and Solidity.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Experience with Docker.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Strong desire to learn about Ethereum and contribute to the blockchain space.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Prior experience working remotely: strong personal organizational skills, a love for self-time management, and ability to work collaboratively with a team.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Advanced English communication skills â all of our internal and external communication is in English.</span></li></ul><h3><strong>Nice to have</strong></h3><ul><li style="font-weight:400;"><span style="font-weight:400;">Good understanding of security concerns in the Ethereum ecosystem.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Working knowledge of AWS services</span></li></ul><div class="content-conclusion"><div class="container"><div class="job-description"><div class="requirements"><h3 class="job-description-title">Benefits</h3><ul><li><p>Medical Insurance: Top quality insurance options for you.</p></li><li><p>Paid leave for new parents.</p></li><li><p>Team Events: Company retreats in different locations around the world.</p></li><li><p>Monthly allowance for wellness activities.</p></li><li><p>Coworking: access to a coworking space of your choice.</p></li><li><p>Training: Technical training, spoken language lessons in any language of your choice.</p></li></ul></div><div class="company-footer"><p>At OpenZeppelin, we are an equal opportunity employer and we value different perspectives. We are committed to building a diverse workforce. This includes but is not limited to gender, race, sexual orientation, religion, national origin and other characteristics that make each one of us unique. In this uniqueness, we find the most value. Come join us!</p></div></div></div><div class="container"><div class="application-information"><h3 class="job-description-title"> </h3></div></div></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/4f11b5e5a892eb5392ea42d1552fc6a61663320607.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>The Real Deal</h5>
-                    <h3>
-					Senior Full Stack Developer				</h3>
-                </td>
-                <td width="300">
-                    <code>developer, react, security</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/118450" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Job Details:We are looking for a Senior Full Stack Developer to produce scalable software solutions. Youâll be part of a digital/product team thatâs responsible for the full software development life cycle, from conception to deployment.As a Senior Full Stack Developer, you should be bringing your expertise and experience to the table. Weâre building out a real estate analytics portal to monetize the extended set of data that we have to support multiple parties within the real estate lifecycle. Weâre looking for someone to help us build upon what we have started and has expertise in converting large datasets into easy to understand graphical interfaces.Job Responsibilities:âÂ Â Â Â Â  Build marketing pages and optimize current site UX and user flowsâÂ Â Â Â Â  Build high performing ad units (familiarity with GAM and GPT a plus)âÂ Â Â Â Â  Enhance and support a high volume headless WordPress application using next.jsâÂ Â Â Â Â  Develop and manage well-functioning databases and applicationsâÂ Â Â Â Â  Build test cases to ensure cross platform/browser, responsiveness and efficiency for web applicationsâÂ Â Â Â Â  Troubleshoot, debug and upgrade softwareâÂ Â Â Â Â  Create security and data protection settingsâÂ Â Â Â Â  Write technical documentationJob Requirements:âÂ Â Â Â Â  5+ years of software development experience with extensive knowledge of WordPress and PHPâÂ Â Â Â Â  5+ years of experience with front-end development including HTML5/CSS3/JavascriptâÂ Â Â Â Â  3+ years of experience with the next.js framework or React frameworksâÂ Â Â Â Â  Experience developing responsive web applicationsâÂ Â Â Â Â  Experience in headless WordPress is desiredâÂ Â Â Â Â  Experience architecting and building GraphQL APIs and REST-ful services using WordPressâÂ Â Â Â Â  Experience working with git source/version control platformsâÂ Â Â Â Â  Experience working with GitHub actions and CI/CDâÂ Â Â Â Â  Expert knowledge developing cross platform/browser (iOS, Android, IE, Firefox, Safari, Opera, etc.) for web applications (React Native)âÂ Â Â Â Â  Familiarity with and adherence to web standards and best practices for performance and accessibility (WCAG)âÂ Â Â Â Â  Knowledge of SEO best practices and Web AnalyticsâÂ Â Â Â Â  Proven ability to manage large scale technology projects successfullyâÂ Â Â Â Â  Ability to effectively prioritize and execute tasks in a high-pressure environmentâÂ Â Â Â Â  Strong communication skills (both in person and in writing) while interacting with individuals with a range of technical understandingâÂ Â Â Â Â  Excellent organizational and time management skillsWho We Are: Â The Real Deal is the largest real-estate news outlet in the US, reaching millions of professionals daily through our media channels. We have received 60+ awards for editorial excellence over the past six years, including the General Excellence award from the Society of Business Writers and Editors. Â Quantcast rates us among the 300-most visited sites in the US and the website with the wealthiest audience and one of the most educated.As a publication, The Real Deal is to real estate what Variety is to entertainment or what Politico is to Beltway politics â a plugged-in news outlet that is read by the entire industry. Â We are an equal opportunity employer and value diversity at our company. We do not discriminate based on race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status. We partner with our employees to support diversity and inclusion in the workplace and through higher education programs supporting rising journalists.
                 </details>
                 </td>
             </tr>,<tr>
@@ -110,7 +85,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-go-developers-2" align="right" target="_blank">Apply</a>
@@ -173,7 +148,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/kratzen-partners-senior-javascript-developer" align="right" target="_blank">Apply</a>
@@ -189,10 +164,9 @@
     <br /><strong>URL:</strong> <a href="https://www.kratzenpartners.com/">https://www.kratzenpartners.com/</a>
 </p>
 
-<div>Kratzen Partners is recruiting a <strong>full time 100% remote</strong> senior software developer to build an internal toolset for scraping public websites that have been specifically hardened against simple scraping methods.­­ The key to the project’s success will be problem solving, clever experimentation, grit, and creativity. </div><div> </div><div>
-<strong>About Us: </strong>Kratzen Partners is a global technology services provider specializing in discovering, collecting, and analyzing internet data and discretely relieving internal information collection operating burdens of the world’s leading data driven corporations and institutions. </div><div> </div><div><strong>Qualifications:</strong></div><div>·      Expert level experience in JavaScript, including web programming</div><div>·      Experience with website scraping, and/or writing stealthy bots</div><div>·      Naturally inquisitive and curious  </div><div>·      A knack for problem-solving, combining creativity and logical thinking<br>       ·      You probably enjoy solving puzzles and brain teasers</div><div>·      Fluent in English, especially written English</div><div>·      <strong><em>BONUS</em></strong>: experience with playwright framework</div><div> </div><div>
-<strong>Pay</strong>: €100-140k+ per year, based on experience. </div><div> </div><div><strong>What the job will be like</strong></div><div>Your initial role will be to build out the MVP for this new advanced scraping toolset, working with a PM and reporting to our VP of engineering, leveraging existing systems designs and experimentation results. However, you will be writing the production code from a blank slate, and there will still be considerable experimentation and problem solving required as we work through the inevitable unexpected hurdles. <br><br>
-</div><div>You’ll be primarily work on your own -- your VP and PM will help set direction and be available to brainstorm and provide suggested avenues of exploration. However, the more you can generate your own ideas, plans, and work independently, the better. Initial onboarding  will include daily check-ins, shifting to a 2/week cadence as you get settled. As long as you attend our calls, meet deadlines, and get your work done, you’re welcome to work your own schedule.</div><div> </div><div><strong>Our Interview Process </strong></div><div>1.     Submit an application (instructions below) </div><div>2.     We’ll interview the strongest 8-12 applicants, hopefully including you </div><div>3.     You will complete a small self-paced practical test: reverse engineer a simple, but obfuscated, JavaScript web app. We expect this project to take 2-5 hours. </div><div>4.     You will have a final interview with the product and engineering manager to ensure there is a good fit</div><div>5.     We’ll send you an offer!<br><br>We know interviews are no fun by their very nature. We dont know how how to fix, but please, have lunch on us! We’ll send €20 to anyone that even submits a take home test. </div><div>
+<div>Kratzen Partners is recruiting a <strong>full time 100% remote</strong> senior software developer to build an internal toolset for scraping public websites that have been specifically hardened against simple scraping methods.­­ The key to the project’s success will be problem solving, clever experimentation, grit, and creativity. <br><br>Please make sure to read the directions below under "Application Submission" carefully and answer all of the questions when submitting an application<br><br><strong>Pay</strong>: €100-140k+ per year, based on experience. </div><div> </div><div>
+<strong>About Us: </strong>Kratzen Partners is a global technology services provider specializing in discovering, collecting, and analyzing internet data and discretely relieving internal information collection operating burdens of the world’s leading data driven corporations and institutions. </div><div> </div><div><strong>Qualifications:</strong></div><div>·      Expert level experience in JavaScript, including web programming</div><div>·      Experience with website scraping, and/or writing stealthy bots</div><div>·      Naturally inquisitive and curious  </div><div>·      A knack for problem-solving, combining creativity and logical thinking<br>       ·      You probably enjoy solving puzzles and brain teasers</div><div>·      Fluent in English, especially written English</div><div>·      <strong><em>BONUS</em></strong>: experience with playwright framework</div><div> </div><div><strong>What the job will be like</strong></div><div>Your initial role will be to build out the MVP for this new advanced scraping toolset, working with a PM and reporting to our VP of engineering, leveraging existing systems designs and experimentation results. However, you will be writing the production code from a blank slate, and there will still be considerable experimentation and problem solving required as we work through the inevitable unexpected hurdles. <br><br>
+</div><div>You’ll be primarily work on your own -- your VP and PM will help set direction and be available to brainstorm and provide suggested avenues of exploration. However, the more you can generate your own ideas, plans, and work independently, the better. Initial onboarding  will include daily check-ins, shifting to a 2/week cadence as you get settled. As long as you attend our calls, meet deadlines, and get your work done, you’re welcome to work your own schedule.</div><div>
 <strong> </strong> </div><div><strong>Application Submission</strong></div><div>If this sounds like the right job for you, please send your first and last name, resume, and 2 or 3 sentences for each of following questions to <a href="mailto:careers@kratzenpartners.com">careers@kratzenpartners.com</a> : </div><div> </div><div>1.     What’s your experience scraping internet data?</div><div>2.     What are hard-to-spoof ways to fingerprint what browser someone is actually using?</div><div>3.     Without using the ip address, how might you detect a web client is using a vpn?</div><div>4.     Are there more avenues of detection available if the client is using an https proxy?</div><div> </div><div>
 <em>Please remember, THERE ARE NO WRONG ANSWERS to these question!</em> </div>
 
@@ -212,7 +186,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
@@ -263,7 +237,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>93 days ago</text>
+                <text>94 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone" align="right" target="_blank">Apply</a>
@@ -378,7 +352,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>121 days ago</text>
+                <text>122 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testdome-frontend-developer-vue-js-asp-net-core-1" align="right" target="_blank">Apply</a>
@@ -433,7 +407,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>361 days ago</text>
+                <text>362 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -480,7 +454,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>361 days ago</text>
+                <text>362 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-front-end-developer" align="right" target="_blank">Apply</a>
@@ -526,7 +500,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>601 days ago</text>
+                <text>602 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
@@ -598,33 +572,71 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1390116/logo" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>SourceTER</h5>
-                    <h3>Lead Developer Relations</h3>
+                    <h5>Proxify</h5>
+                    <h3>Senior Full Stack Developer</h3>
                 </td>
                 <td width="300">
-                    <code>apache,backend,cloud,developer</code>
+                    <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/lead-developer-relations-1390116" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>Our client is the only low-code messaging platform that provides a full ecosystem for streaming use cases over a cloud-native message broker that supports modern streaming pipelines and use-cases by removing frictions of management, cost, resources, language barriers, and time for data-oriented developers and data engineers, unlike other message brokers and queues that requires a great amount of code, optimizations, adjustments, and mainly time.</p>
-<p>It's an open-source project that brings dev-first experience.</p>
-<p>Our DevRel will drive the marketing, growth, and tech awareness among developers, communities, and tech leaders, help to build the brand and position as a powerful yet easy-to-onboard and use tool for data engineers and developers,who are required to utilize queues and brokers in their design pattern and architecture.</p>
-<p><br>DevRel will speak and interact with developers, write compelling materials, engage with our current community, and lead the marketing team (2 people).<br>Main KPI is to drive overall growth and adoption rate by developers.</p>
-<p>Requirements:<br>3-5 years of experience in development, not necessarily<br>Backend/Full-stack developer around data and data engineering projects, companies, product, technologies<br>Experience with one or more modern data tools like Apache Kafka, RabbitMQ, Apache Pulsar, Apache Pinot, Apache Flink, Apache Spark<br>Data Engineer / data-oriented developer<br>Experience in building data pipelines / Batch processing / Data Streaming use cases<br>Excellent in content writing and do it on a regular basis<br>Participating now or in the past in one or more open-source projects<br>An active member in one or more dev communities<br>Speak in conferences/meetups<br>Writes blog/articles/posts often<br>Ability to lead a team</p>
-<p>Responsibilities:<br>Engage with existing users to increase usage<br>Expand user base and research for potential new crowds<br>Develop and write content on a regular basis<br>Craft and work around our messaging across the different platforms from GitHub readme to our website to our docs.<br>Develop thought-leadership materials for technical audiences<br>Working directly with our Product Manager, Content developers, R&amp;D Team and Executive Leadership<br>Collaborate with industry leaders and organizations to initiate joint marketing opportunities<br>Drive growth across dev-based platforms</p>
-<p>We Offer:<br>Competitive market salary<br>Flexible working hours<br>Paid sick leaves and vacations<br>Team of professionals who knows how to build world-class products<br>Wide range of cool opportunities for professional and personal growth</p>
-<img src="https://remotive.com/job/track/1390116/blank.gif?source=public_api" alt=""/>
+                <p>About us: </p>
+<p> </p>
+<p>"Talent has no borders." We strongly believe in uplifting talent by providing them with the right opportunities - no matter which part of the world you are from, we value your skills and offer every member the growth possibilities they deserve. 🙂</p>
+<p> </p>
+<p>Proxify is a global network and a supportive community of talented developers interested in long-term remote jobs. </p>
+<p>With us, you will get opportunities:</p>
+<p>To work remotely on exciting projects with leading brands and fast-growing startups.</p>
+<p>To work on commision free project-based jobs.</p>
+<p>To work with companies that respect and value your skills.</p>
+<p> </p>
+<p>Since our launch, talented developers on Proxify have worked with 620+ happy clients to build their products and growth features. 1400+ talented developers trust Proxify and the community we are building to fulfil their dreams and objectives. </p>
+<p><br><br></p>
+<p>The Role:</p>
+<p>We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </p>
+<p><br><br></p>
+<p>What we are looking for:</p>
+<p>4+ years of working experience as a FullStack;</p>
+<p>Frontend:</p>
+<p>- React JS;</p>
+<p>- Design System;</p>
+<p>Backend:</p>
+<p>- Microservices architecture;</p>
+<p>- NodeJS; </p>
+<p>Database:</p>
+<p>- SQL;</p>
+<p>- MongoDB;</p>
+<p>Upper-intermediate or higher English level.</p>
+<p> </p>
+<p>Nice-to-have: </p>
+<p>Timezone: CET (+/- 3 hours);</p>
+<p>Database Architecture knowledge</p>
+<p><br><br></p>
+<p>What we offer:</p>
+<p>💻 100% remote work: Work from anywhere.</p>
+<p>👌🏻 Flexibility: The ability to change the project to another one.</p>
+<p>💵 Financial growth: Competitive compensation and performance-based increases.</p>
+<p>🧘🏻‍♂️ Freedom: Very flexible working schedule.</p>
+<p>🚀 360 degree growth: Opportunities for professional development and personal growth.</p>
+<p><br><br><br></p>
+<p>Your benefits with Proxify:</p>
+<p>Be part of Proxify community: Network with like-minded and enthusiastic individuals to make a difference. </p>
+<p>Make an impact: You get the opportunity to work on the projects that inspire you and add value to your career.</p>
+<p>Transparency: Contracts with transparency in earnings and working hours.</p>
+<p>Save your time: Fast and efficient hiring process to match you with the project of your preference.</p>
+<p>Ownership: Take ownership of your work and enjoy more freedom in your career.</p>
+<img src="https://remotive.com/job/track/1359476/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -639,7 +651,7 @@
                     <code>api,CSS,developer,docker</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
@@ -740,7 +752,7 @@
                     <code>AWS,cloud,CSS,developer</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1393221" align="right" target="_blank">Apply</a>
@@ -765,7 +777,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -842,7 +854,7 @@
                     <code>contract,developer,go,wordpress</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -919,7 +931,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -944,7 +956,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -969,7 +981,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -994,7 +1006,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -1019,7 +1031,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -1044,7 +1056,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -1069,7 +1081,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
@@ -1094,7 +1106,7 @@
                     <code>developer,fullstack,go,javascript</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1322995" align="right" target="_blank">Apply</a>
@@ -1127,6 +1139,58 @@
 <p> </p>
 <p style="padding: 0px; border-style: initial; font-variant-numeric: inherit; font-variant-east-asian: inherit; font-stretch: inherit; line-height: 27px; vertical-align: baseline; font-synthesis: none; text-rendering: optimizelegibility; -webkit-font-smoothing: antialiased; color: #460b38;">The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.</p>
 <img src="https://remotive.com/job/track/1322995/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/09/o2MQG16s_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Agoda</h5>
+                    <h3>Salesforce Developer (6-month contract, Remote location)</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J119470/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                About Agoda 
+Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking H …
+<p><strong>About Agoda </strong></p>
+<p>Agoda is an online travel booking platform for accommodations, flights, and more. We build and deploy cutting-edge technology that connects travelers with more than 2.5 million accommodations globally. Based in Asia and part of Booking Holdings, our 4,000+ employees representing 90+ nationalities foster a work environment rich in diversity, creativity, and collaboration. We innovate through a culture of experimentation and ownership, enhancing the ability for our customers to experience the world.</p><p><strong>Get to Know our Team:</strong> </p>
+<p>Strategic Partnerships is a team of creative entrepreneurs that develop solutions for Agoda’s non-accommodation partners and promote Agoda’s top and bottom line growth. We design tailored business and product solutions with our partners and help them generate measurable value. Members of our team are empowered and supported to grow their market(s) or accounts. We develop win-win relationships and leverage Agoda’s unique accommodations portfolio and tech solutions to bring our partners the advantages they seek.  Utilizing our strong brand and resources, we build new channels to increase the visibility of Agoda, introduce more travelers to our great products and service and deliver significant revenues to the overall business.</p>
+<p>Salesforce Developer role is a crucial role for Strategic Partnerships success. You will join an expanding team where you will design the CRM landscape for Strategic Partnership team, allowing them to serve both Agoda and our Booking products to our strategic partners. The role will require you to work across multi-functional teams, including teams from Agoda's sister company, Booking.com. You will have plenty of opportunities to learn from a multi-cultural team and top talents across the world. This role will also have a direct impact on the team's future success.  </p>
+<p><strong>In this role, you’ll get to:   </strong></p>
+<ul>
+<li>Manage stakeholders across multiple teams to design business requirements, translate the requirements into detailed technical specifications that result in effective, scalable, and reliable solutions.  </li>
+<li>Lead the implementation of Agoda Strategic Partnerships CRM business flow from end to end. </li>
+<li>Communicate how solutions map optimally to original business requirements and provide product demonstration of developed solutions.  </li>
+<li>Performing code reviews, providing positive useful feedback and ideas on technical workflow.  </li>
+<li>Design and create reports and dashboard that will give recommendations to business users to make decisions strategically.  </li>
+</ul>
+<p><strong>Skills that are required for this roles:   </strong></p>
+<ul>
+<li>At least 2 years of experience developing custom solutions on the Salesforce platform using Apex Classes, Apex Triggers, Visualforce Pages, and Lightning Components.  </li>
+<li>Experience with Salesforce page layouts, profiles, permissions, workflows, and approval processes.  </li>
+<li>Knowledgeable of all levels of the SDLC and all testing phases.  </li>
+<li>Experience working with and writing intermediate to advanced queries in relational databases (SOQL, SQL, etc.)  </li>
+<li>Experience working with Salesforce APIs and Web Services (REST, SOAP)  </li>
+<li>Experience with data migration and system integration techniques. </li>
+</ul>
+<p><strong>Location: We welcome applications across locations. The selected candidate will be based in one of our local offices or remotely if no local office.</strong></p>
+<p>#vienna #minsk #brussels #saopaolo #shanghai #beijing #shenzhen #prague #cairo #alexandria #giza #estonia #hongkong #budapest #bangalore #newdelhi #jakarta #bali #bandung #amman #irbid #beirut #tripoli #kualalumpur #jerusalem #manila #warsaw #krakow #doha #alrayyan #bucharest #moscow #riyadh #jeddah #mecca #medina #capetown #johannesburg #seoul #barcelona #madrid #taipei #tainan #taichung #kaohsiung #bangkok #dubai #abudhabi #sharjah #london #manchester #liverpool #hcmc #hanoi #sanaa #taiz #aden #gibraltar  #kiev #belgrade #chisinau #athens #sofia #bratislava #riga #vilnius #yerevan #baku #zagreb #tirana #istanbul #ankara #izmir #edinburgh #Brno #Ostrava #Phuket #antwerp #ghent #charleroi #liege #graz #linz #malta #cyprus #valencia #seville #bilbao #malaga #oviedo #alicante #laspalmas #zaragoza #ANLS #IT #2 #3 #4</p><p><strong>Equal Opportunity Employer </strong></p>
+<p>At Agoda, we pride ourselves on being a company represented by people of all different backgrounds and orientations. We prioritize attracting diverse talent and cultivating an inclusive environment that encourages collaboration and innovation. Employment at Agoda is based solely on a person’s merit and qualifications. We are committed to providing equal employment opportunity regardless of sex, age, race, color, national origin, religion, marital status, pregnancy, sexual orientation, gender identity, disability, citizenship, veteran or military status, and other legally protected characteristics.</p>
+<p>We will keep your application on file so that we can consider you for future vacancies and you can always ask to have your details removed from the file. For more details please read our <a>privacy policy</a>.</p>
+<p>To all recruitment agencies: Agoda does not accept third party resumes. Please do not send resumes to our jobs alias, Agoda employees or any other organization location. Agoda is not responsible for any fees related to unsolicited resumes.</p>
+<p>#LI-Hybrid</p>
                 </details>
                 </td>
             </tr></table>
