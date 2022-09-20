@@ -1,5 +1,52 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/1084/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Rekursive Labs</h5>
+                    <h3> Senior Frontend / React Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/rekursive-labs-senior-frontend-react-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/1084/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> California
+    <br /><strong>URL:</strong> <a href="https://rekursive.com">https://rekursive.com</a>
+</p>
+
+<div>We’re looking for an enthusiastic, self-motivated full-time front end engineer to help us build an exciting new Web3 DeFi (Decentralized Finance) application for tokenizing real world financial products.  This brand new DeFi platform is being built from the ground up so you will have lots of opportunities to learn and have a big impact! You will work directly with the founder, who is a Google and Microsoft alumnus.<br><strong><br>Requirements</strong>
+</div><ul>
+<li>At least 2-3 years of React experience</li>
+<li>Experience with TypeScript</li>
+<li>Experience with Git</li>
+<li>Degree in computer science</li>
+<li>A deep understanding of the architecture of modern client-side React applications</li>
+<li>A desire to keep up with modern best practices in web development</li>
+<li>Strong problem solving / coding ability</li>
+<li>Experience in automated testing platforms and continuous integration</li>
+<li>Interest in blockchain technologies</li>
+<li>Great verbal and written English communication skills</li>
+<li>Able to work during, or close to Pacific Standard Time (California) daytime hours</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rekursive-labs-senior-frontend-react-engineer">https://weworkremotely.com/remote-jobs/rekursive-labs-senior-frontend-react-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0006/6308/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +57,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>121 days ago</text>
+                <text>122 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/slab-frontend-engineer" align="right" target="_blank">Apply</a>
@@ -66,6 +113,84 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1390068/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Premia</h5>
+                    <h3>Senior Frontend & Web3 Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>crypto,CSS,frontend,git</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-web3-engineer-1390068" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><strong>Senior Frontend &amp; Web3 Engineer - Remote</strong></div>
+<div> </div>
+<div>Premia is a decentralized options platform connecting traders and liquidity providers of all backgrounds. Offering non-custodial options to hedge, speculate, or earn yield on your digital assets.  Premia offers first of its kind automated market maker solutions in the DeFi space for Options Contracts through our use of Smart Liquidity Pools and Dynamic Pricing.  Premia enables best-in-class pricing based on market volatility, providing fully-featured peer-to-pool trading and capital efficiency to DeFi options.</div>
+<div> </div>
+<div>We are one of the smallest and most impactful teams in crypto. We are a globally distributed organization, with all positions being fully remote.</div>
+<div> </div>
+<div>We’re looking for a passionate, self-motivated engineer to help us build the next generation of financial products. As a dedicated frontend hire, you will gain ownership over our existing suite of web products, as well as the ability to influence the creation, design, and execution of future products. You will be responsible for ensuring a consistent, high-quality user experience across trading interfaces, data-heavy analytics pages, documentation portals and more.</div>
+<div><strong> </strong></div>
+<div><strong>Who are you?</strong></div>
+<div><span style="">A senior-level front-end engineer (JS/TS + React veteran) who is also crypto-native. At the very least, you understand and hold crypto assets or ideally have developed decentralized applications leveraging blockchain technology before, preferably EVM-compatible. </span></div>
+<div> </div>
+<div><span style="">You are passionate about building bleeding-edge technology for the next iteration of the internet with the use of cryptography and understand the necessity for building beautiful and user-friendly GUIs in order to facilitate the transition to web3. </span></div>
+<div> </div>
+<div><span style="">You have experience and are culturally aligned with fast-moving small teams. You have worked at remote (globally distributed) startups before. You are self-driven, are comfortable wearing many hats, can ship patches and features swiftly when needed. You can identify company priorities, own them, and iterate quickly to ship the best solution.</span></div>
+<div> </div>
+<div><span style="">You can write and speak fluent English and have great communication skills.</span></div>
+<div> </div>
+<div><strong>The Role:</strong></div>
+<div><span style="">Engineers at Premia work with our CTO and our existing engineering team to innovate, architect, and develop user-facing features and new iterations of the Premia app, as well as our event indexing system (The Graph).</span></div>
+<div> </div>
+<div><span style="">In addition, you will work closely with other departments such as Design, QA, Operations, and Marketing teams to successfully execute the implementation, testing, and deployment of new features.</span></div>
+<div> </div>
+<div><span style="">As a senior engineer, you will help (mentor) other members of the team, and will make sure components and app pages are well optimized and running smoothly. </span></div>
+<div> </div>
+<div><strong>Responsibilities</strong></div>
+<div><span style="">-Design, scope, and estimate complex features at the component level.</span></div>
+<div><span style="">-Build, test, and ship features, patches, and updates to our web app.</span></div>
+<div><span style="">-Collaborate with the team and cross-functional partners on all aspects of product development.</span></div>
+<div><span style="">-Identify and advocate for team-wide areas of improvement and best practices.</span></div>
+<div><span style="">-Mentor team members to refine their technical and architectural skills.</span></div>
+<div><span style="">-Help maintain our subgraph repository written in AssemblyScript (JS subset)</span></div>
+<div> </div>
+<div><strong>Requirements</strong></div>
+<div><span style="">-Experience owning and shipping products</span></div>
+<div><span style="">-5+ years of industry experience in software engineering</span></div>
+<div><span style="">-A mastery of Javascript, Typescript, and React with an understanding of encryption and cryptography </span> <span style="">fundamentals.</span></div>
+<div><span style="">-Experience working with GraphQL</span></div>
+<div><span style="">-Basic web3 understanding: Wallets, transactions, explorers, POW/POS, gas price, etc.</span></div>
+<div><span style="">-Ability to quickly iterate and ship code using test-driven development patterns</span></div>
+<div><span style="">-Ability to build modern, event-driven React frontends, converting Figma designs into functional components</span></div>
+<div><span style="">-Mastery of CSS, preferably via a library like MaterialUI</span></div>
+<div><span style="">-Experience with version control, such as Git</span></div>
+<div><span style="">-Knowledge of engineering best practices such as continuous integration</span></div>
+<div><span style="">-Exceptional judgment, problem-solving skills, and an analytical mindset</span></div>
+<div><span style="">-Ability to work in areas beyond your comfort zone and motivated by personal growth</span></div>
+<div><span style="">-A passion for learning and a self-awareness of your learning style</span></div>
+<div><span style="">-(Nice to have) Previous experience with web3.js or ethers.js libraries. </span></div>
+<div> </div>
+<div><strong>Benefits</strong></div>
+<div>Work from anywhere (Remote first), Flexible working hours, Flexible vacation policy, Competitive Salary + Token bonus (portion or all can be paid in Crypto).  Premia is committed to a diverse and inclusive workplace and is an equal opportunity employer. We do not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.</div>
+<div> </div>
+<div>Premia welcomes all qualified persons to apply. Compensation will be competitive and commensurate with experience. This is a full time role.</div>
+<div> </div>
+<div>To find out more you can view their website at <a class="postings-link" href="https://premia.finance/" rel="nofollow">https://premia.finance/</a></div>
+<img src="https://remotive.com/job/track/1390068/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1347890/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -76,7 +201,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-1347890" align="right" target="_blank">Apply</a>
