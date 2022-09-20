@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bitovi-sre-and-devops-consultant-2" align="right" target="_blank">Apply</a>
@@ -111,6 +111,152 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1391515/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MakerDAO</h5>
+                    <h3>DevOps Engineer < Chronicle Labs > Maker Oracles</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,cloud,crypto,devops</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/devops-engineer-chronicle-labs-maker-oracles-1391515" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p dir="ltr">Chronicle Labs is funded by MakerDAO and is responsible for the development and adoption of the Chronicle Protocol, the blockchain-agnostic infrastructure layer for truth.</p>
+<p dir="ltr">Chronicle Oracles act as arbiters of trust that provide data with integrity guarantees to blockchain applications. Chronicle Oracles have been live since 2016 and secure over $10B in MakerDAO as well as other top Defi protocols.</p>
+<p dir="ltr">Our team is looking for a seasoned DevOps Engineer, to help set up our infrastructure and assure the performance and reliability of our systems and services, which are one of the most critical systems of the Maker ecosystem.</p>
+<p dir="ltr">You will be responsible for designing and architecting our infrastructure and assuring the continuation of our Oracle services. The view of the ideal person is someone that focuses on monitoring, security, and altering, with a focus on automating where possible. We are still a lean team, so this role is for someone who enjoys having full ownership and autonomy of their work.</p>
+<div class="h3" dir="ltr"><br><br><strong>What you’ll work on </strong></div>
+<p> </p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Manage virtual network infrastructure through our cloud providers such as AWS, including DNS/domain management, firewall and load balancing services.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Manage virtual servers running a variety of services, including web &amp; database servers, Ethereum nodes, team collaboration services, and more.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Schedule and execute OS and service patches and upgrades, keeping our infrastructure up-to-date and protected against security vulnerabilities.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Infrastructure automation. Design, set up, and maintain Infrastructure as Code, providing automated provisioning and orchestration of internal Maker services using Terraform, Docker, and similar technologies.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Operate the internal support desk for these services within the Maker community. Investigate and troubleshoot issues and clearly communicate incident reports.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Select, secure, and manage administrative cloud services such as Google G-Suite, etc., to support internal Maker operations. Manage user accounts within these services.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Manage logging, monitoring, detection, and recovery infrastructure, ensuring the continued integrity, availability, and security of the Maker systems.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Software development lifecycle support. Managing development, staging, and production environments.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Collaborate with Maker development teams and QA engineers, supporting release pipelines with continuous integration and deployment of our platform and products. Setup and configuration of software development services such as Github, JIRA, and so on.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Inform and implement the Maker security strategy and policies. Create a culture of awareness and support the Maker teams in creating a secure, distributed working environment.</p>
+</li>
+</ul>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Most AWS services; other cloud providers is a plus;</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Linux system administration and shell scripting;</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Infrastructure automation and Configuration Management tools;</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Ability to design, implement, maintain and collaborate on Infrastructure as Code (Terraform);</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Deploy services to Container Clusters (Docker, Kubernetes, ECS, EKS);</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Monitoring, Observability, Debugging and Performance tuning (Prometheus, Grafana);</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">On-call experience (PagerDuty);</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Basic programming (Python);</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Git/GitHub knowledge - usage and administration of multiple Organisations;</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Conceptual and implementational knowledge of CI/CD (GitHub Actions);</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Experience with disaster recovery implementation and strategies; and</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Interpersonal skills working with stakeholders at different technical levels and backgrounds</p>
+</li>
+</ul>
+<div> </div>
+<div class="h3" dir="ltr"><strong>You will stand out if </strong></div>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Knowledge of Web3 and a keen interest to learn more.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Configuring and maintaining Ethereum nodes.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Familiarity with working in a startup environment.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Experience working with Open Source.</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Experience working and collaborating in a digital native environment (Discord, JIRA, Notion).</p>
+</li>
+</ul>
+<div> </div>
+<div class="h2" dir="ltr"><strong>What We Offer</strong></div>
+<p dir="ltr">An opportunity to work with veterans in the crypto space building on the bleeding edge of technology. Working on supporting some of the largest initiatives in Web3.</p>
+<ul>
+<li dir="ltr">
+<p dir="ltr">Competitive compensation</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Flexible payment options: USD / EUR / DAI</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Cryptocurrency bonuses</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">6 weeks vacation</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Remote working environment</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Flexible schedule</p>
+</li>
+<li dir="ltr">
+<p dir="ltr">Three offsites per year to meet up with the team</p>
+</li>
+</ul>
+<p> </p>
+<img src="https://remotive.com/job/track/1391515/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1344659/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -121,7 +267,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1344659" align="right" target="_blank">Apply</a>
