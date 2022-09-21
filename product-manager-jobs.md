@@ -11,7 +11,7 @@
                     <code>manager, nft, health</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/119464" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>manager, react, financial</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/119457" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
                     <code>manager, nft, management</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/119460" align="right" target="_blank">Apply</a>
@@ -75,27 +75,274 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/54da51a16cbd0d706343d56faab13e4f1663398937.png" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>OpenZeppelin</h5>
-                    <h3>
-					Forta Product Manager				</h3>
+                    <h5>Paymentology</h5>
+                    <h3> Product Manager</h3>
                 </td>
                 <td width="300">
-                    <code>manager, crypto, financial</code>
+                    <code>Product</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/118938" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/paymentology-product-manager" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="content-intro"><h3><strong>About us</strong></h3><p><span style="font-weight:400;">OpenZeppelin is a leading cybersecurity company that provides security products to build, automate, and operate decentralized applications.</span></p><p><span style="font-weight:400;">With a mission to protect the open economy, our team created the most popular open source library for smart contract development with over 4 million downloads. Our unique expertise subsequently allowed us to uncover major security vulnerabilities for the Ethereum Foundation,  MakerDAO, and Facebookâs Libra, and conduct security audits for many top blockchain companies including Coinbase, Brave, Compound, Aave, and Augur. </span></p><p><span style="font-weight:400;">Building on this experience, we recently launched a platform to help teams automate their Ethereum operations and securely ship products faster: OpenZeppelin Defender. </span></p><p><span style="font-weight:400;">With the success of our products, security audit work, and open source educational efforts, we are setting industry standards for building secure systems in a fast-growing industry that is creating an open financial system for the world.</span></p></div><h3><strong>About this role</strong></h3><p><span style="font-weight:400;">The mission for this role is to lead, define and manage the product strategy and roadmap to drive demand and usage adoption for Forta, a decentralized protocol incubated by OpenZeppelin.</span></p><p><span style="font-weight:400;">As the Product Manager, you are responsible for both product planning and product marketing, including defining the product vision, gathering and prioritizing product and user requirements, and working closely with the core dev team to deliver winning products. It also includes working with sales and marketing to ensure revenue and customer satisfaction goals are met. </span><span style="font-weight:400;"><br></span><span style="font-weight:400;"><br></span><span style="font-weight:400;">The ideal candidate is passionate about helping blockchain projects and developers have a great experience across all aspects of their user journey, from establishing new relationships to fostering deeper ties with the existing Forta Protocol customer/partner community. You will focus on engaging and supporting the blockchain development community and partnering with them throughout their customer journey.</span></p><h3><strong>What youâll be doing</strong></h3><ul><li style="font-weight:400;"><span style="font-weight:400;">Set Fortaâs product strategy, roadmap, and budget, aligned to Fortaâs strategy. Establish KPIs and track performance to ensure plans are delivering expected business outcomes.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Coordinate and track platform developments across multiple teams, and ensure that there are appropriate technical specifications for the core dev team to create new features and maintain internal documentation of product releases.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Understand Forta stakeholders needs (end users, agent developers and node runners) and community interests. Gather requirements, prioritize them, and communicate them to Core devs, Marketing, and Finance teams.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Monitor the crypto security landscape, identify and fill product gaps, and generate new ideas that grow market share, improve customer experience and drive growth</span></li><li style="font-weight:400;"><span style="font-weight:400;">Work with designers to craft a delightful user experience across the whole Forta ecosystem of products</span></li><li style="font-weight:400;"><span style="font-weight:400;">Work with the internal team and the community to design product economics and overall network business model.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Work closely with industry experts to ensure effective thought leadership and ongoing relevance in the market.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Test and iterate on product messaging and positioning that conveys the key benefits of the project to prospective users</span></li><li style="font-weight:400;"><span style="font-weight:400;">Partner with marketing, core dev and community teams to create and deliver engaging workshops and webinars complementing the projectâs strategy </span></li></ul><h3><strong>Ideally, you have</strong></h3><ul><li style="font-weight:400;"><span style="font-weight:400;">Minimum 3-5 years of technical product management experience with security or other IT focus or a combination of technical and marketing experience</span></li><li style="font-weight:400;"><span style="font-weight:400;">Technical knowledge of DeFi and the Ethereum ecosystem, additional knowledge outside the Ethereum space is also preferred </span></li><li style="font-weight:400;"><span style="font-weight:400;">Demonstrated experience working collaboratively across teams to successfully launch new products and features bring products to market </span></li><li style="font-weight:400;"><span style="font-weight:400;">Excellent writing and communication skills</span></li><li style="font-weight:400;"><span style="font-weight:400;">Ability to convey complex technical topics into easy to understand materials </span></li><li style="font-weight:400;"><span style="font-weight:400;">Strong personal organizational skills and a love for self-time management.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Superb organization and project management skills. Ability to work on and manage multiple complex projects with multiple stakeholders, at once.</span></li><li style="font-weight:400;"><span style="font-weight:400;">A startup mentality with a bias to action and the ability to be flexible in a fast-paced environment.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Passion and/or experience with open-source or cybersecurity or similar highly technical industry.</span></li></ul><div class="content-conclusion"><div class="container"><div class="job-description"><div class="requirements"><h3 class="job-description-title">Benefits</h3><ul><li><p>Medical Insurance: Top quality insurance options for you.</p></li><li><p>Paid leave for new parents.</p></li><li><p>Team Events: Company retreats in different locations around the world.</p></li><li><p>Monthly allowance for wellness activities.</p></li><li><p>Coworking: access to a coworking space of your choice.</p></li><li><p>Training: Technical training, spoken language lessons in any language of your choice.</p></li></ul></div><div class="company-footer"><p>At OpenZeppelin, we are an equal opportunity employer and we value different perspectives. We are committed to building a diverse workforce. This includes but is not limited to gender, race, sexual orientation, religion, national origin and other characteristics that make each one of us unique. In this uniqueness, we find the most value. Come join us!</p></div></div></div><div class="container"><div class="application-information"><h3 class="job-description-title"> </h3></div></div></div>
+                
+
+<p>
+  <strong>Headquarters:</strong> London - Dubai - Johannesburg
+    <br /><strong>URL:</strong> <a href="https://paymentology.com">https://paymentology.com</a>
+</p>
+
+<div>We are looking for a passionate <strong>Product Manager, </strong>with experience in the payments industry, to help us in our next stage of growth and global expansion.<br><br><strong>WHAT YOU GET TO DO:<br></strong><br>
+</div><div>Product Managers at Paymentology have a wide range of responsibilities which are central to developing the company’s core features. You will help guide the product, operational, strategic, commercial and overall proposition of your ‘owned’ product area. <br><br>
+</div><div>Your focus will be on formalising projects and guiding the Development Team on implementation. You will also concentrate efforts on the other side of the project value-chain by working with Account Management, Sales, Marketing and Support to communicate about your product. As such, the ideal candidate thrives on a multifaceted role that spans the entire lifecycle of a product and is able to wear many hats to see Paymentology’s goals reached in conception, implementation and launch. <br><br>
+</div><div>
+<strong>Evolving our product offering</strong> </div><ul>
+<li>Craft our product strategy and execution to make sure we are delivering payment products that are simple, fast and reliable </li>
+<li>Communicate a vision for the team for the next 3-12 months and build a roadmap to match that vision </li>
+</ul><div><br></div><div>
+<strong>Managing delivery</strong> </div><ul><li>Work in a small, autonomous, cross-functional team alongside New Business, Design, Engineering, UX Research and Data to decide what we build next and execute on that decision </li></ul><div><br></div><div>
+<strong>Customer interaction</strong> </div><ul><li>Communicate with our customers to more deeply understand the problems that we can address for them </li></ul><div><br></div><div>
+<strong>Stakeholder management</strong> </div><ul>
+<li>Develop a sufficient understanding of the technical context to help make better, faster decisions </li>
+<li>Work closely with engineers on solutions </li>
+</ul><div><br></div><div> <strong>Research</strong> </div><ul><li>Dig deep on data to understand trends and develop a better picture of the business, the product and our customers </li></ul><div><br></div><div>
+<strong> KPI Reporting</strong> </div><ul><li>Measure and report on the results of your work (creating dashboards, writing SQL queries, etc.) </li></ul><div><br></div><div><strong>What it takes to succeed:</strong></div><ul>
+<li>Experience in payments is crucial for succeeding in this role </li>
+<li>5+ years of experience as a Product Manager, preferably in a start-up environment, with a minimum of 5 years working in the software industry </li>
+<li>Champion for collaborative, iterative product discovery </li>
+<li>Embracing your role as a member of a cross-disciplinary team </li>
+<li>Previous exposure to lightweight product development methods, such as user story mapping or rapid prototyping </li>
+<li>Curiosity about new technology </li>
+<li>A strong desire to learn </li>
+<li>A degree of technical fluency that allows you to communicate with, and understand, your target audience (developers) </li>
+<li>A love for identifying and understanding customer problems </li>
+<li>An empathy for the user and a desire to seek their input at all stages of the product lifecycle </li>
+<li>Experience with micro-service architecture and web application and services development </li>
+</ul><div> <strong>Bonus Points:</strong> </div><ul>
+<li>Experience in building and scaling a platform, ideally fintech, traditional financial services or cryptocurrencies </li>
+<li>Strong knowledge of SQL and NoSQL databases  </li>
+<li>Experience at an organisation that has scaled quickly </li>
+</ul><div><br></div><div>English is our company language, so it is important that you are able to communicate fluently. This is a full-time, remote contractor position and we are looking for candidates across the world. Working flexible hours is essential for our remote team to function. </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/paymentology-product-manager">https://weworkremotely.com/remote-jobs/paymentology-product-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1392232/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Metaplex Studios</h5>
+                    <h3>Principal Product Manager, Protocol</h3>
+                </td>
+                <td width="300">
+                    <code>developer,product manager,sales,open source</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/principal-product-manager-protocol-1392232" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Fully Remote, International and U.S. Applicants Will be Considered</p>
+<p> </p>
+<div class="h3">Metaplex Studios</div>
+<p>Metaplex Studios is the official standard for Solana NFTs and the largest NFT ecosystem in the world. In less than one year since launch, we have experienced massive growth with over 11 million NFTs created using the Metaplex protocol, facilitating over $2.6 billion in commerce for developers and creatives of all kinds. Solana’s energy efficiency, low cost, and fast transaction speeds provide a unique opportunity now to build a future for NFTs as the infrastructure for an increasingly broad scope of use cases; it has already been used for over 85k projects in gaming, arts &amp; collectibles, marketplaces, developer tools, and more.</p>
+<p>On a mission to empower creators, Metaplex champions a world full of diverse perspectives, creativity and art. For this to be possible, creators must have increased access to their audience, powerful tools that are easy to use, and be able to retain more financial benefits from the sales and use of their work. We believe tokens and blockchain technology are a critical tool for this purpose. For more information, visit <a class="external" href="http://www.metaplex.com/" rel="nofollow" target="_blank">www.metaplex.com</a></p>
+<p>The Protocol Team works to increase use of the Metaplex NFT standard and Program Library by adding high value features developed by our team and the community, and by scaling and optimizing those features over time. If you want to work in a fast-paced, high-growth company and work with some really smart and funny people, please apply. Our meme game is strong!</p>
+<p><strong>Requirements</strong></p>
+<p><strong>What You'll Need </strong></p>
+<p><strong>Required</strong></p>
+<ul>
+<li>7-10 years of product management experience.</li>
+<li>1+ years working in blockchain or web3 businesses with a deep understanding of the tech evolution and history.</li>
+<li>High level of technical proficiency. Ability to discuss and engage with protocol engineers to design the appropriate systems and data models. Professional engineering experience is a plus but not required.</li>
+<li>Strong communication skills that can translate from low level technical discussions to high level business negotiations and partnerships.</li>
+<li>Strong customer-centered approach to product development. Track record of gathering insights in the field, crystalizing accurate requirements, synthesizing needs and working quickly with an embedded team to deliver.</li>
+<li>High energy with a willingness to push the pace and ship quickly.</li>
+</ul>
+<p><strong>Nice to have</strong></p>
+<ul>
+<li>Experience working in the NFT space, at either an NFT marketplace or technology business.</li>
+<li>Experiencing working on DeFi protocols and DEX.</li>
+<li>Deep understanding of the Solana ecosystem, players, and competitive landscape.</li>
+<li>Experience as an open source contributor or maintainer.</li>
+</ul>
+<p><strong>Benefits</strong></p>
+<div class="h3">What You’ll Get</div>
+<ul>
+<li>Competitive compensation.</li>
+<li>Medical, dental and vision premiums paid 100% by Metaplex.</li>
+<li>401(k) Retirement Plan with 4% employer match.</li>
+<li>$4K stipend for technology.</li>
+<li>Remote organization.</li>
+<li>Unlimited vacation.</li>
+<li>Your very own NFT avatar when you join.</li>
+</ul>
+<img src="https://remotive.com/job/track/1392232/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1382119/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Cartloop</h5>
+                    <h3>Lead Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>ecommerce,marketing,product manager,saas</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/lead-product-manager-1382119" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height: 1.5em;">We heard you might be looking for a new opportunity! Cartloop might be the perfect stop for you. Just in case you haven't heard, growing an ecommerce brand often equals automating human communication. But automation means losing a key piece of the shopping experience: a real connection with people.</p>
+<p style="min-height: 1.5em;">Cartloop is an ecommerce startup that's changing the way people and businesses interact. Instead of purely automated messages (or chatbots), we are helping brands grow by adding human touch throughout the entire shopping experience. The coolest thing is we are growing quickly and possibly have the perfect position for you.</p>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2"><strong>Team and culture</strong></div>
+<p style="min-height: 1.5em;">Cartloop is helping brands win the hearts of their customers by providing a tool that creates personal relationships at scale. To provide a missing pillar of core eCommerce experience, we're building a team of people who are ready to take on some of the most interesting challenges in the industry.</p>
+<p style="min-height: 1.5em;">Here are some of our core values to give you a sense of who we are as a team:</p>
+<ul style="min-height: 1.5em;">
+<li>
+<p style="min-height: 1.5em;">Ownership. We do meaningful work and we own it 100%. We share wins with the team and take individual responsibility when things don't pan out. It takes courage to take responsibility even in the face of failure. Be an owner and you'll thrive here.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Autonomy. We have the ability to unblock ourselves, search for answers before asking for help, and make reasonable decisions within our scope without seeking consensus from others.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Customer-first. We understand our customers and optimize to build the best product for them.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Product-driven. We're on a mission to build a best-in-class product that will power millions of brands.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Great communication. We prefer an async way of working with a focus on deep work vs. endless meetings and politics.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Efficiency. Too many meetings, repetitive tasks, things that simply don't make a difference. We say no to those.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Impact. We take our work seriously. We’re a small squad on a mission to change commerce for the better.</p>
+</li>
+</ul>
+<div class="h2">👩‍💻<strong>The role &amp; what we are looking for:</strong></div>
+<p style="min-height: 1.5em;">As a Product Manager, you will be building our core product. This is a high-impact role and a great opportunity if you're looking to create a new category of conversational platform.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>What you'll be doing</strong></p>
+<ul style="min-height: 1.5em;">
+<li>
+<p style="min-height: 1.5em;">Own core parts of the Cartloop platform and lead a team of talented engineers and designers to generate value for customers.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Oversee product execution from inception to delivery (end-to-end).</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Do whatever it's necessary to ship products that matter, in time.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Continuously connect with customers, and surveys to understand pain points, needs, and opportunities and prioritize based on that.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Help build our roadmap and prioritize the highest impact projects.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Guide designers &amp; developers, spec up opportunities, provide answers and unblock.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Work with designers to develop customer experience journeys, storyboards, and user flows to articulate product experience vision.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Mockup concepts, write specs, diagrams, add Liner issues, write copy and do whatever it takes to ship your products.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Ensure features are fully functional and provide the final approval before releasing a feature in production.</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>You're bringing to the team</strong></p>
+<p style="min-height: 1.5em;">We are looking for problem solvers who enjoy the ambiguity of early-stage startups, wearing many hats and taking this opportunity to develop their skills.</p>
+<p style="min-height: 1.5em;">It would be great if you:</p>
+<ul style="min-height: 1.5em;">
+<li>
+<p style="min-height: 1.5em;">Have 3+ years of product management experience with B2B or B2C SaaS companies.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Are comfortable being involved with the end-to-end development process. From ideation to QA &amp; speaking to users - you feed and unblock the team.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Have a track record of leading projects from definition to launch, ensuring success for both the user and the business.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Are focused on execution above all.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Incredible attention to detail. You want to ship the best customer experience and will not compromise. Your specs are incredibly detailed and you can provide unambiguous clarity to design &amp; engineering.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Are a big-picture thinker who can define and work towards a large strategic vision while sweating the details.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Got a passion for well-designed products. You have strong UX skills &amp; able to create your own designs if needed (don’t worry, you will have designers).</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Have the ability to turn problems or ideas into a product roadmap with minimal guidance.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">You have experience thriving in a fast-moving agile environment, defining while shipping and always iterating.</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Nice-to-have</strong></p>
+<ul style="min-height: 1.5em;">
+<li>
+<p style="min-height: 1.5em;">You have a technical background.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">You have strong data and analytical skills.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">You have worked in a remote environment.</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">You know the B2B marketing/ecommerce space.</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2"><strong>Benefits</strong></div>
+<p style="min-height: 1.5em;">💰 Competitive salary and opportunity for stock option packages</p>
+<p style="min-height: 1.5em;">🌎 Fully remote company and culture</p>
+<p style="min-height: 1.5em;">☕️ Flexible work schedule</p>
+<p style="min-height: 1.5em;">🏖 Unlimited paid time off</p>
+<p style="min-height: 1.5em;">📚 $1000 per year in learning budget</p>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2"><strong>Why join Cartloop?</strong></div>
+<p style="min-height: 1.5em;">🚀 Lots of room for you to grow your career and create an impact</p>
+<p style="min-height: 1.5em;">🙏 Join a company where ownership, autonomy, and low ego are core beliefs</p>
+<p style="min-height: 1.5em;">🙌 Work with a talented team from which you'll learn a lot</p>
+<p style="min-height: 1.5em;">😍 You're helping make ecommerce less transactional and more human</p>
+<p style="min-height: 1.5em;">⚡️ High-impact role, as you apply your expertise and contribute to all areas of our business</p>
+<img src="https://remotive.com/job/track/1382119/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -110,7 +357,7 @@
                     <code>ecommerce,education,marketing,product manager</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-b2c-1388899" align="right" target="_blank">Apply</a>
@@ -172,44 +419,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/20/05/Newsela.jpg" width="38px" height="auto">
+                    <img src="https://freshremote.work/media/company/logo/22/01/WELLHealthInc.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Newsela</h5>
-                    <h3>Senior Product Manager, Content Discovery</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J119274/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                The Role:
-As Senior Product Manager, Content Discovery you will be responsible for improving the Content Discovery experience on Newsela to help teachers and students find great content for their classrooms. You will leverage your strong analytical s …
-<p><strong>The Role:</strong></p>
-<p>As Senior Product Manager, Content Discovery you will be responsible for improving the Content Discovery experience on Newsela to help teachers and students find great content for their classrooms. You will leverage your strong analytical skills to dig into data and identify the opportunities that  drive the largest impact. Reporting to the Principal Product Manager, Content Discovery, you will own and manage core functions of the discovery experience and drive impact through iteration in partnership with Engineering, Design, Technology and Data Science.  We are looking to bring on talented Product Managers passionate about optimizing content discovery experiences through enhancements to search relevance, recommendations, and personalization. Come and help bring joy to the millions of students and teachers that use Newsela. </p>
-<p><strong>Why You’ll Love This</strong></p>
-<p>The Content Discovery team is responsible for some of the most important core features on Newsela. As a member of the Content Discovery team, you will have the opportunity to join a key business function at Newsela and directly impact our mission to deliver meaningful classroom learning to every student. We are a customer-obsessed, highly analytical team that cares deeply about helping our teachers facilitate meaningful classroom learning.This is a high trust team that likes to have fun and celebrate our wins with virtual get-togethers and in-person gatherings planned throughout the year.</p>
-<p><strong>Why We’ll Love You:</strong></p>
-<p>With 4+ years of experience, you are a customer centric Product Manager with a track record of delighting users with impactful product launches. You are familiar with SQL and comfortable using those skills to analyze experiment results and communicate them with the team, executives, and the company. You have excellent analytical sense, and have experience driving product &amp; business decisions that involve quantitative analysis and experimentation. You have a passion and drive for testing and learning at a face paced and are a tactical executor. While not required, experience with search relevance and/or recommendations is preferred. </p>
-<p><strong>About Newsela:</strong></p>
-<p>One of the fastest growing tech companies in K-12 education, Newsela was founded on the principle that while every child may have unique learning preferences, they all deserve a rich learning experience that ignites a love of learning. We built our platform based on learning science research to deliver the most engaging, authentic content to modernize how teaching happens in the classroom. Along with interactive assessments and tools, we provide teachers with digital content at five reading levels -- from +100 of the best sources -- that is relevant to the diverse backgrounds and interests of their students. Since we started in 2013, we’ve established a presence in 90% of U.S. K-12 schools and over 2.5M teachers and 37M students have registered with Newsela.</p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/08/mk0qvsZ9_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Kraken</h5>
-                    <h3>Product Manager, Compliance</h3>
+                    <h5>WELL Health Inc.</h5>
+                    <h3>Senior Product Manager</h3>
                 </td>
                 <td width="300">
                     <code>Full Time</code>
@@ -218,20 +432,78 @@ As Senior Product Manager, Content Discovery you will be responsible for improvi
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J119411/" align="right" target="_blank">Apply</a>
+                <a href="https://freshremote.work/J119676/" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                About KrakenAs one of the largest and most trusted digital asset platforms globally, we are empowering people to experience the life-changing potential of crypto. Trusted by over 8 million consumer and pro traders, institutions, and authorities world …
-About Kraken<br/>As one of the largest and most trusted digital asset platforms globally, we are empowering people to experience the life-changing potential of crypto. Trusted by over 8 million consumer and pro traders, institutions, and authorities worldwide - our unique combination of products, services, and global expertise is helping tip the scales towards mass crypto adoption. But we’re only just getting started. We want to be pioneers in crypto and add value to the everyday lives of billions. Now is not the time to sit on the sidelines. Join us to bring crypto to the world.<br/>To ensure Kraken is the right fit for you, please ensure you read <a>Kraken Culture Explained</a> to find out more about us!<br/>We will consider candidates at all experience levels. This is a fully remote role and we will consider applicants based throughout the world.<br/>The Product Compliance team is looking for a Product Compliance Manager. <br/>This role supports the success of Kraken across its products, providing expertise in industry best practices and regulatory requirements. You will use your knowledge of rules and regulations, AML compliance, and Sanctions laws to establish regulatory go-to market strategies and influence expansion for new global product launches. 
-<h3>Responsibilities</h3>
+                ABOUT WELL HEALTH
+Our Mission: Make healthcare the gold standard in customer service.
+What We Deliver: WELL™ Health is a SaaS digital health leader in patient communications and the Best in KLAS winner in Patient Outreach for 2021 and 2022. WELL Heal …
+<p><strong>ABOUT WELL HEALTH</strong></p>
+<p><strong>Our Mission: </strong>Make healthcare the gold standard in customer service.</p>
+<p><strong>What We Deliver: </strong>WELL™ Health is a SaaS digital health leader in patient communications and the<a> Best in KLAS winner in Patient Outreach</a> for 2021 and 2022. WELL Health’s intelligent communications hub is the only bidirectional digital health communications solution engaging patients throughout their entire care experience. WELL Health enables conversations between patients and their providers through secure, multilingual messaging via the patient’s preferred communications channel: texting, email, or telephone. By unifying and automating disjointed communications, WELL Health helps healthcare organizations drive more patient visits, build exceptional patient loyalty, and reduce staffing costs, frustration, and turnover. </p>
+<p><strong>Our Impact:</strong> WELL Health helps 200k+ healthcare providers facilitate more than 1 billion messages for 30+ million patients annually. </p>
+<p><strong>Our award-winning culture: </strong>In 2021, WELL Health was named #10 on the <a>Forbes</a> list of America’s Best Startup Employers, as well as being named one of <a>Deloitte’s Fast 500</a> (#133). In 2022, WELL Health was recognized as one of the Best Midsize Companies to Work for in Los Angeles by <a>Built In</a>, and was named #41 on the <a>Inc Regionals - Pacific</a> list.</p>
+<p><strong>SUMMARY</strong></p>
+<p>WELL is looking for an innovative Senior Product Manager to join our fast-paced Product team and help evolve the amazing offerings we bring to our clients and the patients we serve. You will manage a team of product professionals (PMs/APMs)  and work alongside a group of fantastic designers and engineers. You will develop the strategy for your product vertical, define what offerings matter and evangelize the why. You will then work to deliver solutions that create for patients, clients, and the business.  You’ll be responsible for all stages of the product lifecycle and work closely with Engineering, Marketing, and Sales to ensure that offerings are  delivered and continually improved. </p>
+<p>Most importantly, you are passionate about improving patients’ lives and their experience with their healthcare providers. You are excited about building products that disrupt the multi-trillion dollar healthcare industry, accelerating our growth, and creating a modern healthcare communication platform. </p>
+<p><strong>Responsibilities</strong></p>
 <ul>
-<li>Embedding within a team or teams to ensure compliance considerations are included from project initiation through initial scoping to ongoing execution and international expansion</li><li>Ensuring that compliance data and reporting considerations are built into new products</li><li>Supporting expansion for new global product launches by scoping and communicating compliance requirements </li><li>Designing go-to market strategies that comply with applicable regulatory obligations </li><li>Advising on Compliance operational process and regulatory requirements across markets</li><li>Determining operational requirements of new global product plans, including partnering with various teams (trading engine, mobile app, etc…) across the organization</li><li>Drafting and Editing product requirements documents (PRDs)</li><li>Drafting relevant program documentation, content, and processes</li><li>Remaining up-to-date on regulatory changes and landscape, best practices, and cutting-edge developments in the industry</li></ul>
-<h3>Requirements</h3>
+<li>Support the product life cycle from strategic planning to tactical activities</li>
+<li>Work directly with customers to develop a deep understanding of their needs and workflows, and create innovative solutions that improve the user experience for patients and staff</li>
+<li>Build a deep knowledge of our market, customers, and competitors</li>
+<li>Work to define requirements for current and future products, utilizing market research and competitive analysis data, supported by input from customers, prospective customers, and industry experts</li>
+<li>Assist in developing and implementing the go-to-market plan for existing and new products, working with all stakeholders to execute and measure results</li>
+<li>Create, manage, and prioritize a product roadmap in collaboration with internal teams and present regular updates on the validation and execution of each component of the roadmap</li>
+<li>Facilitate the development and implementation of product/pricing strategies and tactical plans for assigned products ensuring that customer and partner needs are being met</li>
+</ul>
+<p><strong>Requirements</strong></p>
 <ul>
-<li>5+ years in regulatory compliance industry, ideally with significant experience in international markets and across products</li><li>Ability to effectively communicate across multiple lines of business and senior management, including across technical and non-technical groups</li><li>Ability to quickly identify and understand complex problems, and to build internal consensus toward mitigation</li><li>Executive level presentation skills, both verbal and written</li><li>Knowledge of Global AML compliance and Sanctions Regulations</li><li>Strong product background, including experience drafting PRDs</li><li>Experience working with engineering teams</li><li>Strong Regulatory knowledge</li></ul>Location Tagging: #US #EU<br/>We’re powered by people from around the world with their own unique and diverse experiences. We value all Krakenites and their talents, contributions, and perspectives, regardless of their background. We encourage you to apply for roles where you don't fully meet the listed requirements, especially if you're passionate or knowledgable about crypto!<br/>As an equal opportunity employer we don’t tolerate discrimination or harassment of any kind. Whether that’s based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws. <br/>Stay in the know<br/><a>Kraken Culture Explained</a><a>Follow us on Twitter</a><a>Catch up on our blog</a><a>Follow us on LinkedIn</a>
+<li>Bachelor's degree (or equivalent experience)</li>
+<li>4+ years of Product Management experience in Enterprise or Consumer SaaS software, Healthcare technology or equivalent</li>
+<li>Experience creating market research, go-to-market strategy recommendations, and competitive analysis</li>
+<li>Strong in product analytics - you measure user behavior and make data-informed decisions; experience with product analytics tools, statistical analysis, data science a plus </li>
+<li>Strong executor and driver across multiple fronts; self-starter, speed oriented, comfortable making decisions and running with them</li>
+<li>Experience defining, prioritizing and shipping customer value in an Agile environment</li>
+<li>Creative, energetic, and conscientious with strong problem solving skills</li>
+<li>Excellent written and verbal communication skills</li>
+<li>Highly collaborative. Builds trust at all levels, influences without formal authority, and pushes back when appropriate. Earns respect and respects the contributions of others.</li>
+<li>Balance strategic thinking with outstanding execution. Understand business objectives and convert them into clear product plans and outcomes</li>
+<li>Must be able to travel up to 20% when travel resumes</li>
+</ul>
+<p><strong>LOCATION</strong></p>
+
+
+
+
+
+
+
+WELL Health is headquartered in Santa Barbara, CA. For this role, if you are located outside of the Santa Barbara area, we are open to candidates that are currently located within the United States and are interested in working remotely. #LI-Remote
+
+
+
+
+
+
+
+<p><strong>WORKING AT WELL</strong></p>
+<ul>
+<li><strong>Fantastic company culture – </strong>frequent Zoom company events (Lunch &amp; Learns, trivia, yoga, etc.) and daily fun brought to you by many creative Slack channels.</li>
+<li><strong>Employee equity groups – </strong>11 groups available for all to join. Black &amp; Latinx, Women, LGBTQ+, Disability, and many more!</li>
+<li><strong>Learning and development – </strong>frequent events and tools available to help our employees #PursueGrowth.</li>
+<li><strong>Career mobility – </strong>we promote from within and have opportunities for employees to transfer between teams.</li>
+<li><strong>Santa Barbara office perks</strong> <strong>– </strong>dog-friendly office, healthy (and unhealthy) snacks, Kombucha and beer on tap, light-filled space, standing desks, and the occasional taco truck.</li>
+<li><strong>Company perks and benefits</strong> <strong>– </strong>MacBook Pro provided, unlimited PTO, generous equity package and full health benefits (medical, dental, and vision).</li>
+</ul>
+<p><strong>Interested in learning more? </strong>Please visit our<a> LinkedIn page</a> or our<a> Life at WELL Instagram (@wellhealthinc)</a> to hear from our employees about working at WELL Health.</p>
+<p><strong>Committed to Diversity, Equity, and Inclusion</strong></p>
+<p>WELL Health is an Equal Opportunity Employer and is committed to fair and equitable hiring practices. All hiring decisions at WELL Health are based on strategic business needs, job requirements and individual qualifications. All candidates are considered without regard to race, color, religion, gender, sexuality, national origin, age, disability, genetics or any other protected status.</p>
+<p>With that said, research shows that women and other underrepresented groups apply only if they meet 100% of the criteria. WELL Health is committed to leveling the playing field, and we encourage you to apply for positions even if you do not meet 100% of the criteria. We would love to connect with you and see if you would be a great fit for our role!</p>
+<p>We’re dedicated to creating an inclusive, equitable, and diverse workplace, where everyone feels safe to be themselves and diversity is a strength. WELL Health is committed to providing employees with a work environment free of discrimination and harassment; WELL Health will not tolerate discrimination or harassment of any kind.</p>
+<p><strong><em>Candidates should be aware that WELL Health currently maintains a policy requiring all employees (Resident, Mobile and Remote) to be fully vaccinated. New employees should be fully vaccinated by their start date. WELL Health is an equal opportunity employer, and will provide reasonable accommodation to those unable to be vaccinated where it is not an undue hardship to the company to do so as provided under federal, state, and local law.</em></strong></p>
                 </details>
                 </td>
             </tr></table>
