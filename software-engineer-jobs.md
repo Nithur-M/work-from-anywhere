@@ -1,55 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteOK.com/assets/logo-square.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>ETHGlobal</h5>
-                    <h3>
-					Software Engineering Intern				</h3>
-                </td>
-                <td width="300">
-                    <code>software, crypto, engineering</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/118481" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                ETHGlobal is growing the most valuable developer community in web3. We're a small team and weâre looking for passionate engineers to join us. We work closely with organizations like the Ethereum Foundation, IPFS, Uniswap, Polygon, Hack the North and more.Weâre building products and protocols for developers to help them learn smart contract development, creating new infrastructure, and managing payments at scale.As the usage of blockchain technology grows, the world is going to need more talented engineers, designers, and product leaders to build the future that blockchain technology is promising. We work with exactly these kinds of people every single day through the products we organize for our community. By focusing on this community, we think we can accelerate the transition to enabling more open, decentralized, and fundamentally ground-breaking systems.If youâre curious about web3 & crypto you can have a major impact on how fellow developers learn and grow in this industry! You would be a successful candidate if you are self-motivated, have a sense of urgency, like getting things done, and are committed to learning more about engineering and the exciting world of web3.At ETHGlobal, we're looking for people with passion, grit, and integrity. You're encouraged to apply even if your experience doesn't precisely match the job description. Your skills and passion will stand outâand set you apartâespecially if your career has taken some extraordinary twists and turns.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/336fd5330bf0ecd6dfaaac2bfc88c3861663398921.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Audius</h5>
-                    <h3>
-					Software Engineer Smart Contracts				</h3>
-                </td>
-                <td width="300">
-                    <code>software, crypto, music</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/118930" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b>Who are we? </b></div><div><a href="https://audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius</a> is a digital streaming service that connects fans directly with artists and exclusive new music. </div><div><br></div><div>It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence. </div><div><br></div><div>Backed by an all-star team of <a href="https://www.crunchbase.com/organization/audius/company_financials#investors" class="postings-link" rel="noopener noreferrer nofollow">investors</a>, Audius was founded in 2018 and serves over 6 million users every month, making it the largest non-financial crypto application ever built.</div><div><br></div><div><b>Who we are looking for? </b></div><div>We are looking for passionate team-players who will help us architect, build, and ship the most difficult parts of the on-chain entities in the Audius protocol, chiefly in Solana (Rust), where you will bring in and craft new expertise on our team. Audius deploys smart contracts across Ethereum and Solana, and we're looking for proficient systems-programmers with a strong background in low-level languages (ideally Rust) to help us deliver the largest non-financial crypto project to date.</div><div><br></div><div>You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. Youâre eager to problem solve in a wide variety of spaces within the blockchain ecosystem (think scalability, governance, NFTs, social tokens, etc.). We solve a lot of problems that can't be easily Googled or searched on StackOverflow, and you have the fundamentals and drive to self-start and come to original solutions.</div><div><br></div><div><b>Our Company</b></div><div>Audius is a 26-person team of entrepreneurs, engineers, audiophiles, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have a monthly concert credit (COVID-19 permitting).</div><div><br></div><div>Our company is fully remote and our team is currently distributed across the United States. </div><p>Key Responsibilities</p><p></p><li>Write, test, and deploy Solana blockchain (Rust) programs</li><li>Write, test, and deploy Ethereum blockchain (Solidity) smart contracts</li><li>Work closely with other blockchain engineers on the team and own core pieces of contract code that powers the economics, data storage, and transactional logic across Audius</li><li>Participate deeply in design discussions around tokenomics, blockchain interoperability, blockchain scalability, and governance systems</li><p>Skills and Experience</p><p></p><li>Deep experience with systems programming, ideally in Rust</li><li>Experience developing and shipping blockchain smart contracts</li><li>3+ years of experience building in production environments</li><li>Solid conceptual understanding of full stack software development including system architecture, web serving infrastructure, and database design</li><li>Great interpersonal and communication skills, comfort working within a small team, and owning projects</li><p></p>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -60,7 +10,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -122,7 +72,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -176,6 +126,70 @@
 <li>Machine learning or data science experience</li>
 </ul>
 <img src="https://remotive.com/job/track/1187416/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/21/05/LatticeHQ.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Lattice</h5>
+                    <h3>Senior Software Engineer, Compensation</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J119632/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Who you are
+You have 5+ years of professional experience writing and maintaining production-level applications.
+
+You’ve worked with a modern programming language like JavaScript, Ruby, Python, etc.
+You’re no stranger to SQL—you know how to efficientl …
+<h3>Who you are</h3>
+<p>You have 5+ years of professional experience writing and maintaining production-level applications.</p>
+<ul>
+<li>You’ve worked with a modern programming language like JavaScript, Ruby, Python, etc.</li>
+<li>You’re no stranger to SQL—you know how to efficiently model data and write performant queries in a relational database like PostgreSQL.</li>
+<li>You know the ins-and-outs of maintaining and scaling an application actively serving customers in production.</li>
+<li>You seek out the root cause when debugging software defects, and champion improvements that prevent future issues.</li>
+</ul>
+<p>You’re a great communicator and collaborator.</p>
+<ul>
+<li>You take care to write code that your colleagues will also own, understand, and maintain.</li>
+<li>You’re clear and concise in explaining your thought process and in enumerating the tradeoffs made in your work.</li>
+<li>You work well with designers and product managers to come up with optimal solutions. </li>
+</ul>
+<p>You enjoy taking an active role in the development process, have experience leading large-scale initiatives, and strive to continuously improve engineering practices.</p>
+<ul>
+<li>You love mentoring and supporting other software engineers who are newer to the industry.</li>
+<li>You have experience taking the lead in planning and executing the development roadmap for complex software projects, including those that span multiple teams or services.</li>
+<li>You make the engineering team more effective through the pragmatic application of useful code tools and patterns.</li>
+<li>You proactively identify opportunities to improve the maintainability, scalability and reliability of business-critical systems.</li>
+</ul>
+<h3><strong>Responsibilities</strong></h3>
+<ul>
+<li>You’ll build software to help companies build cultures in which their employees thrive.</li>
+<li>You’ll work with other engineers to build and own products across a modern tech stack. Our current stack includes React, Relay Modern, GraphQL, Node, and PostgreSQL. We rely on AWS to host our infrastructure.</li>
+<li>You’ll architect solutions for complex projects, often spanning multiple services or teams.</li>
+<li>You’ll set technical standards, conduct code reviews and provide technical mentorship of other engineers.</li>
+<li>You’ll influence prioritization and resourcing with the management team and cross-functional partners to tackle engineering goals.</li>
+</ul>
+<h3><strong>Who we are</strong></h3>
+<p>The Compensation Product Platform team (CPP) is working alongside the other Comp teams to get Lattice’s compensation product through the exciting time of our initial release, and working with Product to explore this new space with a lot of greenfield work! As a platform team CPP is specifically focussing on much of the core back end functionality such as data ingestion &amp; modeling, designing APIs, building out the new Hoodwink service, breaking stuff out of the Weaver monolith, performance and reliability tuning, and building out functionality for both internal and external users as we’re actively figuring out where to steer the product. This is a great opportunity for someone who gets dopamine hits from solving some of the meatier, back end platform type problems, and enjoys being an active part of the conversation around how we’re building out a brand new product.</p>
+<h2><strong>About Lattice</strong></h2>
+<p>Lattice is on a mission to build cultures where employees and their companies thrive 💪. In an age where employees have more choices than ever before, businesses that put employees first are winning 🏅– and Lattice is building the tools to empower those people-centric companies. Lattice is a people success platform that offers performance reviews, employee engagement surveys, real-time feedback, weekly check-ins, goal setting, and career planning in a way that allows companies to focus on employee development, growth, and engagement – yielding stronger employee retention, performance, and impact to the bottom line 📈. Since launching in 2016, we have grown to over 4,600+ customers globally, including brands like Slack, Pinterest, Reddit, and Asana. </p>
+<p><br/>What else does Lattice have to offer? We’re so glad you asked! We invest in our people’s personal and professional growth because that sort of growth begets business impact <em>and </em>personal fulfillment 🤗. We believe in the value of continued learning investments 🤓and reimbursements. We offer a competitive salary (including equity💸) and our benefits are thoughtful. We believe that taking the time for you is important and have a flexible vacation/time-off policy to prove it. We even incorporated Lattice “Recharge Days” 🔋to ensure you’re getting a break every month. Lattice has also implemented a 💻 remote-first hybrid model (team-dependent, you work from wherever makes you most comfortable). If that gets you excited, now is the perfect time to join; so bring your appetite for ownership and creation and help Lattice continue to grow! 🎉</p>
+<p><em>Lattice is committed to equal treatment and opportunity in all aspects of recruitment, selection, and employment without regard to gender, race, religion, national origin, ethnicity, disability, gender identity/expression, sexual orientation, veteran or military status, or any other category protected under the law. Lattice is an equal opportunity employer; committed to a community of inclusion, and an environment free from discrimination, harassment, and retaliation.</em></p>
+<p><em>By clicking the "Submit Application" button below, you consent to Lattice processing your personal information for the purpose of assessing your candidacy for this position in accordance with</em><a><em> </em><em>Lattice's Job Applicant Privacy Policy</em></a><em>.</em></p>
                 </details>
                 </td>
             </tr></table>
