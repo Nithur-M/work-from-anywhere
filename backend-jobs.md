@@ -1,52 +1,61 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7038/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Gridium</h5>
-                    <h3> Backend engineer - data ingestion (Python, remote)</h3>
+                    <h5>Draftbit</h5>
+                    <h3> Low-Code Backend Specialist</h3>
                 </td>
                 <td width="300">
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/gridium-backend-engineer-data-ingestion-python-remote-1" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/draftbit-low-code-backend-specialist" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/7038/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> United States
-    <br /><strong>URL:</strong> <a href="https://www.gridium.com/">https://www.gridium.com/</a>
+  <strong>Headquarters:</strong> Chicago, IL
+    <br /><strong>URL:</strong> <a href="https://draftbit.com/">https://draftbit.com/</a>
 </p>
 
-<p>Gridium's mission is to hasten the transition to a no-carbon economy. Our software helps people run commercial buildings better, at lower cost and with less energy. Gridium is looking for a backend software engineer to help us bring deep efficiency to the built environment, which is responsible for 40% of the world's energy use.</p>
-<p>We are looking for a US-based software engineer with strong Python experience to develop and scale our data ingestion platform. We ingest the energy and cost data for thousands of buildings from APIs, websites, and other sources. Our stack lives on AWS and includes Python, Aurora (Postgres), Elasticsearch / Kibana, and Selenium. We use flake8, black, and mypy to help us write clean, consistent Python code.</p>
-<p>In this role you will:</p>
-<ul> <li>Dive into the details using Kibana logs, SQL queries, or new tools to diagnose issues with missing or incorrect data, then find and fix the root cause.</li> <li>Write technical specifications for new Python Selenium web scrapers and review code from others to ensure quality and consistency.</li> <li>Write tools, templates, and documentation to simplify and improve our data ingestion processes.</li> </ul>
-<p></p>
-<p><strong>About Gridium</strong></p>
-<p>Gridium is a venture-backed SaaS application provider with a mission to bring cost-effective energy savings to commercial real estate. We are growing faster than ever due to increasing demand for real energy solutions.</p>
-<p>We have been an all-remote company since our founding, and we love the fact that remote work gives us flexibility to balance our roles as employees, parents, family members, or however else we round out our time. </p>
-<p>Of course, spending time face-to-face is important, so every three months we pick a city and meet up for several days of highly productive and highly fun planning and doing. </p>
-<p>We have a casual, collaborative work environment where everyone's ideas matter. Since creative, enthusiastic employees are the basis for our success, we take great care in how we attract, hire, and support our employees.</p>
-<p><strong>And of course</strong></p>
-<p>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p>
-<p><strong>Requirements</strong></p>
-<p>Candidates must reside in the United States and have the legal right to work in the United States.</p>
-<p>You must have at least 3 years of experience as a member of a professional software development team. This is not an entry-level position. </p>
-<p>You should be self-directed, responsible, and committed to delivering efficient, well-documented, and well-tested code. You should be comfortable analyzing product requirements to produce technical specifications that go beyond coding to cover testing, monitoring, and future maintainability. We need a problem solver who can ask good questions and collaborate effectively with teammates.</p>
-<ul> <li>Drive to fully own the data ingestion process, including developing general solutions and improving internal tools.</li> <li>Strong experience with Python, with an interest in writing clean, readable code.</li> <li>Ability to effectively manage your time and communicate in an all-remote environment</li> <li>Enthusiasm for regular expressions, PDF parsing, and getting the details right.</li> <li>Strong debugging skills and ability to trace issues across multiple systems.</li> <li>Interest in wearing multiple hats and working on a broad range of problems as a member of a small team in a fast-moving environment.</li> <li>Excellent English communication skills.</li> </ul>
-<p><strong>Benefits</strong></p>
-<p>The position comes with salary, stock options, 401(k) match, a great health plan, vision, dental, generous parental leave, and a flexible vacation policy — we want you to take the time off you need so that you are happy and productive.</p>
+<div>
+<strong>About The Position</strong>:<br><br>We are looking for someone with experience developing in low-code back-end software like Xano, Supabase and Backendless. This is a 40 hour/week, contractor position, starting at $52,000 USD per year. Those hours would fall between roughly 9am-6pm Central Time US, with flexibility to adjust these hours to better fit your local time zone after a successful onboarding period.<br><br>Our product, Draftbit, is a low-code mobile app builder built on a React Native/Expo stack. While much of the app development done on Draftbit is visual vs. writing code, our platform is not "drag-and-drop." We provide our customers a lot of flexibility in the type and complexity of the apps they build. Draftbit does not host our own database, rather our customers "bring their own back-ends" by integrating third-party backends/databases via REST API. It's also common that more complex apps require importing packages and inserting custom code in order to build features that are not yet part of the core Draftbit platform.<br><br>To support our customers who don't have sufficient technical backgrounds to successfully work with backend integrations or custom code, we provide a service we call Draftbit Experts. Experts are full-time members of the Draftbit team who work directly with our customers to build parts or all of their app for them in Draftbit.<br><br>Oftentimes, customers of Draftbit Experts need us to develop and integrate back-ends for the apps. In these cases, we design the database schemas and build these back-ends in a low-code platform, often Xano or Supabase.<br><br>This role would be primarily focused on database design and back-end development in those platforms, then working in Draftbit to integrate those back-ends to enable the desired experience in the customer app.<br><br>In this role, you will be expected to:<br><br>
+</div><ul>
+<li>Collaborate with customers and other Draftbit Experts to understand their app needs and propose database/back-end designs to meet those needs</li>
+<li>Be the primary builder of database schemas and app back-ends in low-code platforms (primarily Xano &amp; Supabase)</li>
+<li>Become proficient in how back-end and data integration works in Draftbit, then use those skills to create app experiences in Draftbit using the back-end you've built<br><br>
+</li>
+</ul><div>
+<strong>About You</strong>:<br><br>In order to be successful in this role, it's essential that you:<br><br>
+</div><ul>
+<li> Are proficient in at least one low-code back-end platform (ideally Xano, but Supabase or Backendless also work) and have share examples of past work</li>
+<li>Experience working directly with clients/customers to develop low-code backend solutions that meet their needs</li>
+<li>Bonus points for having some mobile app/React Native development experience</li>
+<li>Excellent verbal &amp; written English skills</li>
+</ul><div>
+<br><strong>Other Useful Details</strong>:<br><br>
+</div><ul>
+<li> Most of our team works in the US Central time zone and we mostly orient our schedules around a 9am-6pm CT, M-F window. We'd expect you to have a schedule where you're available during at least 4-5 hours of that window.</li>
+<li>We are a small team - around 10 people at the time of posting this. We have a daily team sync meeting at 10am CT, but otherwise most of us work very independently and asynchronously. We expect that you can self-manage effectively and do the same.</li>
+<li>Our company is not a sweat shop. If you need to take time off, just give us some notice and do it!</li>
+</ul><div><br></div><div>
+<strong>How To Apply:<br></strong><br>IMPORTANT - WHEN APPLYING, FOLLOW THE INSTRUCTIONS BELOW<br><br>To help us identify the serious applicants, not just those who send generic applications and don't read job descriptions, we ask that you do the following:<br><br>
+</div><ul>
+<li>Share an example of a back-end you developed in Xano, Supabase or Backendless.</li>
+<li>Along with that example, record a short video walking us through the database design and the app (web or mobile) it was built to support. It's ok if you don't have full access to the front-end web/mobile app - you can just talk us through the use case.</li>
+</ul><div>
+<br>We will only review applications that follow those two directions! Thank you!<br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/gridium-backend-engineer-data-ingestion-python-remote-1">https://weworkremotely.com/remote-jobs/gridium-backend-engineer-data-ingestion-python-remote-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/draftbit-low-code-backend-specialist">https://weworkremotely.com/remote-jobs/draftbit-low-code-backend-specialist</a></p>
 
                 </details>
                 </td>
@@ -62,7 +71,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pspdfkit-web-backend-team-manager" align="right" target="_blank">Apply</a>
@@ -110,7 +119,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>92 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/argyle-backend-engineer" align="right" target="_blank">Apply</a>
@@ -194,7 +203,7 @@
                     <code>AWS,backend,business intelligence,docker</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineering-manager-1368348" align="right" target="_blank">Apply</a>
@@ -287,7 +296,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
