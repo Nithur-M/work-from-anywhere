@@ -1,5 +1,67 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Urban Legend</h5>
+                    <h3> Senior Frontend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/urban-legend-senior-frontend-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Washington, DC
+    <br /><strong>URL:</strong> <a href="https://urbanlegend.co/">https://urbanlegend.co/</a>
+</p>
+
+<div><br></div><div>OUR TEAM IS GROWING<br><br>
+</div><div>Senior Frontend Engineer<br><br>
+</div><div><br></div><div>JOB SUMMARY:</div><div>Urban Legend is seeking a Senior React developer to bring our user-facing technology to the next level. The developer will play a key role in building our influencer-facing platform and mobile app.  </div><div><br></div><div>The ideal candidate will have three plus years of experience in a front-end focused role using React.<br><br>ABOUT URBAN LEGEND:</div><div>Urban Legend is a tech startup that’s redefining influencer marketing for public affairs and advocacy campaigns. The Urban Legend Exchange is an invite-only platform where advertisers run campaigns that mobilize creators to drive meaningful and measurable actions in support of issues that matter. </div><div><br></div><div><br></div><div>RESPONSIBILITIES</div><ul>
+<li>Architects and implements scalable front-end features and systems that delight our influencers and make their jobs easier</li>
+<li>Collaborates with product team to determine scope of new front-end features</li>
+<li>Ships code often and iteratively, in an Agile environment</li>
+<li>Owns the front end of our influencer marketing products</li>
+</ul><div><br></div><div>REQUIREMENTS:</div><ul>
+<li>JavaScript proficiency, including concepts like asynchronous programming, closures, and ES6</li>
+<li>HTML/CSS proficiency, including layout, styling, and cross-browser compatibility</li>
+<li>Significant professional experience writing modern React apps (hooks, functional components, context, styled components, fragments, destructuring)</li>
+<li>Professional experience using React Native or strong desire to learn</li>
+<li>Professional experience building mobile applications or strong desire to learn</li>
+<li>Experience building and maintaining front-end build processes (webpack, Babel) across environments</li>
+<li>Able to think through complex problems and offer possible solutions</li>
+<li>Professional English proficiency</li>
+<li>Minimum five hours overlap with ET to enable flexible cross-collaboration</li>
+</ul><div><br></div><div>NICE-TO-HAVES: </div><ul>
+<li>Experience with React Native and Expo</li>
+<li>Experience refactoring legacy React into modern best practices</li>
+<li>Experience writing front-end focused tests with (Jest) and integration tests (Cypress)</li>
+<li>Experience optimizing performance</li>
+</ul><div>
+<br><br>
+</div><div>BENEFITS:</div><ul>
+<li>Competitive compensation structure and future bonus opportunities </li>
+<li>Health benefits package</li>
+<li>Unlimited PTO</li>
+</ul><div><br></div><div><em>To apply, email your resume to info@urbanlegend.co</em></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/urban-legend-senior-frontend-engineer">https://weworkremotely.com/remote-jobs/urban-legend-senior-frontend-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/1084/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +72,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rekursive-labs-senior-frontend-react-engineer" align="right" target="_blank">Apply</a>
@@ -57,7 +119,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>122 days ago</text>
+                <text>123 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/slab-frontend-engineer" align="right" target="_blank">Apply</a>
@@ -113,84 +175,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1390068/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Premia</h5>
-                    <h3>Senior Frontend & Web3 Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>crypto,CSS,frontend,git</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-web3-engineer-1390068" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><strong>Senior Frontend &amp; Web3 Engineer - Remote</strong></div>
-<div> </div>
-<div>Premia is a decentralized options platform connecting traders and liquidity providers of all backgrounds. Offering non-custodial options to hedge, speculate, or earn yield on your digital assets.  Premia offers first of its kind automated market maker solutions in the DeFi space for Options Contracts through our use of Smart Liquidity Pools and Dynamic Pricing.  Premia enables best-in-class pricing based on market volatility, providing fully-featured peer-to-pool trading and capital efficiency to DeFi options.</div>
-<div> </div>
-<div>We are one of the smallest and most impactful teams in crypto. We are a globally distributed organization, with all positions being fully remote.</div>
-<div> </div>
-<div>We’re looking for a passionate, self-motivated engineer to help us build the next generation of financial products. As a dedicated frontend hire, you will gain ownership over our existing suite of web products, as well as the ability to influence the creation, design, and execution of future products. You will be responsible for ensuring a consistent, high-quality user experience across trading interfaces, data-heavy analytics pages, documentation portals and more.</div>
-<div><strong> </strong></div>
-<div><strong>Who are you?</strong></div>
-<div><span style="">A senior-level front-end engineer (JS/TS + React veteran) who is also crypto-native. At the very least, you understand and hold crypto assets or ideally have developed decentralized applications leveraging blockchain technology before, preferably EVM-compatible. </span></div>
-<div> </div>
-<div><span style="">You are passionate about building bleeding-edge technology for the next iteration of the internet with the use of cryptography and understand the necessity for building beautiful and user-friendly GUIs in order to facilitate the transition to web3. </span></div>
-<div> </div>
-<div><span style="">You have experience and are culturally aligned with fast-moving small teams. You have worked at remote (globally distributed) startups before. You are self-driven, are comfortable wearing many hats, can ship patches and features swiftly when needed. You can identify company priorities, own them, and iterate quickly to ship the best solution.</span></div>
-<div> </div>
-<div><span style="">You can write and speak fluent English and have great communication skills.</span></div>
-<div> </div>
-<div><strong>The Role:</strong></div>
-<div><span style="">Engineers at Premia work with our CTO and our existing engineering team to innovate, architect, and develop user-facing features and new iterations of the Premia app, as well as our event indexing system (The Graph).</span></div>
-<div> </div>
-<div><span style="">In addition, you will work closely with other departments such as Design, QA, Operations, and Marketing teams to successfully execute the implementation, testing, and deployment of new features.</span></div>
-<div> </div>
-<div><span style="">As a senior engineer, you will help (mentor) other members of the team, and will make sure components and app pages are well optimized and running smoothly. </span></div>
-<div> </div>
-<div><strong>Responsibilities</strong></div>
-<div><span style="">-Design, scope, and estimate complex features at the component level.</span></div>
-<div><span style="">-Build, test, and ship features, patches, and updates to our web app.</span></div>
-<div><span style="">-Collaborate with the team and cross-functional partners on all aspects of product development.</span></div>
-<div><span style="">-Identify and advocate for team-wide areas of improvement and best practices.</span></div>
-<div><span style="">-Mentor team members to refine their technical and architectural skills.</span></div>
-<div><span style="">-Help maintain our subgraph repository written in AssemblyScript (JS subset)</span></div>
-<div> </div>
-<div><strong>Requirements</strong></div>
-<div><span style="">-Experience owning and shipping products</span></div>
-<div><span style="">-5+ years of industry experience in software engineering</span></div>
-<div><span style="">-A mastery of Javascript, Typescript, and React with an understanding of encryption and cryptography </span> <span style="">fundamentals.</span></div>
-<div><span style="">-Experience working with GraphQL</span></div>
-<div><span style="">-Basic web3 understanding: Wallets, transactions, explorers, POW/POS, gas price, etc.</span></div>
-<div><span style="">-Ability to quickly iterate and ship code using test-driven development patterns</span></div>
-<div><span style="">-Ability to build modern, event-driven React frontends, converting Figma designs into functional components</span></div>
-<div><span style="">-Mastery of CSS, preferably via a library like MaterialUI</span></div>
-<div><span style="">-Experience with version control, such as Git</span></div>
-<div><span style="">-Knowledge of engineering best practices such as continuous integration</span></div>
-<div><span style="">-Exceptional judgment, problem-solving skills, and an analytical mindset</span></div>
-<div><span style="">-Ability to work in areas beyond your comfort zone and motivated by personal growth</span></div>
-<div><span style="">-A passion for learning and a self-awareness of your learning style</span></div>
-<div><span style="">-(Nice to have) Previous experience with web3.js or ethers.js libraries. </span></div>
-<div> </div>
-<div><strong>Benefits</strong></div>
-<div>Work from anywhere (Remote first), Flexible working hours, Flexible vacation policy, Competitive Salary + Token bonus (portion or all can be paid in Crypto).  Premia is committed to a diverse and inclusive workplace and is an equal opportunity employer. We do not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.</div>
-<div> </div>
-<div>Premia welcomes all qualified persons to apply. Compensation will be competitive and commensurate with experience. This is a full time role.</div>
-<div> </div>
-<div>To find out more you can view their website at <a class="postings-link" href="https://premia.finance/" rel="nofollow">https://premia.finance/</a></div>
-<img src="https://remotive.com/job/track/1390068/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1347890/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -201,7 +185,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-1347890" align="right" target="_blank">Apply</a>
@@ -212,6 +196,40 @@
                 <details><summary>Description</summary>
                 <p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">We’re hiring a Senior/Staff Front End Engineer to work on our web applications. These web applications are the way that thousands of creative people around the world find great music and inspiring clips for use in their projects and campaigns.</p><br style="box-sizing: inherit;"><p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">As part of the Engineering team, your time will be spent collaborating with other front end engineers, back end engineers, product managers and designers to create the best experience for our customers. The ideal candidate loves tinkering with cutting edge technology and has at least 5 years experience building large scale React applications.</p><br style="box-sizing: inherit;"><p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">The engineering team has a remote-first culture. As such, you will be comfortable working remotely, possess excellent verbal and written communication skills and be able to manage your own time. We have a relaxed working environment, great team culture and push for a standard of excellence in everything we do.</p><br style="box-sizing: inherit;"><p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">There are a lot of challenging and interesting technical problems to solve that directly impact our clients and colleagues. Here are some example projects that we have worked on recently:</p><br style="box-sizing: inherit;"><ul style="box-sizing: inherit; margin-left: 16px; padding-left: 18px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);"><li style="box-sizing: inherit; margin: 0px 0px 0px 16px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">Build a custom audio player that includes the ability to track progress, expands to show additional details and allows users to easily explore our artist catalogue.</li><li style="box-sizing: inherit; margin: 0px 0px 0px 16px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">Enhance the purchase flow with additional payment options, subscriptions, and a seamless checkout.</li><li style="box-sizing: inherit; margin: 0px 0px 0px 16px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">Help maintain a beautiful custom React component library, including reusable components with tailored functionality and consistent design attributes.</li><li style="box-sizing: inherit; margin: 0px 0px 0px 16px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">Work on a multi-month greenfield project in Next.js.</li><li style="box-sizing: inherit; margin: 0px 0px 0px 16px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">Implement a robust CI/CD pipeline.</li></ul><br style="box-sizing: inherit;"><p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">We’re after individuals that are curious about the possibility of technology, are eager to learn, and are diligent and kind. Our teams work well because we place trust in them to succeed. We believe in collaboration and that great ideas can come from anybody.</p><br style="box-sizing: inherit;"><p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">We welcome and encourage candidates from diverse backgrounds.</p><br style="box-sizing: inherit;"><br style="box-sizing: inherit;"><p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);"><span style="box-sizing: inherit; margin: 0px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; outline: var(--artdeco-reset-base-outline-zero);"><span style="box-sizing: inherit; border-style: initial;"><strong>About Us</strong></span></span></p><br style="box-sizing: inherit;"><p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">FM is the parent company of Musicbed and Filmsupply, two premium content licensing brands in the filmmaking industry. We represent an elite roster of musicians and filmmakers and place their work in movies, shows, ads, short films, and more.</p><br style="box-sizing: inherit;"><p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">Headquartered in Fort Worth, Texas, we work with entertainment powerhouses like Sony Pictures, 20th Century Fox, Lionsgate, Netflix, MTV, and ESPN; as well as the world’s top brands like Nike, Apple, Google, Lamborghini, and Spotify.</p><br style="box-sizing: inherit;"><p><strong><br style="box-sizing: inherit;"></strong></p><p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);"><span style="box-sizing: inherit; margin: 0px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; outline: var(--artdeco-reset-base-outline-zero);"><span style="box-sizing: inherit; border-style: initial;"><strong>Core Duties</strong></span></span></p><br style="box-sizing: inherit;"><ul style="box-sizing: inherit; margin-left: 16px; padding-left: 18px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);"><li style="box-sizing: inherit; margin: 0px 0px 0px 16px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);"><span style="box-sizing: inherit; margin: 0px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; outline: var(--artdeco-reset-base-outline-zero);">Lead the front end development of product features:</span> As well as coding out complex features, you will contribute to the technical design process. You will collaborate with your teammates (including other senior engineers) to refine the product roadmap and vision, and guide your team in building out new features.</li><li style="box-sizing: inherit; margin: 0px 0px 0px 16px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);"><span style="box-sizing: inherit; margin: 0px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; outline: var(--artdeco-reset-base-outline-zero);">Define technical direction: </span>You will help maintain the standard of engineering excellence at FM and shape the technical vision for our front end engineering stack (React, Next.js, React Native). You will influence best practices and introduce new technologies when appropriate.</li><li style="box-sizing: inherit; margin: 0px 0px 0px 16px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);"><span style="box-sizing: inherit; margin: 0px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; outline: var(--artdeco-reset-base-outline-zero);">Mentor other engineers:</span> Work with more junior engineers to help them grow and develop their skills.</li></ul><br style="box-sizing: inherit;"><p style="box-sizing: inherit; padding: 0px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);"><span style="box-sizing: inherit; margin: 0px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; outline: var(--artdeco-reset-base-outline-zero);"><span style="box-sizing: inherit; border-style: initial;"><strong>A Great Candidate Will Have</strong></span></span></p><br style="box-sizing: inherit;"><ul style="box-sizing: inherit; margin-left: 16px; padding-left: 18px; border-style: initial; vertical-align: baseline; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);"><li style="box-sizing: inherit; margin: 0px 0px 0px 16px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">At least 5 years experience developing front end applications with React (and preferably Next.js).</li><li style="box-sizing: inherit; margin: 0px 0px 0px 16px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">A love of Typescript and unit-tested React components.</li><li style="box-sizing: inherit; margin: 0px 0px 0px 16px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">Highly skilled in HTML and CSS (including responsive design and cross-browser compatibility).</li><li style="box-sizing: inherit; margin: 0px 0px 0px 16px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">Proven technical leadership skills, including the ability to architect complex front-end web applications.</li><li style="box-sizing: inherit; margin: 0px 0px 0px 16px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">Excellent communication skills (written and verbal).</li><li style="box-sizing: inherit; margin: 0px 0px 0px 16px; padding: 0px; border-style: initial; vertical-align: baseline; background-image: ; background-position-x: ; background-position-y: ; background-size: ; background-repeat-x: ; background-repeat-y: ; background-attachment: ; background-origin: ; background-clip: ; --artdeco-reset-typography_getFontSize:1.4rem; --artdeco-reset-typography_getLineHeight:1.42857; line-height: var(--artdeco-reset-typography_getLineHeight);">Experience in any of the following is a bonus: Webpack, Unstated, Cypress, React Native.</li></ul>
 <img src="https://remotive.com/job/track/1347890/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://freshremote.work/media/company/logo/22/03/creditsesame.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Credit Sesame</h5>
+                    <h3>Senior Frontend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full Time</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://freshremote.work/J119748/" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Credit Sesame is the only platform that helps consumers achieve financial wellness by allowing them to manage and grow their credit and cash in one place, for free.  We have created a whole new market category in financial services that sits at the i …
+Credit Sesame is the only platform that helps consumers achieve financial wellness by allowing them to manage and grow their credit and cash in one place, for free.  We have created a whole new market category in financial services that sits at the intersection of a credit market place and credit builder digital banking services.  Our purpose is clear, to make financial inclusion and wellness a reality for everyone.<br/><br/>Credit Sesame is looking for a hands-on Senior Frontend Engineer to be at the forefront of building our next-generation website. Have you worked on a React-based high-traffic web application? Do you enjoy working with product managers and designers? Are you passionate about bringing together design with technology to create user experiences that delight our users? If so, this role is for you.
+<h3>You'll...</h3>
+<ul>
+<li>Develop our Credit Sesame website on both web and mobile;</li><li>Execute, deliver, and scale consumer-facing product features;</li><li>Work cross-functionally with product managers and our design team;</li><li>Collaborate with other technology teams and architects to solve complex problems;</li><li>Design and build the next generation of our website to provide the best experience for our users</li><li>Provide guidance on best practices for developing modern responsive websites</li><li>Work within a cross-functional Agile team</li></ul>
+<h3>You're a great fit for our team because...</h3>
+<ul>
+<li>You have solid experience with responsive design and development</li><li>You have proficiency with CSS, Sass, HTML and some basics of Javascript and React JS</li><li>You’ve worked with technology for implementing A/B testing (Optimizely, etc.)</li><li>You iterate quickly on product changes through experience with Agile/Scrum framework;</li><li>You’ve successfully developed user stories</li><li>You've been a frontend architect for at least one application; </li><li>You’re comfortable working with a distributed team;</li><li>You have over 8 years of engineering experience and have had full-stack exposure;</li><li>You have have a Bachelor's Degree or equivalent.</li></ul>
+<h3>You'll love it here because...</h3>
+<ul>
+<li>You‘ll have huge potential to grow with a company that’s a category leader;</li><li>You’ll have equity in a pre-IPO company backed by top VCs;</li><li>We offer comprehensive medical, dental, and vision insurance; </li><li>We offer monthly phone and internet reimbursement; </li><li>We prize EQ and empathy, and have a culture that emphasizes total wellness, including work-life harmony.</li></ul><br/><br/><br/><br/>We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender, gender identity or expression, or veteran status. We are proud to be an equal opportunity workplace.<br/>
                 </details>
                 </td>
             </tr></table>
