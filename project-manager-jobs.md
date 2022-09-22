@@ -10,7 +10,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/findable-digital-marketing-project-manager" align="right" target="_blank">Apply</a>
@@ -87,40 +87,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/findable-digital-marketing-project-manager">https://weworkremotely.com/remote-jobs/findable-digital-marketing-project-manager</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/09/Mashgin.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Mashgin</h5>
-                    <h3>Project Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J119731/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                About MashginAt Mashgin, we are developing the future of checkout experiences. We aim to reduce the friction between customer desires and their ability to be on their way. In May 2022, Mashgin closed a Series B funding round at a $1.5B valuation. We  …
-About MashginAt Mashgin, we are developing the future of checkout experiences. We aim to reduce the friction between customer desires and their ability to be on their way. <br/>In May 2022, Mashgin closed a Series B funding round at a $1.5B valuation. We are backed by some of Silicon Valley’s leading investors including Matrix Partners, NEA and Y Combinator. Our ecosystem is anchored by the only 3D computer vision and deep learning based checkout system in the world. We have 1,000+ locations world wide with customers across a wide spectrum of verticals including the NFL, MLB, Circle K, ampm, Aramark and Compass Group.<br/>We value autonomy of ones work, a culture of respect for one another, and building products with empathy for our customers.<br/>Position SummaryMashgin is looking for a Project Manager to assist in planning, implementing and working towards completion of deployment execution. You will be working with various teams and stakeholders including Engineering, Hardware, Support, and IT from the United States to Europe to coordinate timelines, and deliverables for multiple projects simultaneously. You will own the entire scope of the project from planning and scoping to training to execution and documentation while keeping executive teams on the same page with key data points and updated timelines.
-<h3>You Will Be</h3>
-<ul>
-<li>Leading the process of requirement gathering, scoping, pricing, project planning, and delivery for multiple client projects</li><li>Developing an intimate familiarity with the intricacies of Mashgin’s checkout solution, and leverage your technical problem solving skills to ensure our clients successfully get the most out of our products</li><li>Defining clear deliverables, roles and responsibilities for Client Success, Product, and Engineering team members within specific customer projects, and maintaining effective channels of communication to address and overcome challenges within them</li><li>Leveraging your experience to build, maintain, and iterate upon internal processes/tooling to improve the overall efficiency, while ensuring clients receive world class service at enterprise level speed</li><li>Tracking all project deliverables and milestones using your strong decision making and organization skills</li><li>Working closely with project vendors, client stakeholders, and leadership team members to mitigate obstacles, prioritize resourcing, and manage project budgets</li></ul>
-<h3>Minimum Qualifications</h3>
-<ul>
-<li>5+ years demonstrated ability in a project management capacity</li><li>Excellent communication (written, verbal and technical) and customer service skills</li><li>World-class understanding of Project Management processes, strategies, and methods, and experience establishing guidelines in these areas for others</li><li>Meticulous and relentless problem solving skills and getting things done</li><li>Vision for creating broad and scalable solutions to prevent redundant work</li><li>Track record of excelling in a fast-paced, collaborative, self-motivated startup environment</li></ul>
-<h3>What We Offer</h3>
-<ul>
-<li>An opportunity to work on a small, multidisciplinary team with the potential to break new ground in many different industries</li><li>Excellent health, dental and vision insurance for you and your dependents</li><li>401k plan</li><li>Flexible PTO policy</li><li>Competitive salary and options in a small, rapidly scaling company</li></ul>Mashgin is proud to be an equal opportunity employer. Individuals seeking employment at Mashgin are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation.
                 </details>
                 </td>
             </tr></table>
