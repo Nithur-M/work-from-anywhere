@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>120 days ago</text>
+                <text>121 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-devops-engineer" align="right" target="_blank">Apply</a>
@@ -70,7 +70,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1344659" align="right" target="_blank">Apply</a>
@@ -85,11 +85,11 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/04/imagen.jpg" width="38px" height="auto">
+                    <img src="https://freshremote.work/media/company/logo/22/06/oddballio.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Imagen Technologies</h5>
-                    <h3>Security Engineer, DevOps</h3>
+                    <h5>Oddball</h5>
+                    <h3>DevOps Engineer</h3>
                 </td>
                 <td width="300">
                     <code>Full Time</code>
@@ -98,45 +98,52 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J119745/" align="right" target="_blank">Apply</a>
+                <a href="https://freshremote.work/J120561/" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                Imagen enables Primary Care providers to become technology-enabled multispecialty practices, powering a successful transition from fee-for-service to value-based care. Imagen’s comprehensive platform includes in-office diagnostic testing, diagnostic  …
-<p>Imagen enables Primary Care providers to become technology-enabled multispecialty practices, powering a successful transition from fee-for-service to value-based care. Imagen’s comprehensive platform includes in-office diagnostic testing, diagnostic interpretations powered by proprietary FDA-cleared machine learning software, and virtual specialist consults. Imagen’s platform empowers Primary Care providers to achieve healthcare’s quadruple aim of increasing quality, lowering costs, and improving the patient and provider experience. </p>
-<p>Imagen’s team includes over 100 clinical, technical and business personnel. Imagen’s software has received first-of-its-kind FDA clearances, and its research has been published in leading peer-reviewed journals. Imagen has raised $135 million in capital from investors such as Google Ventures, Casdin Capital, and Threshold Ventures. Imagen was founded in 2015 and is based in New York City.</p>
-<p>We're looking for a Security DevOps Engineer to be an integral member of our Security Team. In this high-impact role, you will be responsible for maintaining patient safety through managing our security tools, improving the security of our medical devices and cloud infrastructure, and helping us reach our security compliance goals. This role will also have responsibilities in endpoint security, cloud security, incident response, and vulnerability assessment. This is a hand-on role, and our ideal candidate will maintain high standards, is passionate about delivery of care to patients, and wants to play an impactful role in the development of our innovative medical devices. This is an excellent opportunity for someone eager to learn and grow. </p>
-<p>As the Security DevOps Engineer, you will:</p>
-<ul>
-<li>Own our security tools in AWS such as SecurityHub, GuardDuty, Inspector, and Shield among others</li>
-<li>Improve our cloud security configurations through active Terraform improvements and reviews and patch management</li>
-<li>Be capable of threat analysis and performing offensive security techniques, including vulnerability scanning, to identify potential gaps in Imagen’s operational footprint</li>
-<li>Play a key role in enhancing cloud API security </li>
-<li>Be responsible for maintaining the security of Imagen’s financial applications through ISO 27001 standards and NIST frameworks</li>
-<li>Partner with key stakeholders to improve and maintain the security of Imagen’s medical device </li>
-<li>Proactively identify tools and perform projects across the cybersecurity and compliance domains as necessary to improve Imagen’s systems and operations</li>
-</ul>
-<p>Requirements:</p>
-<ul>
-<li>At least 2 year experience as a SecOps engineer, security engineer, senior reliability engineer, working in a Security Operations Center (SOC), or equivalent education</li>
-<li>Infrastructure as Code experience (e.g., Terraform)</li>
-<li>Have at least 1 year experience working with AWS SecurityHub or equivalent</li>
-<li>Experience with understanding CVEs and remediating security vulnerabilities</li>
-<li>High standards and the ability plan, prioritize, and manage competing priorities to ensure deadlines are met </li>
-<li>Enjoys working with technical and non-technical stakeholders</li>
-</ul>
-<p>Nice-to-haves:</p>
-<ul>
-<li>Proficiency in a programming language (Python, Ruby, etc)</li>
-<li>Experience with offensive security processes like port scanning, vulnerability scanning, enumeration, and exploitation</li>
-<li>Compliance experience (e.g., HIPAA, HITRUST, SOC2, or PCI) </li>
-<li>Security certification such as an OSCP, GCIH, GCFA, or similar</li>
-</ul>
+                DevOps Engineer
+ 
+Remote
+ 
+Oddball believes that the best products are built when engineers understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we  …
+<p><strong>DevOps Engineer</strong></p>
 <p> </p>
-<p><em>Imagen Technologies maintains a Substance Abuse and Testing policy. Being under the influence of alcohol or controlled substances while on the job or while conducting business on Imagen’s behalf is prohibited. Any offer of employment will be made contingent upon successful completion of a drug test, subject to compliance with all applicable federal, state, and local laws.</em></p>
-<p><em>Imagen is committed to the principle of equal employment opportunity for all employees and applicants for employment and prohibits discrimination and harassment of any kind without regard to race, color, religion, age, sex, national origin, disability status, genetics, protected veteran status, sexual orientation, gender identity or expression, or any other characteristic protected by federal, state or local laws.  Imagen will not tolerate discrimination or harassment based on any of these characteristics. This policy applies to all terms and conditions of employment, including recruiting, hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation, and training.</em></p>
+<p>Remote</p>
+<p> </p>
+<p>Oddball believes that the best products are built when engineers understand and value the things they are working on. We value learning and growth and the ability to make a big impact at a small company. We believe that we can make big changes happen and improve the daily lives of millions of people by bringing quality software to the federal space.</p>
+<p>We are hiring for a DevOps engineer to work on a program that will make a positive impact on millions of Americans' daily lives. As an early hire on a small team, you'll have a huge stake in what we build and how we work.</p>
+<p> </p>
+<p>What you'll be doing:</p>
+<p> </p>
+<p>Working hand in hand with great DevOps engineers to create and execute software development plans and strategies in support of large-scale platform and API initiatives in the federal space. This will include developing and implementing algorithms, database design, automated testing, and quality control of software development.</p>
+<p> </p>
+<p>We are looking for someone with the following skillset:</p>
+<p> </p>
+<p>• In-depth experience with config management tools like: Jenkins, Chef, Ansible, Puppet, SaltStack,</p>
+<p>• 3+ years experience creating and supporting AWS environments</p>
+<p>• 3+ years experience with engineering, integrating or testing production IT infrastructure platforms using Kubernetes and Openshift</p>
+<p>• 2+ years experience developing and improving CI/CD scripts and services for development and deployment</p>
+<p>• Experience supporting web technologies and websites running Apache or NGINX</p>
+<p>• 3+ years experience with Linux operating systems including installing, configuring and troubleshooting</p>
+<p>• Experience in SQL architecture such as MySQL, PostgreSQL or MS-SQL</p>
+<p>• Desire and ability to mentor and train other engineers</p>
+<p>• A Bachelor's Degree is required with a minimum of 8 years experience</p>
+<p> </p>
+<p>Salary</p>
+<p>This is a salaried role. As part of your benefits package, Oddball provides a monthly continuing education stipend and a tech stipend.</p>
+<p> </p>
+<p>Must be located within the United States.  </p>
+<p> </p>
+<p>Clearances</p>
+<p>Ability to obtain low-level federal clearance is required</p>
+<p> </p>
+<p>Oddball is an Equal Opportunity Employer and does not discriminate against applicants based on race, religion, color, disability, medical condition, legally protected genetic information, national origin, gender, sexual orientation, marital status, gender identity or expression, sex (including pregnancy, childbirth or related medical conditions), age, veteran status or other legally protected characteristics. Any applicant with a mental or physical disability who requires an accommodation during the application process should contact an Oddball HR representative to request such an accommodation.</p>
+<p> </p>
+<p>To Apply, visit:</p>
+<p>https://apptrkr.com/3471632</p>
                 </details>
                 </td>
             </tr></table>
