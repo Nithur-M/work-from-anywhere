@@ -1,5 +1,147 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/675bb26ad0e909e0944fe91f2bda873a1663744514.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>The Block</h5>
+                    <h3>
+					Senior Software Engineer				</h3>
+                </td>
+                <td width="300">
+                    <code>software, design, cryptocurrency</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/jobs/121124" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>Founded in 2018 and based in NYC, The Block is the leading research, analysis, and news brand in the digital asset space. The Block's team is spread across 7 timezones, covering the global cryptocurrency space 24/7.</div><div>The Block delivers deep insight into how the emerging digital assets sector interacts with traditional finance, technology, governments, and markets. We reach hundreds of thousands of technologists, financial market participants, Fortune 500 professionals, global service providers, policymakers, and more through our main website, dedicated Research Portal, podcast, and events.</div><div>You will be responsible for developing new features, optimizing performance with respect to both our backend and frontend stack, developing and supporting solutions for product analytics, and capturing feedback from our logging and debugging services to both troubleshoot an make improvements.</div><div>An effective Full-Stack Engineer should be able effectively communicate with the team and develop solutions between back-end and front-end implementations and concerns. The ideal candidate must be able to prioritize tasks and complete them in a timely manner.</div><br>You Will<br><li>Be responsible for the feature development of products you are a part of.</li><li>Collaborate with our engineers, researchers, executives, and designers to develop new features and prioritize bug fixes for our products.</li><li>Clearly communicate development progress across the Product & Engineering team.</li><li>Be creative in solving engineering problems.</li><li>Work with team managers on development prioritization and career development opportunities.</li><li>Contribute to the culture of quality, healthy collaboration and leading by example.</li><br>MUST HAVES<br><li>Full-stack experience and able to contribute to both frontend (Vue, Vuex, Nuxt, service workers, PWA) and backend (NodeJS, Adonis/SailsJS/Nest/Loopback or equivalent structured framework, Yarn, Postgres, GraphQL, Redis, memcached) systems.</li><li>Deep technical skill with frontend technologies (SASS, LESS,  Bootstrap utilities, TailwindCss or other similar).</li><li>Strong familiarity with Unix / Linux operating systems and general command-line knowledge.</li><li>Experience with git in a collaborative environment such as Github.</li><li>Responds positively when receiving and giving feedback.</li><li>Experience using code reviews and pair programming within the Agile Development lifecycle.</li><li>Expertise in web analytics and content performance measurements solutions.</li><li>Development Experience with payment processing and membership services.</li><li>Knowledge of common software design patterns and responsive web frameworks.</li><li>Knowledge of email service provider features and APIâs.</li><li>8 or more years experience as a professional software engineer.</li><br>GOOD TO HAVE<br><li>Experience with digital assets, crypto, and blockchain technologies.</li><li>Experience in one or more Business Intelligence (BI) products, such as Google Data Studio, Domo, or Tableau.</li><li>Expertise using developing and/or creating development environments using Docker, Vagrant, Virtual Box or similar platform.</li>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7254/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>APY Vision</h5>
+                    <h3> Software Engineering Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/apy-vision-software-engineering-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7254/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Singapore
+    <br /><strong>URL:</strong> <a href="https://apy.vision">https://apy.vision</a>
+</p>
+
+<div>
+<strong>About the role<br></strong><br>
+</div><div>We’re looking for a Software Engineering Manager to join our core platform team. If you are looking for a challenge and want to shape the future of Web3, please come to talk to us.</div><div>
+<br>Web3 experience is not required, as we can get you up to speed with our one-week course when you start.</div><div>Your team will focus on building a data platform that will enable other developers to build data integrations revolving around user account financial statements.</div><div>
+<br><strong>What you’ll do as a Software Engineering Manager</strong>
+</div><ul>
+<li>You will lead and manage a team of engineers to support our data platform.</li>
+<li>Support the engineers on your team through career development and continuous feedback.</li>
+<li>Drive technical discovery through collaboration with your team and potential customers (protocols).</li>
+<li>Implement software alongside your team members when necessary.</li>
+<li>Collaborate with business leads across the company to define milestones and deliveries for new functionality to be added to existing applications.</li>
+<li>Take an active part in improving and optimising the system’s core.</li>
+<li>Care about agility as much as you care about scalability. We continue to launch products very quickly and are looking for a team that can pivot at a moment’s notice.</li>
+<li>Work with your team under quick deadlines to design, build, and deliver innovative applications.</li>
+<li>Ensure alignment with software development standards and methodologies.</li>
+<li>Facilitate production issues as incident commander and be part of a cross-functional team with end-to-end responsibility for the final product.</li>
+<li>You will act as the glue for building a top-notch team that will transform Web3 analytics through highly scalable technology. </li>
+</ul><div><strong>What you’ll bring</strong></div><ul>
+<li>7+ years of working experience with applications based on NodeJS, Ruby and/or other languages.</li>
+<li>5+ years of working experience with API development.</li>
+<li>Experience managing a small team of engineers (3 or more) and working with stakeholders, and contributing to product definition.</li>
+<li>Strong knowledge of Typescript as well as Spark, Databricks, RabbitMQ, Redis, and SQL.</li>
+<li>Experience with Docker and Kubernetes.</li>
+<li>Understanding of large-scale, distributed systems and microservice architecture.</li>
+</ul><div><strong>Who you’ll be working with</strong></div><ul>
+<li>You will work with the management of the company, shaping the direction of the product</li>
+<li>You will work closely with the Product Lead, and the Tech lead to define work and specify features defined in the roadmap</li>
+<li>You will build and lead a team of engineers shipping critical features</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/apy-vision-software-engineering-manager">https://weworkremotely.com/remote-jobs/apy-vision-software-engineering-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/8613/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Chainlink Labs</h5>
+                    <h3> Senior Software Engineer, Economics</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-economics" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/8613/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> United States
+    <br /><strong>URL:</strong> <a href="https://chainlinklabs.com/careers">https://chainlinklabs.com/careers</a>
+</p>
+
+<div>Chainlink decentralized oracle networks provide tamper-proof inputs, outputs, and computations to support advanced smart contracts on any blockchain. As the ecosystem continues to grow at an explosive pace we are building the infrastructure to further secure the reliability of our networks and incentivize good behavior </div><div><br></div><div>As a software engineer on the <strong>Economics</strong> team, you will develop highly impactful products that further secure Chainlink oracle networks to provide best in class off-chain data to the blockchain ecosystem. You will work closely with all functions at Chainlink, from engineering, operations, finance, marketing, and more to ensure the team releases easy to use and easy to manage smart contract driven products. Your core team will be composed of smart contract and software engineers and you will report to the engineering lead on the team.</div><div>
+<strong><br>Your Impact<br></strong><br>
+</div><ul>
+<li>Owning large components of the architecture that secures Chainlink data feeds</li>
+<li>Work closely with fellow engineers to build the end to end experience for your products, which range from web to data services, smart contracts and more</li>
+<li>Work closely with operations to ensure smooth deployment and management</li>
+<li>Partner with the research team to build products that are practical and easy to use</li>
+<li>Collaborate with non-technical stakeholders to ensure you build products that delivery positive user experience and meets business constraints</li>
+</ul><div>
+<strong><br>Requirements<br></strong><br>
+</div><ul>
+<li>3+ years of professional engineering experience working in a collaborative product-driven environment</li>
+<li>Deployed multiple smart contracts to Ethereum mainnet or an EVM compatible chain that secured substantial user funds</li>
+<li>Deep understanding of Solidity and the EVM</li>
+<li>Active participant in the blockchain ecosystem as a user</li>
+<li>Experience owning multi month long projects, including communication of progress, dependencies, and risk mitigation directly with stakeholders and partners</li>
+<li>Computer science fundamentals and systems design</li>
+<li>Experience in Rust, TypeScript, AWS</li>
+<li>Experience developing smart contracts on non-EVM blockchains</li>
+<li>Experience building dApps end to end</li>
+<li>Experience working with a team located across multiple time zones</li>
+</ul><div><br></div><div><strong>Our Stack</strong></div><div>TypeScript, Solidity, Rust, AWS</div><div><br></div><div><br></div><div><strong>Our Principles</strong></div><div><br></div><div>At Chainlink Labs, we’re committed to the key operating principles of ownership, focus, and open dialogue. We practice complete ownership, where everyone goes the extra mile to own outcomes into success. We understand that unflinching focus is a superpower and is how we channel our activity into technological achievements for the benefit of our entire ecosystem. We embrace open dialogue and critical feedback to arrive at an accurate and truthful picture of reality that promotes both personal and organizational growth.</div><div><br></div><div><strong>About Chainlink Labs</strong></div><div><br></div><div>Chainlink is the industry standard oracle network for connecting smart contracts to the real world. With Chainlink, developers can build hybrid smart contracts that combine on-chain code with an extensive collection of secure off-chain services powered by Decentralized Oracle Networks. Managed by a global, decentralized community of hundreds of thousands of people, Chainlink is introducing a fairer model for contracts. Its network currently secures billions of dollars in value for smart contracts across the decentralized finance (DeFi), insurance, and gaming ecosystems, among others. The full vision of the Chainlink Network can be found in the <a href="https://research.chain.link/whitepaper-v2.pdf">Chainlink 2.0 whitepaper</a>. Chainlink is trusted by hundreds of organizations—from global enterprises to projects at the forefront of the blockchain economy—to deliver definitive truth via secure, reliable data.  </div><div><br></div><div>This role is location agnostic anywhere in the world, but we ask that you overlap some working hours with Eastern Standard Time (EST).</div><div><br></div><div>We are a fully distributed team and have the tools and benefits to support you in your remote work environment.</div><div><br></div><div><em>Chainlink Labs is an Equal Opportunity Employer.</em></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-economics">https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-economics</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +152,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -72,7 +214,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -126,70 +268,6 @@
 <li>Machine learning or data science experience</li>
 </ul>
 <img src="https://remotive.com/job/track/1187416/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/21/05/LatticeHQ.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Lattice</h5>
-                    <h3>Senior Software Engineer, Compensation</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J119632/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Who you are
-You have 5+ years of professional experience writing and maintaining production-level applications.
-
-You’ve worked with a modern programming language like JavaScript, Ruby, Python, etc.
-You’re no stranger to SQL—you know how to efficientl …
-<h3>Who you are</h3>
-<p>You have 5+ years of professional experience writing and maintaining production-level applications.</p>
-<ul>
-<li>You’ve worked with a modern programming language like JavaScript, Ruby, Python, etc.</li>
-<li>You’re no stranger to SQL—you know how to efficiently model data and write performant queries in a relational database like PostgreSQL.</li>
-<li>You know the ins-and-outs of maintaining and scaling an application actively serving customers in production.</li>
-<li>You seek out the root cause when debugging software defects, and champion improvements that prevent future issues.</li>
-</ul>
-<p>You’re a great communicator and collaborator.</p>
-<ul>
-<li>You take care to write code that your colleagues will also own, understand, and maintain.</li>
-<li>You’re clear and concise in explaining your thought process and in enumerating the tradeoffs made in your work.</li>
-<li>You work well with designers and product managers to come up with optimal solutions. </li>
-</ul>
-<p>You enjoy taking an active role in the development process, have experience leading large-scale initiatives, and strive to continuously improve engineering practices.</p>
-<ul>
-<li>You love mentoring and supporting other software engineers who are newer to the industry.</li>
-<li>You have experience taking the lead in planning and executing the development roadmap for complex software projects, including those that span multiple teams or services.</li>
-<li>You make the engineering team more effective through the pragmatic application of useful code tools and patterns.</li>
-<li>You proactively identify opportunities to improve the maintainability, scalability and reliability of business-critical systems.</li>
-</ul>
-<h3><strong>Responsibilities</strong></h3>
-<ul>
-<li>You’ll build software to help companies build cultures in which their employees thrive.</li>
-<li>You’ll work with other engineers to build and own products across a modern tech stack. Our current stack includes React, Relay Modern, GraphQL, Node, and PostgreSQL. We rely on AWS to host our infrastructure.</li>
-<li>You’ll architect solutions for complex projects, often spanning multiple services or teams.</li>
-<li>You’ll set technical standards, conduct code reviews and provide technical mentorship of other engineers.</li>
-<li>You’ll influence prioritization and resourcing with the management team and cross-functional partners to tackle engineering goals.</li>
-</ul>
-<h3><strong>Who we are</strong></h3>
-<p>The Compensation Product Platform team (CPP) is working alongside the other Comp teams to get Lattice’s compensation product through the exciting time of our initial release, and working with Product to explore this new space with a lot of greenfield work! As a platform team CPP is specifically focussing on much of the core back end functionality such as data ingestion &amp; modeling, designing APIs, building out the new Hoodwink service, breaking stuff out of the Weaver monolith, performance and reliability tuning, and building out functionality for both internal and external users as we’re actively figuring out where to steer the product. This is a great opportunity for someone who gets dopamine hits from solving some of the meatier, back end platform type problems, and enjoys being an active part of the conversation around how we’re building out a brand new product.</p>
-<h2><strong>About Lattice</strong></h2>
-<p>Lattice is on a mission to build cultures where employees and their companies thrive 💪. In an age where employees have more choices than ever before, businesses that put employees first are winning 🏅– and Lattice is building the tools to empower those people-centric companies. Lattice is a people success platform that offers performance reviews, employee engagement surveys, real-time feedback, weekly check-ins, goal setting, and career planning in a way that allows companies to focus on employee development, growth, and engagement – yielding stronger employee retention, performance, and impact to the bottom line 📈. Since launching in 2016, we have grown to over 4,600+ customers globally, including brands like Slack, Pinterest, Reddit, and Asana. </p>
-<p><br/>What else does Lattice have to offer? We’re so glad you asked! We invest in our people’s personal and professional growth because that sort of growth begets business impact <em>and </em>personal fulfillment 🤗. We believe in the value of continued learning investments 🤓and reimbursements. We offer a competitive salary (including equity💸) and our benefits are thoughtful. We believe that taking the time for you is important and have a flexible vacation/time-off policy to prove it. We even incorporated Lattice “Recharge Days” 🔋to ensure you’re getting a break every month. Lattice has also implemented a 💻 remote-first hybrid model (team-dependent, you work from wherever makes you most comfortable). If that gets you excited, now is the perfect time to join; so bring your appetite for ownership and creation and help Lattice continue to grow! 🎉</p>
-<p><em>Lattice is committed to equal treatment and opportunity in all aspects of recruitment, selection, and employment without regard to gender, race, religion, national origin, ethnicity, disability, gender identity/expression, sexual orientation, veteran or military status, or any other category protected under the law. Lattice is an equal opportunity employer; committed to a community of inclusion, and an environment free from discrimination, harassment, and retaliation.</em></p>
-<p><em>By clicking the "Submit Application" button below, you consent to Lattice processing your personal information for the purpose of assessing your candidacy for this position in accordance with</em><a><em> </em><em>Lattice's Job Applicant Privacy Policy</em></a><em>.</em></p>
                 </details>
                 </td>
             </tr></table>
