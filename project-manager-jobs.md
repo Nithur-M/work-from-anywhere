@@ -10,7 +10,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/findable-digital-marketing-project-manager" align="right" target="_blank">Apply</a>
@@ -87,6 +87,62 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/findable-digital-marketing-project-manager">https://weworkremotely.com/remote-jobs/findable-digital-marketing-project-manager</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1394584/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>HR Baires</h5>
+                    <h3>Project Manager</h3>
+                </td>
+                <td width="300">
+                    <code>management,project management,jira,games</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/all-others/project-manager-1394584" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h2">Role</div>
+<p>Dive takes your complicated data and offers a clean and simple solution to collect, validate and maximize on the potential of your data. Created by people who know the interlaced strands of games industry data management, the Dive platform is uniquely crafted to your needs, combining a <a href="https://www.dive.games/data-expert" rel="nofollow">dedicated expert team</a> with our own technology and integration tools.</p>
+<p> </p>
+<p>We are seeking a talented, enthusiastic, and highly organized project manager to join our team. She /He will be responsible to guarantee the vision of the project and the positive on-going development of its products and will manage small to mid size teams of highly creative and technical professionals throughout the development life-cycle.</p>
+<p> </p>
+<p> </p>
+<p> </p>
+<div class="h2">Responsibilities</div>
+<ul>
+<li>Ensure a good collaboration between the different teams (internal and external)</li>
+<li>Excellent people management skills, including proven ability to motivate and encourage team members</li>
+<li>Plan and implement projects</li>
+<li>Help define project scope, goals and deliverables</li>
+<li>Define tasks and required resources</li>
+<li>Create a schedule and project timeline</li>
+<li>Monitor and report on project progress</li>
+<li>Implement and manage change when necessary to meet project outputs</li>
+<li>Evaluate and assess the result of the project</li>
+</ul>
+<p> </p>
+<div class="h2">Requirements</div>
+<ul>
+<li>Excellent communication skills - English</li>
+<li>Want to work and learn</li>
+<li>Basic Data Tools knowledge - Tableu, etc</li>
+<li>Problem-solving and leadership skills</li>
+<li>Project planning, risk management, time management, and other project management skills</li>
+<li>Experience in strategic planning, risk management and/or change management</li>
+<li>Proficiency in project management software tools - JIRA</li>
+<li>Contract negotiation</li>
+<li>Conflict resolution experience</li>
+</ul>
+<img src="https://remotive.com/job/track/1394584/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
