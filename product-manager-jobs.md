@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/banzai-senior-product-manager-3" align="right" target="_blank">Apply</a>
@@ -93,7 +93,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/paymentology-product-manager" align="right" target="_blank">Apply</a>
@@ -147,77 +147,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1392233/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Metaplex Studios</h5>
-                    <h3>Product Manager, 1st Party Team</h3>
-                </td>
-                <td width="300">
-                    <code>developer,mobile,product manager,sales</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-manager-1st-party-team-1392233" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Fully Remote, International and U.S. Applicants May Apply</p>
-<p> </p>
-<div class="h3">Metaplex Studios</div>
-<p>Metaplex Studios is the official standard for Solana NFTs and the largest NFT ecosystem in the world. In less than one year since launch, we have experienced massive growth with over 11 million NFTs created using the Metaplex protocol, facilitating over $2.6 billion in commerce for developers and creatives of all kinds. Solana’s energy efficiency, low cost, and fast transaction speeds provide a unique opportunity now to build a future for NFTs as the infrastructure for an increasingly broad scope of use cases; it has already been used for over 85k projects in gaming, arts &amp; collectibles, marketplaces, developer tools, and more.</p>
-<p>On a mission to empower creators, Metaplex champions a world full of diverse perspectives, creativity and art. For this to be possible, creators must have increased access to their audience, powerful tools that are easy to use, and be able to retain more financial benefits from the sales and use of their work. We believe tokens and blockchain technology are a critical tool for this purpose. For more information, visit <a class="external" href="http://www.metaplex.com/" rel="nofollow">www.metaplex.com</a></p>
-<p> </p>
-<p><strong>About This Role </strong></p>
-<p>The 1st Party team makes it easier for non-technical creators and collectors to use Metaplex’s tools and experience NFTs. This includes no-code interfaces for minting NFTs, managing collections, and more.</p>
-<p>We are looking for a product manager who brings a customer focus to their work, balances qualitative and quantitative inputs, and excels at partnering with both design and engineering teams.</p>
-<p><strong>Requirements</strong></p>
-<p><strong>What You'll Need</strong></p>
-<ul>
-<li>Demonstrated success working on consumer products that span desktop and mobile. Bonus if your prior experience includes working on creator experiences, commerce platforms, marketplaces, or similar products.</li>
-<li>Good design sense. You’re comfortable contributing wireframes and working collaboratively with product designers to make UX decisions.</li>
-<li>Strong communication skills. You’re able to grasp technical concepts and turn them into simple solutions for non-technical audiences.</li>
-<li>You enjoy zero-to-one products, early evolving technology, and are comfortable experimenting and iterating toward confidence. You are comfortable defining new opportunities (vs optimization).</li>
-<li>Strong interest in web3, from the overall NFT market dynamics to the creation process. You have already minted, bought, and sold NFTs.</li>
-<li>Bonus: experience working with remote design and engineering teams, strong agile and project management skills.</li>
-</ul>
-<p><strong>Required</strong></p>
-<ul>
-<li>3-5 years of product management experience, including working on consumer products.</li>
-<li>Strong interest in web3 and NFTs.</li>
-<li>Experience with zero-to-one, early stage products.</li>
-<li>Customer focused prioritization, balance of qualitative and quantitative inputs.</li>
-<li>Track record of gathering market insights, crystalizing product requirements, synthesizing needs and working with a team to deliver results solutions quickly.</li>
-<li>Experience defining requirements and scope for entire features before moving onto prioritization and day-to-day task management.</li>
-<li>Willing and able to help run agile process for team.</li>
-<li>Demonstrated collaborative approach to working with design and engineering teams.</li>
-<li>High energy with a willingness to push the pace and ship quickly.</li>
-</ul>
-<p><strong>Nice to have</strong></p>
-<ul>
-<li>Experience creating NFT projects, including the ability to articulate current pain points and opportunities for NFTs, DAOs, and the most important problems to solve for creators.</li>
-<li>Experience working in the NFT space, at an NFT marketplace or technology business for example.</li>
-<li>Deep understanding of the Solana ecosystem, players, and competitive landscape.</li>
-</ul>
-<p><strong>Benefits</strong></p>
-<div class="h3">What You’ll Get</div>
-<ul>
-<li>Competitive compensation.</li>
-<li>Medical, dental and vision premiums paid 100% by Metaplex.</li>
-<li>401(k) Retirement Plan with 4% employer match.</li>
-<li>$4K stipend for technology.</li>
-<li>Remote organization.</li>
-<li>Unlimited vacation.</li>
-</ul>
-<img src="https://remotive.com/job/track/1392233/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1388899/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -228,7 +157,7 @@
                     <code>ecommerce,education,marketing,product manager</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-b2c-1388899" align="right" target="_blank">Apply</a>
