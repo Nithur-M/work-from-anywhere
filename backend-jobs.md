@@ -1,26 +1,26 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/0f3964cfa5ef964482c9571caedea7061663744512.jpg" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/1b67d6249b07f643b57c80f68e376f451663830981.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Upvest</h5>
+                    <h5>GIANT Protocol</h5>
                     <h3>
-					Senior Backend Engineer Payments				</h3>
+					Lead Backend Engineer				</h3>
                 </td>
                 <td width="300">
-                    <code>founder, financial, investment</code>
+                    <code>design, web3, solidity</code>
                 </td>
                 <td width="200">
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/121123" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/jobs/121711" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>Weâre looking for fintech enthusiasts to join us in creating the financial infrastructure of tomorrow. Weâre building the first European Investment API to enable any financial institution to offer a broad range of investment products in their apps. Our view is backed by Europe's largest tech VCs (Earlybird, Notion Capital, Partech, HV Capital, ABN AMRO Ventures) by renowned fintech entrepreneurs (including <a target="_blank" href="https://www.linkedin.com/in/ACoAAA5D6LAB1cJ1GBRZ8whwsc6ZI78kDf1Ulx0" rel="noopener noreferrer nofollow">Maximilian Tayenthal</a>, founder of N26, and <a target="_blank" href="https://www.linkedin.com/in/ACoAAAAAH8AB8C9RXofd6q-Ux6PSMs23ahwpU8U" rel="noopener noreferrer nofollow">Felix Haas</a>, founder of IDnow) and Bessemer Venture Partners in the USA.<br></p><p>Weâre based in Berlin but would consider <strong>hiring</strong> <strong>remotely</strong> for this role. If you do want to move to Berlin though, weâre happy to support your relocation.</p><p>At Upvest, our vision is <strong>to make investing as easy as spending money</strong>. By enabling any business to offer investment opportunities, our goal is to empower anyone to invest. Today, we count 100+ talented people from 20 different countries<br></p><p><span style="font-family:-apple-system , BlinkMacSystemFont ,;"></span><strong><br>Your mission:</strong></p><p>We are seeking a full-time backend engineer to join the Payments team in the Core Banking tribe and help to build stable and effective integrations with various payment providers, at the same time with a strong user-<br>experience focus.<br><br></p><p><strong>Team's mission</strong><span style="font-family:-apple-system , BlinkMacSystemFont ,;"></span><strong>Â Payments team's mission:</strong></p><p>The Payments team in Core Banking is responsible for the integrations with various Payin and Payout providers, designing a logical and error-proof interface for the end customers and an effective processing flow for the internal operational teams.</p><p>The Core Banking team is keeping control that the Runtime processes remain logical and consistent by tracking the results of the order processing in the Position, Reconciliation, and Booking domains. The products delivered by this team are the ones letting us sleep at night, knowing the platform is functioning correctly on a big scale of things. <br></p><p><strong>This role will give you the opportunity to:</strong></p><ul> <li>Design and build fault-tolerant, horizontally scalable systems. Using Microservice architecture powered by Docker, Kubernetes, Linkerd service mesh, and Kong as a Gateway</li> <li>Build event-driven applications using Kafka</li> <li>Work on different aspects of our API-product portfolio as part of the development team</li> <li>Develop data processing and storing mechanisms</li> <li>Work on improving the reliability of our API tools, as well as developing innovative tools</li> <li>Work with an agile methodology with flexible processes, that focus on helping the engineering teams be more effective in their work</li> <li>Work with the cutting edge technologies (Go is the primary language) without legacy codebase</li> </ul><p><br></p><ul></ul><p><strong>Job requirements:</strong></p><ul> <li>Prior experience with distributed systems</li> <li>Willingness to make Go your day-to-day language (production experience is not strictly required)</li> <li>Fluency with SQL databases such as PostgreSQL, transaction isolation, performance optimization</li> <li>Experience with event-driven architecture and concurrent algorithms</li> <li>Be proactive in learning new stacks and have a high sense of taking ownership</li> <li>Excited to work in a dynamic startup environment</li> </ul><p><br></p><ul></ul><p><strong>Why Upvest?</strong></p><ul> <li>We're working on solving a hard problem: fixing the European securities financial infrastructure that empowers more people to be able to invest. You have the opportunity to contribute to this change.</li> <li>We invest in you. From access to a personal coach, development budget and plenty of opportunities to grow in your role.</li> <li>We take hiring seriously with a strong focus on keeping a high bar when interviewing (equally important is that we hire decent people, who are passionate about their craft and helping us achieve our shared mission).</li> <li>While we're not quite fully-remote, we are committed to being a flexible employer, as we understand you don't have to be in the office to do your best work.</li> <li>We live a culture of empowerment, trust (that we hire the best people and get out of their way) and openness (there's a greater advantage in sharing information than keeping it to ourselves).</li> </ul><p><strong>Our values:</strong><br></p><ul> <li> <strong>Learn and grow. </strong>We aim high to shape our future. We give and request honest feedback knowing that we develop together. Progression over Perfection.</li> <li> <strong>Team first. </strong>We make it easy for others. We value our differences and are open to others' opinions. We win and celebrate together! Team over Egos.</li> <li> <strong>Own the outcome. </strong>Whether we win or we lose, we stand together. We are proactive and get the job done. Outcome over Process.</li> <li> <strong>Tell the story. </strong>We always start with the <em>why</em>. We share knowledge to empower others. Transparency over Complexity.</li> </ul>
+                <div class="content-intro"><p>The GIANT Protocol Foundation aims to empower the world to build a more open and inclusive internet. It created the GIANT Protocol to decentralize and democratize access to connectivity and financial services for all. Itâs a new web3 telecommunications layer that coordinates, tokenizes, and financializes ownership of the entire telecom ecosystem.</p><p>GIANT Connect is a consumer app powered by GIANT Protocol offering the most fun and rewarding way to stay connected to the Internet. Access inflight wifi on thousands of planes, mobile networks in 120 countries, and 68M free and premium wifi hotspots globally. Earn crypto rewards when you go online and when you donât.</p><p> </p></div><h2><span style="font-weight:400;">Position Overview</span></h2><p><span style="font-weight:400;">We are looking for a seasoned backend engineer, to join our growing team, who specializes in server side development - REST APIs, scripts, etc. with a passion for writing test-driven code. In this role you will be primarily working in </span><strong>Golang and/or NodeJS</strong><span style="font-weight:400;"> languages on existing code bases or creating new services as required.</span></p><h2><span style="font-weight:400;">Responsibilities</span></h2><ul><li style="font-weight:400;"><span style="font-weight:400;">Build robust and scalable server side services and REST APIs in Golang and/or NodeJS.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Help improve our code quality through writing unit and functional tests, improving coding standards and performing code reviews.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Work with frontend engineers to help them integrate the backend business logic and REST APIs with client side software.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Participate in brainstorming sessions and contribute ideas to improve our product and technology.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Work with the product and design teams to understand business goals, end-user requirements, formulate use cases, and then translate that into a pragmatic and effective technical solution.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Document decisions and its future impacts. </span></li><li style="font-weight:400;"><span style="font-weight:400;">Create and improve technical documentation.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Join sprints and scrum calls with our cross-regional team for successful delivery of product.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Guide and mentor junior developers.</span></li></ul><h2><span style="font-weight:400;"><br>Requirements/Skills</span></h2><ul><li style="font-weight:400;"><span style="font-weight:400;">5+ years of recent coding experience in writing Golang and/or NodeJS software.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Experience working with NoSQL databases like MongoDB.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Solid software design knowledge â you should know how to create software thatâs extensible, reusable and meets desired architectural objectives.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Passionate about solving complex problems and take pride in their code and development standards.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Effective communication skills: Regularly achieve consensus with peers, and provide clear status updates.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Ability to work independently and in a team environment.<br><br></span></li></ul><h2><span style="font-weight:400;">Bonus Skills</span></h2><ul><li style="font-weight:400;"><span style="font-weight:400;">Familiarity with blockchain and web3 technologies.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Can write Solidity smart contracts</span></li><li style="font-weight:400;"><span style="font-weight:400;">Able to write code in Rust</span></li><li style="font-weight:400;"><span style="font-weight:400;">Knowledge of frontend languages/full stack.</span></li></ul><div class="content-conclusion"><h3><strong>Company Values</strong></h3><p><strong>Thinking in possibilities</strong><span style="font-weight:400;">: We realize that most see the world in terms of what is not possible. We believe the future is made by those who see what </span><em><span style="font-weight:400;">is</span></em><span style="font-weight:400;"> possible. Seeing a path of possibilities requires intellectual curiosity, dedication, and diligence. We are big thinkers and believers but also pragmatists, focused on relentless execution.</span></p><p><strong>Integrity of word, thought, and action</strong><span style="font-weight:400;">: Integrity is what is behind our words, thoughts, and </span><span style="font-weight:400;">actions. We help ourselves and others to stay true to why we do things so we can align, </span><span style="font-weight:400;">together, for the highest purpose.</span></p><p><strong>Diversity of perspectives:</strong><span style="font-weight:400;"> A good discussion is one that ends with all participants feeling </span><span style="font-weight:400;">that the other participants understood them, even if they had different ideas. This requires trust, </span><span style="font-weight:400;">vulnerability, and compassion. We believe organizations where people can truly co-create will </span><span style="font-weight:400;">thrive.</span></p><p><strong>Winning with purpose: </strong><span style="font-weight:400;">We are mission focused and realize that winning is a requirement to </span><span style="font-weight:400;">achieve lasting change that benefits everyone. Even though we love to compete, we understand that winning is not the same as success, but is needed to succeed.</span></p><p><strong>Ownership is key:</strong><span style="font-weight:400;"> When we own our successes, failures, best qualities, and flaws, we can truly work in a team, as a team. Ownership unlocks greatness as a team because it </span><span style="font-weight:400;">enables us to support and be supported.</span></p><p><strong>The excellence of being:</strong><span style="font-weight:400;"> Excellence is an expression of beingâof what we want for ourselves </span><span style="font-weight:400;">and others. It is passion turned into action. We share a desire to learn and excel while being </span><span style="font-weight:400;">comfortable with failing. Excellence comes when weâre courageously open about what we </span><span style="font-weight:400;">desire for this world.</span></p><p><strong>Unity in consciousness:</strong><span style="font-weight:400;"> We understand that we are all one. We are all working towards moving humanity forward in unique ways. We firmly believe that there is infinitely more that unites us than divides us, and our work is to bring that out in the world.</span></p><h3><strong>Benefits:</strong></h3><ul><li style="font-weight:400;"><span style="font-weight:400;">Competitive salary with generous token plan</span></li><li style="font-weight:400;"><span style="font-weight:400;">Unlimited PTO and flexible remote options</span></li><li style="font-weight:400;"><span style="font-weight:400;">Health benefits: medical, dental, vision, EAP, virtual medicine, and more </span></li><li style="font-weight:400;"><span style="font-weight:400;">401k with company match</span></li><li style="font-weight:400;"><span style="font-weight:400;">Annual professional development budget</span></li></ul></div>
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +35,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cow-protocol-backend-research-engineer-rust" align="right" target="_blank">Apply</a>
@@ -101,67 +101,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Draftbit</h5>
-                    <h3> Low-Code Backend Specialist</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/draftbit-low-code-backend-specialist" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Chicago, IL
-    <br /><strong>URL:</strong> <a href="https://draftbit.com/">https://draftbit.com/</a>
-</p>
-
-<div>
-<strong>About The Position</strong>:<br><br>We are looking for someone with experience developing in low-code back-end software like Xano, Supabase and Backendless. This is a 40 hour/week, contractor position, starting at $52,000 USD per year. Those hours would fall between roughly 9am-6pm Central Time US, with flexibility to adjust these hours to better fit your local time zone after a successful onboarding period.<br><br>Our product, Draftbit, is a low-code mobile app builder built on a React Native/Expo stack. While much of the app development done on Draftbit is visual vs. writing code, our platform is not "drag-and-drop." We provide our customers a lot of flexibility in the type and complexity of the apps they build. Draftbit does not host our own database, rather our customers "bring their own back-ends" by integrating third-party backends/databases via REST API. It's also common that more complex apps require importing packages and inserting custom code in order to build features that are not yet part of the core Draftbit platform.<br><br>To support our customers who don't have sufficient technical backgrounds to successfully work with backend integrations or custom code, we provide a service we call Draftbit Experts. Experts are full-time members of the Draftbit team who work directly with our customers to build parts or all of their app for them in Draftbit.<br><br>Oftentimes, customers of Draftbit Experts need us to develop and integrate back-ends for the apps. In these cases, we design the database schemas and build these back-ends in a low-code platform, often Xano or Supabase.<br><br>This role would be primarily focused on database design and back-end development in those platforms, then working in Draftbit to integrate those back-ends to enable the desired experience in the customer app.<br><br>In this role, you will be expected to:<br><br>
-</div><ul>
-<li>Collaborate with customers and other Draftbit Experts to understand their app needs and propose database/back-end designs to meet those needs</li>
-<li>Be the primary builder of database schemas and app back-ends in low-code platforms (primarily Xano &amp; Supabase)</li>
-<li>Become proficient in how back-end and data integration works in Draftbit, then use those skills to create app experiences in Draftbit using the back-end you've built<br><br>
-</li>
-</ul><div>
-<strong>About You</strong>:<br><br>In order to be successful in this role, it's essential that you:<br><br>
-</div><ul>
-<li> Are proficient in at least one low-code back-end platform (ideally Xano, but Supabase or Backendless also work) and have share examples of past work</li>
-<li>Experience working directly with clients/customers to develop low-code backend solutions that meet their needs</li>
-<li>Bonus points for having some mobile app/React Native development experience</li>
-<li>Excellent verbal &amp; written English skills</li>
-</ul><div>
-<br><strong>Other Useful Details</strong>:<br><br>
-</div><ul>
-<li> Most of our team works in the US Central time zone and we mostly orient our schedules around a 9am-6pm CT, M-F window. We'd expect you to have a schedule where you're available during at least 4-5 hours of that window.</li>
-<li>We are a small team - around 10 people at the time of posting this. We have a daily team sync meeting at 10am CT, but otherwise most of us work very independently and asynchronously. We expect that you can self-manage effectively and do the same.</li>
-<li>Our company is not a sweat shop. If you need to take time off, just give us some notice and do it!</li>
-</ul><div><br></div><div>
-<strong>How To Apply:<br></strong><br>IMPORTANT - WHEN APPLYING, FOLLOW THE INSTRUCTIONS BELOW<br><br>To help us identify the serious applicants, not just those who send generic applications and don't read job descriptions, we ask that you do the following:<br><br>
-</div><ul>
-<li>Share an example of a back-end you developed in Xano, Supabase or Backendless.</li>
-<li>Along with that example, record a short video walking us through the database design and the app (web or mobile) it was built to support. It's ok if you don't have full access to the front-end web/mobile app - you can just talk us through the use case.</li>
-</ul><div>
-<br>We will only review applications that follow those two directions! Thank you!<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/draftbit-low-code-backend-specialist">https://weworkremotely.com/remote-jobs/draftbit-low-code-backend-specialist</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>Argyle</h5>
                     <h3> Backend Engineer</h3>
                 </td>
@@ -169,7 +108,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>93 days ago</text>
+                <text>94 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/argyle-backend-engineer" align="right" target="_blank">Apply</a>
@@ -253,7 +192,7 @@
                     <code>AWS,backend,business intelligence,docker</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineering-manager-1368348" align="right" target="_blank">Apply</a>
@@ -346,7 +285,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
