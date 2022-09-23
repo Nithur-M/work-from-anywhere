@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-ux-ui-designer" align="right" target="_blank">Apply</a>
@@ -58,7 +58,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/onthegosystems-ux-ui-designer-for-a-mass-market-saas-product" align="right" target="_blank">Apply</a>
@@ -127,7 +127,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>210 days ago</text>
+                <text>211 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -188,7 +188,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
@@ -263,7 +263,7 @@
                     <code>ui,ux,management,networking</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-ux-ui-designer-1344663" align="right" target="_blank">Apply</a>
@@ -274,40 +274,6 @@
                 <details><summary>Description</summary>
                 <p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your lifestyle with the freedom to work however, wherever — on your terms. </em></span></span></p><br><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Freelance work is defining the careers of today's designers in exciting new ways. If you're passionate about working flexibly with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career move. </span></p><br><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Toptal is an exclusive talent network for the world's top 3% of designers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you'll choose your own schedule and work from anywhere.  </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won't bid for projects against other designers in a race to the bottom.</span></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"> </span>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. </span></p><br><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">As a freelance designer, you'll instantly join a thriving community of experts in over 120 countries. Work remotely on projects that meet your career ambitions, and expand your impact through networking events, volunteering, publishing, public speaking opportunities, and more.</span></p><br><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">That's why the world's top 3% of designers choose Toptal. Designers in our network share:</span></p><ul style="padding-inline-start: 48px;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">3+ years</span></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"> of professional experience</span> working on </span><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">UX</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">, </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">UI</span></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">,</span> or/and </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Interaction Design</span></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> of digital products</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Portfolio of at least 6 design projects</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Experience with </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Landing Page</span>, <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Dashboard</span>, </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">or/and </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Web App Design</span></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> is a bonus</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Ability to collaborate with cross-functional team members is required</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Ability to collect and interpret both qualitative and quantitative feedback is required</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Experience with AR/VR is a strong advantage</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Project management skills</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">A keen attention to detail</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Full-time availability</span></span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> is a strong advantage</span></p></li></ul><p><span style="color: var(--remotive-chocolate); font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">If you're ready for a career shift to impactful freelance work, take the next step by clicking apply and filling out the short form:</span><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><a href="https://topt.al/q3cbPV" rel="nofollow">https://topt.al/q3cbPV</a><br></span></p>
 <img src="https://remotive.com/job/track/1344663/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://freshremote.work/media/company/logo/22/09/wVGWs0VF_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>BookNook</h5>
-                    <h3>Senior Lead UX Researcher</h3>
-                </td>
-                <td width="300">
-                    <code>Full Time</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://freshremote.work/J120553/" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                About UsBookNook is closing the early-learning gap for kids in grades K – 8 through pairing dedicated tutors with proven technology to teach the reading and math skills kids need to succeed. School districts across 35 states entrust BookNook’s virtua …
-About Us<br/>BookNook is closing the early-learning gap for kids in grades K – 8 through pairing dedicated tutors with proven technology to teach the reading and math skills kids need to succeed. School districts across 35 states entrust BookNook’s virtual tutors and learning platform with the job of supporting their students. BookNook’s platform and high-dosage tutoring are paving the way for kids nationwide to achieve significant academic gains and receive the rigorous education they deserve. <br/>At this time we are not able to provide sponsorship.<br/>About the Role<br/>We are looking for a motivated and resourceful User Experience Research Lead to join our Product Team. The User Experience Research Lead will perform research and share insights to shape and inform BookNook’s products while establishing and expanding UX Research best practices and processes.<br/>You will be working alongside Design and Curriculum teams to ensure that our platform best meets the needs of our users. Evangelizing the importance of a user-centric mentality when building products across the whole of the organization is a core part of this role. 
-<h3>At BookNook, you will:</h3>
-<ul>
-<li>Work alongside stakeholders to define a UX research strategy that supports BookNook’s mission.</li><li>Lend your expertise and insights throughout a project’s lifecycle.</li><li>Collaborate with design and curriculum leads in order to identify areas where user experience research can best provide insight and impact to develop research roadmaps.</li><li>Design and lead qualitative and quantitative research studies for strategic insights as well as fast turnaround tactical projects.</li><li>Share insights with designers, PMs, leadership, and business stakeholders effectively in the necessary timelines and formats.</li><li>Advocate for user needs and evangelize the value of user-centric design and UX research in the product development process.</li><li>Establish and maintain foundational user research on which to base future product decisions.</li></ul>
-<h3>What we're looking for:</h3>
-<ul>
-<li>5+ years of experience in applied user experience research.</li><li>Master’s Degree in a relevant field (Psychology, Cognitive Science, Human Factors, Human Computer Interaction/HCI, Human Machine Interaction/HMI, Anthropology, Sociology, etc.), or equivalent practical experience.</li><li>Experience leading and managing user research.</li><li>Ability to work within time and budget constraints.</li><li>Understanding of strengths and weaknesses of different research methods, and when and how to apply them in the product development process.</li><li>Mastery of a wide variety of user research techniques and tools.</li><li>Ability to champion user experience research and integrate within the design planning, estimation, and prioritization process.</li><li>Ability to train and mentor junior team members.</li></ul>
-<h3>Perks and Benefits:</h3>
-<ul>
-<li>Competitive salary: For this role, the starting range is $120k.</li><li>Work remotely: Live and work wherever you like in the US.</li><li>Health insurance: We offer medical, dental, vision and pet insurance for all our team members.</li><li>Time to recharge: We offer unlimited PTO, 12 paid holidays, and two company-wide weeks’ off.</li><li>401(k): With 3% company match.</li><li>Stock Options: We offer all full-time employees an equity grant that vests over a standard schedule.</li><li>Retreat: Join us for our annual company get-together.</li><li>Home office setup: Get a laptop + $130 monthly stipend for home expenses.</li></ul>Join a company with a mission. BookNook has been around since 2016, is growing fast, and has already helped tens of thousands of children improve their literacy, especially those that come from the most disadvantaged environments. We're a scrappy, smart team that gets things done but we are strong believers in family, friends, and work-life balance. Work on exciting technology and make a tangible difference in the world every day.<br/>Equal Employment Opportunity<br/>BookNook embraces diversity and is an Equal Employment Opportunity employer. Employment is decided on the basis of qualifications, merit, and business need. We do not discriminate based upon race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, status as a protected veteran, status as an individual with a disability, or any other status protected under federal, state, or local law.<br/>#LI-Remote
                 </details>
                 </td>
             </tr></table>
