@@ -10,7 +10,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/urban-legend-senior-frontend-engineer" align="right" target="_blank">Apply</a>
@@ -62,53 +62,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/1084/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Rekursive Labs</h5>
-                    <h3> Senior Frontend / React Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/rekursive-labs-senior-frontend-react-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/1084/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> California
-    <br /><strong>URL:</strong> <a href="https://rekursive.com">https://rekursive.com</a>
-</p>
-
-<div>We’re looking for an enthusiastic, self-motivated full-time front end engineer to help us build an exciting new Web3 DeFi (Decentralized Finance) application for tokenizing real world financial products.  This brand new DeFi platform is being built from the ground up so you will have lots of opportunities to learn and have a big impact! You will work directly with the founder, who is a Google and Microsoft alumnus.<br><strong><br>Requirements</strong>
-</div><ul>
-<li>At least 2-3 years of React experience</li>
-<li>Experience with TypeScript</li>
-<li>Experience with Git</li>
-<li>Degree in computer science</li>
-<li>A deep understanding of the architecture of modern client-side React applications</li>
-<li>A desire to keep up with modern best practices in web development</li>
-<li>Strong problem solving / coding ability</li>
-<li>Experience in automated testing platforms and continuous integration</li>
-<li>Interest in blockchain technologies</li>
-<li>Great verbal and written English communication skills</li>
-<li>Able to work during, or close to Pacific Standard Time (California) daytime hours</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rekursive-labs-senior-frontend-react-engineer">https://weworkremotely.com/remote-jobs/rekursive-labs-senior-frontend-react-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1347890/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -119,7 +72,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-1347890" align="right" target="_blank">Apply</a>
