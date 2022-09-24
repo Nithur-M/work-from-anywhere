@@ -11,7 +11,7 @@
                     <code>developer, solidity, ethereum</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/121707" align="right" target="_blank">Apply</a>
@@ -36,7 +36,7 @@
                     <code>developer, solidity, ethereum</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/jobs/121714" align="right" target="_blank">Apply</a>
@@ -46,6 +46,69 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="content-intro"><h3><strong>About us</strong></h3><p><span style="font-weight:400;">OpenZeppelin is a leading cybersecurity company that provides security products to build, automate, and operate decentralized applications.</span></p><p><span style="font-weight:400;">With a mission to protect the open economy, our team created the most popular open source library for smart contract development with over 4 million downloads. Our unique expertise subsequently allowed us to uncover major security vulnerabilities for the Ethereum Foundation, MakerDAO, and Facebookâs Libra, and conduct security audits for many top blockchain companies including Coinbase, Brave, Compound, Aave, and Augur. </span></p><p><span style="font-weight:400;">Building on this experience, we recently launched a platform to help teams automate their Ethereum operations and securely ship products faster: OpenZeppelin Defender. </span></p><p><span style="font-weight:400;">With the success of our products, security audit work, and open source educational efforts, we are setting industry standards for building secure systems in a fast-growing industry that is creating an open financial system for the world.</span></p></div><p><span style="font-weight:400;">As a Solutions Software Engineer you will be responsible for helping design, develop and deploy bespoke client solutions using OpenZeppelin offerings and integrations. You will work with engineers from external teamâs to define, implement, and support products which will allow blockchain technology to be securely utilized.<br> <br>You will work closely with our product development team and a Solution Architect to develop and support high-quality technical solutions for customers. You will be an integral part of the success for each customer solution by performing early technical assessments, building Proof of Concepts, delivering functional solutions and troubleshooting technical configuration issues. <br> <br>As a passionate blockchain fan and user advocate, you will build the bridges needed for the users to utilize blockchain technology securely.<br></span></p><h3> </h3><p><strong>What youâll be doing </strong></p><ul><li style="font-weight:400;"><span style="font-weight:400;">Building custom security solutions using OpenZeppelin offerings under the guidance of a Solution Architect</span></li><li style="font-weight:400;"><span style="font-weight:400;">Interfacing with leadership, customers, users, and the community to implement seamless integrations to grow the OpenZeppelin platform</span></li><li style="font-weight:400;"><span style="font-weight:400;">Building application-specific integrations with OpenZeppelin</span></li><li style="font-weight:400;"><span style="font-weight:400;">Providing support for integrating partners making use of OpenZeppelin offerings (Contracts, Defender, etc.)</span></li><li style="font-weight:400;"><span style="font-weight:400;">Developing best practices and documentation to scale integrations<br></span></li></ul><h3><strong>You Have</strong></h3><ul><li style="font-weight:400;"><span style="font-weight:400;">3+ years of professional software experience</span></li><li style="font-weight:400;"><span style="font-weight:400;">Programming experience in TypeScript or JavaScript; otherwise experience in Solidity and a willingness to learn</span></li><li style="font-weight:400;"><span style="font-weight:400;">Basic understanding of applied cryptography and Ethereum smart contracts</span></li><li style="font-weight:400;"><span style="font-weight:400;">Basic understanding of web security and best practices</span></li><li style="font-weight:400;"><span style="font-weight:400;">Experience using Ethereum tool suites to develop and deploy Solidity smart contracts.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Ability to be be a resourceful developer and a fast learner continually striving to discover more environments</span></li><li style="font-weight:400;"><span style="font-weight:400;">Excellent communication skills and the ability to discuss technical concepts</span></li><li style="font-weight:400;"><span style="font-weight:400;">Passion for blockchain and other Web 3.0 technologies</span></li><li style="font-weight:400;"><span style="font-weight:400;">Prior experience working remotely: strong personal organizational skills, a love for self-time management, and ability to work collaboratively with a team.<br></span></li></ul><h3><strong>Nice to Have</strong></h3><ul><li style="font-weight:400;"><span style="font-weight:400;">A bachelor's and/or masterâs degree in computer science, IT, software engineering, or computer science.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Experience in a technical sales engineering position</span></li><li style="font-weight:400;"><span style="font-weight:400;">Hands-on experience developing serverless functions in JavaScript/TypeScript</span></li><li style="font-weight:400;"><span style="font-weight:400;">Experience building data analytics dashboards for Datadog, Splunk, etc</span></li><li style="font-weight:400;"><span style="font-weight:400;">Experience developing CI/CD deployment pipelines using GitHub Actions</span></li><li style="font-weight:400;"><span style="font-weight:400;">AWS Cloud certification (Solutions Architect Associate or higher) </span></li><li style="font-weight:400;"><span style="font-weight:400;">Security certifications (Security+, CISSP, CISA, OSCP, etc)<br></span></li></ul><div class="content-conclusion"><div class="container"><div class="job-description"><div class="requirements"><h3 class="job-description-title">Benefits</h3><ul><li><p>Medical Insurance: Top quality insurance options for you.</p></li><li><p>Paid leave for new parents.</p></li><li><p>Team Events: Company retreats in different locations around the world.</p></li><li><p>Monthly allowance for wellness activities.</p></li><li><p>Coworking: access to a coworking space of your choice.</p></li><li><p>Training: Technical training, spoken language lessons in any language of your choice.</p></li></ul></div><div class="company-footer"><p>At OpenZeppelin, we are an equal opportunity employer and we value different perspectives. We are committed to building a diverse workforce. This includes but is not limited to gender, race, sexual orientation, religion, national origin and other characteristics that make each one of us unique. In this uniqueness, we find the most value. Come join us!</p></div></div></div><div class="container"><div class="application-information"><h3 class="job-description-title"> </h3></div></div></div>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7308/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Internet Society</h5>
+                    <h3> Senior Frontend Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/internet-society-senior-frontend-developer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7308/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Reston, VA
+    <br /><strong>URL:</strong> <a href="https://internetsociety.org">https://internetsociety.org</a>
+</p>
+
+<div>
+<strong><br>About the position<br></strong>The Internet Society is seeking a Senior Frontend Developer to join our expert staff. The successful candidate will work on web front-end development. The successful applicant will contribute to projects that measure and analyze specific aspects of global Internet usage, protocol adoption, and routing security and will do so by developing and supporting the infrastructure of the internal and externally facing tools used by these projects.<br><br>
+</div><div>
+<br>The successful candidate will work closely with project leaders and other technical experts within the Project Expert group in the Office of Resource and Skill Management and will be assigned to work on ISOC’s Internet Projects to Grow and Strengthen the Internet worldwide and will collaborate with staff across the Internet Society organization.<br><br>This is position is for 2 year term.<br><br><strong><br>Essential Duties and Responsibilities</strong>
+</div><ul>
+<li>Participates in architecture and software development activities.</li>
+<li>Translates loosely defined requirements into solutions.</li>
+<li>Uses open-source technologies and tools to address project requirements.</li>
+<li>Writes programs or scripts to enable custom workflows.</li>
+<li>Collaborates with other project members to brainstorm about the best way to tackle a complex technological infrastructure, security, or development problem.</li>
+<li>Performs incremental testing on code, processes, and deployments to identify ways to streamline execution and minimize errors.</li>
+<li>Documents all work.</li>
+<li>Other duties as assigned.</li>
+</ul><div><strong><br>Desired Qualifications</strong></div><ul>
+<li>5+ years of development experience.</li>
+<li>Fluency in English is required. </li>
+<li>Experience of UX design.</li>
+<li>Skilled in JavaScript frontend libraries and frameworks (especially ReactJS).  </li>
+<li>Knowledge of Web programming technologies (NodeJS, Python, PHP, etc.).</li>
+<li>Experience with version control software (Git).</li>
+<li>Solid organizational skills including attention to detail and multitasking skills.</li>
+<li>Ability to work independently with minimal supervision.</li>
+<li>Excellent and collaborator and communicator who can convey information clearly.</li>
+<li>Commitment to the Internet Society’s mission, values and objectives.</li>
+<li>Interest in working fora Globally distributed workforce and ability to work across time zone.</li>
+</ul><div><strong>Bonus qualifications</strong></div><ul>
+<li>Full Stack WordPress administration experience.</li>
+<li>Database setup/administration experience - (e.g. SQL, SQLite, Mongo dB etc).</li>
+<li>Knowledge of configuration tools such as Ansible and deploying development CI/CD technology.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/internet-society-senior-frontend-developer-1">https://weworkremotely.com/remote-jobs/internet-society-senior-frontend-developer-1</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -60,7 +123,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aiva-technologies-full-stack-developer-angular-node-js" align="right" target="_blank">Apply</a>
@@ -123,7 +186,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-developer-experience" align="right" target="_blank">Apply</a>
@@ -179,7 +242,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-4" align="right" target="_blank">Apply</a>
@@ -239,7 +302,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/quicktrials-front-end-developer" align="right" target="_blank">Apply</a>
@@ -283,7 +346,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-react-native-developer-1" align="right" target="_blank">Apply</a>
@@ -318,180 +381,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/3747/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Credit Glory</h5>
-                    <h3> Senior Ruby on Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>31 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/credit-glory-senior-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/3747/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Henderson, NV
-    <br /><strong>URL:</strong> <a href="http://www.creditglory.com">http://www.creditglory.com</a>
-</p>
-
-<div>
-<strong><em>Complete the following to apply:</em></strong><br><br>1. Email jiri@creditglory.com as the main recipient (our CTO) + cc adam@creditglory.com (COO)<br>2. Use subject line: WWR: [yourname] Senior Ruby on Rails Developer<br>3. Attach your resume/CV<br>4. Add anything else relevant in the body of your email (why you would be a good fit, what you are looking for etc).<br><br><strong>About Us<br></strong><br>
-</div><div>We are a fully remote team looking for a proactive and experienced Senior Rails Developer to join our team.</div><div> </div><div>Your responsibilities will include working closely with our CTO &amp; COO to develop new, innovative &amp; exciting features (+ improve existing ones) that help improve our customers’ financial future. </div><div> </div><div>If you enjoy solving complex problems, can work across the whole stack from backend to frontend, and know how to get the job done right the first time, this might be a great position for you.</div><div><br></div><div>
-<br><strong>What We’re Looking For:</strong>
-</div><ul>
-<li>5+ years experience with Ruby on Rails</li>
-<li>Ability to work across the whole stack</li>
-<li>Hotwire and Stimulus.JS experience is a plus</li>
-<li>TailwindCSS experience is a plus as well</li>
-<li>Good experience with testing - both unit, integration, and E2E</li>
-<li>Good working knowledge of SQL and PostgresSQL</li>
-<li>Previous experience working remotely</li>
-<li>Analytical, pro-active &amp; problem-solving skills (along with attention to detail)</li>
-<li>Good written and verbal communication skills</li>
-<li>Ability to receive &amp; administer constructive feedback</li>
-<li>4-hour overlap with CET timezone required.<br><br>
-</li>
-</ul><div><strong>What You’ll Do:</strong></div><ul>
-<li>You’ll work with us to architect, build, deploy, and maintain applications that serve both internal and external users</li>
-<li>Design and develop well-tested code when needed</li>
-<li>Write proof of concept or throwaway code when the situation calls for it</li>
-<li>Increase overall code quality long-term<br><br>
-</li>
-</ul><div>
-<strong>Pay<br></strong><br>
-</div><div>Starting salary is between $80,000 - $120,000 USD depending on your skills and experience. Earning potential for tenured developers is &gt;=$150,000 + based on tangible value provision.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/credit-glory-senior-ruby-on-rails-developer">https://weworkremotely.com/remote-jobs/credit-glory-senior-ruby-on-rails-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/5800/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CVEDIA</h5>
-                    <h3> Senior C++ Developer - Remote - EU Time Zone</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>97 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/5800/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London - UK
-    <br /><strong>URL:</strong> <a href="https://www.cvedia.com/">https://www.cvedia.com/</a>
-</p>
-
-<div>
-<br>About CVEDIA<br><br>
-</div><div>CVEDIA is an AI company that develops deep learning solutions for some of the world's largest organizations to solve real-world problems and improve our world and the lives of people for the years to come.<br><br>
-</div><div>Our computer vision runtime engine CVEDIA-RT is a unique software that simplifies designing, testing, and deploying AI solutions on Cloud and on Edge devices without worrying about system details.<br>CVEDIA-RT runs our AI models, created using synthetic data, which are suitable for many different applications and use-cases like perimeter security, intelligent traffic systems, home security, drone detection, and many more.<br><br>
-</div><div>
-<br>About you<br><br>
-</div><div>
-<strong>We are looking for C++ Developers to extend and improve our core product CVEDIA-RT and implement the runtime solutions for customer-specific projects.<br></strong><br>
-</div><div>In this role, you will be able to work with exceptionally talented and driven individuals who are all making a massive impact on our business.<br><br>
-</div><div>Everyone here drives their own ideas all the way from start to finish, everyone is given an equal opportunity to flourish and see the fruits of their labor.<br><br>
-</div><div>For this position, we’re currently only accepting applicants in European countries.<br><br>
-</div><div>
-<br>Responsibilities<br><br>
-</div><ul>
-<li>Take on the challenge to improve the features of CVEDIA-RT.</li>
-<li>Manage and implement customer-specific solutions using LUA scripting.</li>
-<li>Participate and contribute to improving the entire production pipeline: software design, implementation, tests, documentation, release cycle, etc.</li>
-<li>Collaborate with the AI team to discuss and plan new features and improvements.</li>
-<li>Self-manage your work by proposing solutions, reporting progress, and promoting an active collaboration with other team members.</li>
-</ul><div>
-<br>Requirements<br><br>
-</div><ul>
-<li>Very good English verbal and written communication skills.</li>
-<li>Very good time management and organizational skills, and attention to detail.</li>
-<li>Great problem-solving skills paired with the ability to present and discuss ideas and solutions.</li>
-<li>5+ years of experience in C++. It would be great if you have been already working in these contexts:<ul>
-<li>Windows and Linux</li>
-<li>Computer vision</li>
-<li>Tracking algorithms</li>
-<li>CUDA</li>
-<li>OpenCV</li>
-<li>Embedded systems</li>
-</ul>
-</li>
-<li>Experience in object-oriented design and test-driven development.</li>
-<li>Experience with GIT</li>
-</ul><div><br></div><div>
-<br>Considered a plus<br><br>
-</div><ul>
-<li>Experience in leading projects and interacting with customers</li>
-<li>Experience in LUA scripting</li>
-<li>Experience with CI/CD tools</li>
-<li>Experience in neural networks and computer vision</li>
-</ul><div>
-<br><br>
-</div><div><br></div><div>
-<br>Perks and Benefits<br><br>
-</div><div>🌴VACATION TIME<br><br>
-</div><div>CVEDIA offers 4 weeks of paid vacation time per year, plus local holidays and paid sick days.<br><br>
-</div><div>🍸PERSONAL DAYS<br><br>
-</div><div>On top of the paid vacation time and local holidays, CVEDIA offers the opportunity to take up to one paid day off per week for personal reasons, as far as it's not impacting the deadlines and productivity of other team members. Work smarter, not harder!<br><br>
-</div><div>🕒FLEXIBLE WORK HOURS<br><br>
-</div><div>We focus on making your personal life as much of a priority as work is - we're focused on making the two compatible. Work with us to define your needs.<br><br>
-</div><div>🥳COMPANY RETREATS<br><br>
-</div><div>Our team goes on an all-expenses-paid trip every year simply to socialize. We're planning for Italy next year!<br><br>
-</div><div>🌍100% REMOTE TEAM<br><br>
-</div><div>Our team is global and located in 15+ countries across North America and the EU. Work from wherever you have a good internet connection!<br><br>
-</div><div>🔍IMPROVEMENT-FOCUSED<br><br>
-</div><div>Our operations and management team focus on consistently improving CVEDIA through feedback. No feedback is left unattended - our employees are instrumental in shaping our company.<br><br>
-</div><div>💰COMPETITIVE SALARY<br><br>
-</div><div>Our salaries are competitive and based on experience!<br><br>
-</div><div>📈STOCK OPTIONS<br><br>
-</div><div>All CVEDIA employees receive company stock options - so if the company does well, we all do well.<br><br>
-</div><div>
-<br><br>
-</div><div>
-<br>Our Values<br><br>
-</div><div>PASSION<br><br>
-</div><div>We need both energy and passion to develop cutting-edge AI. To succeed at CVEDIA, you’ll need to have a strong investment in both your career and the role of AI in the future of the planet.<br><br>
-</div><div>COMMITMENT<br><br>
-</div><div>CVEDIA has the opposite of a 'quick-n-dirty' mentality. Every aspect of our technology has been meticulously built and is always the product of very hard work.<br><br>
-</div><div>AUTONOMY<br><br>
-</div><div>Carrying confidence in the work we do individually is required to work at the pace that we do as a team. Academic research, tutorials, and even creating our own solutions with the tools we have are all on the board during a regular day's work.<br><br>
-</div><div>JOY<br><br>
-</div><div>It's one of our greatest strengths to bring excitement to our workplace. We carry this energy into meetings, project planning, and our dedication to our work, and focus on work that feels meaningful.<br><br>
-</div><div>COMMUNICATION<br><br>
-</div><div>Honest discussions are imperative to the flow of work and ideas. Team members need to be able to effectively communicate complex ideas to those who don’t work in their field. It's a regular occurrence to discuss plans and ideas with any team member on the fly spontaneously, including our CEO or CTO. Each team member is respected equally and acts as a valuable contributor.<br><br>
-</div><div>RESPECT<br><br>
-</div><div>Anti-discriminatory company culture – we won’t discount you for things like age, ethnicity, or gender.<br><br>
-</div><div>
-<br><br>
-</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone">https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -502,7 +391,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>420 days ago</text>
+                <text>421 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -568,7 +457,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>661 days ago</text>
+                <text>662 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -602,125 +491,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1394260/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Archilogic</h5>
-                    <h3>Product Lead - Developer Platform</h3>
-                </td>
-                <td width="300">
-                    <code>api,data science,developer,marketing</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-lead-developer-platform-1394260" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h3">Who we are</div>
-<p>Archilogic is the premier infrastructure platform for interior space. We help our clients scale their applications by making spatial data easy to import, manipulate, and integrate.</p>
-<p>As a team of technologists that have been pushing the envelope across the building industry, we bring our experience into every decision we make. Our backgrounds vary from architecture, software engineering, and data science to real estate and development, design, and more.</p>
-<p>The world has witnessed an explosion of location-aware applications and experiences made possible by mapping platforms. We think the next explosion of innovation will happen in interior space, and Archilogic is the premier platform for making that possible.</p>
-<p>We move data about interior space out of the domain of "experts" and make it useful and accessible for everyone that needs it. We live for the moment when people realize that they have what it takes to innovate in interior space - even without a team of architects. And we’re on a mission to consistently add value for them at every turn.</p>
-<p>Archilogic is a remote-first, globally distributed team with members spread across the world -from Athens to New York and San Francisco to Poland.</p>
-<p> </p>
-<p><strong>About this Role</strong></p>
-<p>Archilogic is looking for a Product Lead to partner with engineers, customers, and internal stakeholders to define and execute the Archilogic developer products. You will work directly with our Head of Product to ensure we build and launch developer-first products and experiences for our customers.</p>
-<p><strong>What you’ll be responsible for</strong></p>
-<ul>
-<li><strong>Defining and executing the product strategy for Developer Tool Kits</strong>
-<ul>
-<li>Partner with cross-functional teams to define the near and long-term strategy, and translate the strategy into a tactical execution plan</li>
-</ul>
-</li>
-<li><strong>Defining and executing the product roadmap for Developer Tool Kits</strong>
-<ul>
-<li>Translate customer insights and requirements into actionable scopes and well-defined tasks; Streamline stakeholder communication to ensure the alignment of project status and details</li>
-<li>Partner with engineers to ensure the backlog is always well-groomed and driven to completion</li>
-<li>Partner with the Growth Team to understand the market and customers’ needs, as well as research and validate proposed solutions</li>
-</ul>
-</li>
-<li><strong>Defining and evaluating success metrics for Developer Tool Kits (SDKs &amp; APIs)</strong>
-<ul>
-<li>Evaluate the outcomes and synthesize learnings to support the improvement of our product</li>
-<li>Develop a comprehensive understanding of the competitive landscape and can set the appropriate metrics for measuring the success of our products</li>
-</ul>
-</li>
-<li><strong>Being a trusted advocate for our customers</strong>
-<ul>
-<li>Regularly interact with our customers to gather insight and feedback</li>
-<li>Partner with Marketing for content creation to drive product awareness and adoption</li>
-<li>Ensure our developer documentation is well written and structured</li>
-</ul>
-</li>
-<li><strong>Fostering product culture and best practices</strong>
-<ul>
-<li>Uphold a culture of collaboration, transparency, creativity, inclusion, and data-driven decisions</li>
-<li>Build up and promote product knowledge and contribute to best practices within Archilogic</li>
-</ul>
-</li>
-</ul>
-<p><strong>Requirements</strong></p>
-<div class="h3"> </div>
-<div class="h3">What we are looking for</div>
-<ul>
-<li>You are experienced with building developer-first products
-<ul>
-<li>Empathetic and care deeply about your users</li>
-<li>Possess 4+ years of product management experience in SDK &amp; API-based products or equivalent engineering experience</li>
-</ul>
-</li>
-<li>You are entrepreneurial
-<ul>
-<li>Able to identify the right business opportunities, prioritize, and develop clear action plans</li>
-<li>Collaborate with cross-functional teams effectively to drive work forward and complete them</li>
-<li>Able to thrive with ambiguity and chaos; You can weed out what’s important in highly ambiguous spaces, and juggle with competing priorities</li>
-</ul>
-</li>
-<li>You are analytical
-<ul>
-<li>Possess strong SQL skills or a willingness to learn, and always use data to properly evaluate the success or failure of features, as well as guide your next steps</li>
-</ul>
-</li>
-<li>You are a great communicator
-<ul>
-<li>A desire to share your expertise through documentation, mentorship, and discussion</li>
-<li>Strong written and verbal English communication skills; ability to communicate complex ideas concisely to a wide audience and walk through decisions with teammates and stakeholders</li>
-</ul>
-</li>
-<li>You are systematic
-<ul>
-<li>Strong devotion to systemizing and automating repetitive workflows to work effectively.</li>
-</ul>
-</li>
-</ul>
-<p><strong>Nice to have</strong></p>
-<ul>
-<li>Experience with any web-based 3D SDK</li>
-<li>Experience with any web-based map SDK</li>
-<li>Experience with 3D modeling software</li>
-</ul>
-<p><strong>Benefits</strong></p>
-<div class="h3"> </div>
-<p> </p>
-<ul>
-<li>Home office set up allowance</li>
-<li>Annual training budget</li>
-<li>100% remote work</li>
-<li>Flexible work hours</li>
-<li>Brand new office space in central Zürich for occasional gatherings or a change of work scenery</li>
-<li>An ambitious, talented, and multidisciplinary team to work with</li>
-<li>The chance to be part of “moving” all buildings into the web</li>
-</ul>
-<img src="https://remotive.com/job/track/1394260/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -731,7 +501,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -800,7 +570,7 @@
                     <code>api,CSS,developer,docker</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
@@ -901,7 +671,7 @@
                     <code>AWS,cloud,CSS,developer</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1393221" align="right" target="_blank">Apply</a>
@@ -926,7 +696,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1003,7 +773,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1080,7 +850,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -1105,7 +875,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -1130,7 +900,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -1155,7 +925,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -1180,7 +950,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -1205,7 +975,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -1230,7 +1000,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
