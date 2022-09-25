@@ -10,7 +10,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/findable-digital-marketing-project-manager" align="right" target="_blank">Apply</a>
@@ -87,76 +87,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/findable-digital-marketing-project-manager">https://weworkremotely.com/remote-jobs/findable-digital-marketing-project-manager</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1400984/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Paramo Technologies</h5>
-                    <h3>Project Manager</h3>
-                </td>
-                <td width="300">
-                    <code>devops,scrum,SRE,management</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/all-others/project-manager-1400984" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h1"><strong>We are</strong></div>
-<p>a cutting-edge e-commerce company developing products for our own technological platform. Our creative, smart and dedicated teams pool their knowledge and experience to find the best solutions to meet project needs, while maintaining sustainable and long-lasting results. <em>How?</em> By making sure that our teams thrive and develop professionally. Strong advocates of hiring top talent and letting them do what they do best, we strive to create a workplace that allows for an open, collaborative and respectful culture.</p>
-<p> </p>
-<div class="h1"><strong>What you will be doing</strong></div>
-<p>Work with a growing team and a portfolio of the best entertainment experience.  You will lead IT projects  coordinating joint efforts in a company wide scope. You will make sure that requirements are collected, prioritized and delivered, while joining technical discussions around trade-off.  Your day-to-day will include project coordination (including product teams coordination, stakeholders communication, planning, scheduling, dependencies anticipation, release testing, sign off and production roll-out). You must also be comfortable with the Agile Model´s framework. You can work remote or in the office.</p>
-<p><em>We are looking to recruit a talented and enthusiastic Project Manager who will be doing the following</em><em>:</em></p>
-<ul>
-<li>Plan &amp; organize complex IT Development projects to include goal, scope, architecture planning, documentation, information radiators, milestones and deliveries, launching,and closing.</li>
-<li>Coordinate an effective system of project governance managing risks and issues to correct deviations. </li>
-<li>Gather company-wide information to understand a project´s scope and translate that into a project management initiative. </li>
-<li>Meet with senior leadership to understand their project vision, requirements, and risks while getting their support for the project. </li>
-<li>Support senior leadership providing advice, documentation and information to guide their strategy and technical decision making regarding the project. </li>
-<li>Align expectations of Product Business Units and IT departments, reaching agreements on goals, deliveries and schedules. </li>
-<li>Coordinate Product Owners, Product Managers and Development and Support Teams to synchronize efforts by prioritizing tasks and anticipating dependencies for regular and timely results delivery.</li>
-<li>Promote empowerment of the teams, ensure that each team member is fully engaged in the project and making a meaningful contribution</li>
-<li>Encourage a sustainable pace with high-levels of quality for the team, and build a safe and collaborative working environment.</li>
-</ul>
-<div class="h1"><strong> </strong></div>
-<div class="h1"><strong>Knowledge and skills you need to have</strong></div>
-<ul>
-<li>Minimum of 3 years working as a PM with agile methodologies and development projects</li>
-<li>Experience working in a lean product development environment understanding the concept of an MVP, MMF and iterative release process.</li>
-<li>Knowledge of both agile and traditional project management principles and practices, and the ability to blend them together to achieve business goals</li>
-<li>Flexible to work with multi-function teams including Developers, Business Analysts,  QA, DB, SRE, Devops, Infra</li>
-<li>Ability to communicate effectively and to give feedback, as willingness to take the initiative</li>
-<li>Capacity to understand parties' motivations and concerns</li>
-<li>Flexibility to work in different time zones and on multiple projects</li>
-<li>Upper level of English and Spanish</li>
-<li>Bachelor's degree in computer science or information technology or equivalent experience.</li>
-<li>Demonstrated experience in using appropriate tools:
-<ul>
-<li>Agile Project Management tools such as Jira/Confluence or equivalent</li>
-<li>Collaboration tools such as Miro, Whimsical, MindMup</li>
-</ul>
-</li>
-</ul>
-<div class="h1"><strong> </strong></div>
-<div class="h1"><strong>Bonus points for the following</strong></div>
-<p>Additional requirements, not essential but " nice to have".</p>
-<ul>
-<li>Master of Project Management </li>
-<li>Agile certifications Scrum Alliance, PMI-ACP, DA or equivalent, are preferred</li>
-</ul>
-<div class="h1"><strong> </strong></div>
-<div class="h1"><strong>Why choose us?</strong></div>
-<p>We will give you the opportunity to be the best version of yourself, develop professionally and create strong working relationships working remote or on site. While offering a competitive salary, we also invest in our people's professional development and want to see you grow and love what you do. We are dedicated to listening to our team's needs and are constantly working on creating an environment in which you can feel at home.... <strong>If this sounds like the place for you, contact us now! </strong></p>
-<img src="https://remotive.com/job/track/1400984/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
