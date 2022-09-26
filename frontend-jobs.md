@@ -1,67 +1,5 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Urban Legend</h5>
-                    <h3> Senior Frontend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/urban-legend-senior-frontend-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Washington, DC
-    <br /><strong>URL:</strong> <a href="https://urbanlegend.co/">https://urbanlegend.co/</a>
-</p>
-
-<div><br></div><div>OUR TEAM IS GROWING<br><br>
-</div><div>Senior Frontend Engineer<br><br>
-</div><div><br></div><div>JOB SUMMARY:</div><div>Urban Legend is seeking a Senior React developer to bring our user-facing technology to the next level. The developer will play a key role in building our influencer-facing platform and mobile app.  </div><div><br></div><div>The ideal candidate will have three plus years of experience in a front-end focused role using React.<br><br>ABOUT URBAN LEGEND:</div><div>Urban Legend is a tech startup that’s redefining influencer marketing for public affairs and advocacy campaigns. The Urban Legend Exchange is an invite-only platform where advertisers run campaigns that mobilize creators to drive meaningful and measurable actions in support of issues that matter. </div><div><br></div><div><br></div><div>RESPONSIBILITIES</div><ul>
-<li>Architects and implements scalable front-end features and systems that delight our influencers and make their jobs easier</li>
-<li>Collaborates with product team to determine scope of new front-end features</li>
-<li>Ships code often and iteratively, in an Agile environment</li>
-<li>Owns the front end of our influencer marketing products</li>
-</ul><div><br></div><div>REQUIREMENTS:</div><ul>
-<li>JavaScript proficiency, including concepts like asynchronous programming, closures, and ES6</li>
-<li>HTML/CSS proficiency, including layout, styling, and cross-browser compatibility</li>
-<li>Significant professional experience writing modern React apps (hooks, functional components, context, styled components, fragments, destructuring)</li>
-<li>Professional experience using React Native or strong desire to learn</li>
-<li>Professional experience building mobile applications or strong desire to learn</li>
-<li>Experience building and maintaining front-end build processes (webpack, Babel) across environments</li>
-<li>Able to think through complex problems and offer possible solutions</li>
-<li>Professional English proficiency</li>
-<li>Minimum five hours overlap with ET to enable flexible cross-collaboration</li>
-</ul><div><br></div><div>NICE-TO-HAVES: </div><ul>
-<li>Experience with React Native and Expo</li>
-<li>Experience refactoring legacy React into modern best practices</li>
-<li>Experience writing front-end focused tests with (Jest) and integration tests (Cypress)</li>
-<li>Experience optimizing performance</li>
-</ul><div>
-<br><br>
-</div><div>BENEFITS:</div><ul>
-<li>Competitive compensation structure and future bonus opportunities </li>
-<li>Health benefits package</li>
-<li>Unlimited PTO</li>
-</ul><div><br></div><div><em>To apply, email your resume to info@urbanlegend.co</em></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/urban-legend-senior-frontend-engineer">https://weworkremotely.com/remote-jobs/urban-legend-senior-frontend-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1347890/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -72,7 +10,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-1347890" align="right" target="_blank">Apply</a>
