@@ -1,55 +1,5 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/bc5ddcc532d27fa44a25ab09ef3f9a5e1663830912.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OpenZeppelin</h5>
-                    <h3>
-					Blockchain Developer Forta				</h3>
-                </td>
-                <td width="300">
-                    <code>developer, solidity, ethereum</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/121707" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro"><h3><strong>About us</strong></h3><p><span style="font-weight:400;">OpenZeppelin is a leading cybersecurity company that provides security products to build, automate, and operate decentralized applications.</span></p><p><span style="font-weight:400;">With a mission to protect the open economy, our team created the most popular open source library for smart contract development with over 4 million downloads. Our unique expertise subsequently allowed us to uncover major security vulnerabilities for the Ethereum Foundation, MakerDAO, and Facebookâs Libra, and conduct security audits for many top blockchain companies including Coinbase, Brave, Compound, Aave, and Augur. </span></p><p><span style="font-weight:400;">Building on this experience, we recently launched a platform to help teams automate their Ethereum operations and securely ship products faster: OpenZeppelin Defender. </span></p><p><span style="font-weight:400;">With the success of our products, security audit work, and open source educational efforts, we are setting industry standards for building secure systems in a fast-growing industry that is creating an open financial system for the world.</span></p></div><h3><strong>What you'll be doing</strong></h3><p><span style="font-weight:400;">As a Forta Node Developer, you will join the Forta core dev team at OpenZeppelin working on Forta scan nodes. Forta is a decentralized protocol for scanning smart contracts that OpenZeppelin incubated and launched in 2021. Forta is already used by many top projects including Balancer, Compound, Curve, InstaDapp, Lido,  Maker, UMA, Uniswap, and Yearn. </span></p><p><span style="font-weight:400;">Forta scan nodes are built using Go and Docker and interact with Solidity smart contracts and IPFS. We are looking for developers who have strength in Go and Docker. We also operate Forta community resources in AWS, so skills in AWS services, Elasticsearch and GraphQL are a plus. All of our work integrates with Solidity smart contracts, so experience and understanding working with Ethereum and EVM-compatible blockchains is a must.</span></p><p><span style="font-weight:400;">In this role, you will play an essential part in building new components, communicating with users and node runners to gather feedback, and working collaboratively with the rest of the team to make sure we solve important problems and provide a great user experience. </span></p><p><span style="font-weight:400;">Specifically, you will:</span></p><ul><li style="font-weight:400;"><span style="font-weight:400;">Design and implement new features including writing tests and documentation.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Participate in community forums to collect feedback and define new features.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Help build reliable and scalable systems with a strong focus on security.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Contribute to the operational support of nodes that OpenZeppelin runs.</span></li></ul><h3><strong>You have</strong></h3><ul><li style="font-weight:400;"><span style="font-weight:400;">2+ years of experience developing programs in Golang.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Good understanding of Ethereum and Solidity.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Experience with Docker.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Strong desire to learn about Ethereum and contribute to the blockchain space.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Prior experience working remotely: strong personal organizational skills, a love for self-time management, and ability to work collaboratively with a team.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Advanced English communication skills â all of our internal and external communication is in English.</span></li></ul><h3><strong>Nice to have</strong></h3><ul><li style="font-weight:400;"><span style="font-weight:400;">Good understanding of security concerns in the Ethereum ecosystem.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Working knowledge of AWS services</span></li></ul><div class="content-conclusion"><div class="container"><div class="job-description"><div class="requirements"><h3 class="job-description-title">Benefits</h3><ul><li><p>Medical Insurance: Top quality insurance options for you.</p></li><li><p>Paid leave for new parents.</p></li><li><p>Team Events: Company retreats in different locations around the world.</p></li><li><p>Monthly allowance for wellness activities.</p></li><li><p>Coworking: access to a coworking space of your choice.</p></li><li><p>Training: Technical training, spoken language lessons in any language of your choice.</p></li></ul></div><div class="company-footer"><p>At OpenZeppelin, we are an equal opportunity employer and we value different perspectives. We are committed to building a diverse workforce. This includes but is not limited to gender, race, sexual orientation, religion, national origin and other characteristics that make each one of us unique. In this uniqueness, we find the most value. Come join us!</p></div></div></div><div class="container"><div class="application-information"><h3 class="job-description-title"> </h3></div></div></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/f236185902be8c6f225136c60ef93f921663830990.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OpenZeppelin</h5>
-                    <h3>
-					Solutions Developer				</h3>
-                </td>
-                <td width="300">
-                    <code>developer, solidity, ethereum</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/jobs/121714" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro"><h3><strong>About us</strong></h3><p><span style="font-weight:400;">OpenZeppelin is a leading cybersecurity company that provides security products to build, automate, and operate decentralized applications.</span></p><p><span style="font-weight:400;">With a mission to protect the open economy, our team created the most popular open source library for smart contract development with over 4 million downloads. Our unique expertise subsequently allowed us to uncover major security vulnerabilities for the Ethereum Foundation, MakerDAO, and Facebookâs Libra, and conduct security audits for many top blockchain companies including Coinbase, Brave, Compound, Aave, and Augur. </span></p><p><span style="font-weight:400;">Building on this experience, we recently launched a platform to help teams automate their Ethereum operations and securely ship products faster: OpenZeppelin Defender. </span></p><p><span style="font-weight:400;">With the success of our products, security audit work, and open source educational efforts, we are setting industry standards for building secure systems in a fast-growing industry that is creating an open financial system for the world.</span></p></div><p><span style="font-weight:400;">As a Solutions Software Engineer you will be responsible for helping design, develop and deploy bespoke client solutions using OpenZeppelin offerings and integrations. You will work with engineers from external teamâs to define, implement, and support products which will allow blockchain technology to be securely utilized.<br> <br>You will work closely with our product development team and a Solution Architect to develop and support high-quality technical solutions for customers. You will be an integral part of the success for each customer solution by performing early technical assessments, building Proof of Concepts, delivering functional solutions and troubleshooting technical configuration issues. <br> <br>As a passionate blockchain fan and user advocate, you will build the bridges needed for the users to utilize blockchain technology securely.<br></span></p><h3> </h3><p><strong>What youâll be doing </strong></p><ul><li style="font-weight:400;"><span style="font-weight:400;">Building custom security solutions using OpenZeppelin offerings under the guidance of a Solution Architect</span></li><li style="font-weight:400;"><span style="font-weight:400;">Interfacing with leadership, customers, users, and the community to implement seamless integrations to grow the OpenZeppelin platform</span></li><li style="font-weight:400;"><span style="font-weight:400;">Building application-specific integrations with OpenZeppelin</span></li><li style="font-weight:400;"><span style="font-weight:400;">Providing support for integrating partners making use of OpenZeppelin offerings (Contracts, Defender, etc.)</span></li><li style="font-weight:400;"><span style="font-weight:400;">Developing best practices and documentation to scale integrations<br></span></li></ul><h3><strong>You Have</strong></h3><ul><li style="font-weight:400;"><span style="font-weight:400;">3+ years of professional software experience</span></li><li style="font-weight:400;"><span style="font-weight:400;">Programming experience in TypeScript or JavaScript; otherwise experience in Solidity and a willingness to learn</span></li><li style="font-weight:400;"><span style="font-weight:400;">Basic understanding of applied cryptography and Ethereum smart contracts</span></li><li style="font-weight:400;"><span style="font-weight:400;">Basic understanding of web security and best practices</span></li><li style="font-weight:400;"><span style="font-weight:400;">Experience using Ethereum tool suites to develop and deploy Solidity smart contracts.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Ability to be be a resourceful developer and a fast learner continually striving to discover more environments</span></li><li style="font-weight:400;"><span style="font-weight:400;">Excellent communication skills and the ability to discuss technical concepts</span></li><li style="font-weight:400;"><span style="font-weight:400;">Passion for blockchain and other Web 3.0 technologies</span></li><li style="font-weight:400;"><span style="font-weight:400;">Prior experience working remotely: strong personal organizational skills, a love for self-time management, and ability to work collaboratively with a team.<br></span></li></ul><h3><strong>Nice to Have</strong></h3><ul><li style="font-weight:400;"><span style="font-weight:400;">A bachelor's and/or masterâs degree in computer science, IT, software engineering, or computer science.</span></li><li style="font-weight:400;"><span style="font-weight:400;">Experience in a technical sales engineering position</span></li><li style="font-weight:400;"><span style="font-weight:400;">Hands-on experience developing serverless functions in JavaScript/TypeScript</span></li><li style="font-weight:400;"><span style="font-weight:400;">Experience building data analytics dashboards for Datadog, Splunk, etc</span></li><li style="font-weight:400;"><span style="font-weight:400;">Experience developing CI/CD deployment pipelines using GitHub Actions</span></li><li style="font-weight:400;"><span style="font-weight:400;">AWS Cloud certification (Solutions Architect Associate or higher) </span></li><li style="font-weight:400;"><span style="font-weight:400;">Security certifications (Security+, CISSP, CISA, OSCP, etc)<br></span></li></ul><div class="content-conclusion"><div class="container"><div class="job-description"><div class="requirements"><h3 class="job-description-title">Benefits</h3><ul><li><p>Medical Insurance: Top quality insurance options for you.</p></li><li><p>Paid leave for new parents.</p></li><li><p>Team Events: Company retreats in different locations around the world.</p></li><li><p>Monthly allowance for wellness activities.</p></li><li><p>Coworking: access to a coworking space of your choice.</p></li><li><p>Training: Technical training, spoken language lessons in any language of your choice.</p></li></ul></div><div class="company-footer"><p>At OpenZeppelin, we are an equal opportunity employer and we value different perspectives. We are committed to building a diverse workforce. This includes but is not limited to gender, race, sexual orientation, religion, national origin and other characteristics that make each one of us unique. In this uniqueness, we find the most value. Come join us!</p></div></div></div><div class="container"><div class="application-information"><h3 class="job-description-title"> </h3></div></div></div>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5593/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -60,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/stock-buy-as-remote-flutter-developer" align="right" target="_blank">Apply</a>
@@ -120,7 +70,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/internet-society-senior-frontend-developer-1" align="right" target="_blank">Apply</a>
@@ -183,7 +133,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-developer-experience" align="right" target="_blank">Apply</a>
@@ -239,7 +189,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-4" align="right" target="_blank">Apply</a>
@@ -299,7 +249,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>663 days ago</text>
+                <text>664 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-react-developer" align="right" target="_blank">Apply</a>
@@ -343,7 +293,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -412,7 +362,7 @@
                     <code>api,CSS,developer,docker</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
@@ -513,7 +463,7 @@
                     <code>AWS,cloud,CSS,developer</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1393221" align="right" target="_blank">Apply</a>
@@ -538,7 +488,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -615,7 +565,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -692,7 +642,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -717,7 +667,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -742,7 +692,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -767,7 +717,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -792,7 +742,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -817,7 +767,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -842,7 +792,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
