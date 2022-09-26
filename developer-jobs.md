@@ -1,5 +1,68 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/6374/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>PlusPlusMinus</h5>
+                    <h3> Backend Developer for long term projects</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/plusplusminus-backend-developer-for-long-term-projects-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/6374/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Stellenbosch, South Africa
+    <br /><strong>URL:</strong> <a href="https://www.plusplusminus.co.za/">https://www.plusplusminus.co.za/</a>
+</p>
+
+<div>We work closely with our clients from researching and understanding the client's problem to creating training users on the applications we build.<br><br>We work with a limited number of clients in several different industries, such as political systems, e-commerce, hospitality, financial services, car rental, etc.<br><br>We aim for great quality of code and implementing a general set of functions to be used by all the applications we build as we optimize our processes. We currently in need of a developer to help us build and improve these tools.<br><br>We're looking for a mid-senior level, back-end developer, who is able to handle context-switching and who doesn't need a lot of hand-holding.<br><br>Our ideal candidate has:</div><ul>
+<li>5+ years of Backend/RESTful API development experience</li>
+<li>2+ years experience with Node.js</li>
+<li>2+ years experience with TypeScript</li>
+<li>2+ years experience with NoSQL databases such as MongoDB, etc</li>
+<li>2+ years experience with relational databases such as MySQL, Postgres, etc</li>
+<li>Experience writing Unit tests for backend applications</li>
+<li>Strong working knowledge of Git</li>
+<li>Ability to read and understand English software requirements, strong written English, ability to conduct sessions in English</li>
+<li>Strong Verbal English Skills</li>
+<li>Bachelor’s Degree in Computer Science, Applied Mathematics, Electrical Engineering, etc or equivalent experience</li>
+</ul><div>
+<br><strong>Nice to have:</strong>
+</div><ul>
+<li>Experience with Nest (https://nestjs.com/)</li>
+<li>Recent experience with AWS or GCP Key Management Services</li>
+<li>Microservice expertise</li>
+<li>Strong working knowledge of Kubernetes, Helm, and Spinnaker</li>
+<li>React or Angular experience</li>
+<li>AWS, GCP cloud expertise</li>
+<li>Continuous Integration experience with CircleCI or similar</li>
+</ul><div>
+<br><strong>On a typical day, you will:</strong>
+</div><ul>
+<li>Work with our design and development teams to implement code</li>
+<li>Be responsible for overall backend/API and frontend code quality</li>
+<li>Uphold our high engineering standards and bring consistency to our product development process</li>
+<li>Make sure we’re meeting our product roadmap goals</li>
+<li>Work with our team to create both technically viable and beautiful user experiences</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/plusplusminus-backend-developer-for-long-term-projects-1">https://weworkremotely.com/remote-jobs/plusplusminus-backend-developer-for-long-term-projects-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5593/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -189,7 +252,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-4" align="right" target="_blank">Apply</a>
@@ -293,7 +356,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -463,7 +526,7 @@
                     <code>AWS,cloud,CSS,developer</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1393221" align="right" target="_blank">Apply</a>
