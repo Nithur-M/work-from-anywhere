@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/apy-vision-software-engineering-manager" align="right" target="_blank">Apply</a>
@@ -72,7 +72,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-economics" align="right" target="_blank">Apply</a>
@@ -117,6 +117,90 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1405419/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Krisp</h5>
+                    <h3>Senior Software Engineer in Test</h3>
+                </td>
+                <td width="300">
+                    <code>linux,python,video,ai</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/qa/senior-software-engineer-in-test-1405419" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><br><br></p>
+<div class="h3">Company Description</div>
+<p>At Krisp, we are developing and launching applications that enhance the professionalism and productivity of employees and contact center agents. Krisp mutes background noise bi-directionally during calls and is the only software available in the market to do so as an application, becoming a virtual microphone and speaker within Windows, Mac OS and VDI. We are out front leading this market, with partners and customers including Chase, Concentrix, Discord, Apple and many others. Our team is defining the future of how remote employees vastly improve their voice and video communications.</p>
+<p><br><br></p>
+<div class="h3">Job Description</div>
+<p><strong>The Role:</strong></p>
+<p>The role is for individuals who are interested in working with AI/ML-based high-performance applications. We are looking for a candidate who is a self-starter, detail-oriented, and has good personal organization. The job is perfect for individuals who value miscellaneous responsibilities and challenges in their work. </p>
+<p><strong>Location:</strong></p>
+<p>Remote, Armenia</p>
+<p>We are a remote-first company, so you can work from anywhere. However, based on the business need some roles are considered for specific locations.<br> </p>
+<p><strong>What You'll Do:</strong></p>
+<ul>
+<li>Work in a cross-functional engineering team to deliver world-class Speaking AI products and SDKs.</li>
+<li>Collaborate with PMs to validate use-cases, acceptance criteria and perform requirement testing.</li>
+<li>Work with ML and Product QA teams to design and implement effective test methodologies and pipelines. </li>
+<li>Perform feature tests where necessary to assess quality of results.</li>
+<li>Plan, develop and maintain automated regression tests.</li>
+<li>Continuously analyze regression test results and escalate failures as necessary.</li>
+<li>Create release readiness reports before major releases.</li>
+<li>Plan and execute cross-platform performance and stability tests on major platforms (Mac, Windows, Linux).</li>
+<li>Maintain relevant documentation.</li>
+<li>Cooperate with Engineering/Application Engineering teams to reproduce bugs, when necessary.</li>
+<li>Train other departments on the use of custom-developed tools.</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Qualifications</div>
+<p><strong>What We’re Looking For:</strong></p>
+<ul>
+<li>BS/MS degree in CS or related field.</li>
+<li>Experience as a QA Engineer with at least for 3+ years.</li>
+<li>Desktop automation testing experience is a big plus.</li>
+<li>Experience in scripting languages (Python, bash/csh etc.).</li>
+<li>Experience in testing applications in at least one of the following platforms: Windows, Mac or Linux.</li>
+<li>Solid understanding of quality assurance techniques, testing concepts, methodologies, and tools.</li>
+<li>Strong analytical skills with the ability to perform root cause analysis.</li>
+<li>Good communication skills to work in a team environment.</li>
+<li>Experience in the following skills will be considered as a big plus
+<ul>
+<li>Python libs such as pytest, numpy, scipy, etc</li>
+<li>Working with audio, video or text data </li>
+<li>Application performance testing</li>
+</ul>
+</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Additional Information</div>
+<p><strong>Benefits at Krisp:</strong></p>
+<ul>
+<li>Stock options</li>
+<li>Learning and development assistance</li>
+<li>Health, dental and vision insurance</li>
+<li>Paid Time Off and Sick Time Off</li>
+<li>Paid Parental Leave</li>
+<li>Maternity Leave Top-up</li>
+<li>Gym reimbursement</li>
+<li>Referral bonus program</li>
+</ul>
+<p><br><strong>Krisp is an Equal Opportunity Employer:</strong></p>
+<p>All applicants are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. We do not tolerate discrimination or harassment of any kind. All employees and contractors of Krisp treat each other with respect and empathy.</p>
+<p><em>All your information will be kept confidential according to EEO guidelines.</em></p>
+<img src="https://remotive.com/job/track/1405419/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -127,7 +211,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -189,7 +273,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
