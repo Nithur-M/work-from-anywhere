@@ -1,5 +1,322 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/5728/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Create Ape, inc.</h5>
+                    <h3> Laravel PHP Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-laravel-php-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/5728/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Irvine, CA
+    <br /><strong>URL:</strong> <a href="https://createape.com/">https://createape.com/</a>
+</p>
+
+<div>
+<a href="https://createape.com/"><strong>CreateApe</strong></a><strong> Laravel Developer</strong>
+</div><div><br></div><div>This is a fully remote position, not restricted by commutes or a particular geographic area.</div><div>
+<strong>Office hours: Monday through Friday, 9AM - 5PM Pacific Time (PDT UTC-7)</strong>, this position</div><div>requires individuals to be available for meetings and duties during this window. It is a full time, 1099 contract position with accrued PTO and other benefits.</div><div><br></div><div><strong>Who we are:</strong></div><div>Create Ape is a fun and lean creative digital agency offering comprehensive solutions to your</div><div>most pressing problems. With over 20 years in the UX/UI design space, we know how to</div><div>elevate your user’s experience and to translate that into real metrics you can actually see: more</div><div>clients &amp; bigger sales.</div><div><br></div><div>Our passionate experts are leaders in their field, covering everything from digital strategy to</div><div>design &amp; development. Our mission is to provide our clients with unparalleled personalized</div><div>solution-based service. We commit to achieving these custom solutions and implementing them</div><div>with a smile.</div><div><br></div><div>Laravel developers use the Laravel web framework to design and build web applications, services, sites, and tools. Laravel is a PHP-based, MVC architecture that relies on OOP to create websites, databases, forums, and caches. The framework's tools and libraries let Laravel developers quickly develop robust software that is scalable.</div><div><br></div><div>CreateApe is searching for a Laravel developer to build web applications for our company. In this role, you will design and create projects using Laravel framework and PHP, and assist the team in delivering high-quality web applications, services, and tools for our business.</div><div><br></div><div>To ensure success as a Laravel developer you should be adept at utilizing Laravel's Scaffolding and be able to design a PHP application from start to finish. A top-notch Laravel developer will be able to leverage their expertise and experience of the framework to independently produce complete solutions in a short turnaround time.</div><div>
+<strong>Responsibilities:<br></strong><br>
+</div><ul>
+<li>
+<br>Discussing project aims with project managers and development team.</li>
+<li>Designing and building web applications using Laravel.</li>
+<li>Troubleshooting issues in the implementation and debug builds.</li>
+<li>Working with front-end and back-end developers on projects as well as our talented web designers.</li>
+<li>Testing functionality for users and the backend.</li>
+<li>Ensuring that integrations run smoothly.</li>
+<li>Scaling projects based on both internal and client feedback.</li>
+<li>Recording and reporting on work done in Laravel.</li>
+<li>Maintaining web-based applications.</li>
+<li>Presenting work in team meetings with managers and occasionally clients..<br><br>
+</li>
+</ul><div>
+<strong><br>Requirements:<br></strong><br>
+</div><ul>
+<li>
+<br>Experience working with PHP/OOP and managing APIs.</li>
+<li>A solid understanding of application design using Laravel 7.x (or later), Laravel Cashier.</li>
+<li>Knowledge of database design and querying using mySQL.</li>
+<li>Proficiency in HTML, CSS and JavaScript.</li>
+<li>Practical experience using the MVC architecture.</li>
+<li>A portfolio of applications and programs to your name.</li>
+<li>Problem-solving skills and critical mindset.</li>
+<li>Great communication skills.</li>
+<li>The desire and ability to learn.<br><br>
+</li>
+</ul><div>
+<strong><br>Nice-to-have:<br></strong><br>
+</div><ul><li>
+<br>Laravel Nova and Laravel Livewire experience is a plus.<br><br>
+</li></ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-laravel-php-developer">https://weworkremotely.com/remote-jobs/create-ape-inc-laravel-php-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Create Ape, inc.</h5>
+                    <h3> Wordpress Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-wordpress-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Irvine, CA
+    <br /><strong>URL:</strong> <a href="https://createape.com/">https://createape.com/</a>
+</p>
+
+<div>
+<a href="https://createape.com/jobs/#careers_our_openings"><strong>CreateApe</strong></a><strong> (Senior) Full Stack Wordpress Developer<br><br></strong><br>
+</div><div>This is a fully remote position, not restricted by commutes or a particular geographic area.</div><div>
+<strong>Office hours: 9AM - 5PM Pacific Standard Time</strong> (<strong><em>PST UTC-8</em></strong>), this position requires individuals to be available for meetings and duties <em>at least</em> a six (6) hour block during this window.</div><div><br></div><div><em>Who we are:</em></div><div>CreateApe is a fun and lean creative digital agency offering comprehensive solutions to your most pressing problems.  With over 20 years in the UX/UI design space, we know how to elevate your user’s experience and to translate that into real metrics you can actually see: more clients &amp; bigger sales.</div><div> </div><div>Our passionate experts are leaders in their field, covering everything from digital strategy to design &amp; development.  Our mission is to provide our clients with unparalleled personalized solution-based service.  We commit to achieving these custom solutions and implementing them with a smile.</div><div> </div><div><em>What we are looking for:</em></div><div>We are looking for an outstanding Wordpress Developer to be responsible for the coding and deployment of the websites we design in Figma. Wordpress developer responsibilities include building websites to production from design files, fashioning everything from the home page to site layout and function.</div><div><strong>Responsibilities</strong></div><ul>
+<li>Write testable, efficient code by using best software development practices</li>
+<li>Create website layout/user interface by using standard HTML/CSS practices</li>
+<li>Integrate data from various back-end services and databases</li>
+<li>Gather and refine specifications and requirements based on technical needs</li>
+<li>Create and maintain software documentation</li>
+<li>Be responsible for maintaining, expanding, and scaling websites</li>
+<li>Stay plugged into emerging technologies/industry trends and apply them into operations and activities</li>
+<li>Cooperate with designers to match visual design intent<br><br>
+</li>
+</ul><div><strong>Requirements</strong></div><ul>
+<li>“Full Stack” Wordpress Developer </li>
+<li>Fluent in English - we all work and communicate in English and you must be comfortable in that language and able to communicate effectively with the team</li>
+<li>Developer with the ability to build a full wordpress site from a design in Figma</li>
+<li>Ability to provide and meet accurate development estimates</li>
+<li>Fluent with HTML, CSS, SASS, Javascript, and PHP</li>
+<li>Proficient with mySQL and advanced knowledge of Wordpress database infrastructure</li>
+<li>Server knowledge including deployment on EC2 in AWS, other wordpress hosting environments, how to increase server memory, diagnose server issues, and use technology such as SSH to log into servers.</li>
+<li>Available to work at least 4 hours during our business hours (8am-5pm PST)</li>
+<li>Willing to start working as a Contractor and have a trial period of up to 60 days</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-wordpress-developer">https://weworkremotely.com/remote-jobs/create-ape-inc-wordpress-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Create Ape, inc.</h5>
+                    <h3> React Native Lead Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-react-native-lead-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Southern California 
+    <br /><strong>URL:</strong> <a href="https://createape.com/">https://createape.com/</a>
+</p>
+
+<div>
+<a href="https://createape.com"><strong>CreateApe</strong></a><strong> Senior React Native Developer</strong>
+</div><div><em>INDIVIDUALS ONLY - NO AGENCIES</em></div><div><br></div><div>Are you an experienced software developer ready to break out of the corporate world? Want to work for a fun and slightly nerdy crew that lets you flex your dev muscles and build a super diverse portfolio? Then we’ve got a spot for you here at CreateApe! We’re a full-service UX/UI agency that’s growing fast and making waves in the digital design world. Join our fully remote team of design and development experts from all around the world and get rid of that boring office commute.  We want to invest in YOU and your software development career – meaning the more you contribute and become an integral part of our team, the more room for professional growth.</div><div><br></div><div>This is a fully remote position, not restricted by commutes or a particular geographic area.</div><div>
+<strong>Office hours: Monday through Friday, 9AM - 5PM Pacific Time </strong>(<em>UTC -7:00</em>), this position</div><div>requires individuals to be available for meetings and duties during this window.</div><div><br></div><div><em>Who we are:</em></div><div>Create Ape is a fun and lean creative digital agency offering comprehensive solutions to your</div><div>most pressing problems. With over 20 years in the UX/UI design space, we know how to</div><div>elevate your user’s experience and to translate that into real metrics you can actually see: more</div><div>clients &amp; bigger sales.</div><div><br></div><div>Our passionate experts are leaders in their field, covering everything from digital strategy to</div><div>design &amp; development. Our mission is to provide our clients with unparalleled personalized</div><div>solution-based service. We commit to achieving these custom solutions and implementing them</div><div>with a smile.</div><div><br></div><div>At CreateApe, React Native Developers are responsible for building performant mobile apps on both the iOS and Android platforms.  You will be responsible for architecting, coding and deployment of the mobile content to production from Figma design files.  While collaborating with our Design team, the correct individual for this role will be able to fashion everything from the home page to site layout and functionality.  A strong team player and commitment to perfection is required.</div><div><br></div><div><em>Responsibilities:</em></div><div><br></div><ul>
+<li>Write testable, efficient code by using best software development practices</li>
+<li>Integrate data from various back-end services and databases</li>
+<li>Create and maintain software documentation</li>
+<li>Be responsible for maintaining, expanding, and scaling websites</li>
+<li>Stay plugged into emerging technologies/industry trends and apply them into operations and activities</li>
+<li>Cooperate with designers to match visual design intent</li>
+</ul><div><br></div><div><em>Requirements:</em></div><div><br></div><ul>
+<li>Senior React Native Developer</li>
+<li>Fluent in English - we all work and communicate in English and you must be comfortable in that language and able to communicate effectively with the team</li>
+<li>Demonstrated ability to mentor or experience leading small teams</li>
+<li>Developer with the ability to build mobile content from a design in Figma</li>
+<li>At least 3 years of React Native development experience</li>
+<li>Self-authored code in Github or some other repository to demonstrate your ability</li>
+<li>Ability to provide and meet accurate development estimates</li>
+<li>Please provide a Loom video intro briefly describing yourself, what you like to do for fun, and a brief history of your work experience.</li>
+</ul><div><br></div><div>PLEASE INCLUDE YOUR GITHUB LINK OR ANY VERIFIABLE WORK REFERENCES FOR THIS POSITION      </div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-react-native-lead-developer">https://weworkremotely.com/remote-jobs/create-ape-inc-react-native-lead-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>XM </h5>
+                    <h3> Senior Full Stack Developer – Cyprus</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/xm-senior-full-stack-developer-cyprus" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Limassol
+    <br /><strong>URL:</strong> <a href="https://www.xm.com/careers/sfsd1022">https://www.xm.com/careers/sfsd1022</a>
+</p>
+
+<div>
+<strong>Reference Number: SFSD1022<br></strong><br>
+</div><div>
+<strong>The Role: <br></strong><br>
+</div><div>We are looking for an enterprising developer to bring our algorithmic trading platform to the next level! You will be working with the latest technologies and design principles to propel our platform to greater heights. This role has it all! You’ll be given containerization, event-driven micro services, challenging problems, personal growth, and the chance to be part of a fun, small, agile team!<br> <br><br>
+</div><div>You’ll harness your skills as a Senior Developer to help us design and implement new, event-driven micro services, to solve new challenges. You will be a proactive team player, searching for new ways to improve our system performance and stability. You will explore new technologies for different problems and pick the right tools for the job. Our tech stack includes Rabbit MQ, Kafka, Docker, Java, Go, Angular, Prometheus, Kubernetes, Swarm, Maria DB and Influx DB, among others. Take your skills and knowledge to the next level by joining our team!</div><div> </div><div>
+<strong>The main responsibilities of the position include:<br></strong><br>
+</div><ul>
+<li>Design and implement event-driven microservices using Spring Boot framework </li>
+<li>Design and develop front-end applications using Angular Framework </li>
+<li>Follow test-driven development, continuous integration, and agile methodologies </li>
+<li>Participate in code reviews </li>
+<li>Continuously strive to optimise system performance and resiliency</li>
+</ul><div>
+<strong> <br></strong><br>
+</div><div>
+<strong>Main requirements:<br></strong><br>
+</div><div>·         BSc/MSc in computer science, engineering, or any other relevant degree</div><div>·         At least 5 years of work experience in Java development</div><div>·         Ability to produce production-ready code </div><div>·         Very good knowledge of programming best practices and design patterns</div><div>·         Good understanding of algorithmic complexity, data structures, and multi-threading concepts</div><div>·         Solid experience in Spring Framework</div><div>·         Familiarity with Typed Script Frameworks </div><div>·         Good knowledge of micro services architecture</div><div>·         Experience in developing highly concurrent/high throughput software</div><div>·         Strong team working skills and interest in personal development</div><div>·         Strong problem-solving skills </div><div>·         Experience with Docker, Docker Swarm and Kubernetes</div><div>·         Ability to work in Agile environment</div><div>·         Experience with monitoring tools such Prometheus and Grafana<br><br>
+</div><div>
+<strong>The following will be considered an advantage:<br></strong><br>
+</div><div>·         Knowledge of AWS Cloud Services</div><div>·         Familiarity with CI/CD process (GitLab, Kubernetes, Docker Swarm)<br><br>
+</div><div>
+<strong>Benefit from:<br></strong><br>
+</div><ul>
+<li>Attractive remuneration package plus performance related reward</li>
+<li>Private health insurance</li>
+<li>Corporate pension fund</li>
+<li>Food allowance</li>
+<li>Intellectually stimulating work environment</li>
+<li>Continuous personal development and international training opportunities</li>
+<li>Attractive relocation package and support for you and your family</li>
+</ul><div> <br><br>
+</div><div><br></div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position.</div><div> </div><div>
+<strong>All applications will be treated with strict confidentiality!<br></strong><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-senior-full-stack-developer-cyprus">https://weworkremotely.com/remote-jobs/xm-senior-full-stack-developer-cyprus</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7378/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Aldrin</h5>
+                    <h3> Senior Front-End Developer Web3 (Remote)</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-front-end-developer-web3-remote-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7378/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://aldrin.com">https://aldrin.com</a>
+</p>
+
+<div>
+<strong>The Role<br></strong><br>
+</div><div>We are looking for a <strong>Senior Front-End Developer Web3 (Remote)</strong> to develop front-end applications for Aldrin Lab´s innovative Web3 products.<br><br>
+</div><div>You will:<br><br>
+</div><ul>
+<li>Build, deploy, and mature user-friendly, highly secure, maintainable, high-performance scalable interfaces, and client-facing UI systems</li>
+<li>Work closely with our product and design teams to develop new features from design to production</li>
+<li>Have an entrepreneurial spirit and bring ideas to front-end development</li>
+<li>Work effectively with a high degree of autonomy, but also enjoy working collaboratively in a team</li>
+<li>Understand the front-facing user experience of our products, and work alongside other team members to ensure that we utilize best principles/practices</li>
+<li>Design new and optimize existing systems and participate in design reviews</li>
+</ul><div><br></div><div><strong>Minimum Qualifications:</strong></div><ul>
+<li>
+<strong>5+ years</strong> of experience in front-end development</li>
+<li>
+<strong>Expertise </strong>in front end development with <strong>React</strong> with an understanding of React best practices, optimizations, and profiling</li>
+<li>Strong experience with GraphQL/Apollo/REST</li>
+<li>Verbal fluency in English</li>
+<li>Interest and enthusiasm for crypto markets, blockchain technology, decentralized finance, and the whole Web3 ecosystem</li>
+</ul><div><br></div><div><strong>Nice-to-Have Qualifications:</strong></div><ul>
+<li>Experience with <strong>TypeScript</strong>
+</li>
+<li>First-hand experience with Web3 front-end technologies and developing DeFi applications and/or FinTech applications</li>
+<li>Experience working with a large codebase and e2e testing like Cypress</li>
+<li>BS in Computer Science or equivalent</li>
+</ul><div>
+<br><strong>Benefits</strong>
+</div><ul>
+<li>Competitive salary + tokens/equity</li>
+<li>100% remote working</li>
+<li>Flexible working hours</li>
+<li>Opportunity to work with a diverse, global, and passionate team</li>
+<li>Collaboration with leading projects and thought leaders in the crypto space</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-front-end-developer-web3-remote-1">https://weworkremotely.com/remote-jobs/aldrin-senior-front-end-developer-web3-remote-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7357/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +327,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pspdfkit-web-application-platform-developer" align="right" target="_blank">Apply</a>
@@ -61,7 +378,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-node-react-developer-javascript-fullstack" align="right" target="_blank">Apply</a>
@@ -122,56 +439,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0001/8203/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Zapiet</h5>
-                    <h3> Experienced Laravel Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/zapiet-experienced-laravel-developer-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0001/8203/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London, UK
-    <br /><strong>URL:</strong> <a href="https://www.zapiet.com">https://www.zapiet.com</a>
-</p>
-
-<div>We are looking for a Laravel developer to join our team to help scale up our products, implement our development plans and respond more quickly to feature requests from our growing user base.</div><div><br></div><div><strong>Required</strong></div><ul>
-<li>1-2 years experience developing applications using Laravel</li>
-<li>Ability to write clear testable code</li>
-<li>Ability to develop cross-browser and cross-platform solutions</li>
-<li>An appreciation for user experience</li>
-<li>Experienced in designing and maintaining MySQL databases</li>
-<li>In-depth knowledge of current coding techniques and best practices</li>
-<li>Willingness to learn new skills and keep up to date with the latest technologies</li>
-<li>Excellent communication skills</li>
-<li>Experience using version control systems</li>
-</ul><div><br></div><div><strong>Desirable</strong></div><ul>
-<li>Experience using ecommerce platforms such as Shopify</li>
-<li>Experience with API development and 3rd party API’s</li>
-<li>Experience working on platforms that scale</li>
-<li>Experience writing Golang </li>
-<li>An understanding of security threats and implications of what you write</li>
-</ul><div><br></div><div><strong>Compensation is based on experience</strong></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/zapiet-experienced-laravel-developer-2">https://weworkremotely.com/remote-jobs/zapiet-experienced-laravel-developer-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7343/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -182,7 +449,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tag-media-web-developer-1" align="right" target="_blank">Apply</a>
@@ -240,69 +507,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/6374/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>PlusPlusMinus</h5>
-                    <h3> Backend Developer for long term projects</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/plusplusminus-backend-developer-for-long-term-projects-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/6374/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Stellenbosch, South Africa
-    <br /><strong>URL:</strong> <a href="https://www.plusplusminus.co.za/">https://www.plusplusminus.co.za/</a>
-</p>
-
-<div>We work closely with our clients from researching and understanding the client's problem to creating training users on the applications we build.<br><br>We work with a limited number of clients in several different industries, such as political systems, e-commerce, hospitality, financial services, car rental, etc.<br><br>We aim for great quality of code and implementing a general set of functions to be used by all the applications we build as we optimize our processes. We currently in need of a developer to help us build and improve these tools.<br><br>We're looking for a mid-senior level, back-end developer, who is able to handle context-switching and who doesn't need a lot of hand-holding.<br><br>Our ideal candidate has:</div><ul>
-<li>5+ years of Backend/RESTful API development experience</li>
-<li>2+ years experience with Node.js</li>
-<li>2+ years experience with TypeScript</li>
-<li>2+ years experience with NoSQL databases such as MongoDB, etc</li>
-<li>2+ years experience with relational databases such as MySQL, Postgres, etc</li>
-<li>Experience writing Unit tests for backend applications</li>
-<li>Strong working knowledge of Git</li>
-<li>Ability to read and understand English software requirements, strong written English, ability to conduct sessions in English</li>
-<li>Strong Verbal English Skills</li>
-<li>Bachelor’s Degree in Computer Science, Applied Mathematics, Electrical Engineering, etc or equivalent experience</li>
-</ul><div>
-<br><strong>Nice to have:</strong>
-</div><ul>
-<li>Experience with Nest (https://nestjs.com/)</li>
-<li>Recent experience with AWS or GCP Key Management Services</li>
-<li>Microservice expertise</li>
-<li>Strong working knowledge of Kubernetes, Helm, and Spinnaker</li>
-<li>React or Angular experience</li>
-<li>AWS, GCP cloud expertise</li>
-<li>Continuous Integration experience with CircleCI or similar</li>
-</ul><div>
-<br><strong>On a typical day, you will:</strong>
-</div><ul>
-<li>Work with our design and development teams to implement code</li>
-<li>Be responsible for overall backend/API and frontend code quality</li>
-<li>Uphold our high engineering standards and bring consistency to our product development process</li>
-<li>Make sure we’re meeting our product roadmap goals</li>
-<li>Work with our team to create both technically viable and beautiful user experiences</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/plusplusminus-backend-developer-for-long-term-projects-1">https://weworkremotely.com/remote-jobs/plusplusminus-backend-developer-for-long-term-projects-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5593/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -313,7 +517,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/stock-buy-as-remote-flutter-developer" align="right" target="_blank">Apply</a>
@@ -373,7 +577,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-developer-experience" align="right" target="_blank">Apply</a>
@@ -429,7 +633,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-4" align="right" target="_blank">Apply</a>
@@ -489,7 +693,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
@@ -546,7 +750,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -615,7 +819,7 @@
                     <code>api,CSS,developer,docker</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
@@ -716,7 +920,7 @@
                     <code>AWS,cloud,CSS,developer</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1393221" align="right" target="_blank">Apply</a>
@@ -741,7 +945,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -818,7 +1022,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -895,7 +1099,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -920,7 +1124,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -945,7 +1149,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -970,7 +1174,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -995,7 +1199,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -1020,7 +1224,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -1045,7 +1249,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
