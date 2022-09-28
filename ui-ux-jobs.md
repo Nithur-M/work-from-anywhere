@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-ux-ui-designer" align="right" target="_blank">Apply</a>
@@ -51,75 +51,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>OnTheGoSystems</h5>
-                    <h3> UX/UI Designer for a Mass-Market SaaS Product</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>35 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/onthegosystems-ux-ui-designer-for-a-mass-market-saas-product" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> 100% remote
-    <br /><strong>URL:</strong> <a href="https://onthegosystems.com">https://onthegosystems.com</a>
-</p>
-
-<div>OnTheGoSystems helps people and businesses from around the world go global. Our software makes it possible to create multilingual websites and software, no matter the size of your budget. We’ve been around since 2010, serving over 200,000 clients and have constantly evolved. Now we’re starting a new project and are building its core team.<br><br>
-</div><div>The clients for this project are software developers. They expect things to “just work”, without having to spend hours figuring out how. You will design a web application and elements for clients’ mobile applications that work with it.<br><br>
-</div><div><br></div><div>
-<strong>What your job as our UI/UX expert will look like<br></strong><br>
-</div><div>We plan for several months in advance so that we all know what we’re aiming to achieve. Then, we have weekly planning meetings and daily “good mornings”. The rest of the time, you need to manage yourself.<br><br>
-</div><div>You’ll know our products, clients and competitors inside and out. You’ll work together with marketing and engineering to understand what problems we’re solving and what’s unique about our solution. You’ll need to deeply know what clients love and what they rather avoid.<br><br>
-</div><div>You’ll plan how clients will accomplish their work using our product, with little effort and no frustration.<br><br><strong>What is required for this role:<br></strong><br>
-</div><ul>
-<li>+3 years of experience doing UX/UI design</li>
-<li>Proven experience building mass-market products. <br><br>
-</li>
-</ul><div>Candidates do not need experience with specific software, as we think great UX/UI designers with experience on large-scale projects can do a great job and learn any tools needed on the job. </div><div><br></div><div><br></div><div>
-<strong>This is the ideal job for you if:<br></strong><br>
-</div><ul>
-<li>
-<strong>You see the big picture:</strong> We have a flat hierarchy and no silos. Everyone in the team needs to know everyone else, the product and the clients. You’ll do your own research and come up with creative solutions.</li>
-<li>
-<strong>You get things done:</strong> Discussions are fine, but results are what matter. We’re looking for designs that we can build on over time and that clients love using.</li>
-<li>
-<strong>You’re both an achiever and a team player:</strong> Everyone in our team has a great internal drive for success and results. We know that it’s impossible to build something big alone, so teamwork is critical to us.</li>
-<li>
-<strong>It’s nice to work with you:</strong> We work a lot, so we want to make sure that we enjoy this part of the day. With the right people, work feels good. You’ll be looking forward to Monday mornings instead of dreading them.</li>
-</ul><div><br></div><div>And yes, <strong>you’re a great designer</strong> :-)<br><br>
-</div><div><br></div><div>
-<strong>Full-time work in the European timezone<br></strong><br>
-</div><div>Our development team is in Europe, so this position is only relevant for designers working in the European timezone.<br><br>
-</div><div><br></div><div>
-<strong>Perks and Benefits<br></strong><br>
-</div><div>Besides working with great people on exciting projects with cutting-edge technologies, you will receive:<br><br>
-</div><ul>
-<li>A steady and competitive salary</li>
-<li>Paid vacation per your country’s holidays</li>
-<li>Home-office setup</li>
-<li>Any tool that you’ll need to get the job done</li>
-<li>Access to professional courses and literature</li>
-</ul><div>If you’re interested in joining us, please send your application. We’re very eager to meet you.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/onthegosystems-ux-ui-designer-for-a-mass-market-saas-product">https://weworkremotely.com/remote-jobs/onthegosystems-ux-ui-designer-for-a-mass-market-saas-product</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>Springboard</h5>
                     <h3> Mentor - UI/UX Design Career Track (Part-time/Remote)</h3>
                 </td>
@@ -127,7 +58,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>215 days ago</text>
+                <text>216 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -188,7 +119,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
@@ -263,7 +194,7 @@
                     <code>ui,ux,management,networking</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-ux-ui-designer-1344663" align="right" target="_blank">Apply</a>
