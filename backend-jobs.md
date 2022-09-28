@@ -10,7 +10,7 @@
                     <code>design,web3,back-end,python,software,code,qa,cloud,api,management,go,engineer,backend,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-streamflow-123753" align="right" target="_blank">Apply</a>
@@ -59,31 +59,7 @@
 <li align="left"><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Website</a></li>
 <li align="left"><a class="bbcode-link" href="https://app.streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">dApp</a></li>
 <li align="left"><a class="bbcode-link" href="https://twitter.com/streamflow_fi" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
-</ul><br><br/><br/>Please mention the word **CALMING** and tag RMTguMjA2LjE3NC41NA== when applying to show you read the job post completely (#RMTguMjA2LjE3NC41NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/4d1e94dafa9ab50e9032242fd4ccea591663917324.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Upvest</h5>
-                    <h3>Backend Engineer Data Management</h3>
-                </td>
-                <td width="300">
-                    <code>teach,founder,docker,financial,investment,fintech,api,management,operational,analytics,reliability,go,engineer,backend,full-time</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-data-management-upvest-122231" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Weâre looking for fintech enthusiasts to join us in creating the financial infrastructure of tomorrow. Weâre building the first European Investment API to enable any financial institution to offer a broad range of investment products in their apps. Our view is backed by Europe's largest tech VCs (Earlybird, Notion Capital, Partech, HV Capital, ABN AMRO Ventures) by renowned fintech entrepreneurs (including <a target="_blank" href="https://www.linkedin.com/in/ACoAAA5D6LAB1cJ1GBRZ8whwsc6ZI78kDf1Ulx0" rel="noopener noreferrer nofollow">Maximilian Tayenthal</a>, founder of N26, and <a target="_blank" href="https://www.linkedin.com/in/ACoAAAAAH8AB8C9RXofd6q-Ux6PSMs23ahwpU8U" rel="noopener noreferrer nofollow">Felix Haas</a>, founder of IDnow) and Bessemer Venture Partners in the USA. <br></p><p>Weâre based in Berlin but would consider <strong>hiring</strong> <strong>remotely</strong> for this role. If you do want to move to Berlin though, weâre happy to support your relocation.</p><p>At Upvest, our vision is <strong>to make investing as easy as spending money</strong>. By enabling any business to offer investment opportunities, our goal is to empower anyone to invest. Today, we count 100+ talented people from 20 different countries.<br></p><p><strong>Your mission:</strong></p><p>We are seeking a full-time backend engineer with experience in data management to build services and data pipelines for Europe's first securities API. Your goal is to take ownership of designing, developing and maintaining our data pipeline (written in Go, supported by Airflow, exposed in Looker) and corresponding microservices (written in Go).<br></p><p><strong>Team's mission</strong></p><p>The Data and Analytics department at Upvest is responsible for providing business and operational data for the whole company.<br>We are (and are looking for) Cloud, Platform, and Data Engineers with a love for Go and passion for Data Quality.Our current focus is on ramping up our self-service data platform, using BigQuery and Looker, for other Upvengers to explore their domain data and gain valuable business insights.</p><p><strong>This role will give you the opportunity to:</strong><strong></strong></p><ul> <li> <strong></strong>Designing and building fault-tolerant, horizontally scalable systems using  a Microservice architecture powered by Docker and Kubernetes</li> <li>Building event-driven applications using Kafka</li> <li>Developing data cleaning, data transformation, data aggregation, and schema management components</li> <li>Working on improving the reliability of our data infrastructure</li> <li>Establishing or developing innovative tooling to facilitate low-maintenance data pipelines, rich data tooling for product and operations, and user-focused dashboarding.</li> <li>Working with an agile methodology with flexible processes</li> <li>Working with the cutting edge technologies (Go, Kafka, Looker) without a legacy codebase</li> </ul><ul></ul><p><strong>Job requirements:</strong><strong></strong></p><ul> <li> <strong></strong>Prior experience with distributed systems and data pipelines</li> <li>Love for clean and structured data and experience with schema management</li> <li>Experience in Go (or willingness to make Go your day-to-day language)</li> <li>Fluency in analytical SQL and other data languages (e.g., LookML, numpy/pandas, Airflow DAGs, GraphQL, etc.)</li> <li>Fluency with event-driven architecture and concurrent algorithms</li> <li>Being proactive in learning new stacks and having a high sense of ownership</li> <li>Being able to present your work and enjoying to teach your newly learned skills and technologies to your colleagues</li> </ul><p><strong>It's nice if you have:</strong><br></p><ul> <li>Experience with Investment products or the Fintech domain, in general, is a big plus</li> <li>Experience with managing end-to-end data pipelines (from the creation of an event to making it visible as a KPI to the CEO)</li> <li>Experience in event-driven architectures and event sourcing systems.</li> <li>Experience with ETL/ELT tools and technologies</li> <li>Experience with Kafka Streams, KSQL, or related streaming aggregation technologies.</li> <li>Experience with Docker, Kubernetes, and modern monitoring and tracing tools</li> </ul><ul></ul><p><strong>Why Upvest?</strong></p><ul> <li>We're working on solving a hard problem: fixing the European securities financial infrastructure that empowers more people to be able to invest. You have the opportunity to contribute to this change.</li> <li>We invest in you. From access to a personal coach, development budget and plenty of opportunities to grow in your role.</li> <li>We take hiring seriously with a strong focus on keeping a high bar when interviewing (equally important is that we hire decent people, who are passionate about their craft and helping us achieve our shared mission).</li> <li>While we're not quite fully-remote, we are committed to being a flexible employer, as we understand you don't have to be in the office to do your best work.</li> <li>We live a culture of empowerment, trust (that we hire the best people and get out of their way) and openness (there's a greater advantage in sharing information than keeping it to ourselves).</li> </ul><p><strong>Our values:</strong><br></p><ul> <li> <strong>Learn and grow. </strong>We aim high to shape our future. We give and request honest feedback knowing that we develop together. Progression over Perfection.</li> <li> <strong>Team first. </strong>We make it easy for others. We value our differences and are open to others' opinions. We win and celebrate together! Team over Egos.</li> <li> <strong>Own the outcome. </strong>Whether we win or we lose, we stand together. We are proactive and get the job done. Outcome over Process.</li> <li> <strong>Tell the story. </strong>We always start with the <em>why</em>. We share knowledge to empower others. Transparency over Complexity.</li> </ul><br/><br/>Please mention the word **PREFERRING** and tag RMTguMjA2LjE3NC41NA== when applying to show you read the job post completely (#RMTguMjA2LjE3NC41NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br><br/><br/>Please mention the word **CALMING** and tag RMy44Mi4xNy43NQ== when applying to show you read the job post completely (#RMy44Mi4xNy43NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -98,7 +74,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-node-4" align="right" target="_blank">Apply</a>
@@ -170,7 +146,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
