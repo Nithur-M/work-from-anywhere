@@ -1,48 +1,84 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2096/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Toptal</h5>
-                    <h3> Senior UX/UI Designer</h3>
+                    <h5>Viva Translate</h5>
+                    <h3> Diseñador/a Web UX Senior</h3>
                 </td>
                 <td width="300">
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/toptal-senior-ux-ui-designer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/viva-translate-disenador-a-web-ux-senior" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0076/2096/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong>  Wilmington, DE
-    <br /><strong>URL:</strong> <a href="https://www.toptal.com/">https://www.toptal.com/</a>
+  <strong>Headquarters:</strong> USA
+    <br /><strong>URL:</strong> <a href="https://vivatranslate.com/">https://vivatranslate.com/</a>
 </p>
 
-<div><strong><em>Design your lifestyle with the freedom to work however, wherever — on your terms. </em></strong></div><div><br></div><div>Freelance work is defining the careers of today's designers in exciting new ways. If you're passionate about working flexibly with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career move. </div><div><br></div><div>Toptal is an exclusive talent network for the world's top 3% of designers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you'll choose your own schedule and work from anywhere.  <strong>Jobs come to you, so you won't bid for projects against other designers in a race to the bottom. </strong>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. </div><div><br></div><div>As a freelance designer, you'll instantly join a thriving community of experts in over 120 countries. Work remotely on projects that meet your career ambitions, and expand your impact through networking events, volunteering, publishing, public speaking opportunities, and more.</div><div><br></div><div>That's why the world's top 3% of designers choose Toptal. Designers in our network share:</div><ul>
+<div>Viva Traduce (<a href="https://contxto.com/es/news/viva-translate-ayuda-a-profesionales-hispanoparalntes-a-obtener-mejores-empleos/">más información</a>) está dirigido por un equipo de ingenieros procedentes de empresas e instituciones de primera línea, como Google y el MIT, con un sueño compartido. Estamos creando un mundo en el que el idioma y la nacionalidad ya no son barreras para el trabajo, ni para las oportunidades y estamos empezando por toda América Latina.</div><div><br></div><div>La tecnología es el centro de nuestro producto. Viva se basa en una plataforma de traducción que automatiza las comunicaciones en el lugar de trabajo, permitiendo que nuestros equipos de desarrollo y diseño colaboren sin problemas con nuestros clientes.</div><div><br></div><div>Tenemos un sueño increíble para el futuro del trabajo sin fronteras. Pero sabemos que los grandes sueños comienzan con grandes personas. ¿Cuál es tu historia? Si tú también eres un explorador, un soñador y un constructor, nos encantaría conocerte.</div><div><br></div><div><strong>Tenemos un desafío para quienes:</strong></div><ul>
+<li>Vibran energía emprendedora: se mueven por la curiosidad, nunca se rinden y se enfocan en superar sus propios límites<br>Son grandes comunicadores: proactivos, extrovertidos, con ganas de discutir problemas y soluciones</li>
+<li>Dan el máximo porque les gusta trabajar con compromiso y dedicación</li>
+<li>Viven los cambios como oportunidades y aprenden de sus errores</li>
+<li>Promueven el buen clima, aportan alegría y diversión</li>
+<li>Saben cómo construir con otras personas y disfrutan trabajando en equipo</li>
+</ul><div>
+<br>Imagínate emprendiendo proyectos desafiantes, dinámicos e innovadores y <strong>siendo responsable de:</strong>
+</div><ol>
 <li>
-<strong>3+ years of professional experience</strong> working on <strong>UX, UI,</strong> or/and <strong>Interaction Design</strong> of digital products</li>
-<li>Portfolio of at least 6 design projects</li>
-<li>Experience with <strong>Landing Page</strong>, <strong>Dashboard</strong>, or/and <strong>Web App Design</strong> is a bonus</li>
-<li>Ability to collaborate with cross-functional team members is required</li>
-<li>Ability to collect and interpret both qualitative and quantitative feedback is required</li>
-<li>Experience with AR/VR is a strong advantage</li>
-<li>Project management skills</li>
-<li>A keen attention to detail</li>
+<strong>Perspectiva de diseño única </strong>- perspicaz en el deleite y el juego</li>
 <li>
-<strong>Full-time availability</strong> is a strong advantage<br><br>
-</li>
-</ul><div>If you're ready for a career shift to impactful freelance work, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/xecDw6"><strong>https://topt.al/xecDw6</strong></a>
-</div>
+<strong>Experiencia del usuario</strong> - Dirigir todas las fases del diseño del producto para diferentes proyectos web, asegurando la mejor experiencia del usuario en cada iniciativa.</li>
+<li>
+<strong>Investigación </strong>- Llevar a cabo la investigación de tendencias de los usuarios y de la  industria. Definir los casos de uso, las necesidades y la identidad de nuestros clientes. Definir los casos de uso, las necesidades y la identidad de nuestros clientes.</li>
+<li>
+<strong>Diseños de alta fidelidad </strong>- Crear wireframes y diseños detallados listos para la ingeniería.</li>
+<li>
+<strong>Experimentos </strong>- Ayudar a ejecutar rigurosos experimentos de diseño, con experiencia en el análisis cuantitativo de los comportamientos de los usuarios. Probar e iterar rápidamente los diseños para optimizar el rendimiento.</li>
+<li>
+<strong>Mejoras del producto: </strong>identificar las oportunidades de grandes cambios. Revisar los flujos de usuarios existentes y proponer áreas de mejora. Trabajar estrechamente con ingeniería y otros equipos para sugerir e implementar mejoras.</li>
+<li>
+<strong>Colaboración interfuncional </strong>- Colaborar con ingeniería y otros equipos para identificar e implementar oportunidades de mejora del producto.</li>
+</ol><div><br></div><div><strong>Requisitos:</strong></div><ul>
+<li>Tener 5 o más años de experiencia trabajando en UX/UI, Web o puestos similares</li>
+<li>Conocer el diseño centrado en el usuario y la interacción</li>
+<li>Contar con un portafolio de diseño de producto o diseño UI/UX con múltiples casos de estudio de productos en los que hayas trabajado</li>
+<li>Tener experiencia en Figma</li>
+<li>Poseer una profunda empatía por los usuarios y un buen ojo para la UX/UI de la web</li>
+<li>Poseer gran capacidad de comunicación y organización</li>
+<li>Desenvolverse bien en un entorno startup de ritmo rápido</li>
+<li>Poseer capacidad para trabajar con ambigüedad y ajustar las prioridades según las necesidades del negocio</li>
+<li>Estar basado en América Latina con al menos un nivel B1-B2 de inglés</li>
+</ul><div><br></div><div><strong>Se agradece tener:</strong></div><ul>
+<li>Un título de licenciatura, preferiblemente </li>
+<li>Experiencia previa en una startup de alto crecimiento liderada por un producto</li>
+<li>Pasión por crear canales de comunicación entre culturas diferentes </li>
+<li>Experiencia de dominio trabajando en SaaS</li>
+</ul><div><br></div><div><strong>Información adicional:</strong></div><ul><li>Esta posición es totalmente remota</li></ul><div><br></div><div><strong>Capacidad de adherirse a nuestros valores:</strong></div><ul>
+<li>Subiendo siempre de nivel </li>
+<li>Basados en la ciencia</li>
+<li>De integridad abierta</li>
+<li>Divertidos</li>
+</ul><div>
+<br><strong>Te proponemos:</strong>
+</div><ul>
+<li>Ser parte de una compañía con espíritu emprendedor en la que nos encanta pensar en grande y a largo plazo.</li>
+<li>Ser protagonista de tu desarrollo en un ambiente de oportunidades, aprendizaje, crecimiento, expansión y proyectos desafiantes. </li>
+<li>Compartir y aprender en equipo junto a grandes profesionales y especialistas.</li>
+<li>Un excelente clima de trabajo, con todo lo necesario para que vivas una gran experiencia. :)</li>
+</ul><div><br></div><div>En Viva Traduce trabajamos para promover una cultura inclusiva, que busca la equidad y valora las diferentes perspectivas. Esto se traduce en género, religión, personas con discapacidad, LGBTQ+, raza, etnia y diversidad de experiencias. Trabajamos todas nuestras búsquedas con base en esta premisa. ¡Súmate a nuestro equipo!</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toptal-senior-ux-ui-designer">https://weworkremotely.com/remote-jobs/toptal-senior-ux-ui-designer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/viva-translate-disenador-a-web-ux-senior">https://weworkremotely.com/remote-jobs/viva-translate-disenador-a-web-ux-senior</a></p>
 
                 </details>
                 </td>
@@ -58,7 +94,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>216 days ago</text>
+                <text>217 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -109,6 +145,66 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1400353/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>EnthuZiastic</h5>
+                    <h3>UI/UX Designer</h3>
+                </td>
+                <td width="300">
+                    <code>android,CSS,html,ios</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/design/ui-ux-designer-1400353" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h1">Description</div>
+<p>This is a remote position.</p>
+<ul>
+<li>Investigating user experience design requirements for our suite of digital assets</li>
+<li>Developing and conceptualizing a comprehensive UI/UX design strategy for the brand</li>
+<li>Producing high-quality UX design solutions through wireframes, visual and graphic designs, flow diagrams, storyboards, site maps, and prototypes</li>
+<li>Designing UI elements and tools such as navigation menus, search boxes, tabs, and widgets for our digital assets</li>
+<li>Testing UI elements such as CTAs, banners, page layouts, page designs, page flows, and target links for landing pages</li>
+<li>Collaborating with the marketing team, and internal and external designers to ensure the creation and delivery of tailored experiences for the digital user</li>
+<li>Providing advice and guidance on the implementation of UX research methodologies and testing activities in order to analyze and predict user behavior</li>
+<li>Adhering to style standards on typography and graphic design</li>
+</ul>
+<p> </p>
+<div class="h3">Requirements</div>
+<ul>
+<li>Minimum of 2 years UI/UX design experience for digital products or services</li>
+<li>A portfolio of professional UI/UX design work for both web and mobile platforms</li>
+<li>Working knowledge of the following technologies and software: Sketch, InVision, Visio, HTML, CSS (SCSS), iOS, Android, Design Systems, and Adobe Creative Suite</li>
+<li>A team player but can work independently too</li>
+<li>Excellent written and verbal communication skills</li>
+<li>Multi-tasking and time-management skills, with the ability to prioritize tasks</li>
+</ul>
+<div> </div>
+<p> </p>
+<div class="h3">Benefits</div>
+<ul>
+<li>Opportunity to be a part of a dynamic growth focused tech startup</li>
+<li>Great learning opportunities to develop new skills and understanding of cutting edge software tools and processes</li>
+<li>Opportunity to work closely with serial tech entrepreneurs from Silicon Valley</li>
+<li>Fun loving environment and caring team mates and inclusive culture of the company</li>
+</ul>
+<p> </p>
+<div class="h1">Skills</div>
+<p>Minimum of 2 years UI/UX design experience for digital products or services A portfolio of professional UI/UX design work for both web and mobile platforms Working knowledge of the following technologies and software: Sketch, InVision, Visio, HTML, CSS (SCSS), iOS, Android, Design Systems, and Adobe Creative Suite A team player but can work independently too Excellent written and verbal communication skills Multi-tasking and time-management skills, with the ability to prioritize tasks</p>
+<div class="h1">Experience</div>
+<p>1-2 years</p>
+<img src="https://remotive.com/job/track/1400353/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -119,7 +215,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
@@ -194,7 +290,7 @@
                     <code>ui,ux,management,networking</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-ux-ui-designer-1344663" align="right" target="_blank">Apply</a>
