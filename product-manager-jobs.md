@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/commercetools-integrated-offerings-technical-product-manager-core-bundling-fully-remote-f-m" align="right" target="_blank">Apply</a>
@@ -142,7 +142,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/banzai-senior-product-manager-3" align="right" target="_blank">Apply</a>
@@ -215,47 +215,70 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1402418/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Paymentology</h5>
-                    <h3> Product Manager</h3>
+                    <h3>Product Manager</h3>
                 </td>
                 <td width="300">
-                    <code>Product</code>
+                    <code>cloud,marketing,product manager,sales</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/paymentology-product-manager" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/product/product-manager-1402418" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> London - Dubai - Johannesburg
-    <br /><strong>URL:</strong> <a href="https://paymentology.com">https://paymentology.com</a>
-</p>
-
-<div>We are looking for a passionate <strong>Product Manager, </strong>with experience in the payments industry, to help us in our next stage of growth and global expansion.<br><br><strong>WHAT YOU GET TO DO:<br></strong><br>
-</div><div>Product Managers at Paymentology have a wide range of responsibilities which are central to developing the company’s core features. You will help guide the product, operational, strategic, commercial and overall proposition of your ‘owned’ product area. <br><br>
-</div><div>Your focus will be on formalising projects and guiding the Development Team on implementation. You will also concentrate efforts on the other side of the project value-chain by working with Account Management, Sales, Marketing and Support to communicate about your product. As such, the ideal candidate thrives on a multifaceted role that spans the entire lifecycle of a product and is able to wear many hats to see Paymentology’s goals reached in conception, implementation and launch. <br><br>
-</div><div>
-<strong>Evolving our product offering</strong> </div><ul>
+                <div class="h1">Description</div>
+<p>Paymentology is the first truly global issuer-processor, giving banks and fintechs the technology, team and experience to rapidly issue and process Mastercard, Visa and UnionPay cards across more than 50 countries, at scale. </p>
+<p>Our advanced, multi-cloud platform, offering both shared and dedicated processing instances, vast global presence and richer, real-time data, set us apart as the leader in payments.</p>
+<p>We are looking for a passionate <strong>Product Manager, </strong>with experience in the payments industry, to help us in our next stage of growth and global expansion.</p>
+<p><br><br>What you get to do:: </p>
+<p>Product Managers at Paymentology have a wide range of responsibilities which are central to developing the company’s core features. You will help guide the product, operational, strategic, commercial and overall proposition of your ‘owned’ product area. </p>
+<p>Your focus will be on formalising projects and guiding the Development Team on implementation. You will also concentrate efforts on the other side of the project value-chain by working with Account Management, Sales, Marketing and Support to communicate about your product. As such, the ideal candidate thrives on a multifaceted role that spans the entire lifecycle of a product and is able to wear many hats to see Paymentology’s goals reached in conception, implementation and launch. </p>
+<p><strong>Evolving our product offering</strong> </p>
+<ul>
 <li>Craft our product strategy and execution to make sure we are delivering payment products that are simple, fast and reliable </li>
 <li>Communicate a vision for the team for the next 3-12 months and build a roadmap to match that vision </li>
-</ul><div><br></div><div>
-<strong>Managing delivery</strong> </div><ul><li>Work in a small, autonomous, cross-functional team alongside New Business, Design, Engineering, UX Research and Data to decide what we build next and execute on that decision </li></ul><div><br></div><div>
-<strong>Customer interaction</strong> </div><ul><li>Communicate with our customers to more deeply understand the problems that we can address for them </li></ul><div><br></div><div>
-<strong>Stakeholder management</strong> </div><ul>
+</ul>
+<p> </p>
+<p><strong>Managing delivery</strong> </p>
+<ul>
+<li>Work in a small, autonomous, cross-functional team alongside New Business, Design, Engineering, UX Research and Data to decide what we build next and execute on that decision </li>
+</ul>
+<p> </p>
+<p><strong>Customer interaction</strong> </p>
+<ul>
+<li>Communicate with our customers to more deeply understand the problems that we can address for them </li>
+</ul>
+<p> </p>
+<p><strong>Stakeholder management</strong> </p>
+<ul>
 <li>Develop a sufficient understanding of the technical context to help make better, faster decisions </li>
 <li>Work closely with engineers on solutions </li>
-</ul><div><br></div><div> <strong>Research</strong> </div><ul><li>Dig deep on data to understand trends and develop a better picture of the business, the product and our customers </li></ul><div><br></div><div>
-<strong> KPI Reporting</strong> </div><ul><li>Measure and report on the results of your work (creating dashboards, writing SQL queries, etc.) </li></ul><div><br></div><div><strong>What it takes to succeed:</strong></div><ul>
+</ul>
+<p> </p>
+<p> <strong>Research</strong> </p>
+<ul>
+<li>Dig deep on data to understand trends and develop a better picture of the business, the product and our customers </li>
+</ul>
+<p> </p>
+<p><strong>KPI Reporting</strong> </p>
+<ul>
+<li>Measure and report on the results of your work (creating dashboards, writing SQL queries, etc.) </li>
+</ul>
+<p><br><br>What you can look forward to:: </p>
+<p>At Paymentology we value making a difference to the lives of the people who work for us and who live in the communities where we operate. You can look forward to working with a diverse, global team where Paymentologists at all levels play an important part in our global mission to advance the world through payments and make a difference on a global scale. </p>
+<p>#LI-Remote</p>
+<p><br><br>Travel: <br>&lt; 5%</p>
+<div class="h1">Requirements</div>
+<p><strong>What it takes to succeed:</strong></p>
+<ul>
 <li>Experience in payments is crucial for succeeding in this role </li>
 <li>5+ years of experience as a Product Manager, preferably in a start-up environment, with a minimum of 5 years working in the software industry </li>
 <li>Champion for collaborative, iterative product discovery </li>
@@ -267,14 +290,16 @@
 <li>A love for identifying and understanding customer problems </li>
 <li>An empathy for the user and a desire to seek their input at all stages of the product lifecycle </li>
 <li>Experience with micro-service architecture and web application and services development </li>
-</ul><div> <strong>Bonus Points:</strong> </div><ul>
+</ul>
+<p> <strong>Bonus Points:</strong> </p>
+<ul>
 <li>Experience in building and scaling a platform, ideally fintech, traditional financial services or cryptocurrencies </li>
-<li>Strong knowledge of SQL and NoSQL databases  </li>
+<li>Strong knowledge of SQL and NoSQL databases  </li>
 <li>Experience at an organisation that has scaled quickly </li>
-</ul><div><br></div><div>English is our company language, so it is important that you are able to communicate fluently. This is a full-time, remote contractor position and we are looking for candidates across the world. Working flexible hours is essential for our remote team to function. </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/paymentology-product-manager">https://weworkremotely.com/remote-jobs/paymentology-product-manager</a></p>
-
+</ul>
+<p> </p>
+<p>English is our company language, so it is important that you are able to communicate fluently. This is a full-time, remote contractor position and we are looking for candidates across the world. Working flexible hours is essential for our remote team to function. </p>
+<img src="https://remotive.com/job/track/1402418/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -289,7 +314,7 @@
                     <code>ecommerce,education,marketing,product manager</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-b2c-1388899" align="right" target="_blank">Apply</a>
