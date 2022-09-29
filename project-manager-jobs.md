@@ -1,5 +1,53 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/45bafe7dbf2587f7adba21dae8945bbb1664287216.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CampusWorks, Inc.</h5>
+                    <h3>Project Manager Anthology</h3>
+                </td>
+                <td width="300">
+                    <code>architect,dev,design,system,front-end,training,consulting,software,travel,sales,digital nomad,manager,students,ceo,education,finance,management,full-time,part-time</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-project-manager-anthology-campusworks-inc-124401" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                The objective for the project manager is to deliver a project on time, in budget and with the highest quality of deliverables. The project manager will ensure that the project has been planned efficiently, has a clearly defined budget, and exceeds the College's expectations upon delivery.
+
+A CampusWorks Project Manager enjoys a fast-paced work environment with a deep understanding of the College's project and goals upon completion. The project manager will collaborate with teams across CampusWorks and at the College site to deliver high quality service that aligns with the project.
+
+During the engagement, a project manager will be responsible for communication across the College and to the management team at CampusWorks. The project manager will provide oversight to the project and develop a clearly defined project plan that will drive the success of the project.
+
+What You Can Expect from Us
+At CampusWorks, we don't just help our clients succeed; we help our employees succeed. Competitive pay, robust benefits for full-time employees, and professional development opportunities are a few of the many reasons that CampusWorks is a great place to build your career. Our employees enjoy:
+
+
+Meaningful work.Â Our employees often tell us that their work gives them a sense of purpose because it makes a difference in the lives of students and educators.
+A CEO who cares.Â Chairman and CEO Liz Murphy has made it her mission to create a culture that appreciates and takes good care of its people. As a result, being an employee of CampusWorks feels like being a member of a big family.
+A virtual and onsite workplace. In an effort to reduce our environmental footprint, CampusWorks became a virtual company in 2012. As such, our team members are located across the U.S. and Canada, where they work from their home offices and at client sites.
+Flexibility.Â We value work-life balance because we know that happy employees create happy customers. T hat's why CampusWorks offers both full-time and part-time 1099 consulting career opportunities to fit life's unique demands.
+A company that gives back.Â Every year CampusWorks proudly supports numerous charitable fundraising initiatives that align with our vision to make higher education accessible to everyone.
+
+
+There are many things our employees love about working for CampusWorks, but don't take our word for it. Hear what they have to say. Read employee testimonialsÂ»
+
+
+About CampusWorks
+Founded in 1999, CampusWorks is dedicated to helping higher education overcome business and technological challenges that stand in the way of student success and completion. We work with community colleges, technical colleges, four-year public and private institutions, multi-college districts, and statewide higher education systems to tackle problems big and small. Our services are rooted in systems thinking and reach across the institutionâfrom Student Services to Human Resources to Finance to Academicsâto achieve transformative results.
+
+
+AAP/EEO Statement:Â CampusWorks, Inc. provides equal employment opportunities (EEO) and Affirmative Actions (AA) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, genetic information, marital status, amnesty or status as a covered veteran in accordance with applicable federal, state and local laws.<br/><br/>Please mention the word **EXCEEDS** and tag RMzQuMjI2LjI0Ny4zNg== when applying to show you read the job post completely (#RMzQuMjI2LjI0Ny4zNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7394/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +58,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-project-manager-3" align="right" target="_blank">Apply</a>
@@ -73,7 +121,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/findable-digital-marketing-project-manager" align="right" target="_blank">Apply</a>
