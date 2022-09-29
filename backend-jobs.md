@@ -10,7 +10,7 @@
                     <code>design,web3,back-end,python,software,code,qa,cloud,api,management,go,engineer,backend,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-streamflow-123753" align="right" target="_blank">Apply</a>
@@ -59,7 +59,116 @@
 <li align="left"><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Website</a></li>
 <li align="left"><a class="bbcode-link" href="https://app.streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">dApp</a></li>
 <li align="left"><a class="bbcode-link" href="https://twitter.com/streamflow_fi" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
-</ul><br><br/><br/>Please mention the word **CALMING** and tag RMy44Mi4xNy43NQ== when applying to show you read the job post completely (#RMy44Mi4xNy43NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br><br/><br/>Please mention the word **CALMING** and tag RMzQuMjI2LjI0Ny4zNg== when applying to show you read the job post completely (#RMzQuMjI2LjI0Ny4zNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0001/8159/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Drops</h5>
+                    <h3> Senior Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/drops-senior-backend-engineer-4" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0001/8159/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://languagedrops.com">https://languagedrops.com</a>
+</p>
+
+<div>
+<strong>Type: <br></strong><br>
+</div><div>Remote, permanent, full-time position <br><br>
+</div><div>
+<strong>Key Skills:<br></strong><br>
+</div><div>Typescript, Javascript, AWS (Lambda, RDS, S3, Security Measures and Scaling), Deployment &amp; CI/CD Automation, Appstore (iOS &amp; Google Play) experience.<br><br>
+</div><div>
+<strong>Pitch:<br></strong><br>
+</div><div>Do you have a soft spot for profitable companies with a meaningful, globally used and loved product? Would you like to work within a compact, super-capable team in a refreshing work environment? Would you like to work on an application that is changing the way we learn and communicate? Drops could be the place for you.<br><br>
+</div><div>
+<strong>About us:<br></strong><br>
+</div><div>Our goal at Drops is to ensure effective language learning through a delightful, seamless, gamified experience. We strive to be the #1 app for vocabulary learning. Our app has been live on the App Store for 4 years, covering 43 languages, serving over 30 million users across the globe and has been featured on both the App Store (App of the Day) and Play Store (App of the Year in 2018). Drops has also been featured by TechCrunch, FastCo, Forbes, CNN, Bloomberg, VentureBeat and many, many more. In short, we’re a tiny but very powerful team spread (mostly) across Europe, achieving great things the remote way! In December 2020, Drops was acquired by Kahoot!, the world’s leading game-based learning platform<br><br>
+</div><div>Check us out here: <a href="https://languagedrops.com/">https://languagedrops.com<br></a><br>
+</div><div>
+<br><br>
+</div><div>
+<strong>About you:<br></strong><br>
+</div><div>You’ve been working within product companies for a while now and have extensive backend and infrastructure engineering experience. Perhaps you were a key team member that nursed a startup to technical success or you hit the ground running in an already successful growth company. There are bonus points up for grabs for backend/technical lead or principal engineer experience! <br><br>
+</div><div>You’re a no-nonsense individual with senior level experience, comfortable in implementing projects across the backend. Be it feature work or infrastructure tech debt, you’ve got a solid understanding of type safe development, comfortable working with databases, writing serverless business logic and operating in an AWS infrastructure. You enjoy the challenge of solving internal technology hurdles while growing a product with millions of MAU. Scaling is one thing, but taking ownership and delivery of security and standards is another important part of the role.<br><br>
+</div><div>Drops is a deliberately small, but super effective team. You’re naturally drawn to the fate of the products &amp; driven to grow as an engineer rather than to manage people<br><br>
+</div><div>
+<br><br>
+</div><div>
+<strong>The role:<br></strong><br>
+</div><div>You are excited by variety (it’s the spice of life!) - In this role, you’ll be:<br><br>
+</div><ul>
+<li>Developing backend features for an app deployable to both web and app stores </li>
+<li>Building internal infrastructure/tooling within AWS and GCP</li>
+<li>Enhancing platform security</li>
+<li>Keeping our build times down in automation, deploying and testing</li>
+<li>Ensuring our availability is in the 5 9’s category</li>
+</ul><div>You’ll be a core part of the engineering team, working on both our main products (Drops, Droplets, Scripts &amp; Visual Dictionary) and internal development challenges with split work between backend feature development and infrastructure challenges.<br><br>
+</div><div>You will:<br><br>
+</div><ul>
+<li>Support the product team through feature development and bug fixing </li>
+<li>Scaling and enhancing security across infrastructure/ops work</li>
+<li>Work with the CTO on the backend technical roadmap, vision and take responsibility for delivering the improvements</li>
+<li>Communicate effectively with product managers, QA engineers, frontend developers and the marketing team</li>
+<li>Assist in levelling up our engineers through individual talent development pipelines, demos and learning sessions </li>
+<li>Be part of our on-call rota across the engineering team (1 in 5)</li>
+</ul><div><br></div><div>What’d be different here:<br><br>
+</div><ul>
+<li>We’re a small team. We’re optimising for impact, not for headcount. You’ll be carefully considering any tradeoff that would lead to increased complexity</li>
+<li>We have robust coding standards and every pull request needs review and approval before it lands in master. We use the rebase workflow and we release a few times a week</li>
+<li>We’re currently using a single programming language - TypeScript. There are however better placed technology for different jobs which we’d love explore</li>
+<li>Our backend is AWS, deployed multi-region to Lambda and using RDS for our DB. We use Buildkite and Bitrise for our CI</li>
+<li>We’re using react native on the frontend</li>
+<li>We’re using Cognito and Firebase for authentication</li>
+<li>We are BIG on AB testing. We focus on releasing high impact projects and minimise noise</li>
+<li>We’re doing things in a functional way, concentrating state, minimising side effects and making dependencies explicit. We’re sharing 98%+ of the code between Android, iOS and Web</li>
+<li>Our biggest challenge is (and will remain) managing the complexity of sharing a lot of code between different apps</li>
+</ul><div>
+<br><br>
+</div><div>You have:<br><br>
+</div><ul>
+<li>Extensive experience in software/product development within senior roles</li>
+<li>Experience building apps in a functional environment (serverless)</li>
+<li>Experience architecting and developing complex web or mobile apps</li>
+<li>Experience in scaling internal tooling, promoting development best practices and prioritisation (and ensuring delivery) of technical debt</li>
+<li>Project management experience (everyone manages projects at Drops)</li>
+<li>Strong verbal and written communication skills </li>
+<li>Experience working in a product growth environment</li>
+</ul><div>Drops values clear, honest communication and transparency. It’s the linchpin of our culture, success and freedom. You’ll be involved in both high and low level decision making and available during European working hours (10AM - 6PM CET).<br><br>
+</div><div><br></div><div>
+<strong>Benefits</strong>:<br><br>
+</div><ul>
+<li>🌍 All the perks of remote working</li>
+<li>👥 An awesomely compact 25 person team</li>
+<li>🧠 Yearly educational allowance</li>
+<li>💪 Fitness allowance</li>
+<li>💻 High-end Apple hardware and ergonomic accessories</li>
+<li>🏖 36 days of holiday per year</li>
+<li>✈️ Quarterly team gathering somewhere in the world (Amsterdam, Iceland, Lisbon and Budapest were previous locations)</li>
+</ul><div><br></div><div>
+<strong>PS: Hey, this is Bex. I’ll be the one looking at your application. We’re looking for people who want to work for Drops, not just any old company. That’s why I’ll be looking out for short, personal notes instead of copy paste cover letters that tell me what you like about Drops and what you’re hoping working with us would give you. Please add your favourite animal to your application - just to make sure you read right through to the very end of the job description.<br></strong><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/drops-senior-backend-engineer-4">https://weworkremotely.com/remote-jobs/drops-senior-backend-engineer-4</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -74,7 +183,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-node-4" align="right" target="_blank">Apply</a>
@@ -146,7 +255,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
