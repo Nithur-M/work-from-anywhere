@@ -1,5 +1,61 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>XM</h5>
+                    <h3> Front-End UI Web Developers – Cyprus, Greece or Remote</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/xm-front-end-ui-web-developers-cyprus-greece-or-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Limassol
+    <br /><strong>URL:</strong> <a href="https://www.xm.com/careers/sfsd1022">https://www.xm.com/careers/sfsd1022</a>
+</p>
+
+<div>
+<strong>Reference Number: UIWD1022<br></strong><br>
+</div><div>
+<strong>The Role: <br></strong><br>
+</div><div>You will join our dynamic marketing team as a mid-level front-end developer to implement exciting and streamlined user experiences in our web-based applications, interactive landing pages, internal corporate apps, and much more. <br><br>
+</div><div>You will have the chance to expand your knowledge whilst working with some of the latest web technologies, such as Angular, Typescript, and the latest CSS3 and HTML5 specifications. <br><br>
+</div><div>                                                                                                                                    <br><br>
+</div><div>
+<strong>The main responsibilities of the position include:<br></strong><br>
+</div><div>●       Translate requirements and UI designs into functional, engaging, accessible and maintainable front-end code using HTML5, CSS3 and Typescript</div><div>●       Work in close cooperation with UX/UI Designers in implementing visual and interactive client-side elements to the company’s existing and new web applications</div><div>●       Develop and test fully responsive web pages and user-facing features across various devices and web browsers</div><div>●       Ensure the technical feasibility of new UI designs</div><div>●       Closely collaborate with various teams such as Web &amp; Product Designers, stakeholders and business owners</div><div> </div><div> </div><div>
+<strong>Main requirements:<br></strong><br>
+</div><div>●       Degree in multimedia and web development, computer science or any other related field</div><div>●       2-5 years of working experience in a similar role </div><div>●       Strong understanding of HTML5, CSS3, BEM methodology and other modern CSS techniques such as Grid and Flexbox is a must</div><div>●       Experience in front end frameworks / CSS Pre-processors / Angular &amp; TypeScript will be considered an advantage</div><div>●       Work portfolio of personal or previous projects is considered a plus </div><div>●       Familiar with versioning tools such as GIT</div><div>●       Experience with project management / collaboration / issue tracking tools, such as JIRA and Confluence will be considered an advantage</div><div>●       Good understanding of the fundamental principles of design, creative thinker &amp; problem solver</div><div>●       Ability to work with minimal supervision</div><div>●       Proficiency in both written and spoken English</div><div> </div><div> </div><div>
+<strong>Benefit from:<br></strong><br>
+</div><div>●       Attractive remuneration package </div><div>●       Food allowance </div><div>●       Intellectually stimulating work environment</div><div>●       Continuous personal development and international training opportunities</div><div>
+<br> <br><br>
+</div><div>
+<br>Type of employment: Full time<br><br>
+</div><div>
+<br>Location: Cyprus, Greece or Remote<br><br>
+</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position.</div><div> </div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div><div> <br><br>
+</div><div> <br><br>
+</div><div> <br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-front-end-ui-web-developers-cyprus-greece-or-remote">https://weworkremotely.com/remote-jobs/xm-front-end-ui-web-developers-cyprus-greece-or-remote</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/5728/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +66,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-laravel-php-developer" align="right" target="_blank">Apply</a>
@@ -80,7 +136,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-wordpress-developer" align="right" target="_blank">Apply</a>
@@ -137,7 +193,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-react-native-lead-developer" align="right" target="_blank">Apply</a>
@@ -192,7 +248,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-full-stack-developer-cyprus" align="right" target="_blank">Apply</a>
@@ -260,7 +316,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-front-end-developer-web3-remote-1" align="right" target="_blank">Apply</a>
@@ -327,7 +383,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pspdfkit-web-application-platform-developer" align="right" target="_blank">Apply</a>
@@ -368,77 +424,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3> Node + React Developer - Javascript Fullstack</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clevertech-node-react-developer-javascript-fullstack" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
-</p>
-
-<div>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, and provide exceptional opportunities for career growth while working with stellar clients on ambitious projects<br><br>
-</div><div><strong>What we're working on:</strong></div><div>
-<br>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries<br><br>
-</div><div><strong><br>Requirements</strong></div><ul>
-<li>7+ years of professional experience (A technical assessment will be required)</li>
-<li>Senior-level experience in the front-end (React) and back-end (Node, Express, Mongo, SQL)</li>
-<li>Ability to create clean, modern, testable, well-documented code</li>
-<li>English fluency, verbal and written</li>
-<li>Professional, empathic, team player</li>
-<li>Problem solver, proactive, go-getter</li>
-</ul><div>
-<br><strong>Benefits of joining the Clevertech team</strong>
-</div><div>
-<br>We know that people do their best work when they’re taken care of. So we make sure to offer great benefits:<br><br>
-</div><ul>
-<li>Competitive Salaries</li>
-<li>1 Month Paid Time Off For You</li>
-<li>Personal Development Fund</li>
-<li>Tenure-Based Rewards</li>
-<li>Flexible Family Leave</li>
-<li>Clevertech University</li>
-<li>Clevertech Gives Back</li>
-<li>Amazing Culture &amp; Strong Community</li>
-</ul><div>
-<br><strong>Straight from the Devs</strong>
-</div><div>
-<br>Watch short snippets of actual developers (Real, not scripted) share why they joined <a href="https://cleverte.ch/3"><strong>YouTube Playlist<br></strong></a><br>
-</div><div>
-<br><strong>Why Clevertech is an amazing place to work at</strong>
-</div><div>
-<br>At Clevertech, you can expect that you will:<br><br>
-</div><ul>
-<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
-<li>Be a part of a team of talented and friendly senior-level developers</li>
-<li>Work on projects that allow you to use cutting-edge tech. We believe in constantly evolving your mastery</li>
-</ul><div>
-<br>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-node-react-developer-javascript-fullstack">https://weworkremotely.com/remote-jobs/clevertech-node-react-developer-javascript-fullstack</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7343/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -449,7 +434,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tag-media-web-developer-1" align="right" target="_blank">Apply</a>
@@ -517,7 +502,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/stock-buy-as-remote-flutter-developer" align="right" target="_blank">Apply</a>
@@ -570,62 +555,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Chainlink Labs</h5>
-                    <h3> Senior Software Engineer, Developer Experience</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-developer-experience" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> United States
-    <br /><strong>URL:</strong> <a href="https://chainlinklabs.com/careers">https://chainlinklabs.com/careers</a>
-</p>
-
-<div>As a <strong>Senior Software Engineer on the Developer Experience</strong> team, you will help us build the tools and frameworks to support our core workflows in the Chainlink ecosystem. You will work closely with smart contract and node operations teams to ensure they are equipped to efficiently manage Chainlink oracle deployments and smart contracts. You will be given a high level of autonomy/ownership over your projects, the opportunity to expand your scope of knowledge, and the chance to help build the decentralized infrastructure of the future. This includes exposure to a wide variety of blockchains and protocols.</div><div><br></div><div>This is a great role for a senior engineer with <strong>TypeScript or Golang</strong> experience interested in exploring the blockchain and smart contract world and gaining exposure to a wide variety of blockchains and protocols.</div><div><br></div><div>We are distributed across time zones and continents, and we embrace remote work.</div><div><br></div><div>We all have different backgrounds and are determined to help you succeed no matter where you are or who you are. If you think you would do a great job at Chainlink, we are looking forward to speaking with you, even if you don't match 100% of the job requirements: those describe people we've usually had a great time working with, but they're not a tick-box exercise.</div><div><br></div><div>
-<strong><br>Your Impact<br></strong><br>
-</div><ul>
-<li>Own large components of the toolchain that supports all Chainlink Labs infrastructure and smart contract management</li>
-<li>Converge disparate frameworks built to support different blockchains into one unified experience (a highly unique and ambitious undertaking!)</li>
-<li>Work directly with blockchain integrations, engineering operations, and our security teams to ensure they are able to efficiently and securely execute core workflows</li>
-<li>Prepare and support our blockchain SDK for use by the broader Chainlink community, potentially including open source work</li>
-<li>Actively participate in leveling the team’s engineering bar, increasing the velocity of the team and the reliability and security of the product</li>
-<li>Mentor other engineers on the team</li>
-</ul><div>
-<strong><br>Requirements<br></strong><br>
-</div><ul>
-<li>Experience owning multi month long projects, including communication of progress, dependencies, and risk mitigation directly with stakeholders and partners</li>
-<li>Computer science fundamentals and systems design</li>
-<li>Ability to be creative and resourceful when tackling ambiguous technical challenges</li>
-<li>Strong communication skills. You can give and receive constructive feedback, and you do not shy away from planning meetings and code reviews</li>
-</ul><div>
-<strong><br>Desired Qualifications<br></strong><br>
-</div><ul>
-<li>5+ years of professional engineering experience working in a collaborative product-driven environment, including at least some hands-on TypeScript development</li>
-<li>Excitement for blockchain, web3, and similar decentralized technologies</li>
-<li>Experience working with a team located across multiple time zones</li>
-</ul><div><br></div><div><strong>Our Stack</strong></div><div><br></div><div>Core: TypeScript, Golang</div><div>Sometimes: Solidity, Rust</div><div><br></div><div><br></div><div><strong>Our Principles</strong></div><div><br></div><div>At Chainlink Labs, we’re committed to the key operating principles of ownership, focus, and open dialogue. We practice complete ownership, where everyone goes the extra mile to own outcomes into success. We understand that unflinching focus is a superpower and is how we channel our activity into technological achievements for the benefit of our entire ecosystem. We embrace open dialogue and critical feedback to arrive at an accurate and truthful picture of reality that promotes both personal and organizational growth.</div><div><br></div><div><strong>About Chainlink Labs</strong></div><div><br></div><div>Chainlink is the industry standard oracle network for connecting smart contracts to the real world. With Chainlink, developers can build hybrid smart contracts that combine on-chain code with an extensive collection of secure off-chain services powered by Decentralized Oracle Networks. Managed by a global, decentralized community of hundreds of thousands of people, Chainlink is introducing a fairer model for contracts. Its network currently secures billions of dollars in value for smart contracts across the decentralized finance (DeFi), insurance, and gaming ecosystems, among others. The full vision of the Chainlink Network can be found in the <a href="https://research.chain.link/whitepaper-v2.pdf">Chainlink 2.0 whitepaper</a>. Chainlink is trusted by hundreds of organizations—from global enterprises to projects at the forefront of the blockchain economy—to deliver definitive truth via secure, reliable data.  </div><div><br></div><div>This role is location agnostic anywhere in the world, but we ask that you overlap some working hours with Eastern Standard Time (EST).</div><div><br></div><div>We are a fully distributed team and have the tools and benefits to support you in your remote work environment.</div><div><br></div><div><em>Chainlink Labs is an Equal Opportunity Employer.</em></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-developer-experience">https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-developer-experience</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>XM</h5>
                     <h3> iOS Developer – Cyprus, Greece or Remote</h3>
                 </td>
@@ -633,7 +562,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-4" align="right" target="_blank">Apply</a>
@@ -693,7 +622,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
@@ -750,7 +679,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -819,7 +748,7 @@
                     <code>api,CSS,developer,docker</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
@@ -920,7 +849,7 @@
                     <code>AWS,cloud,CSS,developer</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1393221" align="right" target="_blank">Apply</a>
@@ -945,7 +874,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1022,7 +951,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1099,7 +1028,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -1124,7 +1053,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -1149,7 +1078,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -1174,7 +1103,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -1199,7 +1128,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -1224,7 +1153,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -1249,7 +1178,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
