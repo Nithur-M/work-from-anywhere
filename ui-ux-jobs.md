@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/viva-translate-disenador-a-web-ux-senior" align="right" target="_blank">Apply</a>
@@ -94,7 +94,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>217 days ago</text>
+                <text>218 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -145,66 +145,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1400353/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>EnthuZiastic</h5>
-                    <h3>UI/UX Designer</h3>
-                </td>
-                <td width="300">
-                    <code>android,CSS,html,ios</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/design/ui-ux-designer-1400353" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h1">Description</div>
-<p>This is a remote position.</p>
-<ul>
-<li>Investigating user experience design requirements for our suite of digital assets</li>
-<li>Developing and conceptualizing a comprehensive UI/UX design strategy for the brand</li>
-<li>Producing high-quality UX design solutions through wireframes, visual and graphic designs, flow diagrams, storyboards, site maps, and prototypes</li>
-<li>Designing UI elements and tools such as navigation menus, search boxes, tabs, and widgets for our digital assets</li>
-<li>Testing UI elements such as CTAs, banners, page layouts, page designs, page flows, and target links for landing pages</li>
-<li>Collaborating with the marketing team, and internal and external designers to ensure the creation and delivery of tailored experiences for the digital user</li>
-<li>Providing advice and guidance on the implementation of UX research methodologies and testing activities in order to analyze and predict user behavior</li>
-<li>Adhering to style standards on typography and graphic design</li>
-</ul>
-<p> </p>
-<div class="h3">Requirements</div>
-<ul>
-<li>Minimum of 2 years UI/UX design experience for digital products or services</li>
-<li>A portfolio of professional UI/UX design work for both web and mobile platforms</li>
-<li>Working knowledge of the following technologies and software: Sketch, InVision, Visio, HTML, CSS (SCSS), iOS, Android, Design Systems, and Adobe Creative Suite</li>
-<li>A team player but can work independently too</li>
-<li>Excellent written and verbal communication skills</li>
-<li>Multi-tasking and time-management skills, with the ability to prioritize tasks</li>
-</ul>
-<div> </div>
-<p> </p>
-<div class="h3">Benefits</div>
-<ul>
-<li>Opportunity to be a part of a dynamic growth focused tech startup</li>
-<li>Great learning opportunities to develop new skills and understanding of cutting edge software tools and processes</li>
-<li>Opportunity to work closely with serial tech entrepreneurs from Silicon Valley</li>
-<li>Fun loving environment and caring team mates and inclusive culture of the company</li>
-</ul>
-<p> </p>
-<div class="h1">Skills</div>
-<p>Minimum of 2 years UI/UX design experience for digital products or services A portfolio of professional UI/UX design work for both web and mobile platforms Working knowledge of the following technologies and software: Sketch, InVision, Visio, HTML, CSS (SCSS), iOS, Android, Design Systems, and Adobe Creative Suite A team player but can work independently too Excellent written and verbal communication skills Multi-tasking and time-management skills, with the ability to prioritize tasks</p>
-<div class="h1">Experience</div>
-<p>1-2 years</p>
-<img src="https://remotive.com/job/track/1400353/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -215,7 +155,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
@@ -290,7 +230,7 @@
                     <code>ui,ux,management,networking</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-ux-ui-designer-1344663" align="right" target="_blank">Apply</a>
