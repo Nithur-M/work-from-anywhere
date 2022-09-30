@@ -3,8 +3,8 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>XM</h5>
-                    <h3> Front-End UI Web Developers – Cyprus, Greece or Remote</h3>
+                    <h5>PetsApp</h5>
+                    <h3> Backend developer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
@@ -13,7 +13,7 @@
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-front-end-ui-web-developers-cyprus-greece-or-remote" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/listings/petsapp-backend-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -22,162 +22,70 @@
                 
 
 <p>
-  <strong>Headquarters:</strong> Limassol
-    <br /><strong>URL:</strong> <a href="https://www.xm.com/careers/sfsd1022">https://www.xm.com/careers/sfsd1022</a>
+  <strong>Headquarters:</strong> London &amp; remote
+    <br /><strong>URL:</strong> <a href="http://petsapp.com">http://petsapp.com</a>
 </p>
 
-<div>
-<strong>Reference Number: UIWD1022<br></strong><br>
-</div><div>
-<strong>The Role: <br></strong><br>
-</div><div>You will join our dynamic marketing team as a mid-level front-end developer to implement exciting and streamlined user experiences in our web-based applications, interactive landing pages, internal corporate apps, and much more. <br><br>
-</div><div>You will have the chance to expand your knowledge whilst working with some of the latest web technologies, such as Angular, Typescript, and the latest CSS3 and HTML5 specifications. <br><br>
-</div><div>                                                                                                                                    <br><br>
-</div><div>
-<strong>The main responsibilities of the position include:<br></strong><br>
-</div><div>●       Translate requirements and UI designs into functional, engaging, accessible and maintainable front-end code using HTML5, CSS3 and Typescript</div><div>●       Work in close cooperation with UX/UI Designers in implementing visual and interactive client-side elements to the company’s existing and new web applications</div><div>●       Develop and test fully responsive web pages and user-facing features across various devices and web browsers</div><div>●       Ensure the technical feasibility of new UI designs</div><div>●       Closely collaborate with various teams such as Web &amp; Product Designers, stakeholders and business owners</div><div> </div><div> </div><div>
-<strong>Main requirements:<br></strong><br>
-</div><div>●       Degree in multimedia and web development, computer science or any other related field</div><div>●       2-5 years of working experience in a similar role </div><div>●       Strong understanding of HTML5, CSS3, BEM methodology and other modern CSS techniques such as Grid and Flexbox is a must</div><div>●       Experience in front end frameworks / CSS Pre-processors / Angular &amp; TypeScript will be considered an advantage</div><div>●       Work portfolio of personal or previous projects is considered a plus </div><div>●       Familiar with versioning tools such as GIT</div><div>●       Experience with project management / collaboration / issue tracking tools, such as JIRA and Confluence will be considered an advantage</div><div>●       Good understanding of the fundamental principles of design, creative thinker &amp; problem solver</div><div>●       Ability to work with minimal supervision</div><div>●       Proficiency in both written and spoken English</div><div> </div><div> </div><div>
-<strong>Benefit from:<br></strong><br>
-</div><div>●       Attractive remuneration package </div><div>●       Food allowance </div><div>●       Intellectually stimulating work environment</div><div>●       Continuous personal development and international training opportunities</div><div>
-<br> <br><br>
-</div><div>
-<br>Type of employment: Full time<br><br>
-</div><div>
-<br>Location: Cyprus, Greece or Remote<br><br>
-</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position.</div><div> </div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div><div> <br><br>
-</div><div> <br><br>
-</div><div> <br><br>
-</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-front-end-ui-web-developers-cyprus-greece-or-remote">https://weworkremotely.com/remote-jobs/xm-front-end-ui-web-developers-cyprus-greece-or-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/5728/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Create Ape, inc.</h5>
-                    <h3> Laravel PHP Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-laravel-php-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/5728/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Irvine, CA
-    <br /><strong>URL:</strong> <a href="https://createape.com/">https://createape.com/</a>
-</p>
-
-<div>
-<a href="https://createape.com/"><strong>CreateApe</strong></a><strong> Laravel Developer</strong>
-</div><div><br></div><div>This is a fully remote position, not restricted by commutes or a particular geographic area.</div><div>
-<strong>Office hours: Monday through Friday, 9AM - 5PM Pacific Time (PDT UTC-7)</strong>, this position</div><div>requires individuals to be available for meetings and duties during this window. It is a full time, 1099 contract position with accrued PTO and other benefits.</div><div><br></div><div><strong>Who we are:</strong></div><div>Create Ape is a fun and lean creative digital agency offering comprehensive solutions to your</div><div>most pressing problems. With over 20 years in the UX/UI design space, we know how to</div><div>elevate your user’s experience and to translate that into real metrics you can actually see: more</div><div>clients &amp; bigger sales.</div><div><br></div><div>Our passionate experts are leaders in their field, covering everything from digital strategy to</div><div>design &amp; development. Our mission is to provide our clients with unparalleled personalized</div><div>solution-based service. We commit to achieving these custom solutions and implementing them</div><div>with a smile.</div><div><br></div><div>Laravel developers use the Laravel web framework to design and build web applications, services, sites, and tools. Laravel is a PHP-based, MVC architecture that relies on OOP to create websites, databases, forums, and caches. The framework's tools and libraries let Laravel developers quickly develop robust software that is scalable.</div><div><br></div><div>CreateApe is searching for a Laravel developer to build web applications for our company. In this role, you will design and create projects using Laravel framework and PHP, and assist the team in delivering high-quality web applications, services, and tools for our business.</div><div><br></div><div>To ensure success as a Laravel developer you should be adept at utilizing Laravel's Scaffolding and be able to design a PHP application from start to finish. A top-notch Laravel developer will be able to leverage their expertise and experience of the framework to independently produce complete solutions in a short turnaround time.</div><div>
-<strong>Responsibilities:<br></strong><br>
-</div><ul>
+ <strong>Hello, we're PetsApp 👋🐱🐶</strong>  <strong>We’re building the future of pet care</strong> <p>Pet owners use PetsApp to chat with the vet team that they know and trust. They can get advice on any issues their furry friends are having.</p><p>This is what happened since we launched:</p><ul>
+<li><p>$6.5 million in payments</p></li>
+<li><p>500k+ chats and appointments</p></li>
+<li><p><a href="https://apps.apple.com/gb/app/petsapp/id1485414116">17.5k iOS App Store reviews</a></p></li>
+<li><p><a href="https://apps.apple.com/gb/app/petsapp/id1485414116">4.9/5 iOS Rating</a></p></li>
+<li><p>Number 4 rated app in the iOS App Store medical category</p></li>
+</ul><p>To date, we’ve raised over $4m investment too, and our investors are some of the best in Europe. They’ve taken early positions in companies like Contentful, Auth0, Away, Slack, Typeform, Calm and many other well-known, fantastic teams – so we're in good company.</p> <strong>Why you should join us 🤩</strong> <p>You'll be among the first engineers to join our product team. Everything you do will be high impact. Each feature you ship will improve the lives of millions of pets and owners across the globe.</p><p>Our users are super engaged, so as soon as we ship anything it's used by loads of people. Here’s a quick taste of the sort of things we've shipped recently:</p><ul>
+<li><p>Launching a subscription platform to handle millions of pets</p></li>
+<li><p>Building an omnichannel communications platform</p></li>
+<li><p>Architecting and building event driven ETL pipelines</p></li>
+<li><p>Building a smart scheduling and notification service, sending push notifications, SMS and emails</p></li>
+</ul> <strong>What you’ll be working on 🪄</strong> <ul>
+<li><p>Contributing to the development of our user facing product</p></li>
+<li><p>Helping turn product ideas into real life features</p></li>
+<li><p>Building backend infrastructure (APIs, event based systems, databases)</p></li>
+<li><p>Collaborating on projects from conception to completion and iteration</p></li>
+<li><p>Thinking about the way we ship code to production (CI/CD)</p></li>
+<li><p>Learning and growing through collaboration with the more experienced developers on the team</p></li>
+<li><p>Planning the work that the engineering team does</p></li>
+<li><p>Working with other pack members at PetsApp (customer success, marketing, sales)</p></li>
+<li><p>Helping the team continuously improve processes and ways of working</p></li>
+</ul> <strong>This role is great for you if... 🔍</strong> <ul>
+<li><p>You love speaking to users to understand how the product can be improved</p></li>
+<li><p>You <em>need</em> to ship stuff quick, learn about it, then iterate on it</p></li>
+<li><p>You’ve got experience architecting and building <strong>APIs</strong></p></li>
+<li><p>You’ve got experience working with databases in production (we use Postgres &amp; Mysql)</p></li>
+<li><p>You’re well versed in <strong>AWS</strong> and what it has to offer</p></li>
+<li><p>Infrastructure as code is an imperative in your workflow</p></li>
+<li><p>You care about how code is shipped</p></li>
+<li><p>You’ve owned code running in production and you have views about the tools you need to make sure it's running as intended</p></li>
+</ul> This role might not be right for you if… <ul>
+<li><p>You need well crafted tickets written by a product manager to get stuff done</p></li>
+<li><p>You would prefer to perfect a feature than to get it shipped and learn from it</p></li>
+<li><p>Want to work with languages other than Typescript/Node (we’re not in a position to adopt new languages right now)</p></li>
+</ul> <strong>The package 😻</strong> <ul>
 <li>
-<br>Discussing project aims with project managers and development team.</li>
-<li>Designing and building web applications using Laravel.</li>
-<li>Troubleshooting issues in the implementation and debug builds.</li>
-<li>Working with front-end and back-end developers on projects as well as our talented web designers.</li>
-<li>Testing functionality for users and the backend.</li>
-<li>Ensuring that integrations run smoothly.</li>
-<li>Scaling projects based on both internal and client feedback.</li>
-<li>Recording and reporting on work done in Laravel.</li>
-<li>Maintaining web-based applications.</li>
-<li>Presenting work in team meetings with managers and occasionally clients..<br><br>
+<p>🌴 33 day paid holiday a year (including public holidays)</p>
+<ul><li><p>Plus the ability to buy or sell up to 5 days per year</p></li></ul>
 </li>
-</ul><div>
-<strong><br>Requirements:<br></strong><br>
-</div><ul>
 <li>
-<br>Experience working with PHP/OOP and managing APIs.</li>
-<li>A solid understanding of application design using Laravel 7.x (or later), Laravel Cashier.</li>
-<li>Knowledge of database design and querying using mySQL.</li>
-<li>Proficiency in HTML, CSS and JavaScript.</li>
-<li>Practical experience using the MVC architecture.</li>
-<li>A portfolio of applications and programs to your name.</li>
-<li>Problem-solving skills and critical mindset.</li>
-<li>Great communication skills.</li>
-<li>The desire and ability to learn.<br><br>
+<p>Remote-friendly team</p>
+<ul><li><p>You just need to have at least a 4-hour workday overlap with London, UK</p></li></ul>
 </li>
-</ul><div>
-<strong><br>Nice-to-have:<br></strong><br>
-</div><ul><li>
-<br>Laravel Nova and Laravel Livewire experience is a plus.<br><br>
-</li></ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-laravel-php-developer">https://weworkremotely.com/remote-jobs/create-ape-inc-laravel-php-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Create Ape, inc.</h5>
-                    <h3> Wordpress Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-wordpress-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Irvine, CA
-    <br /><strong>URL:</strong> <a href="https://createape.com/">https://createape.com/</a>
-</p>
-
-<div>
-<a href="https://createape.com/jobs/#careers_our_openings"><strong>CreateApe</strong></a><strong> (Senior) Full Stack Wordpress Developer<br><br></strong><br>
-</div><div>This is a fully remote position, not restricted by commutes or a particular geographic area.</div><div>
-<strong>Office hours: 9AM - 5PM Pacific Standard Time</strong> (<strong><em>PST UTC-8</em></strong>), this position requires individuals to be available for meetings and duties <em>at least</em> a six (6) hour block during this window.</div><div><br></div><div><em>Who we are:</em></div><div>CreateApe is a fun and lean creative digital agency offering comprehensive solutions to your most pressing problems.  With over 20 years in the UX/UI design space, we know how to elevate your user’s experience and to translate that into real metrics you can actually see: more clients &amp; bigger sales.</div><div> </div><div>Our passionate experts are leaders in their field, covering everything from digital strategy to design &amp; development.  Our mission is to provide our clients with unparalleled personalized solution-based service.  We commit to achieving these custom solutions and implementing them with a smile.</div><div> </div><div><em>What we are looking for:</em></div><div>We are looking for an outstanding Wordpress Developer to be responsible for the coding and deployment of the websites we design in Figma. Wordpress developer responsibilities include building websites to production from design files, fashioning everything from the home page to site layout and function.</div><div><strong>Responsibilities</strong></div><ul>
-<li>Write testable, efficient code by using best software development practices</li>
-<li>Create website layout/user interface by using standard HTML/CSS practices</li>
-<li>Integrate data from various back-end services and databases</li>
-<li>Gather and refine specifications and requirements based on technical needs</li>
-<li>Create and maintain software documentation</li>
-<li>Be responsible for maintaining, expanding, and scaling websites</li>
-<li>Stay plugged into emerging technologies/industry trends and apply them into operations and activities</li>
-<li>Cooperate with designers to match visual design intent<br><br>
+<li>
+<p>💸 £50-100k salary</p>
+<ul><li><p>This is the value for this role, so even if it’s not what you’re on now, it’s what we’re offering!</p></li></ul>
 </li>
-</ul><div><strong>Requirements</strong></div><ul>
-<li>“Full Stack” Wordpress Developer </li>
-<li>Fluent in English - we all work and communicate in English and you must be comfortable in that language and able to communicate effectively with the team</li>
-<li>Developer with the ability to build a full wordpress site from a design in Figma</li>
-<li>Ability to provide and meet accurate development estimates</li>
-<li>Fluent with HTML, CSS, SASS, Javascript, and PHP</li>
-<li>Proficient with mySQL and advanced knowledge of Wordpress database infrastructure</li>
-<li>Server knowledge including deployment on EC2 in AWS, other wordpress hosting environments, how to increase server memory, diagnose server issues, and use technology such as SSH to log into servers.</li>
-<li>Available to work at least 4 hours during our business hours (8am-5pm PST)</li>
-<li>Willing to start working as a Contractor and have a trial period of up to 60 days</li>
-</ul>
+<li><p>📜 Equity in PetsApp</p></li>
+<li><p>📈 Learning budget</p></li>
+<li><p>👩‍💻 Pick your own tech</p></li>
+<li><p>🥳 Remote first team activities</p></li>
+</ul> <strong>What the interview process looks like 👋</strong> <p>This might vary a little, but here’s an overall idea of what you can expect.</p><ul>
+<li><p>First, there's a 30 minute call with a PetsApp engineer</p></li>
+<li><p>Secondly, a longer call with an engineer and Will, our CTO</p></li>
+<li><p>Finally, an hour talking through our culture with Thom, our CEO</p></li>
+</ul> <strong>Life as part of the pack 🎉</strong> <p>You’ll have noticed we don’t talk about things like your birthday off, or a working-from-home allowance. Really, you’re the best person to tell us how you do your best work, and we want you to be responsible for how you spend your days off and your own money. This is why we have a generous holiday allowance and above market rate salaries.</p><p>When we talk about flexibility, we mean it too. That’s why you’ll see our Slack statuses changing to 🚴 or 🚶 when we’re out cycling in Regents Park or hiking in the Peak District. Sometimes you might even see a 💤 too. Other times you might not see it, but we'll be out picking up our kids from nursery or school, taking the dog for a walk or just sitting down for lunch with the family.</p><p>That doesn't mean we don't come together as a team though. Expect the occasional yoga session, cocktail making event, or movie night. These are just some of the things that our pack likes to do together. If we're not doing something that makes everyone’s experience as good as it could be, we want to hear what else we could be doing!</p><p>At PetsApp, we're building a team of people passionate about pets. People of any gender, race, religion, sexual-orientation or ethnicity are welcome. We’re already doing amazing work together to deliver on our mission of improving the lives of the world's pets. Because we're still pretty small, your voice will have a direct impact on the way we live our values and grow as a company.</p><p>For more about what it’s like being part of the pack, <a href="https://petsapp.com/blog/who-would-want-to-work-here">check out this blog</a> about PetsApp culture, written by Will and Thom.</p>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-wordpress-developer">https://weworkremotely.com/remote-jobs/create-ape-inc-wordpress-developer</a></p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/petsapp-backend-developer">https://weworkremotely.com/remote-jobs/petsapp-backend-developer</a></p>
 
                 </details>
                 </td>
@@ -193,7 +101,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-react-native-lead-developer" align="right" target="_blank">Apply</a>
@@ -248,7 +156,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-full-stack-developer-cyprus" align="right" target="_blank">Apply</a>
@@ -316,7 +224,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-front-end-developer-web3-remote-1" align="right" target="_blank">Apply</a>
@@ -383,7 +291,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pspdfkit-web-application-platform-developer" align="right" target="_blank">Apply</a>
@@ -424,134 +332,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7343/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TAG Media</h5>
-                    <h3> Web Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/tag-media-web-developer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/7343/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> United Kingdom 
-    <br /><strong>URL:</strong> <a href="https://tag.media">https://tag.media</a>
-</p>
-
-<div>TAG Media, a leading iGaming affiliate marketing company, is looking to recruit a full time Web Developer to work on the continuous development and technical management of our award-winning product.<br><br>
-</div><div>Working remotely, the Web Developer will play a central role in the growth of one of our key products.<br><br>
-</div><div>Reporting to the Head of Tech, the successful candidate will work closely with stakeholders to implement updates and features to our existing systems.<br><br>
-</div><div>If you are a self motivated, hard working individual with a background in PHP and WordPress theme development who wants to contribute to a growing business then this role could be for you.<br><br>
-</div><div>Responsibilities:<br><br>
-</div><ul>
-<li>Writing PHP functions to add additional functionality to the First Look Games platform</li>
-<li>Maintaining high-performance and managing all technical aspects of the system</li>
-<li>Ensuring content is kept up to date</li>
-<li>Assisting with support queries from all clients</li>
-<li>Ensuring the smooth running of day to day technical systems</li>
-<li>Implementing front end updates on WordPress sites</li>
-<li>Designing and building new front-end pages</li>
-<li>Writing “clean”, well-designed code</li>
-</ul><div>Requirements</div><ul>
-<li>3+ years experience in PHP programming and WordPress development</li>
-<li>Great knowledge of JavaScript, HTML, CSS, PHP, MySQL</li>
-<li>Experience in common third-party APIs</li>
-<li>Understanding of object-oriented PHP programming</li>
-<li>Analytical skills with high attention to detail</li>
-<li>Strong verbal and written communication skills in English</li>
-<li>Organisational skills with the ability to handle multiple tasks</li>
-<li>Work in a team or own initiative</li>
-<li>Good problem-solving skills</li>
-<li>Knowledge of the Yii and Laravel frameworks would be a plus</li>
-<li>Previous industry experience and affiliate marketing considered a plus</li>
-</ul><div>Benefits:</div><ul>
-<li>20 days paid leave per year plus statutory holidays &amp; 5 mental health days off throughout the year</li>
-<li>Competitive remuneration package</li>
-<li>Home Working allowance</li>
-<li>Well established, friendly remote working environment where you can thrive and develop your skills</li>
-<li>Scope to develop a sales team</li>
-</ul><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tag-media-web-developer-1">https://weworkremotely.com/remote-jobs/tag-media-web-developer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5593/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Stock&Buy AS</h5>
-                    <h3> Remote Flutter Developer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/stock-buy-as-remote-flutter-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/5593/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Oslo - Norway
-    <br /><strong>URL:</strong> <a href="https://www.stockandbuy.com/">https://www.stockandbuy.com/</a>
-</p>
-
-<div>
-<strong>How you’ll make an impact:<br></strong><br>
-</div><div>As a flutter developer, you will work directly with the founding team to build a mobile version of our platform and enable our users to have access from anywhere using their mobile devices.<br><br>Primary areas of responsibility will include designing, building, testing, and deploying the mobile version of our platform on Android and iOS from a single, common codebase. <br><br>
-</div><div>If you always STRIVE to be your best, you’re PASSIONATE, you love to INNOVATE and COLLABORATE, and you have a strong sense of INTEGRITY, you may be ready to put our company values into practice!</div><div>
-<br><br>
-</div><div><strong>What you will do:</strong></div><ul>
-<li>Design, develop and deploy our mobile solutions to Apple App Store and Google Play Store</li>
-<li>Convert UI wireframes and models to code</li>
-<li>Writing clean, readable, and testable code</li>
-<li>Cooperating with back-end developers, designers, and the rest of the team</li>
-</ul><div>
-<br><strong>Qualifications</strong>
-</div><ul>
-<li>
-<strong>3 to 5 Years prior experience</strong> building <strong>Flutter</strong> mobile apps</li>
-<li>Extensive knowledge of mobile app development. From the first line of code to publishing in the store(s)</li>
-<li>Deep knowledge of Android and iOS mobile platforms</li>
-<li>Extensive knowledge in writing high-quality code </li>
-<li>Familiarity with RESTful APIs and mobile libraries for networking</li>
-<li>Familiarity with the JSON format</li>
-<li>Experience with profiling and debugging mobile applications</li>
-<li>Strong knowledge of architectural patterns—MVP, MVC, MVVM, and Clean Architecture—and the ability to choose the best solution for the app</li>
-<li>Understanding mobile app design guidelines on each platform and being aware of their differences</li>
-</ul><div>
-<br><strong>Application:</strong><br>Please send us your CV and a link(s) to prior work or apps you built in the past. <br><br>
-</div><div>
-<br><strong>What's in it for you?<br></strong>·        A clear career growth and succession opportunities across our fast-growing business</div><div>·        Excellent salary package on offer</div><div>·        We are a remote-first company,  you can work flexibly from the comfort of your home. You only need a computer, a desk and a high-speed internet connection.</div><div>·        Exceptionally people-focused culture that values input from all employees</div><div>·        Multicultural environment in a company open to hiring worldwide and customers from all around the world</div><div>·        A supportive leadership team</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/stock-buy-as-remote-flutter-developer">https://weworkremotely.com/remote-jobs/stock-buy-as-remote-flutter-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -562,7 +342,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-4" align="right" target="_blank">Apply</a>
@@ -622,7 +402,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>62 days ago</text>
+                <text>63 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
@@ -679,7 +459,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -748,7 +528,7 @@
                     <code>api,CSS,developer,docker</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
@@ -849,7 +629,7 @@
                     <code>AWS,cloud,CSS,developer</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1393221" align="right" target="_blank">Apply</a>
@@ -874,7 +654,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -941,83 +721,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>A.Team</h5>
-                    <h3>Senior Independent Software Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,go,wordpress,hr</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="text-size-adjust: 100%; overflow-wrap: break-word;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. </p>
-<p style="text-size-adjust: 100%; overflow-wrap: break-word;">After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><em>As part of A·Team, you can expect:</em></span></p>
-<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
-<li><strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li><strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li><strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li><strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li><strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul>
-<p> </p>
-<p> </p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>How to apply:</strong></span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Go here: <a href="https://build.a.team/remotivereferral" rel="nofollow">https://build.a.team/remotivereferral</a> + mention Remotive. </span>No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>What you’ll do:</strong></span></p>
-<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is for:</span></strong></p>
-<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">not</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> for:</span></strong></p>
-<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">People looking for small gigs</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Folks looking to build simple wordpress/wix/squarespace-style websites</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those still early in their careers and recent university/bootcamp grads (at least not yet)</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Our long-term vision:</strong></span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
-<img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1344656/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -1028,7 +731,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -1053,7 +756,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -1078,7 +781,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -1103,7 +806,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -1128,7 +831,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -1153,7 +856,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -1178,7 +881,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
