@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/commercetools-integrated-offerings-technical-product-manager-core-bundling-fully-remote-f-m" align="right" target="_blank">Apply</a>
@@ -132,178 +132,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7239/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Banzai</h5>
-                    <h3> Senior Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/banzai-senior-product-manager-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/7239/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Seattle
-    <br /><strong>URL:</strong> <a href="https://banzai.io">https://banzai.io</a>
-</p>
-
-<div>Hi, we're Banzai!<br><br>
-</div><div>
-<br>Today, marketers have access to more resources and tools than ever before, so why is most marketing so cringe-worthy? Marketing has lost touch with the humans behind the clicks, opens, and form submits, but Banzai wants to change that. That's why our mission is to make marketing more human.<br><br>
-</div><div>
-<br>At Banzai, we think the secret to better marketing is educating, learning from, and building relationships with buyers. This new approach is called Engagement Marketing.<br><br>
-</div><div>
-<br>Banzai is leading the Engagement Marketing movement. Our products reach millions of users every year and help our customers drive more revenue through better events, webinars, content, and data. Best of all, Banzai makes marketing a little more human for all of us.<br><br>
-</div><div>
-<br>Join Banzai to help build a future that puts people at the center of marketing.<br><br>
-</div><div>
-<strong>Role Summary:<br></strong><br>
-</div><ul>
-<li>Understand the business strategy, collaborate with commercial counterparts to identify business opportunities</li>
-<li>Lead ideation &amp; discovery process of products</li>
-<li>Constantly evolve and sharpen the product strategy</li>
-<li>Drive product development with your team of engineers</li>
-<li>Own your product, own the customer, make them click</li>
-</ul><div>
-<strong>Expectations of Role:<br></strong><br>
-</div><ul>
-<li>3+ years experience as a Product Manager</li>
-<li>Experience working with both qualitative insight as well as quantitative data</li>
-<li>Proven track record of going through a full product lifecycle from ideation to post-launch growth</li>
-<li>You’re a self-driven person and will always speak up when you need something</li>
-<li>Knows how to align a cross-functional team around a shared vision</li>
-<li>You eat data for breakfast and process it into insight</li>
-<li>Experience organizing beta groups, hosting customer interviews, and faciliating qualitative feedback with surveys</li>
-</ul><div>
-<strong>What an average day/week looks like:<br></strong><br>
-</div><ul>
-<li>Work closely with stakeholders from all areas of the business to identify potential opportunities</li>
-<li>Identify customer problems without falling in the survivorship bias trap</li>
-<li>Collaborate with UX researchers and designers to quickly identify and iterate over potential solutions</li>
-<li>Prioritize both the opportunities as well as the deliverables in alignment with the product strategy</li>
-<li>Learn something new</li>
-<li>Create something awesome</li>
-</ul><div>
-<strong>Benefits<br></strong><br>
-</div><ul>
-<li>401(k) plan (US based)</li>
-<li>Health, Dental, Vision, Life, and Long-Term Disability insurance (US based)</li>
-<li>Unlimited PTO</li>
-<li>Remote first company</li>
-<li>12 weeks of fully paid parental leave</li>
-<li>2 paid mental health days every quarter, plus one full week of paid mental health rest every year</li>
-<li>Working with a truly mission-driven team motivated by excellence</li>
-<li>Real room for growth in professional and personal development</li>
-<li>Clear objectives, direction and empowerment from executive leadership</li>
-</ul><div> <br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/banzai-senior-product-manager-3">https://weworkremotely.com/remote-jobs/banzai-senior-product-manager-3</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1402418/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Paymentology</h5>
-                    <h3>Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>cloud,marketing,product manager,sales</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-manager-1402418" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h1">Description</div>
-<p>Paymentology is the first truly global issuer-processor, giving banks and fintechs the technology, team and experience to rapidly issue and process Mastercard, Visa and UnionPay cards across more than 50 countries, at scale. </p>
-<p>Our advanced, multi-cloud platform, offering both shared and dedicated processing instances, vast global presence and richer, real-time data, set us apart as the leader in payments.</p>
-<p>We are looking for a passionate <strong>Product Manager, </strong>with experience in the payments industry, to help us in our next stage of growth and global expansion.</p>
-<p><br><br>What you get to do:: </p>
-<p>Product Managers at Paymentology have a wide range of responsibilities which are central to developing the company’s core features. You will help guide the product, operational, strategic, commercial and overall proposition of your ‘owned’ product area. </p>
-<p>Your focus will be on formalising projects and guiding the Development Team on implementation. You will also concentrate efforts on the other side of the project value-chain by working with Account Management, Sales, Marketing and Support to communicate about your product. As such, the ideal candidate thrives on a multifaceted role that spans the entire lifecycle of a product and is able to wear many hats to see Paymentology’s goals reached in conception, implementation and launch. </p>
-<p><strong>Evolving our product offering</strong> </p>
-<ul>
-<li>Craft our product strategy and execution to make sure we are delivering payment products that are simple, fast and reliable </li>
-<li>Communicate a vision for the team for the next 3-12 months and build a roadmap to match that vision </li>
-</ul>
-<p> </p>
-<p><strong>Managing delivery</strong> </p>
-<ul>
-<li>Work in a small, autonomous, cross-functional team alongside New Business, Design, Engineering, UX Research and Data to decide what we build next and execute on that decision </li>
-</ul>
-<p> </p>
-<p><strong>Customer interaction</strong> </p>
-<ul>
-<li>Communicate with our customers to more deeply understand the problems that we can address for them </li>
-</ul>
-<p> </p>
-<p><strong>Stakeholder management</strong> </p>
-<ul>
-<li>Develop a sufficient understanding of the technical context to help make better, faster decisions </li>
-<li>Work closely with engineers on solutions </li>
-</ul>
-<p> </p>
-<p> <strong>Research</strong> </p>
-<ul>
-<li>Dig deep on data to understand trends and develop a better picture of the business, the product and our customers </li>
-</ul>
-<p> </p>
-<p><strong>KPI Reporting</strong> </p>
-<ul>
-<li>Measure and report on the results of your work (creating dashboards, writing SQL queries, etc.) </li>
-</ul>
-<p><br><br>What you can look forward to:: </p>
-<p>At Paymentology we value making a difference to the lives of the people who work for us and who live in the communities where we operate. You can look forward to working with a diverse, global team where Paymentologists at all levels play an important part in our global mission to advance the world through payments and make a difference on a global scale. </p>
-<p>#LI-Remote</p>
-<p><br><br>Travel: <br>&lt; 5%</p>
-<div class="h1">Requirements</div>
-<p><strong>What it takes to succeed:</strong></p>
-<ul>
-<li>Experience in payments is crucial for succeeding in this role </li>
-<li>5+ years of experience as a Product Manager, preferably in a start-up environment, with a minimum of 5 years working in the software industry </li>
-<li>Champion for collaborative, iterative product discovery </li>
-<li>Embracing your role as a member of a cross-disciplinary team </li>
-<li>Previous exposure to lightweight product development methods, such as user story mapping or rapid prototyping </li>
-<li>Curiosity about new technology </li>
-<li>A strong desire to learn </li>
-<li>A degree of technical fluency that allows you to communicate with, and understand, your target audience (developers) </li>
-<li>A love for identifying and understanding customer problems </li>
-<li>An empathy for the user and a desire to seek their input at all stages of the product lifecycle </li>
-<li>Experience with micro-service architecture and web application and services development </li>
-</ul>
-<p> <strong>Bonus Points:</strong> </p>
-<ul>
-<li>Experience in building and scaling a platform, ideally fintech, traditional financial services or cryptocurrencies </li>
-<li>Strong knowledge of SQL and NoSQL databases  </li>
-<li>Experience at an organisation that has scaled quickly </li>
-</ul>
-<p> </p>
-<p>English is our company language, so it is important that you are able to communicate fluently. This is a full-time, remote contractor position and we are looking for candidates across the world. Working flexible hours is essential for our remote team to function. </p>
-<img src="https://remotive.com/job/track/1402418/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1388899/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -314,7 +142,7 @@
                     <code>ecommerce,education,marketing,product manager</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-b2c-1388899" align="right" target="_blank">Apply</a>
