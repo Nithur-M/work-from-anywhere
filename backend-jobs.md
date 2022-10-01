@@ -1,137 +1,99 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/8d9330fcb04bcf7b0456e34baaabb9921664176521.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/b35170da07e96dabbdac488f467b86211664522168.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Streamflow</h5>
-                    <h3>Backend Engineer</h3>
+                    <h5>AxiomZen</h5>
+                    <h3>Senior Backend Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>design,web3,back-end,python,software,code,qa,cloud,api,management,go,engineer,backend,full-time,digital nomad</code>
+                    <code>web3,software,testing,api,senior,engineer,backend</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-streamflow-123753" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-axiomzen-125814" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <h3><b>The Company</b></h3><br><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Streamflow</a> helps web3 organizations distribute tokens efficiently and effectively.<br>We leverage our token streaming protocol to provide a suite of tools every Solana organization can use to manage and stream tokens.<p></p><h3><b>Why You Should Join Us</b></h3><br>Streamflow is built on the <a class="bbcode-link" href="https://www.notion.so/Values-public-536b816989aa4ee7b1923d112c84763e" target="_blank" rel="noopener noreferrer nofollow">Values (public)</a> that we share publicly. We look to uphold these qualities in our day-to-day and look for these qualities in candidates who apply.<br>Our work culture is fast-moving, engaging, and ambitious. We passionately believe in the value that our protocol can unlock for the world and weâre looking to work with mission-driven people who are ready to jump on board with us, roll up their sleeves, and get stuck into it. We believe in selfless sharing of knowledge, transparency, and insight into all aspects of the business and personal initiative.<br>We are a remote-first, office-optional team that prioritizes high-quality written communication and the possibility of working asynchronously across timezones because we believe that the best talent exists on every corner of the earth.<br>We are developing quite literally on bleeding edge technology on the highest performant blockchain, Solana.<br>We offer above-market salaries and discuss specific figures early on in the hiring process.<p></p><h3><b>Weâre seeking</b></h3><br>We're looking for a full-time <b>Back-end Engineer</b> to improve and build our applications with a focus on API design and implementation, but also making sure our <b>infrastructure</b> works and is implemented with maintenance in mind.<br>If you:<br><ul>
-<li align="left">able to work with at least 4h overlap with European timezones</li>
-<li align="left">have 5+ years of professional experience working as a software engineer</li>
-<li align="left">have been part of start-ups or scale-ups before as a full-time team member</li>
-<li align="left">have hands-on experience with AWS or alternative cloud providers and their products for modern infrastructure management (Docker, orchestration services, CI/CD, Terraform)</li>
-<li align="left">built production-ready servers before from the grounds up</li>
-<li align="left">have a nose for smelling problems before they happen</li>
-</ul>â¦then we should talk. ð<br>It will be a perfect fit if you love:<br><ul>
-<li align="left">Developing</li>
-<li align="left">Learning (and do it fast)</li>
-<li align="left">Going outside your comfort zone</li>
-<li align="left">Doing what is best for the business</li>
-<li align="left">Participating in the construction of processes and organizations from an early stage</li>
-<li align="left">Autonomy and responsibility</li>
-<li align="left">Very ambitious projects</li>
-</ul><br><h3><b>Bonus points</b></h3><br>If you:<br><ul>
-<li align="left">Have experience with Python API development (Django, flask, or related skills)</li>
-<li align="left">Have a diverse set of skills and be ready to put them to use to build production-ready systems</li>
-<li align="left">Love Linux, Cloud providers and their products</li>
-<li align="left">Interested in building blockchain-related products</li>
-</ul>youâre very likely to succeed in this role.<p></p><h3><b>Responsibilities</b></h3><br><ul>
-<li align="left">Design, develop and maintain server-side code and infrastructure using one of the server-side languages (Rust, Python, Go or JVM languages) and Cloud products</li>
-<li align="left">Work with product to rapidly build experimental products, deploy them and track performance and gather feedback</li>
-<li align="left">Take ownership of key pieces of Streamflowâs infrastructure and back-end code and steer them in the right direction</li>
-<li align="left">Serve as the technical authority for a domain and tech stack best practices in API and Infrastructure</li>
-</ul><br><h3><b>Examples of near-term responsibilities</b></h3><br><ul>
-<li align="left">Backend API infrastructure (maintenance + new development)</li>
-<ul>
-<li align="left">Automatic token transfers</li>
-<li align="left">Authentication</li>
-<li align="left">User resources</li>
-<li align="left">Dashboard support</li>
-<li align="left">Internal analytics</li>
-</ul>
-<li align="left">CI/CD pipelines (including QA flow)</li>
-<li align="left">AWS provisioning CI integration - Terraform, CD</li>
-</ul><br><h3><b>Compensation:</b></h3><br>Salary is negotiable based on previous experience and crypto-native exposure.<p></p><h3>Links:</h3><br><ul>
-<li align="left"><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Website</a></li>
-<li align="left"><a class="bbcode-link" href="https://app.streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">dApp</a></li>
-<li align="left"><a class="bbcode-link" href="https://twitter.com/streamflow_fi" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
-</ul><br><br/><br/>Please mention the word **CALMING** and tag RMTguMjEyLjIyOS4yNTE= when applying to show you read the job post completely (#RMTguMjEyLjIyOS4yNTE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <div>Weâre looking for a Senior Backend Engineer who wants to design, build and own a next-generation custodial & non-custodial wallet for web3. You will join Dapper Platform ****with the mission to make web3 accessible and onboard ONE BILLION users to the Flow blockchain.</div><div>You can expect to bring to life the next generation web3 user experience. You have an opportunity to work on different aspects of a wallet - accounts, custody, fraud, and payments - alongside what will be one of the best, if not the best, team youâve been a part of.</div><div>Every member of our team shares a common vision: to create the future we want to live in. We need the right people to help us realize that vision.</div><p>What weâll accomplish together:</p><p></p><li>Make every user interaction with our product a delightful and polished experience.</li><li>Contribute to the ideation, technical design, implementation, and testing of product features.</li><li>Improve technical skills and share knowledge with the rest of the team.</li><li>Adopt best practices in software development and refine our workflow.</li><li>Ship features with the users in mind and strive to provide them with a great experience.</li><li>Identify areas where our technical stack can be improved, prioritize them with the team, and contribute to their implementation.</li><p>A little about you:</p><p></p><li>Familiar with our commonly used technology choices (Golang, Node, Javascript)</li><li>Understands the deployment process, and is comfortable with Docker, containers, and Kubernetes</li><li>Familiarity with event-driven architectures, Kafka, and comfortable with eventual consistency</li><li>Has a strong understanding of the application and API security</li><p></p><div><br></div><div><br></div><div><b>More about Dapper Labs:</b></div><div><br></div><div>Dapper Labs is the world's first blockchain entertainment company. We are the creators of industry-leading experiences including CryptoKitties and NBA Top Shot, as well as Dapper Wallet â the simplest way to manage your assets and use the blockchain. We are also the original developers behind Flow, a new decentralized blockchain designed from the ground up for scalability and ease of use.</div><div><br></div><div>Our mission at Dapper Labs is to make the world a more accessible and enjoyable place through consumer adoption of decentralized technologies.</div><div><br></div><div>We have raised over $600M from leading and notable investors including Andreessen Horowitz, Coatue, Union Square Ventures, Venrock, Google Ventures (GV), Samsung, and the founders of Dreamworks, Reddit, Coinbase, Zynga, and AngelList, among others. Dapper Labsâ current studio partners include the NBA and NBPA, the NFL-PA, Ubisoft, Warner Music, Turner, Dr. Seuss, Genies, and the UFC, as well as 100+ others.</div><div><br></div><div>Visit our website to learn even more about Dapper Labs, including <a href="https://www.dapperlabs.com/careers#benefits" class="postings-link" rel="noopener noreferrer nofollow">information about benefits and perks</a>.</div><div><br></div><div><span style="font-size:10px;">#LIremote</span></div><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/Vvp75OCtwa0" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **FAVOUR** and tag RMy4yMzYuODAuMTQy when applying to show you read the job post completely (#RMy4yMzYuODAuMTQy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/c04899a9ff0b55ec14084ce8e8cae0681664522199.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3> Senior Backend Engineer - Node </h3>
+                    <h5>Upvest</h5>
+                    <h3>Backend Engineer Corporate Actions</h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>founder,financial,investment,fintech,postgresql,api,reliability,go,engineer,backend</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-node-4" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-corporate-actions-upvest-125839" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
-</p>
-
-<div>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects<br><br>
-</div><div><strong>What we're working on:</strong></div><div>
-<br>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries<br><br>
-</div><div><strong><br>Requirements</strong></div><ul>
-<li>7+ years of professional experience (A technical assessment will be required)</li>
-<li>Senior-level experience with Javascript, NodeJS, Express, Mongo</li>
-<li>Ability to create clean, modern, testable, well-documented code</li>
-<li>Serverless experience with AWS lambda or Azure functions</li>
-<li>English fluency, verbal and written</li>
-<li>Professional, empathic, team player</li>
-<li>Problem solver, proactive, go-getter</li>
-</ul><div>
-<br><strong>Benefits of joining the Clevertech team</strong>
-</div><div>
-<br>We know that people do their best work when they’re taken care of. So we make sure to offer great benefits:<br><br>
-</div><ul>
-<li>Competitive Salaries</li>
-<li>1 Month Paid Time Off For You</li>
-<li>Personal Development Fund</li>
-<li>Tenure-Based Rewards</li>
-<li>Flexible Family Leave</li>
-<li>Clevertech University</li>
-<li>Clevertech Gives Back</li>
-<li>Amazing Culture &amp; Strong Community</li>
-</ul><div><br></div><div>
-<br><strong>Straight from the Devs</strong>
-</div><div>
-<br>Watch short snippets of actual developers (Real, not scripted) share why they joined <a href="https://cleverte.ch/3"><strong>YouTube Playlist<br></strong></a><br>
-</div><div>
-<br><strong>Why Clevertech is an amazing place to work at</strong>
-</div><div>
-<br>At Clevertech, you can expect that you will:<br><br>
-</div><ul>
-<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
-<li>Be a part of a team of talented and friendly senior-level developers</li>
-<li>Work on projects that allow you to use cutting-edge tech. We believe in constantly evolving your mastery</li>
-</ul><div>
-<br>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.<br><br>
-</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-node-4">https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-node-4</a></p>
-
+                <p>Weâre looking for fintech enthusiasts to join us in creating the financial infrastructure of tomorrow. Weâre building the first European Investment API to enable any financial institution to offer a broad range of investment products in their apps. Our view is backed by Europe's largest tech VCs (Earlybird, Notion Capital, Partech, HV Capital, ABN AMRO Ventures) by renowned fintech entrepreneurs (including <a target="_blank" href="https://www.linkedin.com/in/ACoAAA5D6LAB1cJ1GBRZ8whwsc6ZI78kDf1Ulx0" rel="noopener noreferrer nofollow">Maximilian Tayenthal</a>, founder of N26, and <a target="_blank" href="https://www.linkedin.com/in/ACoAAAAAH8AB8C9RXofd6q-Ux6PSMs23ahwpU8U" rel="noopener noreferrer nofollow">Felix Haas</a>, founder of IDnow) and Bessemer Venture Partners in the USA.<br></p><p>Weâre based in Berlin but would consider <strong>hiring</strong> <strong>remotely</strong> for this role. If you do want to move to Berlin though, weâre happy to support your relocation.</p><p>At Upvest, our vision is <strong>to make investing as easy as spending money</strong>. By enabling any business to offer investment opportunities, our goal is to empower anyone to invest. Today, we count 100+ talented people from 20 different countries.<br></p><p><strong>Your mission:</strong></p><p>We are seeking a backend engineer with a product mindset. Your tasks include everything from working together with the team to find out the best ways to solve the problem at hand to implementing and developing the functionality further.<br></p><p><strong>Team's mission</strong></p><p>Corporate actions, such as dividends, stocks splits and mergers, are one of the key elements of the investments. The Corporate Actions team owns (you guessed it!) the corporate actions domain, and is responsible for building and maintaining the relevant functions. As the product is growing a lot, the team needs to prioritise what to build next, while keeping the functionalities extendable.Â </p><p><strong>This role will give you the opportunity to:</strong></p><ul>
+<li><p>Designing and building fault-tolerant, horizontally scalable systems using Microservice architecture powered by Docker, Kubernetes, LinkerD service mesh, and Kong as a Gateway</p></li>
+<li><p>Building event-driven applications using Kafka</p></li>
+<li><p>Working on different aspects of our API-product portfolio</p></li>
+<li><p>Developing data processing and storing mechanisms</p></li>
+<li><p>Working on improving the reliability of our API tools, as well as developing innovative new tools</p></li>
+<li><p>Working with an agile methodology with flexible processes</p></li>
+<li><p>Working with cutting edge technologies (Go is the primary language) without legacy codebase</p></li>
+<li><p>Learn what it is like to work in a growing FinTech startup, and gain understanding of the corporate actions domain</p></li>
+</ul><p><strong>What youâll bring:</strong></p><ul>
+<li><p>Prior experience with distributed systems</p></li>
+<li><p>Experience in Go (or willingness to make Go your day-to-day language)</p></li>
+<li><p>Fluency with SQL databases such as PostgreSQL (transaction isolation, performance optimization)</p></li>
+</ul><ul>
+<li><p>Fluency with event-driven architecture and concurrent algorithms</p></li>
+<li><p>Being proactive in learning new stacks and having a high sense of ownership</p></li>
+</ul><p><strong>Itâs nice if you have:</strong></p><ul>
+<li><p>Experience with Investment products or Fintech domain in general is a big plus</p></li>
+<li><p>Experience in event-driven architectures, event streaming and event sourcing systems.</p></li>
+<li><p>Experience with Docker, k8s, understanding principles of a service mesh</p></li>
+<li><p>Experience with Monitoring and Tracing using Datadog or other modern observability tools</p></li>
+</ul><ul></ul><p><strong>Why Upvest?</strong></p><ul> <li>We're working on solving a hard problem: fixing the European securities financial infrastructure that empowers more people to be able to invest. You have the opportunity to contribute to this change.</li> <li>We invest in you. From access to a personal coach, development budget and plenty of opportunities to grow in your role.</li> <li>We take hiring seriously with a strong focus on keeping a high bar when interviewing (equally important is that we hire decent people, who are passionate about their craft and helping us achieve our shared mission).</li> <li>While we're not quite fully-remote, we are committed to being a flexible employer, as we understand you don't have to be in the office to do your best work.</li> <li>We live a culture of empowerment, trust (that we hire the best people and get out of their way) and openness (there's a greater advantage in sharing information than keeping it to ourselves).</li> </ul><p><strong>Our values:</strong><br></p><ul> <li> <strong>Learn and grow. </strong>We aim high to shape our future. We give and request honest feedback knowing that we develop together. Progression over Perfection.</li> <li> <strong>Team first. </strong>We make it easy for others. We value our differences and are open to others' opinions. We win and celebrate together! Team over Egos.</li> <li> <strong>Own the outcome. </strong>Whether we win or we lose, we stand together. We are proactive and get the job done. Outcome over Process.</li> <li> <strong>Tell the story. </strong>We always start with the <em>why</em>. We share knowledge to empower others. Transparency over Complexity.</li> </ul><br/><br/>Please mention the word **SNAZZY** and tag RMy4yMzYuODAuMTQy when applying to show you read the job post completely (#RMy4yMzYuODAuMTQy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/3334c034f94baf8e58efec2365f609541664522157.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Swish</h5>
+                    <h3>Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>design,frontend,software,web,css,mobile,lead,analytics,engineer,engineering,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-swish-125805" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><span style="font-size:12pt;">The Engineering team at Swish is looking for talented Backend Engineers to create fast, scalable server infrastructures with a focus on the best possible user experiences. You will work closely with a talented team of designers, engineers, and product managers who design, implement and ship mission-critical features. You have prior experience developing high quality backend architecture and are excited about doing that at a company that is transforming the way enterprises run their businesses with a tech-focused, mobile-first mindset. You want to have productive technical discussions with a bias towards analytics and user feedback and contribute to the continuous improvement of our web and mobile experiences.</span></div><div><br></div><div><span style="font-size:12pt;">We are looking for individuals who are passionate about the latest technologies and can lead the design and development of scalable applications. A successful candidate will bring deep analytical ability, software engineering expertise, and the ability to deliver results within a fast-moving, agile environment.</span></div><div><br></div><div><b style="font-size:18px;">Our Stack</b></div><div><br></div><div><span style="font-size:12pt;">â¢ Frontend: React, Redux, ES6, ESLint, CSS Modules, Sass, Babel, Webpack, Flow, Jest</span></div><div><span style="font-size:12pt;">â¢ Backend: Node</span></div><div><span style="font-size:12pt;">â¢ Framework: Express, Next, Meteor</span></div><div><span style="font-size:12pt;">â¢ Datastore: MongoDB, Redis</span></div><div><span style="font-size:12pt;">â¢ Container: Docker</span></div><div><span style="font-size:12pt;">â¢ Hosting: AWS, Heroku</span></div><div><br></div><div><b style="font-size:18px;">A Typical Week</b></div><div><br></div><div><span style="font-size:12pt;">â¢ You'll brainstorm with product managers and designers to conceptualize new features.</span></div><div>â¢ <span style="font-size:12pt;">You'll collaborate with frontend engineers to build new features for a client.</span>
+</div><div><span style="font-size:12pt;">â¢ You'll learn about new technologies and discuss potential solutions to problems.</span></div><div><span style="font-size:12pt;">â¢ You'll help our skilled support team triage bugs and troubleshoot production issues.</span></div><div><span style="font-size:12pt;">â¢ You'll mentor other engineers and deeply review code.</span></div><div><br></div><div><b style="font-size:18px;">Requirements</b></div><div><br></div><div><span style="font-size:12pt;">You'll be tasked with developing server infrastructures and applying them at scale to our projects. We look for the following attributes in candidates:</span></div><div><br></div><div><span style="font-size:12pt;">â¢ Strong communication skills.</span></div><div><span style="font-size:12pt;">â¢ Work across disciplines with team members from frontend, backend, design, and product.</span></div><div><span style="font-size:12pt;">â¢ Actively participate in product decisions and improve our development workflow.</span></div><div><span style="font-size:12pt;">â¢ 3+ years of relevant work experience building production server infrastructures, ideally using our stack.Experience with measuring and improving server response times in different conditions and environments.</span></div><div><span style="font-size:12pt;">â¢ Experience with unit and integration testing, continuous integration and deployment workflows.</span></div><div><span style="font-size:12pt;">â¢ Experience with developing REST APIs and integrating third-party APIs.</span></div><div><br></div><div><span style="font-size:12pt;">In all cases, you should be motivated by a desire to solve the most important problems and obtain unprecedented results and eager to push your methods to their maximal performance.</span></div><div><br></div><div><b style="font-size:18px;">Bonus Points</b></div><div><br></div><div><span style="font-size:12pt;">â¢ Degree in STEM field, especially software engineering or computer science related.</span></div><div><span style="font-size:12pt;">â¢ Interested in emerging technology such as machine learning and blockchain.</span></div><div><span style="font-size:12pt;">â¢ Track record of migrating legacy infrastructure to modern stacks.</span></div><div><span style="font-size:12pt;">â¢ Experience in small startÂ­up environments helping large enterprises.</span></div><div><span style="font-size:12pt;">â¢ Experience working with a team, especially a distributed team.</span></div><div><br></div><div><b style="font-size:18px;">About Swish </b></div><div><br></div><div>
+<span style="font-size:12pt;">Launched in February 2013, </span><b style="font-size:12pt;"><a href="http://www.swishlabs.com/" class="postings-link" rel="noopener noreferrer nofollow">Swish</a></b><span style="font-size:12pt;"> is a fast-growing business with an innovative working culture and teams spanned across the world with teams in Toronto, San Francisco, Berlin, Auckland, Bruxelles, Medellin, and more. </span>
+</div><div><br></div><div><span style="font-size:12pt;">We create products for successful business using cutting-edge technologies: Blockchain, Machine Learning, and Apps Dev. Working with Swish puts you in contact with prestigious brands, wherever your base is. We are a 100% remote-work company because we believe it is everyoneâs choice to live and work the way they prefer.</span></div><div><br></div><div><span style="font-size:12pt;">Work is organized in sprints Â - 2 weeks periods to which, as a member of our talent community, you choose to commit. You always have the choice to accept or decline a sprint, or take-on multiple sprints simultaneously. </span></div><div><br></div><div><span style="font-size:12pt;">We let members choose what suits them best depending on their current situation: family, travel, studies, finance. We know life is not linear and we respect the humans behind the screens. </span></div><div><br></div><div>
+<span style="font-size:12pt;">Our work ethic relies on six core values: Transparency, Directness, Meritocracy, Autonomy, Responsibility, </span><span style="font-size:16px;">Continuous</span><span style="font-size:12pt;"> Learning.</span>
+</div><div><br></div><div><span style="font-size:12pt;">Ensuring a diverse and inclusive workplace where we learn from each other is core to our values. We welcome people of different backgrounds, experiences, abilities, and perspectives. We are an equal opportunity employer and a fun place to work. </span></div><div><br></div><div><span style="font-size:12pt;">Join the future of work today.</span></div><div><br></div><br/><br/>Please mention the word **TRENDY** and tag RMy4yMzYuODAuMTQy when applying to show you read the job post completely (#RMy4yMzYuODAuMTQy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -146,7 +108,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
