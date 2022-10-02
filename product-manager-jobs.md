@@ -10,7 +10,7 @@
                     <code>defi,manager,design,web3,full-stack,software,test,growth,ux,financial,education,leader,management,engineering,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-defi-product-manager-acala-125834" align="right" target="_blank">Apply</a>
@@ -26,7 +26,7 @@
 <b>You wonât be alone.</b> Youâll be brainstorming blockchain possibilities in a team with <a href="http://linkedin.com/in/lawrencelaw/" class="postings-link" rel="noopener noreferrer nofollow">Lawrence</a> & <a href="https://nz.linkedin.com/in/alnech19" class="postings-link" rel="noopener noreferrer nofollow">Alex</a>, as well as the Acala founders and our Engineering Team of 20+. But you'll need to balance data-driven decisions with the technical demands of an Engineering liaison, while keeping an eye on ever-changing User Experience requirements and igniting ad-hoc UX projects as you see fit.</div><div><br></div><div>
 <b>Our ideal candidate</b> will be an advanced DeFi user and an experienced web-based Product Manager who has already spent some time working on blockchain applications, whether commercially successful or not. At minimum we need a code-fluent Product Manager with a mature interest in decentralised applications and the general concept behind blockchain applications.</div><div><br></div><div><b>Full Time | Contract | Competitive Salary | Remote APAC</b></div><h4>What you'll do</h4><b>Roadmap; </b>define & own Product goals with Acalaâs founders<b>User Research; </b>design & execute with our User Ops team<b>Software Requirements;</b> from tech specs to test cases<b>Dev Liaison</b>; steer workflows & wireframes with our Engineering team<b>Launch plans;</b> co-ordinate with our Community & Growth team<b>UI Enhancements; </b>workshops with our Design Team<b>External</b>; Occasional ad-hoc projects with other ecosystem teams<h4>What it takes</h4>Commercial Software Product Management experience, 3 years minimumPassion for working with innovative Software Developers [<i>&lt;-- 50% of the job</i>]Expert level knowledge of DeFi use cases, DAOs, LP/MM dynamics, etcA Demonstrable methodology for increasing efficiency across teamsSoftware Engineering background beneficial; you will regularly evaluate the technological strengths and weakness of 3rd party solutionsAlignment with our core values: Empowerment, Support & Community <h4>What we offer</h4>Competitive contract-based compensation (you'll have to invoice us from wherever you are)Flexible working hours within Pacific timezonesCollaborative, transparent and empowering work cultureMeaningful work on creating better technologies for a fairer futureOpportunity to work in a multinational, high-performance team with diverse backgrounds<div>
 <b>NB:</b> For the <i>fastest</i> response to any of our positions, apply directly on our website: <a href="http://acala.network/jobs" class="postings-link" rel="noopener noreferrer nofollow">acala.network/jobs</a>. For more information on this position, our employment conditions, or anything related to working for Acala, get in touch with our Talent Manager: simon@acala.network</div><div><br></div><div><br></div><div><b style="font-size:18px;">Our Team</b></div><div>With approximately 50 full-time team members working across 8 different countries, our team is truly decentralised. Weâre some of the leading blockchain innovators, Substrate & Rust engineers, full-stack dApp developers, & Economist Analysts. But we're just people like you, working from our shared desire for a fairer and more inclusive financial system, in direct contrast to the clear shortcomings of the current institutions that run our world.</div><div><br></div><div><b style="font-size:18px;">Our Values</b></div><div>The community weâre building is shaped by our values and fuelled by the needs of all humans:</div><div>- Inclusion, Care, Trust, and Respect</div><div>- Empowerment</div><div>- Guidance and Support</div><div>- Friendship, Community, Real RelationshipsÂ </div><div><br></div><div>Weâre building Acala based on a core set of values we believe are in line with the tenets of web3:</div><div>- True decentralisation</div><div>- Less Trust, More Truth</div><div>- Integrity</div><div>- Accountability</div><div>- Empowering individuals with more autonomyÂ </div><div><br></div><div><b style="font-size:18px;">What We Have Achieved</b></div><div>Acala was founded in 2019 as an early Web3 Foundation grant recipient, and is an ecosystem and education partner of both the W3F and Polkadot. Throughout 2021 we have proven ourselves to be the DeFi hub(s) of the Polkadot Ecosystem & Community by securing the first crowdloan-funded parachain slots on both the Polkadot & Kusama blockchain networks. But even at this, our true work has only just begun...</div><div><br></div><div><br></div><div>
-<b>NOTE</b>: To all external Recruiters who have 'exciting profiles' to share with us, please do so knowing that without signed terms & conditions Acala deem any introductions made to be a complimentary courtesy to the development of the world's Web3 infrastructure. Thank you for your support.</div><br/><br/>Please mention the word **GUIDANCE** and tag RMy4yMzYuODAuMTQy when applying to show you read the job post completely (#RMy4yMzYuODAuMTQy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<b>NOTE</b>: To all external Recruiters who have 'exciting profiles' to share with us, please do so knowing that without signed terms & conditions Acala deem any introductions made to be a complimentary courtesy to the development of the world's Web3 infrastructure. Thank you for your support.</div><br/><br/>Please mention the word **GUIDANCE** and tag RNTIuMy4yMzAuMTEz when applying to show you read the job post completely (#RNTIuMy4yMzAuMTEz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -41,7 +41,7 @@
                     <code>manager,web3,crypto,financial,investment,mobile,leader,strategy,lead,excel,telecom,go,non tech</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-lead-product-manager-payments-and-custody-giant-protocol-125795" align="right" target="_blank">Apply</a>
@@ -91,73 +91,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">401k with company match</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Annual professional development budget</span></li>
 </ul>
-</div><br/><br/>Please mention the word **EXCITING** and tag RMy4yMzYuODAuMTQy when applying to show you read the job post completely (#RMy4yMzYuODAuMTQy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/ef884a9e707b5ff906ca43b6219192ba1664522175.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>GIANT Protocol</h5>
-                    <h3>Lead Product Manager Protocols</h3>
-                </td>
-                <td width="300">
-                    <code>manager,design,web3,crypto,growth,financial,investment,finance,mobile,leader,lead,excel,telecom,go,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-lead-product-manager-protocols-giant-protocol-125819" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro">
-<p>The GIANT Protocol Foundation aims to empower the world to build a more open and inclusive internet. It created the GIANT Protocol to decentralize and democratize access to connectivity and financial services for all. Itâs a new web3 telecommunications layer that coordinates, tokenizes, and financializes ownership of the entire telecom ecosystem.</p>
-<p>GIANT Connect is a consumer app powered by GIANT Protocol offering the most fun and rewarding way to stay connected to the Internet. Access inflight wifi on thousands of planes, mobile networks in 120 countries, and 68M free and premium wifi hotspots globally. Earn crypto rewards when you go online and when you donât.</p>
-<p> </p>
-</div><p><strong>Position</strong></p>
-<p><span style="font-weight:400;">The company </span><span style="font-weight:400;">is seeking an experienced product leader to develop its product vision, strategy, and roadmap for its blockchain protocols. </span><span style="font-weight:400;">The Lead Product Manager, Protocols will </span><span style="font-weight:400;">leverage their expertise in trust-minimized, permissionless, decentralized protocols on the blockchain to develop the case for the capabilities which should be developed, drive overall vision and product strategy, and gain leadership buy-in and investment for new capabilities.</span></p>
-<p> </p>
-<p><span style="font-weight:400;">In this role you will:</span></p>
-<p> </p>
-<ul>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Own the vision, strategy, roadmap, and delivery for the companyâs </span><span style="font-weight:400;">trust-minimized, permissionless, decentralized protocols on the blockchain</span>
-</li>
-<li style="font-weight:400;"><span style="font-weight:400;">Develop a deep understanding of all stakeholders - data providers, data consumers, developers, validators, nominators, enthusiasts, and other community members - and how to incentivize growth of a flywheel among them</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Write requirements that work backwards from audience needs and maintain a maniacal focus on delivering exponential value for all stakeholders </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Partner effectively with other leaders internally to influence priorities and drive alignment</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Monitor project execution and ensure that the project delivery is to the appropriate levels of quality and in line with target dates</span></li>
-</ul>
-<p><strong>Requirements</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">2+ years of direct experience in the design and implementation of public blockchain protocols</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">4+ years of experience as a technical product manager or engineer</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Hands-on experience with the concepts, products, and services that are driving web3 with a particular focus on decentralized finance including but not limited to exchanges, liquidity pools, lending protocols, AMMs, staking, collateralization, governance tokens and stablecoins</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Clear, concise written and verbal communication and a track record influencing technical and non-technical staff</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Degree in economics, computer science, math, complex systems, or other quantitative discipline</span></li>
-</ul><div class="content-conclusion">
-<h3><strong>Company Values</strong></h3>
-<p><strong>Thinking in possibilities</strong><span style="font-weight:400;">: We realize that most see the world in terms of what is not possible. We believe the future is made by those who see what </span><em><span style="font-weight:400;">is</span></em><span style="font-weight:400;"> possible. Seeing a path of possibilities requires intellectual curiosity, dedication, and diligence. We are big thinkers and believers but also pragmatists, focused on relentless execution.</span></p>
-<p><strong>Integrity of word, thought, and action</strong><span style="font-weight:400;">: Integrity is what is behind our words, thoughts, and </span><span style="font-weight:400;">actions. We help ourselves and others to stay true to why we do things so we can align, </span><span style="font-weight:400;">together, for the highest purpose.</span></p>
-<p><strong>Diversity of perspectives:</strong><span style="font-weight:400;"> A good discussion is one that ends with all participants feeling </span><span style="font-weight:400;">that the other participants understood them, even if they had different ideas. This requires trust, </span><span style="font-weight:400;">vulnerability, and compassion. We believe organizations where people can truly co-create will </span><span style="font-weight:400;">thrive.</span></p>
-<p><strong>Winning with purpose: </strong><span style="font-weight:400;">We are mission focused and realize that winning is a requirement to </span><span style="font-weight:400;">achieve lasting change that benefits everyone. Even though we love to compete, we understand that winning is not the same as success, but is needed to succeed.</span></p>
-<p><strong>Ownership is key:</strong><span style="font-weight:400;"> When we own our successes, failures, best qualities, and flaws, we can truly work in a team, as a team. Ownership unlocks greatness as a team because it </span><span style="font-weight:400;">enables us to support and be supported.</span></p>
-<p><strong>The excellence of being:</strong><span style="font-weight:400;"> Excellence is an expression of beingâof what we want for ourselves </span><span style="font-weight:400;">and others. It is passion turned into action. We share a desire to learn and excel while being </span><span style="font-weight:400;">comfortable with failing. Excellence comes when weâre courageously open about what we </span><span style="font-weight:400;">desire for this world.</span></p>
-<p><strong>Unity in consciousness:</strong><span style="font-weight:400;"> We understand that we are all one. We are all working towards moving humanity forward in unique ways. We firmly believe that there is infinitely more that unites us than divides us, and our work is to bring that out in the world.</span></p>
-<h3><strong>Benefits:</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Competitive salary with generous token plan</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Unlimited PTO and flexible remote options</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Health benefits: medical, dental, vision, EAP, virtual medicine, and more </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">401k with company match</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Annual professional development budget</span></li>
-</ul>
-</div><br/><br/>Please mention the word **CONVIENT** and tag RMy4yMzYuODAuMTQy when applying to show you read the job post completely (#RMy4yMzYuODAuMTQy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **EXCITING** and tag RNTIuMy4yMzAuMTEz when applying to show you read the job post completely (#RNTIuMy4yMzAuMTEz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -172,7 +106,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-product-manager-technical" align="right" target="_blank">Apply</a>
@@ -230,7 +164,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/commercetools-integrated-offerings-technical-product-manager-core-bundling-fully-remote-f-m" align="right" target="_blank">Apply</a>
@@ -362,7 +296,7 @@
                     <code>ecommerce,education,marketing,product manager</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-b2c-1388899" align="right" target="_blank">Apply</a>
