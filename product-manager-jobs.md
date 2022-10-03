@@ -1,97 +1,66 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/0e6c2293b8248b3cd9b222dabfcd44a11664522193.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/d8045fe945e97678055a4e2eccb37b7e1664694916.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Acala</h5>
-                    <h3>DeFi Product Manager</h3>
+                    <h5>Voyager</h5>
+                    <h3>Product Manager Funding</h3>
                 </td>
                 <td width="300">
-                    <code>defi,manager,design,web3,full-stack,software,test,growth,ux,financial,education,leader,management,engineering,full-time,digital nomad</code>
+                    <code>manager,design,cryptocurrency,financial,finance,banking,leader,management,operational,marketing,healthcare,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-defi-product-manager-acala-125834" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size:18px;">About Acala</b></div><div><br></div><div>Acala's mission is to build and nurture the autonomous financial infrastructure of the decentralized web. Delivering on this mission will bring more financial accessibility, opportunity, and prosperity to everyone on the planet through a new, open financial system.</div><div><br></div><div>Our core project is the Acala Network itself, which we expect to become the de facto DeFi parachain and stablecoin of the Polkadot ecosystem. Polkadot provides the underlying trust primitives to our parachain, upon which weâve built our suite of financial primitives including; decentralized, multi-collateral stablecoin; trustless staking derivatives, and Decentralized Exchange. These primitives will be used by us and other teams to power open DeFi innovations, and remove the need for the intermediaries that inhabit almost every conventional trust-based financial system.</div><div><br></div><div>We have secured our support from eminent backers like Polychain, Coinbase Venture, Pantera and many more. Acala began its launch process on December 18, 2021, and we've got regular product launches and tokenomic incentive programs planned throughout 2022, so thereâs no better time to join the DeFi mission and be a part of the future that weâre building...because we're building it for you, too.</div><div><br></div><div>
-<b>NB:</b> For the <i>fastest</i> response to any of our positions, apply directly on our website: acala.network/jobs</div><div><br></div><div><b style="font-size:18px;">About the role</b></div><div><br></div><div>
-<b>As a Product Manager at Acala </b>your goal will be to keep our team focused on building what our growing network of DeFi customers wants. It sounds easy.</div><div><br></div><div>Examples of Products that you could work on include:</div><div>- <a href="https://apps.acala.network/" class="postings-link" rel="noopener noreferrer nofollow">Acala dApps</a>, our DeFi suite for swapping, staking and earning on Polkadot</div><div>- <a href="https://apps.karura.network/" class="postings-link" rel="noopener noreferrer nofollow">Karura dApps</a>, a sister suite for similar DeFi activities on Kusama</div><div>- <a href="https://www.aquadao.app/" class="postings-link" rel="noopener noreferrer nofollow">AquaDAO</a>, Acalaâs upcoming decentralised Treasury Reserve protocol</div><div><br></div><div>
-<b>This is an end-to-end Product Management role</b> for an experienced leader in commercial software products, but it also requires an in-depth knowledge of DeFi application practices and the common pitfalls they succumb to. In other words youâll be taking Software Products from conception to launch, but if youâre not already an advanced DeFi user then you may find the learning curve quite steep. Beware.</div><div><br></div><div>
-<b>You wonât be alone.</b> Youâll be brainstorming blockchain possibilities in a team with <a href="http://linkedin.com/in/lawrencelaw/" class="postings-link" rel="noopener noreferrer nofollow">Lawrence</a> & <a href="https://nz.linkedin.com/in/alnech19" class="postings-link" rel="noopener noreferrer nofollow">Alex</a>, as well as the Acala founders and our Engineering Team of 20+. But you'll need to balance data-driven decisions with the technical demands of an Engineering liaison, while keeping an eye on ever-changing User Experience requirements and igniting ad-hoc UX projects as you see fit.</div><div><br></div><div>
-<b>Our ideal candidate</b> will be an advanced DeFi user and an experienced web-based Product Manager who has already spent some time working on blockchain applications, whether commercially successful or not. At minimum we need a code-fluent Product Manager with a mature interest in decentralised applications and the general concept behind blockchain applications.</div><div><br></div><div><b>Full Time | Contract | Competitive Salary | Remote APAC</b></div><h4>What you'll do</h4><b>Roadmap; </b>define & own Product goals with Acalaâs founders<b>User Research; </b>design & execute with our User Ops team<b>Software Requirements;</b> from tech specs to test cases<b>Dev Liaison</b>; steer workflows & wireframes with our Engineering team<b>Launch plans;</b> co-ordinate with our Community & Growth team<b>UI Enhancements; </b>workshops with our Design Team<b>External</b>; Occasional ad-hoc projects with other ecosystem teams<h4>What it takes</h4>Commercial Software Product Management experience, 3 years minimumPassion for working with innovative Software Developers [<i>&lt;-- 50% of the job</i>]Expert level knowledge of DeFi use cases, DAOs, LP/MM dynamics, etcA Demonstrable methodology for increasing efficiency across teamsSoftware Engineering background beneficial; you will regularly evaluate the technological strengths and weakness of 3rd party solutionsAlignment with our core values: Empowerment, Support & Community <h4>What we offer</h4>Competitive contract-based compensation (you'll have to invoice us from wherever you are)Flexible working hours within Pacific timezonesCollaborative, transparent and empowering work cultureMeaningful work on creating better technologies for a fairer futureOpportunity to work in a multinational, high-performance team with diverse backgrounds<div>
-<b>NB:</b> For the <i>fastest</i> response to any of our positions, apply directly on our website: <a href="http://acala.network/jobs" class="postings-link" rel="noopener noreferrer nofollow">acala.network/jobs</a>. For more information on this position, our employment conditions, or anything related to working for Acala, get in touch with our Talent Manager: simon@acala.network</div><div><br></div><div><br></div><div><b style="font-size:18px;">Our Team</b></div><div>With approximately 50 full-time team members working across 8 different countries, our team is truly decentralised. Weâre some of the leading blockchain innovators, Substrate & Rust engineers, full-stack dApp developers, & Economist Analysts. But we're just people like you, working from our shared desire for a fairer and more inclusive financial system, in direct contrast to the clear shortcomings of the current institutions that run our world.</div><div><br></div><div><b style="font-size:18px;">Our Values</b></div><div>The community weâre building is shaped by our values and fuelled by the needs of all humans:</div><div>- Inclusion, Care, Trust, and Respect</div><div>- Empowerment</div><div>- Guidance and Support</div><div>- Friendship, Community, Real RelationshipsÂ </div><div><br></div><div>Weâre building Acala based on a core set of values we believe are in line with the tenets of web3:</div><div>- True decentralisation</div><div>- Less Trust, More Truth</div><div>- Integrity</div><div>- Accountability</div><div>- Empowering individuals with more autonomyÂ </div><div><br></div><div><b style="font-size:18px;">What We Have Achieved</b></div><div>Acala was founded in 2019 as an early Web3 Foundation grant recipient, and is an ecosystem and education partner of both the W3F and Polkadot. Throughout 2021 we have proven ourselves to be the DeFi hub(s) of the Polkadot Ecosystem & Community by securing the first crowdloan-funded parachain slots on both the Polkadot & Kusama blockchain networks. But even at this, our true work has only just begun...</div><div><br></div><div><br></div><div>
-<b>NOTE</b>: To all external Recruiters who have 'exciting profiles' to share with us, please do so knowing that without signed terms & conditions Acala deem any introductions made to be a complimentary courtesy to the development of the world's Web3 infrastructure. Thank you for your support.</div><br/><br/>Please mention the word **GUIDANCE** and tag RNTIuMy4yMzAuMTEz when applying to show you read the job post completely (#RNTIuMy4yMzAuMTEz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/2a6e7d56724a269c4ab5665b5c4b01c11664522144.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>GIANT Protocol</h5>
-                    <h3>Lead Product Manager Payments and Custody</h3>
-                </td>
-                <td width="300">
-                    <code>manager,web3,crypto,financial,investment,mobile,leader,strategy,lead,excel,telecom,go,non tech</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-lead-product-manager-payments-and-custody-giant-protocol-125795" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-product-manager-funding-voyager-126852" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div class="content-intro">
-<p>The GIANT Protocol Foundation aims to empower the world to build a more open and inclusive internet. It created the GIANT Protocol to decentralize and democratize access to connectivity and financial services for all. Itâs a new web3 telecommunications layer that coordinates, tokenizes, and financializes ownership of the entire telecom ecosystem.</p>
-<p>GIANT Connect is a consumer app powered by GIANT Protocol offering the most fun and rewarding way to stay connected to the Internet. Access inflight wifi on thousands of planes, mobile networks in 120 countries, and 68M free and premium wifi hotspots globally. Earn crypto rewards when you go online and when you donât.</p>
-<p>Â </p>
-</div><h4>Position</h4>
-<p><br>The company is seeking an experienced product leader to develop the product vision, strategy,<br>and roadmap for GIANT Connectâs payments and custody features. The Lead Product Manager,<br>Payments and Custody will leverage their expertise in digital payments, e-wallets, and crypto to<br>develop the case for the capabilities which should be developed, drive overall vision and<br>product strategy, and gain leadership buy-in and investment for new capabilities.<br>In this role you will:<br><br></p>
+<p><span style="font-weight:400;">Voyager is a Publicly traded company listed on the Toronto Stock Exchange (VOYG), OTC Markets (VYGVF) and the Frankfurt Exchange (UCD2). Voyager is the global leader in agency cryptocurrency brokerage. At Voyager we are building the financial services firm of the future that will be used by millions of users globally to easily access trade, invest and earn in the cryptocurrency markets.Â </span></p>
+<p><span style="font-weight:400;">We are a team of finance and technology industry veterans dedicated to empowering and servicing investors in one of the most exciting asset classes to date - crypto. Our founders stem from reputable finance and technology organizations like E*TRADE, Uber, TradeIt, Lightspeed Financial and more.</span></p>
+<p><span style="font-weight:400;">The Voyager team includes employees with diverse backgrounds and skills. Our culture has quickly grown into one that promotes collaboration, transparency, and entrepreneurialism.</span></p>
+<p><span style="font-weight:400;">To learn more about Voyager please visit us at <a href="http://www.investvoyager.com" rel="noopener noreferrer nofollow">www.investvoyager.com</a>.</span></p>
+<p><span style="font-weight:400;">We are changing the world and love what we do so if you want to work at a fast paced, exciting environment please apply.</span></p>
+</div><p><span style="font-weight:400;">Voyager is seeking a talented, results-driven Product Manager to bridge the gap between business and technology, acting as point of contact for teams across the business to streamline the funding process.</span></p>
+<p><span style="font-weight:400;">As Product Manager of Funding you will partner with Stakeholders from Business/Marketing, Design, Treasury/Accounting, Development, Compliance, Security, and Support to streamline the customer funding process ensuring the experience is straightforward and frictionless.Â  You will monitor and measure changes impacting the funding process and work to refine, optimize and improve the user experience and backend processes needed to support customer funds on and off the platform.Â  You will research and advise on new fiat funding methods, technologies and opportunities that assist in increased AUM.</span></p>
+<p><span style="font-weight:400;">This role must be comfortable partnering with internal and external partners and stakeholders to identify opportunities for improvement and execute on strategic initiatives related to customer funding services. </span></p>
+<h2>Responsibilities:</h2>
 <ul>
-<li>Own the vision, strategy, roadmap, and delivery for the companyâs payments and<br>custody features and services</li>
-<li>Apply your knowledge of payments and custody to create an intuitive, flexible, and<br>affordable way to deposit and withdraw money through GIANTâs apps and services</li>
-<li>Define the strategy for GIANTâs global payments network across payment sources,<br>currencies, and geographies including both fiat and crypto currencies</li>
-<li>Define the strategy for GIANTâs global custody and crypto wallet solution ensuring a<br>secure, compliant, and intuitive experience for users</li>
-<li>Write requirements that work backwards from customer needs and maintain a maniacal<br>focus on delivering a roadmap that builds exponential value and growth</li>
-<li>Partner effectively with other leaders internally across marketing, user experience,<br>engineering, legal, finance, and business development to influence priorities</li>
-<li>Manage product partnerships with payments and custody providers and evaluate build<br>vs. buy decisions in the context of time to market, capabilities, and cost</li>
-<li>Monitor project execution and ensure that the project delivery is to the appropriate levels<br>of quality and in line with target dates</li>
-<li>Use data to inform decisions and excellent judgment to make decisions</li>
+<li style="font-weight:400;"><span style="font-weight:400;">Accountability for Voyagerâs client funding process, inclusive of product design and internal/external stakeholder management across product, business operations, technology, compliance, fraud/risk, support, marketing and data.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Manage relationships with external technology partners used for fiat funding to ensure we get the most out of the partnerships and technologies used.Â  Advocate for features and improvements that benefit our client funding needs.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Research and become an expert on competitors to our existing funding technology partners.Â  Make recommendations based on data if/when new relationships or technologies should be leveraged to continue to improve and refine funding activities.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Analyze market trends, competition and customer experience journeys to inform product, driving improvements and innovation to the funding process.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Ability to connect consumer insights/needs with data driven analysis to create and prioritize the funding product roadmap</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Integrate analysis and customer feedback into product requirements to ensure features satisfy customer needs and desires</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Define criteria to measure success/failure for client funding process changes.Â  Work with appropriate teams to complete user studies, A/B tests or other types of experimentation when making changes as appropriate.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Ensure quality deployment and operational excellence around feature launches, including the creation of success metrics and evaluation of performance</span></li>
 </ul>
-<h4>Requirements</h4>
+<h2>Qualifications:</h2>
 <ul>
-<li>5+ years of experience working in digital payments with 2+ years leading the product<br>roadmap for a digital payments and/or custody solution<br>â Direct knowledge of the technology landscape and solution providers across both fiat and crypto domains including but not limited to companies such as Stripe, Moonpay, Fireblocks, Stably, Plaid, GK8, Prime Trust, and others</li>
-<li>Familiarity with the concepts, products, and services that are driving web3 payments and custody applications including but not limited to custodial vs. non-custodial wallets, fiat&lt;&gt;crypto on&lt;&gt;off ramps, and global compliance and regulatory requirements</li>
-<li>Clear, concise written and verbal communication and a track record influencing technical and non-technical staff to achieve a desired outcome</li>
-<li>A demonstrable track record of impeccable judgment in the face of ambiguity</li>
-<li>Degree in economics, computer science, math, other quantitative discipline preferred</li>
+<li style="font-weight:400;"><span style="font-weight:400;">5+ years leading product-focused initiatives</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with product management in the fin-tech industry specifically around banking services such as ACH transfers, wires, payments, etc.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Knowledge of regulations, banking systems and technologies, and compliance requirements for funding activities</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Results-driven, solutions and customer focused, with strong business acumen and ability to drive teams through rapid execution</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Self starter attitude with comfort in ambiguity</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Strong written and verbal communication skills</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with Kanban SDLC desired</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with feature experimentation via tools such as LaunchDarkly desired</span></li>
 </ul><div class="content-conclusion">
-<h3><strong>Company Values</strong></h3>
-<p><strong>Thinking in possibilities</strong><span style="font-weight:400;">: We realize that most see the world in terms of what is not possible. We believe the future is made by those who see what </span><em><span style="font-weight:400;">is</span></em><span style="font-weight:400;"> possible. Seeing a path of possibilities requires intellectual curiosity, dedication, and diligence. We are big thinkers and believers but also pragmatists, focused on relentless execution.</span></p>
-<p><strong>Integrity of word, thought, and action</strong><span style="font-weight:400;">: Integrity is what is behind our words, thoughts, and </span><span style="font-weight:400;">actions. We help ourselves and others to stay true to why we do things so we can align, </span><span style="font-weight:400;">together, for the highest purpose.</span></p>
-<p><strong>Diversity of perspectives:</strong><span style="font-weight:400;"> A good discussion is one that ends with all participants feeling </span><span style="font-weight:400;">that the other participants understood them, even if they had different ideas. This requires trust, </span><span style="font-weight:400;">vulnerability, and compassion. We believe organizations where people can truly co-create will </span><span style="font-weight:400;">thrive.</span></p>
-<p><strong>Winning with purpose: </strong><span style="font-weight:400;">We are mission focused and realize that winning is a requirement to </span><span style="font-weight:400;">achieve lasting change that benefits everyone. Even though we love to compete, we understand that winning is not the same as success, but is needed to succeed.</span></p>
-<p><strong>Ownership is key:</strong><span style="font-weight:400;"> When we own our successes, failures, best qualities, and flaws, we can truly work in a team, as a team. Ownership unlocks greatness as a team because it </span><span style="font-weight:400;">enables us to support and be supported.</span></p>
-<p><strong>The excellence of being:</strong><span style="font-weight:400;"> Excellence is an expression of beingâof what we want for ourselves </span><span style="font-weight:400;">and others. It is passion turned into action. We share a desire to learn and excel while being </span><span style="font-weight:400;">comfortable with failing. Excellence comes when weâre courageously open about what we </span><span style="font-weight:400;">desire for this world.</span></p>
-<p><strong>Unity in consciousness:</strong><span style="font-weight:400;"> We understand that we are all one. We are all working towards moving humanity forward in unique ways. We firmly believe that there is infinitely more that unites us than divides us, and our work is to bring that out in the world.</span></p>
-<h3><strong>Benefits:</strong></h3>
+<h2><span style="font-weight:400;">What we offer</span></h2>
 <ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Competitive salary with generous token plan</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Unlimited PTO and flexible remote options</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Health benefits: medical, dental, vision, EAP, virtual medicine, and moreÂ </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">401k with company match</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Annual professional development budget</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Competitive Salary</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Employee Benefits including healthcare (medical, dental, vision) and 401k</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Stock OptionsÂ </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Unlimited PTO</span></li>
 </ul>
-</div><br/><br/>Please mention the word **EXCITING** and tag RNTIuMy4yMzAuMTEz when applying to show you read the job post completely (#RNTIuMy4yMzAuMTEz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><span style="font-weight:400;">Voyager is headquartered in New York City with satellite offices in New Jersey, California, Toronto and Bordeaux.</span></p>
+<p><span style="font-weight:400;">Please contact us via the button below or at careers@investvoyager.com with your resume and a brief explanation as to why you would like to join the Voyager team.</span></p>
+<p><span style="font-weight:400;">*Please note that during COVID-19 we are working remotely.</span></p>
+</div><br/><br/>Please mention the word **FRESHER** and tag RNTIuMjAxLjIzNy4yMTU= when applying to show you read the job post completely (#RNTIuMjAxLjIzNy4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -106,7 +75,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-product-manager-technical" align="right" target="_blank">Apply</a>
@@ -164,7 +133,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/commercetools-integrated-offerings-technical-product-manager-core-bundling-fully-remote-f-m" align="right" target="_blank">Apply</a>
@@ -286,6 +255,89 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4683/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Close</h5>
+                    <h3> Sr. Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/close-sr-product-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/4683/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> USA
+    <br /><strong>URL:</strong> <a href="http://www.close.com">http://www.close.com</a>
+</p>
+
+<div><strong>About Us</strong></div><div>At Close, we're building the sales communication and collaboration platform of the future. With our roots as the very first sales CRM to include built-in calling, we're leading the industry in sales automation—helping companies to close more deals, faster than ever.  Since our founding in 2013, we've grown to become a profitable, 100% globally distributed ~60 person team that is dedicated to building a product our customers love.</div><div> </div><div>Our Product team is currently made up of three Designers and two Product Managers. We're looking for our third Product Manager to help accelerate product development at Close from idea through launch. </div><div><br></div><div>
+<br><strong>About You</strong>
+</div><div>We’re looking for someone with a unique talent set - someone who understands sales and can “speak the language” with sales managers, reps, and directors. Someone who can synthesize various use cases into clear problem statements. Someone who cares deeply about product details, has a great sense of product aesthetics, and can discuss the nitty gritty with engineers. </div><div><br></div><div>As a small product, design, and engineering team you’ll be responsible for all aspects of delivering a feature -- from concept through project managing it’s delivery. You will do it all.<br><br><strong>What you’ll do...</strong>
+</div><ul>
+<li>Turn the vague into the concrete. Talk with customers to discover &amp; define their needs, understand their problems, and document their use cases. </li>
+<li>Write problem statements that clearly define shared needs across customers.</li>
+<li>Create detailed product specs from your problem statements through collaboration with Product Design and Engineering.</li>
+<li>Project manage the delivery of the feature -- get it on the engineering roadmap and ensure it’s delivered on time and up to the Product team’s standards. </li>
+<li>Prepare for launches: work with the Marketing team on positioning/collateral, manage beta testers, write FAQs, define adoption / usage metrics, measure success, and share learnings.</li>
+</ul><div>
+<br><strong>You should...</strong>
+</div><ul>
+<li><strong>Ideally be located in an Americas time zone </strong></li>
+<li>Have 2+ years of Product Management experience shipping B2B SaaS for SMBs.</li>
+<li>Have 2+ years experience at software/internet companies in a product, engineering, or customer-facing role.</li>
+<li>Love listening to customers and diving deep into their problems and needs.</li>
+<li>Be detail-oriented, organized, and great at writing.</li>
+<li>Have good product vision &amp; design sense. </li>
+<li>Be comfortable writing specs, drawing wireframes, &amp; rapidly iterating on new feature ideas.</li>
+<li>Have experience with metrics/analytics tools</li>
+<li>Be growth minded; pushing to ship Product that focuses on moving the needle.</li>
+</ul><div>
+<br><strong>Bonus points if you...</strong>
+</div><ul>
+<li>Have experience in sales or with sales tools / CRMs</li>
+<li>Have significant experience in Figma or other design/prototyping tools</li>
+<li>Have a technical/engineering background, not afraid to dabble in Python, HTML, CSS, or SQL.</li>
+</ul><div>
+<br><strong>Why Close? </strong>
+</div><ul>
+<li>
+<a href="https://www.youtube.com/watch?v=ZbyGnLhtj0o&amp;feature=youtu.be">Culture video</a> 💚</li>
+<li>100% remote company <em>(we believe in trust and autonomy)</em>
+</li>
+<li>Choose between working 5 days/wk (standard full-time) or 4 days/wk @ 80% pay</li>
+<li>
+<a href="https://www.youtube.com/watch?v=gKjyXMz-q-Q&amp;feature=youtu.be">Annual team retreats</a> ✈️</li>
+<li>Quarterly virtual summits</li>
+<li>5 weeks PTO + Winter Holiday Break</li>
+<li>2 additional PTO days every year with the company</li>
+<li>1 month paid sabbatical every 5 years</li>
+<li>Co-working stipend</li>
+<li>Paid parental leave</li>
+<li>Medical, Dental, Vision with HSA option (US residents)</li>
+<li>401k matching at 6% (US residents)</li>
+<li>Dependent care FSA (US residents)</li>
+<li>Contributor to <a href="https://stripe.com/climate">Stripe's climate</a> initiative 🌍❤️ </li>
+<li>
+<a href="https://close.io/about/">Our story and team</a> 🚀</li>
+</ul><div>At Close, everyone has a voice. We encourage transparency and practice a mature approach to the work-place. In general, we don’t have strict policies, we have guidelines. Work/Life harmony is an important part of our business - we believe you bring your best to work when you practice self-care (whatever that looks like for you).  </div><div><br></div><div>We come from 16 countries located in 5 of the 7 continents -- looking at you Antarctica and Australia ;-) ….. We’re a collection of talented humans rich in diverse backgrounds, lifestyles, and cultures. Every year we meet up somewhere around the world to spend time with one another. These gatherings are an opportunity to strengthen the social fiber of our global community.</div><div><br></div><div>Our team is growing in more ways than one - we’ve recently launched 17 babies (and counting!). Unanimously, our favorite and most impactful value is “Build a house you want to live in.” We strive to make decisions that are authentic for our people and help our customers become more successful. </div><div><br></div><div><em>Our application process was designed to promote equitable and unbiased hiring practices. We ask a small series of questions that are similar to what would be asked in the first interview. This helps us learn more about you right from the start so please be sure to answer each question thoughtfully. Each application will receive two screens by two different reviewers. Regardless of fit, you will hear back from us letting you know if we'll be moving forward.</em></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/close-sr-product-manager">https://weworkremotely.com/remote-jobs/close-sr-product-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1388899/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -296,7 +348,7 @@
                     <code>ecommerce,education,marketing,product manager</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-b2c-1388899" align="right" target="_blank">Apply</a>
