@@ -10,7 +10,7 @@
                     <code>developer,crypto,software,fintech,management,junior,marketing,sales,recruitment,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-junior-business-developer-keyrock-126347" align="right" target="_blank">Apply</a>
@@ -40,7 +40,7 @@
 <li style="list-style-type:disc;font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Complete autonomy in your time management thanks to flexible working hours and the opportunity to work remotely </span></p></li>
 <li style="list-style-type:disc;font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The freedom to create your own entrepreneurial experience by being part of a team of people in search of excellence who all receive stock options from the first year</span></p></li>
 <li style="list-style-type:disc;font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:7pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">A ton of fun in a thriving and multicultural environment, with colleagues enjoying regular team building activities </span></p></li>
-</ul><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Keyrock offers you both a career and a large range of benefits that we will gladly discuss in the course of the application process.</span></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><br></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">As an employer we are committed to build an inclusive, diverse and non-discriminating work environment. We welcome employees of all backgrounds, ethnicities, genders, creed and sexual orientation. We hire, reward and promote entirely based on merit and performance.</span></p><br/><br/>Please mention the word **BREATHTAKINGLY** and tag RNTIuMy4yMzAuMTEz when applying to show you read the job post completely (#RNTIuMy4yMzAuMTEz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Keyrock offers you both a career and a large range of benefits that we will gladly discuss in the course of the application process.</span></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><br></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">As an employer we are committed to build an inclusive, diverse and non-discriminating work environment. We welcome employees of all backgrounds, ethnicities, genders, creed and sexual orientation. We hire, reward and promote entirely based on merit and performance.</span></p><br/><br/>Please mention the word **BREATHTAKINGLY** and tag RNTIuMjAxLjIzNy4yMTU= when applying to show you read the job post completely (#RNTIuMjAxLjIzNy4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -55,7 +55,7 @@
                     <code>developer,teaching,software,web,voice,education,finance,marketing,engineer,engineering,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-relations-engineer-near-125835" align="right" target="_blank">Apply</a>
@@ -90,7 +90,7 @@
 <p>NEAR's mission is to enable community-driven innovation to benefit people around the world. The NEAR platform provides a decentralized application platform that is secure enough to manage high value assets like money or identity and performant enough to make them useful for everyday people, putting the power of Open Finance and the Open Web in their hands.</p>
 <p>The NEAR platform, NEAR Protocol and associated tooling are being built by the NEAR Collective, a collection of the best engineers in the world who work across teams, companies and countries similar to other large scale open source projects. Core contributors include a couple of 2-time ICPC world champions, 2 gold medalists, a Latin American champion and multiple other competitive programming finalists.</p>
 <h3>Working at NEAR</h3>
-<p>Roles are posted to this portal on behalf of the companies that make up the NEAR Collective and are typically located anywhere in the world because most of the companies are fully remote. Some hubs are located in Switzerland, Germany, Russia, the US and China. Regardless of where you work, this is a high performance culture that values ownership, execution and professionalism but pairs it with curiosity and experimentation. The vision is big but the right team is behind it.</p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/-hOWM-o7N5k" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ADEQUATE** and tag RNTIuMy4yMzAuMTEz when applying to show you read the job post completely (#RNTIuMy4yMzAuMTEz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>Roles are posted to this portal on behalf of the companies that make up the NEAR Collective and are typically located anywhere in the world because most of the companies are fully remote. Some hubs are located in Switzerland, Germany, Russia, the US and China. Regardless of where you work, this is a high performance culture that values ownership, execution and professionalism but pairs it with curiosity and experimentation. The vision is big but the right team is behind it.</p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/-hOWM-o7N5k" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ADEQUATE** and tag RNTIuMjAxLjIzNy4yMTU= when applying to show you read the job post completely (#RNTIuMjAxLjIzNy4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -105,7 +105,7 @@
                     <code>design,content,senior,marketing,analytics,sales,engineering,digital nomad,manager,amazon,consulting,web,devops,cloud,leader,lead,developer,software</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-cloud-developer-3xm-group-125410" align="right" target="_blank">Apply</a>
@@ -119,107 +119,7 @@ We provide Data Analytics, Cloud, DevOps, and Software Development services, wit
 
 We are looking for an experienced Cloud Developer to contribute on building a platform for our client located in the US. You will have the chance to work on new features that can create a big impact on their clients' needs. You will also be part of a multi-disciplinary and distributed team.
 
-<br/><br/>Please mention the word **UNFAZED** and tag RNTIuMy4yMzAuMTEz when applying to show you read the job post completely (#RNTIuMy4yMzAuMTEz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/991156f17f1cd4cafd7860012ac1c1fa1664522126.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Zilliqa</h5>
-                    <h3>Developer Relations EVM Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,design,web3,teaching,full-stack,growth,code,education,content,engineer,engineering,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-developer-relations-evm-engineer-zilliqa-125780" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Remote</strong></p>
-<p>Â </p>
-<p><strong>About the role:</strong></p>
-<p><span style="font-weight:400;">We are looking for a Developer Relations EVM Engineer to work along with the Developer Relations Advocate and . Developer Relations Scilla Engineer.Â </span></p>
-<p><span style="font-weight:400;">You will take ownership of all aspects pertaining to the development and implementation of advocacy strategies, education, engagement and nurturing of our growing community of developers and dApp incubation programs - specifically in our EVM ecosystemÂ </span></p>
-<p><span style="font-weight:400;">You will contribute to building a Developer Ambassador Program and as well as several activities (bounties, AMAâs, hackathons, online and offline events, tutorials, networking, conferences).Â </span></p>
-<p><span style="font-weight:400;">Establish thought leadership within the ecosystem, represent Zilliqa online and offline, as well simplifying onboarding processes to ensure less friction exists for new projects and developers.</span></p>
-<p>Â </p>
-<p><strong>You may find yourself doing the following:</strong></p>
-<ul>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Identify gaps that are needed to meet the needs of developers, and design creative solutions to meet these needs</span><span style="font-weight:400;"><br><br></span>
-</li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Assist the community with integrations, develop code tools and templates.</span><span style="font-weight:400;"><br><br></span>
-</li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Represent the developer community to the Zilliqa product and engineering teams, making sure that everything we build is easy to learn and sensible to use</span><span style="font-weight:400;"><br><br></span>
-</li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Establish strategic developer relations programs across developer education, experience, marketing, primarily through a Developer Ambassador Program.</span><span style="font-weight:400;"><br><br></span>
-</li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Foster an active and collaborative open source community and ecosystem via existing channels like Discord, Telegram and </span><span style="font-weight:400;"><br><br></span>
-</li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Drive discussions around Zilliqa ZRC standards vs Ethereumâs EIP/ERC</span><span style="font-weight:400;"><br><br></span>
-</li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Support the creation of developer focused content and education materials in a variety of mediums</span><span style="font-weight:400;"><br><br></span>
-</li>
-<li style="font-weight:400;"><span style="font-weight:400;">Lead a growing team of developer evangelists and encourage the growth of evangelists in the Zilliqa community</span></li>
-</ul>
-<p>Â </p>
-<p><strong>Qualifications / Experience must have:</strong></p>
-<ul>
-<li style="font-weight:400;">
-<span style="font-weight:400;">4+ years of experience in a direct, hands-on technical community or end-user focused role such as developer relations, developer advocacy and technical support</span><span style="font-weight:400;"><br><br></span>
-</li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Proven proficiency in EVM</span><span style="font-weight:400;"><br><br></span>
-</li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">3-5 years of programming experience in at least one: JavaScript, C++, React, Rust, Solidity</span><span style="font-weight:400;"><br><br></span>
-</li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Comfortable speaking, tweeting, writing, and teaching complex technical topics</span><span style="font-weight:400;"><br><br></span>
-</li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">An understanding of full-stack applications and ability to build simple prototypes</span><span style="font-weight:400;"><br><br></span>
-</li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Experience improving the developer experience through the creation of examples or internal advocacy for developer needs</span><span style="font-weight:400;"><br><br></span>
-</li>
-<li style="font-weight:400;"><span style="font-weight:400;">Passionate and excited about the web3 industry and its potential</span></li>
-</ul>
-<p>Â </p>
-<p><strong>Qualifications / Experience nice to have:</strong></p>
-<ul>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Youâve used to and have familiarity with technologies that make up decentralized applications</span><span style="font-weight:400;"><br><br></span>
-</li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Experience participating in open source developer communities and great empathy for developer needs</span><span style="font-weight:400;"><br><br></span>
-</li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Previous experience as a developer evangelist or managing a development team at a technology startup</span><span style="font-weight:400;"><br><br></span>
-</li>
-<li style="font-weight:400;"><span style="font-weight:400;">Full-stack experience</span></li>
-</ul>
-<p>Â </p>
-<p><strong>Other Skills / Experience that are great to bring with you:</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience contributing to open source communities</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience as a developer evangelist or advocacy</span></li>
-</ul>
-<p><br><br><span style="font-weight:400;"><br></span><br><strong><br></strong><br><br></p><br/><br/>Please mention the word **INTEGRATED** and tag RNTIuMy4yMzAuMTEz when applying to show you read the job post completely (#RNTIuMy4yMzAuMTEz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **UNFAZED** and tag RNTIuMjAxLjIzNy4yMTU= when applying to show you read the job post completely (#RNTIuMjAxLjIzNy4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -234,7 +134,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-react-native-lead-developer" align="right" target="_blank">Apply</a>
@@ -289,7 +189,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-full-stack-developer-cyprus" align="right" target="_blank">Apply</a>
@@ -357,7 +257,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-front-end-developer-web3-remote-1" align="right" target="_blank">Apply</a>
@@ -424,7 +324,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-4" align="right" target="_blank">Apply</a>
@@ -484,7 +384,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-lead-back-end-developer-node-js-web3-remote" align="right" target="_blank">Apply</a>
@@ -552,63 +452,6 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4259/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Switch Themes</h5>
-                    <h3> Front-end developer (Shopify)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>65 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4259/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Melbourne, Australia
-    <br /><strong>URL:</strong> <a href="https://switchthemes.co/">https://switchthemes.co/</a>
-</p>
-
-<div>Switch Themes design and build premium Shopify themes that are sold exclusively on the Shopify theme store. We currently have 5 themes on the theme store - with our most recent theme Shapes launching this year.</div><div><br></div><div>We’re looking for an experienced front-end developer to help us with our themes. </div><div><br></div><div><strong>Responsibilities</strong></div><ul>
-<li>Expert experience with building Shopify Themes and Shopify’s liquid templating language</li>
-<li>Expert knowledge in the Shopify platform and Shopify Themes</li>
-<li>Understand all requirements for Shopify Themes to be listed on the theme store: <a href="https://shopify.dev/themes/store/requirements">https://shopify.dev/themes/store/requirements</a>
-</li>
-<li>Strong web development skills (HTML, CSS and Javascript)</li>
-<li>Experience with build tools</li>
-<li>Strong Javascript skills (Vanilla JS)</li>
-<li>Experience with version control and Git</li>
-<li>Take initiative to follow wireframes / designs and apply beyond what is provided</li>
-<li>Understanding of semantic web standards and web accessibility</li>
-<li>Understanding of web performance </li>
-</ul><div><br></div><div><strong>Bonus if you have experience with the following</strong></div><ul>
-<li>Tailwind</li>
-<li>Rollup.js</li>
-<li>Alpine.js</li>
-<li>Figma</li>
-<li>Design/UX</li>
-</ul><div><br></div><div><strong>About you</strong></div><ul>
-<li>You are self-motivated and self-directed</li>
-<li>Have a minimum 2 years of front-end development experience</li>
-<li>You like the idea of working from home and not having anyone bother you all day whilst you do deep work</li>
-<li>Speak English at an intermediate-high level</li>
-</ul><div><br></div><div><br></div><div><strong>Working at Switch</strong></div><div><br></div><div>This is a 3-4 day per week role for a 6 month contract.</div><div><br></div><div>We are a fully remote team spread out across Melbourne, Hong Kong, Vietnam, Ireland, Jamaica &amp; Canada. Don’t worry, we aren’t that big - we have just one team member in each of those locations!</div><div><br></div><div>Your working hours are flexible. The 20-30 hours a week (based on 3/4 days a week) can be broken up however you like. Do you prefer working at 5am in the morning? No worries. Want to schedule your day so you can have an afternoon nap? Go for it. </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify">https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -619,7 +462,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>331 days ago</text>
+                <text>332 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-blockchain-developer" align="right" target="_blank">Apply</a>
@@ -664,7 +507,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>690 days ago</text>
+                <text>691 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -743,7 +586,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -820,7 +663,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -889,7 +732,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>api,CSS,developer,docker</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
@@ -990,7 +833,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>AWS,cloud,CSS,developer</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1393221" align="right" target="_blank">Apply</a>
@@ -1015,7 +858,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1092,7 +935,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -1117,7 +960,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -1142,7 +985,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -1167,7 +1010,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -1192,7 +1035,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -1217,7 +1060,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -1242,7 +1085,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
