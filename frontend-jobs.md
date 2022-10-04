@@ -1,84 +1,153 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/9305/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6920/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>OCR Labs</h5>
-                    <h3> Front End Engineer - Full Time</h3>
+                    <h5>commercetools Integrated Offerings</h5>
+                    <h3> Mid/Senior Frontend Engineer - Studio, fully remote (f/*/m)</h3>
                 </td>
                 <td width="300">
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/commercetools-integrated-offerings-mid-senior-frontend-engineer-studio-fully-remote-f-m" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/9305/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6920/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> London / Sydney / San Francisco
-    <br /><strong>URL:</strong> <a href="https://ocrlabs.com">https://ocrlabs.com</a>
+  <strong>Headquarters:</strong> Munich
+    <br /><strong>URL:</strong> <a href="https://commercetools.com/careers/jobs">https://commercetools.com/careers/jobs</a>
 </p>
 
-<div> </div><div>
-<strong>Full time – Remote - London / UK Timezone<br></strong><br>
-</div><div>
-<br>Join a new team of passionate engineers and build a world-class platform to fight identity fraud at a global scale.  The technology is awesome, interesting and solves real world problems.</div><div> </div><div><br></div><div>
-<strong>The Position<br></strong><br>
-</div><div>We are looking to add engineers to our team with strong front-end programming experience. You should be well-versed in component-driven development with a working knowledge of HTML, JavaScript, and CSS.  The role would include:</div><div>
-<br>·        Building new product features for both our customers and our product teams</div><div>
-<br>·        Work closely with product managers, designers and backend engineers in order to create innovative and usable solutions</div><div>
-<br>·        Helping shape the technical direction - your choices will become the building blocks of our infrastructure<br><br>
+<div>
+<br>❗<strong>Application review: </strong>We will have a slight delay in reviewing applicants for this role as the team are currently on their in-person retreat, we will aim to get back to you by Tuesday 11th October.<br><br>
 </div><div>
 <br><br>
 </div><div>
-<strong>Needed qualifications<br></strong><br>
+<strong><br>Location</strong>: No location restrictions, we hire remotely worldwide 🌍<br><br>
 </div><div>
-<br>Whilst technical competence is critical, we place great emphasis on passion, communication, and collaboration across the business. <br><br>
+<strong><br>Language:</strong> We operate internally and externally in English (US)<br><br>
 </div><div>
-<br>·        You have minimum 3 years of commercial front-end development experience with React, typescript and NodeJS.</div><div>
-<br>·        Minimum 3 years working with complex web applications.<br><br>
-</div><div>·        Proficient in JavaScript ES6, CSS3 and HTML5.</div><div>
-<br>·        Exposure to writing unit, integration and E2E tests</div><div>
-<br>·        Optimising code to effectively run across multiple devices and browsers</div><div>
-<br>·        Strong written and verbal skills</div><div>
-<br>·        You have an In-depth understanding of Javascript, the DOM, and relevant concepts</div><div>
-<br>·        Have a keen eye for UI details</div><div>
-<br>·        Understanding of progressive web apps</div><div>
-<br>·        Experience with webpack, docker, Git and CI/CD</div><div>
-<br>·        Experience in mobile and responsive development<br><br>
+<strong><br>Hours:</strong> 40 hours per week for full-time. You are free to choose your own hours as long as there is some overlap during the daytime of our CET team for meetings and other internal cultural events<br><br>
 </div><div>
-<br> </div><div><br></div><div>
-<strong>Nice to haves…<br></strong><br>
+<strong><br>Part-time options:</strong> We will consider part-time options for this role, please mention what you are looking for in your application<br><br>
 </div><div>
-<br>·        Working on a SaaS product (B2B)<br><br>
+<strong><br>Level: </strong>Mid (3+ years), Senior (5+ years)<br><br>
 </div><div>
-<br>·        Typescript<br><br>
+<strong><br>Salary</strong>: <br><br>
+</div><ul>
+<li>Starting at <strong>€43,750 - €53,500 </strong>for full-time (Mid)</li>
+<li>Starting at <strong>€53,500 - €64,750</strong> for full-time (Senior)</li>
+</ul><div>
+<strong><br>Note</strong>: We have defined a salary range for this role based on the level of initiative and experience we're looking for. This isn't the “limit” and there's room for you to grow with us in commercetools Frontend<br><br>
 </div><div>
-<br>·        Experience with RUST<br><br>
-</div><div>
-<br>·        Experience working in a Fintech company<br><br>
-</div><div>
-<br>·        AWS Lambda / Microservices architecture<br><br>
-</div><div>
-<br>·        Any AWS technologies<br><br>
-</div><div> <br><br>
-</div><div><strong>About us </strong></div><div>OCR Labs is an identity verification software company that has developed world leading digital identity verification technology. Our technology eliminates identity fraud and makes sure people are who they say they are.</div><div> </div><div>We’ve built everything from the ground up and have a broad range of top customers across banking, telecommunications, government and more. We are growing very fast and scaling internationally.</div><div> </div><div>The successful candidate can be based remotely but will report to the Product Owner in Sydney. The position is fulltime and remuneration is competitive, based on experience. You’ll need to have good written and spoken English. </div><div> </div><div>
 <br><br>
-</div><h1>Instructions on how to apply </h1><div>Send an email through to devjobs@ocrlabs.com with “I love developing” in the subject. Write a few lines about you and attach your resume.</div><div>
-<br> Add any link you think will help us assess your soft and hard skills. If you peak our interest, we’ll set up an interview and go from there.</div><div>
-<br> <br><br>
 </div><div>
-<br> <br><br>
+<strong><br>---------------------------------------—<br></strong><br>
+</div><div>
+<strong><br>🌟 The Opportunity<br></strong><br>
+</div><div>
+<br>We continue to improve and extend the first and most important business user touchpoint, the Studio. To do so we’ll grow the team with more passionate engineers. Do you like to implement an amazing user experience that allows users to create incredible eCommerce sites on top of headless APIs? Do you like visually appealing but also functional frontends that make complex tasks look simple? Would you like to improve a web application based on user research and usage data together with a product team? Then this position could be perfect for you!<br><br>
+</div><div>
+<br><br>
+</div><div>
+<strong><br>🚀 Your Mission<br></strong><br>
+</div><ul>
+<li>Extend our existing web application based on React, Redux, and MaterialUI with new user workflows based on input from our Product team</li>
+<li>Discover solutions for user challenges together with our Product team</li>
+<li>Continuously enhance the technical foundation of the web application, for example, continue to migrate MaterialUI components to our own pattern library</li>
+<li>Closely collaborate with your colleagues to learn and improve together</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong><br>👉 What is it like working in our team?<br></strong><br>
+</div><div>
+<br>"We are a very technical team, and we approach every challenge head-on. We know we can rely on each other, and we live by our values — we're in this together. With a unique product comes unique challenges, and we overcome them using our strengths and expertise." – Jim, Engineering Manager<br><br>
+</div><div>
+<br><br>
+</div><div>
+<strong><br>💪 What you will accomplish in your first 90-days<br></strong><br>
+</div><ul>
+<li>Meet your colleagues from other departments and get accustomed to our values and ways of working</li>
+<li>Get familiar with our stack and tools</li>
+<li>Complete your onboarding plan and attend commercetools onboarding sessions</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong><br>🧩 You will likely have this experience<br></strong><br>
+</div><ul>
+<li>Thorough knowledge of TypeScript/JavaScript, React, HTML, and (S)CSS</li>
+<li>Experience with MaterialUI and/or Redux is a plus</li>
+<li>The will to help to maintain the foundation of any JavaScript/TypeScript project: library updates, JavaScript build tools (webpack and babel), and so on</li>
+<li>Experience in testing React components, domain logic with unit tests, and the most critical user paths with end-to-end tests</li>
+<li>Experience in creating and maintaining style systems for larger and non-trivial web applications</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong><em><br>⚙️ </em></strong><strong>Our stack<br></strong><br>
+</div><ul>
+<li>React (plain and TypeScript) and Next.js in the frontend</li>
+<li>MaterialUI, SCSS, and Tailwind</li>
+<li>PHP with Symfony and Node.js in the backend</li>
+<li>MySQL and CouchDB as databases</li>
+</ul><div>
+<strong><br> <br></strong><br>
+</div><div>
+<strong><br>🚀 About Us<br></strong><br>
+</div><div>
+<br>At commercetools Frontend, we're a fully remote company a Series C company valued at $1.9bn, and were named a Leader in the 2021 Gartner® Magic Quadrant™ for Digital Commerce for the second year in a row. <br><br>
+</div><div>
+<br>We are formerly Frontastic, a remote-first company since 2017 we know how to do remote work properly. We joined commercetools in November 2021 and are still growing and focused on our mission: Let commerce teams build the incredible. Do you want to be part of this exciting journey?<br><br>
+</div><div>
+<br><br>
+</div><div>
+<strong><br>🤝 Our hiring process<br></strong><br>
+</div><div>
+<br>We have designed our hiring process with the candidate experience in mind. This is important to us as we know to build the best product possible, we need the best people. Learn more about our hiring process.<br><br>
+</div><div>
+<br>🕒 We aim to respond to all candidates within 72 hours (except on weekends).<br><br>
+</div><div>
+<br>1️⃣ Submit your application to our team for review<br><br>2️⃣ You'll then be invited to a short technical assessment though Codility (depending on number of applicants)<br><br>3️⃣  Discovery call (45min) with Alexandra Ionescu, our Head of Engineering, to discuss the role, our culture, and find out if it's a good alignment with your own preferences and skills, as well<br><br>4️⃣ Culture questions (via email) to see how you approach important topics such as growth and work planning<br><br>5️⃣ First Interview (60min) with Alexander Trefz, Principal Frontend Engineer to discuss our Studio product<br><br>6️⃣ Coffee Break (30min) an informal chat with members of the team to get to know who you'll be working with<br><br>
+</div><div>
+<br><br>
+</div><div>
+<strong><br>👏 We're offering<br></strong><br>
+</div><ul>
+<li>A <strong>remote setup</strong> and processes tailored for remote workers</li>
+<li>An <strong>open learning and development budget</strong>, including an internal learning academy</li>
+<li>The <strong>freedom</strong> of planning your work around life and not the other way round — we want you to bring your full self to work, and this includes owning your daily routines</li>
+<li>A <strong>company laptop of your choice</strong> and a personal budget for any additional equipment you need — you will be able to purchase it yourself with a virtual company credit card</li>
+<li>A 5-day <strong>yearly retreat</strong> where we meet with the whole team and spend time together at a beautiful place for additional social bonding</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong><br>💬 We'd love to hear from you<br></strong><br>
+</div><div>
+<br>If you have any questions about the role, email our Talent team at <a href="mailto:people@frontastic.cloud">people@frontastic.cloud</a>. Applications will only be accepted directly through the job application form.<br><br>
+</div><div>
+<br>Want to know more about us? You can find out more on our <a href="https://commercetools.com/?location=emea">website</a>.<br><br>
+</div><div>
+<br>If this role is not for you, but you know of someone who'd be a great fit, we would really appreciate it if you could share this role with them!<br><br>
+</div><div>
+<br><br>
+</div><div>
+<strong><br>ℹ️ Equal Opportunities<br></strong><br>
+</div><div>
+<br>🔍 Are you looking for something else? Check out our <a href="https://commercetools.com/careers">Career Page </a>and our <a href="https://commercetools.com/">Website</a> for more information.<br><br>
+</div><div>
+<em><br>We are all different and that is what makes us stronger! We hire great people from a </em><strong><em>wide variety of backgrounds</em></strong><em>, not just because it’s the right thing to do, but because it makes our company better.<br></em><br>
+</div><div>
+<em><br>commercetools celebrates being a </em><strong><em>diverse environment </em></strong><em>and is proud to be an </em><strong><em>equal opportunities employer</em></strong><em>. If your professional profile aligns with our specific hiring requirements and company culture, then we encourage you to apply. We will assess </em><strong><em>your competencies, future potential, approach</em></strong><em> to learning and self-development, and passion, and not your age, color, national origin, religion, gender, gender identity or expression, sexual orientation, familial status, genetics, or disability.<br></em><br>
 </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1">https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/commercetools-integrated-offerings-mid-senior-frontend-engineer-studio-fully-remote-f-m">https://weworkremotely.com/remote-jobs/commercetools-integrated-offerings-mid-senior-frontend-engineer-studio-fully-remote-f-m</a></p>
 
                 </details>
                 </td>
@@ -94,7 +163,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-1347890" align="right" target="_blank">Apply</a>
