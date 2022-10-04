@@ -1,5 +1,82 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/6dc45b6c55b515c5d5d3bf9cd4cf7d6f1664781331.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Orderly</h5>
+                    <h3>DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>cryptocurrency,grafana,system,security,python,test,devops,financial,video,cloud,management,engineer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-devops-engineer-orderly-127356" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2 style="text-align:center;"><strong>Work with the best</strong></h2>
+<p>Orderly Network is a permissionless, decentralized exchange protocol and modular ecosystem built on top of NEAR. It uses an on-chain orderbook to provide a platform complete with a risk engine, matching engine, and shared asset pools for Dapps to build on top of. Dapps built on the Orderly Network will allow for financial instruments such as; Spot Trading, Margin Trading, Perpetual Swaps and Lending & Borrowing.</p>
+<p>Whilst a fully independent team operates at Orderly Network, we were incubated by NEAR and WOO Network - Industry heavyweights in their respective fields. Thanks to both the guidance and expertise Orderly Network will offer market-leading execution with low latency and minimal fees with a combination of orderbook efficiency alongside on-chain settlement. We will become the go-to network for ecosystem partners to come and build upon.</p>
+<h2 style="text-align:center;"><strong>A Glimpse into Your Future at Orderly Network</strong></h2>
+<ul>
+<li>
+<span style="text-decoration:underline;"><em>What will you be working on?</em></span>
+<ul>
+<li>The individual will be responsible for monitoring our exchange service status, refining deployment pipeline, monitoring, troubleshooting and identifying the root cause of issues.</li>
+<li>Focus on ensuring the stability of the service and helping dev-team to deploy features to production.</li>
+<li>Responsible for handling and solving issues when service goes wrong.</li>
+<li>Responsible for designing a better deployment pipeline.</li>
+<li>Build tools to monitor systems and identify issues.</li>
+</ul>
+</li>
+<li>
+<em>Who will you be working with?</em>
+<ul>
+<li>Work with development and test engineers.</li>
+</ul>
+</li>
+<li>
+<em>What challenges will you face?</em>
+<ul>
+<li>Knowledge of blockchain/crypto service or expertise in the online blockchain/crypto industry is a BIG plus.</li>
+<li>Enjoys breaking things and solving problems - not just able to find out the 'what', but also the 'why'.</li>
+<li>Excellent troubleshooting, listening and problem-solving skills with the ability to set project expectations and meet deadlines.</li>
+<li>Ability to work in a fast-paced, multi-task environment.</li>
+</ul>
+</li>
+<li>
+<em>What tech stacks/skills will you be using?</em>
+<ul>
+<li>Nice to have! - Telegram bot</li>
+<li>Nice to have! - Security related experience</li>
+<li>Nice to have! - Develop tools to simplify DevOps work</li>
+<li>Familiar with GCP, AWS or other cloud services.</li>
+<li>Have experience in CI|CD Workflow.</li>
+<li>Familiar with Docker, kubernetes and have experience in using Kubernetes to manage production-grade cluster.</li>
+<li>Familiar with mysql, mq and redis.</li>
+<li>Familiar with monitoring system prometheus, be able to customize grafana dashboard.</li>
+<li>Familiar with logging system ELK or EFK.</li>
+<li>Coding ability: python or golang.</li>
+<li>24/7 on-call when there are urgent issues to handle and must be handled in a timely + responsible manner.</li>
+</ul>
+</li>
+</ul>
+<h2 style="text-align:center;"><strong>Interested in Learning More?</strong></h2>
+<ul>
+<li>Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.</li>
+<li>If you have experience in developing trading systems or financial-related products is a plus.</li>
+<li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
+<li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our <a href="https://boards.greenhouse.io/orderlynetwork/jobs/5170520003" target="_blank" rel="noopener noreferrer nofollow">External Referral Incentives Program</a> as well. </li>
+</ul><br/><br/>Please mention the word **UPLIFTING** and tag RNTQuOTIuMTYxLjE0 when applying to show you read the job post completely (#RNTQuOTIuMTYxLjE0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +87,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-9" align="right" target="_blank">Apply</a>
@@ -81,7 +158,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>123 days ago</text>
+                <text>124 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-devops-engineer-1" align="right" target="_blank">Apply</a>
@@ -137,7 +214,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1344659" align="right" target="_blank">Apply</a>
