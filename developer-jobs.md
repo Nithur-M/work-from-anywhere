@@ -10,7 +10,7 @@
                     <code>developer,crypto,software,fintech,management,junior,marketing,sales,recruitment,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-junior-business-developer-keyrock-126347" align="right" target="_blank">Apply</a>
@@ -40,7 +40,7 @@
 <li style="list-style-type:disc;font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Complete autonomy in your time management thanks to flexible working hours and the opportunity to work remotely </span></p></li>
 <li style="list-style-type:disc;font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The freedom to create your own entrepreneurial experience by being part of a team of people in search of excellence who all receive stock options from the first year</span></p></li>
 <li style="list-style-type:disc;font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:7pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">A ton of fun in a thriving and multicultural environment, with colleagues enjoying regular team building activities </span></p></li>
-</ul><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Keyrock offers you both a career and a large range of benefits that we will gladly discuss in the course of the application process.</span></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><br></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">As an employer we are committed to build an inclusive, diverse and non-discriminating work environment. We welcome employees of all backgrounds, ethnicities, genders, creed and sexual orientation. We hire, reward and promote entirely based on merit and performance.</span></p><br/><br/>Please mention the word **BREATHTAKINGLY** and tag RNTIuMjAxLjIzNy4yMTU= when applying to show you read the job post completely (#RNTIuMjAxLjIzNy4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Keyrock offers you both a career and a large range of benefits that we will gladly discuss in the course of the application process.</span></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><br></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">As an employer we are committed to build an inclusive, diverse and non-discriminating work environment. We welcome employees of all backgrounds, ethnicities, genders, creed and sexual orientation. We hire, reward and promote entirely based on merit and performance.</span></p><br/><br/>Please mention the word **BREATHTAKINGLY** and tag RNTQuOTIuMTYxLjE0 when applying to show you read the job post completely (#RNTQuOTIuMTYxLjE0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -55,7 +55,7 @@
                     <code>developer,teaching,software,web,voice,education,finance,marketing,engineer,engineering,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-relations-engineer-near-125835" align="right" target="_blank">Apply</a>
@@ -90,36 +90,117 @@
 <p>NEAR's mission is to enable community-driven innovation to benefit people around the world. The NEAR platform provides a decentralized application platform that is secure enough to manage high value assets like money or identity and performant enough to make them useful for everyday people, putting the power of Open Finance and the Open Web in their hands.</p>
 <p>The NEAR platform, NEAR Protocol and associated tooling are being built by the NEAR Collective, a collection of the best engineers in the world who work across teams, companies and countries similar to other large scale open source projects. Core contributors include a couple of 2-time ICPC world champions, 2 gold medalists, a Latin American champion and multiple other competitive programming finalists.</p>
 <h3>Working at NEAR</h3>
-<p>Roles are posted to this portal on behalf of the companies that make up the NEAR Collective and are typically located anywhere in the world because most of the companies are fully remote. Some hubs are located in Switzerland, Germany, Russia, the US and China. Regardless of where you work, this is a high performance culture that values ownership, execution and professionalism but pairs it with curiosity and experimentation. The vision is big but the right team is behind it.</p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/-hOWM-o7N5k" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ADEQUATE** and tag RNTIuMjAxLjIzNy4yMTU= when applying to show you read the job post completely (#RNTIuMjAxLjIzNy4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>Roles are posted to this portal on behalf of the companies that make up the NEAR Collective and are typically located anywhere in the world because most of the companies are fully remote. Some hubs are located in Switzerland, Germany, Russia, the US and China. Regardless of where you work, this is a high performance culture that values ownership, execution and professionalism but pairs it with curiosity and experimentation. The vision is big but the right team is behind it.</p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/-hOWM-o7N5k" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ADEQUATE** and tag RNTQuOTIuMTYxLjE0 when applying to show you read the job post completely (#RNTQuOTIuMTYxLjE0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/c8b15989543fb21f9565bb87766f24c51664460336.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8743/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>3XM Group</h5>
-                    <h3>Senior Cloud Developer</h3>
+                    <h5>FinDox Inc</h5>
+                    <h3> Senior C# and PostgreSQL Backend Developer</h3>
                 </td>
                 <td width="300">
-                    <code>design,content,senior,marketing,analytics,sales,engineering,digital nomad,manager,amazon,consulting,web,devops,cloud,leader,lead,developer,software</code>
+                    <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-cloud-developer-3xm-group-125410" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-2" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                3XM Group develops quality software solutions, with offices in the US and Argentina. We aim to be strategic advisors for our clients, taking care of all their technology needs, focusing on delivering tailored solutions on-time and within scope.
-We provide Data Analytics, Cloud, DevOps, and Software Development services, with agile teams that can work with you as stand-alone teams, integrating into your inhouse dev teams, or providing external architectural guidance.
+                <img src="https://we-work-remotely.imgix.net/logos/0074/8743/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
-We are looking for an experienced Cloud Developer to contribute on building a platform for our client located in the US. You will have the chance to work on new features that can create a big impact on their clients' needs. You will also be part of a multi-disciplinary and distributed team.
+<p>
+  <strong>Headquarters:</strong> El Segundo, California
+    <br /><strong>URL:</strong> <a href="https://about.findox.com/">https://about.findox.com/</a>
+</p>
 
-<br/><br/>Please mention the word **UNFAZED** and tag RNTIuMjAxLjIzNy4yMTU= when applying to show you read the job post completely (#RNTIuMjAxLjIzNy4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<div>Awesome remote back-end developer role doing challenging and rewarding work.</div><div><br></div><div><strong>You:</strong></div><div>Attitude &amp; Fit<strong>   </strong>
+</div><ul>
+<li>Positive attitude</li>
+<li>Love building scalable, well-organized code </li>
+<li>Exceptional problem solving skills</li>
+<li>Strive for excellence in all you do</li>
+</ul><div><br></div><div>Experience &amp; Skills</div><ul>
+<li>4+ years work experience with .NET</li>
+<li>PostgreSQL experience is a plus </li>
+<li>Demonstrated experience building and architecting back-end APIs</li>
+<li>Good written and oral communication skills in English</li>
+</ul><div><br></div><div>Candidates will complete a rigorous technical evaluation. </div><div><br></div><div><strong>Position:</strong></div><ul>
+<li>Architect, design, and implement new functionality in .net core using our framework</li>
+<li>Write database migrations and stored procedures</li>
+<li>Help research and troubleshoot production issues </li>
+<li>Improve platform performance by refactoring code, workflows, and stored procedures</li>
+<li>Able to train other developers and potentially able to lead a team in the future</li>
+</ul><div><br></div><div>You must be able to work substantially during normal business hours in the Pacific Time Zone (8am to 4pm UTC -8:00, Los Angeles time). We prefer candidates in North America and South America. We do deployments every other Thursday night from 7 pm - 9 pm PST.</div><div><br></div><div>Competitive compensation and contract type depending on qualifications and location.</div><div><br></div><div>Our technologies used:</div><div>.NET 6, C#, REST API, Javascript, HTML, CSS, VueJS, SQL, PostgreSQL, Linux, Microsoft Azure, Dokan File System Filter, Outgoing email, Incoming email processing, Gitlab, WinForms, NodeJS</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-2">https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7569/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Dagabase</h5>
+                    <h3> Lead Front-End Developer (Sr. Developer)</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/dagabase-lead-front-end-developer-sr-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7569/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://dagabase.com">https://dagabase.com</a>
+</p>
+
+<h4><strong>About Dagabase</strong></h4><p>Dagabase is a decentralized Cloud data storage solution that keeps things simple.</p><p>And by simple, we mean: secure, stable, and cost-effective. By removing the complexity and drama from what should have always been guaranteed simplicity, we make room for magic. </p><p>Dagabase is comprised of a strong, ever-growing network of independent devices. The solution is decentralized, which means that you are not dependent on third-party controls or vulnerable to third-party outages. Decentralized data storage is not concentrated in the hands of only one player. It is, instead, a system of devices and nodes owned - and “rented out” - by enterprises or even individuals. While Dagabase provides the solution and the network, the availability of your data is guaranteed by multiple independent participants within the network, and control lies with you.</p><p>If you are energized by the chance to play a key role in tackling decentralization challenges and unlocking new opportunities for Dagabase, to help us help millions of organizations reclaim their data and own their cloud.</p><p><br><strong>About the position</strong></p><p>We are looking for a Lead Front-End Developer to help us shape the future of the cloud.</p><p>You will be part of a team focused on creating our main platform experience with web3 technologies. This position is perfect for someone enthusiastic about web3 products and who wants to work on initiatives with major impact and cutting-edge technologies.</p><p>We are looking for an exceptional developer to lead by example, participate in task-oriented development, roadmap planning, and prepare the necessary foundational work to ensure our platform is successful.</p><p>You will work in a senior team to ensure that changes proposed for our web application are suitable both for the customer and the long-term health of our product and Dagabase itself. In addition, you will monitor the impact of deployed changes to ensure we maintain the high standards we expect from ourselves and our product.</p><p><br><strong>About you</strong></p><p>You know and love everything about web* technologies (e.g., HTTP, WebSockets, Web RTC, DOM, CSS, and the browser as a platform) but have a breadth-first approach to software engineering/development, looking outside the browser platform when needed to learn what is required to do your best work. Ideally, you’ve recently been curious about web3 and have played with popular tools like ethers, wallet connect/metamask, and passionate about decentralization. In addition, you have at least 7+ years of experience doing front-end development with Vue.JS, TypeScript, and Node.js.</p><p>You enjoy building data-intensive applications and want to push the boundaries of what component-based declarative front-ends can do. If that sounds like you, we invite you on a journey mixed with challenges, fun, and gratification. As a result, you will deliver highly performant, delightful, and consistent user experiences across web and mobile platforms.</p><p><br><strong>Requirements</strong></p><ul>
+<li><p>Proficiency in TypeScript and Vue</p></li>
+<li><p>Exposure to writing unit, integration, and E2E tests</p></li>
+<li><p>Have a keen eye for UI details. Pixel perfection is a must</p></li>
+<li><p>Experience in Figma</p></li>
+<li><p>Understanding of Web RTC and progressive web apps</p></li>
+<li><p>Experience with Vite, Docker, Git, and CI/CD</p></li>
+<li><p>Experience in mobile and responsive development </p></li>
+</ul><p></p><p><strong>Culture Fit</strong></p><ul>
+<li><p>Agile: able to move quickly and be adaptable to hit bold and daring goals.</p></li>
+<li><p>Intellectually Curious: energized by variety and change and always looking for ways to introduce new approaches that challenge the status quo</p></li>
+<li><p>Analytical: comfortable turning numbers into knowledge and action.</p></li>
+<li><p>Proactive: bias for action and independent thinking in ambiguous environments</p></li>
+<li><p>Humble: ready to learn from others and yourself; eager for professional and personal growth</p></li>
+<li><p>Empathetic: a human who engages deeply with other humans.</p></li>
+<li><p>Courageous: willing to fight for your beliefs and champion new approaches, especially when it is hard and risky to do so</p></li>
+</ul><p></p><p><strong>Benefits</strong></p><ul>
+<li><p>Remote Work</p></li>
+<li><p>Paid Time Off</p></li>
+<li><p>Training and learning reimbursement</p></li>
+<li><p>Parental Leave</p></li>
+<li><p>Equity Opportunities</p></li>
+<li><p>Cobra Reimbursement</p></li>
+</ul><p>Dagabase is an equal-opportunity employer. We believe that diversity is integral to our success and do not discriminate based on race, color, religion, age, or any other basis.</p><p><strong>Note: A coding challenge and identity verification are a required part of employment.</strong> </p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/dagabase-lead-front-end-developer-sr-developer">https://weworkremotely.com/remote-jobs/dagabase-lead-front-end-developer-sr-developer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -134,7 +215,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-react-native-lead-developer" align="right" target="_blank">Apply</a>
@@ -179,201 +260,6 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>XM </h5>
-                    <h3> Senior Full Stack Developer – Cyprus</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-senior-full-stack-developer-cyprus" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Limassol
-    <br /><strong>URL:</strong> <a href="https://www.xm.com/careers/sfsd1022">https://www.xm.com/careers/sfsd1022</a>
-</p>
-
-<div>
-<strong>Reference Number: SFSD1022<br></strong><br>
-</div><div>
-<strong>The Role: <br></strong><br>
-</div><div>We are looking for an enterprising developer to bring our algorithmic trading platform to the next level! You will be working with the latest technologies and design principles to propel our platform to greater heights. This role has it all! You’ll be given containerization, event-driven micro services, challenging problems, personal growth, and the chance to be part of a fun, small, agile team!<br> <br><br>
-</div><div>You’ll harness your skills as a Senior Developer to help us design and implement new, event-driven micro services, to solve new challenges. You will be a proactive team player, searching for new ways to improve our system performance and stability. You will explore new technologies for different problems and pick the right tools for the job. Our tech stack includes Rabbit MQ, Kafka, Docker, Java, Go, Angular, Prometheus, Kubernetes, Swarm, Maria DB and Influx DB, among others. Take your skills and knowledge to the next level by joining our team!</div><div> </div><div>
-<strong>The main responsibilities of the position include:<br></strong><br>
-</div><ul>
-<li>Design and implement event-driven microservices using Spring Boot framework </li>
-<li>Design and develop front-end applications using Angular Framework </li>
-<li>Follow test-driven development, continuous integration, and agile methodologies </li>
-<li>Participate in code reviews </li>
-<li>Continuously strive to optimise system performance and resiliency</li>
-</ul><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>Main requirements:<br></strong><br>
-</div><div>·         BSc/MSc in computer science, engineering, or any other relevant degree</div><div>·         At least 5 years of work experience in Java development</div><div>·         Ability to produce production-ready code </div><div>·         Very good knowledge of programming best practices and design patterns</div><div>·         Good understanding of algorithmic complexity, data structures, and multi-threading concepts</div><div>·         Solid experience in Spring Framework</div><div>·         Familiarity with Typed Script Frameworks </div><div>·         Good knowledge of micro services architecture</div><div>·         Experience in developing highly concurrent/high throughput software</div><div>·         Strong team working skills and interest in personal development</div><div>·         Strong problem-solving skills </div><div>·         Experience with Docker, Docker Swarm and Kubernetes</div><div>·         Ability to work in Agile environment</div><div>·         Experience with monitoring tools such Prometheus and Grafana<br><br>
-</div><div>
-<strong>The following will be considered an advantage:<br></strong><br>
-</div><div>·         Knowledge of AWS Cloud Services</div><div>·         Familiarity with CI/CD process (GitLab, Kubernetes, Docker Swarm)<br><br>
-</div><div>
-<strong>Benefit from:<br></strong><br>
-</div><ul>
-<li>Attractive remuneration package plus performance related reward</li>
-<li>Private health insurance</li>
-<li>Corporate pension fund</li>
-<li>Food allowance</li>
-<li>Intellectually stimulating work environment</li>
-<li>Continuous personal development and international training opportunities</li>
-<li>Attractive relocation package and support for you and your family</li>
-</ul><div> <br><br>
-</div><div><br></div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position.</div><div> </div><div>
-<strong>All applications will be treated with strict confidentiality!<br></strong><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-senior-full-stack-developer-cyprus">https://weworkremotely.com/remote-jobs/xm-senior-full-stack-developer-cyprus</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7378/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Aldrin</h5>
-                    <h3> Senior Front-End Developer Web3 (Remote)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-front-end-developer-web3-remote-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/7378/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> 
-    <br /><strong>URL:</strong> <a href="https://aldrin.com">https://aldrin.com</a>
-</p>
-
-<div>
-<strong>The Role<br></strong><br>
-</div><div>We are looking for a <strong>Senior Front-End Developer Web3 (Remote)</strong> to develop front-end applications for Aldrin Lab´s innovative Web3 products.<br><br>
-</div><div>You will:<br><br>
-</div><ul>
-<li>Build, deploy, and mature user-friendly, highly secure, maintainable, high-performance scalable interfaces, and client-facing UI systems</li>
-<li>Work closely with our product and design teams to develop new features from design to production</li>
-<li>Have an entrepreneurial spirit and bring ideas to front-end development</li>
-<li>Work effectively with a high degree of autonomy, but also enjoy working collaboratively in a team</li>
-<li>Understand the front-facing user experience of our products, and work alongside other team members to ensure that we utilize best principles/practices</li>
-<li>Design new and optimize existing systems and participate in design reviews</li>
-</ul><div><br></div><div><strong>Minimum Qualifications:</strong></div><ul>
-<li>
-<strong>5+ years</strong> of experience in front-end development</li>
-<li>
-<strong>Expertise </strong>in front end development with <strong>React</strong> with an understanding of React best practices, optimizations, and profiling</li>
-<li>Strong experience with GraphQL/Apollo/REST</li>
-<li>Verbal fluency in English</li>
-<li>Interest and enthusiasm for crypto markets, blockchain technology, decentralized finance, and the whole Web3 ecosystem</li>
-</ul><div><br></div><div><strong>Nice-to-Have Qualifications:</strong></div><ul>
-<li>Experience with <strong>TypeScript</strong>
-</li>
-<li>First-hand experience with Web3 front-end technologies and developing DeFi applications and/or FinTech applications</li>
-<li>Experience working with a large codebase and e2e testing like Cypress</li>
-<li>BS in Computer Science or equivalent</li>
-</ul><div>
-<br><strong>Benefits</strong>
-</div><ul>
-<li>Competitive salary + tokens/equity</li>
-<li>100% remote working</li>
-<li>Flexible working hours</li>
-<li>Opportunity to work with a diverse, global, and passionate team</li>
-<li>Collaboration with leading projects and thought leaders in the crypto space</li>
-</ul><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-front-end-developer-web3-remote-1">https://weworkremotely.com/remote-jobs/aldrin-senior-front-end-developer-web3-remote-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>XM</h5>
-                    <h3> iOS Developer – Cyprus, Greece or Remote</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>11 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-4" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Cyprus, Greece or Remote
-    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
-</p>
-
-<div>
-<strong>Reference Number: iOS1021<br></strong><br>
-</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>The Role: <br></strong><br>
-</div><div>We are looking for an iOS Developer with a passion for pushing mobile technologies to the limits and is willing to work with our team of talented engineers to develop Company’s enterprise suite of iOS applications.<br><br>
-</div><div> </div><div><strong>The main responsibilities of the position include:</strong></div><div>·        Be part of the development of company's complex mobile application (challenging requirements such as security, live updates and complex business rules)</div><div>·        Emphasis on code quality delivery: unit and snapshot testing, UI testing</div><div>·        Follow continuous integration and Agile Methods; read and submit merge requests</div><div>·        Invest in multiple areas of the mobile development cycle: CI/CD, app health monitoring and alerting, data-driven analysis</div><div>·        Present ideas for system improvements and help to shape the future of our company</div><div>·        Continuously monitor and improve application, reliability and performance optimisation</div><div>·        Participate in design sprints when building new features or products</div><div> </div><div>
-<strong>Main requirements:<br></strong><br>
-</div><div>·        BSc/MSc in Computer Science, Engineering, or any other relevant degree<br><br>
-</div><div>·        2+ years of experience on iOS development (Swift and the iOS SDK, Xcode, Apple Human Interface Guidelines)</div><div>·        Passion for mobile applications and a keen interest on personal development </div><div>·        Solid understanding of the full mobile development life cycle</div><div>·        Have successfully published at least one iOS application to App Store (portfolio of apps on App Store)  </div><div>·        A keen interest in benchmarking and optimisation</div><div>·        Showcase of open-source projects and technical blogs will be considered as a plus</div><div>·        Proactive, sharp, efficient and organised</div><div>·        Excellent team working skills</div><div> </div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>Benefit from:<br></strong><br>
-</div><div>·        Attractive remuneration package</div><div>·        Food allowance </div><div>·        Intellectually stimulating work environment</div><div>·        Continuous personal development and international training opportunities</div><div>
-<br> <br><br>
-</div><div>
-<br>Type of employment: Full time<br><br>
-</div><div>
-<br> <br><br>
-</div><div>
-<br>Location: Cyprus, Greece or Remote<br><br>
-</div><div> </div><div>
-<br>Please visit this linkhttps://www.xm.com/careers/ios1021 to submit your online application for this position.<br><br>
-</div><div>
-<strong><br>All applications will be treated with strict confidentiality!<br></strong><br>
-</div><div> </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-4">https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-4</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6597/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -384,7 +270,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-lead-back-end-developer-node-js-web3-remote" align="right" target="_blank">Apply</a>
@@ -462,7 +348,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>332 days ago</text>
+                <text>333 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-blockchain-developer" align="right" target="_blank">Apply</a>
@@ -507,7 +393,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>691 days ago</text>
+                <text>692 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -586,7 +472,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -663,7 +549,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -732,7 +618,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>api,CSS,developer,docker</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
@@ -833,7 +719,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>AWS,cloud,CSS,developer</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1393221" align="right" target="_blank">Apply</a>
@@ -858,7 +744,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -935,7 +821,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -960,7 +846,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -985,7 +871,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -1010,7 +896,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -1035,7 +921,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -1060,7 +946,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -1085,7 +971,7 @@ We are looking for an experienced Cloud Developer to contribute on building a pl
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
