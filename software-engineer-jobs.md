@@ -1,5 +1,146 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/36330b3a15babcd46e7f194a4e365e8b1664781343.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Orderly</h5>
+                    <h3>Software Engineer Rust</h3>
+                </td>
+                <td width="300">
+                    <code>software,cryptocurrency,security,developer,code,financial,video,fintech,management,reliability,engineer,engineering,educational,full-time,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-rust-orderly-127358" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2 style="text-align:center;"><strong>Work with the best</strong></h2>
+<p>Orderly Network is a permissionless, decentralized exchange protocol and modular ecosystem built on top of NEAR. It uses an on-chain orderbook to provide a platform complete with a risk engine, matching engine, and shared asset pools for Dapps to build on top of. Dapps built on the Orderly Network will allow for financial instruments such as; Spot Trading, Margin Trading, Perpetual Swaps and Lending & Borrowing.</p>
+<p>Whilst a fully independent team operates at Orderly Network, we were incubated by NEAR and WOO Network - Industry heavyweights in their respective fields. Thanks to both the guidance and expertise Orderly Network will offer market-leading execution with low latency and minimal fees with a combination of orderbook efficiency alongside on-chain settlement. We will become the go-to network for ecosystem partners to come and build upon.</p>
+<h2 style="text-align:center;"><strong>A Glimpse into Your Future at Orderly Network</strong></h2>
+<ul>
+<li>
+<span style="text-decoration:underline;"><em>What will you be working on?</em></span>
+<ul>
+<li>Develop new protocols on the innovative Solana or NEAR blockchain.</li>
+<li>Write and review technical proposals.</li>
+<li>Write, test, and deploy high-performance, networking code.</li>
+<li>Design product architecture according to business needs.</li>
+<li>Program and optimize rust/wasm based smart contracts.</li>
+<li>Develop infrastructure software.</li>
+<li>Implement advanced features from scratch.</li>
+<li>Perform technical analysis and contribute to code reviews.</li>
+<li><span style="font-weight:400;">Provide the vision of how the project should be driven forward from a technical perspective.</span></li>
+<li>Take part in our educational blockchain programs and make your contribution to our startups.</li>
+</ul>
+</li>
+<li>
+<span style="text-decoration:underline;"><em>What challenges will you face?</em></span>
+<ul>
+<li><span style="font-weight:400;">We're looking for a Rust Developer who has been involved in blockchain projects. This is a full-time remote position (possibility to work remotely as fully as partially). We are seeking a determined and creative developer who is passionate about changing the world through technology, someone who will  join a team responsible for implementation of various solutions in the Blockchain and FinTech domains where reliability and efficiency of software is crucial.</span></li>
+</ul>
+</li>
+<li>
+<span style="text-decoration:underline;"><em>What tech stacks/skills will you be using?</em></span>
+<ul>
+<li><span style="font-weight:400;">5+ years of software engineering experience.</span></li>
+<li><span style="font-weight:400;">Experience with Virtual machines used by modern blockchains: WebAssembly, EVM, COSMWASM (would be a plus).</span></li>
+<li><span style="font-weight:400;">Knowledge of best practices in blockchain management and data protection (would be a plus).</span></li>
+<li>You have working experience with Rust in Solana ecosystem.</li>
+<li>Experience or understanding the approach of smart contracts development.</li>
+<li>Experience with relational and non-relational databases.</li>
+<li>Knowledge of REST principles.</li>
+<li>You understand the OOP, OOD, SOLID principles.</li>
+<li>Deep knowledge of standard algorithms and data structures.</li>
+<li>You can analyze and optimize the platformâs performance.</li>
+<li>You have experience with security audits of third-party and internal solutions.</li>
+<li>You are interested in Solana or Near ecosystem.</li>
+<li>You possess strong written and verbal communication skills in English.</li>
+</ul>
+</li>
+</ul>
+<h2 style="text-align:center;"><strong>Interested in Learning More?</strong></h2>
+<ul>
+<li>Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.</li>
+<li>If you have experience in developing trading systems or financial-related products is a plus.</li>
+<li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
+<li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our <a href="https://boards.greenhouse.io/orderlynetwork/jobs/5170520003" target="_blank" rel="noopener noreferrer nofollow">External Referral Incentives Program</a> as well. </li>
+</ul><br/><br/>Please mention the word **ANGELIC** and tag RNTQuOTIuMTYxLjE0 when applying to show you read the job post completely (#RNTQuOTIuMTYxLjE0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0075/9489/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Athelas</h5>
+                    <h3> Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/athelas-software-engineer-3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0075/9489/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Mountain View, CA
+    <br /><strong>URL:</strong> <a href="https://athelas.com">https://athelas.com</a>
+</p>
+
+<div>This role will be focusing on driving the design and implementation of general software that allows practices to have better viability and control over their revenue billing cycles, thus having more time to focus on patients and deliver better services. We are looking for someone with a minimum of two years of software engineering experience. <em>You will receive a basic take-home assessment immediately after application to complete. Once we review the submission and feedback is positive, then we will reach out to schedule the first interview.<br><br></em><strong><em>Compensation range: $30,000 - $35,000 USD</em></strong><em><br></em><strong><br>What You Have</strong>
+</div><ul>
+<li><strong>Able to work flexible hours based on US time-zone </strong></li>
+<li><strong>At least two years of production software engineering experience</strong></li>
+<li><strong>Expert in Python</strong></li>
+<li>Able to work on both front-end and back-end in general and deliver product end to end</li>
+<li>Basic understanding of cloud solutions (GCP, Docker, Kubernetes)</li>
+<li>Familiarity with modern software development methodologies and cycles</li>
+<li>Understand standard web-based technologies, such as restful standards and relational databases (eg PostgreSQL)</li>
+<li>Have a strong product engineering sense with a can-do builder attitude</li>
+<li>Able to identify opportunities to improve the current process</li>
+</ul><div>
+<br><strong>Bonus Points If You Have:</strong>
+</div><ul>
+<li>Having worked on greenfield projects before, build and ship products from scratch </li>
+<li>Worked in the healthcare industry before</li>
+<li>Experience working in a fast pace environment (we ship fast)</li>
+<li>Remote work experience</li>
+<li>Familiarity with BI software</li>
+</ul><div>
+<br><strong>Why You’ll Like Working with Athelas</strong>
+</div><ul>
+<li>Rockstar Team: Join a team with an incredible record - we are the smallest, fastest company in history to receive FDA hematology clearance. We are also the largest Remote Patient Monitoring company in the US</li>
+<li>Technology Focus: Revolutionizing how technology can be used in the healthcare industry</li>
+<li>Strong Backing: $132M Series B raised from the likes of Sequoia, General Catalyst, Tribe, Y Combinator</li>
+<li>Mission Driven: We are changing the way healthcare is provided, bringing it directly to the people who need it with technology-enabled solutions</li>
+<li>Incredible Growth: 10x patient growth in 2021 and we're just getting started</li>
+</ul><div>
+<em><br></em><strong>About Us:<br><br>At Athelas we're bringing simple, life-changing health care products to people around the globe.<br></strong><br>
+</div><div>The future of healthcare is at the home - we are a team of technologists building the next generation of medical products at the intersection of hardware and software. We won’t stop until we’ve brought the world class tools of a hospital to your home.</div><div> </div><div>We develop hardware, software, and diagnostics to improve the lives of chronic care patients (cancer, hypertension, schizophrenia, bipolar disorder).</div><div>
+<br>In the US, 80% of healthcare spend occurs in 20% of patients. We aim to drastically reduce this cost through modern software, hardware, and preventative care services. Its core device (FDA Class 2 cleared) uses machine-learning trained on cell classification to allow chronic patients to monitor their white blood count at home. Its core software product is a platform to help doctors monitor vitals, trends, etc. of such patients, so that physicians and patients can stay aligned without direct interaction.<br><br>
+</div><div>
+<br>We've raised $132 million at a $1.5 billion valuation from top tier investors such as General Catalyst, Sequoia Capital, Y Combinator, and Initialized.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/athelas-software-engineer-3">https://weworkremotely.com/remote-jobs/athelas-software-engineer-3</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3712/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +151,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller" align="right" target="_blank">Apply</a>
@@ -64,87 +205,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/6479/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Liquid Web Family of Brands</h5>
-                    <h3> Software Engineer - WordPress</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/liquid-web-family-of-brands-software-engineer-wordpress" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/6479/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Lansing, MI
-    <br /><strong>URL:</strong> <a href="https://www.liquidweb.com/">https://www.liquidweb.com/</a>
-</p>
-
-<div>
-<br>The Managed Applications Development team is focused on building features and scaling solutions into the platform that powers Nexcess Managed Hosting content and ecommerce applications for our customers.  We are looking for a mid-level software engineer to join our passionate, collaborative, and globally distributed team.  An ideal candidate should be well versed in PHP, or have a strong background in one or more object oriented languages and eager to learn a new one. Additionally, candidates with a background in Web Hosting and Linux System Administration are highly desired.<br><br>
-</div><div>We are looking for a mid-level or senior-level Software Engineer to join our team focused on development in the WordPress space.  This is a 100% remote position working on a remote-first team building highly scalable software solutions used across all existing and future managed WordPress hosting clients.<br><br>
-</div><div><strong>As a Software Engineer you would:</strong></div><ul>
-<li>Develop new software solutions and maintain existing applications</li>
-<li>Write clean code as part of a team of software developers</li>
-<li>Work collaboratively in an environment of continuous delivery</li>
-<li>Research new technologies that will improve our existing code</li>
-<li>Refactor existing code to leverage greater amounts of automation</li>
-<li>Create acceptance tests for all the code created</li>
-<li>Create, review, and update technical documentation</li>
-<li>Provide constructive feedback and mentoring to other team members</li>
-<li>Integrate existing third party products into the platform via API use (and creation)</li>
-<li>Monitor existing issues and create ways to eliminate them<strong><br></strong><br>
-</li>
-</ul><div><strong>You Have:</strong></div><ul>
-<li>Bachelor’s degree in computer science (or equivalent experience)</li>
-<li>Experience creating WordPress plugins and/or themes</li>
-<li>Thorough understanding of MySQL</li>
-<li>Ability to analyze and evaluate data</li>
-<li>Deep experience with software system design</li>
-<li>Demonstrated ability to write both internal and customer-facing documentation</li>
-<li>Ability to deliver effectively in a remote environment</li>
-<li>Experience articulating software requirements</li>
-<li>Proven abilities across the software development lifecycle</li>
-<li>An interest in continuous learning and professional growth</li>
-</ul><div><strong><br>Bonus Points for:</strong></div><ul>
-<li>Deep experience (5+ years) building solutions with WordPress and/or WooCommerce</li>
-<li>Experience coaching and mentoring other developers</li>
-<li>Experience building web applications with modern PHP frameworks like Laravel, Symfony, etc.</li>
-<li>Experience crafting applications using modern PHP (ex: autoloading, dependency management, dependency injection, templating libraries, automated testing, OOP)</li>
-<li>Experience with JS application frameworks (especially React and Vue)</li>
-<li>Experience with deployment automation (GitLab, Travis, GitHub Actions)</li>
-<li>Exceptional HTML &amp; CSS skills</li>
-<li>Previous experience developing solutions with a focus on user experience and accessibility</li>
-</ul><div><strong><br>We Offer:</strong></div><ul>
-<li>100% Employer paid Benefits options - Medical, Dental, Vision, Prescription</li>
-<li>Traditional and Roth 401k with company matching</li>
-<li>A collaborative team culture</li>
-<li>Consistent/set work hours</li>
-<li>Challenging non-redundant daily duties</li>
-<li>A voice in how things get done</li>
-<li>Access to ongoing training</li>
-</ul><div><strong><br>Disclaimer:</strong></div><div>
-<br>This job description is only a summary of the typical functions of the position. It is not intended to be an exhaustive or comprehensive list of all job responsibilities, tasks, or duties. Additional duties and tasks may be assigned as part of the job function. Liquid Web Inc. reserves the right to modify, interpret, or apply this job description in a way that best supports the organizational needs. The job description in no way creates or implies an employment contract. The employment contract remains “at will”. <br><br>
-</div><div>
-<br>Equal Employment Opportunity Policy: Liquid Web is committed to offering equal employment opportunity without regard to age, color, disability, gender, gender identity, genetic information, marital status, military status, national origin, race, religion, sexual orientation, veteran status, or any other legally protected characteristic.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/liquid-web-family-of-brands-software-engineer-wordpress">https://weworkremotely.com/remote-jobs/liquid-web-family-of-brands-software-engineer-wordpress</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -155,7 +215,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>92 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-sr-software-engineer-data-engineer-golang-kafka" align="right" target="_blank">Apply</a>
@@ -208,7 +268,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>211 days ago</text>
+                <text>212 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-blockchain-integrations-1" align="right" target="_blank">Apply</a>
@@ -266,7 +326,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>211 days ago</text>
+                <text>212 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-golang-2" align="right" target="_blank">Apply</a>
@@ -321,7 +381,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>660 days ago</text>
+                <text>661 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/iterative-senior-software-engineer-open-source-dev-tools-core" align="right" target="_blank">Apply</a>
@@ -380,7 +440,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -442,7 +502,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
