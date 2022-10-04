@@ -10,7 +10,7 @@
                     <code>web3,nft,system,software,test,engineer</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-web3-engineer-nifty-126348" align="right" target="_blank">Apply</a>
@@ -46,7 +46,7 @@
 <p><span style="font-weight:400;">Niftyâs, Inc. strives to be a best-in-class and equal opportunity employer.â All qualified applicants  will receive consideration for employment without regard to race, religion, color, national origin,  gender, gender identity, sexual orientation, age, status as a protected veteran, among other  things, or status as a qualified individual with disability. </span></p>
 <p><span style="font-weight:400;">This job posting highlights the most critical responsibilities and requirements of the job. Other duties may be assigned as needed.</span></p>
 <p><span style="font-weight:400;">Nifty's, Inc. Privacy Policy can be found here: </span><a href="https://niftys.com/privacy-policy" rel="noopener noreferrer nofollow"><span style="font-weight:400;">https://niftys.com/privacy-policy</span></a></p>
-<p> </p><br/><br/>Please mention the word **PRODIGIOUS** and tag RNTIuMjAxLjIzNy4yMTU= when applying to show you read the job post completely (#RNTIuMjAxLjIzNy4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p> </p><br/><br/>Please mention the word **PRODIGIOUS** and tag RNTQuOTIuMTYxLjE0 when applying to show you read the job post completely (#RNTQuOTIuMTYxLjE0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -61,7 +61,7 @@
                     <code>developer,javascript,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-customer-solutions-team-1224255" align="right" target="_blank">Apply</a>
