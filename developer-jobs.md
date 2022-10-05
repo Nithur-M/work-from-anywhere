@@ -10,7 +10,7 @@
                     <code>developer,crypto,software,fintech,management,junior,marketing,sales,recruitment,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-junior-business-developer-keyrock-126347" align="right" target="_blank">Apply</a>
@@ -40,7 +40,7 @@
 <li style="list-style-type:disc;font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Complete autonomy in your time management thanks to flexible working hours and the opportunity to work remotely </span></p></li>
 <li style="list-style-type:disc;font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The freedom to create your own entrepreneurial experience by being part of a team of people in search of excellence who all receive stock options from the first year</span></p></li>
 <li style="list-style-type:disc;font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:7pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">A ton of fun in a thriving and multicultural environment, with colleagues enjoying regular team building activities </span></p></li>
-</ul><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Keyrock offers you both a career and a large range of benefits that we will gladly discuss in the course of the application process.</span></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><br></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">As an employer we are committed to build an inclusive, diverse and non-discriminating work environment. We welcome employees of all backgrounds, ethnicities, genders, creed and sexual orientation. We hire, reward and promote entirely based on merit and performance.</span></p><br/><br/>Please mention the word **BREATHTAKINGLY** and tag RNTQuOTIuMTYxLjE0 when applying to show you read the job post completely (#RNTQuOTIuMTYxLjE0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Keyrock offers you both a career and a large range of benefits that we will gladly discuss in the course of the application process.</span></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><br></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">As an employer we are committed to build an inclusive, diverse and non-discriminating work environment. We welcome employees of all backgrounds, ethnicities, genders, creed and sexual orientation. We hire, reward and promote entirely based on merit and performance.</span></p><br/><br/>Please mention the word **BREATHTAKINGLY** and tag RNDQuMjEwLjEwMi4xNTg= when applying to show you read the job post completely (#RNDQuMjEwLjEwMi4xNTg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -55,7 +55,7 @@
                     <code>developer,teaching,software,web,voice,education,finance,marketing,engineer,engineering,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-relations-engineer-near-125835" align="right" target="_blank">Apply</a>
@@ -90,7 +90,7 @@
 <p>NEAR's mission is to enable community-driven innovation to benefit people around the world. The NEAR platform provides a decentralized application platform that is secure enough to manage high value assets like money or identity and performant enough to make them useful for everyday people, putting the power of Open Finance and the Open Web in their hands.</p>
 <p>The NEAR platform, NEAR Protocol and associated tooling are being built by the NEAR Collective, a collection of the best engineers in the world who work across teams, companies and countries similar to other large scale open source projects. Core contributors include a couple of 2-time ICPC world champions, 2 gold medalists, a Latin American champion and multiple other competitive programming finalists.</p>
 <h3>Working at NEAR</h3>
-<p>Roles are posted to this portal on behalf of the companies that make up the NEAR Collective and are typically located anywhere in the world because most of the companies are fully remote. Some hubs are located in Switzerland, Germany, Russia, the US and China. Regardless of where you work, this is a high performance culture that values ownership, execution and professionalism but pairs it with curiosity and experimentation. The vision is big but the right team is behind it.</p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/-hOWM-o7N5k" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ADEQUATE** and tag RNTQuOTIuMTYxLjE0 when applying to show you read the job post completely (#RNTQuOTIuMTYxLjE0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>Roles are posted to this portal on behalf of the companies that make up the NEAR Collective and are typically located anywhere in the world because most of the companies are fully remote. Some hubs are located in Switzerland, Germany, Russia, the US and China. Regardless of where you work, this is a high performance culture that values ownership, execution and professionalism but pairs it with curiosity and experimentation. The vision is big but the right team is behind it.</p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/-hOWM-o7N5k" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ADEQUATE** and tag RNDQuMjEwLjEwMi4xNTg= when applying to show you read the job post completely (#RNDQuMjEwLjEwMi4xNTg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -105,7 +105,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-2" align="right" target="_blank">Apply</a>
@@ -158,7 +158,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/dagabase-lead-front-end-developer-sr-developer" align="right" target="_blank">Apply</a>
@@ -205,61 +205,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Create Ape, inc.</h5>
-                    <h3> React Native Lead Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-react-native-lead-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Southern California 
-    <br /><strong>URL:</strong> <a href="https://createape.com/">https://createape.com/</a>
-</p>
-
-<div>
-<a href="https://createape.com"><strong>CreateApe</strong></a><strong> Senior React Native Developer</strong>
-</div><div><em>INDIVIDUALS ONLY - NO AGENCIES</em></div><div><br></div><div>Are you an experienced software developer ready to break out of the corporate world? Want to work for a fun and slightly nerdy crew that lets you flex your dev muscles and build a super diverse portfolio? Then we’ve got a spot for you here at CreateApe! We’re a full-service UX/UI agency that’s growing fast and making waves in the digital design world. Join our fully remote team of design and development experts from all around the world and get rid of that boring office commute.  We want to invest in YOU and your software development career – meaning the more you contribute and become an integral part of our team, the more room for professional growth.</div><div><br></div><div>This is a fully remote position, not restricted by commutes or a particular geographic area.</div><div>
-<strong>Office hours: Monday through Friday, 9AM - 5PM Pacific Time </strong>(<em>UTC -7:00</em>), this position</div><div>requires individuals to be available for meetings and duties during this window.</div><div><br></div><div><em>Who we are:</em></div><div>Create Ape is a fun and lean creative digital agency offering comprehensive solutions to your</div><div>most pressing problems. With over 20 years in the UX/UI design space, we know how to</div><div>elevate your user’s experience and to translate that into real metrics you can actually see: more</div><div>clients &amp; bigger sales.</div><div><br></div><div>Our passionate experts are leaders in their field, covering everything from digital strategy to</div><div>design &amp; development. Our mission is to provide our clients with unparalleled personalized</div><div>solution-based service. We commit to achieving these custom solutions and implementing them</div><div>with a smile.</div><div><br></div><div>At CreateApe, React Native Developers are responsible for building performant mobile apps on both the iOS and Android platforms.  You will be responsible for architecting, coding and deployment of the mobile content to production from Figma design files.  While collaborating with our Design team, the correct individual for this role will be able to fashion everything from the home page to site layout and functionality.  A strong team player and commitment to perfection is required.</div><div><br></div><div><em>Responsibilities:</em></div><div><br></div><ul>
-<li>Write testable, efficient code by using best software development practices</li>
-<li>Integrate data from various back-end services and databases</li>
-<li>Create and maintain software documentation</li>
-<li>Be responsible for maintaining, expanding, and scaling websites</li>
-<li>Stay plugged into emerging technologies/industry trends and apply them into operations and activities</li>
-<li>Cooperate with designers to match visual design intent</li>
-</ul><div><br></div><div><em>Requirements:</em></div><div><br></div><ul>
-<li>Senior React Native Developer</li>
-<li>Fluent in English - we all work and communicate in English and you must be comfortable in that language and able to communicate effectively with the team</li>
-<li>Demonstrated ability to mentor or experience leading small teams</li>
-<li>Developer with the ability to build mobile content from a design in Figma</li>
-<li>At least 3 years of React Native development experience</li>
-<li>Self-authored code in Github or some other repository to demonstrate your ability</li>
-<li>Ability to provide and meet accurate development estimates</li>
-<li>Please provide a Loom video intro briefly describing yourself, what you like to do for fun, and a brief history of your work experience.</li>
-</ul><div><br></div><div>PLEASE INCLUDE YOUR GITHUB LINK OR ANY VERIFIABLE WORK REFERENCES FOR THIS POSITION      </div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-react-native-lead-developer">https://weworkremotely.com/remote-jobs/create-ape-inc-react-native-lead-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6597/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -270,7 +215,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-lead-back-end-developer-node-js-web3-remote" align="right" target="_blank">Apply</a>
@@ -348,7 +293,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>333 days ago</text>
+                <text>334 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-blockchain-developer" align="right" target="_blank">Apply</a>
@@ -393,7 +338,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>692 days ago</text>
+                <text>693 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -472,7 +417,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -549,7 +494,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -618,7 +563,7 @@
                     <code>api,CSS,developer,docker</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
@@ -719,7 +664,7 @@
                     <code>AWS,cloud,CSS,developer</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1393221" align="right" target="_blank">Apply</a>
@@ -744,7 +689,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -821,7 +766,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -846,7 +791,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -871,7 +816,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -896,7 +841,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -921,7 +866,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -946,7 +891,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -971,7 +916,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
