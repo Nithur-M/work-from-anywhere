@@ -10,7 +10,7 @@
                     <code>manager,design,cryptocurrency,financial,finance,banking,leader,management,operational,marketing,healthcare,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-product-manager-funding-voyager-126852" align="right" target="_blank">Apply</a>
@@ -60,7 +60,7 @@
 <p><span style="font-weight:400;">Voyager is headquartered in New York City with satellite offices in New Jersey, California, Toronto and Bordeaux.</span></p>
 <p><span style="font-weight:400;">Please contact us via the button below or at careers@investvoyager.com with your resume and a brief explanation as to why you would like to join the Voyager team.</span></p>
 <p><span style="font-weight:400;">*Please note that during COVID-19 we are working remotely.</span></p>
-</div><br/><br/>Please mention the word **FRESHER** and tag RNTQuOTIuMTYxLjE0 when applying to show you read the job post completely (#RNTQuOTIuMTYxLjE0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **FRESHER** and tag RNDQuMjEwLjEwMi4xNTg= when applying to show you read the job post completely (#RNDQuMjEwLjEwMi4xNTg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -75,7 +75,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-product-manager-technical" align="right" target="_blank">Apply</a>
@@ -133,7 +133,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/commercetools-integrated-offerings-technical-product-manager-core-bundling-fully-remote-f-m" align="right" target="_blank">Apply</a>
@@ -265,7 +265,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-sr-product-manager" align="right" target="_blank">Apply</a>
@@ -338,6 +338,118 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1404410/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>FormSwift</h5>
+                    <h3>Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,C,javascript,marketing</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-1404410" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><strong style="">About Us</strong></div>
+<div>FormSwift develops tools that make it easy to create, edit, and sign any document. Since our founding in 2012, millions of customers have used FormSwift to do everything from making business plans and rental agreements to filling out tax and student loan deferment forms.</div>
+<div> </div>
+<div>Document creation and management are often tricky, but it doesn’t have to be. Our goal is to modernize document creation with software that’s easy to use, fast, and reliable.</div>
+<div> </div>
+<div><strong style="">The Role</strong></div>
+<div>FormSwift is looking for a Product Manager to join our 6 person product team as the third product manager hire. </div>
+<div> </div>
+<div>You will be responsible for growing our customer base by a/b testing on our growth and conversion funnels. You will deliver better user experiences to our 2 million monthly unique visitors through data-driven decision making. You will collaborate with engineering, design, and analytics. You will execute on the product process end-to-end, from identifying opportunities to crafting thoughtful hypotheses to test. At FormSwift, we want you to be customer-obsessed, fail fast, and iterate quickly. </div>
+<div> </div>
+<div>You will work with and be mentored by experienced product managers, designers and engineers.</div>
+<p><br><br></p>
+<div class="h3">Responsibilities</div>
+<ul>
+<li>Build a prioritized a/b testing roadmap for conversion and growth funnels </li>
+</ul>
+<ul>
+<li>Support the customer service team by analyzing user feedback and delivering solutions </li>
+</ul>
+<ul>
+<li>Execute day-to-day agile development process for two engineering subteams</li>
+</ul>
+<ul>
+<li>Work with engineering team leads and managers to project manage and prioritize for engineering maintenance initiatives</li>
+</ul>
+<ul>
+<li>Collaborate with engineering, QA, marketing, analytics, and design</li>
+</ul>
+<ul>
+<li>Work with other product managers to define and execute on product strategy</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Requirements</div>
+<ul>
+<li>Bachelor’s degree with 1-3 years of product management experience</li>
+</ul>
+<ul>
+<li>Demonstrated product intuition and user empathy to craft thoughtful user experiences</li>
+</ul>
+<ul>
+<li>Data-driven and action-oriented</li>
+</ul>
+<ul>
+<li>Creative problem solver willing to pitch in where needed</li>
+</ul>
+<ul>
+<li>Excellent verbal and written communication </li>
+</ul>
+<ul>
+<li>Organized and detail-oriented</li>
+</ul>
+<ul>
+<li>Entrepreneurially-minded: works well with ambiguous instructions, conversion-oriented goals, and a fast-paced environment</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Preferred</div>
+<ul>
+<li>A/b testing experience</li>
+</ul>
+<ul>
+<li>Basic knowledge of SQL and/or analytics tools like Google Analytics and Mixpanel</li>
+</ul>
+<ul>
+<li>Basic knowledge of Javascript</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Benefits</div>
+<ul>
+<li>80% paid premiums for Medical, Dental, and Vision Insurance</li>
+</ul>
+<ul>
+<li>4% 401K Matching</li>
+</ul>
+<ul>
+<li>$150 per month to spend on perks of your choice through Fringe</li>
+</ul>
+<ul>
+<li>Team building via regular company “virtual happy hours” and an annual company trip (Post-COVID)</li>
+</ul>
+<ul>
+<li>Unlimited PTO...take time off when you need it!</li>
+</ul>
+<div><strong style="">5 Things to Know About Working at FormSwift</strong></div>
+<div>1. Modern technologies and practices: We use Python and React (and Next.js) and Terraform on AWS. We practice continuous deployment to iterate on product. </div>
+<div>2. Remote first: All FormSwift employees have the option to work remotely from anywhere in the United States. Post-COVID, we plan to reopen our San Francisco office but will continue to support all employees who wish to work remotely.</div>
+<div>3. Data-driven. We make decisions about what to build using the I-C-E framework. We test and validate changes at each step.</div>
+<div>4. Sustainable: FormSwift has been consistently profitable and has never raised outside funding (venture capital). This gives us the freedom to focus on building great products without worrying about “burn rate.” We also strongly encourage employees to maintain a healthy work/life balance, and work at a sustainable pace and offer unlimited PTO.</div>
+<div>5. Growth: We place a lot of emphasis on employee development. We offer mentorship and professional development opportunities. We’re also growing quickly and prefer promoting current employees to making outside hires (when feasible) as more senior leadership roles open up.</div>
+<img src="https://remotive.com/job/track/1404410/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1388899/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -348,7 +460,7 @@
                     <code>ecommerce,education,marketing,product manager</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-b2c-1388899" align="right" target="_blank">Apply</a>
