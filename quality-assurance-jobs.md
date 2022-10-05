@@ -10,7 +10,7 @@
                     <code>cryptocurrency,system,financial,video,finance,java,management,engineer,linux</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-quality-assurance-engineer-orderly-127359" align="right" target="_blank">Apply</a>
@@ -56,7 +56,7 @@
 <li>If you have experience in developing trading systems or financial-related products is a plus.</li>
 <li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
 <li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our <a href="https://boards.greenhouse.io/orderlynetwork/jobs/5170520003" target="_blank" rel="noopener noreferrer nofollow">External Referral Incentives Program</a> as well. </li>
-</ul><br/><br/>Please mention the word **NOURISHING** and tag RNTQuOTIuMTYxLjE0 when applying to show you read the job post completely (#RNTQuOTIuMTYxLjE0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **NOURISHING** and tag RNDQuMjEwLjEwMi4xNTg= when applying to show you read the job post completely (#RNDQuMjEwLjEwMi4xNTg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -71,7 +71,7 @@
                     <code>sales,management,operations,product</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/qa/quality-assurance-operations-manager-1405937" align="right" target="_blank">Apply</a>
