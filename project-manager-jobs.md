@@ -10,7 +10,7 @@
                     <code>manager,game,growth,management,lead,content,senior,operations,operational,marketing</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-marketing-project-manager-star-atlas-127362" align="right" target="_blank">Apply</a>
@@ -75,7 +75,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Experience in working in a fast-paced hypergrowth environment</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Experience working with geographically remote teams</span></li>
 </ul>
-<p> </p><br/><br/>Please mention the word **NIMBLE** and tag RNDQuMjEwLjEwMi4xNTg= when applying to show you read the job post completely (#RNDQuMjEwLjEwMi4xNTg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p> </p><br/><br/>Please mention the word **NIMBLE** and tag RNTQuMTc1LjEwNC4xNTY= when applying to show you read the job post completely (#RNTQuMTc1LjEwNC4xNTY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -90,7 +90,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-project-manager-3" align="right" target="_blank">Apply</a>
