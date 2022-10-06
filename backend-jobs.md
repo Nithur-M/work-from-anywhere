@@ -1,5 +1,175 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/9a16189c13a8decf0b80cda9e2aec6131664954137.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TRM Labs</h5>
+                    <h3>Senior Software Engineer Backend</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,crypto,cryptocurrency,system,code,web,financial,node.js,senior,engineer,engineering,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-backend-trm-labs-128373" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>At TRM, we're on a mission to build a safer financial system for billions of people around the globe. Our next-generation platform, which combines threat intelligence with machine learning, enables financial institutions and governments to detect cryptocurrency fraud and financial crime on an unprecedented scale.</p>
+<p>As a Senior Backend Engineer at TRM Labs, you will collaborate with an experienced team of data scientists, engineers, and product managers to build highly scalable backend systems and infrastructure for TRM's products <span style="font-weight:400;">that analyze blockchain transaction activity at a massive scale.</span> Bringing your wealth of knowledge to the team, you will be deeply involved in the technical details and ultimately work to build a safer financial system for the world.</p>
+<p><strong>Your responsibilities will include</strong></p>
+<ul>
+<li>Architecting and building highly scalable, reliable, and data-heavy backend systems and APIs that will integrate a variety of data sources</li>
+<li>Building performant, and reliable production-grade systems, from whiteboard to production</li>
+<li>Working across the stack (db, cache, code, deploy) to address technical challenges anywhere in the system</li>
+<li>Mentoring fellow team members and participating in code reviews and design reviews</li>
+<li>Collaborating cross-functionally with data scientists, designers, and product managers to define and implement backend services.</li>
+<li>Creating novel approaches to tackling blockchain-specific challenges around scale, security, and privacy.</li>
+</ul>
+<p><strong>Some of the traits we value:</strong></p>
+<ul>
+<li>Experience designing and building scalable backend systems, web applications, APIs, and services.</li>
+<li>Experience with relational and analytical database systems and modeling, including concepts such as partitioning and indexing (e.g., Postgres).</li>
+<li>Experience with asynchronous job workflows using message queues (eg., Kafka)</li>
+<li><span class="notion-enable-hover">Experience with distributed systems patterns and techniques including fault tolerance, graceful degradation, consistency/ACID, and caching.</span></li>
+<li>Experience with software review, build and deployment systems (e.g., Github, Docker, AWS)</li>
+<li>Experience collaborating in cross-functional team environment with a diverse group of people at all levels in an organization.</li>
+<li>We mostly work in Node.js and Typescript. However, we care more about your general engineering skill than knowledge of a particular language or framework.</li>
+<li>A high degree of initiative and ownership, combined with the ability to navigate ambiguity and adapt quickly to change.</li>
+</ul><div class="content-conclusion">
+<p><strong>About TRM</strong></p>
+<p>TRM Labs is a blockchain intelligence company that helps financial institutions, crypto businesses and government agencies detect and investigate crypto-related financial crime and fraud. Our products are trusted by leading companies including PayPal, Visa, FTX, Uniswap, Anchorage, and federal agencies such as the FBI and Dept. of Treasury. Every day, we tackle challenges in data engineering, data science, and threat intelligence to advance our mission to build a safer financial system for billions of people. </p>
+<p>To accomplish our mission, we have raised nearly $80M from JPMorgan Chase, Visa, Citi, PayPal, Block, Tiger Global and Bessemer. Our team is made up of world class experts from the FBI, U.S. Secret Service, US Treasury Department, McKinsey, Coinbase, and top-tier tech companies.</p>
+<p>TRM is a remote-first workplace, with hubs in San Francisco, Washington, DC and London. We are looking for people with grit, passion, and humility to join our global team.</p>
+<p><strong>Our Values</strong></p>
+<ul>
+<li>
+<strong>Impact Oriented Trailblazer</strong> - We define high-impact targets through customer centricity, prioritization, and adaptability.</li>
+<li>
+<strong>Master Craftsperson</strong> - We execute efficiently to achieve goals through good judgment, velocity, and grit.</li>
+<li>
+<strong>Inspiring Colleague</strong> - We elevate team performance through integrity, apprenticeship, and positive energy.</li>
+</ul>
+<p><strong>Our Employee Benefits</strong></p>
+<ul>
+<li>Remote-first work environment, with optional in-person offices</li>
+<li>Regular team off-sites and retreats</li>
+<li>Competitive salaries and stock options</li>
+<li>Premium health, dental, and vision insurance</li>
+<li>FSA, HSA, and 401K programs</li>
+<li>Life & disability coverage</li>
+<li>Paid time for vacations, volunteering, sick leave, and generous parental leave</li>
+<li>Fitness, co-working, and home office reimbursements</li>
+<li>Professional learning and development stipends</li>
+</ul>
+<p>We encourage you to reach out even if your experience doesn't precisely match the job description. Do not worry about picking exactly the right job; we can always explore other options after starting the conversation. Your passion and interests will set you apart, especially if your background or career is unconventional. Join us!</p>
+</div><br/><br/>Please mention the word **BUOYANT** and tag RNTQuMTc1LjEwNC4xNTY= when applying to show you read the job post completely (#RNTQuMTc1LjEwNC4xNTY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3> Senior Backend Engineer .Net</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/covergo-senior-backend-engineer-net-3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Warsaw, Masovian Voivodeship, Poland
+    <br /><strong>URL:</strong> <a href="http://covergo.com">http://covergo.com</a>
+</p>
+
+<p><strong>Top 3 Reasons To Join Us</strong></p>
+<ul> <li>Competitive Salary</li> <li>100% Remote</li> <li>Working on the latest tech for the Insurtech Market Leader</li> </ul>
+<p><strong>About Us</strong></p>
+<p>At CoverGo, our mission is to help insurance companies and banks to make insurance 100% digital, to better serve their customers.</p>
+<ul> <li>We are the leading provider of cutting-edge technology to the insurance industry</li> <li>We're also the winner of the insurtech of the year in all of Asia in 2021 and other awards globally</li> <li>We work with enterprise clients such as AXA, MSIG, DBS, Fubon, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team with over 20 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have offices in Singapore, Hong Kong, and Vietnam. We plan to expand to the US and other markets in the upcoming months</li> <li>We've grown our annualized revenue by over 1000% since January 2021</li> <li>We're constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul>
+<p><strong>About the Role</strong></p>
+<p>.Net Backend engineering is the heart of our technical excellence. We are looking for people who are able to analyze complex insurance domains and build high-quality API and microservices in cross-functional product and project teams.</p>
+<p>CoverGo is a Kubernetes-native platform that consists of around twenty microservices exposed via a GraphQL gateway (<a href="https://api.covergo.com/playground" class="external">https://api.covergo.com/playground</a>), based on .net 6.</p>
+<p><strong>What You Will Do</strong><br></p>
+<ul> <li>Help us build, grow and maintain our services</li> <li>Apply your skills to develop robust and scalable software</li> </ul>
+<p><strong>You'll be successful in this role if:</strong></p>
+<ul> <li>You are a hands-on engineer, and you love what you do</li> <li>You are a quick learner and excited about learning new technologies</li> <li>You are passionate about automated testing, code quality and engineering best practices</li> <li>You advocate software craftsmanship and take pride in your work</li> <li>You enjoy collaborating with engineers across functional teams and have excellent communication skills</li> <li>You enjoy taking full ownership of projects from conception to production</li> </ul>
+<p><strong>What We Need</strong><br></p>
+<ul> <li>Experience in Event sourcing, CQRS, and DDD (Domain Driven Design)</li> <li>Excellent understanding of .NET Core and C#</li> <li>Experience with Docker</li> <li>Familiarity with microservices using GraphQL</li> <li>Experience with database technologies like MongoDB, PostgreSQL</li> <li>Intensive TDD practice</li> </ul>
+<p><strong>It'll be nice if you have some experience in areas:</strong></p>
+<ul> <li>Event Storming or Event Modeling</li> <li>SpecFlow and BDD</li> <li>GitHub Actions</li> <li>Cloud Computing platforms: Amazon AWS, Microsoft Azure, Google Cloud, Alibaba etc.</li> <li>MS/BS in Computer Science or a related degree</li> <li>Insurance and fintech experience</li> <li>Know what these names are about: Vaughn Vernon, Eric Evans, Martin Fawler</li> <li>Kubernetes</li> <li>GitOps</li> </ul>
+<p><strong>Why You'll Love Working Here</strong></p>
+<ul> <li>Salary: Up to 5000USD/Month</li> <li>Full-remote employment, work from anywhere and/or from one of our physical offices in Vietnam, Singapore or Hong Kong occasionally</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid annual leaves</li> <li>Employee stock options</li> <li>Performance bonus</li> <li>Performance review 2x a year</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/covergo-senior-backend-engineer-net-3">https://weworkremotely.com/remote-jobs/covergo-senior-backend-engineer-net-3</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7655/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DataKitchen, Inc.</h5>
+                    <h3> Senior Software Engineer - Backend</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/datakitchen-inc-senior-software-engineer-backend" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7655/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Cambridge, MA
+    <br /><strong>URL:</strong> <a href="http://www.datakitchen.io">http://www.datakitchen.io</a>
+</p>
+
+<h1>Senior Software Engineer - Backend</h1><div>Remote</div><div> </div><div>
+<strong>About DataKitchen<br></strong><br>
+</div><div>DataKitchen is leading the DataOps movement to incorporate agile software development, DevOps, and statistical process control into analytics and data management. Our products enable analytic teams to deliver value quickly, reduce errors, and use the tools that they love. </div><div> </div><div>
+<strong>Job Description<br></strong><br>
+</div><div>In this role on the DataKitchen product development team, you will lead the development roadmap for our flagship DataOps Automation product, take on complex architectural challenges, and collaborate with company founders and stakeholders to innovate on features that directly impact our customers. You will also take charge of reliability and scalability efforts, research and design technical solutions in a forward-looking manner, and contribute to our agile development process.</div><div> </div><div>The successful candidate will have top technical skills, the ability to self-manage, excellent attention to detail and follow-up, and enthusiasm for our inclusive and supportive culture. </div><div> </div><div><strong>Required Qualifications</strong></div><ul>
+<li>Strong Python experience, specifically in Python web development and frameworks</li>
+<li>Experience with Kubernetes and/or Docker</li>
+<li>Ability to deliver well-tested and performant code in a CI/CD pipeline</li>
+<li>Proven ability to design software solutions that successfully meet user needs</li>
+<li>An agile, customer-oriented mindset</li>
+<li>Enthusiasm, curiosity and drive!</li>
+</ul><div> </div><div>At the time of hire, you must be physically located within GMT+1 (e.g., Italy) to GMT-8 (e.g., WA, USA). We will not consider candidates outside that time zone range because we value close collaboration and working sane hours.</div><div> </div><div> </div><div>DataKitchen is committed to being remote-first. Our employees are in the US, Canada, Argentina, Brazil, the Dominican Republic, Italy, Portugal, Sweden, and other locations.</div><div> </div><div>We make our customers wildly successful while respecting each employee and person we work with. We move fast, love and learn from our errors, and fall forward. We embrace Agile Values and Principles.</div><div> </div><div>We do not work with recruiters. For everyone else, please apply by sending your resume to jobs@datakitchen.io. DataKitchen is an EEO company.</div><div> </div><div><em>Equal Employment Opportunity Statement: DataKitchen, Inc. provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, genetic information, marital status, amnesty or status as a covered veteran in accordance with applicable US federal, state and local laws. DataKitchen, Inc. complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. DataKitchen, Inc. expressly prohibits any form of unlawful employee harassment based on race, color, religion, gender, sexual orientation, gender identity, national origin, age, genetic information, disability or veteran status. Improper interference with the ability of DataKitchen, Inc. employees to perform their expected job duties is absolutely not tolerated.</em></div><div> </div><div><em>A background check is required.</em></div><div>
+<br><br>
+</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/datakitchen-inc-senior-software-engineer-backend">https://weworkremotely.com/remote-jobs/datakitchen-inc-senior-software-engineer-backend</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1368332/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +180,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
