@@ -1,5 +1,56 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/a09575c96b564d195f8eba21570affa31664954132.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>NOBI</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,amazon,defi,crypto,cryptocurrency,system,frontend,test,code,web,javascript,investment,nodejs,php,git,engineer,engineering,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-nobi-128372" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>
+<p></p>
+<h2>Company Description</h2>
+</div><div><p>NOBI helps people easily get more from their crypto asset & simplify their crypto investment experience. Our engineering team run hundreds of blockchain nodes, integrates with numerous DeFi smart contracts and run numerous real time robo trading to simplify the life our customers. <br><br>Weâre here so that everyone can be part of the global cryptocurrency movement. Join us.</p></div><div>
+<p></p>
+<h2>Job Description</h2>
+</div><div><ul>
+<li>Responsible for building and extending our backend code</li>
+<li>Responsible for building APIs that serve our frontend apps</li>
+<li>Responsible for maintaining and extend our test suite</li>
+<li>Refactor and improve existing code to incorporate better patterns</li>
+<li>Able to create unit test and implement self-test to make sure the code is running well (Profiling and optimization code)</li>
+<li>Work with the other engineering team to build & maintain our numerous backend services</li>
+</ul></div><div>
+<p></p>
+<h2>Qualifications</h2>
+</div><div><ul>
+<li>Bachelor's degree in Computer Science or equivalent from a reputable university</li>
+<li>Minimum 2 years of working experience as Backend Engineer or equivalent</li>
+<li>Minimum 2 years of extensive experience on server-side development, especially Javascript (ES6) using NodeJS & PHP using Laravel.</li>
+<li>Fluent with Git and RESTful API</li>
+<li>Good knowledge and experience of UNIX system and command line experience in web server configuration and setup. This includes setting up PHP engine, database server, load balancing.</li>
+<li>Experience with NoSQL, Amazon AWS , Redis, Docker</li>
+<li>Knowledge and experience in scalability and performance in high-traffic web systems</li>
+<li>Knowledgeable on software design pattern</li>
+<li>Understanding the principles of application security</li>
+<li>Blockchain or Crypto enthusiast</li>
+</ul></div><br/><br/>Please mention the word **PINNACLE** and tag RNTQuMTc1LjEwNC4xNTY= when applying to show you read the job post completely (#RNTQuMTc1LjEwNC4xNTY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/36330b3a15babcd46e7f194a4e365e8b1664781343.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +61,7 @@
                     <code>software,cryptocurrency,security,developer,code,financial,video,fintech,management,reliability,engineer,engineering,educational,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-rust-orderly-127358" align="right" target="_blank">Apply</a>
@@ -70,7 +121,89 @@
 <li>If you have experience in developing trading systems or financial-related products is a plus.</li>
 <li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
 <li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our <a href="https://boards.greenhouse.io/orderlynetwork/jobs/5170520003" target="_blank" rel="noopener noreferrer nofollow">External Referral Incentives Program</a> as well. </li>
-</ul><br/><br/>Please mention the word **ANGELIC** and tag RNDQuMjEwLjEwMi4xNTg= when applying to show you read the job post completely (#RNDQuMjEwLjEwMi4xNTg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **ANGELIC** and tag RNTQuMTc1LjEwNC4xNTY= when applying to show you read the job post completely (#RNTQuMTc1LjEwNC4xNTY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Business Directory Plugin</h5>
+                    <h3> Senior WordPress Software Engineer (Remote)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/business-directory-plugin-senior-wordpress-software-engineer-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Utah, United States
+    <br /><strong>URL:</strong> <a href="https://businessdirectoryplugin.com/">https://businessdirectoryplugin.com/</a>
+</p>
+
+<div>Hi! We're Strategy11. We are the company behind Formidable Forms and Business Directory Plugin. No matter what product we're working on, our goal is to make big projects possible without big resources and make complex tasks simple.  Our software is running on nearly 400,000 websites, and our team is growing fast.  We have tons of big plans for the future and would love for you to be a part of it.</div><div><br></div><div>As a WordPress Developer, you're responsible for Making Stuff Go. For this position, we are looking for a part-time superstar to lead Business Directory Plugin. You will build infrastructure to create new features, help plan the roadmap, improve existing code, squash bugs, and help us rapidly scale our platform.</div><div><br></div><div>We are looking for energetic and fun people who love to work hard and get things done. </div><div><br></div><div>Interested? See "How to Apply" below to learn more before applying.</div><div><br></div><div>To love this role, here’s the type of person you are:<br><br>
+</div><ul>
+<li>You’re a self-starter who loves taking initiative and seeing things through from conception to completion. Our developers often "own" features/tasks and are responsible for scoping, development, and testing.</li>
+<li>You're an excellent communicator, fluent in both verbal and written English, who makes sure nothing slips through the cracks. We believe communication is critical and there is no such thing as over-communicating.</li>
+<li>You have the curiosity and desire to learn and grow your skills.</li>
+<li>You're passionate about leaving your mark on the web for all to see and are excited to work on tasks that impact <em>thousands</em> of users.</li>
+<li>You take pride in the quality and craftsmanship of your work rather than just doing it to get it done.</li>
+<li>You're a team player who is comfortable working alongside and helping other developers, and you don't take critical feedback personally.</li>
+<li>You're happy jumping between front-end and back-end development tasks or tackling tasks that require both.</li>
+<li>You're happy working on tasks of all sizes - from minor bug fixes and enhancements to large features/rewrites.</li>
+</ul><div>
+<br>Common responsibilities include (but are not limited to):<br><br>
+</div><ul>
+<li>Triaging bugs and small enhancements that come into GitHub.</li>
+<li>Scoping, writing, and testing new product features and add-ons.</li>
+<li>Refactoring legacy code with particular attention to backward compatibility.</li>
+<li>Providing feedback and peer review for other developers (Github PRs).</li>
+<li>When tickets are escalated, debug customer issues in our help desk.</li>
+</ul><div><br></div><div>Here are some skills that will come in handy:<br><br>
+</div><ul>
+<li>Professional experience with WordPress plugin development, architecture, and standards.</li>
+<li>Advanced proficiency with PHP and MySQL, including modern PHP practices (OOP, autoloading, traits, interfaces, etc).</li>
+<li>Strong familiarity with JavasScript (vanilla JS, jQuery, etc).</li>
+<li>Ability to use and extend build tools like webpack.</li>
+<li>Familiarity with package managers such as NPM.</li>
+<li>Experience working with third-party APIs (Eg Stripe, MailChimp, Zapier, etc).</li>
+<li>Competent with version control through git and GitHub.</li>
+<li>The ability to iterate and ship ideas quickly.</li>
+<li>Exceptional troubleshooting skills.</li>
+<li>Ability to keep complex ideas and features <em>simple</em>. (Simplicity is a core value!)</li>
+<li>Previous freelance or remote work experience.</li>
+</ul><div><br></div><div>Bonus points if you also have:<br><br>
+</div><ul>
+<li>Advanced proficiency in JavaScript frameworks like VueJS or React.</li>
+<li>Experience with e-commerce platforms or related APIs (WooCommerce, Stripe, PayPal, etc).</li>
+<li>Experience with DevOps or infrastructure management.<br><br>
+</li>
+</ul><div>What we offer<br><br>Working for a fast-growing bootstrapped company is a rare opportunity, one we consider a lifestyle choice rather than a job choice. Our positions are challenging, but also come with amazing advantages and fulfillment to those who earn them. Here’s what we offer.</div><div><br></div><ul>
+<li>Competitive Salary.</li>
+<li>Work from your home. We’re spread out all over the world – United States, Africa, Ireland, Philippines, and more.</li>
+<li>Unlimited PTO after 60 days of employment. We encourage employees to take the time they need for vacation, to stay healthy, and to spend time with friends and family.</li>
+<li>We happily provide or reimburse software you’ll need as well as books or courses that promote continued learning.</li>
+<li>We give you the opportunity to solve challenging and meaningful problems that make a difference.</li>
+<li>Ability to work with some of the best people in the business through frequent interactions.</li>
+<li>And in case you were wondering: no politics, no b.s., and no jerks.</li>
+</ul><div>
+<br>Location</div><div><br></div><div>This is a remote position - our team is spread around the globe! Our home base is in Utah, USA, so company operating hours are 9 am - 5 pm MST (UTC -7). While full coverage is not a requirement, you must be available during a portion of the day.<br><br>
+</div><div><br></div><div>Inclusion Statement</div><div><br></div><div>At Strategy11 (Formidable Forms, Business Directory Plugin), we strive to have the broadest possible view of diversity, going beyond visible differences to include the background, experiences, skills, and perspectives that make each person unique. Strategy11 is proud to be an equal opportunity workplace and is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, Veteran status, or any other basis protected by federal, state, or local law.<br><br>
+</div><div><br></div><div>How to apply?</div><div><br></div><div>If all of this sounds interesting, then please submit your application!</div><div><br></div><div>Also note, don't forget to proofread before submitting. Check spelling, capitalization, etc. This is your chance to make your application stand out :)<br><br>We won’t be able to individually respond to all applications, but if we feel you’re a strong match, someone will be in touch shortly. Qualified candidates will be asked to do a simple code challenge.<br><br>Thanks and we look forward to hearing from you!</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/business-directory-plugin-senior-wordpress-software-engineer-remote">https://weworkremotely.com/remote-jobs/business-directory-plugin-senior-wordpress-software-engineer-remote</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -85,7 +218,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/athelas-software-engineer-3" align="right" target="_blank">Apply</a>
@@ -151,7 +284,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller" align="right" target="_blank">Apply</a>
@@ -201,195 +334,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller">https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/2645/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Iterative</h5>
-                    <h3> Senior Software Engineer - Open Source, Dev Tools, Core</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>662 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/iterative-senior-software-engineer-open-source-dev-tools-core" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/2645/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Francisco
-    <br /><strong>URL:</strong> <a href="http://dvc.org">http://dvc.org</a>
-</p>
-
-<h1><strong>## TLDR</strong></h1><div>We’re seeking a senior core, distributed systems engineers to build dev tools. Join our well-funded remote-first <a href="https://dvc.org">DVC</a> team if you love building open source, developer tools, and CLI. If you want to see how your code is used by thousands of developers every day! If you don't mind Python.<br><br><br><strong>What we offer:</strong>
-</div><ul>
-<li>Team is <strong>distributed remotely worldwide</strong>.</li>
-<li>DVC core is still small - 4 folks. You will be one of the first employees and can drive major parts of the product.</li>
-<li>Highly <strong>competitive salary</strong>, stock options, and bonuses.</li>
-<li>
-<strong>Open source-first</strong> company- you work will be visible and will be used by thousands developers every day! This feels great! Check out our Discord and GitHub.</li>
-<li>Founders and team with strong engineering, data science, and open source experience. We all code and understand engineering first-hand.</li>
-<li>Engineering team is involved into product discussions and planning. We do it openly via <a href="https://github.com/iterative/dvc">Github</a> or <a href="http://dvc.org/chat">Discord chat</a>
-</li>
-<li>Besides building the product we participate in conferences (PyCon, PyData, O'Reilly AI, etc). We encourage and support the team in giving talks, writing blog-posts, and other activities.</li>
-<li>Well-defined process that we all participate in improving.</li>
-</ul><div><br></div><h1><strong>## About you</strong></h1><ul>
-<li>Passionate about building highly reliable system software<br>At least one year of experience with file systems, concurrency, multithreading, and server architectures</li>
-<li>Initiative to help shape the engineering practices, products, and culture of a young startup</li>
-<li>
-<strong>Remote work self-discipline.</strong> A lot of our processes are built on trust- we don't like and don't have time to micro-manage</li>
-<li>
-<strong>Python knowledge</strong> and excellent coding culture (standards, unit test,  docs, etc) are required. Alternatively very strong experience with languages like Go, C, Rust + some experience with Python).</li>
-<li>
-<strong>Remote work self-discipline.</strong> A lot of our processes are built on trust- we don't like and don't have time to micro-manage</li>
-<li>
-<strong>Excellent communication skills</strong> - clear, constructive, and respectful dialog  with other team members, community</li>
-<li>
-<strong>Ability to write technical docs</strong>, blogs. Team is responsible to keep basic docs up to date</li>
-</ul><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/iterative-senior-software-engineer-open-source-dev-tools-core">https://weworkremotely.com/remote-jobs/iterative-senior-software-engineer-open-source-dev-tools-core</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Iterative</h5>
-                    <h3>Senior Software Engineer - Front-end, Typescript</h3>
-                </td>
-                <td width="300">
-                    <code>backend,git,machine learning,python</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>The ML tools ecosystem is what JS space was 10 years ago: there’s a clear need for better tools, frameworks, and open standards. <span class="notion-enable-hover" style="font-style: italic;">ITERATIVE</span> is already a well known company in this fast-evolving space with a big, engaged open-source community. Please consider joining our <span class="notion-enable-hover" style="font-style: italic;">remote-first team</span> if you love open-source, if you’re interested in building dev tools and simplifying the lives of many, many developers in ML.</p>
-<p><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;"><br class="Apple-interchange-newline">Job Description</span></p>
-<p>We’re seeking<span class="notion-enable-hover" style="font-weight: 600;"> </span><span class="notion-enable-hover">TypeScript front-end engineers to build our</span><span class="notion-enable-hover"> <a href="https://studio.iterative.ai/" rel="nofollow" style="font-weight: 600;">SaaS product</a> and a</span><span class="notion-enable-hover" style="font-weight: 600;"> VS Code UI</span> (to be open sourced soon!) for our popular machine learning tools: <a class="notion-link-token notion-enable-hover" href="http://dvc.org/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--1168671846" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">DVC</span></a> (9k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span>on GitHub) and <a class="notion-link-token notion-enable-hover" href="http://cml.dev/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--2051758088" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">CML</span></a> (3k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span> on GitHub).</p>
-<p><span style="color: var(--remotive-chocolate);">If you have experience with dev tools like GitHub, UI plugins for Git, etc., you should have some sense what the project is like (if not, check our <a href="https://iterative.ai/" rel="nofollow">site</a>).</span></p>
-<p> </p>
-<p class="h3">Tech Stack</p>
-<ul>
-<li>TypeScript</li>
-</ul>
-<ul>
-<li>Node</li>
-</ul>
-<ul>
-<li>React</li>
-</ul>
-<ul>
-<li>Python (on the backend)</li>
-</ul>
-<p> </p>
-<p class="h3">Must have</p>
-<ul>
-<li>Strong TS/JS/Node experience (5+ years)</li>
-</ul>
-<ul>
-<li>Excellent communication skills and a positive mindset 🤗</li>
-</ul>
-<ul>
-<li>Initiative to help shape the engineering practices, products, and culture of a young startup</li>
-</ul>
-<p><br><br></p>
-<p class="h3">Nice to have</p>
-<ul>
-<li>Python or open source experience - good to have</li>
-</ul>
-<ul>
-<li>Some domain knowledge (DS/ML understanding) - an advantage</li>
-</ul>
-<p> </p>
-<img src="https://remotive.com/job/track/1187421/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1187416/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Iterative</h5>
-                    <h3>Senior Software Engineer  - DevTools, Open Source, Python</h3>
-                </td>
-                <td width="300">
-                    <code>data science,machine learning,python,open source</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Job Description</strong></p>
-<p>Strong Python knowledge and excellent coding culture (standards, unit test, etc) are required. Alternatively, strong skill in other languages along with some knowledge of Python is also acceptable.</p>
-<p><br><br></p>
-<div class="h3">Responsibilities</div>
-<ul>
-<li>Discuss and research issues, features, new products.</li>
-</ul>
-<ul>
-<li>Write code (see some <a class="postings-link" href="https://github.com/iterative/dvc/pulls?q=is%3Apr+is%3Aclosed" rel="nofollow"><strong>PR examples</strong></a>).</li>
-</ul>
-<ul>
-<li>Write docs if needed for your code (see this <a class="postings-link" href="https://github.com/iterative/dvc.org" rel="nofollow"><strong>repo</strong></a>).</li>
-</ul>
-<ul>
-<li>Being actively involved with the community - talk to users on Github, Discord, forum.</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Must have</div>
-<ul>
-<li>Motivation and interest</li>
-</ul>
-<ul>
-<li>Remote work self-discipline</li>
-</ul>
-<ul>
-<li>Excellent communication skills - clear, constructive, and respectful dialog with other team members, community.</li>
-</ul>
-<ul>
-<li>Can focus and deliver a task w/o constantly switching to other stuff - respect team's planning, deadlines, etc</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Great to have</div>
-<ul>
-<li>Experience working remotely</li>
-</ul>
-<ul>
-<li>Open source contributions or experience of maintaining, developing an open source project</li>
-</ul>
-<ul>
-<li>System programming experience - kernel, databases, etc.</li>
-</ul>
-<ul>
-<li>Machine learning or data science experience</li>
-</ul>
-<img src="https://remotive.com/job/track/1187416/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
