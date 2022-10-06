@@ -10,7 +10,7 @@
                     <code>manager,design,cryptocurrency,financial,finance,banking,leader,management,operational,marketing,healthcare,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-product-manager-funding-voyager-126852" align="right" target="_blank">Apply</a>
@@ -60,7 +60,75 @@
 <p><span style="font-weight:400;">Voyager is headquartered in New York City with satellite offices in New Jersey, California, Toronto and Bordeaux.</span></p>
 <p><span style="font-weight:400;">Please contact us via the button below or at careers@investvoyager.com with your resume and a brief explanation as to why you would like to join the Voyager team.</span></p>
 <p><span style="font-weight:400;">*Please note that during COVID-19 we are working remotely.</span></p>
-</div><br/><br/>Please mention the word **FRESHER** and tag RNDQuMjEwLjEwMi4xNTg= when applying to show you read the job post completely (#RNDQuMjEwLjEwMi4xNTg=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **FRESHER** and tag RNTQuMTc1LjEwNC4xNTY= when applying to show you read the job post completely (#RNTQuMTc1LjEwNC4xNTY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7667/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Fresh Clinics</h5>
+                    <h3> Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/fresh-clinics-product-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7667/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Sydney
+    <br /><strong>URL:</strong> <a href="https://freshclinics.com">https://freshclinics.com</a>
+</p>
+
+<div>
+<br>Fresh Clinics is a fast growing Australian-based software company building the next generation of tools for independent beauty clinics. We already have more than 600 sites and are growing super fast!<br><br>
+</div><div>
+<br>Fresh is primarily a remote-based team - we do have an office in Sydney and you’re welcome to spend time there. Our only requirement for location is that you have a reasonable timezone overlap (+/- 4 hours from AEST/GMT+11) and that you can easily access an effective internet connection.<br><br>
+</div><div>
+<br>We are an agile organisation building a modern SaaS product. We don’t count hours or time at your desk. You’ll be working with a team of 10+ engineers with lots of experience working on SaaS products in a startup context. We like to move fast and optimise for releasing and iterating quickly.<br><br>
+</div><div>
+<br>Primary Objectives &amp; Accountabilities<br><br>
+</div><ul>
+<li>Support the Product Leadership team to define the vision of the product</li>
+<li>Support all administrative functions around planning and product development with excellent detail and documentation skills</li>
+<li>Perform quality assurance controls on products and supporting risk management initiatives</li>
+<li>Assist in the design of customer journeys for the web and mobile interfaces and improve journeys using insights from customers and data</li>
+<li>Work collaboratively with the internal development team to introduce new ideas and features</li>
+<li>Collaborate with data and analytics team to create greater customer insights and lifecycle value</li>
+<li>Support product innovation and assist in driving new ideas through to development</li>
+</ul><div>
+<br>Key Performance Goals<br><br>
+</div><ul>
+<li>Manage execution of the product management process</li>
+<li>Drive and report on key metrics that measuring product change results</li>
+<li>Success of new product initiatives</li>
+</ul><div>
+<br>Key Competencies<br><br>
+</div><ul>
+<li>3+ years software Product Management experience</li>
+<li>Understanding of current and emerging technologies</li>
+<li>Strong verbal and written communications skills</li>
+</ul><div>
+<br>Education/Certification<br><br>
+</div><ul><li>Degree qualified in a technology discipline</li></ul><div>
+<br>If you feel like your personal situation doesn’t exactly match the role requirements above, but you still think you could be great for this role, reach out and let us know why.<br><br>
+</div><div>
+<br>Finally, we think innovation is better served through diversity, so we never discriminate based on race, disability, religion, national origin, gender, sexual orientation, age, marital or parent status.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/fresh-clinics-product-manager">https://weworkremotely.com/remote-jobs/fresh-clinics-product-manager</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -75,7 +143,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-product-manager-technical" align="right" target="_blank">Apply</a>
@@ -123,138 +191,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>commercetools Integrated Offerings</h5>
-                    <h3> Technical Product Manager - Core/Bundling, fully remote (f/*/m)</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>11 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/commercetools-integrated-offerings-technical-product-manager-core-bundling-fully-remote-f-m" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Munich
-    <br /><strong>URL:</strong> <a href="https://commercetools.com/careers/jobs">https://commercetools.com/careers/jobs</a>
-</p>
-
-<div>
-<strong><br>Location</strong>: No location restrictions, we hire remotely worldwide 🌍<br><br>
-</div><div>
-<strong>Language:</strong> We operate internally and externally in English (US)<br><br>
-</div><div>
-<strong>Hours:</strong> 40 hours per week for full-time. You are free to choose your own hours as long as there's some overlap during the daytime of our CET team for meetings and other internal cultural events<br><br>
-</div><div>
-<strong>Part-time options:</strong> We will consider part-time options for this role, mention what you are looking for in your application<br><br>
-</div><div>
-<strong>Level: Mid </strong>(3+ years)<br><br>
-</div><div>
-<strong>Salary:</strong> We are looking to offer around €51,000 to €77,000 for this role depending on experience and location<br><br>
-</div><div>
-<br><br>
-</div><div>
-<strong>---------------------------------------—<br></strong><br>
-</div><div>
-<br><br>
-</div><div>
-<strong>🌟 The Opportunity<br></strong><br>
-</div><div>
-<br>Together with the Senior Product leadership (CPO, VP Product, etc.), this enthusiastic global Product team is defining our product vision and roadmap. <br><br>
-</div><div>commercetools for Growth is a newly created solution (and team) that will enable Scaling Brands &amp; Merchants to quickly launch on a flexible, best-in-class composable stack with low effort and without the need for a big development team, keeping their iteration speed high to optimize business outcomes. The key to achieving this is to build a bundle of market-leading MACH products (commercetools products and partner products) that are perfectly connected and pre-configured. This will enable Scaling Brand and Merchants to launch quickly, iterate fast through business-user tooling and make sure that this is the last re-platforming they will ever have to do. <br><br>
-</div><div>This is a great opportunity to marshal a product that has the potential to have a long-lasting impact on the commerce landscape for aspiring brands and retailers. If you are looking for a place where your contribution makes a difference, and if you never want to stop learning and growing, join our product management team!<br><br>
-</div><div>
-<br><strong><br>🚀 Your Mission<br></strong><br>
-</div><ul>
-<li>Design and improve the vision and implementation of the actual bundle of MACH products that form commercetools for Growth</li>
-<li>Make sure (together with engineering), that the technical architecture of the commercetools for Growth bundle is best-in-class</li>
-<li>Own the connectors between the MACH products in the bundle from a product perspective</li>
-<li>Lead initiatives to enhance the experience of customer interaction with such a bundled solution (e.g. SSO, business user interface, etc.)</li>
-<li>In the end, build the core of the commercetools for Growth solution, so the “Fast-Launch-Store team” (second team in commercetools for Growth) can take the bundle and pre-configure it and enhance it to enable the customers to launch faster and faster</li>
-<li>Think big, scope small, and quickly iterate collectively with your team to make sure that you solve the right problems</li>
-<li>Use your product sense, collectively with a qualitative and data-informed approach to creating a solution brands and retailers love</li>
-<li>Become part of our product community. We like to grow and learn together, including regular knowledge exchange sessions plus coaching from peers and the Head of Product.<br><br>
-</li>
-</ul><div><br></div><div>
-<strong>👉 What is it like working in our team?<br></strong><br>
-</div><div>
-<strong>”</strong><em>We focus on solving customers' problems. To do that, we have to constantly learn new things. We have to rely on each other, trust each other, and know each other's strengths. The way we work together as a team makes this seem easy and gives a true sense of collaboration</em><strong>.” — Catherine, Product Manager<br><br></strong><br>
-</div><div>
-<strong><br>💪 What you will accomplish in your first 90-days<br></strong><br>
-</div><ul>
-<li>Comprehend the strategy, including market landscape, contenders, differentiation, and our business model guiding up to our vision</li>
-<li>Get to know the company, the different teams, and how you can be an ally</li>
-<li>Get to know your cross-functional team, take part in planning, co-working sessions, and other ceremonies</li>
-<li>Get to know the business buyers by attending customer and prospect meetings and reading notes from previous sessions</li>
-<li>Comprehend our commercetools for Growth architecture to know better how each piece works collectively and fits into the broader tech ecosystem to start planning for coming extensions</li>
-</ul><div>
-<strong><br>🧩 You will likely have this experience<br></strong><br>
-</div><ul>
-<li>3 or more years of experience as a product manager in areas such as headless eCommerce technologies,  microservice architecture, B2B product management and eCommerce product/project management</li>
-<li>High technical knowledge / architecture knowledge, preferably in the eCommerce domain</li>
-<li>Desire to comprehend brands and retailers — their motivation, needs, and how they work</li>
-<li>Experience working with commerce or a similar complex domain, with a big ecosystem and many extensions</li>
-<li>Self-assured presenter and facilitator. You can clearly communicate product resolutions and the rationale behind them, and you’re not afraid to go against consensus by asking the right questions</li>
-<li>Self-starter, looking for pragmatic solutions</li>
-</ul><div><br></div><div>
-<strong><br>🚀 About Us<br></strong><br>
-</div><div>At commercetools Frontend, we're a fully remote company a Series C company valued at ¢1.9bn, and were named a Leader in the 2021 Gartner® Magic Quadrant™ for Digital Commerce for the second year in a row. <br><br>
-</div><div>We are formerly Frontastic, a remote-first company since 2017 we know how to do remote work properly. We joined commercetools in November 2021 and are still growing and focused on our mission: Let commerce teams build the incredible. Do you want to be part of this exciting journey?<br><br>
-</div><div>
-<strong><br>👏 We're offering:<br></strong><br>
-</div><ul>
-<li>A <strong>remote setup</strong> and processes tailored for remote workers (and digital nomads)</li>
-<li>An <strong>open learning and development budget</strong>, including an internal learning academy</li>
-<li>The <strong>freedom</strong> of planning your work around life and not the other way round — we want you to bring your full self to work, and this includes owning your daily routines</li>
-<li>An insurance policy that covers <strong>medical, dental and vision</strong>
-</li>
-<li>An <strong>allowance of 28 days leave plus public holidays</strong> in your home country</li>
-<li>A <strong>company laptop of your choice</strong> and a personal budget for any additional equipment you need — you will be able to purchase it yourself with a virtual company credit card</li>
-<li>A variety of <strong>regular virtual events</strong>, including celebrating our successes, paid lunches, and other activities organized by our People team</li>
-<li>A 5-day <strong>yearly retreat</strong> where we meet with the whole team and spend time together at a beautiful place for additional social bonding</li>
-</ul><div>
-<strong><br>🤝 Our hiring process<br><br></strong><br>
-</div><div>We have designed our hiring process with the candidate's experience in mind. This is important to us as we know to build the best product possible, we need the best people. Learn more about our hiring process.</div><div>
-<br>🕒 We aim to respond to all candidates within 72 hours (except on weekends).<br><br>
-</div><div>1️⃣ Submit your application to our team for review<br><br>
-</div><div>2️⃣ Discovery call (45min) with our Product Leadership, to discuss the role, our culture, and find out if it's a good alignment with your own preferences and skills<br><br>
-</div><div>3️⃣ Culture questions (via email) to see how you approach important topics such as growth and work planning</div><div>
-<br>4️⃣ First interview (60min) with one of our Product Managers to have a deeper discussion about the role as well as find out how you'll make an impact inside the team<br><br>
-</div><div>5️⃣ Second interview (60min) with our Engineering Leadership to discuss our engineering teams, cross-functional collaboration, and new Growth product<br><br>
-</div><div>6️⃣ You'll be invited to complete a presentation on a specific topic as part of the interview process. You'll have a chance to prepare a 20-minute presentation to a panel of Frontastic product and development team members, followed by a 20-minute Q and A and then 10-min at the end for candidate questions.<br><br>
-</div><div>7️⃣ Coffee Break (30min) an informal chat with members of the team to get to know who you'll be working with<br><br>
-</div><div>
-<br><strong><br>💬 We'd love to hear from you<br></strong><br>
-</div><div>If you have any questions about the role, email our Talent team at <a href="mailto:people@frontastic.cloud">people@frontastic.cloud</a>. Applications will only be accepted directly through the job application form.<br><br>
-</div><div>Want to know more about us? You can find out more on our <a href="https://commercetools.com/?location=emea">website</a>.<br><br>
-</div><div>If this role is not for you, but you know of someone who'd be a great fit, we would really appreciate it if you could share this role with them!<br><br>
-</div><div>
-<br><br>
-</div><div>
-<strong>ℹ️ Equal Opportunities<br></strong><br>
-</div><div>🔍 Are you looking for something else? Check out our <a href="https://commercetools.com/careers">Career Page </a>and our <a href="https://commercetools.com/">Website</a> for more information.<br><br>
-</div><div>
-<em>We are all different and that is what makes us stronger! We hire great people from a </em><strong><em>wide variety of backgrounds</em></strong><em>, not just because it’s the right thing to do, but because it makes our company better.</em>
-</div><div>
-<em><br>commercetools celebrates being a </em><strong><em>diverse environment </em></strong><em>and is proud to be an </em><strong><em>equal opportunities employer</em></strong><em>. If your professional profile aligns with our specific hiring requirements and company culture, then we encourage you to apply. We will assess </em><strong><em>your competencies, future potential, approach</em></strong><em> to learning and self-development, and passion, and not your age, color, national origin, religion, gender, gender identity or expression, sexual orientation, familial status, genetics, or disability.</em>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/commercetools-integrated-offerings-technical-product-manager-core-bundling-fully-remote-f-m">https://weworkremotely.com/remote-jobs/commercetools-integrated-offerings-technical-product-manager-core-bundling-fully-remote-f-m</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4683/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -265,7 +201,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-sr-product-manager" align="right" target="_blank">Apply</a>
@@ -338,114 +274,68 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1404410/logo" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>FormSwift</h5>
-                    <h3>Product Manager</h3>
+                    <h5>A.Team</h5>
+                    <h3> Senior Independent Product Manager/Product Designer ($110-$190/hr)</h3>
                 </td>
                 <td width="300">
-                    <code>AWS,C,javascript,marketing</code>
+                    <code>Product</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>330 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-manager-1404410" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><strong style="">About Us</strong></div>
-<div>FormSwift develops tools that make it easy to create, edit, and sign any document. Since our founding in 2012, millions of customers have used FormSwift to do everything from making business plans and rental agreements to filling out tax and student loan deferment forms.</div>
-<div> </div>
-<div>Document creation and management are often tricky, but it doesn’t have to be. Our goal is to modernize document creation with software that’s easy to use, fast, and reliable.</div>
-<div> </div>
-<div><strong style="">The Role</strong></div>
-<div>FormSwift is looking for a Product Manager to join our 6 person product team as the third product manager hire. </div>
-<div> </div>
-<div>You will be responsible for growing our customer base by a/b testing on our growth and conversion funnels. You will deliver better user experiences to our 2 million monthly unique visitors through data-driven decision making. You will collaborate with engineering, design, and analytics. You will execute on the product process end-to-end, from identifying opportunities to crafting thoughtful hypotheses to test. At FormSwift, we want you to be customer-obsessed, fail fast, and iterate quickly. </div>
-<div> </div>
-<div>You will work with and be mentored by experienced product managers, designers and engineers.</div>
-<p><br><br></p>
-<div class="h3">Responsibilities</div>
-<ul>
-<li>Build a prioritized a/b testing roadmap for conversion and growth funnels </li>
-</ul>
-<ul>
-<li>Support the customer service team by analyzing user feedback and delivering solutions </li>
-</ul>
-<ul>
-<li>Execute day-to-day agile development process for two engineering subteams</li>
-</ul>
-<ul>
-<li>Work with engineering team leads and managers to project manage and prioritize for engineering maintenance initiatives</li>
-</ul>
-<ul>
-<li>Collaborate with engineering, QA, marketing, analytics, and design</li>
-</ul>
-<ul>
-<li>Work with other product managers to define and execute on product strategy</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Requirements</div>
-<ul>
-<li>Bachelor’s degree with 1-3 years of product management experience</li>
-</ul>
-<ul>
-<li>Demonstrated product intuition and user empathy to craft thoughtful user experiences</li>
-</ul>
-<ul>
-<li>Data-driven and action-oriented</li>
-</ul>
-<ul>
-<li>Creative problem solver willing to pitch in where needed</li>
-</ul>
-<ul>
-<li>Excellent verbal and written communication </li>
-</ul>
-<ul>
-<li>Organized and detail-oriented</li>
-</ul>
-<ul>
-<li>Entrepreneurially-minded: works well with ambiguous instructions, conversion-oriented goals, and a fast-paced environment</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Preferred</div>
-<ul>
-<li>A/b testing experience</li>
-</ul>
-<ul>
-<li>Basic knowledge of SQL and/or analytics tools like Google Analytics and Mixpanel</li>
-</ul>
-<ul>
-<li>Basic knowledge of Javascript</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Benefits</div>
-<ul>
-<li>80% paid premiums for Medical, Dental, and Vision Insurance</li>
-</ul>
-<ul>
-<li>4% 401K Matching</li>
-</ul>
-<ul>
-<li>$150 per month to spend on perks of your choice through Fringe</li>
-</ul>
-<ul>
-<li>Team building via regular company “virtual happy hours” and an annual company trip (Post-COVID)</li>
-</ul>
-<ul>
-<li>Unlimited PTO...take time off when you need it!</li>
-</ul>
-<div><strong style="">5 Things to Know About Working at FormSwift</strong></div>
-<div>1. Modern technologies and practices: We use Python and React (and Next.js) and Terraform on AWS. We practice continuous deployment to iterate on product. </div>
-<div>2. Remote first: All FormSwift employees have the option to work remotely from anywhere in the United States. Post-COVID, we plan to reopen our San Francisco office but will continue to support all employees who wish to work remotely.</div>
-<div>3. Data-driven. We make decisions about what to build using the I-C-E framework. We test and validate changes at each step.</div>
-<div>4. Sustainable: FormSwift has been consistently profitable and has never raised outside funding (venture capital). This gives us the freedom to focus on building great products without worrying about “burn rate.” We also strongly encourage employees to maintain a healthy work/life balance, and work at a sustainable pace and offer unlimited PTO.</div>
-<div>5. Growth: We place a lot of emphasis on employee development. We offer mentorship and professional development opportunities. We’re also growing quickly and prefer promoting current employees to making outside hires (when feasible) as more senior leadership roles open up.</div>
-<img src="https://remotive.com/job/track/1404410/blank.gif?source=public_api" alt=""/>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4151/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> NYC, SF, and TLV
+    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
+</p>
+
+<div>
+<a href="https://build.a.team/wwrproductmgrfasttrack">A·Team</a> is a VC-backed, stealth, application-only home on the internet for Senior Product Managers &amp; Product Designers (along with developers &amp; UX/UI folks) to team up with the best companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
+<li>
+<strong>High-paying, meaningful client missions (where you'd lead Product) with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li>
+<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li>
+<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li>
+<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li>
+<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul><div>
+<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrproductmgrfasttrack">https://build.a.team/wwrproductmgrfasttrack</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
+</div><ul>
+<li>Once part of A.Team, you’ll regularly be invited to be the lead Product manager/designer for impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old-school non-tech incumbents looking to build as a tech giant would.</li>
+<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
+<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is for:</strong>
+</div><ul>
+<li>Senior Product Managers/Designers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
+<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
+<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
+</div><ul>
+<li>People looking for small gigs.</li>
+<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
+<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
+</ul><div>
+<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrproductmgrfasttrack"><span>A·Team</span></a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
+<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -460,7 +350,7 @@
                     <code>ecommerce,education,marketing,product manager</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-b2c-1388899" align="right" target="_blank">Apply</a>
