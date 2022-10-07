@@ -10,7 +10,7 @@
                     <code>software,design,amazon,defi,crypto,cryptocurrency,system,frontend,test,code,web,javascript,investment,nodejs,php,git,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-nobi-128372" align="right" target="_blank">Apply</a>
@@ -46,7 +46,7 @@
 <li>Knowledgeable on software design pattern</li>
 <li>Understanding the principles of application security</li>
 <li>Blockchain or Crypto enthusiast</li>
-</ul></div><br/><br/>Please mention the word **PINNACLE** and tag RNTQuMTc1LjEwNC4xNTY= when applying to show you read the job post completely (#RNTQuMTc1LjEwNC4xNTY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul></div><br/><br/>Please mention the word **PINNACLE** and tag RMy44MS4xNzMuMjE5 when applying to show you read the job post completely (#RMy44MS4xNzMuMjE5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -61,7 +61,7 @@
                     <code>software,cryptocurrency,security,developer,code,financial,video,fintech,management,reliability,engineer,engineering,educational,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-rust-orderly-127358" align="right" target="_blank">Apply</a>
@@ -121,7 +121,57 @@
 <li>If you have experience in developing trading systems or financial-related products is a plus.</li>
 <li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
 <li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our <a href="https://boards.greenhouse.io/orderlynetwork/jobs/5170520003" target="_blank" rel="noopener noreferrer nofollow">External Referral Incentives Program</a> as well. </li>
-</ul><br/><br/>Please mention the word **ANGELIC** and tag RNTQuMTc1LjEwNC4xNTY= when applying to show you read the job post completely (#RNTQuMTc1LjEwNC4xNTY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **ANGELIC** and tag RMy44MS4xNzMuMjE5 when applying to show you read the job post completely (#RMy44MS4xNzMuMjE5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7709/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CloudTruth</h5>
+                    <h3> Senior Software Engineer - Python / Django</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/cloudtruth-senior-software-engineer-python-django" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7709/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Boston, MA USA
+    <br /><strong>URL:</strong> <a href="https://cloudtruth.com">https://cloudtruth.com</a>
+</p>
+
+<div>
+<strong>Position:</strong> Mid to Senior level Software Engineer</div><div><br></div><div>
+<strong>Location:</strong> Remote position - US compatible timezone preferred</div><div><br></div><div>We’re seeking a mid or senior-level engineer to join our experienced team. The qualifications are simple: show an ability, eagerness to learn, and strong communication skills, and you’ll fit right in. We’re a team that values fundamentals over specifics in any particular technology. You will have the opportunity to grow your role and we’ll provide mentorship to help you develop your career and skill set.</div><div><br></div><div>Our reason for being: Service outages, security breaches, and performance degradations, are frequently the direct result of application and service misconfiguration. CloudTruth is a venture-backed startup bringing order to the configuration chaos of modern applications (particularly cloud-native ones). By joining CloudTruth, you’ll help keep customers happy by improving developers’ lives and streamlining DevOps functions.</div><div><br></div><div>As for technologies, we evaluate each problem and choose to balance productivity, maintainability, and time-to-market. Currently, that means a TypeScript &amp; React front-end application backed by a Python/Django REST API.</div><div><br></div><div><strong>Experience with Python/Django is a must-have.</strong></div><div><br></div><div>CloudTruth is a distributed team that embraces remote-first principles. Depending on where you live, you may be close enough to other team members to meet up as you see fit. </div><div><br></div><div><strong>Requirements:</strong></div><ul>
+<li>Comfortable with remote work dynamics</li>
+<li>Strong communication skills are a must</li>
+<li>An ability and eagerness to learn</li>
+<li>Experience with Python and Django</li>
+</ul><div><br></div><div><strong>Nice to haves:</strong></div><ul>
+<li>Experience with TypeScript or React</li>
+<li>Experience with Kubernetes</li>
+<li>Experience as a DevOps practitioner</li>
+</ul><div><br></div><div><strong>Benefits:</strong></div><ul>
+<li>Competitive salary, benefits, and equity</li>
+<li>Unlimited vacation</li>
+<li>Standard US holidays</li>
+<li>Work-life balance</li>
+</ul><div><br></div><div><strong>How to Apply:</strong></div><div><br></div><div>Contact us at joinus@cloudtruth.com with your background CV, links to LinkedIn, blog, portfolio, GitHub, or other examples of your work, and a brief statement about why you’re interested in the position. </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cloudtruth-senior-software-engineer-python-django">https://weworkremotely.com/remote-jobs/cloudtruth-senior-software-engineer-python-django</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -136,7 +186,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/business-directory-plugin-senior-wordpress-software-engineer-remote" align="right" target="_blank">Apply</a>
@@ -208,72 +258,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0075/9489/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Athelas</h5>
-                    <h3> Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/athelas-software-engineer-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0075/9489/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Mountain View, CA
-    <br /><strong>URL:</strong> <a href="https://athelas.com">https://athelas.com</a>
-</p>
-
-<div>This role will be focusing on driving the design and implementation of general software that allows practices to have better viability and control over their revenue billing cycles, thus having more time to focus on patients and deliver better services. We are looking for someone with a minimum of two years of software engineering experience. <em>You will receive a basic take-home assessment immediately after application to complete. Once we review the submission and feedback is positive, then we will reach out to schedule the first interview.<br><br></em><strong><em>Compensation range: $30,000 - $35,000 USD</em></strong><em><br></em><strong><br>What You Have</strong>
-</div><ul>
-<li><strong>Able to work flexible hours based on US time-zone </strong></li>
-<li><strong>At least two years of production software engineering experience</strong></li>
-<li><strong>Expert in Python</strong></li>
-<li>Able to work on both front-end and back-end in general and deliver product end to end</li>
-<li>Basic understanding of cloud solutions (GCP, Docker, Kubernetes)</li>
-<li>Familiarity with modern software development methodologies and cycles</li>
-<li>Understand standard web-based technologies, such as restful standards and relational databases (eg PostgreSQL)</li>
-<li>Have a strong product engineering sense with a can-do builder attitude</li>
-<li>Able to identify opportunities to improve the current process</li>
-</ul><div>
-<br><strong>Bonus Points If You Have:</strong>
-</div><ul>
-<li>Having worked on greenfield projects before, build and ship products from scratch </li>
-<li>Worked in the healthcare industry before</li>
-<li>Experience working in a fast pace environment (we ship fast)</li>
-<li>Remote work experience</li>
-<li>Familiarity with BI software</li>
-</ul><div>
-<br><strong>Why You’ll Like Working with Athelas</strong>
-</div><ul>
-<li>Rockstar Team: Join a team with an incredible record - we are the smallest, fastest company in history to receive FDA hematology clearance. We are also the largest Remote Patient Monitoring company in the US</li>
-<li>Technology Focus: Revolutionizing how technology can be used in the healthcare industry</li>
-<li>Strong Backing: $132M Series B raised from the likes of Sequoia, General Catalyst, Tribe, Y Combinator</li>
-<li>Mission Driven: We are changing the way healthcare is provided, bringing it directly to the people who need it with technology-enabled solutions</li>
-<li>Incredible Growth: 10x patient growth in 2021 and we're just getting started</li>
-</ul><div>
-<em><br></em><strong>About Us:<br><br>At Athelas we're bringing simple, life-changing health care products to people around the globe.<br></strong><br>
-</div><div>The future of healthcare is at the home - we are a team of technologists building the next generation of medical products at the intersection of hardware and software. We won’t stop until we’ve brought the world class tools of a hospital to your home.</div><div> </div><div>We develop hardware, software, and diagnostics to improve the lives of chronic care patients (cancer, hypertension, schizophrenia, bipolar disorder).</div><div>
-<br>In the US, 80% of healthcare spend occurs in 20% of patients. We aim to drastically reduce this cost through modern software, hardware, and preventative care services. Its core device (FDA Class 2 cleared) uses machine-learning trained on cell classification to allow chronic patients to monitor their white blood count at home. Its core software product is a platform to help doctors monitor vitals, trends, etc. of such patients, so that physicians and patients can stay aligned without direct interaction.<br><br>
-</div><div>
-<br>We've raised $132 million at a $1.5 billion valuation from top tier investors such as General Catalyst, Sequoia Capital, Y Combinator, and Initialized.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/athelas-software-engineer-3">https://weworkremotely.com/remote-jobs/athelas-software-engineer-3</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3712/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -284,7 +268,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller" align="right" target="_blank">Apply</a>
@@ -334,6 +318,224 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller">https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6782/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Gfinity PLC</h5>
+                    <h3> Senior Software Engineering Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/gfinity-plc-senior-software-engineering-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6782/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London
+    <br /><strong>URL:</strong> <a href="https://gfinityplc.com">https://gfinityplc.com</a>
+</p>
+
+<div>
+<br>Are you passionate about scaling engineering teams and process to design and deliver robust, highly available software systems? Are you ready to be impactful and innovative in an exciting and growing market?  Do you love gaming and/or esports?<br><br>
+</div><div>
+<br>We are Gfinity! We have a rich history in the esports and competitive gaming space, having worked with major brands including Formula1, the Premier league, NVIDIA, Redbull, Nintendo, and many more. We've built one of the world's most powerful tournament platforms and now we're now using this foundational technology to create a fully self-serviced product for game studios and web publishers to leverage the power of competition to drive gamer retention, engagement, and value.<br><br>
+</div><div>
+<br>We are looking for an experienced Technical/Software Engineering Manager to oversee and coordinate engineering functions across sub-teams working within the same esports product.<br><br>
+</div><div>
+<strong><br>Key Responsibilities:<br></strong><br>
+</div><ul>
+<li>Applying your experience and passion for delivering high-quality solutions to own and drive the engineering function across multiple teams</li>
+<li>Collect and digest product and project requirements from multiple sources in order to collate, plan, and coordinate engineering efforts</li>
+<li>Liaise and collaborate with product managers, engineering team leads, and executive leadership on a regular basis</li>
+<li>Monitor and measure engineering progress, quality, efficiency, and happiness, working with teams to recommend and implement improvements</li>
+<li>Lead system architecture and design processes, ensuring solutions are robust, functional, maintainable, testable, extensible, etc.</li>
+<li>Develop and refine processes to grow and scale the engineering function of the business</li>
+<li>Develop a process for managing API and systems documentation to be used by internal and external developers</li>
+<li>Participate in roadmapping, requirements planning, and sprint planning sessions</li>
+<li>Participant in the hiring and evaluation process for future team members</li>
+<li>Develop and refine onboarding processes and documentation</li>
+</ul><div>
+<strong><br> Key Qualifications:<br></strong><br>
+</div><ul>
+<li>7-10+ years as a software engineer in PHP, Javascript, or both with 2+ years working as an engineering manager, or 3+ years working as a team lead</li>
+<li>Demonstratable experience managing software engineering projects with a team of at least 15 to 30 people</li>
+<li>Experience designing, diagramming, and documenting software applications and systems</li>
+<li>Experience building high availability, geographically distributed systems</li>
+<li>Experience with identitfying, implementing, and managing software engineering KPIs – what and how to track, and how to utilize the information to maximize team productivity and happiness</li>
+<li>Experience with cache mechanics and systems (such as Cloudflare)</li>
+<li>Working knowledge of Docker</li>
+<li>Working knowledge of test-driven development, writing tests, test tooling, coverage targets, etc.</li>
+<li>Working knowledge of database systems</li>
+<li>Excellent communication, collaboration, and organizational skills</li>
+<li>Strong capability to work cross-functionally</li>
+<li>Familiarity with cloud infrastructure, particularly AWS</li>
+<li>Experience with data-driven decision making</li>
+<li>Experience with assimilating outside inputs such as customer requests into core product requirements</li>
+<li>Familiarity with project management processes and tooling such as ClickUp, JIRA, etc.</li>
+</ul><div>
+<strong><br>Bonus Qualifications:<br></strong><br>
+</div><ul>
+<li>Experience growing and scaling development teams and their processes</li>
+<li>Esports experience of any kind, including non-technical</li>
+<li>Hands-on experience with PHP 8.0+, Symfony 6, Vue3, Vite, and Typescript</li>
+<li>Engineering experience in the gaming industry (especially Unity or Unreal Engine)</li>
+<li>Engineering experience with SaaS/PaaS companies</li>
+<li>Hands-on experience driving system performance at scale</li>
+<li>Hands-on experience writing complex SQL queries</li>
+<li>Experience with NoSQL</li>
+</ul><div>
+<strong><br>We are striving to create a diverse and inclusive environment. We encourage all applicants to apply for our roles. We value and actively seek diverse talent!<br></strong><br>
+</div><div>
+<strong><br>Get to know us better:<br></strong><br>
+</div><div>
+<br>https://www.gfinityplc.com/<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/gfinity-plc-senior-software-engineering-manager">https://weworkremotely.com/remote-jobs/gfinity-plc-senior-software-engineering-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Iterative</h5>
+                    <h3>Senior Software Engineer - Front-end, Typescript</h3>
+                </td>
+                <td width="300">
+                    <code>backend,git,machine learning,python</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>The ML tools ecosystem is what JS space was 10 years ago: there’s a clear need for better tools, frameworks, and open standards. <span class="notion-enable-hover" style="font-style: italic;">ITERATIVE</span> is already a well known company in this fast-evolving space with a big, engaged open-source community. Please consider joining our <span class="notion-enable-hover" style="font-style: italic;">remote-first team</span> if you love open-source, if you’re interested in building dev tools and simplifying the lives of many, many developers in ML.</p>
+<p><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;"><br class="Apple-interchange-newline">Job Description</span></p>
+<p>We’re seeking<span class="notion-enable-hover" style="font-weight: 600;"> </span><span class="notion-enable-hover">TypeScript front-end engineers to build our</span><span class="notion-enable-hover"> <a href="https://studio.iterative.ai/" rel="nofollow" style="font-weight: 600;">SaaS product</a> and a</span><span class="notion-enable-hover" style="font-weight: 600;"> VS Code UI</span> (to be open sourced soon!) for our popular machine learning tools: <a class="notion-link-token notion-enable-hover" href="http://dvc.org/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--1168671846" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">DVC</span></a> (9k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span>on GitHub) and <a class="notion-link-token notion-enable-hover" href="http://cml.dev/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--2051758088" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">CML</span></a> (3k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span> on GitHub).</p>
+<p><span style="color: var(--remotive-chocolate);">If you have experience with dev tools like GitHub, UI plugins for Git, etc., you should have some sense what the project is like (if not, check our <a href="https://iterative.ai/" rel="nofollow">site</a>).</span></p>
+<p> </p>
+<p class="h3">Tech Stack</p>
+<ul>
+<li>TypeScript</li>
+</ul>
+<ul>
+<li>Node</li>
+</ul>
+<ul>
+<li>React</li>
+</ul>
+<ul>
+<li>Python (on the backend)</li>
+</ul>
+<p> </p>
+<p class="h3">Must have</p>
+<ul>
+<li>Strong TS/JS/Node experience (5+ years)</li>
+</ul>
+<ul>
+<li>Excellent communication skills and a positive mindset 🤗</li>
+</ul>
+<ul>
+<li>Initiative to help shape the engineering practices, products, and culture of a young startup</li>
+</ul>
+<p><br><br></p>
+<p class="h3">Nice to have</p>
+<ul>
+<li>Python or open source experience - good to have</li>
+</ul>
+<ul>
+<li>Some domain knowledge (DS/ML understanding) - an advantage</li>
+</ul>
+<p> </p>
+<img src="https://remotive.com/job/track/1187421/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1187416/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Iterative</h5>
+                    <h3>Senior Software Engineer  - DevTools, Open Source, Python</h3>
+                </td>
+                <td width="300">
+                    <code>data science,machine learning,python,open source</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Job Description</strong></p>
+<p>Strong Python knowledge and excellent coding culture (standards, unit test, etc) are required. Alternatively, strong skill in other languages along with some knowledge of Python is also acceptable.</p>
+<p><br><br></p>
+<div class="h3">Responsibilities</div>
+<ul>
+<li>Discuss and research issues, features, new products.</li>
+</ul>
+<ul>
+<li>Write code (see some <a class="postings-link" href="https://github.com/iterative/dvc/pulls?q=is%3Apr+is%3Aclosed" rel="nofollow"><strong>PR examples</strong></a>).</li>
+</ul>
+<ul>
+<li>Write docs if needed for your code (see this <a class="postings-link" href="https://github.com/iterative/dvc.org" rel="nofollow"><strong>repo</strong></a>).</li>
+</ul>
+<ul>
+<li>Being actively involved with the community - talk to users on Github, Discord, forum.</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Must have</div>
+<ul>
+<li>Motivation and interest</li>
+</ul>
+<ul>
+<li>Remote work self-discipline</li>
+</ul>
+<ul>
+<li>Excellent communication skills - clear, constructive, and respectful dialog with other team members, community.</li>
+</ul>
+<ul>
+<li>Can focus and deliver a task w/o constantly switching to other stuff - respect team's planning, deadlines, etc</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Great to have</div>
+<ul>
+<li>Experience working remotely</li>
+</ul>
+<ul>
+<li>Open source contributions or experience of maintaining, developing an open source project</li>
+</ul>
+<ul>
+<li>System programming experience - kernel, databases, etc.</li>
+</ul>
+<ul>
+<li>Machine learning or data science experience</li>
+</ul>
+<img src="https://remotive.com/job/track/1187416/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
