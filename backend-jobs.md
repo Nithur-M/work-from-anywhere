@@ -1,77 +1,5 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/9a16189c13a8decf0b80cda9e2aec6131664954137.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TRM Labs</h5>
-                    <h3>Senior Software Engineer Backend</h3>
-                </td>
-                <td width="300">
-                    <code>software,design,crypto,cryptocurrency,system,code,web,financial,node.js,senior,engineer,engineering,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-backend-trm-labs-128373" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At TRM, we're on a mission to build a safer financial system for billions of people around the globe. Our next-generation platform, which combines threat intelligence with machine learning, enables financial institutions and governments to detect cryptocurrency fraud and financial crime on an unprecedented scale.</p>
-<p>As a Senior Backend Engineer at TRM Labs, you will collaborate with an experienced team of data scientists, engineers, and product managers to build highly scalable backend systems and infrastructure for TRM's products <span style="font-weight:400;">that analyze blockchain transaction activity at a massive scale.</span> Bringing your wealth of knowledge to the team, you will be deeply involved in the technical details and ultimately work to build a safer financial system for the world.</p>
-<p><strong>Your responsibilities will include</strong></p>
-<ul>
-<li>Architecting and building highly scalable, reliable, and data-heavy backend systems and APIs that will integrate a variety of data sources</li>
-<li>Building performant, and reliable production-grade systems, from whiteboard to production</li>
-<li>Working across the stack (db, cache, code, deploy) to address technical challenges anywhere in the system</li>
-<li>Mentoring fellow team members and participating in code reviews and design reviews</li>
-<li>Collaborating cross-functionally with data scientists, designers, and product managers to define and implement backend services.</li>
-<li>Creating novel approaches to tackling blockchain-specific challenges around scale, security, and privacy.</li>
-</ul>
-<p><strong>Some of the traits we value:</strong></p>
-<ul>
-<li>Experience designing and building scalable backend systems, web applications, APIs, and services.</li>
-<li>Experience with relational and analytical database systems and modeling, including concepts such as partitioning and indexing (e.g., Postgres).</li>
-<li>Experience with asynchronous job workflows using message queues (eg., Kafka)</li>
-<li><span class="notion-enable-hover">Experience with distributed systems patterns and techniques including fault tolerance, graceful degradation, consistency/ACID, and caching.</span></li>
-<li>Experience with software review, build and deployment systems (e.g., Github, Docker, AWS)</li>
-<li>Experience collaborating in cross-functional team environment with a diverse group of people at all levels in an organization.</li>
-<li>We mostly work in Node.js and Typescript. However, we care more about your general engineering skill than knowledge of a particular language or framework.</li>
-<li>A high degree of initiative and ownership, combined with the ability to navigate ambiguity and adapt quickly to change.</li>
-</ul><div class="content-conclusion">
-<p><strong>About TRM</strong></p>
-<p>TRM Labs is a blockchain intelligence company that helps financial institutions, crypto businesses and government agencies detect and investigate crypto-related financial crime and fraud. Our products are trusted by leading companies including PayPal, Visa, FTX, Uniswap, Anchorage, and federal agencies such as the FBI and Dept. of Treasury. Every day, we tackle challenges in data engineering, data science, and threat intelligence to advance our mission to build a safer financial system for billions of people. </p>
-<p>To accomplish our mission, we have raised nearly $80M from JPMorgan Chase, Visa, Citi, PayPal, Block, Tiger Global and Bessemer. Our team is made up of world class experts from the FBI, U.S. Secret Service, US Treasury Department, McKinsey, Coinbase, and top-tier tech companies.</p>
-<p>TRM is a remote-first workplace, with hubs in San Francisco, Washington, DC and London. We are looking for people with grit, passion, and humility to join our global team.</p>
-<p><strong>Our Values</strong></p>
-<ul>
-<li>
-<strong>Impact Oriented Trailblazer</strong> - We define high-impact targets through customer centricity, prioritization, and adaptability.</li>
-<li>
-<strong>Master Craftsperson</strong> - We execute efficiently to achieve goals through good judgment, velocity, and grit.</li>
-<li>
-<strong>Inspiring Colleague</strong> - We elevate team performance through integrity, apprenticeship, and positive energy.</li>
-</ul>
-<p><strong>Our Employee Benefits</strong></p>
-<ul>
-<li>Remote-first work environment, with optional in-person offices</li>
-<li>Regular team off-sites and retreats</li>
-<li>Competitive salaries and stock options</li>
-<li>Premium health, dental, and vision insurance</li>
-<li>FSA, HSA, and 401K programs</li>
-<li>Life & disability coverage</li>
-<li>Paid time for vacations, volunteering, sick leave, and generous parental leave</li>
-<li>Fitness, co-working, and home office reimbursements</li>
-<li>Professional learning and development stipends</li>
-</ul>
-<p>We encourage you to reach out even if your experience doesn't precisely match the job description. Do not worry about picking exactly the right job; we can always explore other options after starting the conversation. Your passion and interests will set you apart, especially if your background or career is unconventional. Join us!</p>
-</div><br/><br/>Please mention the word **BUOYANT** and tag RNTQuMTc1LjEwNC4xNTY= when applying to show you read the job post completely (#RNTQuMTc1LjEwNC4xNTY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -82,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/covergo-senior-backend-engineer-net-3" align="right" target="_blank">Apply</a>
@@ -133,7 +61,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/datakitchen-inc-senior-software-engineer-backend" align="right" target="_blank">Apply</a>
@@ -180,7 +108,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
