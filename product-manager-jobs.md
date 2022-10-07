@@ -1,70 +1,5 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/d8045fe945e97678055a4e2eccb37b7e1664694916.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Voyager</h5>
-                    <h3>Product Manager Funding</h3>
-                </td>
-                <td width="300">
-                    <code>manager,design,cryptocurrency,financial,finance,banking,leader,management,operational,marketing,healthcare,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-product-manager-funding-voyager-126852" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro">
-<p><span style="font-weight:400;">Voyager is a Publicly traded company listed on the Toronto Stock Exchange (VOYG), OTC Markets (VYGVF) and the Frankfurt Exchange (UCD2). Voyager is the global leader in agency cryptocurrency brokerage. At Voyager we are building the financial services firm of the future that will be used by millions of users globally to easily access trade, invest and earn in the cryptocurrency markets.Â </span></p>
-<p><span style="font-weight:400;">We are a team of finance and technology industry veterans dedicated to empowering and servicing investors in one of the most exciting asset classes to date - crypto. Our founders stem from reputable finance and technology organizations like E*TRADE, Uber, TradeIt, Lightspeed Financial and more.</span></p>
-<p><span style="font-weight:400;">The Voyager team includes employees with diverse backgrounds and skills. Our culture has quickly grown into one that promotes collaboration, transparency, and entrepreneurialism.</span></p>
-<p><span style="font-weight:400;">To learn more about Voyager please visit us at <a href="http://www.investvoyager.com" rel="noopener noreferrer nofollow">www.investvoyager.com</a>.</span></p>
-<p><span style="font-weight:400;">We are changing the world and love what we do so if you want to work at a fast paced, exciting environment please apply.</span></p>
-</div><p><span style="font-weight:400;">Voyager is seeking a talented, results-driven Product Manager to bridge the gap between business and technology, acting as point of contact for teams across the business to streamline the funding process.</span></p>
-<p><span style="font-weight:400;">As Product Manager of Funding you will partner with Stakeholders from Business/Marketing, Design, Treasury/Accounting, Development, Compliance, Security, and Support to streamline the customer funding process ensuring the experience is straightforward and frictionless.Â  You will monitor and measure changes impacting the funding process and work to refine, optimize and improve the user experience and backend processes needed to support customer funds on and off the platform.Â  You will research and advise on new fiat funding methods, technologies and opportunities that assist in increased AUM.</span></p>
-<p><span style="font-weight:400;">This role must be comfortable partnering with internal and external partners and stakeholders to identify opportunities for improvement and execute on strategic initiatives related to customer funding services. </span></p>
-<h2>Responsibilities:</h2>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Accountability for Voyagerâs client funding process, inclusive of product design and internal/external stakeholder management across product, business operations, technology, compliance, fraud/risk, support, marketing and data.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Manage relationships with external technology partners used for fiat funding to ensure we get the most out of the partnerships and technologies used.Â  Advocate for features and improvements that benefit our client funding needs.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Research and become an expert on competitors to our existing funding technology partners.Â  Make recommendations based on data if/when new relationships or technologies should be leveraged to continue to improve and refine funding activities.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Analyze market trends, competition and customer experience journeys to inform product, driving improvements and innovation to the funding process.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ability to connect consumer insights/needs with data driven analysis to create and prioritize the funding product roadmap</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Integrate analysis and customer feedback into product requirements to ensure features satisfy customer needs and desires</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Define criteria to measure success/failure for client funding process changes.Â  Work with appropriate teams to complete user studies, A/B tests or other types of experimentation when making changes as appropriate.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ensure quality deployment and operational excellence around feature launches, including the creation of success metrics and evaluation of performance</span></li>
-</ul>
-<h2>Qualifications:</h2>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">5+ years leading product-focused initiatives</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with product management in the fin-tech industry specifically around banking services such as ACH transfers, wires, payments, etc.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Knowledge of regulations, banking systems and technologies, and compliance requirements for funding activities</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Results-driven, solutions and customer focused, with strong business acumen and ability to drive teams through rapid execution</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Self starter attitude with comfort in ambiguity</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Strong written and verbal communication skills</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with Kanban SDLC desired</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with feature experimentation via tools such as LaunchDarkly desired</span></li>
-</ul><div class="content-conclusion">
-<h2><span style="font-weight:400;">What we offer</span></h2>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Competitive Salary</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Employee Benefits including healthcare (medical, dental, vision) and 401k</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Stock OptionsÂ </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Unlimited PTO</span></li>
-</ul>
-<p><span style="font-weight:400;">Voyager is headquartered in New York City with satellite offices in New Jersey, California, Toronto and Bordeaux.</span></p>
-<p><span style="font-weight:400;">Please contact us via the button below or at careers@investvoyager.com with your resume and a brief explanation as to why you would like to join the Voyager team.</span></p>
-<p><span style="font-weight:400;">*Please note that during COVID-19 we are working remotely.</span></p>
-</div><br/><br/>Please mention the word **FRESHER** and tag RNTQuMTc1LjEwNC4xNTY= when applying to show you read the job post completely (#RNTQuMTc1LjEwNC4xNTY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7667/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -75,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/fresh-clinics-product-manager" align="right" target="_blank">Apply</a>
@@ -143,7 +78,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-product-manager-technical" align="right" target="_blank">Apply</a>
@@ -201,7 +136,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-sr-product-manager" align="right" target="_blank">Apply</a>
@@ -284,7 +219,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>330 days ago</text>
+                <text>331 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -350,7 +285,7 @@
                     <code>ecommerce,education,marketing,product manager</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-b2c-1388899" align="right" target="_blank">Apply</a>
