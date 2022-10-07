@@ -1,5 +1,74 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/9949542389b3927e0be5aa9674b5975c1665040529.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bitcoin Depot</h5>
+                    <h3>Mobile App Developer</h3>
+                </td>
+                <td width="300">
+                    <code>web3,bitcoin,developer,design,ios,cryptocurrency,ethereum,react,code,qa,javascript,mobile,management,marketing,android,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-mobile-app-developer-bitcoin-depot-128883" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Mobile App Developer remote (remote)Â </strong></p>
+<p><strong>Bitcoin Depot</strong><span style="font-weight:400;"> is seeking a</span><strong> Mobile App Developer </strong><span style="font-weight:400;">to help develop new functionality and maintain the current Bitcoin Depot App and development of new mobile App products.Â </span></p>
+<p><span style="font-weight:400;">Bitcoin Depot is one of the largest multi-cryptocurrency ATM Networks in the world, offering the ability to buy and sell Bitcoin, Litecoin, and Ethereum instantly at hundreds of locations. Our mission is to provide the most secure, convenient, and fastest cryptocurrency transaction. Our vision is to bring the cryptocurrency market to the masses.</span></p>
+<p><span style="font-weight:400;">We are proud to be an Atlanta Journal-Constitution Top WorkPlace for 2021.</span></p>
+<p><span style="font-weight:400;">Â </span><strong>Responsibilities</strong></p>
+<p><span style="font-weight:400;">Maintain and further develop new features on Bitcoin Depot Mobile App.Cooperate and collaborateÂ  with Bitcoin Depot development team, product and marketing team in developing a best in class mobile app.Â </span></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Work closely with our product team to launch new features</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Work hand in hand with our design team on modern user interfaces and experiences</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Develop thoroughly tested code and conduct quality assurance on all new code alongside our QA team</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Build dynamic, responsive, low latency and real-time user interfaces</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Collaborate effectively with other technology teams and architects to solve complex problems spanning their respective areas</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Establish key metrics to indicate success or failure after new product rollouts</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Work in a team as well as independently to deliver on aggressive schedules and goals</span></li>
+</ul>
+<p><strong>Technical Qualifications:Â </strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">3+ years in building and maintaining React Native applications with clean code.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Implement pixel perfect UIâs that match designs.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">4+ years experience integrating internal and third-party APIâs.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Work with modern tools including Slack, GitHub, Google Docs, etc.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">5+ years experience developing apps with one or more of the following: React Native, Ionic/Cordova/Phonegap, iOS (Swift or Objective C) Android (Java or Kotlin). React Native is preferable.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">4+ years experience with JavaScript or Typescript.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">4+ years working with relational database and SQL (PostgresÂ  preferable)</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">4+ years working with GIT</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">4+ years experience working with XCode, Gradle, ADB and configuring the Android SDK</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">4+ years experience debugging iOS and Android build errors and dependency conflicts.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">4+ years experience with code signing and deploying apps to the Apple App Store and Google Play Store.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Familiarity with state management libraries such as Redux.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Familiarity with React component lifecycle.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Work with modern tools including Slack, GitHub, Google Docs, etc.</span></li>
+</ul>
+<p><strong>Benefits</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Competitive Salary</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">401K MatchingÂ </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Generous PTO</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Health benefits offered with a company contribution towards premiums</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Wellness benefitsÂ </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Casual dress environment when in office</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Monthly company celebrations</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Advancement opportunities based on results</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Weekly catered lunchesÂ </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Premium coffee and tea provided by Buckhead BeansÂ </span></li>
+</ul>
+<p><br><br></p><br/><br/>Please mention the word **GROUNDBREAKING** and tag RMy44MS4xNzMuMjE5 when applying to show you read the job post completely (#RMy44MS4xNzMuMjE5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7668/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +79,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/planet-argon-senior-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -132,101 +201,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7647/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Ternoa</h5>
-                    <h3> Substrate Rust Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/ternoa-substrate-rust-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/7647/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Biarritz, France 
-    <br /><strong>URL:</strong> <a href="https://ternoa.com">https://ternoa.com</a>
-</p>
-
-<div>
-<strong>We’re Ternoa,</strong> <strong>a decentralized, open source, multi-chain Layer 1 blockchain providing a technical stack to build scalable and secure NFTs with native support for augmented features.<br></strong><br>
-</div><div>
-<strong>Join Us<br></strong><br>
-</div><div>We're looking for a fully remote, full-time<strong> Substrate Rust Developer</strong> to join us asap.  You'll be part of our core development team, building a Layer 1 chain using Substrate and Rust.  Your mission will include: </div><ul>
-<li>Defining standards and technical specifications</li>
-<li>Implementing design patterns and optimising code for storage and performance</li>
-<li>Writing modules for other developers to use, including libraries, APIs and third party integrations primarily in Rust</li>
-<li>Building highly secure, scalable, gas-efficient, storage-efficient and high-performance solutions</li>
-<li>Collaborating with the product and design teams to understand business goals, product and tech roadmaps, and end-user requirements</li>
-<li>Acting as a developer evangelist to onboard, train and mentor external developers on to Ternoa chain</li>
-<li>Creating and improving technical documentation of the product, and standards.</li>
-<li>Mentoring and providing leadership to our junior developers</li>
-<li>Participating in the governance of the network</li>
-<li>Evaluating new technologies, conduct research and develop proof-of-concepts</li>
-</ul><div>If that sounds like something you're interested in, we look forward to receiving your application today!</div><div><br></div><div>
-<strong>Your Background <br></strong><br>
-</div><div><em>Must-have's</em></div><ol>
-<li>You have extensive, proven experience (+1 year) in <strong>BOTH</strong> Substrate and Rust development</li>
-<li>You have experience managing people or are willing to do so</li>
-<li>You excel in a performance-driven and collaborative environment with constant growth and pivots as required</li>
-<li>You speak and write English fluently</li>
-<li>You're working hours can overlap Central European Timezone by at least 4 hours</li>
-</ol><div><em>Bonus points if you:</em></div><ol>
-<li>Have previously worked at a startup </li>
-<li>Have expertise in the NFT space</li>
-</ol><div>Does the above sound like you? If so, we'd love to hear from you!</div><div><br></div><div><strong>What’s In It For You?</strong></div><ul>
-<li>Competitive monthly salary range + CAPS token bonus</li>
-<li>Possible payment in USDT</li>
-<li>Remote and asynchronous working environment</li>
-<li>Flexible time-off</li>
-<li>No micromanagement</li>
-<li>No endless meetings</li>
-<li>A leadership position with ample room for growth and space to share your ideas</li>
-<li>Monthly and annual performance reviews with virtual team activities</li>
-</ul><div>
-<strong>Get to know us ✨</strong> <br><br>
-</div><div>
-<strong>For builders by builders ⚙️<br></strong><br>
-</div><div>NFTs native to our chain can be deployed using high-level programming languages and do not require smart contract functionality.<br><br>
-</div><div>
-<strong>Privacy, a fundamental right 🕵️‍♀️<br></strong><br>
-</div><div>Ternoa combines decentralization with native encryption using trusted execution environment (TEEs), turning NFTs into secure, private data containers, allowing users to retain true ownership of digital data.<br><br>
-</div><div>
-<strong>Sustainability is key 🔑<br></strong><br>
-</div><div>Our protocol relies on nominated proof-of-stake ensuring energy consumption.<br><br>
-</div><div>
-<strong>Multi chain by design ⛓<br></strong><br>
-</div><div>Using mirroring, bridges, and native Polkadot functionality, Ternoa allows users to merge NFTs from all ecosystems in a single place and enjoy the benefits of our tech stack.<br><br>
-</div><div>
-<strong>Native support for advanced features<br></strong><br>
-</div><div>Ternoa provides native support for Secret NFTs, Mirroring, Delegating and Lending, Combination and Fractionalization of NFTs, and much more.<br><br>
-</div><div>Explore our <a href="https://github.com/capsule-corp-ternoa"><strong>GitHub</strong></a> and <a href="https://github.com/capsule-corp-ternoa/white-paper/blob/main/white-paper-en.md"><strong>White Paper</strong></a> 👀</div><div><br></div><div>
-<strong>Next Steps</strong> <br><br>
-</div><div>If you think you’re a strong fit for this role, we invite you to submit your application. We generally review all applications within a week of submission.<br><br>
-</div><div>Here’s our recruitment process for shortlisted candidates:<br><br>
-</div><div>1. 20-30 min. videocall with our People Ops<br><br>
-</div><div>2. 30-45 min. videocall with our Tech Team<br><br>
-</div><div>3. Reference checks <em>(can take 24-72 hours)<br></em><br>
-</div><div>4. Job offer sent<br><br>
-</div><div>We try our best to respond to every application. But sometimes this isn't possible due to large application volume. If you don't hear from us in 2-3 weeks, it means that we've most likely progressed with other candidates. In this case, we invite you to visit our Careers page in the future to explore other opportunities. <br><br>We thank you for your time and interest 🙏<strong><br></strong><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ternoa-substrate-rust-developer">https://weworkremotely.com/remote-jobs/ternoa-substrate-rust-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8743/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -237,7 +211,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-2" align="right" target="_blank">Apply</a>
@@ -290,7 +264,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/dagabase-lead-front-end-developer-sr-developer" align="right" target="_blank">Apply</a>
@@ -337,141 +311,225 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/1147/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Full Stack Developer</h3>
+                    <h5>OperateBeyond</h5>
+                    <h3> PHP Developer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>360 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0067/1147/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+  <strong>Headquarters:</strong> Michigan
+    <br /><strong>URL:</strong> <a href="http://operatebeyond.com/">http://operatebeyond.com/</a>
 </p>
 
-<div><strong>The Role:</strong></div><div>We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><ul>
-<li>4+ years of working experience as a FullStack;</li>
-<li>Frontend:<br>- React JS;<br>- Design System;</li>
-<li>Backend:<br>- Microservices architecture;<br>- NodeJS; </li>
-<li>Database:<br>- SQL;<br>- MongoDB;</li>
-<li>Upper-intermediate or higher English level.</li>
-</ul><div><br></div><div><strong>Nice-to-have: </strong></div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Database Architecture knowledge</li>
-</ul><div>
-<br><br>
+<div><br></div><div>OperateBeyond is a fast growing technology company building web and mobile applications. We specialize in delivering top-notch user experiences paired with solid technology in non-auto vehicle software industry. Our successes come from our teamwork and mutual respect for each other’s talents and unique perspectives.<br><br>
 </div><div>
-<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.🚀 <strong>360 degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
+<br>So when we say we are looking for a PHP Developer we do want want you to be an awesome back-end developer who’s dabbled with many different projects. We are looking for someone who can hold their own when when it comes to system integrations, databases, and even be interested in understanding more about user experience to help us shape amazing products.<br><br>
+</div><div>
+<strong><br>What you might do on any given day:<br></strong><br>
+</div><ul>
+<li>Work with a variety of technologies and platforms such as PHP, ZF2, ZF1, Laravel, ElasticSearch, MySQL, Vue.js, jQuery and many more technologies we may introduce<br><br>
+</li>
+<li>Collaborate with product managers and technical leads<br><br>
+</li>
+<li>Develop comprehensive use cases and test conditions<br><br>
+</li>
+<li>Take part in analysis efforts, identification, and recommendation of solutions, integration points and related implementation architecture for business usage improvements, scalability and performance.<br><br>
+</li>
+<li>Provide guidance in the form of code review, solution design, and recommended training and development plans.<br><br>
+</li>
+<li>Write unit tests, specs, integration tests, UI tests, and acceptance tests.<br><br>
+</li>
+<li>Advocate for new or improved development practices that increase craftsmanship, availability, resilience, and scalability of our solutions<br><br>
+</li>
+</ul><div>
+<strong><br>We think you’ll enjoy working with our team if you:<br></strong><br>
+</div><ul>
+<li>Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in technology communities.<br><br>
+</li>
+<li>Can be flexible, agile, dependable, and responsive even when there are a lot of moving parts and prefer that over following rigid processes and guidelines.<br><br>
+</li>
+<li>Believe that good application development includes good testing, good documentation, and good collaboration.<br><br>
+</li>
+<li>Have great communication and reasoning skills, including the ability to make a strong case for technology choices while understanding other viewpoints and the need to find the best possible solution for everyone.<br><br>
+</li>
+<li>Have a positive yet practical attitude; You are willing to take on any task that might help take one of our products, or our company, a little further.<br><br>
+</li>
+</ul><div><br></div><div><br></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer">https://weworkremotely.com/remote-jobs/operatebeyond-php-developer</a></p>
 
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6597/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1422554/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Aldrin</h5>
-                    <h3> Lead Back-End Developer Node.js Web3 (Remote)</h3>
+                    <h5>Proxify AB</h5>
+                    <h3>Senior Python Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/aldrin-lead-back-end-developer-node-js-web3-remote" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-python-developer-1422554" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6597/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Europe
-    <br /><strong>URL:</strong> <a href="https://aldrin.com">https://aldrin.com</a>
-</p>
-
-<div>
-<strong>Please Note: </strong>This is a<strong> remote </strong>position<strong>.</strong> Aldrin Labs is a fully remote company. We are interested in capturing the best talent, no matter where you live.<br><br>
-</div><div>
-<strong>The Role<br></strong><br>
-</div><div>We’re looking for a Senior Back-End Developer skilled in designing, building, and deploying highly secure, scalable, and maintainable backend services for the Aldrin decentralized exchange.<br><br>
-</div><div>You will:<br><br>
-</div><ul>
-<li>Develop backend service for Aldrin’s new products, including but not limited to our centralized and decentralized exchange platform, as well as other internal applications as necessary</li>
-<li>Work closely with traders and Aldrin developers and have the opportunity to improve your knowledge of building high-performance scalable applications, understand broader system architecture and understand the cryptocurrency market</li>
-<li>Be passionate about the crypto markets, blockchain technology, and decentralized applications.</li>
-</ul><div><br></div><div>
-<strong>Minimum Requirements:<br></strong><br>
-</div><ul>
-<li>Professional experience in <strong>Node.js of 5+ years</strong>
-</li>
-<li>Professional experience programming in <strong>Golang</strong>
-</li>
-<li>Strong experience in Express.js, Docker, <strong>Kubernetes</strong>
-</li>
-<li>Significant professional experience programming in Typescript</li>
-<li>Development experience on <strong>cloud computing platform (AWS)</strong>
-</li>
-<li>Experience working with a large codebase, distributed teams</li>
-<li>Experience with NoSQL and RDBMS database systems such as PostgreSQL, MySQL, or MongoDB</li>
-<li>Strong understanding of database schema design</li>
-<li>Strong understanding of networking concepts (load balancers, routers, etc.)</li>
-<li>Experience with high load applications (1000 RPS), performance tuning experience</li>
-</ul><div>
-<br><strong>Nice-to-Haves:</strong>
-</div><ul>
-<li>Experience working with a large codebase</li>
-<li>A proactive team player with strong problem solving capabilities</li>
-<li>Passionate about the cryptocurrency market and developing apps using blockchain (e.g. web3.js)</li>
-<li>BS in Computer Science or equivalent</li>
-</ul><div>
-<br><strong>Benefits:</strong>
-</div><ul>
-<li>Competitive salary + equity/tokens</li>
-<li>Remote work in a dynamic, fast-growth Web3 startup</li>
-<li>Flexible working hours</li>
-<li>Opportunity to work with a diverse, global, and passionate team</li>
-<li>Collaboration with leading projects and thought leaders in the crypto space</li>
-</ul><div>
-<em>At Aldrin Labs, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.<br></em><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/aldrin-lead-back-end-developer-node-js-web3-remote">https://weworkremotely.com/remote-jobs/aldrin-lead-back-end-developer-node-js-web3-remote</a></p>
-
+                <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">The Role:</span></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">We are searching for a </span><span style="color: #000000; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Senior Python Developer</span><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </span></p>
+<p><br><br></p>
+<div class="h3" dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">What we are looking for:</span></div>
+<p> </p>
+<ul>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You have +3 years of experience with Python;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You have +2 years of experience with Kubernetes;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You follow best practices and conventions;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Relevant experience in CI/CD and related tools;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Responsible and able to work with minimal supervision;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Upper-intermediate English level;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You can communicate well with both technical and non-technical clients.</span></li>
+</ul>
+<div class="h4" dir="ltr" style="line-height: 1.9871999999999999; margin-top: 14pt; margin-bottom: 12pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Nice-to-have:</span><span style="color: #666666; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> </span></div>
+<ul>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Interest in cryptocurrency is a huge plus.</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Timezone: CET (+/- 3 hours);</span></li>
+</ul>
+<p> </p>
+<div class="h4" dir="ltr" style="line-height: 1.9871999999999999; margin-top: 14pt; margin-bottom: 12pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Responsibilities:</span></div>
+<ul>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Writing reusable, testable, and efficient code;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Design and implementation of low-latency, high-availability, and performant applications;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Integration of user-facing elements developed by front-end developers with server-side logic;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Implementation of security and data protection;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Integration of data storage solutions.</span></li>
+</ul>
+<p><br><br></p>
+<p align="left" dir="ltr" style="margin-left: 0pt;"> </p>
+<table style="border-width: initial; border-style: none;"><colgroup><col width="600"></colgroup>
+<tbody>
+<tr style="height: 132.75pt;">
+<td style="border-width: 0.99609pt; border-color: #000000; vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;">
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">What we offer:</span></p>
+<ul>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">💻 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">100% remote work</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Work from anywhere.</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">👌🏻 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Flexibility</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: The ability to change the project to another one.</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">💵 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Financial growth</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Competitive compensation and performance-based increases.</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">🧘🏻‍♂️ </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Freedom</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Very flexible working schedule.</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">🚀 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">360 degree growth</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Opportunities for professional development and personal growth.</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p><br><br></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Your benefits with Proxify:</span></p>
+<ul>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Be part of Proxify community</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Network with like-minded and enthusiastic individuals to make a difference. </span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Make an impact</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: You get the opportunity to work on the projects that inspire you and add value to your career.</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Transparency</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Contracts with transparency in earnings and working hours.</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Save your time</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Fast and efficient hiring process to match you with the project of your preference.</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ownership: </span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Take ownership of your work and enjoy more freedom in your career.</span></li>
+</ul>
+<img src="https://remotive.com/job/track/1422554/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify AB</h5>
+                    <h3>Senior Front-end Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,ui,ux,growth</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">The Role:</span></p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">We are searching for a </span><span style="color: #252525; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Senior Front-End Developer (Angular.js/React.js)</span><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </span></p>
+<p><br><br></p>
+<div class="h3" dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">What we are looking for:</span></div>
+<ul>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You have +3 years experience with React.js/Angular.js;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You follow best practices and conventions;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Relevant experience in CI/CD and related tools;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Responsible and able to work with minimal supervision;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Upper-intermediate English level;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">You can communicate well with both technical and non-technical clients.</span></li>
+</ul>
+<div class="h4" dir="ltr" style="line-height: 1.9872; margin-top: 14pt; margin-bottom: 12pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Nice-to-have:</span></div>
+<ul>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Timezone: CET (+/- 3 hours);</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Basic back-end knowledge for minor back-end jobs where necessary.</span></li>
+</ul>
+<div class="h4" dir="ltr" style="line-height: 1.9872; margin-top: 14pt; margin-bottom: 12pt;"><span style="color: #000000; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Responsibilities:</span></div>
+<ul>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Build reusable code and libraries for future use;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ensure the technical feasibility of UI/UX designs;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Transform visual designs and wireframes into working products;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Accurate planning of the feature delivery;</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Collaborate with other team members and stakeholders</span></li>
+</ul>
+<p><br><br></p>
+<p align="left" dir="ltr" style="margin-left: 0pt;"> </p>
+<table style="border-width: initial; border-style: none;"><colgroup><col width="600"></colgroup>
+<tbody>
+<tr style="height: 132.75pt;">
+<td style="border-width: 0.99609pt; border-color: #000000; vertical-align: top; padding: 5pt; overflow: hidden; overflow-wrap: break-word;">
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">What we offer:</span></p>
+<ul>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">💻 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">100% remote work</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Work from anywhere.</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">👌🏻 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Flexibility</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: The ability to change the project to another one.</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">💵 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Financial growth</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Competitive compensation and performance-based increases.</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">🧘🏻‍♂️ </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Freedom</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Very flexible working schedule.</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">🚀 </span><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">360 degree growth</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Opportunities for professional development and personal growth.</span></li>
+</ul>
+</td>
+</tr>
+</tbody>
+</table>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"> </p>
+<p dir="ltr" style="line-height: 1.656; margin-top: 0pt; margin-bottom: 0pt;"><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Your benefits with Proxify:</span></p>
+<ul>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Be part of Proxify community</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Network with like-minded and enthusiastic individuals to make a difference. </span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Make an impact</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: You get the opportunity to work on the projects that inspire you and add value to your career.</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Transparency</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Contracts with transparency in earnings and working hours.</span></li>
+<li dir="ltr" style="line-height: 1.38;"><span style="background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Save your time</span><span style="background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">: Fast and efficient hiring process to match you with the project of your preference.</span></li>
+</ul>
+<p><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ownership: </span><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Take ownership of your work and enjoy more freedom in your career.</span></p>
+<img src="https://remotive.com/job/track/1383531/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -486,7 +544,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -563,7 +621,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -632,7 +690,7 @@
                     <code>api,CSS,developer,docker</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
@@ -733,7 +791,7 @@
                     <code>AWS,cloud,CSS,developer</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1393221" align="right" target="_blank">Apply</a>
@@ -758,7 +816,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>38 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -783,7 +841,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>38 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -808,7 +866,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>38 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -833,7 +891,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>38 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -858,7 +916,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>38 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -883,7 +941,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>38 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -908,7 +966,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>38 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
