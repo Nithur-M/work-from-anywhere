@@ -1,148 +1,70 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/6dc45b6c55b515c5d5d3bf9cd4cf7d6f1664781331.peg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6740/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Orderly</h5>
-                    <h3>DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>cryptocurrency,grafana,system,security,python,test,devops,financial,video,cloud,management,engineer</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-devops-engineer-orderly-127356" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h2 style="text-align:center;"><strong>Work with the best</strong></h2>
-<p>Orderly Network is a permissionless, decentralized exchange protocol and modular ecosystem built on top of NEAR. It uses an on-chain orderbook to provide a platform complete with a risk engine, matching engine, and shared asset pools for Dapps to build on top of. Dapps built on the Orderly Network will allow for financial instruments such as; Spot Trading, Margin Trading, Perpetual Swaps and Lending & Borrowing.</p>
-<p>Whilst a fully independent team operates at Orderly Network, we were incubated by NEAR and WOO Network - Industry heavyweights in their respective fields. Thanks to both the guidance and expertise Orderly Network will offer market-leading execution with low latency and minimal fees with a combination of orderbook efficiency alongside on-chain settlement. We will become the go-to network for ecosystem partners to come and build upon.</p>
-<h2 style="text-align:center;"><strong>A Glimpse into Your Future at Orderly Network</strong></h2>
-<ul>
-<li>
-<span style="text-decoration:underline;"><em>What will you be working on?</em></span>
-<ul>
-<li>The individual will be responsible for monitoring our exchange service status, refining deployment pipeline, monitoring, troubleshooting and identifying the root cause of issues.</li>
-<li>Focus on ensuring the stability of the service and helping dev-team to deploy features to production.</li>
-<li>Responsible for handling and solving issues when service goes wrong.</li>
-<li>Responsible for designing a better deployment pipeline.</li>
-<li>Build tools to monitor systems and identify issues.</li>
-</ul>
-</li>
-<li>
-<em>Who will you be working with?</em>
-<ul>
-<li>Work with development and test engineers.</li>
-</ul>
-</li>
-<li>
-<em>What challenges will you face?</em>
-<ul>
-<li>Knowledge of blockchain/crypto service or expertise in the online blockchain/crypto industry is a BIG plus.</li>
-<li>Enjoys breaking things and solving problems - not just able to find out the 'what', but also the 'why'.</li>
-<li>Excellent troubleshooting, listening and problem-solving skills with the ability to set project expectations and meet deadlines.</li>
-<li>Ability to work in a fast-paced, multi-task environment.</li>
-</ul>
-</li>
-<li>
-<em>What tech stacks/skills will you be using?</em>
-<ul>
-<li>Nice to have! - Telegram bot</li>
-<li>Nice to have! - Security related experience</li>
-<li>Nice to have! - Develop tools to simplify DevOps work</li>
-<li>Familiar with GCP, AWS or other cloud services.</li>
-<li>Have experience in CI|CD Workflow.</li>
-<li>Familiar with Docker, kubernetes and have experience in using Kubernetes to manage production-grade cluster.</li>
-<li>Familiar with mysql, mq and redis.</li>
-<li>Familiar with monitoring system prometheus, be able to customize grafana dashboard.</li>
-<li>Familiar with logging system ELK or EFK.</li>
-<li>Coding ability: python or golang.</li>
-<li>24/7 on-call when there are urgent issues to handle and must be handled in a timely + responsible manner.</li>
-</ul>
-</li>
-</ul>
-<h2 style="text-align:center;"><strong>Interested in Learning More?</strong></h2>
-<ul>
-<li>Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.</li>
-<li>If you have experience in developing trading systems or financial-related products is a plus.</li>
-<li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
-<li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our <a href="https://boards.greenhouse.io/orderlynetwork/jobs/5170520003" target="_blank" rel="noopener noreferrer nofollow">External Referral Incentives Program</a> as well. </li>
-</ul><br/><br/>Please mention the word **UPLIFTING** and tag RMy44MS4xNzMuMjE5 when applying to show you read the job post completely (#RMy44MS4xNzMuMjE5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3> Senior DevOps Engineer </h3>
+                    <h5>Proxify AB</h5>
+                    <h3> Senior DevOps Engineer</h3>
                 </td>
                 <td width="300">
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-9" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6740/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
 </p>
 
-<div>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects<br><br>
-</div><div><strong>What we're working on:</strong></div><div>
-<br>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries<br><br>
-</div><div><strong><br>Requirements</strong></div><ul>
-<li>7+ years of professional experience (A technical assessment will be required)</li>
-<li>Senior-level experience with AWS (EC2, RDS, S3, ECS, ELB)</li>
-<li>Strong background in Linux and Mongo Atlas administration</li>
-<li>Experience deploying Kubernetes in a production environment</li>
-<li>Experience with CI/CD in Jenkins or CircleCi</li>
-<li>Infrastructure as code (we use Terraform)</li>
-<li>Experience with requirement gathering and presentation to executives</li>
-<li>English fluency, verbal and written</li>
-<li>Professional, empathic, team player</li>
-<li>Problem solver, proactive, go-getter</li>
+<div><strong>The Role:</strong></div><div>We are searching for a Senior DevOps Engineer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
+<li>You have +4 years of solid development experience as a DevOps Engineer;</li>
+<li>You have +3 years of experience in Azure Cloud and Kubernetes;</li>
+<li>You have good understanding of operating, monitoring, and documenting cloud solutions;</li>
+<li>Responsible and able to work with minimal supervision;</li>
+<li>Upper-intermediate English level;</li>
+<li>You can communicate well with both technical and non-technical clients.</li>
 </ul><div>
-<br><strong>Benefits of joining the Clevertech team</strong>
-</div><div>
-<br>We know that people do their best work when they’re taken care of. So we make sure to offer great benefits:<br><br>
+<strong><br>Nice-to-have:</strong> <br><br>
 </div><ul>
-<li>Competitive Salaries</li>
-<li>1 Month Paid Time Off For You</li>
-<li>Personal Development Fund</li>
-<li>Tenure-Based Rewards</li>
-<li>Flexible Family Leave</li>
-<li>Clevertech University</li>
-<li>Clevertech Gives Back</li>
-<li>Amazing Culture &amp; Strong Community</li>
-</ul><div><br></div><div>
-<br><strong>Why Clevertech is an amazing place to work at</strong>
-</div><div>
-<br>At Clevertech, you can expect that you will:<br><br>
-</div><ul>
-<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
-<li>Be a part of a team of talented and friendly senior-level developers</li>
-<li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Azure certifications in Cloud development and architecture would be a plus.</li>
 </ul><div>
-<br>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.<br><br>
+<strong><br>Responsibilities:<br></strong><br>
+</div><ul>
+<li>Set up and maintain local development and test environments (based on containers and similar technologies);</li>
+<li>Set up CI/CD pipelines, including build processes for container images and delivery to container registries;</li>
+<li>Planning and setting up automated updates to AKS (Azure Kubernetes Service) and surrounding infrastructure components;</li>
+<li>Continued setup and improvement of Cloud infrastructure to support new cloud-native solutions;</li>
+<li>Collaborate with the stakeholders.</li>
+</ul><div>
+<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule<br>.🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<br><br>
+</div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul><div>
+<br><br><br>
 </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-9">https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-9</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer</a></p>
 
                 </details>
                 </td>
@@ -158,7 +80,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>127 days ago</text>
+                <text>128 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-devops-engineer-1" align="right" target="_blank">Apply</a>
@@ -214,7 +136,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>38 days ago</text>
+                <text>39 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1344659" align="right" target="_blank">Apply</a>
