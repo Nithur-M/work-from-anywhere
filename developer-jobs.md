@@ -1,5 +1,29 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/93ae359e662e8f8efff4c9dc6e8af82a1665126932.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Aldrin</h5>
+                    <h3>Senior Back End Developer Node.js Web3</h3>
+                </td>
+                <td width="300">
+                    <code>web3,developer,crypto,cryptocurrency,system,back-end,financial,finance,cloud,nosql,node.js,senior,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-back-end-developer-node-js-web3-aldrin-129399" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>About Aldrin Labs</strong></p><p>There is a steep learning curve when it comes to crypto. Only once overcome will we have <strong>mass adoption.</strong> Aldrin Labs aims to debunk the belief that decentralized finance is inherently complex and separate from centralized finance. We will amend the frustratingly poor user experience and fragmentation that <strong>millions</strong> of crypto natives and newcomers face. We will seamlessly merge the centralized and decentralized world.</p><p>Aldrin Labs aims to be purposeful. We strive to halve the fifty working years of the average person. This is the mission of Aldrin Labs.</p><p>Aldrin Labs has Aldrin DEX and is incubating an innovative crypto wallet and money market. These protocols will integrate with each other to provide easy functionality and purposefully help people achieve financial freedom.</p><p>Aldrin Labs is a <strong>fully remote</strong> company. We are interested in capturing the best talent, no matter where you live.</p><p><strong>The Role</strong></p><p>Weâre looking for a Senior Back-End Developer skilled in designing, building, and deploying highly secure, scalable, and maintainable backend services for the Aldrin decentralized exchange.</p><p>You will:</p><ul> <li>Develop backend service for Aldrinâs new products, including but not limited to our centralized and decentralized exchange platform, as well as other internal applications as necessary</li> <li>Work closely with traders and Aldrin developers and have the opportunity to improve your knowledge of building high-performance scalable applications, understand broader system architecture and understand the cryptocurrency market</li> <li>Be passionate about the crypto markets, blockchain technology, and decentralized applications.</li> </ul><p></p><h4>Requirements</h4><p><strong>Minimum Qualifications:</strong></p><ul> <li>Professional experience as a back-end developer of 3-5+ years</li> <li>Professional experience in Node.js of 3+ years</li> <li>Professional experience programming in <strong><em>Golang</em></strong> </li> <li>Strong experience in Express.js, Docker, <strong><em>Kubernetes</em></strong> </li> <li>Significant professional experience programming in Typescript</li> <li>Experience working with a large codebase, distributed teams</li> <li>Experience with NoSQL and RDBMS database systems such as PostgreSQL, MySQL, or MongoDB</li> <li>Strong understanding of database schema design</li> <li>Development experience on cloud computing platform (AWS)</li> <li>Strong understanding of networking concepts (load balancers, routers, etc.)</li> <li>Experience with high load applications (1000 RPS), performance tuning experience </li> </ul><p><strong>Nice-to-Have Qualifications:</strong></p><ul> <li>Experience working with a large codebase</li> <li>A proactive team player with strong problem solving capabilities </li> <li>Passionate about the cryptocurrency market and developing apps using blockchain (e.g. web3.js)</li> <li>BS in Computer Science or equivalent</li> </ul><p></p><h4>Benefits</h4><ul> <li>Competitive salary + equity/tokens</li> <li>Remote work in a dynamic, fast-growth Web3 startup</li> <li>Flexible working hours</li> <li>Opportunity to work with a diverse, global, and passionate team</li> <li>Collaboration with leading projects and thought leaders in the crypto space</li> </ul><p><em>At Aldrin Labs, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.</em></p><br/><br/>Please mention the word **PROLIFIC** and tag RMy44Ni41MC4yNDk= when applying to show you read the job post completely (#RMy44Ni41MC4yNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/9949542389b3927e0be5aa9674b5975c1665040529.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +34,7 @@
                     <code>web3,bitcoin,developer,design,ios,cryptocurrency,ethereum,react,code,qa,javascript,mobile,management,marketing,android,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-mobile-app-developer-bitcoin-depot-128883" align="right" target="_blank">Apply</a>
@@ -64,7 +88,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Weekly catered lunchesÂ </span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Premium coffee and tea provided by Buckhead BeansÂ </span></li>
 </ul>
-<p><br><br></p><br/><br/>Please mention the word **GROUNDBREAKING** and tag RMy44MS4xNzMuMjE5 when applying to show you read the job post completely (#RMy44MS4xNzMuMjE5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><br><br></p><br/><br/>Please mention the word **GROUNDBREAKING** and tag RMy44Ni41MC4yNDk= when applying to show you read the job post completely (#RMy44Ni41MC4yNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -79,7 +103,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/planet-argon-senior-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -211,7 +235,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-2" align="right" target="_blank">Apply</a>
@@ -264,7 +288,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/dagabase-lead-front-end-developer-sr-developer" align="right" target="_blank">Apply</a>
@@ -321,7 +345,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>360 days ago</text>
+                <text>361 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
@@ -388,7 +412,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-developer-1422554" align="right" target="_blank">Apply</a>
@@ -467,7 +491,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -544,7 +568,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -621,7 +645,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -690,7 +714,7 @@
                     <code>api,CSS,developer,docker</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
@@ -781,31 +805,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1393221/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Quinncia Inc</h5>
-                    <h3>Frontend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,cloud,CSS,developer</code>
-                </td>
-                <td width="200">
-                <text>23 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/frontend-developer-1393221" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">This posting is for a Frontend Developer, you would work alongside our team. We are a fully remote team so it does not matter which country or time zone you are in, as long as you are available from 10 AM to 1 PM (EST). We are NOT looking for part-time work, contractors, software development companies or consultants, so please only apply if you're looking for a full-time position.</p><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">Quinncia is a career readiness platform that improves college student outcomes by improving students' resumes and interview skills using our AI. Quinncia allows career service to scale their offerings allowing each student to get personalized feedback on their resume and interviewing skills. With over 60% unemployment or underemployment rate among recently graduated students, our goal is to integrate career readiness into the academic curriculum and make sure every student has a job within 90 days of graduation.</p><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">Projects you'll be working on:</p><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">We're focused on enhancing our UI and UX, as well as streamlining operations and improving our technical foundation. As a core member of the Front-End team, you will influence how we build individual features, take ownership of end to end product quality that will help make our app/website reliable We want you to focus on high-quality code and know that quality is more than just unit tests and code coverage. You would look for opportunities to automate, always package up reusable code, be constantly learning, ready to pick up new technologies, patterns, and paradigms.</p><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">COOL TECH</p><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">Chatbots Computer vision Data visualization Machine learning Natural language processing Video processing and everything else - our team is small and you'll likely be involved in almost every tech-related thing going on</p><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">Being a Frontend engineer you will need strong logical skills but also understand design patterns and ability to predict edge cases for handling different issues. You will be working with our lead designer but a good understanding of UI and UX would be needed.</p><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">Requirements Front-end developer position (required tech):</p><ul style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-top: 16px; margin-bottom: 24px; padding-left: 32px; color: rgb(22, 32, 64); "><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Profound knowledge of JavaScript</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Comfortable with ES6</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Practical and recent experience with React.js</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Experience communicating with RESTful services</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Experience with testing (e.g. Jest)</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Experience with bundling of JavaScript code (e.g. Webpack)</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Have deep knowledge in CSS, preprocessors (e.g. Sass)</li></ul><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">Bonus skills:</p><ul style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-top: 16px; margin-bottom: 24px; padding-left: 32px; color: rgb(22, 32, 64); "><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">GraphQL</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Docker</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Cloud platforms (GCP, AWS)</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Git</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Redux/Flux</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Ramda</li><li style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">HTML5, Bootstrap</li></ul><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">Whatever else you decide - we're constantly re-evaluating our stack and tools Having prior experience with the technologies is a plus, but not mandatory for skilled candidates.</p><p style="--tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-scroll-snap-strictness:proximity; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgb(15 111 255/0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: rgb(22, 32, 64); ">PS: Please add your Github account link to your application, as it will make the evaluation process easier and more robust.</p>
-<img src="https://remotive.com/job/track/1393221/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1344656/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -816,7 +815,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>38 days ago</text>
+                <text>39 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -841,7 +840,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>38 days ago</text>
+                <text>39 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -866,7 +865,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>38 days ago</text>
+                <text>39 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -891,7 +890,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>38 days ago</text>
+                <text>39 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -916,7 +915,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>38 days ago</text>
+                <text>39 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -941,7 +940,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>38 days ago</text>
+                <text>39 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -966,7 +965,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>38 days ago</text>
+                <text>39 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
