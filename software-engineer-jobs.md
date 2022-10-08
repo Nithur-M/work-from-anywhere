@@ -10,7 +10,7 @@
                     <code>software,design,amazon,defi,crypto,cryptocurrency,system,frontend,test,code,web,javascript,investment,nodejs,php,git,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-nobi-128372" align="right" target="_blank">Apply</a>
@@ -46,82 +46,7 @@
 <li>Knowledgeable on software design pattern</li>
 <li>Understanding the principles of application security</li>
 <li>Blockchain or Crypto enthusiast</li>
-</ul></div><br/><br/>Please mention the word **PINNACLE** and tag RMy44MS4xNzMuMjE5 when applying to show you read the job post completely (#RMy44MS4xNzMuMjE5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/36330b3a15babcd46e7f194a4e365e8b1664781343.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Orderly</h5>
-                    <h3>Software Engineer Rust</h3>
-                </td>
-                <td width="300">
-                    <code>software,cryptocurrency,security,developer,code,financial,video,fintech,management,reliability,engineer,engineering,educational,full-time,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-rust-orderly-127358" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h2 style="text-align:center;"><strong>Work with the best</strong></h2>
-<p>Orderly Network is a permissionless, decentralized exchange protocol and modular ecosystem built on top of NEAR. It uses an on-chain orderbook to provide a platform complete with a risk engine, matching engine, and shared asset pools for Dapps to build on top of. Dapps built on the Orderly Network will allow for financial instruments such as; Spot Trading, Margin Trading, Perpetual Swaps and Lending & Borrowing.</p>
-<p>Whilst a fully independent team operates at Orderly Network, we were incubated by NEAR and WOO Network - Industry heavyweights in their respective fields. Thanks to both the guidance and expertise Orderly Network will offer market-leading execution with low latency and minimal fees with a combination of orderbook efficiency alongside on-chain settlement. We will become the go-to network for ecosystem partners to come and build upon.</p>
-<h2 style="text-align:center;"><strong>A Glimpse into Your Future at Orderly Network</strong></h2>
-<ul>
-<li>
-<span style="text-decoration:underline;"><em>What will you be working on?</em></span>
-<ul>
-<li>Develop new protocols on the innovative Solana or NEAR blockchain.</li>
-<li>Write and review technical proposals.</li>
-<li>Write, test, and deploy high-performance, networking code.</li>
-<li>Design product architecture according to business needs.</li>
-<li>Program and optimize rust/wasm based smart contracts.</li>
-<li>Develop infrastructure software.</li>
-<li>Implement advanced features from scratch.</li>
-<li>Perform technical analysis and contribute to code reviews.</li>
-<li><span style="font-weight:400;">Provide the vision of how the project should be driven forward from a technical perspective.</span></li>
-<li>Take part in our educational blockchain programs and make your contribution to our startups.</li>
-</ul>
-</li>
-<li>
-<span style="text-decoration:underline;"><em>What challenges will you face?</em></span>
-<ul>
-<li><span style="font-weight:400;">We're looking for a Rust Developer who has been involved in blockchain projects. This is a full-time remote position (possibility to work remotely as fully as partially). We are seeking a determined and creative developer who is passionate about changing the world through technology, someone who will  join a team responsible for implementation of various solutions in the Blockchain and FinTech domains where reliability and efficiency of software is crucial.</span></li>
-</ul>
-</li>
-<li>
-<span style="text-decoration:underline;"><em>What tech stacks/skills will you be using?</em></span>
-<ul>
-<li><span style="font-weight:400;">5+ years of software engineering experience.</span></li>
-<li><span style="font-weight:400;">Experience with Virtual machines used by modern blockchains: WebAssembly, EVM, COSMWASM (would be a plus).</span></li>
-<li><span style="font-weight:400;">Knowledge of best practices in blockchain management and data protection (would be a plus).</span></li>
-<li>You have working experience with Rust in Solana ecosystem.</li>
-<li>Experience or understanding the approach of smart contracts development.</li>
-<li>Experience with relational and non-relational databases.</li>
-<li>Knowledge of REST principles.</li>
-<li>You understand the OOP, OOD, SOLID principles.</li>
-<li>Deep knowledge of standard algorithms and data structures.</li>
-<li>You can analyze and optimize the platformâs performance.</li>
-<li>You have experience with security audits of third-party and internal solutions.</li>
-<li>You are interested in Solana or Near ecosystem.</li>
-<li>You possess strong written and verbal communication skills in English.</li>
-</ul>
-</li>
-</ul>
-<h2 style="text-align:center;"><strong>Interested in Learning More?</strong></h2>
-<ul>
-<li>Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.</li>
-<li>If you have experience in developing trading systems or financial-related products is a plus.</li>
-<li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
-<li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our <a href="https://boards.greenhouse.io/orderlynetwork/jobs/5170520003" target="_blank" rel="noopener noreferrer nofollow">External Referral Incentives Program</a> as well. </li>
-</ul><br/><br/>Please mention the word **ANGELIC** and tag RMy44MS4xNzMuMjE5 when applying to show you read the job post completely (#RMy44MS4xNzMuMjE5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul></div><br/><br/>Please mention the word **PINNACLE** and tag RMy44Ni41MC4yNDk= when applying to show you read the job post completely (#RMy44Ni41MC4yNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -136,7 +61,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cloudtruth-senior-software-engineer-python-django" align="right" target="_blank">Apply</a>
@@ -176,88 +101,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Business Directory Plugin</h5>
-                    <h3> Senior WordPress Software Engineer (Remote)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/business-directory-plugin-senior-wordpress-software-engineer-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Utah, United States
-    <br /><strong>URL:</strong> <a href="https://businessdirectoryplugin.com/">https://businessdirectoryplugin.com/</a>
-</p>
-
-<div>Hi! We're Strategy11. We are the company behind Formidable Forms and Business Directory Plugin. No matter what product we're working on, our goal is to make big projects possible without big resources and make complex tasks simple.  Our software is running on nearly 400,000 websites, and our team is growing fast.  We have tons of big plans for the future and would love for you to be a part of it.</div><div><br></div><div>As a WordPress Developer, you're responsible for Making Stuff Go. For this position, we are looking for a part-time superstar to lead Business Directory Plugin. You will build infrastructure to create new features, help plan the roadmap, improve existing code, squash bugs, and help us rapidly scale our platform.</div><div><br></div><div>We are looking for energetic and fun people who love to work hard and get things done. </div><div><br></div><div>Interested? See "How to Apply" below to learn more before applying.</div><div><br></div><div>To love this role, here’s the type of person you are:<br><br>
-</div><ul>
-<li>You’re a self-starter who loves taking initiative and seeing things through from conception to completion. Our developers often "own" features/tasks and are responsible for scoping, development, and testing.</li>
-<li>You're an excellent communicator, fluent in both verbal and written English, who makes sure nothing slips through the cracks. We believe communication is critical and there is no such thing as over-communicating.</li>
-<li>You have the curiosity and desire to learn and grow your skills.</li>
-<li>You're passionate about leaving your mark on the web for all to see and are excited to work on tasks that impact <em>thousands</em> of users.</li>
-<li>You take pride in the quality and craftsmanship of your work rather than just doing it to get it done.</li>
-<li>You're a team player who is comfortable working alongside and helping other developers, and you don't take critical feedback personally.</li>
-<li>You're happy jumping between front-end and back-end development tasks or tackling tasks that require both.</li>
-<li>You're happy working on tasks of all sizes - from minor bug fixes and enhancements to large features/rewrites.</li>
-</ul><div>
-<br>Common responsibilities include (but are not limited to):<br><br>
-</div><ul>
-<li>Triaging bugs and small enhancements that come into GitHub.</li>
-<li>Scoping, writing, and testing new product features and add-ons.</li>
-<li>Refactoring legacy code with particular attention to backward compatibility.</li>
-<li>Providing feedback and peer review for other developers (Github PRs).</li>
-<li>When tickets are escalated, debug customer issues in our help desk.</li>
-</ul><div><br></div><div>Here are some skills that will come in handy:<br><br>
-</div><ul>
-<li>Professional experience with WordPress plugin development, architecture, and standards.</li>
-<li>Advanced proficiency with PHP and MySQL, including modern PHP practices (OOP, autoloading, traits, interfaces, etc).</li>
-<li>Strong familiarity with JavasScript (vanilla JS, jQuery, etc).</li>
-<li>Ability to use and extend build tools like webpack.</li>
-<li>Familiarity with package managers such as NPM.</li>
-<li>Experience working with third-party APIs (Eg Stripe, MailChimp, Zapier, etc).</li>
-<li>Competent with version control through git and GitHub.</li>
-<li>The ability to iterate and ship ideas quickly.</li>
-<li>Exceptional troubleshooting skills.</li>
-<li>Ability to keep complex ideas and features <em>simple</em>. (Simplicity is a core value!)</li>
-<li>Previous freelance or remote work experience.</li>
-</ul><div><br></div><div>Bonus points if you also have:<br><br>
-</div><ul>
-<li>Advanced proficiency in JavaScript frameworks like VueJS or React.</li>
-<li>Experience with e-commerce platforms or related APIs (WooCommerce, Stripe, PayPal, etc).</li>
-<li>Experience with DevOps or infrastructure management.<br><br>
-</li>
-</ul><div>What we offer<br><br>Working for a fast-growing bootstrapped company is a rare opportunity, one we consider a lifestyle choice rather than a job choice. Our positions are challenging, but also come with amazing advantages and fulfillment to those who earn them. Here’s what we offer.</div><div><br></div><ul>
-<li>Competitive Salary.</li>
-<li>Work from your home. We’re spread out all over the world – United States, Africa, Ireland, Philippines, and more.</li>
-<li>Unlimited PTO after 60 days of employment. We encourage employees to take the time they need for vacation, to stay healthy, and to spend time with friends and family.</li>
-<li>We happily provide or reimburse software you’ll need as well as books or courses that promote continued learning.</li>
-<li>We give you the opportunity to solve challenging and meaningful problems that make a difference.</li>
-<li>Ability to work with some of the best people in the business through frequent interactions.</li>
-<li>And in case you were wondering: no politics, no b.s., and no jerks.</li>
-</ul><div>
-<br>Location</div><div><br></div><div>This is a remote position - our team is spread around the globe! Our home base is in Utah, USA, so company operating hours are 9 am - 5 pm MST (UTC -7). While full coverage is not a requirement, you must be available during a portion of the day.<br><br>
-</div><div><br></div><div>Inclusion Statement</div><div><br></div><div>At Strategy11 (Formidable Forms, Business Directory Plugin), we strive to have the broadest possible view of diversity, going beyond visible differences to include the background, experiences, skills, and perspectives that make each person unique. Strategy11 is proud to be an equal opportunity workplace and is committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity, Veteran status, or any other basis protected by federal, state, or local law.<br><br>
-</div><div><br></div><div>How to apply?</div><div><br></div><div>If all of this sounds interesting, then please submit your application!</div><div><br></div><div>Also note, don't forget to proofread before submitting. Check spelling, capitalization, etc. This is your chance to make your application stand out :)<br><br>We won’t be able to individually respond to all applications, but if we feel you’re a strong match, someone will be in touch shortly. Qualified candidates will be asked to do a simple code challenge.<br><br>Thanks and we look forward to hearing from you!</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/business-directory-plugin-senior-wordpress-software-engineer-remote">https://weworkremotely.com/remote-jobs/business-directory-plugin-senior-wordpress-software-engineer-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3712/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -268,7 +111,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller" align="right" target="_blank">Apply</a>
@@ -332,7 +175,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/gfinity-plc-senior-software-engineering-manager" align="right" target="_blank">Apply</a>
@@ -420,7 +263,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -482,7 +325,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
