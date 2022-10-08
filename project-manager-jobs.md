@@ -1,85 +1,5 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/d378b283017970424c54537811987a891664781352.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Star Atlas</h5>
-                    <h3>Marketing Project Manager</h3>
-                </td>
-                <td width="300">
-                    <code>manager,game,growth,management,lead,content,senior,operations,operational,marketing</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-marketing-project-manager-star-atlas-127362" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Job Title:</strong></p>
-<p><span style="font-weight:400;">Marketing Project Manager</span></p>
-<p> </p>
-<p><strong>Reports to:</strong></p>
-<p><span style="font-weight:400;">Director, RevOps Production</span></p>
-<p> </p>
-<p><strong>About Revenue Operations:</strong></p>
-<p><span style="font-weight:400;">As we build out a cutting-edge AAA crypto-gaming and metaverse experience, our Revenue Operations department ensures that Star Atlas can stay on the hypergrowth trajectory and always keeps our community immersed in the dream that weâre building. Our goals for improving our playersâ experience and accelerating growth are monumental. To achieve such heights, we are building a team of visionary Light Warriors who are ready for this challenge.</span></p>
-<p> </p>
-<p><strong>Job Overview: </strong></p>
-<p><span style="font-weight:400;">Star Atlas is looking for a Marketing Project Manager to join a growing Revenue Operations team. </span><span style="font-weight:400;">Being a Marketing Project Manager in RevOps means that you will work across our Revenue department teams and form a pipeline of prioritised Projects and Campaigns and lead Campaign Production end to end with the help of the Communications, Content, Acquisition & Retention, BI and Social teams. You will be responsible to support our Revenue dept. leadership with forward-planning to get ahead of workload spikes and managing workflows and other operational bottlenecks while working hands-on with campaign need</span><span style="font-weight:400;">s</span><span style="font-weight:400;">.</span></p>
-<p> </p>
-<p><strong>Responsibilities: </strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Manage projects and initiatives end to end</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Manage scope, budget, timeline, resources, risks/issues</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Create Project charters, Project requirements documents and Business Cases</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Create proposals, briefs and pitch decks for new ideas and campaigns</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Coordinate cross-functional deliverables (dependent on other teams)</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Prepare project and campaign status reports and report on delivery efficiency</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Understand business and operational challenges internally and suggest potential solutions</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Lead, plan and manage the end-to-end process of delivering marketing campaigns, including Communications, PR, Content creation, Digital Advertisement, Community engagement and Social media aspects.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work collaboratively with internal teams and external agencies to assess requirements, obtain approvals, and ensure efficient delivery of assets as per production plan.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Anticipate and effectively mitigate problems, manage day-to-day escalations and troubleshooting of production issues.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Consistently communicate to stakeholders about updates on progress, relevant delays or issues, and budget or timing implications.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Establish broader planning and production frameworks for the RevOps teams to allow for planning ahead</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Create Campaign Briefs and align requirements across all RevOps teams.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Build a pipeline of Campaigns and facilitate prioritisation of Campaigns based on set criteria.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Suggest improvements to the production process and implement those improvements.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work closely with Content and Event Directors / Producers to ensure all requirements are met when executing the campaign.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work with the Business Intelligence team to produce performance reports and suggest ways to improve.</span></li>
-</ul>
-<p> </p>
-<p><strong>Requirements:</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Excellent verbal and written communication skills. Fluent in English</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">5+ yearsâ experience in delivering marketing projects and the highest quality marketing campaigns</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience in managing multiple projects in parallel with competing priorities</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Working knowledge of waterfall (PMP, PRINCE2) and Agile best practises</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Understanding of the blockchain, crypto-gaming and metaverse space</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Strong familiarity with various project management and task management tools</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Strong problem-solving skills and systematic thinking</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ability to synthesise complex and diverse inputs to a problem and recommend solutions â using visual aids when needed</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Effective and professional communicator with great interpersonal ability and high emotional intelligence </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Able to influence and motivate stakeholders and skilled in conflict resolution.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Nurturing great, long-lasting relationships with both internal and external stakeholders.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Sound negotiation skills at senior management level</span></li>
-</ul>
-<p> </p>
-<p><strong>Nice to have:</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience in producing global marketing campaigns for game studios and/or for companies in the blockchain space, focused on rapid user acquisition with reach over 100s of thousands to millions of users/players</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">In-depth knowledge of the blockchain, crypto-gaming and metaverse space</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience in working in a fast-paced hypergrowth environment</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience working with geographically remote teams</span></li>
-</ul>
-<p> </p><br/><br/>Please mention the word **NIMBLE** and tag RMy44MS4xNzMuMjE5 when applying to show you read the job post completely (#RMy44MS4xNzMuMjE5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7394/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -90,7 +10,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/create-ape-inc-project-manager-3" align="right" target="_blank">Apply</a>
