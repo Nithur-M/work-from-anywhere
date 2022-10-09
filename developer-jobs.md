@@ -1,5 +1,121 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/ebf9cc60f0a766d7ff56c87f7b7d6fe81665213343.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Holo</h5>
+                    <h3>Software Developer Holochain Core&Nbsp;Team</h3>
+                </td>
+                <td width="300">
+                    <code>developer,software,code,web,travel,cloud,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-developer-holochain-corenbspteam-holo-129903" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>
+<p></p>
+<p><span>Full time - contract<br>(Full Time - 100% Remote Work)</span></p>
+<p></p>
+<p></p>
+<p>Time Zone: CET TO ET  (EU to Eastern USA)</p>
+<p></p>
+<p></p>
+<p>Language: English Fluenc<span>y</span></p>
+<p></p>
+<p></p>
+<p>This opportunity is in a rapidly growing, disruptive global tech startup.</p>
+<p></p>
+<p></p>
+<p>We are looking for a software developer to join our Holochain core team. </p>
+<p></p>
+<p></p>
+<h3><b>What will you do:</b></h3>
+<p></p>
+<p></p>
+<p>The person best suited for this role will be able to engage directly with our open-source community and internal app devs to respond to issues and feedback, as well as the ability to dive deep into the code to solve problems and implement new features. You will know you are the person for the job if:</p>
+<p></p>
+<p></p>
+<ul>
+<li>You are able to effectively work on an established codebase.</li>
+<li>You are open and excited to interface with the community of developers to:<ul>
+<li><span>Respond to Github issues</span></li>
+<li>Respond to bugs and implement fixes</li>
+<li>Receive and respond to feedback and requests from the community</li>
+</ul>
+</li>
+<li>You can deep dive into potentially time-sensitive community/product issues, create reproductions as needed, and implement timely and correct iterative fixes<ul>
+<li>Performance testing</li>
+<li>Correctness of implementation</li>
+<li>Ergonomics (DRY, maintainable, testable patterns)</li>
+</ul>
+</li>
+<li>You can jump into our Continuous integration pipeline to make improvements, including our hand-crafted Nix environment</li>
+<li>You are proficient in documenting your own code and improving existing documentation as needed</li>
+<li>You are comfortable writing thorough tests for your code</li>
+<li>You are comfortable giving and receiving code reviews for your and your teammatesâ work</li>
+<li>You have an orientation to win as a team: You develop solutions independently and together with distributed teams, using modern software development and agile methodologies</li>
+<li>Experience working with and contributing to open-source projects is nice to have</li>
+<li>Excellent and direct communication is a must</li>
+<li>Willingness to learn new technologies is a must</li>
+</ul>
+<p></p>
+<p></p>
+<h3>Skill<b>s</b>:</h3>
+<p></p>
+<p></p>
+<ul>
+<li>Experience C/C++/Go/Rust experience, or similar systems programming experience - 2 years</li>
+<li>Mastery of CI frameworks and tools, including Travis, Docker</li>
+<li>A basic high-level understanding of Holochain is a nice to have â bonus points for direct experience working with Holochain</li>
+<li>Knowledge of secure coding practices</li>
+<li>Experience with multi-threaded programming</li>
+<li>In-depth knowledge of the software development life cycle</li>
+<li>Startup experience - 4 years</li>
+</ul>
+<p></p>
+<p></p>
+<h3>Some details about what we offer:</h3>
+<p></p>
+<p></p>
+<ul>
+<li><span>Market salary (National Currency)</span></li>
+<li>RewardsProgram  (HoloFuel)</li>
+<li>Supportive introductory period</li>
+<li>Regular team meetings (remote/video)</li>
+<li>Occasional Team travel 1-2x per year</li>
+<li>Collaborative and inspiring culture</li>
+<li>Flexible work schedules and vacation</li>
+<li>Motivated, passionately engaged and evolutionary global teammates</li>
+</ul>
+<p></p>
+<p></p>
+<h3>About us</h3>
+<p></p>
+<p></p>
+<p>Holochain is our new open-source framework infrastructure technology for distributed peer-to-peer applications. Holochain is fast, massively scalable, cost-effective, resource-efficient, and energy-efficient.</p>
+<p></p>
+<p></p>
+<p>Holo, which is built on Holochain, is a distributed cloud platform and marketplace for hosting and serving other Holochain applications to everyday users connected to the Internet. Holo brings access to distributed applications to the familiar web browser by creating an ecosystem and a currency that enables distributed hosting services provided by peers.</p>
+<p></p>
+<p></p>
+<p>With Holo, we envision a world where people own their own data and control their identity and privacy, a world where communities create together with patterns and tech designed to maximise individual, social and environmental well-being. Our aim is to make distributed peer-to-peer computing accessible to everyone.</p>
+<p></p>
+<p></p>
+<p>Holo is an equal-opportunity employer, and we celebrate our diverse, creative, and collaborative team.</p>
+<p></p>
+<p><br><a rel="noopener noreferrer nofollow"><span>Apply Now!</span> <i></i></a></p>
+</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/TPVo0pOB2yQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **JUBILATE** and tag RMy4yMzguOTAuMTM0 when applying to show you read the job post completely (#RMy4yMzguOTAuMTM0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/93ae359e662e8f8efff4c9dc6e8af82a1665126932.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +126,7 @@
                     <code>web3,developer,crypto,cryptocurrency,system,back-end,financial,finance,cloud,nosql,node.js,senior,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-back-end-developer-node-js-web3-aldrin-129399" align="right" target="_blank">Apply</a>
@@ -19,7 +135,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><strong>About Aldrin Labs</strong></p><p>There is a steep learning curve when it comes to crypto. Only once overcome will we have <strong>mass adoption.</strong> Aldrin Labs aims to debunk the belief that decentralized finance is inherently complex and separate from centralized finance. We will amend the frustratingly poor user experience and fragmentation that <strong>millions</strong> of crypto natives and newcomers face. We will seamlessly merge the centralized and decentralized world.</p><p>Aldrin Labs aims to be purposeful. We strive to halve the fifty working years of the average person. This is the mission of Aldrin Labs.</p><p>Aldrin Labs has Aldrin DEX and is incubating an innovative crypto wallet and money market. These protocols will integrate with each other to provide easy functionality and purposefully help people achieve financial freedom.</p><p>Aldrin Labs is a <strong>fully remote</strong> company. We are interested in capturing the best talent, no matter where you live.</p><p><strong>The Role</strong></p><p>Weâre looking for a Senior Back-End Developer skilled in designing, building, and deploying highly secure, scalable, and maintainable backend services for the Aldrin decentralized exchange.</p><p>You will:</p><ul> <li>Develop backend service for Aldrinâs new products, including but not limited to our centralized and decentralized exchange platform, as well as other internal applications as necessary</li> <li>Work closely with traders and Aldrin developers and have the opportunity to improve your knowledge of building high-performance scalable applications, understand broader system architecture and understand the cryptocurrency market</li> <li>Be passionate about the crypto markets, blockchain technology, and decentralized applications.</li> </ul><p></p><h4>Requirements</h4><p><strong>Minimum Qualifications:</strong></p><ul> <li>Professional experience as a back-end developer of 3-5+ years</li> <li>Professional experience in Node.js of 3+ years</li> <li>Professional experience programming in <strong><em>Golang</em></strong> </li> <li>Strong experience in Express.js, Docker, <strong><em>Kubernetes</em></strong> </li> <li>Significant professional experience programming in Typescript</li> <li>Experience working with a large codebase, distributed teams</li> <li>Experience with NoSQL and RDBMS database systems such as PostgreSQL, MySQL, or MongoDB</li> <li>Strong understanding of database schema design</li> <li>Development experience on cloud computing platform (AWS)</li> <li>Strong understanding of networking concepts (load balancers, routers, etc.)</li> <li>Experience with high load applications (1000 RPS), performance tuning experience </li> </ul><p><strong>Nice-to-Have Qualifications:</strong></p><ul> <li>Experience working with a large codebase</li> <li>A proactive team player with strong problem solving capabilities </li> <li>Passionate about the cryptocurrency market and developing apps using blockchain (e.g. web3.js)</li> <li>BS in Computer Science or equivalent</li> </ul><p></p><h4>Benefits</h4><ul> <li>Competitive salary + equity/tokens</li> <li>Remote work in a dynamic, fast-growth Web3 startup</li> <li>Flexible working hours</li> <li>Opportunity to work with a diverse, global, and passionate team</li> <li>Collaboration with leading projects and thought leaders in the crypto space</li> </ul><p><em>At Aldrin Labs, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.</em></p><br/><br/>Please mention the word **PROLIFIC** and tag RMy44Ni41MC4yNDk= when applying to show you read the job post completely (#RMy44Ni41MC4yNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p><strong>About Aldrin Labs</strong></p><p>There is a steep learning curve when it comes to crypto. Only once overcome will we have <strong>mass adoption.</strong> Aldrin Labs aims to debunk the belief that decentralized finance is inherently complex and separate from centralized finance. We will amend the frustratingly poor user experience and fragmentation that <strong>millions</strong> of crypto natives and newcomers face. We will seamlessly merge the centralized and decentralized world.</p><p>Aldrin Labs aims to be purposeful. We strive to halve the fifty working years of the average person. This is the mission of Aldrin Labs.</p><p>Aldrin Labs has Aldrin DEX and is incubating an innovative crypto wallet and money market. These protocols will integrate with each other to provide easy functionality and purposefully help people achieve financial freedom.</p><p>Aldrin Labs is a <strong>fully remote</strong> company. We are interested in capturing the best talent, no matter where you live.</p><p><strong>The Role</strong></p><p>Weâre looking for a Senior Back-End Developer skilled in designing, building, and deploying highly secure, scalable, and maintainable backend services for the Aldrin decentralized exchange.</p><p>You will:</p><ul> <li>Develop backend service for Aldrinâs new products, including but not limited to our centralized and decentralized exchange platform, as well as other internal applications as necessary</li> <li>Work closely with traders and Aldrin developers and have the opportunity to improve your knowledge of building high-performance scalable applications, understand broader system architecture and understand the cryptocurrency market</li> <li>Be passionate about the crypto markets, blockchain technology, and decentralized applications.</li> </ul><p></p><h4>Requirements</h4><p><strong>Minimum Qualifications:</strong></p><ul> <li>Professional experience as a back-end developer of 3-5+ years</li> <li>Professional experience in Node.js of 3+ years</li> <li>Professional experience programming in <strong><em>Golang</em></strong> </li> <li>Strong experience in Express.js, Docker, <strong><em>Kubernetes</em></strong> </li> <li>Significant professional experience programming in Typescript</li> <li>Experience working with a large codebase, distributed teams</li> <li>Experience with NoSQL and RDBMS database systems such as PostgreSQL, MySQL, or MongoDB</li> <li>Strong understanding of database schema design</li> <li>Development experience on cloud computing platform (AWS)</li> <li>Strong understanding of networking concepts (load balancers, routers, etc.)</li> <li>Experience with high load applications (1000 RPS), performance tuning experience </li> </ul><p><strong>Nice-to-Have Qualifications:</strong></p><ul> <li>Experience working with a large codebase</li> <li>A proactive team player with strong problem solving capabilities </li> <li>Passionate about the cryptocurrency market and developing apps using blockchain (e.g. web3.js)</li> <li>BS in Computer Science or equivalent</li> </ul><p></p><h4>Benefits</h4><ul> <li>Competitive salary + equity/tokens</li> <li>Remote work in a dynamic, fast-growth Web3 startup</li> <li>Flexible working hours</li> <li>Opportunity to work with a diverse, global, and passionate team</li> <li>Collaboration with leading projects and thought leaders in the crypto space</li> </ul><p><em>At Aldrin Labs, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.</em></p><br/><br/>Please mention the word **PROLIFIC** and tag RMy4yMzguOTAuMTM0 when applying to show you read the job post completely (#RMy4yMzguOTAuMTM0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -34,7 +150,7 @@
                     <code>web3,bitcoin,developer,design,ios,cryptocurrency,ethereum,react,code,qa,javascript,mobile,management,marketing,android,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-mobile-app-developer-bitcoin-depot-128883" align="right" target="_blank">Apply</a>
@@ -88,7 +204,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Weekly catered lunchesÂ </span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Premium coffee and tea provided by Buckhead BeansÂ </span></li>
 </ul>
-<p><br><br></p><br/><br/>Please mention the word **GROUNDBREAKING** and tag RMy44Ni41MC4yNDk= when applying to show you read the job post completely (#RMy44Ni41MC4yNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><br><br></p><br/><br/>Please mention the word **GROUNDBREAKING** and tag RMy4yMzguOTAuMTM0 when applying to show you read the job post completely (#RMy4yMzguOTAuMTM0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -103,7 +219,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/planet-argon-senior-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -225,59 +341,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8743/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>FinDox Inc</h5>
-                    <h3> Senior C# and PostgreSQL Backend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/8743/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> El Segundo, California
-    <br /><strong>URL:</strong> <a href="https://about.findox.com/">https://about.findox.com/</a>
-</p>
-
-<div>Awesome remote back-end developer role doing challenging and rewarding work.</div><div><br></div><div><strong>You:</strong></div><div>Attitude &amp; Fit<strong>   </strong>
-</div><ul>
-<li>Positive attitude</li>
-<li>Love building scalable, well-organized code </li>
-<li>Exceptional problem solving skills</li>
-<li>Strive for excellence in all you do</li>
-</ul><div><br></div><div>Experience &amp; Skills</div><ul>
-<li>4+ years work experience with .NET</li>
-<li>PostgreSQL experience is a plus </li>
-<li>Demonstrated experience building and architecting back-end APIs</li>
-<li>Good written and oral communication skills in English</li>
-</ul><div><br></div><div>Candidates will complete a rigorous technical evaluation. </div><div><br></div><div><strong>Position:</strong></div><ul>
-<li>Architect, design, and implement new functionality in .net core using our framework</li>
-<li>Write database migrations and stored procedures</li>
-<li>Help research and troubleshoot production issues </li>
-<li>Improve platform performance by refactoring code, workflows, and stored procedures</li>
-<li>Able to train other developers and potentially able to lead a team in the future</li>
-</ul><div><br></div><div>You must be able to work substantially during normal business hours in the Pacific Time Zone (8am to 4pm UTC -8:00, Los Angeles time). We prefer candidates in North America and South America. We do deployments every other Thursday night from 7 pm - 9 pm PST.</div><div><br></div><div>Competitive compensation and contract type depending on qualifications and location.</div><div><br></div><div>Our technologies used:</div><div>.NET 6, C#, REST API, Javascript, HTML, CSS, VueJS, SQL, PostgreSQL, Linux, Microsoft Azure, Dokan File System Filter, Outgoing email, Incoming email processing, Gitlab, WinForms, NodeJS</div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-2">https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7569/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -288,7 +351,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/dagabase-lead-front-end-developer-sr-developer" align="right" target="_blank">Apply</a>
@@ -345,7 +408,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>361 days ago</text>
+                <text>362 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
@@ -412,7 +475,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-developer-1422554" align="right" target="_blank">Apply</a>
@@ -491,7 +554,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -568,7 +631,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -645,7 +708,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -714,7 +777,7 @@
                     <code>api,CSS,developer,docker</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
@@ -815,7 +878,7 @@
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>39 days ago</text>
+                <text>40 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -840,7 +903,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>39 days ago</text>
+                <text>40 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -865,7 +928,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>39 days ago</text>
+                <text>40 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -890,7 +953,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>39 days ago</text>
+                <text>40 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -915,7 +978,7 @@
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>39 days ago</text>
+                <text>40 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -940,7 +1003,7 @@
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>39 days ago</text>
+                <text>40 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -965,7 +1028,7 @@
                     <code>CSS,developer,javascript,rails</code>
                 </td>
                 <td width="200">
-                <text>39 days ago</text>
+                <text>40 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-ruby-on-rails-developer-1344665" align="right" target="_blank">Apply</a>
