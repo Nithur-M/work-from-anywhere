@@ -10,7 +10,7 @@
                     <code>design,saas,developer,code,web,cloud,node,lead,senior,operational,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-syndica-129403" align="right" target="_blank">Apply</a>
@@ -57,7 +57,7 @@
 </ul>
 <p> </p>
 </div>
-</div><br/><br/>Please mention the word **FORTUNATE** and tag RMy44Ni41MC4yNDk= when applying to show you read the job post completely (#RMy44Ni41MC4yNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **FORTUNATE** and tag RMy4yMzguOTAuMTM0 when applying to show you read the job post completely (#RMy4yMzguOTAuMTM0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -72,7 +72,7 @@
                     <code>web3,redis,code,typescript,api,senior,go,golang,engineer,backend</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-api-team-moralis-129405" align="right" target="_blank">Apply</a>
@@ -81,58 +81,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><br>Are you ready for something fresh and exciting, a chance to dive into some cool, new tech?</p><p>At Moralis youâll work in a fast, dedicated and innovative environment and youâll join a company growing at an exciting pace. Youâll have the opportunity to work with the best projects in Web3. Currently we are on our journey to onboard the next 1 million Developers to Web3 through Moralis.</p><p>For us to be able to reach that, continue delivering outstanding results, and grow at the desired pace, we are looking for a Senior Backend Engineer to work directly with our API team</p><p>Â </p><p><strong><strong>About the role ð©âð»ð¨âð»</strong></strong></p><p>As a Senior Backend Engineer in the API Team you will be working with on-chain data extraction and building data processing pipelines.</p><ul> <li>This is learning intensive job - you need to learn how to decode the relevant on-chain data emitted by different blockchain</li> <li>You need to learn how Moralis currently processes on-chain data and improve our current data pipeline</li> <li>When Moralis needs to implement new features you will need to learn new smart contract standards and understand how they emit data and implement new data pipelines</li> <li>Proactively look for ways to make the next iteration a bit better in regards to scalability, observability, tech debt and testability</li> </ul><p><strong><br></strong></p><p><strong>Moralis Culture</strong></p><p>If you want to learn about Moralis, our values and our ways of working - be sure to check out the <a href="https://academy.moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Onboarding course</a>. We highly value the cultural fit and the onboarding course explains exactly how we work and how we are as a team.</p><p><strong><strong>About you ðââï¸ðââï¸</strong></strong><br></p><ul> <li>You're able to contribute independently and self-manage your tasks and projects</li> <li>You're self-motivated and always go the extra mile to deliver extra value to Moralis thus inspiring the other team members</li> <li>You take the responsibility to quickly learn and follow Moralis coding style and guidelines.</li> <li>You understand and resonate with <a href="https://moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Values</a> </li> <li>You take responsibility for sustaining the code base by flagging technical debt, potential scalability issues and other ways the code base may improve.</li> <li>You keep up to date with industry standards and new innovations.</li> <li>You have a knack for leading others and guiding them</li> <li>You can churn out high level of code output <strong>DAILY</strong>.</li> <li>You can use Gitlab efficiently.</li> <li>Ready to collaborate and solve problems</li> </ul><p>Â </p><p><strong>Key Qualifications</strong></p><ul> <li>5+ years relevant backend experience<br> </li> <li>Excellent understanding of NodeJS, NestJS and Typescript stack</li> <li>Experience with Massive Real-Time Systems</li> <li>Experience working with Kafka, Ampq, GRPC, Open API, Avro, Redis and Docker</li> <li>Good knowledge of PostgreSQL, NoSQL, Golang and Kubernetes.</li> </ul><p><br></p><p>We truly appreciate the mindset of someone who always finds a way of improving existing work and strives to reach higher highs. In return, youâll get to work with a fun team (we love memes and gamingðð®), diverse (we have team members from 39 different countries all over the world! ð), dedicated and forward-looking people (for real). We have a fully remote-first culture, meaning Moralis is open for everyone who is interested in working in the Metaverse.<br></p><p>Want to take things further? Go on, send in your application & Let's Talk!</p><p>Â </p><p><em>Please ensure that all resumes and communication must be submitted in English</em></p><br/><br/>Please mention the word **SWIFT** and tag RMy44Ni41MC4yNDk= when applying to show you read the job post completely (#RMy44Ni41MC4yNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CoverGo</h5>
-                    <h3> Senior Backend Engineer .Net</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/covergo-senior-backend-engineer-net-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Warsaw, Masovian Voivodeship, Poland
-    <br /><strong>URL:</strong> <a href="http://covergo.com">http://covergo.com</a>
-</p>
-
-<p><strong>Top 3 Reasons To Join Us</strong></p>
-<ul> <li>Competitive Salary</li> <li>100% Remote</li> <li>Working on the latest tech for the Insurtech Market Leader</li> </ul>
-<p><strong>About Us</strong></p>
-<p>At CoverGo, our mission is to help insurance companies and banks to make insurance 100% digital, to better serve their customers.</p>
-<ul> <li>We are the leading provider of cutting-edge technology to the insurance industry</li> <li>We're also the winner of the insurtech of the year in all of Asia in 2021 and other awards globally</li> <li>We work with enterprise clients such as AXA, MSIG, DBS, Fubon, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team with over 20 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have offices in Singapore, Hong Kong, and Vietnam. We plan to expand to the US and other markets in the upcoming months</li> <li>We've grown our annualized revenue by over 1000% since January 2021</li> <li>We're constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul>
-<p><strong>About the Role</strong></p>
-<p>.Net Backend engineering is the heart of our technical excellence. We are looking for people who are able to analyze complex insurance domains and build high-quality API and microservices in cross-functional product and project teams.</p>
-<p>CoverGo is a Kubernetes-native platform that consists of around twenty microservices exposed via a GraphQL gateway (<a href="https://api.covergo.com/playground" class="external">https://api.covergo.com/playground</a>), based on .net 6.</p>
-<p><strong>What You Will Do</strong><br></p>
-<ul> <li>Help us build, grow and maintain our services</li> <li>Apply your skills to develop robust and scalable software</li> </ul>
-<p><strong>You'll be successful in this role if:</strong></p>
-<ul> <li>You are a hands-on engineer, and you love what you do</li> <li>You are a quick learner and excited about learning new technologies</li> <li>You are passionate about automated testing, code quality and engineering best practices</li> <li>You advocate software craftsmanship and take pride in your work</li> <li>You enjoy collaborating with engineers across functional teams and have excellent communication skills</li> <li>You enjoy taking full ownership of projects from conception to production</li> </ul>
-<p><strong>What We Need</strong><br></p>
-<ul> <li>Experience in Event sourcing, CQRS, and DDD (Domain Driven Design)</li> <li>Excellent understanding of .NET Core and C#</li> <li>Experience with Docker</li> <li>Familiarity with microservices using GraphQL</li> <li>Experience with database technologies like MongoDB, PostgreSQL</li> <li>Intensive TDD practice</li> </ul>
-<p><strong>It'll be nice if you have some experience in areas:</strong></p>
-<ul> <li>Event Storming or Event Modeling</li> <li>SpecFlow and BDD</li> <li>GitHub Actions</li> <li>Cloud Computing platforms: Amazon AWS, Microsoft Azure, Google Cloud, Alibaba etc.</li> <li>MS/BS in Computer Science or a related degree</li> <li>Insurance and fintech experience</li> <li>Know what these names are about: Vaughn Vernon, Eric Evans, Martin Fawler</li> <li>Kubernetes</li> <li>GitOps</li> </ul>
-<p><strong>Why You'll Love Working Here</strong></p>
-<ul> <li>Salary: Up to 5000USD/Month</li> <li>Full-remote employment, work from anywhere and/or from one of our physical offices in Vietnam, Singapore or Hong Kong occasionally</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid annual leaves</li> <li>Employee stock options</li> <li>Performance bonus</li> <li>Performance review 2x a year</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/covergo-senior-backend-engineer-net-3">https://weworkremotely.com/remote-jobs/covergo-senior-backend-engineer-net-3</a></p>
-
+                <p><br>Are you ready for something fresh and exciting, a chance to dive into some cool, new tech?</p><p>At Moralis youâll work in a fast, dedicated and innovative environment and youâll join a company growing at an exciting pace. Youâll have the opportunity to work with the best projects in Web3. Currently we are on our journey to onboard the next 1 million Developers to Web3 through Moralis.</p><p>For us to be able to reach that, continue delivering outstanding results, and grow at the desired pace, we are looking for a Senior Backend Engineer to work directly with our API team</p><p>Â </p><p><strong><strong>About the role ð©âð»ð¨âð»</strong></strong></p><p>As a Senior Backend Engineer in the API Team you will be working with on-chain data extraction and building data processing pipelines.</p><ul> <li>This is learning intensive job - you need to learn how to decode the relevant on-chain data emitted by different blockchain</li> <li>You need to learn how Moralis currently processes on-chain data and improve our current data pipeline</li> <li>When Moralis needs to implement new features you will need to learn new smart contract standards and understand how they emit data and implement new data pipelines</li> <li>Proactively look for ways to make the next iteration a bit better in regards to scalability, observability, tech debt and testability</li> </ul><p><strong><br></strong></p><p><strong>Moralis Culture</strong></p><p>If you want to learn about Moralis, our values and our ways of working - be sure to check out the <a href="https://academy.moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Onboarding course</a>. We highly value the cultural fit and the onboarding course explains exactly how we work and how we are as a team.</p><p><strong><strong>About you ðââï¸ðââï¸</strong></strong><br></p><ul> <li>You're able to contribute independently and self-manage your tasks and projects</li> <li>You're self-motivated and always go the extra mile to deliver extra value to Moralis thus inspiring the other team members</li> <li>You take the responsibility to quickly learn and follow Moralis coding style and guidelines.</li> <li>You understand and resonate with <a href="https://moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Values</a> </li> <li>You take responsibility for sustaining the code base by flagging technical debt, potential scalability issues and other ways the code base may improve.</li> <li>You keep up to date with industry standards and new innovations.</li> <li>You have a knack for leading others and guiding them</li> <li>You can churn out high level of code output <strong>DAILY</strong>.</li> <li>You can use Gitlab efficiently.</li> <li>Ready to collaborate and solve problems</li> </ul><p>Â </p><p><strong>Key Qualifications</strong></p><ul> <li>5+ years relevant backend experience<br> </li> <li>Excellent understanding of NodeJS, NestJS and Typescript stack</li> <li>Experience with Massive Real-Time Systems</li> <li>Experience working with Kafka, Ampq, GRPC, Open API, Avro, Redis and Docker</li> <li>Good knowledge of PostgreSQL, NoSQL, Golang and Kubernetes.</li> </ul><p><br></p><p>We truly appreciate the mindset of someone who always finds a way of improving existing work and strives to reach higher highs. In return, youâll get to work with a fun team (we love memes and gamingðð®), diverse (we have team members from 39 different countries all over the world! ð), dedicated and forward-looking people (for real). We have a fully remote-first culture, meaning Moralis is open for everyone who is interested in working in the Metaverse.<br></p><p>Want to take things further? Go on, send in your application & Let's Talk!</p><p>Â </p><p><em>Please ensure that all resumes and communication must be submitted in English</em></p><br/><br/>Please mention the word **SWIFT** and tag RMy4yMzguOTAuMTM0 when applying to show you read the job post completely (#RMy4yMzguOTAuMTM0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -147,7 +96,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/datakitchen-inc-senior-software-engineer-backend" align="right" target="_blank">Apply</a>
@@ -194,7 +143,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
