@@ -10,7 +10,7 @@
                     <code>sales,management,operations,product</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/qa/quality-assurance-operations-manager-1405937" align="right" target="_blank">Apply</a>
