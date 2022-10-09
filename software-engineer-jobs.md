@@ -1,52 +1,63 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/a09575c96b564d195f8eba21570affa31664954132.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/b168feb807c8369c22843b0df4b16dcf1665213318.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>NOBI</h5>
-                    <h3>Software Engineer</h3>
+                    <h5>Polysign</h5>
+                    <h3>Senior Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>software,design,amazon,defi,crypto,cryptocurrency,system,frontend,test,code,web,javascript,investment,nodejs,php,git,engineer,engineering,backend,digital nomad</code>
+                    <code>software,design,crypto,cryptocurrency,financial,api,leader,senior,reliability,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-nobi-128372" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-polysign-129897" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div>
-<p></p>
-<h2>Company Description</h2>
-</div><div><p>NOBI helps people easily get more from their crypto asset & simplify their crypto investment experience. Our engineering team run hundreds of blockchain nodes, integrates with numerous DeFi smart contracts and run numerous real time robo trading to simplify the life our customers. <br><br>Weâre here so that everyone can be part of the global cryptocurrency movement. Join us.</p></div><div>
-<p></p>
-<h2>Job Description</h2>
-</div><div><ul>
-<li>Responsible for building and extending our backend code</li>
-<li>Responsible for building APIs that serve our frontend apps</li>
-<li>Responsible for maintaining and extend our test suite</li>
-<li>Refactor and improve existing code to incorporate better patterns</li>
-<li>Able to create unit test and implement self-test to make sure the code is running well (Profiling and optimization code)</li>
-<li>Work with the other engineering team to build & maintain our numerous backend services</li>
-</ul></div><div>
-<p></p>
-<h2>Qualifications</h2>
-</div><div><ul>
-<li>Bachelor's degree in Computer Science or equivalent from a reputable university</li>
-<li>Minimum 2 years of working experience as Backend Engineer or equivalent</li>
-<li>Minimum 2 years of extensive experience on server-side development, especially Javascript (ES6) using NodeJS & PHP using Laravel.</li>
-<li>Fluent with Git and RESTful API</li>
-<li>Good knowledge and experience of UNIX system and command line experience in web server configuration and setup. This includes setting up PHP engine, database server, load balancing.</li>
-<li>Experience with NoSQL, Amazon AWS , Redis, Docker</li>
-<li>Knowledge and experience in scalability and performance in high-traffic web systems</li>
-<li>Knowledgeable on software design pattern</li>
-<li>Understanding the principles of application security</li>
-<li>Blockchain or Crypto enthusiast</li>
-</ul></div><br/><br/>Please mention the word **PINNACLE** and tag RMy44Ni41MC4yNDk= when applying to show you read the job post completely (#RMy44Ni41MC4yNDk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p class="p5"><span class="s1"><strong>Our mission </strong>is to build the global standard for institutional digital asset custody. Founded in 2017, PolySign has luminaries in both the cryptocurrency and financial services spaces working to solve the biggest problem in crypto today: custody. PolySign is co-founded by Arthur Britto, a co-founder of<a href="https://ripple.com/" rel="noopener noreferrer nofollow"><span class="s2"> Ripple</span></a>, a recognized leader in payments technology.</span></p>
+<p class="p7"><span class="s1">We are looking forâ¦.Â </span></p>
+<p><strong>What you'll do:</strong></p>
+<p><span style="font-weight:400;">In this role, you will be a part of a team designing and implementing our core products.</span></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Build on 3rd generation blockchain technology to build high trust services</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Help establish technical roadmap and architecture</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Work cross functionally to define and build out the product</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Own large features from idea through delivery to the customer</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Write and maintain high quality, tested code</span></li>
+</ul>
+<p><strong>Who you are</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">You have a deep sense of ownership in delivering a delightful customer experience</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Passionate about Rust</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Thrive in a startup environment</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Strive for excellence in all you do</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Aim to continuously learn and improve as a way of life</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Want to develop an amazing product in the digital assets space</span></li>
+</ul>
+<p><strong>Basic Qualifications</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">5+ years of professional software development experience</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Professional experience in software development with Rust</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience contributing to the architecture and design (architecture, design patterns, reliability and scaling) of new and current systems</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with API services development</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience building enterprise solutions that are highly available</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Very clear written and verbal communication skills</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Self starter able to work independently with minimal direction</span></li>
+</ul>
+<p><strong>Preferred Qualifications</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with cryptographic algorithms</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience writing event driven or distributed systems</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Familiarity with Blockchain architectures and algorithms, for example Merkel trees</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Worked in a zero ops model engineering team</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Strong passion for developing products that deliver a great customer experience</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience influencing software engineersâ best practices within your team</span></li>
+</ul><br/><br/>Please mention the word **LOVABLE** and tag RMy4yMzguOTAuMTM0 when applying to show you read the job post completely (#RMy4yMzguOTAuMTM0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -61,7 +72,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cloudtruth-senior-software-engineer-python-django" align="right" target="_blank">Apply</a>
@@ -111,7 +122,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller" align="right" target="_blank">Apply</a>
@@ -175,7 +186,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/gfinity-plc-senior-software-engineering-manager" align="right" target="_blank">Apply</a>
@@ -263,7 +274,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -325,7 +336,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
