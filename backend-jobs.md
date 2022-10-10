@@ -10,7 +10,7 @@
                     <code>design,saas,developer,code,web,cloud,node,lead,senior,operational,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-syndica-129403" align="right" target="_blank">Apply</a>
@@ -57,7 +57,7 @@
 </ul>
 <p> </p>
 </div>
-</div><br/><br/>Please mention the word **FORTUNATE** and tag RMy4yMzguOTAuMTM0 when applying to show you read the job post completely (#RMy4yMzguOTAuMTM0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **FORTUNATE** and tag RNTQuMTk4LjEwNi41NQ== when applying to show you read the job post completely (#RNTQuMTk4LjEwNi41NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -72,7 +72,7 @@
                     <code>web3,redis,code,typescript,api,senior,go,golang,engineer,backend</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-api-team-moralis-129405" align="right" target="_blank">Apply</a>
@@ -81,54 +81,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><br>Are you ready for something fresh and exciting, a chance to dive into some cool, new tech?</p><p>At Moralis youâll work in a fast, dedicated and innovative environment and youâll join a company growing at an exciting pace. Youâll have the opportunity to work with the best projects in Web3. Currently we are on our journey to onboard the next 1 million Developers to Web3 through Moralis.</p><p>For us to be able to reach that, continue delivering outstanding results, and grow at the desired pace, we are looking for a Senior Backend Engineer to work directly with our API team</p><p>Â </p><p><strong><strong>About the role ð©âð»ð¨âð»</strong></strong></p><p>As a Senior Backend Engineer in the API Team you will be working with on-chain data extraction and building data processing pipelines.</p><ul> <li>This is learning intensive job - you need to learn how to decode the relevant on-chain data emitted by different blockchain</li> <li>You need to learn how Moralis currently processes on-chain data and improve our current data pipeline</li> <li>When Moralis needs to implement new features you will need to learn new smart contract standards and understand how they emit data and implement new data pipelines</li> <li>Proactively look for ways to make the next iteration a bit better in regards to scalability, observability, tech debt and testability</li> </ul><p><strong><br></strong></p><p><strong>Moralis Culture</strong></p><p>If you want to learn about Moralis, our values and our ways of working - be sure to check out the <a href="https://academy.moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Onboarding course</a>. We highly value the cultural fit and the onboarding course explains exactly how we work and how we are as a team.</p><p><strong><strong>About you ðââï¸ðââï¸</strong></strong><br></p><ul> <li>You're able to contribute independently and self-manage your tasks and projects</li> <li>You're self-motivated and always go the extra mile to deliver extra value to Moralis thus inspiring the other team members</li> <li>You take the responsibility to quickly learn and follow Moralis coding style and guidelines.</li> <li>You understand and resonate with <a href="https://moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Values</a> </li> <li>You take responsibility for sustaining the code base by flagging technical debt, potential scalability issues and other ways the code base may improve.</li> <li>You keep up to date with industry standards and new innovations.</li> <li>You have a knack for leading others and guiding them</li> <li>You can churn out high level of code output <strong>DAILY</strong>.</li> <li>You can use Gitlab efficiently.</li> <li>Ready to collaborate and solve problems</li> </ul><p>Â </p><p><strong>Key Qualifications</strong></p><ul> <li>5+ years relevant backend experience<br> </li> <li>Excellent understanding of NodeJS, NestJS and Typescript stack</li> <li>Experience with Massive Real-Time Systems</li> <li>Experience working with Kafka, Ampq, GRPC, Open API, Avro, Redis and Docker</li> <li>Good knowledge of PostgreSQL, NoSQL, Golang and Kubernetes.</li> </ul><p><br></p><p>We truly appreciate the mindset of someone who always finds a way of improving existing work and strives to reach higher highs. In return, youâll get to work with a fun team (we love memes and gamingðð®), diverse (we have team members from 39 different countries all over the world! ð), dedicated and forward-looking people (for real). We have a fully remote-first culture, meaning Moralis is open for everyone who is interested in working in the Metaverse.<br></p><p>Want to take things further? Go on, send in your application & Let's Talk!</p><p>Â </p><p><em>Please ensure that all resumes and communication must be submitted in English</em></p><br/><br/>Please mention the word **SWIFT** and tag RMy4yMzguOTAuMTM0 when applying to show you read the job post completely (#RMy4yMzguOTAuMTM0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7655/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DataKitchen, Inc.</h5>
-                    <h3> Senior Software Engineer - Backend</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/datakitchen-inc-senior-software-engineer-backend" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/7655/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Cambridge, MA
-    <br /><strong>URL:</strong> <a href="http://www.datakitchen.io">http://www.datakitchen.io</a>
-</p>
-
-<h1>Senior Software Engineer - Backend</h1><div>Remote</div><div> </div><div>
-<strong>About DataKitchen<br></strong><br>
-</div><div>DataKitchen is leading the DataOps movement to incorporate agile software development, DevOps, and statistical process control into analytics and data management. Our products enable analytic teams to deliver value quickly, reduce errors, and use the tools that they love. </div><div> </div><div>
-<strong>Job Description<br></strong><br>
-</div><div>In this role on the DataKitchen product development team, you will lead the development roadmap for our flagship DataOps Automation product, take on complex architectural challenges, and collaborate with company founders and stakeholders to innovate on features that directly impact our customers. You will also take charge of reliability and scalability efforts, research and design technical solutions in a forward-looking manner, and contribute to our agile development process.</div><div> </div><div>The successful candidate will have top technical skills, the ability to self-manage, excellent attention to detail and follow-up, and enthusiasm for our inclusive and supportive culture. </div><div> </div><div><strong>Required Qualifications</strong></div><ul>
-<li>Strong Python experience, specifically in Python web development and frameworks</li>
-<li>Experience with Kubernetes and/or Docker</li>
-<li>Ability to deliver well-tested and performant code in a CI/CD pipeline</li>
-<li>Proven ability to design software solutions that successfully meet user needs</li>
-<li>An agile, customer-oriented mindset</li>
-<li>Enthusiasm, curiosity and drive!</li>
-</ul><div> </div><div>At the time of hire, you must be physically located within GMT+1 (e.g., Italy) to GMT-8 (e.g., WA, USA). We will not consider candidates outside that time zone range because we value close collaboration and working sane hours.</div><div> </div><div> </div><div>DataKitchen is committed to being remote-first. Our employees are in the US, Canada, Argentina, Brazil, the Dominican Republic, Italy, Portugal, Sweden, and other locations.</div><div> </div><div>We make our customers wildly successful while respecting each employee and person we work with. We move fast, love and learn from our errors, and fall forward. We embrace Agile Values and Principles.</div><div> </div><div>We do not work with recruiters. For everyone else, please apply by sending your resume to jobs@datakitchen.io. DataKitchen is an EEO company.</div><div> </div><div><em>Equal Employment Opportunity Statement: DataKitchen, Inc. provides equal employment opportunities (EEO) to all employees and applicants for employment without regard to race, color, religion, gender, sexual orientation, gender identity, national origin, age, disability, genetic information, marital status, amnesty or status as a covered veteran in accordance with applicable US federal, state and local laws. DataKitchen, Inc. complies with applicable state and local laws governing nondiscrimination in employment in every location in which the company has facilities. This policy applies to all terms and conditions of employment, including hiring, placement, promotion, termination, layoff, recall, transfer, leaves of absence, compensation and training. DataKitchen, Inc. expressly prohibits any form of unlawful employee harassment based on race, color, religion, gender, sexual orientation, gender identity, national origin, age, genetic information, disability or veteran status. Improper interference with the ability of DataKitchen, Inc. employees to perform their expected job duties is absolutely not tolerated.</em></div><div> </div><div><em>A background check is required.</em></div><div>
-<br><br>
-</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/datakitchen-inc-senior-software-engineer-backend">https://weworkremotely.com/remote-jobs/datakitchen-inc-senior-software-engineer-backend</a></p>
-
+                <p><br>Are you ready for something fresh and exciting, a chance to dive into some cool, new tech?</p><p>At Moralis youâll work in a fast, dedicated and innovative environment and youâll join a company growing at an exciting pace. Youâll have the opportunity to work with the best projects in Web3. Currently we are on our journey to onboard the next 1 million Developers to Web3 through Moralis.</p><p>For us to be able to reach that, continue delivering outstanding results, and grow at the desired pace, we are looking for a Senior Backend Engineer to work directly with our API team</p><p>Â </p><p><strong><strong>About the role ð©âð»ð¨âð»</strong></strong></p><p>As a Senior Backend Engineer in the API Team you will be working with on-chain data extraction and building data processing pipelines.</p><ul> <li>This is learning intensive job - you need to learn how to decode the relevant on-chain data emitted by different blockchain</li> <li>You need to learn how Moralis currently processes on-chain data and improve our current data pipeline</li> <li>When Moralis needs to implement new features you will need to learn new smart contract standards and understand how they emit data and implement new data pipelines</li> <li>Proactively look for ways to make the next iteration a bit better in regards to scalability, observability, tech debt and testability</li> </ul><p><strong><br></strong></p><p><strong>Moralis Culture</strong></p><p>If you want to learn about Moralis, our values and our ways of working - be sure to check out the <a href="https://academy.moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Onboarding course</a>. We highly value the cultural fit and the onboarding course explains exactly how we work and how we are as a team.</p><p><strong><strong>About you ðââï¸ðââï¸</strong></strong><br></p><ul> <li>You're able to contribute independently and self-manage your tasks and projects</li> <li>You're self-motivated and always go the extra mile to deliver extra value to Moralis thus inspiring the other team members</li> <li>You take the responsibility to quickly learn and follow Moralis coding style and guidelines.</li> <li>You understand and resonate with <a href="https://moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Values</a> </li> <li>You take responsibility for sustaining the code base by flagging technical debt, potential scalability issues and other ways the code base may improve.</li> <li>You keep up to date with industry standards and new innovations.</li> <li>You have a knack for leading others and guiding them</li> <li>You can churn out high level of code output <strong>DAILY</strong>.</li> <li>You can use Gitlab efficiently.</li> <li>Ready to collaborate and solve problems</li> </ul><p>Â </p><p><strong>Key Qualifications</strong></p><ul> <li>5+ years relevant backend experience<br> </li> <li>Excellent understanding of NodeJS, NestJS and Typescript stack</li> <li>Experience with Massive Real-Time Systems</li> <li>Experience working with Kafka, Ampq, GRPC, Open API, Avro, Redis and Docker</li> <li>Good knowledge of PostgreSQL, NoSQL, Golang and Kubernetes.</li> </ul><p><br></p><p>We truly appreciate the mindset of someone who always finds a way of improving existing work and strives to reach higher highs. In return, youâll get to work with a fun team (we love memes and gamingðð®), diverse (we have team members from 39 different countries all over the world! ð), dedicated and forward-looking people (for real). We have a fully remote-first culture, meaning Moralis is open for everyone who is interested in working in the Metaverse.<br></p><p>Want to take things further? Go on, send in your application & Let's Talk!</p><p>Â </p><p><em>Please ensure that all resumes and communication must be submitted in English</em></p><br/><br/>Please mention the word **SWIFT** and tag RNTQuMTk4LjEwNi41NQ== when applying to show you read the job post completely (#RNTQuMTk4LjEwNi41NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -143,7 +96,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
