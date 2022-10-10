@@ -10,7 +10,7 @@
                     <code>software,design,crypto,cryptocurrency,financial,api,leader,senior,reliability,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-polysign-129897" align="right" target="_blank">Apply</a>
@@ -57,7 +57,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Worked in a zero ops model engineering team</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Strong passion for developing products that deliver a great customer experience</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Experience influencing software engineersâ best practices within your team</span></li>
-</ul><br/><br/>Please mention the word **LOVABLE** and tag RMy4yMzguOTAuMTM0 when applying to show you read the job post completely (#RMy4yMzguOTAuMTM0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **LOVABLE** and tag RNTQuMTk4LjEwNi41NQ== when applying to show you read the job post completely (#RNTQuMTk4LjEwNi41NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -72,7 +72,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cloudtruth-senior-software-engineer-python-django" align="right" target="_blank">Apply</a>
@@ -122,7 +122,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller" align="right" target="_blank">Apply</a>
@@ -176,89 +176,91 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6782/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4854/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Gfinity PLC</h5>
-                    <h3> Senior Software Engineering Manager</h3>
+                    <h5>AssemblyAI (YC 17)</h5>
+                    <h3> Senior Software Engineer, Python</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>60 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/gfinity-plc-senior-software-engineering-manager" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6782/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0076/4854/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> London
-    <br /><strong>URL:</strong> <a href="https://gfinityplc.com">https://gfinityplc.com</a>
+  <strong>Headquarters:</strong> United States
+    <br /><strong>URL:</strong> <a href="https://www.assemblyai.com/">https://www.assemblyai.com/</a>
 </p>
 
-<div>
-<br>Are you passionate about scaling engineering teams and process to design and deliver robust, highly available software systems? Are you ready to be impactful and innovative in an exciting and growing market?  Do you love gaming and/or esports?<br><br>
-</div><div>
-<br>We are Gfinity! We have a rich history in the esports and competitive gaming space, having worked with major brands including Formula1, the Premier league, NVIDIA, Redbull, Nintendo, and many more. We've built one of the world's most powerful tournament platforms and now we're now using this foundational technology to create a fully self-serviced product for game studios and web publishers to leverage the power of competition to drive gamer retention, engagement, and value.<br><br>
-</div><div>
-<br>We are looking for an experienced Technical/Software Engineering Manager to oversee and coordinate engineering functions across sub-teams working within the same esports product.<br><br>
-</div><div>
-<strong><br>Key Responsibilities:<br></strong><br>
-</div><ul>
-<li>Applying your experience and passion for delivering high-quality solutions to own and drive the engineering function across multiple teams</li>
-<li>Collect and digest product and project requirements from multiple sources in order to collate, plan, and coordinate engineering efforts</li>
-<li>Liaise and collaborate with product managers, engineering team leads, and executive leadership on a regular basis</li>
-<li>Monitor and measure engineering progress, quality, efficiency, and happiness, working with teams to recommend and implement improvements</li>
-<li>Lead system architecture and design processes, ensuring solutions are robust, functional, maintainable, testable, extensible, etc.</li>
-<li>Develop and refine processes to grow and scale the engineering function of the business</li>
-<li>Develop a process for managing API and systems documentation to be used by internal and external developers</li>
-<li>Participate in roadmapping, requirements planning, and sprint planning sessions</li>
-<li>Participant in the hiring and evaluation process for future team members</li>
-<li>Develop and refine onboarding processes and documentation</li>
-</ul><div>
-<strong><br> Key Qualifications:<br></strong><br>
-</div><ul>
-<li>7-10+ years as a software engineer in PHP, Javascript, or both with 2+ years working as an engineering manager, or 3+ years working as a team lead</li>
-<li>Demonstratable experience managing software engineering projects with a team of at least 15 to 30 people</li>
-<li>Experience designing, diagramming, and documenting software applications and systems</li>
-<li>Experience building high availability, geographically distributed systems</li>
-<li>Experience with identitfying, implementing, and managing software engineering KPIs – what and how to track, and how to utilize the information to maximize team productivity and happiness</li>
-<li>Experience with cache mechanics and systems (such as Cloudflare)</li>
-<li>Working knowledge of Docker</li>
-<li>Working knowledge of test-driven development, writing tests, test tooling, coverage targets, etc.</li>
-<li>Working knowledge of database systems</li>
-<li>Excellent communication, collaboration, and organizational skills</li>
-<li>Strong capability to work cross-functionally</li>
-<li>Familiarity with cloud infrastructure, particularly AWS</li>
-<li>Experience with data-driven decision making</li>
-<li>Experience with assimilating outside inputs such as customer requests into core product requirements</li>
-<li>Familiarity with project management processes and tooling such as ClickUp, JIRA, etc.</li>
-</ul><div>
-<strong><br>Bonus Qualifications:<br></strong><br>
-</div><ul>
-<li>Experience growing and scaling development teams and their processes</li>
-<li>Esports experience of any kind, including non-technical</li>
-<li>Hands-on experience with PHP 8.0+, Symfony 6, Vue3, Vite, and Typescript</li>
-<li>Engineering experience in the gaming industry (especially Unity or Unreal Engine)</li>
-<li>Engineering experience with SaaS/PaaS companies</li>
-<li>Hands-on experience driving system performance at scale</li>
-<li>Hands-on experience writing complex SQL queries</li>
-<li>Experience with NoSQL</li>
-</ul><div>
-<strong><br>We are striving to create a diverse and inclusive environment. We encourage all applicants to apply for our roles. We value and actively seek diverse talent!<br></strong><br>
-</div><div>
-<strong><br>Get to know us better:<br></strong><br>
-</div><div>
-<br>https://www.gfinityplc.com/<br><br>
-</div>
+<div>We're looking for a senior backend engineer with strong software and cloud engineering skills. You'll help us build highly scalable developer-centric APIs and backend systems powered by state-of-the-art ML models. Some of your responsibilities will include:</div><ul>
+<li>Build new API features and endpoints</li>
+<li>Build automated test suites and CI/CD pipelines</li>
+<li>Build highly scalable event-driven and realtime systems</li>
+<li>Instrument systems with metrics, tracing, and logging </li>
+<li>Refactor applications to eliminate tech debt</li>
+<li>Troubleshoot production issues</li>
+</ul><h1><strong>You'll love this job if you....</strong></h1><ul>
+<li>Enjoy solving complex technical problems, even when there is no perfect solution.</li>
+<li>Enjoy being in a fast-paced, customer-facing role.</li>
+<li>Thrive in small, cross-functional teams. We like to wear many hats here!</li>
+<li>You're excited to tackle big technical challenges like building highly scalable architectures and achieving zero-downtime deploys.</li>
+</ul><h1><strong>Requirements</strong></h1><ul>
+<li>6+ years of professional experience building backend applications using any popular language such as Python, Java, C#, JavaScript, Go, C/C++</li>
+<li>4+ years of working with SQL and NoSQL databases</li>
+<li>3+ years of production support experience</li>
+<li>3+ years working with common AWS services</li>
+<li>3+ years developing REST APIs</li>
+<li>3+ years of experience working with Python</li>
+<li>3+ working with Python backend frameworks like Django, Flask, or Tornado</li>
+<li>Experience migrating systems to meet increasing traffic/scale</li>
+<li>
+<strong>Startup or FAANG-type experience </strong>- Has worked at a startup or high growth company</li>
+<li>
+<strong>Deep AWS knowledge </strong>- Has many years of experience solutioning within AWS</li>
+<li>
+<strong>Strong Python coding abilities </strong>- Can pass difficult programming challenges in a relatively short period of time. Can speak clearly about their thinking throughout these challenges. Can speak to O-notation of algorithms. Has excellent knowledge of common python idioms and libraries.</li>
+<li>
+<strong>High scalability experience</strong> - Has been a tech leader on scaling systems to hundreds of millions of requests/events per day. Has experience with hyper-observability, scaling algorithms, and using production data to drive system changes</li>
+</ul><h1><strong>Skills</strong></h1><ul>
+<li>
+<strong>Amazing system design chops </strong>- When given a hard problem to solve with a new system, they can quickly shape an effective design and communicate its strengths, weaknesses, and tradeoffs.</li>
+<li>
+<strong>High-octane thinking</strong> - Engages deeply on subjects of expertise. Thinks ahead many steps and can see where decisions are likely to lead. Their brains compute at a very high level.</li>
+<li>
+<strong>Extremely creative </strong>- Can find both novel and effective solutions within highly constrained time and resources</li>
+<li>
+<strong>Fast learner</strong> - Has shown they can ramp up on difficult topics very fast</li>
+<li>
+<strong>Exceptional gut instincts </strong>- Can practically feel when something is right or wrong. Can use these instincts to quickly point themselves in the right direction.</li>
+<li>
+<strong>Opinionated</strong> - They have convictions in what they believe and can communicate their position clearly without drama.</li>
+</ul><h1><strong>Nice to Have</strong></h1><ul>
+<li>Machine learning experience - Has worked with machine learning models at scale</li>
+<li>Experience integrating and deploying ML models into production</li>
+</ul><h1><strong>Benefits (US)</strong></h1><ul>
+<li>Competitive Salary + Bonus</li>
+<li>Equity</li>
+<li>401k</li>
+<li>100% Remote team</li>
+<li>Unlimited PTO</li>
+<li>Premium Healthcare (100% Covered for you + dependents)</li>
+<li>Vision &amp; Dental Care</li>
+<li>$1K budget for your home office setup</li>
+<li>New Macbook Pro (or PC if you prefer)</li>
+<li>2x/year company paid team retreat</li>
+</ul><h1>Salary Range (Global): $125,000 - $200,000</h1>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/gfinity-plc-senior-software-engineering-manager">https://weworkremotely.com/remote-jobs/gfinity-plc-senior-software-engineering-manager</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python">https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python</a></p>
 
                 </details>
                 </td>
@@ -274,7 +276,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -336,7 +338,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
