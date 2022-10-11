@@ -10,7 +10,7 @@
                     <code>web3,react,front-end,frontend,code,typescript,management,senior,engineer,backend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-fullstack-engineer-account-activation-squad-moralis-129395" align="right" target="_blank">Apply</a>
@@ -32,7 +32,7 @@
 <li>Great knowledge, experience, and proficiency with Node.js, React, PostgreSQL.</li>
 <li>Fluent in English (written and spoken).</li>
 <li>Extra merit if you have experience with Nest.js.</li>
-</ul><p><strong>Are we a match made in heaven?ðââï¸ðââï¸</strong></p><p>Weâre serious about our team because we believe in people first, above all.</p><p>To be one of our teammates, we need a few things from you:</p><ul><li>Are you always looking for new ways to improve existing processes?</li></ul><ul> <li>Do you strive to reach the highest heights in every aspect of life?</li> <li>Are you able to work independently, as well as in a team?</li> <li>Do you love memes and gaming? ðð»ðð»</li> </ul><p>Â </p><p>If you answered yes to all the aboveâ¦ you might just be our newest teammate ð¤«</p><p>Youâll get to work with a fun-loving team in a remote-first company (weâre in over 39 countries and counting) and best of all, youâll be making a difference in the way developers in Web2 all over the world work.</p><p>Want to take things further?</p><p>Check out this â¨<a href="https://academy.moralis.io/mbs" rel="noopener noreferrer nofollow">free onboarding course</a>â¨ here to see exactly what itâs like to work at Moralis, and send in your application.<br></p><p><em>Please ensure that all resumes and communication must be submitted in English.</em></p><p><br></p><br/><br/>Please mention the word **ECENOMICAL** and tag RNTQuMTk4LjEwNi41NQ== when applying to show you read the job post completely (#RNTQuMTk4LjEwNi41NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p><strong>Are we a match made in heaven?ðââï¸ðââï¸</strong></p><p>Weâre serious about our team because we believe in people first, above all.</p><p>To be one of our teammates, we need a few things from you:</p><ul><li>Are you always looking for new ways to improve existing processes?</li></ul><ul> <li>Do you strive to reach the highest heights in every aspect of life?</li> <li>Are you able to work independently, as well as in a team?</li> <li>Do you love memes and gaming? ðð»ðð»</li> </ul><p>Â </p><p>If you answered yes to all the aboveâ¦ you might just be our newest teammate ð¤«</p><p>Youâll get to work with a fun-loving team in a remote-first company (weâre in over 39 countries and counting) and best of all, youâll be making a difference in the way developers in Web2 all over the world work.</p><p>Want to take things further?</p><p>Check out this â¨<a href="https://academy.moralis.io/mbs" rel="noopener noreferrer nofollow">free onboarding course</a>â¨ here to see exactly what itâs like to work at Moralis, and send in your application.<br></p><p><em>Please ensure that all resumes and communication must be submitted in English.</em></p><p><br></p><br/><br/>Please mention the word **ECENOMICAL** and tag RMzUuMTcxLjE0Ni4yMQ== when applying to show you read the job post completely (#RMzUuMTcxLjE0Ni4yMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -47,7 +47,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/forem-senior-full-stack-engineer" align="right" target="_blank">Apply</a>
@@ -134,7 +134,7 @@
                     <code>developer,javascript,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-engineer-customer-solutions-team-1224255" align="right" target="_blank">Apply</a>
