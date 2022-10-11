@@ -1,5 +1,29 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/15463436c3a22d57be3bb73e63ae25481665386113.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Moralis</h5>
+                    <h3>Senior Software Engineer Real Time API</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,gaming,docker,code,typescript,node.js,api,senior,engineer,engineering,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-real-time-api-moralis-130879" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Itâs not everyday you can say you work for the futureâ¦</p><p> Unless you work at Moralis!Â ð<br></p><p> Moralis is looking for a <strong>Senior Software Engineer</strong>Â to join our fast-growing team. Weâre on a mission to make integrating blockchain as easy as 1-2-(Web)3 for developers all over the world.Â </p><p>You'll work with the most welcoming team in blockchain in a fully remote, fast-paced, and cutting-edge environment. Help us onboard the next 1 million developers into Web3!<br></p><p><strong>About the role</strong>Â <strong><strong>ð©âð»ð¨âð»</strong></strong><br>As a Senior Software Engineer, you'll have a key role in the Engineering team as a whole and work with our Real-Time API which is one of our most popular features with many exciting use-cases.Â What you'll do:<strong><strong></strong></strong></p><ul> <li>Improve the Real-Time API tech stack by improving and monitoring Webhook delivery rate, improving memory usage, and improving scheduling for paid customers</li> <li>Proactively plan and work on ways to improve the dev-experience of our customers</li> <li>Apply best design patterns in order to make the codebase readable, maintainable, and testable</li> <li>Refactor, optimize and enhance the codebase where needed proactively</li> <li>Test implementations thoroughly</li> <li>Write and maintain unit tests</li> <li>Integrate and improve CI</li> <li>Write flexible and modular code to make sure that the codebase is easy to scale</li> <li>Be a valued member of an autonomous, high-performance agile team<br> </li> </ul><p><strong>About you & Key Qualifications</strong>Â <strong><strong>ðââï¸ðââï¸</strong></strong><br></p><ul> <li>You are<strong> </strong>passionate about and live up toÂ engineering practices like clean code, continuous delivery, observability, and reliability</li> <li>You master Node.js and consider yourself to be an expert</li> <li>You enjoy working in TypeScript and know the best practices</li> <li>You are experienced and can work in Docker and Redis<br><strong><br>Other skills we're looking for:</strong> </li> <li>Kubernetes</li> <li>RabbitMQ</li> <li>GRPC<br> </li> <li>Datadog<br> </li> <li>Avro</li> <li>Postgres<strong><strong></strong></strong> </li> </ul><p><strong>A Match Made in Heaven?</strong><br>Weâre serious about our team, because we believe in people first above all. Hereâs what we need from you:</p><ul> <li>Always striving to improve processes</li> <li>Enjoy working collaboratively in a remote-first environment</li> <li>Comfortable setting your own priorities and goals in line with a wider mission</li> <li>Sharing your ideas and continuously improving yourself and the team around you</li> <li>Embrace leadership in every situation, whatever your role</li> </ul><p>If you are all of the aboveâ¦ you might just be our newest teammate ð¤«</p><p>And hereâs what you can expect from us:<br></p><ul> <li>A fun, inclusive team that loves memes and gaming (among other things!)ð®</li> <li>A truly diverse and global company with team members in 39 countriesÂ ð</li> <li>Dedicated and forward-thinking people (for real!)</li> <li>A remote-first culture</li> <li>Regular real-life and metaverse meetups</li> </ul><p><br>Web3 is the future, and weâre at the forefrontâ¦ Will you be joining us?Â Go ahead and apply, let's talk!</p><p><br>Curious what the Moralis culture is like and how we work? Feel free to check out ourÂ <a href="https://academy.moralis.io/mbs" rel="noopener noreferrer nofollow">onboarding course</a>Â â¨</p><br/><br/>Please mention the word **ADVANCED** and tag RMzUuMTcxLjE0Ni4yMQ== when applying to show you read the job post completely (#RMzUuMTcxLjE0Ni4yMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/b168feb807c8369c22843b0df4b16dcf1665213318.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +34,7 @@
                     <code>software,design,crypto,cryptocurrency,financial,api,leader,senior,reliability,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-polysign-129897" align="right" target="_blank">Apply</a>
@@ -57,121 +81,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Worked in a zero ops model engineering team</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Strong passion for developing products that deliver a great customer experience</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Experience influencing software engineersâ best practices within your team</span></li>
-</ul><br/><br/>Please mention the word **LOVABLE** and tag RNTQuMTk4LjEwNi41NQ== when applying to show you read the job post completely (#RNTQuMTk4LjEwNi41NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7709/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudTruth</h5>
-                    <h3> Senior Software Engineer - Python / Django</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/cloudtruth-senior-software-engineer-python-django" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/7709/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Boston, MA USA
-    <br /><strong>URL:</strong> <a href="https://cloudtruth.com">https://cloudtruth.com</a>
-</p>
-
-<div>
-<strong>Position:</strong> Mid to Senior level Software Engineer</div><div><br></div><div>
-<strong>Location:</strong> Remote position - US compatible timezone preferred</div><div><br></div><div>We’re seeking a mid or senior-level engineer to join our experienced team. The qualifications are simple: show an ability, eagerness to learn, and strong communication skills, and you’ll fit right in. We’re a team that values fundamentals over specifics in any particular technology. You will have the opportunity to grow your role and we’ll provide mentorship to help you develop your career and skill set.</div><div><br></div><div>Our reason for being: Service outages, security breaches, and performance degradations, are frequently the direct result of application and service misconfiguration. CloudTruth is a venture-backed startup bringing order to the configuration chaos of modern applications (particularly cloud-native ones). By joining CloudTruth, you’ll help keep customers happy by improving developers’ lives and streamlining DevOps functions.</div><div><br></div><div>As for technologies, we evaluate each problem and choose to balance productivity, maintainability, and time-to-market. Currently, that means a TypeScript &amp; React front-end application backed by a Python/Django REST API.</div><div><br></div><div><strong>Experience with Python/Django is a must-have.</strong></div><div><br></div><div>CloudTruth is a distributed team that embraces remote-first principles. Depending on where you live, you may be close enough to other team members to meet up as you see fit. </div><div><br></div><div><strong>Requirements:</strong></div><ul>
-<li>Comfortable with remote work dynamics</li>
-<li>Strong communication skills are a must</li>
-<li>An ability and eagerness to learn</li>
-<li>Experience with Python and Django</li>
-</ul><div><br></div><div><strong>Nice to haves:</strong></div><ul>
-<li>Experience with TypeScript or React</li>
-<li>Experience with Kubernetes</li>
-<li>Experience as a DevOps practitioner</li>
-</ul><div><br></div><div><strong>Benefits:</strong></div><ul>
-<li>Competitive salary, benefits, and equity</li>
-<li>Unlimited vacation</li>
-<li>Standard US holidays</li>
-<li>Work-life balance</li>
-</ul><div><br></div><div><strong>How to Apply:</strong></div><div><br></div><div>Contact us at joinus@cloudtruth.com with your background CV, links to LinkedIn, blog, portfolio, GitHub, or other examples of your work, and a brief statement about why you’re interested in the position. </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cloudtruth-senior-software-engineer-python-django">https://weworkremotely.com/remote-jobs/cloudtruth-senior-software-engineer-python-django</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3712/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Tiller</h5>
-                    <h3> Senior Software Engineer (Ops Focus) at Tiller</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>9 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0071/3712/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Seattle, WA, USA
-    <br /><strong>URL:</strong> <a href="http://tillerhq.com">http://tillerhq.com</a>
-</p>
-
-<div>We are looking for a senior software engineer with considerable operations engineering experience to accelerate our team’s adoption of best practices while contributing to product development as a key member of our cross-functional engineering team. Your perspective and track record of implementing modern, state-of-the-art site reliability engineering, CI/CD automation, and service architecture automation will be a force multiplier to our growing team of talented engineers. </div><div><br></div><div>You’ll take ownership of critical DevOps and Site Reliability Engineering projects and provide related mentorship, guidance, and domain expertise to your peers, delivering a reliable service  that will delight our customers now and as we continue to scale. You should have a deep understanding of distributed application service concepts, a propensity for figuring stuff out, and some additional depth in either back-end development, front-end development, or QA automation. You were born a problem solver and love finding efficient and durable ways to solve difficult problems.</div><div><br></div><div><strong>What You’ll Do</strong></div><ul>
-<li>Build secure solutions that honor the trust customers are placing in our service</li>
-<li>Lead the development of operations engineering practices, including collaborating across the organization on capacity planning, service level objectives, error budgets and incident response outcomes</li>
-<li>Collaborate with the rest of the team on a broad range of infrastructure and product development work</li>
-<li>Evangelize the benefits of modern SRE and DevOps practices across the organization</li>
-<li>Highlight and celebrate wins, as well as blamelessly assess failures from current and future attempts at implementing best practices such as CI/CD, observability, alerting and monitoring</li>
-<li>Tenaciously dive into complex infrastructure as well as application code, figure it out, and improve or update it</li>
-<li>Relentlessly share information, always leaving better code, practices, and documentation so it’s easier for others to understand your reasoning and follow your tracks</li>
-<li>Be curious - troubleshoot operational issues when a customer is experiencing a quirky condition or when you or your teammates notice something isn’t quite right</li>
-</ul><div>
-<br><br>
-</div><div><strong>Helpful For Success</strong></div><ul>
-<li>Significant experience as an SRE or DevOps practitioner - you have experience building, operating, and troubleshooting complex applications using cloud infrastructure</li>
-<li>Ideal candidates will have specific experience with Google Cloud Platform</li>
-<li>Some experience with a good cross-section of our tech stack, including Google Cloud Platform, GitHub, Node.js, MongoDB, TypeScript, React, Google Apps Script/Editor Add-ons APIs and ecosystem, and Microsoft Office Add-ins APIs and ecosystem</li>
-<li>Experience maintaining and refactoring legacy applications</li>
-</ul><div><br></div><div><strong>Why Tiller</strong></div><ul>
-<li>We’re small and growing, so you’ll have tremendous agency and outsized impact on our developing culture, the Tiller service, and the success of our customers</li>
-<li>You’ll be surrounded by awesome, supportive colleagues who know how to have fun together</li>
-<li>We’ve been fully remote from day one; work from anywhere</li>
-<li>You’ll have an opportunity to explore a broad range of development and operations tools, technologies, and practices; you won’t be siloed or pigeon-holed</li>
-<li>You’ll have ongoing and repeated opportunities to pull up a seat at a lot of tables and wear multiple ‘hats’, depending on where your interests and capabilities lie; we have growth needs well beyond software development, and you’ll be close to them all, including IT, security, ops, customer support, product management, marketing </li>
-<li>We’re pioneers in Open Banking, a world-wide security and privacy initiative that gives customers more control over what financial institution information they share, and with whom</li>
-<li>Our customers tend to stick around - we have one of the highest customer retention rates among consumer fintech services</li>
-<li>Our team also sticks around, and we have uniquely high retention</li>
-<li>You will be eligible for stock options and equity ownership</li>
-<li>We provide health care coverage</li>
-</ul><div><br></div><div><strong>Our Values</strong></div><div><br></div><div>
-<strong>How we work together: </strong>Tiller is intent on making this a great place to work for our entire team. A place where our team can do their best work, and an environment that supports their full lives, from kids to aging parents, from nieces and nephews and their larger community. </div><div><br></div><div>To do this, four values that guide our work are empowerment, trust, engagement, and optimism. </div><div><br></div><div>We <strong>empower</strong> each other to do our best work. We value good judgment over rules; proactive decisions over approvals. We take ownership in our own productivity, knowing we’re all critical in the success of Tiller. We communicate openly, follow-through, and ask questions. </div><div><br></div><div>We depend on <strong>trust</strong> rather than oversight as a team. We rely on each other to make decisions in the interest of Tiller and our customers. We demonstrate positive intent so that others may presume positive intent. </div><div><br></div><div>
-<strong>Engagement</strong> is the glue that holds us together. We know that communication across the wire is harder than in person, so we take risks in sharing more of ourselves with each other online. We enjoy a good laugh together. We also speak up and raise hard questions with each other. </div><div>
-<br>As a team, we’re also <strong>optimistic</strong>. Despite what sometimes feels like a crushing backlog, a long list of ways we can deliver value to our customers, and a keen awareness of our shortcomings, we keep our focus on a future that is bright.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller">https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller</a></p>
-
+</ul><br/><br/>Please mention the word **LOVABLE** and tag RMzUuMTcxLjE0Ni4yMQ== when applying to show you read the job post completely (#RMzUuMTcxLjE0Ni4yMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -186,7 +96,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python" align="right" target="_blank">Apply</a>
@@ -266,6 +176,62 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/3890/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Springboard</h5>
+                    <h3> Mentor - Software Engineering Career Track (Part-time/Remote)</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>90 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0016/3890/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="https://www.springboard.com/">https://www.springboard.com/</a>
+</p>
+
+<div><strong>The Opportunity</strong></div><div><br></div><div>Springboard runs an online, self-paced Software Engineering Career Track in which participants learn with the help of a curated curriculum and 1-1 guidance from an expert mentor. Our mentor community - the biggest strength of our programs - comprises some of the best software engineering experts in the field.</div><div><br></div><div>If you are as passionate about mentoring as you are about software engineering, and can give a few hours per week in return for an honorarium, we would love to hear from you.</div><div><br></div><div>Please reach out to us with any questions at mentorrecruiting@springboard.com <br><br><strong>The Program</strong>
+</div><ul>
+<li>Completely online and self-paced</li>
+<li>Students become proficient in Software Engineering with the help of a curated online curriculum and project-based deliverables</li>
+<li>Coursework is made up of 800+ hour expert-curated curriculum in partnership with <a href="https://www.rithmschool.com/">Rithm School</a>
+</li>
+<li>On average, students finish in 9 months</li>
+<li>Students are working professionals from all over the world, dedicated to switching careers into Software Engineering</li>
+<li>Students have a weekly 30-minute checkin with their mentor to discuss questions, projects, and career advice!</li>
+</ul><div><strong>You</strong></div><ul>
+<li>are as passionate about teaching coding as about software engineering itself</li>
+<li>are proficient in the topics covered in our <a href="https://ddf46429.springboard.com/uploads/resources/1572915743_Software_Engineering_Career_Track_-_Syllabus_2019.11.04.pdf">Software Engineering Career Track</a> and are fluent in technologies such as HTML, CSS, JavaScript, React, Python, Flask, SQL, Data Structures and Algorithms</li>
+<li>have at least 3+ years of relevant work experience </li>
+<li>are available for weekly, 30-minute video check-ins with students to help them set and achieve learning goals, answer subject matter questions, provide feedback on projects, and offer career advice</li>
+<li>have experience critiquing work, in particular giving meaningful feedback on web development, and are able to think on your feet quickly</li>
+<li>are empathetic and have excellent communication skills</li>
+</ul><div><strong>Benefits</strong></div><ul>
+<li>Receive a monthly per-student honorarium</li>
+<li>Membership in a rich community of expert mentors from great companies like AirBnB, Uber, Google, and Pivotal</li>
+<li>Change the lives of students in our program</li>
+<li>Help us revolutionize online education and inspire the next generation of software engineers!</li>
+<li>Work at your convenience</li>
+</ul><div><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3">https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -276,7 +242,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -338,7 +304,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
