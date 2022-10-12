@@ -1,5 +1,40 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7639/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OpSourced</h5>
+                    <h3> DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>DevOps and Sysadmin</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/opsourced-devops-engineer-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/7639/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Savannah, Georgia
+    <br /><strong>URL:</strong> <a href="https://opsourced.com">https://opsourced.com</a>
+</p>
+
+<div>We cultivate teams of skilled and devoted DevOps Engineers capable of providing a fanatical level of support for our wide range of customers and a variety of tech stacks.  Then we set that team loose to build and support highly available, scalable, and reliable infrastructures and automation that our customers can use to iterate as often and with as little friction as possible.<br><br>You'll work directly with other engineers on our teams, and alongside those customers day to day to build, automate, and manage their infrastructures so they can focus on their applications!   If you're looking for an opportunity to work at a scale few ever get to, this could be the right place for you!</div><div>  <br><strong>Minimum Qualifications :<br></strong>•  Experience maintaining production Linux environments<br>•  Experience working with tools like Terraform / Ansible / CloudFormation<br>•  Experienced and comfortable working in Git<br>•  Strong Customer Service Mindset<br>•  Strong Troubleshooting abilities<br>•  Attention to detail<br>•  Self motivated and diligent<br>•  Ability to participate in an on-call pager rotation.<br>•  Must be eligible to work in the U.S. (or as a contractor if located in timezones 0 through +3)<br><br><strong>Preferred Qualifications :<br></strong>•  Strong Terraform, Ansible, or CloudFormation experience<br>•  Experience with AWS, GCP, Azure or prior certifications<br>•  Experience with Kubernetes, EKS, GKE, AKS<br>•  Experience building and maintaining CI / CD pipelines<br><br>Email hiring@opsourced.com or visit https://opsourced.com/hiring/ to apply!<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opsourced-devops-engineer-2">https://weworkremotely.com/remote-jobs/opsourced-devops-engineer-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6740/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +45,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer" align="right" target="_blank">Apply</a>
@@ -70,117 +105,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/5816/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bitovi</h5>
-                    <h3> SRE and DevOps Consultant</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>32 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bitovi-sre-and-devops-consultant-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/5816/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Chicago
-    <br /><strong>URL:</strong> <a href="https://bitovi.com">https://bitovi.com</a>
-</p>
-
-<div>​<strong><em>PLEASE NOTE: At this time we are placing a preference on candidates located in the United States and Canada. <br></em></strong><br>
-</div><div><strong><br>Who are you?</strong></div><div>
-<br>You’re an experienced DevOps Engineer and SRE with a thorough understanding of the full CI/CD pipeline, and your current role just isn’t holding your attention. You’d thrive in an environment where you can take an abstract goal from idea to reality with little to no guidance including research, architectural planning, proof-of-concept implementation, and full-scale implementation. You’re an autonomous person who is able to efficiently manage any number of simultaneous initiatives with detailed clarity, and you want the freedom to work where you want, when you want, and with the kinds of projects you enjoy most. <br><br>
-</div><div>
-<br>In your career so far, you’ve achieved: <br><br>
-</div><ul>
-<li>5+ years experience in a professional cloud computing role </li>
-<li>Thorough understanding of the full CI/CD pipeline</li>
-<li>Expertise in at least two CI tools and two CD tools </li>
-<li>Experience creating complex cloud infrastructure using Infrastructure As Code (IAC)</li>
-<li>Experience with Ansible and Terraform</li>
-<li>Experience deploying and maintaining multiple production-ready Kubernetes clusters</li>
-<li>Experience deploying and maintaining enterprise applications to a Kubernetes cluster </li>
-<li>Experience in writing Helm charts </li>
-<li>Experience in writing and publishing Docker containers </li>
-<li>Experience using and building GitOps workflows</li>
-<li>Experience in writing Bash scripts and at least 2 programming languages in addition to Bash </li>
-<li>Experience improving system reliability through implementing metrics, logs, tracing, and APM systems</li>
-</ul><div>
-<br>If that sounds like you, read on. We’ve got a place for you at Bitovi!<br><br>
-</div><div>
-<br> </div><div><strong>Who are we?</strong></div><div>
-<br>Bitovi helps companies create and deliver better software and applications. We’re driven by the desire to provide value - to our clients, to the technology community, and to our incredible team. </div><div>
-<br>Every day, we design, build, and deliver a wide variety of high-profile applications built with tests, full docs, and a deployment process in place. We discuss and design architectures, review code, and research new technologies. We talk to our clients directly, guiding them through the process, identifying potential problems and unknowns, and tackling challenges.  </div><div>
-<br>We help one another freely. We keep a Slack channel called ask-help and it’s used constantly. We develop new skills, build better developer tools, and work on new types of projects regularly - and take the time to present at conferences, give trainings, and run meetups. We’re huge devotees of open source, and our community of developers is second to none. </div><div>
-<br>Our fully remote team consists of about 80 technology enthusiasts located around the US and Canada, as well as Brazil, UK, Algeria, and Egypt. We welcome diversity and non-traditional paths into the DevOps profession - we want the right <em>person</em>, not the right collection of tech keywords. </div><div>
-<br>You can learn more about us with this short read: <a href="https://www.bitovi.com/blog/hello-potential-bitovian">Hello Potential Bitovian</a>. </div><div>
-<strong><br>Check out our video via the application link on what it's like doing DevOps at Bitovi.</strong><br><br>
-</div><div>
-<strong><br>What will you do at Bitovi?<br></strong><br>
-</div><div>You’ll get to work on interesting projects in a culture that values quality over quantity and collaboration over cowboy coding. You’ll have time for regular one-on-ones with your team lead, daily stand ups and weekly scrum-based meetings, and protected time to work on presentations, articles, or other passion projects.<br><br>
-</div><div>Additionally, you'll:<br><br>
-</div><div>
-<strong>Build and Configure. </strong>The bulk of your day will be spent on engineering, and projects you might work on include:</div><ul>
-<li>Migrating applications from on-prem to the cloud</li>
-<li>Managing configuration for infrastructure and application deployments</li>
-<li>Implementing and managing CI/CD pipelines</li>
-<li>Architecting best-fit cloud provider, application, and tool stacks for clients</li>
-<li>Using and contributing to open source projects <ul><li>Including internal ones like: <a href="https://bitovi.github.io/bitops/">BitOps</a>
-</li></ul>
-</li>
-</ul><div>
-<strong><br>Consult. </strong>You'll play a crucial role in guiding clients along their DevOps journeys, and you’ll meet with clients regularly to learn about their needs and update them on the progress of their projects. </div><div>
-<strong><br>Travel. </strong>Pre-Covid, our development team traveled to meet with our clients in person, and we’ll be doing so again once it’s safe to travel. Travel averages 3-5 days every 10-12 weeks, and we’ll always be working with your schedule.  </div><div>
-<strong><br>Teach. </strong>You’ll have protected time each week to present at conferences, give and attend trainings across a variety of topics, plan and run meetups, create and maintain open source projects, and create various kinds of content in your area of expertise, with Bitovi’s full support. </div><div>
-<strong><br>Blog. </strong>You’ll write blogs for our company website based on solutions provided to our clients to continue to promote Bitovi DevOps' thought leadership in the DevOps space.</div><div>
-<strong><br>Grow and Learn.</strong> You'll have opportunities for growth in DevOps and team lead roles.</div><div><br></div><div><strong><br>You’ll fit in well at Bitovi if you are: </strong></div><ul>
-<li>Interested in development best practices </li>
-<li>Experienced in contributing to or using open source projects </li>
-<li>Flexible enough to work well autonomously or as part of a larger team </li>
-<li>Always developing new skills, trying out new technology, and testing new ideas </li>
-<li>Comfortable working with clients directly </li>
-<li>Equally at ease in a leadership or team role </li>
-</ul><div>
-<br><br>
-</div><div>
-<strong><br>What does Bitovi offer?<br></strong><br>
-</div><div>First and foremost: you’ll get to be part of a supportive, talented, amazing team who supports and challenges one another to do their most exceptional work. You’ll get to contribute to and lead a diverse array of projects, expand your skills and stature in the tech community, and build a portfolio of work you’re passionate about and proud of. <br><br>
-</div><div>You’ll also enjoy excellent benefits, including: </div><ul>
-<li>Competitive salary and annual bonus opportunity </li>
-<li>(the base salary range for this role is $120-175K)</li>
-<li>Completely remote work with flexible hours </li>
-<li>401(k) matching </li>
-<li>4 weeks of paid vacation in addition to 7 paid holidays </li>
-<li>Health, dental, vision, and life insurance </li>
-<li>Paid maternity and paternity leave </li>
-<li>Biannual company retreats to places like Las Vegas, New Orleans, and Amelia Island (on hold during Covid, but definitely to return!) </li>
-<li>Mini virtual retreats held quarterly during Covid </li>
-</ul><div>
-<br> <br><br>
-</div><div><strong><br>How do you apply?</strong></div><div>
-<br>Please share a resume or your LinkedIN profile and answer the following questions as part of the application:</div><ul>
-<li>Why are you interested in this role at Bitovi?</li>
-<li>What is something you recently worked on and are proud of?</li>
-<li>What is a fun fact about yourself (Yes, we read these!)?</li>
-</ul><div><br></div><div>
-<strong><em>All job offers are contingent on successfully passing a background check.<br></em></strong><br>
-</div><div>​</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bitovi-sre-and-devops-consultant-2">https://weworkremotely.com/remote-jobs/bitovi-sre-and-devops-consultant-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1344659/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -191,7 +115,7 @@
                     <code>AWS,developer,devops,growth</code>
                 </td>
                 <td width="200">
-                <text>42 days ago</text>
+                <text>43 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1344659" align="right" target="_blank">Apply</a>
