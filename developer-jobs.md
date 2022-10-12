@@ -10,7 +10,7 @@
                     <code>developer,students,education,leader,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-net-developer-symplicity-130407" align="right" target="_blank">Apply</a>
@@ -26,7 +26,7 @@ Symplicity is the market leader in employability solutions. We help companies fi
 We are Great Place To Work certified.
 
 Join our team!
-<br/><br/>Please mention the word **HELPING** and tag RMzUuMTcxLjE0Ni4yMQ== when applying to show you read the job post completely (#RMzUuMTcxLjE0Ni4yMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **HELPING** and tag RMTguMjA4LjE3Ni4yMjI= when applying to show you read the job post completely (#RMTguMjA4LjE3Ni4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -41,7 +41,7 @@ Join our team!
                     <code>developer,teacher,training,code,management,content,health,engineering,educational,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-advocate-meili-129939" align="right" target="_blank">Apply</a>
@@ -111,7 +111,7 @@ Why you'll enjoy working with us
 - Management training to freshly hired and newly appointed managers,
 - We all get together at least once a year for a company offsite.
 
-Meilisearch is an equal opportunity employer. We strive to develop an inclusive work environment that reflects the diversity of our open-source community.<br/><br/>Please mention the word **FINE** and tag RMzUuMTcxLjE0Ni4yMQ== when applying to show you read the job post completely (#RMzUuMTcxLjE0Ni4yMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+Meilisearch is an equal opportunity employer. We strive to develop an inclusive work environment that reflects the diversity of our open-source community.<br/><br/>Please mention the word **FINE** and tag RMTguMjA4LjE3Ni4yMjI= when applying to show you read the job post completely (#RMTguMjA4LjE3Ni4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -126,7 +126,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>developer,software,code,web,travel,cloud,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-developer-holochain-corenbspteam-holo-129903" align="right" target="_blank">Apply</a>
@@ -227,7 +227,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
 <p>Holo is an equal-opportunity employer, and we celebrate our diverse, creative, and collaborative team.</p>
 <p></p>
 <p><br><a rel="noopener noreferrer nofollow"><span>Apply Now!</span> <i></i></a></p>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/TPVo0pOB2yQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **JUBILATE** and tag RMzUuMTcxLjE0Ni4yMQ== when applying to show you read the job post completely (#RMzUuMTcxLjE0Ni4yMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/TPVo0pOB2yQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **JUBILATE** and tag RMTguMjA4LjE3Ni4yMjI= when applying to show you read the job post completely (#RMTguMjA4LjE3Ni4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -242,7 +242,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>web3,developer,crypto,cryptocurrency,system,back-end,financial,finance,cloud,nosql,node.js,senior,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-back-end-developer-node-js-web3-aldrin-129399" align="right" target="_blank">Apply</a>
@@ -251,76 +251,76 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><strong>About Aldrin Labs</strong></p><p>There is a steep learning curve when it comes to crypto. Only once overcome will we have <strong>mass adoption.</strong> Aldrin Labs aims to debunk the belief that decentralized finance is inherently complex and separate from centralized finance. We will amend the frustratingly poor user experience and fragmentation that <strong>millions</strong> of crypto natives and newcomers face. We will seamlessly merge the centralized and decentralized world.</p><p>Aldrin Labs aims to be purposeful. We strive to halve the fifty working years of the average person. This is the mission of Aldrin Labs.</p><p>Aldrin Labs has Aldrin DEX and is incubating an innovative crypto wallet and money market. These protocols will integrate with each other to provide easy functionality and purposefully help people achieve financial freedom.</p><p>Aldrin Labs is a <strong>fully remote</strong> company. We are interested in capturing the best talent, no matter where you live.</p><p><strong>The Role</strong></p><p>Weâre looking for a Senior Back-End Developer skilled in designing, building, and deploying highly secure, scalable, and maintainable backend services for the Aldrin decentralized exchange.</p><p>You will:</p><ul> <li>Develop backend service for Aldrinâs new products, including but not limited to our centralized and decentralized exchange platform, as well as other internal applications as necessary</li> <li>Work closely with traders and Aldrin developers and have the opportunity to improve your knowledge of building high-performance scalable applications, understand broader system architecture and understand the cryptocurrency market</li> <li>Be passionate about the crypto markets, blockchain technology, and decentralized applications.</li> </ul><p></p><h4>Requirements</h4><p><strong>Minimum Qualifications:</strong></p><ul> <li>Professional experience as a back-end developer of 3-5+ years</li> <li>Professional experience in Node.js of 3+ years</li> <li>Professional experience programming in <strong><em>Golang</em></strong> </li> <li>Strong experience in Express.js, Docker, <strong><em>Kubernetes</em></strong> </li> <li>Significant professional experience programming in Typescript</li> <li>Experience working with a large codebase, distributed teams</li> <li>Experience with NoSQL and RDBMS database systems such as PostgreSQL, MySQL, or MongoDB</li> <li>Strong understanding of database schema design</li> <li>Development experience on cloud computing platform (AWS)</li> <li>Strong understanding of networking concepts (load balancers, routers, etc.)</li> <li>Experience with high load applications (1000 RPS), performance tuning experience </li> </ul><p><strong>Nice-to-Have Qualifications:</strong></p><ul> <li>Experience working with a large codebase</li> <li>A proactive team player with strong problem solving capabilities </li> <li>Passionate about the cryptocurrency market and developing apps using blockchain (e.g. web3.js)</li> <li>BS in Computer Science or equivalent</li> </ul><p></p><h4>Benefits</h4><ul> <li>Competitive salary + equity/tokens</li> <li>Remote work in a dynamic, fast-growth Web3 startup</li> <li>Flexible working hours</li> <li>Opportunity to work with a diverse, global, and passionate team</li> <li>Collaboration with leading projects and thought leaders in the crypto space</li> </ul><p><em>At Aldrin Labs, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.</em></p><br/><br/>Please mention the word **PROLIFIC** and tag RMzUuMTcxLjE0Ni4yMQ== when applying to show you read the job post completely (#RMzUuMTcxLjE0Ni4yMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p><strong>About Aldrin Labs</strong></p><p>There is a steep learning curve when it comes to crypto. Only once overcome will we have <strong>mass adoption.</strong> Aldrin Labs aims to debunk the belief that decentralized finance is inherently complex and separate from centralized finance. We will amend the frustratingly poor user experience and fragmentation that <strong>millions</strong> of crypto natives and newcomers face. We will seamlessly merge the centralized and decentralized world.</p><p>Aldrin Labs aims to be purposeful. We strive to halve the fifty working years of the average person. This is the mission of Aldrin Labs.</p><p>Aldrin Labs has Aldrin DEX and is incubating an innovative crypto wallet and money market. These protocols will integrate with each other to provide easy functionality and purposefully help people achieve financial freedom.</p><p>Aldrin Labs is a <strong>fully remote</strong> company. We are interested in capturing the best talent, no matter where you live.</p><p><strong>The Role</strong></p><p>Weâre looking for a Senior Back-End Developer skilled in designing, building, and deploying highly secure, scalable, and maintainable backend services for the Aldrin decentralized exchange.</p><p>You will:</p><ul> <li>Develop backend service for Aldrinâs new products, including but not limited to our centralized and decentralized exchange platform, as well as other internal applications as necessary</li> <li>Work closely with traders and Aldrin developers and have the opportunity to improve your knowledge of building high-performance scalable applications, understand broader system architecture and understand the cryptocurrency market</li> <li>Be passionate about the crypto markets, blockchain technology, and decentralized applications.</li> </ul><p></p><h4>Requirements</h4><p><strong>Minimum Qualifications:</strong></p><ul> <li>Professional experience as a back-end developer of 3-5+ years</li> <li>Professional experience in Node.js of 3+ years</li> <li>Professional experience programming in <strong><em>Golang</em></strong> </li> <li>Strong experience in Express.js, Docker, <strong><em>Kubernetes</em></strong> </li> <li>Significant professional experience programming in Typescript</li> <li>Experience working with a large codebase, distributed teams</li> <li>Experience with NoSQL and RDBMS database systems such as PostgreSQL, MySQL, or MongoDB</li> <li>Strong understanding of database schema design</li> <li>Development experience on cloud computing platform (AWS)</li> <li>Strong understanding of networking concepts (load balancers, routers, etc.)</li> <li>Experience with high load applications (1000 RPS), performance tuning experience </li> </ul><p><strong>Nice-to-Have Qualifications:</strong></p><ul> <li>Experience working with a large codebase</li> <li>A proactive team player with strong problem solving capabilities </li> <li>Passionate about the cryptocurrency market and developing apps using blockchain (e.g. web3.js)</li> <li>BS in Computer Science or equivalent</li> </ul><p></p><h4>Benefits</h4><ul> <li>Competitive salary + equity/tokens</li> <li>Remote work in a dynamic, fast-growth Web3 startup</li> <li>Flexible working hours</li> <li>Opportunity to work with a diverse, global, and passionate team</li> <li>Collaboration with leading projects and thought leaders in the crypto space</li> </ul><p><em>At Aldrin Labs, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.</em></p><br/><br/>Please mention the word **PROLIFIC** and tag RMTguMjA4LjE3Ni4yMjI= when applying to show you read the job post completely (#RMTguMjA4LjE3Ni4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/9949542389b3927e0be5aa9674b5975c1665040529.peg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7652/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Bitcoin Depot</h5>
-                    <h3>Mobile App Developer</h3>
+                    <h5>BitStarz Casino</h5>
+                    <h3> Front End Developer (Central European Time Zone - Serbia location advantageous)</h3>
                 </td>
                 <td width="300">
-                    <code>web3,bitcoin,developer,design,ios,cryptocurrency,ethereum,react,code,qa,javascript,mobile,management,marketing,android,digital nomad</code>
+                    <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-mobile-app-developer-bitcoin-depot-128883" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/bitstarz-casino-front-end-developer-central-european-time-zone-serbia-location-advantageous" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><strong>Mobile App Developer remote (remote)Â </strong></p>
-<p><strong>Bitcoin Depot</strong><span style="font-weight:400;"> is seeking a</span><strong> Mobile App Developer </strong><span style="font-weight:400;">to help develop new functionality and maintain the current Bitcoin Depot App and development of new mobile App products.Â </span></p>
-<p><span style="font-weight:400;">Bitcoin Depot is one of the largest multi-cryptocurrency ATM Networks in the world, offering the ability to buy and sell Bitcoin, Litecoin, and Ethereum instantly at hundreds of locations. Our mission is to provide the most secure, convenient, and fastest cryptocurrency transaction. Our vision is to bring the cryptocurrency market to the masses.</span></p>
-<p><span style="font-weight:400;">We are proud to be an Atlanta Journal-Constitution Top WorkPlace for 2021.</span></p>
-<p><span style="font-weight:400;">Â </span><strong>Responsibilities</strong></p>
-<p><span style="font-weight:400;">Maintain and further develop new features on Bitcoin Depot Mobile App.Cooperate and collaborateÂ  with Bitcoin Depot development team, product and marketing team in developing a best in class mobile app.Â </span></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Work closely with our product team to launch new features</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work hand in hand with our design team on modern user interfaces and experiences</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Develop thoroughly tested code and conduct quality assurance on all new code alongside our QA team</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Build dynamic, responsive, low latency and real-time user interfaces</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Collaborate effectively with other technology teams and architects to solve complex problems spanning their respective areas</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Establish key metrics to indicate success or failure after new product rollouts</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work in a team as well as independently to deliver on aggressive schedules and goals</span></li>
-</ul>
-<p><strong>Technical Qualifications:Â </strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">3+ years in building and maintaining React Native applications with clean code.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Implement pixel perfect UIâs that match designs.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">4+ years experience integrating internal and third-party APIâs.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work with modern tools including Slack, GitHub, Google Docs, etc.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">5+ years experience developing apps with one or more of the following: React Native, Ionic/Cordova/Phonegap, iOS (Swift or Objective C) Android (Java or Kotlin). React Native is preferable.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">4+ years experience with JavaScript or Typescript.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">4+ years working with relational database and SQL (PostgresÂ  preferable)</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">4+ years working with GIT</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">4+ years experience working with XCode, Gradle, ADB and configuring the Android SDK</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">4+ years experience debugging iOS and Android build errors and dependency conflicts.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">4+ years experience with code signing and deploying apps to the Apple App Store and Google Play Store.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Familiarity with state management libraries such as Redux.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Familiarity with React component lifecycle.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work with modern tools including Slack, GitHub, Google Docs, etc.</span></li>
-</ul>
-<p><strong>Benefits</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Competitive Salary</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">401K MatchingÂ </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Generous PTO</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Health benefits offered with a company contribution towards premiums</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Wellness benefitsÂ </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Casual dress environment when in office</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Monthly company celebrations</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Advancement opportunities based on results</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Weekly catered lunchesÂ </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Premium coffee and tea provided by Buckhead BeansÂ </span></li>
-</ul>
-<p><br><br></p><br/><br/>Please mention the word **GROUNDBREAKING** and tag RMzUuMTcxLjE0Ni4yMQ== when applying to show you read the job post completely (#RMzUuMTcxLjE0Ni4yMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7652/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Malta
+    <br /><strong>URL:</strong> <a href="https://bitstarz.com">https://bitstarz.com</a>
+</p>
+
+<div>BitStarz is expanding and we're looking for developers who share our passion for casino video games to join our team.<br><br>You will work with UI/UX designers, front-end and back-end web developers and build all client-side logic, and fine tune the look and feel of our website.<br><br>Responsibilities:<br><br>
+</div><ul>
+<li>Design, implement and document Web based video games.</li>
+<li>Write and maintain highly reusable JavaScript, HTML and CSS code.</li>
+<li>Ensure the technical feasibility of UI/UX designs</li>
+<li>Optimize our website for all devices, screen densities, maximum performance and scalability.</li>
+<li>Design and maintain front end deployment tooling and processes to allow continuous software builds.</li>
+<li>Design and implement automated UI/Stress tests</li>
+</ul><div>
+<br>Requirements:<br><br>
+</div><ul>
+<li>Minimum 3 years of experience in following technologies</li>
+<li>Strong understanding of JavaScript/Typescript languages</li>
+<li>Strong understanding of web markup, including HTML5 and CSS3</li>
+<li>Experience with responsive design, cross-browser and pixel density compatibility issues</li>
+<li>Experience with browser rendering specifics.</li>
+<li>Experience with front-end build tools (preferably Webpack)</li>
+<li>Experience converting Figma UI designs into pixel perfect responsive web pages.</li>
+<li>Experience with REST APIs, AJAX and asynchronous requests.</li>
+<li>Agile working environment.</li>
+</ul><div><br></div><div>Advantageous skills:<br><br>
+</div><ul>
+<li>Experience with video game engines (PixiJS, Phaser 3, Unity, cocos2d, Unreal)</li>
+<li>Understanding of Git</li>
+<li>Experience with stress testing tools</li>
+<li>Exposure to front-end frameworks/libraries such as Angular, Vue, React, jQuery</li>
+<li>Experience with back-end server technologies like PHP, Node.js, <a href="http://asp.net/">Asp.Net</a>, Java Spring.</li>
+</ul><div><br></div><div>In return for your valuable contribution:<br><br>
+</div><ul>
+<li>Competitive salaries</li>
+<li>Travel allowance to visit colleagues across the globe</li>
+<li>Fully comprehensive health insurance whilst you travel</li>
+<li>Fitness Challenges to keep us in shape</li>
+<li>Annual team building events at exclusive 5-star resorts</li>
+</ul><div>
+<br>Whilst our roles are fully remote, we prefer people residing in or close to Belgrade.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bitstarz-casino-front-end-developer-central-european-time-zone-serbia-location-advantageous">https://weworkremotely.com/remote-jobs/bitstarz-casino-front-end-developer-central-european-time-zone-serbia-location-advantageous</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -335,7 +335,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-unreal-engine-developer" align="right" target="_blank">Apply</a>
@@ -380,7 +380,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-elixir-developer" align="right" target="_blank">Apply</a>
@@ -428,7 +428,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/dagabase-lead-front-end-developer-sr-developer" align="right" target="_blank">Apply</a>
@@ -485,7 +485,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-developer-1422554" align="right" target="_blank">Apply</a>
@@ -564,7 +564,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -641,7 +641,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -718,7 +718,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -787,7 +787,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>api,CSS,developer,docker</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
@@ -888,7 +888,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>42 days ago</text>
+                <text>43 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1344656" align="right" target="_blank">Apply</a>
@@ -913,7 +913,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>42 days ago</text>
+                <text>43 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-back-end-developer-1344657" align="right" target="_blank">Apply</a>
@@ -938,7 +938,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>42 days ago</text>
+                <text>43 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -963,7 +963,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>42 days ago</text>
+                <text>43 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -988,7 +988,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>42 days ago</text>
+                <text>43 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -1013,7 +1013,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>42 days ago</text>
+                <text>43 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
