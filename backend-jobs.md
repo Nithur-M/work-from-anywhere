@@ -1,87 +1,65 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/9bb574a8844871f2e2b053d18650c54a1665126941.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/28c6637565e82d1a67d79767759a46921665558917.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Syndica</h5>
-                    <h3>Senior Backend Engineer</h3>
+                    <h5>Streamflow</h5>
+                    <h3>Backend Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>design,saas,developer,code,web,cloud,node,lead,senior,operational,engineer,backend,digital nomad</code>
+                    <code>design,web3,back-end,python,software,code,qa,cloud,api,management,go,engineer,backend,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-syndica-129403" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-streamflow-131899" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="row mb-4">
-<div class="col">
-<p> </p>
-<p><span style="font-weight:400;">Syndica is a developer infrastructure company building the cloud of web3. We are dedicated to building developer infrastructure that just works. Syndica offers highly scalable RPC node infrastructure, with advanced logging and analytics.</span></p>
-<p><span style="font-weight:400;">We are backed by strategic partners, investors, and advisors who are all-in on our mission: Chamath of Social Capital, Sam Bankman-Fried of Alameda Research, Solana Ventures, and many more.</span></p>
-<p><span style="font-weight:400;">This role will have the primary accountability of designing, implementing, and operating Syndicaâs blockchain infrastructure platform. </span><strong>Rust knowledge is a necessity!</strong><span style="font-weight:400;"> The team operates with a ârun what you writeâ philosophy and each engineer is responsible for deploying and operating the code they write.</span></p>
-<p><span style="font-weight:400;">A successful candidate must have demonstrable experience in at least one programming language (preferably Go, Rust or C++), and previous work in SaaS application development and operations. You will be working closely with the Support and Development team on the architecture and configuration of our AWS and GCP hosted infrastructure. You will be responsible to ensure the environment is built, deployed, configured, managed, and monitored correctly to support the business. The ideal candidate will also have prior experience developing applications on either of the three major cloud platforms - AWS, Azure, or GCP via Kubernetes.</span></p>
-<h3><strong>Responsibilities</strong></h3>
+                <h3><b>The Company</b></h3><br><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Streamflow</a> helps web3 organizations distribute tokens efficiently and effectively.<br>We leverage our token streaming protocol to provide a suite of tools every Solana organization can use to manage and stream tokens.<p></p><h3><b>Why You Should Join Us</b></h3><br>Streamflow is built on the <a class="bbcode-link" href="https://www.notion.so/Values-public-536b816989aa4ee7b1923d112c84763e" target="_blank" rel="noopener noreferrer nofollow">Values (public)</a> that we share publicly. We look to uphold these qualities in our day-to-day and look for these qualities in candidates who apply.<br>Our work culture is fast-moving, engaging, and ambitious. We passionately believe in the value that our protocol can unlock for the world and weâre looking to work with mission-driven people who are ready to jump on board with us, roll up their sleeves, and get stuck into it. We believe in selfless sharing of knowledge, transparency, and insight into all aspects of the business and personal initiative.<br>We are a remote-first, office-optional team that prioritizes high-quality written communication and the possibility of working asynchronously across timezones because we believe that the best talent exists on every corner of the earth.<br>We are developing quite literally on bleeding edge technology on the highest performant blockchain, Solana.<br>We offer above-market salaries and discuss specific figures early on in the hiring process.<p></p><h3><b>Weâre seeking</b></h3><br>We're looking for a full-time <b>Back-end Engineer</b> to improve and build our applications with a focus on API design and implementation, but also making sure our <b>infrastructure</b> works and is implemented with maintenance in mind.<br>If you:<br><ul>
+<li align="left">able to work with at least 4h overlap with European timezones</li>
+<li align="left">have 5+ years of professional experience working as a software engineer</li>
+<li align="left">have been part of start-ups or scale-ups before as a full-time team member</li>
+<li align="left">have hands-on experience with AWS or alternative cloud providers and their products for modern infrastructure management (Docker, orchestration services, CI/CD, Terraform)</li>
+<li align="left">built production-ready servers before from the grounds up</li>
+<li align="left">have a nose for smelling problems before they happen</li>
+</ul>â¦then we should talk. ð<br>It will be a perfect fit if you love:<br><ul>
+<li align="left">Developing</li>
+<li align="left">Learning (and do it fast)</li>
+<li align="left">Going outside your comfort zone</li>
+<li align="left">Doing what is best for the business</li>
+<li align="left">Participating in the construction of processes and organizations from an early stage</li>
+<li align="left">Autonomy and responsibility</li>
+<li align="left">Very ambitious projects</li>
+</ul><br><h3><b>Bonus points</b></h3><br>If you:<br><ul>
+<li align="left">Have experience with Python API development (Django, flask, or related skills)</li>
+<li align="left">Have a diverse set of skills and be ready to put them to use to build production-ready systems</li>
+<li align="left">Love Linux, Cloud providers and their products</li>
+<li align="left">Interested in building blockchain-related products</li>
+</ul>youâre very likely to succeed in this role.<p></p><h3><b>Responsibilities</b></h3><br><ul>
+<li align="left">Design, develop and maintain server-side code and infrastructure using one of the server-side languages (Rust, Python, Go or JVM languages) and Cloud products</li>
+<li align="left">Work with product to rapidly build experimental products, deploy them and track performance and gather feedback</li>
+<li align="left">Take ownership of key pieces of Streamflowâs infrastructure and back-end code and steer them in the right direction</li>
+<li align="left">Serve as the technical authority for a domain and tech stack best practices in API and Infrastructure</li>
+</ul><br><h3><b>Examples of near-term responsibilities</b></h3><br><ul>
+<li align="left">Backend API infrastructure (maintenance + new development)</li>
 <ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Design, creation, and provisioning of infrastructure</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Write beautiful maintainable Rust code</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Create modular and extensible micro-services to support the platform</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Build a reliable fault-tolerant service</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Identify and troubleshoot any availability and performance issues at multiple layers of deployment, from hardware, to operating environment, network, and application</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Evaluate performance trends and expected changes in demand and capacity, and establish the appropriate scalability plans</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Troubleshoot and solve customer platform issues</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ensure that SLAs are met in executing operational tasks</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with other engineers to implement operational solutions while defining and adhering to industry best practices</span></li>
+<li align="left">Automatic token transfers</li>
+<li align="left">Authentication</li>
+<li align="left">User resources</li>
+<li align="left">Dashboard support</li>
+<li align="left">Internal analytics</li>
 </ul>
-<h3><strong>Qualifications</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">3+ years related professional experience using Rust</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with Prometheus/Grafana for metrics aggregation/visualization is plus</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with alerting and monitoring tools is plus</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience working in a highly distributed company is a plus</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Align a portion of your day with the business hours of Central Time Zone - UTC -6</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Systematic problem-solving approach, combined with a strong sense of ownership and drive</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Some working knowledge of web and network protocols and standards (HTTP, TLS, DNS, etc)</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Bachelor's degree in Computer Science or related field or relevant experience</span></li>
-</ul>
-<h3><strong>What does success in this role look like?</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">In three months, you have become one of our lead Rust developers. Youâll have taken on independent code review responsibilities and are collaborating on the design of new features</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">In six months, you have earned the trust of the team and are delivering tasks through the entire SDLC, from design through development with minimal guidance, and are helping to effectively mentor new engineers joining the team</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">In twelve months, you have established a cadence of predictable, on-time delivery without cutting corners - we love clean, maintainable code :)</span></li>
-</ul>
-<p> </p>
-</div>
-</div><br/><br/>Please mention the word **FORTUNATE** and tag RMTguMjA4LjE3Ni4yMjI= when applying to show you read the job post completely (#RMTguMjA4LjE3Ni4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/64a3257f22621020bed5e16067f622781665126947.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Moralis</h5>
-                    <h3>Senior Backend Engineer API Team</h3>
-                </td>
-                <td width="300">
-                    <code>web3,redis,code,typescript,api,senior,go,golang,engineer,backend</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-api-team-moralis-129405" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><br>Are you ready for something fresh and exciting, a chance to dive into some cool, new tech?</p><p>At Moralis youâll work in a fast, dedicated and innovative environment and youâll join a company growing at an exciting pace. Youâll have the opportunity to work with the best projects in Web3. Currently we are on our journey to onboard the next 1 million Developers to Web3 through Moralis.</p><p>For us to be able to reach that, continue delivering outstanding results, and grow at the desired pace, we are looking for a Senior Backend Engineer to work directly with our API team</p><p>Â </p><p><strong><strong>About the role ð©âð»ð¨âð»</strong></strong></p><p>As a Senior Backend Engineer in the API Team you will be working with on-chain data extraction and building data processing pipelines.</p><ul> <li>This is learning intensive job - you need to learn how to decode the relevant on-chain data emitted by different blockchain</li> <li>You need to learn how Moralis currently processes on-chain data and improve our current data pipeline</li> <li>When Moralis needs to implement new features you will need to learn new smart contract standards and understand how they emit data and implement new data pipelines</li> <li>Proactively look for ways to make the next iteration a bit better in regards to scalability, observability, tech debt and testability</li> </ul><p><strong><br></strong></p><p><strong>Moralis Culture</strong></p><p>If you want to learn about Moralis, our values and our ways of working - be sure to check out the <a href="https://academy.moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Onboarding course</a>. We highly value the cultural fit and the onboarding course explains exactly how we work and how we are as a team.</p><p><strong><strong>About you ðââï¸ðââï¸</strong></strong><br></p><ul> <li>You're able to contribute independently and self-manage your tasks and projects</li> <li>You're self-motivated and always go the extra mile to deliver extra value to Moralis thus inspiring the other team members</li> <li>You take the responsibility to quickly learn and follow Moralis coding style and guidelines.</li> <li>You understand and resonate with <a href="https://moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Values</a> </li> <li>You take responsibility for sustaining the code base by flagging technical debt, potential scalability issues and other ways the code base may improve.</li> <li>You keep up to date with industry standards and new innovations.</li> <li>You have a knack for leading others and guiding them</li> <li>You can churn out high level of code output <strong>DAILY</strong>.</li> <li>You can use Gitlab efficiently.</li> <li>Ready to collaborate and solve problems</li> </ul><p>Â </p><p><strong>Key Qualifications</strong></p><ul> <li>5+ years relevant backend experience<br> </li> <li>Excellent understanding of NodeJS, NestJS and Typescript stack</li> <li>Experience with Massive Real-Time Systems</li> <li>Experience working with Kafka, Ampq, GRPC, Open API, Avro, Redis and Docker</li> <li>Good knowledge of PostgreSQL, NoSQL, Golang and Kubernetes.</li> </ul><p><br></p><p>We truly appreciate the mindset of someone who always finds a way of improving existing work and strives to reach higher highs. In return, youâll get to work with a fun team (we love memes and gamingðð®), diverse (we have team members from 39 different countries all over the world! ð), dedicated and forward-looking people (for real). We have a fully remote-first culture, meaning Moralis is open for everyone who is interested in working in the Metaverse.<br></p><p>Want to take things further? Go on, send in your application & Let's Talk!</p><p>Â </p><p><em>Please ensure that all resumes and communication must be submitted in English</em></p><br/><br/>Please mention the word **SWIFT** and tag RMTguMjA4LjE3Ni4yMjI= when applying to show you read the job post completely (#RMTguMjA4LjE3Ni4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<li align="left">CI/CD pipelines (including QA flow)</li>
+<li align="left">AWS provisioning CI integration - Terraform, CD</li>
+</ul><br><h3><b>Compensation:</b></h3><br>Salary is negotiable based on previous experience and crypto-native exposure.<p></p><h3>Links:</h3><br><ul>
+<li align="left"><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Website</a></li>
+<li align="left"><a class="bbcode-link" href="https://app.streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">dApp</a></li>
+<li align="left"><a class="bbcode-link" href="https://twitter.com/streamflow_fi" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
+</ul><br><br/><br/>Please mention the word **SATISFACTORY** and tag RNTQuMjEwLjc0LjE1Mw== when applying to show you read the job post completely (#RNTQuMjEwLjc0LjE1Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -96,7 +74,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>92 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2" align="right" target="_blank">Apply</a>
@@ -168,7 +146,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
