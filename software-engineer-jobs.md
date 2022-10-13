@@ -1,5 +1,74 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/6617194ac80a1a0b96a11b66015453c11665558920.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Blockstream</h5>
+                    <h3>Lead Software Engineer Blockstream Mining</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,bitcoin,system,security,testing,test,financial,cloud,strategy,management,lead,operations,engineer,engineering,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-lead-software-engineer-blockstream-mining-blockstream-131901" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><span style="font-weight:400;"><a href="https://blockstream.com/" rel="noopener noreferrer nofollow">Blockstream</a> was founded in 2014 by <a href="https://en.wikipedia.org/wiki/Adam_Back" rel="noopener noreferrer nofollow">Dr. Adam Back</a> and a group of fellow cryptographers and engineers passionate about Bitcoin and its potential to change the future of finance. Focusing on building fundamental Bitcoin infrastructure, Blockstream quickly grew into one of the leading technology power houses of the industry.</span></p>
+<p><span style="font-weight:400;">At Blockstream, weâre building solutions on Bitcoin that will disrupt the existing financial system. We imagine a world where individuals and businesses can easily access a global, permissionless system to secure their money, use it every day, and invest it or put it to work. In pursuit of our expansive vision, weâve built a full stack of innovative products on top of the Bitcoin protocol, from layer 2 projects like Liquid and Core Lightning, to end user software and hardware wallets like Green and Jade. Our brand stands for innovation in the Bitcoin community, and weâre growing our team to accelerate the future. Come join us in our mission!</span></p>
+<p><span style="font-weight:400;">We are looking for a Lead Software Engineer to manage the development of our in house mining management platform. This role is focused on building backend infrastructure but will liaise with the frontend. As a Lead Software Engineer, you will be responsible for oversight and engineering planning of new, expanded, or enhanced platforms. This is a key hands-on role within our Mining Operations product engineering team with the opportunity to develop, deliver, and support innovative products in a quickly growing and exciting industry. We are looking for an engineer who is a âbig-pictureâ thinker who thrives on creating application architecture and solving challenging technical problems.</span></p>
+<p><strong>What Youâll Be Doing (Responsibilities):</strong></p>
+<ul>
+<li><span style="font-weight:400;">Own the software development life cycle which includes establishing the scope, business requirements, technology analysis, development best practices, and testing requirements</span></li>
+<li><span style="font-weight:400;">Design, develop, debug, integrate, deploy, and maintain applications that meet requirements and business objectives</span></li>
+<li><span style="font-weight:400;">Works with other functional areas to establish a design, technology, product development strategy and influence and drive decisions to meet development standards and launch within project timelines</span></li>
+<li><span style="font-weight:400;">Implement software engineering solutions to meet requirements, architectural direction, and adoption efforts</span></li>
+<li><span style="font-weight:400;">Determine root cause for the most complex software issues and develop practical, efficient, and permanent technical solutions.</span></li>
+<li><span style="font-weight:400;">Code (and responsible for teamâs code) and successfully perform unit and integration testing of software to ensure proper and efficient execution, as well as compliance to the business and technical requirements</span></li>
+<li><span style="font-weight:400;">Work in Node.js, MySQL, and Mongo with deep knowledge on basic algorithms and other Document and Key-Value data structures and ability to adopt new languages and architecture patterns needed for the work</span></li>
+<li><span style="font-weight:400;">Resolve problems that arise with production applications in a timely manner to ensure the efficient and proper functioning of application components</span></li>
+<li><span style="font-weight:400;">Migrate applications to quality assurance and/or the production environment, or perform quality assurance as necessary</span></li>
+<li><span style="font-weight:400;">Capable of coaching, leading, and communicating a vision for best practices, coding standards, automation, test driven and behavioral driven development</span></li>
+</ul>
+<p><em><strong>Our current stack:</strong></em></p>
+<ul>
+<li>
+<span style="font-weight:400;"> Â  </span><span style="font-weight:400;">Backend: Typescript, Websockets</span>
+</li>
+<li>
+<span style="font-weight:400;"> Â  </span><span style="font-weight:400;">Frontend: Typescript</span>
+</li>
+<li>
+<span style="font-weight:400;"> Â  </span><span style="font-weight:400;">Node.js</span>
+</li>
+<li>
+<span style="font-weight:400;"> Â  </span><span style="font-weight:400;">Google Cloud</span>
+</li>
+<li>
+<span style="font-weight:400;"> Â  </span><span style="font-weight:400;">Docker, Kubernetes</span>
+</li>
+</ul>
+<p><strong>What We Look For In You (Required Qualifications):</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Bachelorâs degree or higher in computer science, engineering, or related field or equivalent experience</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">10+ years of experience in product software design and development engineering</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">5+ years of experience acting in lead, supervisory, or mentor capacity</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience working in Google Cloud environments</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Solid understanding of SQL and Database Schema</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience leading multiple concurrent IT projects (e.g., capacity planning, application migrations, etc.)</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience in the full software development lifecycle and end-to-end testing</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Must be committed to incorporating security into all decisions and daily job responsibilities</span></li>
+</ul>
+<p><br></p><br/><br/>Please mention the word **FORTUNE** and tag RNTQuMjEwLjc0LjE1Mw== when applying to show you read the job post completely (#RNTQuMjEwLjc0LjE1Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/8e276fc77351ee765a2c52daabc3c4021665392403.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +79,7 @@
                     <code>python,software,engineer,e-commerce</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-python-tfglabs-130920" align="right" target="_blank">Apply</a>
@@ -26,7 +95,7 @@ At TFG Labs, youâll have a chance to have a far-reaching impact on the e-co
 We are rebuilding and modernising our e-commerce platform with the goal of delivering a customer experience that genuinely wows our customers.
 Youâll join an energetic, fast-paced team who loves a good challenge and has the latitude and autonomy to adopt modern technologies in pursuit of delivery and excellence. 
 
-<br/><br/>Please mention the word **COMPLEMENTARY** and tag RMTguMjA4LjE3Ni4yMjI= when applying to show you read the job post completely (#RMTguMjA4LjE3Ni4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **COMPLEMENTARY** and tag RNTQuMjEwLjc0LjE1Mw== when applying to show you read the job post completely (#RNTQuMjEwLjc0LjE1Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -41,7 +110,7 @@ Youâll join an energetic, fast-paced team who loves a good challenge and ha
                     <code>software,design,gaming,docker,code,typescript,node.js,api,senior,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-real-time-api-moralis-130879" align="right" target="_blank">Apply</a>
@@ -50,7 +119,7 @@ Youâll join an energetic, fast-paced team who loves a good challenge and ha
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>Itâs not everyday you can say you work for the futureâ¦</p><p> Unless you work at Moralis!Â ð<br></p><p> Moralis is looking for a <strong>Senior Software Engineer</strong>Â to join our fast-growing team. Weâre on a mission to make integrating blockchain as easy as 1-2-(Web)3 for developers all over the world.Â </p><p>You'll work with the most welcoming team in blockchain in a fully remote, fast-paced, and cutting-edge environment. Help us onboard the next 1 million developers into Web3!<br></p><p><strong>About the role</strong>Â <strong><strong>ð©âð»ð¨âð»</strong></strong><br>As a Senior Software Engineer, you'll have a key role in the Engineering team as a whole and work with our Real-Time API which is one of our most popular features with many exciting use-cases.Â What you'll do:<strong><strong></strong></strong></p><ul> <li>Improve the Real-Time API tech stack by improving and monitoring Webhook delivery rate, improving memory usage, and improving scheduling for paid customers</li> <li>Proactively plan and work on ways to improve the dev-experience of our customers</li> <li>Apply best design patterns in order to make the codebase readable, maintainable, and testable</li> <li>Refactor, optimize and enhance the codebase where needed proactively</li> <li>Test implementations thoroughly</li> <li>Write and maintain unit tests</li> <li>Integrate and improve CI</li> <li>Write flexible and modular code to make sure that the codebase is easy to scale</li> <li>Be a valued member of an autonomous, high-performance agile team<br> </li> </ul><p><strong>About you & Key Qualifications</strong>Â <strong><strong>ðââï¸ðââï¸</strong></strong><br></p><ul> <li>You are<strong> </strong>passionate about and live up toÂ engineering practices like clean code, continuous delivery, observability, and reliability</li> <li>You master Node.js and consider yourself to be an expert</li> <li>You enjoy working in TypeScript and know the best practices</li> <li>You are experienced and can work in Docker and Redis<br><strong><br>Other skills we're looking for:</strong> </li> <li>Kubernetes</li> <li>RabbitMQ</li> <li>GRPC<br> </li> <li>Datadog<br> </li> <li>Avro</li> <li>Postgres<strong><strong></strong></strong> </li> </ul><p><strong>A Match Made in Heaven?</strong><br>Weâre serious about our team, because we believe in people first above all. Hereâs what we need from you:</p><ul> <li>Always striving to improve processes</li> <li>Enjoy working collaboratively in a remote-first environment</li> <li>Comfortable setting your own priorities and goals in line with a wider mission</li> <li>Sharing your ideas and continuously improving yourself and the team around you</li> <li>Embrace leadership in every situation, whatever your role</li> </ul><p>If you are all of the aboveâ¦ you might just be our newest teammate ð¤«</p><p>And hereâs what you can expect from us:<br></p><ul> <li>A fun, inclusive team that loves memes and gaming (among other things!)ð®</li> <li>A truly diverse and global company with team members in 39 countriesÂ ð</li> <li>Dedicated and forward-thinking people (for real!)</li> <li>A remote-first culture</li> <li>Regular real-life and metaverse meetups</li> </ul><p><br>Web3 is the future, and weâre at the forefrontâ¦ Will you be joining us?Â Go ahead and apply, let's talk!</p><p><br>Curious what the Moralis culture is like and how we work? Feel free to check out ourÂ <a href="https://academy.moralis.io/mbs" rel="noopener noreferrer nofollow">onboarding course</a>Â â¨</p><br/><br/>Please mention the word **ADVANCED** and tag RMTguMjA4LjE3Ni4yMjI= when applying to show you read the job post completely (#RMTguMjA4LjE3Ni4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p>Itâs not everyday you can say you work for the futureâ¦</p><p> Unless you work at Moralis!Â ð<br></p><p> Moralis is looking for a <strong>Senior Software Engineer</strong>Â to join our fast-growing team. Weâre on a mission to make integrating blockchain as easy as 1-2-(Web)3 for developers all over the world.Â </p><p>You'll work with the most welcoming team in blockchain in a fully remote, fast-paced, and cutting-edge environment. Help us onboard the next 1 million developers into Web3!<br></p><p><strong>About the role</strong>Â <strong><strong>ð©âð»ð¨âð»</strong></strong><br>As a Senior Software Engineer, you'll have a key role in the Engineering team as a whole and work with our Real-Time API which is one of our most popular features with many exciting use-cases.Â What you'll do:<strong><strong></strong></strong></p><ul> <li>Improve the Real-Time API tech stack by improving and monitoring Webhook delivery rate, improving memory usage, and improving scheduling for paid customers</li> <li>Proactively plan and work on ways to improve the dev-experience of our customers</li> <li>Apply best design patterns in order to make the codebase readable, maintainable, and testable</li> <li>Refactor, optimize and enhance the codebase where needed proactively</li> <li>Test implementations thoroughly</li> <li>Write and maintain unit tests</li> <li>Integrate and improve CI</li> <li>Write flexible and modular code to make sure that the codebase is easy to scale</li> <li>Be a valued member of an autonomous, high-performance agile team<br> </li> </ul><p><strong>About you & Key Qualifications</strong>Â <strong><strong>ðââï¸ðââï¸</strong></strong><br></p><ul> <li>You are<strong> </strong>passionate about and live up toÂ engineering practices like clean code, continuous delivery, observability, and reliability</li> <li>You master Node.js and consider yourself to be an expert</li> <li>You enjoy working in TypeScript and know the best practices</li> <li>You are experienced and can work in Docker and Redis<br><strong><br>Other skills we're looking for:</strong> </li> <li>Kubernetes</li> <li>RabbitMQ</li> <li>GRPC<br> </li> <li>Datadog<br> </li> <li>Avro</li> <li>Postgres<strong><strong></strong></strong> </li> </ul><p><strong>A Match Made in Heaven?</strong><br>Weâre serious about our team, because we believe in people first above all. Hereâs what we need from you:</p><ul> <li>Always striving to improve processes</li> <li>Enjoy working collaboratively in a remote-first environment</li> <li>Comfortable setting your own priorities and goals in line with a wider mission</li> <li>Sharing your ideas and continuously improving yourself and the team around you</li> <li>Embrace leadership in every situation, whatever your role</li> </ul><p>If you are all of the aboveâ¦ you might just be our newest teammate ð¤«</p><p>And hereâs what you can expect from us:<br></p><ul> <li>A fun, inclusive team that loves memes and gaming (among other things!)ð®</li> <li>A truly diverse and global company with team members in 39 countriesÂ ð</li> <li>Dedicated and forward-thinking people (for real!)</li> <li>A remote-first culture</li> <li>Regular real-life and metaverse meetups</li> </ul><p><br>Web3 is the future, and weâre at the forefrontâ¦ Will you be joining us?Â Go ahead and apply, let's talk!</p><p><br>Curious what the Moralis culture is like and how we work? Feel free to check out ourÂ <a href="https://academy.moralis.io/mbs" rel="noopener noreferrer nofollow">onboarding course</a>Â â¨</p><br/><br/>Please mention the word **ADVANCED** and tag RNTQuMjEwLjc0LjE1Mw== when applying to show you read the job post completely (#RNTQuMjEwLjc0LjE1Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -65,7 +134,7 @@ Youâll join an energetic, fast-paced team who loves a good challenge and ha
                     <code>software,design,crypto,cryptocurrency,financial,api,leader,senior,reliability,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-polysign-129897" align="right" target="_blank">Apply</a>
@@ -112,7 +181,42 @@ Youâll join an energetic, fast-paced team who loves a good challenge and ha
 <li style="font-weight:400;"><span style="font-weight:400;">Worked in a zero ops model engineering team</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Strong passion for developing products that deliver a great customer experience</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Experience influencing software engineersâ best practices within your team</span></li>
-</ul><br/><br/>Please mention the word **LOVABLE** and tag RMTguMjA4LjE3Ni4yMjI= when applying to show you read the job post completely (#RMTguMjA4LjE3Ni4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **LOVABLE** and tag RNTQuMjEwLjc0LjE1Mw== when applying to show you read the job post completely (#RNTQuMjEwLjc0LjE1Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4287/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Stimulus</h5>
+                    <h3> Software engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/4287/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Amsterdam, NY
+    <br /><strong>URL:</strong> <a href="https://www.stimulus.com/">https://www.stimulus.com/</a>
+</p>
+
+<div><strong>About Stimulus</strong></div><div>
+<a href="https://www.stimulus.com/jobs/Stimulus.com">Stimulus</a> is a social platform started by Sticker Mule to show what's possible if your mission is to increase human happiness.</div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. A privately owned, low-stress culture.</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div><strong>We like you to know</strong></div><div>1. Docker</div><div>2. NextJS</div><div>3. React</div><div>4. NodeJS</div><div>5. GraphQL</div><div>6. Redis</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. Salary: $120k+ based on experience</div><div>2. $20,000 signing bonus</div><div>3. 4 weeks vacation + holidays based on your country of residence</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer">https://weworkremotely.com/remote-jobs/stimulus-software-engineer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -127,7 +231,7 @@ Youâll join an energetic, fast-paced team who loves a good challenge and ha
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>62 days ago</text>
+                <text>63 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python" align="right" target="_blank">Apply</a>
@@ -217,7 +321,7 @@ Youâll join an energetic, fast-paced team who loves a good challenge and ha
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>92 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
@@ -273,7 +377,7 @@ Youâll join an energetic, fast-paced team who loves a good challenge and ha
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -335,7 +439,7 @@ Youâll join an energetic, fast-paced team who loves a good challenge and ha
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
