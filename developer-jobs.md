@@ -10,7 +10,7 @@
                     <code>developer,students,education,leader,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-net-developer-symplicity-130407" align="right" target="_blank">Apply</a>
@@ -26,7 +26,7 @@ Symplicity is the market leader in employability solutions. We help companies fi
 We are Great Place To Work certified.
 
 Join our team!
-<br/><br/>Please mention the word **HELPING** and tag RNTQuMjEwLjc0LjE1Mw== when applying to show you read the job post completely (#RNTQuMjEwLjc0LjE1Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **HELPING** and tag RMzUuMTUzLjUyLjQ0 when applying to show you read the job post completely (#RMzUuMTUzLjUyLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -41,7 +41,7 @@ Join our team!
                     <code>developer,teacher,training,code,management,content,health,engineering,educational,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-advocate-meili-129939" align="right" target="_blank">Apply</a>
@@ -111,7 +111,7 @@ Why you'll enjoy working with us
 - Management training to freshly hired and newly appointed managers,
 - We all get together at least once a year for a company offsite.
 
-Meilisearch is an equal opportunity employer. We strive to develop an inclusive work environment that reflects the diversity of our open-source community.<br/><br/>Please mention the word **FINE** and tag RNTQuMjEwLjc0LjE1Mw== when applying to show you read the job post completely (#RNTQuMjEwLjc0LjE1Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+Meilisearch is an equal opportunity employer. We strive to develop an inclusive work environment that reflects the diversity of our open-source community.<br/><br/>Please mention the word **FINE** and tag RMzUuMTUzLjUyLjQ0 when applying to show you read the job post completely (#RMzUuMTUzLjUyLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -126,7 +126,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>developer,software,code,web,travel,cloud,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-developer-holochain-corenbspteam-holo-129903" align="right" target="_blank">Apply</a>
@@ -227,7 +227,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
 <p>Holo is an equal-opportunity employer, and we celebrate our diverse, creative, and collaborative team.</p>
 <p></p>
 <p><br><a rel="noopener noreferrer nofollow"><span>Apply Now!</span> <i></i></a></p>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/TPVo0pOB2yQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **JUBILATE** and tag RNTQuMjEwLjc0LjE1Mw== when applying to show you read the job post completely (#RNTQuMjEwLjc0LjE1Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/TPVo0pOB2yQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **JUBILATE** and tag RMzUuMTUzLjUyLjQ0 when applying to show you read the job post completely (#RMzUuMTUzLjUyLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -242,7 +242,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-react-native-mobile-developer-web3-remote-2" align="right" target="_blank">Apply</a>
@@ -312,7 +312,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bitstarz-casino-front-end-developer-central-european-time-zone-serbia-location-advantageous" align="right" target="_blank">Apply</a>
@@ -381,7 +381,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-unreal-engine-developer" align="right" target="_blank">Apply</a>
@@ -426,7 +426,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-senior-elixir-developer" align="right" target="_blank">Apply</a>
@@ -474,7 +474,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -538,6 +538,156 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1344662/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3>Senior React Native Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,react,growth,management</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your full-time freelance career as a top freelance developer with Toptal.</em></span></p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.</p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </span>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.</p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.</p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</p><ul class="ul1"><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span class="s1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>English language proficiency</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span class="s1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>3+ years of professional experience</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span class="s1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>Project management skills</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span class="s1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>A keen attention to detail</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span class="s1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>Experience with system architecture or leading a software team is a strong advantage</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span class="s1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"></span>Full-time availability is a strong advantage</li></ul><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Curious to know how much you could make? Check out our React Native developer rate calculator: <a href="https://topt.al/Pxcdm5" rel="nofollow">https://topt.al/Pxcdm5</a></p><br><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/WbcRKb" rel="nofollow"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">https://topt.al/WbcRKb</span></a></p>
+<img src="https://remotive.com/job/track/1344662/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1344661/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3>Senior Blockchain Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,blockchain,growth,management</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your full-time freelance career as a top freelance developer with Toptal.</em></span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.</p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </span>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.</p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.</p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</p><ul class="ul1"><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">English language proficiency</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">3+ years of professional experience</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Project management skills</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">A keen attention to detail</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Experience with system architecture or leading a software team is a strong advantage</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Full-time availability is a strong advantage</li></ul> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Curious to know how much you could make? Check out our Blockchain developer rate calculator: <a href="https://topt.al/GGca4Q" rel="nofollow">https://topt.al/GGca4Q</a></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form:<span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"> <a href="https://topt.al/52c6zr" rel="nofollow">https://topt.al/52c6zr</a></span></p>
+<img src="https://remotive.com/job/track/1344661/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1344660/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3>Senior React Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,react,growth,management</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your full-time freelance career as a top freelance developer with Toptal.</em></span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.</p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</span> Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.</p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.</p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</p><ul class="ul1"><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">English language proficiency</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">3+ years of professional experience</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Project management skills</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">A keen attention to detail</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Experience with system architecture or leading a software team is a strong advantage</li><li class="li1" style="margin: 0px; font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Full-time availability is a strong advantage</li></ul> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Curious to know how much you could make? Check out our React.js developer rate calculator: <a href="https://topt.al/A2cgNw" rel="nofollow">https://topt.al/A2cgNw</a></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/8Xcjw8" rel="nofollow"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">https://topt.al/8Xcjw8</span></a></p>
+<img src="https://remotive.com/job/track/1344660/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1344658/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3>Senior Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,go,node.js,rails</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your full-time freelance career as a top freelance developer with Toptal.</em></span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</span> Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</p><ul><li>English language proficiency</li><li>3+ years of professional experience in software development</li><li>Solid experience with <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">React.js, Ruby on Rails, Go</span> or/and <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Node.js</span> is a strong advantage</li><li>Project management skills</li><li>A keen attention to detail</li><li>Experience with system architecture or leading a software team is a strong advantage</li><li>Full-time availability is a strong advantage</li></ul> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Curious to know how much you could make? Check out our developer rate calculator: <a href="https://topt.al/jPc6x7" rel="nofollow">https://topt.al/jPc6x7</a></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/gncyw3" rel="nofollow"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">https://topt.al/gncyw3</span></a></p>
+<img src="https://remotive.com/job/track/1344658/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1344657/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3>Senior Unreal Engine Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,node.js,rails,ruby</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-unreal-engine-developer-1344657" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;"><span style="text-size-adjust: 100%;"><span style="color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em><span style="font-weight: 600;">Design your full-time freelance career as a top freelance developer with Toptal. </span></em></span></span></p> <p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. </p> <p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere.<span style="text-size-adjust: 100%;"> <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</span> </span>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. </p> <p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. </p> <p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</p><ul style="margin-top: 1em; margin-bottom: 1em; margin-left: 25px; padding-left: 0px; text-size-adjust: 100%; overflow-wrap: break-word;"><li style="margin: 5px 0px; text-size-adjust: 100%; list-style-type: square;">English language proficiency</li><li style="margin: 5px 0px; text-size-adjust: 100%; list-style-type: square;"><strong>3+ years </strong>of professional experience in software development</li><li style="margin: 5px 0px; text-size-adjust: 100%; list-style-type: square;">Strong experience with <strong>Unreal Engine 4</strong> or <strong>Unreal Engine 3</strong></li><li style="margin: 5px 0px; text-size-adjust: 100%; list-style-type: square;">Experience with <strong>system architecture</strong> or leading a software team is a strong advantage</li><li style="margin: 5px 0px; text-size-adjust: 100%; list-style-type: square;">Full-time availability is a strong advantage<br style="text-size-adjust: 100%;"><br></li></ul><p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;"><br style="text-size-adjust: 100%;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <strong><a href="https://topt.al/55cX2m" rel="nofollow">https://topt.al/55cX2m</a></strong></p>
+<img src="https://remotive.com/job/track/1344657/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1344656/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3>Senior Elixir Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,growth,management,design</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-elixir-developer-1344656" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your full-time freelance career as a top freelance developer with Toptal.</em></span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</span> Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">That’s why the world’s top 3% of developers choose Toptal. Elixir developers in our network share:</p><ul><li>English language proficiency</li><li>3+ years of professional experience in software development</li><li>Strong experience with <font color="#000000"><span style="letter-spacing: 0.75px;"><strong>Elixir</strong></span></font></li><li>Project management skills</li><li>A keen attention to detail</li><li>Experience with system architecture or leading a software team is a strong advantage</li><li>Full-time availability is a strong advantage</li></ul> <br> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <font color="#000000"><span style="letter-spacing: 0.75px;"><strong><a href="https://topt.al/vecGbR" rel="nofollow">https://topt.al/vecGbR</a></strong></span></font></p>
+<img src="https://remotive.com/job/track/1344656/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1422554/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -548,7 +698,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-developer-1422554" align="right" target="_blank">Apply</a>
@@ -627,7 +777,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -704,7 +854,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -781,7 +931,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -850,7 +1000,7 @@ Meilisearch is an equal opportunity employer. We strive to develop an inclusive 
                     <code>api,CSS,developer,docker</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/wordpress-developer-for-fast-growing-pet-company-1394324" align="right" target="_blank">Apply</a>
