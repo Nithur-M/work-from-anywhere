@@ -10,7 +10,7 @@
                     <code>ios,developer,design,bitcoin,ui,code,qa,finance,mobile,android,engineer,digital nomad,manager,system,assistant,leader,strategy,senior,marketing,health,healthcare,full-time,security,financial,fintech,c,sales,software,management,lead,training,cfo,adult,medical</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-clinical-product-manager-lyra-health-131524" align="right" target="_blank">Apply</a>
@@ -34,7 +34,7 @@ This position can be fully remote or hybrid (i.e., 2 days onsite at our Burlinga
 Lyra Health, Inc. works in partnership with Lyra Clinical Associates P.C. and other contracted affiliates to deliver clinical services. 
 
 
-We are an Equal Opportunity Employer. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, age (40 or older), disability,Â  genetic information or any other category protected by law.<br/><br/>Please mention the word **HANDSOME** and tag RNTQuMjEwLjc0LjE1Mw== when applying to show you read the job post completely (#RNTQuMjEwLjc0LjE1Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+We are an Equal Opportunity Employer. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, age (40 or older), disability,Â  genetic information or any other category protected by law.<br/><br/>Please mention the word **HANDSOME** and tag RMzUuMTUzLjUyLjQ0 when applying to show you read the job post completely (#RMzUuMTUzLjUyLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -49,7 +49,7 @@ We are an Equal Opportunity Employer. We do not discriminate on the basis of rac
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/fresh-clinics-product-manager" align="right" target="_blank">Apply</a>
@@ -107,89 +107,6 @@ We are an Equal Opportunity Employer. We do not discriminate on the basis of rac
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4683/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Close</h5>
-                    <h3> Sr. Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>40 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/close-sr-product-manager" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/4683/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> USA
-    <br /><strong>URL:</strong> <a href="http://www.close.com">http://www.close.com</a>
-</p>
-
-<div><strong>About Us</strong></div><div>At Close, we're building the sales communication and collaboration platform of the future. With our roots as the very first sales CRM to include built-in calling, we're leading the industry in sales automation—helping companies to close more deals, faster than ever.  Since our founding in 2013, we've grown to become a profitable, 100% globally distributed ~60 person team that is dedicated to building a product our customers love.</div><div> </div><div>Our Product team is currently made up of three Designers and two Product Managers. We're looking for our third Product Manager to help accelerate product development at Close from idea through launch. </div><div><br></div><div>
-<br><strong>About You</strong>
-</div><div>We’re looking for someone with a unique talent set - someone who understands sales and can “speak the language” with sales managers, reps, and directors. Someone who can synthesize various use cases into clear problem statements. Someone who cares deeply about product details, has a great sense of product aesthetics, and can discuss the nitty gritty with engineers. </div><div><br></div><div>As a small product, design, and engineering team you’ll be responsible for all aspects of delivering a feature -- from concept through project managing it’s delivery. You will do it all.<br><br><strong>What you’ll do...</strong>
-</div><ul>
-<li>Turn the vague into the concrete. Talk with customers to discover &amp; define their needs, understand their problems, and document their use cases. </li>
-<li>Write problem statements that clearly define shared needs across customers.</li>
-<li>Create detailed product specs from your problem statements through collaboration with Product Design and Engineering.</li>
-<li>Project manage the delivery of the feature -- get it on the engineering roadmap and ensure it’s delivered on time and up to the Product team’s standards. </li>
-<li>Prepare for launches: work with the Marketing team on positioning/collateral, manage beta testers, write FAQs, define adoption / usage metrics, measure success, and share learnings.</li>
-</ul><div>
-<br><strong>You should...</strong>
-</div><ul>
-<li><strong>Ideally be located in an Americas time zone </strong></li>
-<li>Have 2+ years of Product Management experience shipping B2B SaaS for SMBs.</li>
-<li>Have 2+ years experience at software/internet companies in a product, engineering, or customer-facing role.</li>
-<li>Love listening to customers and diving deep into their problems and needs.</li>
-<li>Be detail-oriented, organized, and great at writing.</li>
-<li>Have good product vision &amp; design sense. </li>
-<li>Be comfortable writing specs, drawing wireframes, &amp; rapidly iterating on new feature ideas.</li>
-<li>Have experience with metrics/analytics tools</li>
-<li>Be growth minded; pushing to ship Product that focuses on moving the needle.</li>
-</ul><div>
-<br><strong>Bonus points if you...</strong>
-</div><ul>
-<li>Have experience in sales or with sales tools / CRMs</li>
-<li>Have significant experience in Figma or other design/prototyping tools</li>
-<li>Have a technical/engineering background, not afraid to dabble in Python, HTML, CSS, or SQL.</li>
-</ul><div>
-<br><strong>Why Close? </strong>
-</div><ul>
-<li>
-<a href="https://www.youtube.com/watch?v=ZbyGnLhtj0o&amp;feature=youtu.be">Culture video</a> 💚</li>
-<li>100% remote company <em>(we believe in trust and autonomy)</em>
-</li>
-<li>Choose between working 5 days/wk (standard full-time) or 4 days/wk @ 80% pay</li>
-<li>
-<a href="https://www.youtube.com/watch?v=gKjyXMz-q-Q&amp;feature=youtu.be">Annual team retreats</a> ✈️</li>
-<li>Quarterly virtual summits</li>
-<li>5 weeks PTO + Winter Holiday Break</li>
-<li>2 additional PTO days every year with the company</li>
-<li>1 month paid sabbatical every 5 years</li>
-<li>Co-working stipend</li>
-<li>Paid parental leave</li>
-<li>Medical, Dental, Vision with HSA option (US residents)</li>
-<li>401k matching at 6% (US residents)</li>
-<li>Dependent care FSA (US residents)</li>
-<li>Contributor to <a href="https://stripe.com/climate">Stripe's climate</a> initiative 🌍❤️ </li>
-<li>
-<a href="https://close.io/about/">Our story and team</a> 🚀</li>
-</ul><div>At Close, everyone has a voice. We encourage transparency and practice a mature approach to the work-place. In general, we don’t have strict policies, we have guidelines. Work/Life harmony is an important part of our business - we believe you bring your best to work when you practice self-care (whatever that looks like for you).  </div><div><br></div><div>We come from 16 countries located in 5 of the 7 continents -- looking at you Antarctica and Australia ;-) ….. We’re a collection of talented humans rich in diverse backgrounds, lifestyles, and cultures. Every year we meet up somewhere around the world to spend time with one another. These gatherings are an opportunity to strengthen the social fiber of our global community.</div><div><br></div><div>Our team is growing in more ways than one - we’ve recently launched 17 babies (and counting!). Unanimously, our favorite and most impactful value is “Build a house you want to live in.” We strive to make decisions that are authentic for our people and help our customers become more successful. </div><div><br></div><div><em>Our application process was designed to promote equitable and unbiased hiring practices. We ask a small series of questions that are similar to what would be asked in the first interview. This helps us learn more about you right from the start so please be sure to answer each question thoughtfully. Each application will receive two screens by two different reviewers. Regardless of fit, you will hear back from us letting you know if we'll be moving forward.</em></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/close-sr-product-manager">https://weworkremotely.com/remote-jobs/close-sr-product-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -200,7 +117,7 @@ We are an Equal Opportunity Employer. We do not discriminate on the basis of rac
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>337 days ago</text>
+                <text>338 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
