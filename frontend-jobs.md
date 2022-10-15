@@ -10,7 +10,7 @@
                     <code>frontend,design,web3,crypto,react,software,growth,payroll,js,fintech,go,engineer,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-streamflow-131900" align="right" target="_blank">Apply</a>
@@ -46,7 +46,7 @@
 <li align="left"><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Website</a></li>
 <li align="left"><a class="bbcode-link" href="https://app.streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">dApp</a></li>
 <li align="left"><a class="bbcode-link" href="https://twitter.com/streamflow_fi" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
-</ul><br><br/><br/>Please mention the word **AMICABILITY** and tag RMzUuMTUzLjUyLjQ0 when applying to show you read the job post completely (#RMzUuMTUzLjUyLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br><br/><br/>Please mention the word **AMICABILITY** and tag RMTguMjA1LjI5Ljk= when applying to show you read the job post completely (#RMTguMjA1LjI5Ljk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -61,7 +61,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>93 days ago</text>
+                <text>94 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-frontend" align="right" target="_blank">Apply</a>
@@ -129,7 +129,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
