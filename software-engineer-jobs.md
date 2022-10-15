@@ -10,7 +10,7 @@
                     <code>software,design,bitcoin,system,security,testing,test,financial,cloud,strategy,management,lead,operations,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-lead-software-engineer-blockstream-mining-blockstream-131901" align="right" target="_blank">Apply</a>
@@ -64,7 +64,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Experience in the full software development lifecycle and end-to-end testing</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Must be committed to incorporating security into all decisions and daily job responsibilities</span></li>
 </ul>
-<p><br></p><br/><br/>Please mention the word **FORTUNE** and tag RMzUuMTUzLjUyLjQ0 when applying to show you read the job post completely (#RMzUuMTUzLjUyLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><br></p><br/><br/>Please mention the word **FORTUNE** and tag RMTguMjA1LjI5Ljk= when applying to show you read the job post completely (#RMTguMjA1LjI5Ljk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -79,7 +79,7 @@
                     <code>python,software,engineer,e-commerce</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-python-tfglabs-130920" align="right" target="_blank">Apply</a>
@@ -95,190 +95,101 @@ At TFG Labs, youâll have a chance to have a far-reaching impact on the e-co
 We are rebuilding and modernising our e-commerce platform with the goal of delivering a customer experience that genuinely wows our customers.
 Youâll join an energetic, fast-paced team who loves a good challenge and has the latitude and autonomy to adopt modern technologies in pursuit of delivery and excellence. 
 
-<br/><br/>Please mention the word **COMPLEMENTARY** and tag RMzUuMTUzLjUyLjQ0 when applying to show you read the job post completely (#RMzUuMTUzLjUyLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **COMPLEMENTARY** and tag RMTguMjA1LjI5Ljk= when applying to show you read the job post completely (#RMTguMjA1LjI5Ljk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/15463436c3a22d57be3bb73e63ae25481665386113.peg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4605/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Moralis</h5>
-                    <h3>Senior Software Engineer Real Time API</h3>
-                </td>
-                <td width="300">
-                    <code>software,design,gaming,docker,code,typescript,node.js,api,senior,engineer,engineering,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-real-time-api-moralis-130879" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Itâs not everyday you can say you work for the futureâ¦</p><p> Unless you work at Moralis!Â ð<br></p><p> Moralis is looking for a <strong>Senior Software Engineer</strong>Â to join our fast-growing team. Weâre on a mission to make integrating blockchain as easy as 1-2-(Web)3 for developers all over the world.Â </p><p>You'll work with the most welcoming team in blockchain in a fully remote, fast-paced, and cutting-edge environment. Help us onboard the next 1 million developers into Web3!<br></p><p><strong>About the role</strong>Â <strong><strong>ð©âð»ð¨âð»</strong></strong><br>As a Senior Software Engineer, you'll have a key role in the Engineering team as a whole and work with our Real-Time API which is one of our most popular features with many exciting use-cases.Â What you'll do:<strong><strong></strong></strong></p><ul> <li>Improve the Real-Time API tech stack by improving and monitoring Webhook delivery rate, improving memory usage, and improving scheduling for paid customers</li> <li>Proactively plan and work on ways to improve the dev-experience of our customers</li> <li>Apply best design patterns in order to make the codebase readable, maintainable, and testable</li> <li>Refactor, optimize and enhance the codebase where needed proactively</li> <li>Test implementations thoroughly</li> <li>Write and maintain unit tests</li> <li>Integrate and improve CI</li> <li>Write flexible and modular code to make sure that the codebase is easy to scale</li> <li>Be a valued member of an autonomous, high-performance agile team<br> </li> </ul><p><strong>About you & Key Qualifications</strong>Â <strong><strong>ðââï¸ðââï¸</strong></strong><br></p><ul> <li>You are<strong> </strong>passionate about and live up toÂ engineering practices like clean code, continuous delivery, observability, and reliability</li> <li>You master Node.js and consider yourself to be an expert</li> <li>You enjoy working in TypeScript and know the best practices</li> <li>You are experienced and can work in Docker and Redis<br><strong><br>Other skills we're looking for:</strong> </li> <li>Kubernetes</li> <li>RabbitMQ</li> <li>GRPC<br> </li> <li>Datadog<br> </li> <li>Avro</li> <li>Postgres<strong><strong></strong></strong> </li> </ul><p><strong>A Match Made in Heaven?</strong><br>Weâre serious about our team, because we believe in people first above all. Hereâs what we need from you:</p><ul> <li>Always striving to improve processes</li> <li>Enjoy working collaboratively in a remote-first environment</li> <li>Comfortable setting your own priorities and goals in line with a wider mission</li> <li>Sharing your ideas and continuously improving yourself and the team around you</li> <li>Embrace leadership in every situation, whatever your role</li> </ul><p>If you are all of the aboveâ¦ you might just be our newest teammate ð¤«</p><p>And hereâs what you can expect from us:<br></p><ul> <li>A fun, inclusive team that loves memes and gaming (among other things!)ð®</li> <li>A truly diverse and global company with team members in 39 countriesÂ ð</li> <li>Dedicated and forward-thinking people (for real!)</li> <li>A remote-first culture</li> <li>Regular real-life and metaverse meetups</li> </ul><p><br>Web3 is the future, and weâre at the forefrontâ¦ Will you be joining us?Â Go ahead and apply, let's talk!</p><p><br>Curious what the Moralis culture is like and how we work? Feel free to check out ourÂ <a href="https://academy.moralis.io/mbs" rel="noopener noreferrer nofollow">onboarding course</a>Â â¨</p><br/><br/>Please mention the word **ADVANCED** and tag RMzUuMTUzLjUyLjQ0 when applying to show you read the job post completely (#RMzUuMTUzLjUyLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SystemOne, LLC</h5>
-                    <h3> NodeJS and Python Software Engineer (REMOTE)</h3>
+                    <h5>Prognos Health</h5>
+                    <h3> Senior Software Engineer II, Data</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/systemone-llc-nodejs-and-python-software-engineer-remote" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/prognos-health-senior-software-engineer-ii-data" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0064/4605/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Northampton, Massachusetts, USA
-    <br /><strong>URL:</strong> <a href="https://systemone.id/">https://systemone.id/</a>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="http://www.prognoshealth.com">http://www.prognoshealth.com</a>
 </p>
 
 <div>
-<strong>SystemOne is searching for a software developer to build &amp; maintain new and existing client <br>applications built using Python &amp; Node.js targeting Raspberry Pi.<br> <br>As an Applicant You are Expected to Have:</strong> <br>● At least two years of professional software development experience building, deploying, and maintaining Python applications. <br>● At least two years of professional software development experience building, deploying, and maintaining Node.js applications. <br>● Proficiency with HTTP client libraries, TLS &amp; SQLite. <br>● Some experience working with serial comm devices from a linux platform . <br>● Ability to work &amp; communicate with the team in English. <br>● Experience building deb packages for distribution &amp; installation of software on remote linux computers. <br>● Experience in setting up the infrastructure required to publish over-the-air updates to debian applications. <br>● Experience using Git for source code control. <br>● Experience writing unit tests in JavaScript &amp; Python. <br>● Familiar with debugging tools and methods.<br> <br><strong>Responsibilities:</strong> <br>● Design client side applications that are targeted at Raspberry Pi devices. <br>● Deploy updates and installation packages for applications running on Raspberry Pi devices. <br>● Troubleshoot installation and runtime issues that are reported from remote locations. <br>● Optimise HTTPs requests made from Raspberry Pi applications. <br>● Build data upload workflows that are tolerant to partitions in the network. <br>● Collect error and crash logs from a fleet of remote devices and monitor overall fleet health. <br>● Make strategic technical decisions that cater for system flexibility through safe updates and configuration changes. <br>● Write unit tests that integrate into deployment pipelines. <br>● Collaborate with an excellent team of engineers to produce high quality, performant &amp; secure information exchange back-ends for healthcare initiatives. <br>● Document APIs and expected system behaviour.</div>
+<strong><em>This role will be based remotely in the continental United States <br></em></strong><br>
+</div><div><br></div><div>
+<strong>Summary:<br></strong><br>
+</div><div>Prognos’ is a NYC-based healthcare startup whose mission is to improve health by driving the best actions learned from the world's data. In order to achieve this goal we have curated the world’s largest clinical lab dataset, covering over 200M patients in the US, and are currently deploying cutting-edge technology for predicting disease at the earliest possible time.<br><br>We are looking for an experienced software developer with lots of data experience to join the team and help ensure we are delivering data centric products with high quality.<br><br>
+</div><div>Are you interested in using complex large data and cutting edge technologies to improve health? Care to work on leading data technology? Then come work with us!<br><br>
+</div><div> <br><br>
+</div><div>
+<strong>Who you are:<br></strong><br>
+</div><div>Professional with 5+ years of software development and data management experience. Have led teams before or have a strong desire to do so in the future. Worked on multiple applications at multiple companies. Experience with complex data, process improvement, and system architecture. Able to mentor junior developers within an organization. Remote work experience. The ability to grasp the vision and convert it to action. Outcomes focused.<br><br>
+</div><div> <br><br>
+</div><div>
+<strong>Job Responsibilities:<br></strong><br>
+</div><ul>
+<li>Develop high quality software and systems that manage, enrich and enable the usage of high value medical data.</li>
+<li>​​Code reviews.</li>
+<li>Help teach the team about the stuff you know that we don't.</li>
+<li>Learn and incorporate new technologies and keep up with best practices.</li>
+<li>Mentor other developers.</li>
+</ul><div>
+<br><strong>Education, Experience, Skills:<br></strong><br>
+</div><ul>
+<li>&gt; 5 years of software development experience.</li>
+<li>Strong preference for experience with Golang, Scala, SQL, Spark and Terraform.</li>
+<li>Top-notch communication and problem-solving skills.</li>
+<li>Experience with cloud infrastructure like AWS, Azure, or Google Cloud.</li>
+<li>Experience with server-less, service oriented and distributed architectures.</li>
+<li>Experience with distributed computing systems (Spark, Hadoop) </li>
+<li>Experience with the tools available to work with Big Data.</li>
+<li>Deep understanding of relational databases.</li>
+<li>Experience in the medical data field and the compliance that entails.</li>
+<li>You like to own the full stack.</li>
+<li>Familiar with agile practices, lean management and devops techniques.<br> </li>
+</ul><div>
+<br><strong>Values &amp; Culture:<br></strong><br>
+</div><ul>
+<li>We are collaborative. We put team trust and energy ahead of individual stardom. We are humble and willing to admit when wrong.</li>
+<li>We go above and beyond.  We exceed the needs of our partners and are not limited by our job descriptions. We are accountable for our actions, work, decisions, and results.</li>
+<li>We are purposeful in all that we do. We focus on what matters and prioritize.  We think in perspective and see the full picture.</li>
+<li>We are curious. We learn from solving big problems.  We are never satisfied and always strive for a better way. We aim to continually develop ourselves.</li>
+<li>We are courageous and honest.  We are not afraid to speak out. We challenge the process.  We deal with conflict head on.</li>
+<li>We are enthusiastic. We are optimistic for change and a better future. We believe in the greater good. We celebrate accomplishments and have fun.</li>
+</ul><div>
+<br><br><strong>Our Mission:</strong><br><br>To improve health outcomes by accelerating real world data access and insights<br><br><strong>Our Vision:</strong><br><br>To prevail over disease <br><br><strong>Selected Perks:<br></strong><br>
+</div><ul>
+<li>Flexible work arrangements (e.g. no set hours), fully remote work, and unlimited PTO</li>
+<li>Health Insurance</li>
+<li>Life Insurance</li>
+<li>Long Term Disability</li>
+<li>Dental</li>
+<li>Vision</li>
+<li>401(k)</li>
+<li>HSA</li>
+<li>FSA</li>
+<li>Dependent Care Flexible Spending</li>
+<li>Commuter benefits</li>
+<li>Free access to One Medical Group</li>
+<li>Gym discounts</li>
+<li>Flexible work hours and locations</li>
+<li>Health Advocate</li>
+<li>Employee Stock Option Plan</li>
+</ul><div><br></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/systemone-llc-nodejs-and-python-software-engineer-remote">https://weworkremotely.com/remote-jobs/systemone-llc-nodejs-and-python-software-engineer-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4287/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Stimulus</h5>
-                    <h3> Software engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4287/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Amsterdam, NY
-    <br /><strong>URL:</strong> <a href="https://www.stimulus.com/">https://www.stimulus.com/</a>
-</p>
-
-<div><strong>About Stimulus</strong></div><div>
-<a href="https://www.stimulus.com/jobs/Stimulus.com">Stimulus</a> is a social platform started by Sticker Mule to show what's possible if your mission is to increase human happiness.</div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. A privately owned, low-stress culture.</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div><strong>We like you to know</strong></div><div>1. Docker</div><div>2. NextJS</div><div>3. React</div><div>4. NodeJS</div><div>5. GraphQL</div><div>6. Redis</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. Salary: $120k+ based on experience</div><div>2. $20,000 signing bonus</div><div>3. 4 weeks vacation + holidays based on your country of residence</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer">https://weworkremotely.com/remote-jobs/stimulus-software-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4854/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>AssemblyAI (YC 17)</h5>
-                    <h3> Senior Software Engineer, Python</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>64 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4854/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> United States
-    <br /><strong>URL:</strong> <a href="https://www.assemblyai.com/">https://www.assemblyai.com/</a>
-</p>
-
-<div>We're looking for a senior backend engineer with strong software and cloud engineering skills. You'll help us build highly scalable developer-centric APIs and backend systems powered by state-of-the-art ML models. Some of your responsibilities will include:</div><ul>
-<li>Build new API features and endpoints</li>
-<li>Build automated test suites and CI/CD pipelines</li>
-<li>Build highly scalable event-driven and realtime systems</li>
-<li>Instrument systems with metrics, tracing, and logging </li>
-<li>Refactor applications to eliminate tech debt</li>
-<li>Troubleshoot production issues</li>
-</ul><h1><strong>You'll love this job if you....</strong></h1><ul>
-<li>Enjoy solving complex technical problems, even when there is no perfect solution.</li>
-<li>Enjoy being in a fast-paced, customer-facing role.</li>
-<li>Thrive in small, cross-functional teams. We like to wear many hats here!</li>
-<li>You're excited to tackle big technical challenges like building highly scalable architectures and achieving zero-downtime deploys.</li>
-</ul><h1><strong>Requirements</strong></h1><ul>
-<li>6+ years of professional experience building backend applications using any popular language such as Python, Java, C#, JavaScript, Go, C/C++</li>
-<li>4+ years of working with SQL and NoSQL databases</li>
-<li>3+ years of production support experience</li>
-<li>3+ years working with common AWS services</li>
-<li>3+ years developing REST APIs</li>
-<li>3+ years of experience working with Python</li>
-<li>3+ working with Python backend frameworks like Django, Flask, or Tornado</li>
-<li>Experience migrating systems to meet increasing traffic/scale</li>
-<li>
-<strong>Startup or FAANG-type experience </strong>- Has worked at a startup or high growth company</li>
-<li>
-<strong>Deep AWS knowledge </strong>- Has many years of experience solutioning within AWS</li>
-<li>
-<strong>Strong Python coding abilities </strong>- Can pass difficult programming challenges in a relatively short period of time. Can speak clearly about their thinking throughout these challenges. Can speak to O-notation of algorithms. Has excellent knowledge of common python idioms and libraries.</li>
-<li>
-<strong>High scalability experience</strong> - Has been a tech leader on scaling systems to hundreds of millions of requests/events per day. Has experience with hyper-observability, scaling algorithms, and using production data to drive system changes</li>
-</ul><h1><strong>Skills</strong></h1><ul>
-<li>
-<strong>Amazing system design chops </strong>- When given a hard problem to solve with a new system, they can quickly shape an effective design and communicate its strengths, weaknesses, and tradeoffs.</li>
-<li>
-<strong>High-octane thinking</strong> - Engages deeply on subjects of expertise. Thinks ahead many steps and can see where decisions are likely to lead. Their brains compute at a very high level.</li>
-<li>
-<strong>Extremely creative </strong>- Can find both novel and effective solutions within highly constrained time and resources</li>
-<li>
-<strong>Fast learner</strong> - Has shown they can ramp up on difficult topics very fast</li>
-<li>
-<strong>Exceptional gut instincts </strong>- Can practically feel when something is right or wrong. Can use these instincts to quickly point themselves in the right direction.</li>
-<li>
-<strong>Opinionated</strong> - They have convictions in what they believe and can communicate their position clearly without drama.</li>
-</ul><h1><strong>Nice to Have</strong></h1><ul>
-<li>Machine learning experience - Has worked with machine learning models at scale</li>
-<li>Experience integrating and deploying ML models into production</li>
-</ul><h1><strong>Benefits (US)</strong></h1><ul>
-<li>Competitive Salary + Bonus</li>
-<li>Equity</li>
-<li>401k</li>
-<li>100% Remote team</li>
-<li>Unlimited PTO</li>
-<li>Premium Healthcare (100% Covered for you + dependents)</li>
-<li>Vision &amp; Dental Care</li>
-<li>$1K budget for your home office setup</li>
-<li>New Macbook Pro (or PC if you prefer)</li>
-<li>2x/year company paid team retreat</li>
-</ul><h1>Salary Range (Global): $125,000 - $200,000</h1>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python">https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/prognos-health-senior-software-engineer-ii-data">https://weworkremotely.com/remote-jobs/prognos-health-senior-software-engineer-ii-data</a></p>
 
                 </details>
                 </td>
@@ -294,7 +205,7 @@ Youâll join an energetic, fast-paced team who loves a good challenge and ha
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>93 days ago</text>
+                <text>94 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
@@ -350,7 +261,7 @@ Youâll join an energetic, fast-paced team who loves a good challenge and ha
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -412,7 +323,7 @@ Youâll join an energetic, fast-paced team who loves a good challenge and ha
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
