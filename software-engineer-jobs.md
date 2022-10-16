@@ -10,7 +10,7 @@
                     <code>software,design,bitcoin,system,security,testing,test,financial,cloud,strategy,management,lead,operations,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-lead-software-engineer-blockstream-mining-blockstream-131901" align="right" target="_blank">Apply</a>
@@ -64,38 +64,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Experience in the full software development lifecycle and end-to-end testing</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Must be committed to incorporating security into all decisions and daily job responsibilities</span></li>
 </ul>
-<p><br></p><br/><br/>Please mention the word **FORTUNE** and tag RMTguMjA1LjI5Ljk= when applying to show you read the job post completely (#RMTguMjA1LjI5Ljk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/8e276fc77351ee765a2c52daabc3c4021665392403.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TFGLabs</h5>
-                    <h3>Software Engineer Python</h3>
-                </td>
-                <td width="300">
-                    <code>python,software,engineer,e-commerce</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-python-tfglabs-130920" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                ð More about the mission youâll take on:Â 
-
-At TFG Labs, youâll have a chance to have a far-reaching impact on the e-commerce journey of millions of South Africans who use our platform daily.Â 
-
-We are rebuilding and modernising our e-commerce platform with the goal of delivering a customer experience that genuinely wows our customers.
-Youâll join an energetic, fast-paced team who loves a good challenge and has the latitude and autonomy to adopt modern technologies in pursuit of delivery and excellence. 
-
-<br/><br/>Please mention the word **COMPLEMENTARY** and tag RMTguMjA1LjI5Ljk= when applying to show you read the job post completely (#RMTguMjA1LjI5Ljk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><br></p><br/><br/>Please mention the word **FORTUNE** and tag RMzUuMTczLjIwMi4w when applying to show you read the job post completely (#RMzUuMTczLjIwMi4w). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -110,7 +79,7 @@ Youâll join an energetic, fast-paced team who loves a good challenge and ha
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/prognos-health-senior-software-engineer-ii-data" align="right" target="_blank">Apply</a>
@@ -205,7 +174,7 @@ Youâll join an energetic, fast-paced team who loves a good challenge and ha
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>94 days ago</text>
+                <text>95 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
@@ -251,6 +220,61 @@ Youâll join an energetic, fast-paced team who loves a good challenge and ha
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1421492/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Firebolt</h5>
+                    <h3>Software Engineer, DevEx</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,C++,cloud,developer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-devex-1421492" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h1">Description</div>
+<p><strong>About Firebolt</strong></p>
+<p>Firebolt is a disruptor in the data &amp; analytics space. Based on technology that delivers an order-of-magnitude performance leap in TB-scale analytics, Firebolt helps the most data-forward companies create a new wave of data &amp; analytics experiences for end-users. With a team of world-class data experts, led by leadership veterans from Looker, Google BigQuery, Imply and Sisense, and backed by $264M in funding - we are growing quickly and are poised to build the data platform of the future, and set a new bar for what can be done with data.</p>
+<p><strong>About the team</strong></p>
+<p>DevEx at Firebolt is a small, distributed team of engineers focused on helping software engineers, infrastructure engineers and support engineers to focus on their respective jobs without worrying about unnecessary toil.</p>
+<p><strong>About the role</strong></p>
+<ul>
+<li>Design, build and maintain the development/sandbox infrastructure framework for Firebolt’s cutting edge cloud database solution, services and deployment infrastructure.</li>
+<li>Providing R&amp;D department debugging/analytical tools to maintain solution quality.</li>
+<li>Create a resource orchestrator for developers/data engineers to easily run performance and accuracy tests against various environments </li>
+<li>Continuous improvements to the testing infrastructure to ensure the best possible developer experience at an optimized cost</li>
+</ul>
+<div class="h1">Requirements</div>
+<ul>
+<li>Hands-on experience as a Software Engineer, DevOps engineer, Infrastructure Developer or Automation Engineer</li>
+<li>Strong Python programming experience  </li>
+<li>Strong scripting skills with Shell / Bash / Makefiles</li>
+<li>Experience building AWS infrastructure for distributed systems</li>
+<li>Experience developing in Linux</li>
+<li>Production experience with Kubernetes </li>
+<li>Experience with Pytest, Nose or any other automation framework internals</li>
+<li>Tech stack: Python, Linux, K8s, Docker, AWS</li>
+</ul>
+<p><strong>A big bonus if you have</strong></p>
+<ul>
+<li>Experience with Bazel</li>
+<li>Experience with C++</li>
+<li>Experience with networking, storage, virtualization management</li>
+<li>Experience developing infrastructure for database products </li>
+<li>Experience leading or managing a team</li>
+</ul>
+<img src="https://remotive.com/job/track/1421492/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -261,7 +285,7 @@ Youâll join an energetic, fast-paced team who loves a good challenge and ha
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -323,7 +347,7 @@ Youâll join an energetic, fast-paced team who loves a good challenge and ha
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
