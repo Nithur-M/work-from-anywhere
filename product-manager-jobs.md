@@ -10,7 +10,7 @@
                     <code>ios,developer,design,bitcoin,ui,code,qa,finance,mobile,android,engineer,digital nomad,manager,system,assistant,leader,strategy,senior,marketing,health,healthcare,full-time,security,financial,fintech,c,sales,software,management,lead,training,cfo,adult,medical</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-clinical-product-manager-lyra-health-131524" align="right" target="_blank">Apply</a>
@@ -34,7 +34,7 @@ This position can be fully remote or hybrid (i.e., 2 days onsite at our Burlinga
 Lyra Health, Inc. works in partnership with Lyra Clinical Associates P.C. and other contracted affiliates to deliver clinical services. 
 
 
-We are an Equal Opportunity Employer. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, age (40 or older), disability,Â  genetic information or any other category protected by law.<br/><br/>Please mention the word **HANDSOME** and tag RMTguMjA1LjI5Ljk= when applying to show you read the job post completely (#RMTguMjA1LjI5Ljk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+We are an Equal Opportunity Employer. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, age (40 or older), disability,Â  genetic information or any other category protected by law.<br/><br/>Please mention the word **HANDSOME** and tag RMzUuMTczLjIwMi4w when applying to show you read the job post completely (#RMzUuMTczLjIwMi4w). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
