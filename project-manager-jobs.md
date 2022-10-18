@@ -10,7 +10,7 @@
                     <code>software,manager,travel,scrum,voice,management,lead,engineering,part-time</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-project-manager-gigster-hq-131684" align="right" target="_blank">Apply</a>
@@ -32,12 +32,12 @@ Gigster is powering the worldâs engineering. We provide companies of all si
 We are changing the way software is built by empowering independent experts with smarter tools. Gigster takes pride in having an extraordinary global network of developers, designers, and project managers. Increasing levels of standardization in tooling and access to better data about the development process make the creation of custom software ripe for automation and scale, and Gigster will continue to deliver on that need in the marketplace.
 Â 
 We are an equal opportunity employer and value diversity, equity, and inclusion. We believe that the best ideas come from diverse teams, and diverse teams are built intentionally. We want the best people from all around the world and are committed to creating an environment where people are empowered to give voice to their great ideas.
-<br/><br/>Please mention the word **HANDY** and tag RMy44NS4xMzkuNg== when applying to show you read the job post completely (#RMy44NS4xMzkuNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **HANDY** and tag RNTIuOTEuOTAuMjQ4 when applying to show you read the job post completely (#RNTIuOTEuOTAuMjQ4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8108/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8318/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Photobooth Supply Co</h5>
@@ -47,7 +47,7 @@ We are an equal opportunity employer and value diversity, equity, and inclusion.
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/photobooth-supply-co-customer-facing-project-manager" align="right" target="_blank">Apply</a>
@@ -56,14 +56,14 @@ We are an equal opportunity employer and value diversity, equity, and inclusion.
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8108/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8318/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
   <strong>Headquarters:</strong> Santa Ana, California, United States
     <br /><strong>URL:</strong> <a href="http://www.photoboothsupplyco.com">http://www.photoboothsupplyco.com</a>
 </p>
 
-<p>Do you thrive in organizing complicated projects? Does working with cutting edge technology sound like you're kinda Monday? ☕️  Oh boy, do we have the job for you. Bonus points if you also have a fascination for how the Events Industry works behind the scenes!</p>
+<p>Do you thrive in organizing complicated projects? Does working with cutting edge technology sound like your kinda Monday? ☕️  Oh boy, do we have a job for you. Bonus points if you also have a fascination for how the Events Industry works behind the scenes!</p>
 <p>We at <a href="https://photoboothsupplyco.com/" class="external">Photobooth Supply Co</a> are searching for an organized and motivated Customer Facing Project Manager to work with various customer facing teams within our company. Our ideal candidate has prior experience in project management and product launches, experience working with customer facing teams, and is comfortable with a fully remote team - spread throughout the world!</p>
 <p>You would be coordinating everything required to advertise, support, and educate our clients on our new products. 🤩</p>
 <p><br></p>
@@ -102,7 +102,7 @@ We are an equal opportunity employer and value diversity, equity, and inclusion.
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/yoko-co-digital-project-manager-2" align="right" target="_blank">Apply</a>
