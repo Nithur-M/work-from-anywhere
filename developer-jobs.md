@@ -10,7 +10,7 @@
                     <code>training,trainer,management,healthcare,salesforce,developer,design,system,security,web,api,lead,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-salesforce-lead-developer-openlogix-corporation-133629" align="right" target="_blank">Apply</a>
@@ -54,7 +54,117 @@ Experience in design and development of enterprise systems.
 Execution experience in the Agile delivery model.
 Experience in working with various project stakeholder at various levels in a matrix organization
 
-<br/><br/>Please mention the word **GAIN** and tag RMy44NS4xMzkuNg== when applying to show you read the job post completely (#RMy44NS4xMzkuNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **GAIN** and tag RNTIuOTEuOTAuMjQ4 when applying to show you read the job post completely (#RNTIuOTEuOTAuMjQ4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7016/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bottomless</h5>
+                    <h3> Senior Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7016/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Seattle, Wa
+    <br /><strong>URL:</strong> <a href="https://www.bottomless.com/">https://www.bottomless.com/</a>
+</p>
+
+<div>We are a fast-growing startup with a product used by thousands of consumers every day.<br><br>We are looking for a jack-of-all-trades <strong><em>senior</em></strong> javascript/full stack developer.<br><br>The ideal candidate for this position would be able to dive into any kind of project, from frontend UI/UX tasks in React.js to backend tasks running on Node.js.<br><br>If you’re interested in variety and working hard to build something big, this might be a good fit.<br><br>We need to achieve <em>80% of the results with 20% of the effort</em>.<br><br><strong>Responsibilities:</strong>
+</div><ul>
+<li>Design and build infrastructure and products for a sensor-enabled e-commerce marketplace.</li>
+<li>Build robust infrastructure to support existing product lines and the ability to roll out new ones.</li>
+<li>Responsibility over the user-facing product</li>
+<li>Quick iteration on different fronts from fronted UX changes to database design to quick and dirty implementations.</li>
+<li>Responsible for full deployment and testing of applications.</li>
+</ul><div><br></div><div><strong>Skill, Qualifications, and Experience:</strong></div><div><br></div><div><em>Expert proficiency required:</em></div><ul>
+<li>Node.js</li>
+<li>NoSQL databases</li>
+<li>React.js</li>
+<li>English (written and verbal)</li>
+</ul><div><br></div><div><em>Intermediate proficiency, at a minimum:</em></div><ul>
+<li>UI/UX design</li>
+<li>Software architecture</li>
+</ul><div>
+<br>Not required, but a plus:</div><ul>
+<li>Python (background tasks)</li>
+<li>Embedded systems (C++)</li>
+</ul><div> <br><strong>Details:</strong>
+</div><ul>
+<li>Remote OK. Must be flexible with hours as we have a remote international team.</li>
+<li>Competitive equity and cash compensation</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-3">https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-3</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/9815/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>IVPN</h5>
+                    <h3> Backend Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/ivpn-backend-developer-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0066/9815/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Gibraltar
+    <br /><strong>URL:</strong> <a href="https://www.ivpn.net">https://www.ivpn.net</a>
+</p>
+
+<div>We are seeking a backend developer to develop and maintain our backend infrastructure. In this role, you will use your skills to build reliable, secure and scalable backend infrastructure for our VPN service. You should have expertise in Golang and PHP, be able to collaborate with team members, and be a pragmatic problem-solver. <strong><br></strong><br>
+</div><h1><strong>Responsibilities</strong></h1><ul>
+<li>Develop well designed, secure, testable and efficient code using software development best practices.</li>
+<li>Collaborating with other members of the product development team to achieve project objectives.</li>
+<li>Refactor, optimise, and improve the existing codebase for scale.</li>
+<li>Ensuring the security of our backend infrastructure.</li>
+</ul><h1>Job Requirements</h1><ul>
+<li>Knowledge of secure coding best practices</li>
+<li>Strong experience working in a Linux environment</li>
+<li>Strong experience with Go language </li>
+<li>Experience with PHP 7 and the Laravel framework (for migrating our legacy PHP systems to our new Go based backend)</li>
+<li>Experience with devops including Docker and CI/CD</li>
+<li>Fluent in SQL and able to create database schemas that represent and support business processes</li>
+<li>Experience writing unit and integration tests</li>
+<li>Experience with RabbitMQ a bonus</li>
+<li>Proficient with Git</li>
+<li>Experience working in a remote, globally-distributed, agile team environment</li>
+</ul><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ivpn-backend-developer-2">https://weworkremotely.com/remote-jobs/ivpn-backend-developer-2</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -69,7 +179,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-3" align="right" target="_blank">Apply</a>
@@ -143,87 +253,6 @@ Experience in working with various project stakeholder at various levels in a ma
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TestGorilla</h5>
-                    <h3> Senior Website Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-website-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Amsterdam, The Netherlands
-    <br /><strong>URL:</strong> <a href="https://www.testgorilla.com/">https://www.testgorilla.com/</a>
-</p>
-
-<div>Hi,</div><div><br></div><div>I’m Nicolás, TestGorilla’s Head of Engineering. We’re a fast-growing HR tech startup that helps hiring teams make better hiring decisions faster and bias-free.</div><div><br></div><div>Over the past year, we’ve experienced tremendous growth. More than 7,500 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way.</div><div><br></div><div>As we scale our efforts in 2022 and beyond, we’re looking for a <strong>Senior</strong> <strong>Website Developer</strong> who’s passionate about joining our quest to help people land dream jobs.</div><div>
-<br><br>
-</div><h1><strong>The proposition</strong></h1><ul>
-<li>Helping shape a fast-growing HR tech startup as an early employee</li>
-<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
-<li>Competitive salary + Share Appreciation Rights (SARs)</li>
-<li>Flexible hours and vacation</li>
-<li>Paid parental leave </li>
-<li>Remote working budget: €1,000 per year</li>
-<li>Learning and development budget: 3,5% of salary</li>
-</ul><div><br></div><div><br></div><h1><strong>The job in a nutshell</strong></h1><div><br></div><div>We are looking to hire a skilled and experienced <strong>Senior Website Developer</strong> to design, build, and improve our company website. You will own both technical and process definitions to allow TestGorilla to have a first-class website optimized for SEO and conversion. </div><div><br></div><div>You will be joining our growth efforts by collaborating with marketing and product teams to design and implement an incredibly efficient customer acquisition and activation funnel. You will also collaborate across departments to architect and optimize our company website and help them deliver content efficiently and promptly.</div><div><br></div><div>As an experienced engineer, you're expected to collaborate strongly with both technical and non-technical stakeholders to simplify problems, create abstractions, and define clear solutions. This is a fantastic opportunity for a top-class Website developer willing to embark on an entrepreneurial journey with us!</div><div>
-<br><br>
-</div><h1><strong>You’ll spend time on the following</strong></h1><ul>
-<li>Design and develop our company website’s architecture as well as building new features and functionalities</li>
-<li>Build, deploy, and maintain a performant, accessible, and modern TestGorilla website</li>
-<li>Work collaboratively with our designers to help bring "static" mockups to life optimized for accessibility and conversion</li>
-<li>Draw on UX/UI skill set to interpret responsive states from static designs, and execute layouts that perform seamlessly across modern devices and screen sizes</li>
-<li>Maintain and troubleshoot issues using popular headless CMSs and modern web development frameworks such as Contentful, Strapi, Directus, React, Next.js, and Gatsby</li>
-<li>Design and implement a smooth content migration from our current CMS into the new architecture</li>
-<li>Respond to security and website performance issues</li>
-<li>Maintaining well-documented and reusable code</li>
-</ul><div><br></div><div><br></div><h1><strong>Here’s what we’re looking for</strong></h1><ul>
-<li>You are inspired by our mission to put <em>one billion people in dream jobs</em>
-</li>
-<li>You are fully aligned with our <a href="https://www.testgorilla.com/careers/">values </a>
-</li>
-<li>Highly proficient in JavaScript, <a href="https://www.testgorilla.com/test-library/programming-skills-tests/html5-test/">HTML</a>, CSS design, cross-browser and cross-platform compatibility</li>
-<li>Strong background in web performance principles and page speed optimization techniques.</li>
-<li>Understanding SEO implementation and best practices.</li>
-<li>UI/UX design sensibility, and experience developing with accessibility in mind</li>
-<li>Experience customizing Webpack or similar tooling software plus experience with Gulp, Yarn, NPM, and Git</li>
-<li>Strong attention to detail with an analytical mind and outstanding problem-solving skills</li>
-<li>You are passionate about improving skills and learning new technologies</li>
-<li>You enjoy influencing others and always advocate for technical excellence while being open to change </li>
-<li>You’re resilient in ambiguous situations and can approach challenges from multiple perspectives</li>
-<li>You have strong written and verbal communication skills. You can validate your decisions and communicate them clearly</li>
-<li>You are comfortable with the ambiguity and pace of an early-stage startup</li>
-</ul><div><br></div><div>
-<em>We typically expect candidates with at least 2-5 years of web development experience to have the skills mentioned above.<br></em><br>
-</div><div><br></div><h1>Bonus points if …</h1><ul>
-<li>Knowledge about modern Node-based development practices and common frameworks, including Next.js &amp; Gatsby.</li>
-<li>Knowledge about Marketing funnels, Ads, and customer acquisition concepts</li>
-<li>Understanding of 508-site compliance </li>
-<li>You have experience working in a SaaS company and a fast-growing startup </li>
-</ul><div><br></div><div><br></div><h1><strong>Interested?</strong></h1><div>We don’t offer rainbow glitter unicorns or dog-friendly offices (we literally don’t have an office), but we do offer solid core values and a product meant to give everyone a fair, unbiased chance at their dream jobs.</div><div>
-<br>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions, faster and bias-free. </div><div>
-<br>So if this role sounds like a good fit for you, I’d like you to take an assessment so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product!</div><div>
-<br>If you’re hired, I’ll do everything I can to help you succeed at TestGorilla and throughout the rest of your career.</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-website-developer">https://weworkremotely.com/remote-jobs/testgorilla-senior-website-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8209/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -234,7 +263,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/webenertia-inc-wordpress-developer-lead-mid" align="right" target="_blank">Apply</a>
@@ -294,7 +323,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-react-native-mobile-developer-web3-remote-2" align="right" target="_blank">Apply</a>
@@ -364,7 +393,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bitstarz-casino-front-end-developer" align="right" target="_blank">Apply</a>
@@ -433,7 +462,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-go-developers-2" align="right" target="_blank">Apply</a>
@@ -496,7 +525,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
@@ -547,7 +576,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -611,59 +640,6 @@ Experience in working with various project stakeholder at various levels in a ma
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/9140/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>PostPilot</h5>
-                    <h3> Senior Ruby/Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>62 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/postpilot-senior-ruby-rails-developer-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/9140/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> US
-    <br /><strong>URL:</strong> <a href="https://www.postpilot.com/">https://www.postpilot.com/</a>
-</p>
-
-<div><strong>About the Job at PostPilot.com / Handwrite.io </strong></div><div>You’ll pitch in on building our <strong>Ruby on Rails + Hotwire app(s)</strong> as we continue to grow, add new features, keep them fast, and ratchet up their reliability &amp; robustness. <br><br>At PostPilot we build our product following the Basecamp <a href="https://basecamp.com/shapeup">Shape Up</a> methodology and keep our apps fast, secure, and reliable. Right now, we're hoping to further develop our flagship product PostPilot and work on problems like A/B testing, MFA, Adding more e-commerce integrations, building external APIs, and of course, making sure our existing infrastructure is scalable and maintained. </div><div><br></div><div>This position includes building features, deep-dive debugging, internal tooling, web performance, and internal support, with a bit of Robots and hardware thrown in. Day in and day out you’ll get to the bottom of multiple different issues across the stack and across projects. You can expect an <strong>inclusive, eager small team (of 4 devs)</strong> team who’ll support you in it, rise to challenges with you, and grow together. </div><div><br></div><div>Here are real examples of the work we’ve done lately that might help you to get a better idea of what this job entails:</div><ul>
-<li>Built a way for email lists to be converted into physical mailable addresses. </li>
-<li>Built software to manage pulling, printing, and monitoring our in-house printshop manufacturing process.</li>
-<li>Built a fleet of handwriting <strong>robots</strong> driven by Ruby on Rails.</li>
-<li>Built support for single-use unique coupon codes in <strong>direct mail campaigns</strong> </li>
-<li>Built the ability for <strong>Shopify</strong> brands (our users) to send real handwritten notes (postcards in envelopes, with real pens) with live in-browser previews</li>
-<li>Created a Public API for sending <strong>postcards</strong> and <strong>handwritten notes</strong> in our production facility.</li>
-<li>Developing a load balancing strategy for “expensive” <strong>Sidekiq</strong> background jobs that were crushing<strong> external APIs</strong> and our queues.</li>
-<li>Improved developer experience with <strong>Heroku</strong> (Pipelines, CI, and Review apps), <strong>Github</strong> Actions</li>
-<li>Deep dive into expensive queries in our application and working to improve performance and memory consumption from <strong>Postgres</strong> to Rails</li>
-<li>Built a <strong>webhook</strong> event publishing system for events from our production facility.</li>
-<li>Upgraded our main application to <strong>Rails 7 with import maps and hotwire</strong>.</li>
-</ul><div><br></div><div><strong>About you</strong></div><div>We’re looking for candidates who are ready for a similar breadth and depth of work. There are a lot of areas of responsibility! Solid fundamentals with software development, systems, troubleshooting, and teamwork pave the way.</div><div><br></div><div>We value people who have an opinion but can commit even if they disagree. People who understand the value of others being heard. This is only possible with direct feedback, openness to each others’ experiences, and willingness to show up for each other.</div><div><br></div><div>You can expect a team that listens, and to be heard. You can expect to be counted on. We care about what you can do and how you do it, not about how you got here. This is a remote-friendly job. You’re free to work where you work best. The bulk of our work is written via Slack and Github, from pull request discussions to team chats, and video recordings with a few video calls thrown in. </div><div>
-<br><strong>We require an overlap at least 4 hours</strong> with the United States east coast workday. That said, we’re not hiring from locations that require a graveyard shift to make the overlap happen.<br><br><strong>Pay and benefits</strong><br>The annual salary for this position is $80,000 - $120,000 USD. Applicants from outside the US will be offered a contractor role with comparable terms and at the same rate of pay as our US-based employees. <br><br>Our target start date for our new hire is as soon as possible.<br><br><strong>How to apply</strong><br>Please send a quick message tailored to this position that speaks to us.  Include the phrase "Ghostbusters!" and we'll know you're a real person that made it this far. Introduce yourself to us as a colleague. Give us some examples of how you’ve been successful in the past and attach a resume.<br><br>You should expect to hear from us fairly quickly. After that, there are 3 phases of the process. </div><ol>
-<li>A quick call to learn more about each other. <em>Expect a 30-minute call.</em>
-</li>
-<li>A take-home exercise, our ​​technical exercise is representative of the kind of day-to-day work we do with a follow-up code walkthrough call. <em>Plan for around 4 hours for the exercise and 30-minutes for the follow-up.</em>
-</li>
-<li>One last call with one of our Founders and the CEO of the company. <em>Expect this to take 20-minutes.</em> </li>
-</ol><div> Our interviews are conversations held over video with future colleagues – no tests, no surprises! </div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/postpilot-senior-ruby-rails-developer-2">https://weworkremotely.com/remote-jobs/postpilot-senior-ruby-rails-developer-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/5800/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -674,7 +650,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>121 days ago</text>
+                <text>122 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone" align="right" target="_blank">Apply</a>
@@ -779,6 +755,88 @@ Experience in working with various project stakeholder at various levels in a ma
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Storetasker</h5>
+                    <h3> Senior Shopify Developer (Remote + Flexible)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>630 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/8032/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Brooklyn, NY
+    <br /><strong>URL:</strong> <a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_expert">https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_expert</a>
+</p>
+
+<h1>Shopify developers love to freelance with Storetasker.</h1><ul>
+<li>
+<strong>Endless, quality clients: </strong>from well known DTC brands to top agencies. </li>
+<li>
+<strong>Fully remote, flexible: </strong>work as much or as little as you want, wherever you want. </li>
+<li>
+<strong>A talented and helpful community: </strong>it's freelance (with a team).</li>
+<li>
+<strong>Earn $80-$120 per hour: </strong>pick your clients, and send your own quotes or retainers. <br><br>
+</li>
+</ul><div>We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: <a href="https://www.alphaindustries.com/">Alpha Industries</a>, <a href="https://www.bollandbranch.com/">Boll &amp; Branch</a>, <a href="https://getsuperfluid.com">Superfluid</a>, <a href="https://jackhenry.co/">Jack Henry</a>, <a href="http://plenaire.co/">Plenaire</a>, and <a href="https://walkfulton.com/">Fulton</a> among many more. <br><br><strong>Why Storetasker?</strong>
+</div><ul>
+<li>
+<strong>Endless clients &amp; project opportunities:</strong> you’ll see between 5 - 50 new opportunities per day and can pick any lead you want. </li>
+<li>
+<strong>You’ll earn more:</strong> some experts are making $150-200k per year. </li>
+<li>
+<strong>A high quality community:</strong> we carefully select about 5% of those who apply. </li>
+<li>
+<strong>Remote:</strong> work from anywhere, anytime. </li>
+<li>
+<strong>Flexible:</strong> take on as many clients as you want.</li>
+<li>
+<strong>No external ratings:</strong> you’re already a professional. No need to prove it. </li>
+<li>
+<strong>Great Software:</strong> that makes it easy to manage more clients and increase billable hours.</li>
+<li>
+<strong>Support when you need it:</strong> we offer project support 7 days per week. </li>
+<li>
+<strong>Community (not competition):</strong> you pick your clients, projects, and never compete against other Experts in the community. </li>
+</ul><div><br></div><div>
+<a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>Learn more and join</strong></a>! It’s confidential, and takes less than 5 minutes. <br><br><strong>Here's who we're looking for:</strong>
+</div><ul>
+<li>Ambitious part time and full-time freelancers and boutique agencies.</li>
+<li>Who have 3+ years of Shopify experience, and 5+ years of web development experience. </li>
+<li>And who have managed projects, deadlines, and communication successfully. </li>
+</ul><div>
+<br><strong>Especially people with some of these skills:</strong>
+</div><ul>
+<li>Front-end or full-stack Shopify development</li>
+<li>Klaviyo Email flows</li>
+<li>Headless e-commerce development</li>
+<li>Conversion rate optimization</li>
+<li>E-commerce expertise and strategy</li>
+<li>SEO </li>
+<li>Site Speed</li>
+<li>Builder and/or Shogun</li>
+</ul><div>
+<br><a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>It takes just a few minutes to join.</strong></a><br><br><strong>Here's what a few current members have to say:</strong><br><br>"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!" - Adan, United States, Storetasker Expert since March 2020<br><br>"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”" - Mark, England, Storetasker Expert since 2019<br><br>"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow." - Siah, Canada, Storetasker Expert since 2017<br><br><strong>Our Mission: </strong><br><br>We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.  <br><br><strong>Questions?</strong> Reach out at experts@storetasker.com.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1">https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1344662/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -789,7 +847,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -814,7 +872,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -839,7 +897,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -864,7 +922,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -889,7 +947,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unreal-engine-developer-1344657" align="right" target="_blank">Apply</a>
@@ -914,7 +972,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-elixir-developer-1344656" align="right" target="_blank">Apply</a>
@@ -939,7 +997,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1018,7 +1076,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1095,7 +1153,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1172,7 +1230,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
