@@ -10,7 +10,7 @@
                     <code>Sales and Marketing</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/community-phone-quality-assurance-operations-manager" align="right" target="_blank">Apply</a>
@@ -46,7 +46,7 @@
                     <code>sales,management,operations,product</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/qa/quality-assurance-operations-manager-1405937" align="right" target="_blank">Apply</a>
