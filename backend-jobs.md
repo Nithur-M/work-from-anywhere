@@ -10,7 +10,7 @@
                     <code>founder,bookkeeping,financial,investment,fintech,banking,bank,api,reliability,go,engineer,engineering,backend</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-governance-upvest-133909" align="right" target="_blank">Apply</a>
@@ -19,7 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>Weâre looking for fintech enthusiasts to join us in creating the financial infrastructure of tomorrow. Weâre building the first European Investment API to enable any financial institution to offer a broad range of investment products in their apps. Our view is backed by Europe's largest tech VCs (Earlybird, Notion Capital, Partech, HV Capital, ABN AMRO Ventures) by renowned fintech entrepreneurs (including <a target="_blank" href="https://www.linkedin.com/in/ACoAAA5D6LAB1cJ1GBRZ8whwsc6ZI78kDf1Ulx0" rel="noopener noreferrer nofollow">Maximilian Tayenthal</a>, founder of N26, and <a target="_blank" href="https://www.linkedin.com/in/ACoAAAAAH8AB8C9RXofd6q-Ux6PSMs23ahwpU8U" rel="noopener noreferrer nofollow">Felix Haas</a>, founder of IDnow) and Bessemer Venture Partners in the USA.<br></p><p>Weâre based in Berlin but would consider <strong>hiring</strong> <strong>remotely</strong> for this role. If you do want to move to Berlin though, weâre happy to support your relocation.</p><p>At Upvest, our vision is <strong>to make investing as easy as spending money</strong>. By enabling any business to offer investment opportunities, our goal is to empower anyone to invest. Today, we count 100+ talented people from 20 different countries.<br><br></p><p><strong>Team's mission</strong><br></p><p><strong>The Governance Team</strong> in the Core Banking Tribe owns the processes that control and enforce the consistent state of the whole Upvest platform. Such processes are represented by the domains like:Â </p><p>* Bookkeeping - tracking the cash movements between different bank accountsÂ </p><p>* Reconciliation - monitoring and control of the consistency between the external world and its representation on the Upvest's sideÂ </p><p>* Position - tracking the Securities and Cash balances of the users of the Platform<br></p><p>The Core Banking team is keeping control that the Runtime processes remain logical and consistent by tracking the results of the order processing in the Position, Reconciliation, and Booking domains. The products delivered by this team are the ones letting us sleep at night, knowing the platform is functioning correctly on a big scale of things. <br></p><p><strong>This role will give you the opportunity to:</strong></p><ul> <li>Design and build fault-tolerant, horizontally scalable systems. Using Microservice architecture powered by Docker, Kubernetes, Linkerd service mesh, and Kong as a Gateway</li> <li>Build event-driven applications using Kafka</li> <li>Work on different aspects of our API-product portfolio as part of the development team</li> <li>Develop data processing and storing mechanisms</li> <li>Work on improving the reliability of our API tools, as well as developing innovative tools</li> <li>Work with an agile methodology with flexible processes, that focus on helping the engineering teams be more effective in their work</li> <li>Work with the cutting edge technologies (Go is the primary language) without legacy codebase</li> </ul><ul></ul><p><strong>Job requirements:</strong></p><ul> <li>Prior experience with distributed systems</li> <li>Willingness to make Go your day-to-day language (production experience is not strictly required)</li> <li>Fluency with SQL databases such as PostgreSQL, transaction isolation, performance optimization</li> <li>Experience with event-driven architecture and concurrent algorithms</li> <li>Be proactive in learning new stacks and have a high sense of taking ownership</li> <li>Excited to work in a dynamic startup environment</li> </ul><p><br></p><ul></ul><p><strong>Why Upvest?</strong></p><ul> <li>We're working on solving a hard problem: fixing the European securities financial infrastructure that empowers more people to be able to invest. You have the opportunity to contribute to this change.</li> <li>We invest in you. From access to a personal coach, development budget and plenty of opportunities to grow in your role.</li> <li>We take hiring seriously with a strong focus on keeping a high bar when interviewing (equally important is that we hire decent people, who are passionate about their craft and helping us achieve our shared mission).</li> <li>While we're not quite fully-remote, we are committed to being a flexible employer, as we understand you don't have to be in the office to do your best work.</li> <li>We live a culture of empowerment, trust (that we hire the best people and get out of their way) and openness (there's a greater advantage in sharing information than keeping it to ourselves).</li> </ul><p><strong>Our values:</strong><br></p><ul> <li> <strong>Learn and grow. </strong>We aim high to shape our future. We give and request honest feedback knowing that we develop together. Progression over Perfection.</li> <li> <strong>Team first. </strong>We make it easy for others. We value our differences and are open to others' opinions. We win and celebrate together! Team over Egos.</li> <li> <strong>Own the outcome. </strong>Whether we win or we lose, we stand together. We are proactive and get the job done. Outcome over Process.</li> <li> <strong>Tell the story. </strong>We always start with the <em>why</em>. We share knowledge to empower others. Transparency over Complexity.</li> </ul><br/><br/>Please mention the word **POETIC** and tag RNTQuMjM0LjE5Ni4xNjE= when applying to show you read the job post completely (#RNTQuMjM0LjE5Ni4xNjE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p>Weâre looking for fintech enthusiasts to join us in creating the financial infrastructure of tomorrow. Weâre building the first European Investment API to enable any financial institution to offer a broad range of investment products in their apps. Our view is backed by Europe's largest tech VCs (Earlybird, Notion Capital, Partech, HV Capital, ABN AMRO Ventures) by renowned fintech entrepreneurs (including <a target="_blank" href="https://www.linkedin.com/in/ACoAAA5D6LAB1cJ1GBRZ8whwsc6ZI78kDf1Ulx0" rel="noopener noreferrer nofollow">Maximilian Tayenthal</a>, founder of N26, and <a target="_blank" href="https://www.linkedin.com/in/ACoAAAAAH8AB8C9RXofd6q-Ux6PSMs23ahwpU8U" rel="noopener noreferrer nofollow">Felix Haas</a>, founder of IDnow) and Bessemer Venture Partners in the USA.<br></p><p>Weâre based in Berlin but would consider <strong>hiring</strong> <strong>remotely</strong> for this role. If you do want to move to Berlin though, weâre happy to support your relocation.</p><p>At Upvest, our vision is <strong>to make investing as easy as spending money</strong>. By enabling any business to offer investment opportunities, our goal is to empower anyone to invest. Today, we count 100+ talented people from 20 different countries.<br><br></p><p><strong>Team's mission</strong><br></p><p><strong>The Governance Team</strong> in the Core Banking Tribe owns the processes that control and enforce the consistent state of the whole Upvest platform. Such processes are represented by the domains like:Â </p><p>* Bookkeeping - tracking the cash movements between different bank accountsÂ </p><p>* Reconciliation - monitoring and control of the consistency between the external world and its representation on the Upvest's sideÂ </p><p>* Position - tracking the Securities and Cash balances of the users of the Platform<br></p><p>The Core Banking team is keeping control that the Runtime processes remain logical and consistent by tracking the results of the order processing in the Position, Reconciliation, and Booking domains. The products delivered by this team are the ones letting us sleep at night, knowing the platform is functioning correctly on a big scale of things. <br></p><p><strong>This role will give you the opportunity to:</strong></p><ul> <li>Design and build fault-tolerant, horizontally scalable systems. Using Microservice architecture powered by Docker, Kubernetes, Linkerd service mesh, and Kong as a Gateway</li> <li>Build event-driven applications using Kafka</li> <li>Work on different aspects of our API-product portfolio as part of the development team</li> <li>Develop data processing and storing mechanisms</li> <li>Work on improving the reliability of our API tools, as well as developing innovative tools</li> <li>Work with an agile methodology with flexible processes, that focus on helping the engineering teams be more effective in their work</li> <li>Work with the cutting edge technologies (Go is the primary language) without legacy codebase</li> </ul><ul></ul><p><strong>Job requirements:</strong></p><ul> <li>Prior experience with distributed systems</li> <li>Willingness to make Go your day-to-day language (production experience is not strictly required)</li> <li>Fluency with SQL databases such as PostgreSQL, transaction isolation, performance optimization</li> <li>Experience with event-driven architecture and concurrent algorithms</li> <li>Be proactive in learning new stacks and have a high sense of taking ownership</li> <li>Excited to work in a dynamic startup environment</li> </ul><p><br></p><ul></ul><p><strong>Why Upvest?</strong></p><ul> <li>We're working on solving a hard problem: fixing the European securities financial infrastructure that empowers more people to be able to invest. You have the opportunity to contribute to this change.</li> <li>We invest in you. From access to a personal coach, development budget and plenty of opportunities to grow in your role.</li> <li>We take hiring seriously with a strong focus on keeping a high bar when interviewing (equally important is that we hire decent people, who are passionate about their craft and helping us achieve our shared mission).</li> <li>While we're not quite fully-remote, we are committed to being a flexible employer, as we understand you don't have to be in the office to do your best work.</li> <li>We live a culture of empowerment, trust (that we hire the best people and get out of their way) and openness (there's a greater advantage in sharing information than keeping it to ourselves).</li> </ul><p><strong>Our values:</strong><br></p><ul> <li> <strong>Learn and grow. </strong>We aim high to shape our future. We give and request honest feedback knowing that we develop together. Progression over Perfection.</li> <li> <strong>Team first. </strong>We make it easy for others. We value our differences and are open to others' opinions. We win and celebrate together! Team over Egos.</li> <li> <strong>Own the outcome. </strong>Whether we win or we lose, we stand together. We are proactive and get the job done. Outcome over Process.</li> <li> <strong>Tell the story. </strong>We always start with the <em>why</em>. We share knowledge to empower others. Transparency over Complexity.</li> </ul><br/><br/>Please mention the word **POETIC** and tag RNTQuMTYyLjE3OS4zNA== when applying to show you read the job post completely (#RNTQuMTYyLjE3OS4zNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -34,7 +34,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/community-phone-senior-backend-engineer" align="right" target="_blank">Apply</a>
@@ -104,7 +104,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-node-5" align="right" target="_blank">Apply</a>
@@ -159,7 +159,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-backend-engineer-python-8" align="right" target="_blank">Apply</a>
@@ -219,54 +219,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6988/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>PSPDFKit</h5>
-                    <h3> Web Backend Team Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>34 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/pspdfkit-web-backend-team-manager" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6988/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Vienna, Austria
-    <br /><strong>URL:</strong> <a href="https://pspdfkit.com">https://pspdfkit.com</a>
-</p>
-
-<div><strong>About Us...</strong></div><div><br></div><div>PSPDFKit is the leading document processing and manipulation platform for developers and enterprise businesses. Our customers use our offering for creating, editing, signing, and collaborating on documents in their applications across mobile, Web, and all major platforms. Nearly a billion end-users in over 150 different countries rely on PSPDFKit every day including industry leaders like Dropbox, DocuSign, SAP, IBM, Volkswagen, Fabasoft, Wolters Kluwer Deutschland, and the European Patent Office.</div><div><br></div><div>In 2021, PSPDFKit announced its first strategic growth investment led by Insight Partners, a New York-based global venture capital and private equity firm focused on growth-stage software and technology companies. Insight’s investment, which totals more than $115 million, is being used to accelerate product growth, sales &amp; marketing efforts, and fund strategic acquisitions, further expanding the capabilities of PSPDFKit’s highly adopted document processing platform.</div><div><br></div><div><strong>The Server and Services team is responsible for building and maintaining a few server-side products (both SaaS and on-premise) written primarily in the Elixir programming language.</strong></div><div><br></div><div><strong>What you will do...</strong></div><ul>
-<li>As a Web Backend Team Manager your objective is to make sure that the Server and Services Team keep fulfilling its company mission with excellent performance.</li>
-<li>You will work directly with team members to define team objectives, workflows, and projects.</li>
-<li>Maintain regular 1-on-1s and quarterly reviews with team members to define personal objectives, work on individual performance goals, and match company objectives with personal ambition.</li>
-<li>Supervise team projects to make sure their execution remains in line with company objectives.</li>
-<li>Delegate and assign team tasks that leverage individual strengths or aspirations.</li>
-<li>Plan hiring in order to anticipate potential scaling issues.</li>
-<li>Maintain shared knowledge in the team, and structure necessary training.</li>
-</ul><div><strong>About You...</strong></div><ul>
-<li>3 or more years of experience working on backend services and cloud technologies.</li>
-<li>3 or more years of experience managing a team of developers.</li>
-<li>Experience in leading projects that require coordination of multiple teams.</li>
-<li>Experience coaching and training more junior team members.</li>
-<li>Ability to effectively provide/receive feedback - both positive and negative.</li>
-</ul><div><br></div><div><strong>We Value...</strong></div><div><br></div><div>Continuous Improvement — We are continually growing and adapting, both as a company and as individuals; we believe the best is yet to come. We aim to learn from our mistakes, streamline our work, and remain accountable to each other.</div><div><br></div><div>Feedback — We value honest feedback, open collaboration, and relying on one another to continuously improve. We’re committed to listening to new ideas, being open to failure, and allowing ourselves to change our minds.</div><div><br></div><div>Transparency — We default to transparency in communication. We believe the ego doesn’t belong in the workplace, and that being open and honest in our communication builds and solidifies trust. We don’t shy away from the hard questions, and we welcome the opportunity to be candid.</div><div><br></div><div>People — We believe it’s always about people: our people and our customers. We care about each other, we trust one another, and we’re excellent to each other. We’re committed to going out of our way to help our colleagues become the best version of themselves — personally and professionally.</div><div><br></div><div>Creativity — We understand the world is constantly changing, so we’re on a mission to explore, experiment, and readily embrace the latest technologies. We support each other in our curiosity and creativity, because we know it unlocks empathy and enables new ways of thinking.</div><div><br></div><div>Character. — We care about quality and we aim to get things done the right way. We believe it’s our responsibility to make the world a better place, and our commitment to helping the environment means reducing waste and coming up with creative solutions for replacing paper processes.</div><div><br></div><div>PSPDFKit is an equal opportunity employer with people from many different cultures and countries. We celebrate diversity and are committed to building a team that represents a variety of backgrounds, skill sets, perspectives, as well as providing our employees with a work environment free of harassment.</div><div><br></div><div>We do not discriminate on the basis of race, color, religion, age, marital status, national origin, ancestry, physical or mental disability, medical​​​ condition, sexual orientation, gender identity or ​expression, or any other non-merit factor. We’d especially love to receive applications from individuals who are underrepresented in the tech industry.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pspdfkit-web-backend-team-manager">https://weworkremotely.com/remote-jobs/pspdfkit-web-backend-team-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1368332/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -277,7 +229,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
