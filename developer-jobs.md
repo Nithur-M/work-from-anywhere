@@ -1,5 +1,104 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/e3a41922ed886937d4b9fe81838c07ab1666163744.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OpenZeppelin</h5>
+                    <h3>Solutions Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,solidity,ethereum,system,security,architect,software,web,financial,serverless,cloud,typescript,operations,analytics,sales,engineer,engineering,educational,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-solutions-developer-openzeppelin-135403" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro">
+<h3><strong>About us</strong></h3>
+<p><span style="font-weight:400;">OpenZeppelin is a leading cybersecurity company that provides security products to build, automate, and operate decentralized applications.</span></p>
+<p><span style="font-weight:400;">With a mission to protect the open economy, our team created the most popular open source library for smart contract development with over 4 million downloads. Our unique expertise subsequently allowed us to uncover major security vulnerabilities for the Ethereum Foundation, MakerDAO, and Facebookâs Libra, and conduct security audits for many top blockchain companies including Coinbase, Brave, Compound, Aave, and Augur.Â </span></p>
+<p><span style="font-weight:400;">Building on this experience, we recently launched a platform to help teams automate their Ethereum operations and securely ship products faster: OpenZeppelin Defender.Â </span></p>
+<p><span style="font-weight:400;">With the success of our products, security audit work, and open source educational efforts, we are setting industry standards for building secure systems in a fast-growing industry that is creating an open financial system for the world.</span></p>
+</div><p><span style="font-weight:400;">As a Solutions Software Engineer you will be responsible for helping design, develop and deploy bespoke client solutions using OpenZeppelin offerings and integrations. You will work with engineers from external teamâs to define, implement, and support products which will allow blockchain technology to be securely utilized.<br>Â <br>You will work closely with our product development team and a Solution Architect to develop and support high-quality technical solutions for customers. You will be an integral part of the success for each customer solution by performing early technical assessments, building Proof of Concepts, delivering functional solutions and troubleshooting technical configuration issues.Â <br>Â <br>As a passionate blockchain fan and user advocate, you will build the bridges needed for the users to utilize blockchain technology securely.<br></span></p>
+<h3>Â </h3>
+<p><strong>What youâll be doingÂ </strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Building custom security solutions using OpenZeppelin offerings under the guidance of a Solution Architect</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Interfacing with leadership, customers, users, and the community to implement seamless integrations to grow the OpenZeppelin platform</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Building application-specific integrations with OpenZeppelin</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Providing support for integrating partners making use of OpenZeppelin offerings (Contracts, Defender, etc.)</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Developing best practices and documentation to scale integrations<br></span></li>
+</ul>
+<h3><strong>You Have</strong></h3>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">3+ years of professional software experience</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Programming experience in TypeScript or JavaScript; otherwise experience in Solidity and a willingness to learn</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Basic understanding of applied cryptography and Ethereum smart contracts</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Basic understanding of web security and best practices</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience using Ethereum tool suites to develop and deploy Solidity smart contracts.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Ability to be be a resourceful developer and a fast learner continually striving to discover more environments</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Excellent communication skills and the ability to discuss technical concepts</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Passion for blockchain and other Web 3.0 technologies</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Prior experience working remotely: strong personal organizational skills, a love for self-time management, and ability to work collaboratively with a team.<br></span></li>
+</ul>
+<h3><strong>Nice to Have</strong></h3>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">A bachelor's and/or masterâs degree in computer science, IT, software engineering, or computer science.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience in a technical sales engineering position</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Hands-on experience developing serverless functions in JavaScript/TypeScript</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience building data analytics dashboards for Datadog, Splunk, etc</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience developing CI/CD deployment pipelines using GitHub Actions</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">AWS Cloud certification (Solutions Architect Associate or higher) </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Security certifications (Security+, CISSP, CISA, OSCP, etc)<br></span></li>
+</ul><div class="content-conclusion">
+<div class="container">
+<div class="job-description">
+<div class="requirements">
+<h3 class="job-description-title">Benefits</h3>
+<ul>
+<li>
+<p>Medical Insurance: Top quality insurance options for you.</p>
+</li>
+<li>
+<p>Paid leave for new parents.</p>
+</li>
+<li>
+<p>Team Events: Company retreats in different locations around the world.</p>
+</li>
+<li>
+<p>Monthly allowance for wellness activities.</p>
+</li>
+<li>
+<p>Coworking: access to a coworking space of your choice.</p>
+</li>
+<li>
+<p>Training: Technical training, spoken language lessons in any language of your choice.</p>
+</li>
+</ul>
+</div>
+<div class="company-footer">
+<p>At OpenZeppelin, we are an equal opportunity employer and we value different perspectives. We are committed to building a diverse workforce. This includes but is not limited to gender, race, sexual orientation, religion, national origin and other characteristics that make each one of us unique. In this uniqueness, we find the most value. Come join us!</p>
+</div>
+</div>
+</div>
+
+
+<div class="container">
+<div class="application-information">
+<h3 class="job-description-title">Â </h3>
+</div>
+</div>
+</div><br/><br/>Please mention the word **THANKFUL** and tag RNTQuMTYyLjE3OS4zNA== when applying to show you read the job post completely (#RNTQuMTYyLjE3OS4zNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/499d0cc675bee4da9a6aac8440858f291665856818.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +109,7 @@
                     <code>training,trainer,management,healthcare,salesforce,developer,design,system,security,web,api,lead,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-salesforce-lead-developer-openlogix-corporation-133629" align="right" target="_blank">Apply</a>
@@ -54,7 +153,7 @@ Experience in design and development of enterprise systems.
 Execution experience in the Agile delivery model.
 Experience in working with various project stakeholder at various levels in a matrix organization
 
-<br/><br/>Please mention the word **GAIN** and tag RNTQuMjM0LjE5Ni4xNjE= when applying to show you read the job post completely (#RNTQuMjM0LjE5Ni4xNjE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **GAIN** and tag RNTQuMTYyLjE3OS4zNA== when applying to show you read the job post completely (#RNTQuMTYyLjE3OS4zNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -69,7 +168,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sendwave-senior-developer-productivity-engineer-remote" align="right" target="_blank">Apply</a>
@@ -166,7 +265,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-angular-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
@@ -231,7 +330,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-3" align="right" target="_blank">Apply</a>
@@ -288,7 +387,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ivpn-backend-developer-2" align="right" target="_blank">Apply</a>
@@ -341,7 +440,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-3" align="right" target="_blank">Apply</a>
@@ -415,90 +514,20 @@ Experience in working with various project stakeholder at various levels in a ma
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5406/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Aldrin</h5>
-                    <h3> Senior React Native Mobile Developer Web3 (Remote)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-react-native-mobile-developer-web3-remote-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/5406/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London
-    <br /><strong>URL:</strong> <a href="https://aldrin.com">https://aldrin.com</a>
-</p>
-
-<div>
-<strong>The Role<br></strong><br>
-</div><div>We are looking for a Senior React Native Mobile Developer with extensive experience in designing, building, and deploying highly secure, scalable, and maintainable client-facing UI systems.<br><br>
-</div><div>You will be one of the senior developers of the mobile app working closely with our designers, product owners, and backend engineers to develop and maintain high-quality mobile applications for a global audience in an extremely fast-growing industry. We work with a modern tech-stack. We use Typescript, hooks, eslint, reanimated, automated CI and deployments, etc. We work with a design system and an updated figma design.<br><br>
-</div><div>If you are extremely passionate about mobile platforms and translating code into user-friendly apps, we would like to meet you. Ultimately, you should be able to help design and build the next generation of our mobile applications that will impact and shape the financial lives of a growing audience.<br><br>
-</div><div>You will:<br><br>
-</div><ul>
-<li>Contribute code to our iOS &amp; Android React Native apps from the get-go</li>
-<li>Work on integrating and collaborating with other crypto products to enrich the user experience</li>
-<li>Implement features with the aim to provide long term stability of a highly scalable application</li>
-<li>Developing clean and reusable react native components</li>
-<li>Actively contributing new ideas and innovative UX/UI patterns</li>
-<li>Play an active role in evolving our mobile engineering practices</li>
-</ul><div><br></div><div><strong>Minimum Qualifications:</strong></div><ul>
-<li>Strong expertise in React Native with 5+ years of professional experience building high-quality mobile apps</li>
-<li>High-level experience with TypeScript</li>
-<li>Have experience with best-in-class client-side data design and management, whether that’s experience with GraphQL/ Apollo or other such tools</li>
-<li>Have a passion for good design and attention to detail. You’ll collaborate with designers but undoubtedly have the opportunity to express your own design sense if desired</li>
-<li>Verbal fluency in English</li>
-</ul><div><br></div><div><strong>Nice-to-Have Qualifications:</strong></div><ul>
-<li>Demonstrable portfolio of released applications on the App Store or the Android</li>
-<li>Passionate about crypto markets, blockchain technology, and decentralized applications</li>
-<li>Knowledge/experience working on mobile financial applications/cryptocurrencies/wallets</li>
-<li>Experience with Solana Web3 frameworks and technologies, especially on mobile</li>
-<li>Experience working with a large codebase and detox or appium testing tools</li>
-<li>Experience with responsive UI and debugging skills</li>
-<li>Experience developing high-performance mobile app interfaces</li>
-<li>Bachelors or Masters degree, preferably in Computer Science, Computer Engineering or other technical (STEM) field or an equivalent of experience</li>
-</ul><div>
-<br><strong>Benefits<br></strong><br>
-</div><ul>
-<li>Competitive salary</li>
-<li>Remote work in a dynamic, fast-growth Web3 startup</li>
-<li>Flexible working hours</li>
-<li>Opportunity to work with a diverse, global, and passionate team</li>
-<li>Collaboration with leading projects and thought leaders in the crypto space</li>
-</ul><div><em>At Aldrin Labs, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.</em></div><div><br></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-react-native-mobile-developer-web3-remote-2">https://weworkremotely.com/remote-jobs/aldrin-senior-react-native-mobile-developer-web3-remote-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>XM</h5>
-                    <h3> Go developers</h3>
+                    <h5>Data Virtuality GmbH</h5>
+                    <h3> Senior Backend Developer (Java)</h3>
                 </td>
                 <td width="300">
-                    <code>All Other Remote</code>
+                    <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-go-developers-2" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-backend-developer-java" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -507,42 +536,65 @@ Experience in working with various project stakeholder at various levels in a ma
                 
 
 <p>
-  <strong>Headquarters:</strong> Cyprus, Greece or Remote
-    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
+  <strong>Headquarters:</strong> Leipzig, Germany
+    <br /><strong>URL:</strong> <a href="https://datavirtuality.com/en/careers/">https://datavirtuality.com/en/careers/</a>
 </p>
 
-<div>
-<strong>Reference Number: GOD1021<br></strong><br>
-</div><div>
-<strong>The position: <br></strong><br>
-</div><div>We are looking for passionate and self-motivated professionals to join our IT team. <br><br>
-</div><div> <br><br>
-</div><div>
-<strong>The main responsibilities include:<br></strong><br>
-</div><div>·        Write clean, simple, maintainable and testable code</div><div>·        Design, implement and maintain cloud-based services and APIs</div><div>·        Monitor, troubleshoot and debug applications</div><div>·        Participate and run code reviews</div><div>·        Follow emerging technologies and frameworks</div><div> </div><div>
-<strong>Main requirements:<br></strong><br>
-</div><div>·        BSc/MSc in Computer Science, Engineering, or any other relevant degree</div><div>·        In-depth experience with Go. Experience in other programming languages is considered a plus</div><div>·        In-depth experience with REST service designs</div><div>·        Experience with monitoring, logging and tracing systems</div><div>·        Proven experience using SQL and NoSQL databases</div><div>·        Very good knowledge of programming best practices and design patterns</div><div>·        Experience using systems and tools for automating deployment, scaling, and management of containerized applications for production service deployments</div><div>·        Good understanding of algorithmic complexity, data structures and multi-threading concepts</div><div>·        Knowledge of AWS Cloud Services is considered a plus</div><div>·        A keen interest in benchmarking and optimisation</div><div>·        Contributions in open source projects are considered a plus</div><div>·        Strong teamwork skills with a problem-solving attitude and interest in personal development</div><div> </div><div>
-<strong>Benefits include:<br></strong><br>
+<h1>SENIOR BACKEND DEVELOPER (m/f/d)</h1><div>Remote. Full-time. Unlimited Contract.<br><br><strong>Data Virtuality in a Sec</strong>
+</div><div>Leading various large-scale data integration projects at a global media company, our founder and CEO Dr. Nick Golovin experienced that it isn’t enough to rely on just one data integration approach to meet the ever-changing business needs. The Data Virtuality Platform uniquely combines data virtualization and ETL to provide data professionals with a data integration tool that allows them always to choose the suitable method for the specific requirement. Data Virtuality’s flexible data integration approach is the reliable enabler and accelerator for modern data architectures, like data fabric, data mesh, unified data platform, and hybrid-/multi-cloud environments.</div><div><strong><br>As a Senior Backend Developer, you will be:</strong></div><div><br></div><div>
+<strong>Coding Expert</strong> – You push on further developing our monolithic product Data Virtuality Platform. With your clean coding approach and your creative power, you conceive, develop, and integrate new components and applications into our products with the highest quality.</div><div><br></div><div>
+<strong>Bug Buster</strong> – Your mission is to keep an eye on our existing products: You analyze and improve our components and fix bugs.</div><div><br></div><div>
+<strong>Team Player</strong> – Working remotely: You are independent and reliable and stay in constant touch with the Data Virtuality Team. You keep exchanging ideas with your colleagues and help the team develop the best performance.</div><div><br></div><div><strong><br>Our ultimate candidate will have:</strong></div><ul>
+<li>“Fluent in” Java</li>
+<li>strong experience (5+ years) in database design, complex SQL queries</li>
+<li>in-depth knowledge of OOD methodology, Java, XML, J2EE (JSP, JMS, EJB, Servlet, JDBC, JPA), and Web Services (SOAP &amp; REST)</li>
+<li>working knowledge of Hibernate</li>
+<li>keen understanding of the internal operation principles of an RDBMS, knowledge of Data Warehousing is a plus</li>
+<li>practical knowledge of standard technologies for development, assembly (Maven), and versioning (Git)</li>
+<li>strong experience (5+ years) in J2EE development with a focus on WildFly, JBoss, Tomcat, or a similar application server</li>
+<li>in-depth knowledge of modern architectural concepts, design patterns, and agile software development (Scrum, Kanban)</li>
+</ul><div><br></div><ul>
+<li>fluent spoken and written English is a must-have criterion</li>
+<li>clean and good quality coding approach is very important because of our complex product</li>
+<li>analytical thinking, pragmatic development approach with a hands-on mentality</li>
+<li>being a team player, but also being able to solve problems independently</li>
+<li>understanding the requirements from the customer's view</li>
+<li>generally very good communication behavior – on both customer and colleague side</li>
+</ul><div><br></div><div><strong><br>What our fantastic team worldwide loves about working with Data Virtuality</strong></div><ul>
+<li>A job with the stability and team spirit of an employee but also with the freedom and flexibility of a freelancer</li>
+<li>A stable and reliable job with the freedom and flexibility of a freelancer</li>
+<li>Flexible working hours + additional perks</li>
+<li>Fast and dependable monthly payment – in EUR, USD, or Crypto, as you prefer</li>
+<li>Contributing to the success of a growing company</li>
+<li>Developing a groundbreaking data technology and working with cutting-edge technologies</li>
+<li>Knowledgeable and approachable C-Level</li>
+<li>Continuity and growth potential</li>
+<li>Friendly and international colleagues</li>
+<li>Full integration into our teams and invitation for our team events worldwide</li>
+</ul><div>
+<strong><br>This might be your new team!<br></strong><br>
+</div><div>Working at Data Virtuality means being part of an international team and thriving. What we offer is remote work from your home, wherever it is. Further, you can expect an unlimited long-term freelance contract with full-time work, benefits, and genuine team spirit.<br><br>
+</div><div>At Data Virtuality, you will experience respectful interactions, harmonious teamwork,<br>without a dog-eat-dog mentality!<br><br><strong><br>Our Tech Stack<br></strong><br>
 </div><ul>
-<li>Attractive remuneration package</li>
-<li>Private health insurance </li>
-<li>Food allowance </li>
-<li>Intellectually stimulating work environment</li>
-<li>Continuous personal development and international training opportunities</li>
-<li>Attractive relocation package. Relocation support for a smooth relocation for you and your family </li>
-</ul><div> <br><br>
-</div><div>Type of employment: Full time<br><br>
-</div><div>Location: Limassol, Cyprus or remote<br><br>
-</div><div> </div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position.</div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div><div> <br><br>
-</div><div> <br><br>
-</div><div> <br><br>
-</div><div> <br><br>
-</div><div> <br><br>
-</div><div> <br><br>
-</div><div> <br><br>
+<li>Backend: J2EE application running in a JBoss/WildFly container to connect to any kind of<br>data source (relational/NoSQL/cloud-based databases, web services, text files, etc.) and to<br>query data by using SQL. Persistence layers and internal configurations are delegated to<br>Hibernate.</li>
+<li>Frontend (Desktop): Desktop Application based on Eclipse RCP</li>
+<li>Frontend (Web): several Web applications based on Angular</li>
+<li>Operating System: Linux, Microsoft Windows, macOs</li>
+<li>Languages: Java 11, C, C++, TypeScript, SQL, XML</li>
+<li>Databases: Oracle, PostgreSQL, MySQL, MS SQL Server, Amazon Redshift, Snowflake,<br>Microsoft Azure Synapse Analytics, Exasol, Teradata, Vertica, MongoDB, etc.</li>
+<li>Others: Web Services, JDBC, ODBC, REST, OData, LDAP</li>
+<li>IDE: IntelliJ IDEA, Eclipse</li>
+<li>Framework: Eclipse Rich Client Platform, JUnit, Spring, Hibernate, Angular, JQuery</li>
+<li>Application Servers: WildFly, JBoss</li>
+<li>Cloud Technologies: Amazon Web Services, Microsoft Azure, Google Cloud Platform</li>
+<li>Development, Building, and Versioning tools: Maven, Ant, Git</li>
+<li>Dev and CI tools: Jira, FishEye, BitBucket, GitLab, Crucible, Confluence, Jenkins</li>
+<li>Virtualization and Containers: Docker, VirtualBox, VMware, Vagrant</li>
+</ul><div><br></div><div>
+<br><br>
 </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-go-developers-2">https://weworkremotely.com/remote-jobs/xm-go-developers-2</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-backend-developer-java">https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-backend-developer-java</a></p>
 
                 </details>
                 </td>
@@ -558,7 +610,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>36 days ago</text>
+                <text>37 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -632,7 +684,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>123 days ago</text>
+                <text>124 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/cvedia-senior-cpp-developer-remote-eu-time-zone" align="right" target="_blank">Apply</a>
@@ -737,84 +789,71 @@ Experience in working with various project stakeholder at various levels in a ma
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Storetasker</h5>
-                    <h3> Senior Shopify Developer (Remote + Flexible)</h3>
+                    <h5>Proxify</h5>
+                    <h3>Senior Full Stack Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>631 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/8032/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Brooklyn, NY
-    <br /><strong>URL:</strong> <a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_expert">https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_expert</a>
-</p>
-
-<h1>Shopify developers love to freelance with Storetasker.</h1><ul>
-<li>
-<strong>Endless, quality clients: </strong>from well known DTC brands to top agencies. </li>
-<li>
-<strong>Fully remote, flexible: </strong>work as much or as little as you want, wherever you want. </li>
-<li>
-<strong>A talented and helpful community: </strong>it's freelance (with a team).</li>
-<li>
-<strong>Earn $80-$120 per hour: </strong>pick your clients, and send your own quotes or retainers. <br><br>
-</li>
-</ul><div>We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: <a href="https://www.alphaindustries.com/">Alpha Industries</a>, <a href="https://www.bollandbranch.com/">Boll &amp; Branch</a>, <a href="https://getsuperfluid.com">Superfluid</a>, <a href="https://jackhenry.co/">Jack Henry</a>, <a href="http://plenaire.co/">Plenaire</a>, and <a href="https://walkfulton.com/">Fulton</a> among many more. <br><br><strong>Why Storetasker?</strong>
-</div><ul>
-<li>
-<strong>Endless clients &amp; project opportunities:</strong> you’ll see between 5 - 50 new opportunities per day and can pick any lead you want. </li>
-<li>
-<strong>You’ll earn more:</strong> some experts are making $150-200k per year. </li>
-<li>
-<strong>A high quality community:</strong> we carefully select about 5% of those who apply. </li>
-<li>
-<strong>Remote:</strong> work from anywhere, anytime. </li>
-<li>
-<strong>Flexible:</strong> take on as many clients as you want.</li>
-<li>
-<strong>No external ratings:</strong> you’re already a professional. No need to prove it. </li>
-<li>
-<strong>Great Software:</strong> that makes it easy to manage more clients and increase billable hours.</li>
-<li>
-<strong>Support when you need it:</strong> we offer project support 7 days per week. </li>
-<li>
-<strong>Community (not competition):</strong> you pick your clients, projects, and never compete against other Experts in the community. </li>
-</ul><div><br></div><div>
-<a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>Learn more and join</strong></a>! It’s confidential, and takes less than 5 minutes. <br><br><strong>Here's who we're looking for:</strong>
-</div><ul>
-<li>Ambitious part time and full-time freelancers and boutique agencies.</li>
-<li>Who have 3+ years of Shopify experience, and 5+ years of web development experience. </li>
-<li>And who have managed projects, deadlines, and communication successfully. </li>
-</ul><div>
-<br><strong>Especially people with some of these skills:</strong>
-</div><ul>
-<li>Front-end or full-stack Shopify development</li>
-<li>Klaviyo Email flows</li>
-<li>Headless e-commerce development</li>
-<li>Conversion rate optimization</li>
-<li>E-commerce expertise and strategy</li>
-<li>SEO </li>
-<li>Site Speed</li>
-<li>Builder and/or Shogun</li>
-</ul><div>
-<br><a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>It takes just a few minutes to join.</strong></a><br><br><strong>Here's what a few current members have to say:</strong><br><br>"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!" - Adan, United States, Storetasker Expert since March 2020<br><br>"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”" - Mark, England, Storetasker Expert since 2019<br><br>"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow." - Siah, Canada, Storetasker Expert since 2017<br><br><strong>Our Mission: </strong><br><br>We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.  <br><br><strong>Questions?</strong> Reach out at experts@storetasker.com.</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1">https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1</a></p>
-
+                <p>About us: </p>
+<p> </p>
+<p>"Talent has no borders." We strongly believe in uplifting talent by providing them with the right opportunities - no matter which part of the world you are from, we value your skills and offer every member the growth possibilities they deserve. 🙂</p>
+<p> </p>
+<p>Proxify is a global network and a supportive community of talented developers interested in long-term remote jobs. </p>
+<p>With us, you will get opportunities:</p>
+<p>To work remotely on exciting projects with leading brands and fast-growing startups.</p>
+<p>To work on commision free project-based jobs.</p>
+<p>To work with companies that respect and value your skills.</p>
+<p> </p>
+<p>Since our launch, talented developers on Proxify have worked with 620+ happy clients to build their products and growth features. 1400+ talented developers trust Proxify and the community we are building to fulfil their dreams and objectives. </p>
+<p><br><br></p>
+<p>The Role:</p>
+<p>We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </p>
+<p><br><br></p>
+<p>What we are looking for:</p>
+<p>4+ years of working experience as a FullStack;</p>
+<p>Frontend:</p>
+<p>- React JS;</p>
+<p>- Design System;</p>
+<p>Backend:</p>
+<p>- Microservices architecture;</p>
+<p>- NodeJS; </p>
+<p>Database:</p>
+<p>- SQL;</p>
+<p>- MongoDB;</p>
+<p>Upper-intermediate or higher English level.</p>
+<p> </p>
+<p>Nice-to-have: </p>
+<p>Timezone: CET (+/- 3 hours);</p>
+<p>Database Architecture knowledge</p>
+<p><br><br></p>
+<p>What we offer:</p>
+<p>💻 100% remote work: Work from anywhere.</p>
+<p>👌🏻 Flexibility: The ability to change the project to another one.</p>
+<p>💵 Financial growth: Competitive compensation and performance-based increases.</p>
+<p>🧘🏻‍♂️ Freedom: Very flexible working schedule.</p>
+<p>🚀 360 degree growth: Opportunities for professional development and personal growth.</p>
+<p><br><br><br></p>
+<p>Your benefits with Proxify:</p>
+<p>Be part of Proxify community: Network with like-minded and enthusiastic individuals to make a difference. </p>
+<p>Make an impact: You get the opportunity to work on the projects that inspire you and add value to your career.</p>
+<p>Transparency: Contracts with transparency in earnings and working hours.</p>
+<p>Save your time: Fast and efficient hiring process to match you with the project of your preference.</p>
+<p>Ownership: Take ownership of your work and enjoy more freedom in your career.</p>
+<img src="https://remotive.com/job/track/1359476/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -829,7 +868,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-native-developer-1344662" align="right" target="_blank">Apply</a>
@@ -854,7 +893,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,blockchain,growth,management</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-blockchain-developer-1344661" align="right" target="_blank">Apply</a>
@@ -879,7 +918,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,react,growth,management</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-react-developer-1344660" align="right" target="_blank">Apply</a>
@@ -904,7 +943,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -929,7 +968,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-unreal-engine-developer-1344657" align="right" target="_blank">Apply</a>
@@ -954,7 +993,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,growth,management,design</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-elixir-developer-1344656" align="right" target="_blank">Apply</a>
@@ -979,7 +1018,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1058,7 +1097,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1135,7 +1174,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
