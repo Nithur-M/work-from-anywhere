@@ -10,7 +10,7 @@
                     <code>defi,ethereum,security,python,docker,growth,code,devops,management,health</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-devops-engineernbspat-lido-dao-lido-135402" align="right" target="_blank">Apply</a>
@@ -72,7 +72,7 @@
 <div> </div>
 <div> </div>
 <div> </div>
-</div><br/><br/>Please mention the word **DYNAMIC** and tag RNTQuMTYyLjE3OS4zNA== when applying to show you read the job post completely (#RNTQuMTYyLjE3OS4zNA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **DYNAMIC** and tag RMy4yMzguOTkuNTE= when applying to show you read the job post completely (#RMy4yMzguOTkuNTE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -87,7 +87,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-10" align="right" target="_blank">Apply</a>
@@ -137,27 +137,77 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1344659/logo" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1433021/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Toptal</h5>
-                    <h3>Senior DevOps Engineer</h3>
+                    <h5>LumiQualis</h5>
+                    <h3>DevOps Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>AWS,developer,devops,growth</code>
+                    <code>AWS,cloud,developer,devops</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1344659" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/devops/devops-engineer-1433021" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p class="h2" dir="ltr" style="margin-top: 18pt; margin-bottom: 4pt; line-height: 1.38;"><em style="color: rgb(0, 0, 0);   font-weight: 600; letter-spacing: 0.75px;">Design your full-time freelance career as a top freelance developer with Toptal.</em><br></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. </span></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; font-weight: 700; color: rgb(0, 0, 0);">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);"> Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. </span></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. </span></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">That’s why the world’s top 3% of developers choose Toptal. DevOps Engineers in our network share:</span></p><ul style="padding-inline-start: 48px;"><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">English language proficiency</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; font-weight: 700;">3+ years</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> of professional experience in software development</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Solid experience with </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; font-weight: 700;">AWS</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> is a strong advantage</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Project management skills</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">A keen attention to detail</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Experience with system architecture or leading a software team is a strong advantage</span></p></li><li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; background-color: transparent; white-space: pre; color: rgb(0, 0, 0);"><p dir="ltr" style="margin-top: 0pt; margin-bottom: 42pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; font-weight: 700;">Full-time availability</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;"> is a strong advantage</span></p></li></ul><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">Curious to know how much you could make? Check out our DevOps engineer rate calculator:</span><a href="https://topt.al/rRcmJn" rel="nofollow" style="text-decoration: none;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);"> </span></a><a href="https://topt.al/rqcbMg" rel="nofollow">https://topt.al/rqcbMg</a></p><p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form:</span><a href="https://topt.al/VwcMQG" rel="nofollow" style="text-decoration: none;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap; color: rgb(0, 0, 0);"> </span></a><span style="font-variant-numeric: normal; font-variant-east-asian: normal; text-decoration-skip-ink: none; vertical-align: baseline; white-space: pre-wrap; color: rgb(17, 85, 204);"><a href="https://topt.al/Qkcv4y" rel="nofollow"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">https://topt.al/Qkcv4y</span></a></span></p>
-<img src="https://remotive.com/job/track/1344659/blank.gif?source=public_api" alt=""/>
+                <p>**Resumes used to apply for this role must be submitted in English for consideration**</p>
+<p>Who we are:</p>
+<p>LumiQualis is a growing startup focused on recruiting fun, creative, curious and highly motivated Luminaries to join our team. We have openings at all levels and would love to hear more about you. A little about us... who we are as people is who we are as a company. It's why finding the right people is so important. We love what we do and it shows in <em>everything</em> we do. LumiQualis believes in balance - time to work and play.</p>
+<p>We welcome diversity and non-traditional paths into the developer profession and advocate strongly for hiring the right person as opposed to the right combination of technical keywords.</p>
+<p>Our core values speak to how we operate - curiosity, excellence, integrity, and transparency. If these values jive with yours, please take a moment to share what you've got!</p>
+<p>LumiQualis operates in a Mac environment. If hired, you will be expected to use a Mac laptop. LumiQualis provides additional compensation to cover this cost.</p>
+<p><br><br></p>
+<p>Why Join LumiQualis:</p>
+<ul>
+<li>We’re a remote first company</li>
+<li>International team environment</li>
+<li>Time dedicated weekly to learning</li>
+<li>Fast-paced environment with a LOT of exciting work to be done</li>
+</ul>
+<p><br><br></p>
+<p>Summary:</p>
+<p>LumiQualis seeks a DevOps engineer whose responsibilities include setting up infrastructure on AWS and other cloud service providers using IaaC to support the software development process and production setup/deployments, including monitoring, alerting and tracing. To be successful in this role, you should have experience using DevOps methodology and process and work well in a team. Ultimately, you’ll ensure the automation and the quality of the development cycle that align with our business needs.</p>
+<p>You will also be accountable for managing team members, implementing CI/CD pipelines using best practices, and working with clients and stakeholders to understand the requirements and implementation plans.</p>
+<p>We want you to:</p>
+<ul>
+<li>Enjoy and have experience defining the DevOps practices in the development cycle</li>
+<li>Think about high-quality practices and tools to be implemented by the technology teams inside the company, like Docker, CI/CD, AWS, CloudFormation and related technologies while being aware of the cost and toil implications of your choices</li>
+<li>Hold yourself and others to a high standard when working with production systems</li>
+<li>Take pride in working on projects to successful completion involving a wide variety of technologies and systems</li>
+<li>Thrive in a collaborative environment involving different stakeholders and subject matter experts</li>
+</ul>
+<p>Key responsibilities:</p>
+<ul>
+<li>Execute and configure the best practices and tools to maintain documentation of DevOps</li>
+<li>Monitor the current practices and propose continuous improvements based in DevOps methodologies</li>
+<li>Coach the team in the best DevOps methodologies</li>
+<li>Automate and optimize the actions and practices, implementing CI/CD pipelines for different projects</li>
+<li>Set up the monitoring, metrics collection and tracing solutions to enable developer self-service</li>
+<li>Ensure the automation and the quality of the development cycle</li>
+</ul>
+<p>Equality and diversity are part of our <em>Care for All</em> core value. It's everyone's job to ensure that we create an open, caring and inclusive workplace for everyone qualified and motivated to help us provide outstanding services to our clients.</p>
+<p>We are an Equal Opportunity Employer. That means that we support diversity and inclusion and do not discriminate against qualified employees or applicants because of race, color, religion, gender identity, sex, sexual preference, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by federal or state law or local ordinance.</p>
+<p><strong>Requirements</strong></p>
+<p>Minimum Requirements:</p>
+<ul>
+<li>+4 years of work experience as a Devops engineer</li>
+<li>BS in Computer Science, Engineering, or relevant field</li>
+<li>Working experience with AWS</li>
+<li>Up-to-date AWS Certified DevOps Engineer / Professional certification</li>
+<li>Sound problem-solving skills</li>
+<li>Planning and organizational skills</li>
+<li>Improvement orientation</li>
+<li>Team and leadership spirit</li>
+<li>English fluency, verbal and written *B1</li>
+<li>Personality traits: problem solver, proactive, highly attentive to detail</li>
+</ul>
+<img src="https://remotive.com/job/track/1433021/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
