@@ -10,7 +10,7 @@
                     <code>defi,ethereum,security,python,docker,growth,code,devops,management,health</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-devops-engineernbspat-lido-dao-lido-135402" align="right" target="_blank">Apply</a>
@@ -72,7 +72,7 @@
 <div> </div>
 <div> </div>
 <div> </div>
-</div><br/><br/>Please mention the word **DYNAMIC** and tag RMy4yMzguOTkuNTE= when applying to show you read the job post completely (#RMy4yMzguOTkuNTE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **DYNAMIC** and tag RNDQuMjAzLjE5Ni4yMTU= when applying to show you read the job post completely (#RNDQuMjAzLjE5Ni4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -87,7 +87,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-10" align="right" target="_blank">Apply</a>
@@ -133,81 +133,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-10">https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-10</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1433021/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>LumiQualis</h5>
-                    <h3>DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,cloud,developer,devops</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/devops-engineer-1433021" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>**Resumes used to apply for this role must be submitted in English for consideration**</p>
-<p>Who we are:</p>
-<p>LumiQualis is a growing startup focused on recruiting fun, creative, curious and highly motivated Luminaries to join our team. We have openings at all levels and would love to hear more about you. A little about us... who we are as people is who we are as a company. It's why finding the right people is so important. We love what we do and it shows in <em>everything</em> we do. LumiQualis believes in balance - time to work and play.</p>
-<p>We welcome diversity and non-traditional paths into the developer profession and advocate strongly for hiring the right person as opposed to the right combination of technical keywords.</p>
-<p>Our core values speak to how we operate - curiosity, excellence, integrity, and transparency. If these values jive with yours, please take a moment to share what you've got!</p>
-<p>LumiQualis operates in a Mac environment. If hired, you will be expected to use a Mac laptop. LumiQualis provides additional compensation to cover this cost.</p>
-<p><br><br></p>
-<p>Why Join LumiQualis:</p>
-<ul>
-<li>We’re a remote first company</li>
-<li>International team environment</li>
-<li>Time dedicated weekly to learning</li>
-<li>Fast-paced environment with a LOT of exciting work to be done</li>
-</ul>
-<p><br><br></p>
-<p>Summary:</p>
-<p>LumiQualis seeks a DevOps engineer whose responsibilities include setting up infrastructure on AWS and other cloud service providers using IaaC to support the software development process and production setup/deployments, including monitoring, alerting and tracing. To be successful in this role, you should have experience using DevOps methodology and process and work well in a team. Ultimately, you’ll ensure the automation and the quality of the development cycle that align with our business needs.</p>
-<p>You will also be accountable for managing team members, implementing CI/CD pipelines using best practices, and working with clients and stakeholders to understand the requirements and implementation plans.</p>
-<p>We want you to:</p>
-<ul>
-<li>Enjoy and have experience defining the DevOps practices in the development cycle</li>
-<li>Think about high-quality practices and tools to be implemented by the technology teams inside the company, like Docker, CI/CD, AWS, CloudFormation and related technologies while being aware of the cost and toil implications of your choices</li>
-<li>Hold yourself and others to a high standard when working with production systems</li>
-<li>Take pride in working on projects to successful completion involving a wide variety of technologies and systems</li>
-<li>Thrive in a collaborative environment involving different stakeholders and subject matter experts</li>
-</ul>
-<p>Key responsibilities:</p>
-<ul>
-<li>Execute and configure the best practices and tools to maintain documentation of DevOps</li>
-<li>Monitor the current practices and propose continuous improvements based in DevOps methodologies</li>
-<li>Coach the team in the best DevOps methodologies</li>
-<li>Automate and optimize the actions and practices, implementing CI/CD pipelines for different projects</li>
-<li>Set up the monitoring, metrics collection and tracing solutions to enable developer self-service</li>
-<li>Ensure the automation and the quality of the development cycle</li>
-</ul>
-<p>Equality and diversity are part of our <em>Care for All</em> core value. It's everyone's job to ensure that we create an open, caring and inclusive workplace for everyone qualified and motivated to help us provide outstanding services to our clients.</p>
-<p>We are an Equal Opportunity Employer. That means that we support diversity and inclusion and do not discriminate against qualified employees or applicants because of race, color, religion, gender identity, sex, sexual preference, sexual identity, pregnancy, national origin, ancestry, citizenship, age, marital status, physical disability, mental disability, medical condition, military status, or any other characteristic protected by federal or state law or local ordinance.</p>
-<p><strong>Requirements</strong></p>
-<p>Minimum Requirements:</p>
-<ul>
-<li>+4 years of work experience as a Devops engineer</li>
-<li>BS in Computer Science, Engineering, or relevant field</li>
-<li>Working experience with AWS</li>
-<li>Up-to-date AWS Certified DevOps Engineer / Professional certification</li>
-<li>Sound problem-solving skills</li>
-<li>Planning and organizational skills</li>
-<li>Improvement orientation</li>
-<li>Team and leadership spirit</li>
-<li>English fluency, verbal and written *B1</li>
-<li>Personality traits: problem solver, proactive, highly attentive to detail</li>
-</ul>
-<img src="https://remotive.com/job/track/1433021/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
