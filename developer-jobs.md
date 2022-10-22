@@ -10,7 +10,7 @@
                     <code>developer,solidity,ethereum,system,security,architect,software,web,financial,serverless,cloud,typescript,operations,analytics,sales,engineer,engineering,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-solutions-developer-openzeppelin-135403" align="right" target="_blank">Apply</a>
@@ -94,66 +94,129 @@
 <h3 class="job-description-title">Â </h3>
 </div>
 </div>
-</div><br/><br/>Please mention the word **THANKFUL** and tag RMy4yMzguOTkuNTE= when applying to show you read the job post completely (#RMy4yMzguOTkuNTE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **THANKFUL** and tag RNDQuMjAzLjE5Ni4yMTU= when applying to show you read the job post completely (#RNDQuMjAzLjE5Ni4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/499d0cc675bee4da9a6aac8440858f291665856818.png" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Openlogix Corporation</h5>
-                    <h3>Salesforce Lead Developer</h3>
+                    <h5>Toptal</h5>
+                    <h3> Full Stack Developer</h3>
                 </td>
                 <td width="300">
-                    <code>training,trainer,management,healthcare,salesforce,developer,design,system,security,web,api,lead,digital nomad</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-salesforce-lead-developer-openlogix-corporation-133629" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/toptal-full-stack-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                We have a new requirement for a Full Time Salesforce Developer position. Please find below the job description.
+                
 
-Position : Salesforce Developer
-Location : Remote
-Position Type : Full Time
-Visa : Â  H1B Transfer
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://www.toptal.com/">https://www.toptal.com/</a>
+</p>
 
-Client is currently searching for a Salesforce Lead Developer. This role can be located anywhere within the United States (remote work).
-This position will be part of a Core Platform Modernization team and will be responsible for focusing on developing, defining, configuring, supporting, and auditing Salesforce applications.
-Â 
-Implementing Salesforce solutions using best practices through standard configuration and custom development.
-Developing clear functional requirement and technical specifications when custom development is required.
-Support the analysis of CRM information system needs through the organization including product evaluations, recommendations for system selection, implementation, enhancements and support.
-Define and optimize process to help drive improvements to meet business needs in Salesforce.
-Build and manage dashboards, views, and report
-Design security module.
-Develop custom components, triggers and pages.
-Audit and resolve data quality issues; make recommendations to prevent issues from recurring in the future
-Â 
-Preferred Qualifications:
-Six or more years of experience in Salesforce Development.
-Salesforce Certified Platform Developer I.
-Salesforce Certified Platform Developer II highly preferred.
-Three or more years of experience in the Lightning Aura Component.
-Three or more years of experience developing Classes, Controllers and Triggers.
-Three or more years of experience with Salesforce Batch Apex.
-Three or more years of experience with Rest API integration.
-One or more years of experience with Lightning Service Console.
-One or more years of experience in Lightning - specifically working with Lightning Web Components highly preferred.
-One or more years of experience with Web Services via Service Bus or equivalent with MuleSoft.
-Understanding of object-oriented programming principles, design patterns, relational database principles, and operating systems.
-Experience in design and development of enterprise systems.
-Execution experience in the Agile delivery model.
-Experience in working with various project stakeholder at various levels in a matrix organization
+<div>
+<strong><em>Design your full-time freelance career as a top freelance developer with Toptal. </em></strong><br><br>Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. <br><br>Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <strong>Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </strong>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. <br><br>As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. <br><br>That’s why the world’s top 3% of developers choose Toptal. Developers in our exclusive network share:</div><ul>
+<li>English language proficiency</li>
+<li>
+<strong>3+ years</strong> of professional experience in software development</li>
+<li>Solid experience with <strong>Unreal Engine </strong>is a strong advantage</li>
+<li>Experience with <strong>system architecture</strong> is a strong advantage</li>
+<li>Project management skills</li>
+<li>A keen attention to detail</li>
+<li>
+<strong>Full-time availability</strong> is a strong advantage</li>
+</ul><div>
+<br>If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/55cgQQ"><strong>https://topt.al/55cgQQ</strong></a>
+</div>
 
-<br/><br/>Please mention the word **GAIN** and tag RMy4yMzguOTkuNTE= when applying to show you read the job post completely (#RMy4yMzguOTkuNTE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toptal-full-stack-developer">https://weworkremotely.com/remote-jobs/toptal-full-stack-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8558/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>DesignFiles</h5>
+                    <h3> Remote Ruby on Rails Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/designfiles-remote-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8558/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://designfiles.co">https://designfiles.co</a>
+</p>
+
+<div>
+<strong>At DesignFiles we're looking for a Full-Stack Ruby on Rails Developer to join our engineering team.<br></strong><br>
+</div><div><strong>About the Job:</strong></div><div>
+<br>DesignFiles is an interior design project management software company on a mission to help interior designers and home furnishing retailers take their design services and businesses to new heights. With 5,000+ customers (including Wayfair, La-Z-Boy, Crate &amp; Barrel, Interior Define) and 20+ team members located all over the world, we're growing quickly and looking for our next driven and talented team member.<br><br>
+</div><div>We’re looking for a Full Stack Ruby on Rails Developer to join the company to drive product development from the ground level.<br><br>
+</div><div>
+<em>Please note: This is a contract role and we are looking for individuals (not agencies) that can commit 40+ hours a week to become a core member of our team.<br></em><br>
+</div><div>
+<br><strong>What You'll Do:</strong>
+</div><ul>
+<li>Write, review and improve Ruby and JavaScript code working in Unix environment.<br><br>
+</li>
+<li>Collaborate with our product team to bring features from conception to completion.<br><br>
+</li>
+<li>Develop features with an emphasis on consistency and integrity at all levels of the stack.<br><br>
+</li>
+<li>Improve DesignFiles' engineering culture with an eye for best practices, code quality and code reviews.<br><br>
+</li>
+<li>Actively contribute to the project with ideas and solutions to constantly improve the lives of our designers and their clients.<br><br>
+</li>
+<li>Participate (on video) in Sprint Planning, Retros, 1:1s<br><br>
+</li>
+</ul><div>
+<br><strong>What We Want From You:</strong>
+</div><ul>
+<li>5+ years experience as a full-stack developer.<br><br>
+</li>
+<li>3+ years of hands-on Ruby on Rails experience.<br><br>
+</li>
+<li>Strong experience with Ruby on Rails: rubocop, minitest-spec-rails, delayed job, paperclip, paranoia, etc.<br><br>
+</li>
+<li>Strong experience with modern JavaScript/CSS: Webpack, Gulp, eslint, prettier, BEM.<br><br>
+</li>
+<li>Solid knowledge of unix shell, PostgreSQL, Docker, Node.js, AWS S3.<br><br>
+</li>
+<li>Fluent English, good communication skills and full presence during agreed work hours.<br><br>
+</li>
+<li>Taking responsibility for testing own code, thinking through the edge cases and ability to work productively without close supervision.<br><br>
+</li>
+<li>Decent internet connection to participate in video calls and screen sharing sessions.<br><br>
+</li>
+</ul><div>Sounds interesting? Apply here &gt;&gt; https://designfiles.homerun.co/ruby-on-rails-developer</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/designfiles-remote-ruby-on-rails-developer">https://weworkremotely.com/remote-jobs/designfiles-remote-ruby-on-rails-developer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -168,7 +231,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/phase-locked-software-fullstack-javascript-developer-remote-part-time-freelance" align="right" target="_blank">Apply</a>
@@ -264,7 +327,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sendwave-senior-developer-productivity-engineer-remote" align="right" target="_blank">Apply</a>
@@ -351,124 +414,6 @@ Experience in working with various project stakeholder at various levels in a ma
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>XM</h5>
-                    <h3> Angular Developers – Cyprus, Greece or Remote </h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-angular-developers-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Cyprus
-    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
-</p>
-
-<div>
-<strong>Angular Developers – Cyprus, Greece or Remote <br></strong><br>
-</div><div>
-<strong>Reference Number: ANG1022 <br></strong><br>
-</div><div>
-<strong>The Role: <br></strong><br>
-</div><div>As an Angular Developer you will join a fast-growing team of highly skilled professionals. Your focus will be to deliver high quality code in existing and new Angular client-facing applications. In addition, you will have the opportunity to share your knowledge amongst other IT professionals and evolve in your career by pushing Angular to its limits.<br><br>
-</div><div>
-<strong>The main responsibilities of the position include:<br></strong><br>
-</div><div>·        Build advanced front-end applications with the Angular Framework</div><div>·        Follow test-driven development, continuous integration and agile methodologies</div><div>·        Review code from other developers</div><div>·        Continuously monitor and improve application reliability and optimise performance</div><div>·        Run unit testing and automation testing</div><div>·        Contribute to system design and architecture</div><div><strong> </strong></div><div>
-<strong>Main requirements:<br></strong><br>
-</div><div>·        Degree in computer science, engineering, or any other related degree</div><div>·        At least 5 years of work experience in Javascript development</div><div>·        Solid understanding of the full development life cycle</div><div>·        Excellent understanding of algorithmic complexity, data structures, OOP Principles</div><div>·        Knowledge of REST API and web services implementation concepts</div><div>·        Knowledge of GIT at a Pro Level</div><div>·        Knowledge of HTML at a Pro Level</div><div>·        Knowledge of SCSS at a Pro Level</div><div>·        Very good communication and interpersonal skills</div><div>·        Strong team working skills</div><div>·        Self-motivated with a passion for professional development</div><div>·        Fluency in English </div><div><strong> </strong></div><div>
-<strong>The following will be considered an advantage:<br></strong><br>
-</div><div>·        Knowledge of NESTJS is considered a plus</div><div>·        Knowledge of JAM Stack is considered a plus</div><div>·        Familiarity with AWS Services is considered a plus</div><div>·        Familiarity with JAVA or PHP is considered a plus</div><div>·        Work portfolio of open-source projects and technical blogs, working knowledge of NODE Js is considered a plus<br><br>
-</div><div><strong> </strong></div><div>
-<strong>Benefit from:<br></strong><br>
-</div><ul>
-<li>Attractive remuneration package plus performance related reward  </li>
-<li>Intellectually stimulating work environment</li>
-<li>Continuous personal development and international training opportunities</li>
-<li>Food allowance</li>
-<li>Attractive relocation package and support for a smooth relocation for you and your family </li>
-</ul><div><br></div><div>Type of employment: Full-time<br><br>
-</div><div>Location: Cyprus, Greece or Remote<br><br>
-</div><div>Please visit this link <a href="https://www.xm.com/careers/ang1022">https://www.xm.com/careers/ang1022</a> to submit your online application for this position.</div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div><div> <br><br>
-</div><div> <br><br>
-</div><div> <br><br>
-</div><div> <br><br>
-</div><div> <br><br>
-</div><div> <br><br>
-</div><div> <br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-angular-developers-cyprus-greece-or-remote-2">https://weworkremotely.com/remote-jobs/xm-angular-developers-cyprus-greece-or-remote-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/9815/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>IVPN</h5>
-                    <h3> Backend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/ivpn-backend-developer-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/9815/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Gibraltar
-    <br /><strong>URL:</strong> <a href="https://www.ivpn.net">https://www.ivpn.net</a>
-</p>
-
-<div>We are seeking a backend developer to develop and maintain our backend infrastructure. In this role, you will use your skills to build reliable, secure and scalable backend infrastructure for our VPN service. You should have expertise in Golang and PHP, be able to collaborate with team members, and be a pragmatic problem-solver. <strong><br></strong><br>
-</div><h1><strong>Responsibilities</strong></h1><ul>
-<li>Develop well designed, secure, testable and efficient code using software development best practices.</li>
-<li>Collaborating with other members of the product development team to achieve project objectives.</li>
-<li>Refactor, optimise, and improve the existing codebase for scale.</li>
-<li>Ensuring the security of our backend infrastructure.</li>
-</ul><h1>Job Requirements</h1><ul>
-<li>Knowledge of secure coding best practices</li>
-<li>Strong experience working in a Linux environment</li>
-<li>Strong experience with Go language </li>
-<li>Experience with PHP 7 and the Laravel framework (for migrating our legacy PHP systems to our new Go based backend)</li>
-<li>Experience with devops including Docker and CI/CD</li>
-<li>Fluent in SQL and able to create database schemas that represent and support business processes</li>
-<li>Experience writing unit and integration tests</li>
-<li>Experience with RabbitMQ a bonus</li>
-<li>Proficient with Git</li>
-<li>Experience working in a remote, globally-distributed, agile team environment</li>
-</ul><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ivpn-backend-developer-2">https://weworkremotely.com/remote-jobs/ivpn-backend-developer-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0075/9084/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -479,7 +424,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-3" align="right" target="_blank">Apply</a>
@@ -556,6 +501,62 @@ Experience in working with various project stakeholder at various levels in a ma
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
+                    <h5>Chainlink Labs</h5>
+                    <h3> Senior Software Engineer, Developer Experience</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-developer-experience" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> United States
+    <br /><strong>URL:</strong> <a href="https://chainlinklabs.com/careers">https://chainlinklabs.com/careers</a>
+</p>
+
+<div>As a <strong>Senior Software Engineer on the Developer Experience</strong> team, you will help us build the tools and frameworks to support our core workflows in the Chainlink ecosystem. You will work closely with smart contract and node operations teams to ensure they are equipped to efficiently manage Chainlink oracle deployments and smart contracts. You will be given a high level of autonomy/ownership over your projects, the opportunity to expand your scope of knowledge, and the chance to help build the decentralized infrastructure of the future. This includes exposure to a wide variety of blockchains and protocols.</div><div><br></div><div>This is a great role for a senior engineer with <strong>TypeScript or Golang</strong> experience interested in exploring the blockchain and smart contract world and gaining exposure to a wide variety of blockchains and protocols.</div><div><br></div><div>We are distributed across time zones and continents, and we embrace remote work.</div><div><br></div><div>We all have different backgrounds and are determined to help you succeed no matter where you are or who you are. If you think you would do a great job at Chainlink, we are looking forward to speaking with you, even if you don't match 100% of the job requirements: those describe people we've usually had a great time working with, but they're not a tick-box exercise.</div><div><br></div><div>
+<strong><br>Your Impact<br></strong><br>
+</div><ul>
+<li>Own large components of the toolchain that supports all Chainlink Labs infrastructure and smart contract management</li>
+<li>Converge disparate frameworks built to support different blockchains into one unified experience (a highly unique and ambitious undertaking!)</li>
+<li>Work directly with blockchain integrations, engineering operations, and our security teams to ensure they are able to efficiently and securely execute core workflows</li>
+<li>Prepare and support our blockchain SDK for use by the broader Chainlink community, potentially including open source work</li>
+<li>Actively participate in leveling the team’s engineering bar, increasing the velocity of the team and the reliability and security of the product</li>
+<li>Mentor other engineers on the team</li>
+</ul><div>
+<strong><br>Requirements<br></strong><br>
+</div><ul>
+<li>Experience owning multi month long projects, including communication of progress, dependencies, and risk mitigation directly with stakeholders and partners</li>
+<li>Computer science fundamentals and systems design</li>
+<li>Ability to be creative and resourceful when tackling ambiguous technical challenges</li>
+<li>Strong communication skills. You can give and receive constructive feedback, and you do not shy away from planning meetings and code reviews</li>
+</ul><div>
+<strong><br>Desired Qualifications<br></strong><br>
+</div><ul>
+<li>5+ years of professional engineering experience working in a collaborative product-driven environment, including at least some hands-on TypeScript development</li>
+<li>Excitement for blockchain, web3, and similar decentralized technologies</li>
+<li>Experience working with a team located across multiple time zones</li>
+</ul><div><br></div><div><strong>Our Stack</strong></div><div><br></div><div>Core: TypeScript, Golang</div><div>Sometimes: Solidity, Rust</div><div><br></div><div><br></div><div><strong>Our Principles</strong></div><div><br></div><div>At Chainlink Labs, we’re committed to the key operating principles of ownership, focus, and open dialogue. We practice complete ownership, where everyone goes the extra mile to own outcomes into success. We understand that unflinching focus is a superpower and is how we channel our activity into technological achievements for the benefit of our entire ecosystem. We embrace open dialogue and critical feedback to arrive at an accurate and truthful picture of reality that promotes both personal and organizational growth.</div><div><br></div><div><strong>About Chainlink Labs</strong></div><div><br></div><div>Chainlink is the industry standard oracle network for connecting smart contracts to the real world. With Chainlink, developers can build hybrid smart contracts that combine on-chain code with an extensive collection of secure off-chain services powered by Decentralized Oracle Networks. Managed by a global, decentralized community of hundreds of thousands of people, Chainlink is introducing a fairer model for contracts. Its network currently secures billions of dollars in value for smart contracts across the decentralized finance (DeFi), insurance, and gaming ecosystems, among others. The full vision of the Chainlink Network can be found in the <a href="https://research.chain.link/whitepaper-v2.pdf">Chainlink 2.0 whitepaper</a>. Chainlink is trusted by hundreds of organizations—from global enterprises to projects at the forefront of the blockchain economy—to deliver definitive truth via secure, reliable data.  </div><div><br></div><div>This role is location agnostic anywhere in the world, but we ask that you overlap some working hours with Eastern Standard Time (EST).</div><div><br></div><div>We are a fully distributed team and have the tools and benefits to support you in your remote work environment.</div><div><br></div><div><em>Chainlink Labs is an Equal Opportunity Employer.</em></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-developer-experience">https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-developer-experience</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
                     <h5>Data Virtuality GmbH</h5>
                     <h3> Senior Backend Developer (Java)</h3>
                 </td>
@@ -563,7 +564,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-backend-developer-java" align="right" target="_blank">Apply</a>
@@ -639,111 +640,92 @@ Experience in working with various project stakeholder at various levels in a ma
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6914/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4055/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Front-end Developer</h3>
+                    <h5>SocialHub</h5>
+                    <h3> Backend Javascript / Node.js Developer - Remote/SaaS (m/f/d)</h3>
                 </td>
                 <td width="300">
-                    <code>Front-End Programming</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>38 days ago</text>
+                <text>60 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/socialhub-backend-javascript-node-js-developer-remote-saas-m-f-d-2" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6914/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4055/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+  <strong>Headquarters:</strong> Schütterlettenweg 4, 85053 Ingolstadt, Deutschland
+    <br /><strong>URL:</strong> <a href="https://socialhub.io/de/">https://socialhub.io/de/</a>
 </p>
 
-<div><br></div><div><strong>The Role:</strong></div><div>We are searching for a Senior Front-End Developer (Angular.js/React.js). You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years experience with React.js/Angular.js;</li>
-<li>You follow best practices and conventions;</li>
-<li>Relevant experience in CI/CD and related tools;</li>
-<li>Responsible and able to work with minimal supervision;</li>
-<li>Upper-intermediate English level;</li>
-<li>You can communicate well with both technical and non-technical clients.</li>
-</ul><div>
-<strong><br>Nice-to-have:</strong> <br><br>
+<div>
+<strong>DOES THIS SOUND LIKE YOU?<br></strong><br>
 </div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Basic back-end knowledge for minor back-end jobs where necessary.</li>
+<li>You like writing automated tests so you notice regressions on your code early on<br><br>
+</li>
+<li>You love to see your users happy. Therefore you don’t hesitate to help clients if the need arises for solving bugs.<br><br>
+</li>
+<li>Using a DVCS like git comes natural to you<br><br>
+</li>
+<li>You appreciate constructive criticism and are able to provide such yourself when reviewing others code<br><br>
+</li>
+<li>You have a thing for documenting your work because you know your future self will appreciate it</li>
 </ul><div>
-<strong><br>Responsibilities:<br></strong><br>
+<br><br><strong>YOUR REQUIREMENTS FOR THE JOB<br></strong><br>
 </div><ul>
-<li>Build reusable code and libraries for future use;</li>
-<li>Ensure the technical feasibility of UI/UX designs;</li>
-<li>Transform visual designs and wireframes into working products;</li>
-<li>Accurate planning of the feature delivery;</li>
-<li>Collaborate with other team members and stakeholders</li>
+<li>At least 3 years working experience in a development team and experience in developing scalable web apps<br><br>
+</li>
+<li>Experience in building Node.js based APIs with Express.JS<br><br>
+</li>
+<li>Knowledge of common web security best practices (e.g. OWASP 10)<br><br>
+</li>
+<li>You are able to work and communicate with your teammates through our core hours (11am to 4pm german timezone)</li>
 </ul><div>
-<br><br>
-</div><div>
-<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.🚀 <strong>360 degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+<br><br><strong>THESE SKILLS WOULD BE BENEFICAL FOR YOU<br></strong><br>
+</div><ul>
+<li>You have experience with technologies like Redis, RabbitMQ and the ELK stack<br><br>
+</li>
+<li>Experience with non-relational databases<br><br>
+</li>
+<li>Knowledge of mongodb and its query syntax<br><br>
+</li>
+<li>You can analyze and resolve performance issues with mongodb queries and indices<br><br>
+</li>
+<li>You’ve worked with gitlab and gitlab ci before<br><br>
+</li>
+<li>Knowledge of the Social Network API’s e.g. Facebook, Twitter, etc.<br><br>
+</li>
+<li>You’ve run your own Web Server in the past and know your way around Linux</li>
 </ul><div>
-<br><br>
-</div>
+<br><br><strong>WHAT WE HAVE TO OFFER</strong><br><br>
+</div><div><br></div><ul>
+<li>Company houses 2023: We rent houses worldwide - free of charge for you. Enjoy work and meet your teammates from all over the world. To work or to take a vacation, we leave it up to you!<br><br>
+</li>
+<li>Flexible working hours and the possibility to work remotely.<br><br>
+</li>
+<li>An enthusiastic and friendly team in a productive working environment.<br><br>
+</li>
+<li>Varied and challenging activities in a constantly growing and future-oriented industry.<br><br>
+</li>
+<li>Great coaching and development opportunities. We have an annual budget for external training courses and conferences. We previously attended GitHub Universe in London and Amsterdam.<br><br>
+</li>
+<li>An afternoon each sprint (every 2 weeks) to work on something that interests you. Want to learn a new programming language? That’s fine by us. It doesn't have to be work-related. It’s there to help you expand your skill set and keep the creative juices flowing. <br><br>
+</li>
+<li>Always a cold Fritz-Kola in the fridge (if you decide to stop by our office). <br><br>
+</li>
+<li>Join us for whole company get-togethers. Our past retreats have been in Belgium, Prague &amp; Spain. Our next one is in Portugal.</li>
+</ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/socialhub-backend-javascript-node-js-developer-remote-saas-m-f-d-2">https://weworkremotely.com/remote-jobs/socialhub-backend-javascript-node-js-developer-remote-saas-m-f-d-2</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1422656/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>FirstPromoter</h5>
-                    <h3>Team Leader/Senior Vue JS developer</h3>
-                </td>
-                <td width="300">
-                    <code>CSS,developer,html,illustrator</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/team-leader-senior-vue-js-developer-1422656" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h4"><strong>Description</strong></div>
-<p><br>FirstPromoter helps SaaS and other subscription businesses to easily launch and manage their referral and affiliate programs. We're one of the top affiliate tools in the market, with hundreds of clients worldwide, ranging from small one man startups to companies valued at $4 billion. We launched 5 years ago, fully bootstrapped and highly profitable since then.<br><br>We are looking for a Senior front-end, <strong>VueJS</strong> developer that will help us develop and continuously improve the new user interface of our web application. </p>
-<p>Since we're at the beginning of our journey, you'll play a big role in shaping the future of our company, that's why having initiative, being reliable and driven it's essential for us. If you like wild growth and working with happy, enthusiastic over-achievers, you'll enjoy a career with us!</p>
-<p><strong>Our front-end tech stack:</strong><br></p>
-<ul><li>Vue 3 with script setup and Typescript</li><li>Pinia for state management</li><li>Vue Test Utils and Cypress for testing</li><li>Storybook as component library</li></ul>
-<p><strong>Responsibilities</strong></p>
-<ul><li>participate in the UI and UX design process</li><li>turn existing UI and UX designs into working front-end code</li><li>work together with our full-stack developers to connect built components to our Ruby On Rails application</li><li>improve existing user experience based on usage data and customer feedback</li><li>design and develop new user facing features</li><li>build components that can be reused across multiple sections</li><li>ensure the mobile responsiveness of the application</li><li>test the new features before they are deployed to the production environment<br></li></ul>
-<div class="h4"><strong>Requirements<br></strong></div>
-<ul><li>proficient in Javascript, HTML and CSS</li><li>minimum 4 years experience on front-end development using Vue JS</li><li>experience with Vue 3, Pinia and Cypress</li><li>good Typescript knowledge</li><li>clear understanding of DOM manipulation and Javascript object model</li><li>good understanding of http(s) requests, browser cache, cookies handling, etc</li><li>experience with common front-end development tools such as Webpack, NPM, etc.</li><li>any experience with Ruby on Rails framework is a big plus</li><li>familiarity with Restful APIs</li><li>good knowledge of basic UI and UX principles</li><li>ability to mockup and understand advanced UX flows</li><li>experience with Figma or Adobe Illustrator is a big plus</li><li>good conversational English</li><li>affiliate marketing understanding is a really big plus<br></li></ul>
-<div class="h4"><strong>Benefits<br></strong></div>
-<ul><li>remote work only – we are where <em>you</em> are!</li><li>flexible work schedule - Freedom &amp; flexibility; fit your work around your life</li><li>great working environment that values the importance of work life</li><li>being able to work directly with the founder</li><li>an incredible opportunity to help build and share an exciting product that excites and delights people around the world</li><li>the chance to learn and work with latest technologies and support to showcase your bright ideas</li><li>paid time off for any public holidays in your own country</li><li>1 day off for your birthday</li><li>21 vacation days per year fully paid</li></ul>
-<img src="https://remotive.com/job/track/1422656/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -758,7 +740,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -821,22 +803,22 @@ Experience in working with various project stakeholder at various levels in a ma
                 </td>
                 <td width="300">
                     <h5>Toptal</h5>
-                    <h3>Senior Full Stack Developer</h3>
+                    <h3>Full Stack Developer</h3>
                 </td>
                 <td width="300">
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1344658" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1344658" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your full-time freelance career as a top freelance developer with Toptal.</em></span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</span> Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</p><ul><li>English language proficiency</li><li>3+ years of professional experience in software development</li><li>Solid experience with <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">React.js, Ruby on Rails, Go</span> or/and <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Node.js</span> is a strong advantage</li><li>Project management skills</li><li>A keen attention to detail</li><li>Experience with system architecture or leading a software team is a strong advantage</li><li>Full-time availability is a strong advantage</li></ul> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Curious to know how much you could make? Check out our developer rate calculator: <a href="https://topt.al/jPc6x7" rel="nofollow">https://topt.al/jPc6x7</a></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/gncyw3" rel="nofollow"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">https://topt.al/gncyw3</span></a></p>
+                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your full-time freelance career as a top freelance developer with Toptal.</em></span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</span> Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</p><ul><li>English language proficiency</li><li>3+ years of professional experience in software development</li><li>Solid experience with <strong>Unreal Engine </strong>is a strong advantage<br></li><li>Experience with <strong>system architecture</strong><span style="color: var(--remotive-chocolate);"> </span><span style="color: var(--remotive-chocolate);">is a strong advantage</span></li><li>Project management skills</li><li>A keen attention to detail</li><li>Experience with system architecture or leading a software team is a strong advantage</li><li>Full-time availability is a strong advantage</li></ul> <br> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/d3cA42" rel="nofollow"><strong>https://topt.al/d3cA42</strong></a></p>
 <img src="https://remotive.com/job/track/1344658/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
@@ -852,7 +834,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/unreal-engine-developer-1344657" align="right" target="_blank">Apply</a>
@@ -867,31 +849,6 @@ Experience in working with various project stakeholder at various levels in a ma
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1344656/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Toptal</h5>
-                    <h3>Elixir Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,growth,management,design</code>
-                </td>
-                <td width="200">
-                <text>8 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/elixir-developer-1344656" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your full-time freelance career as a top freelance developer with Toptal.</em></span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</span> Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">That’s why the world’s top 3% of developers choose Toptal. Elixir developers in our network share:</p><ul><li>English language proficiency</li><li>3+ years of professional experience in software development</li><li>Strong experience with <font color="#000000"><span style="letter-spacing: 0.75px;"><strong>Elixir</strong></span></font></li><li>Project management skills</li><li>A keen attention to detail</li><li>Experience with system architecture or leading a software team is a strong advantage</li><li>Full-time availability is a strong advantage</li></ul> <br> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <font color="#000000"><span style="letter-spacing: 0.75px;"><strong><a href="https://topt.al/vecGbR" rel="nofollow">https://topt.al/vecGbR</a></strong></span></font></p>
-<img src="https://remotive.com/job/track/1344656/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1422554/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -902,7 +859,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-developer-1422554" align="right" target="_blank">Apply</a>
@@ -981,7 +938,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1058,7 +1015,7 @@ Experience in working with various project stakeholder at various levels in a ma
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
