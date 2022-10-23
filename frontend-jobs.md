@@ -10,7 +10,7 @@
                     <code>frontend,defi,crypto,cryptocurrency,cryptocurrencies,back-end,software,testing,ui,web,travel,javascript,api,leader,engineer</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-ciphertrace-135906" align="right" target="_blank">Apply</a>
@@ -38,7 +38,7 @@
 </ul><p></p><h4>Nice to Have</h4><p></p><p></p><ul>
 <li>Experience with data visualization libraries like <a href="http://d3.js/" class="postings-link" rel="noopener noreferrer nofollow">D3.js</a>.</li>
 <li>Strong communication skills (both spoken and written).</li>
-</ul><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **CONVINCING** and tag RNDQuMjAzLjE5Ni4yMTU= when applying to show you read the job post completely (#RNDQuMjAzLjE5Ni4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **CONVINCING** and tag RNDQuMjAxLjE5Ny45Mw== when applying to show you read the job post completely (#RNDQuMjAxLjE5Ny45Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -53,7 +53,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-angular" align="right" target="_blank">Apply</a>
@@ -137,7 +137,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>154 days ago</text>
+                <text>155 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/slab-frontend-engineer" align="right" target="_blank">Apply</a>
@@ -203,7 +203,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
