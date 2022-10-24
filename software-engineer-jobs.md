@@ -1,35 +1,92 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8546/logo.gif" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/08858afe3c1e51272ebe833c7ccb28041666447813.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Sticker Mule</h5>
-                    <h3> Software Engineer - Security</h3>
+                    <h5>Scorpion</h5>
+                    <h3>Senior Software Engineer Advertising</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>video,medical,health,healthcare,non tech,software,c#,front-end,senior,marketing,engineer,backend</code>
                 </td>
                 <td width="200">
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-security-1" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-advertising-scorpion-137078" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8546/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                We're looking for an ambitious backend Senior Software Engineer who is strong with C# and SQL to be responsible for the architecture and development of data-oriented solutions and their integration with front-end applications and internal/external APIs. You will play an integral part in the project life cycle and work closely with our Product Managers, Designers and other Engineers from the initial concept to the final release. Your primary focus will be to develop data-driven systems to deploy, manage and optimize successful marketing campaigns for our clients.
+
+<br/><br/>Please mention the word **INTERESTS** and tag RMzQuMjAwLjI0Ni4yNTM= when applying to show you read the job post completely (#RMzQuMjAwLjI0Ni4yNTM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0075/9489/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Athelas</h5>
+                    <h3> Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/athelas-software-engineer-4" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0075/9489/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
+  <strong>Headquarters:</strong> Mountain View, CA
+    <br /><strong>URL:</strong> <a href="https://athelas.com">https://athelas.com</a>
 </p>
 
-<div><strong>About Sticker Mule</strong></div><div>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a  globally distributed team who cares deeply about delivering a great customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.</div><div><br></div><div>The Security team is responsible for performing penetration tests on our front-end and back-end web services, developing new automated offensive tools and troubleshooting problems.</div><div><br></div><div><a href="https://www.stickermule.com/about"><strong>See more about our teams here</strong></a></div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. Varied, interesting technical challenges to solve</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div>
-<strong>We like you to know<br></strong>1.<strong> </strong>Linux<br>2. Kubernetes/Docker<br>3. GCP/AWS<br>4. Postgres/MySQL<br>5. Redis<br>6. NextJS/React<br>7. NodeJS<br>8. GraphQL<br>9. Go<br>10. Excellent communication skills (English)<br>11. Degree in Computer Science or equivalent practical experience</div><div><br></div><div><strong>Challenges</strong></div><div>1. Improve security of our web services</div><div>2. Implement automated tools to reduce security regressions</div><div>3. Perform offensive penetration tests</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. Salary: $120,000/year</div><div>2. $20,000 signing bonus</div><div>3. 4 weeks vacation (+ holidays based on your country of residence)</div>
+<div>This role will be focusing on driving the design and implementation of general software that allows practices to have better viability and control over their revenue billing cycles, thus having more time to focus on patients and deliver better services. We are looking for someone with a minimum of two years of software engineering experience. <em>You will receive a basic take-home assessment immediately after application to complete. Once we review the submission and feedback is positive, then we will reach out to schedule the first interview.<br><br></em><strong><em>Compensation range: $30,000 - $35,000 USD</em></strong><em><br></em><strong><br>What You Have</strong>
+</div><ul>
+<li><strong>Able to work flexible hours based on US time-zone </strong></li>
+<li><strong>At least two years of production software engineering experience</strong></li>
+<li><strong>Expert in Python</strong></li>
+<li>Able to work on both front-end and back-end in general and deliver product end to end</li>
+<li>Basic understanding of cloud solutions (GCP, Docker, Kubernetes)</li>
+<li>Familiarity with modern software development methodologies and cycles</li>
+<li>Understand standard web-based technologies, such as restful standards and relational databases (eg PostgreSQL)</li>
+<li>Have a strong product engineering sense with a can-do builder attitude</li>
+<li>Able to identify opportunities to improve the current process</li>
+</ul><div>
+<br><strong>Bonus Points If You Have:</strong>
+</div><ul>
+<li>Having worked on greenfield projects before, build and ship products from scratch </li>
+<li>Worked in the healthcare industry before</li>
+<li>Experience working in a fast pace environment (we ship fast)</li>
+<li>Remote work experience</li>
+<li>Familiarity with BI software</li>
+</ul><div>
+<br><strong>Why You’ll Like Working with Athelas</strong>
+</div><ul>
+<li>Rockstar Team: Join a team with an incredible record - we are the smallest, fastest company in history to receive FDA hematology clearance. We are also the largest Remote Patient Monitoring company in the US</li>
+<li>Technology Focus: Revolutionizing how technology can be used in the healthcare industry</li>
+<li>Strong Backing: $132M Series B raised from the likes of Sequoia, General Catalyst, Tribe, Y Combinator</li>
+<li>Mission Driven: We are changing the way healthcare is provided, bringing it directly to the people who need it with technology-enabled solutions</li>
+<li>Incredible Growth: 10x patient growth in 2021 and we're just getting started</li>
+</ul><div>
+<em><br></em><strong>About Us:<br><br>At Athelas we're bringing simple, life-changing health care products to people around the globe.<br></strong><br>
+</div><div>The future of healthcare is at the home - we are a team of technologists building the next generation of medical products at the intersection of hardware and software. We won’t stop until we’ve brought the world class tools of a hospital to your home.</div><div> </div><div>We develop hardware, software, and diagnostics to improve the lives of chronic care patients (cancer, hypertension, schizophrenia, bipolar disorder).</div><div>
+<br>In the US, 80% of healthcare spend occurs in 20% of patients. We aim to drastically reduce this cost through modern software, hardware, and preventative care services. Its core device (FDA Class 2 cleared) uses machine-learning trained on cell classification to allow chronic patients to monitor their white blood count at home. Its core software product is a platform to help doctors monitor vitals, trends, etc. of such patients, so that physicians and patients can stay aligned without direct interaction.<br><br>
+</div><div>
+<br>We've raised $132 million at a $1.5 billion valuation from top tier investors such as General Catalyst, Sequoia Capital, Y Combinator, and Initialized.</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-security-1">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-security-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/athelas-software-engineer-4">https://weworkremotely.com/remote-jobs/athelas-software-engineer-4</a></p>
 
                 </details>
                 </td>
@@ -45,7 +102,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-economics" align="right" target="_blank">Apply</a>
@@ -100,7 +157,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -162,7 +219,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
