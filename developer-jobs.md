@@ -1,5 +1,110 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/b577b5b709d0c36adb8dfd28e3c0b6001666509326.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Soramitsu</h5>
+                    <h3>Substrate runtime Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,software,code,devops,education,full-time,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-substrate-runtime-developer-soramitsu-137431" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 14pt 0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">As a Substrate runtime Developer at SORAMITSU, you'll be working on some of our most exciting projects</span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> including: </span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">SORA network </span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">that provides tools for decentralized applications that use digital assets</span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> and </span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Polkaswap</span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> - the eagerly anticipated AMM DEX (decentralized exchange) based on SORA network. </span></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 14pt 0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Donât worry about Substrate in the job description! Youâll be focused on extending SORA and Polkaswap with new features. SORA and Polkaswap are live now, you can check them here </span><a href="https://polkaswap.io/" rel="noreferrer noopener nofollow" style="text-decoration:none;"><span style="font-size:11.5pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">polkaswap.io</span></a> <span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">and </span><a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fws.alb.sora.org#/explorer" rel="noreferrer noopener nofollow"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">here</span></a></p><p><strong>Your work time</strong></p><p>Youâll spend 50% of your time writing new pallets, 20% of your time checking PRs from your colleagues, 20% of your time on fixing and researching some technical issues and helping other teams and 10% of your time on meetings.</p><p><strong>Your schedule</strong></p><p>Our team is distributed and everyone has his own schedule. The main thing is to join daily team meetings and reply in chats if you were tagged. As was mentioned above youâll spend most of your time on coding and itâs great! We donât spend much time on meetings that we donât need.</p><p> </p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:14pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Responsibilities include:</span></p><ul>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Design, implement and support software production.</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Write tests that guarantee high quality of functional and non-functional characteristics of produced code.</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Perform code review for other developers.</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:20pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Take part in making architectural decisions.</span></li>
+</ul><p><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The ideal candidate has:</span></p><ul>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2+ years of experience in development.</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Experience in Rust, with a fair knowledge of the language specification.</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Experience in Substrate development.</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Good knowledge of Substrate, Polkadot, Kusama ecosystem.</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Thorough knowledge of the standard library, and algorithms.</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Understanding cryptography algorithms, blockchain concepts is a plus.</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Understanding of blockchain consensus algorithms work is a plus.</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Knowledge of one or more blockchain protocols: Ethereum,Polkadot</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Understanding of basics in DevOps engineering.</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Knowledge of principles and practices in Agile development.</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:20pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Proficient understanding of code versioning and git-flow.</span></li>
+</ul><p><strong>Working Conditions</strong></p><ul>
+<li><p>Flexible 40-hour work week;</p></li>
+<li><p>Permanent, full-time position;</p></li>
+<li><p>The international team of professionals;</p></li>
+<li><p>Possibility to work from offices around the globe;</p></li>
+<li><p>Possibility to visit global meetups and conferences for education and/or for giving a speech;</p></li>
+<li><p>An absence of a strict dress code;</p></li>
+<li><p>Relaxed work environment.</p></li>
+</ul><br/><br/>Please mention the word **LAVISH** and tag RMzQuMjAwLjI0Ni4yNTM= when applying to show you read the job post completely (#RMzQuMjAwLjI0Ni4yNTM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/cf1797fa83814735886ca6db202062151666450805.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Snapp Mobile</h5>
+                    <h3>Flutter Developer $3k $4.5k month</h3>
+                </td>
+                <td width="300">
+                    <code>developer,software,code,flutter,mobile,senior,engineer,engineering,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-flutter-developer-3k-4-5k-month-snapp-mobile-137098" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                About company:
+The company is Snapp X, a software agency based in Germany specialized in building flutter mobile apps for clients.
+
+What youâll get to do:
+You will play a key role in the success of the development of our multiple client projects. You will work with your Engineering teammates in a client project to provide software solutions and automated tests to complex and exciting problems, from automotive to fintech.
+With the support of the team, you will be able to write code that follows VGV standards, you will write many tests (unit, widget, integration...), you will pair with many of your colleagues, and you will collaborate with our Program Managers to define and execute the delivery plan of the project.
+
+Who you are:
+A Mid to Senior Mobile engineer with solid software development experience in Flutter as well as some of the technologies mentioned below.
+You are an engineer with strong opinions backed up by clear structured thinking and good communication. You are a self-organized professional who naturally takes the initiative instead of waiting for orders. You fulfill the following profile:
+1. Demonstrates a clear understanding of the project(s), language(s), framework(s), and pattern(s)
+2. Can mentor and pair with other engineers (debug, tests, usage of toolsâ¦)
+3. Takes an active role in planning and breaking down units of work into small pieces
+4. Gives effective code reviews for other teammates
+
+Skills:
+* +3 years of professional experience as a Software Developer
+* minimum 1 year of experience working with Flutter
+* deep understanding of Flutter Framework and flutter_bloc
+* Solid knowledge of third party products (Firebase, Auth0, AWS, Google Map, etcâ¦)
+
+If your experience is close to what you see listed here, please still consider applying. Diversity of experience and skills combined with passion is a key to innovation and excellence; therefore, we encourage people from all backgrounds to apply to our positions.
+
+Salary/Compensation:Â EUR 3.k-4.5k/ month (based on experience)
+
+Location:Â 100% Remote
+Engagement:Â Full Time
+Duration:Â long term
+Experience: Mid or Senior
+Hiring contact 
+*Emir SlezovicÂ - feel free to contact me on LinkedIn or e-mail (emir[at]wexl.co)
+
+<br/><br/>Please mention the word **SWIFTNESS** and tag RMzQuMjAwLjI0Ni4yNTM= when applying to show you read the job post completely (#RMzQuMjAwLjI0Ni4yNTM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/e5e2e58c4903e50de56fc625c61f49c51666422950.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +115,7 @@
                     <code>developer,design,ethereum,system,security,game,testing,growth,code,senior,e-commerce,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-blockchain-developer-boson-protocol-136936" align="right" target="_blank">Apply</a>
@@ -96,7 +201,7 @@
 <li>
 <strong>Stay lean:</strong><span style="font-weight:400;"> Our ethos is to create and share value equitably, with minimal value extraction.</span>
 </li>
-</ul><br/><br/>Please mention the word **INVINCIBILITY** and tag RNDQuMjAxLjE5Ny45Mw== when applying to show you read the job post completely (#RNDQuMjAxLjE5Ny45Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **INVINCIBILITY** and tag RMzQuMjAwLjI0Ni4yNTM= when applying to show you read the job post completely (#RMzQuMjAwLjI0Ni4yNTM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -111,7 +216,7 @@
                     <code>ethereum,developer,solidity,react,system,security,ui,web,financial,lambda,nodejs,operations,operational,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-ethereum-developer-openzeppelin-136933" align="right" target="_blank">Apply</a>
@@ -189,7 +294,7 @@
 <h3 class="job-description-title"> </h3>
 </div>
 </div>
-</div><br/><br/>Please mention the word **POSH** and tag RNDQuMjAxLjE5Ny45Mw== when applying to show you read the job post completely (#RNDQuMjAxLjE5Ny45Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **POSH** and tag RMzQuMjAwLjI0Ni4yNTM= when applying to show you read the job post completely (#RMzQuMjAwLjI0Ni4yNTM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -204,7 +309,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -251,7 +356,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/designfiles-remote-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -326,7 +431,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sendwave-senior-developer-productivity-engineer-remote" align="right" target="_blank">Apply</a>
@@ -413,90 +518,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0075/9084/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TestGorilla</h5>
-                    <h3> Frontend Engineer (Angular Developer)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0075/9084/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Amsterdam, The Netherlands
-    <br /><strong>URL:</strong> <a href="https://www.testgorilla.com/">https://www.testgorilla.com/</a>
-</p>
-
-<div>Hi there,<br><br>
-</div><div>I’m Nicolas, TestGorilla’s Head of Engineering. We’re a fast-growing HR tech startup that helps hiring teams make better hiring decisions faster and bias-free.<br><br>Over the past year, we’ve experienced tremendous growth. More than 7,500 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way.<br><br>
-</div><div>As we scale our efforts in 2022 and beyond, we’re looking for a<strong> Frontend Engineer</strong> who’s passionate about joining our quest to help people land dream jobs.<br><br>
-</div><h1>The proposition</h1><ul>
-<li>Helping shape a fast-growing HR tech startup as an early employee</li>
-<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
-<li>Competitive salary incl. bonus and stock options</li>
-<li>Flexible hours and vacation</li>
-<li>Paid parental leave </li>
-<li>€1000 remote working budget per year</li>
-<li>Learning &amp; development budget of 3.5% of salary</li>
-</ul><div>
-<br><br>
-</div><h1>The role in context</h1><div>We are looking for a<strong> Frontend Engineer</strong> to join our engineering department and help us bring our product to Enterprise level maturity. Your work will directly impact hundreds of thousands of users around the world.</div><div> </div><div>As a member of the engineering team, you will build and deliver frontend solutions to provide extraordinary product experiences for our users, including SPAs and reusable components for the rapid growth of all our products.</div><div> </div><div>You’ll own the design, code, and deployment of solutions and make sure they perform and scale in production. </div><div>
-<br> </div><h1>You’ll spend time on the following</h1><ul>
-<li>Take full <strong>ownership</strong> of the frontend; from low-level optimizations to improving user experience</li>
-<li>Build <strong>reusable</strong> code and libraries for future use</li>
-<li>Ensure the technical feasibility of <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/ux-ui-design-test/">UI/UX designs</a> and propose features and functionalities to the product team</li>
-<li>
-<strong>Optimize</strong> the application for maximum speed and scalability</li>
-<li>Lead the entire <strong>software development and delivery</strong> cycle from ideation to deployment and everything in between</li>
-<li>Efficiently utilize <strong>DevOps</strong> tools and practices to deliver high-quality software as well as value to end customers as early as possible</li>
-<li>Work in a collaborative, talented <strong>distributed team</strong> across Europe, United States, South America, and Asia</li>
-<li>You will act as a <strong>mentor</strong> for less-experienced team members through both your technical knowledge and leadership skills</li>
-</ul><div>
-<br><br>
-</div><h1>Here’s what we’re looking for</h1><ul>
-<li>You are inspired by our mission of putting<em> 1 billion people in dream jobs</em> </li>
-<li> You are fully aligned with our <a href="https://www.testgorilla.com/careers/">values</a>
-</li>
-<li>You have 4-6 years of experience designing, implementing, running, and maintaining production <strong>front-end code</strong> using modern client-side development frameworks based on JS/TS such as <a href="https://www.testgorilla.com/test-library/programming-skills-tests/angular-test/">Angular</a>
-</li>
-<li>You strive for <strong>excellence:</strong> pixel-perfect, high-quality code, and lightning-fast load times</li>
-<li>You care deeply about building a <strong>world-class engineering</strong> team</li>
-<li>You have a solid understanding of<strong> UX/UI design, usability, and accessibility</strong>
-</li>
-<li>You are passionate about improving skills and <strong>learning</strong> new technologies</li>
-<li>You enjoy <strong>influencing others</strong> and always advocate for technical excellence while being open to change</li>
-<li>You’re <strong>resilient</strong> in ambiguous situations and can approach challenges from multiple perspectives</li>
-<li>You have strong written and verbal <strong>communication skills</strong>. You can validate your decisions and communicate them clearly</li>
-</ul><div>
-<br><br>
-</div><h1>Bonus points if ...</h1><ul>
-<li>you have experience in a SaaS product based company</li>
-<li>you are comfortable with Agile methods, such as Extreme Programming (XP), Scrum, and/or Kanban</li>
-<li>you have a working knowledge of cloud technology such as <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/aws-test/">AWS</a>, Azure, Kubernetes, and Docker </li>
-</ul><div>
-<br><br>
-</div><h1>Interested?</h1><div>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions faster and bias-free. I took one too and I enjoyed it!<br><br>
-</div><div>So if this role sounds like a good fit for you, I’d like you to <a href="https://assessment.testgorilla.com/testtaker/publicinvitation/dfb458d5-b49e-4c93-a830-fdfa210e733f">take an assessment </a>so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product! <br><br>
-</div><div>If you’re hired, I’ll do everything I can to help you succeed at <a href="https://www.testgorilla.com/">TestGorilla</a> and throughout the rest of your career.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-3">https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-3</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -507,7 +528,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-developer-experience" align="right" target="_blank">Apply</a>
@@ -563,7 +584,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-backend-developer-java" align="right" target="_blank">Apply</a>
@@ -649,7 +670,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>450 days ago</text>
+                <text>451 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -715,7 +736,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -784,7 +805,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -809,7 +830,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/unreal-engine-developer-1344657" align="right" target="_blank">Apply</a>
@@ -834,7 +855,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-developer-1422554" align="right" target="_blank">Apply</a>
@@ -913,7 +934,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -990,7 +1011,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
