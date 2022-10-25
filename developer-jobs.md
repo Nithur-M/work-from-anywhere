@@ -10,7 +10,7 @@
                     <code>developer,software,code,devops,education,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-substrate-runtime-developer-soramitsu-137431" align="right" target="_blank">Apply</a>
@@ -44,7 +44,7 @@
 <li><p>Possibility to visit global meetups and conferences for education and/or for giving a speech;</p></li>
 <li><p>An absence of a strict dress code;</p></li>
 <li><p>Relaxed work environment.</p></li>
-</ul><br/><br/>Please mention the word **LAVISH** and tag RMzQuMjAwLjI0Ni4yNTM= when applying to show you read the job post completely (#RMzQuMjAwLjI0Ni4yNTM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **LAVISH** and tag RMy45My42MS42Ng== when applying to show you read the job post completely (#RMy45My42MS42Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -59,7 +59,7 @@
                     <code>developer,software,code,flutter,mobile,senior,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-flutter-developer-3k-4-5k-month-snapp-mobile-137098" align="right" target="_blank">Apply</a>
@@ -100,7 +100,7 @@ Experience: Mid or Senior
 Hiring contact 
 *Emir SlezovicÂ - feel free to contact me on LinkedIn or e-mail (emir[at]wexl.co)
 
-<br/><br/>Please mention the word **SWIFTNESS** and tag RMzQuMjAwLjI0Ni4yNTM= when applying to show you read the job post completely (#RMzQuMjAwLjI0Ni4yNTM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **SWIFTNESS** and tag RMy45My42MS42Ng== when applying to show you read the job post completely (#RMy45My42MS42Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -115,7 +115,7 @@ Hiring contact
                     <code>developer,design,ethereum,system,security,game,testing,growth,code,senior,e-commerce,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-blockchain-developer-boson-protocol-136936" align="right" target="_blank">Apply</a>
@@ -201,7 +201,7 @@ Hiring contact
 <li>
 <strong>Stay lean:</strong><span style="font-weight:400;"> Our ethos is to create and share value equitably, with minimal value extraction.</span>
 </li>
-</ul><br/><br/>Please mention the word **INVINCIBILITY** and tag RMzQuMjAwLjI0Ni4yNTM= when applying to show you read the job post completely (#RMzQuMjAwLjI0Ni4yNTM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **INVINCIBILITY** and tag RMy45My42MS42Ng== when applying to show you read the job post completely (#RMy45My42MS42Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -216,7 +216,7 @@ Hiring contact
                     <code>ethereum,developer,solidity,react,system,security,ui,web,financial,lambda,nodejs,operations,operational,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-ethereum-developer-openzeppelin-136933" align="right" target="_blank">Apply</a>
@@ -294,128 +294,70 @@ Hiring contact
 <h3 class="job-description-title"> </h3>
 </div>
 </div>
-</div><br/><br/>Please mention the word **POSH** and tag RMzQuMjAwLjI0Ni4yNTM= when applying to show you read the job post completely (#RMzQuMjAwLjI0Ni4yNTM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **POSH** and tag RMy45My42MS42Ng== when applying to show you read the job post completely (#RMy45My42MS42Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/3747/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Toptal</h5>
-                    <h3> Full Stack Developer</h3>
+                    <h5>Credit Glory</h5>
+                    <h3> Senior Ruby on Rails Developer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/toptal-full-stack-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/credit-glory-senior-ruby-on-rails-developer-1" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0018/3747/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://www.toptal.com/">https://www.toptal.com/</a>
+  <strong>Headquarters:</strong> Henderson, NV
+    <br /><strong>URL:</strong> <a href="http://www.creditglory.com">http://www.creditglory.com</a>
 </p>
 
 <div>
-<strong><em>Design your full-time freelance career as a top freelance developer with Toptal. </em></strong><br><br>Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. <br><br>Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <strong>Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </strong>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. <br><br>As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. <br><br>That’s why the world’s top 3% of developers choose Toptal. Developers in our exclusive network share:</div><ul>
-<li>English language proficiency</li>
-<li>
-<strong>3+ years</strong> of professional experience in software development</li>
-<li>Solid experience with <strong>Unreal Engine </strong>is a strong advantage</li>
-<li>Experience with <strong>system architecture</strong> is a strong advantage</li>
-<li>Project management skills</li>
-<li>A keen attention to detail</li>
-<li>
-<strong>Full-time availability</strong> is a strong advantage</li>
-</ul><div>
-<br>If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/55cgQQ"><strong>https://topt.al/55cgQQ</strong></a>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toptal-full-stack-developer">https://weworkremotely.com/remote-jobs/toptal-full-stack-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8558/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DesignFiles</h5>
-                    <h3> Remote Ruby on Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/designfiles-remote-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8558/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://designfiles.co">https://designfiles.co</a>
-</p>
-
-<div>
-<strong>At DesignFiles we're looking for a Full-Stack Ruby on Rails Developer to join our engineering team.<br></strong><br>
-</div><div><strong>About the Job:</strong></div><div>
-<br>DesignFiles is an interior design project management software company on a mission to help interior designers and home furnishing retailers take their design services and businesses to new heights. With 5,000+ customers (including Wayfair, La-Z-Boy, Crate &amp; Barrel, Interior Define) and 20+ team members located all over the world, we're growing quickly and looking for our next driven and talented team member.<br><br>
-</div><div>We’re looking for a Full Stack Ruby on Rails Developer to join the company to drive product development from the ground level.<br><br>
-</div><div>
-<em>Please note: This is a contract role and we are looking for individuals (not agencies) that can commit 40+ hours a week to become a core member of our team.<br></em><br>
-</div><div>
-<br><strong>What You'll Do:</strong>
+<strong>About Us<br></strong><br>
+</div><div>We are a fully remote team looking for a proactive and experienced Senior Rails Developer to join our team.</div><div> </div><div>Your responsibilities will include working closely with our CTO &amp; COO to develop new, innovative &amp; exciting features (+ improve existing ones) that help improve our customers’ financial future. </div><div> </div><div>If you enjoy solving complex problems, can work across the whole stack from backend to frontend, and know how to get the job done right the first time, this might be a great position for you.</div><div><br></div><div>
+<br><strong>What We’re Looking For:</strong>
 </div><ul>
-<li>Write, review and improve Ruby and JavaScript code working in Unix environment.<br><br>
+<li>5+ years experience with Ruby on Rails</li>
+<li>Ability to work across the whole stack</li>
+<li>Hotwire and Stimulus.JS experience is a plus</li>
+<li>TailwindCSS experience is a plus as well</li>
+<li>Good experience with testing - both unit, integration, and E2E</li>
+<li>Good working knowledge of SQL and PostgresSQL</li>
+<li>Previous experience working remotely</li>
+<li>Analytical, pro-active &amp; problem-solving skills (along with attention to detail)</li>
+<li>Good written and verbal communication skills</li>
+<li>Ability to receive &amp; administer constructive feedback</li>
+<li>4-hour overlap with CET timezone required.<br><br>
 </li>
-<li>Collaborate with our product team to bring features from conception to completion.<br><br>
-</li>
-<li>Develop features with an emphasis on consistency and integrity at all levels of the stack.<br><br>
-</li>
-<li>Improve DesignFiles' engineering culture with an eye for best practices, code quality and code reviews.<br><br>
-</li>
-<li>Actively contribute to the project with ideas and solutions to constantly improve the lives of our designers and their clients.<br><br>
-</li>
-<li>Participate (on video) in Sprint Planning, Retros, 1:1s<br><br>
-</li>
-</ul><div>
-<br><strong>What We Want From You:</strong>
-</div><ul>
-<li>5+ years experience as a full-stack developer.<br><br>
-</li>
-<li>3+ years of hands-on Ruby on Rails experience.<br><br>
-</li>
-<li>Strong experience with Ruby on Rails: rubocop, minitest-spec-rails, delayed job, paperclip, paranoia, etc.<br><br>
-</li>
-<li>Strong experience with modern JavaScript/CSS: Webpack, Gulp, eslint, prettier, BEM.<br><br>
-</li>
-<li>Solid knowledge of unix shell, PostgreSQL, Docker, Node.js, AWS S3.<br><br>
-</li>
-<li>Fluent English, good communication skills and full presence during agreed work hours.<br><br>
-</li>
-<li>Taking responsibility for testing own code, thinking through the edge cases and ability to work productively without close supervision.<br><br>
-</li>
-<li>Decent internet connection to participate in video calls and screen sharing sessions.<br><br>
-</li>
-</ul><div>Sounds interesting? Apply here &gt;&gt; https://designfiles.homerun.co/ruby-on-rails-developer</div>
+</ul><div><strong>What You’ll Do:</strong></div><ul>
+<li>You’ll work with us to architect, build, deploy, and maintain applications that serve both internal and external users</li>
+<li>Design and develop well-tested code when needed</li>
+<li>Write proof of concept or throwaway code when the situation calls for it</li>
+<li>Increase overall code quality long-term</li>
+</ul><div><strong><br>Examples of Actual Things You Might Work On:</strong></div><ul>
+<li>Building a cost-effective contact centre</li>
+<li>Reconciling different reports to find the source of the truth</li>
+<li>Integrate a 3rd party affiliate API</li>
+<li>Build a new report in Grafana (using SQL queries)</li>
+<li>Build a new sign-up form for a specific marketing campaign</li>
+</ul><div><br></div><div>
+<strong>Pay<br></strong><br>
+</div><div>Starting salary is between $80,000 - $120,000 USD depending on your skills and experience. Earning potential for tenured developers is &gt;=$150,000 + based on tangible value provision.</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/designfiles-remote-ruby-on-rails-developer">https://weworkremotely.com/remote-jobs/designfiles-remote-ruby-on-rails-developer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/credit-glory-senior-ruby-on-rails-developer-1">https://weworkremotely.com/remote-jobs/credit-glory-senior-ruby-on-rails-developer-1</a></p>
 
                 </details>
                 </td>
@@ -431,7 +373,7 @@ Hiring contact
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sendwave-senior-developer-productivity-engineer-remote" align="right" target="_blank">Apply</a>
@@ -528,7 +470,7 @@ Hiring contact
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-developer-experience" align="right" target="_blank">Apply</a>
@@ -584,7 +526,7 @@ Hiring contact
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-backend-developer-java" align="right" target="_blank">Apply</a>
@@ -670,7 +612,7 @@ Hiring contact
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>451 days ago</text>
+                <text>452 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -736,7 +678,7 @@ Hiring contact
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -805,7 +747,7 @@ Hiring contact
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -830,7 +772,7 @@ Hiring contact
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/unreal-engine-developer-1344657" align="right" target="_blank">Apply</a>
@@ -855,7 +797,7 @@ Hiring contact
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-developer-1422554" align="right" target="_blank">Apply</a>
@@ -934,7 +876,7 @@ Hiring contact
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1011,7 +953,7 @@ Hiring contact
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
