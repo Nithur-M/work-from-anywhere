@@ -1,25 +1,25 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8318/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8659/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Photobooth Supply Co</h5>
-                    <h3> Customer Facing Project Manager</h3>
+                    <h3> Customer Teams Project Manager</h3>
                 </td>
                 <td width="300">
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/photobooth-supply-co-customer-facing-project-manager" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/listings/photobooth-supply-co-customer-teams-project-manager" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8318/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8659/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
   <strong>Headquarters:</strong> Santa Ana, California, United States
@@ -49,7 +49,7 @@
 <p>📊 Open Book Management<br></p>
 <p>💪 Intimate Team</p>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/photobooth-supply-co-customer-facing-project-manager">https://weworkremotely.com/remote-jobs/photobooth-supply-co-customer-facing-project-manager</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/photobooth-supply-co-customer-teams-project-manager">https://weworkremotely.com/remote-jobs/photobooth-supply-co-customer-teams-project-manager</a></p>
 
                 </details>
                 </td>
