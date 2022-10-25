@@ -1,5 +1,31 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/820ae17b81174104b74eb00c68a273481666595715.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Offchain Labs</h5>
+                    <h3>Front End Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>cryptocurrency,ethereum,front-end,developer,code,engineer,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-front-end-engineer-offchain-labs-137920" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><span style="font-size:11pt;">Offchain Labs is building a suite of scaling solutions for Ethereum. This includes Arbitrum, an Optimistic Rollup, that instantly scales apps, reducing costs and increasing capacity, without sacrificing Ethereum's security. Porting contracts to Arbitrum requires no code changes or downloads since itâs compatible with existing Ethereum developer languages and tooling.</span></div><div><br></div><div>
+<span style="font-size:11pt;">Our team is extremely passionate and works tirelessly to bridge the gap between what blockchain is and what blockchain can be. We strive to maintain an atmosphere that fosters innovation and new ideas through collaboration, research, and deep discussions. After raising an initial round of $</span><a href="http://3.8m/" style="font-size:11pt;" class="postings-link" rel="noopener noreferrer nofollow">3.8M</a><span style="font-size:11pt;"> in seed funding in January 2019 and a $20M series A, as well as a $100M series B in 2021, we are ready to hire additional team members that have an interest in working in the blockchain space and a knack for approaching problems in unconventional ways.</span>
+</div><p></p><h4>Who you are:</h4><p></p><p></p><li>Expert in Front-end development</li><li>Experience with React.js, CSS3, Typescript, Javascript</li><li>Excited to learn and develop blockchain technology (No experience yet? No problem!)</li><li>Possess a strong sense of ownership in your work, which drives you to find ways to do things better and faster</li><li>Always up-to-speed on the latest technologies</li><li>Constantly on the lookout for new and innovative ways to solve complex problems through rigorous experimentation</li><li>Your communication style is open, transparent, and direct, and you consistently work in tight collaboration with your teammates</li><li>Always open to feedback, new ideas, and opportunities for self-improvement</li><li>You look for ways to help out beyond the scope of your day-to-day work</li><p></p><h4>What you've done:</h4><p></p><p></p><li>Have dabbled in, educated yourself on, or are experienced working on blockchain technology</li><li>Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency applications</li><li>Security-minded and always keeping an eye out for potential threats and vulnerabilities in your code</li><li>Mastered CS fundamentals, either in a formal university program or through self-learning</li><div><span style="font-size:16px;">We understand it takes a diverse team of highly intelligent, passionate, curious, and creative people to solve the challenges involved in developing and improving Arbitrum. Our dynamic team has incredible perspectives to share, just as we know you do. We take great pride in being an equal opportunity workplace.</span></div><br/><br/>Please mention the word **VIGILANCE** and tag RMy45My42MS42Ng== when applying to show you read the job post completely (#RMy45My42MS42Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/c6a22ae7c509db07a27daf17a6a0a1051666250138.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +36,7 @@
                     <code>frontend,defi,crypto,cryptocurrency,cryptocurrencies,back-end,software,testing,ui,web,travel,javascript,api,leader,engineer</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-ciphertrace-135906" align="right" target="_blank">Apply</a>
@@ -38,73 +64,7 @@
 </ul><p></p><h4>Nice to Have</h4><p></p><p></p><ul>
 <li>Experience with data visualization libraries like <a href="http://d3.js/" class="postings-link" rel="noopener noreferrer nofollow">D3.js</a>.</li>
 <li>Strong communication skills (both spoken and written).</li>
-</ul><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **CONVINCING** and tag RMzQuMjAwLjI0Ni4yNTM= when applying to show you read the job post completely (#RMzQuMjAwLjI0Ni4yNTM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0006/6308/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Slab</h5>
-                    <h3> Frontend Engineer </h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>156 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/slab-frontend-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0006/6308/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Francisco
-    <br /><strong>URL:</strong> <a href="https://slab.com/">https://slab.com/</a>
-</p>
-
-<div><strong>About:</strong></div><div><br></div><div>At <a href="https://slab.com/">Slab</a>, we believe that knowledge is the foundation of any organization's success. When a team's collective knowledge is accessible, that team's potential is limitless. That's why we're making the workplace a source of learning and purpose through knowledge-sharing. Our product helps teams easily create, organize, and discover knowledge across the entire company, from non-technical to tech-savvy. Thousands of customers rely on Slab across their entire workforces, including Asana, Benchling, and Fivetran.</div><div><br></div><div>As a small product-focused company, you'll join a team of experienced engineers, working on shipping features that delight users, fixing issues that get in their way while keeping our codebase, infrastructure, and tooling modern and well-maintained. We are globally distributed, with processes that minimize meetings and overhead, letting makers build on the maker's schedule.</div><div><strong><br>Technologies we use:</strong></div><ul>
-<li>React + TypeScript + Sass</li>
-<li>GraphQL + Apollo + Absinthe</li>
-<li>Elixir + Phoenix</li>
-<li>Postgres + Redis</li>
-<li>Docker + Kubernetes</li>
-<li>Google Cloud Platform</li>
-</ul><div><strong>Sound like you?</strong></div><ul>
-<li>You have a strong technical background, with experience solving complex engineering challenges</li>
-<li>You love delighting users with great product experiences and resolving issues that get in their way</li>
-<li>You're curious to learn and demonstrate the ability to do so very quickly</li>
-<li>You communicate with clearly and concisely, whether with teammates or users</li>
-<li>You are self-motivated and possess a strong work ethic</li>
-<li>You are passionate about knowledge-sharing and identify with Slab's mission and values</li>
-</ul><div><strong>What we value:</strong></div><ul>
-<li>
-<strong>Stay lean</strong> - We strive for the greatest possible impact with the fewest number of employees. We empower our teammates with the most leveraged tools and efficient processes.</li>
-<li>
-<strong>Default to open</strong> - We encourage and nurture open exchanges of knowledge and ideas — while acting with respect and regard for each other.</li>
-<li>
-<strong>Think rigorously</strong> - We act and execute after careful thought and examination of known information, while acknowledging the risks we accept in its absence.</li>
-<li>
-<strong>Say no</strong> - We aim to deliver exceptionally high value in a small set of focus areas. We willingly abstain from good ideas to give only the most promising paths the attention they deserve.</li>
-<li>
-<strong>The best prevails</strong> - Whether an idea or an individual, the best will rise to the top at Slab. Ideas we pursue can come from anywhere, and individuals gain responsibilities due to outperformance.</li>
-<li>
-<strong>Global optimization</strong> - We believe that our mission — to make the workplace a source of learning and purpose — is the ultimate priority, above any single project, team, or individual.</li>
-</ul><div><strong><br>Benefits:</strong></div><ul>
-<li>Full health insurance (USA) or stipend (International)</li>
-<li>Wellness &amp; remote work stipends</li>
-<li>$5k workspace setup, renewed biannually</li>
-<li>7-year options exercise window</li>
-</ul><div><em>Slab is an equal opportunity employer. We welcome people of diverse backgrounds, experiences, and perspectives.</em></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/slab-frontend-engineer">https://weworkremotely.com/remote-jobs/slab-frontend-engineer</a></p>
-
+</ul><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **CONVINCING** and tag RMy45My42MS42Ng== when applying to show you read the job post completely (#RMy45My42MS42Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -119,7 +79,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
