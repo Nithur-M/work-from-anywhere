@@ -10,7 +10,7 @@
                     <code>video,medical,health,healthcare,non tech,software,c#,front-end,senior,marketing,engineer,backend</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-advertising-scorpion-137078" align="right" target="_blank">Apply</a>
@@ -21,7 +21,7 @@
                 <details><summary>Description</summary>
                 We're looking for an ambitious backend Senior Software Engineer who is strong with C# and SQL to be responsible for the architecture and development of data-oriented solutions and their integration with front-end applications and internal/external APIs. You will play an integral part in the project life cycle and work closely with our Product Managers, Designers and other Engineers from the initial concept to the final release. Your primary focus will be to develop data-driven systems to deploy, manage and optimize successful marketing campaigns for our clients.
 
-<br/><br/>Please mention the word **INTERESTS** and tag RMzQuMjAwLjI0Ni4yNTM= when applying to show you read the job post completely (#RMzQuMjAwLjI0Ni4yNTM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **INTERESTS** and tag RMy45My42MS42Ng== when applying to show you read the job post completely (#RMy45My42MS42Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -36,7 +36,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/athelas-software-engineer-4" align="right" target="_blank">Apply</a>
@@ -92,7 +92,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/8613/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Chainlink Labs</h5>
@@ -102,7 +102,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-economics" align="right" target="_blank">Apply</a>
@@ -111,7 +111,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/8613/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
   <strong>Headquarters:</strong> United States
@@ -157,7 +157,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -219,7 +219,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
