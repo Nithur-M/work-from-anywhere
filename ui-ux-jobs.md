@@ -10,7 +10,7 @@
                     <code>ui,ux,design,web3,defi,nft,testing,web,animation,html,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-ui-ux-designer-hector-network-136427" align="right" target="_blank">Apply</a>
@@ -63,7 +63,7 @@
 </ul>
 <p></p>
 <p><em>  We are </em><em>going full steam ahead! </em><br><em>  Come join us!!!</em></p>
-<p></p><br/><br/>Please mention the word **LUSH** and tag RMzQuMjAwLjI0Ni4yNTM= when applying to show you read the job post completely (#RMzQuMjAwLjI0Ni4yNTM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p></p><br/><br/>Please mention the word **LUSH** and tag RMy45My42MS42Ng== when applying to show you read the job post completely (#RMy45My42MS42Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -78,7 +78,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>242 days ago</text>
+                <text>243 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -129,123 +129,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1428597/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Konnected</h5>
-                    <h3>Graphic & UX/UI Designer</h3>
-                </td>
-                <td width="300">
-                    <code>ADS,marketing,mobile,sales</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/design/graphic-ux-ui-designer-1428597" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="min-height: 1.5em;"><strong>Konnected's mission is to put homeowners back into control of their home alarm system and make a smart home easy, accessible, and affordable. We're looking for a talented designer with a passion for smart home and eye for usability, branding and graphic design to level up our public and user facing websites, apps, and marketing.</strong></p>
-<p style="min-height: 1.5em;">As our first full time design hire, you'll work across our marketing/sales and product R&amp;D teams to deliver a functional, crisp, and visually appealing user experiences to our users across our mobile apps, e-commerce apps, website, and e-commerce channels. You'll be expected to do a lot, juggling projects on different ends of the design spectrum, from mobile app UX mockups to lifestyle/product images and ads and everything in-between.</p>
-<p style="min-height: 1.5em;">Your passion for on-screen user experience design and your proficiency with brand design, UX/UI, and making technology simple allows you to own Konnected's brand from concept to implementation working closely with our content team and developers.</p>
-<p style="min-height: 1.5em;"><strong>What you'll do:</strong></p>
-<ul style="min-height: 1.5em;">
-<li>
-<p style="min-height: 1.5em;">Lead and manage visual design of all creative to maintain brand consistency.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Analyze current and emerging design/consumer trends and articulate ideas to ensure our brands stand apart from competition</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Create and manage the visual identity of the brand and maintain consistency of visual guidelines, photo and video standards, and brand voice across various platforms.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Design and implement beautiful and functional experiences in Konnected's custom developed mobile app.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Develop creative concepts for landing pages, product pages, interactive features, and e-commerce interactions on Konnected's Shopify based e-commerce platform.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Push creative boundaries by constantly pursuing new concepts and approaches, bringing new ideas to the table.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Work in very close collaboration with software engineers, content creators, and marketers to make functional designs work and look beautiful.</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"><strong>What you'll bring:</strong></p>
-<ul style="min-height: 1.5em;">
-<li>
-<p style="min-height: 1.5em;">3+ years of experience designing either in-house or for an agency </p>
-</li>
-<li>
-<p style="min-height: 1.5em;">A solid digital design portfolio and a passion for beautiful, simple, and tech-forward user interface and user experience design.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">A hands on approach as you develop your team and act as an individual contributor</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Expert proficiency in Adobe Creative Suite and similar tools</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Proficient in Figma and designing for web &amp; responsive mobile</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Top tier problem solving, motivation, communication and creativity when working in a remote team.</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Passion for home automation, security, and openness.</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"><strong>Extremely nice to have:</strong></p>
-<ul style="min-height: 1.5em;">
-<li>
-<p style="min-height: 1.5em;">Experience in consumer electronics, home automation, or a similar field</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Experience with technology brands</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Experience working in a startup</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Experience producing or editing photography and/or video content </p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"><strong>What you'll get:</strong></p>
-<ul style="min-height: 1.5em;">
-<li>
-<p style="min-height: 1.5em;">Competitive salary</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Company stock options</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Laptop, widescreen and software tools</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Participation in company retirement plan (subject to eligibility)</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Health/insurance benefits (varies by country)</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Opportunity to travel for trade shows, events, or company summits</p>
-</li>
-<li>
-<p style="min-height: 1.5em;">Free Konnected products!</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"><strong>This is a fully-remote compatible role.</strong> Konnected is based in Orlando, Florida but we have team members and contributors all over the world. We're open to candidates from anywhere that are a great fit. Slight preference may be given to central Florida based candidates.</p>
-<p style="min-height: 1.5em;">Salary and benefits vary depending on your skill, experience and location.</p>
-<p style="min-height: 1.5em;">Job descriptions are difficult to interpret. We understand you might not tick all of the boxes above. The truth is, we don't either. If you feel excited about our upcoming challenges, we encourage you to apply anyway and tell us why you'd be a great fit.</p>
-<img src="https://remotive.com/job/track/1428597/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -256,7 +139,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
