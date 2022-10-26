@@ -1,5 +1,31 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/b71e8bdc12400d9e64fcbebcfa7422bf1666682128.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Offchain Labs</h5>
+                    <h3>Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,cryptocurrency,ethereum,security,developer,code,senior,engineer,engineering,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-offchain-labs-138420" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><span style="font-size:11pt;">Offchain Labs is building a suite of scaling solutions for Ethereum. This includes Arbitrum, an Optimistic Rollup, that instantly scales apps, reducing costs and increasing capacity, without sacrificing Ethereum's security. Porting contracts to Arbitrum requires no code changes or downloads since itâs compatible with existing Ethereum developer languages and tooling.</span></div><div><br></div><div>
+<span style="font-size:11pt;">Our team is extremely passionate and works tirelessly to bridge the gap between what blockchain is and what blockchain can be. We strive to maintain an atmosphere that fosters innovation and new ideas through collaboration, research, and deep discussions. After raising an initial round of $</span><a href="http://3.8M" style="font-size:11pt;" class="postings-link" rel="noopener noreferrer nofollow">3.8M</a><span style="font-size:11pt;"> in seed funding in January 2019 and a $20M series A, as well as a $100M series B in 2021, we are ready to hire additional team members that have an interest in working in the blockchain space and a knack for approaching problems in unconventional ways.</span>
+</div><br>Who you are:<br>Excited to learn and develop blockchain technology (No experience yet? No problem!)Possess production experience with a compiled language (C++, Go, or Rust)Experienced with compiler construction and architecture, and security engineering on large-scale systems is a plusPossess a strong sense of ownership in your work, which drives you to find ways to do things better and fasterAlways up-to-speed on the latest technologiesConstantly on the lookout for new and innovative ways to solve complex problems through rigorous experimentationYour communication style is open, transparent and direct, and you consistently work in tight collaboration with your teammatesAlways open to feedback, new ideas and opportunities for self-improvementYou look for ways to help out beyond the scope of your day-to-day work<br>What you've done:<br>Made significant contributions to the products youâve worked on in your careerHave dabbled in, educated yourself on, or are experienced working on blockchain technologyEager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency applicationsExperience working with compilers, architecting systems and developing SDKsSecurity-minded and always keeping an eye out for potential threats and vulnerabilities in your codeMastered CS fundamentals, either in a formal university program or through self-learning<div><span style="font-size:11pt;">We understand it takes a diverse team of highly intelligent, passionate, curious, and creative people to solve the challenges involved in developing and improving Arbitrum. Our dynamic team has incredible perspectives to share, just as we know you do, and we take great pride in being an equal opportunity workplace.</span></div><br/><br/>Please mention the word **MODEST** and tag RNTQuMTY2LjY3LjE5 when applying to show you read the job post completely (#RNTQuMTY2LjY3LjE5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/08858afe3c1e51272ebe833c7ccb28041666447813.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +36,7 @@
                     <code>video,medical,health,healthcare,non tech,software,c#,front-end,senior,marketing,engineer,backend</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-advertising-scorpion-137078" align="right" target="_blank">Apply</a>
@@ -21,73 +47,7 @@
                 <details><summary>Description</summary>
                 We're looking for an ambitious backend Senior Software Engineer who is strong with C# and SQL to be responsible for the architecture and development of data-oriented solutions and their integration with front-end applications and internal/external APIs. You will play an integral part in the project life cycle and work closely with our Product Managers, Designers and other Engineers from the initial concept to the final release. Your primary focus will be to develop data-driven systems to deploy, manage and optimize successful marketing campaigns for our clients.
 
-<br/><br/>Please mention the word **INTERESTS** and tag RMy45My42MS42Ng== when applying to show you read the job post completely (#RMy45My42MS42Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0075/9489/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Athelas</h5>
-                    <h3> Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/athelas-software-engineer-4" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0075/9489/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Mountain View, CA
-    <br /><strong>URL:</strong> <a href="https://athelas.com">https://athelas.com</a>
-</p>
-
-<div>This role will be focusing on driving the design and implementation of general software that allows practices to have better viability and control over their revenue billing cycles, thus having more time to focus on patients and deliver better services. We are looking for someone with a minimum of two years of software engineering experience. <em>You will receive a basic take-home assessment immediately after application to complete. Once we review the submission and feedback is positive, then we will reach out to schedule the first interview.<br><br></em><strong><em>Compensation range: $30,000 - $35,000 USD</em></strong><em><br></em><strong><br>What You Have</strong>
-</div><ul>
-<li><strong>Able to work flexible hours based on US time-zone </strong></li>
-<li><strong>At least two years of production software engineering experience</strong></li>
-<li><strong>Expert in Python</strong></li>
-<li>Able to work on both front-end and back-end in general and deliver product end to end</li>
-<li>Basic understanding of cloud solutions (GCP, Docker, Kubernetes)</li>
-<li>Familiarity with modern software development methodologies and cycles</li>
-<li>Understand standard web-based technologies, such as restful standards and relational databases (eg PostgreSQL)</li>
-<li>Have a strong product engineering sense with a can-do builder attitude</li>
-<li>Able to identify opportunities to improve the current process</li>
-</ul><div>
-<br><strong>Bonus Points If You Have:</strong>
-</div><ul>
-<li>Having worked on greenfield projects before, build and ship products from scratch </li>
-<li>Worked in the healthcare industry before</li>
-<li>Experience working in a fast pace environment (we ship fast)</li>
-<li>Remote work experience</li>
-<li>Familiarity with BI software</li>
-</ul><div>
-<br><strong>Why You’ll Like Working with Athelas</strong>
-</div><ul>
-<li>Rockstar Team: Join a team with an incredible record - we are the smallest, fastest company in history to receive FDA hematology clearance. We are also the largest Remote Patient Monitoring company in the US</li>
-<li>Technology Focus: Revolutionizing how technology can be used in the healthcare industry</li>
-<li>Strong Backing: $132M Series B raised from the likes of Sequoia, General Catalyst, Tribe, Y Combinator</li>
-<li>Mission Driven: We are changing the way healthcare is provided, bringing it directly to the people who need it with technology-enabled solutions</li>
-<li>Incredible Growth: 10x patient growth in 2021 and we're just getting started</li>
-</ul><div>
-<em><br></em><strong>About Us:<br><br>At Athelas we're bringing simple, life-changing health care products to people around the globe.<br></strong><br>
-</div><div>The future of healthcare is at the home - we are a team of technologists building the next generation of medical products at the intersection of hardware and software. We won’t stop until we’ve brought the world class tools of a hospital to your home.</div><div> </div><div>We develop hardware, software, and diagnostics to improve the lives of chronic care patients (cancer, hypertension, schizophrenia, bipolar disorder).</div><div>
-<br>In the US, 80% of healthcare spend occurs in 20% of patients. We aim to drastically reduce this cost through modern software, hardware, and preventative care services. Its core device (FDA Class 2 cleared) uses machine-learning trained on cell classification to allow chronic patients to monitor their white blood count at home. Its core software product is a platform to help doctors monitor vitals, trends, etc. of such patients, so that physicians and patients can stay aligned without direct interaction.<br><br>
-</div><div>
-<br>We've raised $132 million at a $1.5 billion valuation from top tier investors such as General Catalyst, Sequoia Capital, Y Combinator, and Initialized.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/athelas-software-engineer-4">https://weworkremotely.com/remote-jobs/athelas-software-engineer-4</a></p>
-
+<br/><br/>Please mention the word **INTERESTS** and tag RNTQuMTY2LjY3LjE5 when applying to show you read the job post completely (#RNTQuMTY2LjY3LjE5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -102,7 +62,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-economics" align="right" target="_blank">Apply</a>
@@ -157,7 +117,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -219,7 +179,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
