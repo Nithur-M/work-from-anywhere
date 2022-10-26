@@ -1,5 +1,61 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8706/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>NINE15</h5>
+                    <h3> Project Manager</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/nine15-project-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8706/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Diego
+    <br /><strong>URL:</strong> <a href="https://NINE15.com">https://NINE15.com</a>
+</p>
+
+<div>NINE15 is in immediate search for an experienced Shopify Project Manager for their Shopify Plus Agency.  <br><br>This position can sit permanently remote and will focus on taking ownership over the management of day to day projects for a busy design and development agency’s schedule.  <br><br><strong>Overall Responsibilities<br></strong><br>As a Project Manager you are responsible for the final quality and delivery of development and/or design project, thus ensuring it's on time, within budget, and to the client's satisfaction<br><br><strong>Perks:</strong>
+</div><ul>
+<li>Competitive salary</li>
+<li>Medical, Dental, Vision benefits</li>
+<li>401k retirement plan</li>
+<li>Paid holidays</li>
+<li>Unlimited PTO</li>
+</ul><div>
+<br><strong>What you will be doing:</strong>
+</div><ul>
+<li>Lead daily standup meetings with Design and Development Team </li>
+<li>Monitor and own the scheduling and prioritization process of incoming and outgoing feature requests, ensuring they are made in time for scheduled product releases and client launches within scope. </li>
+<li>Work with designer and developers to set up environments, review code, and ensure quality standards in all aspects of the design and/or development and launch process</li>
+<li>Meet on weekly or monthly cadence with clients to discuss and track project status </li>
+</ul><div>
+<br><strong>What you will need:</strong>
+</div><ul>
+<li>Minimum 3+ years of professional experience (Agency experience a plus but not required) </li>
+<li>Ability to work on Central (CT) or Pacific Time (PT)</li>
+<li>Hands-on Shopify experience</li>
+<li>Basic knowledge of HTML and general knowledge of business, technology fields. </li>
+<li>Experience working in Project Management Tools such as Asana, Monday, Trello </li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/nine15-project-manager">https://weworkremotely.com/remote-jobs/nine15-project-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8659/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +66,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/photobooth-supply-co-customer-teams-project-manager" align="right" target="_blank">Apply</a>
