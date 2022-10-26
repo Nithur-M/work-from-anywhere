@@ -10,7 +10,7 @@
                     <code>ui,ux,design,web3,defi,nft,testing,web,animation,html,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-ui-ux-designer-hector-network-136427" align="right" target="_blank">Apply</a>
@@ -63,7 +63,7 @@
 </ul>
 <p></p>
 <p><em>  We are </em><em>going full steam ahead! </em><br><em>  Come join us!!!</em></p>
-<p></p><br/><br/>Please mention the word **LUSH** and tag RMy45My42MS42Ng== when applying to show you read the job post completely (#RMy45My42MS42Ng==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p></p><br/><br/>Please mention the word **LUSH** and tag RNTQuMTY2LjY3LjE5 when applying to show you read the job post completely (#RNTQuMTY2LjY3LjE5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -78,7 +78,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>243 days ago</text>
+                <text>244 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -139,7 +139,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
