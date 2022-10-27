@@ -10,7 +10,7 @@
                     <code>cryptocurrency,ethereum,front-end,developer,code,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-front-end-engineer-offchain-labs-137920" align="right" target="_blank">Apply</a>
@@ -21,7 +21,91 @@
                 <details><summary>Description</summary>
                 <div><span style="font-size:11pt;">Offchain Labs is building a suite of scaling solutions for Ethereum. This includes Arbitrum, an Optimistic Rollup, that instantly scales apps, reducing costs and increasing capacity, without sacrificing Ethereum's security. Porting contracts to Arbitrum requires no code changes or downloads since itâs compatible with existing Ethereum developer languages and tooling.</span></div><div><br></div><div>
 <span style="font-size:11pt;">Our team is extremely passionate and works tirelessly to bridge the gap between what blockchain is and what blockchain can be. We strive to maintain an atmosphere that fosters innovation and new ideas through collaboration, research, and deep discussions. After raising an initial round of $</span><a href="http://3.8m/" style="font-size:11pt;" class="postings-link" rel="noopener noreferrer nofollow">3.8M</a><span style="font-size:11pt;"> in seed funding in January 2019 and a $20M series A, as well as a $100M series B in 2021, we are ready to hire additional team members that have an interest in working in the blockchain space and a knack for approaching problems in unconventional ways.</span>
-</div><p></p><h4>Who you are:</h4><p></p><p></p><li>Expert in Front-end development</li><li>Experience with React.js, CSS3, Typescript, Javascript</li><li>Excited to learn and develop blockchain technology (No experience yet? No problem!)</li><li>Possess a strong sense of ownership in your work, which drives you to find ways to do things better and faster</li><li>Always up-to-speed on the latest technologies</li><li>Constantly on the lookout for new and innovative ways to solve complex problems through rigorous experimentation</li><li>Your communication style is open, transparent, and direct, and you consistently work in tight collaboration with your teammates</li><li>Always open to feedback, new ideas, and opportunities for self-improvement</li><li>You look for ways to help out beyond the scope of your day-to-day work</li><p></p><h4>What you've done:</h4><p></p><p></p><li>Have dabbled in, educated yourself on, or are experienced working on blockchain technology</li><li>Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency applications</li><li>Security-minded and always keeping an eye out for potential threats and vulnerabilities in your code</li><li>Mastered CS fundamentals, either in a formal university program or through self-learning</li><div><span style="font-size:16px;">We understand it takes a diverse team of highly intelligent, passionate, curious, and creative people to solve the challenges involved in developing and improving Arbitrum. Our dynamic team has incredible perspectives to share, just as we know you do. We take great pride in being an equal opportunity workplace.</span></div><br/><br/>Please mention the word **VIGILANCE** and tag RNTQuMTY2LjY3LjE5 when applying to show you read the job post completely (#RNTQuMTY2LjY3LjE5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p></p><h4>Who you are:</h4><p></p><p></p><li>Expert in Front-end development</li><li>Experience with React.js, CSS3, Typescript, Javascript</li><li>Excited to learn and develop blockchain technology (No experience yet? No problem!)</li><li>Possess a strong sense of ownership in your work, which drives you to find ways to do things better and faster</li><li>Always up-to-speed on the latest technologies</li><li>Constantly on the lookout for new and innovative ways to solve complex problems through rigorous experimentation</li><li>Your communication style is open, transparent, and direct, and you consistently work in tight collaboration with your teammates</li><li>Always open to feedback, new ideas, and opportunities for self-improvement</li><li>You look for ways to help out beyond the scope of your day-to-day work</li><p></p><h4>What you've done:</h4><p></p><p></p><li>Have dabbled in, educated yourself on, or are experienced working on blockchain technology</li><li>Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency applications</li><li>Security-minded and always keeping an eye out for potential threats and vulnerabilities in your code</li><li>Mastered CS fundamentals, either in a formal university program or through self-learning</li><div><span style="font-size:16px;">We understand it takes a diverse team of highly intelligent, passionate, curious, and creative people to solve the challenges involved in developing and improving Arbitrum. Our dynamic team has incredible perspectives to share, just as we know you do. We take great pride in being an equal opportunity workplace.</span></div><br/><br/>Please mention the word **VIGILANCE** and tag RNDQuMjExLjE4OC4x when applying to show you read the job post completely (#RNDQuMjExLjE4OC4x). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/9305/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OCR Labs</h5>
+                    <h3> Front End Engineer - Full Time</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0066/9305/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London / Sydney / San Francisco
+    <br /><strong>URL:</strong> <a href="https://ocrlabs.com">https://ocrlabs.com</a>
+</p>
+
+<div> </div><div>
+<strong>Full time – Remote - London / UK Timezone<br></strong><br>
+</div><div>
+<br>Join a new team of passionate engineers and build a world-class platform to fight identity fraud at a global scale.  The technology is awesome, interesting and solves real world problems.</div><div> </div><div><br></div><div>
+<strong>The Position<br></strong><br>
+</div><div>We are looking to add engineers to our team with strong front-end programming experience. You should be well-versed in component-driven development with a working knowledge of HTML, JavaScript, and CSS.  The role would include:</div><div>
+<br>·        Building new product features for both our customers and our product teams</div><div>
+<br>·        Work closely with product managers, designers and backend engineers in order to create innovative and usable solutions</div><div>
+<br>·        Helping shape the technical direction - your choices will become the building blocks of our infrastructure<br><br>
+</div><div>
+<br><br>
+</div><div>
+<strong>Needed qualifications<br></strong><br>
+</div><div>
+<br>Whilst technical competence is critical, we place great emphasis on passion, communication, and collaboration across the business. <br><br>
+</div><div>
+<br>·        You have minimum 3 years of commercial front-end development experience with React, typescript and NodeJS.</div><div>
+<br>·        Minimum 3 years working with complex web applications.<br><br>
+</div><div>·        Proficient in JavaScript ES6, CSS3 and HTML5.</div><div>
+<br>·        Exposure to writing unit, integration and E2E tests</div><div>
+<br>·        Optimising code to effectively run across multiple devices and browsers</div><div>
+<br>·        Strong written and verbal skills</div><div>
+<br>·        You have an In-depth understanding of Javascript, the DOM, and relevant concepts</div><div>
+<br>·        Have a keen eye for UI details</div><div>
+<br>·        Understanding of progressive web apps</div><div>
+<br>·        Experience with webpack, docker, Git and CI/CD</div><div>
+<br>·        Experience in mobile and responsive development<br><br>
+</div><div>
+<br> </div><div><br></div><div>
+<strong>Nice to haves…<br></strong><br>
+</div><div>
+<br>·        Working on a SaaS product (B2B)<br><br>
+</div><div>
+<br>·        Typescript<br><br>
+</div><div>
+<br>·        Experience with RUST<br><br>
+</div><div>
+<br>·        Experience working in a Fintech company<br><br>
+</div><div>
+<br>·        AWS Lambda / Microservices architecture<br><br>
+</div><div>
+<br>·        Any AWS technologies<br><br>
+</div><div> <br><br>
+</div><div><strong>About us </strong></div><div>OCR Labs is an identity verification software company that has developed world leading digital identity verification technology. Our technology eliminates identity fraud and makes sure people are who they say they are.</div><div> </div><div>We’ve built everything from the ground up and have a broad range of top customers across banking, telecommunications, government and more. We are growing very fast and scaling internationally.</div><div> </div><div>The successful candidate can be based remotely but will report to the Product Owner in Sydney. The position is fulltime and remuneration is competitive, based on experience. You’ll need to have good written and spoken English. </div><div> </div><div>
+<br><br>
+</div><h1>Instructions on how to apply </h1><div>Send an email through to devjobs@ocrlabs.com with “I love developing” in the subject. Write a few lines about you and attach your resume.</div><div>
+<br> Add any link you think will help us assess your soft and hard skills. If you peak our interest, we’ll set up an interview and go from there.</div><div>
+<br> <br><br>
+</div><div>
+<br> <br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1">https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -36,7 +120,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
