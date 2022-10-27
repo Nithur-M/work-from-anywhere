@@ -10,7 +10,7 @@
                     <code>cryptocurrency,defi,crypto,bitcoin,ethereum,front-end,security,software,testing,code,travel,api,leader,engineer,backend</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-cryptocurrency-blockchain-ciphertrace-137436" align="right" target="_blank">Apply</a>
@@ -19,77 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div>CipherTrace, a Mastercard company, is a rapidly growing leader in cryptocurrency intelligence and compliance. Our team has introduced novel solutions to challenges including sanctions compliance for DeFi and the Crypto Travel Rule. Our mission is to grow the blockchain economy by making crypto safe for users and trusted by governments. CipherTrace operates on a global scale to assist banks, cryptocurrency exchanges, law enforcement agencies, regulators, VASPs, and businesses in preventing fraud, human trafficking, money laundering, and other illicit activity where cryptocurrency is involved.</div><div><br></div><div>The ideal candidate should be a passionate, self-motivated, team player with experience working in a quickly evolving environment and who has a willingness to work and learn in a collaborative organization.</div><div><br></div><div><br></div><p></p><h4>Responsibilities</h4><p></p><p></p><li>Build the next-generation cryptocurrency tools, law enforcement tools, and DeFi platforms.</li><li>Debug and perform quality testing on the Blockchain cryptocurrency tools.</li><li>Design and build support for multiple chains and currencies.</li><li>Monitor and improve API and database performance.</li><li>Co-design software APIs with front-end developers to access cryptocurrency feeds.</li><p></p><h4>Requirements</h4><p></p><p></p><li>Proficient in cryptography concepts.</li><li>Deep experience in languages such as Javascript, Typescript, Go, Rust, Python,</li><li>SQL/noSQL, Cassandra, PostgreSQL, MySQL, Elasticsearch, GraphQL.</li><li>NodeJS and asynchronous programming techniques.</li><li>Deep knowledge of cryptographic primitives, protocols, and blockchain technologies such as Bitcoin, Ethereum, smart contracts (Solidity and Cairo), applied cryptography, and layer-2 networks.</li><li>Stream processing pipelines and tools, such as Restful APIs, Pub/Sub, Redis, Kafka.</li><li>Deep understanding of how Bitcoin and Ethereum work.</li><li>Deep understanding of routing nodes, staking infrastructure, and novel systems to manage liquidity.</li><li>Deploying code with Kubernetes, Docker.</li><li>Blockchain technologies, DeFi, law enforcement software, or cryptocurrencies.</li><li>Comfortable working with distributed and remote teams.</li><p></p><h4>Nice to Have</h4><p></p><p></p><li>Strong English communication skills (both spoken and written).</li><li>Knowledge and experience with Hardware Security Models.</li><li>Knowledge of or experience applying machine learning models.</li><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **LAWFULLY** and tag RNTQuMTY2LjY3LjE5 when applying to show you read the job post completely (#RNTQuMTY2LjY3LjE5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8355/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Community Phone</h5>
-                    <h3> Senior Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/community-phone-senior-backend-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8355/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Boston
-    <br /><strong>URL:</strong> <a href="https://communityphone.org">https://communityphone.org</a>
-</p>
-
-<h1>Senior Backend Engineer</h1><div>Community Phone has a straightforward mission: make the phone call more powerful. In doing so, we are transforming the $300B+ US telecom industry. We have thousands of customers around the country, including children trying to purchase landlines for their elderly parents and businesses choosing modern voice features. Our enterprise clients include KFC, AT&amp;T, GM, Dunkin’ Donuts, and Starbucks. We are customer-centric and believe that happy customers are the best sales force on the planet.</div><div>We are a venture-backed, Y-Combinator graduate. In 2021 alone, we grew 20%+ month-over-month and have already tripled in 2022. As our revenue and teams have expanded, our product offering has too - with novel voice features available for SMBs for the first time.</div><div><br></div><div><strong>About the role</strong></div><div>You will be working with our founder and product team (including five other engineers, two senior designers, and a project manager) to build the first full-service API to provision phone numbers and onboard modern voice features (like credit card processing via phone or a crowdsourced real-time spam-call filter). These projects use events only a carrier can get. We process millions of minutes of phone conversations per week, growing about 25% month-over-month.</div><div><br></div><div><strong>(Real) Sample Projects Include </strong></div><ul>
-<li>Help design APIs so existing apps (like CRMs) can use voice and message data</li>
-<li>Ultimately, design a system to learn and change a business’s call flow to optimize for e-commerce goals like order creation</li>
-<li>Automatic order-taking or appointment scheduling via voice </li>
-<li>CRM integrations, making real-time speech from phone calls available via API for the first time </li>
-<li>Emergency services integrations for seniors living at home or in assisted living</li>
-</ul><div><br></div><h1><strong>Accelerate your career as you</strong></h1><ul>
-<li>Work with a highly collaborative cross-functional team composed of product managers, a designer, engineers, analysts, and operations working together to define and build the world-class telecommunications experience. </li>
-<li>Tackle complex technical and domain problems in the tired telecommunications industry </li>
-<li>Use your expertise to create technical leverage that enables us to deliver more value to small businesses, enterprise customers, and senior citizens </li>
-<li>Focus on scaling and automating our existing services.</li>
-<li>Evolve our team culture and processes through collaboration and mentorship.</li>
-</ul><div><br></div><div><br></div><h1><strong>A Bit About You</strong></h1><div><br></div><div>Minimum Qualifications:</div><ul>
-<li>Have 4+ years of experience writing production code</li>
-<li>Experienced with backend development</li>
-<li>Experience writing automated tests using CI/CD pipelines</li>
-<li>Strong engineering fundamentals</li>
-<li>Passionate about Community Phone's mission</li>
-<li>Experienced as a product engineer working on end-user-facing features, collaborating with product and design teams</li>
-<li>Track record of learning and growth</li>
-<li>You are highly curious and almost fearless when it comes to writing software and bringing organization to the wild west of old-school carriers and cable companies... someone who wants to find out what is really going on and wants to make a huge impact.</li>
-<li>Strong verbal and written communication in English.</li>
-</ul><div>Preferred Qualifications: </div><ul>
-<li>Experienced with Python 3, Django, PostgreSQL, Docker</li>
-<li>Experienced leading a project or a team</li>
-<li>Have architected complex systems for long-term maintainability, performance, and scalability</li>
-</ul><div><br></div><h1><strong>Interview Process </strong></h1><ul>
-<li>Initial Screen with our Product Manager</li>
-<li>Technical Screen evaluated by our backend team </li>
-<li>Onsite </li>
-<li>References</li>
-<li>Offer</li>
-<li>Hire</li>
-</ul><div>
-<strong><br>Contribute to open source and jump ahead of the line:  </strong>open a PR with a meaningful contribution to any of our <a href="https://github.com/community-phone-company">open source projects</a>, and if approved you are guaranteed the onsite interview.</div><div><br></div><h1>
-<strong>Salary Range:</strong> $100,000 - $140,000* + Equity</h1><div>*Please note this range is specific to employees based in the United States. Salary ranges for employees outside of the United States may vary based on region.  Benefits also depend on the candidate’s location. </div><div>
-<strong>Equity Eligible:</strong> Yes. </div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/community-phone-senior-backend-engineer">https://weworkremotely.com/remote-jobs/community-phone-senior-backend-engineer</a></p>
-
+                <div>CipherTrace, a Mastercard company, is a rapidly growing leader in cryptocurrency intelligence and compliance. Our team has introduced novel solutions to challenges including sanctions compliance for DeFi and the Crypto Travel Rule. Our mission is to grow the blockchain economy by making crypto safe for users and trusted by governments. CipherTrace operates on a global scale to assist banks, cryptocurrency exchanges, law enforcement agencies, regulators, VASPs, and businesses in preventing fraud, human trafficking, money laundering, and other illicit activity where cryptocurrency is involved.</div><div><br></div><div>The ideal candidate should be a passionate, self-motivated, team player with experience working in a quickly evolving environment and who has a willingness to work and learn in a collaborative organization.</div><div><br></div><div><br></div><p></p><h4>Responsibilities</h4><p></p><p></p><li>Build the next-generation cryptocurrency tools, law enforcement tools, and DeFi platforms.</li><li>Debug and perform quality testing on the Blockchain cryptocurrency tools.</li><li>Design and build support for multiple chains and currencies.</li><li>Monitor and improve API and database performance.</li><li>Co-design software APIs with front-end developers to access cryptocurrency feeds.</li><p></p><h4>Requirements</h4><p></p><p></p><li>Proficient in cryptography concepts.</li><li>Deep experience in languages such as Javascript, Typescript, Go, Rust, Python,</li><li>SQL/noSQL, Cassandra, PostgreSQL, MySQL, Elasticsearch, GraphQL.</li><li>NodeJS and asynchronous programming techniques.</li><li>Deep knowledge of cryptographic primitives, protocols, and blockchain technologies such as Bitcoin, Ethereum, smart contracts (Solidity and Cairo), applied cryptography, and layer-2 networks.</li><li>Stream processing pipelines and tools, such as Restful APIs, Pub/Sub, Redis, Kafka.</li><li>Deep understanding of how Bitcoin and Ethereum work.</li><li>Deep understanding of routing nodes, staking infrastructure, and novel systems to manage liquidity.</li><li>Deploying code with Kubernetes, Docker.</li><li>Blockchain technologies, DeFi, law enforcement software, or cryptocurrencies.</li><li>Comfortable working with distributed and remote teams.</li><p></p><h4>Nice to Have</h4><p></p><p></p><li>Strong English communication skills (both spoken and written).</li><li>Knowledge and experience with Hardware Security Models.</li><li>Knowledge of or experience applying machine learning models.</li><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **LAWFULLY** and tag RNDQuMjExLjE4OC4x when applying to show you read the job post completely (#RNDQuMjExLjE4OC4x). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -104,7 +34,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
