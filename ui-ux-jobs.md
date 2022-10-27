@@ -10,7 +10,7 @@
                     <code>ui,ux,design,web3,defi,nft,testing,web,animation,html,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-ui-ux-designer-hector-network-136427" align="right" target="_blank">Apply</a>
@@ -63,7 +63,120 @@
 </ul>
 <p></p>
 <p><em>  We are </em><em>going full steam ahead! </em><br><em>  Come join us!!!</em></p>
-<p></p><br/><br/>Please mention the word **LUSH** and tag RNTQuMTY2LjY3LjE5 when applying to show you read the job post completely (#RNTQuMTY2LjY3LjE5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p></p><br/><br/>Please mention the word **LUSH** and tag RNDQuMjExLjE4OC4x when applying to show you read the job post completely (#RNDQuMjExLjE4OC4x). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8736/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TryHackMe</h5>
+                    <h3> Lead UI/UX Designer</h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/tryhackme-lead-ui-ux-designer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8736/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London
+    <br /><strong>URL:</strong> <a href="http://tryhackme.com">http://tryhackme.com</a>
+</p>
+
+<div><strong><em><br>Full-time Fully Remote</em></strong></div><div>
+<em>£70,000 to £90,000 (experience dependent) ~$81k to $100k<br></em><br>
+</div><div><strong><br>What we do</strong></div><div>
+<a href="https://tryhackme.com/"><br>TryHackMe</a> is an online platform (with over a million users) that teaches cyber security through short, gamified real-world labs. We have content for both complete beginners and seasoned hackers, incorporation guides and challenges to cater for different learning styles.<br><br>
+</div><div>
+<strong><br>About the role<br></strong><br>
+</div><div><strong>The fundamentals of what you will be doing:</strong></div><ul>
+<li>Translate business needs, user needs and technology constraints into solution concepts that are meaningful, easy to use, and engaging</li>
+<li>Combine UX thinking with design execution, to produce usable and intuitive user interfaces</li>
+<li>Develop UI mockups and prototypes that clearly illustrate how sites function and look like</li>
+<li>Can innovate and develop out-of-the-box solutions to complex user interaction problems.</li>
+<li>Direct all elements of design, including typography, imagery, iconography, etc.</li>
+<li>Provide critical analysis of user experience designs based on heuristics and other accepted design principles</li>
+<li>Develop personas, user stories and other design related documents</li>
+<li>Provides mentoring and design leadership to designers. <ul>
+<li>Review designs against business requirements</li>
+<li>Flat hierarchy management style (empowerment, psychological safety, etc.)</li>
+</ul>
+</li>
+<li>Evaluate new and emerging methods and technologies in UX prototyping and identify best of breed to incorporate into your team’s toolkit</li>
+</ul><div><strong><br>Why would this role be challenging?</strong></div><ul>
+<li>We are currently rebuilding our platform, and we need to figure out how much we should be rebuilding from scratch. This is where your research expertise comes in handy. After the research phase, you will set the UI/UX strategy for the entire platform.</li>
+<li>Redesign most of the UI components from scratch, setting out the best practices for each component <ul><li>Manage design libraries and design systems with adherence to our brand.</li></ul>
+</li>
+<li>Our team is small but scaling. So we are in the chaotic growing phase and we need help thinking through some of our design and design thinking processes. <ul>
+<li>Identify areas that need alignment or could benefit from knowledge sharing</li>
+<li>Identify design/research related inefficiencies</li>
+</ul>
+</li>
+<li>Evangelizing the merits of good design and research - champions user needs at all levels and influences stakeholders to consider those needs in their objectives. In other words, we want a thought leader who actively defines and institutes best practices for design, while fostering innovation to address evolving consumer expectations and technological advances.</li>
+</ul><div><strong><br>Must-haves:</strong></div><ul>
+<li>Be a UX research expert by… <ul>
+<li>Recommend, plan and execute the research with the most appropriate tools/methodologies</li>
+<li>Communicate results (Ex: unforeseen opportunities and issues that have a significant impact on product strategy and design) verbally and visually</li>
+<li>Set a design strategy out of the result</li>
+</ul>
+</li>
+<li>Strong UI skills, ability to create ascetically pleasing designs</li>
+<li>Solid understanding of user-centered design, interaction design principles, responsive design and accessibility standards</li>
+<li>Proactive, structured, attention to detail, growth mindset, no ego</li>
+<li>Superior conceptual and critical-thinking abilities</li>
+<li>Experienced with Figma</li>
+<li>Excellent communication skills, including the ability to present complex concepts clearly and persuasively across diverse audiences at various levels of the organization</li>
+<li>Must be willing to work 4 - 5.5 hours overlap with London time zone from 9am to 5pm</li>
+</ul><div><strong><br>Nice to haves:</strong></div><ul>
+<li>Typically has 5 years’ experience in UX / UI design role, using a wide variety of research methods and technologies.</li>
+<li>AB testing experience</li>
+<li>Experience with HTML5, CSS3 and the use of various Javascript frameworks in interface design.</li>
+<li>Asynchronous working experience with a distributed team across many time zones</li>
+<li>Cultural awareness and sensitivity, as this role will involve daily interaction with people in countries around the globe</li>
+<li>Previously worked with EdTech and/or SaaS products</li>
+<li>Has worked at a start-up</li>
+</ul><div><strong><br>Founder Story</strong></div><div>
+<br>TryHackMe started in 2018 by two cyber security enthusiasts, Ashu Savani and Ben Spring, who met at a summer internship. When getting started in the field, they found learning security to be a fragmented, inaccessible and difficult experience; often being given a vulnerable machine's IP with no additional resources is not the most efficient way to learn, especially when you don't have any prior knowledge. When Ben returned back to University he created a way to deploy machines and sent it to Ashu, who suggested uploading all the notes they'd made over the summer onto a centralised platform for others to learn, for free.</div><div>
+<br>To allow users to share their knowledge, TryHackMe allows other users (at no charge) to create a virtual room, which contains a combination of theoretical and practical learning components.</div><div>
+<br>The platform has never raised any capital and is entirely bootstrapped.</div><div>
+<br>As the UX/UI Designer you will work within the Software Engineering team and collaboratively with the Product team using agile methodologies (Scrum). This role is fast-paced and varied and there is space for you to help define this with your own expertise.<br><br>
+</div><h1>Perks &amp; Benefits</h1><div>
+<strong>💰 Salary </strong>£70,000 to £90,000 (<em>experience dependent) ~$81k to $100k</em>
+</div><div>
+<strong><br>🕒 Flexi Time </strong>Choose when to start, finish and take breaks in your workday.<br><br>
+</div><div>
+<strong>💸 401k / Pension </strong>TryHackMe makes it easy to save money for retirement.<br><br>
+</div><div>
+<strong>🧡 Health Insurance </strong>Get health insurance if you're in a country that doesn't have public health care.<br><br>
+</div><div>
+<strong>🏗️ 10% Project </strong>Devote 10% of your time developing anything you want, providing it benefits TryHackMe in some way.</div><div>
+<strong><br>⛱️ Company Retreat </strong>We're planning to have an annual company retreat (post-covid), fully paid for by us!</div><div>
+<strong><br>🚣 Fully Remote </strong>In a fully digital world, there is nothing stopping you from working anywhere you want.<br><br>
+</div><div>
+<strong>💪 Personal Development </strong>Everyone gets a minimum annual training budget of £2,500. Use this for online courses, to acquire certifications, and more.</div><div>
+<strong><br>💻 Tools </strong>You'll receive a dedicated work laptop, and any other accessories you need to do your best work.<br><br>
+</div><div><strong><br>Our Hiring Process</strong></div><ul>
+<li>Stage 1: 15m chat to learn more about you (and vice versa)</li>
+<li>Stage 2: 1h design call presenting a case study from your portfolio</li>
+<li>Stage 3: 1h management and culture fit call</li>
+<li>(Optional) Stage 4: Meet some team members</li>
+</ul><div>
+<br>🔥 <strong>Apply Now!<br></strong><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tryhackme-lead-ui-ux-designer">https://weworkremotely.com/remote-jobs/tryhackme-lead-ui-ux-designer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -78,7 +191,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>244 days ago</text>
+                <text>245 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -139,7 +252,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
