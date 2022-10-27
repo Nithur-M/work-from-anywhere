@@ -1,5 +1,49 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/917d511272abb84b9ffca7606f34714e1666706404.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Audius</h5>
+                    <h3>Software Engineer Smart Contracts</h3>
+                </td>
+                <td width="300">
+                    <code>software,solidity,crypto,ethereum,react,music,architect,engineer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-smart-contracts-audius-138560" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Who are we? 
+Audius is a digital streaming service that connects fans directly with artists and exclusive new music.Â 
+
+It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can freely build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence.
+
+Backed by an all-star team of investors, Audius was founded in 2018 and serves over 6 million users every month, making it the largest non-financial crypto application ever built.
+
+Who we are looking for? 
+We are looking for passionate team-players to help us architect and build the most difficult parts of the Audius protocol (high availability services for decentralized replication of data, latency-sensitive distributed file transfers, Ethereum smart contracts, infrastructure and tooling for third parties to run our open source services). You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. Youâre eager to jump into multiple parts of our tech stack and have strong CS fundamentals to do so. We solve a lot of problems that can't be easily Googled or searched on StackOverflow.
+
+Our Company
+Audius is a 30-person team of entrepreneurs, engineers, music industry professionals, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have monthly concert stipends, wellness benefits, team activities, and bi-annual in-person get-togethers.
+
+Our company is fully remote and our team is currently distributed across the United States. 
+
+Our Tech Stack
+Frontend: React, React Native, Redux, Redux-Saga, Electron, Typescript, Javascript
+Backend: Postgres, Elasticsearch, Redis, IPFS, Python, Typescript, Javascript, Rust (Solana), Solidity (Ethereum), Docker
+
+If this role speaks to you, but your previous experience doesn't match the job description, please consider applying anyways! We're looking for smart and capable software engineers and highly value the ability to grow in your role. You might be the perfect fit!
+<br/><br/>Please mention the word **PATRIOTIC** and tag RNDQuMjExLjE4OC4x when applying to show you read the job post completely (#RNDQuMjExLjE4OC4x). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/b71e8bdc12400d9e64fcbebcfa7422bf1666682128.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +54,7 @@
                     <code>software,cryptocurrency,ethereum,security,developer,code,senior,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-offchain-labs-138420" align="right" target="_blank">Apply</a>
@@ -21,7 +65,7 @@
                 <details><summary>Description</summary>
                 <div><span style="font-size:11pt;">Offchain Labs is building a suite of scaling solutions for Ethereum. This includes Arbitrum, an Optimistic Rollup, that instantly scales apps, reducing costs and increasing capacity, without sacrificing Ethereum's security. Porting contracts to Arbitrum requires no code changes or downloads since itâs compatible with existing Ethereum developer languages and tooling.</span></div><div><br></div><div>
 <span style="font-size:11pt;">Our team is extremely passionate and works tirelessly to bridge the gap between what blockchain is and what blockchain can be. We strive to maintain an atmosphere that fosters innovation and new ideas through collaboration, research, and deep discussions. After raising an initial round of $</span><a href="http://3.8M" style="font-size:11pt;" class="postings-link" rel="noopener noreferrer nofollow">3.8M</a><span style="font-size:11pt;"> in seed funding in January 2019 and a $20M series A, as well as a $100M series B in 2021, we are ready to hire additional team members that have an interest in working in the blockchain space and a knack for approaching problems in unconventional ways.</span>
-</div><br>Who you are:<br>Excited to learn and develop blockchain technology (No experience yet? No problem!)Possess production experience with a compiled language (C++, Go, or Rust)Experienced with compiler construction and architecture, and security engineering on large-scale systems is a plusPossess a strong sense of ownership in your work, which drives you to find ways to do things better and fasterAlways up-to-speed on the latest technologiesConstantly on the lookout for new and innovative ways to solve complex problems through rigorous experimentationYour communication style is open, transparent and direct, and you consistently work in tight collaboration with your teammatesAlways open to feedback, new ideas and opportunities for self-improvementYou look for ways to help out beyond the scope of your day-to-day work<br>What you've done:<br>Made significant contributions to the products youâve worked on in your careerHave dabbled in, educated yourself on, or are experienced working on blockchain technologyEager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency applicationsExperience working with compilers, architecting systems and developing SDKsSecurity-minded and always keeping an eye out for potential threats and vulnerabilities in your codeMastered CS fundamentals, either in a formal university program or through self-learning<div><span style="font-size:11pt;">We understand it takes a diverse team of highly intelligent, passionate, curious, and creative people to solve the challenges involved in developing and improving Arbitrum. Our dynamic team has incredible perspectives to share, just as we know you do, and we take great pride in being an equal opportunity workplace.</span></div><br/><br/>Please mention the word **MODEST** and tag RNTQuMTY2LjY3LjE5 when applying to show you read the job post completely (#RNTQuMTY2LjY3LjE5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br>Who you are:<br>Excited to learn and develop blockchain technology (No experience yet? No problem!)Possess production experience with a compiled language (C++, Go, or Rust)Experienced with compiler construction and architecture, and security engineering on large-scale systems is a plusPossess a strong sense of ownership in your work, which drives you to find ways to do things better and fasterAlways up-to-speed on the latest technologiesConstantly on the lookout for new and innovative ways to solve complex problems through rigorous experimentationYour communication style is open, transparent and direct, and you consistently work in tight collaboration with your teammatesAlways open to feedback, new ideas and opportunities for self-improvementYou look for ways to help out beyond the scope of your day-to-day work<br>What you've done:<br>Made significant contributions to the products youâve worked on in your careerHave dabbled in, educated yourself on, or are experienced working on blockchain technologyEager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency applicationsExperience working with compilers, architecting systems and developing SDKsSecurity-minded and always keeping an eye out for potential threats and vulnerabilities in your codeMastered CS fundamentals, either in a formal university program or through self-learning<div><span style="font-size:11pt;">We understand it takes a diverse team of highly intelligent, passionate, curious, and creative people to solve the challenges involved in developing and improving Arbitrum. Our dynamic team has incredible perspectives to share, just as we know you do, and we take great pride in being an equal opportunity workplace.</span></div><br/><br/>Please mention the word **MODEST** and tag RNDQuMjExLjE4OC4x when applying to show you read the job post completely (#RNDQuMjExLjE4OC4x). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -36,7 +80,7 @@
                     <code>video,medical,health,healthcare,non tech,software,c#,front-end,senior,marketing,engineer,backend</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-advertising-scorpion-137078" align="right" target="_blank">Apply</a>
@@ -47,7 +91,7 @@
                 <details><summary>Description</summary>
                 We're looking for an ambitious backend Senior Software Engineer who is strong with C# and SQL to be responsible for the architecture and development of data-oriented solutions and their integration with front-end applications and internal/external APIs. You will play an integral part in the project life cycle and work closely with our Product Managers, Designers and other Engineers from the initial concept to the final release. Your primary focus will be to develop data-driven systems to deploy, manage and optimize successful marketing campaigns for our clients.
 
-<br/><br/>Please mention the word **INTERESTS** and tag RNTQuMTY2LjY3LjE5 when applying to show you read the job post completely (#RNTQuMTY2LjY3LjE5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **INTERESTS** and tag RNDQuMjExLjE4OC4x when applying to show you read the job post completely (#RNDQuMjExLjE4OC4x). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -62,7 +106,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-economics" align="right" target="_blank">Apply</a>
@@ -117,7 +161,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -179,7 +223,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
