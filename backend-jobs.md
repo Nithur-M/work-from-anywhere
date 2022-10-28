@@ -10,7 +10,7 @@
                     <code>cryptocurrency,defi,crypto,bitcoin,ethereum,front-end,security,software,testing,code,travel,api,leader,engineer,backend</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-cryptocurrency-blockchain-ciphertrace-137436" align="right" target="_blank">Apply</a>
@@ -19,7 +19,70 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div>CipherTrace, a Mastercard company, is a rapidly growing leader in cryptocurrency intelligence and compliance. Our team has introduced novel solutions to challenges including sanctions compliance for DeFi and the Crypto Travel Rule. Our mission is to grow the blockchain economy by making crypto safe for users and trusted by governments. CipherTrace operates on a global scale to assist banks, cryptocurrency exchanges, law enforcement agencies, regulators, VASPs, and businesses in preventing fraud, human trafficking, money laundering, and other illicit activity where cryptocurrency is involved.</div><div><br></div><div>The ideal candidate should be a passionate, self-motivated, team player with experience working in a quickly evolving environment and who has a willingness to work and learn in a collaborative organization.</div><div><br></div><div><br></div><p></p><h4>Responsibilities</h4><p></p><p></p><li>Build the next-generation cryptocurrency tools, law enforcement tools, and DeFi platforms.</li><li>Debug and perform quality testing on the Blockchain cryptocurrency tools.</li><li>Design and build support for multiple chains and currencies.</li><li>Monitor and improve API and database performance.</li><li>Co-design software APIs with front-end developers to access cryptocurrency feeds.</li><p></p><h4>Requirements</h4><p></p><p></p><li>Proficient in cryptography concepts.</li><li>Deep experience in languages such as Javascript, Typescript, Go, Rust, Python,</li><li>SQL/noSQL, Cassandra, PostgreSQL, MySQL, Elasticsearch, GraphQL.</li><li>NodeJS and asynchronous programming techniques.</li><li>Deep knowledge of cryptographic primitives, protocols, and blockchain technologies such as Bitcoin, Ethereum, smart contracts (Solidity and Cairo), applied cryptography, and layer-2 networks.</li><li>Stream processing pipelines and tools, such as Restful APIs, Pub/Sub, Redis, Kafka.</li><li>Deep understanding of how Bitcoin and Ethereum work.</li><li>Deep understanding of routing nodes, staking infrastructure, and novel systems to manage liquidity.</li><li>Deploying code with Kubernetes, Docker.</li><li>Blockchain technologies, DeFi, law enforcement software, or cryptocurrencies.</li><li>Comfortable working with distributed and remote teams.</li><p></p><h4>Nice to Have</h4><p></p><p></p><li>Strong English communication skills (both spoken and written).</li><li>Knowledge and experience with Hardware Security Models.</li><li>Knowledge of or experience applying machine learning models.</li><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **LAWFULLY** and tag RNDQuMjExLjE4OC4x when applying to show you read the job post completely (#RNDQuMjExLjE4OC4x). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <div>CipherTrace, a Mastercard company, is a rapidly growing leader in cryptocurrency intelligence and compliance. Our team has introduced novel solutions to challenges including sanctions compliance for DeFi and the Crypto Travel Rule. Our mission is to grow the blockchain economy by making crypto safe for users and trusted by governments. CipherTrace operates on a global scale to assist banks, cryptocurrency exchanges, law enforcement agencies, regulators, VASPs, and businesses in preventing fraud, human trafficking, money laundering, and other illicit activity where cryptocurrency is involved.</div><div><br></div><div>The ideal candidate should be a passionate, self-motivated, team player with experience working in a quickly evolving environment and who has a willingness to work and learn in a collaborative organization.</div><div><br></div><div><br></div><p></p><h4>Responsibilities</h4><p></p><p></p><li>Build the next-generation cryptocurrency tools, law enforcement tools, and DeFi platforms.</li><li>Debug and perform quality testing on the Blockchain cryptocurrency tools.</li><li>Design and build support for multiple chains and currencies.</li><li>Monitor and improve API and database performance.</li><li>Co-design software APIs with front-end developers to access cryptocurrency feeds.</li><p></p><h4>Requirements</h4><p></p><p></p><li>Proficient in cryptography concepts.</li><li>Deep experience in languages such as Javascript, Typescript, Go, Rust, Python,</li><li>SQL/noSQL, Cassandra, PostgreSQL, MySQL, Elasticsearch, GraphQL.</li><li>NodeJS and asynchronous programming techniques.</li><li>Deep knowledge of cryptographic primitives, protocols, and blockchain technologies such as Bitcoin, Ethereum, smart contracts (Solidity and Cairo), applied cryptography, and layer-2 networks.</li><li>Stream processing pipelines and tools, such as Restful APIs, Pub/Sub, Redis, Kafka.</li><li>Deep understanding of how Bitcoin and Ethereum work.</li><li>Deep understanding of routing nodes, staking infrastructure, and novel systems to manage liquidity.</li><li>Deploying code with Kubernetes, Docker.</li><li>Blockchain technologies, DeFi, law enforcement software, or cryptocurrencies.</li><li>Comfortable working with distributed and remote teams.</li><p></p><h4>Nice to Have</h4><p></p><p></p><li>Strong English communication skills (both spoken and written).</li><li>Knowledge and experience with Hardware Security Models.</li><li>Knowledge of or experience applying machine learning models.</li><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **LAWFULLY** and tag RNDQuMjExLjMyLjM3 when applying to show you read the job post completely (#RNDQuMjExLjMyLjM3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MasteryPrep</h5>
+                    <h3> Backend Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/masteryprep-backend-software-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Baton Rouge, Louisiana, United States
+    <br /><strong>URL:</strong> <a href="http://www.masteryprep.com">http://www.masteryprep.com</a>
+</p>
+
+<p><strong>About the Opportunity</strong></p>
+<p>MasteryPrep is assembling an onshore development team to work exclusively on "greenfield" initiatives. We are looking for talented software engineers to help us level the playing field in education by building the most effective test preparation available, bar none. We believe that the best way to build this experience is by creating a diverse team of people from different backgrounds, races, religions, genders, sexual orientations, ages, and experiences. The team we are building must be aligned to our core values of:</p>
+<ul> <li> <strong>Go pro.</strong> Or go home. Get better than the best.</li> <li> <strong>Do right.</strong> Period.</li> <li> <strong>Make it happen.</strong> Excuses never built anything.</li> <li> <strong>Make it awesome.</strong> There is no equality without quality.</li> <li> <strong>Customers are forever.</strong> This company is for them.</li> </ul>
+<p><strong>Requirements</strong></p>
+<p><strong>About the Role</strong></p>
+<p>As a Backend Software Engineer, you will be responsible for—but not limited to—architecture, implementation, testing, and partnering with our product, operations, and support teams. Building great products is a highly collaborative effort, so it's essential that you are a team player with solid communication skills.</p>
+<p><br></p>
+<p><strong>Success criteria:</strong><br></p>
+<ul> <li>You work collaboratively and respectfully with cross-functional teams to design cutting edge education products that change the world</li> <li>You propose innovative and creative ideas to solve tough engineering challenges that scale</li> <li>You raise the bar on quality, testing, and performance to ensure the product reliably performs</li> <li>You help identify and implement best practices and standards throughout the code and our processes</li> <li>You own quality issues and failures and work to actively resolve them with a sense of urgency</li> <li>You constantly strive to build an inclusive, supportive, and positive work environment</li> <li>Security is a first-class concern for you—<em><strong>SecOps</strong> </em><strong><em>isn't an afterthought</em></strong> </li> </ul>
+<p><br></p>
+<p><strong>Our development environment:</strong></p>
+<ul> <li>React</li> <li>Typescript</li> <li>Python</li> <li>Mocha</li> <li>Lerna</li> <li>GraphQL</li> <li>Cube.js</li> <li>Google Cloud</li> <li>Google Cloud Functions</li> <li>Google Firestore</li> <li>Google Identity Platform</li> <li>Google BigQuery</li> <li>Postgres</li> <li>GitLab</li> </ul>
+<p><br></p>
+<p><strong>Integrated 3rd Party Solutions:</strong></p>
+<ul> <li>Mux</li> <li>DocRaptor</li> <li>Schoology</li> <li>Classlink</li> <li>Clever</li> <li>Google Analytics</li> <li>NewRelic</li> </ul>
+<p><br></p>
+<p><strong>What you will be building</strong></p>
+<p>While support and maintenance for existing platforms may be required from time to time, this role will primarily focus on our "greenfield" initiatives. MasteryPrep is wholly committed to building cutting-edge technology solutions to level the playing field for education. Our platform has to scale to support interactions in hundreds of live classrooms with up to 250+ students in a single class. This is not a job for the faint of heart. However, if projects and challenges of this scale excite you, then you may be the right fit for the role.</p>
+<p>We look forward to hearing from you!</p>
+<p><strong>Benefits</strong></p>
+<ul> <li>100% Remote</li> <li>Flex work hours</li> <li>Full Medical, Dental and Vision with HSA eligibility</li> <li>401K with company contribution</li> </ul>
+<p><strong>About MasteryPrep</strong></p>
+<p>Did you know that nearly 90% of low-income students graduate high school without a college-ready ACT or SAT score? We're here to change that.</p>
+<p>MasteryPrep's mission is to level the college admissions playing field by helping all students access the most effective ACT and SAT prep programs on the market. Unlike traditional prep, MasteryPrep works even for students who struggle with tests, and through our partnerships with school districts, is provided at no cost to students or their families.</p>
+<p>So far, over 1 million students have benefitted from our programs, and we're just getting started. We need your help!</p>
+<p>Join a diverse, high-energy, mission-driven team that is genuinely making an impact and strives to be on the cutting edge of making education technology work in the classroom.</p>
+<p>MasteryPrep is one of the fastest-growing ed-tech companies in the country:</p>
+<ul> <li>Inc. 5000 four years in a row</li> <li>Entrepreneur 360 Company</li> <li>Louisiana Growth Leader, 2020 and 2021</li> <li>Council for Opportunity in Education Preferred Provider of ACT &amp; SAT Prep</li> <li>#1 Provider of ACT Preparation (&gt;5% of all U.S. test-takers)</li> </ul>
+<p>Our diverse team consists of compassionate, intelligent, and highly energetic individuals. Remote team members are connected to the whole through appropriate touch-points, support, and partnerships.</p>
+<p>We invest in our team. Come grow with us!</p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/masteryprep-backend-software-engineer">https://weworkremotely.com/remote-jobs/masteryprep-backend-software-engineer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -34,7 +97,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
