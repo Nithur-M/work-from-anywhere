@@ -10,7 +10,7 @@
                     <code>developer,web3,nft,web,strategy,content,marketing,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-head-of-developer-relations-rarible-138920" align="right" target="_blank">Apply</a>
@@ -20,7 +20,7 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><b style="font-size:18px;">Rarible Multichain Protocol</b></div><div><span style="font-size:15px;">The Rarible Protocol is designed as a set of building blocks which enables the creation of fully customized NFT experiences of any level and complexity.</span></div><div><br></div><div>Rarible Multichain Protocol is focused on growing the ecosystem of projects and creators in the broader Rarible Ecosystem, which includes <a href="http://rarible.com/" class="postings-link" rel="noopener noreferrer nofollow">rarible.com</a> (NFT marketplace with $40 million trading volume in April 2021) and many other projects building on Rarible Protocol. </div><div><br></div><div>You can find information on the protocol at <a href="http://rarible.org/" class="postings-link" rel="noopener noreferrer nofollow">rarible.org</a>. Our community and group of workers operate openly in our Discord server, which anyone can join. </div><div><br></div><div>Join our decentralized, motivated and fully remote team building the NFT ecosystem of the future.</div><div><br></div><div><b style="font-size:18px;">Developer Relations Engineer</b></div><div>This role is focused on engagement of our web3 developer target audience, as well providing all teams and builders support and guidance in any form (p2p communications, webinars, developer events, content and documentation) needed to succeed. The Developer Relations Engineer will be expected to discover project needs, on-board project to use protocol, and be responsible creating content and technical documentation.</div><p></p><h4>Responsibilities</h4><p></p><p></p><li>Execute on his level the strategy to increase the number of developers who regularly interact with and build on Rarible Protocol</li><li>Work with marketing teams to develop content from blog posts, newsletters</li><li>Manage the developer journey from website to documentation to tools</li><li>Create inspiring product demos, tutorials, and other videos to use for events and web marketing</li><li>Execute Rarible protocol hackathons and manage participation in third party hackathons </li><li>Manage and grow developer communication channels such as Discord, Telegram, Discourse, Stackoverflow, etc.</li><li>Moderate discussions on the Rarible Protocol developer forums, ensuring that topics are on point and that questions are responded to well and in a timely fashion (either personally or through the community participants)</li><li>Capture, analyze, and share relevant developer insights with the product and engineering teams</li><li>Work with our developer team to ensure the right use cases and examples are created for our documentation</li><li>Collaborate with product teams to launch new services, features, and enhancements effectively through the developer community</li><li>Look to grow and discover new ways to better serve the Rarible protocol technical community</li><li>Handle technical question and act as liaison with the Rarible protocol teams </li><p></p><h4>Requirements</h4><p></p><p></p><li>Great communication skills</li><li>Technical writings: Protocol docs, Guides, Tutorials</li><li>Language skills: English, Russian is an advantage</li><li>Developers support</li><li>Representing Rarible at community events and hackathons </li><li>Web3 development experience is a big advantage</li><div><b style="font-size:18px;">What Rarible Multichain Protocol offers</b></div><div>ð Working for a rapidly expanding global distributed network / protocol</div><div>ð Complete immersion into Web3 and <a href="https://www.gartner.com/smarterwithgartner/5-trends-appear-on-the-gartner-hype-cycle-for-emerging-technologies-2019" class="postings-link" rel="noopener noreferrer nofollow">the future of work</a>
-</div><div>ð Extreme flexibility (hours, location, etc)</div><div>ð Great compensation packages and vacation</div><div><br></div><br/><br/>Please mention the word **EXCELENT** and tag RNDQuMjExLjE4OC4x when applying to show you read the job post completely (#RNDQuMjExLjE4OC4x). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><div>ð Extreme flexibility (hours, location, etc)</div><div>ð Great compensation packages and vacation</div><div><br></div><br/><br/>Please mention the word **EXCELENT** and tag RNDQuMjExLjMyLjM3 when applying to show you read the job post completely (#RNDQuMjExLjMyLjM3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +35,7 @@
                     <code>developer,design,web3,defi,ethereum,front-end,testing,test,ux,code,travel,css,senior,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-front-end-developer-gelato-138921" align="right" target="_blank">Apply</a>
@@ -71,7 +71,7 @@
 <li>Ethers.js / web3.js</li>
 <li>Hardhat</li>
 <li>Solidity</li>
-</ul><br/><br/>Please mention the word **DELIGHTFULNESS** and tag RNDQuMjExLjE4OC4x when applying to show you read the job post completely (#RNDQuMjExLjE4OC4x). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **DELIGHTFULNESS** and tag RNDQuMjExLjMyLjM3 when applying to show you read the job post completely (#RNDQuMjExLjMyLjM3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -86,7 +86,7 @@
                     <code>developer,software,code,devops,education,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-substrate-runtime-developer-soramitsu-137431" align="right" target="_blank">Apply</a>
@@ -120,7 +120,7 @@
 <li><p>Possibility to visit global meetups and conferences for education and/or for giving a speech;</p></li>
 <li><p>An absence of a strict dress code;</p></li>
 <li><p>Relaxed work environment.</p></li>
-</ul><br/><br/>Please mention the word **LAVISH** and tag RNDQuMjExLjE4OC4x when applying to show you read the job post completely (#RNDQuMjExLjE4OC4x). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **LAVISH** and tag RNDQuMjExLjMyLjM3 when applying to show you read the job post completely (#RNDQuMjExLjMyLjM3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -135,7 +135,7 @@
                     <code>developer,software,code,flutter,mobile,senior,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-flutter-developer-3k-4-5k-month-snapp-mobile-137098" align="right" target="_blank">Apply</a>
@@ -176,7 +176,7 @@ Experience: Mid or Senior
 Hiring contact 
 *Emir SlezovicÂ - feel free to contact me on LinkedIn or e-mail (emir[at]wexl.co)
 
-<br/><br/>Please mention the word **SWIFTNESS** and tag RNDQuMjExLjE4OC4x when applying to show you read the job post completely (#RNDQuMjExLjE4OC4x). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **SWIFTNESS** and tag RNDQuMjExLjMyLjM3 when applying to show you read the job post completely (#RNDQuMjExLjMyLjM3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -191,7 +191,7 @@ Hiring contact
                     <code>developer,design,ethereum,system,security,game,testing,growth,code,senior,e-commerce,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-blockchain-developer-boson-protocol-136936" align="right" target="_blank">Apply</a>
@@ -277,7 +277,7 @@ Hiring contact
 <li>
 <strong>Stay lean:</strong><span style="font-weight:400;"> Our ethos is to create and share value equitably, with minimal value extraction.</span>
 </li>
-</ul><br/><br/>Please mention the word **INVINCIBILITY** and tag RNDQuMjExLjE4OC4x when applying to show you read the job post completely (#RNDQuMjExLjE4OC4x). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **INVINCIBILITY** and tag RNDQuMjExLjMyLjM3 when applying to show you read the job post completely (#RNDQuMjExLjMyLjM3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -292,7 +292,7 @@ Hiring contact
                     <code>ethereum,developer,solidity,react,system,security,ui,web,financial,lambda,nodejs,operations,operational,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-ethereum-developer-openzeppelin-136933" align="right" target="_blank">Apply</a>
@@ -370,7 +370,175 @@ Hiring contact
 <h3 class="job-description-title"> </h3>
 </div>
 </div>
-</div><br/><br/>Please mention the word **POSH** and tag RNDQuMjExLjE4OC4x when applying to show you read the job post completely (#RNDQuMjExLjE4OC4x). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **POSH** and tag RNDQuMjExLjMyLjM3 when applying to show you read the job post completely (#RNDQuMjExLjMyLjM3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7908/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>BBE Marketing Inc</h5>
+                    <h3> Full-Stack Wordpress Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/7908/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Hurst, TX
+    <br /><strong>URL:</strong> <a href="http://bbemarketing.com/">http://bbemarketing.com/</a>
+</p>
+
+<div>BBE Marketing creates online products that help businesses connect with celebrities and influencers. We are looking for a talented Full-Stack Wordpress Developer to join our team, who could help us in shipping features for our application and drive our application design and architecture as we grow.<br><br>
+</div><div>The tasks include:<br><br>
+</div><div>- Developing plugins<br>- Making fixes and updates to existing plugins<br>- Work with team in planning and strategizing<br>- Working with designer in developing designs<br>- Various backend tasks<br><br>
+</div><div>You will love this role if:<br><br>
+</div><div>- You like working with the stakeholders directly. We’re a relatively small startup, there’s no bureaucracy and complex hierarchy. You’ll be communicating directly with all the team members, from CEO to Customer Support.<br>- You like to work and ship stuff fast without compromising quality. You know when to stop and call it done without trying to achieve the unattainable perfection.<br>- You’re not afraid to prove your point when necessary. We trust our team members and believe they have businesses best interest at heart. If there’s no simple solution to a problem, you can provide the arguments and clearly communicate the risks.<br>- Self-starter, we don’t like to micro-manage our team<br>- You treat privileged information with care. You can be trusted with sensitive company data<br>- Great communication skills<br><br>
+</div><div>Requirements:<br>- Experience with PHP<br>- Experience with Wordpress<br>- Experience with MySQL;<br>- Experience with Asana (preferred)<br>- Written and spoken English (required).<br>- Able to work 4 hours overlap within 07:00 - 18:00 PST<br><br>
+</div><div>
+<br><br>
+</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-2">https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8799/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>amazee.io</h5>
+                    <h3> Frontend Developer - (80% - 100%)</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/amazee-io-frontend-developer-80-100" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8799/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Zurich, Switzerland 
+    <br /><strong>URL:</strong> <a href="https://amazee.io">https://amazee.io</a>
+</p>
+
+<div>
+<strong>Frontend Developer - (80% - 100%)<br><br>Description:</strong><br><br>Hi! We're <a href="http://amazee.io/">amazee.io</a>, a ZeroOps application delivery hub for engineering teams to deploy applications more easily. Our developer-centric, open source platform makes developers’ lives and jobs easier, minimizing the stress of managing infrastructure or operations. amazee.io supports organizations across the globe to accelerate their cloud and container adoption, along with providing easily managed Kubernetes for developer teams. We run anywhere in the world, with 24/7/365 dedicated support. </div><div><br></div><div>We’re looking for a Frontend Developer to join our remote team. As a Frontend Developer with amazee.io, you’ll be working alongside a UX designer and a UI designer on our core ZeroOps applications delivery product, Lagoon. You’ll be key in transforming Lagoon from a developer focused tool, to a market ready intuitively designed platform, by implementing design and interaction changes, turning the work of the UX and UI designers into well functioning code. We’ve got some exciting new directions to take our interfaces and integrations, and in delivering a more complete experience for all our users. </div><div><br></div><div>If you feel like this could be the role for you, then come and join a team of open source enthusiasts, committed to providing flexible web solutions in an open and transparent work environment, and having fun doing it.<br><br>
+</div><div><br></div><div><strong>What you’ll be doing: </strong></div><ul>
+<li>Breathing new life into our React-based Lagoon UI, refining the integration between it and our GraphQL API</li>
+<li>Owning the entire development lifecycle for the UI components, over their various iterations</li>
+<li>Implementing a design system and set of components to guide the future development of the UI</li>
+<li>Implementing iterations of the UI and components as React Native plugins to third party applications</li>
+<li>Working with our UI, product and engineering teams to design, develop and iterate a range of prototypes for upcoming features<br><br>
+</li>
+</ul><div><strong>What you’ll bring:</strong></div><ul>
+<li>Experience developing in React, React Native, GraphQL</li>
+<li>Experience with integrating backend technologies (e.g server-side rendering, single sign-on)</li>
+<li>Understanding of how to implement and maintain design systems</li>
+<li>Ability to perform end-to-end Javascript testing and compatibility</li>
+<li>Experience with shipping features via feature flags, phased rollouts and A/B testing</li>
+<li>Comfort communicating technical topics in English, both verbal and written<br><br>
+</li>
+</ul><div>amazee.io is dedicated to providing a work environment of trust, transparency, and inclusion for everyone. As a fully remote company we offer flexibility when it comes to working hours and location. Here’s some other things you can expect from us.</div><div><br></div><div><strong>What we’ll bring:</strong></div><ul>
+<li>A fully distributed team of creative colleagues in a flat, open and transparent organization -<a href="https://www.amazee.io/about-us?scrollTo=people"> Meet the team</a>, or read our<a href="https://handbook.amazee.io/"> handbook</a>
+</li>
+<li>Flexible working hours, and time off in lieu when you work overhours</li>
+<li>Fully Remote working </li>
+<li>5 paid days off a year for conference attendance or education related commitments </li>
+<li>An annual education benefit of $1,500 or equivalent to dedicate to your professional development</li>
+<li>An annual wellbeing benefit of $500 or equivalent to dedicate to your physical or mental health </li>
+<li>A monthly connectivity benefit of $100 or equivalent for you to expense internet costs as a remote worker </li>
+<li>Your own annual tech budget, with full initial setup provided</li>
+<li>Sweet, sweet Swag - Hoodies and other goodies </li>
+<li>
+<strong>amazee.io Quest!</strong> - After 3 years, you’ll get 3 weeks paid off work to undertake a profound personal goal, or undertake a bucket list type challenge.</li>
+</ul><div><br></div><div><strong>So what’s next?: </strong></div><div><br></div><div>Apply! Send us your CV showcasing who you are, your experience, and anything else you think we should know! </div><div><br></div><div>The amazee.io Team.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/amazee-io-frontend-developer-80-100">https://weworkremotely.com/remote-jobs/amazee-io-frontend-developer-80-100</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8790/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Dewaele Real Estate Group</h5>
+                    <h3> PYTHON SOFTWARE DEVELOPER</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/dewaele-real-estate-group-python-software-developer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8790/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Izegem, Belgium
+    <br /><strong>URL:</strong> <a href="https://www.dewaele.com">https://www.dewaele.com</a>
+</p>
+
+<h1><strong>What will you get to work on?</strong></h1><div>You will work on our application stack which consists of internal and external applications for both our agents and our customers. </div><div>Our application stack is cloud native, built around containerized micro services that are built, tested and deployed in a highly automated manner.</div><h1><strong>Skills &amp; Requirements</strong></h1><ul>
+<li>3 years of experience using Python as a main development language</li>
+<li>Experience with Git</li>
+<li>Hands-on, self-motivated, and quality focussed</li>
+<li>Excellent written and spoken English</li>
+<li>You have the ability to take responsibility and work independently</li>
+<li>A decent overlap with our timezone (UTC+2) for efficient communication</li>
+</ul><div>
+<br><strong><em>Nice to haves<br></em></strong><strong><br></strong><br>
+</div><div>The following skills and experience are not a must have but will definitely give you the extra edge during hiring:</div><ul>
+<li>Experience with Django Framework</li>
+<li>Knowledge of front-end technologies like VueJS</li>
+<li>Knowledge of working experience with Docker and containers</li>
+<li>Experience working with Amazon Web Services<br><br>
+</li>
+</ul><h1><strong>Our Stack</strong></h1><ul>
+<li>Our backend is powered by Python</li>
+<li>The frontend of our applications are built using VueJS &amp; HTML 5</li>
+<li>We use Amazon Web Services &amp; Docker containers and implement best practices like Test Driven Development and Continuous Integration / Continuous Deployment<br><br>
+</li>
+</ul><h1><strong>Why Work For Us?</strong></h1><ul>
+<li>Innovative company that is technology driven</li>
+<li>An enthusiastic development team with experienced colleagues</li>
+<li>High level of autonomy and input in the team</li>
+<li>Fully remote with flexible hours<br><br>
+</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/dewaele-real-estate-group-python-software-developer-1">https://weworkremotely.com/remote-jobs/dewaele-real-estate-group-python-software-developer-1</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -385,7 +553,7 @@ Hiring contact
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/dearman-systems-llc-asp-net-csharp-developer-or-software-engineer-asp-net-c" align="right" target="_blank">Apply</a>
@@ -441,67 +609,6 @@ Hiring contact
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8410/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CloudDevs</h5>
-                    <h3> Remote Senior Mobile Developer (Android or iOS)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clouddevs-remote-senior-mobile-developer-android-or-ios" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8410/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Francisco
-    <br /><strong>URL:</strong> <a href="https://clouddevs.com/">https://clouddevs.com/</a>
-</p>
-
-<div>
-<br>CloudDevs is helping world-class, venture-backed startups find talented Mobile developers. You will be employed directly by one of these startups and play an integral role in their early-stage growth.<br><br>
-</div><div>
-<br><br>
-</div><div>
-<strong>Minimum qualifications:<br></strong><br>
-</div><ul>
-<li>Bachelor's degree in Computer Science or equivalent practical experience</li>
-<li>7+ years of work experience as a Mobile software engineer or relevant experience</li>
-<li>Strong and confident communicator in English</li>
-<li>Strong problem solver</li>
-<li>Comfortable with collaboration and open communication across distributed teams</li>
-</ul><div>
-<br><strong>Preferred qualifications:<br></strong><br>
-</div><ul>
-<li>Proven track record of shipping software and successfully released apps (please include names and links on your resume)</li>
-<li> 5+ yrs of commercial experience in iOS Native OR Android Native Development</li>
-<li>Strong technical design and development skills</li>
-<li>Experience with Continuous Integration</li>
-<li>Proven work experience inside of a distributed team, in a remote environment</li>
-<li>Strong attention to detail on every line of code, every unit test, and every commit message</li>
-<li>Comfortable with rapid development cycles and tight schedules</li>
-</ul><div>
-<strong><br>What's In It For You?<br></strong><br>
-</div><ul>
-<li>Most of our clients offer remote work and competitive compensation with bonuses, stock options,  etc</li>
-<li>Apply once and get matched with multiple pre-vetted employers</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clouddevs-remote-senior-mobile-developer-android-or-ios">https://weworkremotely.com/remote-jobs/clouddevs-remote-senior-mobile-developer-android-or-ios</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4519/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -512,7 +619,7 @@ Hiring contact
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shotflow-ios-developer-1" align="right" target="_blank">Apply</a>
@@ -577,112 +684,6 @@ Hiring contact
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0001/8203/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Zapiet</h5>
-                    <h3> Experienced Laravel Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/zapiet-experienced-laravel-developer-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0001/8203/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London, UK
-    <br /><strong>URL:</strong> <a href="https://www.zapiet.com">https://www.zapiet.com</a>
-</p>
-
-<div>We are looking for a Laravel developer to join our team to help scale up our products, implement our development plans and respond more quickly to feature requests from our growing user base.</div><div><br></div><div><strong>Required</strong></div><ul>
-<li>1-2 years experience developing applications using Laravel</li>
-<li>Ability to write clear testable code</li>
-<li>Ability to develop cross-browser and cross-platform solutions</li>
-<li>An appreciation for user experience</li>
-<li>Experienced in designing and maintaining MySQL databases</li>
-<li>In-depth knowledge of current coding techniques and best practices</li>
-<li>Willingness to learn new skills and keep up to date with the latest technologies</li>
-<li>Excellent communication skills</li>
-<li>Experience using version control systems</li>
-</ul><div><br></div><div><strong>Desirable</strong></div><ul>
-<li>Experience using ecommerce platforms such as Shopify</li>
-<li>Experience with API development and 3rd party API’s</li>
-<li>Experience working on platforms that scale</li>
-<li>Experience writing Golang </li>
-<li>An understanding of security threats and implications of what you write</li>
-</ul><div><br></div><div><strong>Compensation is based on experience</strong></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/zapiet-experienced-laravel-developer-2">https://weworkremotely.com/remote-jobs/zapiet-experienced-laravel-developer-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Chainlink Labs</h5>
-                    <h3> Senior Software Engineer, Developer Experience</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>35 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-developer-experience" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> United States
-    <br /><strong>URL:</strong> <a href="https://chainlinklabs.com/careers">https://chainlinklabs.com/careers</a>
-</p>
-
-<div>As a <strong>Senior Software Engineer on the Developer Experience</strong> team, you will help us build the tools and frameworks to support our core workflows in the Chainlink ecosystem. You will work closely with smart contract and node operations teams to ensure they are equipped to efficiently manage Chainlink oracle deployments and smart contracts. You will be given a high level of autonomy/ownership over your projects, the opportunity to expand your scope of knowledge, and the chance to help build the decentralized infrastructure of the future. This includes exposure to a wide variety of blockchains and protocols.</div><div><br></div><div>This is a great role for a senior engineer with <strong>TypeScript or Golang</strong> experience interested in exploring the blockchain and smart contract world and gaining exposure to a wide variety of blockchains and protocols.</div><div><br></div><div>We are distributed across time zones and continents, and we embrace remote work.</div><div><br></div><div>We all have different backgrounds and are determined to help you succeed no matter where you are or who you are. If you think you would do a great job at Chainlink, we are looking forward to speaking with you, even if you don't match 100% of the job requirements: those describe people we've usually had a great time working with, but they're not a tick-box exercise.</div><div><br></div><div>
-<strong><br>Your Impact<br></strong><br>
-</div><ul>
-<li>Own large components of the toolchain that supports all Chainlink Labs infrastructure and smart contract management</li>
-<li>Converge disparate frameworks built to support different blockchains into one unified experience (a highly unique and ambitious undertaking!)</li>
-<li>Work directly with blockchain integrations, engineering operations, and our security teams to ensure they are able to efficiently and securely execute core workflows</li>
-<li>Prepare and support our blockchain SDK for use by the broader Chainlink community, potentially including open source work</li>
-<li>Actively participate in leveling the team’s engineering bar, increasing the velocity of the team and the reliability and security of the product</li>
-<li>Mentor other engineers on the team</li>
-</ul><div>
-<strong><br>Requirements<br></strong><br>
-</div><ul>
-<li>Experience owning multi month long projects, including communication of progress, dependencies, and risk mitigation directly with stakeholders and partners</li>
-<li>Computer science fundamentals and systems design</li>
-<li>Ability to be creative and resourceful when tackling ambiguous technical challenges</li>
-<li>Strong communication skills. You can give and receive constructive feedback, and you do not shy away from planning meetings and code reviews</li>
-</ul><div>
-<strong><br>Desired Qualifications<br></strong><br>
-</div><ul>
-<li>5+ years of professional engineering experience working in a collaborative product-driven environment, including at least some hands-on TypeScript development</li>
-<li>Excitement for blockchain, web3, and similar decentralized technologies</li>
-<li>Experience working with a team located across multiple time zones</li>
-</ul><div><br></div><div><strong>Our Stack</strong></div><div><br></div><div>Core: TypeScript, Golang</div><div>Sometimes: Solidity, Rust</div><div><br></div><div><br></div><div><strong>Our Principles</strong></div><div><br></div><div>At Chainlink Labs, we’re committed to the key operating principles of ownership, focus, and open dialogue. We practice complete ownership, where everyone goes the extra mile to own outcomes into success. We understand that unflinching focus is a superpower and is how we channel our activity into technological achievements for the benefit of our entire ecosystem. We embrace open dialogue and critical feedback to arrive at an accurate and truthful picture of reality that promotes both personal and organizational growth.</div><div><br></div><div><strong>About Chainlink Labs</strong></div><div><br></div><div>Chainlink is the industry standard oracle network for connecting smart contracts to the real world. With Chainlink, developers can build hybrid smart contracts that combine on-chain code with an extensive collection of secure off-chain services powered by Decentralized Oracle Networks. Managed by a global, decentralized community of hundreds of thousands of people, Chainlink is introducing a fairer model for contracts. Its network currently secures billions of dollars in value for smart contracts across the decentralized finance (DeFi), insurance, and gaming ecosystems, among others. The full vision of the Chainlink Network can be found in the <a href="https://research.chain.link/whitepaper-v2.pdf">Chainlink 2.0 whitepaper</a>. Chainlink is trusted by hundreds of organizations—from global enterprises to projects at the forefront of the blockchain economy—to deliver definitive truth via secure, reliable data.  </div><div><br></div><div>This role is location agnostic anywhere in the world, but we ask that you overlap some working hours with Eastern Standard Time (EST).</div><div><br></div><div>We are a fully distributed team and have the tools and benefits to support you in your remote work environment.</div><div><br></div><div><em>Chainlink Labs is an Equal Opportunity Employer.</em></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-developer-experience">https://weworkremotely.com/remote-jobs/chainlink-labs-senior-software-engineer-developer-experience</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4259/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -693,7 +694,7 @@ Hiring contact
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>90 days ago</text>
+                <text>91 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
@@ -740,6 +741,56 @@ Hiring contact
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1441130/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Scentbird</h5>
+                    <h3>Shopify Developer</h3>
+                </td>
+                <td width="300">
+                    <code>api,CSS,developer,ecommerce</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/shopify-developer-1441130" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <figure><img src="https://gallery-cdn.breezy.hr/344ae/output-onlinepngtools.png"></figure><p><strong><strong><strong>PLEASE NOTE THIS ROLE IS FOR OVERSEAS APPLICATION, NON -U.S. ONLY. NO DOMESTIC (U.S.) APPLICATIONS WILL BE CONSIDERED.</strong></strong></strong></p><p><strong>Shopify Developer</strong></p>
+<p>When we launched our site we outsourced their development to the 3rd party vendor. Right now we have a need of constant a/b testing, improvement and new feature development for all of these websites. So now it makes sense to have a dedicated team that can deliver that fast. For that team we need a developer who can actually code all the tasks.</p>
+<p><strong>What You'll Be Responsible For:</strong></p>
+<ul><li>Manage the company's e-commerce website</li><li>In-depth knowledge of the Shopify platform and the out of the box capabilities and components</li><li>Act as Shopify expert, specializing in all facets of the ecommerce platform.</li><li>Keep up to date with the business domain and work closely with business stakeholders</li><li>Working with other applications and integrating into the site using API's</li><li>Ensure our solutions addresses the business needs of the business sponsors / leaders</li><li>Adhere to business requirements and provide on time deliveries</li><li>Plan and execute various aspects of projects not only bound to but beyond Shopify boundaries.</li><li>Has worked on multiple Shopify projects from mid to high level of complexity especially on Ecommerce platform</li><li>Generate custom - tailored Shopify theme and altering pre - existing template.</li></ul>
+<p><br></p>
+<p><strong>What We'll Love About You:</strong></p>
+<ul><li>Proficiency in the English language, both written and verbal, sufficient for success in a remote and largely asynchronous work environment</li><li>Demonstrated capacity to clearly and concisely communicate about complex technical, architectural, and/or organizational problems and propose thorough iterative solutions</li><li>Demonstrated ability to onboard and integrate with an organization long-term</li><li>Positive and solution-oriented mindset</li><li>Effective communication skills: Regularly achieve consensus with peers, and clear status updates</li><li>An inclination towards communication, inclusion, and visibility</li><li>Experience owning a project from concept to production, including proposal, discussion, and execution.</li><li>Self-motivated and self-managing, with strong organizational skills.</li><li>Demonstrated ability to work closely with other parts of the organization</li><li>Share our values, and work in accordance with those values</li><li>Ability to thrive in a fully remote organization</li></ul>
+<p></p>
+<p><strong>What You'll Need to Have:</strong></p>
+<ul><li>Someone with 3-5 years experience building web applications with Shopify</li><li>Experience with modern CSS styling including Sass, flexbox, CSS Grids, and BEM</li><li>Great communicator who isn't afraid to ask for requirements clarification, coding help, and code reviews.</li><li>Experience with tooling such as webpack, gulp, vim, npm, yarn.</li><li>Experience with version control systems like git</li><li>Capable of converting static design files into landing pages</li><li>A self-starter who also thrives in a collaborative environment</li></ul>
+<p><strong>Nice to have:</strong></p>
+<ul><li>Understanding of the Shopify ecosystem including plugins</li><li>Experience working with Recharge </li><li>Experience with javascript frameworks like Angular, React, and Vue</li><li>Experience applying ADA best practices</li><li>Preference of command-line interfaces over graphical</li><li>Experience sharing css between multiple projects</li><li>Experience working in open source community and contributing changes</li></ul>
+<p></p>
+<p><strong>What You'll Love About Us:</strong></p>
+<ul><li>Competitive base compensation</li><li>Bonus program</li><li>Paid Time Off</li><li>Volunteer Time Off</li><li>Wellness Days Off</li><li>A fun, creative and energetic work environment.</li></ul><p><br></p>
+<p><strong>About Scentbird:</strong></p>
+<p>drift is uprooting the traditional air-care market. With beautifully designed products that blend in with bespoke scents that stand out. We take pride in our fragrances, keeping them free from the traditional chemicals used in the fragrance industry. we are always phthalate and paraben free. drift's subscription customer base is loyal and growing fast.</p>
+<p>Scentbird inspires fragrance lovers to go beyond the ordinary and sample scents that evoke passion, confidence, and the unknown. Our mission is to revolutionize the way we perfume by bringing the ultimate fragrance playground right to your fingertips and offering a digital subscription service that lets members choose from over 500+ designer perfumes each month.</p>
+<p>About the Brands:</p>
+<ul><li><strong>Scentbird: </strong>The easiest way for fragrance lovers to discover, try, and buy their favorite scented products without a commitment</li></ul>
+<ul><li><strong>Deck of Scarlet: </strong>Deck of Scarlet was created to break the boredom and shake up clean beauty. The line of bold cosmetics features vivid colors, innovative textures, and unprecedented finishes that bring the fun and creativity back to clean beauty.</li></ul>
+<ul><li><strong>Confessions Of A Rebel: </strong>We're not afraid to provoke. Our fragrances are made to excite and inspire: some are subversive, others are straightforward, all are compelling in their own right. He, she, they, YOU - our confessions are not caged in by gender.</li></ul>
+<ul><li><strong>Goodhabit:</strong> Built for the digitally native generation, Goodhabit is pioneering the movement in defending your skin against artificial blue light and modern day skin stressors. We're developing clean, conscious, and effective skincare solutions that keep you connected, and your skin, protected.</li></ul>
+<ul><li><strong>Sanctuary:</strong> Our newest brand to the Scentbird family. This fragrance, just like the playful creature that was its muse, this scent opens with an energetic blend of red berries and fresh bamboo as a nod to the Red Panda's favorite foods, while pink pepper adds an extra lively twist. Verdant notes like white tea, violet, and oakmoss pay homage to its habitat in the Himalayan Forests and mountains of China, as cashmere woods evoke a soft, cuddly feeling.</li></ul>
+<p>Scentbird is committed to bringing individuals from different backgrounds and perspectives into the Nest. We strive to uphold an inclusive environment where individuals of all different backgrounds, ages, colors, ethnicities, gender, or gender identities, genetics, physical or mental abilities, protected veteran status, race, religious or sexual orientation, thrive. We respect the laws enforced by the EEOC and are dedicated internally to going above and beyond in fostering diversity. Come as you are - we're excited to meet you.</p>
+<p><br><br></p><p></p>
+<img src="https://remotive.com/job/track/1441130/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1446640/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -750,7 +801,7 @@ Hiring contact
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -817,7 +868,7 @@ Hiring contact
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -886,7 +937,7 @@ Hiring contact
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -911,7 +962,7 @@ Hiring contact
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/unreal-engine-developer-1344657" align="right" target="_blank">Apply</a>
@@ -936,7 +987,7 @@ Hiring contact
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1015,7 +1066,7 @@ Hiring contact
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1092,7 +1143,7 @@ Hiring contact
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
