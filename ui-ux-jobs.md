@@ -1,69 +1,130 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/8f55d9333898e15da56ca9908c7400301666336520.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8798/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Hector Network</h5>
-                    <h3>UI UX Designer</h3>
+                    <h5>amazee.io</h5>
+                    <h3> UI Designer - (80% - 100%)</h3>
                 </td>
                 <td width="300">
-                    <code>ui,ux,design,web3,defi,nft,testing,web,animation,html,digital nomad</code>
+                    <code>Design</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-ui-ux-designer-hector-network-136427" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/amazee-io-ui-designer-80-100" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><strong>About the company </strong></p>
-<p><u><a href="http://hector.network" rel="noopener noreferrer nofollow">Hector Network i</a></u>s an expansive decentralized ecosystem run by a utility token, HEC, and complemented by the TOR stablecoin. The company is committed to developing the future of <strong>web3</strong> by pioneering decentralized offerings ranging from Tokenomics, <strong>NFT</strong> collections, and marketplace to launchpad and<strong> Defi Metaverse</strong>. <br><br>Our mission is to bring mass adoption of blockchain technology to life by lowering the barrier to entry and making <strong>crosschain</strong> expansion happen. <br><br></p>
-<p>Hector Network is a growing project with big ambitions and an incredible team of passionate innovators. <strong><em>As such, we are looking for a very driven and passionate UI designer who thrives in a fast-paced environment to work together with the team on many exciting sub-brands.</em></strong><br><br>In that role, youâll be working closely with the Head of UI,external design, and development teams to help them easily make functional Web3 dApps and other sub-projects visually stunning and instantly attractive. Your focus will be on different sub-projects such as Dex, Institute, NFT marketplace, library, Metaverse, and many more. <br><br></p>
-<p>In addition to that, you'll be working on website design, digital campaigns, and promotional materials.</p>
-<p><strong>The ideal candidate</strong> has design ingenuity, a sense of art, user empathy, curiosity, with the ability to understand development structure and at least basic web development. You will help us bridge the gap between new users who are not familiar with the crypto/NFT/DeFi space and existing users who are well acquainted with such technologies.</p>
-<p><strong>Hereâs what youâll be doing</strong></p>
-<ul>
-<li>Designing and iterating the user interface elements of our sub-projects to effectively communicate interaction and design ideas</li>
-<li>Creating well-crafted, high-fidelity UI mockups,interfaces,visuals and components</li>
-<li>Improving design systems </li>
-<li>Creating clear and attractive interface assets such as buttons, icons, widgets, diagrams, illustrations and infographics</li>
-<li>Conducting layout adjustments based on changing requirements and user feedback</li>
-<li>Refining design through rigorous testing in order to ensure improvement and optimization</li>
-<li>Keeping your understanding and knowledge up to date with the latest UI trends, techniques, and technologies</li>
-</ul>
-<p><strong>Desired skills and experiences</strong></p>
-<ul>
-<li>Strong visual portfolio demonstrating conceptual thinking and problem solving</li>
-<li>At least 2 years of  UI experience</li>
-<li>Confident in Figma</li>
-<li>Confident in Adobe Suite (or similar graphics software)</li>
-<li> Knowledge of Interaction Design and Graphic Design principles</li>
-<li>Understanding of culture and trends in design and UI best practices</li>
-<li>Visual Communication skills and ability to envision and translate complex information into functional content/layouts</li>
-<li>The ability to deconstruct Functional / Non Functional Requirements into a UX driven application</li>
-<li>UI animation is a plus</li>
-<li>CSS3 / HTML 5 is aplus</li>
-<li>Experience with confluence is a plus</li>
-<li>Previous experience with Web 3 projects or desire to develop your career in that space is a big plus</li>
-</ul>
-<p><strong>Why working with us</strong></p>
-<ul>
-<li>Exciting opportunity to join a top Web3 project on a Fantom network</li>
-<li>Amazing chance for you career movement into the revolutionary and innovative space</li>
-<li>Competitive salary</li>
-<li>The environment of creativity, flexibility and freedom</li>
-<li>Global Connections in the Web3 space </li>
-<li>Working in environment where ideas and opinions are valued and encouraged </li>
-<li>Talented and supportive team</li>
-<li>Flexible Hours </li>
-<li>Youâll learn a looot</li>
-</ul>
-<p></p>
-<p><em>  We are </em><em>going full steam ahead! </em><br><em>  Come join us!!!</em></p>
-<p></p><br/><br/>Please mention the word **LUSH** and tag RNDQuMjExLjE4OC4x when applying to show you read the job post completely (#RNDQuMjExLjE4OC4x). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8798/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Zurich, Switzerland 
+    <br /><strong>URL:</strong> <a href="https://amazee.io">https://amazee.io</a>
+</p>
+
+<div>
+<strong>UI Designer - Remote (80% - 100%)<br><br>Description:</strong><br><br>Hi! We're <a href="http://amazee.io/">amazee.io</a>, a ZeroOps application delivery hub for engineering teams to deploy applications more easily. Our developer-centric, open source platform makes developers’ lives and jobs easier, minimizing the stress of managing infrastructure or operations. amazee.io supports organizations across the globe to accelerate their cloud and container adoption, along with providing easily managed Kubernetes for developer teams. We run anywhere in the world, with 24/7/365 dedicated support. </div><div><br></div><div>We’re looking for a UI Designer to work together with a UX Designer on our ZeroOps delivery platform, Lagoon. We are growing a design and development team around Lagoon, to drive it into becoming a world leading platform for application deployments, for both technical and non technical users. You’ll be key in transforming Lagoon from a developer focused tool, to a market ready, intuitively designed platform, by implementing design and interaction changes, turning the work of the UX designer into engaging UI, before working with the Front End Developer on final implementation. We’ve got some exciting new directions to take our interfaces and integrations, and in delivering a more complete experience for all our users. </div><div><br></div><div>If you feel like this could be the role for you, then come and join a team of open source enthusiasts, committed to providing flexible web solutions in an open and transparent work environment, and having fun doing it.</div><div><br></div><div><strong>What you’ll be doing: </strong></div><ul>
+<li>Creating, improving and implementing wireframes, prototypes and style guides to create a unique but consistent experience using our tools </li>
+<li>Developing a design system and set of components to guide the future development of the UI</li>
+<li>Working closely with developers to develop the look and feel of our products, and ensure a high level of quality and usability</li>
+<li>Advocating and further shaping a culture of design at amazee.io to help define the interactions users at all levels have with our products and tools</li>
+<li>Producing branding guidelines and design specifications for other members of the team (or community) to follow</li>
+</ul><div><br></div><div><strong>What you’ll bring:</strong></div><ul>
+<li>Experience designing technical products</li>
+<li>Previous track record of digital interface design for web/admin interfaces</li>
+<li>Experience working with design programs (Inkscape, Illustrator and Sketch) and prototyping tools (Invision, Figma etc)</li>
+<li>Comfort communicating design and technical topics in English, both verbal and written</li>
+<li>An eye for aesthetic design and customer appeal<br><br>
+</li>
+</ul><div>amazee.io is dedicated to providing a work environment of trust, transparency, and inclusion for everyone. As a fully remote company we offer flexibility when it comes to working hours and location. Here’s some other things you can expect from us.</div><div><br></div><div><strong>What we’ll bring:</strong></div><ul>
+<li>A fully distributed team of creative colleagues in a flat, open and transparent organization</li>
+<li>Flexible working hours, and time off in lieu when you work overhours</li>
+<li>Fully Remote working </li>
+<li>5 paid days off a year for conference attendance or education related commitments </li>
+<li>An annual education benefit of $1,500 or equivalent to dedicate to your professional development</li>
+<li>An annual wellbeing benefit of $500 or equivalent to dedicate to your physical or mental health </li>
+<li>A monthly connectivity benefit of $100 or equivalent for you to expense internet costs as a remote worker </li>
+<li>Your own annual tech budget, with full initial setup provided</li>
+<li>Sweet, sweet Swag - Hoodies and other goodies </li>
+<li>
+<strong>amazee.io Quest!</strong> - After 3 years, you’ll get 3 weeks paid off work to undertake a profound personal goal, or undertake a bucket list type challenge</li>
+</ul><div><br></div><div><strong>So what’s next?: </strong></div><div><br></div><div>Apply! Send us your CV showcasing who you are, your experience, and anything else you think we should know! </div><div><br></div><div>The amazee.io Team.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/amazee-io-ui-designer-80-100">https://weworkremotely.com/remote-jobs/amazee-io-ui-designer-80-100</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8797/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>amazee.io</h5>
+                    <h3> UX Product Designer - (80% - 100%)</h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/amazee-io-ux-product-designer-80-100" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8797/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Zurich, Switzerland 
+    <br /><strong>URL:</strong> <a href="https://amazee.io">https://amazee.io</a>
+</p>
+
+<div>
+<strong>UX Product Designer - (80% - 100%)<br><br></strong><br>
+</div><div>
+<strong>Description:</strong><br><br>
+</div><div>Hi! We're <a href="http://amazee.io/">amazee.io</a>, a ZeroOps application delivery hub for engineering teams to deploy applications more easily. Our developer-centric, open source platform makes developers’ lives and jobs easier, minimizing the stress of managing infrastructure or operations. amazee.io supports organizations across the globe to accelerate their cloud and container adoption, along with providing easily managed Kubernetes for developer teams. We run anywhere in the world, with 24/7/365 dedicated support. </div><div><br></div><div>We’re looking for a UX Designer to drive improvements to how we assess, develop, and improve user experience and interactions with our ZeroOps delivery platform Lagoon. From a largely internal tool, Lagoon has grown to be a core product in its own right. We are growing a design and development team around Lagoon, to drive it into becoming a world leading platform for application deployments, for both technical and non technical users. You'll work alongside a UI Designer, and a Front End Developer in a product development team. We’ve got some exciting new directions to take our interfaces and integrations, and in delivering a more complete experience for all our users. </div><div> </div><div>If you feel like this could be the role for you, then come and join a team of open source enthusiasts, committed to providing flexible web solutions in an open and transparent work environment, and having fun doing it.</div><div> </div><div><strong>What you’ll be doing: </strong></div><ul>
+<li>Working with our internal teams, external partners and users to identify opportunities to improve our Lagoon product suite</li>
+<li>Conducting user research to uncover user’s pain points, needs and opportunities</li>
+<li>Developing our user journey maps and personas </li>
+<li>Working closely with developers to develop the look and feel of our products, and ensure a high level of quality and usability</li>
+<li>Producing sketches and prototypes to test functionality and formalise design requirements</li>
+<li>Shaping a culture of design at amazee.io to help define the interactions users at all levels have with our products and tools.</li>
+</ul><div><br></div><div><strong>What you’ll bring:</strong></div><ul>
+<li>Demonstrated work experience as a digital Product Designer or similar role</li>
+<li>Previous experience designing technical products</li>
+<li>Experience in digital interface design for web/admin interfaces (and maybe even CLI!)</li>
+<li>Experience with design programs (Inkscape, Illustrator and Sketch) and prototyping tools (Invision, Figma etc)</li>
+<li>Understanding of how to conduct good UX research to obtain truly meaningful insights (quantitative and qualitative)</li>
+<li>Strong focus on customer and user advocacy</li>
+<li>An eye for aesthetic design and customer appeal</li>
+<li>Comfort communicating design and technical topics in English, both verbal and written<br><br>
+</li>
+</ul><div>amazee.io is dedicated to providing a work environment of trust, transparency, and inclusion for everyone. As a fully remote company we offer flexibility when it comes to working hours and location. Here’s some other things you can expect from us.</div><div>
+<br><br>
+</div><div><strong>What we’ll bring:</strong></div><ul>
+<li>A fully distributed team of creative colleagues in a flat, open and transparent organization</li>
+<li>Flexible working hours, and time off in lieu when you work overhours</li>
+<li>Fully Remote working </li>
+<li>5 paid days off a year for conference attendance or education related commitments </li>
+<li>An annual education benefit of $1,500 or equivalent to dedicate to your professional development</li>
+<li>An annual wellbeing benefit of $500 or equivalent to dedicate to your physical or mental health </li>
+<li>A monthly connectivity benefit of $100 or equivalent for you to expense internet costs as a remote worker </li>
+<li>Your own annual tech budget, with full initial setup provided</li>
+<li>Sweet, sweet Swag - Hoodies and other goodies </li>
+<li>
+<strong>amazee.io Quest!</strong> - After 3 years, you’ll get 3 weeks paid off work to undertake a profound personal goal, or undertake a bucket list type challenge</li>
+</ul><div><br></div><div><strong>So what’s next?: </strong></div><div><br></div><div>Apply! Send us your CV showcasing who you are, your experience, and anything else you think we should know!<br><br>The amazee.io Team </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/amazee-io-ux-product-designer-80-100">https://weworkremotely.com/remote-jobs/amazee-io-ux-product-designer-80-100</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -78,7 +139,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tryhackme-lead-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -191,7 +252,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>245 days ago</text>
+                <text>246 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -252,7 +313,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
