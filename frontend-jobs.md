@@ -10,7 +10,7 @@
                     <code>cryptocurrency,ethereum,front-end,developer,code,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-front-end-engineer-offchain-labs-137920" align="right" target="_blank">Apply</a>
@@ -21,7 +21,66 @@
                 <details><summary>Description</summary>
                 <div><span style="font-size:11pt;">Offchain Labs is building a suite of scaling solutions for Ethereum. This includes Arbitrum, an Optimistic Rollup, that instantly scales apps, reducing costs and increasing capacity, without sacrificing Ethereum's security. Porting contracts to Arbitrum requires no code changes or downloads since itâs compatible with existing Ethereum developer languages and tooling.</span></div><div><br></div><div>
 <span style="font-size:11pt;">Our team is extremely passionate and works tirelessly to bridge the gap between what blockchain is and what blockchain can be. We strive to maintain an atmosphere that fosters innovation and new ideas through collaboration, research, and deep discussions. After raising an initial round of $</span><a href="http://3.8m/" style="font-size:11pt;" class="postings-link" rel="noopener noreferrer nofollow">3.8M</a><span style="font-size:11pt;"> in seed funding in January 2019 and a $20M series A, as well as a $100M series B in 2021, we are ready to hire additional team members that have an interest in working in the blockchain space and a knack for approaching problems in unconventional ways.</span>
-</div><p></p><h4>Who you are:</h4><p></p><p></p><li>Expert in Front-end development</li><li>Experience with React.js, CSS3, Typescript, Javascript</li><li>Excited to learn and develop blockchain technology (No experience yet? No problem!)</li><li>Possess a strong sense of ownership in your work, which drives you to find ways to do things better and faster</li><li>Always up-to-speed on the latest technologies</li><li>Constantly on the lookout for new and innovative ways to solve complex problems through rigorous experimentation</li><li>Your communication style is open, transparent, and direct, and you consistently work in tight collaboration with your teammates</li><li>Always open to feedback, new ideas, and opportunities for self-improvement</li><li>You look for ways to help out beyond the scope of your day-to-day work</li><p></p><h4>What you've done:</h4><p></p><p></p><li>Have dabbled in, educated yourself on, or are experienced working on blockchain technology</li><li>Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency applications</li><li>Security-minded and always keeping an eye out for potential threats and vulnerabilities in your code</li><li>Mastered CS fundamentals, either in a formal university program or through self-learning</li><div><span style="font-size:16px;">We understand it takes a diverse team of highly intelligent, passionate, curious, and creative people to solve the challenges involved in developing and improving Arbitrum. Our dynamic team has incredible perspectives to share, just as we know you do. We take great pride in being an equal opportunity workplace.</span></div><br/><br/>Please mention the word **VIGILANCE** and tag RNDQuMjExLjE4OC4x when applying to show you read the job post completely (#RNDQuMjExLjE4OC4x). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p></p><h4>Who you are:</h4><p></p><p></p><li>Expert in Front-end development</li><li>Experience with React.js, CSS3, Typescript, Javascript</li><li>Excited to learn and develop blockchain technology (No experience yet? No problem!)</li><li>Possess a strong sense of ownership in your work, which drives you to find ways to do things better and faster</li><li>Always up-to-speed on the latest technologies</li><li>Constantly on the lookout for new and innovative ways to solve complex problems through rigorous experimentation</li><li>Your communication style is open, transparent, and direct, and you consistently work in tight collaboration with your teammates</li><li>Always open to feedback, new ideas, and opportunities for self-improvement</li><li>You look for ways to help out beyond the scope of your day-to-day work</li><p></p><h4>What you've done:</h4><p></p><p></p><li>Have dabbled in, educated yourself on, or are experienced working on blockchain technology</li><li>Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency applications</li><li>Security-minded and always keeping an eye out for potential threats and vulnerabilities in your code</li><li>Mastered CS fundamentals, either in a formal university program or through self-learning</li><div><span style="font-size:16px;">We understand it takes a diverse team of highly intelligent, passionate, curious, and creative people to solve the challenges involved in developing and improving Arbitrum. Our dynamic team has incredible perspectives to share, just as we know you do. We take great pride in being an equal opportunity workplace.</span></div><br/><br/>Please mention the word **VIGILANCE** and tag RNDQuMjExLjMyLjM3 when applying to show you read the job post completely (#RNDQuMjExLjMyLjM3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8814/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MasteryPrep</h5>
+                    <h3> Frontend Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/masteryprep-frontend-software-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8814/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Baton Rouge, Louisiana, United States
+    <br /><strong>URL:</strong> <a href="http://www.masteryprep.com">http://www.masteryprep.com</a>
+</p>
+
+<p><strong>About the Opportunity</strong></p>
+<p>MasteryPrep is assembling an onshore development team to work exclusively on "greenfield" initiatives. We are looking for talented software engineers to help us level the playing field in education by building the most effective test preparation available, bar none. We believe that the best way to build this experience is by creating a diverse team of people from different backgrounds, races, religions, genders, sexual orientations, ages, and experiences. The team we are building must be aligned to our core values of:</p>
+<ul> <li> <strong>Go pro.</strong> Or go home. Get better than the best.</li> <li> <strong>Do right.</strong> Period.</li> <li> <strong>Make it happen.</strong> Excuses never built anything.</li> <li> <strong>Make it awesome.</strong> There is no equality without quality.</li> <li> <strong>Customers are forever.</strong> This company is for them.</li> </ul>
+<p><strong>Requirements</strong></p>
+<p><strong>About the Role</strong></p>
+<p>As a Frontend Software Engineer, you will be responsible for—but not limited to—implementation, testing, and partnering with our product, operations, and support teams. Building great products is a highly collaborative effort, so it's essential that you are a team player with solid communication skills.</p>
+<p>Success criteria:</p>
+<ul> <li>You work collaboratively and respectfully with cross-functional teams to design cutting edge education products that change the world</li> <li>You propose innovative and creative ideas to solve tough engineering challenges that scale</li> <li>You raise the bar on quality, testing, and performance to ensure the product reliably performs</li> <li>You help identify and implement best practices and standards throughout the code and our processes</li> <li>You own quality issues and failures and work to actively resolve them with a sense of urgency</li> <li>You constantly strive to build an inclusive, supportive, and positive work environment</li> </ul>
+<p>Our development environment:</p>
+<ul> <li>React</li> <li>Typescript</li> <li>Mocha</li> <li>Cypress</li> <li>Storybook</li> <li>Material UI</li> <li>Lerna</li> <li>GraphQL</li> <li>Google Cloud</li> <li>Google Cloud Functions</li> <li>Google Firestore</li> <li>Google Identity Platform</li> <li>Google BigQuery</li> <li>Postgres</li> <li>GitLab</li> </ul>
+<p>Integrated 3rd Party Solutions:</p>
+<ul> <li>Mix</li> <li>DocRaptor</li> <li>Wistia</li> <li>Schoology</li> <li>Classlink</li> <li>Clever</li> <li>Google Analytics</li> <li>NewRelic</li> </ul>
+<p><strong>What you will be building</strong></p>
+<p>While support and maintenance for existing platforms may be required from time to time, this role will primarily focus on our "greenfield" initiatives. MasteryPrep is wholly committed to building cutting-edge technology solutions to level the playing field for education. These solutions will include innovative use of video streaming, 2D/3D interactions, and real-time collaborative systems at scale. Our platform has to scale to support interactions in hundreds of live classrooms with up to 250+ students in a single class. This is not a job for the faint of heart. However, if projects and challenges of this scale excite you, then you may be the right fit for the role.</p>
+<p>We look forward to hearing from you.</p>
+<p><strong>Benefits</strong></p>
+<ul> <li>100% Remote</li> <li>Flex work hours</li> <li>Full Medical, Dental and Vision with HSA eligibility</li> <li>401K with company contribution</li> </ul>
+<p><strong>About MasteryPrep</strong></p>
+<p>Did you know that nearly 90% of low-income students graduate high school without a college-ready ACT or SAT score? We're here to change that.</p>
+<p>MasteryPrep's mission is to level the college admissions playing field by helping all students access the most effective ACT and SAT prep programs on the market. Unlike traditional prep, MasteryPrep works even for students who struggle with tests, and through our partnerships with school districts, is provided at no cost to students or their families.</p>
+<p>So far, over 1 million students have benefitted from our programs, and we're just getting started. We need your help!</p>
+<p>Join a diverse, high-energy, mission-driven team that is genuinely making an impact and strives to be on the cutting edge of making education technology work in the classroom.</p>
+<p>MasteryPrep is one of the fastest-growing ed-tech companies in the country:</p>
+<ul> <li>Inc. 5000 four years in a row</li> <li>Entrepreneur 360 Company</li> <li>Louisiana Growth Leader, 2020 and 2021</li> <li>Council for Opportunity in Education Preferred Provider of ACT &amp; SAT Prep</li> <li>#1 Provider of ACT Preparation (&gt;5% of all U.S. test-takers)</li> </ul>
+<p>Our diverse team consists of compassionate, intelligent, and highly energetic individuals. Remote team members are connected to the whole through appropriate touch-points, support, and partnerships.</p>
+<p>We invest in our team. Come grow with us!</p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/masteryprep-frontend-software-engineer">https://weworkremotely.com/remote-jobs/masteryprep-frontend-software-engineer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -36,7 +95,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1" align="right" target="_blank">Apply</a>
@@ -120,7 +179,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
