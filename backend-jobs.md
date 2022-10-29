@@ -1,29 +1,5 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/ced2a75735ada144ab26dae2d064975e1666509349.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CipherTrace</h5>
-                    <h3>Backend Engineer Cryptocurrency & Blockchain</h3>
-                </td>
-                <td width="300">
-                    <code>cryptocurrency,defi,crypto,bitcoin,ethereum,front-end,security,software,testing,code,travel,api,leader,engineer,backend</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-cryptocurrency-blockchain-ciphertrace-137436" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>CipherTrace, a Mastercard company, is a rapidly growing leader in cryptocurrency intelligence and compliance. Our team has introduced novel solutions to challenges including sanctions compliance for DeFi and the Crypto Travel Rule. Our mission is to grow the blockchain economy by making crypto safe for users and trusted by governments. CipherTrace operates on a global scale to assist banks, cryptocurrency exchanges, law enforcement agencies, regulators, VASPs, and businesses in preventing fraud, human trafficking, money laundering, and other illicit activity where cryptocurrency is involved.</div><div><br></div><div>The ideal candidate should be a passionate, self-motivated, team player with experience working in a quickly evolving environment and who has a willingness to work and learn in a collaborative organization.</div><div><br></div><div><br></div><p></p><h4>Responsibilities</h4><p></p><p></p><li>Build the next-generation cryptocurrency tools, law enforcement tools, and DeFi platforms.</li><li>Debug and perform quality testing on the Blockchain cryptocurrency tools.</li><li>Design and build support for multiple chains and currencies.</li><li>Monitor and improve API and database performance.</li><li>Co-design software APIs with front-end developers to access cryptocurrency feeds.</li><p></p><h4>Requirements</h4><p></p><p></p><li>Proficient in cryptography concepts.</li><li>Deep experience in languages such as Javascript, Typescript, Go, Rust, Python,</li><li>SQL/noSQL, Cassandra, PostgreSQL, MySQL, Elasticsearch, GraphQL.</li><li>NodeJS and asynchronous programming techniques.</li><li>Deep knowledge of cryptographic primitives, protocols, and blockchain technologies such as Bitcoin, Ethereum, smart contracts (Solidity and Cairo), applied cryptography, and layer-2 networks.</li><li>Stream processing pipelines and tools, such as Restful APIs, Pub/Sub, Redis, Kafka.</li><li>Deep understanding of how Bitcoin and Ethereum work.</li><li>Deep understanding of routing nodes, staking infrastructure, and novel systems to manage liquidity.</li><li>Deploying code with Kubernetes, Docker.</li><li>Blockchain technologies, DeFi, law enforcement software, or cryptocurrencies.</li><li>Comfortable working with distributed and remote teams.</li><p></p><h4>Nice to Have</h4><p></p><p></p><li>Strong English communication skills (both spoken and written).</li><li>Knowledge and experience with Hardware Security Models.</li><li>Knowledge of or experience applying machine learning models.</li><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **LAWFULLY** and tag RNDQuMjExLjMyLjM3 when applying to show you read the job post completely (#RNDQuMjExLjMyLjM3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -34,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/masteryprep-backend-software-engineer" align="right" target="_blank">Apply</a>
@@ -97,7 +73,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
