@@ -1,31 +1,5 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/820ae17b81174104b74eb00c68a273481666595715.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Offchain Labs</h5>
-                    <h3>Front End Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>cryptocurrency,ethereum,front-end,developer,code,engineer,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-front-end-engineer-offchain-labs-137920" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><span style="font-size:11pt;">Offchain Labs is building a suite of scaling solutions for Ethereum. This includes Arbitrum, an Optimistic Rollup, that instantly scales apps, reducing costs and increasing capacity, without sacrificing Ethereum's security. Porting contracts to Arbitrum requires no code changes or downloads since itâs compatible with existing Ethereum developer languages and tooling.</span></div><div><br></div><div>
-<span style="font-size:11pt;">Our team is extremely passionate and works tirelessly to bridge the gap between what blockchain is and what blockchain can be. We strive to maintain an atmosphere that fosters innovation and new ideas through collaboration, research, and deep discussions. After raising an initial round of $</span><a href="http://3.8m/" style="font-size:11pt;" class="postings-link" rel="noopener noreferrer nofollow">3.8M</a><span style="font-size:11pt;"> in seed funding in January 2019 and a $20M series A, as well as a $100M series B in 2021, we are ready to hire additional team members that have an interest in working in the blockchain space and a knack for approaching problems in unconventional ways.</span>
-</div><p></p><h4>Who you are:</h4><p></p><p></p><li>Expert in Front-end development</li><li>Experience with React.js, CSS3, Typescript, Javascript</li><li>Excited to learn and develop blockchain technology (No experience yet? No problem!)</li><li>Possess a strong sense of ownership in your work, which drives you to find ways to do things better and faster</li><li>Always up-to-speed on the latest technologies</li><li>Constantly on the lookout for new and innovative ways to solve complex problems through rigorous experimentation</li><li>Your communication style is open, transparent, and direct, and you consistently work in tight collaboration with your teammates</li><li>Always open to feedback, new ideas, and opportunities for self-improvement</li><li>You look for ways to help out beyond the scope of your day-to-day work</li><p></p><h4>What you've done:</h4><p></p><p></p><li>Have dabbled in, educated yourself on, or are experienced working on blockchain technology</li><li>Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency applications</li><li>Security-minded and always keeping an eye out for potential threats and vulnerabilities in your code</li><li>Mastered CS fundamentals, either in a formal university program or through self-learning</li><div><span style="font-size:16px;">We understand it takes a diverse team of highly intelligent, passionate, curious, and creative people to solve the challenges involved in developing and improving Arbitrum. Our dynamic team has incredible perspectives to share, just as we know you do. We take great pride in being an equal opportunity workplace.</span></div><br/><br/>Please mention the word **VIGILANCE** and tag RNDQuMjExLjMyLjM3 when applying to show you read the job post completely (#RNDQuMjExLjMyLjM3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8814/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -36,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/masteryprep-frontend-software-engineer" align="right" target="_blank">Apply</a>
@@ -95,7 +69,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1" align="right" target="_blank">Apply</a>
@@ -169,6 +143,46 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1441608/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Emurgo</h5>
+                    <h3>Technical Lead - Front End Development</h3>
+                </td>
+                <td width="300">
+                    <code>api,crypto,education,mobile</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/technical-lead-front-end-development-1441608" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Who we are</strong></p>
+<p>EMURGO is the official commercial and venture arm of the Cardano Blockchain, a smart contract platform with advanced security assurance - Currently Top 3 of decentralized smart contract platforms and Top 10 of all cryptocurrencies on CoinMarketCap.</p>
+<p>As a founding member of the Cardano protocol, EMURGO develops, supports, and incubates commercial opportunities and helps integrate businesses into the blockchain ecosystem.</p>
+<p>Our vision is to become a pioneer of the trading revolution, and to create a sustainable, long-lasting business enterprise. Our values are trust, teamwork, laser focus, grit and decisive action taking.</p>
+<p>Why should you consider joining us?</p>
+<ul><li>Be a pioneer and blaze your path in a rapidly evolving industry</li><li>Unparalleled learning, with both professional and personal growth opportunities</li><li>EMURGO is financially stable and well placed for sustainable expansion</li></ul>
+<p>Our products and services includes:</p>
+<ul><li><a href="https://yoroi-wallet.com/#/" rel="nofollow">Yoroi Wallet</a>, one of the most used wallet /web3 wallet in the Cardano ecosystem with more than 500,000 active users</li><li><a href="https://education.emurgo.io/" rel="nofollow">Academy</a>, Global learning solutions company bringing Cardano Blockchain Education to businesses and developers</li></ul>
+<p>We are looking for a Technical Lead for Front-End Development that will help us lead and mentor our front end development team. The team is responsible for front development for our new products in the blockchain space and help us add new features for some of our current projects, like our crypto wallet Yoroi, our Stablecoin Project, and some new stealth projects that we are starting to work on.</p>
+<p>Yoroi is a light wallet for Cardano. It's secure, fast, and simple. It's one of the most used in the Cardano ecosystem, and we have more than 500,000 active users.</p>
+<p><strong>What you'll be doing</strong></p>
+<ul><li>Collaborate with business, product and other engineering teams to deliver the front-end solutions</li><li>Be a hands-on mentor to the front-end developers, lead the team in design and development.</li><li>Actively participate in developing API specifications (Swagger/Open API) and in testing the APIs</li><li>Work with fellow technical leads to continuously improve the speed and quality of the software delivery </li><li>Facilitate innovation through nurturing, coaching and challenging the team members</li><li>Lead the transition of team and products as Web 3.0 evolves</li></ul>
+<p><strong>What you bring to EMURGO</strong></p>
+<ul><li>7+ years of experience in Software development with at least 2 years of technical leadership</li><li>5+ years of experience in React Native/React (preferable) and other web and mobile technology experience (breadth and depth)</li><li>Deep knowledge of broad spectrum of Web 2.0 technologies</li><li>Proficiency in API architecture and best practices</li><li>Knowledge of current state of Web 3.0 technologies</li><li>Good knowledge of software development best practices</li><li>Good level of verbal and written communication skills</li></ul>
+<p><strong>Bonus qualifications</strong><br></p>
+<ul><li>Good understanding of Web 3.0</li><li>User-level experience with blockchain applications (ex: wallets, dApps, staking, etc.)</li><li>Understanding of blockchain fundamentals</li></ul>
+<img src="https://remotive.com/job/track/1441608/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1421232/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -179,7 +193,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
