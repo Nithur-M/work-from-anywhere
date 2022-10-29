@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/unlimited-tech-solutions-digital-project-manager-hubspot-specialist" align="right" target="_blank">Apply</a>
@@ -97,7 +97,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/unlimited-tech-solutions-technical-project-manager" align="right" target="_blank">Apply</a>
@@ -171,7 +171,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/nine15-project-manager" align="right" target="_blank">Apply</a>
@@ -227,7 +227,7 @@
                     <code>Management and Finance</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/photobooth-supply-co-customer-teams-project-manager" align="right" target="_blank">Apply</a>
