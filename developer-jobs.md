@@ -10,7 +10,7 @@
                     <code>developer,web3,nft,web,strategy,content,marketing,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-head-of-developer-relations-rarible-138920" align="right" target="_blank">Apply</a>
@@ -20,7 +20,7 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><b style="font-size:18px;">Rarible Multichain Protocol</b></div><div><span style="font-size:15px;">The Rarible Protocol is designed as a set of building blocks which enables the creation of fully customized NFT experiences of any level and complexity.</span></div><div><br></div><div>Rarible Multichain Protocol is focused on growing the ecosystem of projects and creators in the broader Rarible Ecosystem, which includes <a href="http://rarible.com/" class="postings-link" rel="noopener noreferrer nofollow">rarible.com</a> (NFT marketplace with $40 million trading volume in April 2021) and many other projects building on Rarible Protocol. </div><div><br></div><div>You can find information on the protocol at <a href="http://rarible.org/" class="postings-link" rel="noopener noreferrer nofollow">rarible.org</a>. Our community and group of workers operate openly in our Discord server, which anyone can join. </div><div><br></div><div>Join our decentralized, motivated and fully remote team building the NFT ecosystem of the future.</div><div><br></div><div><b style="font-size:18px;">Developer Relations Engineer</b></div><div>This role is focused on engagement of our web3 developer target audience, as well providing all teams and builders support and guidance in any form (p2p communications, webinars, developer events, content and documentation) needed to succeed. The Developer Relations Engineer will be expected to discover project needs, on-board project to use protocol, and be responsible creating content and technical documentation.</div><p></p><h4>Responsibilities</h4><p></p><p></p><li>Execute on his level the strategy to increase the number of developers who regularly interact with and build on Rarible Protocol</li><li>Work with marketing teams to develop content from blog posts, newsletters</li><li>Manage the developer journey from website to documentation to tools</li><li>Create inspiring product demos, tutorials, and other videos to use for events and web marketing</li><li>Execute Rarible protocol hackathons and manage participation in third party hackathons </li><li>Manage and grow developer communication channels such as Discord, Telegram, Discourse, Stackoverflow, etc.</li><li>Moderate discussions on the Rarible Protocol developer forums, ensuring that topics are on point and that questions are responded to well and in a timely fashion (either personally or through the community participants)</li><li>Capture, analyze, and share relevant developer insights with the product and engineering teams</li><li>Work with our developer team to ensure the right use cases and examples are created for our documentation</li><li>Collaborate with product teams to launch new services, features, and enhancements effectively through the developer community</li><li>Look to grow and discover new ways to better serve the Rarible protocol technical community</li><li>Handle technical question and act as liaison with the Rarible protocol teams </li><p></p><h4>Requirements</h4><p></p><p></p><li>Great communication skills</li><li>Technical writings: Protocol docs, Guides, Tutorials</li><li>Language skills: English, Russian is an advantage</li><li>Developers support</li><li>Representing Rarible at community events and hackathons </li><li>Web3 development experience is a big advantage</li><div><b style="font-size:18px;">What Rarible Multichain Protocol offers</b></div><div>ð Working for a rapidly expanding global distributed network / protocol</div><div>ð Complete immersion into Web3 and <a href="https://www.gartner.com/smarterwithgartner/5-trends-appear-on-the-gartner-hype-cycle-for-emerging-technologies-2019" class="postings-link" rel="noopener noreferrer nofollow">the future of work</a>
-</div><div>ð Extreme flexibility (hours, location, etc)</div><div>ð Great compensation packages and vacation</div><div><br></div><br/><br/>Please mention the word **EXCELENT** and tag RNDQuMjExLjMyLjM3 when applying to show you read the job post completely (#RNDQuMjExLjMyLjM3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><div>ð Extreme flexibility (hours, location, etc)</div><div>ð Great compensation packages and vacation</div><div><br></div><br/><br/>Please mention the word **EXCELENT** and tag RMzUuMTc0LjI0Mi4xNDY= when applying to show you read the job post completely (#RMzUuMTc0LjI0Mi4xNDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +35,7 @@
                     <code>developer,design,web3,defi,ethereum,front-end,testing,test,ux,code,travel,css,senior,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-front-end-developer-gelato-138921" align="right" target="_blank">Apply</a>
@@ -71,306 +71,7 @@
 <li>Ethers.js / web3.js</li>
 <li>Hardhat</li>
 <li>Solidity</li>
-</ul><br/><br/>Please mention the word **DELIGHTFULNESS** and tag RNDQuMjExLjMyLjM3 when applying to show you read the job post completely (#RNDQuMjExLjMyLjM3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/b577b5b709d0c36adb8dfd28e3c0b6001666509326.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Soramitsu</h5>
-                    <h3>Substrate runtime Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,software,code,devops,education,full-time,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-substrate-runtime-developer-soramitsu-137431" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 14pt 0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:italic;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">As a Substrate runtime Developer at SORAMITSU, you'll be working on some of our most exciting projects</span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> including: </span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">SORA network </span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">that provides tools for decentralized applications that use digital assets</span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> and </span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Polkaswap</span><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> - the eagerly anticipated AMM DEX (decentralized exchange) based on SORA network. </span></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 14pt 0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Donât worry about Substrate in the job description! Youâll be focused on extending SORA and Polkaswap with new features. SORA and Polkaswap are live now, you can check them here </span><a href="https://polkaswap.io/" rel="noreferrer noopener nofollow" style="text-decoration:none;"><span style="font-size:11.5pt;font-family:Arial;color:#1155cc;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:underline;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">polkaswap.io</span></a> <span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">and </span><a href="https://polkadot.js.org/apps/?rpc=wss%3A%2F%2Fws.alb.sora.org#/explorer" rel="noreferrer noopener nofollow"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">here</span></a></p><p><strong>Your work time</strong></p><p>Youâll spend 50% of your time writing new pallets, 20% of your time checking PRs from your colleagues, 20% of your time on fixing and researching some technical issues and helping other teams and 10% of your time on meetings.</p><p><strong>Your schedule</strong></p><p>Our team is distributed and everyone has his own schedule. The main thing is to join daily team meetings and reply in chats if you were tagged. As was mentioned above youâll spend most of your time on coding and itâs great! We donât spend much time on meetings that we donât need.</p><p> </p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:14pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Responsibilities include:</span></p><ul>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Design, implement and support software production.</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Write tests that guarantee high quality of functional and non-functional characteristics of produced code.</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Perform code review for other developers.</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:20pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Take part in making architectural decisions.</span></li>
-</ul><p><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The ideal candidate has:</span></p><ul>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">2+ years of experience in development.</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Experience in Rust, with a fair knowledge of the language specification.</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Experience in Substrate development.</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Good knowledge of Substrate, Polkadot, Kusama ecosystem.</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Thorough knowledge of the standard library, and algorithms.</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Understanding cryptography algorithms, blockchain concepts is a plus.</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Understanding of blockchain consensus algorithms work is a plus.</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Knowledge of one or more blockchain protocols: Ethereum,Polkadot</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Understanding of basics in DevOps engineering.</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Knowledge of principles and practices in Agile development.</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:20pt;"><span style="font-size:11.5pt;font-family:Arial;color:#3b4045;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Proficient understanding of code versioning and git-flow.</span></li>
-</ul><p><strong>Working Conditions</strong></p><ul>
-<li><p>Flexible 40-hour work week;</p></li>
-<li><p>Permanent, full-time position;</p></li>
-<li><p>The international team of professionals;</p></li>
-<li><p>Possibility to work from offices around the globe;</p></li>
-<li><p>Possibility to visit global meetups and conferences for education and/or for giving a speech;</p></li>
-<li><p>An absence of a strict dress code;</p></li>
-<li><p>Relaxed work environment.</p></li>
-</ul><br/><br/>Please mention the word **LAVISH** and tag RNDQuMjExLjMyLjM3 when applying to show you read the job post completely (#RNDQuMjExLjMyLjM3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/cf1797fa83814735886ca6db202062151666450805.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Snapp Mobile</h5>
-                    <h3>Flutter Developer $3k $4.5k month</h3>
-                </td>
-                <td width="300">
-                    <code>developer,software,code,flutter,mobile,senior,engineer,engineering,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-flutter-developer-3k-4-5k-month-snapp-mobile-137098" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                About company:
-The company is Snapp X, a software agency based in Germany specialized in building flutter mobile apps for clients.
-
-What youâll get to do:
-You will play a key role in the success of the development of our multiple client projects. You will work with your Engineering teammates in a client project to provide software solutions and automated tests to complex and exciting problems, from automotive to fintech.
-With the support of the team, you will be able to write code that follows VGV standards, you will write many tests (unit, widget, integration...), you will pair with many of your colleagues, and you will collaborate with our Program Managers to define and execute the delivery plan of the project.
-
-Who you are:
-A Mid to Senior Mobile engineer with solid software development experience in Flutter as well as some of the technologies mentioned below.
-You are an engineer with strong opinions backed up by clear structured thinking and good communication. You are a self-organized professional who naturally takes the initiative instead of waiting for orders. You fulfill the following profile:
-1. Demonstrates a clear understanding of the project(s), language(s), framework(s), and pattern(s)
-2. Can mentor and pair with other engineers (debug, tests, usage of toolsâ¦)
-3. Takes an active role in planning and breaking down units of work into small pieces
-4. Gives effective code reviews for other teammates
-
-Skills:
-* +3 years of professional experience as a Software Developer
-* minimum 1 year of experience working with Flutter
-* deep understanding of Flutter Framework and flutter_bloc
-* Solid knowledge of third party products (Firebase, Auth0, AWS, Google Map, etcâ¦)
-
-If your experience is close to what you see listed here, please still consider applying. Diversity of experience and skills combined with passion is a key to innovation and excellence; therefore, we encourage people from all backgrounds to apply to our positions.
-
-Salary/Compensation:Â EUR 3.k-4.5k/ month (based on experience)
-
-Location:Â 100% Remote
-Engagement:Â Full Time
-Duration:Â long term
-Experience: Mid or Senior
-Hiring contact 
-*Emir SlezovicÂ - feel free to contact me on LinkedIn or e-mail (emir[at]wexl.co)
-
-<br/><br/>Please mention the word **SWIFTNESS** and tag RNDQuMjExLjMyLjM3 when applying to show you read the job post completely (#RNDQuMjExLjMyLjM3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/e5e2e58c4903e50de56fc625c61f49c51666422950.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Boson Protocol</h5>
-                    <h3>Senior Blockchain Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,design,ethereum,system,security,game,testing,growth,code,senior,e-commerce,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-blockchain-developer-boson-protocol-136936" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Position:</strong> <strong>Senior Blockchain Engineer</strong></p>
-<p><strong>Role:</strong> <strong>Full time</strong></p>
-<p><strong>Location:</strong> <strong>Remote</strong></p>
-<p><strong>Salary:</strong> <strong>Competitive</strong></p>
-<p> </p>
-<h4><strong>Why work with us </strong></h4>
-<p><span style="font-weight:400;">Boson Protocol enables an open tokenized economy by automating digital to physical redemptions using NFTs encoded with game theory. Boson Protocol disrupts e-commerce platforms by tokenizing Things and commerce data within a liquid digital market, built on DeFi. </span></p>
-<p><span style="font-weight:400;">We call this Decentralized Autonomous Commerce (dCommerce).</span></p>
-<p><span style="font-weight:400;">Boson Protocolâs vision is to enable a capture resistant, decentralized commerce ecosystem, by funding and accelerating the development of a stack of specialized applications to disrupt, demonopolize and democratize commerce.</span></p>
-<p><span style="font-weight:400;">We are empowering builders and partners to reinvent commercial exchange as we know it. If you are passionate about becoming part of that revolution, we hope you apply to join us!</span></p>
-<p><span style="font-weight:400;">Read more about us here: </span><a href="https://bosonprotocol.io/" rel="noopener noreferrer nofollow"><span style="font-weight:400;">https://bosonprotocol.io/</span></a></p>
-<h4><strong>Role Summary </strong></h4>
-<p><span style="font-weight:400;">Boson Protocol is looking for a senior blockchain Developer that can comfortably navigate through the rapidly evolving blockchain technology. As a Senior developer, you will take initiative in building at the bleeding edge of technology that is going to be immediately applied in real life. The ideal candidate has a Computer Science degree, is well versed in advanced cryptographic concepts, esp. with advancements in zero knowledge proofs, has a minimum of 3 years of experience in Ethereum and is effective in inspiring and mentoring colleagues.</span></p>
-<p><span style="font-weight:400;">The role open is for a long-term relationship, working predominantly remotely and you can expect to become an integral part of a diverse international team.</span></p>
-<p><strong>Roles and responsibilities</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">The design and build of the Boson Protocol, the core of the project</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Take ownership over core parts of the protocol, from specification to implementation & maintenance</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Coordinate large scale upgrades and releases with other team members</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Perform internal code reviews as well as rigorous testing & verification practices</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Assist the rest of the protocol team with writing and maintaining up to date documentation</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Stay up to date with relevant updates in the industry and foster a growing internal knowledge base</span></li>
-</ul>
-<h3><strong>Requirements:</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Working understanding of how Ethereum works, with a familiarity with its rivals</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Prior experience of building a production system on Ethereum</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Understanding of smart contract security and the common pitfalls. </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience of testing best practices</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">A strong understanding of the blockchain ecosystem, layer 2, side chains, rollups etc</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">You can work with high autonomy</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Strong written and verbal communication skills</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Strong familiarity of Agile methodologies </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">A never ending curiosity to learn and master new tooling and best practices</span></li>
-</ul>
-<h3><strong>Bonus:</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Knowledge about the inner workings of the EVM</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Practical experience with scaling strategies and layer 2 systems</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Have knowledge of another layer 1 besides Ethereum</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Adept with applied cryptographic concepts & tools including zero knowledge systems</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience of using smart contract security tools, e.g. static analysis, fuzzy testing, etc</span></li>
-</ul>
-<h3><strong>Our tech stack:</strong></h3>
-<ul>
-<li><span style="font-weight:400;">Solidity</span></li>
-<li style="font-weight:400;">Waffle </li>
-<li style="font-weight:400;"><span style="font-weight:400;">Node.js</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Javascript</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ethers.js / web3.js</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Hardhat </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">MongoDB</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">IPFS</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">GitHub Actions</span></li>
-</ul>
-<p><strong>What we offer you:</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Flexible, remote work with a high degree of autonomy in a dynamic, fast growth startup</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">An opportunity to leverage bleeding edge technology and industry-leading development practices</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Close collaboration with leading projects in the space, e.g. immediate deep dive into Ocean Protocol integration</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">A highly competitive salary and other potential arrangements. Details depend on ability and experience. Come and talk to us.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Your choice of equipment</span></li>
-</ul>
-<p><strong>Some of our guiding principles: </strong></p>
-<ul>
-<li>
-<strong>Dream Big:</strong><span style="font-weight:400;"> We want to build technology that can outlast the founders and reshape commerce and society at large</span>
-</li>
-<li>
-<strong>Self-Mastery: </strong><span style="font-weight:400;">Mindful conduct and always on learning are critical components of personal and collective growth</span>
-</li>
-<li>
-<strong>Collaboration:</strong><span style="font-weight:400;"> Expertise is key, but sharing knowledge and building together with joy is the foundation of truly remarkable work</span>
-</li>
-<li>
-<strong>Stay lean:</strong><span style="font-weight:400;"> Our ethos is to create and share value equitably, with minimal value extraction.</span>
-</li>
-</ul><br/><br/>Please mention the word **INVINCIBILITY** and tag RNDQuMjExLjMyLjM3 when applying to show you read the job post completely (#RNDQuMjExLjMyLjM3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/8a5d226d2fdcde88aec9da973a7f83fd1666422942.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OpenZeppelin</h5>
-                    <h3>Full Stack Ethereum Developer</h3>
-                </td>
-                <td width="300">
-                    <code>ethereum,developer,solidity,react,system,security,ui,web,financial,lambda,nodejs,operations,operational,educational,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-full-stack-ethereum-developer-openzeppelin-136933" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro">
-<h3><strong>About us</strong></h3>
-<p><span style="font-weight:400;">OpenZeppelin is a leading cybersecurity company that provides security products to build, automate, and operate decentralized applications.</span></p>
-<p><span style="font-weight:400;">With a mission to protect the open economy, our team created the most popular open source library for smart contract development with over 4 million downloads. Our unique expertise subsequently allowed us to uncover major security vulnerabilities for the Ethereum Foundation,  MakerDAO, and Facebookâs Libra, and conduct security audits for many top blockchain companies including Coinbase, Brave, Compound, Aave, and Augur. </span></p>
-<p><span style="font-weight:400;">Building on this experience, we recently launched a platform to help teams automate their Ethereum operations and securely ship products faster: OpenZeppelin Defender. </span></p>
-<p><span style="font-weight:400;">With the success of our products, security audit work, and open source educational efforts, we are setting industry standards for building secure systems in a fast-growing industry that is creating an open financial system for the world.</span></p>
-</div><h3><strong>What you'll be doing</strong></h3>
-<p><span style="font-weight:400;">As a Full Stack Ethereum Developer, you will join the team working on products at </span><a href="https://openzeppelin.com/defender/" rel="noopener noreferrer nofollow"><span style="font-weight:400;">OpenZeppelin</span></a><span style="font-weight:400;">, including Defender and other new products for secure operations. OpenZeppelin's operational security products are used by top teams in the space such as Aave, Yearn, Balancer, PoolTogether, Opyn, Notional, and Foundation Labs. </span></p>
-<p><span style="font-weight:400;">OpenZeppelin products are built using a variety of server- and client-side technologies including NodeJS, Go, Typescript, React and Svelte. We are looking for developers who have strength in one or more of these areas. We also deploy systems in AWS, so skills in AWS services including Lambda and DynamoDB are a plus. All of our work integrates with Solidity smart contracts, so experience and understanding working with Ethereum and EVM-compatible blockchains is a must.</span></p>
-<p><span style="font-weight:400;">In this role, you will play an essential part in building new components, communicating with our users to gather feedback, and working collaboratively with the rest of the team to make sure we solve important problems and provide a great user experience. </span></p>
-<p><span style="font-weight:400;">Specifically, you will:</span></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Design and implement new features including writing tests and documentation.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Participate in user interviews to collect feedback and define new features.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Contribute to building a great user experience.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Help build reliable and scalable systems with a strong focus on security.</span></li>
-</ul>
-<h3><strong>You have</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">3+ years of experience in full stack web or Ethereum development.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Good understanding of Ethereum and Solidity.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with NodeJS (Typescript) or Go.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with at least one of the following UI frameworks: React, Vue, Svelte.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Strong desire to learn about Ethereum and contribute to the blockchain space.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Prior experience working remotely: strong personal organizational skills, a love for self-time management, and ability to work collaboratively with a team.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Advanced English communication skills â all of our internal and external communication is in English.</span></li>
-</ul>
-<h3><strong>Nice to have</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Good understanding of security concerns in the Ethereum ecosystem.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Working knowledge of AWS services such as Lambda, DynamoDB, CloudFormation.</span></li>
-</ul><div class="content-conclusion">
-<div class="container">
-<div class="job-description">
-<div class="requirements">
-<h3 class="job-description-title">Benefits</h3>
-<ul>
-<li>
-<p>Medical Insurance: Top quality insurance options for you.</p>
-</li>
-<li>
-<p>Paid leave for new parents.</p>
-</li>
-<li>
-<p>Team Events: Company retreats in different locations around the world.</p>
-</li>
-<li>
-<p>Monthly allowance for wellness activities.</p>
-</li>
-<li>
-<p>Coworking: access to a coworking of your choice.</p>
-</li>
-<li>
-<p>Training: Technical training, language lessons in any language of your choice.</p>
-</li>
-</ul>
-</div>
-<div class="company-footer">
-<p>At OpenZeppelin, we are an equal opportunity employer and we value different perspectives. We are committed to building a diverse workforce. This includes but is not limited to gender, race, sexual orientation, religion, national origin and other characteristics that make each one of us unique. In this uniqueness, we find the most value. Come join us!</p>
-</div>
-</div>
-</div>
-
-
-<div class="container">
-<div class="application-information">
-<h3 class="job-description-title"> </h3>
-</div>
-</div>
-</div><br/><br/>Please mention the word **POSH** and tag RNDQuMjExLjMyLjM3 when applying to show you read the job post completely (#RNDQuMjExLjMyLjM3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **DELIGHTFULNESS** and tag RMzUuMTc0LjI0Mi4xNDY= when applying to show you read the job post completely (#RMzUuMTc0LjI0Mi4xNDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -385,7 +86,7 @@ Hiring contact
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-2" align="right" target="_blank">Apply</a>
@@ -429,7 +130,7 @@ Hiring contact
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazee-io-frontend-developer-80-100" align="right" target="_blank">Apply</a>
@@ -493,7 +194,7 @@ Hiring contact
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/dewaele-real-estate-group-python-software-developer-1" align="right" target="_blank">Apply</a>
@@ -543,72 +244,6 @@ Hiring contact
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Dearman Systems LLC</h5>
-                    <h3> ASP.NET C# Developer or Software Engineer (ASP.NET C#) </h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/dearman-systems-llc-asp-net-csharp-developer-or-software-engineer-asp-net-c" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Houston, Tx
-    <br /><strong>URL:</strong> <a href="https://www.dearmansystems.com/">https://www.dearmansystems.com/</a>
-</p>
-
-<div><strong>ASP.NET C# Developer or Software Engineer (ASP.NET C#) </strong></div><div><br></div><div>
-<strong>About The Role:<br></strong><br>
-</div><div>
-<strong>In this role, you will be a developer for our LYNX web application.<br></strong><br>
-</div><div>
-<strong>This role is remote and you can be located anywhere in the world.<br></strong><br>
-</div><div>
-<br><br>
-</div><div>
-<strong>Key Responsibilities:<br></strong><br>
-</div><div>
-<strong>- Integrate 3rd party APIs for billing and contract management<br></strong><br>
-</div><div>
-<strong>- Track and communicate task progress and status to project manager on a regular basis<br></strong><br>
-</div><div>
-<strong>- Work with project manager to estimate future project efforts<br></strong><br>
-</div><div>
-<br><br>
-</div><div>
-<strong>Qualifications:<br></strong><br>
-</div><div>
-<strong>- Experience and proficiency in ASP.Net and C# using the Microsoft Visual Studio IDE (Required)<br></strong><br>
-</div><div>
-<strong>- Experience with cloud architecture, preferably Azure<br></strong><br>
-</div><div>
-<strong>- Relational database experience, MS SQL Server (Preferred)<br></strong><br>
-</div><div>
-<strong>- Working knowledge of Git source control system (Preferred)<br></strong><br>
-</div><div>
-<strong>- Bachelor's degree in Computer Science or related discipline or related work experience <br></strong><br>
-</div><div>
-<strong>- 5-10 years of experience is preferred<br></strong><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/dearman-systems-llc-asp-net-csharp-developer-or-software-engineer-asp-net-c">https://weworkremotely.com/remote-jobs/dearman-systems-llc-asp-net-csharp-developer-or-software-engineer-asp-net-c</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4519/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -619,7 +254,7 @@ Hiring contact
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shotflow-ios-developer-1" align="right" target="_blank">Apply</a>
@@ -694,7 +329,7 @@ Hiring contact
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>92 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
@@ -741,56 +376,6 @@ Hiring contact
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1441130/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Scentbird</h5>
-                    <h3>Shopify Developer</h3>
-                </td>
-                <td width="300">
-                    <code>api,CSS,developer,ecommerce</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/shopify-developer-1441130" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <figure><img src="https://gallery-cdn.breezy.hr/344ae/output-onlinepngtools.png"></figure><p><strong><strong><strong>PLEASE NOTE THIS ROLE IS FOR OVERSEAS APPLICATION, NON -U.S. ONLY. NO DOMESTIC (U.S.) APPLICATIONS WILL BE CONSIDERED.</strong></strong></strong></p><p><strong>Shopify Developer</strong></p>
-<p>When we launched our site we outsourced their development to the 3rd party vendor. Right now we have a need of constant a/b testing, improvement and new feature development for all of these websites. So now it makes sense to have a dedicated team that can deliver that fast. For that team we need a developer who can actually code all the tasks.</p>
-<p><strong>What You'll Be Responsible For:</strong></p>
-<ul><li>Manage the company's e-commerce website</li><li>In-depth knowledge of the Shopify platform and the out of the box capabilities and components</li><li>Act as Shopify expert, specializing in all facets of the ecommerce platform.</li><li>Keep up to date with the business domain and work closely with business stakeholders</li><li>Working with other applications and integrating into the site using API's</li><li>Ensure our solutions addresses the business needs of the business sponsors / leaders</li><li>Adhere to business requirements and provide on time deliveries</li><li>Plan and execute various aspects of projects not only bound to but beyond Shopify boundaries.</li><li>Has worked on multiple Shopify projects from mid to high level of complexity especially on Ecommerce platform</li><li>Generate custom - tailored Shopify theme and altering pre - existing template.</li></ul>
-<p><br></p>
-<p><strong>What We'll Love About You:</strong></p>
-<ul><li>Proficiency in the English language, both written and verbal, sufficient for success in a remote and largely asynchronous work environment</li><li>Demonstrated capacity to clearly and concisely communicate about complex technical, architectural, and/or organizational problems and propose thorough iterative solutions</li><li>Demonstrated ability to onboard and integrate with an organization long-term</li><li>Positive and solution-oriented mindset</li><li>Effective communication skills: Regularly achieve consensus with peers, and clear status updates</li><li>An inclination towards communication, inclusion, and visibility</li><li>Experience owning a project from concept to production, including proposal, discussion, and execution.</li><li>Self-motivated and self-managing, with strong organizational skills.</li><li>Demonstrated ability to work closely with other parts of the organization</li><li>Share our values, and work in accordance with those values</li><li>Ability to thrive in a fully remote organization</li></ul>
-<p></p>
-<p><strong>What You'll Need to Have:</strong></p>
-<ul><li>Someone with 3-5 years experience building web applications with Shopify</li><li>Experience with modern CSS styling including Sass, flexbox, CSS Grids, and BEM</li><li>Great communicator who isn't afraid to ask for requirements clarification, coding help, and code reviews.</li><li>Experience with tooling such as webpack, gulp, vim, npm, yarn.</li><li>Experience with version control systems like git</li><li>Capable of converting static design files into landing pages</li><li>A self-starter who also thrives in a collaborative environment</li></ul>
-<p><strong>Nice to have:</strong></p>
-<ul><li>Understanding of the Shopify ecosystem including plugins</li><li>Experience working with Recharge </li><li>Experience with javascript frameworks like Angular, React, and Vue</li><li>Experience applying ADA best practices</li><li>Preference of command-line interfaces over graphical</li><li>Experience sharing css between multiple projects</li><li>Experience working in open source community and contributing changes</li></ul>
-<p></p>
-<p><strong>What You'll Love About Us:</strong></p>
-<ul><li>Competitive base compensation</li><li>Bonus program</li><li>Paid Time Off</li><li>Volunteer Time Off</li><li>Wellness Days Off</li><li>A fun, creative and energetic work environment.</li></ul><p><br></p>
-<p><strong>About Scentbird:</strong></p>
-<p>drift is uprooting the traditional air-care market. With beautifully designed products that blend in with bespoke scents that stand out. We take pride in our fragrances, keeping them free from the traditional chemicals used in the fragrance industry. we are always phthalate and paraben free. drift's subscription customer base is loyal and growing fast.</p>
-<p>Scentbird inspires fragrance lovers to go beyond the ordinary and sample scents that evoke passion, confidence, and the unknown. Our mission is to revolutionize the way we perfume by bringing the ultimate fragrance playground right to your fingertips and offering a digital subscription service that lets members choose from over 500+ designer perfumes each month.</p>
-<p>About the Brands:</p>
-<ul><li><strong>Scentbird: </strong>The easiest way for fragrance lovers to discover, try, and buy their favorite scented products without a commitment</li></ul>
-<ul><li><strong>Deck of Scarlet: </strong>Deck of Scarlet was created to break the boredom and shake up clean beauty. The line of bold cosmetics features vivid colors, innovative textures, and unprecedented finishes that bring the fun and creativity back to clean beauty.</li></ul>
-<ul><li><strong>Confessions Of A Rebel: </strong>We're not afraid to provoke. Our fragrances are made to excite and inspire: some are subversive, others are straightforward, all are compelling in their own right. He, she, they, YOU - our confessions are not caged in by gender.</li></ul>
-<ul><li><strong>Goodhabit:</strong> Built for the digitally native generation, Goodhabit is pioneering the movement in defending your skin against artificial blue light and modern day skin stressors. We're developing clean, conscious, and effective skincare solutions that keep you connected, and your skin, protected.</li></ul>
-<ul><li><strong>Sanctuary:</strong> Our newest brand to the Scentbird family. This fragrance, just like the playful creature that was its muse, this scent opens with an energetic blend of red berries and fresh bamboo as a nod to the Red Panda's favorite foods, while pink pepper adds an extra lively twist. Verdant notes like white tea, violet, and oakmoss pay homage to its habitat in the Himalayan Forests and mountains of China, as cashmere woods evoke a soft, cuddly feeling.</li></ul>
-<p>Scentbird is committed to bringing individuals from different backgrounds and perspectives into the Nest. We strive to uphold an inclusive environment where individuals of all different backgrounds, ages, colors, ethnicities, gender, or gender identities, genetics, physical or mental abilities, protected veteran status, race, religious or sexual orientation, thrive. We respect the laws enforced by the EEOC and are dedicated internally to going above and beyond in fostering diversity. Come as you are - we're excited to meet you.</p>
-<p><br><br></p><p></p>
-<img src="https://remotive.com/job/track/1441130/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1446640/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -801,7 +386,7 @@ Hiring contact
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -868,7 +453,7 @@ Hiring contact
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -937,7 +522,7 @@ Hiring contact
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -962,7 +547,7 @@ Hiring contact
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/unreal-engine-developer-1344657" align="right" target="_blank">Apply</a>
@@ -987,7 +572,7 @@ Hiring contact
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1066,7 +651,7 @@ Hiring contact
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1143,7 +728,7 @@ Hiring contact
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
