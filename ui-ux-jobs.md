@@ -10,7 +10,7 @@
                     <code>ui,ux,web3,solidity,ethereum,software,test,golang</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-ux-ui-product-designer-obol-139796" align="right" target="_blank">Apply</a>
@@ -55,7 +55,7 @@ Looking for an artist who passionately cares about bringing simplicity to comple
 
 ð°ï¸ In order to scale efficiently, we focus our hiring on candidates able to work during the standard business hours of the following timezones: GMT-8 to GMT+3. 
 This does not mean that you have to be located in these timezones to get the job but must be able to work the bulk of your time during their standard business hours.
-<br/><br/>Please mention the word **DYNAMIC** and tag RMzUuMTc0LjI0Mi4xNDY= when applying to show you read the job post completely (#RMzUuMTc0LjI0Mi4xNDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **DYNAMIC** and tag RMy4yMzYuMjU1LjE0OQ== when applying to show you read the job post completely (#RMy4yMzYuMjU1LjE0OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -70,7 +70,7 @@ This does not mean that you have to be located in these timezones to get the job
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazee-io-ui-designer-80-100" align="right" target="_blank">Apply</a>
@@ -130,7 +130,7 @@ This does not mean that you have to be located in these timezones to get the job
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazee-io-ux-product-designer-80-100" align="right" target="_blank">Apply</a>
@@ -199,7 +199,7 @@ This does not mean that you have to be located in these timezones to get the job
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tryhackme-lead-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -312,7 +312,7 @@ This does not mean that you have to be located in these timezones to get the job
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>247 days ago</text>
+                <text>248 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -373,7 +373,7 @@ This does not mean that you have to be located in these timezones to get the job
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
