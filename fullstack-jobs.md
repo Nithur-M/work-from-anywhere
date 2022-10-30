@@ -10,7 +10,7 @@
                     <code>cryptocurrency,ethereum,developer,code,javascript,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-engineer-offchain-labs-139442" align="right" target="_blank">Apply</a>
@@ -38,7 +38,7 @@
 <li>Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency applications</li>
 <li>Security-minded and always keeping an eye out for potential threats and vulnerabilities in your code</li>
 <li>Mastered CS fundamentals, either in a formal university program or through self-learning</li>
-</ul><div><span style="font-size:16px;">We understand it takes a diverse team of highly intelligent, passionate, curious, and creative people to solve the challenges involved in developing and improving Arbitrum. Our dynamic team has incredible perspectives to share, just as we know you do. We take great pride in being an equal opportunity workplace.</span></div><br/><br/>Please mention the word **HONORED** and tag RMzUuMTc0LjI0Mi4xNDY= when applying to show you read the job post completely (#RMzUuMTc0LjI0Mi4xNDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><span style="font-size:16px;">We understand it takes a diverse team of highly intelligent, passionate, curious, and creative people to solve the challenges involved in developing and improving Arbitrum. Our dynamic team has incredible perspectives to share, just as we know you do. We take great pride in being an equal opportunity workplace.</span></div><br/><br/>Please mention the word **HONORED** and tag RMy4yMzYuMjU1LjE0OQ== when applying to show you read the job post completely (#RMy4yMzYuMjU1LjE0OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
