@@ -1,6 +1,37 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/bf67eb47a598f60a2907323751290bda1666974678.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Included Health</h5>
+                    <h3>ââStaff Backend Engineer Care Team Experience</h3>
+                </td>
+                <td width="300">
+                    <code>manager,software,growth,web,finance,strategy,management,content,analytics,engineer,engineering,recruitment,consultant,cloud,senior,dev,analyst,lead,operations,sales,go,digital nomad,frontend,developer,design,reactjs,front-end,ceo,code,javascript,typescript,microsoft,leader,reliability,health,architect,system,security,administrator,marketing,director,voice,animation,legal,medical,training,git,api,mobile,junior,financial,banking,saas,education,branding,educational,ecommerce,healthcare,backend</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-care-team-experience-included-health-140162" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                We work to make Included Healthâs care team more effective, more efficient, and better able to serve the needs of our members. We build new features, improve existing processes, and invest in under-the-hood changes to make our systems more reliable, maintainable, and scalable.Â We are looking for a skilled staff engineer who love to deliver amazing products to users, collaborate across teams and with product + design, and take strong ownership of their impact.
+
+About Included Health
+
+Included Health is a new kind of healthcare company, delivering integrated virtual care and navigation. Weâre on a mission to raise the standard of healthcare for everyone. We break down barriers to provide high-quality care for every person in every community â no matter where they are in their health journey or what type of care they need, from acute to chronic, behavioral to physical. We offer our members care guidance, advocacy, and access to personalized virtual and in-person care for everyday and urgent care, primary care, behavioral health, and specialty care. Itâs all included. Learn more atÂ includedhealth.com. 
+
+-----
+Included Health is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics or any other basis forbidden under federal, state, or local law. Included Health considers all qualified applicants in accordance with the San Francisco Fair Chance Ordinance.<br/><br/>Please mention the word **CHARMINGLY** and tag RMy4yMzYuMjU1LjE0OQ== when applying to show you read the job post completely (#RMy4yMzYuMjU1LjE0OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8969/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>MasteryPrep</h5>
@@ -10,7 +41,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/masteryprep-backend-software-engineer" align="right" target="_blank">Apply</a>
@@ -19,7 +50,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8969/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
   <strong>Headquarters:</strong> Baton Rouge, Louisiana, United States
@@ -34,10 +65,10 @@
 <p>As a Backend Software Engineer, you will be responsible for—but not limited to—architecture, implementation, testing, and partnering with our product, operations, and support teams. Building great products is a highly collaborative effort, so it's essential that you are a team player with solid communication skills.</p>
 <p><br></p>
 <p><strong>Success criteria:</strong><br></p>
-<ul> <li>You work collaboratively and respectfully with cross-functional teams to design cutting edge education products that change the world</li> <li>You propose innovative and creative ideas to solve tough engineering challenges that scale</li> <li>You raise the bar on quality, testing, and performance to ensure the product reliably performs</li> <li>You help identify and implement best practices and standards throughout the code and our processes</li> <li>You own quality issues and failures and work to actively resolve them with a sense of urgency</li> <li>You constantly strive to build an inclusive, supportive, and positive work environment</li> <li>Security is a first-class concern for you—<em><strong>SecOps</strong> </em><strong><em>isn't an afterthought</em></strong> </li> </ul>
+<ul> <li>You work collaboratively and respectfully with cross-functional teams to design cutting edge education products that change the world</li> <li>You propose innovative and creative ideas to solve tough engineering challenges that scale</li> <li>You raise the bar on quality, testing, and performance to ensure the product reliably performs</li> <li>You help identify and implement best practices and standards throughout the code and our processes</li> <li>You own quality issues and failures and work to actively resolve them with a sense of urgency</li> <li>You constantly strive to build an inclusive, supportive, and positive work environment</li> <li>Security is a first-class concern for you—<strong><em>DevS</em></strong><em><strong>ecOps</strong> </em><strong><em>isn't an afterthought</em></strong> </li> </ul>
 <p><br></p>
 <p><strong>Our development environment:</strong></p>
-<ul> <li>React</li> <li>Typescript</li> <li>Python</li> <li>Mocha</li> <li>Lerna</li> <li>GraphQL</li> <li>Cube.js</li> <li>Google Cloud</li> <li>Google Cloud Functions</li> <li>Google Firestore</li> <li>Google Identity Platform</li> <li>Google BigQuery</li> <li>Postgres</li> <li>GitLab</li> </ul>
+<ul> <li>React</li> <li>Typescript</li> <li>Python</li> <li>Mocha</li> <li>Prisma 2</li> <li>Lerna</li> <li>GraphQL</li> <li>Cube.js</li> <li>Cypress</li> <li>Google AppEngine</li> <li>Google Compute Engine</li> <li>Google Cloud Run</li> <li>Google Cloud Functions</li> <li>Google Firestore</li> <li>Google BigQuery</li> <li>gRPC</li> <li>Postgres</li> <li>GitLab</li> </ul>
 <p><br></p>
 <p><strong>Integrated 3rd Party Solutions:</strong></p>
 <ul> <li>Mux</li> <li>DocRaptor</li> <li>Schoology</li> <li>Classlink</li> <li>Clever</li> <li>Google Analytics</li> <li>NewRelic</li> </ul>
@@ -46,7 +77,7 @@
 <p>While support and maintenance for existing platforms may be required from time to time, this role will primarily focus on our "greenfield" initiatives. MasteryPrep is wholly committed to building cutting-edge technology solutions to level the playing field for education. Our platform has to scale to support interactions in hundreds of live classrooms with up to 250+ students in a single class. This is not a job for the faint of heart. However, if projects and challenges of this scale excite you, then you may be the right fit for the role.</p>
 <p>We look forward to hearing from you!</p>
 <p><strong>Benefits</strong></p>
-<ul> <li>100% Remote</li> <li>Flex work hours</li> <li>Full Medical, Dental and Vision with HSA eligibility</li> <li>401K with company contribution</li> </ul>
+<ul> <li>100% Remote</li> <li>Flex work hours</li> <li>Full Medical, Dental and Vision with HSA eligibility</li> <li>401K with company contribution</li> <li>Salary $150K+</li> </ul>
 <p><strong>About MasteryPrep</strong></p>
 <p>Did you know that nearly 90% of low-income students graduate high school without a college-ready ACT or SAT score? We're here to change that.</p>
 <p>MasteryPrep's mission is to level the college admissions playing field by helping all students access the most effective ACT and SAT prep programs on the market. Unlike traditional prep, MasteryPrep works even for students who struggle with tests, and through our partnerships with school districts, is provided at no cost to students or their families.</p>
@@ -73,7 +104,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
