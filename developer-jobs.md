@@ -1,121 +1,51 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/340ea7b5ed3d0a2852532043f935f3c31666768526.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Rarible</h5>
-                    <h3>Head of Developer Relations</h3>
-                </td>
-                <td width="300">
-                    <code>developer,web3,nft,web,strategy,content,marketing,engineer,engineering,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-head-of-developer-relations-rarible-138920" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size:18px;">Rarible Multichain Protocol</b></div><div><span style="font-size:15px;">The Rarible Protocol is designed as a set of building blocks which enables the creation of fully customized NFT experiences of any level and complexity.</span></div><div><br></div><div>Rarible Multichain Protocol is focused on growing the ecosystem of projects and creators in the broader Rarible Ecosystem, which includes <a href="http://rarible.com/" class="postings-link" rel="noopener noreferrer nofollow">rarible.com</a> (NFT marketplace with $40 million trading volume in April 2021) and many other projects building on Rarible Protocol. </div><div><br></div><div>You can find information on the protocol at <a href="http://rarible.org/" class="postings-link" rel="noopener noreferrer nofollow">rarible.org</a>. Our community and group of workers operate openly in our Discord server, which anyone can join. </div><div><br></div><div>Join our decentralized, motivated and fully remote team building the NFT ecosystem of the future.</div><div><br></div><div><b style="font-size:18px;">Developer Relations Engineer</b></div><div>This role is focused on engagement of our web3 developer target audience, as well providing all teams and builders support and guidance in any form (p2p communications, webinars, developer events, content and documentation) needed to succeed. The Developer Relations Engineer will be expected to discover project needs, on-board project to use protocol, and be responsible creating content and technical documentation.</div><p></p><h4>Responsibilities</h4><p></p><p></p><li>Execute on his level the strategy to increase the number of developers who regularly interact with and build on Rarible Protocol</li><li>Work with marketing teams to develop content from blog posts, newsletters</li><li>Manage the developer journey from website to documentation to tools</li><li>Create inspiring product demos, tutorials, and other videos to use for events and web marketing</li><li>Execute Rarible protocol hackathons and manage participation in third party hackathons </li><li>Manage and grow developer communication channels such as Discord, Telegram, Discourse, Stackoverflow, etc.</li><li>Moderate discussions on the Rarible Protocol developer forums, ensuring that topics are on point and that questions are responded to well and in a timely fashion (either personally or through the community participants)</li><li>Capture, analyze, and share relevant developer insights with the product and engineering teams</li><li>Work with our developer team to ensure the right use cases and examples are created for our documentation</li><li>Collaborate with product teams to launch new services, features, and enhancements effectively through the developer community</li><li>Look to grow and discover new ways to better serve the Rarible protocol technical community</li><li>Handle technical question and act as liaison with the Rarible protocol teams </li><p></p><h4>Requirements</h4><p></p><p></p><li>Great communication skills</li><li>Technical writings: Protocol docs, Guides, Tutorials</li><li>Language skills: English, Russian is an advantage</li><li>Developers support</li><li>Representing Rarible at community events and hackathons </li><li>Web3 development experience is a big advantage</li><div><b style="font-size:18px;">What Rarible Multichain Protocol offers</b></div><div>ð Working for a rapidly expanding global distributed network / protocol</div><div>ð Complete immersion into Web3 and <a href="https://www.gartner.com/smarterwithgartner/5-trends-appear-on-the-gartner-hype-cycle-for-emerging-technologies-2019" class="postings-link" rel="noopener noreferrer nofollow">the future of work</a>
-</div><div>ð Extreme flexibility (hours, location, etc)</div><div>ð Great compensation packages and vacation</div><div><br></div><br/><br/>Please mention the word **EXCELENT** and tag RMzUuMTc0LjI0Mi4xNDY= when applying to show you read the job post completely (#RMzUuMTc0LjI0Mi4xNDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/ccac9541abce9b7dcd6bee908a32be371666768527.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/8bb9e690853b59c0dc177a18fdcecc461667027715.png" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Gelato</h5>
-                    <h3>Senior Front End Developer</h3>
+                    <h3>Smart Contract Ethereum Developer</h3>
                 </td>
                 <td width="300">
-                    <code>developer,design,web3,defi,ethereum,front-end,testing,test,ux,code,travel,css,senior,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-front-end-developer-gelato-138921" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><a href="https://www.gelato.network/" rel="noopener noreferrer nofollow"><strong>Gelato Network</strong></a> is a protocol that automates smart contract executions on Ethereum. We develop an open-source decentralized network of relay nodes that developers can plug into to create amazing automated dApps for their users.Â </p><p><br></p><p>Join our team of 7 and work directly with the founders to build the future of Automation on Ethereum. Enjoy a lot of perks, travel with us to cool events (after Corona), and participate in amazing off-side retreats with the team!</p><p><br></p><p><strong>What we offer:</strong></p><p><br></p><ul>
-<li>Small, fully remote team with an office in Zug Switzerland (in case you donât want to work remotely)</li>
-<li>Be one of the first employees and work directly with the founders</li>
-<li>Build the next generation of automated services on Ethereum and Layer 2 networks and become an expert in the most cutting edge UX standards of dApp development</li>
-<li>Work together closely with industry leading teams that we team up with to deliver the most innovative products in the DeFi industry</li>
-<li>Token Options - Get a share of the networks future tokens and be able to participate in Gelatoâs upcoming DAO</li>
-<li>Worldclass Investors - We are backed by the community, including industry leading experts such as Gnosis, Christoph Jentzsch and the two largest Venture DAOs (The LAO, Metacartel Ventures)</li>
-</ul><p><br></p><p><strong>Requirements:</strong></p><ul>
-<li>4 years experience with React.js, Vue.js or similar front-end frameworks</li>
-<li>3 years experience Graph QL</li>
-<li>3 years experience with Typescript</li>
-<li>Strong CSS skills</li>
-<li>Experience with web3 libraries (ethers.js, web3.js)</li>
-<li>Experience with testing your code on Ethereum test networksÂ </li>
-<li>You can work with high autonomy</li>
-<li>Strong written and verbal communication skills</li>
-</ul><p><br></p><p><strong>Bonus:</strong></p><ul>
-<li>Strong Design skills</li>
-<li>Experience with Solidity</li>
-</ul><p><br></p><p><strong>Technologies we use and teach:</strong></p><ul>
-<li>React.js</li>
-<li>Node.js</li>
-<li>Typescript (preferred)</li>
-<li>Javascript</li>
-<li>Ethers.js / web3.js</li>
-<li>Hardhat</li>
-<li>Solidity</li>
-</ul><br/><br/>Please mention the word **DELIGHTFULNESS** and tag RMzUuMTc0LjI0Mi4xNDY= when applying to show you read the job post completely (#RMzUuMTc0LjI0Mi4xNDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7908/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>BBE Marketing Inc</h5>
-                    <h3> Full-Stack Wordpress Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>ethereum,developer,web3,crypto,testing,test,code,travel,finance,digital nomad</code>
                 </td>
                 <td width="200">
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-2" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-smart-contract-ethereum-developer-gelato-140481" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/7908/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Hurst, TX
-    <br /><strong>URL:</strong> <a href="http://bbemarketing.com/">http://bbemarketing.com/</a>
-</p>
-
-<div>BBE Marketing creates online products that help businesses connect with celebrities and influencers. We are looking for a talented Full-Stack Wordpress Developer to join our team, who could help us in shipping features for our application and drive our application design and architecture as we grow.<br><br>
-</div><div>The tasks include:<br><br>
-</div><div>- Developing plugins<br>- Making fixes and updates to existing plugins<br>- Work with team in planning and strategizing<br>- Working with designer in developing designs<br>- Various backend tasks<br><br>
-</div><div>You will love this role if:<br><br>
-</div><div>- You like working with the stakeholders directly. We’re a relatively small startup, there’s no bureaucracy and complex hierarchy. You’ll be communicating directly with all the team members, from CEO to Customer Support.<br>- You like to work and ship stuff fast without compromising quality. You know when to stop and call it done without trying to achieve the unattainable perfection.<br>- You’re not afraid to prove your point when necessary. We trust our team members and believe they have businesses best interest at heart. If there’s no simple solution to a problem, you can provide the arguments and clearly communicate the risks.<br>- Self-starter, we don’t like to micro-manage our team<br>- You treat privileged information with care. You can be trusted with sensitive company data<br>- Great communication skills<br><br>
-</div><div>Requirements:<br>- Experience with PHP<br>- Experience with Wordpress<br>- Experience with MySQL;<br>- Experience with Asana (preferred)<br>- Written and spoken English (required).<br>- Able to work 4 hours overlap within 07:00 - 18:00 PST<br><br>
-</div><div>
-<br><br>
-</div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-2">https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-2</a></p>
-
+                <p><strong>Gelato Network </strong>is a protocol that automates smart contract executions on Ethereum. We develop an open-source decentralized network of relay nodes that developers can plug into to create amazing automated dApps for their users.</p><p><br>Join as one of the first employees and work directly with the founders to build the future of Automation for the upcoming decentralized web. Enjoy a lot of perks, travel with us to cool events (after Corona), and participate in amazing off-side retreats with the team!</p><p><br>Participate in creating the most sophisticated crypto bot network ever created by designing the smart contracts that will rule them all!<br><br></p><p><strong>What we offer:</strong><br><br></p><ul>
+<li>Small, fully remote team, with team members in Paris, Berlin & Munich</li>
+<li>Be one of the first employees and work directly with the founders</li>
+<li>Participate in building the infrastructure that aims to become the glue between all crypto networks and power the most promising dApps on Ethereum</li>
+<li>Token Options - Get a share of the networks future token and be able to participate in Gelatoâs upcoming DAO</li>
+<li>Worldclass Investors - We are backed by the community, including industry leading experts such as Gnosis, Christoph Jentzsch, IOSG, Galaxy Digital and the two largest Venture DAOs (The LAO, Metacartel Ventures)</li>
+</ul><p><br></p><p><strong>Requirements:</strong><br><br></p><ul>
+<li>Experience in writing smart contracts in solidity</li>
+<li>Experience with web3 libraries (ethers.js, web3.js)</li>
+<li>Experience with testing your code locally and on ethereum test networks</li>
+<li>You can work with high autonomy</li>
+<li>Strong written and verbal communication skills</li>
+</ul><p><br></p><p><strong>Bonus:</strong><br><br></p><ul>
+<li>Knowledge about the inner workings of the EVM</li>
+<li>Mathematics & Finance Background</li>
+<li>Experience in building and running bots that interact with smart contracts on Ethereum</li>
+<li>Knowledge about Ethereum Client & Mining software</li>
+<li>Front-end experience, building dApps on existing smart contracts</li>
+</ul><p><br></p><p><strong>Technologies we use and teach:</strong><br><br></p><ul>
+<li>Solidity</li>
+<li>Node.js</li>
+<li>Typescript</li>
+<li>Javascript</li>
+<li>Ethers.js / web3.js</li>
+<li>Buidler / Truffle</li>
+<li>React</li>
+</ul><br/><br/>Please mention the word **VIRTUOUS** and tag RMy4yMzYuMjU1LjE0OQ== when applying to show you read the job post completely (#RMy4yMzYuMjU1LjE0OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -130,7 +60,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazee-io-frontend-developer-80-100" align="right" target="_blank">Apply</a>
@@ -184,66 +114,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8790/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Dewaele Real Estate Group</h5>
-                    <h3> PYTHON SOFTWARE DEVELOPER</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/dewaele-real-estate-group-python-software-developer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8790/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Izegem, Belgium
-    <br /><strong>URL:</strong> <a href="https://www.dewaele.com">https://www.dewaele.com</a>
-</p>
-
-<h1><strong>What will you get to work on?</strong></h1><div>You will work on our application stack which consists of internal and external applications for both our agents and our customers. </div><div>Our application stack is cloud native, built around containerized micro services that are built, tested and deployed in a highly automated manner.</div><h1><strong>Skills &amp; Requirements</strong></h1><ul>
-<li>3 years of experience using Python as a main development language</li>
-<li>Experience with Git</li>
-<li>Hands-on, self-motivated, and quality focussed</li>
-<li>Excellent written and spoken English</li>
-<li>You have the ability to take responsibility and work independently</li>
-<li>A decent overlap with our timezone (UTC+2) for efficient communication</li>
-</ul><div>
-<br><strong><em>Nice to haves<br></em></strong><strong><br></strong><br>
-</div><div>The following skills and experience are not a must have but will definitely give you the extra edge during hiring:</div><ul>
-<li>Experience with Django Framework</li>
-<li>Knowledge of front-end technologies like VueJS</li>
-<li>Knowledge of working experience with Docker and containers</li>
-<li>Experience working with Amazon Web Services<br><br>
-</li>
-</ul><h1><strong>Our Stack</strong></h1><ul>
-<li>Our backend is powered by Python</li>
-<li>The frontend of our applications are built using VueJS &amp; HTML 5</li>
-<li>We use Amazon Web Services &amp; Docker containers and implement best practices like Test Driven Development and Continuous Integration / Continuous Deployment<br><br>
-</li>
-</ul><h1><strong>Why Work For Us?</strong></h1><ul>
-<li>Innovative company that is technology driven</li>
-<li>An enthusiastic development team with experienced colleagues</li>
-<li>High level of autonomy and input in the team</li>
-<li>Fully remote with flexible hours<br><br>
-</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/dewaele-real-estate-group-python-software-developer-1">https://weworkremotely.com/remote-jobs/dewaele-real-estate-group-python-software-developer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4519/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -254,7 +124,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shotflow-ios-developer-1" align="right" target="_blank">Apply</a>
@@ -329,7 +199,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>92 days ago</text>
+                <text>93 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
@@ -386,7 +256,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -453,7 +323,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -522,7 +392,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -547,7 +417,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/unreal-engine-developer-1344657" align="right" target="_blank">Apply</a>
@@ -572,7 +442,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-developer-1422554" align="right" target="_blank">Apply</a>
@@ -651,7 +521,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -714,83 +584,6 @@
 </ul>
 <p><span style="color: #0e101a; background-color: transparent; font-weight: bold; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Ownership: </span><span style="color: #0e101a; background-color: transparent; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline; white-space: pre-wrap;">Take ownership of your work and enjoy more freedom in your career.</span></p>
 <img src="https://remotive.com/job/track/1383531/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>A.Team</h5>
-                    <h3>Senior Independent Software Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,go,wordpress,hr</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="text-size-adjust: 100%; overflow-wrap: break-word;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. </p>
-<p style="text-size-adjust: 100%; overflow-wrap: break-word;">After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><em>As part of A·Team, you can expect:</em></span></p>
-<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
-<li><strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li><strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li><strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li><strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li><strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul>
-<p> </p>
-<p> </p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>How to apply:</strong></span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Go here: <a href="https://build.a.team/remotivereferral" rel="nofollow">https://build.a.team/remotivereferral</a> + mention Remotive. </span>No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.</p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>What you’ll do:</strong></span></p>
-<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is for:</span></strong></p>
-<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">not</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> for:</span></strong></p>
-<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">People looking for small gigs</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Folks looking to build simple wordpress/wix/squarespace-style websites</span></p>
-</li>
-<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
-<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those still early in their careers and recent university/bootcamp grads (at least not yet)</span></p>
-</li>
-</ul>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Our long-term vision:</strong></span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
-<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
-<img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
