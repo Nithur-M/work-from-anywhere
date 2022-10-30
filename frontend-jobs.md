@@ -1,6 +1,6 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8814/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8970/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>MasteryPrep</h5>
@@ -10,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/masteryprep-frontend-software-engineer" align="right" target="_blank">Apply</a>
@@ -19,7 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8814/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8970/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
   <strong>Headquarters:</strong> Baton Rouge, Louisiana, United States
@@ -32,17 +32,18 @@
 <p><strong>Requirements</strong></p>
 <p><strong>About the Role</strong></p>
 <p>As a Frontend Software Engineer, you will be responsible for—but not limited to—implementation, testing, and partnering with our product, operations, and support teams. Building great products is a highly collaborative effort, so it's essential that you are a team player with solid communication skills.</p>
-<p>Success criteria:</p>
+<p><br></p>
+<p><strong>Success criteria:</strong></p>
 <ul> <li>You work collaboratively and respectfully with cross-functional teams to design cutting edge education products that change the world</li> <li>You propose innovative and creative ideas to solve tough engineering challenges that scale</li> <li>You raise the bar on quality, testing, and performance to ensure the product reliably performs</li> <li>You help identify and implement best practices and standards throughout the code and our processes</li> <li>You own quality issues and failures and work to actively resolve them with a sense of urgency</li> <li>You constantly strive to build an inclusive, supportive, and positive work environment</li> </ul>
-<p>Our development environment:</p>
-<ul> <li>React</li> <li>Typescript</li> <li>Mocha</li> <li>Cypress</li> <li>Storybook</li> <li>Material UI</li> <li>Lerna</li> <li>GraphQL</li> <li>Google Cloud</li> <li>Google Cloud Functions</li> <li>Google Firestore</li> <li>Google Identity Platform</li> <li>Google BigQuery</li> <li>Postgres</li> <li>GitLab</li> </ul>
-<p>Integrated 3rd Party Solutions:</p>
-<ul> <li>Mix</li> <li>DocRaptor</li> <li>Wistia</li> <li>Schoology</li> <li>Classlink</li> <li>Clever</li> <li>Google Analytics</li> <li>NewRelic</li> </ul>
+<p><strong>Our development environment:</strong></p>
+<ul> <li>React</li> <li>Typescript</li> <li>Mocha</li> <li>Cypress</li> <li>Storybook</li> <li>Material UI</li> <li>Lerna</li> <li>GraphQL</li> <li>Google App Engine</li> <li>Google Cloud Run</li> <li>Google Cloud Functions</li> <li>Google Compute Engine</li> <li>Google Firestore</li> <li>Google BigQuery</li> <li>Postgres</li> <li>GitLab</li> </ul>
+<p><strong>Integrated 3rd Party Solutions:</strong></p>
+<ul> <li>Mux</li> <li>DocRaptor</li> <li>Wistia</li> <li>Schoology</li> <li>Classlink</li> <li>Clever</li> <li>Google Analytics</li> <li>NewRelic</li> </ul>
 <p><strong>What you will be building</strong></p>
 <p>While support and maintenance for existing platforms may be required from time to time, this role will primarily focus on our "greenfield" initiatives. MasteryPrep is wholly committed to building cutting-edge technology solutions to level the playing field for education. These solutions will include innovative use of video streaming, 2D/3D interactions, and real-time collaborative systems at scale. Our platform has to scale to support interactions in hundreds of live classrooms with up to 250+ students in a single class. This is not a job for the faint of heart. However, if projects and challenges of this scale excite you, then you may be the right fit for the role.</p>
 <p>We look forward to hearing from you.</p>
 <p><strong>Benefits</strong></p>
-<ul> <li>100% Remote</li> <li>Flex work hours</li> <li>Full Medical, Dental and Vision with HSA eligibility</li> <li>401K with company contribution</li> </ul>
+<ul> <li>100% Remote</li> <li>Flex work hours</li> <li>Full Medical, Dental and Vision with HSA eligibility</li> <li>401K with company contribution</li> <li>Salary $150K+</li> </ul>
 <p><strong>About MasteryPrep</strong></p>
 <p>Did you know that nearly 90% of low-income students graduate high school without a college-ready ACT or SAT score? We're here to change that.</p>
 <p>MasteryPrep's mission is to level the college admissions playing field by helping all students access the most effective ACT and SAT prep programs on the market. Unlike traditional prep, MasteryPrep works even for students who struggle with tests, and through our partnerships with school districts, is provided at no cost to students or their families.</p>
@@ -69,7 +70,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1" align="right" target="_blank">Apply</a>
@@ -143,46 +144,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1441608/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Emurgo</h5>
-                    <h3>Technical Lead - Front End Development</h3>
-                </td>
-                <td width="300">
-                    <code>api,crypto,education,mobile</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/technical-lead-front-end-development-1441608" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Who we are</strong></p>
-<p>EMURGO is the official commercial and venture arm of the Cardano Blockchain, a smart contract platform with advanced security assurance - Currently Top 3 of decentralized smart contract platforms and Top 10 of all cryptocurrencies on CoinMarketCap.</p>
-<p>As a founding member of the Cardano protocol, EMURGO develops, supports, and incubates commercial opportunities and helps integrate businesses into the blockchain ecosystem.</p>
-<p>Our vision is to become a pioneer of the trading revolution, and to create a sustainable, long-lasting business enterprise. Our values are trust, teamwork, laser focus, grit and decisive action taking.</p>
-<p>Why should you consider joining us?</p>
-<ul><li>Be a pioneer and blaze your path in a rapidly evolving industry</li><li>Unparalleled learning, with both professional and personal growth opportunities</li><li>EMURGO is financially stable and well placed for sustainable expansion</li></ul>
-<p>Our products and services includes:</p>
-<ul><li><a href="https://yoroi-wallet.com/#/" rel="nofollow">Yoroi Wallet</a>, one of the most used wallet /web3 wallet in the Cardano ecosystem with more than 500,000 active users</li><li><a href="https://education.emurgo.io/" rel="nofollow">Academy</a>, Global learning solutions company bringing Cardano Blockchain Education to businesses and developers</li></ul>
-<p>We are looking for a Technical Lead for Front-End Development that will help us lead and mentor our front end development team. The team is responsible for front development for our new products in the blockchain space and help us add new features for some of our current projects, like our crypto wallet Yoroi, our Stablecoin Project, and some new stealth projects that we are starting to work on.</p>
-<p>Yoroi is a light wallet for Cardano. It's secure, fast, and simple. It's one of the most used in the Cardano ecosystem, and we have more than 500,000 active users.</p>
-<p><strong>What you'll be doing</strong></p>
-<ul><li>Collaborate with business, product and other engineering teams to deliver the front-end solutions</li><li>Be a hands-on mentor to the front-end developers, lead the team in design and development.</li><li>Actively participate in developing API specifications (Swagger/Open API) and in testing the APIs</li><li>Work with fellow technical leads to continuously improve the speed and quality of the software delivery </li><li>Facilitate innovation through nurturing, coaching and challenging the team members</li><li>Lead the transition of team and products as Web 3.0 evolves</li></ul>
-<p><strong>What you bring to EMURGO</strong></p>
-<ul><li>7+ years of experience in Software development with at least 2 years of technical leadership</li><li>5+ years of experience in React Native/React (preferable) and other web and mobile technology experience (breadth and depth)</li><li>Deep knowledge of broad spectrum of Web 2.0 technologies</li><li>Proficiency in API architecture and best practices</li><li>Knowledge of current state of Web 3.0 technologies</li><li>Good knowledge of software development best practices</li><li>Good level of verbal and written communication skills</li></ul>
-<p><strong>Bonus qualifications</strong><br></p>
-<ul><li>Good understanding of Web 3.0</li><li>User-level experience with blockchain applications (ex: wallets, dApps, staking, etc.)</li><li>Understanding of blockchain fundamentals</li></ul>
-<img src="https://remotive.com/job/track/1441608/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1421232/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -193,7 +154,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
