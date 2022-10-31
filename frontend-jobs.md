@@ -1,5 +1,48 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/7c297e647fdeaf2db77c2f8e4ec03d341667114123.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CipherTrace</h5>
+                    <h3>Frontend Engineer Cryptocurrency & Blockchain</h3>
+                </td>
+                <td width="300">
+                    <code>cryptocurrency,frontend,defi,crypto,cryptocurrencies,back-end,software,testing,ui,web,travel,javascript,api,leader,engineer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-cryptocurrency-blockchain-ciphertrace-140994" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>CipherTrace, a Mastercard company, is a rapidly growing leader in cryptocurrency intelligence and compliance. Our team has introduced novel solutions to challenges including sanctions compliance for DeFi and the Crypto Travel Rule. Our mission is to grow the blockchain economy by making crypto safe for users and trusted by governments. CipherTrace operates on a global scale to assist banks, cryptocurrency exchanges, law enforcement agencies, regulators, VASPs, and businesses in preventing fraud, human trafficking, money laundering, and other illicit activity where cryptocurrency is involved.</div><div><br></div><div>The ideal candidate should be a passionate, self-motivated, team player with experience working in a quickly evolving environment and who has a willingness to work and learn in a collaborative organization.</div><div><br></div><div><br></div><p></p><h4>Responsibilities</h4><p></p><p></p><ul>
+<li>Build the next generation cryptocurrency tools, law enforcement tools, and DeFi platforms.</li>
+<li>Build middleware services to interface the UI to the Back End infrastructure.</li>
+<li>Write <a href="http://angular.js/" class="postings-link" rel="noopener noreferrer nofollow">Angular.js</a> to display Bitcoin, Ethereum, and other cryptocurrencies cross-platform.</li>
+<li>Debug and perform quality testing on the Blockchain cryptocurrency data user interface.</li>
+<li>Design reactive API software for real-time cryptocurrency displays.</li>
+<li>Write software in JavaScript to allow users to interactively investigate wallets and addresses of multiple cryptocurrencies.</li>
+<li>Co-design software APIs with back-end developers to access cryptocurrency feeds.</li>
+<li>Develop middleware modules to visualize cryptocurrency transactions.</li>
+</ul><p></p><h4>Requirements</h4><p></p><p></p><ul>
+<li>8+ years of experience building enterprise JavaScript web applications.</li>
+<li>JavaScript, TypeScript, Python, styled components, and frameworks like Angular, React, <a href="http://node.js/" class="postings-link" rel="noopener noreferrer nofollow">Node.js</a>.</li>
+<li>SQL/noSQL, Cassandra, PostgreSQL, MySQL, BigQuery, Elasticsearch, GraphQL.</li>
+<li>Restful APIs, Kafka, and microservices.</li>
+<li>Data visualization app development and concepts.</li>
+<li>Blockchain technologies, DeFi, law enforcement software, or cryptocurrencies.</li>
+</ul><p></p><h4>Nice to Have</h4><p></p><p></p><ul>
+<li>Experience with data visualization libraries like <a href="http://d3.js/" class="postings-link" rel="noopener noreferrer nofollow">D3.js</a>.</li>
+<li>Strong communication skills (both spoken and written).</li>
+</ul><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **INGENIOUS** and tag RMy4yMjcuMjUyLjI0Mg== when applying to show you read the job post completely (#RMy4yMjcuMjUyLjI0Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8970/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +53,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/masteryprep-frontend-software-engineer" align="right" target="_blank">Apply</a>
@@ -70,7 +113,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1" align="right" target="_blank">Apply</a>
@@ -154,7 +197,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
