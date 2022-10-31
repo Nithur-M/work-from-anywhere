@@ -1,107 +1,68 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/40486cf56da0aa4b4e6cac78974515ff1666854921.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/5d5849fb126d160da0f8db9ea6796ad61667114135.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Paradigm</h5>
-                    <h3>Software Engineering Manager</h3>
+                    <h5>Brave</h5>
+                    <h3>Senior Software Engineer Wallet & Web3</h3>
                 </td>
                 <td width="300">
-                    <code>software,manager,design,defi,voice,financial,cloud,recruiting,engineering,digital nomad</code>
+                    <code>web3,software,defi,crypto,cryptocurrency,react,front-end,ceo,code,web,javascript,c++,typescript,ads,senior,golang,engineer,engineering</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineering-manager-paradigm-139431" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-wallet-web3-brave-140995" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="content-intro">
-<p><span style="font-weight:400;">At Paradigm, we are changing the future of finance! By joining us at this early stage, youâll be building cutting-edge, distributed financial service infrastructure that will reshape financial services across CeFi and DeFi markets.Â </span></p>
-<p><strong>About Paradigm</strong></p>
+                <h4><strong>Senior Software Engineer, Wallet & Web3 (core)<br>Remote</strong></h4>
+<h4><strong>About Brave</strong></h4>
+<p><span style="font-weight:400;">Brave is on a mission to protect the human right to privacy online. Weâve built a free web browser that blocks creepy ads and trackers by default, a private search engine with a </span><em><span style="font-weight:400;">truly</span></em><span style="font-weight:400;"> independent index, a browser-native crypto wallet, and a private ad network (opt-in!) that directly rewards you for your attention. And weâre just getting started. Already 50 million people have switched to Brave for a faster, more private web. Millions more switch every month.</span></p>
+<p><span style="font-weight:400;">The internet is a sea of ads, hackers, and echo chambers. Big Tech makes huge profits off our data, and tells us whatâs true and whatâs not. Brave is fighting back. Join us!</span></p>
+<h4><strong><br>Summary<br></strong></h4>
+<h4><span style="font-weight:400;">Brave is looking for an experienced Senior Software Engineer with a focus on cryptocurrency integrations with Brave.  You'll work on our Brave Wallet and our Web3 initiatives.  This is a high profile and impactful, hands-on position.  Work together with our product designers, developers and privacy/security experts to help us take our Web3 products to the next level.</span></h4>
+<h4><strong><br>Your responsibilities</strong></h4>
 <ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Paradigm is a zero-fee, institutional liquidity network for derivatives traders across CeFi and DeFi.Â </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">We provide unified access to multi-asset, multi-protocol liquidity on demand without compromising on execution preferences, costs, and immediacy.Â </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Weâve built the largest network of institutional counterparties in crypto, with over 1000 institutional clients trading over $10 B per month.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Integrate new wallet APIs with C++ in the browser for our front-end team to use</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Develop web services using Golang that provide wallet clients with data</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Be up-to-date with upcoming protocol upgrades, BIPs, EIPs, etc.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Be involved in investigating bugs around blockchain edge cases.</span></li>
+</ul>
+<h4><strong><br>Requirements</strong></h4>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">5+ years experience with application development.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">C++ development skills required.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience developing, maintaining, and monitoring web APIs, especially using Golang.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Some front-end JavaScript / TypeScript development skills using React are a plus.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Good understanding of blockchain protocols (Bitcoin, Ethereum, Solana, etc.), the DeFi ecosystem, and NFTs</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Familiarity with cryptocurrency wallet stack (mechanics, UX, etc.).</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Ability to pick up new code quickly and contribute on various projects</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with software development via distributed development teams.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Comfortable working in an open source setting.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">History of open source contributions.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">A passion for helping protect users' privacy and security.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Written and verbal communication skills in English.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Proven record of getting things done.</span></li>
+</ul>
+<h4><strong><br>Working at Brave</strong></h4>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Industry-leader in privacy, with a research and engineering team thatâs innovating everyday to keep people safer online and beat Big Tech</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Highly competitive salaries & benefits, and generous home-office stipends</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Fully remote team (no office, no commute)</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Welcoming, humble, ridiculously smart teammates, and a truly flat org structure</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Opportunity to get in early at a hyper-growth company, and revolutionize the web</span></li>
 <li style="font-weight:400;">
-<span style="font-weight:400;">We are a diverse, global team led by our </span><a href="https://www.paradigm.co/company#principles" rel="noopener noreferrer nofollow"><span style="font-weight:400;">organizational principles</span></a><span style="font-weight:400;"> and united by our mission to bring on-demand liquidity for traders, anytime and anywhere, without compromises. We also strive to ship faster than anyone else in the industry!</span>
-</li>
-<li style="font-weight:400;"><span style="font-weight:400;">We are backed by the best traders and investors in the space, including Jump Capital, Alameda Ventures/FTX, Dragonfly Capital, Digital Currency Group, Genesis Trading, QCP Capital, Optiver US, IMC, GSR Markets, Akuna Capital, Fidelity Digital Assets CMT Digital, Goldentree Asset Management, Amber Group, OK Group, Bybit Fintech, and CoinShares.</span></li>
-</ul>
-</div><div>Â </div>
-<div>Â </div>
-<div><strong>The role</strong></div>
-<div>Â </div>
-<div>As a member of our engineering leadership team, your goal will be to help build a world-class engineering organization that delivers with high quality and velocity according on the priorities of our product that leads an extremely fast-paced cutting-edge industry. You will manage multi-disciplinary teams that deliver major features, through inception, design, implementation and launch. You will work closely with other leaders across the company to continue improving our process and strengthen our culture.</div>
-<div>Â </div>
-<div><strong>ResponsibilitiesÂ </strong></div>
-<div>
-<ul>
-<li>Manage 5 to 10 engineers and be fully responsible for their performance and delivery: regularly reviewing their work, provide coaching, resolve conflicts and blocking dependencies, etc.</li>
-<li>Provide a strong technical voice on the team to ensure secure, reliable, scalable, and maintainable design and architecture</li>
-<li>Implement our engineering process and help evolve it to keep up with growing team, product features, and market traction</li>
-<li>Ensure delivery on product priorities by collaborating with with the Product team to understand and resolve customer requirements</li>
-<li>Help in recruiting efforts for the entire engineering team</li>
-<li>Champion a rewarding and productive company culture</li>
-</ul>
-<p><strong>RequirementsÂ </strong></p>
-<ul>
-<li>7+ years experience in high-performing software engineering organizations</li>
-<li>3+ years experience directly managing talented engineers</li>
-<li>Experience managing at all employment phases: interviewing, hiring, onboarding, evaluating and improving performance, promotions, and terminations</li>
-<li>Deep technical and product understanding of the problems your team solves, resulting from a product engineering background prior to, or alongside, management. You are hands-on, but ready and eager to empower others around you so you don't have to be.</li>
-<li>Passion for making wonderful products that customers love. This implies that you are an expert on every product you've worked on, obsessed with all relevant details. You also never blindly delegate and enjoy immense credibility and respect among your team.</li>
-<li>Real-world experience with success and failure shipping scalable cloud products and, most importantly, a wealth of resulting learning to draw upon and a relentless drive to continue improving</li>
-</ul>
-<p><strong>Nice to haveÂ </strong></p>
-<ul>
-<li>You inspire people around you to achieve more than they assumed they could</li>
-<li>You have built new process from scratch, and had to work hard to promote it culturally within your team</li>
-<li>You believe in the power of a healthy, thriving culture in helping teams get the most out of themselves, and you have experience proving this</li>
-<li>Some of your experience has been in startups or on small teams, where the success and failure of the greater enterprise rested on your shoulders</li>
-<li>You possess best-in-the-industry expertise you can occasionally lend to the broader team in the form of technical leadership</li>
-</ul>
-</div><div class="content-conclusion">
-<div>
-<p><strong>Our Benefits and Perks</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Competitive pay and transparent pay bands</span></li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Flexible work environment</span><ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Unlimited vacation with a minimum required PTO of 10 days annually.</span></li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Celebrate your national holidays, </span><span style="text-decoration:underline;"><span style="font-weight:400;">in addition</span></span><span style="font-weight:400;"> to floating holidays, to honor what matters to you, not HQ.</span>
+<span style="font-weight:400;">Oh, and did we mention Brendan, our CEO & co-founder, </span><em><span style="font-weight:400;">invented</span></em><span style="font-weight:400;"> JavaScript?</span>
 </li>
 </ul>
-</li>
-
-<li style="font-weight:400;">
-<span style="font-weight:400;">Full benefits (</span><span style="font-weight:400;">vary by location)</span><ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Medical, dental, vision</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Health Flexible Savings Account (FSA)</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Long Term Disability and Life Insurance</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Retirement savings (i.e. Traditional and Roth 401(k))</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Paid Parental Leave</span></li>
-</ul>
-</li>
-
-<li style="font-weight:400;">
-<span style="font-weight:400;">Generous technology and learning allowances</span><ul>
-<li style="font-weight:400;"><span style="font-weight:400;">$5000 first-year budget to spend on your computer, peripherals, office essentials...whatever makes you most efficient and comfortable. You'll receive a $2000 refresh each anniversary.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">$1000 budget to spend on learning and development materials, courses or conferences.</span></li>
-</ul>
-</li>
-
-</ul>
-<br>
-<p><em><span style="font-weight:400;">Paradigm US is an equal opportunity employer.</span></em></p>
-</div>
-<div>Â </div>
-<div>#LI-Remote</div>
-</div><br/><br/>Please mention the word **BENEVOLENCE** and tag RMy4yMzYuMjU1LjE0OQ== when applying to show you read the job post completely (#RMy4yMzYuMjU1LjE0OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<h4><strong><br>Check us out</strong></h4>
+<p><a href="https://www.linkedin.com/company/brave-software/mycompany/" rel="noopener noreferrer nofollow"><span style="font-weight:400;">LinkedIn</span></a><span style="font-weight:400;"> | </span><a href="https://www.glassdoor.com/Overview/Working-at-Brave-EI_IE2159279.11,16.htm" rel="noopener noreferrer nofollow"><span style="font-weight:400;">Glassdoor</span></a><span style="font-weight:400;"> | </span><a href="https://brave.com/" rel="noopener noreferrer nofollow"><span style="font-weight:400;">brave.com</span></a></p>
+<p> </p>
+<p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/kLiLOkzLetE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **FAVORITED** and tag RMy4yMjcuMjUyLjI0Mg== when applying to show you read the job post completely (#RMy4yMjcuMjUyLjI0Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -116,7 +77,7 @@
                     <code>data science,developer,kubernetes,machine learning</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineering-content-writer-1214006" align="right" target="_blank">Apply</a>
@@ -141,7 +102,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -203,7 +164,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
