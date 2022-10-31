@@ -10,7 +10,7 @@
                     <code>manager,software,growth,web,finance,strategy,management,content,analytics,engineer,engineering,recruitment,consultant,cloud,senior,dev,analyst,lead,operations,sales,go,digital nomad,frontend,developer,design,reactjs,front-end,ceo,code,javascript,typescript,microsoft,leader,reliability,health,architect,system,security,administrator,marketing,director,voice,animation,legal,medical,training,git,api,mobile,junior,financial,banking,saas,education,branding,educational,ecommerce,healthcare,backend</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-care-team-experience-included-health-140162" align="right" target="_blank">Apply</a>
@@ -26,70 +26,7 @@ About Included Health
 Included Health is a new kind of healthcare company, delivering integrated virtual care and navigation. Weâre on a mission to raise the standard of healthcare for everyone. We break down barriers to provide high-quality care for every person in every community â no matter where they are in their health journey or what type of care they need, from acute to chronic, behavioral to physical. We offer our members care guidance, advocacy, and access to personalized virtual and in-person care for everyday and urgent care, primary care, behavioral health, and specialty care. Itâs all included. Learn more atÂ includedhealth.com. 
 
 -----
-Included Health is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics or any other basis forbidden under federal, state, or local law. Included Health considers all qualified applicants in accordance with the San Francisco Fair Chance Ordinance.<br/><br/>Please mention the word **CHARMINGLY** and tag RMy4yMzYuMjU1LjE0OQ== when applying to show you read the job post completely (#RMy4yMzYuMjU1LjE0OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8969/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MasteryPrep</h5>
-                    <h3> Backend Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/masteryprep-backend-software-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8969/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Baton Rouge, Louisiana, United States
-    <br /><strong>URL:</strong> <a href="http://www.masteryprep.com">http://www.masteryprep.com</a>
-</p>
-
-<p><strong>About the Opportunity</strong></p>
-<p>MasteryPrep is assembling an onshore development team to work exclusively on "greenfield" initiatives. We are looking for talented software engineers to help us level the playing field in education by building the most effective test preparation available, bar none. We believe that the best way to build this experience is by creating a diverse team of people from different backgrounds, races, religions, genders, sexual orientations, ages, and experiences. The team we are building must be aligned to our core values of:</p>
-<ul> <li> <strong>Go pro.</strong> Or go home. Get better than the best.</li> <li> <strong>Do right.</strong> Period.</li> <li> <strong>Make it happen.</strong> Excuses never built anything.</li> <li> <strong>Make it awesome.</strong> There is no equality without quality.</li> <li> <strong>Customers are forever.</strong> This company is for them.</li> </ul>
-<p><strong>Requirements</strong></p>
-<p><strong>About the Role</strong></p>
-<p>As a Backend Software Engineer, you will be responsible for—but not limited to—architecture, implementation, testing, and partnering with our product, operations, and support teams. Building great products is a highly collaborative effort, so it's essential that you are a team player with solid communication skills.</p>
-<p><br></p>
-<p><strong>Success criteria:</strong><br></p>
-<ul> <li>You work collaboratively and respectfully with cross-functional teams to design cutting edge education products that change the world</li> <li>You propose innovative and creative ideas to solve tough engineering challenges that scale</li> <li>You raise the bar on quality, testing, and performance to ensure the product reliably performs</li> <li>You help identify and implement best practices and standards throughout the code and our processes</li> <li>You own quality issues and failures and work to actively resolve them with a sense of urgency</li> <li>You constantly strive to build an inclusive, supportive, and positive work environment</li> <li>Security is a first-class concern for you—<strong><em>DevS</em></strong><em><strong>ecOps</strong> </em><strong><em>isn't an afterthought</em></strong> </li> </ul>
-<p><br></p>
-<p><strong>Our development environment:</strong></p>
-<ul> <li>React</li> <li>Typescript</li> <li>Python</li> <li>Mocha</li> <li>Prisma 2</li> <li>Lerna</li> <li>GraphQL</li> <li>Cube.js</li> <li>Cypress</li> <li>Google AppEngine</li> <li>Google Compute Engine</li> <li>Google Cloud Run</li> <li>Google Cloud Functions</li> <li>Google Firestore</li> <li>Google BigQuery</li> <li>gRPC</li> <li>Postgres</li> <li>GitLab</li> </ul>
-<p><br></p>
-<p><strong>Integrated 3rd Party Solutions:</strong></p>
-<ul> <li>Mux</li> <li>DocRaptor</li> <li>Schoology</li> <li>Classlink</li> <li>Clever</li> <li>Google Analytics</li> <li>NewRelic</li> </ul>
-<p><br></p>
-<p><strong>What you will be building</strong></p>
-<p>While support and maintenance for existing platforms may be required from time to time, this role will primarily focus on our "greenfield" initiatives. MasteryPrep is wholly committed to building cutting-edge technology solutions to level the playing field for education. Our platform has to scale to support interactions in hundreds of live classrooms with up to 250+ students in a single class. This is not a job for the faint of heart. However, if projects and challenges of this scale excite you, then you may be the right fit for the role.</p>
-<p>We look forward to hearing from you!</p>
-<p><strong>Benefits</strong></p>
-<ul> <li>100% Remote</li> <li>Flex work hours</li> <li>Full Medical, Dental and Vision with HSA eligibility</li> <li>401K with company contribution</li> <li>Salary $150K+</li> </ul>
-<p><strong>About MasteryPrep</strong></p>
-<p>Did you know that nearly 90% of low-income students graduate high school without a college-ready ACT or SAT score? We're here to change that.</p>
-<p>MasteryPrep's mission is to level the college admissions playing field by helping all students access the most effective ACT and SAT prep programs on the market. Unlike traditional prep, MasteryPrep works even for students who struggle with tests, and through our partnerships with school districts, is provided at no cost to students or their families.</p>
-<p>So far, over 1 million students have benefitted from our programs, and we're just getting started. We need your help!</p>
-<p>Join a diverse, high-energy, mission-driven team that is genuinely making an impact and strives to be on the cutting edge of making education technology work in the classroom.</p>
-<p>MasteryPrep is one of the fastest-growing ed-tech companies in the country:</p>
-<ul> <li>Inc. 5000 four years in a row</li> <li>Entrepreneur 360 Company</li> <li>Louisiana Growth Leader, 2020 and 2021</li> <li>Council for Opportunity in Education Preferred Provider of ACT &amp; SAT Prep</li> <li>#1 Provider of ACT Preparation (&gt;5% of all U.S. test-takers)</li> </ul>
-<p>Our diverse team consists of compassionate, intelligent, and highly energetic individuals. Remote team members are connected to the whole through appropriate touch-points, support, and partnerships.</p>
-<p>We invest in our team. Come grow with us!</p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/masteryprep-backend-software-engineer">https://weworkremotely.com/remote-jobs/masteryprep-backend-software-engineer</a></p>
-
+Included Health is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics or any other basis forbidden under federal, state, or local law. Included Health considers all qualified applicants in accordance with the San Francisco Fair Chance Ordinance.<br/><br/>Please mention the word **CHARMINGLY** and tag RMy4yMjcuMjUyLjI0Mg== when applying to show you read the job post completely (#RMy4yMjcuMjUyLjI0Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -104,7 +41,7 @@ Included Health is an Equal Opportunity Employer and considers applicants for em
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
