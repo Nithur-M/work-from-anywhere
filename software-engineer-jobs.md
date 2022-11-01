@@ -10,7 +10,7 @@
                     <code>web3,software,defi,crypto,cryptocurrency,react,front-end,ceo,code,web,javascript,c++,typescript,ads,senior,golang,engineer,engineering</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-wallet-web3-brave-140995" align="right" target="_blank">Apply</a>
@@ -62,7 +62,86 @@
 <h4><strong><br>Check us out</strong></h4>
 <p><a href="https://www.linkedin.com/company/brave-software/mycompany/" rel="noopener noreferrer nofollow"><span style="font-weight:400;">LinkedIn</span></a><span style="font-weight:400;"> | </span><a href="https://www.glassdoor.com/Overview/Working-at-Brave-EI_IE2159279.11,16.htm" rel="noopener noreferrer nofollow"><span style="font-weight:400;">Glassdoor</span></a><span style="font-weight:400;"> | </span><a href="https://brave.com/" rel="noopener noreferrer nofollow"><span style="font-weight:400;">brave.com</span></a></p>
 <p> </p>
-<p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/kLiLOkzLetE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **FAVORITED** and tag RMy4yMjcuMjUyLjI0Mg== when applying to show you read the job post completely (#RMy4yMjcuMjUyLjI0Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/kLiLOkzLetE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **FAVORITED** and tag RMzQuMjI5LjY4LjIwNQ== when applying to show you read the job post completely (#RMzQuMjI5LjY4LjIwNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/3694/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Nathan James</h5>
+                    <h3> Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/nathan-james-senior-software-engineer-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/3694/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://nathanjames.com/">https://nathanjames.com/</a>
+</p>
+
+<h1>Senior Software Engineer</h1><div>Nathan James is looking for an experienced Engineer to help maintain our in-house API first ERP/WMS system, expand our API-driven integrations and automation projects and enable data sets for our teams to build reports against.<br><br>
+</div><h1>ABOUT THE ROLE:</h1><div>
+<br>This role will be part of an existing engineering team, albeit being the only role that will align with EST/PST to solve anything high impact or high priority during business hours. You will solve real world issues and be a key player in creating leverage for team members across the company. You will build out functionality, squash bugs, and expand automated testing. </div><div><br></div><div>
+<br>This role requires an understanding of the software development lifecycle, experience using PHP, and accessing APIs, performing data manipulation logic and operating within MySQL (or similar RDBMS). Some experience with automated testing/TDD principles is preferred. <br><br>
+</div><div><br></div><div>Our current stack <br><br>
+</div><ul>
+<li>back end is all php using laravel framework <strong>(primary area of responsibility for this role)</strong>
+</li>
+<li>front end is blade template with jquery and vue.js</li>
+<li>AWS Cloud infrastructure and Quicksights Reporting</li>
+<li>electron js communicates with scanners and printers at the warehouse</li>
+</ul><div><br></div><div>During on-boarding, you’ll be expected to be proactive in your process and learn effectively. The team has extensive documentation and domain experts available to support your learning. Once fully up-to-speed (2-3 months), the initial focus will be on expanding our direct connection with retailers by utilizing both their APIs and our sales order and inventory APIs.<br><br><br>
+</div><h1>ABOUT US:</h1><div>
+<br>We appreciate that time is our most valuable resource. That’s why with everything we work toward, we try to solve for happiness. However, happiness means a lot of different things to different people. For this reason, we don't define happiness for our team, instead we provide tools and support so anyone can unlock it for themselves. Some of the ways we do that is removing processes and ideologies that get in the way of doing our best work, we design benefits that support a healthy relationship with our work, and we engage with our <a href="https://nathanjames.com/pages/operating-values"><strong>operating values</strong></a> to guide us in our work. We use these frameworks and more to build a thoughtful and resilient organization.<br><br>
+</div><div>
+<br><br>We also understand working for Nathan James isn’t the main function of your life, and we don’t expect that! We’ve found that a team member who will be happy and fulfilled as a remote team member at Nathan James is someone who values their personal life and identity outside of work. That’s why we don’t create mandatory team hangouts or events. We focus on how to improve collaboration, not forcing engagement.<br><br>
+</div><div>
+<br>We focus on what we’re solving for, so we don’t create barriers or expectations that distract us from our <a href="https://nathanjames.com/pages/our-mission"><strong>mission</strong></a>. We also don’t set unreasonable working hours, deadlines, or goals. We create with calm, “slow is smooth and smooth is fast”.  <br><br>
+</div><div>
+<br>When you join the Nathan James team, you can expect a thorough, but mindful onboarding process with ramp-up time to learn. You can expect to give and provide direct feedback. You can expect minimal meetings. You can expect to work with smart and good people. You can expect to be counted on. Most importantly, you can expect to do the best work of your career here. <br><br>
+</div><div>
+<a href="https://www.glassdoor.com/Overview/Working-at-Nathan-James-EI_IE2394685.11,23.htm"><strong><br>Check out Glassdoor</strong></a> to hear what the team has to say about working at Nathan James.<br><br>
+</div><div><br></div><h1>ABOUT YOU:</h1><div>
+<br>We are looking for someone who has a minimum of 4+ years working in a LEMP stack with Laravel and REST APIs. Additionally, experience with queues (Redis, RabbitMQ, etc), Vue, Python and/or DevOps is an added plus but not required. You have a minimum of 2 years experience with the physical commerce domain (atoms and bits), ERPs/WMs/OMS or other related systems.<br><br>
+</div><div>
+<br>We’re looking for someone who's capable and comfortable executing projects end-to-end, individually if necessary. Your curious and not afraid to take ownership of projects even those you didn't build.  You have experience with API-first products, deploying well tested features, passionate about automation, and comfortable knowing when you need help or don’t know something.<br><br>
+</div><div>
+<br>For this role, we do require that your normal workday has at least 4-5 hours overlap with the eastern standard or the pacific standard workday without impinging on your personal/family life.<br><br>
+</div><div>
+<br>This is a remote role, since we are a remote company. With the freedom and flexibility of a remote role comes the luxury to work in whichever manner helps you perform your best! However, this ideal is best coupled with an individual who has a keen ability to self-regulate and self-manage. <br> <br>Our team works from home offices, co-working spaces, and coffee shops. You’ll find us in places that foster effective writing, self-discipline, and comfort with open communication.<br><br>
+</div><div><br></div><div>If everything you’ve read so far is exciting you in a very natural and not forced way, then you are the type of person to be a key contributor to innovation and scaling a business like Nathan James!<br><br>
+</div><div>
+<br><strong><br>Please submit an application </strong><a href="https://airtable.com/shrOx5mQj8Vy7cfyU">here</a><strong>that speaks directly to this position. </strong>A cover letter is not required, but those that clearly demonstrate how Nathan James would be a great fit for you and how you would be a great fit for us, will be given full attention and are highly appreciated. <br><br>
+</div><div>
+<strong><br>We expect to take two weeks to review all applications. If you don’t hear from us by then, we have decided to move forward with other candidates.</strong> <br>If we chose to move forward to the next steps in the interview process, you’ll hear from us and advance to a brief video interview and then on to a work sample, where you’ll get a chance to see the types of challenges you would be solving in this role. Our interviews are all remote by video chat, with your future colleagues, on your schedule.<br><br>
+</div><div>
+<br><br>
+</div><div>
+<strong><br>We aim to make an offer and have this person start by early December 2022. <br></strong><br>
+</div><div>
+<br><br>
+</div><div>
+<br>We appreciate your consideration in having Nathan James be part of your career.<br><br>
+</div><div>
+<br>Our open conversation starts with this post. We look forward to hearing from you.<br><br>Feel free to also check us out on <a href="https://www.linkedin.com/company/nathanjames"><strong>LinkedIn</strong></a><strong>!<br></strong><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/nathan-james-senior-software-engineer-2">https://weworkremotely.com/remote-jobs/nathan-james-senior-software-engineer-2</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -77,7 +156,7 @@
                     <code>data science,developer,kubernetes,machine learning</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineering-content-writer-1214006" align="right" target="_blank">Apply</a>
@@ -102,7 +181,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -164,7 +243,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
