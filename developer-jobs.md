@@ -1,5 +1,45 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/58c9d54be7409aec3c3c88095f53e5b01667200535.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Cryptohopper</h5>
+                    <h3>Android Native Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,design,crypto,cryptocurrency,training,gaming,testing,code,financial,cloud,git,android,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-android-native-developer-cryptohopper-141488" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p></p><p>At Cryptohopper we're looking for an AndroidÃÂ Native Developer to join our team.</p><br><p><b>You probably think cryptocurrency trading bots are like the current housing market. A black hole for many, a goldmine for few. However, these bots should be leveraged by a lot more people, because, well, they frigging work wonders. ;-) While the early adopters have been mining cryptos since the beginning. HODLING their investments for the big win. You might still be HOLDING on to your traditional savings, thinking the crypto-ship has sailedÃ¢â¬Â¦</b></p><p><b>But hey ho, hell no. There is crypto-hope on the horizon. And we invite you to embark on our mission to simplify and clarify our Ã¢â¬ËmysteriousÃ¢â¬â¢ product. To all. Including yourself, your friends, (grand)parents and that nerdy nephew who keeps pestering you with terms like FOMO, FUD and Satoshi. Take those shitcoins and run, kiddo!</b>ÃÂ </p><br><h1>Forecast: raining FOMO</h1><p>Do you ever trust the weatherman? Neither do we. But we do trust the unbeatable experts on our Cryptohopper team. And they predicted FOMO season is coming. Of course you may think this is a far-fetched prophecy. But weÃ¢â¬â¢ve been back-testing our gut feeling since the early days and we were rarely wrong. So. Buckle up. We prepare for storm.<br></p><br><h1>Android App Developer?</h1><p>Turn right if you want to develop an edge-of-your-seat app that creates an awesome experience for our traders. Prepare to snuggle up (currently not too closely) to our product teams, so you can build (and run, and love) the exact app our users need to trade on cryptocurrency markets. To succeed, you have to be versed in Kotlin and Java, and willing to get up close and personal with up-and-coming tooling. Including tech that you introduce to the stack. This is the perfect position if you combine Ã¢â¬ËhardcoreÃ¢â¬â¢ coding skills with a Ã¢â¬Ësecurity firstÃ¢â¬â¢ mindset and are excited to learn about crypto trading and blockchain technologies<br></p><br><h1>Hi, we're the stack.</h1><p>Kotlin and Java, JUnit, Truth,ÃÂ RESTful APIs, Git, Bitrise.</p><br><h1>You know you got this if.<br>
+</h1><ul>
+<li>You have 3+ years of experience as an Android Native app developer</li>
+<li><p>You dream about Kotlin, Java, Android's design principles and application interface guidelines</p></li>
+<li><p>Your lunch break experiments sometimes get out of hand. One time you accidentally developed an app that correlated caffeine intake with sock funkiness. And it worked<br></p></li>
+<li><p>You have knowledge of automation and testing methodologies used for automated testing (JUnit, Truth), familiar with RESTful API's, offline storage, threading and perfomance tuningÃÂ </p></li>
+<li><p>Proficient in code versioning tools such as Git and familiair withÃÂ push notifications, APIs, and cloud messaging</p></li>
+<li><p>Experience with continuous integration (CI) and continuous deployment (CD) solutions such as Bitrise</p></li>
+                </ul><br><h1>What we offer.</h1><p>A mission-driven culture with a great work/life balance and a good benefits package. Sure, we work hard to get sh*t done, but we also regularly push our moustache (sorry, itÃ¢â¬â¢s a silly joke for Dutch readers) for a VR gaming session, picnics in the park, indoor bouldering, drinks at the pub, live DJ sessions and whatever happens in our (wo)man cave - and probably best stays there. The setting aside, we also:</p><ul>
+<li>Pay you (pinky promise!): between EUR 55K and 75K per year [skill dependent]</li>
+<li>Allow you to work wherever, including 2 days at our Amsterdam HQ </li>
+<li>Send you on your merry way for 25 days each year, minimum (more is negotiable)</li>
+<li>Provide you with great gear; a high-end laptop and whatever else you need to succeed. Perhaps an AI-driven desk chair that *knows* when you want to lean back?</li>
+<li>Lifetime Cryptohopper subscription (if you donÃ¢â¬â¢t break our BFF vows)</li>
+<li>Shower you with extras, like trading benefits, a generous training budget, and (mom will be proud!) the opportunity to work in a domain that accelerates financial inclusion for the unbanked</li>
+<li>Pour you a stiff drink on Fridays, coffee that wonÃ¢â¬â¢t make you wish you chose tea, and lots of mind-blowing feedback on your work, hobbyÃ¢â¬â¢s, and pets. And we sincerely look forward to hearing whatÃ¢â¬â¢s on your mind, too.</li>
+</ul><br><p></p><h1>Ready to virtually meet our engineers?</h1><p>We donÃ¢â¬â¢t require (in fact, please donÃ¢â¬â¢t) a motivation letter; weÃ¢â¬â¢d rather have a good chat and tell you everything you want to know. About life, the universe, and everything! Mail your resume to hr@cryptohopper.com. More information? Call or WhatsApp Laura at +31614886381 (n/a for trading insights ;-)</p><br><br/><br/>Please mention the word **GENEROUS** and tag RMzQuMjI5LjY4LjIwNQ== when applying to show you read the job post completely (#RMzQuMjI5LjY4LjIwNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/8bb9e690853b59c0dc177a18fdcecc461667027715.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +50,7 @@
                     <code>ethereum,developer,web3,crypto,testing,test,code,travel,finance,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-smart-contract-ethereum-developer-gelato-140481" align="right" target="_blank">Apply</a>
@@ -45,7 +85,179 @@
 <li>Ethers.js / web3.js</li>
 <li>Buidler / Truffle</li>
 <li>React</li>
-</ul><br/><br/>Please mention the word **VIRTUOUS** and tag RMy4yMjcuMjUyLjI0Mg== when applying to show you read the job post completely (#RMy4yMjcuMjUyLjI0Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **VIRTUOUS** and tag RMzQuMjI5LjY4LjIwNQ== when applying to show you read the job post completely (#RMzQuMjI5LjY4LjIwNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9054/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Vidalytics</h5>
+                    <h3> Sr PHP Developer - High load, MySQL, GCP, Laminas 🚀</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/vidalytics-sr-php-developer-high-load-mysql-gcp-laminas" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/9054/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> USA
+    <br /><strong>URL:</strong> <a href="http://vidalytics.com/">http://vidalytics.com/</a>
+</p>
+
+<div>If you want to join a profitable, high-growth, bootstrapped MarTech SaaS, where you will be working on a large, complex project with an ongoing, full-time position, then this is THE job for you. </div><div><br></div><div>We’re <a href="https://vidalytics.com">Vidalytics.com</a>. A video marketing platform for entrepreneurs. We’re 5 years old 🎂 and growing 50-100% per year. </div><div><br></div><div>
+<strong><em>Your New Tech Team &amp; Stack </em></strong><strong>🚀</strong>
+</div><div><br></div><div>Our engineering team is entirely in Eastern Europe (from Poland to the Balkans to Ukraine). </div><div><br></div><div>
+<strong><em>The tech team you’d join includes: </em></strong><strong>👻😎</strong>
+</div><ul>
+<li>1 Head of Engineering (your fearless leader)</li>
+<li>2 Sr Backend Engineers</li>
+<li>1 Sr Frontend Engineer</li>
+<li>1 Mid Frontend Engineer</li>
+<li>1 QA Manager </li>
+<li>Product Manager </li>
+<li>DevOps outside agency </li>
+</ul><div><br></div><div><strong><em>Tech Stack: </em></strong></div><ul>
+<li>GCP Infrastructure (GKE)</li>
+<li>PHP is the dominant language </li>
+<li>30% Microservices / 70% Monolith</li>
+<li>Microservices in Slim PHP</li>
+<li>Monolith wrote in Laminas (Zend) with some Symfony Components </li>
+<li>Angular 9 web app</li>
+<li>Typescript &amp; VanillaJS player</li>
+<li>Some Golang, Node.js &amp; a tiny bit of Python in a few places </li>
+<li>BigTable, MySQL databases </li>
+</ul><div><br></div><div><strong><em>Work at Scale!</em></strong></div><div><br></div><div>Every single month Vidalytics is doing… </div><div><br></div><ul>
+<li>10s of millions of video plays</li>
+<li>1 billion requests to our data loggers </li>
+<li>Just under a petabyte in bandwidth transfer </li>
+</ul><div><br></div><div>
+<strong><em>Job Requirements </em></strong><strong>👊🏻</strong>
+</div><ul>
+<li>PHP 7/8 Expert </li>
+<li>Framework experience with Laminas (Zend) and/or Symfony</li>
+<li>Microservices</li>
+<li>APIs</li>
+<li>MySQL</li>
+<li>Unit testing</li>
+<li>Good English</li>
+<li>Strong attention to detail</li>
+<li>Team Player (no toxic egos) </li>
+</ul><div><br></div><div><strong>Nice to have (not required):</strong></div><ul>
+<li>Big Table / Big Query </li>
+<li>Google Cloud Platform </li>
+<li>Git - (We use GitHub and GitFlow like workflow)</li>
+<li>Scrum or KanBan</li>
+<li>Zend Expressive, Zend Apigility or SlimPHP</li>
+<li>Go, Node.JS or Python </li>
+</ul><div><br></div><div>
+<strong><em>What You’ll Be Doing (Job Tasks) </em></strong><strong>😃</strong>
+</div><div><br></div><ul>
+<li>Building cutting video marketing features for our entrepreneur users </li>
+<li>Extending and building new API’s</li>
+<li>Building and managing microservices</li>
+<li>Helping our support team with resolving bugs</li>
+<li>Having fun </li>
+</ul><div><br></div><div>
+<strong><em>What You’ll Love About Us (Benefits and Perks) </em></strong><strong>😉</strong>
+</div><ul>
+<li>
+<strong><br>Great company culture.</strong> You’re going to be part of a team, not a cog in a machine. </li>
+<li>
+<strong>We’re here to enable you.</strong> It’s your work and your career. Our management team is here to help you become who you want to be, not to micromanage you.</li>
+<li>
+<strong>We value your ideas</strong>. At Vidalytics, our doors are always open. Need help? Come on in. Have a vision for the future of the company? We’d love to hear it. </li>
+<li>
+<strong>Rest and relaxation</strong>. Employees enjoy a generous PTO package.</li>
+<li>
+<strong>Professional development</strong>. Want to continue your education? Vidalytics pays for classes, conferences, and more.</li>
+<li>
+<strong>You’re more than an employee</strong>, you’re a person. Every co-worker you’ll meet is committed to treating you with respect and kindness. You won’t hear stuff like, “It’s just business.”<br><br>
+</li>
+</ul><div><br></div><div><strong>Vidalytics’ Values </strong></div><div><strong>(Yes, We’re Actually Serious About These) 😇</strong></div><div><br></div><div>
+<strong>1 -</strong> <strong>Meritocracy</strong> – we’re building a Meritocracy, where the best ideas win -- not based on who has the bigger title. The following values underpin this. You should embody these traits. </div><div><br></div><div>
+<strong>2 -</strong> <strong>Direct &amp; honest communication (transparency)</strong> – to be successful we have to face the truth and be honest. And that starts with each other. That means we give direct feedback. We want it in exchange. So feel free to argue your points, just be ready to get on board with decisions once they are made. </div><div><br></div><div>
+<strong>3 -</strong> <strong>Ownership &amp; Accountability</strong> – the best people are the ones who OWN their position, tasks and even things that go beyond their ‘day-to-day responsibilities’. They never say, “that’s not my job.” Instead, they proactively spot problems and always try to think like the owner of the business. </div><div><br></div><div>
+<strong>4 - Intelligence and smarts</strong> – we prize smart people. Who doesn’t? But it's not just book smarts but “business smarts” where you’re able to solve problems. Think for yourself. And don't be intimidated by any problem, no matter how complex. (Aka growth mindset). </div><div><br></div><div>
+<strong>5 - Self-aware (personal growth)</strong> – we want people who can look at themselves objectively, admit their mistakes and be open to growth. When you bring this attitude to your profession, it becomes a place of personal development and self-actualization. </div><div><br></div><div>
+<strong>6 - Integrity</strong> – trust is the glue that holds us together. We need to be able to trust you whether it is regarding the quality of your hours, the deadlines you set for yourself or anything else. </div><div><br></div><div>
+<strong>7- Urgency </strong>– we’re a startup and you need to be able to meet deadlines. We need someone who pushes themselves when they need to and hits deadlines. And also knows how to prioritize the important things. </div><div><br></div><div>
+<strong>8 - Hardworking</strong> – we’re trying to get shit done on a budget. If you’re looking for an easy job, go elsewhere. Instead, this job will constantly have challenges and opportunities to learn and grow professionally. But we try to have fun while we’re doing it and consider each other friends. </div><div><br></div><div>
+<strong>9 - Data</strong> – whenever possible, we want to make decisions based on data, not emotions or opinions. </div><div><br></div><div>
+<strong>10 - No assholes</strong> – Doesn’t matter how good someone is at their job, if they are going to make life suck for other people on the team, then they aren’t welcomed at Vidalytics.</div><div><br></div><div><strong>To Apply: </strong></div><div>
+<br><br>
+</div><div>Please fill out your information here. It will come straight to us and we will be in touch right away! :) </div><div>
+<br><br>
+</div><div>Cheers,</div><div>👨🏻‍🦲</div><div>Patrick Stiles </div><div>Founder / CEO @ Vidalytics</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/vidalytics-sr-php-developer-high-load-mysql-gcp-laminas">https://weworkremotely.com/remote-jobs/vidalytics-sr-php-developer-high-load-mysql-gcp-laminas</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0079/8627/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Torc</h5>
+                    <h3> Back End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/torc-back-end-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0079/8627/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Boston
+    <br /><strong>URL:</strong> <a href="https://www.opentorc.com/">https://www.opentorc.com/</a>
+</p>
+
+<div>Backend engineers are responsible for working on our client's products and work hand in hand with product managers, designers and front end engineers to solve common goals. Backend engineers primarily work on building APIs and core modules / components to encapsulate reusable logic. They are responsible for optimising the system for speed and stability, implementing security structures and developing reusable code libraries and date structures.</div><div><strong><br>Responsibilities</strong></div><ul>
+<li>Meet with the software development team to define the scope of software projects</li>
+<li>Communicate with the front end team to accurately implement APIs</li>
+<li>Think not only of the current solution but how code may be reused</li>
+<li>Work hand in hand with security and network teams</li>
+<li>Design and implement scalable web services, applications, and APIs</li>
+<li>Identify bottlenecks and improving software efficiency</li>
+<li>Collaborate with the architecture team on developing microservices</li>
+<li>Write technical documents</li>
+<li>Able to follow standards set for a code base and maintain consistency</li>
+<li>Able to code unit test cases for all developed code</li>
+<li>Ensure application performance, uptime, and scale, maintaining high standards of code quality and thoughtful application design</li>
+</ul><div><strong><br>Requirements</strong></div><ul>
+<li>Previous experience as a backend engineer</li>
+<li>Attention to detail</li>
+<li>Capable of prioritising multiple project in order to meet goals without management oversight</li>
+<li>Understanding performance especially in relations to APIs and interacting with front end code</li>
+<li>We have multiple positions open for Back End Engineer. The tech stacks needed are <strong><em>Javascript,  Node.JS,  Data Modeling,  Git,  Communication, Python,  Ruby,  PHP,  Java,  Golang and C#.</em></strong><em> </em>
+</li>
+<li>You will be mapped to the right customer based on your skills</li>
+<li>Torc is here to make finding and applying for jobs simpler, faster, and easier. One way we do this is by grouping similar types of jobs into a single Job Role (for example,  Frontend Engineer,  Full Stack Engineer, DevOps engineer). By qualifying developers for a Job Role,  you can then apply to multiple jobs at once. </li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/torc-back-end-developer">https://weworkremotely.com/remote-jobs/torc-back-end-developer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -60,7 +272,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/debugbear-full-stack-javascript-developer" align="right" target="_blank">Apply</a>
@@ -109,7 +321,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazee-io-frontend-developer-80-100" align="right" target="_blank">Apply</a>
@@ -173,7 +385,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shotflow-ios-developer-1" align="right" target="_blank">Apply</a>
@@ -248,7 +460,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>94 days ago</text>
+                <text>95 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/switch-themes-front-end-developer-shopify" align="right" target="_blank">Apply</a>
@@ -295,6 +507,85 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/3489/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OpenCraft</h5>
+                    <h3> Senior Open Source Developer & DevOps (Python, Django, React, AWS/OpenStack)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>720 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0017/3489/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Fully remote company (worldwide, incorporated in Berlin)
+    <br /><strong>URL:</strong> <a href="https://opencraft.com/">https://opencraft.com/</a>
+</p>
+
+<div>Do you care about contributing to open-source, and appreciate a good challenge? We do too! :) <br><br>
+</div><div>
+<strong>Open-source<br></strong><br>
+</div><div>We are a team of veteran open-source developers, working on educational and community-based projects in an<a href="https://handbook.opencraft.com/en/latest/open_first/"> open-first</a> environment – and we are looking for new members. By joining us, you will work full-time on open-source, pushing your changes to free software projects upstream through pull requests, contributing features, documentation, or help on public forums. </div><div>
+<br>We care deeply about contributing our work upstream. You will see the results of your work reused and recognized across the educational community, increasing access to quality education for everyone, everywhere.</div><div>
+<br><strong>Remote-first</strong>
+</div><div>
+<br>Unlike companies who reluctantly started to accept remote workers recently, we have embraced it from day 1. For the past 7 years, we have based and refined our way of working around remote-friendly workflows, from the ground up. No day-long video meetings, mandatory work hours, or risk of being forced back into an office one day -- as long as you have a good internet connection, it’s none of our business when or where you work from. :)</div><div>
+<br>We are all working remotely, from all continents (except Antarctica, at least so far - applicants welcome!). We use remote-friendly and timezone-agnostic workflows based on asynchronous principles and good documentation practices.</div><div>
+<br><strong>Online education<br></strong><br>
+</div><div>We are one of the main contributors to the <a href="https://open.edx.org/">Open edX project</a>, the main open-source MOOC platform created by MIT, Harvard and many other top universities. It powers sites like <a href="https://www.edx.org/">edX.org</a>, the <a href="https://openlearning.mit.edu/courses-programs/open-learning-library">MIT Open Learning Library</a>, and the <a href="https://www.fun-mooc.fr/">national online learning platform for France</a>. We provide development and hosting for institutions like <a href="https://onlinelearning.hms.harvard.edu/hmx/">Harvard Medical School</a>, <a href="https://www.labxchange.org">Harvard LabXchange</a>, <a href="https://ondemand.cloudera.com">Cloudera</a>, <a href="https://www.upskill.autodesk.com">Autodesk</a>, and several governments. We are not affiliated with <a href="https://www.edx.org/">edX.org</a>, but we contribute and work with them on various projects. </div><div>
+<br><strong>Technical stack</strong><br><br>
+</div><div>The Open edX project is a large Python/Django codebase, with good code standards and architecture. Tasks are varied, from developing core platform features, custom exercises and tools for specific courses (XBlocks), customizing and deploying instances, working full-stack, operating our service infrastructure, improving our hosting platform, etc. You won't get bored here.<br><br>
+</div><div>
+<strong>Contracting terms<br></strong><br>
+</div><div>This is a full-time, permanent contract position. We aim for long-term relationships -- once in, almost all team members stay for many years. </div><div><br></div><div>We care about paying fairly: </div><ul>
+<li>Team members set their own compensation level, which is paid based on hours worked (no unpaid overtime!). </li>
+<li>When determining your rate, we will expect you to factor in benefits (vacation, healthcare, purchase budgets, etc.) - the idea is to let <em>you</em> pick the benefits that are useful to you, rather than offer one-size-fits-all packages that aren’t always very valuable.</li>
+<li>We also proactively apply generous raises team-wide, based on the company results at the end of each year. <a href="https://handbook.opencraft.com/en/latest/team_compensation/">See the details about how we approach compensation in our handbook</a>.</li>
+</ul><div>We also firmly believe in work-life balance: as long as you deliver what you commit to, there is a lot of latitude in how much work you can choose to accept. We are open to time commitments anywhere in the 30h to 40h/week range, and highly discourage working more than that. It’s important to have time to ourselves, as well as having some slack, and there are diminishing returns in working more anyway. We are currently recruiting precisely to preserve that balance, and ensure we have plenty of capacity to handle our projects.</div><div><br></div><div>We welcome applicants of all genders and ethnicities.</div><div>
+<br><strong>Basic Requirements:</strong>
+</div><ul>
+<li>Experience with contributing to free software projects - small contributions are completely fine, but you <em>must</em> have at least one patch or pull request merged in a third-party project, or been a maintainer of an open source project with significant adoption. (Note that you can contribute now to satisfy this requirement - see for example the <a href="https://github.com/openedx/build-test-release-wg/projects/1">Open edX release issues</a>, fixing one of these issues guarantees an interview.)</li>
+<li>Senior developer with 3+ years working with Python</li>
+<li>Experience with Python web frameworks, specifically Django</li>
+<li>3+ years of HTML, Javascript, and CSS (experience with React and/or Typescript is a big plus!)</li>
+<li>Experience with unit testing</li>
+<li>Comfortable working in a Linux environment, specifically Debian or Ubuntu</li>
+<li>Experience with databases: MySQL, MongoDB, PostgreSQL</li>
+</ul><div>
+<strong>Additional Skills:</strong><br><br>
+</div><div>You will work on tasks from the following categories, but you can pick up the skills on the job if you haven't mastered these yet:</div><ul>
+<li>DevOps experience, especially on Debian/Ubuntu servers, Terraform, Vault, Packer, Prometheus, ELK, Docker. We are building a modern infrastructure and having a strong DevOps presence on top of core software engineering skills is a big plus with us.</li>
+<li>Cloud computing, like AWS or OpenStack</li>
+<li>Configuration management tools such as Ansible, Consul</li>
+<li>RabbitMQ, Redis &amp; Elasticsearch</li>
+<li>Mobile development (iOS and/or Android)</li>
+<li>Managing clients &amp; projects from beginning to completion (senior developer)</li>
+<li>Public speaking at conferences (you would present a talk every year at the Open edX Con)</li>
+</ul><div>
+<br><strong>Apply for this Position</strong><br><br>
+</div><div>Our recruitment process differs from most other companies - we don’t believe resumes and the traditional interviews to be particularly effective. Often, they tell more about how good someone is at interviewing, rather than at the actual work. So, our initial interview is lighter and easier to pass than in other companies - but we then provide you with real (and paid!) work to see how it works out in reality.</div><ul>
+<li>Step 1: You apply by filling out this form: <a href="https://opencraft.com/jobs/open-source-developer/">https://opencraft.com/jobs/open-source-developer/</a> </li>
+<li>Step 2: We do two interviews with candidates matching the requirements listed above. The first interview includes a (simple) coding exercise.</li>
+<li>Step 3: If this works out, we hire you! We start with a 2 months <a href="https://handbook.opencraft.com/en/latest/processes/#recruitment">trial period</a>, which allows both you and the rest of the team to fully evaluate how we work together, and is followed by a final review and confirmation. </li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack">https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -305,7 +596,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -382,7 +673,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -449,7 +740,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -518,7 +809,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -543,7 +834,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/unreal-engine-developer-1344657" align="right" target="_blank">Apply</a>
@@ -568,7 +859,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-python-developer-1422554" align="right" target="_blank">Apply</a>
@@ -647,7 +938,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
