@@ -10,7 +10,7 @@
                     <code>cryptocurrency,frontend,defi,crypto,cryptocurrencies,back-end,software,testing,ui,web,travel,javascript,api,leader,engineer</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-cryptocurrency-blockchain-ciphertrace-140994" align="right" target="_blank">Apply</a>
@@ -38,67 +38,7 @@
 </ul><p></p><h4>Nice to Have</h4><p></p><p></p><ul>
 <li>Experience with data visualization libraries like <a href="http://d3.js/" class="postings-link" rel="noopener noreferrer nofollow">D3.js</a>.</li>
 <li>Strong communication skills (both spoken and written).</li>
-</ul><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **INGENIOUS** and tag RMy4yMjcuMjUyLjI0Mg== when applying to show you read the job post completely (#RMy4yMjcuMjUyLjI0Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8970/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MasteryPrep</h5>
-                    <h3> Frontend Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/masteryprep-frontend-software-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8970/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Baton Rouge, Louisiana, United States
-    <br /><strong>URL:</strong> <a href="http://www.masteryprep.com">http://www.masteryprep.com</a>
-</p>
-
-<p><strong>About the Opportunity</strong></p>
-<p>MasteryPrep is assembling an onshore development team to work exclusively on "greenfield" initiatives. We are looking for talented software engineers to help us level the playing field in education by building the most effective test preparation available, bar none. We believe that the best way to build this experience is by creating a diverse team of people from different backgrounds, races, religions, genders, sexual orientations, ages, and experiences. The team we are building must be aligned to our core values of:</p>
-<ul> <li> <strong>Go pro.</strong> Or go home. Get better than the best.</li> <li> <strong>Do right.</strong> Period.</li> <li> <strong>Make it happen.</strong> Excuses never built anything.</li> <li> <strong>Make it awesome.</strong> There is no equality without quality.</li> <li> <strong>Customers are forever.</strong> This company is for them.</li> </ul>
-<p><strong>Requirements</strong></p>
-<p><strong>About the Role</strong></p>
-<p>As a Frontend Software Engineer, you will be responsible for—but not limited to—implementation, testing, and partnering with our product, operations, and support teams. Building great products is a highly collaborative effort, so it's essential that you are a team player with solid communication skills.</p>
-<p><br></p>
-<p><strong>Success criteria:</strong></p>
-<ul> <li>You work collaboratively and respectfully with cross-functional teams to design cutting edge education products that change the world</li> <li>You propose innovative and creative ideas to solve tough engineering challenges that scale</li> <li>You raise the bar on quality, testing, and performance to ensure the product reliably performs</li> <li>You help identify and implement best practices and standards throughout the code and our processes</li> <li>You own quality issues and failures and work to actively resolve them with a sense of urgency</li> <li>You constantly strive to build an inclusive, supportive, and positive work environment</li> </ul>
-<p><strong>Our development environment:</strong></p>
-<ul> <li>React</li> <li>Typescript</li> <li>Mocha</li> <li>Cypress</li> <li>Storybook</li> <li>Material UI</li> <li>Lerna</li> <li>GraphQL</li> <li>Google App Engine</li> <li>Google Cloud Run</li> <li>Google Cloud Functions</li> <li>Google Compute Engine</li> <li>Google Firestore</li> <li>Google BigQuery</li> <li>Postgres</li> <li>GitLab</li> </ul>
-<p><strong>Integrated 3rd Party Solutions:</strong></p>
-<ul> <li>Mux</li> <li>DocRaptor</li> <li>Wistia</li> <li>Schoology</li> <li>Classlink</li> <li>Clever</li> <li>Google Analytics</li> <li>NewRelic</li> </ul>
-<p><strong>What you will be building</strong></p>
-<p>While support and maintenance for existing platforms may be required from time to time, this role will primarily focus on our "greenfield" initiatives. MasteryPrep is wholly committed to building cutting-edge technology solutions to level the playing field for education. These solutions will include innovative use of video streaming, 2D/3D interactions, and real-time collaborative systems at scale. Our platform has to scale to support interactions in hundreds of live classrooms with up to 250+ students in a single class. This is not a job for the faint of heart. However, if projects and challenges of this scale excite you, then you may be the right fit for the role.</p>
-<p>We look forward to hearing from you.</p>
-<p><strong>Benefits</strong></p>
-<ul> <li>100% Remote</li> <li>Flex work hours</li> <li>Full Medical, Dental and Vision with HSA eligibility</li> <li>401K with company contribution</li> <li>Salary $150K+</li> </ul>
-<p><strong>About MasteryPrep</strong></p>
-<p>Did you know that nearly 90% of low-income students graduate high school without a college-ready ACT or SAT score? We're here to change that.</p>
-<p>MasteryPrep's mission is to level the college admissions playing field by helping all students access the most effective ACT and SAT prep programs on the market. Unlike traditional prep, MasteryPrep works even for students who struggle with tests, and through our partnerships with school districts, is provided at no cost to students or their families.</p>
-<p>So far, over 1 million students have benefitted from our programs, and we're just getting started. We need your help!</p>
-<p>Join a diverse, high-energy, mission-driven team that is genuinely making an impact and strives to be on the cutting edge of making education technology work in the classroom.</p>
-<p>MasteryPrep is one of the fastest-growing ed-tech companies in the country:</p>
-<ul> <li>Inc. 5000 four years in a row</li> <li>Entrepreneur 360 Company</li> <li>Louisiana Growth Leader, 2020 and 2021</li> <li>Council for Opportunity in Education Preferred Provider of ACT &amp; SAT Prep</li> <li>#1 Provider of ACT Preparation (&gt;5% of all U.S. test-takers)</li> </ul>
-<p>Our diverse team consists of compassionate, intelligent, and highly energetic individuals. Remote team members are connected to the whole through appropriate touch-points, support, and partnerships.</p>
-<p>We invest in our team. Come grow with us!</p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/masteryprep-frontend-software-engineer">https://weworkremotely.com/remote-jobs/masteryprep-frontend-software-engineer</a></p>
-
+</ul><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **INGENIOUS** and tag RMzQuMjI5LjY4LjIwNQ== when applying to show you read the job post completely (#RMzQuMjI5LjY4LjIwNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -113,7 +53,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1" align="right" target="_blank">Apply</a>
@@ -187,6 +127,93 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>AgencyAnalytics</h5>
+                    <h3> Senior Frontend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>300 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-frontend-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Toronto, Canada
+    <br /><strong>URL:</strong> <a href="https://agencyanalytics.com">https://agencyanalytics.com</a>
+</p>
+
+<div>We’re seeking a Senior Frontend Engineer to work in one of our product-driven teams, focused on building features that help our customers grow their business.<br><br>We work efficiently and iteratively to ensure our products are modern, easy to use and ultimately make our users happy. More importantly, we're looking for people to build a team of collaborative, supportive and high-skilled engineers that take our user's experience to the next level. You'll work with React, JavaScript and TypeScript to create new features, iterate on existing features and build a cohesive experience to our users. You'll have the opportunity work on a wide range of projects including greenfield features, experimental UX/UI improvements, paying down technical debt, improving existing features and everything in between.<br><br>
+</div><div>
+<br><strong>What You'll Work With</strong><br><br>
+</div><ul>
+<li>Typescript &amp; JavaScript utilizing ES2020+ standards</li>
+<li>React ecosystem with Webpack, NPM and UI Router</li>
+<li>Frontend mono-repo service architecture</li>
+<li>Service-based API with query interface</li>
+<li>CSS Modules and an in-house tailored Component Library</li>
+<li>Non-blocking CI/CD tooling with on-demand staging for every PR</li>
+<li>Automated testing via Jest &amp; Cypress, formatting with EsLint &amp; Prettier</li>
+</ul><div>
+<br><strong>What You'll Do</strong><br><br>
+</div><ul>
+<li>Your time will be divided between new features, UI/UX improvements, repaying technical debt, and improving existing features</li>
+<li>You'll prioritize and work on multiple projects from start to finish, balancing quality, stability and project delivery</li>
+<li>You'll review your teammates' work, help set high standards, and look for ways to improve the overall quality of our codebase</li>
+<li>You'll work within your team to achieve technical excellence by taking a collaborative approach to architecture, technical patterns, and complex problems</li>
+<li>Work-life balance is a priority at AgencyAnalytics, so you'll have the flexibility to work the way that suits you best</li>
+</ul><div><br></div><div>
+<strong>Job requirements<br></strong><br>
+</div><ul>
+<li>You have 5+ years of professional experience in the modern JavaScript ecosystem</li>
+<li>You have professional experience working in a cross-functional team of 5+ members</li>
+<li>You have the ability to communicate effectively with other engineers, while building trust, credibility, and mutual success with your peers</li>
+<li>You have a strong understanding of the challenges of working in engineering and delivering products in a remote work environment</li>
+<li>You have the drive to stay current with technological changes and set a high standard for yourself</li>
+<li>You have a strong sense for UI quality and a good understanding of user behavior</li>
+<li>You proactively take on a challenge and help the team solve problems from start to finish</li>
+</ul><div>
+<br><strong>What we offer</strong><br><br>
+</div><ul>
+<li>Fully remote workplace</li>
+<li>Flexible working hours</li>
+<li>4 weeks paid vacation</li>
+<li>Unlimited paid sick days</li>
+<li>Quarterly profit sharing</li>
+<li>Parental &amp; Maternity leave top-ups</li>
+<li>Extended health benefits</li>
+<li>Health spend account</li>
+<li>Equipment credit</li>
+<li>Fitness/Education credit</li>
+<li>Internet reimbursement</li>
+<li>Training and certification reimbursement\</li>
+<li>Travel reimbursement for company events</li>
+</ul><div>
+<br><strong>Our Application Process</strong><br><br>
+</div><ul>
+<li>Complete a self-assessment (5 - 10 minutes) </li>
+<li>Non-technical introduction interview (15 - 30 minutes) </li>
+<li>Take-home engineering challenge </li>
+<li>Interview with the Hiring Committee (30 - 45 minutes) </li>
+<li>Offer extended to successful applicants</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-frontend-engineer">https://weworkremotely.com/remote-jobs/agencyanalytics-senior-frontend-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1421232/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -197,7 +224,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
