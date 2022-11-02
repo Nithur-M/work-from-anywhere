@@ -10,7 +10,7 @@
                     <code>ui,ux,web3,solidity,ethereum,software,test,golang</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-ux-ui-product-designer-obol-139796" align="right" target="_blank">Apply</a>
@@ -55,7 +55,7 @@ Looking for an artist who passionately cares about bringing simplicity to comple
 
 ð°ï¸ In order to scale efficiently, we focus our hiring on candidates able to work during the standard business hours of the following timezones: GMT-8 to GMT+3. 
 This does not mean that you have to be located in these timezones to get the job but must be able to work the bulk of your time during their standard business hours.
-<br/><br/>Please mention the word **DYNAMIC** and tag RMzQuMjI5LjY4LjIwNQ== when applying to show you read the job post completely (#RMzQuMjI5LjY4LjIwNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **DYNAMIC** and tag RMy4yMzYuNDYuMjQ= when applying to show you read the job post completely (#RMy4yMzYuNDYuMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -70,7 +70,7 @@ This does not mean that you have to be located in these timezones to get the job
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazee-io-ui-designer-80-100" align="right" target="_blank">Apply</a>
@@ -130,7 +130,7 @@ This does not mean that you have to be located in these timezones to get the job
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazee-io-ux-product-designer-80-100" align="right" target="_blank">Apply</a>
@@ -199,7 +199,7 @@ This does not mean that you have to be located in these timezones to get the job
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tryhackme-lead-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -312,7 +312,7 @@ This does not mean that you have to be located in these timezones to get the job
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>250 days ago</text>
+                <text>251 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -352,7 +352,7 @@ This does not mean that you have to be located in these timezones to get the job
 <li>Membership in a rich community of expert mentors from great companies like AirBnB, Uber, Google, and Pivotal</li>
 <li>Change the lives of students in our program</li>
 <li>Help us revolutionize online education!</li>
-<li>Receive a monthly per-student honorarium</li>
+<li>UI/UX career track mentors are paid an honorarium between $20.50-$37.50 per 30 minute call with students</li>
 <li>Work at your convenience</li>
 </ul><div>
 <em>We are an equal opportunity employer and value diversity at our company. We welcome applications from all backgrounds, and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br></em> </div><div><strong>California Privacy Rights Notice for Job Applicants</strong></div><div>Under the California Consumer Privacy Act (“CCPA”), Springboard is required to inform California residents who are job applicants about the categories of personal information we collect about you and the purposes for which we will use this information. This <a href="https://www.springboard.com/archeio/download/841f959e9c964e93a87abe993316cc1f/">notice</a> contains disclosures required by the CCPA and applies only to personal information that is subject to the CCPA.</div>
@@ -373,7 +373,7 @@ This does not mean that you have to be located in these timezones to get the job
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
