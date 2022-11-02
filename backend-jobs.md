@@ -10,7 +10,7 @@
                     <code>design,nft,security,software,test,code,typescript,node.js,api,analytics,reliability,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-infra-engineer-niftys-141487" align="right" target="_blank">Apply</a>
@@ -49,7 +49,7 @@
 <p><span style="font-weight:400;">Other things to note:Â </span></p>
 <p><span style="font-weight:400;">Niftyâs, Inc. strives to be a best-in-class and equal opportunity employer.â All qualified applicantsÂ  will receive consideration for employment without regard to race, religion, color, national origin,Â  gender, gender identity, sexual orientation, age, status as a protected veteran, among otherÂ  things, or status as a qualified individual with disability.Â </span></p>
 <p><span style="font-weight:400;">This job posting highlights the most critical responsibilities and requirements of the job. Other duties may be assigned as needed.</span></p>
-<p><span style="font-weight:400;">Nifty's, Inc. Privacy Policy can be found here: </span><a href="https://niftys.com/privacy-policy" rel="noopener noreferrer nofollow"><span style="font-weight:400;">https://niftys.com/privacy-policy</span></a></p><br/><br/>Please mention the word **THINNER** and tag RMzQuMjI5LjY4LjIwNQ== when applying to show you read the job post completely (#RMzQuMjI5LjY4LjIwNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><span style="font-weight:400;">Nifty's, Inc. Privacy Policy can be found here: </span><a href="https://niftys.com/privacy-policy" rel="noopener noreferrer nofollow"><span style="font-weight:400;">https://niftys.com/privacy-policy</span></a></p><br/><br/>Please mention the word **THINNER** and tag RMy4yMzYuNDYuMjQ= when applying to show you read the job post completely (#RMy4yMzYuNDYuMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -64,7 +64,7 @@
                     <code>manager,software,growth,web,finance,strategy,management,content,analytics,engineer,engineering,recruitment,consultant,cloud,senior,dev,analyst,lead,operations,sales,go,digital nomad,frontend,developer,design,reactjs,front-end,ceo,code,javascript,typescript,microsoft,leader,reliability,health,architect,system,security,administrator,marketing,director,voice,animation,legal,medical,training,git,api,mobile,junior,financial,banking,saas,education,branding,educational,ecommerce,healthcare,backend</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-care-team-experience-included-health-140162" align="right" target="_blank">Apply</a>
@@ -80,7 +80,125 @@ About Included Health
 Included Health is a new kind of healthcare company, delivering integrated virtual care and navigation. Weâre on a mission to raise the standard of healthcare for everyone. We break down barriers to provide high-quality care for every person in every community â no matter where they are in their health journey or what type of care they need, from acute to chronic, behavioral to physical. We offer our members care guidance, advocacy, and access to personalized virtual and in-person care for everyday and urgent care, primary care, behavioral health, and specialty care. Itâs all included. Learn more atÂ includedhealth.com. 
 
 -----
-Included Health is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics or any other basis forbidden under federal, state, or local law. Included Health considers all qualified applicants in accordance with the San Francisco Fair Chance Ordinance.<br/><br/>Please mention the word **CHARMINGLY** and tag RMzQuMjI5LjY4LjIwNQ== when applying to show you read the job post completely (#RMzQuMjI5LjY4LjIwNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+Included Health is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics or any other basis forbidden under federal, state, or local law. Included Health considers all qualified applicants in accordance with the San Francisco Fair Chance Ordinance.<br/><br/>Please mention the word **CHARMINGLY** and tag RMy4yMzYuNDYuMjQ= when applying to show you read the job post completely (#RMy4yMzYuNDYuMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9139/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Blueprint Test Prep</h5>
+                    <h3> Backend Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/blueprint-test-prep-backend-software-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/9139/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Manhattan Beach, CA
+    <br /><strong>URL:</strong> <a href="https://blueprintprep.com/">https://blueprintprep.com/</a>
+</p>
+
+<div>Blueprint Test Prep has an opportunity for a Backend Software Engineer to join our team! This role will also work on our Learning Management System and other platforms that drive our success. This position is fully remote, and we respect life-work balance.</div><div><br></div><div>Have flexibility, do meaningful work, impact society and work with a fun team!</div><div><br></div><div><strong>Who You Are</strong></div><ul>
+<li>3+ years of experience with C/C++/Golang (we use Golang) </li>
+<li>Strong experience in backend toolings and technologies, such as Swagger/OpenAPI, JSON, REST, CRUD, GraphQL.</li>
+<li>Experience with RDBMS such as MySQL, PostgreSQL, MSQL, etc.</li>
+<li>Experience with NoSQL such as DynamoDB, MongoDB, Redis, etc.</li>
+<li>Design distributed services including microservices, messaging design, and data design.</li>
+<li>Experience with AWS stack, including API Gateway, AWS Lambda, SNS, SQS, and DynamoDB (bonus for Google Cloud / Azure)</li>
+<li>Use of event-based system designs (not required).</li>
+<li>Experience with Jira, Agile, CI/CD, Git, Code Reviews</li>
+</ul><div><br></div><div><strong>What You’ll Do</strong></div><ul>
+<li>Design innovative solutions that push the boundaries of the EdTech space - We believe there is a universe of potential that technology can unlock in education. We want you to have that same vision, whether that's applying new technology to education or research into a new product.</li>
+<li>You love to build amazing technology - It's not enough you translate business solutions into code. You are proud of your craft and love to build great software.</li>
+<li>You enjoy collaborating and communicating with other engineers, and both product and design teams. In a remote-only working environment, this is even more crucial.</li>
+<li>Design matters - You care about the little things that make a great user experience and you’re willing to fight for it!</li>
+<li>You are great at decomposing complex problems - You are a great debugger and problem solver.</li>
+<li>Mentoring engineering best practices - You are open to sharing and mentoring others about technology.</li>
+<li>Remain calm - We know that software development is a stressful job. Our engineers are calm under pressure, analytical, logical, and a beacon of trust for everyone involved.<br><br>
+</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/blueprint-test-prep-backend-software-engineer">https://weworkremotely.com/remote-jobs/blueprint-test-prep-backend-software-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/9860/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Maharishi Foundation International</h5>
+                    <h3> Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0016/9860/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London (Remote)
+    <br /><strong>URL:</strong> <a href="https://www.maharishi.foundation/">https://www.maharishi.foundation/</a>
+</p>
+
+<div><strong>About Us</strong></div><div>
+<a href="https://www.maharishi.foundation/">Maharishi Foundation International </a>(MFI) is a US-registered non-profit that supports the development of new technologies and outreach opportunities for the worldwide Transcendental Meditation® (TM®) organisations. Over the past 60 years, more than 10 million people worldwide have learned the TM technique through personal instruction by tens of thousands of certified teachers. </div><div><br></div><div>MFI is a growing, fully remote team of nearly 50 people, located around the globe but mainly in North America and Europe. As an organisation we are committed to leveraging modern technology and progressive management practices to make the TM technique and its related programmes more available to people everywhere. </div><div><br></div><div>We favor a healthy and balanced work environment with opportunities for personal development.  </div><div><br></div><div><strong>Job Summary</strong></div><div>We are looking for a backend engineer with focus on AWS Infrastructure with a proven track record of developing backend services Serverless framework. As we are a small, but growing team you will be responsible for the maintenance and support of existing backend features as well as planning and scoping new feature additions and iterations.</div><div><br></div><div>You will be working closely with our product team (design, product and development) to launch a meditation and lifestyle application. Applicants should have a proven track record working on large scale, consumer facing products with experience creating modular service based solutions. Applicants should be comfortable working in a fast paced environment, where each individual has a lot of influence and responsibility to deliver, and key to this continuous integration is a reliable and scalable CI / CD process.  You will play an extremely vital role in the development and release of this application as well as maintaining and improving the CI tools we use moving forward. Since there is an existing global community waiting for this application, the app will have an immediate, engaged user base. </div><div><br></div><div>The AWS backend is built using a serverless approach using AppSync (GraphQL), DynamoDB, Cognito and Lambda. Local development and stack deployment is managed using the Serverless framework, and CI pipelines have been implemented using CircleCI and Bitrise. You will become responsible for all of the working elements of the system and the accounts associated with the architecture.</div><div><br></div><div><strong>About You</strong></div><div>You understand how the AWS suite of products is structured, and can show experience writing fully tested scalable code using relevant AWS products and services. You understand API architecture, and can take a data model and translate it into reusable and flexible components. You enjoy shipping clean, readable and reusable code. You are comfortable working on a distributed team spread across time zones and cultures. You are excited to use technology to have a positive impact in the world as a whole, and in an intimate way for each individual.</div><div><br></div><div><strong>Responsibilities</strong></div><ul>
+<li>Work with design team during their sprints to develop the platform </li>
+<li>Ensure the performance, quality, and responsiveness of the application</li>
+<li>Collaborate with the team and contribute to the definition of specifications for new features, and own the development of those features</li>
+<li>Develop a detailed understanding of deployment processes for AWS (cloudformation) Bitrise, CircleCI and the destination APIs from Google Play and App Store Connect.</li>
+<li>Proactively identify and correct bottlenecks, fix bugs and performance issues</li>
+<li>Maintain code quality, organization and automatization</li>
+<li>Develop a logging and monitoring strategy for all aspects of the infrastructure</li>
+<li>Understand the concepts of DevSecOps and the tools we should implement to ensure Security best practices are followed</li>
+<li>Ensure testing strategy is followed within the team - for unit and integration tests</li>
+</ul><div><br></div><div>
+<strong>Skills and Requirements</strong> </div><ul>
+<li>Proven experience in mobile app development </li>
+<li>Proven track record working within an AWS application environment</li>
+<li>An understanding of best practice DevOps process, and some experience writing CI pipelines and deployment scripts</li>
+<li>Familiarity with Application logging and debugging platforms (Sentry, New Relic, Splunk)</li>
+<li>Some knowledge of security testing tools and code quality assessment</li>
+<li>Experience with large scale testing in a production environment</li>
+<li>Familiarity with connecting mobile applications to back-end services through APIs</li>
+<li>Familiarly with the API standards including GraphQL and REST </li>
+<li>Experience with performance and memory tuning with standard tools</li>
+<li>Familiarity with cloud message APIs and push notifications</li>
+<li>Proficient with code versioning tools (Git)</li>
+<li>5 years of testing and deploying code in a large scale production environment</li>
+<li>Experience working in a global non-profit, working with a remote team or in a multinational organization preferred</li>
+<li>Fluency in English (written and verbal)</li>
+</ul><div> </div><div>Bonus points if you have </div><ul>
+<li>Experience with Node.js</li>
+<li>Experience with data architecture</li>
+<li>Experience with Netsuite or similar CRMs and lead nurturing would be a plus</li>
+<li>Experience with the Transcendental Meditation® organisation, meditation, or some form of healthy living</li>
+</ul><div><br></div><div>If you are passionate about this work but do not have all of the skills listed we are still interested in hearing from you! </div><div><br></div><div><strong>Pay and benefits</strong></div><div>Our pay levels are set according to a formula that combines above-median market rate data for the role (we pay 55th percentile of New York market rate for this role, based on <a href="https://www.payscale.com/">Payscale</a> data) adjusted for your local cost of living based on <a href="https://www.numbeo.com/cost-of-living/rankings_current.jsp">Numbeo</a> data.</div><div> </div><div>We take the issue of equitable pay very seriously, and we apply our pay formula to all workers who work 80% or more of full time hours with us.</div><div><br></div><div><strong>Diversity and inclusion</strong></div><div>We care about diversity - we strive to ensure all of our team feel included and can bring their whole selves to work but we also know that this work is never ‘done’ or complete, and that we can always improve.</div><div><br></div><div>Our team is fully remote, living and working across 20 countries across the world, and we’d love to hear how you can add to our special culture at MFI.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer">https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -95,7 +213,7 @@ Included Health is an Equal Opportunity Employer and considers applicants for em
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mindsdb-backend-engineer" align="right" target="_blank">Apply</a>
@@ -184,7 +302,7 @@ Included Health is an Equal Opportunity Employer and considers applicants for em
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
