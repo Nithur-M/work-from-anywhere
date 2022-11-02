@@ -1,5 +1,30 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/1620d57518591afb1c3f141652fe81321667286942.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Audius</h5>
+                    <h3>Software Engineer Smart Contracts</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,crypto,ethereum,system,music,code,web,engineer,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-smart-contracts-audius-141990" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b>Who are we? </b></div><div>
+<a href="https://audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius</a> is a digital streaming service that connects fans directly with artists and exclusive new music. </div><div><br></div><div>It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence. </div><div><br></div><div>Backed by an all-star team of <a href="https://www.crunchbase.com/organization/audius/company_financials#investors" class="postings-link" rel="noopener noreferrer nofollow">investors</a>, Audius was founded in 2018 and serves over 6 million users every month, making it the largest non-financial crypto application ever built.</div><div><br></div><div><b>Who we are looking for? </b></div><div>We are looking for passionate team-players who will help us architect, build, and ship the most difficult parts of the on-chain entities in the Audius protocol, chiefly in Solana (Rust), where you will bring in and craft new expertise on our team. Audius deploys smart contracts across Ethereum and Solana, and we're looking for proficient systems-programmers with a strong background in low-level languages (ideally Rust) to help us deliver the largest non-financial crypto project to date.</div><div><br></div><div>You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. Youâre eager to problem solve in a wide variety of spaces within the blockchain ecosystem (think scalability, governance, NFTs, social tokens, etc.). We solve a lot of problems that can't be easily Googled or searched on StackOverflow, and you have the fundamentals and drive to self-start and come to original solutions.</div><div><br></div><div><b>Our Company</b></div><div>Audius is a 26-person team of entrepreneurs, engineers, audiophiles, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have a monthly concert credit (COVID-19 permitting).</div><div><br></div><div>Our company is fully remote and our team is currently distributed across the United States. </div><p>Key Responsibilities</p><p></p><li>Write, test, and deploy Solana blockchain (Rust) programs</li><li>Write, test, and deploy Ethereum blockchain (Solidity) smart contracts</li><li>Work closely with other blockchain engineers on the team and own core pieces of contract code that powers the economics, data storage, and transactional logic across Audius</li><li>Participate deeply in design discussions around tokenomics, blockchain interoperability, blockchain scalability, and governance systems</li><p>Skills and Experience</p><p></p><li>Deep experience with systems programming, ideally in Rust</li><li>Experience developing and shipping blockchain smart contracts</li><li>3+ years of experience building in production environments</li><li>Solid conceptual understanding of full stack software development including system architecture, web serving infrastructure, and database design</li><li>Great interpersonal and communication skills, comfort working within a small team, and owning projects</li><p></p><br/><br/>Please mention the word **RIGHT** and tag RMy4yMzYuNDYuMjQ= when applying to show you read the job post completely (#RMy4yMzYuNDYuMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/5d5849fb126d160da0f8db9ea6796ad61667114135.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +35,7 @@
                     <code>web3,software,defi,crypto,cryptocurrency,react,front-end,ceo,code,web,javascript,c++,typescript,ads,senior,golang,engineer,engineering</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-wallet-web3-brave-140995" align="right" target="_blank">Apply</a>
@@ -62,7 +87,89 @@
 <h4><strong><br>Check us out</strong></h4>
 <p><a href="https://www.linkedin.com/company/brave-software/mycompany/" rel="noopener noreferrer nofollow"><span style="font-weight:400;">LinkedIn</span></a><span style="font-weight:400;"> | </span><a href="https://www.glassdoor.com/Overview/Working-at-Brave-EI_IE2159279.11,16.htm" rel="noopener noreferrer nofollow"><span style="font-weight:400;">Glassdoor</span></a><span style="font-weight:400;"> | </span><a href="https://brave.com/" rel="noopener noreferrer nofollow"><span style="font-weight:400;">brave.com</span></a></p>
 <p> </p>
-<p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/kLiLOkzLetE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **FAVORITED** and tag RMzQuMjI5LjY4LjIwNQ== when applying to show you read the job post completely (#RMzQuMjI5LjY4LjIwNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/kLiLOkzLetE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **FAVORITED** and tag RMy4yMzYuNDYuMjQ= when applying to show you read the job post completely (#RMy4yMzYuNDYuMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9182/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Narrative</h5>
+                    <h3> Web Software Engineer (Remote)</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/9182/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://narrative.io">https://narrative.io</a>
+</p>
+
+<h1>Web Software Engineer (Remote)</h1><div>
+<strong><br>What You Will Do<br></strong><br>
+</div><div>Here's what you will do in a nutshell:</div><ul>
+<li>Create new features for Narrative's Vuejs web application. Work with Product and Design teams to create the best user experience and create modular, maintainable components.</li>
+<li>Design, implement and maintain embedded applications on Narrative's Data Marketplace which enhance the ability of customers to manage and manipulate data.</li>
+<li>Help select technologies and define the strategic direction for our system architecture</li>
+<li>Work on Narrative's Tacklebox UI library, designing creating reusable components and modules for use in all of Narrative's web applications.</li>
+<li>Review and evaluate team members' code contributions, delivering transparent, honest and direct feedback to your peers.</li>
+</ul><div>While most of the work focuses on the frontend, this position is ideal for someone who would like to improve his/her backend and Functional Programming skills.<br><br>
+</div><div><strong><br>Technical Stack</strong></div><div>
+<br>In a nutshell, our technical stack looks like:</div><ul>
+<li>
+<strong>Frontend</strong>: Vuejs, Sass, Pug, and Functional JavaScript</li>
+<li>
+<strong>Backend</strong>: scala, AWS, spark, Iceberg, cats, cats-effect, http4s, and doobie</li>
+<li>
+<strong>Ops</strong>: EC2, Fargate, Lambda, Terraform, EMR, DynamoDB, S3, RDS, Step Functions, Jenkins, and Datadog</li>
+</ul><div><br></div><div>
+<strong>The Ideal Candidate<br></strong><br>
+</div><div>We are not looking for a 100% fit on all the technology buzzwords, but we are looking for someone with strong personal and technical skills who is eager to pick up new technologies as necessary. We are obviously going to expect much more from a senior candidate than we would from a junior one.<br><br>
+</div><div>The ideal candidate should:</div><ul>
+<li>Have extensive experience in one or more web frameworks (Vue, React, Angular etc.) and the ES6/JavaScript/HTML/CSS ecosystem.</li>
+<li>Have proven experience using Amazon Web Services to deploy and host web applications and databases.</li>
+<li>Be able to debug various aspects of web application code, such as cross-browser Javascript quirks.</li>
+<li>Thoroughly understand the HTTP lifecycle and how the browser interacts with web APIs.</li>
+<li>Enjoy building fast, user-friendly UIs.</li>
+<li>Not be afraid of contributing to the entire stack when the need arises, given that frontend doesn’t simply mean HTML/CSS. For instance, a feature might require<ul>
+<li>some metrics to be computed from a Spark Report</li>
+<li>creating a PostgreSQL migration script</li>
+<li>tweaking S3 permissions and terraform scripts for deployment</li>
+</ul>
+</li>
+<li>Have the ability to lead the creation of architectural and design documents, collect requirements as well as feedback from the development and product teams and evalute new technologies as needed.</li>
+<li>Drive success in a flat organization with minimal process, interfacing with technical and non-technical team members as necessary.</li>
+<li>Communicate potential technical issues to relevant teams and adapt to changing requirements.</li>
+<li>Be mindful of the compromises that need to be done to be reactive on the business side while keeping the systems manageable in the long run.</li>
+<li>Live/work within +/- 3 hours of EST</li>
+</ul><div>
+<strong><br>The Team (Remote US and Canada)<br></strong><br>
+</div><div>We are a small, early stage, remote-first team looking for great developers who want to jump in and take major systems and user-facing features from design to launch.<br><br>
+</div><div>
+<strong><br>Our Mission<br></strong><br>
+</div><div>We are building a data streaming marketplace that makes it easy to buy, sell, and win.<br><br>
+</div><div>We do this by creating tools that reduce the friction and increase transparency in the data buying process, creating a win-win relationship between buyers and sellers.</div><div>
+<br>You can learn more about Narrative by visiting https://www.narrative.io/<br><br>
+</div><div><strong>Apply Now</strong></div><div>
+<br>Apply by sending an email to <a href="mailto:hiring-dev@narrative.io">hiring-dev@narrative.io</a>.<br><br>
+</div><div>If you would like to have a chat to learn more about the company, our culture, or the team before formally applying, that's is fine too: just drop us a line at dev@narrative.io.<br><br>
+</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote">https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -77,7 +184,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/nathan-james-senior-software-engineer-2" align="right" target="_blank">Apply</a>
@@ -156,7 +263,7 @@
                     <code>data science,developer,kubernetes,machine learning</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineering-content-writer-1214006" align="right" target="_blank">Apply</a>
@@ -181,7 +288,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -243,7 +350,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
