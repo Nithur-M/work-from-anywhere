@@ -10,7 +10,7 @@
                     <code>cryptocurrency,frontend,defi,crypto,cryptocurrencies,back-end,software,testing,ui,web,travel,javascript,api,leader,engineer</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-cryptocurrency-blockchain-ciphertrace-140994" align="right" target="_blank">Apply</a>
@@ -38,90 +38,80 @@
 </ul><p></p><h4>Nice to Have</h4><p></p><p></p><ul>
 <li>Experience with data visualization libraries like <a href="http://d3.js/" class="postings-link" rel="noopener noreferrer nofollow">D3.js</a>.</li>
 <li>Strong communication skills (both spoken and written).</li>
-</ul><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **INGENIOUS** and tag RMzQuMjI5LjY4LjIwNQ== when applying to show you read the job post completely (#RMzQuMjI5LjY4LjIwNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **INGENIOUS** and tag RMy4yMzYuNDYuMjQ= when applying to show you read the job post completely (#RMy4yMzYuNDYuMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/9305/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9155/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>OCR Labs</h5>
-                    <h3> Front End Engineer - Full Time</h3>
+                    <h5>EventMobi</h5>
+                    <h3> Frontend Technical Team Lead - Remote</h3>
                 </td>
                 <td width="300">
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/9305/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0081/9155/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> London / Sydney / San Francisco
-    <br /><strong>URL:</strong> <a href="https://ocrlabs.com">https://ocrlabs.com</a>
+  <strong>Headquarters:</strong> 151 Yonge Street 11th Floor Toronto, Ontario  M5C 2W7
+    <br /><strong>URL:</strong> <a href="https://eventmobi.com">https://eventmobi.com</a>
 </p>
 
-<div> </div><div>
-<strong>Full time – Remote - London / UK Timezone<br></strong><br>
-</div><div>
-<br>Join a new team of passionate engineers and build a world-class platform to fight identity fraud at a global scale.  The technology is awesome, interesting and solves real world problems.</div><div> </div><div><br></div><div>
-<strong>The Position<br></strong><br>
-</div><div>We are looking to add engineers to our team with strong front-end programming experience. You should be well-versed in component-driven development with a working knowledge of HTML, JavaScript, and CSS.  The role would include:</div><div>
-<br>·        Building new product features for both our customers and our product teams</div><div>
-<br>·        Work closely with product managers, designers and backend engineers in order to create innovative and usable solutions</div><div>
-<br>·        Helping shape the technical direction - your choices will become the building blocks of our infrastructure<br><br>
-</div><div>
-<br><br>
-</div><div>
-<strong>Needed qualifications<br></strong><br>
-</div><div>
-<br>Whilst technical competence is critical, we place great emphasis on passion, communication, and collaboration across the business. <br><br>
-</div><div>
-<br>·        You have minimum 3 years of commercial front-end development experience with React, typescript and NodeJS.</div><div>
-<br>·        Minimum 3 years working with complex web applications.<br><br>
-</div><div>·        Proficient in JavaScript ES6, CSS3 and HTML5.</div><div>
-<br>·        Exposure to writing unit, integration and E2E tests</div><div>
-<br>·        Optimising code to effectively run across multiple devices and browsers</div><div>
-<br>·        Strong written and verbal skills</div><div>
-<br>·        You have an In-depth understanding of Javascript, the DOM, and relevant concepts</div><div>
-<br>·        Have a keen eye for UI details</div><div>
-<br>·        Understanding of progressive web apps</div><div>
-<br>·        Experience with webpack, docker, Git and CI/CD</div><div>
-<br>·        Experience in mobile and responsive development<br><br>
-</div><div>
-<br> </div><div><br></div><div>
-<strong>Nice to haves…<br></strong><br>
-</div><div>
-<br>·        Working on a SaaS product (B2B)<br><br>
-</div><div>
-<br>·        Typescript<br><br>
-</div><div>
-<br>·        Experience with RUST<br><br>
-</div><div>
-<br>·        Experience working in a Fintech company<br><br>
-</div><div>
-<br>·        AWS Lambda / Microservices architecture<br><br>
-</div><div>
-<br>·        Any AWS technologies<br><br>
-</div><div> <br><br>
-</div><div><strong>About us </strong></div><div>OCR Labs is an identity verification software company that has developed world leading digital identity verification technology. Our technology eliminates identity fraud and makes sure people are who they say they are.</div><div> </div><div>We’ve built everything from the ground up and have a broad range of top customers across banking, telecommunications, government and more. We are growing very fast and scaling internationally.</div><div> </div><div>The successful candidate can be based remotely but will report to the Product Owner in Sydney. The position is fulltime and remuneration is competitive, based on experience. You’ll need to have good written and spoken English. </div><div> </div><div>
-<br><br>
-</div><h1>Instructions on how to apply </h1><div>Send an email through to devjobs@ocrlabs.com with “I love developing” in the subject. Write a few lines about you and attach your resume.</div><div>
-<br> Add any link you think will help us assess your soft and hard skills. If you peak our interest, we’ll set up an interview and go from there.</div><div>
-<br> <br><br>
-</div><div>
-<br> <br><br>
-</div>
+<div><em>** EventMobi is a remote-first company and this is a remote job. You may reside anywhere in the world to do this job. However, you must be willing to work during Eastern Standard Time business hours. The salary range for this role is between 60k - 90k CAD per annum. This posting is open to all candidates globally.</em></div><div><br></div><div><br></div><div>WHY EVENTMOBI?</div><div><br></div><div>EventMobi is an award winning tech startup with offices in Toronto, Berlin and Manila and over 1500 clients across the globe.  We are on a mission to revolutionize how event planners create, market and manage their events. Millions of attendees around the world experience conferences and events with the help of EventMobi’s event tech platform including clients like Motorola, Ralph Lauren, Nestle, and Intel. </div><div><br></div><div>We’re looking for a Technical Lead to help us tackle challenging engineering problems in an evolving industry. Whether you want to build Progressive Web Apps, work with service &amp; web workers, architectures to manage data services, or manage memory usage &amp; latency of large scale Javascript applications, this is a role that requires you to think holistically about building the next generation of cross-platform mobile &amp; web apps. </div><div><br></div><div>Ideally, you care about good architecture &amp; design, quality, and scalability as part of your work. You enjoy leading and coaching individuals on your team and you're looking for a place where you can approach your problems creatively. You enjoy collaboration with an incredibly smart &amp; talented team and are able to bring your expertise to help shape our technical vision and determine how we will execute on it.</div><div><br></div><div>If this sounds like just the role you've been hoping for, please apply and tell us more about yourself!​</div><div><br></div><div><br></div><div>WHAT YOUR WORK WILL FOCUS ON</div><div><br></div><ul>
+<li>
+<strong>Mentorship</strong> - One of the most senior software developers on staff.  Provide technical mentorship and assistance to a team of 4-7 developers, and create opportunities for professional development.  </li>
+<li>
+<strong>Technical Strategy</strong> - Responsible for EventMobi’s overall software design, helping to align technology with business goals.  Lead research into new technology options, tools or patterns to discover opportunities to create new business value for EventMobi’s customers.  </li>
+<li>
+<strong>Architecture</strong> - Empower and guide technical leads in product and application level architecture choices. Ensure consistency in technology choices and enable experimentation with new tools and approaches where appropriate to drive new business value.  Lead resolution of architecture and technology choices and challenges that cut across all teams. </li>
+<li>
+<strong>Development Best Practices</strong> - Hands on keyboard to provide clarity and support tech leads in expanding standards and writing clean code.  Pair with team members to solve the hardest coding challenges.  Contribute to continuous improvement in our software development processes as we take initiatives from concept, feasibility, and design to implementation, testing, and release.  </li>
+<li>
+<strong>Performance &amp; Scale</strong> - Build measurement frameworks for performance, scalability, etc, including setting expected standards of performance against those metrics in consultation with product management and business stakeholders.  </li>
+</ul><div><br></div><div>
+<br>WHAT YOU WILL BRING TO THE TEAM </div><div><br></div><ul>
+<li>Experience growing high performing software development teams focused on outcomes versus just outputs.  </li>
+<li>Experience with long-term development, enhancement and maintenance of a SaaS application/platform. </li>
+<li>Skilled in guiding technology and architecture choices with a focus on delivering business value</li>
+<li>Interest in leading the evolution of an existing code base and architecture versus solely focusing on green field development.   </li>
+<li>Experience with Mobile and Web development (a true polyglot), ideally with proven skills working with React and Capacitor, Python, and RESTful APIs.</li>
+<li>Must have start-up experience; big company experience okay in combination, but not exclusively</li>
+<li>Excellent written and verbal communication</li>
+<li>Extensive knowledge about React and web development</li>
+<li>At least 2-3 years of experience managing a team (at least 2 reports, preferably a larger team or multiple teams) of React developers</li>
+<li>A passion for development and solving problems, and a desire to be actively involved in writing code</li>
+<li>Ideas about everything, the resolve to convey your point clearly, and the graciousness to listen to alternate ideas and choose the best option. You’re constantly thinking “how can we do this better?”</li>
+<li>Experience maintaining Jira and managing the lifecycle of tickets in a cross-team environment</li>
+<li>Data-driven decision making and experience guiding a team in selecting and achieving realistic-yet-challenging OKRs</li>
+<li>A passion for growing and supporting your team through 1:1 meetings, mentorship and coaching, and working on career progression plans</li>
+<li>Ability to think about the big-picture roadmap and technical vision of the product, and integrate those plans into near-term sprint planning and project architecture</li>
+<li>Confidence in running standups, sprint planning, backlog grooming, and retrospective meetings that align with the company roadmap while balancing maintenance and the needs of the team</li>
+<li>Eagerness to work with a team of strong, fun-loving developers that love to learn from and teach each other</li>
+<li>Knowledge of DevOps &amp; Infrastructure (AWS) is nice to have</li>
+</ul><div><br></div><div><br></div><div>WHAT WILL YOU GET FROM EVENTMOBI?</div><div><br></div><ul>
+<li>We offer the experience of a lifetime working with a dynamic, open-minded and diverse team, who are excited to come to work every day and passionate about what they do and the clients they help</li>
+<li>Competitive compensation</li>
+<li>Company Stock-Options</li>
+<li>A modern MacBook Pro to use for work</li>
+<li>A great culture with much more along the way</li>
+</ul><div><br></div><div><br></div><div>REMOTE WORKSPACE REQUIREMENTS: </div><div><br></div><ul>
+<li>You have a safe, comfortable, and ergonomic workspace and working environment - a private and quiet workspace is vital for doing your best work!</li>
+<li>You have a reliable internet connection capable of participating in video calls, with at least 30Mbps download speed</li>
+</ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1">https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote">https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote</a></p>
 
                 </details>
                 </td>
@@ -137,7 +127,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>300 days ago</text>
+                <text>301 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-frontend-engineer" align="right" target="_blank">Apply</a>
@@ -224,7 +214,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
