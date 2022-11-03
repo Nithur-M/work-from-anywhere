@@ -10,7 +10,7 @@
                     <code>cryptocurrency,frontend,defi,crypto,cryptocurrencies,back-end,software,testing,ui,web,travel,javascript,api,leader,engineer</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-cryptocurrency-blockchain-ciphertrace-140994" align="right" target="_blank">Apply</a>
@@ -38,7 +38,7 @@
 </ul><p></p><h4>Nice to Have</h4><p></p><p></p><ul>
 <li>Experience with data visualization libraries like <a href="http://d3.js/" class="postings-link" rel="noopener noreferrer nofollow">D3.js</a>.</li>
 <li>Strong communication skills (both spoken and written).</li>
-</ul><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **INGENIOUS** and tag RMy4yMzYuNDYuMjQ= when applying to show you read the job post completely (#RMy4yMzYuNDYuMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **INGENIOUS** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -53,7 +53,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote" align="right" target="_blank">Apply</a>
@@ -117,6 +117,90 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/9305/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OCR Labs</h5>
+                    <h3> Front End Engineer - Full Time</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>37 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0066/9305/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London / Sydney / San Francisco
+    <br /><strong>URL:</strong> <a href="https://ocrlabs.com">https://ocrlabs.com</a>
+</p>
+
+<div> </div><div>
+<strong>Full time – Remote - London / UK Timezone<br></strong><br>
+</div><div>
+<br>Join a new team of passionate engineers and build a world-class platform to fight identity fraud at a global scale.  The technology is awesome, interesting and solves real world problems.</div><div> </div><div><br></div><div>
+<strong>The Position<br></strong><br>
+</div><div>We are looking to add engineers to our team with strong front-end programming experience. You should be well-versed in component-driven development with a working knowledge of HTML, JavaScript, and CSS.  The role would include:</div><div>
+<br>·        Building new product features for both our customers and our product teams</div><div>
+<br>·        Work closely with product managers, designers and backend engineers in order to create innovative and usable solutions</div><div>
+<br>·        Helping shape the technical direction - your choices will become the building blocks of our infrastructure<br><br>
+</div><div>
+<br><br>
+</div><div>
+<strong>Needed qualifications<br></strong><br>
+</div><div>
+<br>Whilst technical competence is critical, we place great emphasis on passion, communication, and collaboration across the business. <br><br>
+</div><div>
+<br>·        You have minimum 3 years of commercial front-end development experience with React, typescript and NodeJS.</div><div>
+<br>·        Minimum 3 years working with complex web applications.<br><br>
+</div><div>·        Proficient in JavaScript ES6, CSS3 and HTML5.</div><div>
+<br>·        Exposure to writing unit, integration and E2E tests</div><div>
+<br>·        Optimising code to effectively run across multiple devices and browsers</div><div>
+<br>·        Strong written and verbal skills</div><div>
+<br>·        You have an In-depth understanding of Javascript, the DOM, and relevant concepts</div><div>
+<br>·        Have a keen eye for UI details</div><div>
+<br>·        Understanding of progressive web apps</div><div>
+<br>·        Experience with webpack, docker, Git and CI/CD</div><div>
+<br>·        Experience in mobile and responsive development<br><br>
+</div><div>
+<br> </div><div><br></div><div>
+<strong>Nice to haves…<br></strong><br>
+</div><div>
+<br>·        Working on a SaaS product (B2B)<br><br>
+</div><div>
+<br>·        Typescript<br><br>
+</div><div>
+<br>·        Experience with RUST<br><br>
+</div><div>
+<br>·        Experience working in a Fintech company<br><br>
+</div><div>
+<br>·        AWS Lambda / Microservices architecture<br><br>
+</div><div>
+<br>·        Any AWS technologies<br><br>
+</div><div> <br><br>
+</div><div><strong>About us </strong></div><div>OCR Labs is an identity verification software company that has developed world leading digital identity verification technology. Our technology eliminates identity fraud and makes sure people are who they say they are.</div><div> </div><div>We’ve built everything from the ground up and have a broad range of top customers across banking, telecommunications, government and more. We are growing very fast and scaling internationally.</div><div> </div><div>The successful candidate can be based remotely but will report to the Product Owner in Sydney. The position is fulltime and remuneration is competitive, based on experience. You’ll need to have good written and spoken English. </div><div> </div><div>
+<br><br>
+</div><h1>Instructions on how to apply </h1><div>Send an email through to devjobs@ocrlabs.com with “I love developing” in the subject. Write a few lines about you and attach your resume.</div><div>
+<br> Add any link you think will help us assess your soft and hard skills. If you peak our interest, we’ll set up an interview and go from there.</div><div>
+<br> <br><br>
+</div><div>
+<br> <br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1">https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -127,7 +211,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>301 days ago</text>
+                <text>302 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-frontend-engineer" align="right" target="_blank">Apply</a>
@@ -214,7 +298,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
