@@ -1,5 +1,121 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/06686bc300fdc1b00b0c3ea0ff1634011667373336.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Figure</h5>
+                    <h3>Staff Software Engineer Platform Shared Services</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,security,growth,financial,education,fintech,analytics,engineer,engineering,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-staff-software-engineer-platform-shared-services-figure-142505" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>About Figure</strong></p>
+<p><span style="font-weight:400;">Figure is transforming the trillion-dollar financial services industry using blockchain technology. </span></p>
+<p><span style="font-weight:400;">In three short years, Figure has unveiled a series of fintech firsts using the Provenance blockchain for loan origination, equity management, private fund services, banking, and payments sectors - bringing speed, efficiency, and savings to both consumers and institutions. Today, Figure is one of less than a thousand companies considered a unicorn, globally.</span></p>
+<p><span style="font-weight:400;">Our mission requires us to have a creative, team-oriented, and supportive environment where everyone can do their absolute best. The team is composed of driven, innovative, collaborative, and curious people who love architecting ground-breaking technologies. We value individuals who bring an entrepreneurial mindset to every task and will embrace our culture of innovation. </span></p>
+<p><span style="font-weight:400;">Every day at Figure is a journey in continuous learning yet with a daily focus on getting work done that makes a difference. Join a team of proven leaders who have already created billions of dollars in value in the FinTech space!</span></p>
+<p><a href="https://www.forbes.com/americas-best-startup-employers/#6535f31b6527" rel="noopener noreferrer nofollow"><span style="font-weight:400;">Forbes Americaâs Best Startup Employers</span></a></p>
+<p><a href="https://www.forbes.com/sites/michaeldelcastillo/2020/02/19/blockchain-50/?sh=60e7347c7553" rel="noopener noreferrer nofollow"><span style="font-weight:400;">Forbes Top 50 Blockchain Companies</span></a></p>
+<p><a href="https://www.businesswire.com/news/home/20210520005738/en/Figure-Raises-200-Million-Series-D-Co-Led-by-10T-Holdings-and-Morgan-Creek-Digital" rel="noopener noreferrer nofollow"><span style="font-weight:400;">Figure Series D Announcement</span></a></p>
+<p><strong>About the Role</strong></p>
+<p><span style="font-weight:400;">Figure is excited to be growing our businesses and creating new teams.  We are looking for curious, innovative, and collaborative team members.  Engineering is at the heart of the action, building out our blockchain protocol and direct-to-consumer products that will transform the financial services industry.  Everything is from scratch development and every engineer has a big impact on the team and the growth of the company. </span></p>
+<p><span style="font-weight:400;">As Figure scales, it is imperative that we level up our expertise in anti-fraud technology and detection. In this role as an anti-fraud engineering expert, you will collaborate with engineering and risk leadership to build technology and establish processes that stop fraudsters in their tracks.</span></p>
+<p><strong>What Youâll Do</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Provide thought leadership in the design of methods and anti-fraud technologies to bring data-driven insight to internal engineering and fraud analytics teams</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Research, design, implement and integrate technologies that analyze and identify fraudulent activities and transactions to ensure proper mitigation efforts</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Support fraud analytics data standards and offer recommendations for the tactical and strategic mission for Fraud Intelligence</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Research, build, integrate, monitor, and improve the accuracy of third-party fraud solutions based on defined models and analytics</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Design, implement and maintain backend microservice, internal tools, and customer-facing fraud prevention tools</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Be empowered to drive innovation for our Fraud & Abuse systems.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Be a leader, use your voice, and apply your tech skills to solve real-world problems</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with a diverse group of people, across Engineering, Data Science, Product, and Leadership, executing on big opportunities and driving Figure to the top of the FinTech industry</span></li>
+</ul>
+<p><strong>What We Look For</strong></p>
+<ul>
+<li style="font-weight:400;">
+<span style="font-weight:400;">Team player with a positive attitude that gets </span><em><span style="font-weight:400;">it</span></em><span style="font-weight:400;"> done</span>
+</li>
+<li style="font-weight:400;"><span style="font-weight:400;">BS/BA or greater in Computer Science, Statistics, or similar field</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">8+ years engineering/development experience in a fast-paced, agile environment</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience working with BI tools such as Tableau and PowerBI preferred (but not required)</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience working with Information Technology/Information Security personnel and understanding how software/hardware solutions can be applied to mitigate fraud</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Demonstrated self-starter with the ability to execute work with minimal supervision</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">A track record in conceptualizing and building end-to-end big data frameworks</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Ability to drive a project from concept to release</span></li>
+<li style="font-weight:400;">
+<span style="font-weight:400;">Familiarity with Iterative Software Development </span><strong>âIf itâs not in production we arenât iterating.â</strong>
+</li>
+</ul>
+<p><strong>Benefits and Perks</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Competitive salary and growth opportunities </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Company quarterly performance-based bonus</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Equity stock options package</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Employer funded comprehensive health, vision, dental insurance, and wellness program for employees and their dependents</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Employer funded life and disability insurance coverage</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Company HSA, FSA, Dependent Care, 401k, and commuter benefits</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Up to 12 weeks paid family leave </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">In-office, remote, and hybrid work location options</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Home office and technology stipend for those working outside of a traditional office more than 75% of the time</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Flexible time-off plan to empower employees to take the time off that they want and need</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Continuing education reimbursement</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Routine Team swag deliveries!</span></li>
+</ul>
+<p><span style="font-weight:400;">Depending on your residential location certain laws might regulate the way Figure manages applicant data. California Residents, please review our </span><a href="https://drive.google.com/file/d/1eDhTkvbpFETeAvGpsB8e6KzaXES4BWNB/view?usp=sharing" rel="noopener noreferrer nofollow"><span style="font-weight:400;">California Employee and Prospective Employee Privacy Notice</span></a><span style="font-weight:400;"> for further information. By submitting your application, you are agreeing and acknowledging that you have read and understood the above notice.</span></p>
+<p><span style="font-weight:400;">Figure is, unfortunately, unable to provide sponsorship for this position. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.</span></p>
+<p><span style="font-weight:400;">#LI-SB1</span></p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/WgGXwItJTPE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ELEVATE** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/ff70089fb264099f7f85cd74adfbc4001667321706.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Rewind</h5>
+                    <h3>Senior Staff Principal Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,macos,lead,senior,engineer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-staff-principal-software-engineer-rewind-142202" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                About Rewind ð
+At Rewind, our vision is to give humans perfect memory. We believe a world in which you can easily recall anything youâre looking for unlocks the potential of human productivity. Thatâs why we built Rewind: the search engine for your life. Itâs a macOS app that records anything youâve seen, said, or heard and makes it searchable. For your privacy, we store all of the recordings locally on your Mac and only you have access to them. Instead of spending hours searching in different tools for that piece of information you desperately need, you can now find what youâre looking for in seconds with Rewind.
+
+The product we have today is just the first step toward our audacious vision of giving humans perfect memory. We have raised over $15m from top-tier investors including Andreessen Horowitz, First Round Capital, Moxxie Ventures, Sam Altman, Elad Gil, and Alexis Ohanian to help make that vision a reality.
+
+Why Rewind ð
+Working at Rewind will be the most impactful job of your life. Our team is small and everyone plays a huge role. The work youâll do will have tremendous impact on not just our company, but how the world works: making forgetting a thing of the past. 
+
+With this audacious goal comes a lot of company growth. And as the company grows, so will you. We will support you in building a career that energizes and fulfills you: giving you opportunities so that you can do the best work of your career. But don't just take our word for it, look at our track record. Our founding team has previously built Optimizely: a $120M annual revenue recurring business with 450 employees which was voted the #1 Best Place to Work.
+
+Internally we aren't fixated on titles & levels since that can lead to needless hierarchy that distracts from the team's collective success. We recognize that not all companies operate that way so we say "Senior / Staff / Principal" to indicate we want people with substantial amounts of experience.
+
+If you're interested in this job, we strongly encourage you to apply: we'd love to see you on our team working toward our audacious vision of giving humans perfect memory.
+<br/><br/>Please mention the word **LAWFUL** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/1620d57518591afb1c3f141652fe81321667286942.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +126,7 @@
                     <code>software,design,crypto,ethereum,system,music,code,web,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-smart-contracts-audius-141990" align="right" target="_blank">Apply</a>
@@ -20,7 +136,7 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><b>Who are we? </b></div><div>
-<a href="https://audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius</a> is a digital streaming service that connects fans directly with artists and exclusive new music. </div><div><br></div><div>It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence. </div><div><br></div><div>Backed by an all-star team of <a href="https://www.crunchbase.com/organization/audius/company_financials#investors" class="postings-link" rel="noopener noreferrer nofollow">investors</a>, Audius was founded in 2018 and serves over 6 million users every month, making it the largest non-financial crypto application ever built.</div><div><br></div><div><b>Who we are looking for? </b></div><div>We are looking for passionate team-players who will help us architect, build, and ship the most difficult parts of the on-chain entities in the Audius protocol, chiefly in Solana (Rust), where you will bring in and craft new expertise on our team. Audius deploys smart contracts across Ethereum and Solana, and we're looking for proficient systems-programmers with a strong background in low-level languages (ideally Rust) to help us deliver the largest non-financial crypto project to date.</div><div><br></div><div>You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. Youâre eager to problem solve in a wide variety of spaces within the blockchain ecosystem (think scalability, governance, NFTs, social tokens, etc.). We solve a lot of problems that can't be easily Googled or searched on StackOverflow, and you have the fundamentals and drive to self-start and come to original solutions.</div><div><br></div><div><b>Our Company</b></div><div>Audius is a 26-person team of entrepreneurs, engineers, audiophiles, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have a monthly concert credit (COVID-19 permitting).</div><div><br></div><div>Our company is fully remote and our team is currently distributed across the United States. </div><p>Key Responsibilities</p><p></p><li>Write, test, and deploy Solana blockchain (Rust) programs</li><li>Write, test, and deploy Ethereum blockchain (Solidity) smart contracts</li><li>Work closely with other blockchain engineers on the team and own core pieces of contract code that powers the economics, data storage, and transactional logic across Audius</li><li>Participate deeply in design discussions around tokenomics, blockchain interoperability, blockchain scalability, and governance systems</li><p>Skills and Experience</p><p></p><li>Deep experience with systems programming, ideally in Rust</li><li>Experience developing and shipping blockchain smart contracts</li><li>3+ years of experience building in production environments</li><li>Solid conceptual understanding of full stack software development including system architecture, web serving infrastructure, and database design</li><li>Great interpersonal and communication skills, comfort working within a small team, and owning projects</li><p></p><br/><br/>Please mention the word **RIGHT** and tag RMy4yMzYuNDYuMjQ= when applying to show you read the job post completely (#RMy4yMzYuNDYuMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<a href="https://audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius</a> is a digital streaming service that connects fans directly with artists and exclusive new music. </div><div><br></div><div>It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence. </div><div><br></div><div>Backed by an all-star team of <a href="https://www.crunchbase.com/organization/audius/company_financials#investors" class="postings-link" rel="noopener noreferrer nofollow">investors</a>, Audius was founded in 2018 and serves over 6 million users every month, making it the largest non-financial crypto application ever built.</div><div><br></div><div><b>Who we are looking for? </b></div><div>We are looking for passionate team-players who will help us architect, build, and ship the most difficult parts of the on-chain entities in the Audius protocol, chiefly in Solana (Rust), where you will bring in and craft new expertise on our team. Audius deploys smart contracts across Ethereum and Solana, and we're looking for proficient systems-programmers with a strong background in low-level languages (ideally Rust) to help us deliver the largest non-financial crypto project to date.</div><div><br></div><div>You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. Youâre eager to problem solve in a wide variety of spaces within the blockchain ecosystem (think scalability, governance, NFTs, social tokens, etc.). We solve a lot of problems that can't be easily Googled or searched on StackOverflow, and you have the fundamentals and drive to self-start and come to original solutions.</div><div><br></div><div><b>Our Company</b></div><div>Audius is a 26-person team of entrepreneurs, engineers, audiophiles, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have a monthly concert credit (COVID-19 permitting).</div><div><br></div><div>Our company is fully remote and our team is currently distributed across the United States. </div><p>Key Responsibilities</p><p></p><li>Write, test, and deploy Solana blockchain (Rust) programs</li><li>Write, test, and deploy Ethereum blockchain (Solidity) smart contracts</li><li>Work closely with other blockchain engineers on the team and own core pieces of contract code that powers the economics, data storage, and transactional logic across Audius</li><li>Participate deeply in design discussions around tokenomics, blockchain interoperability, blockchain scalability, and governance systems</li><p>Skills and Experience</p><p></p><li>Deep experience with systems programming, ideally in Rust</li><li>Experience developing and shipping blockchain smart contracts</li><li>3+ years of experience building in production environments</li><li>Solid conceptual understanding of full stack software development including system architecture, web serving infrastructure, and database design</li><li>Great interpersonal and communication skills, comfort working within a small team, and owning projects</li><p></p><br/><br/>Please mention the word **RIGHT** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +151,7 @@
                     <code>web3,software,defi,crypto,cryptocurrency,react,front-end,ceo,code,web,javascript,c++,typescript,ads,senior,golang,engineer,engineering</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-wallet-web3-brave-140995" align="right" target="_blank">Apply</a>
@@ -87,7 +203,156 @@
 <h4><strong><br>Check us out</strong></h4>
 <p><a href="https://www.linkedin.com/company/brave-software/mycompany/" rel="noopener noreferrer nofollow"><span style="font-weight:400;">LinkedIn</span></a><span style="font-weight:400;"> | </span><a href="https://www.glassdoor.com/Overview/Working-at-Brave-EI_IE2159279.11,16.htm" rel="noopener noreferrer nofollow"><span style="font-weight:400;">Glassdoor</span></a><span style="font-weight:400;"> | </span><a href="https://brave.com/" rel="noopener noreferrer nofollow"><span style="font-weight:400;">brave.com</span></a></p>
 <p> </p>
-<p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/kLiLOkzLetE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **FAVORITED** and tag RMy4yMzYuNDYuMjQ= when applying to show you read the job post completely (#RMy4yMzYuNDYuMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/kLiLOkzLetE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **FAVORITED** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3712/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Tiller</h5>
+                    <h3> Senior Software Engineer (Ops Focus) at Tiller</h3>
+                </td>
+                <td width="300">
+                    <code>DevOps and Sysadmin</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/3712/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Seattle, WA, USA
+    <br /><strong>URL:</strong> <a href="http://tillerhq.com">http://tillerhq.com</a>
+</p>
+
+<div>We are looking for a senior software engineer with considerable operations engineering experience to accelerate our team’s adoption of best practices while contributing to product development as a key member of our cross-functional engineering team. Your perspective and track record of implementing modern, state-of-the-art site reliability engineering, CI/CD automation, and service architecture automation will be a force multiplier to our growing team of talented engineers. </div><div><br></div><div>You’ll take ownership of critical DevOps and Site Reliability Engineering projects and provide related mentorship, guidance, and domain expertise to your peers, delivering a reliable service  that will delight our customers now and as we continue to scale. You should have a deep understanding of distributed application service concepts, a propensity for figuring stuff out, and some additional depth in either back-end development, front-end development, or QA automation. You were born a problem solver and love finding efficient and durable ways to solve difficult problems.</div><div><br></div><div><strong>What You’ll Do</strong></div><ul>
+<li>Build secure solutions that honor the trust customers are placing in our service</li>
+<li>Lead the development of operations engineering practices, including collaborating across the organization on capacity planning, service level objectives, error budgets and incident response outcomes</li>
+<li>Collaborate with the rest of the team on a broad range of infrastructure and product development work</li>
+<li>Evangelize the benefits of modern SRE and DevOps practices across the organization</li>
+<li>Highlight and celebrate wins, as well as blamelessly assess failures from current and future attempts at implementing best practices such as CI/CD, observability, alerting and monitoring</li>
+<li>Tenaciously dive into complex infrastructure as well as application code, figure it out, and improve or update it</li>
+<li>Relentlessly share information, always leaving better code, practices, and documentation so it’s easier for others to understand your reasoning and follow your tracks</li>
+<li>Be curious - troubleshoot operational issues when a customer is experiencing a quirky condition or when you or your teammates notice something isn’t quite right</li>
+</ul><div>
+<br><br>
+</div><div><strong>Helpful For Success</strong></div><ul>
+<li>Significant experience as an SRE or DevOps practitioner - you have experience building, operating, and troubleshooting complex applications using cloud infrastructure</li>
+<li>Ideal candidates will have specific experience with Google Cloud Platform</li>
+<li>Some experience with a good cross-section of our tech stack, including Google Cloud Platform, GitHub, Node.js, MongoDB, TypeScript, React, Google Apps Script/Editor Add-ons APIs and ecosystem, and Microsoft Office Add-ins APIs and ecosystem</li>
+<li>Experience maintaining and refactoring legacy applications</li>
+</ul><div><br></div><div><strong>Why Tiller</strong></div><ul>
+<li>We’re small and growing, so you’ll have tremendous agency and outsized impact on our developing culture, the Tiller service, and the success of our customers</li>
+<li>You’ll be surrounded by awesome, supportive colleagues who know how to have fun together</li>
+<li>We’ve been fully remote from day one; work from anywhere</li>
+<li>You’ll have an opportunity to explore a broad range of development and operations tools, technologies, and practices; you won’t be siloed or pigeon-holed</li>
+<li>You’ll have ongoing and repeated opportunities to pull up a seat at a lot of tables and wear multiple ‘hats’, depending on where your interests and capabilities lie; we have growth needs well beyond software development, and you’ll be close to them all, including IT, security, ops, customer support, product management, marketing </li>
+<li>We’re pioneers in Open Banking, a world-wide security and privacy initiative that gives customers more control over what financial institution information they share, and with whom</li>
+<li>Our customers tend to stick around - we have one of the highest customer retention rates among consumer fintech services</li>
+<li>Our team also sticks around, and we have uniquely high retention</li>
+<li>You will be eligible for stock options and equity ownership</li>
+<li>We provide health care coverage</li>
+</ul><div><br></div><div><strong>Our Values</strong></div><div><br></div><div>
+<strong>How we work together: </strong>Tiller is intent on making this a great place to work for our entire team. A place where our team can do their best work, and an environment that supports their full lives, from kids to aging parents, from nieces and nephews and their larger community. </div><div><br></div><div>To do this, four values that guide our work are empowerment, trust, engagement, and optimism. </div><div><br></div><div>We <strong>empower</strong> each other to do our best work. We value good judgment over rules; proactive decisions over approvals. We take ownership in our own productivity, knowing we’re all critical in the success of Tiller. We communicate openly, follow-through, and ask questions. </div><div><br></div><div>We depend on <strong>trust</strong> rather than oversight as a team. We rely on each other to make decisions in the interest of Tiller and our customers. We demonstrate positive intent so that others may presume positive intent. </div><div><br></div><div>
+<strong>Engagement</strong> is the glue that holds us together. We know that communication across the wire is harder than in person, so we take risks in sharing more of ourselves with each other online. We enjoy a good laugh together. We also speak up and raise hard questions with each other. </div><div>
+<br>As a team, we’re also <strong>optimistic</strong>. Despite what sometimes feels like a crushing backlog, a long list of ways we can deliver value to our customers, and a keen awareness of our shortcomings, we keep our focus on a future that is bright.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller-1">https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Noxx</h5>
+                    <h3> Pseudonymous Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/noxx-pseudonymous-software-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="https://www.noxx.xyz/">https://www.noxx.xyz/</a>
+</p>
+
+<div>
+<br>we're hiring a software engineer at <a href="https://www.noxx.xyz/">noxx</a>.<br><br>
+</div><div>you will be joining our dev team and shaping noxx together to empower the pseudonymous future of work.<br><br>
+</div><ul>
+<li>identity: pseudonymous</li>
+<li>salary: global flat rate</li>
+<li>location: remote</li>
+<li>commitment: part-time (20+ hours/week) or full-time</li>
+<li>start: asap</li>
+</ul><div><strong><br>what is noxx?</strong></div><ul>
+<li>noxx is a payroll and compliance tool for pseudonymous talent.</li>
+<li>details in this <a href="https://twitter.com/kiyokb/status/1578085600497782784">tweet</a> &amp; <a href="https://mirror.xyz/tomo.eth/UtI783tK2pcXBVzXkpMj1WAKK19UQf_iOntcU1ZVDIE">blog post</a>.</li>
+</ul><div><br></div><div><strong>how would you work**?**</strong></div><ul>
+<li>you would use a pseudonym.</li>
+<li>you could use an avatar and voice-changer for meetings.</li>
+<li>you would not show us your real identity.</li>
+</ul><div><strong><br>who are we looking for?</strong></div><ul>
+<li>requirements<ul>
+<li>passionate about web3 and <a href="https://www.youtube.com/watch?v=urtXRg9Nl3k">pseudonymous economy</a>.</li>
+<li>5+ years’ experience in web development</li>
+<li>familiar with several of our backend tech stacks (Checkout “our tech stack” section)</li>
+<li>have a strong interest in developing dApp or any relevant web3 application using smart contracts (Ethereum or other EVM compatible blockchains)<br><br>
+</li>
+</ul>
+</li>
+<li>nice to have<ul>
+<li>experience with Serverless architecture using AWS products such as Lambda Function, DynamoDB, AppSync, Cognito</li>
+<li>experience with web3 development tools (Ether.js, foundry-rs)</li>
+<li>experience in working for small teams or startups</li>
+<li>experience with full-stack development</li>
+</ul>
+</li>
+</ul><div><br></div><div><strong>position details?</strong></div><ul>
+<li>you would be involved in a full-stack web3 application development <ul>
+<li>serverless architecture</li>
+<li>interacting with the Polygon network</li>
+</ul>
+</li>
+<li>you would lead projects to implement functionalities that we are planning to release.</li>
+<li>the full-time position will start on a trial basis with a 1-month contractor agreement.</li>
+</ul><div><br></div><div><strong>what is our tech stack?</strong></div><ul>
+<li>frontend <ul><li>React, Next.js, TypeScript, Tailwind CSS, Ethers.js</li></ul>
+</li>
+<li>web3 <ul><li>Solidity(foundry-rs), IPFS, circom(zkp)</li></ul>
+</li>
+<li>backend <ul><li>Serverless on AWS CDK, Lambda(Node.js/Rust), GraphQL(AppSync), Auth0, OpenIDConnect</li></ul>
+</li>
+</ul><div><br></div><div><strong>how to apply</strong></div><ul><li>please don’t send us your cv, LinkedIn, GitHub with your real name.</li></ul><div><br></div><div>don't doxx yourself for work.</div><div>
+<br>thanks,<br><br>
+</div><div>
+<a href="https://twitter.com/kiyokb">kiyo</a> &amp; <a href="https://twitter.com/tomoima525">tomo<br></a><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/noxx-pseudonymous-software-engineer">https://weworkremotely.com/remote-jobs/noxx-pseudonymous-software-engineer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -102,7 +367,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote" align="right" target="_blank">Apply</a>
@@ -184,7 +449,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/nathan-james-senior-software-engineer-2" align="right" target="_blank">Apply</a>
@@ -263,7 +528,7 @@
                     <code>data science,developer,kubernetes,machine learning</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineering-content-writer-1214006" align="right" target="_blank">Apply</a>
@@ -288,7 +553,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -350,7 +615,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
