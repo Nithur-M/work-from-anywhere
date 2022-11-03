@@ -10,7 +10,7 @@
                     <code>design,nft,security,software,test,code,typescript,node.js,api,analytics,reliability,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-infra-engineer-niftys-141487" align="right" target="_blank">Apply</a>
@@ -49,90 +49,7 @@
 <p><span style="font-weight:400;">Other things to note:Â </span></p>
 <p><span style="font-weight:400;">Niftyâs, Inc. strives to be a best-in-class and equal opportunity employer.â All qualified applicantsÂ  will receive consideration for employment without regard to race, religion, color, national origin,Â  gender, gender identity, sexual orientation, age, status as a protected veteran, among otherÂ  things, or status as a qualified individual with disability.Â </span></p>
 <p><span style="font-weight:400;">This job posting highlights the most critical responsibilities and requirements of the job. Other duties may be assigned as needed.</span></p>
-<p><span style="font-weight:400;">Nifty's, Inc. Privacy Policy can be found here: </span><a href="https://niftys.com/privacy-policy" rel="noopener noreferrer nofollow"><span style="font-weight:400;">https://niftys.com/privacy-policy</span></a></p><br/><br/>Please mention the word **THINNER** and tag RMy4yMzYuNDYuMjQ= when applying to show you read the job post completely (#RMy4yMzYuNDYuMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/bf67eb47a598f60a2907323751290bda1666974678.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Included Health</h5>
-                    <h3>ââStaff Backend Engineer Care Team Experience</h3>
-                </td>
-                <td width="300">
-                    <code>manager,software,growth,web,finance,strategy,management,content,analytics,engineer,engineering,recruitment,consultant,cloud,senior,dev,analyst,lead,operations,sales,go,digital nomad,frontend,developer,design,reactjs,front-end,ceo,code,javascript,typescript,microsoft,leader,reliability,health,architect,system,security,administrator,marketing,director,voice,animation,legal,medical,training,git,api,mobile,junior,financial,banking,saas,education,branding,educational,ecommerce,healthcare,backend</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-staff-backend-engineer-care-team-experience-included-health-140162" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                We work to make Included Healthâs care team more effective, more efficient, and better able to serve the needs of our members. We build new features, improve existing processes, and invest in under-the-hood changes to make our systems more reliable, maintainable, and scalable.Â We are looking for a skilled staff engineer who love to deliver amazing products to users, collaborate across teams and with product + design, and take strong ownership of their impact.
-
-About Included Health
-
-Included Health is a new kind of healthcare company, delivering integrated virtual care and navigation. Weâre on a mission to raise the standard of healthcare for everyone. We break down barriers to provide high-quality care for every person in every community â no matter where they are in their health journey or what type of care they need, from acute to chronic, behavioral to physical. We offer our members care guidance, advocacy, and access to personalized virtual and in-person care for everyday and urgent care, primary care, behavioral health, and specialty care. Itâs all included. Learn more atÂ includedhealth.com. 
-
------
-Included Health is an Equal Opportunity Employer and considers applicants for employment without regard to race, color, religion, sex, orientation, national origin, age, disability, genetics or any other basis forbidden under federal, state, or local law. Included Health considers all qualified applicants in accordance with the San Francisco Fair Chance Ordinance.<br/><br/>Please mention the word **CHARMINGLY** and tag RMy4yMzYuNDYuMjQ= when applying to show you read the job post completely (#RMy4yMzYuNDYuMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9139/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Blueprint Test Prep</h5>
-                    <h3> Backend Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/blueprint-test-prep-backend-software-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/9139/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Manhattan Beach, CA
-    <br /><strong>URL:</strong> <a href="https://blueprintprep.com/">https://blueprintprep.com/</a>
-</p>
-
-<div>Blueprint Test Prep has an opportunity for a Backend Software Engineer to join our team! This role will also work on our Learning Management System and other platforms that drive our success. This position is fully remote, and we respect life-work balance.</div><div><br></div><div>Have flexibility, do meaningful work, impact society and work with a fun team!</div><div><br></div><div><strong>Who You Are</strong></div><ul>
-<li>3+ years of experience with C/C++/Golang (we use Golang) </li>
-<li>Strong experience in backend toolings and technologies, such as Swagger/OpenAPI, JSON, REST, CRUD, GraphQL.</li>
-<li>Experience with RDBMS such as MySQL, PostgreSQL, MSQL, etc.</li>
-<li>Experience with NoSQL such as DynamoDB, MongoDB, Redis, etc.</li>
-<li>Design distributed services including microservices, messaging design, and data design.</li>
-<li>Experience with AWS stack, including API Gateway, AWS Lambda, SNS, SQS, and DynamoDB (bonus for Google Cloud / Azure)</li>
-<li>Use of event-based system designs (not required).</li>
-<li>Experience with Jira, Agile, CI/CD, Git, Code Reviews</li>
-</ul><div><br></div><div><strong>What You’ll Do</strong></div><ul>
-<li>Design innovative solutions that push the boundaries of the EdTech space - We believe there is a universe of potential that technology can unlock in education. We want you to have that same vision, whether that's applying new technology to education or research into a new product.</li>
-<li>You love to build amazing technology - It's not enough you translate business solutions into code. You are proud of your craft and love to build great software.</li>
-<li>You enjoy collaborating and communicating with other engineers, and both product and design teams. In a remote-only working environment, this is even more crucial.</li>
-<li>Design matters - You care about the little things that make a great user experience and you’re willing to fight for it!</li>
-<li>You are great at decomposing complex problems - You are a great debugger and problem solver.</li>
-<li>Mentoring engineering best practices - You are open to sharing and mentoring others about technology.</li>
-<li>Remain calm - We know that software development is a stressful job. Our engineers are calm under pressure, analytical, logical, and a beacon of trust for everyone involved.<br><br>
-</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/blueprint-test-prep-backend-software-engineer">https://weworkremotely.com/remote-jobs/blueprint-test-prep-backend-software-engineer</a></p>
-
+<p><span style="font-weight:400;">Nifty's, Inc. Privacy Policy can be found here: </span><a href="https://niftys.com/privacy-policy" rel="noopener noreferrer nofollow"><span style="font-weight:400;">https://niftys.com/privacy-policy</span></a></p><br/><br/>Please mention the word **THINNER** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -147,7 +64,7 @@ Included Health is an Equal Opportunity Employer and considers applicants for em
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer" align="right" target="_blank">Apply</a>
@@ -213,7 +130,7 @@ Included Health is an Equal Opportunity Employer and considers applicants for em
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mindsdb-backend-engineer" align="right" target="_blank">Apply</a>
@@ -302,7 +219,7 @@ Included Health is an Equal Opportunity Employer and considers applicants for em
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
