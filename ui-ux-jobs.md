@@ -1,125 +1,5 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/a0be9a1f1e3ce5fd580d9ecbf3b999ac1666911604.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Obol</h5>
-                    <h3>UX UI Product Designer</h3>
-                </td>
-                <td width="300">
-                    <code>ui,ux,web3,solidity,ethereum,software,test,golang</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-ux-ui-product-designer-obol-139796" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Who Are We?
-
-Obol Labs is a remote-first research and software development team focused on Proof of Stake infrastructure for public blockchain networks. Specific topics of focus are Internet Bonds, Distributed Validator Technology, and Multi-Operator Validation. The core team includes 14 members spread across 8 countries.
-
-The core team is building the Obol Network, a protocol to foster trust-minimized staking through multi-operator validation. This will enable low-trust access to Ethereum staking yield, which can be used as a core building block in various Web3 products.
-
-The Network
-
-The network can be best visualized as a work layer that sits directly on top of the base layer consensus. This work layer is designed to provide the base layer with more resiliency and decentralization as it scales. In this chapter of Ethereum, we will move on to the next great scaling challenge, which is stake centralization. Layers like Obol are critical to the long-term viability and resiliency of public networks, especially networks like Ethereum.
-
-Obol as a layer is focused on scaling main chain staking by providing permissionless access to Distributed Validators. The network utilizes a middleware implementation of Distributed Validator Technology (DVT), to enable the operation of distributed validator clusters that can preserve validators' current client and remote signing configurations.
-
-Similar to how roll-up technology laid the foundation for L2 scaling implementations, we believe DVT will do the same for scaling the consensus layer while preserving decentralization. Staking infrastructure is entering its protocol phase of evolution, which must include trust-minimized staking networks that can be plugged into at scale. We believe DVT will evolve into a widely used primitive and will ensure the security, resiliency, and decentralization of public networks.
-
-The Obol Network develops and maintains four core public goods that will eventually work together through circular economics:
-
-The DV Launchpad, a User Interface for bootstrapping and managing Distributed Validators
-
-Charon, a middleware Golang client that enables validators to run in a fault-tolerant, distributed manner
-
-Obol Managers, a set of solidity libraries for the formation of Distributed Validators tailored to different use cases such as DeFi, Liquid Staking, and Fractionalized DepositsÂ 
-
-Obol Testnets, a set of ongoing public incentivized testnets that enable any sized operator to test their deployment before serving for the Ethereum Main net
-
-Sustainable Public Goods
-
-Obol is inspired by previous work on Ethereum public goods and experimenting with circular economics. We believe that to unlock innovation in staking use cases, a credibly neutral layer must exist for innovation to flow and evolve vertically. Without this layer, highly available uptime will continue to be a moat.
-
-The Obol Network will become an open, community-governed, self-sustaining project over the coming months and years. Together we will incentivize, build, and maintain distributed validator technology that makes public networks a more secure and resilient foundation to build on top of.
-
-UI / UX Product Designer
-
-Looking for an artist who passionately cares about bringing simplicity to complex user flows! The role will take ownership of our user facing products, including the Distributed Validator Launchpad (Pre-release in development)
-
-ð°ï¸ In order to scale efficiently, we focus our hiring on candidates able to work during the standard business hours of the following timezones: GMT-8 to GMT+3. 
-This does not mean that you have to be located in these timezones to get the job but must be able to work the bulk of your time during their standard business hours.
-<br/><br/>Please mention the word **DYNAMIC** and tag RMy4yMzYuNDYuMjQ= when applying to show you read the job post completely (#RMy4yMzYuNDYuMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8798/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>amazee.io</h5>
-                    <h3> UI Designer - (80% - 100%)</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/amazee-io-ui-designer-80-100" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8798/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Zurich, Switzerland 
-    <br /><strong>URL:</strong> <a href="https://amazee.io">https://amazee.io</a>
-</p>
-
-<div>
-<strong>UI Designer - Remote (80% - 100%)<br><br>Description:</strong><br><br>Hi! We're <a href="http://amazee.io/">amazee.io</a>, a ZeroOps application delivery hub for engineering teams to deploy applications more easily. Our developer-centric, open source platform makes developers’ lives and jobs easier, minimizing the stress of managing infrastructure or operations. amazee.io supports organizations across the globe to accelerate their cloud and container adoption, along with providing easily managed Kubernetes for developer teams. We run anywhere in the world, with 24/7/365 dedicated support. </div><div><br></div><div>We’re looking for a UI Designer to work together with a UX Designer on our ZeroOps delivery platform, Lagoon. We are growing a design and development team around Lagoon, to drive it into becoming a world leading platform for application deployments, for both technical and non technical users. You’ll be key in transforming Lagoon from a developer focused tool, to a market ready, intuitively designed platform, by implementing design and interaction changes, turning the work of the UX designer into engaging UI, before working with the Front End Developer on final implementation. We’ve got some exciting new directions to take our interfaces and integrations, and in delivering a more complete experience for all our users. </div><div><br></div><div>If you feel like this could be the role for you, then come and join a team of open source enthusiasts, committed to providing flexible web solutions in an open and transparent work environment, and having fun doing it.</div><div><br></div><div><strong>What you’ll be doing: </strong></div><ul>
-<li>Creating, improving and implementing wireframes, prototypes and style guides to create a unique but consistent experience using our tools </li>
-<li>Developing a design system and set of components to guide the future development of the UI</li>
-<li>Working closely with developers to develop the look and feel of our products, and ensure a high level of quality and usability</li>
-<li>Advocating and further shaping a culture of design at amazee.io to help define the interactions users at all levels have with our products and tools</li>
-<li>Producing branding guidelines and design specifications for other members of the team (or community) to follow</li>
-</ul><div><br></div><div><strong>What you’ll bring:</strong></div><ul>
-<li>Experience designing technical products</li>
-<li>Previous track record of digital interface design for web/admin interfaces</li>
-<li>Experience working with design programs (Inkscape, Illustrator and Sketch) and prototyping tools (Invision, Figma etc)</li>
-<li>Comfort communicating design and technical topics in English, both verbal and written</li>
-<li>An eye for aesthetic design and customer appeal<br><br>
-</li>
-</ul><div>amazee.io is dedicated to providing a work environment of trust, transparency, and inclusion for everyone. As a fully remote company we offer flexibility when it comes to working hours and location. Here’s some other things you can expect from us.</div><div><br></div><div><strong>What we’ll bring:</strong></div><ul>
-<li>A fully distributed team of creative colleagues in a flat, open and transparent organization</li>
-<li>Flexible working hours, and time off in lieu when you work overhours</li>
-<li>Fully Remote working </li>
-<li>5 paid days off a year for conference attendance or education related commitments </li>
-<li>An annual education benefit of $1,500 or equivalent to dedicate to your professional development</li>
-<li>An annual wellbeing benefit of $500 or equivalent to dedicate to your physical or mental health </li>
-<li>A monthly connectivity benefit of $100 or equivalent for you to expense internet costs as a remote worker </li>
-<li>Your own annual tech budget, with full initial setup provided</li>
-<li>Sweet, sweet Swag - Hoodies and other goodies </li>
-<li>
-<strong>amazee.io Quest!</strong> - After 3 years, you’ll get 3 weeks paid off work to undertake a profound personal goal, or undertake a bucket list type challenge</li>
-</ul><div><br></div><div><strong>So what’s next?: </strong></div><div><br></div><div>Apply! Send us your CV showcasing who you are, your experience, and anything else you think we should know! </div><div><br></div><div>The amazee.io Team.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/amazee-io-ui-designer-80-100">https://weworkremotely.com/remote-jobs/amazee-io-ui-designer-80-100</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8797/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -130,7 +10,7 @@ This does not mean that you have to be located in these timezones to get the job
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazee-io-ux-product-designer-80-100" align="right" target="_blank">Apply</a>
@@ -199,7 +79,7 @@ This does not mean that you have to be located in these timezones to get the job
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tryhackme-lead-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -312,7 +192,7 @@ This does not mean that you have to be located in these timezones to get the job
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>251 days ago</text>
+                <text>252 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -373,7 +253,7 @@ This does not mean that you have to be located in these timezones to get the job
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
