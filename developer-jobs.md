@@ -1,5 +1,112 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/8521fcf384e4c4ab3f3d2bc5225e51c31667373321.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Keyrock</h5>
+                    <h3>Algorithm Developer with Rust</h3>
+                </td>
+                <td width="300">
+                    <code>developer,crypto,cryptocurrency,system,teaching,training,software,growth,web,financial,investment,fintech,management,go,recruitment,linux,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-algorithm-developer-with-rust-keyrock-142500" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Keyrock is expanding!</strong></p><p> </p><p style="line-height:1.38;text-align:justify;background-color:#ffffff;margin-top:12pt;margin-bottom:0pt;padding:0pt 0pt 12pt 0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Keyrock was founded in 2017 and has quickly grown from 3 to over 60 people today, half of which work remotely around the globe. As an industry recognized liquidity provider and market maker, Keyrock is a leading European creator of algorithmic trading technology in the digital asset space. With VC backing and a constantly expanding global client base, Keyrock is one of Belgiumâs fastest-growing fintech companies.</span></p><p style="line-height:1.38;text-align:justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 12pt 0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Weâre currently active on over 80 exchanges and count numerous marketplaces and asset issuers among our clients, including some of the best-known companies in the crypto space.</span></p><p style="line-height:1.38;text-align:justify;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Keyrock's beating heart is its technical team filled with software engineers, digital scientists and PhDs, who themselves are supported by university professors, industry-leading experts and a strong management team. Over the years Keyrock has become a company that is both idealistic and practical.</span></p><p style="line-height:1.38;text-align:justify;background-color:#ffffff;margin-top:0pt;margin-bottom:12pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Important: It is worth to understand we are not a blockchain company per se and as such, blockchain development experience is not significant nor sought after by us. Our software is blockchain agnostic and it could be deployed on any type of assets, not limited to blockchain-based assets. We do however welcome blockchain engineers, especially those passionate about trading, as it generally indicated passion for the industry which we value. </span></p><p style="line-height:1.38;text-align:justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 12pt 0pt;"><span style="font-size:10.5pt;font-family:Roboto , sans-serif;color:#000000;background-color:#ffffff;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">NB We are open for exquisite developers, experienced in other languages (C++, Java, Go or similar) and passionate about low-latency, low-level trading systems who have just recently started their journey with Rust and need to master it. We provide training and materials and space to learn. For these profiles we will initially offer slightly decreased package to compensate for our investment in teaching and will increase it to regular level after 3-6 months from joining (guaranteed by contract) when proficiency in Rust and full productivity is reached. </span><br><br></p><p style="line-height:1.38;text-align:justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 12pt 0pt;"><strong>We are looking for</strong></p><p style="line-height:1.38;text-align:justify;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;padding:0pt 0pt 12pt 0pt;"><br>An experienced Rust developer to support the growth of our infrastructure, which is based on an exciting and constantly evolving technology stack. You will be working in collaboration with our engineers, data scientists, and architects to develop new features, integrate new liquidity sources and structure financial systems. As an important member of the algorithm team, your mission would be to develop new features and trading algorithms, integrate thirty party APIs and propose improvements to our current infrastructure. <span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">An ideal candidate has experience in developing low-latency trading systems, is passionate about algo trading and crypto and is a low-level system thinker.</span></p><p><br></p><p><strong>NB We are open for exquisite algorithm developers who have just recently started their journey with Rust. We provide training and materials and space to learn. For these profiles we will initially offer slightly decreased package to compensate for our investment in teaching and will increase it to regular level after 3-6 months from joining (guaranteed by contract) when proficiency in Rust and full productivity is reached. </strong></p><p> </p><p><strong>What you will be doing</strong></p><p> </p><ul>
+<li><p>Supporting the implementation of trading algorithms</p></li>
+<li><p>Setup and deployment of algorithms</p></li>
+<li><p>Integrating the APIs of cryptocurrency exchanges, banks and brokers to the Keyrock infrastructure</p></li>
+<li><p>Implement financial logic on multiple Keyrock microservices</p></li>
+<li><p>System monitoring<br><br></p></li>
+</ul><p><strong>Skills and experience:</strong></p><p><strong> </strong></p><ul>
+<li><p>Team player</p></li>
+<li><p>Know your way around Linux CLI</p></li>
+<li><p>Rust</p></li>
+<li><p>Node.js</p></li>
+<li><p>C++</p></li>
+<li><p>MongoDB</p></li>
+<li><p>Redis</p></li>
+<li><p>Docker</p></li>
+<li><p>Deep understanding of the full web technology stack (e.g. HTTP, cookies, asset loading, caching, REST, websockets, gRPC, etc)  </p></li>
+<li><p>Basic understanding of the financial market, order books, and trading</p></li>
+<li><p>At least 5 years of coding experience</p></li>
+</ul><p> </p><p><strong>That little extra</strong></p><p> </p><ul>
+<li><p>Interest in Blockchain/DLT and digital assets</p></li>
+<li><p>Background or interest in financial/capital markets</p></li>
+<li><p>Stream-based processing</p></li>
+<li><p>Kubernetes</p></li>
+<li><p>Proactive challenger and proposer</p></li>
+<li><p>Statistical analysis and/or ML</p></li>
+</ul><p> </p><p><strong>Our recruitment philosophy</strong></p><p><br>We believe the most important aspect of our recruitment process is self-awareness: we are looking for people who have a clear understanding of themselves and what they are looking for in their professional career. That means that we expect to work with people who not only have the right skills, but who have also made the conscious decision to look for a company in our industry and with our characteristics.<br><br></p><p> </p><p><strong>Our offer</strong></p><p><br></p><ul>
+<li><p>A competitive salary package, including 25 days paid vacation per year plus national holidays</p></li>
+<li><p>Complete autonomy in your time management thanks to flexible working hours and the opportunity to work remotely </p></li>
+<li><p>The freedom to create your own entrepreneurial experience by being part of a team of people in search of excellence who all receive stock options from the first year</p></li>
+<li><p>A ton of fun in a thriving and multicultural environment, with colleagues enjoying regular team building activities</p></li>
+</ul><p><br></p><p><br></p><p>Keyrock offers you both a career and a large range of benefits that we will gladly discuss in the course of the application process.</p><p><br></p><p>As an employer we are committed to build an inclusive, diverse and non-discriminating work environment. We welcome employees of all backgrounds, ethnicities, genders, creed and sexual orientation. We hire, reward and promote entirely based on merit and performance.</p><br/><br/>Please mention the word **OUTSTANDINGLY** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/ccfb915aa04860d5425eb4866f7802221667373320.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Soramitsu</h5>
+                    <h3>Rust Developer SE Asia</h3>
+                </td>
+                <td width="300">
+                    <code>developer,software,code,devops,c++,senior,junior,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-rust-developer-se-asia-soramitsu-142499" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><em>As a Senior Rust Dev at SORAMITSU, you'll be working on some of our most exciting projects,</em> including:<br><strong>IROHA 2</strong> -- a ground-up rebuild of the enterprise permissioned blockchain tech we use in most of our work, and<br><strong>Polkaswap</strong> -- the eagerly anticipated AMM DEX (decentralized exchange) we're releasing into the Polkadot ecosystem.<br><br></p><p><strong>This is a unique opportunity, as you won't just be working with blockchain technology, you'll be building critical new digital-asset and value-exchange infrastructure with a team of industry pros.</strong></p><p><strong>Responsibilities include:</strong></p><ul>
+<li>Design, implement and support software production.</li>
+<li>Write tests that guarantee high quality of functional and non-functional characteristics of produced code.</li>
+<li>Perform code review for other developers.</li>
+<li>Take part in making architectural decisions.</li>
+<li>Transfer your knowledge to other team members and mentor junior developers.</li>
+<li>Interview people that will perform the development of the blockchain systems.</li>
+<li>Select and integrate frameworks and libraries which will be the part of software systems (and prove your selections)</li>
+<li>As a senior developer, you should understand the business goals of the system, plan your work upfront, provide correct estimations to each task and be able to foresee possible problems to eliminate them before they appear.</li>
+</ul><p><strong>The ideal candidate has:</strong></p><ul>
+<li>3-6 years of experience.</li>
+<li>Strong proficiency in Rust, with a fair knowledge of the language specification.</li>
+<li>Thorough knowledge of the standard library, and algorithms.</li>
+<li>Knowledge of networking protocols, p2p and distributed systems.</li>
+<li>Understanding cryptography algorithms, blockchain concepts.</li>
+<li>Understanding of blockchain consensus algorithms work.</li>
+<li>Knowledge of one or more blockchain protocols: Hyperledger Iroha, Ethereum, Hyperledger Fabric, Quorum, MultiChain, R3 Corda, Polkadot, Cosmos or other.</li>
+<li>Knowledge in C++ language is a plus.</li>
+<li>Understanding of basics in DevOps engineering.</li>
+<li>Knowledge of principles and practices in Agile development.</li>
+<li>Proficient understanding of code versioning and git-flow.</li>
+</ul><p><strong>Soft skills:</strong></p><ul>
+<li>Impeccable communication, presentation and organizational skills.</li>
+<li>Significant attention to details.</li>
+<li>Maintain a positive attitude while giving and receiving constructive criticism</li>
+<li>Use feedback to make improvements and take appropriate corrective actions.</li>
+<li>High degree of honesty and ethics.</li>
+<li>Be open to changes and to considerable variety in the workplace.</li>
+<li>Willingness to take on responsibilities and challenges.</li>
+</ul><br/><br/>Please mention the word **USEFUL** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/58c9d54be7409aec3c3c88095f53e5b01667200535.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +117,7 @@
                     <code>developer,design,crypto,cryptocurrency,training,gaming,testing,code,financial,cloud,git,android,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-android-native-developer-cryptohopper-141488" align="right" target="_blank">Apply</a>
@@ -35,7 +142,7 @@
 <li>Lifetime Cryptohopper subscription (if you donÃ¢â¬â¢t break our BFF vows)</li>
 <li>Shower you with extras, like trading benefits, a generous training budget, and (mom will be proud!) the opportunity to work in a domain that accelerates financial inclusion for the unbanked</li>
 <li>Pour you a stiff drink on Fridays, coffee that wonÃ¢â¬â¢t make you wish you chose tea, and lots of mind-blowing feedback on your work, hobbyÃ¢â¬â¢s, and pets. And we sincerely look forward to hearing whatÃ¢â¬â¢s on your mind, too.</li>
-</ul><br><p></p><h1>Ready to virtually meet our engineers?</h1><p>We donÃ¢â¬â¢t require (in fact, please donÃ¢â¬â¢t) a motivation letter; weÃ¢â¬â¢d rather have a good chat and tell you everything you want to know. About life, the universe, and everything! Mail your resume to hr@cryptohopper.com. More information? Call or WhatsApp Laura at +31614886381 (n/a for trading insights ;-)</p><br><br/><br/>Please mention the word **GENEROUS** and tag RMy4yMzYuNDYuMjQ= when applying to show you read the job post completely (#RMy4yMzYuNDYuMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br><p></p><h1>Ready to virtually meet our engineers?</h1><p>We donÃ¢â¬â¢t require (in fact, please donÃ¢â¬â¢t) a motivation letter; weÃ¢â¬â¢d rather have a good chat and tell you everything you want to know. About life, the universe, and everything! Mail your resume to hr@cryptohopper.com. More information? Call or WhatsApp Laura at +31614886381 (n/a for trading insights ;-)</p><br><br/><br/>Please mention the word **GENEROUS** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -50,7 +157,7 @@
                     <code>ethereum,developer,web3,crypto,testing,test,code,travel,finance,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-smart-contract-ethereum-developer-gelato-140481" align="right" target="_blank">Apply</a>
@@ -85,7 +192,159 @@
 <li>Ethers.js / web3.js</li>
 <li>Buidler / Truffle</li>
 <li>React</li>
-</ul><br/><br/>Please mention the word **VIRTUOUS** and tag RMy4yMzYuNDYuMjQ= when applying to show you read the job post completely (#RMy4yMzYuNDYuMjQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **VIRTUOUS** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9257/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Dagabase</h5>
+                    <h3> Senior Distributed System Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/dagabase-senior-distributed-system-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/9257/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://dagabase.com">https://dagabase.com</a>
+</p>
+
+<h4><strong>About Dagabase</strong></h4><p>Dagabase is a decentralized Cloud data storage solution that keeps things simple.</p><p>And by simple, we mean: secure, stable, and cost-effective. By removing the complexity and drama from what should have always been guaranteed simplicity, we make room for magic. </p><p>Dagabase is comprised of a strong, ever-growing network of independent devices. The solution is decentralized, which means that you are not dependent on third-party controls or vulnerable to third-party outages. Decentralized data storage is not concentrated in the hands of only one player. It is, instead, a system of devices and nodes owned - and “rented out” - by enterprises or even individuals. While Dagabase provides the solution and the network, the availability of your data is guaranteed by multiple independent participants within the network, and control lies with you.</p><p>If you are energized by the chance to play a key role in tackling decentralization challenges and unlocking new opportunities for Dagabase, to help us help millions of organizations reclaim their data and own their cloud.</p><p><br><strong>About the position</strong></p><p>We are looking for a WebAssembly Developer to help us shape the future of the cloud.</p><p>You will be part of a team focused on creating our main platform experience with web3 technologies. This position is perfect for someone enthusiastic about web3 products and who wants to work on initiatives with major impact and cutting-edge technologies.</p><p>We are looking for an exceptional developer to lead by example, participate in task-oriented development, roadmap planning, and prepare the necessary foundational work to ensure our platform is successful.</p><p>You will work in a senior team to ensure that changes proposed for our web application are suitable both for the customer and the long-term health of our product and Dagabase itself. In addition, you will monitor the impact of deployed changes to ensure we maintain the high standards we expect from ourselves and our product.</p><p><br><strong>About you</strong></p><p>You have a passion for Web3 technologies and an enthusiasm for web application development and decentralization.  You are motivated and able to learn as needed to complete any task you take on. You have a background in WebAssembly with a working knowledge of modern frameworks.  In addition, you have at least 7+ years of experience working in the field of software development with both front-end and back-end languages, such as JavaScript, C, TypeScript, Node.JS, and particularly Rust. </p><p>You enjoy building data-intensive and computation-based applications and want to push the boundaries of what cloud computing applications can do. If that sounds like you, we invite you on a journey mixed with challenges, fun, and gratification. As a result, you will be an integral part of changing the decentralized web landscape as the world knows it.</p><p><br><strong>Requirements</strong></p><ul>
+<li><p>Proficiency in Rust and Wasm</p></li>
+<li><p>Ability to extend Wasm for distributed cloud computing</p></li>
+<li><p>Working knowledge of C, JavaScript, TypeScript, and Node.JS</p></li>
+<li><p>Understanding of Web RTC and progressive web apps</p></li>
+<li><p>Experience with Vite, Docker, Git, and CI/CD</p></li>
+<li><p>Experience in mobile and responsive development</p></li>
+</ul><p></p><p><strong>Culture Fit</strong></p><ul>
+<li><p>Agile: able to move quickly and be adaptable to hit bold and daring goals.</p></li>
+<li><p>Intellectually Curious: energized by variety and change and always looking for ways to introduce new approaches that challenge the status quo</p></li>
+<li><p>Analytical: comfortable turning numbers into knowledge and action.</p></li>
+<li><p>Proactive: bias for action and independent thinking in ambiguous environments</p></li>
+<li><p>Humble: ready to learn from others and yourself; eager for professional and personal growth</p></li>
+<li><p>Empathetic: a human who engages deeply with other humans.</p></li>
+<li><p>Courageous: willing to fight for your beliefs and champion new approaches, especially when it is hard and risky to do so</p></li>
+</ul><p></p><p><strong>Benefits</strong></p><ul>
+<li><p>Remote Work</p></li>
+<li><p>Paid Time Off</p></li>
+<li><p>Training and learning reimbursement</p></li>
+<li><p>Parental Leave</p></li>
+<li><p>Equity Opportunities</p></li>
+<li><p>Cobra Reimbursement</p></li>
+</ul><p>Dagabase is an equal-opportunity employer. We believe that diversity is integral to our success and do not discriminate based on race, color, religion, age, or any other basis.</p><p><strong>Note: A coding challenge and identity verification are a required part of employment.</strong></p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/dagabase-senior-distributed-system-developer">https://weworkremotely.com/remote-jobs/dagabase-senior-distributed-system-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9238/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Threecolts</h5>
+                    <h3> C# Developer - Turkish - Remote</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/threecolts-csharp-developer-turkish-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/9238/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Delaware, United States
+    <br /><strong>URL:</strong> <a href="https://threecolts.com">https://threecolts.com</a>
+</p>
+
+<div>We are Threecolts! One platform with 9 powerful products, helping ecommerce sellers to grow faster, lower costs, and become more agile.<br><br>
+</div><div>We're building the tools for online commerce that help new businesses get started, expedite growth for existing companies, and empower sellers to reach new heights.<br><br>
+</div><div>As a C# Tech Lead you’ll play an integral role and have an immediate impact on a newly acquired business. <br><br>
+</div><div>You will be the connecting link between our Turkey based and Turkish speaking development team, you will lead, manage and inspire. You must be a seasoned C# Developer with excellent Turkish and English language skills.<br><br>
+</div><div>We are a completely remote team spread across the world, with a deep passion for making the web a more beautiful, usable, and reliable place.<br><br>
+</div><div>
+<strong>Key Duties and Responsibilities<br></strong><br>
+</div><ul>
+<li>Help maintain code quality, organization, and automatization</li>
+<li>Work with a newly appointed PM on designing new features and improvements</li>
+<li>Manage the team's priorities and ensure that no development time is wasted</li>
+<li>Translate application storyboards and use cases into functional applications</li>
+<li>Design, build, and maintain efficient, reusable, and reliable C# code</li>
+<li>Ensure the best possible performance, quality, and responsiveness of applications</li>
+<li>Identify bottlenecks and bugs, and devise solutions to these problems</li>
+<li>Work closely with stakeholders to translate business requirements into technical specifications and architecture</li>
+<li>Work closely with our design team to translate designs into working, production-ready experiences</li>
+<li>Build new integrations with third party platforms</li>
+<li>Work with stakeholders to identify and action new product and partner opportunities</li>
+<li>Over time, work with our broader development team to evaluate and perform migration of front-end technology from ASP.Net to Vue.js<br><br>
+</li>
+</ul><div>
+<strong>Essential Skills &amp; Requirements<br></strong><br>
+</div><ul>
+<li>5+ years of professional development experience using C#</li>
+<li>Strong understanding of object-oriented programming</li>
+<li>Skill for writing reusable C# libraries</li>
+<li>Familiar with various design and architectural patterns</li>
+<li>Knowledge of concurrency patterns in C#</li>
+<li>Strong experience with AJAX.Net</li>
+<li>Strong experience with Transact-SQL, MS SQL Server queries and stored procedures</li>
+<li>Strong experience working with APIs</li>
+<li>Experience with Bootstrap</li>
+<li>Experience with Visual Studio</li>
+<li>Familiarity with cross-browser compatibility</li>
+<li>Familiarity with code versioning software such as GIT</li>
+<li>Fluency in English and Turkish</li>
+<li>Demonstrated ability to work independently</li>
+<li>Extremely detail-oriented</li>
+<li>Excellent communication skills and the ability to work well within a small team<br><br>
+</li>
+</ul><div>
+<strong>Bonus Skills<br></strong><br>
+</div><ul>
+<li>Experience with web scraping concepts</li>
+<li>DevOps and/or server configuration experience</li>
+<li>Experience with Vue or React</li>
+<li>Experience with SASS, or TailwindCSS</li>
+<li>Experience working with Figma, Sketch, or Zeplin</li>
+<li>Experience working with e-commerce technology</li>
+<li>Familiarity with Webpack, Vite and NPM</li>
+<li>Experience working with services such as Optimizely to improve UX and conversion rates</li>
+<li>Experience working with data and analytics to track product performance</li>
+<li>Comfortable working in a fast paced and constantly changing environment<br><br>
+</li>
+</ul><div>
+<strong>We are striving to create a diverse and inclusive environment. We encourage all applicants to apply for our roles. We value and actively seek diverse talent!<br></strong><br>
+</div><div>
+<strong>Get to know us a bit better:<br></strong><br>
+</div><div>https://www.threecolts.com/<br><br>
+</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/threecolts-csharp-developer-turkish-remote">https://weworkremotely.com/remote-jobs/threecolts-csharp-developer-turkish-remote</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -100,7 +359,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/eventmobi-senior-back-end-developer-python-remote-1" align="right" target="_blank">Apply</a>
@@ -164,7 +423,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shneorweb-frontend-ui-developer-wizard" align="right" target="_blank">Apply</a>
@@ -193,174 +452,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0079/8627/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Torc</h5>
-                    <h3> Back End Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/torc-back-end-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0079/8627/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Boston
-    <br /><strong>URL:</strong> <a href="https://www.opentorc.com/">https://www.opentorc.com/</a>
-</p>
-
-<div>Backend engineers are responsible for working on our client's products and work hand in hand with product managers, designers and front end engineers to solve common goals. Backend engineers primarily work on building APIs and core modules / components to encapsulate reusable logic. They are responsible for optimising the system for speed and stability, implementing security structures and developing reusable code libraries and date structures.</div><div><strong><br>Responsibilities</strong></div><ul>
-<li>Meet with the software development team to define the scope of software projects</li>
-<li>Communicate with the front end team to accurately implement APIs</li>
-<li>Think not only of the current solution but how code may be reused</li>
-<li>Work hand in hand with security and network teams</li>
-<li>Design and implement scalable web services, applications, and APIs</li>
-<li>Identify bottlenecks and improving software efficiency</li>
-<li>Collaborate with the architecture team on developing microservices</li>
-<li>Write technical documents</li>
-<li>Able to follow standards set for a code base and maintain consistency</li>
-<li>Able to code unit test cases for all developed code</li>
-<li>Ensure application performance, uptime, and scale, maintaining high standards of code quality and thoughtful application design</li>
-</ul><div><strong><br>Requirements</strong></div><ul>
-<li>Previous experience as a backend engineer</li>
-<li>Attention to detail</li>
-<li>Capable of prioritising multiple project in order to meet goals without management oversight</li>
-<li>Understanding performance especially in relations to APIs and interacting with front end code</li>
-<li>We have multiple positions open for Back End Engineer. The tech stacks needed are <strong><em>Javascript,  Node.JS,  Data Modeling,  Git,  Communication, Python,  Ruby,  PHP,  Java,  Golang and C#.</em></strong><em> </em>
-</li>
-<li>You will be mapped to the right customer based on your skills</li>
-<li>Torc is here to make finding and applying for jobs simpler, faster, and easier. One way we do this is by grouping similar types of jobs into a single Job Role (for example,  Frontend Engineer,  Full Stack Engineer, DevOps engineer). By qualifying developers for a Job Role,  you can then apply to multiple jobs at once. </li>
-</ul><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/torc-back-end-developer">https://weworkremotely.com/remote-jobs/torc-back-end-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DebugBear</h5>
-                    <h3> Full Stack JavaScript Developer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/debugbear-full-stack-javascript-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> United Kingdom
-    <br /><strong>URL:</strong> <a href="https://www.debugbear.com/">https://www.debugbear.com/</a>
-</p>
-
-<p>(Fully remote, 50%+ overlap with UK working hours required)</p>
-<p>DebugBear is looking for an experienced JavaScript developer.<br></p>
-<p><strong><strong>What we do</strong></strong></p>
-<p>DebugBear is a site speed testing and monitoring service. We help companies make their websites load faster and improve their Google Core Web Vitals metrics.<br></p> <p>We're a small business and you will be working directly with the technical founder. In this role you get to have an impact on all aspects of the product.</p> <p><strong>The role</strong></p> <p>As a full stack developer you will:</p>
-<ul> <li>Implement and maintain product features while keeping in mind user experience, implementation costs, and maintainability</li> <li>Make the product scale to a larger number of users</li> <li>Ensure the product is reliable and secure</li> </ul> <p>Working in an early-stage company, you need to be able to take on a variety of tasks and complete them successfully, sometimes in the absence of established processes. You need to be mindful of customer needs to understand and challenge requirements.</p> <p><strong>Working at DebugBear</strong></p> <p>We value building a stable product that doesn't break unexpectedly, especially not outside work hours. For example, that means working with proven technologies where possible and writing automated tests.</p> <p>While there is some flexibility with work hours, this is not an asynchronous role and we expect fairly consistent work hours. Frequent communication is expected.</p> <p>Collaboration is mostly through Slack and GitHub, but this might change in the future as needed.</p> <p><strong>Tech stack</strong></p> <p>Here are some of the technologies we use:</p>
-<ul> <li>TypeScript</li> <li>React</li> <li>Express</li> <li>Postgres</li> <li>Google Cloud</li> <li>Jest, Puppeteer</li> <li>Sass CSS</li> </ul>
-<p><strong>Application process</strong></p>
-<ol> <li>Introductory call discussing the role and your experience</li> <li>Technical interview</li> <li>An additional call as needed to discuss details</li> <li>Reference checks</li> <li>Offer</li> </ol> <p><strong>Have questions?</strong></p> <p>Email matt@debugbear.com if you have questions about the role.</p>
-<p><strong>Requirements</strong></p>
-<p>You will need at least 3 years of commercial development experience, including significant experience with:</p>
-<ul> <li>Node</li> <li>JavaScript</li> <li>React</li> <li>HTML/CSS</li> <li>Relational databases (e.g. Postgres/MySQL)</li> </ul>
-<p><strong>Bonus points</strong></p>
-<p>We also value experience with the following:</p>
-<ul> <li>TypeScript</li> <li>Web performance optimization</li> <li>Building SaaS products</li> <li>Building developer tools<br> </li> <li>Working for a small business</li> </ul>
-<p><strong>Benefits</strong></p>
-<ul> <li>Fully remote</li> <li>Budget: $4,000 to $6,000 per month</li> <li>28 days off a year</li> </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/debugbear-full-stack-javascript-developer">https://weworkremotely.com/remote-jobs/debugbear-full-stack-javascript-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8799/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>amazee.io</h5>
-                    <h3> Frontend Developer - (80% - 100%)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/amazee-io-frontend-developer-80-100" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8799/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Zurich, Switzerland 
-    <br /><strong>URL:</strong> <a href="https://amazee.io">https://amazee.io</a>
-</p>
-
-<div>
-<strong>Frontend Developer - (80% - 100%)<br><br>Description:</strong><br><br>Hi! We're <a href="http://amazee.io/">amazee.io</a>, a ZeroOps application delivery hub for engineering teams to deploy applications more easily. Our developer-centric, open source platform makes developers’ lives and jobs easier, minimizing the stress of managing infrastructure or operations. amazee.io supports organizations across the globe to accelerate their cloud and container adoption, along with providing easily managed Kubernetes for developer teams. We run anywhere in the world, with 24/7/365 dedicated support. </div><div><br></div><div>We’re looking for a Frontend Developer to join our remote team. As a Frontend Developer with amazee.io, you’ll be working alongside a UX designer and a UI designer on our core ZeroOps applications delivery product, Lagoon. You’ll be key in transforming Lagoon from a developer focused tool, to a market ready intuitively designed platform, by implementing design and interaction changes, turning the work of the UX and UI designers into well functioning code. We’ve got some exciting new directions to take our interfaces and integrations, and in delivering a more complete experience for all our users. </div><div><br></div><div>If you feel like this could be the role for you, then come and join a team of open source enthusiasts, committed to providing flexible web solutions in an open and transparent work environment, and having fun doing it.<br><br>
-</div><div><br></div><div><strong>What you’ll be doing: </strong></div><ul>
-<li>Breathing new life into our React-based Lagoon UI, refining the integration between it and our GraphQL API</li>
-<li>Owning the entire development lifecycle for the UI components, over their various iterations</li>
-<li>Implementing a design system and set of components to guide the future development of the UI</li>
-<li>Implementing iterations of the UI and components as React Native plugins to third party applications</li>
-<li>Working with our UI, product and engineering teams to design, develop and iterate a range of prototypes for upcoming features<br><br>
-</li>
-</ul><div><strong>What you’ll bring:</strong></div><ul>
-<li>Experience developing in React, React Native, GraphQL</li>
-<li>Experience with integrating backend technologies (e.g server-side rendering, single sign-on)</li>
-<li>Understanding of how to implement and maintain design systems</li>
-<li>Ability to perform end-to-end Javascript testing and compatibility</li>
-<li>Experience with shipping features via feature flags, phased rollouts and A/B testing</li>
-<li>Comfort communicating technical topics in English, both verbal and written<br><br>
-</li>
-</ul><div>amazee.io is dedicated to providing a work environment of trust, transparency, and inclusion for everyone. As a fully remote company we offer flexibility when it comes to working hours and location. Here’s some other things you can expect from us.</div><div><br></div><div><strong>What we’ll bring:</strong></div><ul>
-<li>A fully distributed team of creative colleagues in a flat, open and transparent organization -<a href="https://www.amazee.io/about-us?scrollTo=people"> Meet the team</a>, or read our<a href="https://handbook.amazee.io/"> handbook</a>
-</li>
-<li>Flexible working hours, and time off in lieu when you work overhours</li>
-<li>Fully Remote working </li>
-<li>5 paid days off a year for conference attendance or education related commitments </li>
-<li>An annual education benefit of $1,500 or equivalent to dedicate to your professional development</li>
-<li>An annual wellbeing benefit of $500 or equivalent to dedicate to your physical or mental health </li>
-<li>A monthly connectivity benefit of $100 or equivalent for you to expense internet costs as a remote worker </li>
-<li>Your own annual tech budget, with full initial setup provided</li>
-<li>Sweet, sweet Swag - Hoodies and other goodies </li>
-<li>
-<strong>amazee.io Quest!</strong> - After 3 years, you’ll get 3 weeks paid off work to undertake a profound personal goal, or undertake a bucket list type challenge.</li>
-</ul><div><br></div><div><strong>So what’s next?: </strong></div><div><br></div><div>Apply! Send us your CV showcasing who you are, your experience, and anything else you think we should know! </div><div><br></div><div>The amazee.io Team.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/amazee-io-frontend-developer-80-100">https://weworkremotely.com/remote-jobs/amazee-io-frontend-developer-80-100</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/3489/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -371,7 +462,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>721 days ago</text>
+                <text>722 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -450,7 +541,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -527,7 +618,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -594,7 +685,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -663,7 +754,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -688,7 +779,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/unreal-engine-developer-1344657" align="right" target="_blank">Apply</a>
@@ -713,7 +804,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -739,7 +830,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
