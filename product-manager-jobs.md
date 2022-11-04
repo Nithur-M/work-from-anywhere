@@ -10,7 +10,7 @@
                     <code>manager,nft,training,software,testing,growth,health</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-product-manager-rarible-142498" align="right" target="_blank">Apply</a>
@@ -19,7 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><b style="font-size:18px;">About Rarible</b></div><div>Rarible is a creator-centric NFT marketplace with a community governance model. We are a #1 ranked marketplace in the world, having exceeded $40 million USD in monthly trading volume. Rarible reached over 10x growth in the past 3 months, and is expanding rapidly! In addition, Rarible is releasing the Rarible Protocol which allows developers, other marketplaces, and partners to easily mint NFTs and to share NFT inventory with a decentralized order book.</div><div><br></div><div>Join our decentralized, motivated and fully remote team building the NFT marketplace of the future.</div><br>Tasks<br><li>Work on the messenger</li><li>Managing the development and release of new features</li><li>Formation and testing of product hypotheses</li><li>Communication with users</li><li>Research in the industry</li><li>If you've created a great consumer product and are ready to take on new heights.</li><div><b style="font-size:18px;">What do we offer</b></div><div>ð Working for a rapidly expanding global startup</div><div>ð Mentorship, training and career progression plans with leadership focused on developing the teams</div><div>ð Team that cares about products and working conditions</div><div>ð Flexible Hours start of the working day </div><div>ð Full-time, paid vacations remote first with relocation packages available, hardware and software support </div><div>ð Attractive package to include base equity and/or tokens, equity as well as health benefits </div><br/><br/>Please mention the word **EXTRAORDINARILY** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <div><b style="font-size:18px;">About Rarible</b></div><div>Rarible is a creator-centric NFT marketplace with a community governance model. We are a #1 ranked marketplace in the world, having exceeded $40 million USD in monthly trading volume. Rarible reached over 10x growth in the past 3 months, and is expanding rapidly! In addition, Rarible is releasing the Rarible Protocol which allows developers, other marketplaces, and partners to easily mint NFTs and to share NFT inventory with a decentralized order book.</div><div><br></div><div>Join our decentralized, motivated and fully remote team building the NFT marketplace of the future.</div><br>Tasks<br><li>Work on the messenger</li><li>Managing the development and release of new features</li><li>Formation and testing of product hypotheses</li><li>Communication with users</li><li>Research in the industry</li><li>If you've created a great consumer product and are ready to take on new heights.</li><div><b style="font-size:18px;">What do we offer</b></div><div>ð Working for a rapidly expanding global startup</div><div>ð Mentorship, training and career progression plans with leadership focused on developing the teams</div><div>ð Team that cares about products and working conditions</div><div>ð Flexible Hours start of the working day </div><div>ð Full-time, paid vacations remote first with relocation packages available, hardware and software support </div><div>ð Attractive package to include base equity and/or tokens, equity as well as health benefits </div><br/><br/>Please mention the word **EXTRAORDINARILY** and tag RNTQuMjI2LjI0MS43 when applying to show you read the job post completely (#RNTQuMjI2LjI0MS43). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -34,7 +34,7 @@
                     <code>manager,bitcoin,react,system,software,growth,financial,senior,engineering</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-product-manager-blockstream-142509" align="right" target="_blank">Apply</a>
@@ -63,7 +63,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Comfort with the pace, scrappiness and dynamic environment within a growing startup</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Entrepreneurial mindset; know how to be nimble, spot and react to new opportunities</span></li>
 </ul>
-<p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/EKrQP99gUMI" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **DEFENDER** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/EKrQP99gUMI" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **DEFENDER** and tag RNTQuMjI2LjI0MS43 when applying to show you read the job post completely (#RNTQuMjI2LjI0MS43). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -78,7 +78,7 @@
                     <code>manager,design,defi,crypto,ethereum,system,security,financial,finance,node,strategy,management,operations,marketing,sales,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-forta-product-manager-openzeppelin-141988" align="right" target="_blank">Apply</a>
@@ -157,7 +157,7 @@
 <h3 class="job-description-title"> </h3>
 </div>
 </div>
-</div><br/><br/>Please mention the word **IMPRESSES** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **IMPRESSES** and tag RNTQuMjI2LjI0MS43 when applying to show you read the job post completely (#RNTQuMjI2LjI0MS43). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -172,7 +172,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-product-manager-technical-1" align="right" target="_blank">Apply</a>
