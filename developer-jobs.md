@@ -10,7 +10,7 @@
                     <code>developer,crypto,cryptocurrency,system,teaching,training,software,growth,web,financial,investment,fintech,management,go,recruitment,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-algorithm-developer-with-rust-keyrock-142500" align="right" target="_blank">Apply</a>
@@ -49,7 +49,7 @@
 <li><p>Complete autonomy in your time management thanks to flexible working hours and the opportunity to work remotely </p></li>
 <li><p>The freedom to create your own entrepreneurial experience by being part of a team of people in search of excellence who all receive stock options from the first year</p></li>
 <li><p>A ton of fun in a thriving and multicultural environment, with colleagues enjoying regular team building activities</p></li>
-</ul><p><br></p><p><br></p><p>Keyrock offers you both a career and a large range of benefits that we will gladly discuss in the course of the application process.</p><p><br></p><p>As an employer we are committed to build an inclusive, diverse and non-discriminating work environment. We welcome employees of all backgrounds, ethnicities, genders, creed and sexual orientation. We hire, reward and promote entirely based on merit and performance.</p><br/><br/>Please mention the word **OUTSTANDINGLY** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p><br></p><p><br></p><p>Keyrock offers you both a career and a large range of benefits that we will gladly discuss in the course of the application process.</p><p><br></p><p>As an employer we are committed to build an inclusive, diverse and non-discriminating work environment. We welcome employees of all backgrounds, ethnicities, genders, creed and sexual orientation. We hire, reward and promote entirely based on merit and performance.</p><br/><br/>Please mention the word **OUTSTANDINGLY** and tag RNTQuMjI2LjI0MS43 when applying to show you read the job post completely (#RNTQuMjI2LjI0MS43). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -64,7 +64,7 @@
                     <code>developer,software,code,devops,c++,senior,junior,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-rust-developer-se-asia-soramitsu-142499" align="right" target="_blank">Apply</a>
@@ -102,7 +102,7 @@
 <li>High degree of honesty and ethics.</li>
 <li>Be open to changes and to considerable variety in the workplace.</li>
 <li>Willingness to take on responsibilities and challenges.</li>
-</ul><br/><br/>Please mention the word **USEFUL** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **USEFUL** and tag RNTQuMjI2LjI0MS43 when applying to show you read the job post completely (#RNTQuMjI2LjI0MS43). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -117,7 +117,7 @@
                     <code>developer,design,crypto,cryptocurrency,training,gaming,testing,code,financial,cloud,git,android,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-android-native-developer-cryptohopper-141488" align="right" target="_blank">Apply</a>
@@ -142,57 +142,7 @@
 <li>Lifetime Cryptohopper subscription (if you donÃ¢â¬â¢t break our BFF vows)</li>
 <li>Shower you with extras, like trading benefits, a generous training budget, and (mom will be proud!) the opportunity to work in a domain that accelerates financial inclusion for the unbanked</li>
 <li>Pour you a stiff drink on Fridays, coffee that wonÃ¢â¬â¢t make you wish you chose tea, and lots of mind-blowing feedback on your work, hobbyÃ¢â¬â¢s, and pets. And we sincerely look forward to hearing whatÃ¢â¬â¢s on your mind, too.</li>
-</ul><br><p></p><h1>Ready to virtually meet our engineers?</h1><p>We donÃ¢â¬â¢t require (in fact, please donÃ¢â¬â¢t) a motivation letter; weÃ¢â¬â¢d rather have a good chat and tell you everything you want to know. About life, the universe, and everything! Mail your resume to hr@cryptohopper.com. More information? Call or WhatsApp Laura at +31614886381 (n/a for trading insights ;-)</p><br><br/><br/>Please mention the word **GENEROUS** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/8bb9e690853b59c0dc177a18fdcecc461667027715.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Gelato</h5>
-                    <h3>Smart Contract Ethereum Developer</h3>
-                </td>
-                <td width="300">
-                    <code>ethereum,developer,web3,crypto,testing,test,code,travel,finance,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-smart-contract-ethereum-developer-gelato-140481" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Gelato Network </strong>is a protocol that automates smart contract executions on Ethereum. We develop an open-source decentralized network of relay nodes that developers can plug into to create amazing automated dApps for their users.</p><p><br>Join as one of the first employees and work directly with the founders to build the future of Automation for the upcoming decentralized web. Enjoy a lot of perks, travel with us to cool events (after Corona), and participate in amazing off-side retreats with the team!</p><p><br>Participate in creating the most sophisticated crypto bot network ever created by designing the smart contracts that will rule them all!<br><br></p><p><strong>What we offer:</strong><br><br></p><ul>
-<li>Small, fully remote team, with team members in Paris, Berlin & Munich</li>
-<li>Be one of the first employees and work directly with the founders</li>
-<li>Participate in building the infrastructure that aims to become the glue between all crypto networks and power the most promising dApps on Ethereum</li>
-<li>Token Options - Get a share of the networks future token and be able to participate in Gelatoâs upcoming DAO</li>
-<li>Worldclass Investors - We are backed by the community, including industry leading experts such as Gnosis, Christoph Jentzsch, IOSG, Galaxy Digital and the two largest Venture DAOs (The LAO, Metacartel Ventures)</li>
-</ul><p><br></p><p><strong>Requirements:</strong><br><br></p><ul>
-<li>Experience in writing smart contracts in solidity</li>
-<li>Experience with web3 libraries (ethers.js, web3.js)</li>
-<li>Experience with testing your code locally and on ethereum test networks</li>
-<li>You can work with high autonomy</li>
-<li>Strong written and verbal communication skills</li>
-</ul><p><br></p><p><strong>Bonus:</strong><br><br></p><ul>
-<li>Knowledge about the inner workings of the EVM</li>
-<li>Mathematics & Finance Background</li>
-<li>Experience in building and running bots that interact with smart contracts on Ethereum</li>
-<li>Knowledge about Ethereum Client & Mining software</li>
-<li>Front-end experience, building dApps on existing smart contracts</li>
-</ul><p><br></p><p><strong>Technologies we use and teach:</strong><br><br></p><ul>
-<li>Solidity</li>
-<li>Node.js</li>
-<li>Typescript</li>
-<li>Javascript</li>
-<li>Ethers.js / web3.js</li>
-<li>Buidler / Truffle</li>
-<li>React</li>
-</ul><br/><br/>Please mention the word **VIRTUOUS** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br><p></p><h1>Ready to virtually meet our engineers?</h1><p>We donÃ¢â¬â¢t require (in fact, please donÃ¢â¬â¢t) a motivation letter; weÃ¢â¬â¢d rather have a good chat and tell you everything you want to know. About life, the universe, and everything! Mail your resume to hr@cryptohopper.com. More information? Call or WhatsApp Laura at +31614886381 (n/a for trading insights ;-)</p><br><br/><br/>Please mention the word **GENEROUS** and tag RNTQuMjI2LjI0MS43 when applying to show you read the job post completely (#RNTQuMjI2LjI0MS43). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -207,7 +157,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/dagabase-senior-distributed-system-developer" align="right" target="_blank">Apply</a>
@@ -263,7 +213,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/threecolts-csharp-developer-turkish-remote" align="right" target="_blank">Apply</a>
@@ -359,7 +309,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/eventmobi-senior-back-end-developer-python-remote-1" align="right" target="_blank">Apply</a>
@@ -423,7 +373,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shneorweb-frontend-ui-developer-wizard" align="right" target="_blank">Apply</a>
@@ -462,7 +412,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>722 days ago</text>
+                <text>723 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -541,7 +491,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -618,7 +568,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -685,7 +635,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -754,7 +704,7 @@
                     <code>developer,go,node.js,rails</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1344658" align="right" target="_blank">Apply</a>
@@ -779,7 +729,7 @@
                     <code>developer,node.js,rails,ruby</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/unreal-engine-developer-1344657" align="right" target="_blank">Apply</a>
@@ -804,7 +754,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -830,7 +780,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
