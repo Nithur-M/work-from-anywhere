@@ -10,7 +10,7 @@
                     <code>design,nft,security,software,test,code,typescript,node.js,api,analytics,reliability,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-infra-engineer-niftys-141487" align="right" target="_blank">Apply</a>
@@ -49,7 +49,7 @@
 <p><span style="font-weight:400;">Other things to note:Â </span></p>
 <p><span style="font-weight:400;">Niftyâs, Inc. strives to be a best-in-class and equal opportunity employer.â All qualified applicantsÂ  will receive consideration for employment without regard to race, religion, color, national origin,Â  gender, gender identity, sexual orientation, age, status as a protected veteran, among otherÂ  things, or status as a qualified individual with disability.Â </span></p>
 <p><span style="font-weight:400;">This job posting highlights the most critical responsibilities and requirements of the job. Other duties may be assigned as needed.</span></p>
-<p><span style="font-weight:400;">Nifty's, Inc. Privacy Policy can be found here: </span><a href="https://niftys.com/privacy-policy" rel="noopener noreferrer nofollow"><span style="font-weight:400;">https://niftys.com/privacy-policy</span></a></p><br/><br/>Please mention the word **THINNER** and tag RNDQuMjExLjg2LjIzNw== when applying to show you read the job post completely (#RNDQuMjExLjg2LjIzNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><span style="font-weight:400;">Nifty's, Inc. Privacy Policy can be found here: </span><a href="https://niftys.com/privacy-policy" rel="noopener noreferrer nofollow"><span style="font-weight:400;">https://niftys.com/privacy-policy</span></a></p><br/><br/>Please mention the word **THINNER** and tag RNTQuMjI2LjI0MS43 when applying to show you read the job post completely (#RNTQuMjI2LjI0MS43). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -64,7 +64,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer" align="right" target="_blank">Apply</a>
@@ -120,91 +120,27 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9084/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1479998/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>MindsDB</h5>
-                    <h3> Backend Engineer</h3>
+                    <h5>FM</h5>
+                    <h3>Laravel PHP Backend Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/mindsdb-backend-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/9084/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Berkeley, California, USA
-    <br /><strong>URL:</strong> <a href="http://www.mindsdb.com">http://www.mindsdb.com</a>
-</p>
-
-<div>
-<strong>Who we are<br></strong><br>
-</div><div>MindsDB helps companies use the power of Machine Learning to ask predictive questions of their data and receive accurate answers from it. We do all of this inside the database with a simple interface, decreasing development time and increasing accessibility.<br><br>
-</div><div>We are a fast-paced, fast-growing company with an exciting future ahead!</div><div>
-<br><br>
-</div><div><strong>Our history so far</strong></div><ul>
-<li>MindsDB are the largest, fastest growing open source Machine Learning project in the world with over 11k Github stars.</li>
-<li>Graduate of YCombinator (the startup accelerator for Stripe, Airbnb, and Coinbase).</li>
-<li>Backed by Walden Catalyst Ventures, YCombinator, OpenOcean (the venture fund launched by the creators of MySQL and MariaDB), SpeedInvest, and the University of California Berkeley.</li>
-<li>Recognized as one of America’s most promising AI companies by Forbes Magazine, one of the 8 most innovative AI and ML companies by TechRepublic, and recently nominated as a “Cool Vendors in Data for Artificial Intelligence and Machine Learning” by Gartner.<br><br>
-</li>
-</ul><div><br></div><div><strong>About the role</strong></div><div><br></div><div>We are looking for a driven Backend Engineer (Python) to be a main developer of the infrastructure that powers our product.</div><div><br></div><div>Together with the team, you’ll work to drive platform stability, optimise performance, and develop new functionality. You’ll also help drive our next stage of growth, playing a key role in our serverless development.</div><div><br></div><div>We are a 100% remote team, allowing us to hire the best talent from around the globe. For this role we are hiring in North/South American time zones, approximately GMT-7 to GMT-4.</div><div><br></div><div>MindsDB is committed to flexible working. Our goal is for our people to feel free to work where, when and how they choose to enable our staff to balance their personal interests with their work commitments and deliverables, to support a happier and healthier way of life. Performance will be judged on output and staff are trusted to manage their working time effectively to meet work deadlines and goals whilst ensuring their wellbeing is prioritised. If that suits you we would encourage you to apply!</div><div>
-<br><br>
-</div><div><strong>What you'll be working on</strong></div><ul>
-<li>Driving platform stability</li>
-<li>Maintaining platform components that enable our core product features</li>
-<li>Implementing security best practices</li>
-<li>Optimising performance &amp; scalability</li>
-<li>Improving the performance of our current platform</li>
-<li>Helping transition us to a serverless cloud architecture</li>
-<li>Developing new functionality</li>
-<li>Collaborating with the all parts of the team</li>
-<li>Implementing major features and enhancements<br><br>
-</li>
-</ul><div><br></div><div><strong>Requirements</strong></div><ul>
-<li>5+ years Backend Engineering experience</li>
-<li>Expertise in Python and SQL</li>
-<li>Experience with AWS, HTTP, TCP/IP, Docker</li>
-<li>Fast, high quality development</li>
-<li>Strong communication skills<br><br>
-</li>
-</ul><div><br></div><div><strong>Nice To Have</strong></div><ul>
-<li>Experience with microservices architecture</li>
-<li>Experience with Kubernetes</li>
-<li>Experience with Machine Learning</li>
-<li>Experience working in a fast moving, growing startup environment.</li>
-<li>Fluency and communication skills in Spanish<br><br>
-</li>
-</ul><div><br></div><div>We understand that there's no such thing as a 'perfect' candidate. We're looking for someone passionate, proactive and ambitious, who is excited to face the challenges of a rapidly growing startup. MindsDB is the type of company where you can grow exponentially, and we encourage you to apply to us even if you don't 100% match the candidate description.</div><div>
-<br><br>
-</div><div><strong>Benefits &amp; Perks:</strong></div><ul>
-<li>Fully remote team</li>
-<li>Flexible working hours</li>
-<li>Competitive Compensation</li>
-<li>Unlimited PTO</li>
-<li>New Hire Remote Setup budget</li>
-<li>Learning &amp; Development budget</li>
-<li>Medical, Dental, Vision Insurance (US only)</li>
-<li>Monthly Wellbeing Budget</li>
-<li>Monthly (virtual) team events</li>
-<li>International in-person company retreats</li>
-<li>Wellbeing/Mental Health leave<br><br>
-</li>
-</ul><div><br></div><div><strong>Diversity, Equality &amp; Inclusion</strong></div><div><br></div><div>MindsDB is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all of our employees. MindsDB will give all qualified applicants consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations, and ordinances.​</div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/mindsdb-backend-engineer">https://weworkremotely.com/remote-jobs/mindsdb-backend-engineer</a></p>
-
+                <p>We’re hiring a mid-level Laravel engineer to work on our web and mobile applications. These applications are the way that thousands of creative people around the world find great music and inspiring clips for use in their projects and campaigns.<br></p><br><p><strong>About Us</strong></p><p>FM is the parent company of Musicbed and Filmsupply, two premium content licensing brands in the filmmaking industry. We represent an elite roster of musicians and filmmakers and place their work in movies, shows, ads, short films, and more. <br></p><br><p>Headquartered in Fort Worth, Texas, we work with entertainment powerhouses like Sony Pictures, 20th Century Fox, Lionsgate, Netflix, MTV, and ESPN; as well as the world’s top brands like Nike, Apple, Google, Lamborghini, and Spotify.</p><br><p><strong>Core Duties</strong></p><p>As part of the Engineering team, your time will be spent collaborating with other engineers and clients. You will be involved in the full development life-cycle for new and existing products. The ideal candidate loves tinkering with cutting edge technology and has at least 2  years solid experience working with PHP and Laravel. You will be able to code out features in PHP, create quality pull requests and help our team stay current with best industry practices.</p><br><p>Although PHP (preferably Laravel) is the core competency for this position, we work with a variety of  AWS technologies, as well as with Elasticsearch, Redis, Memcached, payment gateways, multiple API integrations, and a whole lot more. We take pride in our work and follow best industry practices in everything we do.</p><br><p>We have a very relaxed working environment, flexible working hours and a super friendly team. You will learn tons of new things and be exposed to lots of new technologies. We’re after individuals that are curious about the possibility of technology, are eager to learn, and are diligent and kind. Our teams work well because we place trust in them to succeed. We believe in healthy debate and that great ideas can come from anybody. As such, you’ll have plenty of opportunities to add your own input in our software.</p><br><p>The engineering team has a remote-first culture. As such, you will be comfortable working remotely, possess excellent verbal and written communication skills and be able to manage your own time.</p><br><p>This is an excellent opportunity to move your career forward and be part of an amazing team.</p><br><p><strong>Experience and Skills</strong></p><ul><li><p>At least 2 years solid experience with PHP (preferably Laravel)</p></li><li><p>Good understanding of relational databases (MySQL / Postgres)</p></li><li><p>API driven development</p></li><li><p>Git + GitHub knowledge</p></li><li><p>Excellent analytical and problem solving skills</p></li><li>Ability to write unit and acceptance tests</li></ul><br><p><strong>A Great Candidate Will Have</strong></p><ul><li>Excellent written and verbal communication skills in English</li><li>Desire to work in a team-centered, collaborative environment</li><li>High professional standards - strong motivation for individual and organization success</li><li>Strong work ethic, with the ability to deliver solid work on tight schedules</li><li>Some server admin (Ubuntu, nginx, Forge, Envoyer, Docker, AWS) experience</li><li>Some unit / integration / acceptance testing experience</li><li>Some Elasticsearch, Redis, Memcache experience</li></ul>
+<img src="https://remotive.com/job/track/1479998/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -219,7 +155,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
