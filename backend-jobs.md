@@ -1,121 +1,65 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/892ffcad565a16dfc8d653b81b2973571667200534.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/50e9b1433ee78442e29ce2ed27c3024f1667546130.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Nifty's</h5>
-                    <h3>Backend Infra Engineer</h3>
+                    <h5>Streamflow</h5>
+                    <h3>Backend Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>design,nft,security,software,test,code,typescript,node.js,api,analytics,reliability,engineer,backend,digital nomad</code>
+                    <code>design,web3,back-end,python,software,code,qa,cloud,api,management,go,engineer,backend,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-infra-engineer-niftys-141487" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-streamflow-143523" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="content-intro">
-<p><strong>ABOUT NIFTYâS, Inc.</strong><strong>Â </strong></p>
-<p>Nifty's connects fans to what they love most through NFT-powered collectibles, experiences and rewards. Our innovative NFT platform and easy-to-use interface enable communities to collect and trade digital art and other collectibles from their favorite brands and creators. Leveraging eco-friendly blockchain technology, Niftyâs empowers our partners with a premium, flexible and secure platform to launch their NFTs and make them discoverable by Niftyâs global community. Niftyâs is a fully remote company.</p>
-</div><p><span style="font-weight:400;">Essential Duties and Responsibilities:</span></p>
+                <h3><b>The Company</b></h3><br><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Streamflow</a> helps web3 organizations distribute tokens efficiently and effectively.<br>We leverage our token streaming protocol to provide a suite of tools every Solana organization can use to manage and stream tokens.<p></p><h3><b>Why You Should Join Us</b></h3><br>Streamflow is built on the <a class="bbcode-link" href="https://www.notion.so/Values-public-536b816989aa4ee7b1923d112c84763e" target="_blank" rel="noopener noreferrer nofollow">Values (public)</a> that we share publicly. We look to uphold these qualities in our day-to-day and look for these qualities in candidates who apply.<br>Our work culture is fast-moving, engaging, and ambitious. We passionately believe in the value that our protocol can unlock for the world and weâre looking to work with mission-driven people who are ready to jump on board with us, roll up their sleeves, and get stuck into it. We believe in selfless sharing of knowledge, transparency, and insight into all aspects of the business and personal initiative.<br>We are a remote-first, office-optional team that prioritizes high-quality written communication and the possibility of working asynchronously across timezones because we believe that the best talent exists on every corner of the earth.<br>We are developing quite literally on bleeding edge technology on the highest performant blockchain, Solana.<br>We offer above-market salaries and discuss specific figures early on in the hiring process.<p></p><h3><b>Weâre seeking</b></h3><br>We're looking for a full-time <b>Back-end Engineer</b> to improve and build our applications with a focus on API design and implementation, but also making sure our <b>infrastructure</b> works and is implemented with maintenance in mind.<br>If you:<br><ul>
+<li align="left">able to work with at least 4h overlap with European timezones</li>
+<li align="left">have 5+ years of professional experience working as a software engineer</li>
+<li align="left">have been part of start-ups or scale-ups before as a full-time team member</li>
+<li align="left">have hands-on experience with AWS or alternative cloud providers and their products for modern infrastructure management (Docker, orchestration services, CI/CD, Terraform)</li>
+<li align="left">built production-ready servers before from the grounds up</li>
+<li align="left">have a nose for smelling problems before they happen</li>
+</ul>â¦then we should talk. ð<br>It will be a perfect fit if you love:<br><ul>
+<li align="left">Developing</li>
+<li align="left">Learning (and do it fast)</li>
+<li align="left">Going outside your comfort zone</li>
+<li align="left">Doing what is best for the business</li>
+<li align="left">Participating in the construction of processes and organizations from an early stage</li>
+<li align="left">Autonomy and responsibility</li>
+<li align="left">Very ambitious projects</li>
+</ul><br><h3><b>Bonus points</b></h3><br>If you:<br><ul>
+<li align="left">Have experience with Python API development (Django, flask, or related skills)</li>
+<li align="left">Have a diverse set of skills and be ready to put them to use to build production-ready systems</li>
+<li align="left">Love Linux, Cloud providers and their products</li>
+<li align="left">Interested in building blockchain-related products</li>
+</ul>youâre very likely to succeed in this role.<p></p><h3><b>Responsibilities</b></h3><br><ul>
+<li align="left">Design, develop and maintain server-side code and infrastructure using one of the server-side languages (Rust, Python, Go or JVM languages) and Cloud products</li>
+<li align="left">Work with product to rapidly build experimental products, deploy them and track performance and gather feedback</li>
+<li align="left">Take ownership of key pieces of Streamflowâs infrastructure and back-end code and steer them in the right direction</li>
+<li align="left">Serve as the technical authority for a domain and tech stack best practices in API and Infrastructure</li>
+</ul><br><h3><b>Examples of near-term responsibilities</b></h3><br><ul>
+<li align="left">Backend API infrastructure (maintenance + new development)</li>
 <ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Build and test end-to-end Typescript and Node.js (Express) applications both locally and in a shared staging environment.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ensure security and data protection, and optimize service uptime.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience implementing analytics systems architecture.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Support reliability for code bases across the site.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Maintain and optimize Kubernetes infrastructure in AWS.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Maintain CI/CD infra components.</span></li>
+<li align="left">Automatic token transfers</li>
+<li align="left">Authentication</li>
+<li align="left">User resources</li>
+<li align="left">Dashboard support</li>
+<li align="left">Internal analytics</li>
 </ul>
-<p>Â </p>
-<p><span style="font-weight:400;">Requirements:</span></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Web3 experience preferred</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with Terraform preferred</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with software containerization, i.e. Docker</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with Kubernetes</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Postgres/SQL experience</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">NodeJS/Typescript experience</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">REST API design experience</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">5+ years of relevant experience</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Excellent written and verbal communication, problem-solving, and critical thinking skills are required.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Thrives in a fast paced, collaborative, and remote environment.</span></li>
-</ul>
-<p>Â </p>
-<p><span style="font-weight:400;">Other things to note:Â </span></p>
-<p><span style="font-weight:400;">Niftyâs, Inc. strives to be a best-in-class and equal opportunity employer.â All qualified applicantsÂ  will receive consideration for employment without regard to race, religion, color, national origin,Â  gender, gender identity, sexual orientation, age, status as a protected veteran, among otherÂ  things, or status as a qualified individual with disability.Â </span></p>
-<p><span style="font-weight:400;">This job posting highlights the most critical responsibilities and requirements of the job. Other duties may be assigned as needed.</span></p>
-<p><span style="font-weight:400;">Nifty's, Inc. Privacy Policy can be found here: </span><a href="https://niftys.com/privacy-policy" rel="noopener noreferrer nofollow"><span style="font-weight:400;">https://niftys.com/privacy-policy</span></a></p><br/><br/>Please mention the word **THINNER** and tag RNTQuMjI2LjI0MS43 when applying to show you read the job post completely (#RNTQuMjI2LjI0MS43). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/9860/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Maharishi Foundation International</h5>
-                    <h3> Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0016/9860/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London (Remote)
-    <br /><strong>URL:</strong> <a href="https://www.maharishi.foundation/">https://www.maharishi.foundation/</a>
-</p>
-
-<div><strong>About Us</strong></div><div>
-<a href="https://www.maharishi.foundation/">Maharishi Foundation International </a>(MFI) is a US-registered non-profit that supports the development of new technologies and outreach opportunities for the worldwide Transcendental Meditation® (TM®) organisations. Over the past 60 years, more than 10 million people worldwide have learned the TM technique through personal instruction by tens of thousands of certified teachers. </div><div><br></div><div>MFI is a growing, fully remote team of nearly 50 people, located around the globe but mainly in North America and Europe. As an organisation we are committed to leveraging modern technology and progressive management practices to make the TM technique and its related programmes more available to people everywhere. </div><div><br></div><div>We favor a healthy and balanced work environment with opportunities for personal development.  </div><div><br></div><div><strong>Job Summary</strong></div><div>We are looking for a backend engineer with focus on AWS Infrastructure with a proven track record of developing backend services Serverless framework. As we are a small, but growing team you will be responsible for the maintenance and support of existing backend features as well as planning and scoping new feature additions and iterations.</div><div><br></div><div>You will be working closely with our product team (design, product and development) to launch a meditation and lifestyle application. Applicants should have a proven track record working on large scale, consumer facing products with experience creating modular service based solutions. Applicants should be comfortable working in a fast paced environment, where each individual has a lot of influence and responsibility to deliver, and key to this continuous integration is a reliable and scalable CI / CD process.  You will play an extremely vital role in the development and release of this application as well as maintaining and improving the CI tools we use moving forward. Since there is an existing global community waiting for this application, the app will have an immediate, engaged user base. </div><div><br></div><div>The AWS backend is built using a serverless approach using AppSync (GraphQL), DynamoDB, Cognito and Lambda. Local development and stack deployment is managed using the Serverless framework, and CI pipelines have been implemented using CircleCI and Bitrise. You will become responsible for all of the working elements of the system and the accounts associated with the architecture.</div><div><br></div><div><strong>About You</strong></div><div>You understand how the AWS suite of products is structured, and can show experience writing fully tested scalable code using relevant AWS products and services. You understand API architecture, and can take a data model and translate it into reusable and flexible components. You enjoy shipping clean, readable and reusable code. You are comfortable working on a distributed team spread across time zones and cultures. You are excited to use technology to have a positive impact in the world as a whole, and in an intimate way for each individual.</div><div><br></div><div><strong>Responsibilities</strong></div><ul>
-<li>Work with design team during their sprints to develop the platform </li>
-<li>Ensure the performance, quality, and responsiveness of the application</li>
-<li>Collaborate with the team and contribute to the definition of specifications for new features, and own the development of those features</li>
-<li>Develop a detailed understanding of deployment processes for AWS (cloudformation) Bitrise, CircleCI and the destination APIs from Google Play and App Store Connect.</li>
-<li>Proactively identify and correct bottlenecks, fix bugs and performance issues</li>
-<li>Maintain code quality, organization and automatization</li>
-<li>Develop a logging and monitoring strategy for all aspects of the infrastructure</li>
-<li>Understand the concepts of DevSecOps and the tools we should implement to ensure Security best practices are followed</li>
-<li>Ensure testing strategy is followed within the team - for unit and integration tests</li>
-</ul><div><br></div><div>
-<strong>Skills and Requirements</strong> </div><ul>
-<li>Proven experience in mobile app development </li>
-<li>Proven track record working within an AWS application environment</li>
-<li>An understanding of best practice DevOps process, and some experience writing CI pipelines and deployment scripts</li>
-<li>Familiarity with Application logging and debugging platforms (Sentry, New Relic, Splunk)</li>
-<li>Some knowledge of security testing tools and code quality assessment</li>
-<li>Experience with large scale testing in a production environment</li>
-<li>Familiarity with connecting mobile applications to back-end services through APIs</li>
-<li>Familiarly with the API standards including GraphQL and REST </li>
-<li>Experience with performance and memory tuning with standard tools</li>
-<li>Familiarity with cloud message APIs and push notifications</li>
-<li>Proficient with code versioning tools (Git)</li>
-<li>5 years of testing and deploying code in a large scale production environment</li>
-<li>Experience working in a global non-profit, working with a remote team or in a multinational organization preferred</li>
-<li>Fluency in English (written and verbal)</li>
-</ul><div> </div><div>Bonus points if you have </div><ul>
-<li>Experience with Node.js</li>
-<li>Experience with data architecture</li>
-<li>Experience with Netsuite or similar CRMs and lead nurturing would be a plus</li>
-<li>Experience with the Transcendental Meditation® organisation, meditation, or some form of healthy living</li>
-</ul><div><br></div><div>If you are passionate about this work but do not have all of the skills listed we are still interested in hearing from you! </div><div><br></div><div><strong>Pay and benefits</strong></div><div>Our pay levels are set according to a formula that combines above-median market rate data for the role (we pay 55th percentile of New York market rate for this role, based on <a href="https://www.payscale.com/">Payscale</a> data) adjusted for your local cost of living based on <a href="https://www.numbeo.com/cost-of-living/rankings_current.jsp">Numbeo</a> data.</div><div> </div><div>We take the issue of equitable pay very seriously, and we apply our pay formula to all workers who work 80% or more of full time hours with us.</div><div><br></div><div><strong>Diversity and inclusion</strong></div><div>We care about diversity - we strive to ensure all of our team feel included and can bring their whole selves to work but we also know that this work is never ‘done’ or complete, and that we can always improve.</div><div><br></div><div>Our team is fully remote, living and working across 20 countries across the world, and we’d love to hear how you can add to our special culture at MFI.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer">https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer</a></p>
-
+<li align="left">CI/CD pipelines (including QA flow)</li>
+<li align="left">AWS provisioning CI integration - Terraform, CD</li>
+</ul><br><h3><b>Compensation:</b></h3><br>Salary is negotiable based on previous experience and crypto-native exposure.<p></p><h3>Links:</h3><br><ul>
+<li align="left"><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Website</a></li>
+<li align="left"><a class="bbcode-link" href="https://app.streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">dApp</a></li>
+<li align="left"><a class="bbcode-link" href="https://twitter.com/streamflow_fi" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
+</ul><br><br/><br/>Please mention the word **LIONHEARTED** and tag RNTIuOTEuMjQyLjE4NA== when applying to show you read the job post completely (#RNTIuOTEuMjQyLjE4NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -130,7 +74,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
@@ -155,7 +99,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
