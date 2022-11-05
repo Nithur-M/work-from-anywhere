@@ -1,44 +1,52 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/7c297e647fdeaf2db77c2f8e4ec03d341667114123.peg" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/8a3cfed1383576864d54b0cab2deb69f1667546144.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>CipherTrace</h5>
-                    <h3>Frontend Engineer Cryptocurrency & Blockchain</h3>
+                    <h5>Streamflow</h5>
+                    <h3>Frontend engineer</h3>
                 </td>
                 <td width="300">
-                    <code>cryptocurrency,frontend,defi,crypto,cryptocurrencies,back-end,software,testing,ui,web,travel,javascript,api,leader,engineer</code>
+                    <code>frontend,design,web3,crypto,react,software,growth,payroll,js,fintech,go,engineer,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-cryptocurrency-blockchain-ciphertrace-140994" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-streamflow-143526" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div>CipherTrace, a Mastercard company, is a rapidly growing leader in cryptocurrency intelligence and compliance. Our team has introduced novel solutions to challenges including sanctions compliance for DeFi and the Crypto Travel Rule. Our mission is to grow the blockchain economy by making crypto safe for users and trusted by governments. CipherTrace operates on a global scale to assist banks, cryptocurrency exchanges, law enforcement agencies, regulators, VASPs, and businesses in preventing fraud, human trafficking, money laundering, and other illicit activity where cryptocurrency is involved.</div><div><br></div><div>The ideal candidate should be a passionate, self-motivated, team player with experience working in a quickly evolving environment and who has a willingness to work and learn in a collaborative organization.</div><div><br></div><div><br></div><p></p><h4>Responsibilities</h4><p></p><p></p><ul>
-<li>Build the next generation cryptocurrency tools, law enforcement tools, and DeFi platforms.</li>
-<li>Build middleware services to interface the UI to the Back End infrastructure.</li>
-<li>Write <a href="http://angular.js/" class="postings-link" rel="noopener noreferrer nofollow">Angular.js</a> to display Bitcoin, Ethereum, and other cryptocurrencies cross-platform.</li>
-<li>Debug and perform quality testing on the Blockchain cryptocurrency data user interface.</li>
-<li>Design reactive API software for real-time cryptocurrency displays.</li>
-<li>Write software in JavaScript to allow users to interactively investigate wallets and addresses of multiple cryptocurrencies.</li>
-<li>Co-design software APIs with back-end developers to access cryptocurrency feeds.</li>
-<li>Develop middleware modules to visualize cryptocurrency transactions.</li>
-</ul><p></p><h4>Requirements</h4><p></p><p></p><ul>
-<li>8+ years of experience building enterprise JavaScript web applications.</li>
-<li>JavaScript, TypeScript, Python, styled components, and frameworks like Angular, React, <a href="http://node.js/" class="postings-link" rel="noopener noreferrer nofollow">Node.js</a>.</li>
-<li>SQL/noSQL, Cassandra, PostgreSQL, MySQL, BigQuery, Elasticsearch, GraphQL.</li>
-<li>Restful APIs, Kafka, and microservices.</li>
-<li>Data visualization app development and concepts.</li>
-<li>Blockchain technologies, DeFi, law enforcement software, or cryptocurrencies.</li>
-</ul><p></p><h4>Nice to Have</h4><p></p><p></p><ul>
-<li>Experience with data visualization libraries like <a href="http://d3.js/" class="postings-link" rel="noopener noreferrer nofollow">D3.js</a>.</li>
-<li>Strong communication skills (both spoken and written).</li>
-</ul><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **INGENIOUS** and tag RNTQuMjI2LjI0MS43 when applying to show you read the job post completely (#RNTQuMjI2LjI0MS43). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <h3><b>The Company</b></h3><br><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Streamflow</a> helps web3 organizations distribute tokens efficiently and effectively. We leverage our token streaming protocol to provide a suite of tools every Solana organization can use to manage and stream tokens.<p></p><h3><b>Why You Should Join Us</b></h3><br>Streamflow is built on the values of integrity, curiosity and passion. We look to uphold these qualities in our day to day and look for these qualities in candidates who apply.<br>Our work culture is fast moving, engaging and ambitious. We passionately believe in the value that our protocol can unlock for the world and weâre looking to work with mission driven people who are ready to jump onboard with us, roll up their sleeves and get stuck into it. We believe in selfless sharing of knowledge, transparency and insight into all aspects of the business and personal initiative.<br>We are a remote-first, office-optional team that prioritises high quality written communication and the possibility of working asynchronously across timezones because we believe that the best talent exists on every corner of the earth. We are developing quite literally on bleeding edge technology on the most high performance blockchain, Solana. We offer above market salaries and discuss specific figures early on in the hiring process.<p></p><h3><b>Weâre seeking</b></h3><br>We're looking for a full-time Frontend Engineer to supercharge our presence in the Solana ecosystem and beyond. We need to grow the Streamflow brand to ensure users think of Streamflow first when looking to solve token vesting and payroll on Solana. We are looking for individuals who are here for the long-term, fully committing themselves to being a part of the Streamflow team.<p>If you:<br><ul>
+<li align="left">you can work with at least 4h of overlap with the Central European Timezone</li>
+<li align="left">have 5+ years of professional experience working as a software engineer specialized in client side applications development (working with any of the popular js frameworks)</li>
+<li align="left">have been part of high growth technology start-ups or scale-ups, preferably in the crypto or FinTech space as a dedicated full-time contributor</li>
+</ul><br>It will be a perfect fit if you like:<br><ul>
+<li align="left">To work</li>
+<li align="left">To develop</li>
+<li align="left">To learn (and do it fast)</li>
+<li align="left">To go outside the comfort zone</li>
+<li align="left">To do what is best for the business</li>
+<li align="left">To participate in the construction of processes and organizations from an early stage</li>
+<li align="left">Autonomy and responsibility</li>
+<li align="left">Very ambitious projects</li>
+</ul><br></p><h3><b>Bonus points</b></h3><br>Weâre confident that if you:<br><ul>
+<li align="left">Break React applications (into components, hehe) and have experience in that</li>
+<li align="left">Want to make JS SDK (NPM packages) for other developers</li>
+<li align="left">Like to implement design, not just functionality</li>
+<li align="left">Are interested in Web3 and Solana blockchain</li>
+</ul>youâre more likely to succeed in this role.<p></p><h3><b>Responsibilities</b></h3><br>Responsibilities include:<br><ul>
+<li align="left">Hands-on work on the front end using tools like React, TypeScript, Next.js, Tailwind, Solana Web3.js</li>
+<li align="left">Participate in technical discussions with team members, provide expert opinion and be involved in technical decision making</li>
+<li align="left">Take ownership of key pieces of streamflowâs client side stack and steer them in the right direction</li>
+<li align="left">Work with product and design teams to rapidly build experimental products.</li>
+</ul><br><h3><b>Compensation:</b></h3><br>Salary is negotiable based on previous experience and crypto-native exposure.<p></p><h3><b>Links:</b></h3><br><ul>
+<li align="left"><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Website</a></li>
+<li align="left"><a class="bbcode-link" href="https://app.streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">dApp</a></li>
+<li align="left"><a class="bbcode-link" href="https://twitter.com/streamflow_fi" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
+</ul><br><br/><br/>Please mention the word **TRIUMPHANT** and tag RNTIuOTEuMjQyLjE4NA== when applying to show you read the job post completely (#RNTIuOTEuMjQyLjE4NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -53,7 +61,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote" align="right" target="_blank">Apply</a>
@@ -127,7 +135,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>303 days ago</text>
+                <text>304 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-frontend-engineer" align="right" target="_blank">Apply</a>
@@ -200,117 +208,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-frontend-engineer">https://weworkremotely.com/remote-jobs/agencyanalytics-senior-frontend-engineer</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1421232/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Hygraph</h5>
-                    <h3>Senior Frontend Engineer (f/m/d)</h3>
-                </td>
-                <td width="300">
-                    <code>AWS,developer,frontend,golang</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p class="sc-1fwbcuw-0 jcrpKX" style="line-height: 1.6em; color: #081026; margin-bottom: 30px; margin-top: 0px; word-break: break-word; font-variant-ligatures: none;"><strong><em><span style="color: #081026;"><span style="font-variant-ligatures: none;">Remote Anywhere<br></span></span></em></strong></p>
-<p style="margin-bottom: 4px;"><strong>How you will make an impact</strong><strong><br></strong></p>
-<p style="margin-bottom: 4px;"><strong> </strong></p>
-<p style="margin-bottom: 4px;">As our <strong>Senior </strong><strong>Frontend Engineer,</strong> you will be working on building an exceptional user experience for the thousands of customers that interact with our product daily. With our product's constant growth and evolution, you will be exposed to interesting challenges as we develop new features, improvements, and changes in our architecture.</p>
-<p> </p>
-<p style="margin-bottom: 4px;"><strong>Some of your tasks and responsibilities include:</strong></p>
-<ul style="margin-bottom: 10px;">
-<li style="line-height: 1.8;">Collaborating closely within an autonomous, cross-functional team, solving exciting challenges and planning continuous improvements.</li>
-<li style="line-height: 1.8;">Designing and implementing scalable and performant solutions.</li>
-<li style="line-height: 1.8;">Participating in the development and adoption of our UI component library.</li>
-<li style="line-height: 1.8;">Making architectural decisions and recommendations for creating a best-in-class user experience.</li>
-<li style="line-height: 1.8;">Participating as part of internal Engineering Guilds, to identify architectural improvements, and prioritize and act on them.</li>
-<li style="line-height: 1.8;">Bringing creative ideas and expertise to the table, having a real impact on our product and engineering practices.</li>
-<li style="line-height: 1.8;">Working in an environment that supports your growth.</li>
-</ul>
-<p style="margin-bottom: 4px;"><strong> </strong></p>
-<p style="margin-bottom: 4px;"><strong>Expectations timeline</strong><strong><br></strong></p>
-<p style="margin-bottom: 4px;"><strong>1 Month</strong></p>
-<p style="margin-bottom: 4px;">You have gone through different onboarding sessions covering our product, current architecture, and relevant services we run on production learned about the company's origin and current vision and met colleagues from different departments as part of onboarding as well as weekly virtual social events.</p>
-<p style="margin-bottom: 4px;">You would have started to get to know your teammates, learned how we work daily, and contributed to our codebase.</p>
-<p> </p>
-<p style="margin-bottom: 4px;"><strong>3 Months</strong></p>
-<p style="margin-bottom: 4px;">You will be familiar with most concepts related to our product and worked alongside your teammates to deliver features and improvements on production successfully.</p>
-<p style="margin-bottom: 4px;">You would have had a few 1:1s with your team lead to check in on how things are going, you will have participated in some engineering guild sessions and collaborated with fellow engineers to improve our architecture and developer experience.</p>
-<p> </p>
-<p style="margin-bottom: 4px;"><strong>6 Months</strong></p>
-<p style="margin-bottom: 4px;">You will have made solid contributions to our product, influenced our ways of working, shared knowledge, and previous experience helping substantially with important decision-making.</p>
-<p> </p>
-<p style="margin-bottom: 4px;"><strong>Our tech stack</strong></p>
-<ul style="margin-bottom: 10px;">
-<li style="line-height: 1.8;">TypeScript, Node.js, React, Golang, PSQL</li>
-<li style="line-height: 1.8;">GraphQL, REST</li>
-<li style="line-height: 1.8;">Pulumi, AWS, Vercel, Cloudflare, Fastly, New Relic, Github actions</li>
-</ul>
-<p class="sc-1fwbcuw-0 jcrpKX" style="line-height: 1.6em; color: #081026; margin-bottom: 30px; margin-top: 0px; word-break: break-word; font-variant-ligatures: none;"> </p>
-<p style="margin-bottom: 4px;"><strong>Our expectations from you</strong></p>
-<ul style="margin-bottom: 10px;">
-<li style="line-height: 1.8;">6+ years of frontend development experience, preferably with React and TypeScript.</li>
-<li style="line-height: 1.8;">Experience writing testable code, following best practices and design patterns when applicable.</li>
-<li style="line-height: 1.8;">Mindful about performance and able to measure it meaningfully.</li>
-<li style="line-height: 1.8;">Strong expertise in analyzing product requirements and creating technical designs.</li>
-<li style="line-height: 1.8;">Strong collaboration and communication skills, both verbal and written. Ability to take ownership, but also ask for help and advice when needed.</li>
-<li style="line-height: 1.8;">Openness to feedback and willingness to learn, reflect, and grow within the organization</li>
-<li style="line-height: 1.8;">Experience in successfully driving technical, business, and people-related initiatives that improved productivity, performance, and quality.</li>
-</ul>
-<p> </p>
-<p style="margin-bottom: 4px;"><em><strong>Bonus points:</strong></em></p>
-<ul style="margin-bottom: 10px;">
-<li style="line-height: 1.8;">Experience working with design systems.</li>
-<li style="line-height: 1.8;">Experience with developing APIs using GraphQL and/or REST.</li>
-<li style="line-height: 1.8;">Experience with monitoring and observability tooling.</li>
-<li style="line-height: 1.8;">Experience with accessibility and tools to measure it.</li>
-<li style="line-height: 1.8;">Experience mentoring other teammates to grow and improve continuously.</li>
-</ul>
-<p> </p>
-<p> </p>
-<p style="margin-bottom: 4px;"><strong>The Process</strong></p>
-<ul style="margin-bottom: 10px;">
-<li dir="ltr" style="line-height: 1.8;">
-<p dir="ltr" style="margin-bottom: 4px;">Intro call with our Talent Acquisition Manager.</p>
-</li>
-<li style="line-height: 1.8;">Interview with Hiring Manager(s) (Case study or assignment or code pairing if applicable).</li>
-<li style="line-height: 1.8;">Team Fit Call.</li>
-<li style="line-height: 1.8;">Reference Check and Offer.</li>
-</ul>
-<p> </p>
-<p style="margin-bottom: 4px;">The response time is usually within 2 weeks for each step. You could expect some alterations when necessary.</p>
-<p style="margin-bottom: 4px;"><strong> </strong></p>
-<p style="margin-bottom: 4px;"><strong> </strong></p>
-<p style="margin-bottom: 4px;"><strong>About us</strong></p>
-<p style="margin-bottom: 4px;"><strong> </strong></p>
-<p style="margin-bottom: 4px;">At <strong>Hygraph</strong> we're building the leading GraphQL Federated Content Platform. Our goal is to enable developers and content operators to create, enrich, unify, and deliver content across platforms seamlessly. We are trusted to manage content for teams from over 50,000 organizations like Telenor, Burrow, Gamescom, and Shure. With over $10M in funding from OpenOcean, Peak, and Paua Ventures, you will be part of a remote-first and globally distributed team of over 60 colleagues, committed to working collaboratively, transparently, and passionately.</p>
-<p style="margin-bottom: 4px;"><strong> </strong></p>
-<p style="margin-bottom: 4px;"><strong>Working at Hygraph</strong></p>
-<ul style="margin-bottom: 10px;">
-<li style="line-height: 1.8;">Our teams are passionate about our product.</li>
-<li style="line-height: 1.8;">Self-motivation, trust, and collaboration is the driving factor for our success.</li>
-<li style="line-height: 1.8;">We believe in a remote-first approach where everyone is encouraged to do their best from wherever they are and work together with transparency, accountability, and ownership.</li>
-<li style="line-height: 1.8;">We have a workstation budget to support the remote work on top of providing the latest company IT equipment (e.g. Macbook).</li>
-<li style="line-height: 1.8;">We are curious, risk-takers, and we experiment with our ideas and make things happen.</li>
-<li style="line-height: 1.8;">We work together to provide optimal solutions for our users and adapt to the people and market needs.</li>
-<li style="line-height: 1.8;">Our flexible working model encourages us to work according to what works best for us and maintain an excellent work-life balance.</li>
-<li style="line-height: 1.8;">We learn continuously through feedback and have a yearly learning budget to attend training and conferences.</li>
-<li style="line-height: 1.8;">We are an international and friendly team spread across 17 countries, coming together once a year for our annual off-site/retreat.</li>
-</ul>
-<p style="margin-bottom: 4px;"><em><strong> </strong></em></p>
-<p style="margin-bottom: 4px;"><em><strong>Hygraph is an equal opportunity employer committed to hiring people with diverse backgrounds. We believe that diversity, unique experiences, qualities, and different cultures enrich our workspace's productivity and promote innovation and creativity.</strong></em></p>
-<img src="https://remotive.com/job/track/1421232/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
