@@ -10,7 +10,7 @@
                     <code>manager,nft,training,software,testing,growth,health</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-product-manager-rarible-142498" align="right" target="_blank">Apply</a>
@@ -19,7 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><b style="font-size:18px;">About Rarible</b></div><div>Rarible is a creator-centric NFT marketplace with a community governance model. We are a #1 ranked marketplace in the world, having exceeded $40 million USD in monthly trading volume. Rarible reached over 10x growth in the past 3 months, and is expanding rapidly! In addition, Rarible is releasing the Rarible Protocol which allows developers, other marketplaces, and partners to easily mint NFTs and to share NFT inventory with a decentralized order book.</div><div><br></div><div>Join our decentralized, motivated and fully remote team building the NFT marketplace of the future.</div><br>Tasks<br><li>Work on the messenger</li><li>Managing the development and release of new features</li><li>Formation and testing of product hypotheses</li><li>Communication with users</li><li>Research in the industry</li><li>If you've created a great consumer product and are ready to take on new heights.</li><div><b style="font-size:18px;">What do we offer</b></div><div>ð Working for a rapidly expanding global startup</div><div>ð Mentorship, training and career progression plans with leadership focused on developing the teams</div><div>ð Team that cares about products and working conditions</div><div>ð Flexible Hours start of the working day </div><div>ð Full-time, paid vacations remote first with relocation packages available, hardware and software support </div><div>ð Attractive package to include base equity and/or tokens, equity as well as health benefits </div><br/><br/>Please mention the word **EXTRAORDINARILY** and tag RNTQuMjI2LjI0MS43 when applying to show you read the job post completely (#RNTQuMjI2LjI0MS43). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <div><b style="font-size:18px;">About Rarible</b></div><div>Rarible is a creator-centric NFT marketplace with a community governance model. We are a #1 ranked marketplace in the world, having exceeded $40 million USD in monthly trading volume. Rarible reached over 10x growth in the past 3 months, and is expanding rapidly! In addition, Rarible is releasing the Rarible Protocol which allows developers, other marketplaces, and partners to easily mint NFTs and to share NFT inventory with a decentralized order book.</div><div><br></div><div>Join our decentralized, motivated and fully remote team building the NFT marketplace of the future.</div><br>Tasks<br><li>Work on the messenger</li><li>Managing the development and release of new features</li><li>Formation and testing of product hypotheses</li><li>Communication with users</li><li>Research in the industry</li><li>If you've created a great consumer product and are ready to take on new heights.</li><div><b style="font-size:18px;">What do we offer</b></div><div>ð Working for a rapidly expanding global startup</div><div>ð Mentorship, training and career progression plans with leadership focused on developing the teams</div><div>ð Team that cares about products and working conditions</div><div>ð Flexible Hours start of the working day </div><div>ð Full-time, paid vacations remote first with relocation packages available, hardware and software support </div><div>ð Attractive package to include base equity and/or tokens, equity as well as health benefits </div><br/><br/>Please mention the word **EXTRAORDINARILY** and tag RNTIuOTEuMjQyLjE4NA== when applying to show you read the job post completely (#RNTIuOTEuMjQyLjE4NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -34,7 +34,7 @@
                     <code>manager,bitcoin,react,system,software,growth,financial,senior,engineering</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-product-manager-blockstream-142509" align="right" target="_blank">Apply</a>
@@ -63,7 +63,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Comfort with the pace, scrappiness and dynamic environment within a growing startup</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Entrepreneurial mindset; know how to be nimble, spot and react to new opportunities</span></li>
 </ul>
-<p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/EKrQP99gUMI" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **DEFENDER** and tag RNTQuMjI2LjI0MS43 when applying to show you read the job post completely (#RNTQuMjI2LjI0MS43). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/EKrQP99gUMI" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **DEFENDER** and tag RNTIuOTEuMjQyLjE4NA== when applying to show you read the job post completely (#RNTIuOTEuMjQyLjE4NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -78,7 +78,7 @@
                     <code>manager,design,defi,crypto,ethereum,system,security,financial,finance,node,strategy,management,operations,marketing,sales,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-forta-product-manager-openzeppelin-141988" align="right" target="_blank">Apply</a>
@@ -157,7 +157,7 @@
 <h3 class="job-description-title"> </h3>
 </div>
 </div>
-</div><br/><br/>Please mention the word **IMPRESSES** and tag RNTQuMjI2LjI0MS43 when applying to show you read the job post completely (#RNTQuMjI2LjI0MS43). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **IMPRESSES** and tag RNTIuOTEuMjQyLjE4NA== when applying to show you read the job post completely (#RNTIuOTEuMjQyLjE4NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -172,7 +172,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-product-manager-technical-1" align="right" target="_blank">Apply</a>
@@ -215,6 +215,72 @@
 <p>We're an equal opportunity employer. All applicants will be considered for employment without attention to race, colour, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status.</p>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/overleaf-product-manager-technical-1">https://weworkremotely.com/remote-jobs/overleaf-product-manager-technical-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>A.Team</h5>
+                    <h3> Senior Independent Product Manager/Product Designer ($110-$190/hr)</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>360 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4151/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> NYC, SF, and TLV
+    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
+</p>
+
+<div>
+<a href="https://build.a.team/wwrproductmgrfasttrack">A·Team</a> is a VC-backed, stealth, application-only home on the internet for Senior Product Managers &amp; Product Designers (along with developers &amp; UX/UI folks) to team up with the best companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
+<li>
+<strong>High-paying, meaningful client missions (where you'd lead Product) with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li>
+<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li>
+<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li>
+<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li>
+<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul><div>
+<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrproductmgrfasttrack">https://build.a.team/wwrproductmgrfasttrack</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
+</div><ul>
+<li>Once part of A.Team, you’ll regularly be invited to be the lead Product manager/designer for impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old-school non-tech incumbents looking to build as a tech giant would.</li>
+<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
+<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is for:</strong>
+</div><ul>
+<li>Senior Product Managers/Designers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
+<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
+<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
+</div><ul>
+<li>People looking for small gigs.</li>
+<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
+<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
+</ul><div>
+<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrproductmgrfasttrack"><span>A·Team</span></a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
+<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
                 </details>
                 </td>
