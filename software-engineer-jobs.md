@@ -1,5 +1,70 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/27bf94a971585a6b060609eb2850d7c71667632553.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>The Block</h5>
+                    <h3>Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,cryptocurrency,front-end,frontend,back-end,full-stack,code,web,financial,git,content,senior,analytics,engineer,engineering,linux,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-the-block-144041" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>Founded in 2018 and based in NYC, The Block is the leading research, analysis, and news brand in the digital asset space. The Block's team is spread across 7 timezones, covering the global cryptocurrency space 24/7.</div><div>The Block delivers deep insight into how the emerging digital assets sector interacts with traditional finance, technology, governments, and markets. We reach hundreds of thousands of technologists, financial market participants, Fortune 500 professionals, global service providers, policymakers, and more through our main website, dedicated Research Portal, podcast, and events.</div><div>You will be responsible for developing new features, optimizing performance with respect to both our backend and frontend stack, developing and supporting solutions for product analytics, and capturing feedback from our logging and debugging services to both troubleshoot an make improvements.</div><div>An effective Full-Stack Engineer should be able effectively communicate with the team and develop solutions between back-end and front-end implementations and concerns. The ideal candidate must be able to prioritize tasks and complete them in a timely manner.</div><br>You Will<br><li>Be responsible for the feature development of products you are a part of.</li><li>Collaborate with our engineers, researchers, executives, and designers to develop new features and prioritize bug fixes for our products.</li><li>Clearly communicate development progress across the Product & Engineering team.</li><li>Be creative in solving engineering problems.</li><li>Work with team managers on development prioritization and career development opportunities.</li><li>Contribute to the culture of quality, healthy collaboration and leading by example.</li><br>MUST HAVES<br><li>Full-stack experience and able to contribute to both frontend (Vue, Vuex, Nuxt, service workers, PWA) and backend (NodeJS, Adonis/SailsJS/Nest/Loopback or equivalent structured framework, Yarn, Postgres, GraphQL, Redis, memcached) systems.</li><li>Deep technical skill with frontend technologies (SASS, LESS,  Bootstrap utilities, TailwindCss or other similar).</li><li>Strong familiarity with Unix / Linux operating systems and general command-line knowledge.</li><li>Experience with git in a collaborative environment such as Github.</li><li>Responds positively when receiving and giving feedback.</li><li>Experience using code reviews and pair programming within the Agile Development lifecycle.</li><li>Expertise in web analytics and content performance measurements solutions.</li><li>Development Experience with payment processing and membership services.</li><li>Knowledge of common software design patterns and responsive web frameworks.</li><li>Knowledge of email service provider features and APIâs.</li><li>8 or more years experience as a professional software engineer.</li><br>GOOD TO HAVE<br><li>Experience with digital assets, crypto, and blockchain technologies.</li><li>Experience in one or more Business Intelligence (BI) products, such as Google Data Studio, Domo, or Tableau.</li><li>Expertise using developing and/or creating development environments using Docker, Vagrant, Virtual Box or similar platform.</li><br/><br/>Please mention the word **EASINESS** and tag RNTQuODIuOTEuMTU= when applying to show you read the job post completely (#RNTQuODIuOTEuMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/f0babbf5d9161c6ebf6b6af7b38efefc1667572216.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Plaid</h5>
+                    <h3>Software Engineer Financial Institution Authentication</h3>
+                </td>
+                <td width="300">
+                    <code>security,design,hr,software,web,cloud,microsoft,strategy,management,lead,operations,engineer,engineering,digital nomad,financial,bank,recruiting,backend</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-financial-institution-authentication-plaid-143682" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                We believe that the way people interact with their finances will drastically improve in the next few years. Weâre dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaidâs network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Salt Lake City, Washington D.C., London and Amsterdam. #LI-Remote
+
+Unlocking financial freedom for everyone goes beyond building amazing APIs and intelligent tools for developers; it also means enabling consumers to easily control their data sharing and ensuring that every permission change is tracked and auditable. 
+
+Our Financial Institution Authorization and Authentication team works closely with our partners to develop industry leading tools and APIs, ensuring that consumers have complete control over their data sharing. Beyond building solutions for Plaid stakeholders, we also work closely with industry groups to establish standards around data sharing.
+
+As a software engineer on this team, you will be responsible for building, improving and designing products around authorization, authentication, and compliance for our data providers. You will collaborate directly with Plaidâs key partners to understand their most urgent problems and establish a well validated roadmap that will align Plaid with our key partners and lead to a better experience for consumers. 
+
+This involves updating products, features, and services across our entire stack to ensure seamless experiences for our customers, consumers, and partners. It is the most mission-critical component of our infrastructure as it connects millions of bank accounts and billions of transactions to Plaid. 
+
+Most of our backend core systems are written in Go, but that's not a prerequisite. We pick the right tool for the job and have systems in Go, TypeScript, and Python. 
+
+We're guided by our principles, including impact, growing together, embracing openness and positivity, and inventing tomorrow; we're looking for people motivated by those same principles.
+
+
+
+
+Plaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at accommodations@plaid.com.<br/><br/>Please mention the word **COOLEST** and tag RNTQuODIuOTEuMTU= when applying to show you read the job post completely (#RNTQuODIuOTEuMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/06686bc300fdc1b00b0c3ea0ff1634011667373336.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +75,7 @@
                     <code>software,design,security,growth,financial,education,fintech,analytics,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-staff-software-engineer-platform-shared-services-figure-142505" align="right" target="_blank">Apply</a>
@@ -74,7 +139,7 @@
 </ul>
 <p><span style="font-weight:400;">Depending on your residential location certain laws might regulate the way Figure manages applicant data. California Residents, please review our </span><a href="https://drive.google.com/file/d/1eDhTkvbpFETeAvGpsB8e6KzaXES4BWNB/view?usp=sharing" rel="noopener noreferrer nofollow"><span style="font-weight:400;">California Employee and Prospective Employee Privacy Notice</span></a><span style="font-weight:400;"> for further information. By submitting your application, you are agreeing and acknowledging that you have read and understood the above notice.</span></p>
 <p><span style="font-weight:400;">Figure is, unfortunately, unable to provide sponsorship for this position. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.</span></p>
-<p><span style="font-weight:400;">#LI-SB1</span></p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/WgGXwItJTPE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ELEVATE** and tag RNTIuOTEuMjQyLjE4NA== when applying to show you read the job post completely (#RNTIuOTEuMjQyLjE4NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><span style="font-weight:400;">#LI-SB1</span></p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/WgGXwItJTPE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ELEVATE** and tag RNTQuODIuOTEuMTU= when applying to show you read the job post completely (#RNTQuODIuOTEuMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -89,7 +154,7 @@
                     <code>software,macos,lead,senior,engineer</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-staff-principal-software-engineer-rewind-142202" align="right" target="_blank">Apply</a>
@@ -111,32 +176,7 @@ With this audacious goal comes a lot of company growth. And as the company grows
 Internally we aren't fixated on titles & levels since that can lead to needless hierarchy that distracts from the team's collective success. We recognize that not all companies operate that way so we say "Senior / Staff / Principal" to indicate we want people with substantial amounts of experience.
 
 If you're interested in this job, we strongly encourage you to apply: we'd love to see you on our team working toward our audacious vision of giving humans perfect memory.
-<br/><br/>Please mention the word **LAWFUL** and tag RNTIuOTEuMjQyLjE4NA== when applying to show you read the job post completely (#RNTIuOTEuMjQyLjE4NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/1620d57518591afb1c3f141652fe81321667286942.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Audius</h5>
-                    <h3>Software Engineer Smart Contracts</h3>
-                </td>
-                <td width="300">
-                    <code>software,design,crypto,ethereum,system,music,code,web,engineer,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-smart-contracts-audius-141990" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b>Who are we? </b></div><div>
-<a href="https://audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius</a> is a digital streaming service that connects fans directly with artists and exclusive new music. </div><div><br></div><div>It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence. </div><div><br></div><div>Backed by an all-star team of <a href="https://www.crunchbase.com/organization/audius/company_financials#investors" class="postings-link" rel="noopener noreferrer nofollow">investors</a>, Audius was founded in 2018 and serves over 6 million users every month, making it the largest non-financial crypto application ever built.</div><div><br></div><div><b>Who we are looking for? </b></div><div>We are looking for passionate team-players who will help us architect, build, and ship the most difficult parts of the on-chain entities in the Audius protocol, chiefly in Solana (Rust), where you will bring in and craft new expertise on our team. Audius deploys smart contracts across Ethereum and Solana, and we're looking for proficient systems-programmers with a strong background in low-level languages (ideally Rust) to help us deliver the largest non-financial crypto project to date.</div><div><br></div><div>You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. Youâre eager to problem solve in a wide variety of spaces within the blockchain ecosystem (think scalability, governance, NFTs, social tokens, etc.). We solve a lot of problems that can't be easily Googled or searched on StackOverflow, and you have the fundamentals and drive to self-start and come to original solutions.</div><div><br></div><div><b>Our Company</b></div><div>Audius is a 26-person team of entrepreneurs, engineers, audiophiles, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have a monthly concert credit (COVID-19 permitting).</div><div><br></div><div>Our company is fully remote and our team is currently distributed across the United States. </div><p>Key Responsibilities</p><p></p><li>Write, test, and deploy Solana blockchain (Rust) programs</li><li>Write, test, and deploy Ethereum blockchain (Solidity) smart contracts</li><li>Work closely with other blockchain engineers on the team and own core pieces of contract code that powers the economics, data storage, and transactional logic across Audius</li><li>Participate deeply in design discussions around tokenomics, blockchain interoperability, blockchain scalability, and governance systems</li><p>Skills and Experience</p><p></p><li>Deep experience with systems programming, ideally in Rust</li><li>Experience developing and shipping blockchain smart contracts</li><li>3+ years of experience building in production environments</li><li>Solid conceptual understanding of full stack software development including system architecture, web serving infrastructure, and database design</li><li>Great interpersonal and communication skills, comfort working within a small team, and owning projects</li><p></p><br/><br/>Please mention the word **RIGHT** and tag RNTIuOTEuMjQyLjE4NA== when applying to show you read the job post completely (#RNTIuOTEuMjQyLjE4NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **LAWFUL** and tag RNTQuODIuOTEuMTU= when applying to show you read the job post completely (#RNTQuODIuOTEuMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -151,7 +191,7 @@ If you're interested in this job, we strongly encourage you to apply: we'd love 
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-1" align="right" target="_blank">Apply</a>
@@ -247,79 +287,6 @@ If you're interested in this job, we strongly encourage you to apply: we'd love 
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8900/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Fleek</h5>
-                    <h3> Founding Full-Stack Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/fleek-founding-full-stack-software-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8900/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://joinfleek.com">https://joinfleek.com</a>
-</p>
-
-<div>
-<strong>About Fleek<br></strong>Fleek is a B2B Marketplace for wholesale second hand fashion. We enable professional resellers and retail stores to buy from vintage clothing suppliers around the world. We are backed by top Silicon Valley VCs like Andreessen Horowitz (a16z), Y Combinator, and more.</div><div>
-<br><br>
-</div><div>
-<strong>Team<br></strong>Fleek is a set of funky individuals who find unity in diversity with the single mission of helping sustainability, promoting circular fashion while building a beautiful product experience.<br><br>
-</div><div>Our 10 people team consists of ex-YC founders leading our engineering effort, ex-Uber &amp; Doordash folks leading our operations and supply strategy. Alongside our Growth team is lead by folks who went to Cambridge, Oxford and UC Berkeley.</div><div>
-<br><br>
-</div><div>
-<strong>Technology stack<br></strong>Fleek is built with a modern native stack with Javascript as its backbone and React, React Native as the frameworks for app development. We have two buyer and supplier facing apps on App Store and Play Store. We also have a website that currently runs on Shopify (to be soon deprecated).<br><br>
-</div><div>We employ AWS as our cloud provider and use technologies in OpenSearch, DataFlow and Lambda, Video streaming to build on top.<br><br>
-</div><div>Our philosophy is to reuse where possible and innovate when we can add value.<br><br>
-</div><div><br></div><div>
-<strong>Role specific details<br></strong>Now that Fleek has a consistent user base of ~ 1000 MAU (each spending upwards of $1000/mo); there’s a need to evolve from an MVP to a product that can support scale &amp; personalization.<br><br>
-</div><div>We are looking for a Full-Stack Ninja who has 4+ years of experience building and/or leading small tech teams in a Javascript native environment. In your role you will be:<br><br>
-</div><ul>
-<li>Responsible for developing and hands-on coding in our backend (AWS) and frontend (React Native) environment</li>
-<li>Evolve our rudimentary MVP into a sophisticated personalized marketplace software which is underpinned by using open technologies and efficient application of rules on top</li>
-<li>Implement a native P2P video experience for the video shopping experience</li>
-<li>Ability to communicate, guide and lead small software teams in terms of best practices in technology</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>How we work<br>Fast</strong> - we move fast because there are small business owner who count on us. We have a duty to ship solutions for them and we can’t be lazy about it. Big things can also happen fast <a href="https://patrickcollison.com/fast"><strong>https://patrickcollison.com/fast<br></strong></a><br>
-</div><div>
-<strong>Remote first</strong> - current team members are in Asia, Europe and US. There are team specific meetings where we need time to overlap, the rest is flexible. Like <a href="https://about.gitlab.com/company/culture/all-remote/tips/#tips-for-leaders-and-other-companies"><strong>https://about.gitlab.com/company/culture/all-remote/tips/#tips-for-leaders-and-other-companies<br></strong></a><br>
-</div><div>
-<strong>Collaborative</strong> - just like in sports, we focus on winning!<br><br>
-</div><div><strong>Requirements</strong></div><ul>
-<li>4+ years of experience with React.JS/ReactNative/Cotlin/Switft building out cross platform apps for iOS and Android</li>
-<li>Experience working in backend/cloud environments like AWS or GCP</li>
-<li>Experience working in a collaborative environment</li>
-<li>Having worked at a startup is a must!</li>
-</ul><div>
-<br><strong>Benefits<br></strong>We at Fleek believe in happy employees :-)<br><br>
-</div><ul>
-<li>Comprehensive healthcare coverage</li>
-<li>Exclusive employee clothing drops courtesy Fleek</li>
-<li>Flexible work hours &amp; time off.  We don’t care where you are as long as the work gets done</li>
-<li>Shared ownership: Being On Fleek means you’ll own a part of it</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/fleek-founding-full-stack-software-engineer">https://weworkremotely.com/remote-jobs/fleek-founding-full-stack-software-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9182/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -330,7 +297,7 @@ If you're interested in this job, we strongly encourage you to apply: we'd love 
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote" align="right" target="_blank">Apply</a>
@@ -412,7 +379,7 @@ If you're interested in this job, we strongly encourage you to apply: we'd love 
                     <code>data science,developer,kubernetes,machine learning</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineering-content-writer-1214006" align="right" target="_blank">Apply</a>
@@ -423,136 +390,6 @@ If you're interested in this job, we strongly encourage you to apply: we'd love 
                 <details><summary>Description</summary>
                 <p style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 0.75rem; margin-bottom: 0.75rem; color: rgb(55, 65, 81);  white-space: pre-line;">If you're a software developer and you want to build your personal brand while getting paid to write about interesting technical topics on the side, this will be a great part-time role for you!</p><p style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 0.75rem; margin-bottom: 0.75rem; color: rgb(55, 65, 81);  white-space: pre-line;">We are specifically looking for developers with experience in the following areas:</p><ol style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 1.25em; margin-bottom: 1.25em; padding-left: 1.625em; color: rgb(55, 65, 81);  white-space: pre-line;"><li style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 0.15rem; margin-bottom: 0.15rem; padding-left: 0.375em;"><p style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 0.75rem; margin-bottom: 0.75rem;">Kubernetes</p></li><li style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 0.15rem; margin-bottom: 0.15rem; padding-left: 0.375em;"><p style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 0.75rem; margin-bottom: 0.75rem;">Data Engineering</p></li><li style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 0.15rem; margin-bottom: 0.15rem; padding-left: 0.375em;"><p style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 0.75rem; margin-bottom: 0.75rem;">Data Science</p></li><li style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 0.15rem; margin-bottom: 0.15rem; padding-left: 0.375em;"><p style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 0.75rem; margin-bottom: 0.75rem;">Video</p></li><li style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 0.15rem; margin-bottom: 0.15rem; padding-left: 0.375em;"><p style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 0.75rem; margin-bottom: 0.75rem;">Cybersecurity</p></li><li style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 0.15rem; margin-bottom: 0.15rem; padding-left: 0.375em;"><p style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 0.75rem; margin-bottom: 0.75rem;">Mobile app development</p></li></ol><p style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 0.75rem; margin-bottom: 0.75rem; color: rgb(55, 65, 81);  white-space: pre-line;">Draft.dev’s writers create technical blog posts and tutorials for clients in a wide range of industries and areas of technology. Writer pay starts at $315 per ~1500-word article and goes up as you complete more assignments.</p><p style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 0.75rem; margin-bottom: 0.75rem; color: rgb(55, 65, 81);  white-space: pre-line;">This is a great side hustle as almost all our 200+ writers are full-time developers with a background in software engineering, data engineering, machine learning, product management, or similar.</p><p style="border-color: rgb(229, 229, 229); --tw-border-spacing-x:0; --tw-border-spacing-y:0; --tw-translate-x:0; --tw-translate-y:0; --tw-rotate:0; --tw-skew-x:0; --tw-skew-y:0; --tw-scale-x:1; --tw-scale-y:1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness:proximity; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width:0px; --tw-ring-offset-color:#fff; --tw-ring-color:rgba(59,130,246,0.5); --tw-ring-offset-shadow:0 0 #0000; --tw-ring-shadow:0 0 #0000; --tw-shadow:0 0 #0000; --tw-shadow-colored:0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; margin-top: 0.75rem; margin-bottom: 0.75rem; color: rgb(55, 65, 81);  white-space: pre-line;">Because we create content that will be read by a wide range of readers around the world, we are committed to supporting diversity in our writers (we currently have writers in over 50 countries). If you have any of the skills listed above, please apply!</p>
 <img src="https://remotive.com/job/track/1214006/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Iterative</h5>
-                    <h3>Senior Software Engineer - Front-end, Typescript</h3>
-                </td>
-                <td width="300">
-                    <code>backend,git,machine learning,python</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>The ML tools ecosystem is what JS space was 10 years ago: there’s a clear need for better tools, frameworks, and open standards. <span class="notion-enable-hover" style="font-style: italic;">ITERATIVE</span> is already a well known company in this fast-evolving space with a big, engaged open-source community. Please consider joining our <span class="notion-enable-hover" style="font-style: italic;">remote-first team</span> if you love open-source, if you’re interested in building dev tools and simplifying the lives of many, many developers in ML.</p>
-<p><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;"><br class="Apple-interchange-newline">Job Description</span></p>
-<p>We’re seeking<span class="notion-enable-hover" style="font-weight: 600;"> </span><span class="notion-enable-hover">TypeScript front-end engineers to build our</span><span class="notion-enable-hover"> <a href="https://studio.iterative.ai/" rel="nofollow" style="font-weight: 600;">SaaS product</a> and a</span><span class="notion-enable-hover" style="font-weight: 600;"> VS Code UI</span> (to be open sourced soon!) for our popular machine learning tools: <a class="notion-link-token notion-enable-hover" href="http://dvc.org/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--1168671846" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">DVC</span></a> (9k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span>on GitHub) and <a class="notion-link-token notion-enable-hover" href="http://cml.dev/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--2051758088" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">CML</span></a> (3k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span> on GitHub).</p>
-<p><span style="color: var(--remotive-chocolate);">If you have experience with dev tools like GitHub, UI plugins for Git, etc., you should have some sense what the project is like (if not, check our <a href="https://iterative.ai/" rel="nofollow">site</a>).</span></p>
-<p> </p>
-<p class="h3">Tech Stack</p>
-<ul>
-<li>TypeScript</li>
-</ul>
-<ul>
-<li>Node</li>
-</ul>
-<ul>
-<li>React</li>
-</ul>
-<ul>
-<li>Python (on the backend)</li>
-</ul>
-<p> </p>
-<p class="h3">Must have</p>
-<ul>
-<li>Strong TS/JS/Node experience (5+ years)</li>
-</ul>
-<ul>
-<li>Excellent communication skills and a positive mindset 🤗</li>
-</ul>
-<ul>
-<li>Initiative to help shape the engineering practices, products, and culture of a young startup</li>
-</ul>
-<p><br><br></p>
-<p class="h3">Nice to have</p>
-<ul>
-<li>Python or open source experience - good to have</li>
-</ul>
-<ul>
-<li>Some domain knowledge (DS/ML understanding) - an advantage</li>
-</ul>
-<p> </p>
-<img src="https://remotive.com/job/track/1187421/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1187416/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Iterative</h5>
-                    <h3>Senior Software Engineer  - DevTools, Open Source, Python</h3>
-                </td>
-                <td width="300">
-                    <code>data science,machine learning,python,open source</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Job Description</strong></p>
-<p>Strong Python knowledge and excellent coding culture (standards, unit test, etc) are required. Alternatively, strong skill in other languages along with some knowledge of Python is also acceptable.</p>
-<p><br><br></p>
-<div class="h3">Responsibilities</div>
-<ul>
-<li>Discuss and research issues, features, new products.</li>
-</ul>
-<ul>
-<li>Write code (see some <a class="postings-link" href="https://github.com/iterative/dvc/pulls?q=is%3Apr+is%3Aclosed" rel="nofollow"><strong>PR examples</strong></a>).</li>
-</ul>
-<ul>
-<li>Write docs if needed for your code (see this <a class="postings-link" href="https://github.com/iterative/dvc.org" rel="nofollow"><strong>repo</strong></a>).</li>
-</ul>
-<ul>
-<li>Being actively involved with the community - talk to users on Github, Discord, forum.</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Must have</div>
-<ul>
-<li>Motivation and interest</li>
-</ul>
-<ul>
-<li>Remote work self-discipline</li>
-</ul>
-<ul>
-<li>Excellent communication skills - clear, constructive, and respectful dialog with other team members, community.</li>
-</ul>
-<ul>
-<li>Can focus and deliver a task w/o constantly switching to other stuff - respect team's planning, deadlines, etc</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Great to have</div>
-<ul>
-<li>Experience working remotely</li>
-</ul>
-<ul>
-<li>Open source contributions or experience of maintaining, developing an open source project</li>
-</ul>
-<ul>
-<li>System programming experience - kernel, databases, etc.</li>
-</ul>
-<ul>
-<li>Machine learning or data science experience</li>
-</ul>
-<img src="https://remotive.com/job/track/1187416/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
