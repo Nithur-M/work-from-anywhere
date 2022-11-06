@@ -1,5 +1,29 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/a7c520927488ede1b18582b6a5249e641667632524.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Staked</h5>
+                    <h3>Technical Product Manager MEV</h3>
+                </td>
+                <td width="300">
+                    <code>manager,defi,crypto,engineering</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-technical-product-manager-mev-staked-144037" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Staked is looking for a hyper-organized technical project manager to help us run our development process. A great candidate eyes their to-do list as an enemy to be vanquished. You're eager to knock items off your list and great at prioritizing when the list gets too long to handle. (it will!)Â </p><p>The core of the role is helping to organize the agile process for the technical team responsible for Maximal Extractable Value(MEV). This project enables our staking customers to earn more from their staked assets, so is critically important to our long-term future. A great technical project manager will have demonstrable experience with Agile processes (scrum, sprint, etc.) and the relevant tooling that helps to manage it. They will have the ability to schedule and prioritize various workstreams with multiple individual contributors, keeping in mind the various deadlines the business needs to hit. A passion for crypto and DeFi is a major plus/Â </p><p>The technical project manager needs to take an active role facilitating communication with and among our engineering team. They should drive to get commitment/buy-in from all stakeholders, and continuously assess whether those commitment seems reasonable. The role also includes scheduling meetings and outreach with Staked's technical partners, which tend to be the leading blockchain projects around the world.Â </p><br/><br/>Please mention the word **CONTENTMENT** and tag RNTQuODIuOTEuMTU= when applying to show you read the job post completely (#RNTQuODIuOTEuMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/45d4efc3c6c5e7c9d622c95a81c216dc1667373315.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +34,7 @@
                     <code>manager,nft,training,software,testing,growth,health</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-product-manager-rarible-142498" align="right" target="_blank">Apply</a>
@@ -19,7 +43,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><b style="font-size:18px;">About Rarible</b></div><div>Rarible is a creator-centric NFT marketplace with a community governance model. We are a #1 ranked marketplace in the world, having exceeded $40 million USD in monthly trading volume. Rarible reached over 10x growth in the past 3 months, and is expanding rapidly! In addition, Rarible is releasing the Rarible Protocol which allows developers, other marketplaces, and partners to easily mint NFTs and to share NFT inventory with a decentralized order book.</div><div><br></div><div>Join our decentralized, motivated and fully remote team building the NFT marketplace of the future.</div><br>Tasks<br><li>Work on the messenger</li><li>Managing the development and release of new features</li><li>Formation and testing of product hypotheses</li><li>Communication with users</li><li>Research in the industry</li><li>If you've created a great consumer product and are ready to take on new heights.</li><div><b style="font-size:18px;">What do we offer</b></div><div>ð Working for a rapidly expanding global startup</div><div>ð Mentorship, training and career progression plans with leadership focused on developing the teams</div><div>ð Team that cares about products and working conditions</div><div>ð Flexible Hours start of the working day </div><div>ð Full-time, paid vacations remote first with relocation packages available, hardware and software support </div><div>ð Attractive package to include base equity and/or tokens, equity as well as health benefits </div><br/><br/>Please mention the word **EXTRAORDINARILY** and tag RNTIuOTEuMjQyLjE4NA== when applying to show you read the job post completely (#RNTIuOTEuMjQyLjE4NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <div><b style="font-size:18px;">About Rarible</b></div><div>Rarible is a creator-centric NFT marketplace with a community governance model. We are a #1 ranked marketplace in the world, having exceeded $40 million USD in monthly trading volume. Rarible reached over 10x growth in the past 3 months, and is expanding rapidly! In addition, Rarible is releasing the Rarible Protocol which allows developers, other marketplaces, and partners to easily mint NFTs and to share NFT inventory with a decentralized order book.</div><div><br></div><div>Join our decentralized, motivated and fully remote team building the NFT marketplace of the future.</div><br>Tasks<br><li>Work on the messenger</li><li>Managing the development and release of new features</li><li>Formation and testing of product hypotheses</li><li>Communication with users</li><li>Research in the industry</li><li>If you've created a great consumer product and are ready to take on new heights.</li><div><b style="font-size:18px;">What do we offer</b></div><div>ð Working for a rapidly expanding global startup</div><div>ð Mentorship, training and career progression plans with leadership focused on developing the teams</div><div>ð Team that cares about products and working conditions</div><div>ð Flexible Hours start of the working day </div><div>ð Full-time, paid vacations remote first with relocation packages available, hardware and software support </div><div>ð Attractive package to include base equity and/or tokens, equity as well as health benefits </div><br/><br/>Please mention the word **EXTRAORDINARILY** and tag RNTQuODIuOTEuMTU= when applying to show you read the job post completely (#RNTQuODIuOTEuMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -34,7 +58,7 @@
                     <code>manager,bitcoin,react,system,software,growth,financial,senior,engineering</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-product-manager-blockstream-142509" align="right" target="_blank">Apply</a>
@@ -63,101 +87,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Comfort with the pace, scrappiness and dynamic environment within a growing startup</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Entrepreneurial mindset; know how to be nimble, spot and react to new opportunities</span></li>
 </ul>
-<p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/EKrQP99gUMI" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **DEFENDER** and tag RNTIuOTEuMjQyLjE4NA== when applying to show you read the job post completely (#RNTIuOTEuMjQyLjE4NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/ffeba7a2efbbd9c2f3020b4afd5bb3011667286939.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OpenZeppelin</h5>
-                    <h3>Forta Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>manager,design,defi,crypto,ethereum,system,security,financial,finance,node,strategy,management,operations,marketing,sales,educational,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-forta-product-manager-openzeppelin-141988" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro">
-<h3><strong>About us</strong></h3>
-<p><span style="font-weight:400;">OpenZeppelin is a leading cybersecurity company that provides security products to build, automate, and operate decentralized applications.</span></p>
-<p><span style="font-weight:400;">With a mission to protect the open economy, our team created the most popular open source library for smart contract development with over 4 million downloads. Our unique expertise subsequently allowed us to uncover major security vulnerabilities for the Ethereum Foundation,  MakerDAO, and Facebookâs Libra, and conduct security audits for many top blockchain companies including Coinbase, Brave, Compound, Aave, and Augur. </span></p>
-<p><span style="font-weight:400;">Building on this experience, we recently launched a platform to help teams automate their Ethereum operations and securely ship products faster: OpenZeppelin Defender. </span></p>
-<p><span style="font-weight:400;">With the success of our products, security audit work, and open source educational efforts, we are setting industry standards for building secure systems in a fast-growing industry that is creating an open financial system for the world.</span></p>
-</div><h3><strong>About this role</strong></h3>
-<p><span style="font-weight:400;">The mission for this role is to lead, define and manage the product strategy and roadmap to drive demand and usage adoption for Forta, a decentralized protocol incubated by OpenZeppelin.</span></p>
-<p><span style="font-weight:400;">As the Product Manager, you are responsible for both product planning and product marketing, including defining the product vision, gathering and prioritizing product and user requirements, and working closely with the core dev team to deliver winning products. It also includes working with sales and marketing to ensure revenue and customer satisfaction goals are met. </span><span style="font-weight:400;"><br></span><span style="font-weight:400;"><br></span><span style="font-weight:400;">The ideal candidate is passionate about helping blockchain projects and developers have a great experience across all aspects of their user journey, from establishing new relationships to fostering deeper ties with the existing Forta Protocol customer/partner community. You will focus on engaging and supporting the blockchain development community and partnering with them throughout their customer journey.</span></p>
-<h3><strong>What youâll be doing</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Set Fortaâs product strategy, roadmap, and budget, aligned to Fortaâs strategy. Establish KPIs and track performance to ensure plans are delivering expected business outcomes.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Coordinate and track platform developments across multiple teams, and ensure that there are appropriate technical specifications for the core dev team to create new features and maintain internal documentation of product releases.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Understand Forta stakeholders needs (end users, agent developers and node runners) and community interests. Gather requirements, prioritize them, and communicate them to Core devs, Marketing, and Finance teams.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Monitor the crypto security landscape, identify and fill product gaps, and generate new ideas that grow market share, improve customer experience and drive growth</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work with designers to craft a delightful user experience across the whole Forta ecosystem of products</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work with the internal team and the community to design product economics and overall network business model.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work closely with industry experts to ensure effective thought leadership and ongoing relevance in the market.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Test and iterate on product messaging and positioning that conveys the key benefits of the project to prospective users</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Partner with marketing, core dev and community teams to create and deliver engaging workshops and webinars complementing the projectâs strategy </span></li>
-</ul>
-<h3><strong>Ideally, you have</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Minimum 3-5 years of technical product management experience with security or other IT focus or a combination of technical and marketing experience</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Technical knowledge of DeFi and the Ethereum ecosystem, additional knowledge outside the Ethereum space is also preferred </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Demonstrated experience working collaboratively across teams to successfully launch new products and features bring products to market </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Excellent writing and communication skills</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ability to convey complex technical topics into easy to understand materials </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Strong personal organizational skills and a love for self-time management.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Superb organization and project management skills. Ability to work on and manage multiple complex projects with multiple stakeholders, at once.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">A startup mentality with a bias to action and the ability to be flexible in a fast-paced environment.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Passion and/or experience with open-source or cybersecurity or similar highly technical industry.</span></li>
-</ul><div class="content-conclusion">
-<div class="container">
-<div class="job-description">
-<div class="requirements">
-<h3 class="job-description-title">Benefits</h3>
-<ul>
-<li>
-<p>Medical Insurance: Top quality insurance options for you.</p>
-</li>
-<li>
-<p>Paid leave for new parents.</p>
-</li>
-<li>
-<p>Team Events: Company retreats in different locations around the world.</p>
-</li>
-<li>
-<p>Monthly allowance for wellness activities.</p>
-</li>
-<li>
-<p>Coworking: access to a coworking space of your choice.</p>
-</li>
-<li>
-<p>Training: Technical training, spoken language lessons in any language of your choice.</p>
-</li>
-</ul>
-</div>
-<div class="company-footer">
-<p>At OpenZeppelin, we are an equal opportunity employer and we value different perspectives. We are committed to building a diverse workforce. This includes but is not limited to gender, race, sexual orientation, religion, national origin and other characteristics that make each one of us unique. In this uniqueness, we find the most value. Come join us!</p>
-</div>
-</div>
-</div>
-
-
-<div class="container">
-<div class="application-information">
-<h3 class="job-description-title"> </h3>
-</div>
-</div>
-</div><br/><br/>Please mention the word **IMPRESSES** and tag RNTIuOTEuMjQyLjE4NA== when applying to show you read the job post completely (#RNTIuOTEuMjQyLjE4NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/EKrQP99gUMI" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **DEFENDER** and tag RNTQuODIuOTEuMTU= when applying to show you read the job post completely (#RNTQuODIuOTEuMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -172,7 +102,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-product-manager-technical-1" align="right" target="_blank">Apply</a>
@@ -230,7 +160,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>360 days ago</text>
+                <text>361 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
