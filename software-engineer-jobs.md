@@ -10,7 +10,7 @@
                     <code>software,design,cryptocurrency,front-end,frontend,back-end,full-stack,code,web,financial,git,content,senior,analytics,engineer,engineering,linux,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-the-block-144041" align="right" target="_blank">Apply</a>
@@ -19,7 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div>Founded in 2018 and based in NYC, The Block is the leading research, analysis, and news brand in the digital asset space. The Block's team is spread across 7 timezones, covering the global cryptocurrency space 24/7.</div><div>The Block delivers deep insight into how the emerging digital assets sector interacts with traditional finance, technology, governments, and markets. We reach hundreds of thousands of technologists, financial market participants, Fortune 500 professionals, global service providers, policymakers, and more through our main website, dedicated Research Portal, podcast, and events.</div><div>You will be responsible for developing new features, optimizing performance with respect to both our backend and frontend stack, developing and supporting solutions for product analytics, and capturing feedback from our logging and debugging services to both troubleshoot an make improvements.</div><div>An effective Full-Stack Engineer should be able effectively communicate with the team and develop solutions between back-end and front-end implementations and concerns. The ideal candidate must be able to prioritize tasks and complete them in a timely manner.</div><br>You Will<br><li>Be responsible for the feature development of products you are a part of.</li><li>Collaborate with our engineers, researchers, executives, and designers to develop new features and prioritize bug fixes for our products.</li><li>Clearly communicate development progress across the Product & Engineering team.</li><li>Be creative in solving engineering problems.</li><li>Work with team managers on development prioritization and career development opportunities.</li><li>Contribute to the culture of quality, healthy collaboration and leading by example.</li><br>MUST HAVES<br><li>Full-stack experience and able to contribute to both frontend (Vue, Vuex, Nuxt, service workers, PWA) and backend (NodeJS, Adonis/SailsJS/Nest/Loopback or equivalent structured framework, Yarn, Postgres, GraphQL, Redis, memcached) systems.</li><li>Deep technical skill with frontend technologies (SASS, LESS,  Bootstrap utilities, TailwindCss or other similar).</li><li>Strong familiarity with Unix / Linux operating systems and general command-line knowledge.</li><li>Experience with git in a collaborative environment such as Github.</li><li>Responds positively when receiving and giving feedback.</li><li>Experience using code reviews and pair programming within the Agile Development lifecycle.</li><li>Expertise in web analytics and content performance measurements solutions.</li><li>Development Experience with payment processing and membership services.</li><li>Knowledge of common software design patterns and responsive web frameworks.</li><li>Knowledge of email service provider features and APIâs.</li><li>8 or more years experience as a professional software engineer.</li><br>GOOD TO HAVE<br><li>Experience with digital assets, crypto, and blockchain technologies.</li><li>Experience in one or more Business Intelligence (BI) products, such as Google Data Studio, Domo, or Tableau.</li><li>Expertise using developing and/or creating development environments using Docker, Vagrant, Virtual Box or similar platform.</li><br/><br/>Please mention the word **EASINESS** and tag RNTQuODIuOTEuMTU= when applying to show you read the job post completely (#RNTQuODIuOTEuMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <div>Founded in 2018 and based in NYC, The Block is the leading research, analysis, and news brand in the digital asset space. The Block's team is spread across 7 timezones, covering the global cryptocurrency space 24/7.</div><div>The Block delivers deep insight into how the emerging digital assets sector interacts with traditional finance, technology, governments, and markets. We reach hundreds of thousands of technologists, financial market participants, Fortune 500 professionals, global service providers, policymakers, and more through our main website, dedicated Research Portal, podcast, and events.</div><div>You will be responsible for developing new features, optimizing performance with respect to both our backend and frontend stack, developing and supporting solutions for product analytics, and capturing feedback from our logging and debugging services to both troubleshoot an make improvements.</div><div>An effective Full-Stack Engineer should be able effectively communicate with the team and develop solutions between back-end and front-end implementations and concerns. The ideal candidate must be able to prioritize tasks and complete them in a timely manner.</div><br>You Will<br><li>Be responsible for the feature development of products you are a part of.</li><li>Collaborate with our engineers, researchers, executives, and designers to develop new features and prioritize bug fixes for our products.</li><li>Clearly communicate development progress across the Product & Engineering team.</li><li>Be creative in solving engineering problems.</li><li>Work with team managers on development prioritization and career development opportunities.</li><li>Contribute to the culture of quality, healthy collaboration and leading by example.</li><br>MUST HAVES<br><li>Full-stack experience and able to contribute to both frontend (Vue, Vuex, Nuxt, service workers, PWA) and backend (NodeJS, Adonis/SailsJS/Nest/Loopback or equivalent structured framework, Yarn, Postgres, GraphQL, Redis, memcached) systems.</li><li>Deep technical skill with frontend technologies (SASS, LESS,  Bootstrap utilities, TailwindCss or other similar).</li><li>Strong familiarity with Unix / Linux operating systems and general command-line knowledge.</li><li>Experience with git in a collaborative environment such as Github.</li><li>Responds positively when receiving and giving feedback.</li><li>Experience using code reviews and pair programming within the Agile Development lifecycle.</li><li>Expertise in web analytics and content performance measurements solutions.</li><li>Development Experience with payment processing and membership services.</li><li>Knowledge of common software design patterns and responsive web frameworks.</li><li>Knowledge of email service provider features and APIâs.</li><li>8 or more years experience as a professional software engineer.</li><br>GOOD TO HAVE<br><li>Experience with digital assets, crypto, and blockchain technologies.</li><li>Experience in one or more Business Intelligence (BI) products, such as Google Data Studio, Domo, or Tableau.</li><li>Expertise using developing and/or creating development environments using Docker, Vagrant, Virtual Box or similar platform.</li><br/><br/>Please mention the word **EASINESS** and tag RMzQuMjI4LjIxNi4xNTk= when applying to show you read the job post completely (#RMzQuMjI4LjIxNi4xNTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -34,7 +34,7 @@
                     <code>security,design,hr,software,web,cloud,microsoft,strategy,management,lead,operations,engineer,engineering,digital nomad,financial,bank,recruiting,backend</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-financial-institution-authentication-plaid-143682" align="right" target="_blank">Apply</a>
@@ -60,123 +60,7 @@ We're guided by our principles, including impact, growing together, embracing op
 
 
 
-Plaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at accommodations@plaid.com.<br/><br/>Please mention the word **COOLEST** and tag RNTQuODIuOTEuMTU= when applying to show you read the job post completely (#RNTQuODIuOTEuMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/06686bc300fdc1b00b0c3ea0ff1634011667373336.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Figure</h5>
-                    <h3>Staff Software Engineer Platform Shared Services</h3>
-                </td>
-                <td width="300">
-                    <code>software,design,security,growth,financial,education,fintech,analytics,engineer,engineering,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-staff-software-engineer-platform-shared-services-figure-142505" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>About Figure</strong></p>
-<p><span style="font-weight:400;">Figure is transforming the trillion-dollar financial services industry using blockchain technology. </span></p>
-<p><span style="font-weight:400;">In three short years, Figure has unveiled a series of fintech firsts using the Provenance blockchain for loan origination, equity management, private fund services, banking, and payments sectors - bringing speed, efficiency, and savings to both consumers and institutions. Today, Figure is one of less than a thousand companies considered a unicorn, globally.</span></p>
-<p><span style="font-weight:400;">Our mission requires us to have a creative, team-oriented, and supportive environment where everyone can do their absolute best. The team is composed of driven, innovative, collaborative, and curious people who love architecting ground-breaking technologies. We value individuals who bring an entrepreneurial mindset to every task and will embrace our culture of innovation. </span></p>
-<p><span style="font-weight:400;">Every day at Figure is a journey in continuous learning yet with a daily focus on getting work done that makes a difference. Join a team of proven leaders who have already created billions of dollars in value in the FinTech space!</span></p>
-<p><a href="https://www.forbes.com/americas-best-startup-employers/#6535f31b6527" rel="noopener noreferrer nofollow"><span style="font-weight:400;">Forbes Americaâs Best Startup Employers</span></a></p>
-<p><a href="https://www.forbes.com/sites/michaeldelcastillo/2020/02/19/blockchain-50/?sh=60e7347c7553" rel="noopener noreferrer nofollow"><span style="font-weight:400;">Forbes Top 50 Blockchain Companies</span></a></p>
-<p><a href="https://www.businesswire.com/news/home/20210520005738/en/Figure-Raises-200-Million-Series-D-Co-Led-by-10T-Holdings-and-Morgan-Creek-Digital" rel="noopener noreferrer nofollow"><span style="font-weight:400;">Figure Series D Announcement</span></a></p>
-<p><strong>About the Role</strong></p>
-<p><span style="font-weight:400;">Figure is excited to be growing our businesses and creating new teams.  We are looking for curious, innovative, and collaborative team members.  Engineering is at the heart of the action, building out our blockchain protocol and direct-to-consumer products that will transform the financial services industry.  Everything is from scratch development and every engineer has a big impact on the team and the growth of the company. </span></p>
-<p><span style="font-weight:400;">As Figure scales, it is imperative that we level up our expertise in anti-fraud technology and detection. In this role as an anti-fraud engineering expert, you will collaborate with engineering and risk leadership to build technology and establish processes that stop fraudsters in their tracks.</span></p>
-<p><strong>What Youâll Do</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Provide thought leadership in the design of methods and anti-fraud technologies to bring data-driven insight to internal engineering and fraud analytics teams</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Research, design, implement and integrate technologies that analyze and identify fraudulent activities and transactions to ensure proper mitigation efforts</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Support fraud analytics data standards and offer recommendations for the tactical and strategic mission for Fraud Intelligence</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Research, build, integrate, monitor, and improve the accuracy of third-party fraud solutions based on defined models and analytics</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Design, implement and maintain backend microservice, internal tools, and customer-facing fraud prevention tools</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Be empowered to drive innovation for our Fraud & Abuse systems.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Be a leader, use your voice, and apply your tech skills to solve real-world problems</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with a diverse group of people, across Engineering, Data Science, Product, and Leadership, executing on big opportunities and driving Figure to the top of the FinTech industry</span></li>
-</ul>
-<p><strong>What We Look For</strong></p>
-<ul>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Team player with a positive attitude that gets </span><em><span style="font-weight:400;">it</span></em><span style="font-weight:400;"> done</span>
-</li>
-<li style="font-weight:400;"><span style="font-weight:400;">BS/BA or greater in Computer Science, Statistics, or similar field</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">8+ years engineering/development experience in a fast-paced, agile environment</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience working with BI tools such as Tableau and PowerBI preferred (but not required)</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience working with Information Technology/Information Security personnel and understanding how software/hardware solutions can be applied to mitigate fraud</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Demonstrated self-starter with the ability to execute work with minimal supervision</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">A track record in conceptualizing and building end-to-end big data frameworks</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ability to drive a project from concept to release</span></li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Familiarity with Iterative Software Development </span><strong>âIf itâs not in production we arenât iterating.â</strong>
-</li>
-</ul>
-<p><strong>Benefits and Perks</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Competitive salary and growth opportunities </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Company quarterly performance-based bonus</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Equity stock options package</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Employer funded comprehensive health, vision, dental insurance, and wellness program for employees and their dependents</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Employer funded life and disability insurance coverage</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Company HSA, FSA, Dependent Care, 401k, and commuter benefits</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Up to 12 weeks paid family leave </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">In-office, remote, and hybrid work location options</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Home office and technology stipend for those working outside of a traditional office more than 75% of the time</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Flexible time-off plan to empower employees to take the time off that they want and need</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Continuing education reimbursement</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Routine Team swag deliveries!</span></li>
-</ul>
-<p><span style="font-weight:400;">Depending on your residential location certain laws might regulate the way Figure manages applicant data. California Residents, please review our </span><a href="https://drive.google.com/file/d/1eDhTkvbpFETeAvGpsB8e6KzaXES4BWNB/view?usp=sharing" rel="noopener noreferrer nofollow"><span style="font-weight:400;">California Employee and Prospective Employee Privacy Notice</span></a><span style="font-weight:400;"> for further information. By submitting your application, you are agreeing and acknowledging that you have read and understood the above notice.</span></p>
-<p><span style="font-weight:400;">Figure is, unfortunately, unable to provide sponsorship for this position. In compliance with federal law, all persons hired will be required to verify identity and eligibility to work in the United States and to complete the required employment eligibility verification form upon hire.</span></p>
-<p><span style="font-weight:400;">#LI-SB1</span></p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/WgGXwItJTPE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ELEVATE** and tag RNTQuODIuOTEuMTU= when applying to show you read the job post completely (#RNTQuODIuOTEuMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/ff70089fb264099f7f85cd74adfbc4001667321706.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Rewind</h5>
-                    <h3>Senior Staff Principal Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>software,macos,lead,senior,engineer</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-staff-principal-software-engineer-rewind-142202" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                About Rewind ð
-At Rewind, our vision is to give humans perfect memory. We believe a world in which you can easily recall anything youâre looking for unlocks the potential of human productivity. Thatâs why we built Rewind: the search engine for your life. Itâs a macOS app that records anything youâve seen, said, or heard and makes it searchable. For your privacy, we store all of the recordings locally on your Mac and only you have access to them. Instead of spending hours searching in different tools for that piece of information you desperately need, you can now find what youâre looking for in seconds with Rewind.
-
-The product we have today is just the first step toward our audacious vision of giving humans perfect memory. We have raised over $15m from top-tier investors including Andreessen Horowitz, First Round Capital, Moxxie Ventures, Sam Altman, Elad Gil, and Alexis Ohanian to help make that vision a reality.
-
-Why Rewind ð
-Working at Rewind will be the most impactful job of your life. Our team is small and everyone plays a huge role. The work youâll do will have tremendous impact on not just our company, but how the world works: making forgetting a thing of the past. 
-
-With this audacious goal comes a lot of company growth. And as the company grows, so will you. We will support you in building a career that energizes and fulfills you: giving you opportunities so that you can do the best work of your career. But don't just take our word for it, look at our track record. Our founding team has previously built Optimizely: a $120M annual revenue recurring business with 450 employees which was voted the #1 Best Place to Work.
-
-Internally we aren't fixated on titles & levels since that can lead to needless hierarchy that distracts from the team's collective success. We recognize that not all companies operate that way so we say "Senior / Staff / Principal" to indicate we want people with substantial amounts of experience.
-
-If you're interested in this job, we strongly encourage you to apply: we'd love to see you on our team working toward our audacious vision of giving humans perfect memory.
-<br/><br/>Please mention the word **LAWFUL** and tag RNTQuODIuOTEuMTU= when applying to show you read the job post completely (#RNTQuODIuOTEuMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+Plaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at accommodations@plaid.com.<br/><br/>Please mention the word **COOLEST** and tag RMzQuMjI4LjIxNi4xNTk= when applying to show you read the job post completely (#RMzQuMjI4LjIxNi4xNTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -191,7 +75,7 @@ If you're interested in this job, we strongly encourage you to apply: we'd love 
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-1" align="right" target="_blank">Apply</a>
@@ -297,7 +181,7 @@ If you're interested in this job, we strongly encourage you to apply: we'd love 
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote" align="right" target="_blank">Apply</a>
@@ -369,6 +253,136 @@ If you're interested in this job, we strongly encourage you to apply: we'd love 
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Iterative</h5>
+                    <h3>Senior Software Engineer - Front-end, Typescript</h3>
+                </td>
+                <td width="300">
+                    <code>backend,git,machine learning,python</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>The ML tools ecosystem is what JS space was 10 years ago: there’s a clear need for better tools, frameworks, and open standards. <span class="notion-enable-hover" style="font-style: italic;">ITERATIVE</span> is already a well known company in this fast-evolving space with a big, engaged open-source community. Please consider joining our <span class="notion-enable-hover" style="font-style: italic;">remote-first team</span> if you love open-source, if you’re interested in building dev tools and simplifying the lives of many, many developers in ML.</p>
+<p><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;"><br class="Apple-interchange-newline">Job Description</span></p>
+<p>We’re seeking<span class="notion-enable-hover" style="font-weight: 600;"> </span><span class="notion-enable-hover">TypeScript front-end engineers to build our</span><span class="notion-enable-hover"> <a href="https://studio.iterative.ai/" rel="nofollow" style="font-weight: 600;">SaaS product</a> and a</span><span class="notion-enable-hover" style="font-weight: 600;"> VS Code UI</span> (to be open sourced soon!) for our popular machine learning tools: <a class="notion-link-token notion-enable-hover" href="http://dvc.org/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--1168671846" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">DVC</span></a> (9k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span>on GitHub) and <a class="notion-link-token notion-enable-hover" href="http://cml.dev/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--2051758088" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">CML</span></a> (3k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span> on GitHub).</p>
+<p><span style="color: var(--remotive-chocolate);">If you have experience with dev tools like GitHub, UI plugins for Git, etc., you should have some sense what the project is like (if not, check our <a href="https://iterative.ai/" rel="nofollow">site</a>).</span></p>
+<p> </p>
+<p class="h3">Tech Stack</p>
+<ul>
+<li>TypeScript</li>
+</ul>
+<ul>
+<li>Node</li>
+</ul>
+<ul>
+<li>React</li>
+</ul>
+<ul>
+<li>Python (on the backend)</li>
+</ul>
+<p> </p>
+<p class="h3">Must have</p>
+<ul>
+<li>Strong TS/JS/Node experience (5+ years)</li>
+</ul>
+<ul>
+<li>Excellent communication skills and a positive mindset 🤗</li>
+</ul>
+<ul>
+<li>Initiative to help shape the engineering practices, products, and culture of a young startup</li>
+</ul>
+<p><br><br></p>
+<p class="h3">Nice to have</p>
+<ul>
+<li>Python or open source experience - good to have</li>
+</ul>
+<ul>
+<li>Some domain knowledge (DS/ML understanding) - an advantage</li>
+</ul>
+<p> </p>
+<img src="https://remotive.com/job/track/1187421/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1187416/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Iterative</h5>
+                    <h3>Senior Software Engineer  - DevTools, Open Source, Python</h3>
+                </td>
+                <td width="300">
+                    <code>data science,machine learning,python,open source</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Job Description</strong></p>
+<p>Strong Python knowledge and excellent coding culture (standards, unit test, etc) are required. Alternatively, strong skill in other languages along with some knowledge of Python is also acceptable.</p>
+<p><br><br></p>
+<div class="h3">Responsibilities</div>
+<ul>
+<li>Discuss and research issues, features, new products.</li>
+</ul>
+<ul>
+<li>Write code (see some <a class="postings-link" href="https://github.com/iterative/dvc/pulls?q=is%3Apr+is%3Aclosed" rel="nofollow"><strong>PR examples</strong></a>).</li>
+</ul>
+<ul>
+<li>Write docs if needed for your code (see this <a class="postings-link" href="https://github.com/iterative/dvc.org" rel="nofollow"><strong>repo</strong></a>).</li>
+</ul>
+<ul>
+<li>Being actively involved with the community - talk to users on Github, Discord, forum.</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Must have</div>
+<ul>
+<li>Motivation and interest</li>
+</ul>
+<ul>
+<li>Remote work self-discipline</li>
+</ul>
+<ul>
+<li>Excellent communication skills - clear, constructive, and respectful dialog with other team members, community.</li>
+</ul>
+<ul>
+<li>Can focus and deliver a task w/o constantly switching to other stuff - respect team's planning, deadlines, etc</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Great to have</div>
+<ul>
+<li>Experience working remotely</li>
+</ul>
+<ul>
+<li>Open source contributions or experience of maintaining, developing an open source project</li>
+</ul>
+<ul>
+<li>System programming experience - kernel, databases, etc.</li>
+</ul>
+<ul>
+<li>Machine learning or data science experience</li>
+</ul>
+<img src="https://remotive.com/job/track/1187416/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1214006/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -379,7 +393,7 @@ If you're interested in this job, we strongly encourage you to apply: we'd love 
                     <code>data science,developer,kubernetes,machine learning</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineering-content-writer-1214006" align="right" target="_blank">Apply</a>
