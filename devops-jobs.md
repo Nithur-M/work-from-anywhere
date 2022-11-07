@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/university-of-pennsylvania-devops-engineer-remote-eligible" align="right" target="_blank">Apply</a>
@@ -35,114 +35,72 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1474594/logo" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Distributed</h5>
-                    <h3>DevOps Engineer</h3>
+                    <h5>Proxify AB</h5>
+                    <h3> Senior DevOps Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>api,AWS,developer,devops</code>
+                    <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/devops-engineer-1474594" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="h3">DevOps Engineer</div>
-<div class="h5">Near Future Hiring</div>
-<p><br><br></p>
-<p> </p>
-<div class="h4"><em><em><em><strong>Who are we?</strong></em></em></em></div>
-<p>We're a software development company building the world's Elastic Workforce, reinventing work and challenging the assumption that a local team = the best team.</p>
-<p>We help businesses deliver technical projects better than ever before through our platform and on-demand Elastic Teams™.</p>
-<blockquote data-o-mail-quote="1">What's in it for you? <em><strong>Our mission is to create freelance jobs with more benefits than permanent.</strong></em></blockquote>
-<p><em><em><em>Want to know more? read: <a href="https://distributed.co/about" rel="nofollow">https://distributed.co/about</a></em></em></em></p>
-<p> </p>
-<div class="h4"><strong>Elastic Team Developer Exclusively joining our Community</strong></div>
-<p> </p>
-<p>As a Distributed Elastic Team Developer, you will gain access to the opportunity to be part of our projects delivering high-quality products.</p>
-<p><strong>If approved </strong>to join our community by qualifying through the assessment process, you will automatically be one of the individuals who could be considered for exciting customer-centric projects that we are currently engaged in for our clients.</p>
-<p><strong>Once on a project</strong> you will be working closely with teams of engineers, QAs, and designers, producing detailed specifications and writing the programme codes, testing the product in controlled, real situations before going live.</p>
-<p>We're proud to have Enterprise companies like Capita and BT, BBC, NHS, Virgin, Money, BP, Master Card, Tesco and Suzuki select us for delivering user-centric products.</p>
-<p>Our mission as an organization is to provide our community with access to the most exciting tech projects and to build a freelance career with us as we continue to scale as an organisation.</p>
-<div class="h5"><em>We're creating this opportunity for talents to be able to join our Elastic Team, and then later be moved to a project when the matching projects become live.</em></div>
-<p><strong> </strong></p>
-<p><strong>What we're looking to find: </strong></p>
-<p>- DevOps Engineer Experience</p>
-<p>- AWS/Amplify/ API design &amp; Implementation, SAML Auth integration are all required.<br><strong><br></strong></p>
-<p><strong><em>About us</em></strong></p>
-<p><em>Distributed is proud to be an equal opportunities employer. Employees and contractors, as well as prospective employees and contractors, will all be treated equally and fairly. Distributed is committed to ensuring no less favourable treatment is experienced by any current or prospective employee because of any of the protected characteristics under the UK Equality Act 2010 or equivalent local equality legislation.</em></p>
-<p><em>By submitting your application you give us permission to store and use the information from your CV and your answers to application questions.</em></p>
-<p><strong> </strong></p>
-<p> </p>
-<img src="https://remotive.com/job/track/1474594/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1474827/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Adaptiq</h5>
-                    <h3>Gett: M. O. DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>amazon,AWS,cloud,developer</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/gett-m-o-devops-engineer-1474827" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Gett was established 12 years ago, as a ride-hailing solution, and since then has expanded its activity globally, across Europe and the United States.<br>Nowadays, Gett is a Ground Transportation Solution with the mission to organize all the best mobility providers in one global platform - optimizing the entire experience from booking and riding to invoicing and analytics, to save businesses time and money. We work with a third of the Fortune 500 companies and have over 17K active business customers across the world. </p>
-<p>The GTM - the Ground transportation management,  is a worldwide 1.4 trillion market involving Drivers, Riders, Suppliers, and Businesses, and a secured product platform and the marketplace are crucial for successful operation.</p>
-<p>Gett RnD is a top-notch engineering organization that develops a microservices-based system, high-scale ready, fulfilling strict availability and reliability requirements (as a B2C and a B2B2C platform) and managing significant traffic load.<br>Our system is developed mostly using Golang, runs in AWS, and involves ML at the applicable areas, to provide the best transportation solution for our customers, and maximizes Gett's performance.</p>
-<p><strong>Background: </strong></p>
-<p>Gett is a Ground Transportation Solution with the mission to organize all the best mobility providers in one global platform - optimizing the entire experience from booking and riding to invoicing and analytics, to save businesses time and money. We work with a third of the Fortune 500 companies and have over 17K active business customers across the world. </p>
-<p>We are looking for a talented &amp; motivated DevOps Engineer to join a global team of DevOps engineers.</p>
-<p>As part of your role, you will design and build tools, automate infrastructure and monitor a complex, large-scale cloud system available 24/7/365 (99.99% availability standard), in the CI/CD world of microservices designed systems.</p>
-<p><strong>The ideal candidate will have:</strong></p>
-<ul>
-<li>A passion for DevOps culture and technologies</li>
-<li>Positive &amp; Proactive and “CAN DO” attitude</li>
-<li>Senior engineering experience</li>
-<li>True team player, ready to work in a team environment</li>
-</ul>
-<p><strong>Responsibilities:</strong></p>
-<ul>
-<li>Develop and maintain multiple Kubernetes environments and CI/CD pipelines</li>
-<li>Implementing development and automation tools, and infrastructure</li>
-<li>Identifying technical problems and fixing the code bugs</li>
-<li>Ensuring that systems are safe and secure against cybersecurity threats</li>
-<li>Code Review - verify and validate the code developed by colleagues</li>
-<li>Incidence management and root cause analysis</li>
-</ul>
-<p><strong>Requirements: </strong></p>
-<ul>
-<li>At least 3 years of experience as DevOps Engineer/Developer- Must</li>
-<li>Linux Experience – Must</li>
-<li>Proficiency in two of the coming languages: Python/Go/Bash – Must</li>
-<li>Knowledge and familiarity with Amazon Web Services or Google Cloud Platform – Must</li>
-<li>Experience with Kubernetes - Must</li>
-<li>Experience with CI/CD automation flows and tools – Must</li>
-<li>Experience with a server-side developer– Advantage</li>
-<li>Experience with Terraform/Jenkins/Argo-CD – Advantage</li>
-<li>Experience with monitoring tools Newrelic/Datadog/Grafana/Prometheus - Advantage</li>
-<li>Experience with Large scale 24/7 environments – Advantage</li>
-</ul>
-<p><br><br></p>
-<img src="https://remotive.com/job/track/1474827/blank.gif?source=public_api" alt=""/>
+                
+
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
+
+<div><strong>The Role:</strong></div><div>We are searching for a Senior DevOps Engineer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
+<li>You have +4 years of solid development experience as a DevOps Engineer;</li>
+<li>You have +3 years of experience in Azure Cloud and Kubernetes;</li>
+<li>You have good understanding of operating, monitoring, and documenting cloud solutions;</li>
+<li>Responsible and able to work with minimal supervision;</li>
+<li>Upper-intermediate English level;</li>
+<li>You can communicate well with both technical and non-technical clients.</li>
+</ul><div>
+<strong><br>Nice-to-have:</strong> <br><br>
+</div><ul>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Azure certifications in Cloud development and architecture would be a plus.</li>
+</ul><div>
+<strong><br>Responsibilities:<br></strong><br>
+</div><ul>
+<li>Set up and maintain local development and test environments (based on containers and similar technologies);</li>
+<li>Set up CI/CD pipelines, including build processes for container images and delivery to container registries;</li>
+<li>Planning and setting up automated updates to AKS (Azure Kubernetes Service) and surrounding infrastructure components;</li>
+<li>Continued setup and improvement of Cloud infrastructure to support new cloud-native solutions;</li>
+<li>Collaborate with the stakeholders.</li>
+</ul><div>
+<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule<br>.🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<br><br>
+</div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul><div>
+<br><br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer</a></p>
+
                 </details>
                 </td>
             </tr></table>
