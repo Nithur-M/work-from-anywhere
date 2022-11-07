@@ -1,5 +1,40 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9465/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ShopExperts</h5>
+                    <h3> Freelance Shopify UI/UX Designer</h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/shopexperts-freelance-shopify-ui-ux-designer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/9465/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Canada
+    <br /><strong>URL:</strong> <a href="https://shopexperts.com">https://shopexperts.com</a>
+</p>
+
+<div>Shopexperts is looking for freelance UI/UX designers and Web layout designers to join our talent network. Our clients are eCommerce agencies and eCommerce tech startups building for Shopify, and DTC or B2B consumer eCommerce brands building on the Shopify platform. <br><br>Vetted freelancers in our network are matched with companies in need of skilled design talent for ongoing/temporary contracts starting from 10 hours/week or for defined projects starting from 40 hours/week.<br><br><strong>Description:</strong><br><br>- Set your own hourly/day rate - up to $85/hour, or up to $750/day<br>- Get matched with ambitious companies in the eCommerce space for defined large projects or ongoing contracts from 1-6 months, up to full-time permanent jobs. <br>- Be part of a growing and vibrant professional community <br>- Develop your career and craft with fewer, better contracts and companies<br>- Weekly or bi-weekly payouts<br><br><strong>Requirements:</strong><br><br>- Native or fluent English is required<br>- 4 years of professional experience as a web designer. The more experience you have as a Shopify developer, the better.<br>- Exposure to Shopify's Polaris design guidelines and eCommerce theme or PDP design experience a plus<br>- Must have a track record of high performing team member<br>- With or without team lead experience<br>- Available a minimum of 10 hours a week (up to 40)<br>- Priority and preference given to skilled freelancers in the UK, Spain, Portugal, Serbia, Romania, South Africa, Poland, Lithuania, Bulgaria, Argentina, Brazil. <br><br><a href="https://shopifygroup.typeform.com/to/sRuKEwy3">Apply to join our talent community</a>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/shopexperts-freelance-shopify-ui-ux-designer">https://weworkremotely.com/remote-jobs/shopexperts-freelance-shopify-ui-ux-designer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8797/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +45,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazee-io-ux-product-designer-80-100" align="right" target="_blank">Apply</a>
@@ -79,7 +114,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tryhackme-lead-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -192,7 +227,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>255 days ago</text>
+                <text>256 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -253,7 +288,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>361 days ago</text>
+                <text>362 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -319,7 +354,7 @@
                     <code>developer,ui,ux,design</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/ux-ui-designer-elastic-team-community-1445323" align="right" target="_blank">Apply</a>
@@ -369,128 +404,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1446680/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Glassnode</h5>
-                    <h3>Senior UX Researcher</h3>
-                </td>
-                <td width="300">
-                    <code>crypto,go,ux,blockchain</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/design/senior-ux-researcher-1446680" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><strong>Who we are:</strong></div>
-<div> </div>
-<div>We're an ambitious team of researchers, builders, and entrepreneurs with many years of experience in the crypto space and are passionate about digital assets. With a new product roadmap, we are adding several new products to our portfolio, beyond on-chain data - we are becoming a more comprehensive go-to crypto platform for various needs.</div>
-<div> </div>
-<div>Glassnode is a leading market intelligence platform for on-chain and derivatives data. We offer the most comprehensive library of advanced on-chain metrics and insights for Bitcoin, Ethereum and hundreds of other digital assets, bringing data intelligence to the blockchain and cryptocurrency space.</div>
-<div> </div>
-<div>With an emphasis on user-centric interfaces, we aim to deliver intelligible, actionable, and unique insights from blockchain data and beyond, helping investors make educated decisions in an overly emotional and irrational market, and equipping blockchain teams with valuable insights on their projects and tokens.</div>
-<div> </div>
-<div><strong>Senior UX Researcher. Remote (m/f/d). Contract or an Employee Agreement.</strong></div>
-<div> </div>
-<div><strong>About the role: </strong></div>
-<div> </div>
-<div>We are looking for an experienced UX Researcher to join our product design team. We apply a wide range of research methodologies, HCD practices, and principles of human cognition to create engaging, valuable, and intuitive user experiences for our customers.</div>
-<div> </div>
-<div>‍In this role, you will drive strategic research projects that cross multiple feature teams working on existing product experience and future innovations. </div>
-<div> </div>
-<div>Glassnode is embarking on ambitious and complex projects that require cross-feature team alignment and actionable insights to create the best customer experience. </div>
-<div> </div>
-<div>You will have an opportunity for significant customer and business impact in this role. As a Senior UX Researcher, you are responsible for delivering business and customer outcomes by identifying high-impact research opportunities, executing appropriate research methodologies, and driving product impact with insights and data. </div>
-<div> </div>
-<div>You will partner closely with Design, Product, and Engineering teams to understand research needs and connect the dots between customer needs, technology capabilities, and product design. </div>
-<div> </div>
-<p><br><br></p>
-<div class="h3">What you will do:</div>
-<ul>
-<li>Proactively identify research opportunities with the highest potential for customer and business impact.</li>
-</ul>
-<ul>
-<li>Independently lead research planning and execution, effectively building alignment with cross-functional peers and stakeholders throughout the research process.</li>
-</ul>
-<ul>
-<li>Communicate insights and learnings, tying directly to actionable next steps and impact on product direction.</li>
-</ul>
-<ul>
-<li>Plan and lead research-driven cross-functional brainstorming and alignment sessions.</li>
-</ul>
-<ul>
-<li>Contribute to the growth and development of the UX Research team and discipline within Glassnode.</li>
-</ul>
-<ul>
-<li>Represent customer needs and opportunities, backed by data, in strategic product planning and prioritization.</li>
-</ul>
-<ul>
-<li>Collaborate with Design and Product leadership to align research priorities and roadmap across multiple work streams.</li>
-</ul>
-<ul>
-<li>Help build out Glassnode's research practice and infrastructure.</li>
-</ul>
-<p><br><br></p>
-<div class="h3">What you bring to the team:</div>
-<ul>
-<li>5+ years of relevant user research experience working on digital experiences with a proven track record of generating actionable insights that resulted in measurable product improvements.</li>
-</ul>
-<ul>
-<li>Experience with a broad range of research methodologies, both qualitative and quantitative, across the various stages of product development</li>
-</ul>
-<ul>
-<li>Ability to collaborate closely with cross-functional partners, driving alignment around user needs and incorporating peers into the research process.</li>
-</ul>
-<ul>
-<li>Experience planning and driving cross-functional brainstorming activities (such as design sprints or similar exercises)</li>
-</ul>
-<ul>
-<li>Experience conducting complex research at scale.</li>
-</ul>
-<ul>
-<li>Excellent written and verbal communication skills and can present effectively to executive audiences.</li>
-</ul>
-<ul>
-<li>Relentless focus on users and solving their needs and wants.</li>
-</ul>
-<ul>
-<li>Built or scaled research platforms, systems, or programs.</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Opportunities:</div>
-<ul>
-<li>Flexibility to organise your work and hours the way you like, our remote-first setup enables this for everyone</li>
-</ul>
-<ul>
-<li>Join a young, self-funded and already profitable company in a future-proof market</li>
-</ul>
-<ul>
-<li>Freedom to own your decisions and experiment, we need driven experts who help us figure out what to do, not for us to point at what needs to be done</li>
-</ul>
-<ul>
-<li>Be one of the main contributors to building a company with its unique culture in the cutting-edge tech space</li>
-</ul>
-<ul>
-<li>No approval loops or unnecessary processes, quick decision-making and full ownership of your function</li>
-</ul>
-<ul>
-<li>We are working on a kick-ass, meaningful benefits package, something truly useful and empowering -  you will help us figure out what we'd need to stand out as the workplace of the future, we are open to any ideas</li>
-</ul>
-<ul>
-<li>Frequent company offsites, we love remote but love to have fun together too - this year we went to Lisbon for a week, our New Year party is in Palma and more adventures are coming</li>
-</ul>
-<div><em>Glassnode is an equal opportunity employer. We respect and empower each individual who joins us. Glassnode commits to a transparent, inclusive, non-discriminatory recruitment process and employment.</em></div>
-<img src="https://remotive.com/job/track/1446680/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -501,7 +414,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
