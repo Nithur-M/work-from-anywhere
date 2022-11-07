@@ -10,7 +10,7 @@
                     <code>manager,defi,crypto,engineering</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-technical-product-manager-mev-staked-144037" align="right" target="_blank">Apply</a>
@@ -19,75 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>Staked is looking for a hyper-organized technical project manager to help us run our development process. A great candidate eyes their to-do list as an enemy to be vanquished. You're eager to knock items off your list and great at prioritizing when the list gets too long to handle. (it will!)Â </p><p>The core of the role is helping to organize the agile process for the technical team responsible for Maximal Extractable Value(MEV). This project enables our staking customers to earn more from their staked assets, so is critically important to our long-term future. A great technical project manager will have demonstrable experience with Agile processes (scrum, sprint, etc.) and the relevant tooling that helps to manage it. They will have the ability to schedule and prioritize various workstreams with multiple individual contributors, keeping in mind the various deadlines the business needs to hit. A passion for crypto and DeFi is a major plus/Â </p><p>The technical project manager needs to take an active role facilitating communication with and among our engineering team. They should drive to get commitment/buy-in from all stakeholders, and continuously assess whether those commitment seems reasonable. The role also includes scheduling meetings and outreach with Staked's technical partners, which tend to be the leading blockchain projects around the world.Â </p><br/><br/>Please mention the word **CONTENTMENT** and tag RNTQuODIuOTEuMTU= when applying to show you read the job post completely (#RNTQuODIuOTEuMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/45d4efc3c6c5e7c9d622c95a81c216dc1667373315.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Rarible</h5>
-                    <h3>Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>manager,nft,training,software,testing,growth,health</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-product-manager-rarible-142498" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size:18px;">About Rarible</b></div><div>Rarible is a creator-centric NFT marketplace with a community governance model. We are a #1 ranked marketplace in the world, having exceeded $40 million USD in monthly trading volume. Rarible reached over 10x growth in the past 3 months, and is expanding rapidly! In addition, Rarible is releasing the Rarible Protocol which allows developers, other marketplaces, and partners to easily mint NFTs and to share NFT inventory with a decentralized order book.</div><div><br></div><div>Join our decentralized, motivated and fully remote team building the NFT marketplace of the future.</div><br>Tasks<br><li>Work on the messenger</li><li>Managing the development and release of new features</li><li>Formation and testing of product hypotheses</li><li>Communication with users</li><li>Research in the industry</li><li>If you've created a great consumer product and are ready to take on new heights.</li><div><b style="font-size:18px;">What do we offer</b></div><div>ð Working for a rapidly expanding global startup</div><div>ð Mentorship, training and career progression plans with leadership focused on developing the teams</div><div>ð Team that cares about products and working conditions</div><div>ð Flexible Hours start of the working day </div><div>ð Full-time, paid vacations remote first with relocation packages available, hardware and software support </div><div>ð Attractive package to include base equity and/or tokens, equity as well as health benefits </div><br/><br/>Please mention the word **EXTRAORDINARILY** and tag RNTQuODIuOTEuMTU= when applying to show you read the job post completely (#RNTQuODIuOTEuMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/a9d210fb15a7dad9db6bfbf9228ef6dd1667373350.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Blockstream</h5>
-                    <h3>Senior Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>manager,bitcoin,react,system,software,growth,financial,senior,engineering</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-product-manager-blockstream-142509" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><span style="font-weight:400;">At Blockstream, weâre building solutions on Bitcoin that will disrupt the existing financial system. We imagine a world where individuals and businesses can easily access a global, permissionless system to secure their money, use it every day, and invest it or put it to work. In pursuit of our expansive vision, weâve built a full stack of innovative products on top of the Bitcoin protocol, from layer 2 projects like Liquid and c-lightning, to end user software and hardware wallets like Green and Jade. Our brand stands for innovation in the Bitcoin community, and weâre growing our team to accelerate the future. Come join us in our mission!</span></p>
-<p><span style="font-weight:400;">As a Senior Product Manager, youâll define a product vision that addresses strategic opportunities for one of our mission critical products. Youâll translate your vision into a roadmap in partnership with our talented engineers, and mobilize a cross-functional team to bring features to life and deliver measurable results.</span></p>
-<p><span style="font-weight:400;">This role reports to Blockstreamâs Chief Product Officer and offers opportunities for growth in scope and responsibilities.</span></p>
-<p><span style="font-weight:400;"><strong>What Youâll Be Doing (Responsibilities):</strong></span></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Define and execute on a product vision; own the product narrative and communicate effectively to all levels of the organization</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Instill a user-focused approach to product development, building empathy by interfacing with a diverse ecosystem of users, customers and partners</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Employ data-driven decision making and hold yourself and teams accountable to measurable outcomes</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Engage with engineering on technical issues and align their work to product goals</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Provide leadership and direction to cross-functional teams (engineering, UX, business development, marketing, DevOps, etc.)</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Lead project execution, anticipating and resolving roadblocks, coordinating the work of teammates, and clearly communicating goals and status with the org</span></li>
-</ul>
-<p><span style="font-weight:400;"><strong>What We Look For In You (Required Qualifications):</strong></span></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">4+ years of experience as a product manager with a proven track record of delivering impact</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Understanding of blockchain-based technologies</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Technical background (e.g. engineering degree or technical work experience); can engage with engineering teams on technical issues</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Comfort with the pace, scrappiness and dynamic environment within a growing startup</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Entrepreneurial mindset; know how to be nimble, spot and react to new opportunities</span></li>
-</ul>
-<p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/EKrQP99gUMI" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **DEFENDER** and tag RNTQuODIuOTEuMTU= when applying to show you read the job post completely (#RNTQuODIuOTEuMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p>Staked is looking for a hyper-organized technical project manager to help us run our development process. A great candidate eyes their to-do list as an enemy to be vanquished. You're eager to knock items off your list and great at prioritizing when the list gets too long to handle. (it will!)Â </p><p>The core of the role is helping to organize the agile process for the technical team responsible for Maximal Extractable Value(MEV). This project enables our staking customers to earn more from their staked assets, so is critically important to our long-term future. A great technical project manager will have demonstrable experience with Agile processes (scrum, sprint, etc.) and the relevant tooling that helps to manage it. They will have the ability to schedule and prioritize various workstreams with multiple individual contributors, keeping in mind the various deadlines the business needs to hit. A passion for crypto and DeFi is a major plus/Â </p><p>The technical project manager needs to take an active role facilitating communication with and among our engineering team. They should drive to get commitment/buy-in from all stakeholders, and continuously assess whether those commitment seems reasonable. The role also includes scheduling meetings and outreach with Staked's technical partners, which tend to be the leading blockchain projects around the world.Â </p><br/><br/>Please mention the word **CONTENTMENT** and tag RMzQuMjI4LjIxNi4xNTk= when applying to show you read the job post completely (#RMzQuMjI4LjIxNi4xNTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -102,7 +34,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-product-manager-technical-1" align="right" target="_blank">Apply</a>
@@ -160,7 +92,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>361 days ago</text>
+                <text>362 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
