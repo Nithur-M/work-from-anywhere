@@ -1,5 +1,192 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8743/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>FinDox Inc</h5>
+                    <h3> Senior C# and PostgreSQL Backend Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/8743/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> El Segundo, California
+    <br /><strong>URL:</strong> <a href="https://about.findox.com/">https://about.findox.com/</a>
+</p>
+
+<div>Awesome remote back-end developer role doing challenging and rewarding work.</div><div><br></div><div><strong>You:</strong></div><div>Attitude &amp; Fit<strong>   </strong>
+</div><ul>
+<li>Positive attitude</li>
+<li>Love building scalable, well-organized code </li>
+<li>Exceptional problem solving skills</li>
+<li>Strive for excellence in all you do</li>
+</ul><div><br></div><div>Experience &amp; Skills</div><ul>
+<li>4+ years work experience with .NET</li>
+<li>PostgreSQL experience is a plus </li>
+<li>Demonstrated experience building and architecting back-end APIs</li>
+<li>Good written and oral communication skills in English</li>
+</ul><div><br></div><div>Candidates will complete a rigorous technical evaluation. </div><div><br></div><div><strong>Position:</strong></div><ul>
+<li>Architect, design, and implement new functionality in .net core using our framework</li>
+<li>Write database migrations and stored procedures</li>
+<li>Help research and troubleshoot production issues </li>
+<li>Improve platform performance by refactoring code, workflows, and stored procedures</li>
+<li>Able to train other developers and potentially able to lead a team in the future</li>
+</ul><div><br></div><div>You must be able to work substantially during normal business hours in the Pacific Time Zone (8am to 4pm UTC -8:00, Los Angeles time). We prefer candidates in North America and South America. We do deployments every other Thursday night from 7 pm - 9 pm PST.</div><div><br></div><div>Competitive compensation and contract type depending on qualifications and location.</div><div><br></div><div>Our technologies used:</div><div>.NET 6, C#, REST API, Javascript, HTML, CSS, VueJS, SQL, PostgreSQL, Linux, Microsoft Azure, Dokan File System Filter, Outgoing email, Incoming email processing, Gitlab, WinForms, NodeJS</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-3">https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-3</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9513/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Shape</h5>
+                    <h3> Senior iOS Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/shape-senior-ios-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/9513/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Copenhagen, Denmark
+    <br /><strong>URL:</strong> <a href="https://shape.dk">https://shape.dk</a>
+</p>
+
+<div>Shape is an award-winning native app development studio. We are known for building high-quality mobile apps that tackle real problems and push businesses forward.</div><div><br></div><div>At Shape, you will work with talented designers and developers to build awesome digital products. You will put your existing skills to good use, and learn new ones by working together with other skilled people.</div><div><br></div><div>We’re looking for a Senior iOS Developer to join a new remote-first team of developers from all over the world.<br><br>
+</div><div>
+<br><strong>The opportunity</strong><br><br>
+</div><div>In this role, you will join a new remote-first team of developers distributed across the world. You will work closely with your peers to build world class products - all the way from proposal to release. You will architect high-impact solutions using the newest technologies and execute them against a set of success-criteria. You will also:</div><ul>
+<li>Step up to resolve product issues - large and small.</li>
+<li>Tackle everything from huge new features to important bug fixes, from start to finish.</li>
+<li>Take ownership of major features and lead their maintenance and improvements over time.</li>
+<li>Collaborate with peers remotely during brainstorms, technical design discussions, design reviews and code reviews.</li>
+</ul><div>
+<br><strong>What you will bring to Shape</strong>
+</div><ul>
+<li>Solid experience with developing native iOS apps using Swift and the iOS SDK.</li>
+<li>Passion for writing pragmatic, performant and testable code.</li>
+<li>Skills to lead and collaborate on high-impact and complex projects from proposal through release.</li>
+<li>Ability to work independently and be self-driven in all aspects of your work.</li>
+<li>Excellent communication skills. We’re a distributed team, so frequent and clear communication is a must.</li>
+</ul><div>
+<br><strong>Why join Shape?</strong><br><br>
+</div><div>
+<strong>History of success.  </strong>For over a decade, we have brought impactful digital products to life and while we are not in it for the accolades, it is nice to be recognised for what you do. With over 50 national and international awards and honors under our belts, it shows we are doing something right in our quest to deliver results for those we work with.</div><div><br></div><div>
+<strong>Be on the front line of progress and innovation.  </strong>We are passionate about building great products using the latest technology while creating reusable components, empowering teams to ship apps faster and with better user experience.</div><div><br></div><div>
+<strong>International team.  </strong>Shape is very international and so far includes people from over 30 different countries. Our company language is English.</div><div><br></div><div>
+<strong>Take charge of your schedule.  </strong>You will join a remote-first team working asynchronously giving you the freedom and flexibility to organize your own work schedules.</div><div><br></div><div>
+<strong>Work/life balance</strong>.  From day one, we have been committed to making a place where people can do the best work in a meaningful way. This means working reasonable hours, spending each day in a welcoming environment, and taking time off when you need it. We believe in doing everything we can to help our people live healthy and full lives while doing work that makes a tangible difference.</div><div>
+<br><br><strong>What we have to offer you</strong>
+</div><ul>
+<li>A team of exceptional developers</li>
+<li>6 weeks vacation</li>
+<li>A 37.5 hour work week</li>
+<li>Work from anywhere in the world</li>
+<li>Take charge of your own schedule</li>
+<li>The opportunity to attend or present at global conferences and meetups</li>
+<li>Yearly company offsite with travel expenses paid</li>
+<li>The possibility to visit our office in Copenhagen</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/shape-senior-ios-developer">https://weworkremotely.com/remote-jobs/shape-senior-ios-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Clevertech</h5>
+                    <h3> Senior Frontend Developer - Javascript React</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-developer-javascript-react" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
+</p>
+
+<div>
+<br>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects<br><br>
+</div><div><strong>What we're working on:</strong></div><div>
+<br>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries<br><br>
+</div><div><strong><br>Requirements</strong></div><ul>
+<li>7+ years of professional experience (A technical assessment will be required)</li>
+<li>Senior-level experience with Javascript, React, Redux, Websockets, Async/Await</li>
+<li>Ability to create clean, modern, testable, well-documented code</li>
+<li>English fluency, verbal and written</li>
+<li>Professional, empathic, team player</li>
+<li>Problem solver, proactive, go getter</li>
+</ul><div><strong>Straight from the Devs</strong></div><div>
+<br>Watch short snippets of actual developers (Real, not scripted) share why they joined <a href="https://cleverte.ch/3"><strong>YouTube Playlist<br></strong></a><br>
+</div><div><strong>Why Clevertech is an amazing place to work at</strong></div><div>
+<br>At Clevertech, you can expect that you will:<br><br>
+</div><ul>
+<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
+<li>Be a part of a team of talented and friendly senior-level developers</li>
+<li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li>
+</ul><div>
+<br>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.<br><br><strong>Benefits of joining the Clevertech team</strong>
+</div><div>
+<br>We know that people do their best work when they’re taken care of. So we make sure to offer great benefits:<br><br>
+</div><ul>
+<li>Competitive Salaries</li>
+<li>1 Month Paid Time Off For You</li>
+<li>Personal Development Fund</li>
+<li>Tenure-Based Rewards</li>
+<li>Flexible Family Leave</li>
+<li>Clevertech University</li>
+<li>Clevertech Gives Back</li>
+<li>Amazing Culture &amp; Strong Community</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-developer-javascript-react">https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-developer-javascript-react</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9464/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +197,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shopexperts-freelance-shopify-developer" align="right" target="_blank">Apply</a>
@@ -45,7 +232,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toptal-freelance-tibco-developer" align="right" target="_blank">Apply</a>
@@ -62,7 +249,18 @@
 </p>
 
 <div>
-<strong><em>Design your full-time freelance career as a top freelance developer with Toptal. </em></strong><br><br>Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. <br><br>Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <strong>Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </strong>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. <br><br>As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. <br><br>That’s why the world’s top 3% of developers choose Toptal. TIBCO developers in our exclusive network share:</div><ul>
+<strong>About the job<br></strong><br>
+</div><div>Toptal freelancers work with speed and efficiency to deliver the highest quality of work. We are looking for someone who is passionate about their client’s business, and ready to work on exciting projects with Fortune 500 companies and Silicon Valley startups, with great rates and zero hassles. If you are looking for a place to advance your career, enhance your skill set, and build connections around the globe, Toptal is right for you.<br><br>
+</div><div>
+<strong>About Toptal<br></strong><br>
+</div><div>Toptal is an exclusive network of top freelancers from around the world. Fortune 500 companies and Silicon Valley startups hire Toptal for their most important projects. Toptal is one of the fastest-growing fully remote networks and empowers freelance software developers, designers, finance experts, product managers, and project managers worldwide to grow and excel in their freelance careers.<br><br>
+</div><div>Toptal clients vary in sizes and industries, from enterprise organizations and big tech companies to Silicon Valley startups and renowned universities. Once you enter the network, our matchers will contact you with project opportunities that fit your expertise and preferences. We have experts in over 120 countries who get to work remotely on projects that meet their career ambitions.<br><br>
+</div><div>
+<strong>About the role<br></strong><br>
+</div><div>We are looking for a <strong>TIBCO Developer (independent contractor)</strong> to carry out a full-time, long-term engagement with one of Toptal’s most prominent clients. Some of your responsibilities will include 1) managing data pipelines, 2) ensuring success, availability, and continuity of the data pipeline process, and 3) supporting the client’s re-platforming from on-premises to the cloud. The selected candidate will be joining a team of smart and capable self-starters from all over the world!<br><br>
+</div><div>
+<strong>Requirements<br></strong><br>
+</div><ul>
 <li>English language proficiency</li>
 <li>
 <strong>3+ years of experience</strong> working with <strong>TIBCO BusinessWorks</strong> or <strong>TIBCO Spotfire Development</strong> required</li>
@@ -80,70 +278,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9156/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>EventMobi</h5>
-                    <h3> Senior Back End Developer (Python) - Remote</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/eventmobi-senior-back-end-developer-python-remote-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/9156/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> 151 Yonge Street 11th Floor Toronto, Ontario M5C 2W7
-    <br /><strong>URL:</strong> <a href="https://eventmobi.com">https://eventmobi.com</a>
-</p>
-
-<div><em>EventMobi is a remote-first company and this is a remote job. You may reside anywhere in the world to do this job. However, you must be willing to work during Eastern Standard Time business hours. The salary range for this role is between 60k - 90k CAD per annum.  This posting is open to all candidates globally.</em></div><div><br></div><div><br></div><div><strong>WHY EVENTMOBI?</strong></div><div><br></div><div>Events and conferences are being reimagined online, and EventMobi is building on ten years of event technology experience to innovate one of the most flexible and engaging virtual event platforms. We are an award-winning tech startup with teams in Toronto, Berlin and Manila, with thousands of customers around the globe.</div><div><br></div><div>We believe that live events bring people together to enable change – both in business and our society at large. In the era of COVID-19, we have become a remote-first company and are hard at work helping thousands of events pivot to virtual. EventMobi has a huge impact on the success of our customers’ events and on their attendee experience. We are on a mission to revolutionize how event planners create, market and manage their virtual and in-person events, and how remote and on-site attendees experience conferences. We would love for you to join us and leave your mark.</div><div><br></div><div><br></div><div><strong>ABOUT YOU</strong></div><div><br></div><div>If you're looking for a software development role that allows you to hone your software design skills, both learn and teach on a team of senior developers, and progress your career, you've come to the right place! Whether you want to build robust APIs, design architectures that scale, learn new skill-sets, or optimize a platform that supports millions of users, this is a role that requires you to think holistically about evolving and maintaining a large and complex system architecture.</div><div><br></div><div><br></div><div><strong>WHAT YOUR WORK WILL FOCUS ON </strong></div><div><br></div><ul>
-<li>
-<strong>API &amp; Platform Development</strong> - You will help to build out EventMobi’s platform capabilities by developing elegant and performant API endpoints and the code that supports them.</li>
-<li>
-<strong>System Architecture </strong>- From Auth to Caches, Data Management to Cloud Hosting, APIs to Message Queues, there are a lot of components that make up a system’s architecture. You will help to architect solutions throughout the system that solve domain challenges, are robust, performant, secure, and scalable.</li>
-<li>
-<strong>Shared Ownership</strong> - Along with a team of experienced peers, you will take initiative to identify and design solutions for hard problems and apply them to improve an existing code base.</li>
-<li>
-<strong>Software Craftsmanship</strong> - Best practices, well thought out code, continuous learning, and collaboration with your team is your ideal and you preach this in your own work as well as with your teammates.</li>
-<li>
-<strong>Quality</strong> - You will help grow the team around you in not only pushing new capabilities for our customers, but also maintaining the utmost quality in everything we build. </li>
-</ul><div><br></div><div><br></div><div><strong>WHAT YOU WILL BRING TO THE TEAM</strong></div><div><br></div><ul>
-<li>5+ years experience as a software developer working on large, complex, or fast scaling products </li>
-<li>Extensive experience and deeply knowledgeable with Python </li>
-<li>Experience with RESTful APIs, RDBMS, ORMs, Caching, Queues</li>
-<li>Knowledge of Clean Architecture, SOLID Principles, Domain Modelling, and Design Patterns is a major benefit</li>
-<li>Experience with DevOps &amp; Cloud is a major benefit (AWS, CI/CD, Linux, Networking, Alerting &amp; Monitoring)</li>
-<li>Experience with Information Security best practices is a nice to have</li>
-<li>Ability to mentor and grow team members, provide technical guidance and oversight on implementation direction</li>
-<li>Excellent written and verbal communication</li>
-</ul><div><br></div><div><br></div><div><strong>REMOTE WORKSPACE REQUIREMENTS:</strong></div><div><br></div><ul>
-<li>You have a safe, comfortable, and ergonomic workspace and working environment - a private and quiet workspace is vital for doing your best work!</li>
-<li>You have a reliable ethernet connection of at least 30Mbps upload speed with a wired connection or reliable WiFi at home.</li>
-</ul><div><br></div><div><br></div><div>
-<strong>WHAT WILL YOU GET FROM EVENTMOBI?</strong><br><br>
-</div><div><br></div><ul>
-<li>We offer the experience of a lifetime working with a dynamic, open-minded and diverse team, who are excited to come to work every day and passionate about what they do and the clients they help.</li>
-<li>Competitive compensation</li>
-<li>Company Stock-Options</li>
-<li>A great culture with much more along the way</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/eventmobi-senior-back-end-developer-python-remote-1">https://weworkremotely.com/remote-jobs/eventmobi-senior-back-end-developer-python-remote-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6863/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -154,7 +288,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shneorweb-frontend-ui-developer-wizard" align="right" target="_blank">Apply</a>
@@ -193,7 +327,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/planet-argon-senior-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -325,7 +459,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>391 days ago</text>
+                <text>392 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
@@ -392,7 +526,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -469,7 +603,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -495,7 +629,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -572,7 +706,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -639,7 +773,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -694,56 +828,6 @@
 <p>Save your time: Fast and efficient hiring process to match you with the project of your preference.</p>
 <p>Ownership: Take ownership of your work and enjoy more freedom in your career.</p>
 <img src="https://remotive.com/job/track/1359476/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1344658/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Toptal</h5>
-                    <h3>Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,go,node.js,rails</code>
-                </td>
-                <td width="200">
-                <text>25 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1344658" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em>Design your full-time freelance career as a top freelance developer with Toptal.</em></span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</span> Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions.<span class="Apple-converted-space"> </span></p> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</p><ul><li>English language proficiency</li><li>3+ years of professional experience in software development</li><li>Solid experience with <strong>Unreal Engine </strong>is a strong advantage<br></li><li>Experience with <strong>system architecture</strong><span style="color: var(--remotive-chocolate);"> </span><span style="color: var(--remotive-chocolate);">is a strong advantage</span></li><li>Project management skills</li><li>A keen attention to detail</li><li>Experience with system architecture or leading a software team is a strong advantage</li><li>Full-time availability is a strong advantage</li></ul> <br> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/d3cA42" rel="nofollow"><strong>https://topt.al/d3cA42</strong></a></p>
-<img src="https://remotive.com/job/track/1344658/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1344657/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Toptal</h5>
-                    <h3>Unreal Engine Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,node.js,rails,ruby</code>
-                </td>
-                <td width="200">
-                <text>25 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/unreal-engine-developer-1344657" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;"><span style="text-size-adjust: 100%;"><span style="color: rgb(0, 0, 0); letter-spacing: 0.75px;"><em><span style="font-weight: 600;">Design your full-time freelance career as a top freelance developer with Toptal. </span></em></span></span></p> <p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;">Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. </p> <p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;">Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere.<span style="text-size-adjust: 100%;"> <span style="font-weight: 600; color: rgb(0, 0, 0); letter-spacing: 0.75px;">Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom.</span> </span>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. </p> <p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;">As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. </p> <p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;">That’s why the world’s top 3% of developers choose Toptal. Developers in our network share:</p><ul style="margin-top: 1em; margin-bottom: 1em; margin-left: 25px; padding-left: 0px; text-size-adjust: 100%; overflow-wrap: break-word;"><li style="margin: 5px 0px; text-size-adjust: 100%; list-style-type: square;">English language proficiency</li><li style="margin: 5px 0px; text-size-adjust: 100%; list-style-type: square;"><strong>3+ years </strong>of professional experience in software development</li><li style="margin: 5px 0px; text-size-adjust: 100%; list-style-type: square;">Strong experience with <strong>Unreal Engine 4</strong> or <strong>Unreal Engine 3</strong></li><li style="margin: 5px 0px; text-size-adjust: 100%; list-style-type: square;">Experience with <strong>system architecture</strong> or leading a software team is a strong advantage</li><li style="margin: 5px 0px; text-size-adjust: 100%; list-style-type: square;">Full-time availability is a strong advantage<br style="text-size-adjust: 100%;"><br></li></ul><p style="margin-bottom: 1rem; text-size-adjust: 100%; overflow-wrap: break-word;"><br style="text-size-adjust: 100%;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <strong><a href="https://topt.al/55cX2m" rel="nofollow">https://topt.al/55cX2m</a></strong></p>
-<img src="https://remotive.com/job/track/1344657/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
