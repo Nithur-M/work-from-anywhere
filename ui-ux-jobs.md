@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shopexperts-freelance-shopify-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -45,7 +45,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazee-io-ux-product-designer-80-100" align="right" target="_blank">Apply</a>
@@ -114,7 +114,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tryhackme-lead-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -217,67 +217,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Springboard</h5>
-                    <h3> Mentor - UI/UX Design Career Track (Part-time/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>256 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="https://www.springboard.com/">https://www.springboard.com/</a>
-</p>
-
-<div><strong>The Company </strong></div><div> </div><div>At Springboard, we’re on a mission to bridge the world’s skills gap, offering transformative online education in data science, UI/UX design, machine learning, and coding. Our courses may be tech-enabled, but we're ultimately human-centric: each student taps into a vast community throughout their time with us, engaging with fellow students, industry-expert mentors, student advisors, and career coaches, the goal of which is to successfully transition students into their dream job. Through this hybrid approach, we’ve helped thousands of learners revamp their careers and, by extension, their lives, with hundreds of top-notch job offers received every year and a near-perfect placement rate for our program graduates.</div><div>
-<br><strong>The Opportunity</strong>
-</div><div> </div><div>Springboard runs an online, self-paced UI/UX Design Career Track in which participants learn with the help of a curated curriculum and 1-1 guidance from an expert mentor. Our mentor community is the biggest strength of our programs with a Net Promoter Score rated as world class.</div><div> </div><div>If you are as passionate about mentoring as you are about UX and UI, and can give a few hours per week in return for an honorarium, we would love to hear from you.</div><div> </div><div><strong>What does mentoring mean at Springboard?</strong></div><div> </div><div>Mentoring encompasses many levels of support at Springboard. We believe in giving a personalized approach to mentoring students. What this looks like is grading student deliverables on a weekly basis, offering detailed feedback, teaching/modeling concepts that are challenging for students, and/or giving them career pointers about the industry. Depending on your mentees you’ll lean on a teaching approach, being a motivator, advisor, or you may have high level conversions to guide them throughout the course. A mix of diverse students, skills, and abilities offers opportunities to renew your skills or take your skills to the next level. Mentors have said it’s a rewarding opportunity to grow professionally and make a lasting impact. </div><div> </div><div>Please reach out to us with any questions at mentorrecruiting@springboard.com :-)</div><div> </div><div><strong>The Program:</strong></div><ul>
-<li>Completely online</li>
-<li>Self-paced</li>
-<li>Students become proficient in UI/UX with the help of a curated online curriculum, an industry design project, and project-based deliverables</li>
-<li>Coursework is made up of 700+ hour expert-curated curriculum</li>
-<li>On average, students finish in 9 months</li>
-<li>Students are working professionals from all over the world, dedicated to switching careers into UI/UX Design</li>
-<li>Students have a weekly 30-minute checkin with their mentor to discuss questions, projects, and career advice!</li>
-<li>Students communicate with mentors outside of calls on an as-needed basis to support learning and career objectives</li>
-</ul><div><strong>You:</strong></div><ul>
-<li>Are as passionate about teaching design as about design itself</li>
-<li>Are proficient in the topics covered in our<a href="https://www.springboard.com/workshops/ui-ux-design-career-track/"> UI/UX Design Career Track</a> (we are looking for designers who have equal experience in UI and UX)</li>
-<li>Have at least 3 years of relevant work experience, and a high quality  portfolio to showcasing your UI and UX skills</li>
-<li>Are available for weekly, 30-minute video check-ins for each student to help them set and achieve learning goals, provide feedback, and help them move towards getting a job</li>
-<li>Are able to utilize Zoom for the 30-minute calls with students</li>
-<li>Are available outside of weekly calls for each student to review projects and answer questions as needed</li>
-<li>Have experience critiquing work, in particular giving meaningful feedback on visual/UI design, and be able to think on your feet quickly</li>
-<li>Are empathetic and have excellent communication skills</li>
-</ul><div><strong>Benefits:</strong></div><ul>
-<li>Membership in a rich community of expert mentors from great companies like AirBnB, Uber, Google, and Pivotal</li>
-<li>Change the lives of students in our program</li>
-<li>Help us revolutionize online education!</li>
-<li>UI/UX career track mentors are paid an honorarium between $20.50-$37.50 per 30 minute call with students</li>
-<li>Work at your convenience</li>
-</ul><div>
-<em>We are an equal opportunity employer and value diversity at our company. We welcome applications from all backgrounds, and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br></em> </div><div><strong>California Privacy Rights Notice for Job Applicants</strong></div><div>Under the California Consumer Privacy Act (“CCPA”), Springboard is required to inform California residents who are job applicants about the categories of personal information we collect about you and the purposes for which we will use this information. This <a href="https://www.springboard.com/archeio/download/841f959e9c964e93a87abe993316cc1f/">notice</a> contains disclosures required by the CCPA and applies only to personal information that is subject to the CCPA.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote">https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4150/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -288,7 +227,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>362 days ago</text>
+                <text>363 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -344,66 +283,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1445323/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Distributed</h5>
-                    <h3>UX/UI Designer (Elastic Team Community)</h3>
-                </td>
-                <td width="300">
-                    <code>developer,ui,ux,design</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/design/ux-ui-designer-elastic-team-community-1445323" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h3">UX/UI Designer (Elastic Team Community)</div>
-<div class="h4">Near Future Opportunity</div>
-<p><em><em><em><strong> </strong></em></em></em></p>
-<div class="h4"><em><em><em><strong><br></strong></em></em></em><em><em><em><strong>Who are we?</strong></em></em></em></div>
-<p>We're a software development company building the world's Elastic Workforce, reinventing work and challenging the assumption that a local team = the best team.</p>
-<p>We help businesses deliver technical projects better than ever before through our platform and on-demand Elastic Teams™.</p>
-<blockquote data-o-mail-quote="1">What's in it for you? <em><strong>Our mission is to create freelance jobs with more benefits than permanent.</strong></em></blockquote>
-<p><em><em><em>Want to know more? read: <a href="https://distributed.co/about" rel="nofollow">https://distributed.co/about</a></em></em></em></p>
-<p> </p>
-<div class="h4"><strong>Elastic Team Developer Exclusively joining our Community</strong></div>
-<p> </p>
-<p>As a Distributed Elastic Team Developer, you will gain access to the opportunity to be part of our projects delivering high-quality products.</p>
-<p><strong>If approved </strong>to join our community by qualifying through the assessment process, you will automatically be one of the individuals who could be considered for exciting customer-centric projects that we are currently engaged in for our clients.</p>
-<p><strong>Once on a project</strong> you will be working closely with teams of engineers, QAs, and designers, producing detailed specifications and writing the programme codes, testing the product in controlled, real situations before going live.</p>
-<p>We're proud to have Enterprise companies like Capita and BT, BBC, NHS, Virgin, Money, BP, Master Card, Tesco and Suzuki select us for delivering user-centric products.</p>
-<p>Our mission as an organization is to provide our community with access to the most exciting tech projects and to build a freelance career with us as we continue to scale as an organisation.</p>
-<div class="h5"><em>We're creating this opportunity for talents to be able to join our Elastic Team, and then later be moved to a project when the matching projects become live. </em></div>
-<p> </p>
-<p><strong>We're interested to find : </strong></p>
-<p>It would be ideal if you have expertise with</p>
-<ul>
-<li>User Centred Design</li>
-<li>Interaction Design</li>
-<li>Product Design</li>
-<li>Content Design</li>
-<li>User Experience Design</li>
-<li>Relationship Building</li>
-<li>User Journey Mapping</li>
-</ul>
-<p> </p>
-<p><strong> </strong></p>
-<p><strong><em>About us</em></strong></p>
-<p><em>Distributed is proud to be an equal opportunities employer. Employees and contractors, as well as prospective employees and contractors, will all be treated equally and fairly. Distributed is committed to ensuring no less favourable treatment is experienced by any current or prospective employee because of any of the protected characteristics under the UK Equality Act 2010 or equivalent local equality legislation.</em></p>
-<p><em>By submitting your application you give us permission to store and use the information from your CV and your answers to application questions.</em></p>
-<p><strong> </strong></p>
-<p> </p>
-<img src="https://remotive.com/job/track/1445323/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -414,7 +293,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
