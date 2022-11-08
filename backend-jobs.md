@@ -10,7 +10,7 @@
                     <code>design,web3,solidity,crypto,frontend,software,code,scrum,financial,nodejs,nosql,mobile,lead,junior,excel,telecom,go,golang,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-lead-backend-engineer-giant-protocol-144540" align="right" target="_blank">Apply</a>
@@ -69,7 +69,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">401k with company match</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Annual professional development budget</span></li>
 </ul>
-</div><br/><br/>Please mention the word **FANS** and tag RMzQuMjI4LjIxNi4xNTk= when applying to show you read the job post completely (#RMzQuMjI4LjIxNi4xNTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **FANS** and tag RNTQuMjM0LjM3LjE5OA== when applying to show you read the job post completely (#RNTQuMjM0LjM3LjE5OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -84,7 +84,7 @@
                     <code>design,web3,back-end,python,software,code,qa,cloud,api,management,go,engineer,backend,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-streamflow-143523" align="right" target="_blank">Apply</a>
@@ -133,7 +133,74 @@
 <li align="left"><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Website</a></li>
 <li align="left"><a class="bbcode-link" href="https://app.streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">dApp</a></li>
 <li align="left"><a class="bbcode-link" href="https://twitter.com/streamflow_fi" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
-</ul><br><br/><br/>Please mention the word **LIONHEARTED** and tag RMzQuMjI4LjIxNi4xNTk= when applying to show you read the job post completely (#RMzQuMjI4LjIxNi4xNTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br><br/><br/>Please mention the word **LIONHEARTED** and tag RNTQuMjM0LjM3LjE5OA== when applying to show you read the job post completely (#RNTQuMjM0LjM3LjE5OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Clevertech</h5>
+                    <h3> Senior Backend Engineer - Javascript Node</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-javascript-node" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
+</p>
+
+<div>
+<br>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects<br><br>
+</div><div><strong>What we're working on:</strong></div><div>
+<br>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries<br><br>
+</div><div><strong><br>Requirements</strong></div><ul>
+<li>7+ years of professional experience (A technical assessment will be required)</li>
+<li>Senior-level experience with Javascript, NodeJS, Express, Mongo</li>
+<li>Ability to create clean, modern, testable, well-documented code</li>
+<li>Serverless experience with AWS lambda or Azure functions</li>
+<li>English fluency, verbal and written</li>
+<li>Professional, empathic, team player</li>
+<li>Problem solver, proactive, go-getter</li>
+</ul><div><strong>Straight from the Devs</strong></div><div>
+<br>Watch short snippets of actual developers (Real, not scripted) share why they joined <a href="https://cleverte.ch/3"><strong>YouTube Playlist<br></strong></a><br>
+</div><div><strong>Why Clevertech is an amazing place to work at</strong></div><div>
+<br>At Clevertech, you can expect that you will:<br><br>
+</div><ul>
+<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
+<li>Be a part of a team of talented and friendly senior-level developers</li>
+<li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li>
+</ul><div>
+<br>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.<br><br>
+</div><div><strong>Benefits of joining the Clevertech team</strong></div><div>
+<br>We know that people do their best work when they’re taken care of. So we make sure to offer great benefits:<br><br>
+</div><ul>
+<li>Competitive Salaries</li>
+<li>1 Month Paid Time Off For You</li>
+<li>Personal Development Fund</li>
+<li>Tenure-Based Rewards</li>
+<li>Flexible Family Leave</li>
+<li>Clevertech University</li>
+<li>Clevertech Gives Back</li>
+<li>Amazing Culture &amp; Strong Community</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-javascript-node">https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-javascript-node</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -148,7 +215,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>360 days ago</text>
+                <text>361 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer" align="right" target="_blank">Apply</a>
@@ -230,7 +297,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
@@ -255,7 +322,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
