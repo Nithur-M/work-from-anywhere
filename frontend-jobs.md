@@ -10,7 +10,7 @@
                     <code>frontend,design,web3,crypto,react,software,growth,payroll,js,fintech,go,engineer,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-streamflow-143526" align="right" target="_blank">Apply</a>
@@ -46,7 +46,7 @@
 <li align="left"><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Website</a></li>
 <li align="left"><a class="bbcode-link" href="https://app.streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">dApp</a></li>
 <li align="left"><a class="bbcode-link" href="https://twitter.com/streamflow_fi" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
-</ul><br><br/><br/>Please mention the word **TRIUMPHANT** and tag RMzQuMjI4LjIxNi4xNTk= when applying to show you read the job post completely (#RMzQuMjI4LjIxNi4xNTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br><br/><br/>Please mention the word **TRIUMPHANT** and tag RNTQuMjM0LjM3LjE5OA== when applying to show you read the job post completely (#RNTQuMjM0LjM3LjE5OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -61,7 +61,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote" align="right" target="_blank">Apply</a>
@@ -73,7 +73,7 @@
                 <img src="https://we-work-remotely.imgix.net/logos/0081/9155/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> 151 Yonge Street 11th Floor Toronto, Ontario  M5C 2W7
+  <strong>Headquarters:</strong> 151 Yonge Street 11th Floor Toronto, Ontario M5C 2W7
     <br /><strong>URL:</strong> <a href="https://eventmobi.com">https://eventmobi.com</a>
 </p>
 
@@ -125,93 +125,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>AgencyAnalytics</h5>
-                    <h3> Senior Frontend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>306 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-frontend-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Toronto, Canada
-    <br /><strong>URL:</strong> <a href="https://agencyanalytics.com">https://agencyanalytics.com</a>
-</p>
-
-<div>We’re seeking a Senior Frontend Engineer to work in one of our product-driven teams, focused on building features that help our customers grow their business.<br><br>We work efficiently and iteratively to ensure our products are modern, easy to use and ultimately make our users happy. More importantly, we're looking for people to build a team of collaborative, supportive and high-skilled engineers that take our user's experience to the next level. You'll work with React, JavaScript and TypeScript to create new features, iterate on existing features and build a cohesive experience to our users. You'll have the opportunity work on a wide range of projects including greenfield features, experimental UX/UI improvements, paying down technical debt, improving existing features and everything in between.<br><br>
-</div><div>
-<br><strong>What You'll Work With</strong><br><br>
-</div><ul>
-<li>Typescript &amp; JavaScript utilizing ES2020+ standards</li>
-<li>React ecosystem with Webpack, NPM and UI Router</li>
-<li>Frontend mono-repo service architecture</li>
-<li>Service-based API with query interface</li>
-<li>CSS Modules and an in-house tailored Component Library</li>
-<li>Non-blocking CI/CD tooling with on-demand staging for every PR</li>
-<li>Automated testing via Jest &amp; Cypress, formatting with EsLint &amp; Prettier</li>
-</ul><div>
-<br><strong>What You'll Do</strong><br><br>
-</div><ul>
-<li>Your time will be divided between new features, UI/UX improvements, repaying technical debt, and improving existing features</li>
-<li>You'll prioritize and work on multiple projects from start to finish, balancing quality, stability and project delivery</li>
-<li>You'll review your teammates' work, help set high standards, and look for ways to improve the overall quality of our codebase</li>
-<li>You'll work within your team to achieve technical excellence by taking a collaborative approach to architecture, technical patterns, and complex problems</li>
-<li>Work-life balance is a priority at AgencyAnalytics, so you'll have the flexibility to work the way that suits you best</li>
-</ul><div><br></div><div>
-<strong>Job requirements<br></strong><br>
-</div><ul>
-<li>You have 5+ years of professional experience in the modern JavaScript ecosystem</li>
-<li>You have professional experience working in a cross-functional team of 5+ members</li>
-<li>You have the ability to communicate effectively with other engineers, while building trust, credibility, and mutual success with your peers</li>
-<li>You have a strong understanding of the challenges of working in engineering and delivering products in a remote work environment</li>
-<li>You have the drive to stay current with technological changes and set a high standard for yourself</li>
-<li>You have a strong sense for UI quality and a good understanding of user behavior</li>
-<li>You proactively take on a challenge and help the team solve problems from start to finish</li>
-</ul><div>
-<br><strong>What we offer</strong><br><br>
-</div><ul>
-<li>Fully remote workplace</li>
-<li>Flexible working hours</li>
-<li>4 weeks paid vacation</li>
-<li>Unlimited paid sick days</li>
-<li>Quarterly profit sharing</li>
-<li>Parental &amp; Maternity leave top-ups</li>
-<li>Extended health benefits</li>
-<li>Health spend account</li>
-<li>Equipment credit</li>
-<li>Fitness/Education credit</li>
-<li>Internet reimbursement</li>
-<li>Training and certification reimbursement\</li>
-<li>Travel reimbursement for company events</li>
-</ul><div>
-<br><strong>Our Application Process</strong><br><br>
-</div><ul>
-<li>Complete a self-assessment (5 - 10 minutes) </li>
-<li>Non-technical introduction interview (15 - 30 minutes) </li>
-<li>Take-home engineering challenge </li>
-<li>Interview with the Hiring Committee (30 - 45 minutes) </li>
-<li>Offer extended to successful applicants</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-frontend-engineer">https://weworkremotely.com/remote-jobs/agencyanalytics-senior-frontend-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1421232/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -222,7 +135,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
