@@ -10,7 +10,7 @@
                     <code>software,design,cryptocurrency,front-end,frontend,back-end,full-stack,code,web,financial,git,content,senior,analytics,engineer,engineering,linux,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-the-block-144041" align="right" target="_blank">Apply</a>
@@ -19,7 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div>Founded in 2018 and based in NYC, The Block is the leading research, analysis, and news brand in the digital asset space. The Block's team is spread across 7 timezones, covering the global cryptocurrency space 24/7.</div><div>The Block delivers deep insight into how the emerging digital assets sector interacts with traditional finance, technology, governments, and markets. We reach hundreds of thousands of technologists, financial market participants, Fortune 500 professionals, global service providers, policymakers, and more through our main website, dedicated Research Portal, podcast, and events.</div><div>You will be responsible for developing new features, optimizing performance with respect to both our backend and frontend stack, developing and supporting solutions for product analytics, and capturing feedback from our logging and debugging services to both troubleshoot an make improvements.</div><div>An effective Full-Stack Engineer should be able effectively communicate with the team and develop solutions between back-end and front-end implementations and concerns. The ideal candidate must be able to prioritize tasks and complete them in a timely manner.</div><br>You Will<br><li>Be responsible for the feature development of products you are a part of.</li><li>Collaborate with our engineers, researchers, executives, and designers to develop new features and prioritize bug fixes for our products.</li><li>Clearly communicate development progress across the Product & Engineering team.</li><li>Be creative in solving engineering problems.</li><li>Work with team managers on development prioritization and career development opportunities.</li><li>Contribute to the culture of quality, healthy collaboration and leading by example.</li><br>MUST HAVES<br><li>Full-stack experience and able to contribute to both frontend (Vue, Vuex, Nuxt, service workers, PWA) and backend (NodeJS, Adonis/SailsJS/Nest/Loopback or equivalent structured framework, Yarn, Postgres, GraphQL, Redis, memcached) systems.</li><li>Deep technical skill with frontend technologies (SASS, LESS,  Bootstrap utilities, TailwindCss or other similar).</li><li>Strong familiarity with Unix / Linux operating systems and general command-line knowledge.</li><li>Experience with git in a collaborative environment such as Github.</li><li>Responds positively when receiving and giving feedback.</li><li>Experience using code reviews and pair programming within the Agile Development lifecycle.</li><li>Expertise in web analytics and content performance measurements solutions.</li><li>Development Experience with payment processing and membership services.</li><li>Knowledge of common software design patterns and responsive web frameworks.</li><li>Knowledge of email service provider features and APIâs.</li><li>8 or more years experience as a professional software engineer.</li><br>GOOD TO HAVE<br><li>Experience with digital assets, crypto, and blockchain technologies.</li><li>Experience in one or more Business Intelligence (BI) products, such as Google Data Studio, Domo, or Tableau.</li><li>Expertise using developing and/or creating development environments using Docker, Vagrant, Virtual Box or similar platform.</li><br/><br/>Please mention the word **EASINESS** and tag RMzQuMjI4LjIxNi4xNTk= when applying to show you read the job post completely (#RMzQuMjI4LjIxNi4xNTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <div>Founded in 2018 and based in NYC, The Block is the leading research, analysis, and news brand in the digital asset space. The Block's team is spread across 7 timezones, covering the global cryptocurrency space 24/7.</div><div>The Block delivers deep insight into how the emerging digital assets sector interacts with traditional finance, technology, governments, and markets. We reach hundreds of thousands of technologists, financial market participants, Fortune 500 professionals, global service providers, policymakers, and more through our main website, dedicated Research Portal, podcast, and events.</div><div>You will be responsible for developing new features, optimizing performance with respect to both our backend and frontend stack, developing and supporting solutions for product analytics, and capturing feedback from our logging and debugging services to both troubleshoot an make improvements.</div><div>An effective Full-Stack Engineer should be able effectively communicate with the team and develop solutions between back-end and front-end implementations and concerns. The ideal candidate must be able to prioritize tasks and complete them in a timely manner.</div><br>You Will<br><li>Be responsible for the feature development of products you are a part of.</li><li>Collaborate with our engineers, researchers, executives, and designers to develop new features and prioritize bug fixes for our products.</li><li>Clearly communicate development progress across the Product & Engineering team.</li><li>Be creative in solving engineering problems.</li><li>Work with team managers on development prioritization and career development opportunities.</li><li>Contribute to the culture of quality, healthy collaboration and leading by example.</li><br>MUST HAVES<br><li>Full-stack experience and able to contribute to both frontend (Vue, Vuex, Nuxt, service workers, PWA) and backend (NodeJS, Adonis/SailsJS/Nest/Loopback or equivalent structured framework, Yarn, Postgres, GraphQL, Redis, memcached) systems.</li><li>Deep technical skill with frontend technologies (SASS, LESS,  Bootstrap utilities, TailwindCss or other similar).</li><li>Strong familiarity with Unix / Linux operating systems and general command-line knowledge.</li><li>Experience with git in a collaborative environment such as Github.</li><li>Responds positively when receiving and giving feedback.</li><li>Experience using code reviews and pair programming within the Agile Development lifecycle.</li><li>Expertise in web analytics and content performance measurements solutions.</li><li>Development Experience with payment processing and membership services.</li><li>Knowledge of common software design patterns and responsive web frameworks.</li><li>Knowledge of email service provider features and APIâs.</li><li>8 or more years experience as a professional software engineer.</li><br>GOOD TO HAVE<br><li>Experience with digital assets, crypto, and blockchain technologies.</li><li>Experience in one or more Business Intelligence (BI) products, such as Google Data Studio, Domo, or Tableau.</li><li>Expertise using developing and/or creating development environments using Docker, Vagrant, Virtual Box or similar platform.</li><br/><br/>Please mention the word **EASINESS** and tag RNTQuMjM0LjM3LjE5OA== when applying to show you read the job post completely (#RNTQuMjM0LjM3LjE5OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -34,7 +34,7 @@
                     <code>security,design,hr,software,web,cloud,microsoft,strategy,management,lead,operations,engineer,engineering,digital nomad,financial,bank,recruiting,backend</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-financial-institution-authentication-plaid-143682" align="right" target="_blank">Apply</a>
@@ -60,113 +60,7 @@ We're guided by our principles, including impact, growing together, embracing op
 
 
 
-Plaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at accommodations@plaid.com.<br/><br/>Please mention the word **COOLEST** and tag RMzQuMjI4LjIxNi4xNTk= when applying to show you read the job post completely (#RMzQuMjI4LjIxNi4xNTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6327/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>LeadSimple, Inc.</h5>
-                    <h3> Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6327/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Washington State, U.S.A.
-    <br /><strong>URL:</strong> <a href="https://www.leadsimple.com/careers">https://www.leadsimple.com/careers</a>
-</p>
-
-<div>🚀 Want to join a team of A-players in an exciting, high-growth, entrepreneurial environment?</div><div><br></div><div><strong>LeadSimple is a small team solving big problems in the property management industry. Bootstrapped since 2013, we're passionate about helping small businesses grow sustainably.</strong></div><div><br></div><div>Our software provides a powerful foundation for any property management company to take their business to the next level. Thousands of property managers rely on us for their day-to-day operations and we’re only getting started. </div><div><br></div><div>We’re looking for seasoned Senior and Lead Ruby on Rails Engineers to join our fully-remote team to help us scale to meet market demand. This is an opportunity to join on the ground floor of a bootstrapped, growing company with a lot of upside.</div><div><br></div><h1><strong>What we’d want you to do:</strong></h1><ul>
-<li>Assist with complex migration projects, such as:</li>
-<li>Modernizing our back-end stack (we’re currently on Rails 4)</li>
-<li>Optimizing our API and PostgreSQL database for scale and performance</li>
-<li>Suggest and implement scalability improvements</li>
-<li>Collaborate with the rest of the team in weekly meetings, chat and code reviews</li>
-<li>Develop new full-stack features from start to finish using the <a href="https://basecamp.com/shapeup/webbook">Shape Up method</a>
-</li>
-<li>Write high-quality and maintainable Ruby and Typescript code</li>
-</ul><div><br></div><h1><strong>Qualifications</strong></h1><div><br></div><div><em>Must have</em></div><ul>
-<li>5+ years of experience with Ruby on Rails</li>
-<li>Fluent spoken and written English at a professional level.</li>
-<li>Working hours must overlap with PST for at least 3 hours.</li>
-<li>Familiarity with PostgreSQL query optimization and scaling strategies</li>
-<li>Strong analytical and debugging skills</li>
-<li>Strong communication skills, able to recommend decisions using data and experience</li>
-</ul><div><br></div><div><em>Nice to have</em></div><ul>
-<li>Prior experience upgrading Ruby on Rails (this would be a big plus!)</li>
-<li>React, Typescript or GraphQL experience</li>
-<li>Elixir experience (we have 1 service using Elixir)</li>
-</ul><div><br></div><h1><strong>Our Stack</strong></h1><div><br></div><div><em>Front-end</em></div><ul>
-<li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-<li>
-<a href="https://reactjs.org/">React</a> </li>
-<li><a href="http://mui.com">MaterialUI</a></li>
-<li>
-<a href="https://relay.dev/">Relay<br></a><br>
-</li>
-</ul><div>
-<em>Back-end<br></em><br>
-</div><ul>
-<li>
-<a href="http://rubyonrails.org">Ruby on Rails</a> monolith (with 95% test coverage)</li>
-<li>GraphQL (via <a href="https://graphql-ruby.org/">graphql-ruby</a> gem)</li>
-<li>Sidekiq</li>
-<li>PostgreSQL</li>
-<li>Redis</li>
-<li>Heroku<br><br>
-</li>
-</ul><h1><strong>What it’s like to work here</strong></h1><ul>
-<li>You’ll have opportunities to work on the entire stack, from databases to user interfaces and everything in between, in a wide variety of product areas.</li>
-<li>You’ll own the delivery of high-impact projects that affect real customers, from start to finish, with no bureaucracy, following the <a href="https://basecamp.com/shapeup/webbook">Shape Up method</a>. </li>
-<li>You’ll collaborate within a small, highly productive team, reviewing code and helping other engineers with their roadblocks.</li>
-<li>You’ll have time to focus. We don’t micromanage, and we do our best to keep distractions (and meetings) to a minimum. </li>
-<li>When assigned to on-call duty, you’ll investigate and fix bugs and respond to incidents. </li>
-<li>You’ll deploy early and often. We ship to production multiple times per day.<br><br>
-</li>
-</ul><div><br></div><h1><strong>Benefits</strong></h1><ul>
-<li>Remote-only team, location independent</li>
-<li>3rd Friday of every month off</li>
-<li>6 US Holidays</li>
-<li>3 Weeks Paid Time Off (in addition to the above)</li>
-<li>Quarterly Two-Week Hackathons</li>
-<li>Monthly Healthcare Allowance</li>
-<li>Yearly Vacation Allowance</li>
-<li>$2000 equipment stipend upon hire</li>
-<li>Focused and dedicated environment with smart, caring people</li>
-<li>Consistent, but flexible working schedule with minimum 3hr Pacific Time Zone overlap</li>
-<li>Mission driven, non-political company and values-based culture<br><br>
-</li>
-</ul><h1><strong>Our Interview Process</strong></h1><ul>
-<li>Fill out our application, located <a href="https://docs.google.com/forms/d/e/1FAIpQLSeF5zo6hIcTQK8gP9LLGz6sTZMXGI1vDHPVbkpISxiy9CvOfQ/viewform?usp=sf_link">here</a>
-</li>
-<li>Intro call (30 minutes)</li>
-<li>Offline work sample test (up to 60 minutes)</li>
-<li>Work history interview with Hiring Manager (up to 90 minutes)</li>
-<li>Culture interview with People Operations(30 minutes)</li>
-<li>Meet the CTO(30 minutes)</li>
-<li>Meet the CEO (30 minutes)</li>
-<li>Offer call (15 minutes), followed by a written offer</li>
-<li>If you accept the offer, you enter a 90-day trial period, fully paid.</li>
-<li>If all goes well in your first 90 days, you convert to a full-time team member!</li>
-</ul><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-1">https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-1</a></p>
-
+Plaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at accommodations@plaid.com.<br/><br/>Please mention the word **COOLEST** and tag RNTQuMjM0LjM3LjE5OA== when applying to show you read the job post completely (#RNTQuMjM0LjM3LjE5OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -181,7 +75,7 @@ Plaid is proud to be an equal opportunity employer and values diversity at our c
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote" align="right" target="_blank">Apply</a>
@@ -263,7 +157,7 @@ Plaid is proud to be an equal opportunity employer and values diversity at our c
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -325,7 +219,7 @@ Plaid is proud to be an equal opportunity employer and values diversity at our c
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -393,7 +287,7 @@ Plaid is proud to be an equal opportunity employer and values diversity at our c
                     <code>data science,developer,kubernetes,machine learning</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineering-content-writer-1214006" align="right" target="_blank">Apply</a>
