@@ -10,7 +10,7 @@
                     <code>manager,defi,crypto,engineering</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-technical-product-manager-mev-staked-144037" align="right" target="_blank">Apply</a>
@@ -19,7 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>Staked is looking for a hyper-organized technical project manager to help us run our development process. A great candidate eyes their to-do list as an enemy to be vanquished. You're eager to knock items off your list and great at prioritizing when the list gets too long to handle. (it will!)Â </p><p>The core of the role is helping to organize the agile process for the technical team responsible for Maximal Extractable Value(MEV). This project enables our staking customers to earn more from their staked assets, so is critically important to our long-term future. A great technical project manager will have demonstrable experience with Agile processes (scrum, sprint, etc.) and the relevant tooling that helps to manage it. They will have the ability to schedule and prioritize various workstreams with multiple individual contributors, keeping in mind the various deadlines the business needs to hit. A passion for crypto and DeFi is a major plus/Â </p><p>The technical project manager needs to take an active role facilitating communication with and among our engineering team. They should drive to get commitment/buy-in from all stakeholders, and continuously assess whether those commitment seems reasonable. The role also includes scheduling meetings and outreach with Staked's technical partners, which tend to be the leading blockchain projects around the world.Â </p><br/><br/>Please mention the word **CONTENTMENT** and tag RMzQuMjI4LjIxNi4xNTk= when applying to show you read the job post completely (#RMzQuMjI4LjIxNi4xNTk=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p>Staked is looking for a hyper-organized technical project manager to help us run our development process. A great candidate eyes their to-do list as an enemy to be vanquished. You're eager to knock items off your list and great at prioritizing when the list gets too long to handle. (it will!)Â </p><p>The core of the role is helping to organize the agile process for the technical team responsible for Maximal Extractable Value(MEV). This project enables our staking customers to earn more from their staked assets, so is critically important to our long-term future. A great technical project manager will have demonstrable experience with Agile processes (scrum, sprint, etc.) and the relevant tooling that helps to manage it. They will have the ability to schedule and prioritize various workstreams with multiple individual contributors, keeping in mind the various deadlines the business needs to hit. A passion for crypto and DeFi is a major plus/Â </p><p>The technical project manager needs to take an active role facilitating communication with and among our engineering team. They should drive to get commitment/buy-in from all stakeholders, and continuously assess whether those commitment seems reasonable. The role also includes scheduling meetings and outreach with Staked's technical partners, which tend to be the leading blockchain projects around the world.Â </p><br/><br/>Please mention the word **CONTENTMENT** and tag RNTQuMjM0LjM3LjE5OA== when applying to show you read the job post completely (#RNTQuMjM0LjM3LjE5OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -34,7 +34,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-product-manager-technical-1" align="right" target="_blank">Apply</a>
@@ -92,7 +92,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>362 days ago</text>
+                <text>363 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
