@@ -1,5 +1,62 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Dagabase</h5>
+                    <h3> Sr. Front-End Developer (Web RTC & Vue Required)</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/dagabase-sr-front-end-developer-web-rtc-vue-required" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://dagabase.com">https://dagabase.com</a>
+</p>
+
+<h4><strong>About Dagabase</strong></h4><p>Dagabase is a decentralized Cloud data storage solution that keeps things simple.</p><p>And by simple, we mean: secure, stable, and cost-effective. By removing the complexity and drama from what should have always been guaranteed simplicity, we make room for magic. </p><p>Dagabase is comprised of a strong, ever-growing network of independent devices. The solution is decentralized, which means that you are not dependent on third-party controls or vulnerable to third-party outages. Decentralized data storage is not concentrated in the hands of only one player. It is, instead, a system of devices and nodes owned - and “rented out” - by enterprises or even individuals. While Dagabase provides the solution and the network, the availability of your data is guaranteed by multiple independent participants within the network, and control lies with you.</p><p>If you are energized by the chance to play a key role in tackling decentralization challenges and unlocking new opportunities for Dagabase, to help us help millions of organizations reclaim their data and own their cloud.</p><p><br><strong>About the position</strong></p><p>We are looking for a Lead Front-End Developer to help us shape the future of the cloud.</p><p>You will be part of a team focused on creating our main platform experience with web3 technologies. This position is perfect for someone enthusiastic about web3 products and who wants to work on initiatives with major impact and cutting-edge technologies.</p><p>We are looking for an exceptional developer to lead by example, participate in task-oriented development, roadmap planning, and prepare the necessary foundational work to ensure our platform is successful.</p><p>You will work in a senior team to ensure that changes proposed for our web application are suitable both for the customer and the long-term health of our product and Dagabase itself. In addition, you will monitor the impact of deployed changes to ensure we maintain the high standards we expect from ourselves and our product.</p><p><br><strong>About you</strong></p><p>You know and love everything about web* technologies (e.g., HTTP, WebSockets, Web RTC, DOM, CSS, and the browser as a platform) but have a breadth-first approach to software engineering/development, looking outside the browser platform when needed to learn what is required to do your best work. Ideally, you’ve recently been curious about web3 and have played with popular tools like ethers, wallet connect/metamask, and passionate about decentralization. In addition, you have at least 7+ years of experience doing front-end development with Vue.JS, TypeScript, and Node.js.</p><p>You enjoy building data-intensive applications and want to push the boundaries of what component-based declarative front-ends can do. If that sounds like you, we invite you on a journey mixed with challenges, fun, and gratification. As a result, you will deliver highly performant, delightful, and consistent user experiences across web and mobile platforms.</p><p><br><strong>Requirements</strong></p><ul>
+<li><p>Proficiency in TypeScript and Vue</p></li>
+<li><p>Exposure to writing unit, integration, and E2E tests</p></li>
+<li><p>Have a keen eye for UI details. Pixel perfection is a must</p></li>
+<li><p>Experience in Figma</p></li>
+<li><p>Understanding of Web RTC (required) and progressive web apps</p></li>
+<li><p>Experience with Vite, Docker, Git, and CI/CD</p></li>
+<li><p>Experience in mobile and responsive development </p></li>
+</ul><p></p><p><strong>Culture Fit</strong></p><ul>
+<li><p>Agile: able to move quickly and be adaptable to hit bold and daring goals.</p></li>
+<li><p>Intellectually Curious: energized by variety and change and always looking for ways to introduce new approaches that challenge the status quo</p></li>
+<li><p>Analytical: comfortable turning numbers into knowledge and action.</p></li>
+<li><p>Proactive: bias for action and independent thinking in ambiguous environments</p></li>
+<li><p>Humble: ready to learn from others and yourself; eager for professional and personal growth</p></li>
+<li><p>Empathetic: a human who engages deeply with other humans.</p></li>
+<li><p>Courageous: willing to fight for your beliefs and champion new approaches, especially when it is hard and risky to do so</p></li>
+</ul><p></p><p><strong>Benefits</strong></p><ul>
+<li><p>Remote Work</p></li>
+<li><p>Paid Time Off</p></li>
+<li><p>Training and learning reimbursement</p></li>
+<li><p>Parental Leave</p></li>
+<li><p>Equity Opportunities</p></li>
+<li><p>Cobra Reimbursement</p></li>
+</ul><p>Dagabase is an equal-opportunity employer. We believe that diversity is integral to our success and do not discriminate based on race, color, religion, age, or any other basis.</p><p><strong>Note: A coding challenge and identity verification are a required part of employment.</strong></p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/dagabase-sr-front-end-developer-web-rtc-vue-required">https://weworkremotely.com/remote-jobs/dagabase-sr-front-end-developer-web-rtc-vue-required</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8743/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +67,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-3" align="right" target="_blank">Apply</a>
@@ -63,7 +120,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shape-senior-ios-developer" align="right" target="_blank">Apply</a>
@@ -131,7 +188,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-developer-javascript-react" align="right" target="_blank">Apply</a>
@@ -197,7 +254,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shopexperts-freelance-shopify-developer" align="right" target="_blank">Apply</a>
@@ -222,101 +279,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/5829/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Toptal</h5>
-                    <h3> Freelance TIBCO Developer</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/toptal-freelance-tibco-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/5829/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://www.toptal.com/">https://www.toptal.com/</a>
-</p>
-
-<div>
-<strong>About the job<br></strong><br>
-</div><div>Toptal freelancers work with speed and efficiency to deliver the highest quality of work. We are looking for someone who is passionate about their client’s business, and ready to work on exciting projects with Fortune 500 companies and Silicon Valley startups, with great rates and zero hassles. If you are looking for a place to advance your career, enhance your skill set, and build connections around the globe, Toptal is right for you.<br><br>
-</div><div>
-<strong>About Toptal<br></strong><br>
-</div><div>Toptal is an exclusive network of top freelancers from around the world. Fortune 500 companies and Silicon Valley startups hire Toptal for their most important projects. Toptal is one of the fastest-growing fully remote networks and empowers freelance software developers, designers, finance experts, product managers, and project managers worldwide to grow and excel in their freelance careers.<br><br>
-</div><div>Toptal clients vary in sizes and industries, from enterprise organizations and big tech companies to Silicon Valley startups and renowned universities. Once you enter the network, our matchers will contact you with project opportunities that fit your expertise and preferences. We have experts in over 120 countries who get to work remotely on projects that meet their career ambitions.<br><br>
-</div><div>
-<strong>About the role<br></strong><br>
-</div><div>We are looking for a <strong>TIBCO Developer (independent contractor)</strong> to carry out a full-time, long-term engagement with one of Toptal’s most prominent clients. Some of your responsibilities will include 1) managing data pipelines, 2) ensuring success, availability, and continuity of the data pipeline process, and 3) supporting the client’s re-platforming from on-premises to the cloud. The selected candidate will be joining a team of smart and capable self-starters from all over the world!<br><br>
-</div><div>
-<strong>Requirements<br></strong><br>
-</div><ul>
-<li>English language proficiency</li>
-<li>
-<strong>3+ years of experience</strong> working with <strong>TIBCO BusinessWorks</strong> or <strong>TIBCO Spotfire Development</strong> required</li>
-<li>
-<strong>3+ years</strong> of experience working with <strong>SQL</strong> required</li>
-<li>Creating ETL pipelines with Tibco.</li>
-<li>Moderate or strong experience with <strong>Informatica</strong> or <strong>IICS</strong> (Informatica on the Cloud).</li>
-</ul><div>
-<br>If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/PdcjbN"><strong>https://topt.al/PdcjbN</strong></a>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toptal-freelance-tibco-developer">https://weworkremotely.com/remote-jobs/toptal-freelance-tibco-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6863/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Shneorweb</h5>
-                    <h3> Frontend UI Developer wizard</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/shneorweb-frontend-ui-developer-wizard" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6863/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London, UK
-    <br /><strong>URL:</strong> <a href="http://shneorweb.com">http://shneorweb.com</a>
-</p>
-
-<div>We're developing an outstanding application and looking to hire a frontend UI developer wizard to work on the application UI, responsive, transitions and interactions.<br><br>This role is fit for someone with</div><ol>
-<li>Great attention to detail.</li>
-<li>Outstanding HTML/CSS and JavaScript knowledge</li>
-<li>Proven track record of developing an advanced UI with modern transitions and interactions.</li>
-<li>Background in user experience and modern user interfaces.</li>
-</ol><div>We're a London-based startup company founded by ex-startups.<br><br>The role is open for worldwide candidates.<br><br><strong>Office hours: 9AM - 6PM IST</strong>, this position requires individuals to be available for meetings and duties <em>at least</em> a six (6) hour block during this window.<br><br><strong>Starting immediately <br><br></strong>**Individuals only - NOT OPEN FOR AGENCIES OF ANY KIND**</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/shneorweb-frontend-ui-developer-wizard">https://weworkremotely.com/remote-jobs/shneorweb-frontend-ui-developer-wizard</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7668/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -327,7 +289,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/planet-argon-senior-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -449,69 +411,27 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/1147/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1255705/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>OperateBeyond</h5>
-                    <h3> PHP Developer</h3>
+                    <h5>Toptal</h5>
+                    <h3>Freelance TIBCO Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>cloud,developer,sql,growth</code>
                 </td>
                 <td width="200">
-                <text>392 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/freelance-tibco-developer-1255705" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0067/1147/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Michigan
-    <br /><strong>URL:</strong> <a href="http://operatebeyond.com/">http://operatebeyond.com/</a>
-</p>
-
-<div><br></div><div>OperateBeyond is a fast growing technology company building web and mobile applications. We specialize in delivering top-notch user experiences paired with solid technology in non-auto vehicle software industry. Our successes come from our teamwork and mutual respect for each other’s talents and unique perspectives.<br><br>
-</div><div>
-<br>So when we say we are looking for a PHP Developer we do want want you to be an awesome back-end developer who’s dabbled with many different projects. We are looking for someone who can hold their own when when it comes to system integrations, databases, and even be interested in understanding more about user experience to help us shape amazing products.<br><br>
-</div><div>
-<strong><br>What you might do on any given day:<br></strong><br>
-</div><ul>
-<li>Work with a variety of technologies and platforms such as PHP, ZF2, ZF1, Laravel, ElasticSearch, MySQL, Vue.js, jQuery and many more technologies we may introduce<br><br>
-</li>
-<li>Collaborate with product managers and technical leads<br><br>
-</li>
-<li>Develop comprehensive use cases and test conditions<br><br>
-</li>
-<li>Take part in analysis efforts, identification, and recommendation of solutions, integration points and related implementation architecture for business usage improvements, scalability and performance.<br><br>
-</li>
-<li>Provide guidance in the form of code review, solution design, and recommended training and development plans.<br><br>
-</li>
-<li>Write unit tests, specs, integration tests, UI tests, and acceptance tests.<br><br>
-</li>
-<li>Advocate for new or improved development practices that increase craftsmanship, availability, resilience, and scalability of our solutions<br><br>
-</li>
-</ul><div>
-<strong><br>We think you’ll enjoy working with our team if you:<br></strong><br>
-</div><ul>
-<li>Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in technology communities.<br><br>
-</li>
-<li>Can be flexible, agile, dependable, and responsive even when there are a lot of moving parts and prefer that over following rigid processes and guidelines.<br><br>
-</li>
-<li>Believe that good application development includes good testing, good documentation, and good collaboration.<br><br>
-</li>
-<li>Have great communication and reasoning skills, including the ability to make a strong case for technology choices while understanding other viewpoints and the need to find the best possible solution for everyone.<br><br>
-</li>
-<li>Have a positive yet practical attitude; You are willing to take on any task that might help take one of our products, or our company, a little further.<br><br>
-</li>
-</ul><div><br></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer">https://weworkremotely.com/remote-jobs/operatebeyond-php-developer</a></p>
-
+                <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><strong style=" border-style: initial; margin: 0px; padding: 0px; vertical-align: baseline;">About the job</strong><br></p><p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;"><strong style=" border-style: initial; margin: 0px; padding: 0px; vertical-align: baseline;"><br></strong></p><p style="border-style: initial; margin-bottom: 24px; padding: 0px; vertical-align: baseline; color: rgb(0, 0, 0); ">Toptal freelancers work with speed and efficiency to deliver the highest quality of work. We are looking for someone who is passionate about their client’s business, and ready to work on exciting projects with Fortune 500 companies and Silicon Valley startups, with great rates and zero hassles. If you are looking for a place to advance your career, enhance your skill set, and build connections around the globe, Toptal is right for you.</p><p style="border-style: initial; margin-bottom: 24px; padding: 0px; vertical-align: baseline; color: rgb(0, 0, 0); "><strong style="border-style: initial; margin: 0px; padding: 0px; vertical-align: baseline;">About Toptal</strong></p><p style="border-style: initial; margin-bottom: 24px; padding: 0px; vertical-align: baseline; color: rgb(0, 0, 0); ">Toptal is an exclusive network of top freelancers from around the world. Fortune 500 companies and Silicon Valley startups hire Toptal for their most important projects. Toptal is one of the fastest-growing fully remote networks and empowers freelance software developers, designers, finance experts, product managers, and project managers worldwide to grow and excel in their freelance careers.</p><p style="border-style: initial; margin-bottom: 24px; padding: 0px; vertical-align: baseline; color: rgb(0, 0, 0); ">Toptal clients vary in sizes and industries, from enterprise organizations and big tech companies to Silicon Valley startups and renowned universities. Once you enter the network, our matchers will contact you with project opportunities that fit your expertise and preferences. We have experts in over 120 countries who get to work remotely on projects that meet their career ambitions.</p><p style="border-style: initial; margin-bottom: 24px; padding: 0px; vertical-align: baseline; color: rgb(0, 0, 0); "><strong style="border-style: initial; margin: 0px; padding: 0px; vertical-align: baseline;">About the role</strong></p><p style="border-style: initial; margin-bottom: 24px; padding: 0px; vertical-align: baseline; color: rgb(0, 0, 0); ">We are looking for a <strong style="border-style: initial; margin: 0px; padding: 0px; vertical-align: baseline;">TIBCO Developer (independent contractor)</strong> to carry out a full-time, long-term engagement with one of Toptal’s most prominent clients. Some of your responsibilities will include 1) managing data pipelines, 2) ensuring success, availability, and continuity of the data pipeline process, and 3) supporting the client’s re-platforming from on-premises to the cloud. The selected candidate will be joining a team of smart and capable self-starters from all over the world!</p><p><strong style="border-style: initial; margin: 0px; padding: 0px; vertical-align: baseline;  letter-spacing: normal;">Requirements</strong></p><br><ul><li>English language proficiency</li><li><strong>3+ <font><span style="border-style: initial;">years of experience</span></font></strong> working with <font><span style="border-style: initial;"><strong>TIBCO BusinessWorks</strong></span></font> or <font><span style="border-style: initial;"><strong>TIBCO Spotfire Development</strong></span></font> required</li><li><font><span style="border-style: initial;"><strong>3+ years</strong></span></font> of experience working with <font><span style="border-style: initial;"><strong>SQL</strong></span></font> required</li><li>Creating ETL pipelines with Tibco</li><li>Moderate or strong experience with <strong style="border-style: initial; margin: 0px; padding: 0px; vertical-align: baseline;">Informatica</strong><span style="color: var(--remotive-chocolate);"> </span><span style="color: var(--remotive-chocolate);">or</span><span style="color: var(--remotive-chocolate);"> </span><strong style="border-style: initial; margin: 0px; padding: 0px; vertical-align: baseline;">IICS</strong><span style="color: var(--remotive-chocolate);"> </span><span style="color: var(--remotive-chocolate);">(Informatica on the Cloud)</span></li></ul> <br> <p class="p1" style="font-variant-numeric: normal; font-variant-east-asian: normal; font-stretch: normal; line-height: normal;">If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form:<strong> <a href="https://topt.al/75c7dd" rel="nofollow">https://topt.al/75c7dd</a></strong></p>
+<img src="https://remotive.com/job/track/1255705/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -526,7 +446,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -603,7 +523,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -629,7 +549,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -706,7 +626,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -773,7 +693,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
