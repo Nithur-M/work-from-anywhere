@@ -1,57 +1,134 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6740/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Dagabase</h5>
-                    <h3> Sr. Front-End Developer (Web RTC & Vue Required)</h3>
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Unreal Engine Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Front-End Programming</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/dagabase-sr-front-end-developer-web-rtc-vue-required" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-unreal-engine-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6740/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> 
-    <br /><strong>URL:</strong> <a href="https://dagabase.com">https://dagabase.com</a>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
 </p>
 
-<h4><strong>About Dagabase</strong></h4><p>Dagabase is a decentralized Cloud data storage solution that keeps things simple.</p><p>And by simple, we mean: secure, stable, and cost-effective. By removing the complexity and drama from what should have always been guaranteed simplicity, we make room for magic. </p><p>Dagabase is comprised of a strong, ever-growing network of independent devices. The solution is decentralized, which means that you are not dependent on third-party controls or vulnerable to third-party outages. Decentralized data storage is not concentrated in the hands of only one player. It is, instead, a system of devices and nodes owned - and “rented out” - by enterprises or even individuals. While Dagabase provides the solution and the network, the availability of your data is guaranteed by multiple independent participants within the network, and control lies with you.</p><p>If you are energized by the chance to play a key role in tackling decentralization challenges and unlocking new opportunities for Dagabase, to help us help millions of organizations reclaim their data and own their cloud.</p><p><br><strong>About the position</strong></p><p>We are looking for a Lead Front-End Developer to help us shape the future of the cloud.</p><p>You will be part of a team focused on creating our main platform experience with web3 technologies. This position is perfect for someone enthusiastic about web3 products and who wants to work on initiatives with major impact and cutting-edge technologies.</p><p>We are looking for an exceptional developer to lead by example, participate in task-oriented development, roadmap planning, and prepare the necessary foundational work to ensure our platform is successful.</p><p>You will work in a senior team to ensure that changes proposed for our web application are suitable both for the customer and the long-term health of our product and Dagabase itself. In addition, you will monitor the impact of deployed changes to ensure we maintain the high standards we expect from ourselves and our product.</p><p><br><strong>About you</strong></p><p>You know and love everything about web* technologies (e.g., HTTP, WebSockets, Web RTC, DOM, CSS, and the browser as a platform) but have a breadth-first approach to software engineering/development, looking outside the browser platform when needed to learn what is required to do your best work. Ideally, you’ve recently been curious about web3 and have played with popular tools like ethers, wallet connect/metamask, and passionate about decentralization. In addition, you have at least 7+ years of experience doing front-end development with Vue.JS, TypeScript, and Node.js.</p><p>You enjoy building data-intensive applications and want to push the boundaries of what component-based declarative front-ends can do. If that sounds like you, we invite you on a journey mixed with challenges, fun, and gratification. As a result, you will deliver highly performant, delightful, and consistent user experiences across web and mobile platforms.</p><p><br><strong>Requirements</strong></p><ul>
-<li><p>Proficiency in TypeScript and Vue</p></li>
-<li><p>Exposure to writing unit, integration, and E2E tests</p></li>
-<li><p>Have a keen eye for UI details. Pixel perfection is a must</p></li>
-<li><p>Experience in Figma</p></li>
-<li><p>Understanding of Web RTC (required) and progressive web apps</p></li>
-<li><p>Experience with Vite, Docker, Git, and CI/CD</p></li>
-<li><p>Experience in mobile and responsive development </p></li>
-</ul><p></p><p><strong>Culture Fit</strong></p><ul>
-<li><p>Agile: able to move quickly and be adaptable to hit bold and daring goals.</p></li>
-<li><p>Intellectually Curious: energized by variety and change and always looking for ways to introduce new approaches that challenge the status quo</p></li>
-<li><p>Analytical: comfortable turning numbers into knowledge and action.</p></li>
-<li><p>Proactive: bias for action and independent thinking in ambiguous environments</p></li>
-<li><p>Humble: ready to learn from others and yourself; eager for professional and personal growth</p></li>
-<li><p>Empathetic: a human who engages deeply with other humans.</p></li>
-<li><p>Courageous: willing to fight for your beliefs and champion new approaches, especially when it is hard and risky to do so</p></li>
-</ul><p></p><p><strong>Benefits</strong></p><ul>
-<li><p>Remote Work</p></li>
-<li><p>Paid Time Off</p></li>
-<li><p>Training and learning reimbursement</p></li>
-<li><p>Parental Leave</p></li>
-<li><p>Equity Opportunities</p></li>
-<li><p>Cobra Reimbursement</p></li>
-</ul><p>Dagabase is an equal-opportunity employer. We believe that diversity is integral to our success and do not discriminate based on race, color, religion, age, or any other basis.</p><p><strong>Note: A coding challenge and identity verification are a required part of employment.</strong></p>
+<div><strong>The Role:</strong></div><div>We are searching for a Senior C++ and familiar with Unreal Engine 4/5 Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
+<li>You have +4 years of solid experience as a C++ Developer in a top-notch environment;</li>
+<li>You have +3 years of work experience with Unreal Engine 4/5;</li>
+<li>You have experience in solving low-level issues such as thread optimization, reducing memory footprints</li>
+<li>You are familiar with Vulkan/Metal API</li>
+<li>You have experience with a cross-platform project</li>
+<li>You are responsible and able to work with minimal supervision;</li>
+<li>Advanced+ English level.</li>
+</ul><div><br></div><div><strong>Nice-to-have: </strong></div><ul>
+<li>Experience in Tool Development;</li>
+<li>Timezone: CET (+/- 3 hours).</li>
+</ul><div><strong>Responsibilities:</strong></div><ul>
+<li>Architect and build mobile games using Unreal Engine;</li>
+<li>Be the “Go to” person for solving challenging technical problems;</li>
+<li>Use your skills to build, evolve, and optimize mobile games for the best customer experience.</li>
+</ul><div><br></div><div>
+<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<br><br>
+</div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/dagabase-sr-front-end-developer-web-rtc-vue-required">https://weworkremotely.com/remote-jobs/dagabase-sr-front-end-developer-web-rtc-vue-required</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-unreal-engine-developer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-unreal-engine-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9624/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Ampcontrol</h5>
+                    <h3> Python Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/ampcontrol-python-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/9624/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New York
+    <br /><strong>URL:</strong> <a href="https://ampcontrol.io">https://ampcontrol.io</a>
+</p>
+
+<div>
+<strong>🚀About </strong><a href="https://www.ampcontrol.io/"><strong>Ampcontrol<br></strong></a><br>
+</div><div>
+<br>We're Ampcontrol, building AI-powered software for optimizing electric vehicle (EV) charging.<br><br>
+</div><div>We are a venture backed remote team of engineers and energy experts based in the U.S and Europe building the new way of EV charging. Our primary goals are to enable companies to provide higher capacity charging on existing infrastructure as well as optimization of fleet charging logistics.</div><div>
+<br>Our company culture includes minimal hierarchy; We make technical decisions based on consensus and aim at simplicity and clarity.<br><br>https://www.ampcontrol.io/<br><br>
+</div><div><br></div><div>
+<strong>🌎 Our Mission<br></strong><br>
+</div><div>
+<br>We're on a mission to help the automotive industry transition to 100% electric vehicles.<br><br>
+</div><div>
+<br>We believe in a future of self-managing, reliable, and affordable charging for companies, fleet operators, and humans on our planet.<br><br>
+</div><div>
+<strong><br>💻 The Role<br></strong><br>
+</div><ul>
+<li>All levels of experience. The position will be accordingly</li>
+<li>You'll be building and improving our python backend system, including the core optimization system and our customer facing APIs</li>
+<li>Maintain and improve test environment</li>
+<li>Develop our Python3/FastAPI service further, with an eye on performance and scalability</li>
+<li>Work with data scientists to build a stable and powerful architecture for ML-applications for real-time optimization</li>
+<li>Build, maintain, migrate databases and accommodate time-series data</li>
+<li>Write clean and easily maintainable code for our optimization engine with a focus on reliability and scalability</li>
+</ul><div>
+<strong><br>⭐ You have<br></strong><br>
+</div><ul>
+<li>Professional experience in python software development or QA engineering</li>
+<li>Experience in at least one cloud computing platform</li>
+<li>A good understanding of DevOps tools and methods, including end-to-end testing</li>
+<li>Fluency in English for verbal and written communication is required</li>
+<li>Motivated to work in the electric vehicles and sustainability industries</li>
+<li>Experience with PostgreSQL and Redis preferred</li>
+</ul><div>
+<a href="https://forms.gle/TE7Cx7WEmi1RbBLH7"><br></a><br>
+</div><div>
+<strong><br>📍 Location<br></strong><br>
+</div><div>
+<strong><br>We're a remote team.</strong> You can work from America, United States, Canada, Europe.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ampcontrol-python-developer">https://weworkremotely.com/remote-jobs/ampcontrol-python-developer</a></p>
 
                 </details>
                 </td>
@@ -67,7 +144,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-3" align="right" target="_blank">Apply</a>
@@ -120,7 +197,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shape-senior-ios-developer" align="right" target="_blank">Apply</a>
@@ -188,7 +265,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-developer-javascript-react" align="right" target="_blank">Apply</a>
@@ -239,41 +316,6 @@
 </ul><div><br></div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-developer-javascript-react">https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-developer-javascript-react</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9464/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>ShopExperts</h5>
-                    <h3> Freelance Shopify Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/shopexperts-freelance-shopify-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/9464/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Canada
-    <br /><strong>URL:</strong> <a href="https://shopexperts.com">https://shopexperts.com</a>
-</p>
-
-<div>Shopexperts is looking for freelance front-end, back-end and full stack developers to join our talent network. Our clients are eCommerce agencies and eCommerce tech startups building for Shopify, and DTC or B2B consumer eCommerce brands building on the Shopify platform.<br> <br>Vetted freelancers in our network are matched with companies in need of skilled web developers for ongoing/temporary contracts starting from 10 hours/week or for defined projects starting from 40 hours/week.<br><br><strong>Description:</strong><br><br>- Set your own hourly/day rate - up to $85/hour, or up to $650/day<br>- Get matched with ambitious companies in the eCommerce space for defined large projects or ongoing contracts from 1-6 months, up to full-time permanent jobs. <br>- Be part of a growing and vibrant professional community <br>- Develop your career and craft with fewer, better contracts and companies<br>- Weekly or bi-weekly payouts<br><br><br><strong>Requirements:</strong><br><br>- Native or fluent English is required<br>- 4 years of professional experience as a web developer. The more experience you have as a Shopify developer, the better.<br>- Exposure to Shopify specific coding languages and frameworks: React, Node, Liquid, Shopify theme frameworks, Ruby on Rails, and popular headless technologies including Hydrogen/Oxygen/Remix.<br>- Must have a track record of high performing developer <br>- With or without team lead experience<br>- Available a minimum of 10 hours a week (up to 40)<br>- Priority and preference given to skilled freelancers in the UK, Spain, Portugal, Serbia, Romania, South Africa, Poland, Lithuania, Bulgaria, Argentina, Brazil. <br><br><a href="https://shopifygroup.typeform.com/to/sRuKEwy3">Apply to join our talent community</a><br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/shopexperts-freelance-shopify-developer">https://weworkremotely.com/remote-jobs/shopexperts-freelance-shopify-developer</a></p>
 
                 </details>
                 </td>
@@ -446,7 +488,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -523,7 +565,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -626,7 +668,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -693,7 +735,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
