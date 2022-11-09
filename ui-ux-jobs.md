@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shopexperts-freelance-shopify-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -45,7 +45,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazee-io-ux-product-designer-80-100" align="right" target="_blank">Apply</a>
@@ -114,7 +114,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tryhackme-lead-ui-ux-designer" align="right" target="_blank">Apply</a>
