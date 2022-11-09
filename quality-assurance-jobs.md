@@ -68,7 +68,7 @@
 </ul>
 <p> </p>
 <p>We are an Equal Opportunity Employer that does not discriminate on the basis of actual or perceived race, creed, color, religion, alienage or national origin, ancestry, citizenship status, age, disability or handicap, sex, marital status, veteran status, sexual orientation, genetic information, arrest record, or any other characteristic protected by applicable federal, state or local laws. Our management team is dedicated to this policy with respect to recruitment, hiring, placement, promotion, transfer, training, compensation, benefits, employee activities, and general treatment during employment.</p>
-<p> </p><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/VuS6XCo53DU" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **GLITTER** and tag RMy4yMzUuMjMwLjE1Mg== when applying to show you read the job post completely (#RMy4yMzUuMjMwLjE1Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p> </p><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/VuS6XCo53DU" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **GLITTER** and tag RMy44My4zOS4xNTA= when applying to show you read the job post completely (#RMy44My4zOS4xNTA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
