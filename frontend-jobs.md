@@ -1,125 +1,68 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/8a3cfed1383576864d54b0cab2deb69f1667546144.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4921/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Streamflow</h5>
-                    <h3>Frontend engineer</h3>
-                </td>
-                <td width="300">
-                    <code>frontend,design,web3,crypto,react,software,growth,payroll,js,fintech,go,engineer,full-time,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-streamflow-143526" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h3><b>The Company</b></h3><br><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Streamflow</a> helps web3 organizations distribute tokens efficiently and effectively. We leverage our token streaming protocol to provide a suite of tools every Solana organization can use to manage and stream tokens.<p></p><h3><b>Why You Should Join Us</b></h3><br>Streamflow is built on the values of integrity, curiosity and passion. We look to uphold these qualities in our day to day and look for these qualities in candidates who apply.<br>Our work culture is fast moving, engaging and ambitious. We passionately believe in the value that our protocol can unlock for the world and weâre looking to work with mission driven people who are ready to jump onboard with us, roll up their sleeves and get stuck into it. We believe in selfless sharing of knowledge, transparency and insight into all aspects of the business and personal initiative.<br>We are a remote-first, office-optional team that prioritises high quality written communication and the possibility of working asynchronously across timezones because we believe that the best talent exists on every corner of the earth. We are developing quite literally on bleeding edge technology on the most high performance blockchain, Solana. We offer above market salaries and discuss specific figures early on in the hiring process.<p></p><h3><b>Weâre seeking</b></h3><br>We're looking for a full-time Frontend Engineer to supercharge our presence in the Solana ecosystem and beyond. We need to grow the Streamflow brand to ensure users think of Streamflow first when looking to solve token vesting and payroll on Solana. We are looking for individuals who are here for the long-term, fully committing themselves to being a part of the Streamflow team.<p>If you:<br><ul>
-<li align="left">you can work with at least 4h of overlap with the Central European Timezone</li>
-<li align="left">have 5+ years of professional experience working as a software engineer specialized in client side applications development (working with any of the popular js frameworks)</li>
-<li align="left">have been part of high growth technology start-ups or scale-ups, preferably in the crypto or FinTech space as a dedicated full-time contributor</li>
-</ul><br>It will be a perfect fit if you like:<br><ul>
-<li align="left">To work</li>
-<li align="left">To develop</li>
-<li align="left">To learn (and do it fast)</li>
-<li align="left">To go outside the comfort zone</li>
-<li align="left">To do what is best for the business</li>
-<li align="left">To participate in the construction of processes and organizations from an early stage</li>
-<li align="left">Autonomy and responsibility</li>
-<li align="left">Very ambitious projects</li>
-</ul><br></p><h3><b>Bonus points</b></h3><br>Weâre confident that if you:<br><ul>
-<li align="left">Break React applications (into components, hehe) and have experience in that</li>
-<li align="left">Want to make JS SDK (NPM packages) for other developers</li>
-<li align="left">Like to implement design, not just functionality</li>
-<li align="left">Are interested in Web3 and Solana blockchain</li>
-</ul>youâre more likely to succeed in this role.<p></p><h3><b>Responsibilities</b></h3><br>Responsibilities include:<br><ul>
-<li align="left">Hands-on work on the front end using tools like React, TypeScript, Next.js, Tailwind, Solana Web3.js</li>
-<li align="left">Participate in technical discussions with team members, provide expert opinion and be involved in technical decision making</li>
-<li align="left">Take ownership of key pieces of streamflowâs client side stack and steer them in the right direction</li>
-<li align="left">Work with product and design teams to rapidly build experimental products.</li>
-</ul><br><h3><b>Compensation:</b></h3><br>Salary is negotiable based on previous experience and crypto-native exposure.<p></p><h3><b>Links:</b></h3><br><ul>
-<li align="left"><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Website</a></li>
-<li align="left"><a class="bbcode-link" href="https://app.streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">dApp</a></li>
-<li align="left"><a class="bbcode-link" href="https://twitter.com/streamflow_fi" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
-</ul><br><br/><br/>Please mention the word **TRIUMPHANT** and tag RMy44My4zOS4xNTA= when applying to show you read the job post completely (#RMy44My4zOS4xNTA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9155/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>EventMobi</h5>
-                    <h3> Frontend Technical Team Lead - Remote</h3>
+                    <h5>Rainforest QA</h5>
+                    <h3> Senior Engineer (Frontend)</h3>
                 </td>
                 <td width="300">
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>120 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-frontend" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/9155/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0076/4921/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> 151 Yonge Street 11th Floor Toronto, Ontario M5C 2W7
-    <br /><strong>URL:</strong> <a href="https://eventmobi.com">https://eventmobi.com</a>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://www.rainforestqa.com/">https://www.rainforestqa.com/</a>
 </p>
 
-<div><em>** EventMobi is a remote-first company and this is a remote job. You may reside anywhere in the world to do this job. However, you must be willing to work during Eastern Standard Time business hours. The salary range for this role is between 60k - 90k CAD per annum. This posting is open to all candidates globally.</em></div><div><br></div><div><br></div><div>WHY EVENTMOBI?</div><div><br></div><div>EventMobi is an award winning tech startup with offices in Toronto, Berlin and Manila and over 1500 clients across the globe.  We are on a mission to revolutionize how event planners create, market and manage their events. Millions of attendees around the world experience conferences and events with the help of EventMobi’s event tech platform including clients like Motorola, Ralph Lauren, Nestle, and Intel. </div><div><br></div><div>We’re looking for a Technical Lead to help us tackle challenging engineering problems in an evolving industry. Whether you want to build Progressive Web Apps, work with service &amp; web workers, architectures to manage data services, or manage memory usage &amp; latency of large scale Javascript applications, this is a role that requires you to think holistically about building the next generation of cross-platform mobile &amp; web apps. </div><div><br></div><div>Ideally, you care about good architecture &amp; design, quality, and scalability as part of your work. You enjoy leading and coaching individuals on your team and you're looking for a place where you can approach your problems creatively. You enjoy collaboration with an incredibly smart &amp; talented team and are able to bring your expertise to help shape our technical vision and determine how we will execute on it.</div><div><br></div><div>If this sounds like just the role you've been hoping for, please apply and tell us more about yourself!​</div><div><br></div><div><br></div><div>WHAT YOUR WORK WILL FOCUS ON</div><div><br></div><ul>
-<li>
-<strong>Mentorship</strong> - One of the most senior software developers on staff.  Provide technical mentorship and assistance to a team of 4-7 developers, and create opportunities for professional development.  </li>
-<li>
-<strong>Technical Strategy</strong> - Responsible for EventMobi’s overall software design, helping to align technology with business goals.  Lead research into new technology options, tools or patterns to discover opportunities to create new business value for EventMobi’s customers.  </li>
-<li>
-<strong>Architecture</strong> - Empower and guide technical leads in product and application level architecture choices. Ensure consistency in technology choices and enable experimentation with new tools and approaches where appropriate to drive new business value.  Lead resolution of architecture and technology choices and challenges that cut across all teams. </li>
-<li>
-<strong>Development Best Practices</strong> - Hands on keyboard to provide clarity and support tech leads in expanding standards and writing clean code.  Pair with team members to solve the hardest coding challenges.  Contribute to continuous improvement in our software development processes as we take initiatives from concept, feasibility, and design to implementation, testing, and release.  </li>
-<li>
-<strong>Performance &amp; Scale</strong> - Build measurement frameworks for performance, scalability, etc, including setting expected standards of performance against those metrics in consultation with product management and business stakeholders.  </li>
-</ul><div><br></div><div>
-<br>WHAT YOU WILL BRING TO THE TEAM </div><div><br></div><ul>
-<li>Experience growing high performing software development teams focused on outcomes versus just outputs.  </li>
-<li>Experience with long-term development, enhancement and maintenance of a SaaS application/platform. </li>
-<li>Skilled in guiding technology and architecture choices with a focus on delivering business value</li>
-<li>Interest in leading the evolution of an existing code base and architecture versus solely focusing on green field development.   </li>
-<li>Experience with Mobile and Web development (a true polyglot), ideally with proven skills working with React and Capacitor, Python, and RESTful APIs.</li>
-<li>Must have start-up experience; big company experience okay in combination, but not exclusively</li>
-<li>Excellent written and verbal communication</li>
-<li>Extensive knowledge about React and web development</li>
-<li>At least 2-3 years of experience managing a team (at least 2 reports, preferably a larger team or multiple teams) of React developers</li>
-<li>A passion for development and solving problems, and a desire to be actively involved in writing code</li>
-<li>Ideas about everything, the resolve to convey your point clearly, and the graciousness to listen to alternate ideas and choose the best option. You’re constantly thinking “how can we do this better?”</li>
-<li>Experience maintaining Jira and managing the lifecycle of tickets in a cross-team environment</li>
-<li>Data-driven decision making and experience guiding a team in selecting and achieving realistic-yet-challenging OKRs</li>
-<li>A passion for growing and supporting your team through 1:1 meetings, mentorship and coaching, and working on career progression plans</li>
-<li>Ability to think about the big-picture roadmap and technical vision of the product, and integrate those plans into near-term sprint planning and project architecture</li>
-<li>Confidence in running standups, sprint planning, backlog grooming, and retrospective meetings that align with the company roadmap while balancing maintenance and the needs of the team</li>
-<li>Eagerness to work with a team of strong, fun-loving developers that love to learn from and teach each other</li>
-<li>Knowledge of DevOps &amp; Infrastructure (AWS) is nice to have</li>
-</ul><div><br></div><div><br></div><div>WHAT WILL YOU GET FROM EVENTMOBI?</div><div><br></div><ul>
-<li>We offer the experience of a lifetime working with a dynamic, open-minded and diverse team, who are excited to come to work every day and passionate about what they do and the clients they help</li>
-<li>Competitive compensation</li>
-<li>Company Stock-Options</li>
-<li>A modern MacBook Pro to use for work</li>
-<li>A great culture with much more along the way</li>
-</ul><div><br></div><div><br></div><div>REMOTE WORKSPACE REQUIREMENTS: </div><div><br></div><ul>
-<li>You have a safe, comfortable, and ergonomic workspace and working environment - a private and quiet workspace is vital for doing your best work!</li>
-<li>You have a reliable internet connection capable of participating in video calls, with at least 30Mbps download speed</li>
-</ul>
+<div><strong>About Rainforest</strong></div><div>Rainforest QA is a distributed company full of smart, capable people from around the world who enjoy working together to make our customers successful.</div><div><br></div><div>Our mission is to make product quality accessible for every software company. The Rainforest QA solution combines no-code test automation and crowdsourced testing in a single, one-of-a-kind QA platform, allowing anyone to get the exact insights they need to release with quality, quickly.  </div><div><br></div><div><strong>About the Team</strong></div><div>As a Senior Engineer at Rainforest QA you'll be part of an experienced and diverse team with members all over the world.</div><div><br></div><div>We were built as a distributed team from the beginning and we've committed to implementing tools and processes that allow for and support continuous and effective communication across the world.<br><br><strong>About the Role</strong>
+</div><ul>
+<li>Work on the Rainforest QA dashboard, our single page application where users manage their test suite, configure test runs, review results and set up their account</li>
+<li>Work on our tester application, where our crowd of testers connect to our virtual machine infrastructure to conduct tests and submit their results</li>
+<li>Work on internal tooling to improve the development experience of other engineers and ship faster and safer</li>
+<li>Collaborate with product managers and our customer facing teams to analyze customer problems and design high impact features</li>
+<li>Lead projects to implement those features</li>
+<li>Help other team members to achieve their goals</li>
+<li>Continuously learn about new technologies and ways to solve problems</li>
+<li>Work with our customer facing teams to triage, troubleshoot, and fix bugs</li>
+<li>Write unit and integration tests (using our own product!) to ship high quality software</li>
+</ul><div><strong>About You</strong></div><ul>
+<li>Extensive experience in Javascript and be extremely knowledgeable of the language and associated ecosystem</li>
+<li>Extensive experience in React (or equivalent framework / libraries) and be extremely knowledgeable of the framework and associated ecosystem</li>
+<li>Experience in writing and maintaining CSS for large projects</li>
+<li>Enthusiasm with building web applications using modern tools like ES7, React, Redux, CSS Modules, Flow, and Webpack - amongst others</li>
+<li>Practical experience of working on a Ruby on Rails codebase</li>
+<li>Even though this position is mainly frontend focused, we expect you to have some grasp of the whole stack to be able to effectively communicate with engineers across the team, and can make backend or infrastructure changes when the situation calls for it</li>
+<li>Professional experience in engineering SaaS products</li>
+<li>Experience leading projects with teams</li>
+<li>An ownership mindset: you should look not only at what you’re asked to do, but ask why you’re doing it and how it impacts on the rest of the product, our customers, and whether it makes sense. We expect you to be responsible for your work and to resolve any bugs you might ship</li>
+<li>Excitement to learn</li>
+<li>Excellent communication skills and able to give and receive constructive feedback</li>
+<li>Happy to review code and have your code reviewed</li>
+<li>Can work effectively remotely with remote team members (we are a fully distributed company)</li>
+<li>Comfortable working in a large codebase with many stakeholders</li>
+</ul><div><strong>How we’ll reward you</strong></div><ul>
+<li>Competitive salary plus equity.</li>
+<li>100% company-paid medical, dental, and vision insurance coverage for employees, 75% for dependents (U.S., only).</li>
+<li>Unlimited paid time-off (PTO).</li>
+<li>A weekly allowance for lunches and a monthly allowance for remote office supplies or personal development.</li>
+<li>Semi-annual company off-sites in exciting destinations around the world.</li>
+<li>12 weeks of paid maternity leave and 8 weeks of paid leave for supporting parents.</li>
+<li>401k (U.S., only).</li>
+</ul><div><strong><br>A Note on Diversity and Inclusion</strong></div><div>At Rainforest we believe that diverse teams improve our business. We are an equal opportunity employer and do not discriminate on the basis of race, religion, color, nationality, gender, sexual orientation, age, marital status, veteran status, or disability status.</div><div><br></div><div>Due to employment laws, we are unable to hire individuals internationally located in these following countries at this time: China, France, Iran, Egypt, Russia.</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote">https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-frontend">https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-frontend</a></p>
 
                 </details>
                 </td>
