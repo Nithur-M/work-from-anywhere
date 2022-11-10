@@ -10,7 +10,7 @@
                     <code>software,design,cryptocurrency,front-end,frontend,back-end,full-stack,code,web,financial,git,content,senior,analytics,engineer,engineering,linux,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-the-block-144041" align="right" target="_blank">Apply</a>
@@ -19,7 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div>Founded in 2018 and based in NYC, The Block is the leading research, analysis, and news brand in the digital asset space. The Block's team is spread across 7 timezones, covering the global cryptocurrency space 24/7.</div><div>The Block delivers deep insight into how the emerging digital assets sector interacts with traditional finance, technology, governments, and markets. We reach hundreds of thousands of technologists, financial market participants, Fortune 500 professionals, global service providers, policymakers, and more through our main website, dedicated Research Portal, podcast, and events.</div><div>You will be responsible for developing new features, optimizing performance with respect to both our backend and frontend stack, developing and supporting solutions for product analytics, and capturing feedback from our logging and debugging services to both troubleshoot an make improvements.</div><div>An effective Full-Stack Engineer should be able effectively communicate with the team and develop solutions between back-end and front-end implementations and concerns. The ideal candidate must be able to prioritize tasks and complete them in a timely manner.</div><br>You Will<br><li>Be responsible for the feature development of products you are a part of.</li><li>Collaborate with our engineers, researchers, executives, and designers to develop new features and prioritize bug fixes for our products.</li><li>Clearly communicate development progress across the Product & Engineering team.</li><li>Be creative in solving engineering problems.</li><li>Work with team managers on development prioritization and career development opportunities.</li><li>Contribute to the culture of quality, healthy collaboration and leading by example.</li><br>MUST HAVES<br><li>Full-stack experience and able to contribute to both frontend (Vue, Vuex, Nuxt, service workers, PWA) and backend (NodeJS, Adonis/SailsJS/Nest/Loopback or equivalent structured framework, Yarn, Postgres, GraphQL, Redis, memcached) systems.</li><li>Deep technical skill with frontend technologies (SASS, LESS,  Bootstrap utilities, TailwindCss or other similar).</li><li>Strong familiarity with Unix / Linux operating systems and general command-line knowledge.</li><li>Experience with git in a collaborative environment such as Github.</li><li>Responds positively when receiving and giving feedback.</li><li>Experience using code reviews and pair programming within the Agile Development lifecycle.</li><li>Expertise in web analytics and content performance measurements solutions.</li><li>Development Experience with payment processing and membership services.</li><li>Knowledge of common software design patterns and responsive web frameworks.</li><li>Knowledge of email service provider features and APIâs.</li><li>8 or more years experience as a professional software engineer.</li><br>GOOD TO HAVE<br><li>Experience with digital assets, crypto, and blockchain technologies.</li><li>Experience in one or more Business Intelligence (BI) products, such as Google Data Studio, Domo, or Tableau.</li><li>Expertise using developing and/or creating development environments using Docker, Vagrant, Virtual Box or similar platform.</li><br/><br/>Please mention the word **EASINESS** and tag RMy44My4zOS4xNTA= when applying to show you read the job post completely (#RMy44My4zOS4xNTA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <div>Founded in 2018 and based in NYC, The Block is the leading research, analysis, and news brand in the digital asset space. The Block's team is spread across 7 timezones, covering the global cryptocurrency space 24/7.</div><div>The Block delivers deep insight into how the emerging digital assets sector interacts with traditional finance, technology, governments, and markets. We reach hundreds of thousands of technologists, financial market participants, Fortune 500 professionals, global service providers, policymakers, and more through our main website, dedicated Research Portal, podcast, and events.</div><div>You will be responsible for developing new features, optimizing performance with respect to both our backend and frontend stack, developing and supporting solutions for product analytics, and capturing feedback from our logging and debugging services to both troubleshoot an make improvements.</div><div>An effective Full-Stack Engineer should be able effectively communicate with the team and develop solutions between back-end and front-end implementations and concerns. The ideal candidate must be able to prioritize tasks and complete them in a timely manner.</div><br>You Will<br><li>Be responsible for the feature development of products you are a part of.</li><li>Collaborate with our engineers, researchers, executives, and designers to develop new features and prioritize bug fixes for our products.</li><li>Clearly communicate development progress across the Product & Engineering team.</li><li>Be creative in solving engineering problems.</li><li>Work with team managers on development prioritization and career development opportunities.</li><li>Contribute to the culture of quality, healthy collaboration and leading by example.</li><br>MUST HAVES<br><li>Full-stack experience and able to contribute to both frontend (Vue, Vuex, Nuxt, service workers, PWA) and backend (NodeJS, Adonis/SailsJS/Nest/Loopback or equivalent structured framework, Yarn, Postgres, GraphQL, Redis, memcached) systems.</li><li>Deep technical skill with frontend technologies (SASS, LESS,  Bootstrap utilities, TailwindCss or other similar).</li><li>Strong familiarity with Unix / Linux operating systems and general command-line knowledge.</li><li>Experience with git in a collaborative environment such as Github.</li><li>Responds positively when receiving and giving feedback.</li><li>Experience using code reviews and pair programming within the Agile Development lifecycle.</li><li>Expertise in web analytics and content performance measurements solutions.</li><li>Development Experience with payment processing and membership services.</li><li>Knowledge of common software design patterns and responsive web frameworks.</li><li>Knowledge of email service provider features and APIâs.</li><li>8 or more years experience as a professional software engineer.</li><br>GOOD TO HAVE<br><li>Experience with digital assets, crypto, and blockchain technologies.</li><li>Experience in one or more Business Intelligence (BI) products, such as Google Data Studio, Domo, or Tableau.</li><li>Expertise using developing and/or creating development environments using Docker, Vagrant, Virtual Box or similar platform.</li><br/><br/>Please mention the word **EASINESS** and tag RMy4yMzguMjQ1Ljc5 when applying to show you read the job post completely (#RMy4yMzguMjQ1Ljc5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -60,89 +60,7 @@ We're guided by our principles, including impact, growing together, embracing op
 
 
 
-Plaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at accommodations@plaid.com.<br/><br/>Please mention the word **COOLEST** and tag RMy44My4zOS4xNTA= when applying to show you read the job post completely (#RMy44My4zOS4xNTA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9182/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Narrative</h5>
-                    <h3> Web Software Engineer (Remote)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/9182/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://narrative.io">https://narrative.io</a>
-</p>
-
-<h1>Web Software Engineer (Remote)</h1><div>
-<strong><br>What You Will Do<br></strong><br>
-</div><div>Here's what you will do in a nutshell:</div><ul>
-<li>Create new features for Narrative's Vuejs web application. Work with Product and Design teams to create the best user experience and create modular, maintainable components.</li>
-<li>Design, implement and maintain embedded applications on Narrative's Data Marketplace which enhance the ability of customers to manage and manipulate data.</li>
-<li>Help select technologies and define the strategic direction for our system architecture</li>
-<li>Work on Narrative's Tacklebox UI library, designing creating reusable components and modules for use in all of Narrative's web applications.</li>
-<li>Review and evaluate team members' code contributions, delivering transparent, honest and direct feedback to your peers.</li>
-</ul><div>While most of the work focuses on the frontend, this position is ideal for someone who would like to improve his/her backend and Functional Programming skills.<br><br>
-</div><div><strong><br>Technical Stack</strong></div><div>
-<br>In a nutshell, our technical stack looks like:</div><ul>
-<li>
-<strong>Frontend</strong>: Vuejs, Sass, Pug, and Functional JavaScript</li>
-<li>
-<strong>Backend</strong>: scala, AWS, spark, Iceberg, cats, cats-effect, http4s, and doobie</li>
-<li>
-<strong>Ops</strong>: EC2, Fargate, Lambda, Terraform, EMR, DynamoDB, S3, RDS, Step Functions, Jenkins, and Datadog</li>
-</ul><div><br></div><div>
-<strong>The Ideal Candidate<br></strong><br>
-</div><div>We are not looking for a 100% fit on all the technology buzzwords, but we are looking for someone with strong personal and technical skills who is eager to pick up new technologies as necessary. We are obviously going to expect much more from a senior candidate than we would from a junior one.<br><br>
-</div><div>The ideal candidate should:</div><ul>
-<li>Have extensive experience in one or more web frameworks (Vue, React, Angular etc.) and the ES6/JavaScript/HTML/CSS ecosystem.</li>
-<li>Have proven experience using Amazon Web Services to deploy and host web applications and databases.</li>
-<li>Be able to debug various aspects of web application code, such as cross-browser Javascript quirks.</li>
-<li>Thoroughly understand the HTTP lifecycle and how the browser interacts with web APIs.</li>
-<li>Enjoy building fast, user-friendly UIs.</li>
-<li>Not be afraid of contributing to the entire stack when the need arises, given that frontend doesn’t simply mean HTML/CSS. For instance, a feature might require<ul>
-<li>some metrics to be computed from a Spark Report</li>
-<li>creating a PostgreSQL migration script</li>
-<li>tweaking S3 permissions and terraform scripts for deployment</li>
-</ul>
-</li>
-<li>Have the ability to lead the creation of architectural and design documents, collect requirements as well as feedback from the development and product teams and evalute new technologies as needed.</li>
-<li>Drive success in a flat organization with minimal process, interfacing with technical and non-technical team members as necessary.</li>
-<li>Communicate potential technical issues to relevant teams and adapt to changing requirements.</li>
-<li>Be mindful of the compromises that need to be done to be reactive on the business side while keeping the systems manageable in the long run.</li>
-<li>Live/work within +/- 3 hours of EST</li>
-</ul><div>
-<strong><br>The Team (Remote US and Canada)<br></strong><br>
-</div><div>We are a small, early stage, remote-first team looking for great developers who want to jump in and take major systems and user-facing features from design to launch.<br><br>
-</div><div>
-<strong><br>Our Mission<br></strong><br>
-</div><div>We are building a data streaming marketplace that makes it easy to buy, sell, and win.<br><br>
-</div><div>We do this by creating tools that reduce the friction and increase transparency in the data buying process, creating a win-win relationship between buyers and sellers.</div><div>
-<br>You can learn more about Narrative by visiting https://www.narrative.io/<br><br>
-</div><div><strong>Apply Now</strong></div><div>
-<br>Apply by sending an email to <a href="mailto:hiring-dev@narrative.io">hiring-dev@narrative.io</a>.<br><br>
-</div><div>If you would like to have a chat to learn more about the company, our culture, or the team before formally applying, that's is fine too: just drop us a line at dev@narrative.io.<br><br>
-</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote">https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote</a></p>
-
+Plaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at accommodations@plaid.com.<br/><br/>Please mention the word **COOLEST** and tag RMy4yMzguMjQ1Ljc5 when applying to show you read the job post completely (#RMy4yMzguMjQ1Ljc5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -232,6 +150,62 @@ Plaid is proud to be an equal opportunity employer and values diversity at our c
 </ul><h1>Salary Range (Global): $125,000 - $200,000</h1>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python">https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/3890/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Springboard</h5>
+                    <h3> Mentor - Software Engineering Career Track (Part-time/Remote)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>120 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0016/3890/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="https://www.springboard.com/">https://www.springboard.com/</a>
+</p>
+
+<div><strong>The Opportunity</strong></div><div><br></div><div>Springboard runs an online, self-paced Software Engineering Career Track in which participants learn with the help of a curated curriculum and 1-1 guidance from an expert mentor. Our mentor community - the biggest strength of our programs - comprises some of the best software engineering experts in the field.</div><div><br></div><div>If you are as passionate about mentoring as you are about software engineering, and can give a few hours per week in return for an honorarium, we would love to hear from you.</div><div><br></div><div>Please reach out to us with any questions at mentorrecruiting@springboard.com <br><br><strong>The Program</strong>
+</div><ul>
+<li>Completely online and self-paced</li>
+<li>Students become proficient in Software Engineering with the help of a curated online curriculum and project-based deliverables</li>
+<li>Coursework is made up of 800+ hour expert-curated curriculum in partnership with <a href="https://www.rithmschool.com/">Rithm School</a>
+</li>
+<li>On average, students finish in 9 months</li>
+<li>Students are working professionals from all over the world, dedicated to switching careers into Software Engineering</li>
+<li>Students have a weekly 30-minute checkin with their mentor to discuss questions, projects, and career advice!</li>
+</ul><div><strong>You</strong></div><ul>
+<li>are as passionate about teaching coding as about software engineering itself</li>
+<li>are proficient in the topics covered in our <a href="https://ddf46429.springboard.com/uploads/resources/1572915743_Software_Engineering_Career_Track_-_Syllabus_2019.11.04.pdf">Software Engineering Career Track</a> and are fluent in technologies such as HTML, CSS, JavaScript, React, Python, Flask, SQL, Data Structures and Algorithms</li>
+<li>have at least 3+ years of relevant work experience </li>
+<li>are available for weekly, 30-minute video check-ins with students to help them set and achieve learning goals, answer subject matter questions, provide feedback on projects, and offer career advice</li>
+<li>have experience critiquing work, in particular giving meaningful feedback on web development, and are able to think on your feet quickly</li>
+<li>are empathetic and have excellent communication skills</li>
+</ul><div><strong>Benefits</strong></div><ul>
+<li>Software Engineering mentors are paid an honorarium between $17.50-$32.50 per 30 minute call with students</li>
+<li>Membership in a rich community of expert mentors from great companies like AirBnB, Uber, Google, and Pivotal</li>
+<li>Change the lives of students in our program</li>
+<li>Help us revolutionize online education and inspire the next generation of software engineers!</li>
+<li>Work at your convenience</li>
+</ul><div><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3">https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3</a></p>
 
                 </details>
                 </td>
