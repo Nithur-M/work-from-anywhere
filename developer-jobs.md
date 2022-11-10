@@ -321,138 +321,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7668/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Planet Argon</h5>
-                    <h3> Senior Ruby on Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>34 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/planet-argon-senior-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/7668/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Portland, Oregon
-    <br /><strong>URL:</strong> <a href="https://planetargon.com">https://planetargon.com</a>
-</p>
-
-<div>
-<strong>Hello Ruby on Rails Developers!<br></strong><br>
-</div><div>Here's the deal; before our clients hire us, they've often already invested a lot of time, energy, and money into having custom web applications developed to help them solve their business challenges. They come to us looking for a team to provide dependable support and maintenance of their existing Ruby on Rails projects. We do this in the form of recurring retainers where we take care of small feature updates, bug fixes, performance improvements, chipping away at their technical debt, and helping them experiment as they navigate forward as a business.<br><br>
-</div><div>What we rarely do is spin up brand new web applications for them. We learned years ago that we perform better and are more successful developing long-term client relationships rather than working on one-off builds, so we stopped competing on those projects.<br><br>
-</div><div>The tradeoff? We get to build lasting partnerships with our clients and have some influence on how they're planning for the life of their web applications.<br><br>
-</div><div>So, if you're the type of developer that really enjoys shiny, new things (and/or pitching entire app rewrites), this probably isn't the position for you.<br><br>
-</div><div>But if you're the type of developer that enjoys jumping into the deep end of complex projects, helping iterate and improve software, taking on responsibility, and being given opportunities to help lead projects, then we should talk.<br><br>
-</div><div>
-<br><br>
-</div><div>
-<strong>Our Core Values<br></strong><br>
-</div><div>
-<strong>🙋 PROACTIVE</strong> - We actively seek opportunities to improve our client’s products, our processes, and our abilities.<br><br>
-</div><div>
-<strong>🐒 CURIOUS</strong> - A natural curiosity for the undiscovered results in remarkable work for our clients and stronger connections for our team. We ask questions, learn, and aren't afraid to fail.<br><br>
-</div><div>
-<strong>🤝 DEPENDABLE</strong> - We are invested in our work. We manage expectations. We support our clients and teammates. We hold ourselves, our teammates, and our clients accountable.<br><br>
-</div><div>
-<strong>🕺 VERSATILE</strong> - We readily adapt to change and encourage innovation because our team and work are transparent and flexible.<br><br>
-</div><div>🙃 <strong>DELIGHTFUL</strong> - We choose to set a mindful, positive tone that allows everyone to flourish.<br><br>
-</div><div>
-<a href="https://www.planetargon.com/about">Learn more about Planet Argon<br></a><br>
-</div><div>
-<br><br>
-</div><div>
-<strong>As a Senior Ruby-on-Rails Developer at Planet Argon, you will regularly do the following things:<br></strong><br>
-</div><ul>
-<li>Document the solutions to mistakes you’ve made so future developers can avoid them and learn from your experiences</li>
-<li>Write modular, well-tested code with minimal bugs that accounts for app performance and user experience</li>
-<li>Assess the risks associated with a task you’re assigned, ask follow-up questions of stakeholders or your project manager, determine a workflow forward, outline possible bottlenecks, and deliver a well-documented, well-tested, and stable solution</li>
-<li>Take responsibility when something goes wrong and lead others to fixing the issue</li>
-<li>Make technical decisions with little to no guidance</li>
-<li>Teach junior- and mid-level developers technical strategy by involving them in decision-making</li>
-<li>Evaluate and choose gems that are right for your project and speak to the value and risk of using them</li>
-<li>Choose appropriate software design patterns for common client problems and explain them to client stakeholders, other developers, and the project manager</li>
-<li>Spot performance bottlenecks in the stack and implement strategies to speed things up</li>
-<li>Track down bugs within the code base and the infrastructure, explain how those bugs are causing the reported issue, and develop a solution</li>
-<li>Act as technical lead on projects</li>
-<li>Meet regularly with your PM(s) to create issues, review current work, and plan sprints</li>
-<li>Suggest version upgrades, code refactoring, security and performance improvements, and UI/UX redesigns to the client and explain why they are beneficial to the client’s long-term needs</li>
-<li>Create thorough and clear Jira issues that clients and other devs can read and understand</li>
-<li>Provide fairly accurate estimates on proposed work to PMs or sales to assist with the creation of SOWs (SWAG estimates)</li>
-<li>Remove roadblocks for the team by pairing, answering questions in Slack, suggesting tools, gems, or packages, or granting someone access to needed accounts</li>
-<li>Set up and/or improve deployments for projects</li>
-<li>Manage deployment access for other team members</li>
-<li>Run deployments and perform debugging within staging/production environments</li>
-<li>Regularly SSH into and navigate around log files, Rails console, etc.</li>
-<li>Identify security vulnerabilities and harden our servers with security tools</li>
-<li>Keep your codebase documentation up-to-date</li>
-<li>Provide specific, useful feedback on PRs</li>
-<li>Provide peer support to developers at all levels</li>
-<li>Contribute to open source projects by reporting bugs, contributing possible fixes, or improving documentation</li>
-<li>Create connections with your peers on social media, in Slack channels, at meet-ups, and at conferences</li>
-<li>Help design and lead technical interviews with candidates</li>
-<li>Regularly introduce or improve documentation in our internal knowledge base</li>
-</ul><div>
-<strong>Requirements<br></strong><br>
-</div><div>
-<strong>5-7 years of industry experience</strong>, which can include:<br><br>
-</div><ul>
-<li>Education</li>
-<li>Internships</li>
-<li>Contribution to open-source projects</li>
-<li>Support engineer, QA, and other dev-adjacent industry roles</li>
-<li>Junior, Mid-, or Senior-level Ruby on Rails Developer roles</li>
-<li>Team-lead roles</li>
-</ul><div>
-<strong>A Senior Ruby-on-Rails Developer at Planet Argon should have some of the following experience:<br></strong><br>
-</div><ul>
-<li>Self-onboarding to an existing Ruby/Rails app and providing value soon after</li>
-<li>Determining the health of an existing Ruby on Rails application by evaluating test coverage, app architecture, security, and performance</li>
-<li>Using application monitoring tools like CodeClimate, Pingdom, or New Relic</li>
-<li>Researching open-source gems and implementing them into an existing application</li>
-<li>Using git to fix branching errors and merge conflicts and enforcing version control best practices across applications</li>
-<li>Setting up and documenting deployments for Ruby-on-Rails applications</li>
-<li>Writing automated tests for Ruby on Rails apps</li>
-</ul><div>
-<strong>Benefits<br></strong><br>
-</div><ul>
-<li>Medical, dental and vision insurance (Planet Argon pays 80% of premium)</li>
-<li>Paid vacation time that increases with your length of employment (15 days accrued the first year, 20 days after the first year, and 25 days after three years)</li>
-<li>5 days of sick time each calendar year</li>
-<li>7 paid company holidays each calendar year</li>
-<li>Health &amp; Wellness Program</li>
-<li>Home office and internet connection stipend</li>
-<li>Periodic bonuses dependent upon company and employee performance</li>
-<li>Participation in our flexible work time policies</li>
-<li>Creative, relaxed, professional work environment</li>
-<li>
-<em>After 90 days of employment:</em><ul><li>SIMPLE IRA with 3% of employee salary match</li></ul>
-</li>
-</ul><div>
-<br>The salary for this position is capped at $145,000/year.<br><br>
-</div><div>We will perform background checks and request professional references from finalist candidates.<br><br>
-</div><div>
-<em>Responses from freelancers, design studios or recruiters offering their services will be ignored.<br></em><br>
-</div><div>
-<strong><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br></em></strong><br>
-</div><div><a href="https://apply.workable.com/planetargon/j/781C982139/apply/"><strong>Apply for this job</strong></a></div><div><br></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/planet-argon-senior-ruby-on-rails-developer">https://weworkremotely.com/remote-jobs/planet-argon-senior-ruby-on-rails-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1255705/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -463,7 +331,7 @@
                     <code>cloud,developer,sql,growth</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-tibco-developer-1255705" align="right" target="_blank">Apply</a>
@@ -591,7 +459,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
