@@ -10,7 +10,7 @@
                     <code>design,web3,solidity,crypto,frontend,software,code,scrum,financial,nodejs,nosql,mobile,lead,junior,excel,telecom,go,golang,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-lead-backend-engineer-giant-protocol-144540" align="right" target="_blank">Apply</a>
@@ -69,71 +69,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">401k with company match</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Annual professional development budget</span></li>
 </ul>
-</div><br/><br/>Please mention the word **FANS** and tag RMy44My4zOS4xNTA= when applying to show you read the job post completely (#RMy44My4zOS4xNTA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/50e9b1433ee78442e29ce2ed27c3024f1667546130.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Streamflow</h5>
-                    <h3>Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>design,web3,back-end,python,software,code,qa,cloud,api,management,go,engineer,backend,full-time,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-streamflow-143523" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h3><b>The Company</b></h3><br><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Streamflow</a> helps web3 organizations distribute tokens efficiently and effectively.<br>We leverage our token streaming protocol to provide a suite of tools every Solana organization can use to manage and stream tokens.<p></p><h3><b>Why You Should Join Us</b></h3><br>Streamflow is built on the <a class="bbcode-link" href="https://www.notion.so/Values-public-536b816989aa4ee7b1923d112c84763e" target="_blank" rel="noopener noreferrer nofollow">Values (public)</a> that we share publicly. We look to uphold these qualities in our day-to-day and look for these qualities in candidates who apply.<br>Our work culture is fast-moving, engaging, and ambitious. We passionately believe in the value that our protocol can unlock for the world and weâre looking to work with mission-driven people who are ready to jump on board with us, roll up their sleeves, and get stuck into it. We believe in selfless sharing of knowledge, transparency, and insight into all aspects of the business and personal initiative.<br>We are a remote-first, office-optional team that prioritizes high-quality written communication and the possibility of working asynchronously across timezones because we believe that the best talent exists on every corner of the earth.<br>We are developing quite literally on bleeding edge technology on the highest performant blockchain, Solana.<br>We offer above-market salaries and discuss specific figures early on in the hiring process.<p></p><h3><b>Weâre seeking</b></h3><br>We're looking for a full-time <b>Back-end Engineer</b> to improve and build our applications with a focus on API design and implementation, but also making sure our <b>infrastructure</b> works and is implemented with maintenance in mind.<br>If you:<br><ul>
-<li align="left">able to work with at least 4h overlap with European timezones</li>
-<li align="left">have 5+ years of professional experience working as a software engineer</li>
-<li align="left">have been part of start-ups or scale-ups before as a full-time team member</li>
-<li align="left">have hands-on experience with AWS or alternative cloud providers and their products for modern infrastructure management (Docker, orchestration services, CI/CD, Terraform)</li>
-<li align="left">built production-ready servers before from the grounds up</li>
-<li align="left">have a nose for smelling problems before they happen</li>
-</ul>â¦then we should talk. ð<br>It will be a perfect fit if you love:<br><ul>
-<li align="left">Developing</li>
-<li align="left">Learning (and do it fast)</li>
-<li align="left">Going outside your comfort zone</li>
-<li align="left">Doing what is best for the business</li>
-<li align="left">Participating in the construction of processes and organizations from an early stage</li>
-<li align="left">Autonomy and responsibility</li>
-<li align="left">Very ambitious projects</li>
-</ul><br><h3><b>Bonus points</b></h3><br>If you:<br><ul>
-<li align="left">Have experience with Python API development (Django, flask, or related skills)</li>
-<li align="left">Have a diverse set of skills and be ready to put them to use to build production-ready systems</li>
-<li align="left">Love Linux, Cloud providers and their products</li>
-<li align="left">Interested in building blockchain-related products</li>
-</ul>youâre very likely to succeed in this role.<p></p><h3><b>Responsibilities</b></h3><br><ul>
-<li align="left">Design, develop and maintain server-side code and infrastructure using one of the server-side languages (Rust, Python, Go or JVM languages) and Cloud products</li>
-<li align="left">Work with product to rapidly build experimental products, deploy them and track performance and gather feedback</li>
-<li align="left">Take ownership of key pieces of Streamflowâs infrastructure and back-end code and steer them in the right direction</li>
-<li align="left">Serve as the technical authority for a domain and tech stack best practices in API and Infrastructure</li>
-</ul><br><h3><b>Examples of near-term responsibilities</b></h3><br><ul>
-<li align="left">Backend API infrastructure (maintenance + new development)</li>
-<ul>
-<li align="left">Automatic token transfers</li>
-<li align="left">Authentication</li>
-<li align="left">User resources</li>
-<li align="left">Dashboard support</li>
-<li align="left">Internal analytics</li>
-</ul>
-<li align="left">CI/CD pipelines (including QA flow)</li>
-<li align="left">AWS provisioning CI integration - Terraform, CD</li>
-</ul><br><h3><b>Compensation:</b></h3><br>Salary is negotiable based on previous experience and crypto-native exposure.<p></p><h3>Links:</h3><br><ul>
-<li align="left"><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Website</a></li>
-<li align="left"><a class="bbcode-link" href="https://app.streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">dApp</a></li>
-<li align="left"><a class="bbcode-link" href="https://twitter.com/streamflow_fi" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
-</ul><br><br/><br/>Please mention the word **LIONHEARTED** and tag RMy44My4zOS4xNTA= when applying to show you read the job post completely (#RMy44My4zOS4xNTA=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **FANS** and tag RMy4yMzguMjQ1Ljc5 when applying to show you read the job post completely (#RMy4yMzguMjQ1Ljc5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -200,6 +136,78 @@
 </ul>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-javascript-node">https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-javascript-node</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Rainforest QA</h5>
+                    <h3> Senior Engineer (Backend)</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>120 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://www.rainforestqa.com/">https://www.rainforestqa.com/</a>
+</p>
+
+<div><strong>About Rainforest</strong></div><div>Rainforest QA is a distributed company full of smart, capable people from around the world who enjoy working together to make our customers successful.</div><div><br></div><div>Our mission is to make product quality accessible for every software company. The Rainforest QA solution combines no-code test automation and crowdsourced testing in a single, one-of-a-kind QA platform, allowing anyone to get the exact insights they need to release with quality, quickly.  </div><div><br></div><div><strong>About the Team</strong></div><div>As a Senior Engineer at Rainforest QA you'll be part of an experienced and diverse team with members all over the world.</div><div><br></div><div>We were built as a distributed team from the beginning and we've committed to implementing tools and processes that allow for and support continuous and effective communication across the world.<br><br><strong>About the Role</strong>
+</div><ul>
+<li>Work on our main app, which contains the majority of our business logic and is written in Ruby-on-Rails and backed by PostgreSQL and Redis</li>
+<li>Work on numerous support services (including our work scheduler and VM management system - both of which manage hundreds of thousands of requests a day) written in a variety of languages (Elixir, Golang, Crystal, Node, Python) chosen because of their suitability to the problem the service is solving</li>
+<li>Work on internal tooling to improve the development experience of other engineers and ship faster and safer</li>
+<li>Collaborate with product managers and our customer facing teams to analyze customer problems and design high impact features</li>
+<li>Lead projects to implement those features</li>
+<li>Help other team members to achieve their goals</li>
+<li>Continuously learn about new technologies and ways to solve problems</li>
+<li>Work with our customer facing teams to triage, troubleshoot, and fix bugs</li>
+<li>Write unit and integration tests (using our own product!) to ship high quality software</li>
+</ul><div><strong>About You</strong></div><ul>
+<li>Extensive experience in Ruby (or equivalent dynamic language) and be extremely knowledgeable of the language and associated ecosystem</li>
+<li>Extensive experience in Ruby on Rails (or equivalent framework) and be extremely knowledgeable of the framework and associated ecosystem</li>
+<li>Experience in writing and debugging SQL</li>
+<li>Enthusiasm for building applications using tools like Ruby on Rails, Golang, Elixir, React, PostgreSQL, Redis, BigQuery, and Kubernetes - amongst others</li>
+<li>Practical experience of working on a React codebase</li>
+<li>Even though this position is mainly backend focused, we expect you to have some grasp of the whole stack to be able to effectively communicate with engineers across the team, and can make frontend or infrastructure changes when the situation calls for it</li>
+<li>Professional experience in engineering SaaS products</li>
+<li>Experience leading projects with teams</li>
+<li>An ownership mindset: you should look not only at what you’re asked to do, but ask why you’re doing it and how it impacts on the rest of the product, our customers, and whether it makes sense. We expect you to be responsible for your work and to resolve any bugs you might ship</li>
+<li>Excitement to learn</li>
+<li>Excellent communication skills and able to give and receive constructive feedback</li>
+<li>Happy to review code and have your code reviewed</li>
+<li>Can work effectively remotely with remote team members (we are a fully distributed company)</li>
+<li>Comfortable working in a large codebase with many stakeholders</li>
+</ul><div>How we’ll reward you</div><ul>
+<li>Competitive salary plus equity.</li>
+<li>100% company-paid medical, dental, and vision insurance coverage for employees, 75% for dependents (U.S., only).</li>
+<li>Unlimited paid time-off (PTO).</li>
+<li>A weekly allowance for lunches and a monthly allowance for remote office supplies or personal development.</li>
+<li>Semi-annual company off-sites in exciting destinations around the world.</li>
+<li>12 weeks of paid maternity leave and 8 weeks of paid leave for supporting parents.</li>
+<li>401k (U.S., only).</li>
+</ul><div>
+<br><strong>A Note on Diversity and Inclusion</strong>
+</div><div>At Rainforest we believe that diverse teams improve our business. We are an equal opportunity employer and do not discriminate on the basis of race, religion, color, nationality, gender, sexual orientation, age, marital status, veteran status, or disability status.</div><div><br></div><div>Due to employment laws, we are unable to hire individuals internationally located in these following countries at this time: China, France, Iran, Egypt, Russia.</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2">https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2</a></p>
 
                 </details>
                 </td>
