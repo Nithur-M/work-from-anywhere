@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shopexperts-freelance-shopify-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -45,7 +45,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazee-io-ux-product-designer-80-100" align="right" target="_blank">Apply</a>
@@ -104,119 +104,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8736/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TryHackMe</h5>
-                    <h3> Lead UI/UX Designer</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>14 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/tryhackme-lead-ui-ux-designer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8736/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> London
-    <br /><strong>URL:</strong> <a href="http://tryhackme.com">http://tryhackme.com</a>
-</p>
-
-<div><strong><em><br>Full-time Fully Remote</em></strong></div><div>
-<em>£70,000 to £90,000 (experience dependent) ~$81k to $100k<br></em><br>
-</div><div><strong><br>What we do</strong></div><div>
-<a href="https://tryhackme.com/"><br>TryHackMe</a> is an online platform (with over a million users) that teaches cyber security through short, gamified real-world labs. We have content for both complete beginners and seasoned hackers, incorporation guides and challenges to cater for different learning styles.<br><br>
-</div><div>
-<strong><br>About the role<br></strong><br>
-</div><div><strong>The fundamentals of what you will be doing:</strong></div><ul>
-<li>Translate business needs, user needs and technology constraints into solution concepts that are meaningful, easy to use, and engaging</li>
-<li>Combine UX thinking with design execution, to produce usable and intuitive user interfaces</li>
-<li>Develop UI mockups and prototypes that clearly illustrate how sites function and look like</li>
-<li>Can innovate and develop out-of-the-box solutions to complex user interaction problems.</li>
-<li>Direct all elements of design, including typography, imagery, iconography, etc.</li>
-<li>Provide critical analysis of user experience designs based on heuristics and other accepted design principles</li>
-<li>Develop personas, user stories and other design related documents</li>
-<li>Provides mentoring and design leadership to designers. <ul>
-<li>Review designs against business requirements</li>
-<li>Flat hierarchy management style (empowerment, psychological safety, etc.)</li>
-</ul>
-</li>
-<li>Evaluate new and emerging methods and technologies in UX prototyping and identify best of breed to incorporate into your team’s toolkit</li>
-</ul><div><strong><br>Why would this role be challenging?</strong></div><ul>
-<li>We are currently rebuilding our platform, and we need to figure out how much we should be rebuilding from scratch. This is where your research expertise comes in handy. After the research phase, you will set the UI/UX strategy for the entire platform.</li>
-<li>Redesign most of the UI components from scratch, setting out the best practices for each component <ul><li>Manage design libraries and design systems with adherence to our brand.</li></ul>
-</li>
-<li>Our team is small but scaling. So we are in the chaotic growing phase and we need help thinking through some of our design and design thinking processes. <ul>
-<li>Identify areas that need alignment or could benefit from knowledge sharing</li>
-<li>Identify design/research related inefficiencies</li>
-</ul>
-</li>
-<li>Evangelizing the merits of good design and research - champions user needs at all levels and influences stakeholders to consider those needs in their objectives. In other words, we want a thought leader who actively defines and institutes best practices for design, while fostering innovation to address evolving consumer expectations and technological advances.</li>
-</ul><div><strong><br>Must-haves:</strong></div><ul>
-<li>Be a UX research expert by… <ul>
-<li>Recommend, plan and execute the research with the most appropriate tools/methodologies</li>
-<li>Communicate results (Ex: unforeseen opportunities and issues that have a significant impact on product strategy and design) verbally and visually</li>
-<li>Set a design strategy out of the result</li>
-</ul>
-</li>
-<li>Strong UI skills, ability to create ascetically pleasing designs</li>
-<li>Solid understanding of user-centered design, interaction design principles, responsive design and accessibility standards</li>
-<li>Proactive, structured, attention to detail, growth mindset, no ego</li>
-<li>Superior conceptual and critical-thinking abilities</li>
-<li>Experienced with Figma</li>
-<li>Excellent communication skills, including the ability to present complex concepts clearly and persuasively across diverse audiences at various levels of the organization</li>
-<li>Must be willing to work 4 - 5.5 hours overlap with London time zone from 9am to 5pm</li>
-</ul><div><strong><br>Nice to haves:</strong></div><ul>
-<li>Typically has 5 years’ experience in UX / UI design role, using a wide variety of research methods and technologies.</li>
-<li>AB testing experience</li>
-<li>Experience with HTML5, CSS3 and the use of various Javascript frameworks in interface design.</li>
-<li>Asynchronous working experience with a distributed team across many time zones</li>
-<li>Cultural awareness and sensitivity, as this role will involve daily interaction with people in countries around the globe</li>
-<li>Previously worked with EdTech and/or SaaS products</li>
-<li>Has worked at a start-up</li>
-</ul><div><strong><br>Founder Story</strong></div><div>
-<br>TryHackMe started in 2018 by two cyber security enthusiasts, Ashu Savani and Ben Spring, who met at a summer internship. When getting started in the field, they found learning security to be a fragmented, inaccessible and difficult experience; often being given a vulnerable machine's IP with no additional resources is not the most efficient way to learn, especially when you don't have any prior knowledge. When Ben returned back to University he created a way to deploy machines and sent it to Ashu, who suggested uploading all the notes they'd made over the summer onto a centralised platform for others to learn, for free.</div><div>
-<br>To allow users to share their knowledge, TryHackMe allows other users (at no charge) to create a virtual room, which contains a combination of theoretical and practical learning components.</div><div>
-<br>The platform has never raised any capital and is entirely bootstrapped.</div><div>
-<br>As the UX/UI Designer you will work within the Software Engineering team and collaboratively with the Product team using agile methodologies (Scrum). This role is fast-paced and varied and there is space for you to help define this with your own expertise.<br><br>
-</div><h1>Perks &amp; Benefits</h1><div>
-<strong>💰 Salary </strong>£70,000 to £90,000 (<em>experience dependent) ~$81k to $100k</em>
-</div><div>
-<strong><br>🕒 Flexi Time </strong>Choose when to start, finish and take breaks in your workday.<br><br>
-</div><div>
-<strong>💸 401k / Pension </strong>TryHackMe makes it easy to save money for retirement.<br><br>
-</div><div>
-<strong>🧡 Health Insurance </strong>Get health insurance if you're in a country that doesn't have public health care.<br><br>
-</div><div>
-<strong>🏗️ 10% Project </strong>Devote 10% of your time developing anything you want, providing it benefits TryHackMe in some way.</div><div>
-<strong><br>⛱️ Company Retreat </strong>We're planning to have an annual company retreat (post-covid), fully paid for by us!</div><div>
-<strong><br>🚣 Fully Remote </strong>In a fully digital world, there is nothing stopping you from working anywhere you want.<br><br>
-</div><div>
-<strong>💪 Personal Development </strong>Everyone gets a minimum annual training budget of £2,500. Use this for online courses, to acquire certifications, and more.</div><div>
-<strong><br>💻 Tools </strong>You'll receive a dedicated work laptop, and any other accessories you need to do your best work.<br><br>
-</div><div><strong><br>Our Hiring Process</strong></div><ul>
-<li>Stage 1: 15m chat to learn more about you (and vice versa)</li>
-<li>Stage 2: 1h design call presenting a case study from your portfolio</li>
-<li>Stage 3: 1h management and culture fit call</li>
-<li>(Optional) Stage 4: Meet some team members</li>
-</ul><div>
-<br>🔥 <strong>Apply Now!<br></strong><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tryhackme-lead-ui-ux-designer">https://weworkremotely.com/remote-jobs/tryhackme-lead-ui-ux-designer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4150/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -227,7 +114,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>365 days ago</text>
+                <text>366 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -279,6 +166,81 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>A.Team</h5>
+                    <h3>Senior Independent UX/UI Designer</h3>
+                </td>
+                <td width="300">
+                    <code>go,ui,ux,wordpress</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="text-size-adjust: 100%; overflow-wrap: break-word;"><a href="https://build.a.team/remotivedesignerreferral" rel="nofollow">A·Team</a> is a VC-backed, stealth, application-only home on the internet for Senior Independent UX/UI Designers (along with developers &amp; product managers) to team up with hand-picked, high-growth companies on their next big thing. </p>
+<p style="text-size-adjust: 100%; overflow-wrap: break-word;">After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.</p>
+<p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><em>As part of A·Team, you can expect:</em></span></p>
+<ul style="padding-inline-start: 48px;">
+<li><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;">High-paying, meaningful missions with the most audacious companies</span> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;">Work alongside friends old &amp; new: </span>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;">Full autonomy:</span> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;">Small, curated, off-the-record gatherings:</span> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;">Keep 100% of what you earn: </span>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul>
+<p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;">How to apply:</span></span></p>
+<p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Go here: <a href="https://build.a.team/remotivedesignerreferral" rel="nofollow">https://build.a.team/remotivedesignerreferral</a> + mention Remotive. </span>No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.</p>
+<p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;">What you’ll do:</span></span></p>
+<ul style="padding-inline-start: 48px;">
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="margin-top: 12pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="margin-top: 0pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </span></p>
+</li>
+</ul>
+<p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is for:</span></span></p>
+<ul style="padding-inline-start: 48px;">
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="margin-top: 12pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Senior UX/UI Designers who left large companies and high-growth startups to pursue their craft with autonomy.</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="margin-top: 0pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing</span></p>
+</li>
+</ul>
+<p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">not</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> for:</span></span></p>
+<ul style="padding-inline-start: 48px;">
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="margin-top: 12pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">People looking for small gigs</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="margin-top: 0pt; margin-bottom: 0pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Folks looking to build simple wordpress/wix/squarespace-style websites</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="margin-top: 0pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those still early in their careers and recent university/bootcamp grads (at least not yet)</span></p>
+</li>
+</ul>
+<p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;">Our long-term vision:</span></span></p>
+<p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivedesignerreferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
+<p dir="ltr" style="margin-top: 12pt; margin-bottom: 12pt; line-height: 1.38;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
+<img src="https://remotive.com/job/track/986276/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
