@@ -10,7 +10,7 @@
                     <code>software,design,cryptocurrency,front-end,frontend,back-end,full-stack,code,web,financial,git,content,senior,analytics,engineer,engineering,linux,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-the-block-144041" align="right" target="_blank">Apply</a>
@@ -19,48 +19,60 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div>Founded in 2018 and based in NYC, The Block is the leading research, analysis, and news brand in the digital asset space. The Block's team is spread across 7 timezones, covering the global cryptocurrency space 24/7.</div><div>The Block delivers deep insight into how the emerging digital assets sector interacts with traditional finance, technology, governments, and markets. We reach hundreds of thousands of technologists, financial market participants, Fortune 500 professionals, global service providers, policymakers, and more through our main website, dedicated Research Portal, podcast, and events.</div><div>You will be responsible for developing new features, optimizing performance with respect to both our backend and frontend stack, developing and supporting solutions for product analytics, and capturing feedback from our logging and debugging services to both troubleshoot an make improvements.</div><div>An effective Full-Stack Engineer should be able effectively communicate with the team and develop solutions between back-end and front-end implementations and concerns. The ideal candidate must be able to prioritize tasks and complete them in a timely manner.</div><br>You Will<br><li>Be responsible for the feature development of products you are a part of.</li><li>Collaborate with our engineers, researchers, executives, and designers to develop new features and prioritize bug fixes for our products.</li><li>Clearly communicate development progress across the Product & Engineering team.</li><li>Be creative in solving engineering problems.</li><li>Work with team managers on development prioritization and career development opportunities.</li><li>Contribute to the culture of quality, healthy collaboration and leading by example.</li><br>MUST HAVES<br><li>Full-stack experience and able to contribute to both frontend (Vue, Vuex, Nuxt, service workers, PWA) and backend (NodeJS, Adonis/SailsJS/Nest/Loopback or equivalent structured framework, Yarn, Postgres, GraphQL, Redis, memcached) systems.</li><li>Deep technical skill with frontend technologies (SASS, LESS,  Bootstrap utilities, TailwindCss or other similar).</li><li>Strong familiarity with Unix / Linux operating systems and general command-line knowledge.</li><li>Experience with git in a collaborative environment such as Github.</li><li>Responds positively when receiving and giving feedback.</li><li>Experience using code reviews and pair programming within the Agile Development lifecycle.</li><li>Expertise in web analytics and content performance measurements solutions.</li><li>Development Experience with payment processing and membership services.</li><li>Knowledge of common software design patterns and responsive web frameworks.</li><li>Knowledge of email service provider features and APIâs.</li><li>8 or more years experience as a professional software engineer.</li><br>GOOD TO HAVE<br><li>Experience with digital assets, crypto, and blockchain technologies.</li><li>Experience in one or more Business Intelligence (BI) products, such as Google Data Studio, Domo, or Tableau.</li><li>Expertise using developing and/or creating development environments using Docker, Vagrant, Virtual Box or similar platform.</li><br/><br/>Please mention the word **EASINESS** and tag RMy4yMzguMjQ1Ljc5 when applying to show you read the job post completely (#RMy4yMzguMjQ1Ljc5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <div>Founded in 2018 and based in NYC, The Block is the leading research, analysis, and news brand in the digital asset space. The Block's team is spread across 7 timezones, covering the global cryptocurrency space 24/7.</div><div>The Block delivers deep insight into how the emerging digital assets sector interacts with traditional finance, technology, governments, and markets. We reach hundreds of thousands of technologists, financial market participants, Fortune 500 professionals, global service providers, policymakers, and more through our main website, dedicated Research Portal, podcast, and events.</div><div>You will be responsible for developing new features, optimizing performance with respect to both our backend and frontend stack, developing and supporting solutions for product analytics, and capturing feedback from our logging and debugging services to both troubleshoot an make improvements.</div><div>An effective Full-Stack Engineer should be able effectively communicate with the team and develop solutions between back-end and front-end implementations and concerns. The ideal candidate must be able to prioritize tasks and complete them in a timely manner.</div><br>You Will<br><li>Be responsible for the feature development of products you are a part of.</li><li>Collaborate with our engineers, researchers, executives, and designers to develop new features and prioritize bug fixes for our products.</li><li>Clearly communicate development progress across the Product & Engineering team.</li><li>Be creative in solving engineering problems.</li><li>Work with team managers on development prioritization and career development opportunities.</li><li>Contribute to the culture of quality, healthy collaboration and leading by example.</li><br>MUST HAVES<br><li>Full-stack experience and able to contribute to both frontend (Vue, Vuex, Nuxt, service workers, PWA) and backend (NodeJS, Adonis/SailsJS/Nest/Loopback or equivalent structured framework, Yarn, Postgres, GraphQL, Redis, memcached) systems.</li><li>Deep technical skill with frontend technologies (SASS, LESS,  Bootstrap utilities, TailwindCss or other similar).</li><li>Strong familiarity with Unix / Linux operating systems and general command-line knowledge.</li><li>Experience with git in a collaborative environment such as Github.</li><li>Responds positively when receiving and giving feedback.</li><li>Experience using code reviews and pair programming within the Agile Development lifecycle.</li><li>Expertise in web analytics and content performance measurements solutions.</li><li>Development Experience with payment processing and membership services.</li><li>Knowledge of common software design patterns and responsive web frameworks.</li><li>Knowledge of email service provider features and APIâs.</li><li>8 or more years experience as a professional software engineer.</li><br>GOOD TO HAVE<br><li>Experience with digital assets, crypto, and blockchain technologies.</li><li>Experience in one or more Business Intelligence (BI) products, such as Google Data Studio, Domo, or Tableau.</li><li>Expertise using developing and/or creating development environments using Docker, Vagrant, Virtual Box or similar platform.</li><br/><br/>Please mention the word **EASINESS** and tag RMTguMjA3LjI0MS4yMzE= when applying to show you read the job post completely (#RMTguMjA3LjI0MS4yMzE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/f0babbf5d9161c6ebf6b6af7b38efefc1667572216.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9749/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Plaid</h5>
-                    <h3>Software Engineer Financial Institution Authentication</h3>
+                    <h5>Power Diary</h5>
+                    <h3> Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>security,design,hr,software,web,cloud,microsoft,strategy,management,lead,operations,engineer,engineering,digital nomad,financial,bank,recruiting,backend</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-financial-institution-authentication-plaid-143682" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/power-diary-software-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                We believe that the way people interact with their finances will drastically improve in the next few years. Weâre dedicated to empowering this transformation by building the tools and experiences that thousands of developers use to create their own products. Plaid powers the tools millions of people rely on to live a healthier financial life. We work with thousands of companies like Venmo, SoFi, several of the Fortune 500, and many of the largest banks to make it easy for people to connect their financial accounts to the apps and services they want to use. Plaidâs network covers 12,000 financial institutions across the US, Canada, UK and Europe. Founded in 2013, the company is headquartered in San Francisco with offices in New York, Salt Lake City, Washington D.C., London and Amsterdam. #LI-Remote
+                <img src="https://we-work-remotely.imgix.net/logos/0081/9749/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
-Unlocking financial freedom for everyone goes beyond building amazing APIs and intelligent tools for developers; it also means enabling consumers to easily control their data sharing and ensuring that every permission change is tracked and auditable. 
+<p>
+  <strong>Headquarters:</strong> Australia
+    <br /><strong>URL:</strong> <a href="https://www.powerdiary.com/">https://www.powerdiary.com/</a>
+</p>
 
-Our Financial Institution Authorization and Authentication team works closely with our partners to develop industry leading tools and APIs, ensuring that consumers have complete control over their data sharing. Beyond building solutions for Plaid stakeholders, we also work closely with industry groups to establish standards around data sharing.
+<div><strong>Be part of a highly skilled collaborative team that works on a wide variety of projects!</strong></div><div><br></div><div>Join an agile organisation that doesn’t get bogged down with stifling processes or paperwork!</div><div><br></div><div>We are looking for people who embrace teamwork. You could have a couple of years under your belt, or be an experienced full stack developer, you will find challenging and interesting work in a fun environment with us!</div><div><br></div><div>To learn more about us, watch this video and e-meet our Engineering Manager, Diego Jancic: https://youtu.be/hWgwIenFoi8</div><div><br></div><div>As a <strong>Software Engineer at Power Diary,</strong> you will be responsible for developing features end-to-end. You will need to get right into our code base, understand it, and make it better. You work in a self-managing, cross-functional Scrum team where you will write, test, and deploy your code, and review your peer’s pull requests. You will have to consider the architecture of new and existing features as you work, research different ways to do something, identify the best of them, and code it all up. Think clearly and tell us when we’re wrong.</div><div><br></div><div>Want to know more about the types of features you could be working on? This short video will get you up to speed fast.</div><div><br></div><div><strong>Does this sound like you?</strong></div><div><br></div><ul>
+<li>Several years experience working on full-stack development</li>
+<li>Enjoy being part of a team, growing and helping one another</li>
+<li>Excited when you have the chance to pair and collaborate</li>
+<li>Always interested in learning new things</li>
+<li>Enjoy being responsive to customer feedback and stakeholder</li>
+<li>Practice test-driven development and judicious refactoring</li>
+<li>You are a pragmatic problem solver, knowing how to find the middle ground between “perfect, but takes forever to code” and “fixes it now, but nobody will ever be able to understand what I did”</li>
+<li>Work well in a small team with a clear mission</li>
+<li>Detail-oriented and precise in code, communication, and documentation</li>
+<li>You have the insight to know what’s important and the dedication to get it done</li>
+<li>We prefer working with people who live in locations which overlap with Central European Time but it is not an absolute requirement to be in Europe, (+/- 4 hours of CET).</li>
+</ul><div><br></div><div><strong>Technical skills required:</strong></div><div><br></div><div>While existing experience with the technologies we use is welcome, an open and disciplined approach to your work is more important to us than whether you already know .NET, TypeScript, or anything else in our stack. We value the willingness to learn our technologies and environment over domain-specific skills. You just have to show us that you are the kind of person who is at home learning a new programming language.</div><div><br></div><div>We use .NET MVC, .NET Core, Microsoft SQL Server, PostgreSQL, C#, REACT and TypeScript. Our systems run on AWS, our code is hosted on GitHub, our builds run on TeamCity.</div><div><br></div><div><strong>The Software Engineering Team</strong></div><div><br></div><div>We are a small team of talented, multi-cultural engineers, distributed across the globe. We embrace industry best practice such as clean coding, code reviews, automated tests, continuous integration, and few-click deployments. We are 100% distributed so we rely on good communication via Slack or Zoom calls within our team and wider organisation.</div><div><br></div><div><strong>How to apply</strong></div><div><br></div><div>If you are interested in this position, please click apply to submit your resume in PDF format and answer a couple of questions about how you like to work. We are looking forward to reading all about why this role and organisation caught your attention, and what motivates you in your career.</div><div><br></div><div><strong>Our process</strong></div><ol>
+<li>Short conversation with HR to discuss your motivation and some details of the job</li>
+<li>Detailed conversation with an Engineering member and HR, getting more detailed with the technology and your experience</li>
+<li>Technical assessment for you to complete at home in your own time</li>
+<li>Technical review of your work with future colleagues</li>
+<li>Discussion with our Engineering Manager and CTO</li>
+<li>Background check</li>
+</ol><div><br></div><div><strong>Why you’ll LOVE working at Power diary…</strong></div><div><br></div><div>When you join Power Diary, you’ll benefit from perks like;</div><div><br></div><div>✅ Work from Anywhere</div><div><br></div><div>There are no offices at Power Diary as we’ve been a distributed team long before everyone else caught on. We look for the best people around the world – not just those who live within a 1 hour commute. If you like working from home, or really from anywhere, you’ll find a bunch of like-minded people here.</div><div><br></div><div>✅ Paid Time Off</div><div><br></div><div>There’s no sense in working all the time – we believe everyone needs balance and we want you to have enough time to do other things that enrich your life. We offer all of our permanent team members 30 days of paid time off and we expect you to take it</div><div><br></div><div>✅ Flexibility</div><div><br></div><div>Need to get the kids to school or want to do a gym class in the middle of the day? No problem. We need you to be available for some agreed core hours to work with your colleagues and cover our service requirements, but other than that your time is yours.</div><div><br></div><div>✅ Competitive Pay</div><div><br></div><div>We aim to work with the best people – wherever and whoever they are. We know this comes at a business cost, but we consider this an investment in the company’s future. We offer competitive pay and we want all team members to feel well-rewarded for their contribution.</div><div><br></div><div>✅ Results Driven</div><div><br></div><div>At Power Diary, we detest bureaucracy and we strive to keep the focus on building and supporting great software that will help our customers (and in turn, help more of their clients). There are no pointless meetings, forms, or other impediments in your way. As we grow, we aim to stay agile – in every way.</div><div><br></div><div>✅ Learning &amp; Growth</div><div><br></div><div>We’re big supporters of personal growth and development and our team is constantly learning and upskilling themselves in many different areas. Innovation is a big part of our culture and we welcome new ideas from everyone.</div><div><br></div><div>✅ Inspiring Team</div><div><br></div><div>We truly love our team at Power Diary and we hope you will too. We’re a bunch of unique individuals from all kinds of backgrounds with a vast array of specialist skills and interests. Although we work remotely, the marketing team works closely together and we also make time to know and support each other.</div><div><br></div><div>✅ Meaningful Work</div><div><br></div><div>We’re constantly getting feedback from customers that are relieved to have found Power Diary. In many cases, they refer to us as a ‘life saver’ or a ‘game changer’, and it feels great to be part of something that helps people get the healthcare support they need. See our customer feedback here.</div><div><br></div><div><strong>About Power Diary</strong></div><div><br></div><div>Power Diary is a leading healthcare practice management system used in Australia, New Zealand, the United Kingdom, the United States and Canada.</div><div>Our mission is simple: To provide health practitioners with the ultimate Practice Management Software that makes running a health practice easier and more rewarding.</div><div>Power Diary’s customer base is growing and we need smart, passionate people to join our team and help take us to the next level. We’re looking for people who are genuinely excited to help health practitioners do their work, and be part of a globally distributed team</div><div>As a healthcare company, we care about our workforce just as much as our clients and their patients. You will enter a fun, inclusive workplace with a dedicated and driven team.</div><div>We are still a relatively small business, but self-funded and growing strongly. This is an exciting time to be at Power Diary – we have some great plans for the future and many challenging things to work on. We hope you’ll consider joining our team and being part of our story!</div><div><br></div><div><strong>See more information about Careers at Power Diary here.</strong></div><div><br></div><div>(*) Power Diary collects and processes your personal data for the purposes of managing employment candidate application and recruitment-related activities as well as for organisational planning purposes, for further detail, please refer to the Power Diary Privacy Policy.</div>
 
-As a software engineer on this team, you will be responsible for building, improving and designing products around authorization, authentication, and compliance for our data providers. You will collaborate directly with Plaidâs key partners to understand their most urgent problems and establish a well validated roadmap that will align Plaid with our key partners and lead to a better experience for consumers. 
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/power-diary-software-engineer">https://weworkremotely.com/remote-jobs/power-diary-software-engineer</a></p>
 
-This involves updating products, features, and services across our entire stack to ensure seamless experiences for our customers, consumers, and partners. It is the most mission-critical component of our infrastructure as it connects millions of bank accounts and billions of transactions to Plaid. 
-
-Most of our backend core systems are written in Go, but that's not a prerequisite. We pick the right tool for the job and have systems in Go, TypeScript, and Python. 
-
-We're guided by our principles, including impact, growing together, embracing openness and positivity, and inventing tomorrow; we're looking for people motivated by those same principles.
-
-
-
-
-Plaid is proud to be an equal opportunity employer and values diversity at our company. We do not discriminate based on race, color, national origin, ethnicity, religion or religious belief, sex (including pregnancy, childbirth, or related medical conditions), sexual orientation, gender, gender identity, gender expression, transgender status, sexual stereotypes, age, military or veteran status, disability, or other applicable legally protected characteristics. We also consider qualified applicants with criminal histories, consistent with applicable federal, state, and local laws. Plaid is committed to providing reasonable accommodations for candidates with disabilities in our recruiting process. If you need any assistance with your application or interviews due to a disability, please let us know at accommodations@plaid.com.<br/><br/>Please mention the word **COOLEST** and tag RMy4yMzguMjQ1Ljc5 when applying to show you read the job post completely (#RMy4yMzguMjQ1Ljc5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -75,7 +87,7 @@ Plaid is proud to be an equal opportunity employer and values diversity at our c
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>92 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python" align="right" target="_blank">Apply</a>
@@ -165,7 +177,7 @@ Plaid is proud to be an equal opportunity employer and values diversity at our c
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>120 days ago</text>
+                <text>121 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
@@ -221,7 +233,7 @@ Plaid is proud to be an equal opportunity employer and values diversity at our c
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -283,7 +295,7 @@ Plaid is proud to be an equal opportunity employer and values diversity at our c
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
