@@ -1,5 +1,119 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/cc14d5542e96440af082be44f14af54c1668064520.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Star Atlas</h5>
+                    <h3>Senior Web Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,web,design,web3,crypto,nft,react,system,game,ui,code,manager,financial,typescript,senior,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-web-developer-star-atlas-146505" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Job Title: </strong></p>
+<p><span style="font-weight:400;">Senior Web Developer<br><br></span></p>
+<p><strong>Reports To: </strong></p>
+<p><span style="font-weight:400;">Head of Engineering, Chief Technology Officer</span></p>
+<p> </p>
+<p><strong>About Star Atlas: </strong></p>
+<p><span style="font-weight:400;">Star Atlas is a next-gen MMORPG metaverse emerging from the confluence of the Solana blockchain, Unreal Engine 5âs real-time graphics technology and decentralized financial protocols. Developed by ATMTA Inc., Star Atlas combines play-to-earn NFT mechanics with an AAA cinematic space-genre experience creating an economy that replicates the tangibility of real world assets and ownership.</span></p>
+<p> </p>
+<p><strong>About the Technology team: </strong></p>
+<p><span style="font-weight:400;">Developers wanting to be in a high growth, highly innovative environment are drawn to the Star Atlas Technology Team.  We have dramatically increased our team size since inception.  Which came with implementing newer, better ways to work at scale.  All the while, keeping our humanity-centric company culture firmly in-tact.</span></p>
+<p><span style="font-weight:400;">At the root of Star Atlas is a product vision with an excellent new IP and a technological architecture that aims to bring in a new generation of multiplayer gaming.  We are building a game economy of the likes which has never been seen before, or even considered possible in prior generations, through the use of decentralized computing & blockchain.  These are things that creative engineers can rally around with a lot of excitement and enthusiasm, which is exactly what weâve seen from those that have joined Star Atlas.</span></p>
+<p> </p>
+<p><strong>Responsibilities: </strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Implement UI design mockups into either a React & Typescript environment, or static HTML/CSS</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Write high-quality, scalable, maintainable, and functional code that supports the existing and future functionality of our web product(s)</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with other specializations, including Product Managers, Blockchain, UI, UX, and Game System Designers to help create an engaging, polished and performant experience for our users </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Provide input on technical design, architecture, and web features</span></li>
+<li style="font-weight:400;">
+<span style="font-weight:400;">Work closely with Product Manager to prototype web features to validate functionality</span><span style="font-weight:400;"><br><br></span>
+</li>
+</ul>
+<p><strong>Required Skills:</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">High levels of proficiency with Node.js, React, Typescript, HTML, and CSS</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience working on a large-scale production web application</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Ability to think critically and work in fast-paced, iterative startup environment with minimal supervision</span></li>
+<li style="font-weight:400;">
+<span style="font-weight:400;">Strong communication skills to collaborate with a fully remote team to identify, produce, and deliver tasks on time with an uncompromising dedication to quality</span><span style="font-weight:400;"><br><br></span>
+</li>
+</ul>
+<p><strong>Preferred Qualifications:</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Blockchain-based or Web3 app development</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience contributing to apps with robust and highly automated CI/CD pipelines</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Fluency in design tools such as Figma, Photoshop, and Illustrator</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Have passion and working knowledge of crypto and/or gaming</span></li>
+</ul><br/><br/>Please mention the word **INGENIOUS** and tag RMTguMjA3LjI0MS4yMzE= when applying to show you read the job post completely (#RMTguMjA3LjI0MS4yMzE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9701/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Outscal Technologies Inc</h5>
+                    <h3> Unreal Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/outscal-technologies-inc-unreal-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/9701/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 2261 Market Street #4649 San Francisco, CA 94114 
+    <br /><strong>URL:</strong> <a href="https://www.outscal.com/">https://www.outscal.com/</a>
+</p>
+
+<div>We're open to remote candidates and offer a laid-back atmosphere, competitive compensation packages, and value the voice of every member of our team.</div><div><br></div><div><strong>About the role:</strong></div><div>As a Senior Unreal Developer, you'll be responsible for taking ownership of major systems, game features, and significant engineering efforts. You'll bring your deep experience in developing robust and efficient game systems and tools to support disciplines across the studio as well as help the Engineering team itself grow and take on new challenges!</div><div><br></div><div><strong>Responsibilities:</strong></div><ul>
+<li>Design, implement, and maintain core gameplay systems.</li>
+<li>Design, implement, and maintain tooling to support disciplines across the studio.</li>
+<li>Collaborate with the Lead Project Engineer to scope and plan the development of major features.</li>
+<li>Advocate for clean and long-term engineering solutions.</li>
+<li>Work closely with multiple disciplines including Design, Art, and Production.</li>
+<li>Play our games and know them intimately!</li>
+</ul><div><br></div><div><strong>Qualifications:</strong></div><ul>
+<li>4+ years of professional experience as a software engineer</li>
+<li>Experience building real-time multiplayer experiences</li>
+<li>Excellent understanding of Unreal Engine and C++</li>
+<li>Professional experience working on multi-disciplinary teams</li>
+<li>Professional experience building games for major game platforms</li>
+<li>Professional experience with FPS titles is a plus</li>
+</ul><div><br></div><div><strong>We offer:</strong></div><ul>
+<li>Competitive salaries and company profit sharing</li>
+<li>Free games, swag and other fun perks</li>
+<li>Relocation assistance</li>
+<li>Fun rewards for work anniversary milestones</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/outscal-technologies-inc-unreal-developer">https://weworkremotely.com/remote-jobs/outscal-technologies-inc-unreal-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6740/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +124,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-unreal-engine-developer" align="right" target="_blank">Apply</a>
@@ -73,7 +187,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ampcontrol-python-developer" align="right" target="_blank">Apply</a>
@@ -144,7 +258,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-3" align="right" target="_blank">Apply</a>
@@ -197,7 +311,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shape-senior-ios-developer" align="right" target="_blank">Apply</a>
@@ -216,11 +330,10 @@
 <div>Shape is an award-winning native app development studio. We are known for building high-quality mobile apps that tackle real problems and push businesses forward.</div><div><br></div><div>At Shape, you will work with talented designers and developers to build awesome digital products. You will put your existing skills to good use, and learn new ones by working together with other skilled people.</div><div><br></div><div>We’re looking for a Senior iOS Developer to join a new remote-first team of developers from all over the world.<br><br>
 </div><div>
 <br><strong>The opportunity</strong><br><br>
-</div><div>In this role, you will join a new remote-first team of developers distributed across the world. You will work closely with your peers to build world class products - all the way from proposal to release. You will architect high-impact solutions using the newest technologies and execute them against a set of success-criteria. You will also:</div><ul>
-<li>Step up to resolve product issues - large and small.</li>
+</div><div>You will join a new remote-first team of developers distributed across the world. You will work closely with your peers to build world class products - all the way from proposal to release. <br>You will also:</div><ul>
 <li>Tackle everything from huge new features to important bug fixes, from start to finish.</li>
 <li>Take ownership of major features and lead their maintenance and improvements over time.</li>
-<li>Collaborate with peers remotely during brainstorms, technical design discussions, design reviews and code reviews.</li>
+<li>Collaborate with peers remotely during brainstorms, technical discussions, design reviews and code reviews.</li>
 </ul><div>
 <br><strong>What you will bring to Shape</strong>
 </div><ul>
@@ -234,7 +347,7 @@
 </div><div>
 <strong>History of success.  </strong>For over a decade, we have brought impactful digital products to life and while we are not in it for the accolades, it is nice to be recognised for what you do. With over 50 national and international awards and honors under our belts, it shows we are doing something right in our quest to deliver results for those we work with.</div><div><br></div><div>
 <strong>Be on the front line of progress and innovation.  </strong>We are passionate about building great products using the latest technology while creating reusable components, empowering teams to ship apps faster and with better user experience.</div><div><br></div><div>
-<strong>International team.  </strong>Shape is very international and so far includes people from over 30 different countries. Our company language is English.</div><div><br></div><div>
+<strong>International team.  </strong>Shape has an international team with people from over 30 different countries. Our company language is English.</div><div><br></div><div>
 <strong>Take charge of your schedule.  </strong>You will join a remote-first team working asynchronously giving you the freedom and flexibility to organize your own work schedules.</div><div><br></div><div>
 <strong>Work/life balance</strong>.  From day one, we have been committed to making a place where people can do the best work in a meaningful way. This means working reasonable hours, spending each day in a welcoming environment, and taking time off when you need it. We believe in doing everything we can to help our people live healthy and full lives while doing work that makes a tangible difference.</div><div>
 <br><br><strong>What we have to offer you</strong>
@@ -265,7 +378,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-developer-javascript-react" align="right" target="_blank">Apply</a>
@@ -331,7 +444,7 @@
                     <code>cloud,developer,sql,growth</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-tibco-developer-1255705" align="right" target="_blank">Apply</a>
@@ -356,7 +469,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -433,7 +546,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -459,7 +572,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -536,7 +649,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -603,7 +716,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
