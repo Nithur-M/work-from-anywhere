@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/shopexperts-freelance-shopify-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -35,75 +35,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8797/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>amazee.io</h5>
-                    <h3> UX Product Designer - (80% - 100%)</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>14 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/amazee-io-ux-product-designer-80-100" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8797/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Zurich, Switzerland 
-    <br /><strong>URL:</strong> <a href="https://amazee.io">https://amazee.io</a>
-</p>
-
-<div>
-<strong>UX Product Designer - (80% - 100%)<br><br></strong><br>
-</div><div>
-<strong>Description:</strong><br><br>
-</div><div>Hi! We're <a href="http://amazee.io/">amazee.io</a>, a ZeroOps application delivery hub for engineering teams to deploy applications more easily. Our developer-centric, open source platform makes developers’ lives and jobs easier, minimizing the stress of managing infrastructure or operations. amazee.io supports organizations across the globe to accelerate their cloud and container adoption, along with providing easily managed Kubernetes for developer teams. We run anywhere in the world, with 24/7/365 dedicated support. </div><div><br></div><div>We’re looking for a UX Designer to drive improvements to how we assess, develop, and improve user experience and interactions with our ZeroOps delivery platform Lagoon. From a largely internal tool, Lagoon has grown to be a core product in its own right. We are growing a design and development team around Lagoon, to drive it into becoming a world leading platform for application deployments, for both technical and non technical users. You'll work alongside a UI Designer, and a Front End Developer in a product development team. We’ve got some exciting new directions to take our interfaces and integrations, and in delivering a more complete experience for all our users. </div><div> </div><div>If you feel like this could be the role for you, then come and join a team of open source enthusiasts, committed to providing flexible web solutions in an open and transparent work environment, and having fun doing it.</div><div> </div><div><strong>What you’ll be doing: </strong></div><ul>
-<li>Working with our internal teams, external partners and users to identify opportunities to improve our Lagoon product suite</li>
-<li>Conducting user research to uncover user’s pain points, needs and opportunities</li>
-<li>Developing our user journey maps and personas </li>
-<li>Working closely with developers to develop the look and feel of our products, and ensure a high level of quality and usability</li>
-<li>Producing sketches and prototypes to test functionality and formalise design requirements</li>
-<li>Shaping a culture of design at amazee.io to help define the interactions users at all levels have with our products and tools.</li>
-</ul><div><br></div><div><strong>What you’ll bring:</strong></div><ul>
-<li>Demonstrated work experience as a digital Product Designer or similar role</li>
-<li>Previous experience designing technical products</li>
-<li>Experience in digital interface design for web/admin interfaces (and maybe even CLI!)</li>
-<li>Experience with design programs (Inkscape, Illustrator and Sketch) and prototyping tools (Invision, Figma etc)</li>
-<li>Understanding of how to conduct good UX research to obtain truly meaningful insights (quantitative and qualitative)</li>
-<li>Strong focus on customer and user advocacy</li>
-<li>An eye for aesthetic design and customer appeal</li>
-<li>Comfort communicating design and technical topics in English, both verbal and written<br><br>
-</li>
-</ul><div>amazee.io is dedicated to providing a work environment of trust, transparency, and inclusion for everyone. As a fully remote company we offer flexibility when it comes to working hours and location. Here’s some other things you can expect from us.</div><div>
-<br><br>
-</div><div><strong>What we’ll bring:</strong></div><ul>
-<li>A fully distributed team of creative colleagues in a flat, open and transparent organization</li>
-<li>Flexible working hours, and time off in lieu when you work overhours</li>
-<li>Fully Remote working </li>
-<li>5 paid days off a year for conference attendance or education related commitments </li>
-<li>An annual education benefit of $1,500 or equivalent to dedicate to your professional development</li>
-<li>An annual wellbeing benefit of $500 or equivalent to dedicate to your physical or mental health </li>
-<li>A monthly connectivity benefit of $100 or equivalent for you to expense internet costs as a remote worker </li>
-<li>Your own annual tech budget, with full initial setup provided</li>
-<li>Sweet, sweet Swag - Hoodies and other goodies </li>
-<li>
-<strong>amazee.io Quest!</strong> - After 3 years, you’ll get 3 weeks paid off work to undertake a profound personal goal, or undertake a bucket list type challenge</li>
-</ul><div><br></div><div><strong>So what’s next?: </strong></div><div><br></div><div>Apply! Send us your CV showcasing who you are, your experience, and anything else you think we should know!<br><br>The amazee.io Team </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/amazee-io-ux-product-designer-80-100">https://weworkremotely.com/remote-jobs/amazee-io-ux-product-designer-80-100</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4150/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -114,7 +45,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>366 days ago</text>
+                <text>367 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -180,7 +111,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
