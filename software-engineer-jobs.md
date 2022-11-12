@@ -1,29 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/27bf94a971585a6b060609eb2850d7c71667632553.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>The Block</h5>
-                    <h3>Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>software,design,cryptocurrency,front-end,frontend,back-end,full-stack,code,web,financial,git,content,senior,analytics,engineer,engineering,linux,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-the-block-144041" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>Founded in 2018 and based in NYC, The Block is the leading research, analysis, and news brand in the digital asset space. The Block's team is spread across 7 timezones, covering the global cryptocurrency space 24/7.</div><div>The Block delivers deep insight into how the emerging digital assets sector interacts with traditional finance, technology, governments, and markets. We reach hundreds of thousands of technologists, financial market participants, Fortune 500 professionals, global service providers, policymakers, and more through our main website, dedicated Research Portal, podcast, and events.</div><div>You will be responsible for developing new features, optimizing performance with respect to both our backend and frontend stack, developing and supporting solutions for product analytics, and capturing feedback from our logging and debugging services to both troubleshoot an make improvements.</div><div>An effective Full-Stack Engineer should be able effectively communicate with the team and develop solutions between back-end and front-end implementations and concerns. The ideal candidate must be able to prioritize tasks and complete them in a timely manner.</div><br>You Will<br><li>Be responsible for the feature development of products you are a part of.</li><li>Collaborate with our engineers, researchers, executives, and designers to develop new features and prioritize bug fixes for our products.</li><li>Clearly communicate development progress across the Product & Engineering team.</li><li>Be creative in solving engineering problems.</li><li>Work with team managers on development prioritization and career development opportunities.</li><li>Contribute to the culture of quality, healthy collaboration and leading by example.</li><br>MUST HAVES<br><li>Full-stack experience and able to contribute to both frontend (Vue, Vuex, Nuxt, service workers, PWA) and backend (NodeJS, Adonis/SailsJS/Nest/Loopback or equivalent structured framework, Yarn, Postgres, GraphQL, Redis, memcached) systems.</li><li>Deep technical skill with frontend technologies (SASS, LESS,  Bootstrap utilities, TailwindCss or other similar).</li><li>Strong familiarity with Unix / Linux operating systems and general command-line knowledge.</li><li>Experience with git in a collaborative environment such as Github.</li><li>Responds positively when receiving and giving feedback.</li><li>Experience using code reviews and pair programming within the Agile Development lifecycle.</li><li>Expertise in web analytics and content performance measurements solutions.</li><li>Development Experience with payment processing and membership services.</li><li>Knowledge of common software design patterns and responsive web frameworks.</li><li>Knowledge of email service provider features and APIâs.</li><li>8 or more years experience as a professional software engineer.</li><br>GOOD TO HAVE<br><li>Experience with digital assets, crypto, and blockchain technologies.</li><li>Experience in one or more Business Intelligence (BI) products, such as Google Data Studio, Domo, or Tableau.</li><li>Expertise using developing and/or creating development environments using Docker, Vagrant, Virtual Box or similar platform.</li><br/><br/>Please mention the word **EASINESS** and tag RMTguMjA3LjI0MS4yMzE= when applying to show you read the job post completely (#RMTguMjA3LjI0MS4yMzE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9749/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -34,7 +10,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/power-diary-software-engineer" align="right" target="_blank">Apply</a>
@@ -77,6 +53,41 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4287/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Stimulus</h5>
+                    <h3> Software engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/4287/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Amsterdam, NY
+    <br /><strong>URL:</strong> <a href="https://www.stimulus.com/">https://www.stimulus.com/</a>
+</p>
+
+<div><strong>About Stimulus</strong></div><div>
+<a href="https://www.stimulus.com/jobs/Stimulus.com">Stimulus</a> is a social platform started by Sticker Mule to show what's possible if your mission is to increase human happiness.</div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. A privately owned, low-stress culture.</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div><strong>We like you to know</strong></div><div>1. Docker</div><div>2. NextJS</div><div>3. React</div><div>4. NodeJS</div><div>5. GraphQL</div><div>6. Redis</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. Salary: $120k+ based on experience</div><div>2. $20,000 signing bonus</div><div>3. 4 weeks vacation + holidays based on your country of residence</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer">https://weworkremotely.com/remote-jobs/stimulus-software-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4854/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -87,7 +98,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>92 days ago</text>
+                <text>93 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python" align="right" target="_blank">Apply</a>
@@ -177,7 +188,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>121 days ago</text>
+                <text>122 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
@@ -233,7 +244,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -295,7 +306,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
