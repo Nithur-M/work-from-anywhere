@@ -10,7 +10,7 @@
                     <code>developer,web,design,web3,crypto,nft,react,system,game,ui,code,manager,financial,typescript,senior,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-web-developer-star-atlas-146505" align="right" target="_blank">Apply</a>
@@ -56,7 +56,125 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Experience contributing to apps with robust and highly automated CI/CD pipelines</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Fluency in design tools such as Figma, Photoshop, and Illustrator</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Have passion and working knowledge of crypto and/or gaming</span></li>
-</ul><br/><br/>Please mention the word **INGENIOUS** and tag RMTguMjA3LjI0MS4yMzE= when applying to show you read the job post completely (#RMTguMjA3LjI0MS4yMzE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **INGENIOUS** and tag RNDQuMjAyLjE5NC44MA== when applying to show you read the job post completely (#RNDQuMjAyLjE5NC44MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Upkoi, Inc</h5>
+                    <h3> Senior Full Stack .NET Developer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/upkoi-inc-senior-full-stack-net-developer-4" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Miami, Florida, United States
+    <br /><strong>URL:</strong> <a href="https://www.upkoi.com">https://www.upkoi.com</a>
+</p>
+
+<p>We're hiring a remote full stack developer onto our C#/.NET team. You are ideally a mid or senior level .NET developer with experience building high quality modern solutions and experience working autonomously. You'll start on a six-month contract with the option to continue from there based on performance and interest.</p>
+<p>Your initial steps with us will likely involve work with a non-profit and your contributions will be making the world a better place.</p>
+<p>The long-term goal of our organization is to build and support artificial general intelligence. Your work on our .NET team won't require or likely directly use machine learning experience but it is helpful to have, especially if you would like to eventually transition to our other initiatives.</p>
+<p><strong>Requirements</strong></p>
+<p><strong>General </strong><strong>Requirements</strong></p>
+<ul> <li>Excellent Communication Skills and Fluent in English</li> <li>Experience Delivering Small and Medium Scale Systems from Ideas to Deployed Products</li> <li>5+ Years of Real-World Development Experience with C#</li> <li>Experience Working Autonomously in Small Teams</li> <li>2+ Years with AngularJS &amp; Angular. Prior AngularJS Experience Strongly Encouraged.</li> <li>Significant Design and UX Experience</li> <li>Real-World Experience Writing Unit Tests</li> </ul>
+<p><br></p>
+<p><strong>Nice to Have</strong></p>
+<ul> <li>2+ Years of Real-World Python</li> <li>2+ Years Machine Learning Work Experience</li> <li>Demonstrated Experience Implementing High Performance Machine Learning Algorithms</li> <li>Strong Interest in AI Ethics and Safety</li> </ul>
+<p><strong>Location</strong><br></p>
+<p>Work from North, South, or Central America. If you believe you'll be outside of those areas for an extended period of time, please let us know in your application.<br></p>
+<p><strong>Benefits</strong></p>
+<ul> <li>Fully Remote Position, Forever</li> <li>Flexible Working Hours and Autonomy</li> <li>Modern Development Process</li> </ul>
+<p><br></p>
+<p><strong>Compensation Details</strong></p>
+<ul> <li>Hourly (1099 or C2C to start), Time Tracking Required</li> <li>Independent Contractor Status</li> <li>Minimum 30 Hours a Week (Normal Schedule)</li> <li>Pay Range Commensurate with Qualifications and Experience ($100k+*)</li> </ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/upkoi-inc-senior-full-stack-net-developer-4">https://weworkremotely.com/remote-jobs/upkoi-inc-senior-full-stack-net-developer-4</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9811/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Changers.com / Blacksquared GmbH</h5>
+                    <h3> Senior iOS Developer (f/m/d)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/changers-com-blacksquared-gmbh-senior-ios-developer-f-m-d" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/9811/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Berlin, Germany
+    <br /><strong>URL:</strong> <a href="https://changers.com">https://changers.com</a>
+</p>
+
+<div><strong>Changers turns environmentally friendly and healthy behavior into a digital currency against climate change. </strong></div><div>
+<br>We are looking for a motivated iOS Developer with 5+ years of experience to join our team as a full-time team member. We are happy to work remotely with you but are looking for a long-term relationship. You will be part of the expansion of our product, power our server system, actively bring in and integrate your own ideas and work closely with the other developers. </div><div><strong><br>Your key responsibilities </strong></div><ul>
+<li> Design, develop and optimize our mobile applications for iOS, which includes SaaS, White Label and an iOS SDK</li>
+<li> Integration of third-party APIs and REST services</li>
+<li> Work on improving application performance and bug fixing</li>
+<li> Work closely with other Developers, Management and QA</li>
+</ul><div><strong>Our requirements </strong></div><ul>
+<li> 5+ years of experience in professional software development of native apps on iOS and associated issues about architecture, performance, and data security.</li>
+<li> You have already taken care of the whole release cycle of an app. </li>
+<li> Passionate about iOS development with modern Swift and SwiftUI and have at least 3 years of experience with Interface Builder files as all our UI is made of them</li>
+<li> Experience in the use of REST services and JSON objects.</li>
+<li> Experience in Offline-first development.</li>
+<li> Experience in working with Apple Push Notification.</li>
+<li> You have a sharp eye for design and enjoy building high-qualitative and pixel-perfect UI’s.</li>
+<li> Good practice in agile software development, modern development processes; Test driven development, continuous integration etc.</li>
+<li> Strong logical thinking, analytical and structure and you have fun finding creativity solutions.</li>
+<li> Self-motivated, proactive and able to work under minimal supervision, as we are fully remote and you have the freedom to structure your working days as it works best for you.</li>
+<li> Great team player with excellent English written, verbal, and interpersonal communication skills. German is a plus</li>
+</ul><div>
+<strong>The icing on the cake</strong> </div><ul>
+<li> Knowledge of Realm Database is a plus</li>
+<li> If you have worked and delivered xcframework is a plus</li>
+<li> Experienced with Core Location is a plus.  </li>
+</ul><div><strong>Why work for us?</strong></div><ul>
+<li>We are a remote first company and give you the opportunity to work from anywhere in the world if you want to. But we have our home base in Berlin and are looking forward to welcome you here too</li>
+<li>Flexible working patterns</li>
+<li>Modern tech stack</li>
+<li>Ability to influence technical direction</li>
+<li>Friendly environment that promotes teamwork and happiness</li>
+<li>Work for a company that is actively making a positive difference in the world</li>
+</ul><div><strong>Instructions</strong></div><ol>
+<li>We offer a remote or semi-remote contract position.</li>
+<li>We love to see your work, so send any interesting material you have like apps you published or worked on, Github projects, etc. with your application</li>
+<li>You will be required to take one or two coding tests along with a video call interview.</li>
+<li>Direct candidates only, no third parties, no recruiters, no staffing agencies</li>
+</ol>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/changers-com-blacksquared-gmbh-senior-ios-developer-f-m-d">https://weworkremotely.com/remote-jobs/changers-com-blacksquared-gmbh-senior-ios-developer-f-m-d</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -71,7 +189,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/outscal-technologies-inc-unreal-developer" align="right" target="_blank">Apply</a>
@@ -114,69 +232,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6740/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Unreal Engine Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-unreal-engine-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6740/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>We are searching for a Senior C++ and familiar with Unreal Engine 4/5 Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +4 years of solid experience as a C++ Developer in a top-notch environment;</li>
-<li>You have +3 years of work experience with Unreal Engine 4/5;</li>
-<li>You have experience in solving low-level issues such as thread optimization, reducing memory footprints</li>
-<li>You are familiar with Vulkan/Metal API</li>
-<li>You have experience with a cross-platform project</li>
-<li>You are responsible and able to work with minimal supervision;</li>
-<li>Advanced+ English level.</li>
-</ul><div><br></div><div><strong>Nice-to-have: </strong></div><ul>
-<li>Experience in Tool Development;</li>
-<li>Timezone: CET (+/- 3 hours).</li>
-</ul><div><strong>Responsibilities:</strong></div><ul>
-<li>Architect and build mobile games using Unreal Engine;</li>
-<li>Be the “Go to” person for solving challenging technical problems;</li>
-<li>Use your skills to build, evolve, and optimize mobile games for the best customer experience.</li>
-</ul><div><br></div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-unreal-engine-developer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-unreal-engine-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9624/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -187,7 +242,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ampcontrol-python-developer" align="right" target="_blank">Apply</a>
@@ -258,7 +313,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-3" align="right" target="_blank">Apply</a>
@@ -301,134 +356,145 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9513/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5406/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Shape</h5>
-                    <h3> Senior iOS Developer</h3>
+                    <h5>Aldrin</h5>
+                    <h3> Senior React Native Mobile Developer Web3 (Remote)</h3>
                 </td>
                 <td width="300">
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/shape-senior-ios-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-react-native-mobile-developer-web3-remote-2" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/9513/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0077/5406/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Copenhagen, Denmark
-    <br /><strong>URL:</strong> <a href="https://shape.dk">https://shape.dk</a>
+  <strong>Headquarters:</strong> London
+    <br /><strong>URL:</strong> <a href="https://aldrin.com">https://aldrin.com</a>
 </p>
 
-<div>Shape is an award-winning native app development studio. We are known for building high-quality mobile apps that tackle real problems and push businesses forward.</div><div><br></div><div>At Shape, you will work with talented designers and developers to build awesome digital products. You will put your existing skills to good use, and learn new ones by working together with other skilled people.</div><div><br></div><div>We’re looking for a Senior iOS Developer to join a new remote-first team of developers from all over the world.<br><br>
-</div><div>
-<br><strong>The opportunity</strong><br><br>
-</div><div>You will join a new remote-first team of developers distributed across the world. You will work closely with your peers to build world class products - all the way from proposal to release. <br>You will also:</div><ul>
-<li>Tackle everything from huge new features to important bug fixes, from start to finish.</li>
-<li>Take ownership of major features and lead their maintenance and improvements over time.</li>
-<li>Collaborate with peers remotely during brainstorms, technical discussions, design reviews and code reviews.</li>
-</ul><div>
-<br><strong>What you will bring to Shape</strong>
+<div>
+<strong>The Role<br></strong><br>
+</div><div>We are looking for a Senior React Native Mobile Developer with extensive experience in designing, building, and deploying highly secure, scalable, and maintainable client-facing UI systems.<br><br>
+</div><div>You will be one of the senior developers of the mobile app working closely with our designers, product owners, and backend engineers to develop and maintain high-quality mobile applications for a global audience in an extremely fast-growing industry. We work with a modern tech-stack. We use Typescript, hooks, eslint, reanimated, automated CI and deployments, etc. We work with a design system and an updated figma design.<br><br>
+</div><div>If you are extremely passionate about mobile platforms and translating code into user-friendly apps, we would like to meet you. Ultimately, you should be able to help design and build the next generation of our mobile applications that will impact and shape the financial lives of a growing audience.<br><br>
+</div><div>You will:<br><br>
 </div><ul>
-<li>Solid experience with developing native iOS apps using Swift and the iOS SDK.</li>
-<li>Passion for writing pragmatic, performant and testable code.</li>
-<li>Skills to lead and collaborate on high-impact and complex projects from proposal through release.</li>
-<li>Ability to work independently and be self-driven in all aspects of your work.</li>
-<li>Excellent communication skills. We’re a distributed team, so frequent and clear communication is a must.</li>
+<li>Contribute code to our iOS &amp; Android React Native apps from the get-go</li>
+<li>Work on integrating and collaborating with other crypto products to enrich the user experience</li>
+<li>Implement features with the aim to provide long term stability of a highly scalable application</li>
+<li>Developing clean and reusable react native components</li>
+<li>Actively contributing new ideas and innovative UX/UI patterns</li>
+<li>Play an active role in evolving our mobile engineering practices</li>
+</ul><div><br></div><div><strong>Minimum Qualifications:</strong></div><ul>
+<li>Strong expertise in React Native with 5+ years of professional experience building high-quality mobile apps</li>
+<li>High-level experience with TypeScript</li>
+<li>Have experience with best-in-class client-side data design and management, whether that’s experience with GraphQL/ Apollo or other such tools</li>
+<li>Have a passion for good design and attention to detail. You’ll collaborate with designers but undoubtedly have the opportunity to express your own design sense if desired</li>
+<li>Verbal fluency in English</li>
+</ul><div><br></div><div><strong>Nice-to-Have Qualifications:</strong></div><ul>
+<li>Demonstrable portfolio of released applications on the App Store or the Android</li>
+<li>Passionate about crypto markets, blockchain technology, and decentralized applications</li>
+<li>Knowledge/experience working on mobile financial applications/cryptocurrencies/wallets</li>
+<li>Experience with Solana Web3 frameworks and technologies, especially on mobile</li>
+<li>Experience working with a large codebase and detox or appium testing tools</li>
+<li>Experience with responsive UI and debugging skills</li>
+<li>Experience developing high-performance mobile app interfaces</li>
+<li>Bachelors or Masters degree, preferably in Computer Science, Computer Engineering or other technical (STEM) field or an equivalent of experience</li>
 </ul><div>
-<br><strong>Why join Shape?</strong><br><br>
-</div><div>
-<strong>History of success.  </strong>For over a decade, we have brought impactful digital products to life and while we are not in it for the accolades, it is nice to be recognised for what you do. With over 50 national and international awards and honors under our belts, it shows we are doing something right in our quest to deliver results for those we work with.</div><div><br></div><div>
-<strong>Be on the front line of progress and innovation.  </strong>We are passionate about building great products using the latest technology while creating reusable components, empowering teams to ship apps faster and with better user experience.</div><div><br></div><div>
-<strong>International team.  </strong>Shape has an international team with people from over 30 different countries. Our company language is English.</div><div><br></div><div>
-<strong>Take charge of your schedule.  </strong>You will join a remote-first team working asynchronously giving you the freedom and flexibility to organize your own work schedules.</div><div><br></div><div>
-<strong>Work/life balance</strong>.  From day one, we have been committed to making a place where people can do the best work in a meaningful way. This means working reasonable hours, spending each day in a welcoming environment, and taking time off when you need it. We believe in doing everything we can to help our people live healthy and full lives while doing work that makes a tangible difference.</div><div>
-<br><br><strong>What we have to offer you</strong>
+<br><strong>Benefits<br></strong><br>
 </div><ul>
-<li>A team of exceptional developers</li>
-<li>6 weeks vacation</li>
-<li>A 37.5 hour work week</li>
-<li>Work from anywhere in the world</li>
-<li>Take charge of your own schedule</li>
-<li>The opportunity to attend or present at global conferences and meetups</li>
-<li>Yearly company offsite with travel expenses paid</li>
-<li>The possibility to visit our office in Copenhagen</li>
-</ul>
+<li>Competitive salary</li>
+<li>Remote work in a dynamic, fast-growth Web3 startup</li>
+<li>Flexible working hours</li>
+<li>Opportunity to work with a diverse, global, and passionate team</li>
+<li>Collaboration with leading projects and thought leaders in the crypto space</li>
+</ul><div><em>At Aldrin Labs, we celebrate a truly diverse and inclusive company culture and are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, or gender identity.</em></div><div><br></div><div><br></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/shape-senior-ios-developer">https://weworkremotely.com/remote-jobs/shape-senior-ios-developer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-react-native-mobile-developer-web3-remote-2">https://weworkremotely.com/remote-jobs/aldrin-senior-react-native-mobile-developer-web3-remote-2</a></p>
 
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6914/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3> Senior Frontend Developer - Javascript React</h3>
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Front-end Developer</h3>
                 </td>
                 <td width="300">
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>60 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-developer-javascript-react" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6914/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
 </p>
 
-<div>
-<br>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects<br><br>
-</div><div><strong>What we're working on:</strong></div><div>
-<br>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries<br><br>
-</div><div><strong><br>Requirements</strong></div><ul>
-<li>7+ years of professional experience (A technical assessment will be required)</li>
-<li>Senior-level experience with Javascript, React, Redux, Websockets, Async/Await</li>
-<li>Ability to create clean, modern, testable, well-documented code</li>
-<li>English fluency, verbal and written</li>
-<li>Professional, empathic, team player</li>
-<li>Problem solver, proactive, go getter</li>
-</ul><div><strong>Straight from the Devs</strong></div><div>
-<br>Watch short snippets of actual developers (Real, not scripted) share why they joined <a href="https://cleverte.ch/3"><strong>YouTube Playlist<br></strong></a><br>
-</div><div><strong>Why Clevertech is an amazing place to work at</strong></div><div>
-<br>At Clevertech, you can expect that you will:<br><br>
-</div><ul>
-<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
-<li>Be a part of a team of talented and friendly senior-level developers</li>
-<li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li>
+<div><br></div><div><strong>The Role:</strong></div><div>We are searching for a Senior Front-End Developer (Angular.js/React.js). You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
+<br><br>
+</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
+<li>You have +3 years experience with React.js/Angular.js;</li>
+<li>You follow best practices and conventions;</li>
+<li>Relevant experience in CI/CD and related tools;</li>
+<li>Responsible and able to work with minimal supervision;</li>
+<li>Upper-intermediate English level;</li>
+<li>You can communicate well with both technical and non-technical clients.</li>
 </ul><div>
-<br>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.<br><br><strong>Benefits of joining the Clevertech team</strong>
-</div><div>
-<br>We know that people do their best work when they’re taken care of. So we make sure to offer great benefits:<br><br>
+<strong><br>Nice-to-have:</strong> <br><br>
 </div><ul>
-<li>Competitive Salaries</li>
-<li>1 Month Paid Time Off For You</li>
-<li>Personal Development Fund</li>
-<li>Tenure-Based Rewards</li>
-<li>Flexible Family Leave</li>
-<li>Clevertech University</li>
-<li>Clevertech Gives Back</li>
-<li>Amazing Culture &amp; Strong Community</li>
-</ul><div><br></div>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Basic back-end knowledge for minor back-end jobs where necessary.</li>
+</ul><div>
+<strong><br>Responsibilities:<br></strong><br>
+</div><ul>
+<li>Build reusable code and libraries for future use;</li>
+<li>Ensure the technical feasibility of UI/UX designs;</li>
+<li>Transform visual designs and wireframes into working products;</li>
+<li>Accurate planning of the feature delivery;</li>
+<li>Collaborate with other team members and stakeholders</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.🚀 <strong>360 degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<br><br>
+</div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul><div>
+<br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-developer-javascript-react">https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-developer-javascript-react</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote</a></p>
 
                 </details>
                 </td>
@@ -444,7 +510,7 @@
                     <code>cloud,developer,sql,growth</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-tibco-developer-1255705" align="right" target="_blank">Apply</a>
@@ -469,7 +535,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -546,7 +612,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -572,7 +638,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -649,7 +715,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -716,7 +782,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
