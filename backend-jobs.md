@@ -10,7 +10,7 @@
                     <code>design,web3,solidity,crypto,frontend,software,code,scrum,financial,nodejs,nosql,mobile,lead,junior,excel,telecom,go,golang,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-lead-backend-engineer-giant-protocol-144540" align="right" target="_blank">Apply</a>
@@ -69,7 +69,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">401k with company match</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Annual professional development budget</span></li>
 </ul>
-</div><br/><br/>Please mention the word **FANS** and tag RMTguMjA3LjI0MS4yMzE= when applying to show you read the job post completely (#RMTguMjA3LjI0MS4yMzE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **FANS** and tag RNDQuMjAyLjE5NC44MA== when applying to show you read the job post completely (#RNDQuMjAyLjE5NC44MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -84,7 +84,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-javascript-node" align="right" target="_blank">Apply</a>
@@ -151,7 +151,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>121 days ago</text>
+                <text>122 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2" align="right" target="_blank">Apply</a>
@@ -213,88 +213,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>AgencyAnalytics</h5>
-                    <h3> Senior Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>364 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Toronto, Canada
-    <br /><strong>URL:</strong> <a href="https://agencyanalytics.com">https://agencyanalytics.com</a>
-</p>
-
-<div>We’re seeking a Senior Backend Engineer to work in our product-driven or platform teams, focused on building features that help our customers grow their business.<br><br>As part of AgencyAnalytics, you'll be developing and operating a range of backend functions and tools that enable the features our users love. Together with the team, you'll work remotely to implement architectural changes, drive platform stability, research new technologies and continuously advocate for the use of best practices. You'll frequently work with other engineering teams to deliver incremental product improvements and new features<br><br>
-</div><div>
-<br><strong>What You'll Work With</strong><br><br>
-</div><ul>
-<li>PHP (PSR) + Slim + Microservice Framework</li>
-<li>BigQuery ML (Arima Time Series Model)</li>
-<li>Serverless Cloud Functions + GraphQL</li>
-<li>GCP Infrastructure (GKE, BigQuery, Cloud Tasks, PubSub etc.)</li>
-<li>Non-blocking CI/CD tooling with on-demand staging for every PR</li>
-</ul><div>
-<br><strong>Key Responsibilities</strong><br><br>
-</div><ul>
-<li>You'll design, develop and iterate on backend PHP services that handle millions of requests</li>
-<li>You'll work with your frontend engineering peers, product and design members to create high quality products our customers love to use</li>
-<li>You'll prioritize and work on multiple projects from start to finish, balancing quality, stability and project delivery</li>
-<li>You'll review your teammates' work, advocate for high standards, and look for ways to improve the overall quality of our codebase</li>
-<li>You'll work within your team to achieve technical excellence by taking a collaborative approach to architecture, technical patterns, and complex problems</li>
-<li>You'll work with infrastructure engineers to collaboratively plan and maintain tools that underpin our developer experience</li>
-</ul><div>
-<br><strong>Job requirements<br></strong><br>
-</div><ul>
-<li>You have several years of professional experience with PHP 7+ and the modern PHP ecosystem, using frameworks such as Laravel and Phalcon</li>
-<li>You have at least 5+ years of total experience with PHP</li>
-<li>You have experience with modern cloud storage solutions such as BigQuery</li>
-<li>You have professional experience working in a cross-functional team of 5+ members</li>
-<li>You have the ability to communicate effectively with other engineers, while building trust, credibility, and mutual success with your peers</li>
-<li>You have a strong understanding of the challenges of working in engineering and delivering products in a remote work environment</li>
-<li>You have the drive to stay current with technological changes and set a high standard for yourself</li>
-<li>You proactively take on a challenge and help the team solve problems from start to finish</li>
-</ul><div>
-<br><strong>Job Benefits</strong><br><br>
-</div><ul>
-<li>Fully remote workplace</li>
-<li>Flexible working hours</li>
-<li>4 weeks paid vacation</li>
-<li>Unlimited paid sick days</li>
-<li>Quarterly profit sharing</li>
-<li>Parental &amp; Maternity leave top-ups</li>
-<li>Extended health benefits</li>
-<li>Health spend account</li>
-<li>Equipment credit</li>
-<li>Fitness/Education credit</li>
-<li>Internet reimbursement</li>
-<li>Training and certification reimbursement</li>
-<li>Travel reimbursement for company events</li>
-</ul><div>
-<br><strong>Our Application Process</strong><br><br>
-</div><div>1. Complete a self-assessment (5 - 10 minutes)<br>2. Non-technical introduction interview (15 - 30 minutes)<br>3. Take-home engineering challenge<br>4. Interview with the Hiring Committee (30 - 45 minutes)<br>5. Offer extended to successful applicants<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer">https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1479998/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -305,7 +223,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
@@ -330,7 +248,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
