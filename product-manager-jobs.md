@@ -10,7 +10,7 @@
                     <code>manager,jira,system,game,gaming,developer,management,senior,operations,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-product-manager-portfolio-forte-labs-147018" align="right" target="_blank">Apply</a>
@@ -54,7 +54,7 @@
 <p>Forte is building economic technology for games. Its end-to-end platform enables the emergence of community economics, a system where the interests of game developers and players are aligned, leading to healthier, sustainable game communities. The team is<br>composed of longtime industry members (Unity, ngmoco, Riot Games, Electronic Arts, Sony, and Rockstar Games, among others), and is currently working with over 40+ acclaimed game developers from across the industry to reimagine the economics of games.</p>
 <p>For more information, please visit: www.forte.io</p>
 <p> </p>
-<p><em>Forte is committed to providing equal employment opportunities. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran or any other protected status in accordance with all applicable federal, state, and local laws.</em></p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/K378r1KeRio" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **FANFARE** and tag RNDQuMjAyLjE5NC44MA== when applying to show you read the job post completely (#RNDQuMjAyLjE5NC44MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><em>Forte is committed to providing equal employment opportunities. All qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity, national origin, disability, or status as a protected veteran or any other protected status in accordance with all applicable federal, state, and local laws.</em></p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/K378r1KeRio" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **FANFARE** and tag RMy4yMzEuNC4xODM= when applying to show you read the job post completely (#RMy4yMzEuNC4xODM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -69,7 +69,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>367 days ago</text>
+                <text>368 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
