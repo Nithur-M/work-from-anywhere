@@ -1,146 +1,5 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/3aec4ce1d722c05a887a547d89a4c9511667718936.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>GIANT Protocol</h5>
-                    <h3>Lead Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>design,web3,solidity,crypto,frontend,software,code,scrum,financial,nodejs,nosql,mobile,lead,junior,excel,telecom,go,golang,engineer,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-lead-backend-engineer-giant-protocol-144540" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro">
-<p>The GIANT Protocol Foundation aims to empower the world to build a more open and inclusive internet. It created the GIANT Protocol to decentralize and democratize access to connectivity and financial services for all. Itâs a new web3 telecommunications layer that coordinates, tokenizes, and financializes ownership of the entire telecom ecosystem.</p>
-<p>GIANT Connect is a consumer app powered by GIANT Protocol offering the most fun and rewarding way to stay connected to the Internet. Access inflight wifi on thousands of planes, mobile networks in 120 countries, and 68M free and premium wifi hotspots globally. Earn crypto rewards when you go online and when you donât.</p>
-<p> </p>
-</div><h2><span style="font-weight:400;">Position Overview</span></h2>
-<p><span style="font-weight:400;">We are looking for a seasoned backend engineer, to join our growing team, who specializes in server side development - REST APIs, scripts, etc. with a passion for writing test-driven code. In this role you will be primarily working in </span><strong>Golang and/or NodeJS</strong><span style="font-weight:400;"> languages on existing code bases or creating new services as required.</span></p>
-<h2><span style="font-weight:400;">Responsibilities</span></h2>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Build robust and scalable server side services and REST APIs in Golang and/or NodeJS.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Help improve our code quality through writing unit and functional tests, improving coding standards and performing code reviews.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work with frontend engineers to help them integrate the backend business logic and REST APIs with client side software.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Participate in brainstorming sessions and contribute ideas to improve our product and technology.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work with the product and design teams to understand business goals, end-user requirements, formulate use cases, and then translate that into a pragmatic and effective technical solution.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Document decisions and its future impacts. </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Create and improve technical documentation.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Join sprints and scrum calls with our cross-regional team for successful delivery of product.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Guide and mentor junior developers.</span></li>
-</ul>
-<h2><span style="font-weight:400;"><br>Requirements/Skills</span></h2>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">5+ years of recent coding experience in writing Golang and/or NodeJS software.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience working with NoSQL databases like MongoDB.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Solid software design knowledge â you should know how to create software thatâs extensible, reusable and meets desired architectural objectives.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Passionate about solving complex problems and take pride in their code and development standards.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Effective communication skills: Regularly achieve consensus with peers, and provide clear status updates.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ability to work independently and in a team environment.<br><br></span></li>
-</ul>
-<h2><span style="font-weight:400;">Bonus Skills</span></h2>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Familiarity with blockchain and web3 technologies.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Can write Solidity smart contracts</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Able to write code in Rust</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Knowledge of frontend languages/full stack.</span></li>
-</ul><div class="content-conclusion">
-<h3><strong>Company Values</strong></h3>
-<p><strong>Thinking in possibilities</strong><span style="font-weight:400;">: We realize that most see the world in terms of what is not possible. We believe the future is made by those who see what </span><em><span style="font-weight:400;">is</span></em><span style="font-weight:400;"> possible. Seeing a path of possibilities requires intellectual curiosity, dedication, and diligence. We are big thinkers and believers but also pragmatists, focused on relentless execution.</span></p>
-<p><strong>Integrity of word, thought, and action</strong><span style="font-weight:400;">: Integrity is what is behind our words, thoughts, and </span><span style="font-weight:400;">actions. We help ourselves and others to stay true to why we do things so we can align, </span><span style="font-weight:400;">together, for the highest purpose.</span></p>
-<p><strong>Diversity of perspectives:</strong><span style="font-weight:400;"> A good discussion is one that ends with all participants feeling </span><span style="font-weight:400;">that the other participants understood them, even if they had different ideas. This requires trust, </span><span style="font-weight:400;">vulnerability, and compassion. We believe organizations where people can truly co-create will </span><span style="font-weight:400;">thrive.</span></p>
-<p><strong>Winning with purpose: </strong><span style="font-weight:400;">We are mission focused and realize that winning is a requirement to </span><span style="font-weight:400;">achieve lasting change that benefits everyone. Even though we love to compete, we understand that winning is not the same as success, but is needed to succeed.</span></p>
-<p><strong>Ownership is key:</strong><span style="font-weight:400;"> When we own our successes, failures, best qualities, and flaws, we can truly work in a team, as a team. Ownership unlocks greatness as a team because it </span><span style="font-weight:400;">enables us to support and be supported.</span></p>
-<p><strong>The excellence of being:</strong><span style="font-weight:400;"> Excellence is an expression of beingâof what we want for ourselves </span><span style="font-weight:400;">and others. It is passion turned into action. We share a desire to learn and excel while being </span><span style="font-weight:400;">comfortable with failing. Excellence comes when weâre courageously open about what we </span><span style="font-weight:400;">desire for this world.</span></p>
-<p><strong>Unity in consciousness:</strong><span style="font-weight:400;"> We understand that we are all one. We are all working towards moving humanity forward in unique ways. We firmly believe that there is infinitely more that unites us than divides us, and our work is to bring that out in the world.</span></p>
-<h3><strong>Benefits:</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Competitive salary with generous token plan</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Unlimited PTO and flexible remote options</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Health benefits: medical, dental, vision, EAP, virtual medicine, and more </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">401k with company match</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Annual professional development budget</span></li>
-</ul>
-</div><br/><br/>Please mention the word **FANS** and tag RNDQuMjAyLjE5NC44MA== when applying to show you read the job post completely (#RNDQuMjAyLjE5NC44MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3> Senior Backend Engineer - Javascript Node</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-javascript-node" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
-</p>
-
-<div>
-<br>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects<br><br>
-</div><div><strong>What we're working on:</strong></div><div>
-<br>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries<br><br>
-</div><div><strong><br>Requirements</strong></div><ul>
-<li>7+ years of professional experience (A technical assessment will be required)</li>
-<li>Senior-level experience with Javascript, NodeJS, Express, Mongo</li>
-<li>Ability to create clean, modern, testable, well-documented code</li>
-<li>Serverless experience with AWS lambda or Azure functions</li>
-<li>English fluency, verbal and written</li>
-<li>Professional, empathic, team player</li>
-<li>Problem solver, proactive, go-getter</li>
-</ul><div><strong>Straight from the Devs</strong></div><div>
-<br>Watch short snippets of actual developers (Real, not scripted) share why they joined <a href="https://cleverte.ch/3"><strong>YouTube Playlist<br></strong></a><br>
-</div><div><strong>Why Clevertech is an amazing place to work at</strong></div><div>
-<br>At Clevertech, you can expect that you will:<br><br>
-</div><ul>
-<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
-<li>Be a part of a team of talented and friendly senior-level developers</li>
-<li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li>
-</ul><div>
-<br>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.<br><br>
-</div><div><strong>Benefits of joining the Clevertech team</strong></div><div>
-<br>We know that people do their best work when they’re taken care of. So we make sure to offer great benefits:<br><br>
-</div><ul>
-<li>Competitive Salaries</li>
-<li>1 Month Paid Time Off For You</li>
-<li>Personal Development Fund</li>
-<li>Tenure-Based Rewards</li>
-<li>Flexible Family Leave</li>
-<li>Clevertech University</li>
-<li>Clevertech Gives Back</li>
-<li>Amazing Culture &amp; Strong Community</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-javascript-node">https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-javascript-node</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -151,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>122 days ago</text>
+                <text>123 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2" align="right" target="_blank">Apply</a>
@@ -223,7 +82,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
@@ -248,7 +107,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
