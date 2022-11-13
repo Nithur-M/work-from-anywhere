@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-11" align="right" target="_blank">Apply</a>
@@ -80,7 +80,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/university-of-pennsylvania-devops-engineer-remote-eligible" align="right" target="_blank">Apply</a>
@@ -115,7 +115,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer" align="right" target="_blank">Apply</a>
@@ -171,6 +171,54 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1486908/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Avaaz</h5>
+                    <h3>Senior DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>api,AWS,devops,elasticsearch</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/senior-devops-engineer-1486908" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>About Avaaz</strong></p>
+<p><span style="font-weight: 400;">Avaaz is an international campaigning and advocacy organization that provides its global membership of over 70 million people with opportunities to change the world. This includes protecting human rights across the world, saving our planet from climate change and other threats, and fighting to stop disinformation and other cyber threats from undermining our democracies.</span></p>
+<p><strong>Senior DevOps Engineer Position Overview </strong></p>
+<p><span style="font-weight: 400;">Our tech needs are growing, and we’re now looking for a Senior DevOps Engineer to join our team of outstanding professionals, working from home in many different countries.</span></p>
+<p><span style="font-weight: 400;">The ideal candidate will have 5+ years experience in system administration, supporting development of software using modern languages, and a good understanding of SQL and noSQL data stores. They will have leadership skills and be able to advise on decisions regarding hardware performance for a given software, and will also know when we should modify the underlying infrastructure or fix a particular piece of code. They are familiar with test automation and applications that work at scale.</span></p>
+<p><span style="font-weight: 400;">The Senior DevOps Engineer does not need to be an expert in all areas, but rather be a self-starter with a broad range of experiences in different areas with excellent team and communication skills.</span></p>
+<p><strong>Responsibilities:</strong></p>
+<p>- Mentor other developers, share knowledge with peers, and help shape the team's technical growth.<br>- Improve tech and campaigns teams' efficiency through innovative solutions to day-to-day challenges.<br>- Manage our deployment and testing infrastructure, supporting the implementation of Continuous Integration.<br>- Refine development processes to make interactions between Software Engineers and Administrators, fluid, and productive.<br>- Participate in architectural decision-making in support of scalability, reliability, and maintainability.<br>- Automate repetitive tasks required to maintain a secure and up-to-date operational environment.<br>- Develop, improve, maintain, and document infrastructure management systems.<br>- Work with other teams to build, test, and roll out systems. <br>- Participate in an on-call rotation for systems support. </p>
+<p><strong>Qualifications</strong></p>
+<p><span style="font-weight: 400;">The following list of qualifications is what we believe gives you the experience required to work in our environment and deliver on the responsibilities listed above. </span></p>
+<p><strong>You should apply for this role if you feel you have the necessary experience, even if you don't meet all the requirements below:</strong></p>
+<p>- A desire to have a positive impact in the world<br>- A growth mindset and a desire to challenge yourself<br>- Strong written and oral communication skills<br>- Strong teamwork skills, comfortable in a highly collaborative team culture and a hierarchical team structure<br>- High professionalism, self-motivation, efficiency and results-oriented delivery<br>- Ability to adjust quickly to changing conditions and requirements<br>- Experience in handling ambiguity, simplifying requirements, and distilling user cases down to deliver solutions<br>- Good problem-solving, debugging and troubleshooting skills<br>- 5+ years of experience as a Software Engineer, and 5+ years of experience as a Systems Administrator<br>- 3+ years of experience working at large-scale applications<br>- 5+ years working in AWS environments, particularly VPCs with an understanding of the AWS API.<br>- Intimate knowledge of Linux (Redhat/CentOS) and at least 5 years experience in environments with more than 50 servers<br>- Strong fundamentals in Python and strong bash scripting skills<br>- Experience with infrastructure as code (Ansible/Puppet/Chef/others)<br>- Experience with monitoring of large scale systems, particularly with Zabbix<br><strong>- Fluency in spoken and written English is required</strong></p>
+<p><span style="font-weight: 400;">It would help your application if you have …</span></p>
+<p>- Experience managing application build pipelines and continuous integration environments<br>- Experience in running and maintaining containerized applications and orchestration at scale in a variety of managed and unmanaged cross-platform setups<br>- Experience with the AWS code build and deploy tools and ECS<br>- Comfortable working with a range of storage engines (MySQL, Elasticsearch, Redis)<br>- Understanding of network and application security<br>- Understanding of all layers involved in web communications, including experience in network debugging<br>- Experience at large-scale web companies<br>- Experience working in distributed teams<br>- Experience with Agile methodologies, namely Kanban and Scrum.<span style="font-weight: 400;"> </span></p>
+<p><strong>Location</strong></p>
+<p><span style="font-weight: 400;">Avaaz is a fully virtual organization, coordinating work using email, Slack and other tools. Our staff are based in cities all over the world. For this position, the candidate would ideally be based in the following time zones: -05 UTC to +2 UTC. Avaaz will support you to set up a home or co-working environment that leads to excellence in delivery and long-term sustainability.</span></p>
+<p><strong>Compensation and Benefits</strong></p>
+<p>- 5 weeks paid vacation per year and 10 paid holidays per year<br>- $3,000 USD or local equivalent for training and development per year<br>- $1,500 USD or local equivalent for language development per year<br>- Out-of-Home Workspace Rental<br>- Salary varies with location and experience, and is highly competitive with leading international nongovernmental organisations.The full-package salary for this position ranges from € 51172 - € 85286 EURO or local equivalent, depending on local cost of living and experience. An accurate range in local currency will be provided to candidates. </p>
+<p><strong>Avaaz’s Commitment to Equity and Inclusion</strong><span style="font-weight: 400;"> </span></p>
+<p><span style="font-weight: 400;">As a global organization with millions of members around the world, it’s important to us that our team reflects the diversity needed to lead a movement of people from across the planet, rising to meet some of the most complex challenges humanity has ever faced. We believe we can only succeed by building a diverse team full of fresh perspectives and original ideas, and we are committed to creating a working environment in which everyone has an equal opportunity to fulfill their potential.</span></p>
+<p><span style="font-weight: 400;">Our team includes native and non-native English speakers, the self-taught and university educated, people with all sorts of professional backgrounds. If doing the job you just read about would make you excited to come to work every day, if you’re talented, hard-working and committed to making a difference - we want you to apply.</span></p>
+<p><span style="font-weight: 400;">Avaaz does not discriminate on the basis of race, ethnicity, colour, ancestry, language and accent, national origin, citizenship, sex, gender identity or expression, sexual orientation, age, family/parental or marital status, political affiliation, religion, socioeconomic class/caste, disability or any other characteristic protected by law.</span></p>
+<p><span style="font-weight: 400;">If you have suggestions for us on how to put these values into practice in our hiring process, we’d value your input. Please write to us at </span><a href="mailto:recruitment@avaaz.org" rel="nofollow"><span style="font-weight: 400;">recruitment@avaaz.org</span></a><span style="font-weight: 400;"> with the subject line ‘Hiring Feedback’. </span></p>
+<p><span style="font-weight: 400;">We’ll provide reasonable accommodations for qualified applicants with disabilities or special needs to participate in the application process, so please let us know if you have such a request when you apply.</span></p>
+<img src="https://remotive.com/job/track/1486908/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
