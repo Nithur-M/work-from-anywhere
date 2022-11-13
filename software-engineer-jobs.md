@@ -1,53 +1,35 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9749/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Power Diary</h5>
-                    <h3> Software Engineer</h3>
+                    <h5>SystemOne, LLC</h5>
+                    <h3> NodeJS and Python Software Engineer (REMOTE)</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/power-diary-software-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/systemone-llc-nodejs-and-python-software-engineer-remote" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/9749/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> Australia
-    <br /><strong>URL:</strong> <a href="https://www.powerdiary.com/">https://www.powerdiary.com/</a>
+  <strong>Headquarters:</strong> Northampton, Massachusetts, USA
+    <br /><strong>URL:</strong> <a href="https://systemone.id/">https://systemone.id/</a>
 </p>
 
-<div><strong>Be part of a highly skilled collaborative team that works on a wide variety of projects!</strong></div><div><br></div><div>Join an agile organisation that doesn’t get bogged down with stifling processes or paperwork!</div><div><br></div><div>We are looking for people who embrace teamwork. You could have a couple of years under your belt, or be an experienced full stack developer, you will find challenging and interesting work in a fun environment with us!</div><div><br></div><div>To learn more about us, watch this video and e-meet our Engineering Manager, Diego Jancic: https://youtu.be/hWgwIenFoi8</div><div><br></div><div>As a <strong>Software Engineer at Power Diary,</strong> you will be responsible for developing features end-to-end. You will need to get right into our code base, understand it, and make it better. You work in a self-managing, cross-functional Scrum team where you will write, test, and deploy your code, and review your peer’s pull requests. You will have to consider the architecture of new and existing features as you work, research different ways to do something, identify the best of them, and code it all up. Think clearly and tell us when we’re wrong.</div><div><br></div><div>Want to know more about the types of features you could be working on? This short video will get you up to speed fast.</div><div><br></div><div><strong>Does this sound like you?</strong></div><div><br></div><ul>
-<li>Several years experience working on full-stack development</li>
-<li>Enjoy being part of a team, growing and helping one another</li>
-<li>Excited when you have the chance to pair and collaborate</li>
-<li>Always interested in learning new things</li>
-<li>Enjoy being responsive to customer feedback and stakeholder</li>
-<li>Practice test-driven development and judicious refactoring</li>
-<li>You are a pragmatic problem solver, knowing how to find the middle ground between “perfect, but takes forever to code” and “fixes it now, but nobody will ever be able to understand what I did”</li>
-<li>Work well in a small team with a clear mission</li>
-<li>Detail-oriented and precise in code, communication, and documentation</li>
-<li>You have the insight to know what’s important and the dedication to get it done</li>
-<li>We prefer working with people who live in locations which overlap with Central European Time but it is not an absolute requirement to be in Europe, (+/- 4 hours of CET).</li>
-</ul><div><br></div><div><strong>Technical skills required:</strong></div><div><br></div><div>While existing experience with the technologies we use is welcome, an open and disciplined approach to your work is more important to us than whether you already know .NET, TypeScript, or anything else in our stack. We value the willingness to learn our technologies and environment over domain-specific skills. You just have to show us that you are the kind of person who is at home learning a new programming language.</div><div><br></div><div>We use .NET MVC, .NET Core, Microsoft SQL Server, PostgreSQL, C#, REACT and TypeScript. Our systems run on AWS, our code is hosted on GitHub, our builds run on TeamCity.</div><div><br></div><div><strong>The Software Engineering Team</strong></div><div><br></div><div>We are a small team of talented, multi-cultural engineers, distributed across the globe. We embrace industry best practice such as clean coding, code reviews, automated tests, continuous integration, and few-click deployments. We are 100% distributed so we rely on good communication via Slack or Zoom calls within our team and wider organisation.</div><div><br></div><div><strong>How to apply</strong></div><div><br></div><div>If you are interested in this position, please click apply to submit your resume in PDF format and answer a couple of questions about how you like to work. We are looking forward to reading all about why this role and organisation caught your attention, and what motivates you in your career.</div><div><br></div><div><strong>Our process</strong></div><ol>
-<li>Short conversation with HR to discuss your motivation and some details of the job</li>
-<li>Detailed conversation with an Engineering member and HR, getting more detailed with the technology and your experience</li>
-<li>Technical assessment for you to complete at home in your own time</li>
-<li>Technical review of your work with future colleagues</li>
-<li>Discussion with our Engineering Manager and CTO</li>
-<li>Background check</li>
-</ol><div><br></div><div><strong>Why you’ll LOVE working at Power diary…</strong></div><div><br></div><div>When you join Power Diary, you’ll benefit from perks like;</div><div><br></div><div>✅ Work from Anywhere</div><div><br></div><div>There are no offices at Power Diary as we’ve been a distributed team long before everyone else caught on. We look for the best people around the world – not just those who live within a 1 hour commute. If you like working from home, or really from anywhere, you’ll find a bunch of like-minded people here.</div><div><br></div><div>✅ Paid Time Off</div><div><br></div><div>There’s no sense in working all the time – we believe everyone needs balance and we want you to have enough time to do other things that enrich your life. We offer all of our permanent team members 30 days of paid time off and we expect you to take it</div><div><br></div><div>✅ Flexibility</div><div><br></div><div>Need to get the kids to school or want to do a gym class in the middle of the day? No problem. We need you to be available for some agreed core hours to work with your colleagues and cover our service requirements, but other than that your time is yours.</div><div><br></div><div>✅ Competitive Pay</div><div><br></div><div>We aim to work with the best people – wherever and whoever they are. We know this comes at a business cost, but we consider this an investment in the company’s future. We offer competitive pay and we want all team members to feel well-rewarded for their contribution.</div><div><br></div><div>✅ Results Driven</div><div><br></div><div>At Power Diary, we detest bureaucracy and we strive to keep the focus on building and supporting great software that will help our customers (and in turn, help more of their clients). There are no pointless meetings, forms, or other impediments in your way. As we grow, we aim to stay agile – in every way.</div><div><br></div><div>✅ Learning &amp; Growth</div><div><br></div><div>We’re big supporters of personal growth and development and our team is constantly learning and upskilling themselves in many different areas. Innovation is a big part of our culture and we welcome new ideas from everyone.</div><div><br></div><div>✅ Inspiring Team</div><div><br></div><div>We truly love our team at Power Diary and we hope you will too. We’re a bunch of unique individuals from all kinds of backgrounds with a vast array of specialist skills and interests. Although we work remotely, the marketing team works closely together and we also make time to know and support each other.</div><div><br></div><div>✅ Meaningful Work</div><div><br></div><div>We’re constantly getting feedback from customers that are relieved to have found Power Diary. In many cases, they refer to us as a ‘life saver’ or a ‘game changer’, and it feels great to be part of something that helps people get the healthcare support they need. See our customer feedback here.</div><div><br></div><div><strong>About Power Diary</strong></div><div><br></div><div>Power Diary is a leading healthcare practice management system used in Australia, New Zealand, the United Kingdom, the United States and Canada.</div><div>Our mission is simple: To provide health practitioners with the ultimate Practice Management Software that makes running a health practice easier and more rewarding.</div><div>Power Diary’s customer base is growing and we need smart, passionate people to join our team and help take us to the next level. We’re looking for people who are genuinely excited to help health practitioners do their work, and be part of a globally distributed team</div><div>As a healthcare company, we care about our workforce just as much as our clients and their patients. You will enter a fun, inclusive workplace with a dedicated and driven team.</div><div>We are still a relatively small business, but self-funded and growing strongly. This is an exciting time to be at Power Diary – we have some great plans for the future and many challenging things to work on. We hope you’ll consider joining our team and being part of our story!</div><div><br></div><div><strong>See more information about Careers at Power Diary here.</strong></div><div><br></div><div>(*) Power Diary collects and processes your personal data for the purposes of managing employment candidate application and recruitment-related activities as well as for organisational planning purposes, for further detail, please refer to the Power Diary Privacy Policy.</div>
+<div>
+<strong>SystemOne is searching for a software developer to build &amp; maintain new and existing client <br>applications built using Python &amp; Node.js targeting Raspberry Pi.<br> <br>As an Applicant You are Expected to Have:</strong> <br>● At least two years of professional software development experience building, deploying, and maintaining Python applications. <br>● At least two years of professional software development experience building, deploying, and maintaining Node.js applications. <br>● Proficiency with HTTP client libraries, TLS &amp; SQLite. <br>● Some experience working with serial comm devices from a linux platform . <br>● Ability to work &amp; communicate with the team in English. <br>● Experience building deb packages for distribution &amp; installation of software on remote linux computers. <br>● Experience in setting up the infrastructure required to publish over-the-air updates to debian applications. <br>● Experience using Git for source code control. <br>● Experience writing unit tests in JavaScript &amp; Python. <br>● Familiar with debugging tools and methods.<br> <br><strong>Responsibilities:</strong> <br>● Design client side applications that are targeted at Raspberry Pi devices. <br>● Deploy updates and installation packages for applications running on Raspberry Pi devices. <br>● Troubleshoot installation and runtime issues that are reported from remote locations. <br>● Optimise HTTPs requests made from Raspberry Pi applications. <br>● Build data upload workflows that are tolerant to partitions in the network. <br>● Collect error and crash logs from a fleet of remote devices and monitor overall fleet health. <br>● Make strategic technical decisions that cater for system flexibility through safe updates and configuration changes. <br>● Write unit tests that integrate into deployment pipelines. <br>● Collaborate with an excellent team of engineers to produce high quality, performant &amp; secure information exchange back-ends for healthcare initiatives. <br>● Document APIs and expected system behaviour.</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/power-diary-software-engineer">https://weworkremotely.com/remote-jobs/power-diary-software-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/systemone-llc-nodejs-and-python-software-engineer-remote">https://weworkremotely.com/remote-jobs/systemone-llc-nodejs-and-python-software-engineer-remote</a></p>
 
                 </details>
                 </td>
@@ -63,7 +45,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
@@ -98,7 +80,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>93 days ago</text>
+                <text>94 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python" align="right" target="_blank">Apply</a>
@@ -178,62 +160,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/3890/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Springboard</h5>
-                    <h3> Mentor - Software Engineering Career Track (Part-time/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>122 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0016/3890/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="https://www.springboard.com/">https://www.springboard.com/</a>
-</p>
-
-<div><strong>The Opportunity</strong></div><div><br></div><div>Springboard runs an online, self-paced Software Engineering Career Track in which participants learn with the help of a curated curriculum and 1-1 guidance from an expert mentor. Our mentor community - the biggest strength of our programs - comprises some of the best software engineering experts in the field.</div><div><br></div><div>If you are as passionate about mentoring as you are about software engineering, and can give a few hours per week in return for an honorarium, we would love to hear from you.</div><div><br></div><div>Please reach out to us with any questions at mentorrecruiting@springboard.com <br><br><strong>The Program</strong>
-</div><ul>
-<li>Completely online and self-paced</li>
-<li>Students become proficient in Software Engineering with the help of a curated online curriculum and project-based deliverables</li>
-<li>Coursework is made up of 800+ hour expert-curated curriculum in partnership with <a href="https://www.rithmschool.com/">Rithm School</a>
-</li>
-<li>On average, students finish in 9 months</li>
-<li>Students are working professionals from all over the world, dedicated to switching careers into Software Engineering</li>
-<li>Students have a weekly 30-minute checkin with their mentor to discuss questions, projects, and career advice!</li>
-</ul><div><strong>You</strong></div><ul>
-<li>are as passionate about teaching coding as about software engineering itself</li>
-<li>are proficient in the topics covered in our <a href="https://ddf46429.springboard.com/uploads/resources/1572915743_Software_Engineering_Career_Track_-_Syllabus_2019.11.04.pdf">Software Engineering Career Track</a> and are fluent in technologies such as HTML, CSS, JavaScript, React, Python, Flask, SQL, Data Structures and Algorithms</li>
-<li>have at least 3+ years of relevant work experience </li>
-<li>are available for weekly, 30-minute video check-ins with students to help them set and achieve learning goals, answer subject matter questions, provide feedback on projects, and offer career advice</li>
-<li>have experience critiquing work, in particular giving meaningful feedback on web development, and are able to think on your feet quickly</li>
-<li>are empathetic and have excellent communication skills</li>
-</ul><div><strong>Benefits</strong></div><ul>
-<li>Software Engineering mentors are paid an honorarium between $17.50-$32.50 per 30 minute call with students</li>
-<li>Membership in a rich community of expert mentors from great companies like AirBnB, Uber, Google, and Pivotal</li>
-<li>Change the lives of students in our program</li>
-<li>Help us revolutionize online education and inspire the next generation of software engineers!</li>
-<li>Work at your convenience</li>
-</ul><div><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3">https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -244,7 +170,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -306,7 +232,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
