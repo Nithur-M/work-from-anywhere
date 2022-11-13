@@ -1,5 +1,98 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/02548642c06feef77ae7cc7348ec7d351668237362.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>C3 Protocol</h5>
+                    <h3>Developer Relations</h3>
+                </td>
+                <td width="300">
+                    <code>developer,javascript,financial,lead,engineering,full-time,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-developer-relations-c3-protocol-147541" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro"><h2>About The Role</h2></div><p><strong>Job Description:</strong></p>
+<p>We are looking for a very passionate individual who can develop and lead our developer relations efforts on C3. In this Developer Relations role, you will manage all aspects of C3âs relationship with the developer community. You will be developing the best tools, tutorials, and documentation to promote the use and benefits of C3 as well as future developments with C3. Moreover, you will be directly engaging the community of developers through different mediums, including Discord, Reddit, forums, hackathons, and virtual events to address questions and promote the use of C3. This is a great opportunity to work with and promote leading technologies, be part of an amazing community, and develop open-source mentality.</p>
+<p><strong>Responsibilities:</strong></p>
+<ul>
+<li>Become an expert in C3 applications and technologies</li>
+<li>Manage C3 relationship with its developer community on community-led initiatives</li>
+<li>Handle questions regarding functionality and documentation pertaining to C3</li>
+<li>Create C3 documentation that can be leveraged for both internal and external consumption</li>
+<li>Assist and work closely with trading firms and individual engineers in integrating C3 APIs.</li>
+<li>Build tools and tutorials for devs and champion them for our engineering team to prioritize</li>
+<li>Manage the developer journey from website to documentation to tools</li>
+</ul>
+<p><strong>Requirements:</strong></p>
+<ul>
+<li>Fluency with REST APIs</li>
+<li>1+ year of developer relations, technical community management, similar experience</li>
+<li>3+ years engineering experience</li>
+<li>Understanding of trading and financial markets</li>
+<li>Empathy with the user experience for cryptocurrencies</li>
+<li>A keen aptitude for sharp feedback and structured communication</li>
+<li>Desire to work on building things the ârightâ way to make sure our technical foundation is solid as we build on top of it over the coming years</li>
+</ul>
+<p><strong>Bonus Points:</strong></p>
+<ul>
+<li>Familiarity with the JavaScript and/or Python</li>
+</ul>
+<p><strong>Benefits:</strong></p>
+<ul>
+<li>We offer a full-time 100% remote position, contract and long term positions</li>
+<li>International competitive salaries.</li>
+<li>Flexible vacations</li>
+<li>Flexible Hours</li>
+<li>Amazing opportunities</li>
+<li>Cutting edge technologies</li>
+</ul>
+<p><strong>Location:</strong></p>
+<ul>
+<li>Remote: GMT-7 to GMT -2</li>
+</ul><br/><br/>Please mention the word **SUBSIDIZED** and tag RMy4yMzEuNC4xODM= when applying to show you read the job post completely (#RMy4yMzEuNC4xODM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/af76e19ab71d38adea9839a3724518a11668178826.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>3XM Group</h5>
+                    <h3>Front End Developer</h3>
+                </td>
+                <td width="300">
+                    <code>analyst,saas,director,financial,finance,microsoft,senior,non tech,manager,security,growth,travel,management,sales,developer,front-end,software,web,content,marketing,engineer,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-front-end-developer-3xm-group-147186" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                3XM Group develops quality software solutions, with offices in the US and Argentina. We aim to be strategic advisors for our clients, taking care of all their technology needs, focusing on delivering tailored solutions on-time and within scope.
+We provide Data Analytics, Cloud, DevOps, and Software Development services, with agile teams that can work with you as stand-alone teams, integrating into your inhouse dev teams, or providing external architectural guidance.
+
+Our client is a venture-backed start-up offering a patented, no-code, marketing technology tool that lives on top of existing brand websites and powers more engaging experiences. Their aim is to make it easy for brands to deliver the right content to the right site visitor at the exact right moment in their online decision-making journey.
+
+We are looking for an experienced software engineer to help them build a web front-end for new features of their existing solution.
+
+<br/><br/>Please mention the word **FLAWLESS** and tag RMy4yMzEuNC4xODM= when applying to show you read the job post completely (#RMy4yMzEuNC4xODM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/cc14d5542e96440af082be44f14af54c1668064520.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +103,7 @@
                     <code>developer,web,design,web3,crypto,nft,react,system,game,ui,code,manager,financial,typescript,senior,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-web-developer-star-atlas-146505" align="right" target="_blank">Apply</a>
@@ -56,7 +149,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Experience contributing to apps with robust and highly automated CI/CD pipelines</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Fluency in design tools such as Figma, Photoshop, and Illustrator</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Have passion and working knowledge of crypto and/or gaming</span></li>
-</ul><br/><br/>Please mention the word **INGENIOUS** and tag RNDQuMjAyLjE5NC44MA== when applying to show you read the job post completely (#RNDQuMjAyLjE5NC44MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **INGENIOUS** and tag RMy4yMzEuNC4xODM= when applying to show you read the job post completely (#RMy4yMzEuNC4xODM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -71,7 +164,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/upkoi-inc-senior-full-stack-net-developer-4" align="right" target="_blank">Apply</a>
@@ -120,7 +213,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/changers-com-blacksquared-gmbh-senior-ios-developer-f-m-d" align="right" target="_blank">Apply</a>
@@ -189,7 +282,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/outscal-technologies-inc-unreal-developer" align="right" target="_blank">Apply</a>
@@ -242,7 +335,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ampcontrol-python-developer" align="right" target="_blank">Apply</a>
@@ -303,59 +396,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8743/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>FinDox Inc</h5>
-                    <h3> Senior C# and PostgreSQL Backend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/8743/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> El Segundo, California
-    <br /><strong>URL:</strong> <a href="https://about.findox.com/">https://about.findox.com/</a>
-</p>
-
-<div>Awesome remote back-end developer role doing challenging and rewarding work.</div><div><br></div><div><strong>You:</strong></div><div>Attitude &amp; Fit<strong>   </strong>
-</div><ul>
-<li>Positive attitude</li>
-<li>Love building scalable, well-organized code </li>
-<li>Exceptional problem solving skills</li>
-<li>Strive for excellence in all you do</li>
-</ul><div><br></div><div>Experience &amp; Skills</div><ul>
-<li>4+ years work experience with .NET</li>
-<li>PostgreSQL experience is a plus </li>
-<li>Demonstrated experience building and architecting back-end APIs</li>
-<li>Good written and oral communication skills in English</li>
-</ul><div><br></div><div>Candidates will complete a rigorous technical evaluation. </div><div><br></div><div><strong>Position:</strong></div><ul>
-<li>Architect, design, and implement new functionality in .net core using our framework</li>
-<li>Write database migrations and stored procedures</li>
-<li>Help research and troubleshoot production issues </li>
-<li>Improve platform performance by refactoring code, workflows, and stored procedures</li>
-<li>Able to train other developers and potentially able to lead a team in the future</li>
-</ul><div><br></div><div>You must be able to work substantially during normal business hours in the Pacific Time Zone (8am to 4pm UTC -8:00, Los Angeles time). We prefer candidates in North America and South America. We do deployments every other Thursday night from 7 pm - 9 pm PST.</div><div><br></div><div>Competitive compensation and contract type depending on qualifications and location.</div><div><br></div><div>Our technologies used:</div><div>.NET 6, C#, REST API, Javascript, HTML, CSS, VueJS, SQL, PostgreSQL, Linux, Microsoft Azure, Dokan File System Filter, Outgoing email, Incoming email processing, Gitlab, WinForms, NodeJS</div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-3">https://weworkremotely.com/remote-jobs/findox-inc-senior-csharp-and-postgresql-backend-developer-3</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5406/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -366,7 +406,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-react-native-mobile-developer-web3-remote-2" align="right" target="_blank">Apply</a>
@@ -436,7 +476,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -510,7 +550,7 @@
                     <code>cloud,developer,sql,growth</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-tibco-developer-1255705" align="right" target="_blank">Apply</a>
@@ -535,7 +575,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -612,7 +652,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -638,7 +678,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -715,7 +755,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -782,7 +822,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
