@@ -10,7 +10,7 @@
                     <code>developer,javascript,financial,lead,engineering,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-relations-c3-protocol-147541" align="right" target="_blank">Apply</a>
@@ -57,7 +57,7 @@
 <p><strong>Location:</strong></p>
 <ul>
 <li>Remote: GMT-7 to GMT -2</li>
-</ul><br/><br/>Please mention the word **SUBSIDIZED** and tag RMy4yMzEuNC4xODM= when applying to show you read the job post completely (#RMy4yMzEuNC4xODM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **SUBSIDIZED** and tag RNTQuODEuMjE2LjM1 when applying to show you read the job post completely (#RNTQuODEuMjE2LjM1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -72,7 +72,7 @@
                     <code>analyst,saas,director,financial,finance,microsoft,senior,non tech,manager,security,growth,travel,management,sales,developer,front-end,software,web,content,marketing,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-front-end-developer-3xm-group-147186" align="right" target="_blank">Apply</a>
@@ -88,7 +88,7 @@ Our client is a venture-backed start-up offering a patented, no-code, marketing 
 
 We are looking for an experienced software engineer to help them build a web front-end for new features of their existing solution.
 
-<br/><br/>Please mention the word **FLAWLESS** and tag RMy4yMzEuNC4xODM= when applying to show you read the job post completely (#RMy4yMzEuNC4xODM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **FLAWLESS** and tag RNTQuODEuMjE2LjM1 when applying to show you read the job post completely (#RNTQuODEuMjE2LjM1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -103,7 +103,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>developer,web,design,web3,crypto,nft,react,system,game,ui,code,manager,financial,typescript,senior,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-web-developer-star-atlas-146505" align="right" target="_blank">Apply</a>
@@ -149,7 +149,7 @@ We are looking for an experienced software engineer to help them build a web fro
 <li style="font-weight:400;"><span style="font-weight:400;">Experience contributing to apps with robust and highly automated CI/CD pipelines</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Fluency in design tools such as Figma, Photoshop, and Illustrator</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Have passion and working knowledge of crypto and/or gaming</span></li>
-</ul><br/><br/>Please mention the word **INGENIOUS** and tag RMy4yMzEuNC4xODM= when applying to show you read the job post completely (#RMy4yMzEuNC4xODM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **INGENIOUS** and tag RNTQuODEuMjE2LjM1 when applying to show you read the job post completely (#RNTQuODEuMjE2LjM1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -164,7 +164,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/upkoi-inc-senior-full-stack-net-developer-4" align="right" target="_blank">Apply</a>
@@ -213,7 +213,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/changers-com-blacksquared-gmbh-senior-ios-developer-f-m-d" align="right" target="_blank">Apply</a>
@@ -282,7 +282,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/outscal-technologies-inc-unreal-developer" align="right" target="_blank">Apply</a>
@@ -335,7 +335,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ampcontrol-python-developer" align="right" target="_blank">Apply</a>
@@ -406,7 +406,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-react-native-mobile-developer-web3-remote-2" align="right" target="_blank">Apply</a>
@@ -466,6 +466,57 @@ We are looking for an experienced software engineer to help them build a web fro
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6989/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ProjectDiscovery.io</h5>
+                    <h3> Senior Back End Developer (Golang)</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>60 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6989/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco
+    <br /><strong>URL:</strong> <a href="https://projectdiscovery.io">https://projectdiscovery.io</a>
+</p>
+
+<div>ProjectDiscovery is an open-source cyber-security company that builds a range of softwares for security engineers and developers. Our user base is among the largest in the InfoSec community, and we are used by top internet companies’ security and developer teams, including Fastly, Microsoft, CloudFlare, Gitlab, Facebook, IBM, and many others.</div><div><br></div><div>We are well funded and just recently raised $25M in our Series A. Backed by current/former CXOs from companies like Fastly, Databricks, Google, Twitter, HashiCorp, RedHat.</div><div><br></div><div>→ github.com/projectdiscovery</div><div><br></div><div>
+<br>You're a backend engineer with 6+ years of software experience. You're ready to be an individual contributor, design and build sophisticated systems quickly, and collaborate in a fast-paced environment.</div><div><br></div><div>You are a product-focused engineer that takes just as much pride in the user experience of your product as you do the performance.</div><div>
+<br><strong>Requirements:</strong>
+</div><ul>
+<li>6+ years of experience as a backend developer, with at least 3+ years of experience working with GO language.</li>
+<li>Strong knowledge of working with Go paradigms and best practices</li>
+<li>Good knowledge of concurrency in Go - goroutines, channel patterns, Go ecosystem, and tools available</li>
+<li>Worked on or have an understanding of various frameworks in Go</li>
+<li>Ability to dissect and recommend best tools for the job</li>
+<li>Worked with microservices architecture and patterns, DevOps, and continuous delivery.</li>
+<li>Experience building APIs with gRPC or REST</li>
+<li>Some experience with deployment processes including knowledge of Kubernetes and Docker.</li>
+<li>Strong knowledge of PostgreSQL / MySQL</li>
+</ul><div><br></div><div><strong>What will you work on:</strong></div><ul>
+<li>Here is our work: https://github.com/projectdiscovery you are directly going to be involved in many of these open-source projects. 90%+ code base is written in Go.</li>
+<li>Developing high-volume, low-latency applications for large systems and coping with the challenges of working in a distributed and highly concurrent environment.</li>
+<li>You will also be coding new features and have an active role in the defining the backend architecture, which includes designing microservices and researching new alternatives and technologies.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang">https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6914/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -476,7 +527,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -540,6 +591,41 @@ We are looking for an experienced software engineer to help them build a web fro
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1482210/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Insightful</h5>
+                    <h3>Senior Electron.js Developer</h3>
+                </td>
+                <td width="300">
+                    <code>.Net,big data,C,C#</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-electron-js-developer-1482210" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>About us</strong></p>
+<p>Insightful is a market-leading platform for employee productivity and workforce analytics. We process really big data, synthesize it into actionable insights and ultimately provide a best-in-class/easy-to use product which empower enterprise customers to improve employee productivity, business processes and overall staff well-being.</p><p></p>
+<p><strong>Job Description</strong></p>
+<p>Your main focus will be the most sophisticated component of our infrastructure - the agent. It is  running across hundreds of thousands of devices collecting information we need, therefore it needs to have excellent performance and stability.</p><p></p>
+<p><strong>Responsibilities:</strong></p>
+<ul><li>Development of new user-facing features in collaboration with design and product teams</li><li>Production of modular and reusable components</li><li>Writing high-performance, scalable, testable and reusable code</li><li>Optimization of applications for maximum speed and scalability</li><li>Maintenance and improvement of existing libraries and modules</li><li>Working closely with other development teams to ensure we're building great, modern, scalable and secure features and software</li></ul><p></p>
+<p><strong>Requirements:</strong></p>
+<ul><li>Thorough understanding of <strong>Electron.js</strong> and its core principles and APIs</li><li>Proficiency with JavaScript (<strong>Node.js</strong>)</li><li>Strong fundamentals in operating systems, networking, and software design</li><li>Good knowledge of <strong>Typescript</strong></li><li>Good knowledge of <strong>RxJS</strong></li><li>Experience with relational databases - preferably <strong>SQLite</strong></li></ul>
+<p></p>
+<p><strong>Experience with the following will be considered a big plus:</strong></p>
+<ul><li>Good knowledge of <strong>C# &amp; .Net framework</strong></li><li>Good knowledge of <strong>C++</strong></li><li>Developing <strong>native </strong>desktop applications</li><li>Experience with <strong>Sockets </strong></li><li>Familiarity with front-end technologies including Angular, HTML, and CSS</li></ul>
+<img src="https://remotive.com/job/track/1482210/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1255705/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -550,7 +636,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>cloud,developer,sql,growth</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-tibco-developer-1255705" align="right" target="_blank">Apply</a>
@@ -575,7 +661,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -652,7 +738,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -678,7 +764,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -755,7 +841,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -822,7 +908,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
