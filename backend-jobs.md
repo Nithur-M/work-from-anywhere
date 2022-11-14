@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>123 days ago</text>
+                <text>124 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2" align="right" target="_blank">Apply</a>
@@ -72,6 +72,89 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1482178/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Rootine</h5>
+                    <h3>Backend Mid Level Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>api,AWS,backend,cloud</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/backend-mid-level-software-engineer-1482178" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height: 1.5em;">Rootine is a mission-driven digital health startup focused on optimizing health and human performance through precision nutrition. Rootine unlocks total body health and supports common health conditions like fatigue, stress, brain fog and more through at-home lab testing, precision nutrition products, in-app tracking, and community. Cellular nutrition is core to health and we are building the only precise, end-to-end solution to optimize cellular nutrition.</p>
+<p style="min-height: 1.5em;">Entrepreneurship is not taught in college. Your formal education doesn't prepare you for the reality of starting and running a business. By working at Rootine you will have full access to see how a successful startup is run. We are tackling a massive market with strong tailwinds and are backed by top investors from around the globe.</p>
+<p style="min-height: 1.5em;"> </p>
+<div class="h1">What We're Looking For</div>
+<p style="min-height: 1.5em;">We’re looking for a Backend Software Engineer who is excited to build at the forefront of precision nutrition and use creativity to help us improve the health and daily performance of millions across the globe.  You will play an important role in building products that inform and delight customers while empowering them to leverage their personal health data to achieve optimal health.</p>
+<p style="min-height: 1.5em;">As a very early member of a small team, you will have the opportunity to take ownership over a core application. You’ll work with the Head of Engineering directly to scope projects, architect, build and deploy new features and services. The right person for this role is a dynamic resource, skilled in executing familiar and unfamiliar tasks that is ready to take on a significant, high impact role on a small team.</p>
+<p style="min-height: 1.5em;"> </p>
+<div class="h1">What You'll Do</div>
+<ul style="min-height: 1.5em;">
+<li>
+<p style="min-height: 1.5em;">Build a private API using Fast API in Python for internal and external use</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Build &amp; maintain integrations with 3rd party vendors</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Work with health professionals to build a proprietary algorithm</p>
+<p style="min-height: 1.5em;"> </p>
+</li>
+</ul>
+<div class="h1">Desired Skills &amp; Experience</div>
+<ul style="min-height: 1.5em;">
+<li>
+<p style="min-height: 1.5em;">~ 3 years experience as a Backend Engineer working in teams on a software product using Python</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Proven experience building production ready, customer facing web applications</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Previous experience designing and deploying APIs</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Previous experience with data modeling</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Strong sql skills</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;">Superior candidates will also have:</p>
+<ul style="min-height: 1.5em;">
+<li>
+<p style="min-height: 1.5em;">Experience / understanding of Django fundamentals (legacy application support)</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Experience with Fast API</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Experience with enterprise analytics solutions</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Experience / understanding of e-commerce projects</p>
+</li>
+<li>
+<p style="min-height: 1.5em;">Exposure to operations on Cloud Platform providers such as AWS or Google Cloud</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;">Location Base: Remote</p>
+<p style="min-height: 1.5em;">Compensation: Competitive Salary + Equity Potential for Right Candidate</p>
+<p style="min-height: 1.5em;">Manager: Report to Head of Engineering</p>
+<img src="https://remotive.com/job/track/1482178/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1479998/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -82,7 +165,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
@@ -107,7 +190,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
