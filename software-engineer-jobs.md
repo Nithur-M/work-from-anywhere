@@ -1,75 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SystemOne, LLC</h5>
-                    <h3> NodeJS and Python Software Engineer (REMOTE)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>31 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/systemone-llc-nodejs-and-python-software-engineer-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Northampton, Massachusetts, USA
-    <br /><strong>URL:</strong> <a href="https://systemone.id/">https://systemone.id/</a>
-</p>
-
-<div>
-<strong>SystemOne is searching for a software developer to build &amp; maintain new and existing client <br>applications built using Python &amp; Node.js targeting Raspberry Pi.<br> <br>As an Applicant You are Expected to Have:</strong> <br>● At least two years of professional software development experience building, deploying, and maintaining Python applications. <br>● At least two years of professional software development experience building, deploying, and maintaining Node.js applications. <br>● Proficiency with HTTP client libraries, TLS &amp; SQLite. <br>● Some experience working with serial comm devices from a linux platform . <br>● Ability to work &amp; communicate with the team in English. <br>● Experience building deb packages for distribution &amp; installation of software on remote linux computers. <br>● Experience in setting up the infrastructure required to publish over-the-air updates to debian applications. <br>● Experience using Git for source code control. <br>● Experience writing unit tests in JavaScript &amp; Python. <br>● Familiar with debugging tools and methods.<br> <br><strong>Responsibilities:</strong> <br>● Design client side applications that are targeted at Raspberry Pi devices. <br>● Deploy updates and installation packages for applications running on Raspberry Pi devices. <br>● Troubleshoot installation and runtime issues that are reported from remote locations. <br>● Optimise HTTPs requests made from Raspberry Pi applications. <br>● Build data upload workflows that are tolerant to partitions in the network. <br>● Collect error and crash logs from a fleet of remote devices and monitor overall fleet health. <br>● Make strategic technical decisions that cater for system flexibility through safe updates and configuration changes. <br>● Write unit tests that integrate into deployment pipelines. <br>● Collaborate with an excellent team of engineers to produce high quality, performant &amp; secure information exchange back-ends for healthcare initiatives. <br>● Document APIs and expected system behaviour.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/systemone-llc-nodejs-and-python-software-engineer-remote">https://weworkremotely.com/remote-jobs/systemone-llc-nodejs-and-python-software-engineer-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4287/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Stimulus</h5>
-                    <h3> Software engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>32 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4287/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Amsterdam, NY
-    <br /><strong>URL:</strong> <a href="https://www.stimulus.com/">https://www.stimulus.com/</a>
-</p>
-
-<div><strong>About Stimulus</strong></div><div>
-<a href="https://www.stimulus.com/jobs/Stimulus.com">Stimulus</a> is a social platform started by Sticker Mule to show what's possible if your mission is to increase human happiness.</div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. A privately owned, low-stress culture.</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div><strong>We like you to know</strong></div><div>1. Docker</div><div>2. NextJS</div><div>3. React</div><div>4. NodeJS</div><div>5. GraphQL</div><div>6. Redis</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. Salary: $120k+ based on experience</div><div>2. $20,000 signing bonus</div><div>3. 4 weeks vacation + holidays based on your country of residence</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer">https://weworkremotely.com/remote-jobs/stimulus-software-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4854/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -80,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>95 days ago</text>
+                <text>96 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python" align="right" target="_blank">Apply</a>
@@ -170,7 +100,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -232,7 +162,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
