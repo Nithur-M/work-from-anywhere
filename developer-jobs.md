@@ -1,5 +1,43 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/117a9acdc450cfb377e8b21ea39704e31668496535.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Enya</h5>
+                    <h3>Senior Full Stack Web Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,web,design,crypto,nft,cryptocurrency,ethereum,python,ui,code,javascript,cloud,senior,golang,engineer,engineering,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-full-stack-web-developer-enya-149103" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>Enya, as a core contributor to Boba Network is seeking a Full Stack Web Engineer that will be responsible for helping build our products end-to end, from customer insights through deployment. We're looking for someone who can understand our users (dApp developers and crypto consumers) and design products & systems to best serve their needs. This person will work with UI and graphic designers to bring a vision to life, while also contextualizing the engineering constraints of the product. In addition to being a part of the UI/UX design process, this role will execute on bringing their vision to life. This includes coding the front end of the product, while working with the rest of the engineering team to ensure that the designs fit with the technology of the back end.</div><h4>Responsibilities</h4><ul>
+<li>Understand the needs of users of Enya's products</li>
+<li>Collaborate with internal and external partners to design the UI/UX of new products, as well as improvements to existing products</li>
+<li>Execute on designs, building out the front and back end of new products</li>
+<li>Develop the web infrastructure to support an expanding suite of products and offerings</li>
+</ul><h4>Requirements</h4><ul>
+<li>Demonstrated experience building products from the ground up, including design, implementation, and maintenance.</li>
+<li>Must have experience with libraries <a href="http://web3.js/ethers.js" class="postings-link" rel="noopener noreferrer nofollow">web3.js/ethers.js</a> and Ethereum nodes</li>
+<li>let's say it's mandatory.</li>
+<li>The ideal candidate will have familiarity with cryptocurrency or decentralized applications, and has been an experienced user or designer of products in the crypto ecosystem.</li>
+<li>Expertise in Javascript/Typescript and using modern Javascript frameworks - Vue, React/Redux</li>
+<li>Expertise in working with backend stacks including NodeJs</li>
+<li>Experience with Golang (and/or Python is a plus) is preferred</li>
+<li>Familiarity with cloud services (AWS, GCP)</li>
+</ul><div><br></div><div><span style="font-size:18px;">About Enya</span></div><div><br></div><div><span style="font-size:11pt;">Enya Labs is a contributor to the Boba Network, a multichain Layer 2 that reduces the barriers of adoption for users and developers. We are empowering Gaming, DeFi, and NFT projects to scale more cost-effectively while delivering a smoother user experience. Boba's Hybrid Compute technology enables developers across the blockchain ecosystem to build dApps that invoke code executed on web-scale infrastructure, making it possible to leverage sophisticated algorithms that are either too expensive or impossible to execute on-chain. </span></div><br/><br/>Please mention the word **ENRAPTURED** and tag RNDQuMjAzLjE5Mi4yMDM= when applying to show you read the job post completely (#RNDQuMjAzLjE5Mi4yMDM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/02548642c06feef77ae7cc7348ec7d351668237362.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +48,7 @@
                     <code>developer,javascript,financial,lead,engineering,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-relations-c3-protocol-147541" align="right" target="_blank">Apply</a>
@@ -57,38 +95,253 @@
 <p><strong>Location:</strong></p>
 <ul>
 <li>Remote: GMT-7 to GMT -2</li>
-</ul><br/><br/>Please mention the word **SUBSIDIZED** and tag RMy4yMzYuMTM4LjEw when applying to show you read the job post completely (#RMy4yMzYuMTM4LjEw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **SUBSIDIZED** and tag RNDQuMjAzLjE5Mi4yMDM= when applying to show you read the job post completely (#RNDQuMjAzLjE5Mi4yMDM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/af76e19ab71d38adea9839a3724518a11668178826.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0075/9084/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>3XM Group</h5>
-                    <h3>Front End Developer</h3>
+                    <h5>TestGorilla</h5>
+                    <h3> Frontend Engineer (Angular Developer)</h3>
                 </td>
                 <td width="300">
-                    <code>analyst,saas,director,financial,finance,microsoft,senior,non tech,manager,security,growth,travel,management,sales,developer,front-end,software,web,content,marketing,engineer,digital nomad</code>
+                    <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-front-end-developer-3xm-group-147186" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-4" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                3XM Group develops quality software solutions, with offices in the US and Argentina. We aim to be strategic advisors for our clients, taking care of all their technology needs, focusing on delivering tailored solutions on-time and within scope.
-We provide Data Analytics, Cloud, DevOps, and Software Development services, with agile teams that can work with you as stand-alone teams, integrating into your inhouse dev teams, or providing external architectural guidance.
+                <img src="https://we-work-remotely.imgix.net/logos/0075/9084/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
-Our client is a venture-backed start-up offering a patented, no-code, marketing technology tool that lives on top of existing brand websites and powers more engaging experiences. Their aim is to make it easy for brands to deliver the right content to the right site visitor at the exact right moment in their online decision-making journey.
+<p>
+  <strong>Headquarters:</strong> Amsterdam, The Netherlands
+    <br /><strong>URL:</strong> <a href="https://www.testgorilla.com/">https://www.testgorilla.com/</a>
+</p>
 
-We are looking for an experienced software engineer to help them build a web front-end for new features of their existing solution.
+<div>Hi there,<br><br>
+</div><div>I’m Nicolas, TestGorilla’s Head of Engineering. We’re a fast-growing HR tech startup that helps hiring teams make better hiring decisions faster and bias-free.<br><br>Over the past year, we’ve experienced tremendous growth. More than 7,500 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way.<br><br>
+</div><div>As we scale our efforts in 2022 and beyond, we’re looking for a<strong> Frontend Engineer</strong> who’s passionate about joining our quest to help people land dream jobs.<br><br>
+</div><h1>The proposition</h1><ul>
+<li>Helping shape a fast-growing HR tech startup as an early employee</li>
+<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
+<li>Competitive salary incl. bonus and stock options</li>
+<li>Flexible hours and vacation</li>
+<li>Paid parental leave </li>
+<li>€1000 remote working budget per year</li>
+<li>Learning &amp; development budget of 3.5% of salary</li>
+</ul><div>
+<br><br>
+</div><h1>The role in context</h1><div>We are looking for a<strong> Frontend Engineer</strong> to join our engineering department and help us bring our product to Enterprise level maturity. Your work will directly impact hundreds of thousands of users around the world.</div><div> </div><div>As a member of the engineering team, you will build and deliver frontend solutions to provide extraordinary product experiences for our users, including SPAs and reusable components for the rapid growth of all our products.</div><div> </div><div>You’ll own the design, code, and deployment of solutions and make sure they perform and scale in production. </div><div>
+<br> </div><h1>You’ll spend time on the following</h1><ul>
+<li>Take full <strong>ownership</strong> of the frontend; from low-level optimizations to improving user experience</li>
+<li>Build <strong>reusable</strong> code and libraries for future use</li>
+<li>Ensure the technical feasibility of <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/ux-ui-design-test/">UI/UX designs</a> and propose features and functionalities to the product team</li>
+<li>
+<strong>Optimize</strong> the application for maximum speed and scalability</li>
+<li>Lead the entire <strong>software development and delivery</strong> cycle from ideation to deployment and everything in between</li>
+<li>Efficiently utilize <strong>DevOps</strong> tools and practices to deliver high-quality software as well as value to end customers as early as possible</li>
+<li>Work in a collaborative, talented <strong>distributed team</strong> across Europe, United States, South America, and Asia</li>
+<li>You will act as a <strong>mentor</strong> for less-experienced team members through both your technical knowledge and leadership skills</li>
+</ul><div>
+<br><br>
+</div><h1>Here’s what we’re looking for</h1><ul>
+<li>You are inspired by our mission of putting<em> 1 billion people in dream jobs</em> </li>
+<li> You are fully aligned with our <a href="https://www.testgorilla.com/careers/">values</a>
+</li>
+<li>You have 4-6 years of experience designing, implementing, running, and maintaining production <strong>front-end code</strong> using modern client-side development frameworks based on JS/TS such as <a href="https://www.testgorilla.com/test-library/programming-skills-tests/angular-test/">Angular</a>
+</li>
+<li>You strive for <strong>excellence:</strong> pixel-perfect, high-quality code, and lightning-fast load times</li>
+<li>You care deeply about building a <strong>world-class engineering</strong> team</li>
+<li>You have a solid understanding of<strong> UX/UI design, usability, and accessibility</strong>
+</li>
+<li>You are passionate about improving skills and <strong>learning</strong> new technologies</li>
+<li>You enjoy <strong>influencing others</strong> and always advocate for technical excellence while being open to change</li>
+<li>You’re <strong>resilient</strong> in ambiguous situations and can approach challenges from multiple perspectives</li>
+<li>You have strong written and verbal <strong>communication skills</strong>. You can validate your decisions and communicate them clearly</li>
+</ul><div>
+<br><br>
+</div><h1>Bonus points if ...</h1><ul>
+<li>you have experience in a SaaS product based company</li>
+<li>you are comfortable with Agile methods, such as Extreme Programming (XP), Scrum, and/or Kanban</li>
+<li>you have a working knowledge of cloud technology such as <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/aws-test/">AWS</a>, Azure, Kubernetes, and Docker </li>
+</ul><div>
+<br><br>
+</div><h1>Interested?</h1><div>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions faster and bias-free. I took one too and I enjoyed it!<br><br>
+</div><div>So if this role sounds like a good fit for you, I’d like you to <a href="https://assessment.testgorilla.com/testtaker/publicinvitation/dfb458d5-b49e-4c93-a830-fdfa210e733f">take an assessment </a>so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product! <br><br>
+</div><div>If you’re hired, I’ll do everything I can to help you succeed at <a href="https://www.testgorilla.com/">TestGorilla</a> and throughout the rest of your career.</div>
 
-<br/><br/>Please mention the word **FLAWLESS** and tag RMy4yMzYuMTM4LjEw when applying to show you read the job post completely (#RMy4yMzYuMTM4LjEw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-4">https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-4</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0057/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TestGorilla</h5>
+                    <h3> Senior Website Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-website-developer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0082/0057/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Amsterdam, The Netherlands
+    <br /><strong>URL:</strong> <a href="https://www.testgorilla.com/">https://www.testgorilla.com/</a>
+</p>
+
+<div>Hi,</div><div><br></div><div>I’m Nicolás, TestGorilla’s Head of Engineering. We’re a fast-growing HR tech startup that helps hiring teams make better hiring decisions faster and bias-free.</div><div><br></div><div>Over the past year, we’ve experienced tremendous growth. More than 7,500 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way.</div><div><br></div><div>As we scale our efforts in 2022 and beyond, we’re looking for a <strong>Senior</strong> <strong>Website Developer</strong> who’s passionate about joining our quest to help people land dream jobs.</div><div>
+<br><br>
+</div><h1><strong>The proposition</strong></h1><ul>
+<li>Helping shape a fast-growing HR tech startup as an early employee</li>
+<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
+<li>Competitive salary + Share Appreciation Rights (SARs)</li>
+<li>Flexible hours and vacation</li>
+<li>Paid parental leave </li>
+<li>Remote working budget: €1,000 per year</li>
+<li>Learning and development budget: 3,5% of salary</li>
+</ul><div><br></div><div><br></div><h1><strong>The job in a nutshell</strong></h1><div><br></div><div>We are looking to hire a skilled and experienced <strong>Senior Website Developer</strong> to design, build, and improve our company website. You will own both technical and process definitions to allow TestGorilla to have a first-class website optimized for SEO and conversion. </div><div><br></div><div>You will be joining our growth efforts by collaborating with marketing and product teams to design and implement an incredibly efficient customer acquisition and activation funnel. You will also collaborate across departments to architect and optimize our company website and help them deliver content efficiently and promptly.</div><div><br></div><div>As an experienced engineer, you're expected to collaborate strongly with both technical and non-technical stakeholders to simplify problems, create abstractions, and define clear solutions. This is a fantastic opportunity for a top-class Website developer willing to embark on an entrepreneurial journey with us!</div><div>
+<br><br>
+</div><h1><strong>You’ll spend time on the following</strong></h1><ul>
+<li>Design and develop our company website’s architecture as well as building new features and functionalities</li>
+<li>Build, deploy, and maintain a performant, accessible, and modern TestGorilla website</li>
+<li>Work collaboratively with our designers to help bring "static" mockups to life optimized for accessibility and conversion</li>
+<li>Draw on UX/UI skill set to interpret responsive states from static designs, and execute layouts that perform seamlessly across modern devices and screen sizes</li>
+<li>Maintain and troubleshoot issues using popular headless CMSs and modern web development frameworks such as Contentful, Strapi, Directus, React, Next.js, and Gatsby</li>
+<li>Design and implement a smooth content migration from our current CMS into the new architecture</li>
+<li>Respond to security and website performance issues</li>
+<li>Maintaining well-documented and reusable code</li>
+</ul><div><br></div><div><br></div><h1><strong>Here’s what we’re looking for</strong></h1><ul>
+<li>You are inspired by our mission to put <em>one billion people in dream jobs</em>
+</li>
+<li>You are fully aligned with our <a href="https://www.testgorilla.com/careers/">values </a>
+</li>
+<li>Highly proficient in JavaScript, <a href="https://www.testgorilla.com/test-library/programming-skills-tests/html5-test/">HTML</a>, CSS design, cross-browser and cross-platform compatibility</li>
+<li>Strong background in web performance principles and page speed optimization techniques.</li>
+<li>Understanding SEO implementation and best practices.</li>
+<li>UI/UX design sensibility, and experience developing with accessibility in mind</li>
+<li>Experience customizing Webpack or similar tooling software plus experience with Gulp, Yarn, NPM, and Git</li>
+<li>Strong attention to detail with an analytical mind and outstanding problem-solving skills</li>
+<li>You are passionate about improving skills and learning new technologies</li>
+<li>You enjoy influencing others and always advocate for technical excellence while being open to change </li>
+<li>You’re resilient in ambiguous situations and can approach challenges from multiple perspectives</li>
+<li>You have strong written and verbal communication skills. You can validate your decisions and communicate them clearly</li>
+<li>You are comfortable with the ambiguity and pace of an early-stage startup</li>
+</ul><div><br></div><div>
+<em>We typically expect candidates with at least 2-5 years of web development experience to have the skills mentioned above.<br></em><br>
+</div><div><br></div><h1>Bonus points if …</h1><ul>
+<li>Knowledge about modern Node-based development practices and common frameworks, including Next.js &amp; Gatsby.</li>
+<li>Knowledge about Marketing funnels, Ads, and customer acquisition concepts</li>
+<li>Understanding of 508-site compliance </li>
+<li>You have experience working in a SaaS company and a fast-growing startup </li>
+</ul><div><br></div><div><br></div><h1><strong>Interested?</strong></h1><div>We don’t offer rainbow glitter unicorns or dog-friendly offices (we literally don’t have an office), but we do offer solid core values and a product meant to give everyone a fair, unbiased chance at their dream jobs.</div><div>
+<br>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions, faster and bias-free. </div><div>
+<br>So if this role sounds like a good fit for you, I’d like you to take an assessment so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product!</div><div>
+<br>If you’re hired, I’ll do everything I can to help you succeed at TestGorilla and throughout the rest of your career.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-website-developer-1">https://weworkremotely.com/remote-jobs/testgorilla-senior-website-developer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0052/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TAG Media</h5>
+                    <h3> Web Developer </h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/tag-media-web-developer-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0082/0052/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://tag.media">https://tag.media</a>
+</p>
+
+<div>
+<br><img src="https://lh4.googleusercontent.com/hx9dIWsCZGLixZZboLgXkxfRJSxfokCFMozxvtl-pbELAonkRiVsdQzl34qeHQF5aVERVdTs4ah0JaF5lYHmakeXCWpt1hUe2s1NEJEenXhJf--px93w5JbwzEU9IkUfMmugbiTrcGsN4CxXLmLt_eV2es1EYPJ8N3hduJQM_-TUFo4cZcUstGH0jZX7dQ" width="600" height="100"><br><br>
+</div><div>
+<br>First Look Games Web Developer and Support Manager<br><br>
+</div><div><br></div><div>
+<br>About First Look Games<br><br>
+</div><div>
+<br>First Look Games is the leading content marketing platform connecting iGaming studios with digital publishers, enabling the creation of quality, accurate &amp; compliant game reviews. We service over 800 publishers &amp; 58 game studios and together have created over 26,000 casino reviews reaching over 20 million casino players worldwide.<br><br>
+</div><div>
+<br>Our staff comprises highly skilled iGaming performance marketing professionals, with team members averaging over 12 years of industry experience with operators of all shapes, sizes and product verticals.<br><br>
+</div><div>
+<br>The Role<br><br>
+</div><div>
+<br>We are looking to recruit a full time, remote Web Developer to assist in the development and support of our growing business.<br><br>
+</div><div>
+<br>Reporting to the Head of Tech, the successful candidate will work closely with stakeholders to plan and code updates and features to our existing systems whilst coordinating with customers on first level support.<br><br>
+</div><div>
+<br>If you are a self motivated, hard working individual with a strong background in PHP theme development and excellent spoken and written English who wants to contribute to a growing business then this role could be for you. This is a multi disciplined role that requires expert knowledge of PHP along with fantastic customer service skills.<br><br>
+</div><div>
+<br>Responsibilities</div><ul>
+<li>Adding to the current functionality of the platform via PHP coding</li>
+<li>Managing support queries from all clients</li>
+<li>Ensuring the smooth running of day to day technical systems, including server maintenance</li>
+<li>Managing html email newsletters</li>
+<li>Designing and building new front-end pages in the admin system</li>
+<li>Writing “clean”, well-designed code<br><br>
+</li>
+</ul><div>
+<br>Requirements</div><ul>
+<li>Proven experience in PHP &amp; MySQL programming including knowledge of Yii framework</li>
+<li>Server maintenance including, Litespeed, Nginx and Apache</li>
+<li>Great knowledge of JavaScript, HTML and CSS,</li>
+<li>Experience in common third-party APIs</li>
+<li>Experience in working with customers in a support role</li>
+<li>Analytical skills with high attention to detail</li>
+<li>Native English speaker with excellent written communication skills</li>
+<li>Organisational skills with the ability to handle multiple tasks</li>
+<li>Work in a team or own initiative</li>
+<li>Great problem-solving skills<br><br>
+</li>
+<li>Desirable skills</li>
+</ul><div>Experience working in the iGaming and affiliate marketing industries</div><ul><li>Working knowledge of Adobe Photoshop<br><br>
+</li></ul><div>Benefits</div><ul>
+<li>Pro Rata: 20 days per year paid leave, plus statutory holidays &amp; 5 mental health days off – including Christmas week</li>
+<li>Home Working allowance (printer, desk/chair allowance, home broadband &amp; mobile contributions, plus coffee allowance)</li>
+<li>Job Types: Full Time/Permanent</li>
+<li>Salary- DOE</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tag-media-web-developer-2">https://weworkremotely.com/remote-jobs/tag-media-web-developer-2</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -103,7 +356,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/simvoly-java-developer-full-stack-4" align="right" target="_blank">Apply</a>
@@ -150,7 +403,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/upkoi-inc-senior-full-stack-net-developer-4" align="right" target="_blank">Apply</a>
@@ -162,26 +415,30 @@ We are looking for an experienced software engineer to help them build a web fro
                 
 
 <p>
-  <strong>Headquarters:</strong> Miami, Florida, United States
+  <strong>Headquarters:</strong> United States
     <br /><strong>URL:</strong> <a href="https://www.upkoi.com">https://www.upkoi.com</a>
 </p>
 
-<p>We're hiring a remote full stack developer onto our C#/.NET team. You are ideally a mid or senior level .NET developer with experience building high quality modern solutions and experience working autonomously. You'll start on a six-month contract with the option to continue from there based on performance and interest.</p>
-<p>Your initial steps with us will likely involve work with a non-profit and your contributions will be making the world a better place.</p>
-<p>The long-term goal of our organization is to build and support artificial general intelligence. Your work on our .NET team won't require or likely directly use machine learning experience but it is helpful to have, especially if you would like to eventually transition to our other initiatives.</p>
+<p>We're hiring a remote full-stack developer for our C#/.NET team. You are ideally a mid or senior-level .NET developer with experience building high-quality modern solutions and experience working autonomously. You'll start on a six-month contract with the option to continue from there based on performance and interest.</p>
+<p><br>Your initial steps with us will likely involve high-impact work on a large social good project, and your direct individual contributions will make the world a better place.</p>
+<p><br>The long-term goals of our organization center around artificial general intelligence. However, your work on our .NET team does not require any machine learning experience (although it is helpful to have).</p>
 <p><strong>Requirements</strong></p>
 <p><strong>General </strong><strong>Requirements</strong></p>
 <ul> <li>Excellent Communication Skills and Fluent in English</li> <li>Experience Delivering Small and Medium Scale Systems from Ideas to Deployed Products</li> <li>5+ Years of Real-World Development Experience with C#</li> <li>Experience Working Autonomously in Small Teams</li> <li>2+ Years with AngularJS &amp; Angular. Prior AngularJS Experience Strongly Encouraged.</li> <li>Significant Design and UX Experience</li> <li>Real-World Experience Writing Unit Tests</li> </ul>
 <p><br></p>
-<p><strong>Nice to Have</strong></p>
-<ul> <li>2+ Years of Real-World Python</li> <li>2+ Years Machine Learning Work Experience</li> <li>Demonstrated Experience Implementing High Performance Machine Learning Algorithms</li> <li>Strong Interest in AI Ethics and Safety</li> </ul>
+<p><strong>Nice to Have<br></strong></p>
+<ul><li>Significant UI/UX Experience</li></ul>
+<ul> <li>2+ Years of Real-World Python</li> <li>2+ Years Machine Learning Work Experience</li> <li>Demonstrated Experience Implementing High Performance Machine Learning Algorithms</li> <li>Strong Interest in AI Ethics and Safety<br> </li> </ul>
 <p><strong>Location</strong><br></p>
 <p>Work from North, South, or Central America. If you believe you'll be outside of those areas for an extended period of time, please let us know in your application.<br></p>
 <p><strong>Benefits</strong></p>
 <ul> <li>Fully Remote Position, Forever</li> <li>Flexible Working Hours and Autonomy</li> <li>Modern Development Process</li> </ul>
 <p><br></p>
 <p><strong>Compensation Details</strong></p>
-<ul> <li>Hourly (1099 or C2C to start), Time Tracking Required</li> <li>Independent Contractor Status</li> <li>Minimum 30 Hours a Week (Normal Schedule)</li> <li>Pay Range Commensurate with Qualifications and Experience ($100k+*)</li> </ul>
+<ul> <li>Hourly (1099 or C2C to start), Time Tracking Required*</li> <li>Independent Contractor Status</li> <li>Minimum 30 Hours a Week (Normal Schedule)</li> <li>Pay Range Commensurate with Qualifications and Experience ($100k+**)</li> </ul>
+<p><br></p>
+<p>* We have a lightweight solution that is respectful of your privacy.</p>
+<p>** Starting compensation<br></p>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/upkoi-inc-senior-full-stack-net-developer-4">https://weworkremotely.com/remote-jobs/upkoi-inc-senior-full-stack-net-developer-4</a></p>
 
@@ -199,7 +456,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/outscal-technologies-inc-unreal-developer" align="right" target="_blank">Apply</a>
@@ -242,77 +499,6 @@ We are looking for an experienced software engineer to help them build a web fro
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9624/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Ampcontrol</h5>
-                    <h3> Python Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/ampcontrol-python-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/9624/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> New York
-    <br /><strong>URL:</strong> <a href="https://ampcontrol.io">https://ampcontrol.io</a>
-</p>
-
-<div>
-<strong>🚀About </strong><a href="https://www.ampcontrol.io/"><strong>Ampcontrol<br></strong></a><br>
-</div><div>
-<br>We're Ampcontrol, building AI-powered software for optimizing electric vehicle (EV) charging.<br><br>
-</div><div>We are a venture backed remote team of engineers and energy experts based in the U.S and Europe building the new way of EV charging. Our primary goals are to enable companies to provide higher capacity charging on existing infrastructure as well as optimization of fleet charging logistics.</div><div>
-<br>Our company culture includes minimal hierarchy; We make technical decisions based on consensus and aim at simplicity and clarity.<br><br>https://www.ampcontrol.io/<br><br>
-</div><div><br></div><div>
-<strong>🌎 Our Mission<br></strong><br>
-</div><div>
-<br>We're on a mission to help the automotive industry transition to 100% electric vehicles.<br><br>
-</div><div>
-<br>We believe in a future of self-managing, reliable, and affordable charging for companies, fleet operators, and humans on our planet.<br><br>
-</div><div>
-<strong><br>💻 The Role<br></strong><br>
-</div><ul>
-<li>All levels of experience. The position will be accordingly</li>
-<li>You'll be building and improving our python backend system, including the core optimization system and our customer facing APIs</li>
-<li>Maintain and improve test environment</li>
-<li>Develop our Python3/FastAPI service further, with an eye on performance and scalability</li>
-<li>Work with data scientists to build a stable and powerful architecture for ML-applications for real-time optimization</li>
-<li>Build, maintain, migrate databases and accommodate time-series data</li>
-<li>Write clean and easily maintainable code for our optimization engine with a focus on reliability and scalability</li>
-</ul><div>
-<strong><br>⭐ You have<br></strong><br>
-</div><ul>
-<li>Professional experience in python software development or QA engineering</li>
-<li>Experience in at least one cloud computing platform</li>
-<li>A good understanding of DevOps tools and methods, including end-to-end testing</li>
-<li>Fluency in English for verbal and written communication is required</li>
-<li>Motivated to work in the electric vehicles and sustainability industries</li>
-<li>Experience with PostgreSQL and Redis preferred</li>
-</ul><div>
-<a href="https://forms.gle/TE7Cx7WEmi1RbBLH7"><br></a><br>
-</div><div>
-<strong><br>📍 Location<br></strong><br>
-</div><div>
-<strong><br>We're a remote team.</strong> You can work from America, United States, Canada, Europe.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ampcontrol-python-developer">https://weworkremotely.com/remote-jobs/ampcontrol-python-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5406/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -323,7 +509,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-react-native-mobile-developer-web3-remote-2" align="right" target="_blank">Apply</a>
@@ -393,7 +579,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
@@ -444,7 +630,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>63 days ago</text>
+                <text>64 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -508,41 +694,6 @@ We are looking for an experienced software engineer to help them build a web fro
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1482210/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Insightful</h5>
-                    <h3>Senior Electron.js Developer</h3>
-                </td>
-                <td width="300">
-                    <code>.Net,big data,C,C#</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-electron-js-developer-1482210" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>About us</strong></p>
-<p>Insightful is a market-leading platform for employee productivity and workforce analytics. We process really big data, synthesize it into actionable insights and ultimately provide a best-in-class/easy-to use product which empower enterprise customers to improve employee productivity, business processes and overall staff well-being.</p><p></p>
-<p><strong>Job Description</strong></p>
-<p>Your main focus will be the most sophisticated component of our infrastructure - the agent. It is  running across hundreds of thousands of devices collecting information we need, therefore it needs to have excellent performance and stability.</p><p></p>
-<p><strong>Responsibilities:</strong></p>
-<ul><li>Development of new user-facing features in collaboration with design and product teams</li><li>Production of modular and reusable components</li><li>Writing high-performance, scalable, testable and reusable code</li><li>Optimization of applications for maximum speed and scalability</li><li>Maintenance and improvement of existing libraries and modules</li><li>Working closely with other development teams to ensure we're building great, modern, scalable and secure features and software</li></ul><p></p>
-<p><strong>Requirements:</strong></p>
-<ul><li>Thorough understanding of <strong>Electron.js</strong> and its core principles and APIs</li><li>Proficiency with JavaScript (<strong>Node.js</strong>)</li><li>Strong fundamentals in operating systems, networking, and software design</li><li>Good knowledge of <strong>Typescript</strong></li><li>Good knowledge of <strong>RxJS</strong></li><li>Experience with relational databases - preferably <strong>SQLite</strong></li></ul>
-<p></p>
-<p><strong>Experience with the following will be considered a big plus:</strong></p>
-<ul><li>Good knowledge of <strong>C# &amp; .Net framework</strong></li><li>Good knowledge of <strong>C++</strong></li><li>Developing <strong>native </strong>desktop applications</li><li>Experience with <strong>Sockets </strong></li><li>Familiarity with front-end technologies including Angular, HTML, and CSS</li></ul>
-<img src="https://remotive.com/job/track/1482210/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1255705/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -553,7 +704,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>cloud,developer,sql,growth</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-tibco-developer-1255705" align="right" target="_blank">Apply</a>
@@ -578,7 +729,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -655,7 +806,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -681,7 +832,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -758,7 +909,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -825,7 +976,7 @@ We are looking for an experienced software engineer to help them build a web fro
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
