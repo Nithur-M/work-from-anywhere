@@ -1,91 +1,50 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4854/logo.gif" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/416b6d631eaa1e31911d07403aabee981668496516.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>AssemblyAI (YC 17)</h5>
-                    <h3> Senior Software Engineer, Python</h3>
+                    <h5>Audius</h5>
+                    <h3>Software Engineer Infrastructure & Tooling</h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>software,solidity,crypto,ethereum,react,system,music,architect,code,web,api,engineer,linux,backend</code>
                 </td>
                 <td width="200">
-                <text>96 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-tooling-audius-149094" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4854/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> United States
-    <br /><strong>URL:</strong> <a href="https://www.assemblyai.com/">https://www.assemblyai.com/</a>
-</p>
-
-<div>We're looking for a senior backend engineer with strong software and cloud engineering skills. You'll help us build highly scalable developer-centric APIs and backend systems powered by state-of-the-art ML models. Some of your responsibilities will include:</div><ul>
-<li>Build new API features and endpoints</li>
-<li>Build automated test suites and CI/CD pipelines</li>
-<li>Build highly scalable event-driven and realtime systems</li>
-<li>Instrument systems with metrics, tracing, and logging </li>
-<li>Refactor applications to eliminate tech debt</li>
-<li>Troubleshoot production issues</li>
-</ul><h1><strong>You'll love this job if you....</strong></h1><ul>
-<li>Enjoy solving complex technical problems, even when there is no perfect solution.</li>
-<li>Enjoy being in a fast-paced, customer-facing role.</li>
-<li>Thrive in small, cross-functional teams. We like to wear many hats here!</li>
-<li>You're excited to tackle big technical challenges like building highly scalable architectures and achieving zero-downtime deploys.</li>
-</ul><h1><strong>Requirements</strong></h1><ul>
-<li>6+ years of professional experience building backend applications using any popular language such as Python, Java, C#, JavaScript, Go, C/C++</li>
-<li>4+ years of working with SQL and NoSQL databases</li>
-<li>3+ years of production support experience</li>
-<li>3+ years working with common AWS services</li>
-<li>3+ years developing REST APIs</li>
-<li>3+ years of experience working with Python</li>
-<li>3+ working with Python backend frameworks like Django, Flask, or Tornado</li>
-<li>Experience migrating systems to meet increasing traffic/scale</li>
-<li>
-<strong>Startup or FAANG-type experience </strong>- Has worked at a startup or high growth company</li>
-<li>
-<strong>Deep AWS knowledge </strong>- Has many years of experience solutioning within AWS</li>
-<li>
-<strong>Strong Python coding abilities </strong>- Can pass difficult programming challenges in a relatively short period of time. Can speak clearly about their thinking throughout these challenges. Can speak to O-notation of algorithms. Has excellent knowledge of common python idioms and libraries.</li>
-<li>
-<strong>High scalability experience</strong> - Has been a tech leader on scaling systems to hundreds of millions of requests/events per day. Has experience with hyper-observability, scaling algorithms, and using production data to drive system changes</li>
-</ul><h1><strong>Skills</strong></h1><ul>
-<li>
-<strong>Amazing system design chops </strong>- When given a hard problem to solve with a new system, they can quickly shape an effective design and communicate its strengths, weaknesses, and tradeoffs.</li>
-<li>
-<strong>High-octane thinking</strong> - Engages deeply on subjects of expertise. Thinks ahead many steps and can see where decisions are likely to lead. Their brains compute at a very high level.</li>
-<li>
-<strong>Extremely creative </strong>- Can find both novel and effective solutions within highly constrained time and resources</li>
-<li>
-<strong>Fast learner</strong> - Has shown they can ramp up on difficult topics very fast</li>
-<li>
-<strong>Exceptional gut instincts </strong>- Can practically feel when something is right or wrong. Can use these instincts to quickly point themselves in the right direction.</li>
-<li>
-<strong>Opinionated</strong> - They have convictions in what they believe and can communicate their position clearly without drama.</li>
-</ul><h1><strong>Nice to Have</strong></h1><ul>
-<li>Machine learning experience - Has worked with machine learning models at scale</li>
-<li>Experience integrating and deploying ML models into production</li>
-</ul><h1><strong>Benefits (US)</strong></h1><ul>
-<li>Competitive Salary + Bonus</li>
-<li>Equity</li>
-<li>401k</li>
-<li>100% Remote team</li>
-<li>Unlimited PTO</li>
-<li>Premium Healthcare (100% Covered for you + dependents)</li>
-<li>Vision &amp; Dental Care</li>
-<li>$1K budget for your home office setup</li>
-<li>New Macbook Pro (or PC if you prefer)</li>
-<li>2x/year company paid team retreat</li>
-</ul><h1>Salary Range (Global): $125,000 - $200,000</h1>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python">https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python</a></p>
-
+                <div><b>Who are we? </b></div><div>
+<a href="https://audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius</a> is a digital streaming service that connects fans directly with artists and exclusive new music.Â </div><div><br></div><div>It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can freely build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence.</div><div><br></div><div>Backed by an all-star team of <a href="https://www.crunchbase.com/organization/audius/company_financials#investors" class="postings-link" rel="noopener noreferrer nofollow">investors</a>, Audius was founded in 2018 and serves over 6 million users every month, making it the largest non-financial crypto application ever built.</div><div><br></div><div><b>Who we are looking for? </b></div><div>We are looking for passionate team-players to help us architect and build the most difficult parts of the <a href="http://whitepaper.audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius protocol</a> (high availability services for decentralized replication of data, latency-sensitive distributed file transfers, Ethereum smart contracts, infrastructure and tooling for third parties to run our open source services). You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. Youâre eager to jump into multiple parts of our tech stack and have strong CS fundamentals to do so. We solve a lot of problems that can't be easily Googled or searched on StackOverflow.</div><div><br></div><div><b>Our Company</b></div><div>Audius is a 30-person team of entrepreneurs, engineers, music industry professionals, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have monthly concert stipends, wellness benefits, team activities, and bi-annual in-person get-togethers.</div><div><br></div><div>Our company is fully remote and our team is currently distributed across the United States. </div><div><br></div><div><b>Our Tech Stack</b></div><div>Frontend: React, React Native, Redux, Redux-Saga, Electron, Typescript, Javascript</div><div>Backend: Postgres, Elasticsearch, Redis, IPFS, Python, Typescript, Javascript, Rust (Solana), Solidity (Ethereum), Docker</div><h4>What you'll do here</h4>Design and build resilient infrastructure that decentralized third-parties run on diverse hardwareHelp architect and deploy across the backend of the Audius stack including databases, monitoring, logging, and load-testingBuild tooling that supports the Audius team and a network of third-parties that operate infrastructure for the protocolPerform thoughtful architecture and code reviewsOwn features end-to-end including release plans, monitoring, and incident/bug triage<h4>We would love to chat if you have</h4>Experience with a modern programming language (Our stack is in Javascript/Typescript, Python, Rust, and Solidity)Strong shell scripting and Linux fundamentals and a love for building great command line toolsSolid conceptual understanding of backend software development including system architecture, web serving infrastructure, API & database designGreat interpersonal and communication skills and comfort working within a small teamFamiliarity with version control and agile software development methodologiesAn awesome attention to detail<div><br></div><div>If this role speaks to you, but your previous experience doesn't match the job description, please consider applying anyways! We're looking for smart and capable software engineers and highly value the ability to grow in your role. You might be the perfect fit!</div><br/><br/>Please mention the word **LUXURIANT** and tag RNDQuMjAzLjE5Mi4yMDM= when applying to show you read the job post completely (#RNDQuMjAzLjE5Mi4yMDM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1490845/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Firebolt</h5>
+                    <h3>Software Engineer, Engines</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,azure,C++,cloud</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-engines-1490845" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h1">Description</div><p><strong>Who we are</strong></p><p><strong> </strong></p><p>Firebolt is a disruptor in the data &amp; analytics space. Based on technology that delivers an order-of-magnitude performance leap in TB-scale analytics, Firebolt helps the most data-forward companies create a new wave of data &amp; analytics experiences for end-users. With a team of world-class data experts, led by leadership veterans from Looker, Google BigQuery, Imply and Sisense, and backed by $264M in funding - we are growing quickly and are poised to build the data platform of the future, and set a new bar for what can be done with data.</p><p><strong> </strong></p><p><strong>About the Team</strong></p><p><strong> </strong></p><p>Firebolt’s Engines Team is responsible for product experience of our Engines, which are the center of the Firebolt experience.  Engines are how we define the workload a customer runs, and ultimately orchestrates all of the infrastructure to enable customers to execute their queries.  This is a high impact team that gets an opportunity to collaborate with all parts of the company from the customer facing experiences to the core database teams and infrastructure.</p><p><strong> </strong></p><p><strong>The Role</strong></p><p><strong> </strong></p><p>We’re making big changes to make the experience faster, more reliable, and more scalable for our customer’s workloads.  This role will be responsible for helping to build, maintain, and operate our new dynamic infrastructure and compute provisioning service. This service will be used to deploy high-performance customer workloads in a secure, scalable fashion all over the world. </p><p><strong> </strong></p><p><strong>What You'll Do</strong></p><ul><li>Design our provisioning service from the ground up</li><li>Shape the future of Firebolt’s dynamic workloads and how customers use our product</li></ul><div class="h1">Requirements</div><ul><li>3+ years of proven experience as a professional developer of production software</li><li>Development experience in an object oriented programming language.  We develop in Go, C++, and some Python here and there.  Experience with these languages is a plus.  You are willing to understand and make cross-cutting changes in the Firebolt codebase regardless of the language.</li><li>Hands on experience in building production cloud native applications on AWS, Azure, or GCP</li><li>Experience building and operating highly concurrent, highly available, and fault-tolerant distributed systems</li><li>Experience in designing, developing, testing, and deploying secure services and applications, leveraging continuous integration and continuous delivery tools</li></ul><img src="https://remotive.com/job/track/1490845/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -100,7 +59,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -162,7 +121,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
