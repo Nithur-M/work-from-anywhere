@@ -1,5 +1,75 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/ed6443c6eebfad162eeec306412811391668582964.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Hector Network</h5>
+                    <h3>UX UI Designer</h3>
+                </td>
+                <td width="300">
+                    <code>ui,ux,design,web3,defi,nft,web,css,html,mobile,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-ux-ui-designer-hector-network-149642" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Hector Network</strong> is an expansive decentralized ecosystem run by a utility token, HEC, and complemented by the TOR stablecoin. The company is committed to developing the future of web3 by pioneering decentralized offerings ranging from Tokenomics, NFT collections, and marketplace to launchpad and Defi Metaverse. Our mission is to bring mass adoption of blockchain technology to life by lowering the barrier to entry and making crosschain expansion happen.</p>
+<p><strong>Hector Network</strong> is a growing project with big ambitions and an incredible team of passionate innovators. As such, we are looking for a very driven and passionate UI/UX designer who thrives in a fast-paced environment to work together with the team on many exciting sub-brands. In that role, youâll be working closely with the Head of Infrastructure and Development , development team and Art team to help them easily make functional Web3 dApps and other sub-projects visually stunning and instantly attractive. Your focus will be on different sub-projects such as Dex, Institute, NFT marketplace, Library, and many more. This is an exciting opportunity to work closely with the brightest minds within the web3 industry.</p>
+<p><strong>The ideal candidate</strong> would create a css / html tailwind control library to fast track development time frames. You will help us bridge the gap between new users who are not familiar with the crypto/NFT/DeFi space and existing users who are well acquainted with such technologies.</p>
+<p><strong>Hereâs what youâll be doing</strong></p>
+<ul>
+<li>Facilitate UI/UX prototyping and builds for the dApp expansion / modifications and updates + changes</li>
+<li>Be available for rapid updates on a stringent time frame over the next 5 months</li>
+<li>Facilitate the dev teamsâ continuously growing need and demand of UI / UX works on the new version of the dApp by being available in a RAD CRUD Agile SDLC environment</li>
+<li>Take Part in Dev group discussions to expand your understanding of the current build objectives</li>
+<li>Expand and enhance usability of the application to ensure that end users have a comprehensive guided understanding of features and a logical use case</li>
+<li>Design a transition of our existing dApp to a desktop, tablet and mobile responsiveness whilst factoring in all functionality</li>
+</ul>
+<p><strong>Desired skills and experiences</strong></p>
+<ul>
+<li>Ability to understand development structure and at least basic web development</li>
+<li>CSS3</li>
+<li>HTML 5 (js would be a plus)</li>
+<li>Figma</li>
+<li>Photoshop</li>
+<li>Deconstruct Functional / Non Functional Requirements into a UX driven application</li>
+<li>Web 3 Understanding</li>
+<li>Web Design</li>
+<li>UX Research (Contextual inquiry)</li>
+<li>UX Design Principles</li>
+<li>UX Presentations</li>
+<li>UX Flows</li>
+<li>UX Information Mapping</li>
+<li>UX Gap Analysis</li>
+<li>Archetypes</li>
+<li>Information Architecture</li>
+<li>User Flows</li>
+<li>Interaction Design</li>
+<li>Intuitive UI Design</li>
+<li>Multi Platform Responsive Grid Design (Tablet, Mobile, Desktop)</li>
+<li>Wireframing</li>
+<li>Iconography</li>
+<li>Prototyping</li>
+</ul>
+<p><strong>Why working with us</strong></p>
+<ul>
+<li>Exciting opportunity to join a top Web3 project on a Fantom network</li>
+<li>Amazing chance for you career movement into the revolutionary and innovative space</li>
+<li>Global Connections in the Web3 space</li>
+<li>Working in environment where ideas and opinions are valued and encouraged</li>
+<li>Talented and supportive team</li>
+<li>Youâll learn a looot</li>
+</ul><br/><br/>Please mention the word **EASES** and tag RNTQuODIuMTY5LjE4OQ== when applying to show you read the job post completely (#RNTQuODIuMTY5LjE4OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/cd2c77bfedad77e33325097192d0756d1668496536.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +80,7 @@
                     <code>ui,ux,design,marketing,engineering,branding,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-ui-ux-graphic-designer-definer-149104" align="right" target="_blank">Apply</a>
@@ -37,7 +107,7 @@
 <li style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Compelling portfolio of work over a wide range of creative projects</span></li>
 <li style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Strong analytical skills</span></li>
 <li style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre-wrap;">Excellent eye for detail</span></li>
-</ul><p><br></p><p><br></p><p><br></p><br/><br/>Please mention the word **INSTRUCTIVE** and tag RNDQuMjAzLjE5Mi4yMDM= when applying to show you read the job post completely (#RNDQuMjAzLjE5Mi4yMDM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p><br></p><p><br></p><p><br></p><br/><br/>Please mention the word **INSTRUCTIVE** and tag RNTQuODIuMTY5LjE4OQ== when applying to show you read the job post completely (#RNTQuODIuMTY5LjE4OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -52,7 +122,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
