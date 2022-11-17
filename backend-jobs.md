@@ -10,7 +10,7 @@
                     <code>design,web3,defi,ethereum,developer,testing,web,devops,cloud,typescript,lead,senior,health,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-relayer-lukso-149107" align="right" target="_blank">Apply</a>
@@ -47,7 +47,7 @@
 <li>Work fully remote CEST +/-6h or from our picturesque LUKSO office located next to the Spree river in Berlin, Germany</li>
 </ul><div>--</div><div>LUKSO is the new blockchain for the Creative Economy. As a next-generation layer-1 EVM blockchain, LUKSO has introduced new tools and standards that will bring blockchain technology to its next frontier. The building blocks for the New Creative Economy will revolutionize the way users and creators interact with the blockchain. From Fashion, Art, Music, Entertainment, Gaming, Social Media and more, we welcome you to explore our open and interoperable blueprint for the physical and digital worlds.</div><div><br></div><div>LUKSO has introduced new standards called LUKSO Standard Proposals (LSPs), which are the building blocks for the New Creative Economy. These building blocks can be used to create user-friendly dApps and lower the barriers of entry in Web3 for all creators and users.</div><div><br></div><div>
 <a href="https://docs.lukso.tech/standards/universal-profile/introduction" rel="noreferrer noopener nofollow"><strong>Universal Profiles</strong></a> bring social identity to blockchain and improve the overall user experience in Web3. With upgradable security, these platform-agnostic smart-contract-based accounts empower users and creators and allow for true ownership, interoperability, transaction relay services and more.  </div><div><br></div><div>LUKSOâs new standards allow for flexible NFTs that are extensible and directly compatible with Universal Profiles. <a href="https://docs.lukso.tech/standards/nft-2.0/introduction" rel="noreferrer noopener nofollow"><strong>NFTs 2.0</strong></a> are updatable, safer and have unlimited metadata, batch transfers and even better IDs.</div><div><br></div><div>LUKSO is bringing blockchain beyond DeFi with <strong>Cultural Currencies</strong>. The future of blockchain is social, and LUKSOâs essential, future-proof solutions are reshaping the way the world interacts with the blockchain.</div><div><br></div><div>
-<strong>You belong here.</strong><br><br>At LUKSO, we welcome applicants from around the world of all abilities, race, ethnicity, gender/gender expression and age to explore our solutions and join us in building out the foundation for the New Creative Economy. We look forward to meeting you!</div><br/><br/>Please mention the word **EASES** and tag RNDQuMjAzLjE5Mi4yMDM= when applying to show you read the job post completely (#RNDQuMjAzLjE5Mi4yMDM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<strong>You belong here.</strong><br><br>At LUKSO, we welcome applicants from around the world of all abilities, race, ethnicity, gender/gender expression and age to explore our solutions and join us in building out the foundation for the New Creative Economy. We look forward to meeting you!</div><br/><br/>Please mention the word **EASES** and tag RNTQuODIuMTY5LjE4OQ== when applying to show you read the job post completely (#RNTQuODIuMTY5LjE4OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -62,7 +62,7 @@
                     <code>crypto,cryptocurrency,bank,java,lead,engineer,engineering,educational,backend</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-tradfi-bitcoincom-149096" align="right" target="_blank">Apply</a>
@@ -108,7 +108,7 @@
 <li>Health insurance reimbursement</li>
 <li>Wellness program (gym, etc.)</li>
 </ul>
-</div><br/><br/>Please mention the word **DARLING** and tag RNDQuMjAzLjE5Mi4yMDM= when applying to show you read the job post completely (#RNDQuMjAzLjE5Mi4yMDM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **DARLING** and tag RNTQuODIuMTY5LjE4OQ== when applying to show you read the job post completely (#RNTQuODIuMTY5LjE4OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -123,7 +123,7 @@
                     <code>design,frontend,software,web,css,mobile,lead,analytics,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-swish-148596" align="right" target="_blank">Apply</a>
@@ -137,7 +137,7 @@
 <span style="font-size:12pt;">Launched in February 2013, </span><b style="font-size:12pt;"><a href="http://www.swishlabs.com/" class="postings-link" rel="noopener noreferrer nofollow">Swish</a></b><span style="font-size:12pt;"> is a fast-growing business with an innovative working culture and teams spanned across the world with teams in Toronto, San Francisco, Berlin, Auckland, Bruxelles, Medellin, and more. </span>
 </div><div><br></div><div><span style="font-size:12pt;">We create products for successful business using cutting-edge technologies: Blockchain, Machine Learning, and Apps Dev. Working with Swish puts you in contact with prestigious brands, wherever your base is. We are a 100% remote-work company because we believe it is everyoneâs choice to live and work the way they prefer.</span></div><div><br></div><div><span style="font-size:12pt;">Work is organized in sprints Â - 2 weeks periods to which, as a member of our talent community, you choose to commit. You always have the choice to accept or decline a sprint, or take-on multiple sprints simultaneously. </span></div><div><br></div><div><span style="font-size:12pt;">We let members choose what suits them best depending on their current situation: family, travel, studies, finance. We know life is not linear and we respect the humans behind the screens. </span></div><div><br></div><div>
 <span style="font-size:12pt;">Our work ethic relies on six core values: Transparency, Directness, Meritocracy, Autonomy, Responsibility, </span><span style="font-size:16px;">Continuous</span><span style="font-size:12pt;"> Learning.</span>
-</div><div><br></div><div><span style="font-size:12pt;">Ensuring a diverse and inclusive workplace where we learn from each other is core to our values. We welcome people of different backgrounds, experiences, abilities, and perspectives. We are an equal opportunity employer and a fun place to work. </span></div><div><br></div><div><span style="font-size:12pt;">Join the future of work today.</span></div><div><br></div><br/><br/>Please mention the word **GODSEND** and tag RNDQuMjAzLjE5Mi4yMDM= when applying to show you read the job post completely (#RNDQuMjAzLjE5Mi4yMDM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><div><br></div><div><span style="font-size:12pt;">Ensuring a diverse and inclusive workplace where we learn from each other is core to our values. We welcome people of different backgrounds, experiences, abilities, and perspectives. We are an equal opportunity employer and a fun place to work. </span></div><div><br></div><div><span style="font-size:12pt;">Join the future of work today.</span></div><div><br></div><br/><br/>Please mention the word **GODSEND** and tag RNTQuODIuMTY5LjE4OQ== when applying to show you read the job post completely (#RNTQuODIuMTY5LjE4OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -152,7 +152,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-software-engineer-backend-python-100-remote-1" align="right" target="_blank">Apply</a>
@@ -233,7 +233,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-backend-engineer-python-9" align="right" target="_blank">Apply</a>
@@ -303,7 +303,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/covergo-senior-backend-engineer-net-4" align="right" target="_blank">Apply</a>
@@ -344,78 +344,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Rainforest QA</h5>
-                    <h3> Senior Engineer (Backend)</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>126 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://www.rainforestqa.com/">https://www.rainforestqa.com/</a>
-</p>
-
-<div><strong>About Rainforest</strong></div><div>Rainforest QA is a distributed company full of smart, capable people from around the world who enjoy working together to make our customers successful.</div><div><br></div><div>Our mission is to make product quality accessible for every software company. The Rainforest QA solution combines no-code test automation and crowdsourced testing in a single, one-of-a-kind QA platform, allowing anyone to get the exact insights they need to release with quality, quickly.  </div><div><br></div><div><strong>About the Team</strong></div><div>As a Senior Engineer at Rainforest QA you'll be part of an experienced and diverse team with members all over the world.</div><div><br></div><div>We were built as a distributed team from the beginning and we've committed to implementing tools and processes that allow for and support continuous and effective communication across the world.<br><br><strong>About the Role</strong>
-</div><ul>
-<li>Work on our main app, which contains the majority of our business logic and is written in Ruby-on-Rails and backed by PostgreSQL and Redis</li>
-<li>Work on numerous support services (including our work scheduler and VM management system - both of which manage hundreds of thousands of requests a day) written in a variety of languages (Elixir, Golang, Crystal, Node, Python) chosen because of their suitability to the problem the service is solving</li>
-<li>Work on internal tooling to improve the development experience of other engineers and ship faster and safer</li>
-<li>Collaborate with product managers and our customer facing teams to analyze customer problems and design high impact features</li>
-<li>Lead projects to implement those features</li>
-<li>Help other team members to achieve their goals</li>
-<li>Continuously learn about new technologies and ways to solve problems</li>
-<li>Work with our customer facing teams to triage, troubleshoot, and fix bugs</li>
-<li>Write unit and integration tests (using our own product!) to ship high quality software</li>
-</ul><div><strong>About You</strong></div><ul>
-<li>Extensive experience in Ruby (or equivalent dynamic language) and be extremely knowledgeable of the language and associated ecosystem</li>
-<li>Extensive experience in Ruby on Rails (or equivalent framework) and be extremely knowledgeable of the framework and associated ecosystem</li>
-<li>Experience in writing and debugging SQL</li>
-<li>Enthusiasm for building applications using tools like Ruby on Rails, Golang, Elixir, React, PostgreSQL, Redis, BigQuery, and Kubernetes - amongst others</li>
-<li>Practical experience of working on a React codebase</li>
-<li>Even though this position is mainly backend focused, we expect you to have some grasp of the whole stack to be able to effectively communicate with engineers across the team, and can make frontend or infrastructure changes when the situation calls for it</li>
-<li>Professional experience in engineering SaaS products</li>
-<li>Experience leading projects with teams</li>
-<li>An ownership mindset: you should look not only at what you’re asked to do, but ask why you’re doing it and how it impacts on the rest of the product, our customers, and whether it makes sense. We expect you to be responsible for your work and to resolve any bugs you might ship</li>
-<li>Excitement to learn</li>
-<li>Excellent communication skills and able to give and receive constructive feedback</li>
-<li>Happy to review code and have your code reviewed</li>
-<li>Can work effectively remotely with remote team members (we are a fully distributed company)</li>
-<li>Comfortable working in a large codebase with many stakeholders</li>
-</ul><div>How we’ll reward you</div><ul>
-<li>Competitive salary plus equity.</li>
-<li>100% company-paid medical, dental, and vision insurance coverage for employees, 75% for dependents (U.S., only).</li>
-<li>Unlimited paid time-off (PTO).</li>
-<li>A weekly allowance for lunches and a monthly allowance for remote office supplies or personal development.</li>
-<li>Semi-annual company off-sites in exciting destinations around the world.</li>
-<li>12 weeks of paid maternity leave and 8 weeks of paid leave for supporting parents.</li>
-<li>401k (U.S., only).</li>
-</ul><div>
-<br><strong>A Note on Diversity and Inclusion</strong>
-</div><div>At Rainforest we believe that diverse teams improve our business. We are an equal opportunity employer and do not discriminate on the basis of race, religion, color, nationality, gender, sexual orientation, age, marital status, veteran status, or disability status.</div><div><br></div><div>Due to employment laws, we are unable to hire individuals internationally located in these following countries at this time: China, France, Iran, Egypt, Russia.</div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2">https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-backend-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1479998/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -426,7 +354,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
@@ -451,7 +379,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
