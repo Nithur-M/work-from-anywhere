@@ -1,5 +1,68 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/37c9fea3899a885e3b0eaef5966e1a521668582958.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Zilliqa</h5>
+                    <h3>Tools and API Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,security,python,software,code,api,lead,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-tools-and-api-developer-zilliqa-149641" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h1><strong>Tools and API Developer</strong></h1>
+<h1><strong>Role</strong></h1>
+<p><span style="font-weight:400;">We are looking for a versatile and experienced software developer to lead Zilliqaâs developer experience and tools team.</span></p>
+<h3><strong>Responsibilities</strong></h3>
+<p><span style="font-weight:400;">Working in the developer experience group, you will be responsible for:</span></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Maintaining Zilliqaâs public-facing tools, APIs, and source code; this includes implementing enhancements, keeping our tools up to date and buildable, monitoring and addressing security issues and issues from the community.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Working to open-source as much of Zilliqaâs internal tooling and infrastructure as possible.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Building tooling to allow Zilliqa and our community members to work as efficiently as possible - this includes adopting, improving and building new tools for deploying our projects as quickly and easily as possible, for testing, observability and maintenance, and debugging and troubleshooting.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Managing the services we provide to partners and our community and arrange for appropriate maintenance by the teams responsible for them, or where appropriate, yourself.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Monitoring the use of our tools and external APIs to judge what should be extended or retired, and what new facilities might be useful to us and our community.</span></li>
+</ul>
+<h3>
+<strong>Requirements</strong><span style="font-weight:400;"> </span>
+</h3>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">A good working knowledge (or the ability to acquire it) of:</span></li>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Typescript, yarn, node.js, npm, javascript</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Rust, C++, golang</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">HTML, CSS, SASS, React, Vue and Svelte</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Docker (and probably in the future podman) and other container technologies</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">AWS, kubernetes and various databases (including Postgres and MongoDB)</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">CICD systems - specifically, travis.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Some python would be an advantage.</span></li>
+</ul>
+<li style="font-weight:400;"><span style="font-weight:400;">You will need to be adaptable and find it easy to work with unfamiliar technologies and codebases relatively quickly.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">A good sense of how to write code so that others can easily pick up and use it, and for what level of sophistication yields the best tradeoff between developer efficiency and coding efficiency.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">An ability to understand complex distributed systems and build tools that work effectively across them.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">You will need a degree in Computer Science (or a related subject) and at least 3 years of experience.</span></li>
+</ul>
+<p> </p>
+<h3><strong>Desirable</strong></h3>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Cryptocurrency or blockchain experience.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">DevOps experience - in particular with terraform and ansible</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Team leadership experience.</span></li>
+</ul>
+<p> </p>
+<p><strong>To apply, submit your resume in PDF format or LinkedIn Profile.</strong></p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/ot3H0DrY6L4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **FABULOUS** and tag RNTQuODIuMTY5LjE4OQ== when applying to show you read the job post completely (#RNTQuODIuMTY5LjE4OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/117a9acdc450cfb377e8b21ea39704e31668496535.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +73,7 @@
                     <code>developer,web,design,crypto,nft,cryptocurrency,ethereum,python,ui,code,javascript,cloud,senior,golang,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-full-stack-web-developer-enya-149103" align="right" target="_blank">Apply</a>
@@ -33,69 +96,7 @@
 <li>Expertise in working with backend stacks including NodeJs</li>
 <li>Experience with Golang (and/or Python is a plus) is preferred</li>
 <li>Familiarity with cloud services (AWS, GCP)</li>
-</ul><div><br></div><div><span style="font-size:18px;">About Enya</span></div><div><br></div><div><span style="font-size:11pt;">Enya Labs is a contributor to the Boba Network, a multichain Layer 2 that reduces the barriers of adoption for users and developers. We are empowering Gaming, DeFi, and NFT projects to scale more cost-effectively while delivering a smoother user experience. Boba's Hybrid Compute technology enables developers across the blockchain ecosystem to build dApps that invoke code executed on web-scale infrastructure, making it possible to leverage sophisticated algorithms that are either too expensive or impossible to execute on-chain. </span></div><br/><br/>Please mention the word **ENRAPTURED** and tag RNDQuMjAzLjE5Mi4yMDM= when applying to show you read the job post completely (#RNDQuMjAzLjE5Mi4yMDM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/02548642c06feef77ae7cc7348ec7d351668237362.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>C3 Protocol</h5>
-                    <h3>Developer Relations</h3>
-                </td>
-                <td width="300">
-                    <code>developer,javascript,financial,lead,engineering,full-time,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-developer-relations-c3-protocol-147541" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro"><h2>About The Role</h2></div><p><strong>Job Description:</strong></p>
-<p>We are looking for a very passionate individual who can develop and lead our developer relations efforts on C3. In this Developer Relations role, you will manage all aspects of C3âs relationship with the developer community. You will be developing the best tools, tutorials, and documentation to promote the use and benefits of C3 as well as future developments with C3. Moreover, you will be directly engaging the community of developers through different mediums, including Discord, Reddit, forums, hackathons, and virtual events to address questions and promote the use of C3. This is a great opportunity to work with and promote leading technologies, be part of an amazing community, and develop open-source mentality.</p>
-<p><strong>Responsibilities:</strong></p>
-<ul>
-<li>Become an expert in C3 applications and technologies</li>
-<li>Manage C3 relationship with its developer community on community-led initiatives</li>
-<li>Handle questions regarding functionality and documentation pertaining to C3</li>
-<li>Create C3 documentation that can be leveraged for both internal and external consumption</li>
-<li>Assist and work closely with trading firms and individual engineers in integrating C3 APIs.</li>
-<li>Build tools and tutorials for devs and champion them for our engineering team to prioritize</li>
-<li>Manage the developer journey from website to documentation to tools</li>
-</ul>
-<p><strong>Requirements:</strong></p>
-<ul>
-<li>Fluency with REST APIs</li>
-<li>1+ year of developer relations, technical community management, similar experience</li>
-<li>3+ years engineering experience</li>
-<li>Understanding of trading and financial markets</li>
-<li>Empathy with the user experience for cryptocurrencies</li>
-<li>A keen aptitude for sharp feedback and structured communication</li>
-<li>Desire to work on building things the ârightâ way to make sure our technical foundation is solid as we build on top of it over the coming years</li>
-</ul>
-<p><strong>Bonus Points:</strong></p>
-<ul>
-<li>Familiarity with the JavaScript and/or Python</li>
-</ul>
-<p><strong>Benefits:</strong></p>
-<ul>
-<li>We offer a full-time 100% remote position, contract and long term positions</li>
-<li>International competitive salaries.</li>
-<li>Flexible vacations</li>
-<li>Flexible Hours</li>
-<li>Amazing opportunities</li>
-<li>Cutting edge technologies</li>
-</ul>
-<p><strong>Location:</strong></p>
-<ul>
-<li>Remote: GMT-7 to GMT -2</li>
-</ul><br/><br/>Please mention the word **SUBSIDIZED** and tag RNDQuMjAzLjE5Mi4yMDM= when applying to show you read the job post completely (#RNDQuMjAzLjE5Mi4yMDM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><br></div><div><span style="font-size:18px;">About Enya</span></div><div><br></div><div><span style="font-size:11pt;">Enya Labs is a contributor to the Boba Network, a multichain Layer 2 that reduces the barriers of adoption for users and developers. We are empowering Gaming, DeFi, and NFT projects to scale more cost-effectively while delivering a smoother user experience. Boba's Hybrid Compute technology enables developers across the blockchain ecosystem to build dApps that invoke code executed on web-scale infrastructure, making it possible to leverage sophisticated algorithms that are either too expensive or impossible to execute on-chain. </span></div><br/><br/>Please mention the word **ENRAPTURED** and tag RNTQuODIuMTY5LjE4OQ== when applying to show you read the job post completely (#RNTQuODIuMTY5LjE4OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -110,7 +111,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-4" align="right" target="_blank">Apply</a>
@@ -194,7 +195,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-website-developer-1" align="right" target="_blank">Apply</a>
@@ -275,7 +276,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tag-media-web-developer-2" align="right" target="_blank">Apply</a>
@@ -346,53 +347,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/3300/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Simvoly</h5>
-                    <h3> Java Developer (Full-Stack)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/simvoly-java-developer-full-stack-4" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/3300/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Plovdiv, Bulgaria
-    <br /><strong>URL:</strong> <a href="https://simvoly.com">https://simvoly.com</a>
-</p>
-
-<div>Simvoly is already a fairly large platform that includes various tools for business - <strong>drag &amp; drop website builder, funnels, e-commerce, email marketing, and more</strong>. We are currently hosting over 900,000 websites worldwide and growing fast. We have very interesting and disruptive ideas for the platform in 2022 and the upcoming years so we need highly motivated and passionate people to join the team!</div><div><br></div><div>We are currently looking for a person to get involved in the whole process of discussing and implementing various features of our platform. There are a lot of interesting challenges, so it's definitely not boring. Your voice will be heard and you will have a direct impact on a platform used by tens of thousands of people.</div><div><br></div><div>First and foremost we are looking for:</div><ul>
-<li>Strong problem-solving skills.</li>
-<li>Open to new ideas / tools / frameworks.</li>
-<li>Good knowledge of Java and building web apps with it (at least 3 years of experience)</li>
-<li>Experience with vanilla JavaScript, Svelte or Angular is preferred.</li>
-<li>We are based on AWS and experience with it, or building cloud-native apps is a plus (while not a requirement).</li>
-</ul><div>The position is fully remote as well as everyone else in the company. We are a small team looking to grow as we have some awesome ideas in mind to make something even more unique as a platform. Some of the perks:</div><ul>
-<li>
-<strong>Flexible Working Hours</strong> - We want you to enjoy working on the platform and that's why there are no fixed schedules.</li>
-<li>
-<strong>20 Vacation Days</strong> - You can enjoy 20 paid vacation days per year.</li>
-<li>
-<strong>Employee Shares</strong> - We plan to introduce employee shares in the near future which you can take part in.</li>
-</ul><div>The scope of the position would be to take part in the discussion of certain platform features (for example to build a Learning Management Module), propose ideas on what would be the best approach to implementing them, and actively take part in implementing it. </div><div><br></div><div>There are no scheduled meetings and tedious corporate processes, we are a product company, focusing on our product and building something we are all proud of at the end of the day. </div><div><br></div><div>Last but not least, you will work directly with the creators of the platform and we aim to build the first Unicorn company coming out of Bulgaria. If you want to join our journey and can help us achieve those goals, we welcome you to our team!</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/simvoly-java-developer-full-stack-4">https://weworkremotely.com/remote-jobs/simvoly-java-developer-full-stack-4</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -403,7 +357,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/upkoi-inc-senior-full-stack-net-developer-4" align="right" target="_blank">Apply</a>
@@ -456,7 +410,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/outscal-technologies-inc-unreal-developer" align="right" target="_blank">Apply</a>
@@ -499,6 +453,87 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8287/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Everbloom</h5>
+                    <h3> Senior Full Stack Web Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/everbloom-senior-full-stack-web-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8287/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Amsterdam
+    <br /><strong>URL:</strong> <a href="https://everbloom.app">https://everbloom.app</a>
+</p>
+
+<div>
+<strong>Job description<br></strong><br>
+</div><div>We are hiring a<strong> Senior Full Stack Web Developer </strong>to help build out our NFT platform.  As we grow, you'll be responsible for helping to manage our engineering organization and will help with hiring as well. This will be an incredibly crucial, exciting, and creative role. We are looking for someone passionate about creativity, digital self-expression, and decentralization.<br><br>
+</div><div>
+<strong><br>The position is fully remote, but 4+ hours of working day overlap with the CET timezone is required.</strong><br><br>
+</div><div>
+<strong>Responsibilities<br></strong><br>
+</div><ul>
+<li>Architect and build new features, tools, and workflows for Everbloom’s web marketplace</li>
+<li>Build clean, testable, maintainable, and idiomatic code, and drive the team forward in relation to code quality</li>
+<li>Collaborate with Design, Product, and Marketing teams in prototyping, user testing, and implementing new features</li>
+<li>Partner cross-functionally with fellow engineers to ensure consistency is maintained across platforms</li>
+</ul><div><br></div><div>
+<strong>Job Requirements:<br></strong><br>
+</div><ul>
+<li>Solid knowledge of best practices in engineering and architecture<br><br>
+</li>
+<li>4+ years Front-end development experience with Javascript, React/Next.js<br><br>
+</li>
+<li>Good eye for pixel-perfect UI<br><br>
+</li>
+<li>4+ years Back-end development experience with Node/Express.js/Serverless/MongoDB/PostgreSQL/Firestore or similar DB tech<br><br>
+</li>
+<li>Experience in building scalable backends<br><br>
+</li>
+<li>Rapid prototyping experience<br><br>
+</li>
+<li>Capability to work on tight deadlines<br><br>
+</li>
+<li>Excellent English communication, written and verbal<br><br>
+</li>
+<li>Excellent problem-finding and solution-finding skills<br><br>
+</li>
+<li>Interest in Web 3 / Blockchain technologies<br><br>
+</li>
+</ul><div>
+<strong>Preferred Qualifications:<br></strong><br>
+</div><ul>
+<li>Solidity or Cadence smart contract development and/or passion for Web 3 products<br><br>
+</li>
+<li>Prior experience working in fast-moving teams<br><br>
+</li>
+<li>Experience in shipping products<br><br>
+</li>
+<li>Passionate about building and shipping products<br><br>
+</li>
+<li>Background in consumer apps such as social, fintech, or marketplaces</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/everbloom-senior-full-stack-web-developer">https://weworkremotely.com/remote-jobs/everbloom-senior-full-stack-web-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5406/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -509,7 +544,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/aldrin-senior-react-native-mobile-developer-web3-remote-2" align="right" target="_blank">Apply</a>
@@ -579,7 +614,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>62 days ago</text>
+                <text>63 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
@@ -630,7 +665,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>64 days ago</text>
+                <text>65 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -694,6 +729,144 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Storetasker</h5>
+                    <h3> Senior Shopify Developer (Remote + Flexible)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>660 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/8032/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Brooklyn, NY
+    <br /><strong>URL:</strong> <a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_expert">https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_expert</a>
+</p>
+
+<h1>Shopify developers love to freelance with Storetasker.</h1><ul>
+<li>
+<strong>Endless, quality clients: </strong>from well known DTC brands to top agencies. </li>
+<li>
+<strong>Fully remote, flexible: </strong>work as much or as little as you want, wherever you want. </li>
+<li>
+<strong>A talented and helpful community: </strong>it's freelance (with a team).</li>
+<li>
+<strong>Earn $80-$120 per hour: </strong>pick your clients, and send your own quotes or retainers. <br><br>
+</li>
+</ul><div>We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: <a href="https://www.alphaindustries.com/">Alpha Industries</a>, <a href="https://www.bollandbranch.com/">Boll &amp; Branch</a>, <a href="https://getsuperfluid.com">Superfluid</a>, <a href="https://jackhenry.co/">Jack Henry</a>, <a href="http://plenaire.co/">Plenaire</a>, and <a href="https://walkfulton.com/">Fulton</a> among many more. <br><br><strong>Why Storetasker?</strong>
+</div><ul>
+<li>
+<strong>Endless clients &amp; project opportunities:</strong> you’ll see between 5 - 50 new opportunities per day and can pick any lead you want. </li>
+<li>
+<strong>You’ll earn more:</strong> some experts are making $150-200k per year. </li>
+<li>
+<strong>A high quality community:</strong> we carefully select about 5% of those who apply. </li>
+<li>
+<strong>Remote:</strong> work from anywhere, anytime. </li>
+<li>
+<strong>Flexible:</strong> take on as many clients as you want.</li>
+<li>
+<strong>No external ratings:</strong> you’re already a professional. No need to prove it. </li>
+<li>
+<strong>Great Software:</strong> that makes it easy to manage more clients and increase billable hours.</li>
+<li>
+<strong>Support when you need it:</strong> we offer project support 7 days per week. </li>
+<li>
+<strong>Community (not competition):</strong> you pick your clients, projects, and never compete against other Experts in the community. </li>
+</ul><div><br></div><div>
+<a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>Learn more and join</strong></a>! It’s confidential, and takes less than 5 minutes. <br><br><strong>Here's who we're looking for:</strong>
+</div><ul>
+<li>Ambitious part time and full-time freelancers and boutique agencies.</li>
+<li>Who have 3+ years of Shopify experience, and 5+ years of web development experience. </li>
+<li>And who have managed projects, deadlines, and communication successfully. </li>
+</ul><div>
+<br><strong>Especially people with some of these skills:</strong>
+</div><ul>
+<li>Front-end or full-stack Shopify development</li>
+<li>Klaviyo Email flows</li>
+<li>Headless e-commerce development</li>
+<li>Conversion rate optimization</li>
+<li>E-commerce expertise and strategy</li>
+<li>SEO </li>
+<li>Site Speed</li>
+<li>Builder and/or Shogun</li>
+</ul><div>
+<br><a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>It takes just a few minutes to join.</strong></a><br><br><strong>Here's what a few current members have to say:</strong><br><br>"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!" - Adan, United States, Storetasker Expert since March 2020<br><br>"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”" - Mark, England, Storetasker Expert since 2019<br><br>"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow." - Siah, Canada, Storetasker Expert since 2017<br><br><strong>Our Mission: </strong><br><br>We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.  <br><br><strong>Questions?</strong> Reach out at experts@storetasker.com.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1">https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1497219/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MirrorMe3D</h5>
+                    <h3>iOS Developer</h3>
+                </td>
+                <td width="300">
+                    <code>api,developer,ios,mobile</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/ios-developer-1497219" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;"><em><span style="color: #050c26;"> Contract to Full-time Opportunity<br></span></em><br><br><span style="color: #050c26;">Want to build an app with impact? This may be the place for you!</span></p>
+<p style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;">MirrorMe is looking for an enthusiastic and highly motivated iOS developer to help us reach more patients and help them connect with more doctors, the worldover. We are looking for someone who is passionate about building exceptional apps and experiences for users and who has a strong desire to deliver elegant code and intuitive UI.</p>
+<p style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;">If you love to tackle new challenges, learn new frameworks, and work alongside a results-oriented team, please read below to make sure your experience aligns with our needs and reach out with any questions.</p>
+<p style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;">Responsibilities:</p>
+<ul style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-top: 16px; margin-bottom: 24px; padding-left: 32px; color: #050c26;">
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Create and architect MirrorMe mobile applications</li>
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Maintain and improve existing features on existing application</li>
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Maintain and refactor existing codebase to best practices and new features</li>
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Reference Apple HIG and iOS best practices</li>
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Utilize Fastlane and Continuous Integration tools</li>
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Assess feasibility and develop timelines on implementing new features</li>
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Work with web developers on API integrations and consume RESTful APIs</li>
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Deliver clean, well-tested code and meet deadlines</li>
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Engage in regular sprint planning, feature specification meetings, and code reviews</li>
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Continuously learn and grow as a developer, keeping up to date with emerging technologies and trends</li>
+</ul>
+<p style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;">Requirements:</p>
+<ul style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-top: 16px; margin-bottom: 24px; padding-left: 32px; color: #050c26;">
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">In depth knowledge of what it takes to build production ready iOS mobile applications</li>
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Experience with and interest in ARKit, CoreMotion, and other 3D frameworks</li>
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Bachelor’s degree in computer science, engineering or the equivalent in software development experience</li>
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">At least 3 years of experience in development of commercial mobile applications and production level code</li>
+</ul>
+<p style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;">Nice to haves:</p>
+<ul style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-top: 16px; margin-bottom: 24px; padding-left: 32px; color: #050c26;">
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Strong communication skills</li>
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Strong desire to innovate and experiment</li>
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Strong desire to deliver results to add value and make a difference</li>
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Possess a user-centric focus </li>
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Possess a learning mindset</li>
+<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Ability to adapt, constantly monitoring and learning of new technologies and the market landscape</li>
+</ul>
+<img src="https://remotive.com/job/track/1497219/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1255705/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -704,7 +877,7 @@
                     <code>cloud,developer,sql,growth</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-tibco-developer-1255705" align="right" target="_blank">Apply</a>
@@ -729,7 +902,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -806,7 +979,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -832,7 +1005,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -909,7 +1082,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -976,7 +1149,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
