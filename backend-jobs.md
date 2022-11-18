@@ -1,143 +1,134 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/c9c8f7b1670de7aaa6e3af78d07316f01668496545.peg" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/163304b868315c16e244230755b2ed3a1668669378.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>LUKSO</h5>
-                    <h3>Senior Backend Engineer Relayer</h3>
+                    <h5>Upvest</h5>
+                    <h3>Senior Backend Engineer Client Journey</h3>
                 </td>
                 <td width="300">
-                    <code>design,web3,defi,ethereum,developer,testing,web,devops,cloud,typescript,lead,senior,health,engineer,engineering,backend,digital nomad</code>
+                    <code>founder,financial,investment,fintech,postgresql,api,senior,reliability,go,engineer,backend,full-time</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-relayer-lukso-149107" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-client-journey-upvest-150189" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>As a Back End Engineer in the LUKSO engineering team, your mission is to partner with us to enhance our backend capabilities and build new features. You will contribute to the development of building various APIs, backend queuing systems or/and blockchain transaction relay services. Some of these will be off-chain solutions whilst others will be integrated with on-chain solutions.<br><br><span style="color:rgb(0, 0, 0);font-family:-apple-system ,;">LUKSO is focused on bringing blockchain technology to its next frontier with new tools and standards that will revolutionize the way the world interacts with blockchain. Creators and users will be able to have a seamless Web3 experience with LUKSO's future-proof solutions and we welcome talent around the world to join us in building the most innovative tools for the New Creative Economy.</span><br style="color:rgb(0, 0, 0);font-family:-apple-system ,;"><br style="color:rgb(0, 0, 0);font-family:-apple-system ,;"><span style="color:rgb(0, 0, 0);font-family:-apple-system ,;">LUKSO was Co-Founded by Chief Blockchain Architect, </span><a href="https://www.linkedin.com/in/fabian-vogelsteller-46365042/" rel="noreferrer noopener nofollow" style="background-color:rgb(255, 255, 255);text-decoration:none;color:rgb(44, 92, 197);cursor:pointer;font-family:-apple-system ,;">Fabian Vogelsteller</a><span style="color:rgb(0, 0, 0);font-family:-apple-system ,;">, author of ERC-20, ERC-725, Web3.js, Mist Browser and former Lead Dapp developer of Ethereum and </span><a href="https://www.linkedin.com/in/marjorie-hernandez-3059473a/" rel="noreferrer noopener nofollow" style="background-color:rgb(255, 255, 255);text-decoration:none;color:rgb(44, 92, 197);cursor:pointer;font-family:-apple-system ,;">Marjorie Hernandez</a><span style="color:rgb(0, 0, 0);font-family:-apple-system ,;">, an early blockchain strategist working with Ethereum, IOTA Foundation and world-renowned brands, who also Co-Founded </span><a href="https://discover.thedematerialised.com/" rel="noreferrer noopener nofollow" style="background-color:rgb(255, 255, 255);text-decoration:none;color:rgb(44, 92, 197);cursor:pointer;font-family:-apple-system ,;">THE DEMATERIALISED</a><span style="color:rgb(0, 0, 0);font-family:-apple-system ,;">.</span><br style="color:rgb(0, 0, 0);font-family:-apple-system ,;"><br style="color:rgb(0, 0, 0);font-family:-apple-system ,;"><span style="color:rgb(0, 0, 0);font-family:-apple-system ,;">LUKSO is now being developed by 40+ people around the globe and we are looking for motivated and passionate people who are up to the task of joining us in building out the foundation for the New Creative Economy and the apps that power it.</span><br>--<br><strong>In one year youâll know you were successful if youâveâ¦<br></strong></p><ul>
-<li>Worked closely with Product Owners and third-party service consumers on the development of the new features.</li>
-<li>Produced quality codebase with maximum simplicity and testability that is well documented.</li>
-<li>Worked with technologies such as RESTful APIs, becoming the subject matter expert.</li>
-<li>Helped to shape LUKSOâs core development mission, with your influence and expertise.</li>
-</ul><p><strong>A background like this helps:</strong></p><ul>
-<li>Several years of professional experience working with Gitflow (or being able to compromise on this with the team).</li>
-<li>Node.js experience (such as NestJS, Express or similar)..</li>
-<li>Additional experience in TypeScript and/or experience in hard typed language.</li>
-<li>Experience working with Domain driven design (separation of concern or SoA - service oriented architecture).</li>
-<li>Familiar with testing libraries such as Jest, Mocha, Cypress</li>
-<li>Good understanding of SQL.</li>
-<li>Great communicator and able to construct needs/requirements properly.</li>
-<li>Knowledge of DevOps basics, but also maybe specifics of Cloud Services and containerisation</li>
-<li>Collaboration on the requirements, needs and flaws.</li>
-<li>Understanding of scrumban/ all the standard rituals for agile approach.</li>
-<li>Knowledge of queueing systems is great to have.</li>
-<li>Understanding of stateful web with websockets is a massive plus.</li>
-<li>Kubernetes knowledge is also a massive plus.</li>
-<li>A demonstrated interest in cryptocurrencies/blockchain/web3 Technology, attending conferences or even being involved with DAOs, with a willingness and eagerness to learn on a daily basis. </li>
-</ul><div><strong>What We Offer:</strong></div><ul>
-<li>Innovation-driven working environment, where youâll be part of a project that aims to set new standards in the industry and change the world we live in: doc.lukso.tech</li>
-<li>Team lunches and social activities</li>
-<li>Regular in-office health & sporting activities</li>
-<li>Collaborative squads and a flat structure, with a renowned team of industry experts</li>
-<li>Work fully remote CEST +/-6h or from our picturesque LUKSO office located next to the Spree river in Berlin, Germany</li>
-</ul><div>--</div><div>LUKSO is the new blockchain for the Creative Economy. As a next-generation layer-1 EVM blockchain, LUKSO has introduced new tools and standards that will bring blockchain technology to its next frontier. The building blocks for the New Creative Economy will revolutionize the way users and creators interact with the blockchain. From Fashion, Art, Music, Entertainment, Gaming, Social Media and more, we welcome you to explore our open and interoperable blueprint for the physical and digital worlds.</div><div><br></div><div>LUKSO has introduced new standards called LUKSO Standard Proposals (LSPs), which are the building blocks for the New Creative Economy. These building blocks can be used to create user-friendly dApps and lower the barriers of entry in Web3 for all creators and users.</div><div><br></div><div>
-<a href="https://docs.lukso.tech/standards/universal-profile/introduction" rel="noreferrer noopener nofollow"><strong>Universal Profiles</strong></a> bring social identity to blockchain and improve the overall user experience in Web3. With upgradable security, these platform-agnostic smart-contract-based accounts empower users and creators and allow for true ownership, interoperability, transaction relay services and more.  </div><div><br></div><div>LUKSOâs new standards allow for flexible NFTs that are extensible and directly compatible with Universal Profiles. <a href="https://docs.lukso.tech/standards/nft-2.0/introduction" rel="noreferrer noopener nofollow"><strong>NFTs 2.0</strong></a> are updatable, safer and have unlimited metadata, batch transfers and even better IDs.</div><div><br></div><div>LUKSO is bringing blockchain beyond DeFi with <strong>Cultural Currencies</strong>. The future of blockchain is social, and LUKSOâs essential, future-proof solutions are reshaping the way the world interacts with the blockchain.</div><div><br></div><div>
-<strong>You belong here.</strong><br><br>At LUKSO, we welcome applicants from around the world of all abilities, race, ethnicity, gender/gender expression and age to explore our solutions and join us in building out the foundation for the New Creative Economy. We look forward to meeting you!</div><br/><br/>Please mention the word **EASES** and tag RNTQuODIuMTY5LjE4OQ== when applying to show you read the job post completely (#RNTQuODIuMTY5LjE4OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p>Weâre looking for fintech enthusiasts to join us in creating the financial infrastructure of tomorrow. Weâre building the first European Investment API to enable any financial institution to offer a broad range of investment products in their apps. Our view is backed by Europe's largest tech VCs (Earlybird, Notion Capital, Partech, HV Capital, ABN AMRO Ventures) by renowned fintech entrepreneurs (including <a target="_blank" href="https://www.linkedin.com/in/ACoAAA5D6LAB1cJ1GBRZ8whwsc6ZI78kDf1Ulx0" rel="noopener noreferrer nofollow">Maximilian Tayenthal</a>, founder of N26, and <a target="_blank" href="https://www.linkedin.com/in/ACoAAAAAH8AB8C9RXofd6q-Ux6PSMs23ahwpU8U" rel="noopener noreferrer nofollow">Felix Haas</a>, founder of IDnow) and Bessemer Venture Partners in the USA. <br></p><p>Weâre based in Berlin but would consider <strong>hiring</strong> <strong>remotely</strong> for this role. If you do want to move to Berlin though, weâre happy to support your relocation.</p><p>At Upvest, our vision is <strong>to make investing as easy as spending money</strong>. By enabling any business to offer investment opportunities, our goal is to empower anyone to invest. Today, we count 100+ talented people from 20 different countries.<br><strong></strong></p><p><strong>Role background</strong></p><p>We are seeking a full-time backend engineer to build a securities API for financial institutions, the first such API in Europe. Your goal is to take ownership of designing, developing and maintaining our microservice architecture (written in Go). </p><p><strong>Responsibilities we'll trust you with:</strong></p><ul>
+<li>Designing and building fault-tolerant, horizontally scalable systems using Microservice architecture powered by Docker, Kubernetes, LinkerD service mesh, and Kong as a Gateway</li>
+<li>Building event-driven applications using Kafka</li>
+<li>Working on different aspects of our API-product portfolio</li>
+<li>Developing data processing and storing mechanisms</li>
+<li>Working on improving the reliability of our API tools, as well as developing innovative new tools</li>
+<li>Working with an agile methodology with flexible processes</li>
+<li>Working with the cutting edge technologies (Go is the primary language) without legacy codebase</li>
+</ul><p><strong>What you'll bring:</strong></p><ul>
+<li>Prior experience with distributed systems</li>
+<li>Experience in Go (or willingness to make Go your day-to-day language)</li>
+<li>Fluency with SQL databases such as PostgreSQL (transaction isolation, performance optimisation)</li>
+<li>Fluency with event-driven architecture and concurrent algorithms</li>
+<li>Being proactive in learning new stacks and having a high sense of ownership</li>
+</ul><p><strong>It's nice if you have:</strong></p><ul>
+<li>Experience with Investment products or Fintech domain in general is a big plus</li>
+<li>Experience in event-driven architectures, event streaming and event sourcing systems.</li>
+<li>Experience with non-SQL databases</li>
+<li>Experience with Docker, k8s, understanding principles of a service mesh</li>
+<li>Experience with Monitoring and Tracing using Datadog (or other modern observability tools)<strong></strong>
+</li>
+</ul><p><strong></strong><br></p><ul></ul><p><strong>Why Upvest?</strong></p><ul>
+<li>We're working on solving a hard problem: fixing the European securities financial infrastructure that empowers more people to be able to invest. You have the opportunity to contribute to this change.</li>
+<li>We invest in you. From access to a personal coach, development budget and plenty of opportunities to grow in your role.</li>
+<li>We take hiring seriously with a strong focus on keeping a high bar when interviewing (equally important is that we hire decent people, who are passionate about their craft and helping us achieve our shared mission).</li>
+<li>While we're not quite fully-remote, we are committed to being a flexible employer, as we understand you don't have to be in the office to do your best work.</li>
+<li>We live a culture of empowerment, trust (that we hire the best people and get out of their way) and openness (there's a greater advantage in sharing information than keeping it to ourselves).</li>
+</ul><p><strong>Our values:</strong><br></p><ul>
+<li>
+<strong>Learn and grow. </strong>We aim high to shape our future. We give and request honest feedback knowing that we develop together. Progression &gt; Perfection.</li>
+<li>
+<strong>Team first. </strong>We make it easy for others. We value our differences and are open to others' opinions. We win and celebrate together! Team &gt; Egos.</li>
+<li>
+<strong>Own the outcome. </strong>Whether we win or we lose, we stand together. We are proactive and get the job done. Outcome &gt; Process.</li>
+<li>
+<strong>Tell the story. </strong>We always start with the <em>why</em>. We share knowledge to empower others. Transparency &gt; Complexity.</li>
+</ul><br/><br/>Please mention the word **SENSATION** and tag RNTQuMTk4LjE0OC44Mw== when applying to show you read the job post completely (#RNTQuMTk4LjE0OC44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/b8400079cb1e6c050e60c6cd1bbf8d921668496519.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/d121d8cbdeef339fe9cfd9fde0731d0e1668669349.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>BitcoinCom</h5>
-                    <h3>Backend Engineer TradFi</h3>
+                    <h5>Coin Metrics</h5>
+                    <h3>BACKEND SOFTWARE ENGINEER MARKET DATA</h3>
                 </td>
                 <td width="300">
-                    <code>crypto,cryptocurrency,bank,java,lead,engineer,engineering,educational,backend</code>
+                    <code>software,crypto,cryptocurrency,bitcoin,ethereum,testing,video,analytics,recruiting,engineer,engineering,backend</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-tradfi-bitcoincom-149096" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-backend-software-engineer-market-data-coin-metrics-150173" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="styles--2BkR3">
-<p>Bitcoin.com's mission is to create more 'economic freedom' in the world. By economic freedom we mean the ability for individuals to freely acquire and use personal resources however they choose. We assert that economic freedom is a fundamental human right and a vital component of human dignity, and we believe that it is foundational for peaceful and prosperous societies.</p>
-<p>Our vision is to provide the next billion people with access to products that exemplify the ideals of Bitcoin. These ideals - which include peer-to-peer transactions, decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
-<p>Our approach is to develop and promote widely accessible products that support economic freedom. For example, our digital wallet - which has 29 million downloads - provides people with an easy-to-use, non-custodial method for buying, selling, storing, sending, receiving, and trading cryptocurrencies.</p>
-<p>We are seeking a talented Java Backend Engineer who shares our vision.</p>
-<p>Tradfi, or âTraditional Financeâ, is our way of introducing users to the exciting world of cryptocurrency. Leveraging our world renowned brand, you will guide users as they take the first step from their bank account to their first decentralized wallet. By creating exciting opportunities such as educational tools, rewards tokens, crypto card, shared wallets and much more, the TradFi team is at the heart of every users journey at [bitcoin.com](http://bitcoin.com). If youâre ready to onboard millions of users into the cryptocurrency ecosystem, tradfi is the fit for you.</p>
-<p>The position will require the successful candidate to work inter-departmentally across Engineering and Product Management.</p>
-<p><strong>Role:</strong></p>
-<ol>
-<li>Build features, infrastructure, architecture and applications for world-class cryptocurrency products and services</li>
-<li>Able to lead and oversee coding at all levels of the stack including engineering design, setting and ensuring high standards and best practices</li>
-<li>Build robust solutions that scale globally.</li>
-<li>Able to work to tight deadlines</li>
-<li>Expressive in a collaborative way when new features need to built fast, or older features need to be shut down</li>
-<li>Communicates thoughts in a clear and concise way</li>
-</ol>
-<p><strong>CoreÂ </strong><strong>Competencies</strong></p>
-<ol>
-<li>3+ years of Java or other object oriented languages</li>
-<li>Experience using common Java frameworks (Spring, RxJava)</li>
-<li>Strong knowledge of object-oriented design</li>
-<li>Communicates well in both written and verbal English</li>
-</ol>
-<p><strong>Nice To Have:</strong></p>
+                <div class="content-intro">
+<p>Coin Metrics is a leading provider of cryptoasset data for institutions. We deliver transparent and actionable data and analytics to various industry stakeholders including asset managers, custodians, trading venues, research desks, and data/application providers. Coin Metricsâ data empowers its clients and the public to better understand, use and value open crypto networks.</p>
+<p>Join a fast-paced startup pioneering novel metrics, data products, and intelligence solutions, which offer insights into the economics, markets, usage, health, and other aspects of public cryptocurrency blockchains like Bitcoin and Ethereum and other crypto networks.</p>
+<p>You will be surrounded by talented people passionate about decentralized economies and the data behind them. Break new ground, create exciting new data-driven research and products, and help shape the future of finance.</p>
+</div><h3><strong>YOUR PURPOSE</strong></h3>
+<p><span style="font-weight:400;">Coin Metrics is recruiting an experienced Backend Software Engineer to join our team to </span><span style="font-weight:400;">assist in developing our Market Data  offerings</span><span style="font-weight:400;">.</span></p>
+<h3><strong>YOUR VALUE</strong></h3>
 <ul>
-<li>Knowledge of working with Cassandra</li>
-<li>Worked with reactive frameworks</li>
-<li>Experience working within an Agile framework</li>
+<li style="font-weight:400;"><span style="font-weight:400;">Building distributed, reliable, and performant software architectures using Kotlin;</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Leading the development of a new Coin Metrics' product that produces metrics and exposes them via API;</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Working closely with network data and market data experts to build the product;</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Depth testing of your code;</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Contributing to documentation;</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Building and maintaining Market Data metrics;</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Building and maintaining Reference Rates;</span></li>
+<li style="font-weight:400;">
+<span style="font-weight:400;">Building and maintaining </span><span style="font-weight:400;">Crypto Indexes;</span>
+</li>
+<li style="font-weight:400;"><span style="font-weight:400;">Scaling and capacity planning.</span></li>
 </ul>
-<p><strong>Benefits</strong></p>
-<p>We are serious about what we do, but more importantly, we have a lot of fun doing it. Our work culture is modern, meaning we strive for work experiences based on transparency, productivity, trust, and passion. For all benefits include:</p>
+<h3><strong>YOUR EXPERTISE AND EXPERIENCE</strong></h3>
 <ul>
-<li>Flexible work hours</li>
-<li>Remote work</li>
-<li>Health insurance reimbursement</li>
-<li>Wellness program (gym, etc.)</li>
+<li style="font-weight:400;"><span style="font-weight:400;">5+ years of experience in a backend software engineering role or equivalent.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Proficiency in Kotlin/Java (Kotlin preferred or willing to learn Kotlin if not already proficient). </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Proficiency in SQL (preferably PostgreSQL).</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Strong curiosity for decentralized networks and cryptoassets.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Strong sense of ownership, entrepreneurial spirit, and/or startup-like experience, capable of driving towards solutions independently while seeking feedback when appropriate.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Basic understanding of how blockchains operate and their underlying data structures. </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with Docker, GitLab CI, Gradle, Kubernetes, Ansible, Python, Grafana, Linux.</span></li>
 </ul>
-</div><br/><br/>Please mention the word **DARLING** and tag RNTQuODIuMTY5LjE4OQ== when applying to show you read the job post completely (#RNTQuODIuMTY5LjE4OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/a24dcadfe407749e271937de59928fc21668410160.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Swish</h5>
-                    <h3>Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>design,frontend,software,web,css,mobile,lead,analytics,engineer,engineering,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-swish-148596" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><span style="font-size:12pt;">The Engineering team at Swish is looking for talented Backend Engineers to create fast, scalable server infrastructures with a focus on the best possible user experiences. You will work closely with a talented team of designers, engineers, and product managers who design, implement and ship mission-critical features. You have prior experience developing high quality backend architecture and are excited about doing that at a company that is transforming the way enterprises run their businesses with a tech-focused, mobile-first mindset. You want to have productive technical discussions with a bias towards analytics and user feedback and contribute to the continuous improvement of our web and mobile experiences.</span></div><div><br></div><div><span style="font-size:12pt;">We are looking for individuals who are passionate about the latest technologies and can lead the design and development of scalable applications. A successful candidate will bring deep analytical ability, software engineering expertise, and the ability to deliver results within a fast-moving, agile environment.</span></div><div><br></div><div><b style="font-size:18px;">Our Stack</b></div><div><br></div><div><span style="font-size:12pt;">â¢ Frontend: React, Redux, ES6, ESLint, CSS Modules, Sass, Babel, Webpack, Flow, Jest</span></div><div><span style="font-size:12pt;">â¢ Backend: Node</span></div><div><span style="font-size:12pt;">â¢ Framework: Express, Next, Meteor</span></div><div><span style="font-size:12pt;">â¢ Datastore: MongoDB, Redis</span></div><div><span style="font-size:12pt;">â¢ Container: Docker</span></div><div><span style="font-size:12pt;">â¢ Hosting: AWS, Heroku</span></div><div><br></div><div><b style="font-size:18px;">A Typical Week</b></div><div><br></div><div><span style="font-size:12pt;">â¢ You'll brainstorm with product managers and designers to conceptualize new features.</span></div><div>â¢ <span style="font-size:12pt;">You'll collaborate with frontend engineers to build new features for a client.</span>
-</div><div><span style="font-size:12pt;">â¢ You'll learn about new technologies and discuss potential solutions to problems.</span></div><div><span style="font-size:12pt;">â¢ You'll help our skilled support team triage bugs and troubleshoot production issues.</span></div><div><span style="font-size:12pt;">â¢ You'll mentor other engineers and deeply review code.</span></div><div><br></div><div><b style="font-size:18px;">Requirements</b></div><div><br></div><div><span style="font-size:12pt;">You'll be tasked with developing server infrastructures and applying them at scale to our projects. We look for the following attributes in candidates:</span></div><div><br></div><div><span style="font-size:12pt;">â¢ Strong communication skills.</span></div><div><span style="font-size:12pt;">â¢ Work across disciplines with team members from frontend, backend, design, and product.</span></div><div><span style="font-size:12pt;">â¢ Actively participate in product decisions and improve our development workflow.</span></div><div><span style="font-size:12pt;">â¢ 3+ years of relevant work experience building production server infrastructures, ideally using our stack.Experience with measuring and improving server response times in different conditions and environments.</span></div><div><span style="font-size:12pt;">â¢ Experience with unit and integration testing, continuous integration and deployment workflows.</span></div><div><span style="font-size:12pt;">â¢ Experience with developing REST APIs and integrating third-party APIs.</span></div><div><br></div><div><span style="font-size:12pt;">In all cases, you should be motivated by a desire to solve the most important problems and obtain unprecedented results and eager to push your methods to their maximal performance.</span></div><div><br></div><div><b style="font-size:18px;">Bonus Points</b></div><div><br></div><div><span style="font-size:12pt;">â¢ Degree in STEM field, especially software engineering or computer science related.</span></div><div><span style="font-size:12pt;">â¢ Interested in emerging technology such as machine learning and blockchain.</span></div><div><span style="font-size:12pt;">â¢ Track record of migrating legacy infrastructure to modern stacks.</span></div><div><span style="font-size:12pt;">â¢ Experience in small startÂ­up environments helping large enterprises.</span></div><div><span style="font-size:12pt;">â¢ Experience working with a team, especially a distributed team.</span></div><div><br></div><div><b style="font-size:18px;">About Swish </b></div><div><br></div><div>
-<span style="font-size:12pt;">Launched in February 2013, </span><b style="font-size:12pt;"><a href="http://www.swishlabs.com/" class="postings-link" rel="noopener noreferrer nofollow">Swish</a></b><span style="font-size:12pt;"> is a fast-growing business with an innovative working culture and teams spanned across the world with teams in Toronto, San Francisco, Berlin, Auckland, Bruxelles, Medellin, and more. </span>
-</div><div><br></div><div><span style="font-size:12pt;">We create products for successful business using cutting-edge technologies: Blockchain, Machine Learning, and Apps Dev. Working with Swish puts you in contact with prestigious brands, wherever your base is. We are a 100% remote-work company because we believe it is everyoneâs choice to live and work the way they prefer.</span></div><div><br></div><div><span style="font-size:12pt;">Work is organized in sprints Â - 2 weeks periods to which, as a member of our talent community, you choose to commit. You always have the choice to accept or decline a sprint, or take-on multiple sprints simultaneously. </span></div><div><br></div><div><span style="font-size:12pt;">We let members choose what suits them best depending on their current situation: family, travel, studies, finance. We know life is not linear and we respect the humans behind the screens. </span></div><div><br></div><div>
-<span style="font-size:12pt;">Our work ethic relies on six core values: Transparency, Directness, Meritocracy, Autonomy, Responsibility, </span><span style="font-size:16px;">Continuous</span><span style="font-size:12pt;"> Learning.</span>
-</div><div><br></div><div><span style="font-size:12pt;">Ensuring a diverse and inclusive workplace where we learn from each other is core to our values. We welcome people of different backgrounds, experiences, abilities, and perspectives. We are an equal opportunity employer and a fun place to work. </span></div><div><br></div><div><span style="font-size:12pt;">Join the future of work today.</span></div><div><br></div><br/><br/>Please mention the word **GODSEND** and tag RNTQuODIuMTY5LjE4OQ== when applying to show you read the job post completely (#RNTQuODIuMTY5LjE4OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<h3>
+<strong>LIFE AT COIN METRICS</strong><strong> </strong>
+</h3>
+<p><span style="font-weight:400;">Coin Metrics is a fun and fast-paced team with employees located in 8 countries.  We are united by our OPEN (Open, Pioneering, Elucidating, and Neutral) core values.   Our employees are empowered to do whatâs best for our products, customers, and team members.   Other benefits of working at Coin Metrics include:</span></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Competitive salary, 401(k) retirement plan, bonus and options plans</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Comprehensive medical, dental, vision</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Remote or hybrid work options with generous equipment reimbursement offering</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Paid time off </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Global company offsites </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Coin Metrics Labs where associates pursue their passions</span></li>
+</ul>
+<h3><strong>OUR INTERVIEW PROCESS</strong></h3>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">30 minute video interview with Talent Sherpa (Recruiter)</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">3-4 video interviews with members of our team </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Case Study </span></li>
+</ul>
+<h3><strong>LOCATION</strong></h3>
+<p><span style="font-weight:400;">Remote US or EMEA, UTC-6  - UTC+3  (HQ in Boston, MA)</span></p><br/><br/>Please mention the word **PROFOUND** and tag RNTQuMTk4LjE0OC44Mw== when applying to show you read the job post completely (#RNTQuMTk4LjE0OC44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -152,7 +143,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-software-engineer-backend-python-100-remote-1" align="right" target="_blank">Apply</a>
@@ -233,7 +224,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-backend-engineer-python-9" align="right" target="_blank">Apply</a>
@@ -303,7 +294,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/covergo-senior-backend-engineer-net-4" align="right" target="_blank">Apply</a>
@@ -344,6 +335,76 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8355/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Community Phone</h5>
+                    <h3> Senior Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/community-phone-senior-backend-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8355/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Boston
+    <br /><strong>URL:</strong> <a href="https://communityphone.org">https://communityphone.org</a>
+</p>
+
+<h1>Senior Backend Engineer</h1><div>Community Phone has a straightforward mission: make the phone call more powerful. In doing so, we are transforming the $300B+ US telecom industry. We have thousands of customers around the country, including children trying to purchase landlines for their elderly parents and businesses choosing modern voice features. Our enterprise clients include KFC, AT&amp;T, GM, Dunkin’ Donuts, and Starbucks. We are customer-centric and believe that happy customers are the best sales force on the planet.</div><div>We are a venture-backed, Y-Combinator graduate. In 2021 alone, we grew 20%+ month-over-month and have already tripled in 2022. As our revenue and teams have expanded, our product offering has too - with novel voice features available for SMBs for the first time.</div><div><br></div><div><strong>About the role</strong></div><div>You will be working with our founder and product team (including five other engineers, two senior designers, and a project manager) to build the first full-service API to provision phone numbers and onboard modern voice features (like credit card processing via phone or a crowdsourced real-time spam-call filter). These projects use events only a carrier can get. We process millions of minutes of phone conversations per week, growing about 25% month-over-month.</div><div><br></div><div><strong>(Real) Sample Projects Include </strong></div><ul>
+<li>Help design APIs so existing apps (like CRMs) can use voice and message data</li>
+<li>Ultimately, design a system to learn and change a business’s call flow to optimize for e-commerce goals like order creation</li>
+<li>Automatic order-taking or appointment scheduling via voice </li>
+<li>CRM integrations, making real-time speech from phone calls available via API for the first time </li>
+<li>Emergency services integrations for seniors living at home or in assisted living</li>
+</ul><div><br></div><h1><strong>Accelerate your career as you</strong></h1><ul>
+<li>Work with a highly collaborative cross-functional team composed of product managers, a designer, engineers, analysts, and operations working together to define and build the world-class telecommunications experience. </li>
+<li>Tackle complex technical and domain problems in the tired telecommunications industry </li>
+<li>Use your expertise to create technical leverage that enables us to deliver more value to small businesses, enterprise customers, and senior citizens </li>
+<li>Focus on scaling and automating our existing services.</li>
+<li>Evolve our team culture and processes through collaboration and mentorship.</li>
+</ul><div><br></div><div><br></div><h1><strong>A Bit About You</strong></h1><div><br></div><div>Minimum Qualifications:</div><ul>
+<li>Have 4+ years of experience writing production code</li>
+<li>Experienced with backend development</li>
+<li>Experience writing automated tests using CI/CD pipelines</li>
+<li>Strong engineering fundamentals</li>
+<li>Passionate about Community Phone's mission</li>
+<li>Experienced as a product engineer working on end-user-facing features, collaborating with product and design teams</li>
+<li>Track record of learning and growth</li>
+<li>You are highly curious and almost fearless when it comes to writing software and bringing organization to the wild west of old-school carriers and cable companies... someone who wants to find out what is really going on and wants to make a huge impact.</li>
+<li>Strong verbal and written communication in English.</li>
+</ul><div>Preferred Qualifications: </div><ul>
+<li>Experienced with Python 3, Django, PostgreSQL, Docker</li>
+<li>Experienced leading a project or a team</li>
+<li>Have architected complex systems for long-term maintainability, performance, and scalability</li>
+</ul><div><br></div><h1><strong>Interview Process </strong></h1><ul>
+<li>Initial Screen with our Product Manager</li>
+<li>Technical Screen evaluated by our backend team </li>
+<li>Onsite </li>
+<li>References</li>
+<li>Offer</li>
+<li>Hire</li>
+</ul><div>
+<strong><br>Contribute to open source and jump ahead of the line:  </strong>open a PR with a meaningful contribution to any of our <a href="https://github.com/community-phone-company">open source projects</a>, and if approved you are guaranteed the onsite interview.</div><div><br></div><h1>
+<strong>Salary Range:</strong> $100,000 - $140,000* + Equity</h1><div>*Please note this range is specific to employees based in the United States. Salary ranges for employees outside of the United States may vary based on region.  Benefits also depend on the candidate’s location. </div><div>
+<strong>Equity Eligible:</strong> Yes. </div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/community-phone-senior-backend-engineer">https://weworkremotely.com/remote-jobs/community-phone-senior-backend-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1479998/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -354,7 +415,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
@@ -379,7 +440,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
