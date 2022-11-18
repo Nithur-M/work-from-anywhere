@@ -1,26 +1,76 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/416b6d631eaa1e31911d07403aabee981668496516.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/431e1660ca0d2018993ebdb7b9fb02031668669348.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Audius</h5>
-                    <h3>Software Engineer Infrastructure & Tooling</h3>
+                    <h5>Orderly</h5>
+                    <h3>Software Engineer Rust</h3>
                 </td>
                 <td width="300">
-                    <code>software,solidity,crypto,ethereum,react,system,music,architect,code,web,api,engineer,linux,backend</code>
+                    <code>software,cryptocurrency,security,developer,code,financial,video,fintech,management,reliability,engineer,engineering,educational,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-tooling-audius-149094" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-rust-orderly-150172" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><b>Who are we? </b></div><div>
-<a href="https://audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius</a> is a digital streaming service that connects fans directly with artists and exclusive new music.Â </div><div><br></div><div>It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can freely build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence.</div><div><br></div><div>Backed by an all-star team of <a href="https://www.crunchbase.com/organization/audius/company_financials#investors" class="postings-link" rel="noopener noreferrer nofollow">investors</a>, Audius was founded in 2018 and serves over 6 million users every month, making it the largest non-financial crypto application ever built.</div><div><br></div><div><b>Who we are looking for? </b></div><div>We are looking for passionate team-players to help us architect and build the most difficult parts of the <a href="http://whitepaper.audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius protocol</a> (high availability services for decentralized replication of data, latency-sensitive distributed file transfers, Ethereum smart contracts, infrastructure and tooling for third parties to run our open source services). You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. Youâre eager to jump into multiple parts of our tech stack and have strong CS fundamentals to do so. We solve a lot of problems that can't be easily Googled or searched on StackOverflow.</div><div><br></div><div><b>Our Company</b></div><div>Audius is a 30-person team of entrepreneurs, engineers, music industry professionals, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have monthly concert stipends, wellness benefits, team activities, and bi-annual in-person get-togethers.</div><div><br></div><div>Our company is fully remote and our team is currently distributed across the United States. </div><div><br></div><div><b>Our Tech Stack</b></div><div>Frontend: React, React Native, Redux, Redux-Saga, Electron, Typescript, Javascript</div><div>Backend: Postgres, Elasticsearch, Redis, IPFS, Python, Typescript, Javascript, Rust (Solana), Solidity (Ethereum), Docker</div><h4>What you'll do here</h4>Design and build resilient infrastructure that decentralized third-parties run on diverse hardwareHelp architect and deploy across the backend of the Audius stack including databases, monitoring, logging, and load-testingBuild tooling that supports the Audius team and a network of third-parties that operate infrastructure for the protocolPerform thoughtful architecture and code reviewsOwn features end-to-end including release plans, monitoring, and incident/bug triage<h4>We would love to chat if you have</h4>Experience with a modern programming language (Our stack is in Javascript/Typescript, Python, Rust, and Solidity)Strong shell scripting and Linux fundamentals and a love for building great command line toolsSolid conceptual understanding of backend software development including system architecture, web serving infrastructure, API & database designGreat interpersonal and communication skills and comfort working within a small teamFamiliarity with version control and agile software development methodologiesAn awesome attention to detail<div><br></div><div>If this role speaks to you, but your previous experience doesn't match the job description, please consider applying anyways! We're looking for smart and capable software engineers and highly value the ability to grow in your role. You might be the perfect fit!</div><br/><br/>Please mention the word **LUXURIANT** and tag RNTQuODIuMTY5LjE4OQ== when applying to show you read the job post completely (#RNTQuODIuMTY5LjE4OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <h2 style="text-align:center;"><strong>Work with the best</strong></h2>
+<p>Orderly Network is a permissionless, decentralized exchange protocol and modular ecosystem built on top of NEAR. It uses an on-chain orderbook to provide a platform complete with a risk engine, matching engine, and shared asset pools for Dapps to build on top of. Dapps built on the Orderly Network will allow for financial instruments such as; Spot Trading, Margin Trading, Perpetual Swaps and Lending & Borrowing.</p>
+<p>Whilst a fully independent team operates at Orderly Network, we were incubated by NEAR and WOO Network - Industry heavyweights in their respective fields. Thanks to both the guidance and expertise Orderly Network will offer market-leading execution with low latency and minimal fees with a combination of orderbook efficiency alongside on-chain settlement. We will become the go-to network for ecosystem partners to come and build upon.</p>
+<h2 style="text-align:center;"><strong>A Glimpse into Your Future at Orderly Network</strong></h2>
+<ul>
+<li>
+<span style="text-decoration:underline;"><em>What will you be working on?</em></span>
+<ul>
+<li>Develop new protocols on the innovative Solana or NEAR blockchain.</li>
+<li>Write and review technical proposals.</li>
+<li>Write, test, and deploy high-performance, networking code.</li>
+<li>Design product architecture according to business needs.</li>
+<li>Program and optimize rust/wasm based smart contracts.</li>
+<li>Develop infrastructure software.</li>
+<li>Implement advanced features from scratch.</li>
+<li>Perform technical analysis and contribute to code reviews.</li>
+<li><span style="font-weight:400;">Provide the vision of how the project should be driven forward from a technical perspective.</span></li>
+<li>Take part in our educational blockchain programs and make your contribution to our startups.</li>
+</ul>
+</li>
+<li>
+<span style="text-decoration:underline;"><em>What challenges will you face?</em></span>
+<ul>
+<li><span style="font-weight:400;">We're looking for a Rust Developer who has been involved in blockchain projects. This is a full-time remote position (possibility to work remotely as fully as partially). We are seeking a determined and creative developer who is passionate about changing the world through technology, someone who will  join a team responsible for implementation of various solutions in the Blockchain and FinTech domains where reliability and efficiency of software is crucial.</span></li>
+</ul>
+</li>
+<li>
+<span style="text-decoration:underline;"><em>What tech stacks/skills will you be using?</em></span>
+<ul>
+<li><span style="font-weight:400;">5+ years of software engineering experience.</span></li>
+<li><span style="font-weight:400;">Experience with Virtual machines used by modern blockchains: WebAssembly, EVM, COSMWASM (would be a plus).</span></li>
+<li><span style="font-weight:400;">Knowledge of best practices in blockchain management and data protection (would be a plus).</span></li>
+<li>You have working experience with Rust in Solana ecosystem.</li>
+<li>Experience or understanding the approach of smart contracts development.</li>
+<li>Experience with relational and non-relational databases.</li>
+<li>Knowledge of REST principles.</li>
+<li>You understand the OOP, OOD, SOLID principles.</li>
+<li>Deep knowledge of standard algorithms and data structures.</li>
+<li>You can analyze and optimize the platformâs performance.</li>
+<li>You have experience with security audits of third-party and internal solutions.</li>
+<li>You are interested in Solana or Near ecosystem.</li>
+<li>You possess strong written and verbal communication skills in English.</li>
+</ul>
+</li>
+</ul>
+<h2 style="text-align:center;"><strong>Interested in Learning More?</strong></h2>
+<ul>
+<li>Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.</li>
+<li>If you have experience in developing trading systems or financial-related products is a plus.</li>
+<li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
+<li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our <a href="https://boards.greenhouse.io/orderlynetwork/jobs/5170520003" target="_blank" rel="noopener noreferrer nofollow">External Referral Incentives Program</a> as well. </li>
+</ul><br/><br/>Please mention the word **ADMIRABLY** and tag RNTQuMTk4LjE0OC44Mw== when applying to show you read the job post completely (#RNTQuMTk4LjE0OC44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +85,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -97,7 +147,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
