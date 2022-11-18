@@ -10,7 +10,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-angular-1" align="right" target="_blank">Apply</a>
@@ -84,74 +84,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4921/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Rainforest QA</h5>
-                    <h3> Senior Engineer (Frontend)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>127 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-frontend" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4921/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://www.rainforestqa.com/">https://www.rainforestqa.com/</a>
-</p>
-
-<div><strong>About Rainforest</strong></div><div>Rainforest QA is a distributed company full of smart, capable people from around the world who enjoy working together to make our customers successful.</div><div><br></div><div>Our mission is to make product quality accessible for every software company. The Rainforest QA solution combines no-code test automation and crowdsourced testing in a single, one-of-a-kind QA platform, allowing anyone to get the exact insights they need to release with quality, quickly.  </div><div><br></div><div><strong>About the Team</strong></div><div>As a Senior Engineer at Rainforest QA you'll be part of an experienced and diverse team with members all over the world.</div><div><br></div><div>We were built as a distributed team from the beginning and we've committed to implementing tools and processes that allow for and support continuous and effective communication across the world.<br><br><strong>About the Role</strong>
-</div><ul>
-<li>Work on the Rainforest QA dashboard, our single page application where users manage their test suite, configure test runs, review results and set up their account</li>
-<li>Work on our tester application, where our crowd of testers connect to our virtual machine infrastructure to conduct tests and submit their results</li>
-<li>Work on internal tooling to improve the development experience of other engineers and ship faster and safer</li>
-<li>Collaborate with product managers and our customer facing teams to analyze customer problems and design high impact features</li>
-<li>Lead projects to implement those features</li>
-<li>Help other team members to achieve their goals</li>
-<li>Continuously learn about new technologies and ways to solve problems</li>
-<li>Work with our customer facing teams to triage, troubleshoot, and fix bugs</li>
-<li>Write unit and integration tests (using our own product!) to ship high quality software</li>
-</ul><div><strong>About You</strong></div><ul>
-<li>Extensive experience in Javascript and be extremely knowledgeable of the language and associated ecosystem</li>
-<li>Extensive experience in React (or equivalent framework / libraries) and be extremely knowledgeable of the framework and associated ecosystem</li>
-<li>Experience in writing and maintaining CSS for large projects</li>
-<li>Enthusiasm with building web applications using modern tools like ES7, React, Redux, CSS Modules, Flow, and Webpack - amongst others</li>
-<li>Practical experience of working on a Ruby on Rails codebase</li>
-<li>Even though this position is mainly frontend focused, we expect you to have some grasp of the whole stack to be able to effectively communicate with engineers across the team, and can make backend or infrastructure changes when the situation calls for it</li>
-<li>Professional experience in engineering SaaS products</li>
-<li>Experience leading projects with teams</li>
-<li>An ownership mindset: you should look not only at what you’re asked to do, but ask why you’re doing it and how it impacts on the rest of the product, our customers, and whether it makes sense. We expect you to be responsible for your work and to resolve any bugs you might ship</li>
-<li>Excitement to learn</li>
-<li>Excellent communication skills and able to give and receive constructive feedback</li>
-<li>Happy to review code and have your code reviewed</li>
-<li>Can work effectively remotely with remote team members (we are a fully distributed company)</li>
-<li>Comfortable working in a large codebase with many stakeholders</li>
-</ul><div><strong>How we’ll reward you</strong></div><ul>
-<li>Competitive salary plus equity.</li>
-<li>100% company-paid medical, dental, and vision insurance coverage for employees, 75% for dependents (U.S., only).</li>
-<li>Unlimited paid time-off (PTO).</li>
-<li>A weekly allowance for lunches and a monthly allowance for remote office supplies or personal development.</li>
-<li>Semi-annual company off-sites in exciting destinations around the world.</li>
-<li>12 weeks of paid maternity leave and 8 weeks of paid leave for supporting parents.</li>
-<li>401k (U.S., only).</li>
-</ul><div><strong><br>A Note on Diversity and Inclusion</strong></div><div>At Rainforest we believe that diverse teams improve our business. We are an equal opportunity employer and do not discriminate on the basis of race, religion, color, nationality, gender, sexual orientation, age, marital status, veteran status, or disability status.</div><div><br></div><div>Due to employment laws, we are unable to hire individuals internationally located in these following countries at this time: China, France, Iran, Egypt, Russia.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-frontend">https://weworkremotely.com/remote-jobs/rainforest-qa-senior-engineer-frontend</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0006/6308/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -162,7 +94,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>180 days ago</text>
+                <text>181 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/slab-frontend-engineer" align="right" target="_blank">Apply</a>
@@ -218,6 +150,87 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1489428/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Premia</h5>
+                    <h3>Senior Frontend & QA Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>crypto,CSS,frontend,linux</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/qa/senior-frontend-qa-engineer-1489428" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>Senior Frontend &amp; QA Engineer - Remote</div>
+<div> </div>
+<div>Premia is a decentralized options platform connecting traders and liquidity providers of all backgrounds. Offering non-custodial options to hedge, speculate, or earn yield on your digital assets.  Premia offers first of its kind automated market maker solutions in the DeFi space for Options Contracts through our use of Smart Liquidity Pools and Dynamic Pricing.  Premia enables best-in-class pricing based on market volatility, providing fully-featured peer-to-pool trading and capital efficiency to DeFi options.</div>
+<div> </div>
+<div>We are one of the smallest and most impactful teams in crypto. We are a globally distributed organization, with all positions being fully remote.</div>
+<div> </div>
+<div>We’re looking for a passionate, self-motivated engineer to help us build the next generation of financial products. As a dedicated Engineering hire, you will gain ownership over our existing suite of web products, as well as the ability to influence the creation, design, and execution of future products. You will be responsible for ensuring a consistent, high-quality user experience across trading interfaces, data-heavy analytics pages, documentation portals, subgraph on <a class="postings-link" href="https://thegraph.com/explorer" rel="nofollow">The Graph</a> and more.</div>
+<div> </div>
+<div><strong>Who are you?</strong></div>
+<div> </div>
+<div><span style="">A senior-level front-end engineer (JS/TS + React veteran) with a passion for smashing bugs who is also native to the crypto space. You can write and speak fluent English and have great communication skills.</span></div>
+<div> </div>
+<div><span style="">You love debugging, you like doing detective work to figure out the cause of the problem and ultimately resolving it. </span></div>
+<div> </div>
+<div><span style="">You have experience and are culturally aligned with fast-moving small teams. You have worked at remote (globally distributed) startups before. </span></div>
+<div> </div>
+<div><span style="">You are self-driven, are comfortable wearing many hats, can ship patches and features swiftly when needed. You can identify company priorities, own them, and iterate quickly to ship the best solution.</span></div>
+<div> </div>
+<div><strong>The Role:</strong></div>
+<div> </div>
+<div><span style="">Senior engineers are expected to take big complex tasks single-handedly. </span></div>
+<div> </div>
+<div><span style="">As a Senior frontend + QA engineer you will be the bridge between bug reporting and bug termination. You will manage several communication channels as well as our bug reporting process to make sure all QA tasks are correctly prioritized and executed. </span></div>
+<div> </div>
+<div><span style="">You will work closely with both the Front-end team and the QA team to help build and maintain react components, as well as helping shape our automated testing pipelines. </span></div>
+<div> </div>
+<div><strong>Responsibilities</strong></div>
+<div><span style="">As a Web3 Architect you will:</span></div>
+<div><span style="">-</span><span style="">Create and document automated and manual test plans and procedures</span></div>
+<div><span style="">-</span><span style="">Configure and set up testing environments</span></div>
+<div><span style="">-</span><span style="">Implement, run, and monitor automated tests</span></div>
+<div><span style="">-</span><span style="">Write scripts in the language of your choice that can help us improve the QA process</span></div>
+<div><span style="">-</span><span style="">Onboard new individuals into the Web3 Architecture team</span></div>
+<div><span style="">-</span><span style="">Mentor team members to refine their technical and architectural skills</span></div>
+<div><span style="">-</span><span style="">Build, test, and ship features, patches, and updates to our web app</span></div>
+<div><span style="">-</span><span style="">Collaborate with the team and cross-functional partners on all aspects of product development</span></div>
+<div><span style="">-</span><span style="">Identify and advocate for team-wide areas of improvement and best practices</span></div>
+<div> </div>
+<div><strong>Requirements</strong></div>
+<div><span style="">-</span><span style="">At least 3 years with </span><strong><span style="">JS/TS + React</span></strong></div>
+<div><span style="">-</span><span style="">At least 3 years of TDD with extensive experience in designing manual tests</span></div>
+<div><span style="">-</span><span style="">Extensive experience with CSS libraries (</span><strong><span style="">MUI</span></strong><span style=""> </span><span style="">preferred</span><span style="">)</span></div>
+<div><span style="">-</span><span style="">Outstanding communication skills</span></div>
+<div><span style="">-</span><span style="">Some experience with crypto is required</span></div>
+<div><span style="">-</span><span style="">Fluency with different operating systems (Linux, MacOS etc.)</span></div>
+<div><span style="">-</span><span style="">Experience with multiple browsers (Brave, Firefox, Safari, Chrome)</span></div>
+<div><span style="">-</span><span style="">(Nice to have) Experience with web wallets such as </span><strong><span style="">Metamask</span></strong><span style=""> and </span><strong><span style="">WalletConnect</span></strong></div>
+<div><span style="">-</span><span style="">(Nice to have) Experience with </span><strong><span style=""><a href="http://ethers.js" rel="nofollow">ethers.js</a></span></strong><span style=""> or </span><strong><span style=""><a href="http://web3.js" rel="nofollow">web3.js</a></span></strong><span style=""> libraries</span></div>
+<div><span style="">-</span><span style="">(Nice to have) Experience with CI/CD tools (</span><strong><span style="">Github Actions</span></strong><span style=""> </span><span style="">preferred</span><span style="">)</span></div>
+<div><span style="">-</span><span style="">(Nice to have) Experience with automation tools (</span><strong><span style="">Playwright</span></strong><span style=""> </span><span style="">preferred</span><span style="">)</span></div>
+<div><span style="">-</span><span style="">(Nice to have) Experience with Discord and Discord web hooks. </span></div>
+<div><strong>Benefits</strong></div>
+<div>Work from anywhere (Remote first), Flexible working hours, Flexible vacation policy, Competitive Salary + Token bonus (portion or all can be paid in Crypto).  Premia is committed to a diverse and inclusive workplace and is an equal opportunity employer. We do not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.</div>
+<div> </div>
+<div>Premia welcomes all qualified persons to apply. Compensation will be competitive and commensurate with experience. This is a full time role.</div>
+<div> </div>
+<div>To find out more you can view their website at <a class="postings-link" href="https://premia.finance/" rel="nofollow">https://premia.finance/</a></div>
+<img src="https://remotive.com/job/track/1489428/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1421232/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -228,7 +241,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
