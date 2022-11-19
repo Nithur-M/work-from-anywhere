@@ -1,5 +1,71 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/2129cba8dd25ce9b8bd033564ecc8f691668755753.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TradeBlock</h5>
+                    <h3>Lead UI Front end Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>ui,design,crypto,react,frontend,python,software,web,financial,cloud,css,git,lead,engineer,engineering,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-lead-ui-front-end-engineer-tradeblock-150701" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro"><p><span style="text-decoration:underline;"><strong>About The Company</strong></span><br><span style="font-weight:400;">TradeBlock is the leading institutional digital assets trading platform. TradeBlock provides standardized connectivity and a powerful suite of tools to capture the end-to-end trade lifecycle for liquidity providers, asset managers, corporate clients, and exchanges, among others.</span></p></div><p><span style="text-decoration:underline;"><strong>About the Role</strong></span></p>
+<p><em>Budgeted Salary Range:</em> $200k - $250k</p>
+<p><strong>Qualifications:</strong></p>
+<ul>
+<li>6+ years of professional Frontend Software development experience.</li>
+<li>Experience with JavaScript, and React.js</li>
+<li>Experience with React and other web technologies</li>
+<li>Experience with REST and WebSocket APIs</li>
+<li>Knowledge of best practices in frontend architecture, including performance, security, and usability</li>
+<li>Proficiency in HTML5/CSS3 and CSS post-processing libraries such as SASS</li>
+<li>Knowledge of UI design and some experience with UX</li>
+<li>Experience building end-to-end UI closely following design guidelines and leveraging robust UI libraries</li>
+<li>Experience leading or managing a team of 2 â 4 people</li>
+<li>Experience or knowledge of Trading Systems</li>
+<li>Knowledge of HTTP protocol and client-server communication</li>
+<li>Understanding of state-management patterns such as Redux or similar</li>
+<li>Experience introducing modern tech stacks to legacy codebase</li>
+<li>Use of established best practices to write, test, and deploy frontend code</li>
+<li>Proficiency with Git version control</li>
+<li>Facilitate collaboration sessions between Engineering and Product.</li>
+<li>Lead the development of personas, user flows and scenarios, goal/task analyses, and other key tools of user-centered design</li>
+</ul>
+<p>Programming languages:Â JavaScript, React.js, and Python</p>
+<p>Web Technologies:Â ES6+, React, Redux, HTML5, CSS3, Sass, Next.jsÂ </p>
+<p>Testing Tools:Â Jasmine, Jest, Enzyme, Cypress, or Selenium</p>
+<p><strong>Nice to have:</strong></p>
+<ul>
+<li>Experience in capital markets, FX and/or crypto industry</li>
+<li>Knowledge of Python and Django</li>
+<li>Experience with AWS or similar cloud platforms for deployment</li>
+<li>Experience with financial charting libraries is preferred</li>
+</ul>
+<p>Â </p><div class="content-conclusion">
+<p><span style="text-decoration:underline;"><strong>Benefits Highlights</strong></span></p>
+<ul>
+<li>90% of Medical, Dental, Vision costs covered by TradeBlock (Coverage starts from day one)</li>
+<li>401k Match w/ 5% company match</li>
+<li>Flexible PTO (Taking time off is important and encouraged)</li>
+<li>Opportunities for Equity in Digital Currency Group</li>
+<li>Paid Family Leave for mothers and fathers</li>
+<li>All new employees receive a WFH stipend.</li>
+</ul>
+</div><br/><br/>Please mention the word **MIRACULOUS** and tag RNTQuMTk4LjMwLjkz when applying to show you read the job post completely (#RNTQuMTk4LjMwLjkz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4666/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +76,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-angular-1" align="right" target="_blank">Apply</a>
@@ -94,7 +160,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>181 days ago</text>
+                <text>182 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/slab-frontend-engineer" align="right" target="_blank">Apply</a>
@@ -160,7 +226,7 @@
                     <code>crypto,CSS,frontend,linux</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/qa/senior-frontend-qa-engineer-1489428" align="right" target="_blank">Apply</a>
@@ -241,7 +307,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
