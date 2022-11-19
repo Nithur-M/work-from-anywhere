@@ -1,71 +1,68 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/ed6443c6eebfad162eeec306412811391668582964.peg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6740/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Hector Network</h5>
-                    <h3>UX UI Designer</h3>
+                    <h5>Proxify AB</h5>
+                    <h3> Senior UX/UI Designer</h3>
                 </td>
                 <td width="300">
-                    <code>ui,ux,design,web3,defi,nft,web,css,html,mobile,digital nomad</code>
+                    <code>Design</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-ux-ui-designer-hector-network-149642" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ux-ui-designer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><strong>Hector Network</strong> is an expansive decentralized ecosystem run by a utility token, HEC, and complemented by the TOR stablecoin. The company is committed to developing the future of web3 by pioneering decentralized offerings ranging from Tokenomics, NFT collections, and marketplace to launchpad and Defi Metaverse. Our mission is to bring mass adoption of blockchain technology to life by lowering the barrier to entry and making crosschain expansion happen.</p>
-<p><strong>Hector Network</strong> is a growing project with big ambitions and an incredible team of passionate innovators. As such, we are looking for a very driven and passionate UI/UX designer who thrives in a fast-paced environment to work together with the team on many exciting sub-brands. In that role, youâll be working closely with the Head of Infrastructure and Development , development team and Art team to help them easily make functional Web3 dApps and other sub-projects visually stunning and instantly attractive. Your focus will be on different sub-projects such as Dex, Institute, NFT marketplace, Library, and many more. This is an exciting opportunity to work closely with the brightest minds within the web3 industry.</p>
-<p><strong>The ideal candidate</strong> would create a css / html tailwind control library to fast track development time frames. You will help us bridge the gap between new users who are not familiar with the crypto/NFT/DeFi space and existing users who are well acquainted with such technologies.</p>
-<p><strong>Hereâs what youâll be doing</strong></p>
-<ul>
-<li>Facilitate UI/UX prototyping and builds for the dApp expansion / modifications and updates + changes</li>
-<li>Be available for rapid updates on a stringent time frame over the next 5 months</li>
-<li>Facilitate the dev teamsâ continuously growing need and demand of UI / UX works on the new version of the dApp by being available in a RAD CRUD Agile SDLC environment</li>
-<li>Take Part in Dev group discussions to expand your understanding of the current build objectives</li>
-<li>Expand and enhance usability of the application to ensure that end users have a comprehensive guided understanding of features and a logical use case</li>
-<li>Design a transition of our existing dApp to a desktop, tablet and mobile responsiveness whilst factoring in all functionality</li>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6740/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
+
+<div><strong>The Role:</strong></div><div>We are searching for a Senior UX/UI Designer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
+<li>You have +4 years of proven work experience as a UI/UX Designer or similar role;</li>
+<li>Portfolio of design projects;</li>
+<li>Knowledge of wireframe tools (e.g. Wireframe.cc and InVision);</li>
+<li>Up-to-date knowledge of design software;</li>
+<li>Team spirit: strong communication skills to collaborate with various stakeholders;</li>
+<li>Good time-management skills;</li>
+<li>You are responsible and able to work with minimal supervision;</li>
+<li>Advanced English level.</li>
+</ul><div><br></div><div><strong>Nice-to-have: </strong></div><ul><li>Timezone: CET (+/- 3 hours).</li></ul><div><br></div><div><strong>Responsibilities:</strong></div><ul>
+<li>Gather and evaluate user requirements in collaboration with product managers and engineers;</li>
+<li>Illustrate design ideas using storyboards, process flows, and sitemaps;</li>
+<li>Design graphic user interface elements;</li>
+<li>Develop UI mockups and prototypes that clearly illustrate how the product functions and looks;</li>
+<li>Create original graphic designs (e.g. images, sketches, and tables);</li>
+<li>Prepare and present rough drafts to internal teams and key stakeholders;</li>
+<li>Identify and troubleshoot UX problems (e.g. responsiveness);</li>
+<li>Conduct layout adjustments based on user feedback;</li>
+<li>Adhere to style standards on fonts, colors, and images.</li>
+</ul><div><br></div><div>
+<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<br><br>
+</div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
 </ul>
-<p><strong>Desired skills and experiences</strong></p>
-<ul>
-<li>Ability to understand development structure and at least basic web development</li>
-<li>CSS3</li>
-<li>HTML 5 (js would be a plus)</li>
-<li>Figma</li>
-<li>Photoshop</li>
-<li>Deconstruct Functional / Non Functional Requirements into a UX driven application</li>
-<li>Web 3 Understanding</li>
-<li>Web Design</li>
-<li>UX Research (Contextual inquiry)</li>
-<li>UX Design Principles</li>
-<li>UX Presentations</li>
-<li>UX Flows</li>
-<li>UX Information Mapping</li>
-<li>UX Gap Analysis</li>
-<li>Archetypes</li>
-<li>Information Architecture</li>
-<li>User Flows</li>
-<li>Interaction Design</li>
-<li>Intuitive UI Design</li>
-<li>Multi Platform Responsive Grid Design (Tablet, Mobile, Desktop)</li>
-<li>Wireframing</li>
-<li>Iconography</li>
-<li>Prototyping</li>
-</ul>
-<p><strong>Why working with us</strong></p>
-<ul>
-<li>Exciting opportunity to join a top Web3 project on a Fantom network</li>
-<li>Amazing chance for you career movement into the revolutionary and innovative space</li>
-<li>Global Connections in the Web3 space</li>
-<li>Working in environment where ideas and opinions are valued and encouraged</li>
-<li>Talented and supportive team</li>
-<li>Youâll learn a looot</li>
-</ul><br/><br/>Please mention the word **EASES** and tag RNTQuMTk4LjE0OC44Mw== when applying to show you read the job post completely (#RNTQuMTk4LjE0OC44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ux-ui-designer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-ux-ui-designer-long-term-job-100-remote</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -80,7 +77,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
