@@ -1,5 +1,49 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/886c9299fa2dc2200c613c5ccbfc42771668679212.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Rift Finance</h5>
+                    <h3>Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>design,crypto,software,code,finance,engineer,engineering,digital nomad,backend</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-rift-finance-150249" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                About Rift
+
+We are a remote-first, global company with a New York City office. We are hiring internationally.Â 
+
+The internet gave us freedom of information. Crypto gives us economic freedom. Come help us combine these technologies so that every human across the world can achieve freedom and opportunity no matter where they were born.
+
+Through combining our long-term vision for how these technologies will impact society with consistent, pragmatic execution our team of 5 built a platform that has already processed over $70M leading to our $18M fundraise from top investors including Pantera, Two Sigma Ventures, Coinbase Ventures alongside angel investors including Stani Kulechov (founder of Aave), Sandeep Nailwal (cofounder of Polygon) and more.
+
+If you are looking to join a passionate, motivated team and leverage your engineering abilities to develop software that levels the playing field for people across the globe join us at Rift. Weâre building a future that re-centers the individual in the internet.
+
+About the Role
+
+Backend engineers are responsible for the design and implementation of foundational components of the Rift protocol stack while also having responsibilities to collaborate with the wider engineering team to improve our overall architecture and code quality.
+
+Our benefits include competitive compensation, early stage equity allocations, team outings, wellness stipends, 401k with employer matching (for US employees), unlimited PTO,Â medical, dental, and vision insurance. In addition, you'll join a team of high caliber engineers who are innovating at the frontier of crypto that all work collaboratively to help one another accelerate their growth.
+
+We are a mission driven company. We believe deeply that through software engineering we can build a self-sovereign society. In our day to day, we make decisions based upon our company values of Individual Autonomy, Long-Term Orientation and Open Access.
+
+The future belongs to all of us, independent of our origins. Recursive Labs is an equal opportunity employer and does not discriminate on the basis of race, religion, color, sexual orientation, gender or any other status protected under federal, state or local law.Â Â  We celebrate diversity and inclusion among our team mates and seek to hire talent that will add to our culture.
+
+This role is offered by Recursive Labs, an open source R&D company building protocols, tools, and services for the future internet. The team is contributing to the Rift ecosystem.<br/><br/>Please mention the word **BALANCED** and tag RNTQuMTk4LjMwLjkz when applying to show you read the job post completely (#RNTQuMTk4LjMwLjkz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/163304b868315c16e244230755b2ed3a1668669378.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +54,7 @@
                     <code>founder,financial,investment,fintech,postgresql,api,senior,reliability,go,engineer,backend,full-time</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-client-journey-upvest-150189" align="right" target="_blank">Apply</a>
@@ -55,7 +99,7 @@
 <strong>Own the outcome. </strong>Whether we win or we lose, we stand together. We are proactive and get the job done. Outcome &gt; Process.</li>
 <li>
 <strong>Tell the story. </strong>We always start with the <em>why</em>. We share knowledge to empower others. Transparency &gt; Complexity.</li>
-</ul><br/><br/>Please mention the word **SENSATION** and tag RNTQuMTk4LjE0OC44Mw== when applying to show you read the job post completely (#RNTQuMTk4LjE0OC44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **SENSATION** and tag RNTQuMTk4LjMwLjkz when applying to show you read the job post completely (#RNTQuMTk4LjMwLjkz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -70,7 +114,7 @@
                     <code>software,crypto,cryptocurrency,bitcoin,ethereum,testing,video,analytics,recruiting,engineer,engineering,backend</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-software-engineer-market-data-coin-metrics-150173" align="right" target="_blank">Apply</a>
@@ -128,7 +172,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Case Study </span></li>
 </ul>
 <h3><strong>LOCATION</strong></h3>
-<p><span style="font-weight:400;">Remote US or EMEA, UTC-6  - UTC+3  (HQ in Boston, MA)</span></p><br/><br/>Please mention the word **PROFOUND** and tag RNTQuMTk4LjE0OC44Mw== when applying to show you read the job post completely (#RNTQuMTk4LjE0OC44Mw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><span style="font-weight:400;">Remote US or EMEA, UTC-6  - UTC+3  (HQ in Boston, MA)</span></p><br/><br/>Please mention the word **PROFOUND** and tag RNTQuMTk4LjMwLjkz when applying to show you read the job post completely (#RNTQuMTk4LjMwLjkz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -143,7 +187,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-software-engineer-backend-python-100-remote-1" align="right" target="_blank">Apply</a>
@@ -224,7 +268,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-backend-engineer-python-9" align="right" target="_blank">Apply</a>
@@ -284,57 +328,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CoverGo</h5>
-                    <h3> Senior Backend Engineer .Net</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/covergo-senior-backend-engineer-net-4" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Warsaw, Masovian Voivodeship, Poland
-    <br /><strong>URL:</strong> <a href="http://covergo.com">http://covergo.com</a>
-</p>
-
-<p><strong>Top 3 Reasons To Join Us</strong><br></p>
-<ul> <li>Competitive Salary</li> <li>100% Remote</li> <li>Working on the latest tech for the Insurtech Market Leader</li> </ul>
-<p><strong>About Us</strong></p>
-<p>At CoverGo, our mission is to help insurance companies and banks to make insurance 100% digital, to better serve their customers.</p>
-<ul> <li>We are the leading provider of cutting-edge technology to the insurance industry</li> <li>We're also the winner of the insurtech of the year in all of Asia in 2021 and other awards globally</li> <li>We work with enterprise clients such as AXA, MSIG, DBS, Fubon, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team with over 20 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have offices in Singapore, Hong Kong, and Vietnam. We plan to expand to the US and other markets in the upcoming months</li> <li>We've grown our annualized revenue by over 1000% since January 2021</li> <li>We're constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul>
-<p><strong>About the Role</strong></p>
-<p>.Net Backend engineering is the heart of our technical excellence. We are looking for people who are able to analyze complex insurance domains and build high-quality API and microservices in cross-functional product and project teams. </p>
-<p>CoverGo is a Kubernetes-native platform that consists of around twenty microservices exposed via a GraphQL gateway (<a href="https://api.covergo.com/playground" class="external">https://api.covergo.com/playground</a>), based on .net 6.</p>
-<p><strong>What You Will Do</strong><br></p>
-<ul> <li>Help us build, grow and maintain our services</li> <li>Apply your skills to develop robust and scalable software</li> </ul>
-<p><strong>You'll be successful in this role if:</strong></p>
-<ul> <li>You are a hands-on engineer, and you love what you do</li> <li>You are a quick learner and excited about learning new technologies</li> <li>You are passionate about automated testing, code quality and engineering best practices</li> <li>You advocate software craftsmanship and take pride in your work</li> <li>You enjoy collaborating with engineers across functional teams and have excellent communication skills</li> <li>You enjoy taking full ownership of projects from conception to production</li> </ul>
-<p><strong>What We Need</strong><br></p>
-<ul> <li>Experience in Event sourcing, CQRS, and DDD (Domain Driven Design)</li> <li>Excellent understanding of .NET Core and C#</li> <li>Experience with Docker</li> <li>Familiarity with microservices using GraphQL</li> <li>Experience with database technologies like MongoDB, PostgreSQL</li> <li>Intensive TDD practice</li> </ul>
-<p><strong>It'll be nice if you have some experience in areas:</strong></p>
-<ul> <li>Event Storming or Event Modeling</li> <li>SpecFlow and BDD</li> <li>GitHub Actions</li> <li>Cloud Computing platforms: Amazon AWS, Microsoft Azure, Google Cloud, Alibaba etc.</li> <li>MS/BS in Computer Science or a related degree</li> <li>Insurance and fintech experience</li> <li>Know what these names are about: Vaughn Vernon, Eric Evans, Martin Fawler</li> <li>Kubernetes</li> <li>GitOps</li> </ul>
-<p><strong>Why You'll Love Working Here</strong></p>
-<ul> <li>Salary: Up to 5000USD/Month</li> <li>Full-remote employment, work from anywhere and/or from one of our physical offices in Vietnam, Singapore or Hong Kong occasionally</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid annual leaves</li> <li>Employee stock options</li> <li>Performance bonus</li> <li>Performance review 2x a year</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/covergo-senior-backend-engineer-net-4">https://weworkremotely.com/remote-jobs/covergo-senior-backend-engineer-net-4</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8355/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -345,7 +338,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/community-phone-senior-backend-engineer" align="right" target="_blank">Apply</a>
@@ -415,7 +408,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
@@ -440,7 +433,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
