@@ -1,5 +1,56 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/bdd6358430bf36d0b029cca019175d471668842127.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>NOBI</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,amazon,defi,crypto,cryptocurrency,system,frontend,test,code,web,javascript,investment,nodejs,php,git,engineer,engineering,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-nobi-151202" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>
+<p></p>
+<h2>Company Description</h2>
+</div><div><p>NOBI helps people easily get more from their crypto asset & simplify their crypto investment experience. Our engineering team run hundreds of blockchain nodes, integrates with numerous DeFi smart contracts and run numerous real time robo trading to simplify the life our customers. <br><br>Weâre here so that everyone can be part of the global cryptocurrency movement. Join us.</p></div><div>
+<p></p>
+<h2>Job Description</h2>
+</div><div><ul>
+<li>Responsible for building and extending our backend code</li>
+<li>Responsible for building APIs that serve our frontend apps</li>
+<li>Responsible for maintaining and extend our test suite</li>
+<li>Refactor and improve existing code to incorporate better patterns</li>
+<li>Able to create unit test and implement self-test to make sure the code is running well (Profiling and optimization code)</li>
+<li>Work with the other engineering team to build & maintain our numerous backend services</li>
+</ul></div><div>
+<p></p>
+<h2>Qualifications</h2>
+</div><div><ul>
+<li>Bachelor's degree in Computer Science or equivalent from a reputable university</li>
+<li>Minimum 2 years of working experience as Backend Engineer or equivalent</li>
+<li>Minimum 2 years of extensive experience on server-side development, especially Javascript (ES6) using NodeJS & PHP using Laravel.</li>
+<li>Fluent with Git and RESTful API</li>
+<li>Good knowledge and experience of UNIX system and command line experience in web server configuration and setup. This includes setting up PHP engine, database server, load balancing.</li>
+<li>Experience with NoSQL, Amazon AWS , Redis, Docker</li>
+<li>Knowledge and experience in scalability and performance in high-traffic web systems</li>
+<li>Knowledgeable on software design pattern</li>
+<li>Understanding the principles of application security</li>
+<li>Blockchain or Crypto enthusiast</li>
+</ul></div><br/><br/>Please mention the word **FOOLPROOF** and tag RNDQuMjAwLjgzLjEwMA== when applying to show you read the job post completely (#RNDQuMjAwLjgzLjEwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/9e2ab79e0e90c2a530605400f6f5a1681668755719.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +61,7 @@
                     <code>software,design,crypto,redis,code,web,financial,java,cloud,senior,health,engineer,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-tradeblock-150691" align="right" target="_blank">Apply</a>
@@ -62,7 +113,7 @@
 <li>Paid Family Leave for mothers and fathers</li>
 <li>All new employees receive a WFH stipend.</li>
 </ul>
-</div><br/><br/>Please mention the word **PLUSH** and tag RNTQuMTk4LjMwLjkz when applying to show you read the job post completely (#RNTQuMTk4LjMwLjkz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **PLUSH** and tag RNDQuMjAwLjgzLjEwMA== when applying to show you read the job post completely (#RNDQuMjAwLjgzLjEwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -77,7 +128,7 @@
                     <code>software,cryptocurrency,security,developer,code,financial,video,fintech,management,reliability,engineer,engineering,educational,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-rust-orderly-150172" align="right" target="_blank">Apply</a>
@@ -137,7 +188,7 @@
 <li>If you have experience in developing trading systems or financial-related products is a plus.</li>
 <li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
 <li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our <a href="https://boards.greenhouse.io/orderlynetwork/jobs/5170520003" target="_blank" rel="noopener noreferrer nofollow">External Referral Incentives Program</a> as well. </li>
-</ul><br/><br/>Please mention the word **ADMIRABLY** and tag RNTQuMTk4LjMwLjkz when applying to show you read the job post completely (#RNTQuMTk4LjMwLjkz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **ADMIRABLY** and tag RNDQuMjAwLjgzLjEwMA== when applying to show you read the job post completely (#RNDQuMjAwLjgzLjEwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -152,7 +203,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/paymentology-software-engineer-2" align="right" target="_blank">Apply</a>
@@ -219,7 +270,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer" align="right" target="_blank">Apply</a>
@@ -274,99 +325,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1496933/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>DataMilk</h5>
-                    <h3>Software Engineer In Test</h3>
-                </td>
-                <td width="300">
-                    <code>amazon,api,data science,git</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/qa/software-engineer-in-test-1496933" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Who are we?</strong></p>
-<p>We are a venture-backed startup founded by ex-Googler data enthusiasts and built by talented people all over the world. Our mission is to fix the internet with effective user experiences that leverage AI.</p>
-<p>We enable commerce websites to increase their effectiveness through AI driven user experiences. Every company should be able to provide Amazon, Netflix, and TikTok level effectiveness without a massive AI team. Our customers love us because we increase their revenue with little effort and they don’t pay unless we deliver results.</p>
-<p>The company raised $5 million from big_bets, RTP Global, and Angel Invest, with participation from Matthew Freud and the founders of digital commerce platform VTEX.</p>
-<p><strong>Why Join Us?</strong></p>
-<p>We are just about to enter a growth phase in the business which means we’re aggressively increasing our headcounts primarily across engineering and AI departments. The team size is about 40 people. You’ll work in close conjunction with the founding leadership - CTO and CEO, VP infrastructure, data science, and machine learning leaders.</p>
-<p>Remote all the way</p>
-<p>Forget the commute, work from anywhere in the world with other amazing people, enjoy getting together in person in beautiful places like our last get-together in Rio De Janeiro.</p>
-<p>Who are you?</p>
-<p>You have leadership skills and like to understand and work closely with the business, are curious, skeptical, humble, and ambitious at the same time. You believe the ultimate way to prove a solution is with Data.</p>
-<p>When interfacing with a business you summarize possible outcomes and options, their strengths and weaknesses. Nobody can predict the future. Seeing and articulating some of the possible paths is what you do well.</p>
-<p><strong>The Role</strong></p>
-<p>We have a very exciting opportunity for an experienced Software Engineer in Test to take the Lead Role in our Automation Strategy and Implementation.</p>
-<p>This is a pivotal role that genuinely offers an exciting opportunity to focus on taking the Test Automation Framework to the next level, make strategic decisions, think critically and most importantly get things done.</p>
-<p><strong>Responsibilities</strong></p>
-<ul>
-<li>Design, implement and maintain an Automation Test Strategy</li>
-<li>Design, plan, implement, and automate test plans along with the engineering team.</li>
-<li>Use and enhance the Testing Frameworks for both API and UI type tests, to write Automation Tests and integrate with existing CI/CD tools.</li>
-<li>Use standard best practices with an eye on extensibility, performance and organized &amp; documented in a clear and understandable way for ease of maintenance.</li>
-<li>Collaborate closely with QA, Engineering, and Product Teams to understand the priority of Automation and Coverage required</li>
-<li>Work with the QA and Dev team to upskill people to write &amp; maintain Automation Scripts</li>
-<li>Maintenance and Analysis of tests – build a Test Results Dashboard for easy results evaluation</li>
-<li>Follow the shift left philosophy – so that the majority of our testing effort is early and at the lower end of the Testing Pyramid (I.e. Dev/CI/CD)</li>
-<li>Configure and maintain test environments &amp; test data</li>
-<li>Participate in troubleshooting and triaging of issues with different teams to drive towards root cause identification and resolution</li>
-</ul>
-<p><strong>Requirements</strong></p>
-<ul>
-<li>5+ years experience with test plan/test case authoring, developing automated tests and creating defect tickets when issues are found.</li>
-<li>Proven experience in Setting up and writing UI/API tests</li>
-<li>Understand CI/CD Principles</li>
-<li>Understands web development principles and well versed in the request-response cycle.</li>
-</ul>
-<ul>
-<li>Experience testing web-based applications.</li>
-</ul>
-<ul>
-<li>Understands Unit, Integration and E2E testing principles.</li>
-<li>Experience in devising, managing and implementing effective testing strategies</li>
-<li>Strong experience with typical Automation Languages using TypeScript/JavaScript</li>
-<li>4+ years experience with Selenium, Cypress, or equivalent</li>
-<li>Familiarity with Agile software development methodologies &amp; tools</li>
-<li>Knowledge of distributed version control systems such as Git</li>
-</ul>
-<p><strong>Personal traits</strong></p>
-<ul>
-<li>Self-motivated and can work autonomously</li>
-<li>Can think strategically and critically</li>
-<li>Plans and develops code independently with minimal guidance keeping all the relevant stakeholders informed about status and progress.</li>
-<li>Genuine interest in Quality Assurance and learning the Product under test</li>
-<li>Passionate and demonstrates ownership of deliverables for timely releases</li>
-<li>Ability to not just implement but also document, train and upskill others</li>
-<li>Resourcefulness and troubleshooting aptitude</li>
-<li>Interested in learning new tools &amp; processes and rolling it out to others</li>
-</ul>
-<p><strong>Benefits</strong></p>
-<p>Unlimited Vacation, Flexible Working Hours, Competitive Salary, Stock Options, Benefits.</p>
-<p><strong>FAQ</strong></p>
-<p><em>Who are our founders?</em></p>
-<p>Co-founder and CEO - <a class="external" href="https://www.linkedin.com/in/peterszalontay/" rel="nofollow">Peter Szalontay</a></p>
-<p>Co-founder and CTO - <a class="external" href="https://www.linkedin.com/in/cristiano-carvalho-64ab34116/" rel="nofollow">Cristiano Carvalho</a></p>
-<p>Co-founder - <a class="external" href="https://www.linkedin.com/in/mishalyalin/?originalSubdomain=ru" rel="nofollow">Misha Lyalin</a></p>
-<p><strong>Is there a probation and how long does it last?</strong> - There is no concept of probation.</p>
-<p><strong>What is the work schedule?</strong> – There’s a completely asynchronous working environment. Exceptions: meetings that are agreed by the individuals or at the team level that are necessary.</p>
-<p><strong>Is it possible to work remotely?</strong> - Yes, We are a remote first company.</p>
-<p><strong>Number of vacation days, sick days?</strong> – Unlimited. We only require your success.</p>
-<p><strong>Is there a prospect of business trips, and where? </strong>– We have company offsites on an annual/semi-annual basis where we meet up in a beautiful location.</p>
-<p><strong>Social package (medical insurance, other)?</strong> – We discuss it individually.</p>
-<img src="https://remotive.com/job/track/1496933/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -377,7 +335,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -439,7 +397,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
