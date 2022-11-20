@@ -10,7 +10,7 @@
                     <code>ui,design,crypto,react,frontend,python,software,web,financial,cloud,css,git,lead,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-lead-ui-front-end-engineer-tradeblock-150701" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
 <li>Paid Family Leave for mothers and fathers</li>
 <li>All new employees receive a WFH stipend.</li>
 </ul>
-</div><br/><br/>Please mention the word **MIRACULOUS** and tag RNTQuMTk4LjMwLjkz when applying to show you read the job post completely (#RNTQuMTk4LjMwLjkz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **MIRACULOUS** and tag RNDQuMjAwLjgzLjEwMA== when applying to show you read the job post completely (#RNDQuMjAwLjgzLjEwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -76,7 +76,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-angular-1" align="right" target="_blank">Apply</a>
@@ -160,7 +160,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>182 days ago</text>
+                <text>183 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/slab-frontend-engineer" align="right" target="_blank">Apply</a>
@@ -216,87 +216,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1489428/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Premia</h5>
-                    <h3>Senior Frontend & QA Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>crypto,CSS,frontend,linux</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/qa/senior-frontend-qa-engineer-1489428" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>Senior Frontend &amp; QA Engineer - Remote</div>
-<div> </div>
-<div>Premia is a decentralized options platform connecting traders and liquidity providers of all backgrounds. Offering non-custodial options to hedge, speculate, or earn yield on your digital assets.  Premia offers first of its kind automated market maker solutions in the DeFi space for Options Contracts through our use of Smart Liquidity Pools and Dynamic Pricing.  Premia enables best-in-class pricing based on market volatility, providing fully-featured peer-to-pool trading and capital efficiency to DeFi options.</div>
-<div> </div>
-<div>We are one of the smallest and most impactful teams in crypto. We are a globally distributed organization, with all positions being fully remote.</div>
-<div> </div>
-<div>We’re looking for a passionate, self-motivated engineer to help us build the next generation of financial products. As a dedicated Engineering hire, you will gain ownership over our existing suite of web products, as well as the ability to influence the creation, design, and execution of future products. You will be responsible for ensuring a consistent, high-quality user experience across trading interfaces, data-heavy analytics pages, documentation portals, subgraph on <a class="postings-link" href="https://thegraph.com/explorer" rel="nofollow">The Graph</a> and more.</div>
-<div> </div>
-<div><strong>Who are you?</strong></div>
-<div> </div>
-<div><span style="">A senior-level front-end engineer (JS/TS + React veteran) with a passion for smashing bugs who is also native to the crypto space. You can write and speak fluent English and have great communication skills.</span></div>
-<div> </div>
-<div><span style="">You love debugging, you like doing detective work to figure out the cause of the problem and ultimately resolving it. </span></div>
-<div> </div>
-<div><span style="">You have experience and are culturally aligned with fast-moving small teams. You have worked at remote (globally distributed) startups before. </span></div>
-<div> </div>
-<div><span style="">You are self-driven, are comfortable wearing many hats, can ship patches and features swiftly when needed. You can identify company priorities, own them, and iterate quickly to ship the best solution.</span></div>
-<div> </div>
-<div><strong>The Role:</strong></div>
-<div> </div>
-<div><span style="">Senior engineers are expected to take big complex tasks single-handedly. </span></div>
-<div> </div>
-<div><span style="">As a Senior frontend + QA engineer you will be the bridge between bug reporting and bug termination. You will manage several communication channels as well as our bug reporting process to make sure all QA tasks are correctly prioritized and executed. </span></div>
-<div> </div>
-<div><span style="">You will work closely with both the Front-end team and the QA team to help build and maintain react components, as well as helping shape our automated testing pipelines. </span></div>
-<div> </div>
-<div><strong>Responsibilities</strong></div>
-<div><span style="">As a Web3 Architect you will:</span></div>
-<div><span style="">-</span><span style="">Create and document automated and manual test plans and procedures</span></div>
-<div><span style="">-</span><span style="">Configure and set up testing environments</span></div>
-<div><span style="">-</span><span style="">Implement, run, and monitor automated tests</span></div>
-<div><span style="">-</span><span style="">Write scripts in the language of your choice that can help us improve the QA process</span></div>
-<div><span style="">-</span><span style="">Onboard new individuals into the Web3 Architecture team</span></div>
-<div><span style="">-</span><span style="">Mentor team members to refine their technical and architectural skills</span></div>
-<div><span style="">-</span><span style="">Build, test, and ship features, patches, and updates to our web app</span></div>
-<div><span style="">-</span><span style="">Collaborate with the team and cross-functional partners on all aspects of product development</span></div>
-<div><span style="">-</span><span style="">Identify and advocate for team-wide areas of improvement and best practices</span></div>
-<div> </div>
-<div><strong>Requirements</strong></div>
-<div><span style="">-</span><span style="">At least 3 years with </span><strong><span style="">JS/TS + React</span></strong></div>
-<div><span style="">-</span><span style="">At least 3 years of TDD with extensive experience in designing manual tests</span></div>
-<div><span style="">-</span><span style="">Extensive experience with CSS libraries (</span><strong><span style="">MUI</span></strong><span style=""> </span><span style="">preferred</span><span style="">)</span></div>
-<div><span style="">-</span><span style="">Outstanding communication skills</span></div>
-<div><span style="">-</span><span style="">Some experience with crypto is required</span></div>
-<div><span style="">-</span><span style="">Fluency with different operating systems (Linux, MacOS etc.)</span></div>
-<div><span style="">-</span><span style="">Experience with multiple browsers (Brave, Firefox, Safari, Chrome)</span></div>
-<div><span style="">-</span><span style="">(Nice to have) Experience with web wallets such as </span><strong><span style="">Metamask</span></strong><span style=""> and </span><strong><span style="">WalletConnect</span></strong></div>
-<div><span style="">-</span><span style="">(Nice to have) Experience with </span><strong><span style=""><a href="http://ethers.js" rel="nofollow">ethers.js</a></span></strong><span style=""> or </span><strong><span style=""><a href="http://web3.js" rel="nofollow">web3.js</a></span></strong><span style=""> libraries</span></div>
-<div><span style="">-</span><span style="">(Nice to have) Experience with CI/CD tools (</span><strong><span style="">Github Actions</span></strong><span style=""> </span><span style="">preferred</span><span style="">)</span></div>
-<div><span style="">-</span><span style="">(Nice to have) Experience with automation tools (</span><strong><span style="">Playwright</span></strong><span style=""> </span><span style="">preferred</span><span style="">)</span></div>
-<div><span style="">-</span><span style="">(Nice to have) Experience with Discord and Discord web hooks. </span></div>
-<div><strong>Benefits</strong></div>
-<div>Work from anywhere (Remote first), Flexible working hours, Flexible vacation policy, Competitive Salary + Token bonus (portion or all can be paid in Crypto).  Premia is committed to a diverse and inclusive workplace and is an equal opportunity employer. We do not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.</div>
-<div> </div>
-<div>Premia welcomes all qualified persons to apply. Compensation will be competitive and commensurate with experience. This is a full time role.</div>
-<div> </div>
-<div>To find out more you can view their website at <a class="postings-link" href="https://premia.finance/" rel="nofollow">https://premia.finance/</a></div>
-<img src="https://remotive.com/job/track/1489428/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1421232/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -307,7 +226,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
