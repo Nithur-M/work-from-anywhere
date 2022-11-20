@@ -10,7 +10,7 @@
                     <code>design,crypto,software,code,finance,engineer,engineering,digital nomad,backend</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-rift-finance-150249" align="right" target="_blank">Apply</a>
@@ -39,7 +39,7 @@ We are a mission driven company. We believe deeply that through software enginee
 
 The future belongs to all of us, independent of our origins. Recursive Labs is an equal opportunity employer and does not discriminate on the basis of race, religion, color, sexual orientation, gender or any other status protected under federal, state or local law.Â Â  We celebrate diversity and inclusion among our team mates and seek to hire talent that will add to our culture.
 
-This role is offered by Recursive Labs, an open source R&D company building protocols, tools, and services for the future internet. The team is contributing to the Rift ecosystem.<br/><br/>Please mention the word **BALANCED** and tag RNTQuMTk4LjMwLjkz when applying to show you read the job post completely (#RNTQuMTk4LjMwLjkz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+This role is offered by Recursive Labs, an open source R&D company building protocols, tools, and services for the future internet. The team is contributing to the Rift ecosystem.<br/><br/>Please mention the word **BALANCED** and tag RNDQuMjAwLjgzLjEwMA== when applying to show you read the job post completely (#RNDQuMjAwLjgzLjEwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -54,7 +54,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>founder,financial,investment,fintech,postgresql,api,senior,reliability,go,engineer,backend,full-time</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-client-journey-upvest-150189" align="right" target="_blank">Apply</a>
@@ -99,7 +99,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
 <strong>Own the outcome. </strong>Whether we win or we lose, we stand together. We are proactive and get the job done. Outcome &gt; Process.</li>
 <li>
 <strong>Tell the story. </strong>We always start with the <em>why</em>. We share knowledge to empower others. Transparency &gt; Complexity.</li>
-</ul><br/><br/>Please mention the word **SENSATION** and tag RNTQuMTk4LjMwLjkz when applying to show you read the job post completely (#RNTQuMTk4LjMwLjkz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **SENSATION** and tag RNDQuMjAwLjgzLjEwMA== when applying to show you read the job post completely (#RNDQuMjAwLjgzLjEwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -114,7 +114,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>software,crypto,cryptocurrency,bitcoin,ethereum,testing,video,analytics,recruiting,engineer,engineering,backend</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-software-engineer-market-data-coin-metrics-150173" align="right" target="_blank">Apply</a>
@@ -172,7 +172,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
 <li style="font-weight:400;"><span style="font-weight:400;">Case Study </span></li>
 </ul>
 <h3><strong>LOCATION</strong></h3>
-<p><span style="font-weight:400;">Remote US or EMEA, UTC-6  - UTC+3  (HQ in Boston, MA)</span></p><br/><br/>Please mention the word **PROFOUND** and tag RNTQuMTk4LjMwLjkz when applying to show you read the job post completely (#RNTQuMTk4LjMwLjkz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><span style="font-weight:400;">Remote US or EMEA, UTC-6  - UTC+3  (HQ in Boston, MA)</span></p><br/><br/>Please mention the word **PROFOUND** and tag RNDQuMjAwLjgzLjEwMA== when applying to show you read the job post completely (#RNDQuMjAwLjgzLjEwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -187,7 +187,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-software-engineer-backend-python-100-remote-1" align="right" target="_blank">Apply</a>
@@ -268,7 +268,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-backend-engineer-python-9" align="right" target="_blank">Apply</a>
@@ -338,7 +338,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/community-phone-senior-backend-engineer" align="right" target="_blank">Apply</a>
@@ -408,7 +408,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
@@ -433,7 +433,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
