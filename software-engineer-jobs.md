@@ -1,5 +1,55 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/16897e4c94b800fa174d593cf8409f001668928516.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Cake DeFi</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>crypto,defi,blockchain,web3,software,design,react,test,ui,javascript,finance,fintech,typescript,mobile,engineer,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-cake-defi-151705" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro">
+<p>Founded in 2019, Cake DeFi is a leading decentralised finance services provider and Southeast Asiaâs fastest growing fintech platform. "We Do Crypto. You Do You." - Our vision is to become a one-stop platform for all crypto users to get easy access to DeFi and Web3 services. To date, more than 1 million users from over 190 countries trust us to manage over $1 billion in assets. We are a profitable, cashflow positive private rocket ship that's just getting ready for take-off. Join us.</p>
+<p> </p>
+</div><p><strong>Birthday Research</strong></p>
+<p><span style="font-weight:400;">Birthday Research (BR) is our Blockchain Research and Development arm. Fuelled by the best minds in the industry, BR seeks to develop best-in-class blockchain innovations with the mission of enabling the next bound of Web3.</span></p>
+<p><span style="font-weight:400;">As a pioneering force, our work spans cryptographic research, deep blockchain consensus development, and smart contracts development â with a laser-sharp focus on driving the industry frontier while tackling the most demanding DeFi challenges of today. To date, one of our core contributions, DeFiChain, has garnered over 1 billion USD in total value locked on the layer-1 protocol.</span></p>
+<p><span style="font-weight:400;">We are a fast-growing, globally distributed, close-knit team of multi-disciplinary doers and getters. Join Birthday Research today to be a part of the driving force shaping the future of decentralization.</span></p>
+<h3><span style="text-decoration:underline;"><strong>What youâll do:</strong></span></h3>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with cross-functional teams, product designers, and managers to design and develop TypeScript based applications using React, React Native, Next.js and/or Node.js.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Write highly performant codes that are clean, simple, maintainable, and battle-tested with test-driven development (TDD) for maximum test coverage automated from pull request all the way to release.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Take on active responsibility in creating highly scalable UI Components and/or backend modules for our scaling needs.</span></li>
+</ul>
+<h3><span style="text-decoration:underline;"><strong>What youâll need:</strong></span></h3>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience working in a fast pace tech-driven startup as a Software Engineer with at least 2 years of experience or in a similar capacity.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Strong proficiency in TypeScript or JavaScript with experience working in Web, Node, or Mobile technologies.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Ability to take full ownership and work independently while collaborating with others in a fast-paced agile and async team.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">A collaborative and resourceful individual with excellent communication skills able to make radical decisions while being empathetic and respectful.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Willingness to pick up new and emerging bleeding edge blockchain technologies.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Deep technical understanding of blockchain technologies, cryptography, BIPs, DeFi, UTXO, EVM, or Nakamoto Consensus is highly preferred.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience participating or maintaining in open source software development is highly preferred.</span></li>
+</ul>
+<p> </p><div class="content-conclusion">
+<p>We want to transform and decentralise finance with tomorrowâs technology. This is where you come in. Join a company that is at the forefront of bleeding-edge innovations in blockchain and DeFi. You will be empowered to push boundaries and think out of the box. You will get to work with a bunch of ridiculously motivated and talented people. And most importantly, you'll have fun. The best places to work at, are often also the most fun to work at. That's us.</p>
+<p>We hire based on merit, fit, and strong alignment to our culture. Our culture is defined by 7 team principles: Integrity, Resourcefulness, Ownership, Meritocratic Decision-making, Customer Obsession, Radical Candour, and Passion. These 7 principles guide our company, our people, and our work. At Cake DeFi, our culture is our pride. It has been instrumental to our success, so we are steadfast in our commitment to it. We welcome you to add to it.</p>
+</div><br/><br/>Please mention the word **STABLE** and tag RMy4yMzEuMjI0LjIyOQ== when applying to show you read the job post completely (#RMy4yMzEuMjI0LjIyOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/bdd6358430bf36d0b029cca019175d471668842127.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +60,7 @@
                     <code>software,design,amazon,defi,crypto,cryptocurrency,system,frontend,test,code,web,javascript,investment,nodejs,php,git,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-nobi-151202" align="right" target="_blank">Apply</a>
@@ -46,7 +96,7 @@
 <li>Knowledgeable on software design pattern</li>
 <li>Understanding the principles of application security</li>
 <li>Blockchain or Crypto enthusiast</li>
-</ul></div><br/><br/>Please mention the word **FOOLPROOF** and tag RNDQuMjAwLjgzLjEwMA== when applying to show you read the job post completely (#RNDQuMjAwLjgzLjEwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul></div><br/><br/>Please mention the word **FOOLPROOF** and tag RMy4yMzEuMjI0LjIyOQ== when applying to show you read the job post completely (#RMy4yMzEuMjI0LjIyOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -61,7 +111,7 @@
                     <code>software,design,crypto,redis,code,web,financial,java,cloud,senior,health,engineer,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-tradeblock-150691" align="right" target="_blank">Apply</a>
@@ -113,82 +163,7 @@
 <li>Paid Family Leave for mothers and fathers</li>
 <li>All new employees receive a WFH stipend.</li>
 </ul>
-</div><br/><br/>Please mention the word **PLUSH** and tag RNDQuMjAwLjgzLjEwMA== when applying to show you read the job post completely (#RNDQuMjAwLjgzLjEwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/431e1660ca0d2018993ebdb7b9fb02031668669348.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Orderly</h5>
-                    <h3>Software Engineer Rust</h3>
-                </td>
-                <td width="300">
-                    <code>software,cryptocurrency,security,developer,code,financial,video,fintech,management,reliability,engineer,engineering,educational,full-time,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-rust-orderly-150172" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h2 style="text-align:center;"><strong>Work with the best</strong></h2>
-<p>Orderly Network is a permissionless, decentralized exchange protocol and modular ecosystem built on top of NEAR. It uses an on-chain orderbook to provide a platform complete with a risk engine, matching engine, and shared asset pools for Dapps to build on top of. Dapps built on the Orderly Network will allow for financial instruments such as; Spot Trading, Margin Trading, Perpetual Swaps and Lending & Borrowing.</p>
-<p>Whilst a fully independent team operates at Orderly Network, we were incubated by NEAR and WOO Network - Industry heavyweights in their respective fields. Thanks to both the guidance and expertise Orderly Network will offer market-leading execution with low latency and minimal fees with a combination of orderbook efficiency alongside on-chain settlement. We will become the go-to network for ecosystem partners to come and build upon.</p>
-<h2 style="text-align:center;"><strong>A Glimpse into Your Future at Orderly Network</strong></h2>
-<ul>
-<li>
-<span style="text-decoration:underline;"><em>What will you be working on?</em></span>
-<ul>
-<li>Develop new protocols on the innovative Solana or NEAR blockchain.</li>
-<li>Write and review technical proposals.</li>
-<li>Write, test, and deploy high-performance, networking code.</li>
-<li>Design product architecture according to business needs.</li>
-<li>Program and optimize rust/wasm based smart contracts.</li>
-<li>Develop infrastructure software.</li>
-<li>Implement advanced features from scratch.</li>
-<li>Perform technical analysis and contribute to code reviews.</li>
-<li><span style="font-weight:400;">Provide the vision of how the project should be driven forward from a technical perspective.</span></li>
-<li>Take part in our educational blockchain programs and make your contribution to our startups.</li>
-</ul>
-</li>
-<li>
-<span style="text-decoration:underline;"><em>What challenges will you face?</em></span>
-<ul>
-<li><span style="font-weight:400;">We're looking for a Rust Developer who has been involved in blockchain projects. This is a full-time remote position (possibility to work remotely as fully as partially). We are seeking a determined and creative developer who is passionate about changing the world through technology, someone who will  join a team responsible for implementation of various solutions in the Blockchain and FinTech domains where reliability and efficiency of software is crucial.</span></li>
-</ul>
-</li>
-<li>
-<span style="text-decoration:underline;"><em>What tech stacks/skills will you be using?</em></span>
-<ul>
-<li><span style="font-weight:400;">5+ years of software engineering experience.</span></li>
-<li><span style="font-weight:400;">Experience with Virtual machines used by modern blockchains: WebAssembly, EVM, COSMWASM (would be a plus).</span></li>
-<li><span style="font-weight:400;">Knowledge of best practices in blockchain management and data protection (would be a plus).</span></li>
-<li>You have working experience with Rust in Solana ecosystem.</li>
-<li>Experience or understanding the approach of smart contracts development.</li>
-<li>Experience with relational and non-relational databases.</li>
-<li>Knowledge of REST principles.</li>
-<li>You understand the OOP, OOD, SOLID principles.</li>
-<li>Deep knowledge of standard algorithms and data structures.</li>
-<li>You can analyze and optimize the platformâs performance.</li>
-<li>You have experience with security audits of third-party and internal solutions.</li>
-<li>You are interested in Solana or Near ecosystem.</li>
-<li>You possess strong written and verbal communication skills in English.</li>
-</ul>
-</li>
-</ul>
-<h2 style="text-align:center;"><strong>Interested in Learning More?</strong></h2>
-<ul>
-<li>Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.</li>
-<li>If you have experience in developing trading systems or financial-related products is a plus.</li>
-<li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
-<li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our <a href="https://boards.greenhouse.io/orderlynetwork/jobs/5170520003" target="_blank" rel="noopener noreferrer nofollow">External Referral Incentives Program</a> as well. </li>
-</ul><br/><br/>Please mention the word **ADMIRABLY** and tag RNDQuMjAwLjgzLjEwMA== when applying to show you read the job post completely (#RNDQuMjAwLjgzLjEwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **PLUSH** and tag RMy4yMzEuMjI0LjIyOQ== when applying to show you read the job post completely (#RMy4yMzEuMjI0LjIyOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -203,7 +178,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/paymentology-software-engineer-2" align="right" target="_blank">Apply</a>
@@ -270,7 +245,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer" align="right" target="_blank">Apply</a>
@@ -325,6 +300,76 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8546/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sticker Mule</h5>
+                    <h3> Software Engineer - Security</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-security-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/8546/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
+</p>
+
+<div><strong>About Sticker Mule</strong></div><div>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a  globally distributed team who cares deeply about delivering a great customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.</div><div><br></div><div>The Security team is responsible for performing penetration tests on our front-end and back-end web services, developing new automated offensive tools and troubleshooting problems.</div><div><br></div><div><a href="https://www.stickermule.com/about"><strong>See more about our teams here</strong></a></div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. Varied, interesting technical challenges to solve</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div>
+<strong>We like you to know<br></strong>1.<strong> </strong>Linux<br>2. Kubernetes/Docker<br>3. GCP/AWS<br>4. Postgres/MySQL<br>5. Redis<br>6. NextJS/React<br>7. NodeJS<br>8. GraphQL<br>9. Go<br>10. Excellent communication skills (English)<br>11. Degree in Computer Science or equivalent practical experience</div><div><br></div><div><strong>Challenges</strong></div><div>1. Improve security of our web services</div><div>2. Implement automated tools to reduce security regressions</div><div>3. Perform offensive penetration tests</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. Salary: $120,000/year</div><div>2. $20,000 signing bonus</div><div>3. 4 weeks vacation (+ holidays based on your country of residence)</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-security-1">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-security-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/9371/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sticker Mule</h5>
+                    <h3> Software engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/9371/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
+</p>
+
+<div><strong>About Sticker Mule</strong></div><div>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a  globally distributed team who cares deeply about delivering a great customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.</div><div><br></div><div>The Software team is responsible for building and maintaining our front-end and back-end services, developing new features and products, and troubleshooting problems.</div><div><br></div><div><a href="https://www.stickermule.com/about"><strong>See more about our teams here</strong></a></div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. Varied, interesting technical challenges to solve</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div><strong>We like you to know</strong></div><div>1. Docker</div><div>2. NextJS</div><div>3. React</div><div>4. NodeJS</div><div>5. GraphQL</div><div>6. Postgres</div><div>7. Redis</div><div>8. Familiarity with Ruby</div><div>9. Excellent communication skills (English)</div><div>10. Degree in Computer Science or equivalent practical experience<br><br><strong>Challenges</strong>
+</div><div>1. Improve and expand our React shared components gallery</div><div>2. Migrate a large Rails code base to JavaScript front-ends and back-ends</div><div>3. Maintain optimal front-end performance on desktop and mobile</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. $112,000/yr</div><div>2. $20,000 signing bonus</div><div>3. 28 vacation days (+ holidays based on your country of residence) </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -335,7 +380,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -397,7 +442,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
