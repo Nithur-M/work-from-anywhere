@@ -1,5 +1,69 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/cbccb5112d193cbd4cb51297e40baadb1668928531.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Streamflow</h5>
+                    <h3>Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>design,web3,back-end,python,software,code,qa,cloud,api,management,go,engineer,backend,full-time,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-streamflow-151713" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h3><b>The Company</b></h3><br><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Streamflow</a> helps web3 organizations distribute tokens efficiently and effectively.<br>We leverage our token streaming protocol to provide a suite of tools every Solana organization can use to manage and stream tokens.<p></p><h3><b>Why You Should Join Us</b></h3><br>Streamflow is built on the <a class="bbcode-link" href="https://www.notion.so/Values-public-536b816989aa4ee7b1923d112c84763e" target="_blank" rel="noopener noreferrer nofollow">Values (public)</a> that we share publicly. We look to uphold these qualities in our day-to-day and look for these qualities in candidates who apply.<br>Our work culture is fast-moving, engaging, and ambitious. We passionately believe in the value that our protocol can unlock for the world and weâre looking to work with mission-driven people who are ready to jump on board with us, roll up their sleeves, and get stuck into it. We believe in selfless sharing of knowledge, transparency, and insight into all aspects of the business and personal initiative.<br>We are a remote-first, office-optional team that prioritizes high-quality written communication and the possibility of working asynchronously across timezones because we believe that the best talent exists on every corner of the earth.<br>We are developing quite literally on bleeding edge technology on the highest performant blockchain, Solana.<br>We offer above-market salaries and discuss specific figures early on in the hiring process.<p></p><h3><b>Weâre seeking</b></h3><br>We're looking for a full-time <b>Back-end Engineer</b> to improve and build our applications with a focus on API design and implementation, but also making sure our <b>infrastructure</b> works and is implemented with maintenance in mind.<br>If you:<br><ul>
+<li align="left">able to work with at least 4h overlap with European timezones</li>
+<li align="left">have 5+ years of professional experience working as a software engineer</li>
+<li align="left">have been part of start-ups or scale-ups before as a full-time team member</li>
+<li align="left">have hands-on experience with AWS or alternative cloud providers and their products for modern infrastructure management (Docker, orchestration services, CI/CD, Terraform)</li>
+<li align="left">built production-ready servers before from the grounds up</li>
+<li align="left">have a nose for smelling problems before they happen</li>
+</ul>â¦then we should talk. ð<br>It will be a perfect fit if you love:<br><ul>
+<li align="left">Developing</li>
+<li align="left">Learning (and do it fast)</li>
+<li align="left">Going outside your comfort zone</li>
+<li align="left">Doing what is best for the business</li>
+<li align="left">Participating in the construction of processes and organizations from an early stage</li>
+<li align="left">Autonomy and responsibility</li>
+<li align="left">Very ambitious projects</li>
+</ul><br><h3><b>Bonus points</b></h3><br>If you:<br><ul>
+<li align="left">Have experience with Python API development (Django, flask, or related skills)</li>
+<li align="left">Have a diverse set of skills and be ready to put them to use to build production-ready systems</li>
+<li align="left">Love Linux, Cloud providers and their products</li>
+<li align="left">Interested in building blockchain-related products</li>
+</ul>youâre very likely to succeed in this role.<p></p><h3><b>Responsibilities</b></h3><br><ul>
+<li align="left">Design, develop and maintain server-side code and infrastructure using one of the server-side languages (Rust, Python, Go or JVM languages) and Cloud products</li>
+<li align="left">Work with product to rapidly build experimental products, deploy them and track performance and gather feedback</li>
+<li align="left">Take ownership of key pieces of Streamflowâs infrastructure and back-end code and steer them in the right direction</li>
+<li align="left">Serve as the technical authority for a domain and tech stack best practices in API and Infrastructure</li>
+</ul><br><h3><b>Examples of near-term responsibilities</b></h3><br><ul>
+<li align="left">Backend API infrastructure (maintenance + new development)</li>
+<ul>
+<li align="left">Automatic token transfers</li>
+<li align="left">Authentication</li>
+<li align="left">User resources</li>
+<li align="left">Dashboard support</li>
+<li align="left">Internal analytics</li>
+</ul>
+<li align="left">CI/CD pipelines (including QA flow)</li>
+<li align="left">AWS provisioning CI integration - Terraform, CD</li>
+</ul><br><h3><b>Compensation:</b></h3><br>Salary is negotiable based on previous experience and crypto-native exposure.<p></p><h3>Links:</h3><br><ul>
+<li align="left"><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Website</a></li>
+<li align="left"><a class="bbcode-link" href="https://app.streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">dApp</a></li>
+<li align="left"><a class="bbcode-link" href="https://twitter.com/streamflow_fi" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
+</ul><br><br/><br/>Please mention the word **HARMONY** and tag RMy4yMzEuMjI0LjIyOQ== when applying to show you read the job post completely (#RMy4yMzEuMjI0LjIyOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/886c9299fa2dc2200c613c5ccbfc42771668679212.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +74,7 @@
                     <code>design,crypto,software,code,finance,engineer,engineering,digital nomad,backend</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-rift-finance-150249" align="right" target="_blank">Apply</a>
@@ -39,7 +103,7 @@ We are a mission driven company. We believe deeply that through software enginee
 
 The future belongs to all of us, independent of our origins. Recursive Labs is an equal opportunity employer and does not discriminate on the basis of race, religion, color, sexual orientation, gender or any other status protected under federal, state or local law.Â Â  We celebrate diversity and inclusion among our team mates and seek to hire talent that will add to our culture.
 
-This role is offered by Recursive Labs, an open source R&D company building protocols, tools, and services for the future internet. The team is contributing to the Rift ecosystem.<br/><br/>Please mention the word **BALANCED** and tag RNDQuMjAwLjgzLjEwMA== when applying to show you read the job post completely (#RNDQuMjAwLjgzLjEwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+This role is offered by Recursive Labs, an open source R&D company building protocols, tools, and services for the future internet. The team is contributing to the Rift ecosystem.<br/><br/>Please mention the word **BALANCED** and tag RMy4yMzEuMjI0LjIyOQ== when applying to show you read the job post completely (#RMy4yMzEuMjI0LjIyOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -54,7 +118,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>founder,financial,investment,fintech,postgresql,api,senior,reliability,go,engineer,backend,full-time</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-client-journey-upvest-150189" align="right" target="_blank">Apply</a>
@@ -99,80 +163,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
 <strong>Own the outcome. </strong>Whether we win or we lose, we stand together. We are proactive and get the job done. Outcome &gt; Process.</li>
 <li>
 <strong>Tell the story. </strong>We always start with the <em>why</em>. We share knowledge to empower others. Transparency &gt; Complexity.</li>
-</ul><br/><br/>Please mention the word **SENSATION** and tag RNDQuMjAwLjgzLjEwMA== when applying to show you read the job post completely (#RNDQuMjAwLjgzLjEwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/d121d8cbdeef339fe9cfd9fde0731d0e1668669349.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Coin Metrics</h5>
-                    <h3>BACKEND SOFTWARE ENGINEER MARKET DATA</h3>
-                </td>
-                <td width="300">
-                    <code>software,crypto,cryptocurrency,bitcoin,ethereum,testing,video,analytics,recruiting,engineer,engineering,backend</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-software-engineer-market-data-coin-metrics-150173" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro">
-<p>Coin Metrics is a leading provider of cryptoasset data for institutions. We deliver transparent and actionable data and analytics to various industry stakeholders including asset managers, custodians, trading venues, research desks, and data/application providers. Coin Metricsâ data empowers its clients and the public to better understand, use and value open crypto networks.</p>
-<p>Join a fast-paced startup pioneering novel metrics, data products, and intelligence solutions, which offer insights into the economics, markets, usage, health, and other aspects of public cryptocurrency blockchains like Bitcoin and Ethereum and other crypto networks.</p>
-<p>You will be surrounded by talented people passionate about decentralized economies and the data behind them. Break new ground, create exciting new data-driven research and products, and help shape the future of finance.</p>
-</div><h3><strong>YOUR PURPOSE</strong></h3>
-<p><span style="font-weight:400;">Coin Metrics is recruiting an experienced Backend Software Engineer to join our team to </span><span style="font-weight:400;">assist in developing our Market Data  offerings</span><span style="font-weight:400;">.</span></p>
-<h3><strong>YOUR VALUE</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Building distributed, reliable, and performant software architectures using Kotlin;</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Leading the development of a new Coin Metrics' product that produces metrics and exposes them via API;</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Working closely with network data and market data experts to build the product;</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Depth testing of your code;</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Contributing to documentation;</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Building and maintaining Market Data metrics;</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Building and maintaining Reference Rates;</span></li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Building and maintaining </span><span style="font-weight:400;">Crypto Indexes;</span>
-</li>
-<li style="font-weight:400;"><span style="font-weight:400;">Scaling and capacity planning.</span></li>
-</ul>
-<h3><strong>YOUR EXPERTISE AND EXPERIENCE</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">5+ years of experience in a backend software engineering role or equivalent.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Proficiency in Kotlin/Java (Kotlin preferred or willing to learn Kotlin if not already proficient). </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Proficiency in SQL (preferably PostgreSQL).</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Strong curiosity for decentralized networks and cryptoassets.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Strong sense of ownership, entrepreneurial spirit, and/or startup-like experience, capable of driving towards solutions independently while seeking feedback when appropriate.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Basic understanding of how blockchains operate and their underlying data structures. </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with Docker, GitLab CI, Gradle, Kubernetes, Ansible, Python, Grafana, Linux.</span></li>
-</ul>
-<h3>
-<strong>LIFE AT COIN METRICS</strong><strong> </strong>
-</h3>
-<p><span style="font-weight:400;">Coin Metrics is a fun and fast-paced team with employees located in 8 countries.  We are united by our OPEN (Open, Pioneering, Elucidating, and Neutral) core values.   Our employees are empowered to do whatâs best for our products, customers, and team members.   Other benefits of working at Coin Metrics include:</span></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Competitive salary, 401(k) retirement plan, bonus and options plans</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Comprehensive medical, dental, vision</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Remote or hybrid work options with generous equipment reimbursement offering</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Paid time off </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Global company offsites </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Coin Metrics Labs where associates pursue their passions</span></li>
-</ul>
-<h3><strong>OUR INTERVIEW PROCESS</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">30 minute video interview with Talent Sherpa (Recruiter)</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">3-4 video interviews with members of our team </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Case Study </span></li>
-</ul>
-<h3><strong>LOCATION</strong></h3>
-<p><span style="font-weight:400;">Remote US or EMEA, UTC-6  - UTC+3  (HQ in Boston, MA)</span></p><br/><br/>Please mention the word **PROFOUND** and tag RNDQuMjAwLjgzLjEwMA== when applying to show you read the job post completely (#RNDQuMjAwLjgzLjEwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **SENSATION** and tag RMy4yMzEuMjI0LjIyOQ== when applying to show you read the job post completely (#RMy4yMzEuMjI0LjIyOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -187,7 +178,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-software-engineer-backend-python-100-remote-1" align="right" target="_blank">Apply</a>
@@ -268,7 +259,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-backend-engineer-python-9" align="right" target="_blank">Apply</a>
@@ -338,7 +329,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/community-phone-senior-backend-engineer" align="right" target="_blank">Apply</a>
@@ -408,7 +399,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
@@ -433,7 +424,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
