@@ -1,66 +1,5 @@
 <div align="center"><h2>QUALITY ASSURANCE JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/4a8e0f2e19776931a1adb454840195991668669331.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Orderly</h5>
-                    <h3>Quality Assurance Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>cryptocurrency,system,financial,video,finance,java,management,engineer,linux</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-quality-assurance-engineer-orderly-150164" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h2 style="text-align:center;"><strong>Work with the best</strong></h2>
-<p>Orderly Network is a permissionless, decentralized exchange protocol and modular ecosystem built on top of NEAR. It uses an on-chain orderbook to provide a platform complete with a risk engine, matching engine, and shared asset pools for Dapps to build on top of. Dapps built on the Orderly Network will allow for financial instruments such as; Spot Trading, Margin Trading, Perpetual Swaps and Lending & Borrowing.</p>
-<p>Whilst a fully independent team operates at Orderly Network, we were incubated by NEAR and WOO Network - Industry heavyweights in their respective fields. Thanks to both the guidance and expertise Orderly Network will offer market-leading execution with low latency and minimal fees with a combination of orderbook efficiency alongside on-chain settlement. We will become the go-to network for ecosystem partners to come and build upon.</p>
-<h2 style="text-align:center;"><strong>A Glimpse into Your Future at Orderly Network</strong></h2>
-<ul>
-<li>
-<span style="text-decoration:underline;"><em>What will you be working on?</em></span>
-<ul>
-<li>Test, deploy, and operate automated high-frequency quantitative trading systems</li>
-<li>Monitor risk exposure, pnl and system status of hundreds of trading processes</li>
-<li>Adjust model configs and parameters based on market conditions</li>
-<li>Suggest automation and improvements to the systems</li>
-<li>Contribute to all aspects of the trading desk activities including: position and pnl reconciliation, risk management tasks, and post trade analysis</li>
-<li>Generate feedback on trading system performance by examining system logs and market data for executions</li>
-<li>Communicate relevant news, market events, and system behavior to team members</li>
-</ul>
-</li>
-<li>
-<span style="text-decoration:underline;"><em>What skills will you be using?</em></span>
-<ul>
-<li>Bachelor's degree in Engineering, Sciences, Math, Economics, Finance (or equivalent)</li>
-<li>Strong work ethic and willingness to do what it takes to get the job done</li>
-<li>Must be motivated, dependable, and responsible</li>
-<li>Ability to use sound judgment under pressure</li>
-<li>High attention to detail</li>
-<li>Ability to understand and reason about complex trading systems</li>
-<li>Basic SQL, JavaScript, Java programming and scripting knowledge in a Linux environment</li>
-<li>Previous trading experience a plus</li>
-</ul>
-</li>
-</ul>
-<h2 style="text-align:center;"><strong>Interested in Learning More?</strong></h2>
-<ul>
-<li>Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.</li>
-<li>If you have experience in developing trading systems or financial-related products is a plus.</li>
-<li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
-<li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our <a href="https://boards.greenhouse.io/orderlynetwork/jobs/5170520003" target="_blank" rel="noopener noreferrer nofollow">External Referral Incentives Program</a> as well. </li>
-</ul><br/><br/>Please mention the word **GRANDEUR** and tag RNDQuMjAwLjgzLjEwMA== when applying to show you read the job post completely (#RNDQuMjAwLjgzLjEwMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1405937/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -71,7 +10,7 @@
                     <code>sales,management,operations,product</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/qa/quality-assurance-operations-manager-1405937" align="right" target="_blank">Apply</a>
