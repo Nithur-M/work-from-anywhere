@@ -10,7 +10,7 @@
                     <code>crypto,defi,blockchain,web3,software,design,react,test,ui,javascript,finance,fintech,typescript,mobile,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-cake-defi-151705" align="right" target="_blank">Apply</a>
@@ -45,7 +45,7 @@
 <p> </p><div class="content-conclusion">
 <p>We want to transform and decentralise finance with tomorrowâs technology. This is where you come in. Join a company that is at the forefront of bleeding-edge innovations in blockchain and DeFi. You will be empowered to push boundaries and think out of the box. You will get to work with a bunch of ridiculously motivated and talented people. And most importantly, you'll have fun. The best places to work at, are often also the most fun to work at. That's us.</p>
 <p>We hire based on merit, fit, and strong alignment to our culture. Our culture is defined by 7 team principles: Integrity, Resourcefulness, Ownership, Meritocratic Decision-making, Customer Obsession, Radical Candour, and Passion. These 7 principles guide our company, our people, and our work. At Cake DeFi, our culture is our pride. It has been instrumental to our success, so we are steadfast in our commitment to it. We welcome you to add to it.</p>
-</div><br/><br/>Please mention the word **STABLE** and tag RMy4yMzEuMjI0LjIyOQ== when applying to show you read the job post completely (#RMy4yMzEuMjI0LjIyOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **STABLE** and tag RMzQuMjA3LjEwOC4xNDU= when applying to show you read the job post completely (#RMzQuMjA3LjEwOC4xNDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -60,7 +60,7 @@
                     <code>software,design,amazon,defi,crypto,cryptocurrency,system,frontend,test,code,web,javascript,investment,nodejs,php,git,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-nobi-151202" align="right" target="_blank">Apply</a>
@@ -96,7 +96,7 @@
 <li>Knowledgeable on software design pattern</li>
 <li>Understanding the principles of application security</li>
 <li>Blockchain or Crypto enthusiast</li>
-</ul></div><br/><br/>Please mention the word **FOOLPROOF** and tag RMy4yMzEuMjI0LjIyOQ== when applying to show you read the job post completely (#RMy4yMzEuMjI0LjIyOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul></div><br/><br/>Please mention the word **FOOLPROOF** and tag RMzQuMjA3LjEwOC4xNDU= when applying to show you read the job post completely (#RMzQuMjA3LjEwOC4xNDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -111,7 +111,7 @@
                     <code>software,design,crypto,redis,code,web,financial,java,cloud,senior,health,engineer,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-tradeblock-150691" align="right" target="_blank">Apply</a>
@@ -163,7 +163,7 @@
 <li>Paid Family Leave for mothers and fathers</li>
 <li>All new employees receive a WFH stipend.</li>
 </ul>
-</div><br/><br/>Please mention the word **PLUSH** and tag RMy4yMzEuMjI0LjIyOQ== when applying to show you read the job post completely (#RMy4yMzEuMjI0LjIyOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **PLUSH** and tag RMzQuMjA3LjEwOC4xNDU= when applying to show you read the job post completely (#RMzQuMjA3LjEwOC4xNDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -178,7 +178,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/paymentology-software-engineer-2" align="right" target="_blank">Apply</a>
@@ -245,7 +245,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/paymentology-senior-software-engineer" align="right" target="_blank">Apply</a>
@@ -310,7 +310,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-security-1" align="right" target="_blank">Apply</a>
@@ -345,7 +345,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1" align="right" target="_blank">Apply</a>
@@ -370,6 +370,70 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1500349/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Crowdbotics</h5>
+                    <h3>Software Engineer - Platform Django</h3>
+                </td>
+                <td width="300">
+                    <code>api,AWS,backend,django</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-platform-django-1500349" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Crowdbotics is on a mission to democratize the software development process by providing entrepreneurs, product managers, and technical teams with the tools to build applications with zero to minimal coding. Embedded in our DNA are the following beliefs and values:</p>
+<ul>
+<li>open systems empower our customers to build future-proof businesses on our platform</li>
+<li>open architectures enable customers to leverage the “best-of-breed” technologies for their business and our platform should support and embrace them</li>
+<li>machine-generated code is just a means to an end. It needs to coexist with human-written code, and be readable by humans in order to be truly useful.</li>
+<li>customers stay on our platform because of the openness, flexibility, and value that our platform offers, and not because they are locked into our platform through inaccessible code.</li>
+<li>talent is global and we will strive to make it accessible to our customers with minimal effort.We are looking for like-minded people who believe in our mission, and share our vision of a world where anyone can build software - at scale.</li>
+</ul>
+<p>Crowdbotics engineering is looking for a Software Engineer to join our core team. This team owns the technical architecture, engineering, and maintenance of our platform backend and services backbone. Our backend API and services power the dashboard that our customers use to create applications with minimal coding, request and manage resources for their application, initiate and monitor application development projects, and manage all aspects of their application lifecycle.</p>
+<p>The Crowdbotics core services are written in Python and JavaScript hosted on Heroku and AWS with many 3rd party API integrations.</p>
+<div class="h1"><strong>Responsibilities</strong></div>
+<p>As a platform services software engineer you will work with our core team to build and maintain our backend services.</p>
+<ul>
+<li>Write python and JavaScript following best practices.</li>
+<li>Help our product managers with technical plans and create specifications for upcoming tasks.</li>
+<li>Develop, plan, and document internal REST APIs.</li>
+<li>Integrate with external services such as hosting providers.</li>
+<li>Develop new tools that help our team and our customers build better applications.</li>
+<li>Investigate and fix bugs.</li>
+<li>Assist team members with code reviews.</li>
+<li>Communicate effectively with the remote team using real-time and asynchronous communications.</li>
+</ul>
+<div class="h1"><strong>Experience and Qualifications</strong></div>
+<ul>
+<li>At least 3 years experience with python.</li>
+<li>Demonstrable expertise in Django is required. Experience in other frameworks is a plus.</li>
+<li>Experience developing REST APIs.</li>
+<li>Proficiency with git.</li>
+<li>An understanding of REST API integration.</li>
+<li>Experience working with remote teams is a plus.</li>
+</ul>
+<p>Although this position is remote, you will need to be available at least 6 hours during 9:00AM - 5:00PM US Pacific Time.</p>
+<div class="h1"><strong>Bonus:</strong></div>
+<ul>
+<li>Remote work experience</li>
+<li>Experience with Hubspot CRM</li>
+<li>You hack or build software projects in your spare time</li>
+<li>You have built an app with the Crowdbotics App Builder (<a href="https://www.crowdbotics.com/app-builder" rel="nofollow">https://www.crowdbotics.com/app-builder</a>)</li>
+</ul>
+<p> </p>
+<img src="https://remotive.com/job/track/1500349/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -380,7 +444,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -442,7 +506,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
