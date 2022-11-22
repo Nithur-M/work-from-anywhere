@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager-2" align="right" target="_blank">Apply</a>
@@ -71,6 +71,52 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager-2">https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager-2</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1498254/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Readdle</h5>
+                    <h3>Product Manager - Calendars team</h3>
+                </td>
+                <td width="300">
+                    <code>product manager,growth,design,jira</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-calendars-team-1498254" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>The philosophy of Calendars is to solve the people’s core problem -  the time organization, which will not lose its actuality in the foreseen future. With every feature or change, we want to make our customers more organized and successful. That dedication allows us to keep the leading position in the category for almost a decade and keep millions of people interested and happy. More than 20 million people who downloaded the app are setting a high bar for the level of ownership and responsibility, as every change will have a huge potential and risk. Our app is being used across the world by students, entrepreneurs, engineers, writers, and doctors to name a few. Now we are looking for a Product Manager to join out team.</div>
+<div> </div>
+<div><strong>What you will do:</strong></div>
+<div>- Keep documentation of future development activities in Jira based on descriptions and discussions. </div>
+<div>- Keep the Jira backlog in an actual state. </div>
+<div>- Run research according to the approved design.</div>
+<div>- Collect and process product KPIs.</div>
+<div>- Conduct product demos. </div>
+<div>- Prepare presentations for internal and external communications.</div>
+<div>- Involve additional experts from the product team and company when needed. Coordinate within the project groups (cross-functional subteams).</div>
+<div> </div>
+<div><strong>What results are expected from you in your role: </strong></div>
+<div>- Product documentation is maintained in an actual state according to the standard templates (Jira, feature/experiment documents, dashboards).</div>
+<div>- Gather and organize accessible data (competitors' assets analysis, research, analytics, customer feedback) in a form that drives decision-making.</div>
+<div>- Own the team company-wide communication (status updates, inner beta testing, etc.)Take the role of feature owner (coordination and decision-making) for defined features.</div>
+<div> </div>
+<div><strong>What you will get:</strong></div>
+<div>- Customer-centric culture. We put our customer first. It means that every employee can benefit from interacting with our customers directly. It enables us to create and deliver the best solutions for millions of our users.</div>
+<div>- Professional growth. We are professionals at everything we do. It means we own our decisions, our work, and our results. We provide quality feedback to others and welcome feedback as an opportunity to learn and improve.</div>
+<div>- A team of amazing people. The greatest power we have is the team. It means we care about each other, ensure transparency, and invest in everyone's success.</div>
+<div>- Impact on our products. We aim to create valuable products. It means that we improve ourselves constantly by overcoming constraints, simplifying our processes, and improving our capacity.</div>
+<div>- Innovative culture. We try to be innovative and creative in everything we do. It means that we expect, appreciate and value new ideas.</div>
+<img src="https://remotive.com/job/track/1498254/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
