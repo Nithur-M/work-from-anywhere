@@ -10,7 +10,7 @@
                     <code>manager,cryptocurrency,software,financial,leader,management,lead,senior</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-project-manager-alphapoint-151719" align="right" target="_blank">Apply</a>
@@ -47,7 +47,7 @@
 <li>$100 worth of cryptocurrency of your choice upon joining AlphaPoint</li>
 <li>Company paid coworking space benefits</li>
 <li>$2500/year for learning and development</li>
-</ul><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **COMPLEMENTARY** and tag RMy4yMzEuMjI0LjIyOQ== when applying to show you read the job post completely (#RMy4yMzEuMjI0LjIyOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **COMPLEMENTARY** and tag RMzQuMjA3LjEwOC4xNDU= when applying to show you read the job post completely (#RMzQuMjA3LjEwOC4xNDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -62,7 +62,7 @@
                     <code>web3,ethereum,manager,voice</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-project-manager-organizational-team-support-ethereum-foundation-150518" align="right" target="_blank">Apply</a>
@@ -83,7 +83,7 @@ To apply to this position, please include a brief (less than one page) cover let
 About the Ethereum Foundation
 The Ethereum Foundation (EF) is a global non-profit organization dedicated to supporting Ethereum and related technologies. Our mission is to do what is best for Ethereumâs long-term success. Our role is to allocate resources to critical projects, to be a valued voice within the Ethereum ecosystem, and to advocate for Ethereum to the outside world.
 
-<br/><br/>Please mention the word **GLIMMERING** and tag RMy4yMzEuMjI0LjIyOQ== when applying to show you read the job post completely (#RMy4yMzEuMjI0LjIyOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **GLIMMERING** and tag RMzQuMjA3LjEwOC4xNDU= when applying to show you read the job post completely (#RMzQuMjA3LjEwOC4xNDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
