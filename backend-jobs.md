@@ -10,7 +10,7 @@
                     <code>design,saas,developer,code,web,cloud,node,lead,senior,operational,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-syndica-152215" align="right" target="_blank">Apply</a>
@@ -57,7 +57,7 @@
 </ul>
 <p> </p>
 </div>
-</div><br/><br/>Please mention the word **EFFUSIVENESS** and tag RMzQuMjA3LjEwOC4xNDU= when applying to show you read the job post completely (#RMzQuMjA3LjEwOC4xNDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **EFFUSIVENESS** and tag RMy44Ni4xMi4xMDU= when applying to show you read the job post completely (#RMy44Ni4xMi4xMDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -72,7 +72,7 @@
                     <code>web3,redis,code,typescript,api,senior,go,golang,engineer,backend</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-api-team-moralis-152214" align="right" target="_blank">Apply</a>
@@ -81,7 +81,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><br>Are you ready for something fresh and exciting, a chance to dive into some cool, new tech?</p><p>At Moralis youâll work in a fast, dedicated and innovative environment and youâll join a company growing at an exciting pace. Youâll have the opportunity to work with the best projects in Web3. Currently we are on our journey to onboard the next 1 million Developers to Web3 through Moralis.</p><p>For us to be able to reach that, continue delivering outstanding results, and grow at the desired pace, we are looking for a Senior Backend Engineer to work directly with our API team</p><p>Â </p><p><strong><strong>About the role ð©âð»ð¨âð»</strong></strong></p><p>As a Senior Backend Engineer in the API Team you will be working with on-chain data extraction and building data processing pipelines.</p><ul> <li>This is learning intensive job - you need to learn how to decode the relevant on-chain data emitted by different blockchain</li> <li>You need to learn how Moralis currently processes on-chain data and improve our current data pipeline</li> <li>When Moralis needs to implement new features you will need to learn new smart contract standards and understand how they emit data and implement new data pipelines</li> <li>Proactively look for ways to make the next iteration a bit better in regards to scalability, observability, tech debt and testability</li> </ul><p><strong><br></strong></p><p><strong>Moralis Culture</strong></p><p>If you want to learn about Moralis, our values and our ways of working - be sure to check out the <a href="https://academy.moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Onboarding course</a>. We highly value the cultural fit and the onboarding course explains exactly how we work and how we are as a team.</p><p><strong><strong>About you ðââï¸ðââï¸</strong></strong><br></p><ul> <li>You're able to contribute independently and self-manage your tasks and projects</li> <li>You're self-motivated and always go the extra mile to deliver extra value to Moralis thus inspiring the other team members</li> <li>You take the responsibility to quickly learn and follow Moralis coding style and guidelines.</li> <li>You understand and resonate with <a href="https://moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Values</a> </li> <li>You take responsibility for sustaining the code base by flagging technical debt, potential scalability issues and other ways the code base may improve.</li> <li>You keep up to date with industry standards and new innovations.</li> <li>You have a knack for leading others and guiding them</li> <li>You can churn out high level of code output <strong>DAILY</strong>.</li> <li>You can use Gitlab efficiently.</li> <li>Ready to collaborate and solve problems</li> </ul><p>Â </p><p><strong>Key Qualifications</strong></p><ul> <li>5+ years relevant backend experience<br> </li> <li>Excellent understanding of NodeJS, NestJS and Typescript stack</li> <li>Experience with Massive Real-Time Systems</li> <li>Experience working with Kafka, Ampq, GRPC, Open API, Avro, Redis and Docker</li> <li>Good knowledge of PostgreSQL, NoSQL, Golang and Kubernetes.</li> </ul><p><br></p><p>We truly appreciate the mindset of someone who always finds a way of improving existing work and strives to reach higher highs. In return, youâll get to work with a fun team (we love memes and gamingðð®), diverse (we have team members from 39 different countries all over the world! ð), dedicated and forward-looking people (for real). We have a fully remote-first culture, meaning Moralis is open for everyone who is interested in working in the Metaverse.<br></p><p>Want to take things further? Go on, send in your application & Let's Talk!</p><p>Â </p><p><em>Please ensure that all resumes and communication must be submitted in English</em></p><br/><br/>Please mention the word **SUPER** and tag RMzQuMjA3LjEwOC4xNDU= when applying to show you read the job post completely (#RMzQuMjA3LjEwOC4xNDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p><br>Are you ready for something fresh and exciting, a chance to dive into some cool, new tech?</p><p>At Moralis youâll work in a fast, dedicated and innovative environment and youâll join a company growing at an exciting pace. Youâll have the opportunity to work with the best projects in Web3. Currently we are on our journey to onboard the next 1 million Developers to Web3 through Moralis.</p><p>For us to be able to reach that, continue delivering outstanding results, and grow at the desired pace, we are looking for a Senior Backend Engineer to work directly with our API team</p><p>Â </p><p><strong><strong>About the role ð©âð»ð¨âð»</strong></strong></p><p>As a Senior Backend Engineer in the API Team you will be working with on-chain data extraction and building data processing pipelines.</p><ul> <li>This is learning intensive job - you need to learn how to decode the relevant on-chain data emitted by different blockchain</li> <li>You need to learn how Moralis currently processes on-chain data and improve our current data pipeline</li> <li>When Moralis needs to implement new features you will need to learn new smart contract standards and understand how they emit data and implement new data pipelines</li> <li>Proactively look for ways to make the next iteration a bit better in regards to scalability, observability, tech debt and testability</li> </ul><p><strong><br></strong></p><p><strong>Moralis Culture</strong></p><p>If you want to learn about Moralis, our values and our ways of working - be sure to check out the <a href="https://academy.moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Onboarding course</a>. We highly value the cultural fit and the onboarding course explains exactly how we work and how we are as a team.</p><p><strong><strong>About you ðââï¸ðââï¸</strong></strong><br></p><ul> <li>You're able to contribute independently and self-manage your tasks and projects</li> <li>You're self-motivated and always go the extra mile to deliver extra value to Moralis thus inspiring the other team members</li> <li>You take the responsibility to quickly learn and follow Moralis coding style and guidelines.</li> <li>You understand and resonate with <a href="https://moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Values</a> </li> <li>You take responsibility for sustaining the code base by flagging technical debt, potential scalability issues and other ways the code base may improve.</li> <li>You keep up to date with industry standards and new innovations.</li> <li>You have a knack for leading others and guiding them</li> <li>You can churn out high level of code output <strong>DAILY</strong>.</li> <li>You can use Gitlab efficiently.</li> <li>Ready to collaborate and solve problems</li> </ul><p>Â </p><p><strong>Key Qualifications</strong></p><ul> <li>5+ years relevant backend experience<br> </li> <li>Excellent understanding of NodeJS, NestJS and Typescript stack</li> <li>Experience with Massive Real-Time Systems</li> <li>Experience working with Kafka, Ampq, GRPC, Open API, Avro, Redis and Docker</li> <li>Good knowledge of PostgreSQL, NoSQL, Golang and Kubernetes.</li> </ul><p><br></p><p>We truly appreciate the mindset of someone who always finds a way of improving existing work and strives to reach higher highs. In return, youâll get to work with a fun team (we love memes and gamingðð®), diverse (we have team members from 39 different countries all over the world! ð), dedicated and forward-looking people (for real). We have a fully remote-first culture, meaning Moralis is open for everyone who is interested in working in the Metaverse.<br></p><p>Want to take things further? Go on, send in your application & Let's Talk!</p><p>Â </p><p><em>Please ensure that all resumes and communication must be submitted in English</em></p><br/><br/>Please mention the word **SUPER** and tag RMy44Ni4xMi4xMDU= when applying to show you read the job post completely (#RMy44Ni4xMi4xMDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -96,7 +96,7 @@
                     <code>design,web3,back-end,python,software,code,qa,cloud,api,management,go,engineer,backend,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-streamflow-151713" align="right" target="_blank">Apply</a>
@@ -145,51 +145,7 @@
 <li align="left"><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Website</a></li>
 <li align="left"><a class="bbcode-link" href="https://app.streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">dApp</a></li>
 <li align="left"><a class="bbcode-link" href="https://twitter.com/streamflow_fi" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
-</ul><br><br/><br/>Please mention the word **HARMONY** and tag RMzQuMjA3LjEwOC4xNDU= when applying to show you read the job post completely (#RMzQuMjA3LjEwOC4xNDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/886c9299fa2dc2200c613c5ccbfc42771668679212.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Rift Finance</h5>
-                    <h3>Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>design,crypto,software,code,finance,engineer,engineering,digital nomad,backend</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-rift-finance-150249" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                About Rift
-
-We are a remote-first, global company with a New York City office. We are hiring internationally.Â 
-
-The internet gave us freedom of information. Crypto gives us economic freedom. Come help us combine these technologies so that every human across the world can achieve freedom and opportunity no matter where they were born.
-
-Through combining our long-term vision for how these technologies will impact society with consistent, pragmatic execution our team of 5 built a platform that has already processed over $70M leading to our $18M fundraise from top investors including Pantera, Two Sigma Ventures, Coinbase Ventures alongside angel investors including Stani Kulechov (founder of Aave), Sandeep Nailwal (cofounder of Polygon) and more.
-
-If you are looking to join a passionate, motivated team and leverage your engineering abilities to develop software that levels the playing field for people across the globe join us at Rift. Weâre building a future that re-centers the individual in the internet.
-
-About the Role
-
-Backend engineers are responsible for the design and implementation of foundational components of the Rift protocol stack while also having responsibilities to collaborate with the wider engineering team to improve our overall architecture and code quality.
-
-Our benefits include competitive compensation, early stage equity allocations, team outings, wellness stipends, 401k with employer matching (for US employees), unlimited PTO,Â medical, dental, and vision insurance. In addition, you'll join a team of high caliber engineers who are innovating at the frontier of crypto that all work collaboratively to help one another accelerate their growth.
-
-We are a mission driven company. We believe deeply that through software engineering we can build a self-sovereign society. In our day to day, we make decisions based upon our company values of Individual Autonomy, Long-Term Orientation and Open Access.
-
-The future belongs to all of us, independent of our origins. Recursive Labs is an equal opportunity employer and does not discriminate on the basis of race, religion, color, sexual orientation, gender or any other status protected under federal, state or local law.Â Â  We celebrate diversity and inclusion among our team mates and seek to hire talent that will add to our culture.
-
-This role is offered by Recursive Labs, an open source R&D company building protocols, tools, and services for the future internet. The team is contributing to the Rift ecosystem.<br/><br/>Please mention the word **BALANCED** and tag RMzQuMjA3LjEwOC4xNDU= when applying to show you read the job post completely (#RMzQuMjA3LjEwOC4xNDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br><br/><br/>Please mention the word **HARMONY** and tag RMy44Ni4xMi4xMDU= when applying to show you read the job post completely (#RMy44Ni4xMi4xMDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -204,7 +160,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-software-engineer-backend-python-100-remote-1" align="right" target="_blank">Apply</a>
@@ -285,7 +241,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-backend-engineer-python-9" align="right" target="_blank">Apply</a>
@@ -355,7 +311,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/community-phone-senior-backend-engineer" align="right" target="_blank">Apply</a>
@@ -425,7 +381,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
@@ -450,7 +406,7 @@ This role is offered by Recursive Labs, an open source R&D company building prot
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
