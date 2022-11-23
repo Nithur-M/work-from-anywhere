@@ -10,7 +10,7 @@
                     <code>frontend,design,web3,crypto,react,software,growth,payroll,js,fintech,go,engineer,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-streamflow-151714" align="right" target="_blank">Apply</a>
@@ -46,73 +46,7 @@
 <li align="left"><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Website</a></li>
 <li align="left"><a class="bbcode-link" href="https://app.streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">dApp</a></li>
 <li align="left"><a class="bbcode-link" href="https://twitter.com/streamflow_fi" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
-</ul><br><br/><br/>Please mention the word **FREEDOM** and tag RMzQuMjA3LjEwOC4xNDU= when applying to show you read the job post completely (#RMzQuMjA3LjEwOC4xNDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/2129cba8dd25ce9b8bd033564ecc8f691668755753.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TradeBlock</h5>
-                    <h3>Lead UI Front end Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>ui,design,crypto,react,frontend,python,software,web,financial,cloud,css,git,lead,engineer,engineering,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-lead-ui-front-end-engineer-tradeblock-150701" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro"><p><span style="text-decoration:underline;"><strong>About The Company</strong></span><br><span style="font-weight:400;">TradeBlock is the leading institutional digital assets trading platform. TradeBlock provides standardized connectivity and a powerful suite of tools to capture the end-to-end trade lifecycle for liquidity providers, asset managers, corporate clients, and exchanges, among others.</span></p></div><p><span style="text-decoration:underline;"><strong>About the Role</strong></span></p>
-<p><em>Budgeted Salary Range:</em> $200k - $250k</p>
-<p><strong>Qualifications:</strong></p>
-<ul>
-<li>6+ years of professional Frontend Software development experience.</li>
-<li>Experience with JavaScript, and React.js</li>
-<li>Experience with React and other web technologies</li>
-<li>Experience with REST and WebSocket APIs</li>
-<li>Knowledge of best practices in frontend architecture, including performance, security, and usability</li>
-<li>Proficiency in HTML5/CSS3 and CSS post-processing libraries such as SASS</li>
-<li>Knowledge of UI design and some experience with UX</li>
-<li>Experience building end-to-end UI closely following design guidelines and leveraging robust UI libraries</li>
-<li>Experience leading or managing a team of 2 â 4 people</li>
-<li>Experience or knowledge of Trading Systems</li>
-<li>Knowledge of HTTP protocol and client-server communication</li>
-<li>Understanding of state-management patterns such as Redux or similar</li>
-<li>Experience introducing modern tech stacks to legacy codebase</li>
-<li>Use of established best practices to write, test, and deploy frontend code</li>
-<li>Proficiency with Git version control</li>
-<li>Facilitate collaboration sessions between Engineering and Product.</li>
-<li>Lead the development of personas, user flows and scenarios, goal/task analyses, and other key tools of user-centered design</li>
-</ul>
-<p>Programming languages:Â JavaScript, React.js, and Python</p>
-<p>Web Technologies:Â ES6+, React, Redux, HTML5, CSS3, Sass, Next.jsÂ </p>
-<p>Testing Tools:Â Jasmine, Jest, Enzyme, Cypress, or Selenium</p>
-<p><strong>Nice to have:</strong></p>
-<ul>
-<li>Experience in capital markets, FX and/or crypto industry</li>
-<li>Knowledge of Python and Django</li>
-<li>Experience with AWS or similar cloud platforms for deployment</li>
-<li>Experience with financial charting libraries is preferred</li>
-</ul>
-<p>Â </p><div class="content-conclusion">
-<p><span style="text-decoration:underline;"><strong>Benefits Highlights</strong></span></p>
-<ul>
-<li>90% of Medical, Dental, Vision costs covered by TradeBlock (Coverage starts from day one)</li>
-<li>401k Match w/ 5% company match</li>
-<li>Flexible PTO (Taking time off is important and encouraged)</li>
-<li>Opportunities for Equity in Digital Currency Group</li>
-<li>Paid Family Leave for mothers and fathers</li>
-<li>All new employees receive a WFH stipend.</li>
-</ul>
-</div><br/><br/>Please mention the word **MIRACULOUS** and tag RMzQuMjA3LjEwOC4xNDU= when applying to show you read the job post completely (#RMzQuMjA3LjEwOC4xNDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br><br/><br/>Please mention the word **FREEDOM** and tag RMy44Ni4xMi4xMDU= when applying to show you read the job post completely (#RMy44Ni4xMi4xMDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -127,7 +61,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-angular-1" align="right" target="_blank">Apply</a>
@@ -201,72 +135,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0006/6308/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Slab</h5>
-                    <h3> Frontend Engineer </h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>185 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/slab-frontend-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0006/6308/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Francisco
-    <br /><strong>URL:</strong> <a href="https://slab.com/">https://slab.com/</a>
-</p>
-
-<div><strong>About:</strong></div><div><br></div><div>At <a href="https://slab.com/">Slab</a>, we believe that knowledge is the foundation of any organization's success. When a team's collective knowledge is accessible, that team's potential is limitless. That's why we're making the workplace a source of learning and purpose through knowledge-sharing. Our product helps teams easily create, organize, and discover knowledge across the entire company, from non-technical to tech-savvy. Thousands of customers rely on Slab across their entire workforces, including Asana, Benchling, and Fivetran.</div><div><br></div><div>As a small product-focused company, you'll join a team of experienced engineers, working on shipping features that delight users, fixing issues that get in their way while keeping our codebase, infrastructure, and tooling modern and well-maintained. We are globally distributed, with processes that minimize meetings and overhead, letting makers build on the maker's schedule.</div><div><strong><br>Technologies we use:</strong></div><ul>
-<li>React + TypeScript + Sass</li>
-<li>GraphQL + Apollo + Absinthe</li>
-<li>Elixir + Phoenix</li>
-<li>Postgres + Redis</li>
-<li>Docker + Kubernetes</li>
-<li>Google Cloud Platform</li>
-</ul><div><strong>Sound like you?</strong></div><ul>
-<li>You have a strong technical background, with experience solving complex engineering challenges</li>
-<li>You love delighting users with great product experiences and resolving issues that get in their way</li>
-<li>You're curious to learn and demonstrate the ability to do so very quickly</li>
-<li>You communicate with clearly and concisely, whether with teammates or users</li>
-<li>You are self-motivated and possess a strong work ethic</li>
-<li>You are passionate about knowledge-sharing and identify with Slab's mission and values</li>
-</ul><div><strong>What we value:</strong></div><ul>
-<li>
-<strong>Stay lean</strong> - We strive for the greatest possible impact with the fewest number of employees. We empower our teammates with the most leveraged tools and efficient processes.</li>
-<li>
-<strong>Default to open</strong> - We encourage and nurture open exchanges of knowledge and ideas — while acting with respect and regard for each other.</li>
-<li>
-<strong>Think rigorously</strong> - We act and execute after careful thought and examination of known information, while acknowledging the risks we accept in its absence.</li>
-<li>
-<strong>Say no</strong> - We aim to deliver exceptionally high value in a small set of focus areas. We willingly abstain from good ideas to give only the most promising paths the attention they deserve.</li>
-<li>
-<strong>The best prevails</strong> - Whether an idea or an individual, the best will rise to the top at Slab. Ideas we pursue can come from anywhere, and individuals gain responsibilities due to outperformance.</li>
-<li>
-<strong>Global optimization</strong> - We believe that our mission — to make the workplace a source of learning and purpose — is the ultimate priority, above any single project, team, or individual.</li>
-</ul><div><strong><br>Benefits:</strong></div><ul>
-<li>Full health insurance (USA) or stipend (International)</li>
-<li>Wellness &amp; remote work stipends</li>
-<li>$5k workspace setup, renewed biannually</li>
-<li>7-year options exercise window</li>
-</ul><div><em>Slab is an equal opportunity employer. We welcome people of diverse backgrounds, experiences, and perspectives.</em></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/slab-frontend-engineer">https://weworkremotely.com/remote-jobs/slab-frontend-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1421232/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -277,7 +145,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
