@@ -10,7 +10,7 @@
                     <code>design,web3,ethereum,react,system,front-end,security,ui,web,education,c++,engineer,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-engineer-manta-network-151196" align="right" target="_blank">Apply</a>
@@ -30,7 +30,7 @@
 <li>Strong understanding of Ethereum smart contracts and best practices</li>
 <li>Previous experience in the blockchain industry, particularly around the Ethereum, Polkadot, Avalanche, or Near ecosystem</li>
 <li>Experience of quick prototyping and UI design</li>
-</ul><div><span style="font-size:24px;">Life at p0xeidon labs</span></div><div><br></div><div>p0xeidon labs is comprised of a diverse and global group of core contributors. We offer a friendly, flexible work environment that provides full-remote opportunities. Our team is full of bright and motivated minds. Despite our geographical diversity, we host events both virtual and physical to promote a strong culture. We also pride ourselves on our ability to move fast as a cohesive team.</div><div><br></div><div><span style="font-size:18px;">Additional Benefits with p0xeidon labs</span></div><div>- Competitive compensation</div><div>- Unlimited PTO</div><div>- Token allocation</div><div>- Remote-first</div><div>- Inclusive team</div><div>- Education opportunites</div><div>- Conference travel</div><div>- Many other benefits! </div><br/><br/>Please mention the word **SAINTLY** and tag RMzQuMjA3LjEwOC4xNDU= when applying to show you read the job post completely (#RMzQuMjA3LjEwOC4xNDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><span style="font-size:24px;">Life at p0xeidon labs</span></div><div><br></div><div>p0xeidon labs is comprised of a diverse and global group of core contributors. We offer a friendly, flexible work environment that provides full-remote opportunities. Our team is full of bright and motivated minds. Despite our geographical diversity, we host events both virtual and physical to promote a strong culture. We also pride ourselves on our ability to move fast as a cohesive team.</div><div><br></div><div><span style="font-size:18px;">Additional Benefits with p0xeidon labs</span></div><div>- Competitive compensation</div><div>- Unlimited PTO</div><div>- Token allocation</div><div>- Remote-first</div><div>- Inclusive team</div><div>- Education opportunites</div><div>- Conference travel</div><div>- Many other benefits! </div><br/><br/>Please mention the word **SAINTLY** and tag RMy44Ni4xMi4xMDU= when applying to show you read the job post completely (#RMy44Ni4xMi4xMDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
