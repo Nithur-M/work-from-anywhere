@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-11" align="right" target="_blank">Apply</a>
@@ -70,83 +70,72 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1496200/logo" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1496667/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Reveal</h5>
-                    <h3>DevOps Engineer M/F/X</h3>
+                    <h5>Omilia Ltd</h5>
+                    <h3>DevOps Team Lead</h3>
                 </td>
                 <td width="300">
-                    <code>cloud,devops,docker,go</code>
+                    <code>AWS,azure,cloud,devops</code>
                 </td>
                 <td width="200">
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/devops-engineer-m-f-x-1496200" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/devops/devops-team-lead-1496667" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><strong>Reveal</strong> believes in the power of <strong>B2B collaboration, </strong>so much so that we named our SaaS category after it - <strong>Collaborative Growth</strong>. As the first-ever Collaborative Growth Platform, we believe that joining forces makes us stronger, in business just as much as in everything else.</p>
-<p><strong>Launched in 2019</strong>, Reveal’s mission is to put technology at the centre of collaboration between companies. By comparing CRM data between partnering companies, Reveal identifies common, high-potential accounts and new highly qualified leads.</p>
-<div class="h5"><strong> </strong></div>
-<div class="h5"><strong>OUR BACKGROUND</strong></div>
-<p>Our co-founders have already had their first successful start-up adventure together (Multiposting, sold to SAP in 2015) and want to go even further with Reveal!</p>
-<p>We’re backed by top-tier VCs (Localglobe, Ventech, Kima, Kernel, Dig Ventures &amp; Chalfen Ventures) and <strong>have already raised $50m in a Series A led by Insight Partners to revolutionize B2B partnerships</strong>.</p>
-<p>Reveal is looking for diverse and global talent wishing to join a very ambitious project at its beginnings and to contribute to the construction of the base which will allow them to grow quickly.</p>
-<p>If you are creative, collaborative, have the spirit of initiative, innovation and want to have an impact on a daily basis, Reveal is for you.<br><br><strong><br></strong><strong>RESPONSIBILITIES</strong></p>
-<p>We are looking for someone who wants to be a part of the foundation of  DevOps culture at Reveal in a newly created team. You will work in a fully remote team, with a simple mindset: you choose how you work, but you are efficient enough to get your job done. Your responsibilities will include:<br><strong><strong><br></strong></strong><strong>Cloud operations: </strong></p>
-<ul>
-<li>Building on-demand environment </li>
-<li>Automating workflows through CI/CD </li>
-<li>Enhancing security mechanisms (tfsec, pre-commits) </li>
-<li>Measuring with KPIs (DORA metrics) </li>
-<li>Improving monitoring system, service quality, reliability </li>
-<li>Improving existing architecture and existing stack / tooling </li>
-</ul>
-<p><strong>Evangelization: </strong></p>
-<ul>
-<li>Applying DevOps best practices / patterns </li>
-<li>Sharing DevOps knowledge across teams </li>
-</ul>
-<p><strong>Collaborate with teams on cross-functional projects: </strong></p>
-<ul>
-<li>Understanding and escalating requests from all teams, prioritizing them </li>
-<li>Providing advice and solutions on issues through workshops</li>
-</ul>
-<p><strong>Daily technical stack: </strong></p>
-<ul>
-<li>Terraform, Kubernetes, Helm, GCP </li>
-<li>GitlabCI, CircleCI, ArgoCD </li>
-<li>Prometheus + Grafana </li>
-<li>Docker, RabbitMQ, Bigquery, MongoDB, Postgresql </li>
-<li>Jira, Github</li>
-</ul>
-<div class="h5"><strong> </strong></div>
-<div class="h5"><strong>REPORTING LINE</strong></div>
-<p>This job will report to Lead DevOps Engineer.<br><br></p>
-<div class="h5"><strong>YOU WILL LOVE THIS JOB IF</strong></div>
-<ul>
-<li>You’re ambitious, determined, empathetic, optimistic and adaptable. These are our values and influence everything we do,</li>
-<li>You have good communication skills and love to communicate with internal teams (Developers &amp; Product Managers),</li>
-<li>You love to face challenging problems and taking initiative to propose new solutions and defend them.</li>
-</ul>
+                <div class="h3">About us</div>
+<p>A visionary combination of technology and art, Omilia is now home to solution architects, engineers, developers, linguists, and individuals that synergize and combine their expertise and passion to one goal; deliver unfeigned human experience through virtual communication. Omilia was recognized as a Leader in the 2022 Gartner® Magic Quadrant™ for Enterprise Conversational AI Platforms.</p>
 <p> </p>
-<div class="h5"><strong>YOUR BACKGROUND</strong></div>
-<ul>
-<li>Minimum 2 years of successful experience, </li>
-<li>Good understanding of cloud services and of designing for scalability + performance and reliability principles,</li>
-<li>Good understanding of containers technologies such as Docker, as well as alerting and visualisation tools,</li>
-<li>Good understanding of CI/CD tools,</li>
-<li>Spoken and written Professional English skills.</li>
-</ul>
-<p><strong>Nice to have: Experience working on Google Cloud Platform + Terraform / Helm / Kubernetes / Docker.</strong></p>
+<div class="h3">The Role:</div>
+<p>We are looking for a Lead DevOps Engineer with advanced Cloud platform experience. This individual will be responsible for designing services running on production clusters and lead a team of 4+ people to develop automation strategies and deployment processes.</p>
+<p>Your goal will be to become an integral part of the chapter, making every challenge of the platform – your own challenge, and solving them accordingly.</p>
+<p><strong>The position is fully remote.</strong></p>
 <p> </p>
-<p><strong>WHY JOIN US</strong><br><br>🗝 A rare (once-in-a-lifetime?) opportunity to join an ambitious start-up at an early stage.<br><br>🚀 A deep dive into a project with experienced entrepreneurs, who are looking for excellence.<br><br>💨 Fast-moving environment - you will never stop learning and growing.<br><br>🌎 International environment - work with team members in Europe, the US, and around the globe.<br><br>🪐 Work on-site in Paris, 100% remote or from anywhere.<br><br>💶 Competitive salary package &amp; benefits (Alan coverage etc.)<br><br>👨‍👩‍👧‍👦 Last but not least, strong company culture and inspiring individuals to work with!<br><br><strong><br><br>HIRING PROCESS</strong><br><br>The journey starts with an interview with <strong>Talent Acquisition Manager</strong> (30 mins)<br>This will then be followed by a <strong>Technical Manager's interview </strong>to validate your practical job-related skills<strong> (1 hour)</strong><br>Then a final<strong> Culture Fit </strong>interview with the CTO and another member from the engineering team.</p>
-<p>You will  then  be asked to provide us with 3 professional references, including contact details.<br><strong><br><br>Intrigued? We’d love to hear from you! Apply today — we’re standing by for your resume!</strong><br><br><br>If you would like to learn more about what we do, please check out this video <a href="https://www.youtube.com/watch?v=quhE3vz2Y1Q" rel="nofollow">https://www.youtube.com/watch?v=quhE3vz2Y1Q</a><br><br>👉 Sharing is the new winning.<br><br>That’s what we strongly believe at Reveal. So if you’re thinking the same way, we might be a match! We are an international SaaS B2B start-up, and we’re searching for new talents across the globe to continue growing. Join us!<br><br><br>👉 We believe that, in order to create a product for everyone, we must also guarantee that it is built by a diverse team. We embrace diversity and invite applications from people from all walks of life. We don’t discriminate against employees or applicants based on gender identity or expression, sexual orientation, race, religion, age, national origin, citizenship, disability, pregnancy status, veteran status, or any other differences. We are very process-light, putting human interactions above and making sure that everybody is heard.</p>
-<img src="https://remotive.com/job/track/1496200/blank.gif?source=public_api" alt=""/>
+<p> </p>
+<div class="h3">Responsibilities:</div>
+<ul>
+<li>Thinking out of the box and anticipate challenges – It is imperative we are not simply reactive, we must expect challenges and question technologies, procedures and thinking already in place, you will be expected to constantly review and challenge at all levels;</li>
+<li>Eager to learn – You have expertise with what you've worked on and an eagerness to learn what you haven't worked before. You are encouraged to introduce new tools &amp; techniques to get the job done more effectively;</li>
+<li>Versatile – We work with agile/lean methods. We'd much rather iterate and learn than assume we know all the answers;</li>
+<li>Engineering excellence – Constantly looking for new ways to improve our infrastructure and leverage the capabilities AWS, Azure (and others if needed) provide us with;</li>
+<li>Team player – You don't (always) work in isolation and are excited by the thought of using your team whilst involving product, experience design, engineering and more in the process.</li>
+</ul>
+<p><strong>Requirements</strong></p>
+<div class="h3">Must have skills and experience:</div>
+<ul>
+<li>Bachelor's Degree or MS in Engineering or equivalent;</li>
+<li>3+ years of working experience in a similar role;</li>
+<li>Capable of leading a team of 4+ people</li>
+<li>Experience with AWS;</li>
+<li>Experience with Terraform;</li>
+<li>Experience with container orchestration clusters (Kubernetes, Docker Swarm);</li>
+<li>Experience with Continuous Integration tools (Gitlab CI, Jenkins);</li>
+<li>Experience in Linux Administration (RedHat, CentOS);</li>
+<li>Strong scripting skills (Bash or Python);</li>
+</ul>
+<div class="h3">Will be considered a plus:</div>
+<ul>
+<li>Working knowledge in Configuration Management tools (Ansible);</li>
+<li>Basic RDBMS knowledge (MySQL, Postgres);</li>
+<li>Basic NoSQL knowledge (Redis);</li>
+<li>Experience with Cloud Security Services;</li>
+</ul>
+<p><strong>Benefits</strong></p>
+<ul>
+<li>Fixed compensation;</li>
+<li>Long-term employment with 24 working days vacation;</li>
+<li>Development in professional growth (courses, training, etc);</li>
+<li>Being part of successful cutting-edge technology products that are making a global impact in the service industry;</li>
+<li>Proficient and fun-to-work-with colleagues;</li>
+<li>Apple gear.</li>
+</ul>
+<img src="https://remotive.com/job/track/1496667/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
