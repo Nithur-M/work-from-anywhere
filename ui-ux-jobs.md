@@ -10,7 +10,7 @@
                     <code>ui,ux,design,defi,testing,growth,manager,finance,strategy,operations,marketing,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-ux-ui-designer-jet-protocol-151210" align="right" target="_blank">Apply</a>
@@ -77,73 +77,72 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Early stage startup with tremendous growth potential </span></li>
 </ul>
 <p><span style="font-weight:400;">If you're ready to bring your full self to work with a bunch of passionate, shadowy super coders rethinking finance, grab your passport and boarding pass - come join us!</span></p>
-<p> </p><br/><br/>Please mention the word **LOYALTY** and tag RMzQuMjA3LjEwOC4xNDU= when applying to show you read the job post completely (#RMzQuMjA3LjEwOC4xNDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p> </p><br/><br/>Please mention the word **LOYALTY** and tag RMy44Ni4xMi4xMDU= when applying to show you read the job post completely (#RMy44Ni4xMi4xMDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6740/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0617/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior UX/UI Designer</h3>
+                    <h5>Pebble</h5>
+                    <h3> UI UX Designer</h3>
                 </td>
                 <td width="300">
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ux-ui-designer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/listings/pebble-ui-ux-designer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6740/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0082/0617/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+  <strong>Headquarters:</strong> 
+    <br /><strong>URL:</strong> <a href="https://pebblerei.com">https://pebblerei.com</a>
 </p>
 
-<div><strong>The Role:</strong></div><div>We are searching for a Senior UX/UI Designer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +4 years of proven work experience as a UI/UX Designer or similar role;</li>
-<li>Portfolio of design projects;</li>
-<li>Knowledge of wireframe tools (e.g. Wireframe.cc and InVision);</li>
-<li>Up-to-date knowledge of design software;</li>
-<li>Team spirit: strong communication skills to collaborate with various stakeholders;</li>
-<li>Good time-management skills;</li>
-<li>You are responsible and able to work with minimal supervision;</li>
-<li>Advanced English level.</li>
-</ul><div><br></div><div><strong>Nice-to-have: </strong></div><ul><li>Timezone: CET (+/- 3 hours).</li></ul><div><br></div><div><strong>Responsibilities:</strong></div><ul>
-<li>Gather and evaluate user requirements in collaboration with product managers and engineers;</li>
-<li>Illustrate design ideas using storyboards, process flows, and sitemaps;</li>
-<li>Design graphic user interface elements;</li>
-<li>Develop UI mockups and prototypes that clearly illustrate how the product functions and looks;</li>
-<li>Create original graphic designs (e.g. images, sketches, and tables);</li>
-<li>Prepare and present rough drafts to internal teams and key stakeholders;</li>
-<li>Identify and troubleshoot UX problems (e.g. responsiveness);</li>
-<li>Conduct layout adjustments based on user feedback;</li>
-<li>Adhere to style standards on fonts, colors, and images.</li>
-</ul><div><br></div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<h2><strong>Shape the future of land investing, wherever you are</strong></h2><p>Join our fully-remote team building the most incredible product for land investors. We are at the cutting edge of shaping how to systemize and run a land investing business. </p><p></p><p><strong>Who We Are</strong></p><p>Pebble is a platform for land investors to systemize and scale their businesses. We're a full self-funded SAAS company founded in 2019. We're profitable ($1m+ ARR), growing quickly, and our customers rave about us. Our team is fully remote with people from Korea to Morocco. Each team member is critical to our success and makes a direct impact on the business.</p><p></p><p><strong>What we value</strong></p><ul>
+<li><p>Help First</p></li>
+<li><p>Kindness &amp; Respect</p></li>
+<li><p>Progress over Perfection</p></li>
+<li><p>Continuous Self Improvement</p></li>
+<li><p>Accountability to Deliver</p></li>
+<li><p>Work Anytime, from Anywhere</p></li>
+</ul><p></p><p><strong>Who You Are</strong></p><p>You are an experienced designer looking to take on a mission-critical role building a highly impactful product. You want to deep-dive into an amazing product and to improve ourselves and our craft.</p><p></p><p><strong>What You'll Do</strong></p><ul>
+<li><p>Drive the design of our core products - taking features from concept to delivery</p></li>
+<li><p>Designing compelling product experiences based on customer needs</p></li>
+<li><p>Tackle and solve hard design problems around complex workflows.</p></li>
+<li><p>Work closely with the product and engineering teams to design awesome customer experiences based on user and implementation feedback</p></li>
+<li><p>Maintain consistent visual standards and keep the living component library up to date</p></li>
+<li><p>Review features implemented by the engineering team and providing guidance to ensure pixel-perfect experiences</p></li>
+<li><p>Lead our team goals towards empathizing with users, and advocating for usability and accessibility</p></li>
+<li><p>Conduct and coordinate usability interviews to gather feedback and insights into customer needs</p></li>
+<li><p>Produce brand and marketing material across different mediums</p></li>
+</ul><p></p><p><strong>Qualifications</strong></p><p>You have at least three years of experience in visual and user experience design at a high-growth SaaS company. You are motivated by making an impact, detail-oriented, and have a history of major accomplishments to prove it. You work collaboratively, enjoy crossing back and forth between UX and visual design, and love to see your work ship — quickly. You have a "get it done" attitude and a background of delivering superb work again and again.</p><ul>
+<li><p>3+ years of experience as a UI/UX designer, experience designer, or product designer</p></li>
+<li><p>A broad UX design toolkit and proficiency with industry standard design tools including Figma, Miro, Photoshop, and Illustrator</p></li>
+<li><p>Someone who is driven to have an intimate understanding of our product</p></li>
+<li><p>Self-initiator who values autonomy and can manage time effectively</p></li>
+<li><p>Demonstrate attention to detail, making technical design decisions that lead to growth in design systems</p></li>
+<li><p>Experience implementing designs with HTML and CSS.</p></li>
+<li><p>Fluent in English<br></p></li>
+</ul><p><strong>Grow with us</strong></p><p>Everyone deserves to reach their fullest potential. We feel engaged and alive when we do work that matters with people we care about. And our goal is to help you do just that.</p><ul>
+<li><p>Generous salary</p></li>
+<li><p>12 days of paid time off with additional days provided based on seniority. Sick and family leave provided.</p></li>
 <li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
+<p>$1,000 annually for third-party education, along with paid time off to immerse yourself in learning</p>
+<p></p>
+</li>
+</ul><p>If this role sounds appealing, we would love to hear from you. (A real human reviews every application.)</p><p>In order to qualify for this role, you will need to submit a short video introducing yourself and share why you think you’d be a great fit for this team.</p>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-ux-ui-designer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-ux-ui-designer-long-term-job-100-remote</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pebble-ui-ux-designer">https://weworkremotely.com/remote-jobs/pebble-ui-ux-designer</a></p>
 
                 </details>
                 </td>
@@ -159,7 +158,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>271 days ago</text>
+                <text>272 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -220,7 +219,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
