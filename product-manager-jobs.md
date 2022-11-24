@@ -1,5 +1,62 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0001/5459/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Learning Tapestry</h5>
+                    <h3> Product Manager, Web</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/learning-tapestry-product-manager-web" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0001/5459/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> United States
+    <br /><strong>URL:</strong> <a href="https://learningtapestry.com">https://learningtapestry.com</a>
+</p>
+
+<div>
+<br><strong>What We’re Looking For <br></strong><br>
+</div><div>Learning Tapestry is working with our client who is a leading learning service for families with preschoolers. Our client delivers streaming and interactive learning content that helps young kids develop skills, knowledge and passions, through play with the characters they love. They also help parents help their kids thrive. The client is a direct-to-consumer offering available on standalone mobile apps, connected TV apps, and add-on channels. We are forming a team of highly motivated individuals who are eager to work in a start-up-like environment within a large media company. We need innovators and self-starters who are passionate about playful learning and comfortable working in a fast-paced, creative-led organization.</div><div><br></div><div><strong><em>Product Manager role:</em></strong></div><div>The Product Manager, Web role will be responsible for leading the product roadmap that cuts across our Growth channels. This role will shepherd business and user needs through the many stages of product development, including ideation, research, planning, and execution. </div><div><strong> </strong></div><div>
+<strong>RESPONSIBILITIES</strong>:</div><div><br></div><ul>
+<li>Lead the creation of a well-supported product strategy to optimize platforms that support Marketing’s Growth channels.</li>
+<li>Partner closely with Marketing Leads and key partners to define a compelling long-term vision.<br>Build positive relationships with Marketing, Product, Design, and Engineering to drive marketing vision forward.</li>
+<li>Oversee the entire lifecycle of features, from ideation to technical implementation, in collaboration with cross-functional stakeholders, designers, developers and QA.</li>
+<li>Break down complex problems into manageable steps by authoring and prioritizing epics and user stories. </li>
+<li>Be a leader on a cross-functional scrum team—foster a creative, collaborative and disciplined culture to produce the best results possible.</li>
+<li>Analyze product use and performance to continually focus on subscription growth and engagement.</li>
+<li>Communicate product roadmap and requirements across teams and departments.</li>
+</ul><div><br></div><div><strong>QUALIFICATIONS:</strong></div><ul>
+<li>Must be available to work US East Coast standard business hours, 40 hours per week</li>
+<li>3+ years experience in product management </li>
+<li>Deep understanding of the product development process end-to-end; technical background or extensive experience with the technical side of product development</li>
+<li>Ability to thrive in a fast-paced, collaborative, agile environment</li>
+<li>Highly motivated to work independently and collaboratively with stakeholders</li>
+<li>Natural collaborator who knows how to drive decision-making and has the ability to influence through informal authority.</li>
+<li>Experience using data to make decisions</li>
+<li>Experience working on an Agile/Scrum team</li>
+<li>Bachelor’s degree</li>
+</ul><div><br></div><div>
+<br><strong>About You<br></strong><br>
+</div><div>You’re comfortable in a remote work environment, with team members from different time zones. You manage your own time well and are a self-starter. You have a distraction-free place you can use for work that offers reliable Internet access, either in your home or a local co-working facility. You’re able to work 8:00 AM to 5:00 PM US Eastern Standard Time (standard business hours).</div><div><br></div><div>You are experienced and well-versed in the productivity tools we use, like Google Apps &amp; Hangouts, Slack, and Harvest for time tracking.</div><div><br></div><div>You’re fluent in written and spoken English. </div><div><br></div><div>Please do not hesitate to apply if you do not match these requirements exactly but think you could be a good fit.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/learning-tapestry-product-manager-web">https://weworkremotely.com/remote-jobs/learning-tapestry-product-manager-web</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5904/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +67,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-product-manager-3" align="right" target="_blank">Apply</a>
@@ -95,7 +152,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager-2" align="right" target="_blank">Apply</a>
@@ -156,6 +213,107 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager-2">https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager-2</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1497936/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>RabbitHole</h5>
+                    <h3>Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>crypto,marketing,product manager,sql</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/senior-product-manager-1497936" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><strong style="">At RabbitHole, </strong><span style="">our mission is to increase global economic opportunity by making crypto more accessible and meritocratic. We’re doing that by making it easy for protocols to distribute their tokens to users. We believe that by helping protocols solve token distribution, we’ll not only make crypto protocols more sustainable, but also help anyone in the world earn income through provable contribution rather than their background or credentials. </span></div>
+<div> </div>
+<div><span style="">RabbitHole has created an efficient way for protocols to distribute tokens by segmenting users based on on-chain &amp; off-chain data. By completing on-chain tasks in various protocols, users build their on-chain resume, and earn token ownership.</span></div>
+<div> </div>
+<div><strong style="">What problem are we solving?</strong></div>
+<div><span style="">Protocols are constantly looking for new ways to find and engage users, but don’t have an easy way to do so. Tokens of these protocols often fall in the hands of speculators who sit on centralized exchanges, rather than users of these networks. On the other hand, new users in crypto have a difficult time in knowing where to start on their crypto journey and don’t know who to trust. </span></div>
+<div> </div>
+<div><strong style="">Why are we solving this problem?</strong></div>
+<div><span style="">By making it more efficient for protocols to distribute their token to network participants, we are both driving more participation to protocols and making it easier for users to increase their ownership in protocols rather than speculators. By increasing the number of token holders who are using the network, we are making the underlying protocol more sustainable, and putting more money in the pockets of users. </span></div>
+<div> </div>
+<div><strong style="">Why are we different?</strong></div>
+<div><span style="">RabbitHole is a group of crypto-natives who have years of experience in crypto from companies like OpenSea and Dapper Labs. Compared to other crypto projects, we’re not building another Metaverse or protocol for risk — we’re focused on helping serve existing decentralized protocols and get their tokens in the hands of the right token holders. We believe in the potential of what crypto stands for and can become, but we know that today there’s a lot to improve. We’re playing the long game.</span></div>
+<div> </div>
+<div><strong style="">Join us for the revolution:</strong></div>
+<div><span style="">We have years of runway to grow and support you on your journey. Founded in 2020, RabbitHole has raised $20M+ in funding, most recently in an announced Series A round in January 2022. We are backed by the best top tier crypto VCs like Electric Capital and traditional VCs like Greylock.</span></div>
+<div> </div>
+<div><span style="">We're looking for product-obsessed individuals with early-stage startup experience who want to work with a dynamic fast-moving team and build the roadmap for RabbitHole to become the best way for protocols to distribute their token and engage their users. If this is you, we are super excited to meet you and learn more.</span></div>
+<p><br><br></p>
+<div class="h3">What you'll do:</div>
+<ul>
+<li>You’ll work closely with the CEO to prioritize, spec and build new products and features</li>
+</ul>
+<ul>
+<li>As the first product hire, you’ll wear many hats across design, marketing, and product to get stuff done</li>
+</ul>
+<ul>
+<li>Ruthlessly talk to users to gather insights and feedback to better inform product decisions</li>
+</ul>
+<ul>
+<li>Be the glue (or the grease) that runs our product development engine</li>
+</ul>
+<ul>
+<li>Define KPIs for product success</li>
+</ul>
+<p><br><br></p>
+<div class="h3">What you are:</div>
+<ul>
+<li>We’re looking for an enthusiastic, self-motivated product thinker and doer</li>
+</ul>
+<ul>
+<li>You need to have a solid technical background, uncanny attention to detail and a sound judgment</li>
+</ul>
+<ul>
+<li>3-5 years of experience in product building in crypto, consumer, or FinTech</li>
+</ul>
+<ul>
+<li>You thrive in remote environments and are an empathetic communicator and natural collaborator who can work with people across the org</li>
+</ul>
+<ul>
+<li>You have built and shipped marketplace products at scale and understand the tradeoffs between supply and demand</li>
+</ul>
+<ul>
+<li>You understand the value of data/analytics and have an instinct to talk to users to better inform product decisions</li>
+</ul>
+<ul>
+<li>You have a strong interest in Crypto/blockchain space</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Bonus Points</div>
+<ul>
+<li>Experience working in an early stage startup (Seed or Series A)</li>
+</ul>
+<ul>
+<li>Coding fluency or ability</li>
+</ul>
+<ul>
+<li>Exposure through a previous role to the crypto ecosystem</li>
+</ul>
+<ul>
+<li>Technical understanding of how blockchains work to better inform product decisions</li>
+</ul>
+<ul>
+<li>The ability to create simple, low-fidelity mock-ups in Figma or other design tools</li>
+</ul>
+<ul>
+<li>Experience with data tools like Mixpanel, Google Analytics, Redash, and SQL</li>
+</ul>
+<img src="https://remotive.com/job/track/1497936/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
