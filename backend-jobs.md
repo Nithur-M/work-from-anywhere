@@ -10,7 +10,7 @@
                     <code>design,saas,developer,code,web,cloud,node,lead,senior,operational,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-syndica-152215" align="right" target="_blank">Apply</a>
@@ -57,7 +57,7 @@
 </ul>
 <p> </p>
 </div>
-</div><br/><br/>Please mention the word **EFFUSIVENESS** and tag RMy44Ni4xMi4xMDU= when applying to show you read the job post completely (#RMy44Ni4xMi4xMDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **EFFUSIVENESS** and tag RMzUuMTc0LjExLjg4 when applying to show you read the job post completely (#RMzUuMTc0LjExLjg4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -72,7 +72,7 @@
                     <code>web3,redis,code,typescript,api,senior,go,golang,engineer,backend</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-api-team-moralis-152214" align="right" target="_blank">Apply</a>
@@ -81,7 +81,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><br>Are you ready for something fresh and exciting, a chance to dive into some cool, new tech?</p><p>At Moralis youâll work in a fast, dedicated and innovative environment and youâll join a company growing at an exciting pace. Youâll have the opportunity to work with the best projects in Web3. Currently we are on our journey to onboard the next 1 million Developers to Web3 through Moralis.</p><p>For us to be able to reach that, continue delivering outstanding results, and grow at the desired pace, we are looking for a Senior Backend Engineer to work directly with our API team</p><p>Â </p><p><strong><strong>About the role ð©âð»ð¨âð»</strong></strong></p><p>As a Senior Backend Engineer in the API Team you will be working with on-chain data extraction and building data processing pipelines.</p><ul> <li>This is learning intensive job - you need to learn how to decode the relevant on-chain data emitted by different blockchain</li> <li>You need to learn how Moralis currently processes on-chain data and improve our current data pipeline</li> <li>When Moralis needs to implement new features you will need to learn new smart contract standards and understand how they emit data and implement new data pipelines</li> <li>Proactively look for ways to make the next iteration a bit better in regards to scalability, observability, tech debt and testability</li> </ul><p><strong><br></strong></p><p><strong>Moralis Culture</strong></p><p>If you want to learn about Moralis, our values and our ways of working - be sure to check out the <a href="https://academy.moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Onboarding course</a>. We highly value the cultural fit and the onboarding course explains exactly how we work and how we are as a team.</p><p><strong><strong>About you ðââï¸ðââï¸</strong></strong><br></p><ul> <li>You're able to contribute independently and self-manage your tasks and projects</li> <li>You're self-motivated and always go the extra mile to deliver extra value to Moralis thus inspiring the other team members</li> <li>You take the responsibility to quickly learn and follow Moralis coding style and guidelines.</li> <li>You understand and resonate with <a href="https://moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Values</a> </li> <li>You take responsibility for sustaining the code base by flagging technical debt, potential scalability issues and other ways the code base may improve.</li> <li>You keep up to date with industry standards and new innovations.</li> <li>You have a knack for leading others and guiding them</li> <li>You can churn out high level of code output <strong>DAILY</strong>.</li> <li>You can use Gitlab efficiently.</li> <li>Ready to collaborate and solve problems</li> </ul><p>Â </p><p><strong>Key Qualifications</strong></p><ul> <li>5+ years relevant backend experience<br> </li> <li>Excellent understanding of NodeJS, NestJS and Typescript stack</li> <li>Experience with Massive Real-Time Systems</li> <li>Experience working with Kafka, Ampq, GRPC, Open API, Avro, Redis and Docker</li> <li>Good knowledge of PostgreSQL, NoSQL, Golang and Kubernetes.</li> </ul><p><br></p><p>We truly appreciate the mindset of someone who always finds a way of improving existing work and strives to reach higher highs. In return, youâll get to work with a fun team (we love memes and gamingðð®), diverse (we have team members from 39 different countries all over the world! ð), dedicated and forward-looking people (for real). We have a fully remote-first culture, meaning Moralis is open for everyone who is interested in working in the Metaverse.<br></p><p>Want to take things further? Go on, send in your application & Let's Talk!</p><p>Â </p><p><em>Please ensure that all resumes and communication must be submitted in English</em></p><br/><br/>Please mention the word **SUPER** and tag RMy44Ni4xMi4xMDU= when applying to show you read the job post completely (#RMy44Ni4xMi4xMDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p><br>Are you ready for something fresh and exciting, a chance to dive into some cool, new tech?</p><p>At Moralis youâll work in a fast, dedicated and innovative environment and youâll join a company growing at an exciting pace. Youâll have the opportunity to work with the best projects in Web3. Currently we are on our journey to onboard the next 1 million Developers to Web3 through Moralis.</p><p>For us to be able to reach that, continue delivering outstanding results, and grow at the desired pace, we are looking for a Senior Backend Engineer to work directly with our API team</p><p>Â </p><p><strong><strong>About the role ð©âð»ð¨âð»</strong></strong></p><p>As a Senior Backend Engineer in the API Team you will be working with on-chain data extraction and building data processing pipelines.</p><ul> <li>This is learning intensive job - you need to learn how to decode the relevant on-chain data emitted by different blockchain</li> <li>You need to learn how Moralis currently processes on-chain data and improve our current data pipeline</li> <li>When Moralis needs to implement new features you will need to learn new smart contract standards and understand how they emit data and implement new data pipelines</li> <li>Proactively look for ways to make the next iteration a bit better in regards to scalability, observability, tech debt and testability</li> </ul><p><strong><br></strong></p><p><strong>Moralis Culture</strong></p><p>If you want to learn about Moralis, our values and our ways of working - be sure to check out the <a href="https://academy.moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Onboarding course</a>. We highly value the cultural fit and the onboarding course explains exactly how we work and how we are as a team.</p><p><strong><strong>About you ðââï¸ðââï¸</strong></strong><br></p><ul> <li>You're able to contribute independently and self-manage your tasks and projects</li> <li>You're self-motivated and always go the extra mile to deliver extra value to Moralis thus inspiring the other team members</li> <li>You take the responsibility to quickly learn and follow Moralis coding style and guidelines.</li> <li>You understand and resonate with <a href="https://moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Values</a> </li> <li>You take responsibility for sustaining the code base by flagging technical debt, potential scalability issues and other ways the code base may improve.</li> <li>You keep up to date with industry standards and new innovations.</li> <li>You have a knack for leading others and guiding them</li> <li>You can churn out high level of code output <strong>DAILY</strong>.</li> <li>You can use Gitlab efficiently.</li> <li>Ready to collaborate and solve problems</li> </ul><p>Â </p><p><strong>Key Qualifications</strong></p><ul> <li>5+ years relevant backend experience<br> </li> <li>Excellent understanding of NodeJS, NestJS and Typescript stack</li> <li>Experience with Massive Real-Time Systems</li> <li>Experience working with Kafka, Ampq, GRPC, Open API, Avro, Redis and Docker</li> <li>Good knowledge of PostgreSQL, NoSQL, Golang and Kubernetes.</li> </ul><p><br></p><p>We truly appreciate the mindset of someone who always finds a way of improving existing work and strives to reach higher highs. In return, youâll get to work with a fun team (we love memes and gamingðð®), diverse (we have team members from 39 different countries all over the world! ð), dedicated and forward-looking people (for real). We have a fully remote-first culture, meaning Moralis is open for everyone who is interested in working in the Metaverse.<br></p><p>Want to take things further? Go on, send in your application & Let's Talk!</p><p>Â </p><p><em>Please ensure that all resumes and communication must be submitted in English</em></p><br/><br/>Please mention the word **SUPER** and tag RMzUuMTc0LjExLjg4 when applying to show you read the job post completely (#RMzUuMTc0LjExLjg4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -96,7 +96,7 @@
                     <code>design,web3,back-end,python,software,code,qa,cloud,api,management,go,engineer,backend,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-streamflow-151713" align="right" target="_blank">Apply</a>
@@ -145,158 +145,7 @@
 <li align="left"><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Website</a></li>
 <li align="left"><a class="bbcode-link" href="https://app.streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">dApp</a></li>
 <li align="left"><a class="bbcode-link" href="https://twitter.com/streamflow_fi" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
-</ul><br><br/><br/>Please mention the word **HARMONY** and tag RMy44Ni4xMi4xMDU= when applying to show you read the job post completely (#RMy44Ni4xMi4xMDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0116/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Close</h5>
-                    <h3> Software Engineer - Backend/Python (100% Remote)</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/close-software-engineer-backend-python-100-remote-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/0116/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> USA
-    <br /><strong>URL:</strong> <a href="http://www.close.com">http://www.close.com</a>
-</p>
-
-<div><strong>About Us</strong></div><div>
-<a href="https://close.com/">Close</a> is a bootstrapped, profitable, 100% remote, ~70 person team of thoughtful individuals who value autonomy and impact. We’re eager to make a product our customers fall in love with over and over again.</div><div><br></div><div>We ❤️ startups &amp; SMBs. Since 2013, we’ve been building a CRM  that focuses on better communication, without the hassle of manual data entry or complex UI. Our goal: double the productivity of every sales rep.</div><div><br></div><div>Our backend <a href="https://stackshare.io/close-crm/close">tech stack</a> currently consists of Python Flask web apps with our <a href="https://github.com/closeio/tasktiger">TaskTiger</a> scheduler handling many of the backend asynchronous task processing chores. Our data stores include MongoDB, Postgres, Elasticsearch, and Redis. The underlying infrastructure runs on AWS using a combination of managed services like RDS and ElasticCache and non-managed services running on EC2 instances. All of our compute runs through CI/CD pipelines that build Docker images, run automated tests and deploy to our Kubernetes clusters. Our backend primarily serves a well-documented <a href="https://developer.close.com/">public API</a> that our front-end JavaScript app consumes. Our infrastructure is heavily automated using AWS tools, Terraform, and Ansible.</div><div><br></div><div>We love open sourcing our code and ideas on <a href="https://github.com/closeio">our GitHub</a> and on <a href="https://making.close.com/">The Making of Close</a>, our behind-the-scenes Product &amp; Engineering blog. Check out our projects like <a href="https://github.com/closeio/socketshark">SocketShark</a>, <a href="https://github.com/closeio/tasktiger">TaskTiger</a>,<a href="https://github.com/closeio/limitlion">LimitLion</a> and <a href="https://github.com/closeio/ciso8601">ciso8601</a>.</div><div><br></div><div><br></div><div><strong>About You</strong></div><div>We're looking for an experienced full-time (or part-time) Software Engineer to join our engineering team. Someone who has a solid understanding of web technologies and wants to help design, implement, launch, and scale major systems and user-facing features.</div><div><br></div><div>You should have senior level experience (~5 years) building modern back-end systems, with at least 3 years of that experience using Python.</div><div><br></div><div>You have hands on production experience woking with MongoDB, PostgreSQL, Elasticsearch, or similar data stores. You have significant experience designing, scaling, debugging, and optimizing systems to make them fast and reliable. You have experience participating in code reviews and providing overall code quality suggestions to help maintain the structure and quality of the codebase. You care about the craftsmanship of the code and systems you produce.</div><div><br></div><div>You’re comfortable working in a fast-paced environment with a small and talented team where you're supported in your efforts to grow professionally. You are able to manage your time well, communicate effectively and collaborate in a fully distributed team.</div><div><br></div><div>
-<strong>You are located in an American or European time zone.<br></strong><br><strong>Bonus points if you have...</strong>
-</div><ul>
-<li>Contributed open source code related to our tech stack</li>
-<li>Led small project teams building and launching features</li>
-<li>Built B2B SaaS products</li>
-<li>Experience with sales or sales tools</li>
-</ul><div>
-<br><strong>Come help us with projects like...</strong>
-</div><ul>
-<li>Conceiving, designing, building, and launching new user-facing features</li>
-<li>Improving the performance and scalability of our GraphQL and <a href="https://developer.close.com/">REST</a> API.</li>
-<li>Improving how we <a href="https://close.com/emailing/">sync</a> millions of sales emails and calendar events each month</li>
-<li>Working with Twilio's API, WebSockets, and WebRTC to improve our <a href="https://close.com/calling/">calling features</a>
-</li>
-<li>Building user-facing analytics features that provide actionable insights based on sales activity data</li>
-<li>Improving our Elasticsearch-backed powerful <a href="https://close.com/search/">search features</a>
-</li>
-<li>Improving our internal messaging infrastructure using streaming technologies like Kafka and Redis </li>
-<li>Building new and enhancing existing integrations with other SaaS platforms like Google’s G Suite, Zapier, and Web Conferencing providers</li>
-</ul><div>
-<br><strong>Why work with us?</strong>
-</div><ul>
-<li>
-<a href="https://www.youtube.com/watch?v=ZbyGnLhtj0o&amp;feature=youtu.be">Culture video</a> 💚</li>
-<li>100% remote company <em>(we believe in trust and autonomy)</em>
-</li>
-<li>Choose between working 5 days/wk (standard full-time) or 4 days/wk @ 80% pay</li>
-<li>
-<a href="https://www.youtube.com/watch?v=gKjyXMz-q-Q&amp;feature=youtu.be">Annual team retreats</a> ✈️</li>
-<li>Quarterly virtual summits</li>
-<li>5 weeks PTO + Winter Holiday Break</li>
-<li>2 additional PTO days every year with the company</li>
-<li>1 month paid sabbatical every 5 years</li>
-<li>Co-working stipend</li>
-<li>Revenue Share (after 1 year)</li>
-<li>Paid parental leave</li>
-<li>Medical, Dental, Vision with HSA option (US residents)</li>
-<li>401k matching at 6% (US residents)</li>
-<li>Dependent care FSA (US residents)</li>
-<li>Contributor to <a href="https://stripe.com/climate">Stripe's climate</a> initiative 🌍❤️ </li>
-<li>
-<a href="https://close.io/about/">Our story and team</a> 🚀</li>
-</ul><div>
-<br>At Close, everyone has a voice. We encourage transparency and practice a mature approach to the work-place. In general, we don’t have strict policies, we have guidelines. Work/life harmony is an important part of our business - we believe you bring your best to work when you practice self-care (whatever that looks like for you).  </div><div><br></div><div>We come from 16 countries located in 5 of the 7 continents -- looking at you Antarctica and Australia ;-) ….. We’re a collection of talented humans rich in diverse backgrounds, lifestyles, and cultures. Every year we meet up somewhere around the world to spend time with one another. These gatherings are an opportunity to strengthen the social fiber of our global community.</div><div><br></div><div>Our team is growing in more ways than one - we’ve recently launched 17 babies (and counting!). Unanimously, our favorite and most impactful value is “Build a house you want to live in.” We strive to make decisions that are authentic for our people and help our customers become more successful.</div><div><br></div><div><em>Our application process was designed to promote equitable and unbiased hiring practices. We ask a small series of questions that are similar to what would be asked in the first interview. This helps us learn more about you right from the start so please be sure to answer each question thoughtfully. Each application will receive two screens by two different reviewers. Regardless of fit, you will hear back from us letting you know if we'll be moving forward.</em></div><div><br></div><div>
-<em>Interested in </em><a href="https://close.com/"><em>Close</em></a><em> but don't think this role is the best fit for you? View our </em><a href="http://jobs.close.com/"><em>other positions</em></a><em>.</em>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/close-software-engineer-backend-python-100-remote-1">https://weworkremotely.com/remote-jobs/close-software-engineer-backend-python-100-remote-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8267/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TestGorilla</h5>
-                    <h3> Senior Backend Engineer (Python)</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-backend-engineer-python-9" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/8267/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Amsterdam, The Netherlands
-    <br /><strong>URL:</strong> <a href="https://www.testgorilla.com/">https://www.testgorilla.com/</a>
-</p>
-
-<div>Hi there,<br><br>
-</div><div>I’m Nicolas, <a href="https://www.testgorilla.com/">TestGorilla</a>’s Head of Engineering. We’re a fast-growing HR tech startup that helps hiring teams make better hiring decisions faster and bias-free.<br><br>
-</div><div>Over the past year, we’ve experienced tremendous growth. More than 7,500 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way.</div><div><br></div><div>As we scale our efforts in 2022 and beyond, we’re looking for a <strong>Senior Backend Engineer</strong>, to help us accelerate the development of our product. </div><div><br></div><h1>The proposition</h1><ul>
-<li>Helping shape a fast-growing HR tech startup as an early employee</li>
-<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
-<li>Competitive salary  + share appreciation rights (SARs)</li>
-<li>Flexible hours and vacation</li>
-<li>Paid parental leave </li>
-<li>€1000 remote working budget per year</li>
-<li>3.5% of salary learning &amp; development budget</li>
-</ul><div><br></div><h1>The role in context</h1><div>We are looking for a <strong>Senior Backend Engineer</strong> to join our engineering department and help us bring our product to Enterprise level maturity. Your work will directly impact hundreds of thousands of users around the world.</div><div> </div><div>As a senior member of the engineering team, you’ll build and deliver backend solutions such as APIs, integrations, and architecture components to enable the rapid growth of all our products.</div><div> </div><div>You’ll own the design, code, and deployment of solutions and make sure they perform and scale in production. </div><div> </div><h1>You’ll spend time on the following</h1><ul>
-<li>Create highly scalable and reliable microservices architectures</li>
-<li>Lead the entire software development and delivery cycle from ideation to deployment and everything in between</li>
-<li>Write clean, tested, and well-documented code</li>
-<li>Apply modern backend technologies, including but not limited to <a href="https://www.testgorilla.com/test-library/programming-skills-tests/python-coding-test-data-structures-objects/">Python</a>, Django, Redis, and AWS</li>
-<li>Efficiently utilize DevOps tools and practices to deliver high-quality software as well as value to end customers as early as possible.</li>
-<li>Work in a collaborative, talented distributed team across Europe, United States, South America, and Asia.</li>
-<li>You will act as a mentor for less-experienced team members through both your technical knowledge and <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/leadership-people-management-test/">leadership skills</a>
-</li>
-</ul><div><br></div><h1>Here’s what we’re looking for</h1><ul>
-<li>Experience in software development &amp; delivery</li>
-<li>You can efficiently write high-quality, well-tested code and you are comfortable with functional and Object-Oriented programming languages</li>
-<li>You have experience building distributed and highly scalable systems including REST APIs and event-driven architectures</li>
-<li>You have strong knowledge about data storage design using relational and NoSQL databases</li>
-<li>You understand the importance of reliable monitoring, deployment strategies, and a highly scalable and robust cloud infrastructure</li>
-<li>You are passionate about improving skills and learning new technologies</li>
-<li>You enjoy influencing others and always advocate for technical excellence while being open to change </li>
-<li>You’re resilient in ambiguous situations and can approach challenges from multiple perspectives</li>
-<li>You have strong written and verbal communication skills. You can validate your decisions and communicate them clearly</li>
-</ul><div>We typically expect candidates with at least <strong><em>7 years of Senior Backend Engineer (Python) experience</em></strong> to have the skills mentioned above.<br><br>
-</div><h1>Bonus points if ...</h1><ul>
-<li>you have experience in a SaaS product based company</li>
-<li>you are comfortable with Agile methods, such as Extreme Programming (XP), <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/scrum-master-test/">Scrum</a>, and/or Kanban</li>
-<li>you have a working knowledge of cloud technology such as AWS, Azure, Kubernetes, and Docker</li>
-</ul><div><br></div><div><br></div><h1>Interested?</h1><div>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions faster and bias-free. I took one too and I enjoyed it!<br><br>
-</div><div>So if this role sounds like a good fit for you, I’d like you to take an assessment so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product! Simply use the Apply button or click <a href="https://assessment.testgorilla.com/testtaker/publicinvitation/c10ca3ab-378a-44e3-a335-5d39e1eb3b03">here</a>.<br><br>
-</div><div>If you’re hired, I’ll do everything I can to help you succeed at <a href="https://www.testgorilla.com/">TestGorilla</a> and throughout the rest of your career.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-backend-engineer-python-9">https://weworkremotely.com/remote-jobs/testgorilla-senior-backend-engineer-python-9</a></p>
-
+</ul><br><br/><br/>Please mention the word **HARMONY** and tag RMzUuMTc0LjExLjg4 when applying to show you read the job post completely (#RMzUuMTc0LjExLjg4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -311,7 +160,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/community-phone-senior-backend-engineer" align="right" target="_blank">Apply</a>
@@ -381,7 +230,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
@@ -406,7 +255,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
