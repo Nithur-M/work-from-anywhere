@@ -10,7 +10,7 @@
                     <code>ui,ux,design,defi,testing,growth,manager,finance,strategy,operations,marketing,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-ux-ui-designer-jet-protocol-151210" align="right" target="_blank">Apply</a>
@@ -77,7 +77,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Early stage startup with tremendous growth potential </span></li>
 </ul>
 <p><span style="font-weight:400;">If you're ready to bring your full self to work with a bunch of passionate, shadowy super coders rethinking finance, grab your passport and boarding pass - come join us!</span></p>
-<p> </p><br/><br/>Please mention the word **LOYALTY** and tag RMy44Ni4xMi4xMDU= when applying to show you read the job post completely (#RMy44Ni4xMi4xMDU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p> </p><br/><br/>Please mention the word **LOYALTY** and tag RMzUuMTc0LjExLjg4 when applying to show you read the job post completely (#RMzUuMTc0LjExLjg4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -92,7 +92,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/pebble-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -158,7 +158,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>272 days ago</text>
+                <text>273 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -219,7 +219,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
