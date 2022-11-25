@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/learning-tapestry-product-manager-web" align="right" target="_blank">Apply</a>
@@ -67,7 +67,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-product-manager-3" align="right" target="_blank">Apply</a>
@@ -152,7 +152,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager-2" align="right" target="_blank">Apply</a>
@@ -213,107 +213,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager-2">https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager-2</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1497936/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>RabbitHole</h5>
-                    <h3>Senior Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>crypto,marketing,product manager,sql</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/senior-product-manager-1497936" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><strong style="">At RabbitHole, </strong><span style="">our mission is to increase global economic opportunity by making crypto more accessible and meritocratic. We’re doing that by making it easy for protocols to distribute their tokens to users. We believe that by helping protocols solve token distribution, we’ll not only make crypto protocols more sustainable, but also help anyone in the world earn income through provable contribution rather than their background or credentials. </span></div>
-<div> </div>
-<div><span style="">RabbitHole has created an efficient way for protocols to distribute tokens by segmenting users based on on-chain &amp; off-chain data. By completing on-chain tasks in various protocols, users build their on-chain resume, and earn token ownership.</span></div>
-<div> </div>
-<div><strong style="">What problem are we solving?</strong></div>
-<div><span style="">Protocols are constantly looking for new ways to find and engage users, but don’t have an easy way to do so. Tokens of these protocols often fall in the hands of speculators who sit on centralized exchanges, rather than users of these networks. On the other hand, new users in crypto have a difficult time in knowing where to start on their crypto journey and don’t know who to trust. </span></div>
-<div> </div>
-<div><strong style="">Why are we solving this problem?</strong></div>
-<div><span style="">By making it more efficient for protocols to distribute their token to network participants, we are both driving more participation to protocols and making it easier for users to increase their ownership in protocols rather than speculators. By increasing the number of token holders who are using the network, we are making the underlying protocol more sustainable, and putting more money in the pockets of users. </span></div>
-<div> </div>
-<div><strong style="">Why are we different?</strong></div>
-<div><span style="">RabbitHole is a group of crypto-natives who have years of experience in crypto from companies like OpenSea and Dapper Labs. Compared to other crypto projects, we’re not building another Metaverse or protocol for risk — we’re focused on helping serve existing decentralized protocols and get their tokens in the hands of the right token holders. We believe in the potential of what crypto stands for and can become, but we know that today there’s a lot to improve. We’re playing the long game.</span></div>
-<div> </div>
-<div><strong style="">Join us for the revolution:</strong></div>
-<div><span style="">We have years of runway to grow and support you on your journey. Founded in 2020, RabbitHole has raised $20M+ in funding, most recently in an announced Series A round in January 2022. We are backed by the best top tier crypto VCs like Electric Capital and traditional VCs like Greylock.</span></div>
-<div> </div>
-<div><span style="">We're looking for product-obsessed individuals with early-stage startup experience who want to work with a dynamic fast-moving team and build the roadmap for RabbitHole to become the best way for protocols to distribute their token and engage their users. If this is you, we are super excited to meet you and learn more.</span></div>
-<p><br><br></p>
-<div class="h3">What you'll do:</div>
-<ul>
-<li>You’ll work closely with the CEO to prioritize, spec and build new products and features</li>
-</ul>
-<ul>
-<li>As the first product hire, you’ll wear many hats across design, marketing, and product to get stuff done</li>
-</ul>
-<ul>
-<li>Ruthlessly talk to users to gather insights and feedback to better inform product decisions</li>
-</ul>
-<ul>
-<li>Be the glue (or the grease) that runs our product development engine</li>
-</ul>
-<ul>
-<li>Define KPIs for product success</li>
-</ul>
-<p><br><br></p>
-<div class="h3">What you are:</div>
-<ul>
-<li>We’re looking for an enthusiastic, self-motivated product thinker and doer</li>
-</ul>
-<ul>
-<li>You need to have a solid technical background, uncanny attention to detail and a sound judgment</li>
-</ul>
-<ul>
-<li>3-5 years of experience in product building in crypto, consumer, or FinTech</li>
-</ul>
-<ul>
-<li>You thrive in remote environments and are an empathetic communicator and natural collaborator who can work with people across the org</li>
-</ul>
-<ul>
-<li>You have built and shipped marketplace products at scale and understand the tradeoffs between supply and demand</li>
-</ul>
-<ul>
-<li>You understand the value of data/analytics and have an instinct to talk to users to better inform product decisions</li>
-</ul>
-<ul>
-<li>You have a strong interest in Crypto/blockchain space</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Bonus Points</div>
-<ul>
-<li>Experience working in an early stage startup (Seed or Series A)</li>
-</ul>
-<ul>
-<li>Coding fluency or ability</li>
-</ul>
-<ul>
-<li>Exposure through a previous role to the crypto ecosystem</li>
-</ul>
-<ul>
-<li>Technical understanding of how blockchains work to better inform product decisions</li>
-</ul>
-<ul>
-<li>The ability to create simple, low-fidelity mock-ups in Figma or other design tools</li>
-</ul>
-<ul>
-<li>Experience with data tools like Mixpanel, Google Analytics, Redash, and SQL</li>
-</ul>
-<img src="https://remotive.com/job/track/1497936/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
