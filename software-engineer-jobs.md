@@ -10,7 +10,7 @@
                     <code>software,design,web3,solidity,ethereum,test,senior,golang,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-golang-obol-labs-153180" align="right" target="_blank">Apply</a>
@@ -48,7 +48,7 @@
 <li>Opportunity to collaborate with industry leading validators</li>
 <li>Opportunity to collaborate with Ethereum core client teams</li>
 <div><br></div>
-</ul><div>ð°ï¸ In order to scale efficiently, we focus our hiring on candidates able to work during the standard business hours of the following timezones: GMT-8 to GMT+3. </div><div>This does not mean that you have to be located in these timezones to get the job but must be able to work the bulk of your time during their standard business hours.</div><br/><br/>Please mention the word **SWANKY** and tag RMzUuMTc0LjExLjg4 when applying to show you read the job post completely (#RMzUuMTc0LjExLjg4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>ð°ï¸ In order to scale efficiently, we focus our hiring on candidates able to work during the standard business hours of the following timezones: GMT-8 to GMT+3. </div><div>This does not mean that you have to be located in these timezones to get the job but must be able to work the bulk of your time during their standard business hours.</div><br/><br/>Please mention the word **SWANKY** and tag RMTguMjA1LjY2LjEwNg== when applying to show you read the job post completely (#RMTguMjA1LjY2LjEwNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -63,7 +63,7 @@
                     <code>crypto,defi,blockchain,web3,software,design,react,test,ui,javascript,finance,fintech,typescript,mobile,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-cake-defi-151705" align="right" target="_blank">Apply</a>
@@ -98,58 +98,7 @@
 <p> </p><div class="content-conclusion">
 <p>We want to transform and decentralise finance with tomorrowâs technology. This is where you come in. Join a company that is at the forefront of bleeding-edge innovations in blockchain and DeFi. You will be empowered to push boundaries and think out of the box. You will get to work with a bunch of ridiculously motivated and talented people. And most importantly, you'll have fun. The best places to work at, are often also the most fun to work at. That's us.</p>
 <p>We hire based on merit, fit, and strong alignment to our culture. Our culture is defined by 7 team principles: Integrity, Resourcefulness, Ownership, Meritocratic Decision-making, Customer Obsession, Radical Candour, and Passion. These 7 principles guide our company, our people, and our work. At Cake DeFi, our culture is our pride. It has been instrumental to our success, so we are steadfast in our commitment to it. We welcome you to add to it.</p>
-</div><br/><br/>Please mention the word **STABLE** and tag RMzUuMTc0LjExLjg4 when applying to show you read the job post completely (#RMzUuMTc0LjExLjg4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/bdd6358430bf36d0b029cca019175d471668842127.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>NOBI</h5>
-                    <h3>Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>software,design,amazon,defi,crypto,cryptocurrency,system,frontend,test,code,web,javascript,investment,nodejs,php,git,engineer,engineering,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-nobi-151202" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>
-<p></p>
-<h2>Company Description</h2>
-</div><div><p>NOBI helps people easily get more from their crypto asset & simplify their crypto investment experience. Our engineering team run hundreds of blockchain nodes, integrates with numerous DeFi smart contracts and run numerous real time robo trading to simplify the life our customers. <br><br>Weâre here so that everyone can be part of the global cryptocurrency movement. Join us.</p></div><div>
-<p></p>
-<h2>Job Description</h2>
-</div><div><ul>
-<li>Responsible for building and extending our backend code</li>
-<li>Responsible for building APIs that serve our frontend apps</li>
-<li>Responsible for maintaining and extend our test suite</li>
-<li>Refactor and improve existing code to incorporate better patterns</li>
-<li>Able to create unit test and implement self-test to make sure the code is running well (Profiling and optimization code)</li>
-<li>Work with the other engineering team to build & maintain our numerous backend services</li>
-</ul></div><div>
-<p></p>
-<h2>Qualifications</h2>
-</div><div><ul>
-<li>Bachelor's degree in Computer Science or equivalent from a reputable university</li>
-<li>Minimum 2 years of working experience as Backend Engineer or equivalent</li>
-<li>Minimum 2 years of extensive experience on server-side development, especially Javascript (ES6) using NodeJS & PHP using Laravel.</li>
-<li>Fluent with Git and RESTful API</li>
-<li>Good knowledge and experience of UNIX system and command line experience in web server configuration and setup. This includes setting up PHP engine, database server, load balancing.</li>
-<li>Experience with NoSQL, Amazon AWS , Redis, Docker</li>
-<li>Knowledge and experience in scalability and performance in high-traffic web systems</li>
-<li>Knowledgeable on software design pattern</li>
-<li>Understanding the principles of application security</li>
-<li>Blockchain or Crypto enthusiast</li>
-</ul></div><br/><br/>Please mention the word **FOOLPROOF** and tag RMzUuMTc0LjExLjg4 when applying to show you read the job post completely (#RMzUuMTc0LjExLjg4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **STABLE** and tag RMTguMjA1LjY2LjEwNg== when applying to show you read the job post completely (#RMTguMjA1LjY2LjEwNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -164,7 +113,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/circle-senior-software-engineer-cms" align="right" target="_blank">Apply</a>
@@ -214,7 +163,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -276,7 +225,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
