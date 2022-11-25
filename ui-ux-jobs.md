@@ -1,87 +1,5 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/f170545b24ade2bc3637a652d643442f1668842158.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Jet Protocol</h5>
-                    <h3>UX UI Designer</h3>
-                </td>
-                <td width="300">
-                    <code>ui,ux,design,defi,testing,growth,manager,finance,strategy,operations,marketing,engineer,engineering,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-ux-ui-designer-jet-protocol-151210" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>About Jet Protocol</strong></p>
-<p><span style="font-weight:400;">Jet is a non-custodial liquidity protocol pushing the envelope on debt capital markets efficiency and decentralization. We offer first class market based lending products built for the emerging DeFi high flyers. Our bleeding edge, on-chain products connect flight operations among crypto-native traders and soon, with permissioned institutional players. Our flight crew consists of veteran pilots with tens of thousands of long-haul flying hours at blue-chip DeFi, TradFi, and Big Tech firms.</span></p>
-<p><span style="font-weight:400;">If you are interested in re-imagining finance and empowering the world to own their own future, come join us on our journey!</span><span style="font-weight:400;"><br><br></span></p>
-<p><strong>UX/UI Designer at Jet Protocol:</strong></p>
-<p><span style="font-weight:400;">Jet is building the next generation of fixed rate lending and margining in DeFi and we are looking for a UX/UI Designer. As a UX/UI Designer, you will be responsible for the user experience (UX) and user interface (UI) design of our various digital assets. You will ensure that all elements of the online user experience are optimized for improved usability, usefulness, and exceptional visual design.</span></p>
-<p><strong>What youâll be doing </strong></p>
-<ul>
-<li>
-<div>Work with strategy team on concept and planning of features and products</div>
-</li>
-<li>
-<div>Craft user flows, wire frames, and rapid prototypes for quick validation and iterative product design</div>
-</li>
-<li>
-<div>Design and maintain Jetâs design system</div>
-</li>
-<li>
-<div>Create high fidelity prototypes of new app features and interactions</div>
-</li>
-<li>
-<div>Prepare and conduct user testing for early validation of products and features</div>
-</li>
-<li>
-<div>Prepare files for engineer hand-off and work closely with engineering manager on design audits</div>
-</li>
-<li>
-<div>Maintain Jet brand and sub-brands, evolve Jetâs visual identity, maintain brand guides and media kits</div>
-</li>
-<li>
-<div>Work closely with marketing on graphics as needed</div>
-</li>
-<li>
-<div>Video/animation/3D/illustration skills a plus</div>
-</li>
-</ul>
-<p><strong>You should apply to this role if ALL of the following apply to you:</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">3-5 years of experience UI/UX design experience for digital products or services.</span></li>
-<li style="font-weight:400;">Versed in the following: Figma, Adobe CC (photoshop, illustrator, indesign) and Webflow</li>
-<li style="font-weight:400;"><span style="font-weight:400;">Excited to solve problems efficiently, simply, and with utmost quality</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Excited to get into the nitty gritty of the Solana blockchain and the Jet Protocol Products</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Good written and verbal skills</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Excited to work collaboratively with teams to solve problems</span></li>
-</ul>
-<p><strong>You are an exceptional candidate for this role if you have:</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience working working in the DeFi space</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience working closely with an engineering team</span></li>
-</ul>
-<p><strong>Why Jet Protocol </strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Remote working</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Company annual offsite </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Health benefits</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Generous hardware stipend</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Early stage startup with tremendous growth potential </span></li>
-</ul>
-<p><span style="font-weight:400;">If you're ready to bring your full self to work with a bunch of passionate, shadowy super coders rethinking finance, grab your passport and boarding pass - come join us!</span></p>
-<p> </p><br/><br/>Please mention the word **LOYALTY** and tag RMzUuMTc0LjExLjg4 when applying to show you read the job post completely (#RMzUuMTc0LjExLjg4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0617/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -92,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/pebble-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -158,7 +76,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>273 days ago</text>
+                <text>274 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -219,7 +137,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
