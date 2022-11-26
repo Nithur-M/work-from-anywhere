@@ -1,5 +1,107 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/e6ba0f559c9a82a877f711299b546c251669360523.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Utopia Labs</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,web3,front-end,javascript,health,engineer,engineering,full-time</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-utopia-labs-154190" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><span style="font-size:24px;">ð» Engineering at Utopia Labs</span></div><div><br></div><div>We love building beautiful and powerful technology with deep impact and purpose. With almost all of our founding team having a technically-focused background from companies like Microsoft, Facebook, and Lunchclub. Utopia Labs wants you to join a group of hackers who are driven by their deep curiosity, a pursuit of technical excellence, and a passion for driving impact.</div><div><br></div><div>At Utopia Labs, we're building the tools that will support the future of governance, commerce, and work. We aim to help DAOs revolutionize the way people work, own, and interact with the world. Our engineering effort is central to that goal.</div><div><br></div><div>As a engineer with Utopia, you will help build + layout our engineering foundation and craft our product backbone. If you're interested in championing technological leadership in the web3 space, we'd love for you to apply!</div><p></p><h4>Responsibilities </h4><p></p><p></p><ul>
+<li>Participate in the initial scoping of product requirements for new features and products</li>
+<li>Developing products from designs and specifications to live deployments.</li>
+<li>Build out new features and products with the product team.</li>
+<li>Help address customer feature requests</li>
+<li>Build out prospective integrations with partners and protocols</li>
+<li>Create trustworthy user experiences by building interfaces that are simple, easy to comprehend, performant and reliable using modern tools like React, Typescript, and GraphQL</li>
+</ul><p></p><h4>Requirements</h4><p></p><p></p><ul>
+<li>Experience with Javascript + front-end frameworks such as Javascript, Typescript, NodeJS, Express, NextJS, or similar.</li>
+<li>Development experience using NodeJS, Express, NextJS, or similar</li>
+<li>Understanding of GraphQL</li>
+<li>Solid experience architecting solutions (experience in different architecture layers and components) through multiple frameworks</li>
+<li>Proficiency with Git</li>
+<li>A good understanding of CI/CD</li>
+<li>Experience developing with a test-driven mentality</li>
+</ul><p></p><h4>Nice to have</h4><p></p><p></p><ul>
+<li>Hackathon experience or competitive programming</li>
+<li>Experience contributing to open-source projects</li>
+<li>1-3+ years full-time software engineering experience</li>
+<li>Experience contributing to open-source projects</li>
+<li>Experience writing smart contracts </li>
+<li>Demonstrated interest in open and community-driven platforms.</li>
+</ul><div><span style="font-size:24px;">Perks & Benefits</span></div><div><br></div><div><span style="font-size:18px;">ð Health and wellbeing</span></div><div>We offer top-of-the-line benefits, including health, mental health, dental, and vision insurance.</div><div><br></div><div><span style="font-size:18px;">ð´ Time off</span></div><div>We want people to take time off to rest and rejuvenate. We offer a 3 week paid vacation as well as 10 observed holidays by country.</div><div><br></div><div><span style="font-size:18px;">ð£ Parental leave</span></div><div>Our parental leave policy offers biological, adoptive, and foster parents paid time off to spend quality time with family.</div><div><br></div><div><span style="font-size:18px;">ð¥ Lunch on us</span></div><div>You'll have a very generous meal budget for you to eat every day.</div><div><br></div><div><span style="font-size:18px;">ð Commuting</span></div><div>We offer monthly commuter credits.</div><div><br></div><div><br></div><div><span style="font-size:24px;">Any Questions?</span></div><div><br></div><div>Email: pryce@utopialabs.com</div><div><br></div><div>Twitter: <a href="https://twitter.com/pryceandstuff" class="postings-link" rel="noopener noreferrer nofollow">https://twitter.com/pryceandstuff</a>
+</div><div><br></div><br/><br/>Please mention the word **REMUNERATE** and tag RMzQuMjM5LjkzLjc0 when applying to show you read the job post completely (#RMzQuMjM5LjkzLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/17ed97231189173c9620facb491393081669360550.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Obol Labs</h5>
+                    <h3>Senior Software Engineer Solidity</h3>
+                </td>
+                <td width="300">
+                    <code>solidity,software,design,web3,ethereum,testing,test,manager,senior,golang,engineer,engineering,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-solidity-obol-labs-154201" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b style="font-size:24px;">Who Are We?</b></div><div><br></div><div>Obol Labs is a remote-first research and software development team focused on Proof of Stake infrastructure for public blockchain networks. Specific topics of focus are Internet Bonds, Distributed Validator Technology, and Multi-Operator Validation. The core team includes 14 members spread across 8 countries.</div><div><br></div><div>The core team is building the Obol Network, a protocol to foster trust-minimized staking through multi-operator validation. This will enable low-trust access to Ethereum staking yield, which can be used as a core building block in various Web3 products.</div><div><br></div><div><b style="font-size:18px;">The Network</b></div><div><br></div><div>The network can be best visualized as a work layer that sits directly on top of the base layer consensus. This work layer is designed to provide the base layer with more resiliency and decentralization as it scales. In this chapter of Ethereum, we will move on to the next great scaling challenge, which is stake centralization. Layers like Obol are critical to the long-term viability and resiliency of public networks, especially networks like Ethereum.</div><div><br></div><div>Obol as a layer is focused on scaling main chain staking by providing permissionless access to Distributed Validators. The network utilizes a middleware implementation of Distributed Validator Technology (DVT), to enable the operation of distributed validator clusters that can preserve validators' current client and remote signing configurations.</div><div><br></div><div>Similar to how roll-up technology laid the foundation for L2 scaling implementations, we believe DVT will do the same for scaling the consensus layer while preserving decentralization. Staking infrastructure is entering its protocol phase of evolution, which must include trust-minimized staking networks that can be plugged into at scale. We believe DVT will evolve into a widely used primitive and will ensure the security, resiliency, and decentralization of public networks.</div><div><br></div><div><span style="font-size:11pt;">The Obol Network develops and maintains four core public goods that will eventually work together through circular economics:</span></div><div><br></div><div>
+<b style="font-size:11pt;">The DV Launchpad</b><span style="font-size:11pt;">, a User Interface for bootstrapping and managing Distributed Validators</span>
+</div><div><br></div><div>
+<b style="font-size:11pt;">Charon,</b><span style="font-size:11pt;"> a middleware Golang client that enables validators to run in a fault-tolerant, distributed manner</span>
+</div><div><br></div><div>
+<b style="font-size:11pt;">Obol Managers</b><span style="font-size:11pt;">, a set of solidity libraries for the formation of Distributed Validators tailored to different use cases such as DeFi, Liquid Staking, and Fractionalized Deposits </span>
+</div><div><br></div><div>
+<b style="font-size:11pt;">Obol Testnets</b><span style="font-size:11pt;">, a set of ongoing public </span><span style="font-size:14.6667px;">incentivized</span><span style="font-size:11pt;"> testnets that enable any sized operator to test their deployment before serving for the Ethereum Main net</span>
+</div><div><br></div><div><b style="font-size:18px;">Sustainable Public Goods</b></div><div><br></div><div>Obol is inspired by previous work on Ethereum public goods and experimenting with circular economics. We believe that to unlock innovation in staking use cases, a credibly neutral layer must exist for innovation to flow and evolve vertically. Without this layer, highly available uptime will continue to be a moat.</div><div><br></div><div>The Obol Network will become an open, community-governed, self-sustaining project over the coming months and years. Together we will incentivize, build, and maintain distributed validator technology that makes public networks a more secure and resilient foundation to build on top of.</div><div><br></div><div><b style="font-size:24px;">Senior Software Engineer, Solidity</b></div><div><br></div><div>
+<span style="font-size:10pt;">Senior Solidity Engineers are passionate about </span><span style="font-size:13.3333px;">decentralization</span><span style="font-size:10pt;"> and have a thorough understanding of the EVM. This role is responsible for driving the direction of the Obol Manager smart contract implementation(s) from early architecture and design documents, through to gas golfing and layer 2 scaling; while building up a professional smart contract engineering team in the process. At Obol we are stripping Ethereum clients down to their fundamentals and rebuilding them in a highly-available by default, byzantine tolerant architecture, capable of being run by multiple operators. This project will push the envelope on distributed systems and their coordination via smart contracts beyond what has been seen in the space to date.</span>
+</div><p></p><h4>Responsibilities</h4><p></p><p></p><ul>
+<li>Develop EVM smart contracts for the provisioning of Ethereum validators</li>
+<li>Build an enterprise grade smart contract development lifecycle that grows with the Obol team</li>
+<li>Develop robust smart contract testing infrastructure. (unit, symbolic, mainnet-fork, fuzz, etc)</li>
+<li>Manage professional smart contract deployment and monitoring processes</li>
+<li>Participate in the technical interview process</li>
+<li>Develop hackathon friendly smart contract template repos for people to try out Obol </li>
+<li>Develop integration smart contracts into existing liquid staking solutions</li>
+<li>Oversee the solidity audit process pre-mainnet</li>
+<div><br></div>
+<div><br></div>
+</ul><p></p><h4>What you will like about us</h4><p></p><p></p><ul>
+<li>Developing open source public goods for permissionless networks</li>
+<li>Solving groundbreaking problems in distributed cryptography and cryptoeconomics</li>
+<li>Competitive compensation and benefits</li>
+<li>Twice annual Global Off-sites</li>
+<li>Annual opportunity to attend DevCon (or a blockchain conference of choice)</li>
+<li>Opportunity to collaborate with industry leading cryptography researchers and advisors</li>
+<li>Opportunity to collaborate with industry leading validators</li>
+<li>Opportunity to collaborate with Ethereum core client teams</li>
+<div><br></div>
+</ul><div>ð°ï¸ In order to scale efficiently, we focus our hiring on candidates able to work during the standard business hours of the following timezones: GMT-8 to GMT+3. </div><div>This does not mean that you have to be located in these timezones to get the job but must be able to work the bulk of your time during their standard business hours.</div><div><br></div><div>â ï¸ This role has been hired for but we are keeping the application open as we are growing fast and are always open to great talent â ï¸</div><br/><br/>Please mention the word **VIRTUE** and tag RMzQuMjM5LjkzLjc0 when applying to show you read the job post completely (#RMzQuMjM5LjkzLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/28564fa6911d3141abc797ba2a62f0d31669187757.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +112,7 @@
                     <code>software,design,web3,solidity,ethereum,test,senior,golang,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-golang-obol-labs-153180" align="right" target="_blank">Apply</a>
@@ -48,107 +150,7 @@
 <li>Opportunity to collaborate with industry leading validators</li>
 <li>Opportunity to collaborate with Ethereum core client teams</li>
 <div><br></div>
-</ul><div>ð°ï¸ In order to scale efficiently, we focus our hiring on candidates able to work during the standard business hours of the following timezones: GMT-8 to GMT+3. </div><div>This does not mean that you have to be located in these timezones to get the job but must be able to work the bulk of your time during their standard business hours.</div><br/><br/>Please mention the word **SWANKY** and tag RMTguMjA1LjY2LjEwNg== when applying to show you read the job post completely (#RMTguMjA1LjY2LjEwNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/16897e4c94b800fa174d593cf8409f001668928516.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Cake DeFi</h5>
-                    <h3>Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>crypto,defi,blockchain,web3,software,design,react,test,ui,javascript,finance,fintech,typescript,mobile,engineer,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-cake-defi-151705" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro">
-<p>Founded in 2019, Cake DeFi is a leading decentralised finance services provider and Southeast Asiaâs fastest growing fintech platform. "We Do Crypto. You Do You." - Our vision is to become a one-stop platform for all crypto users to get easy access to DeFi and Web3 services. To date, more than 1 million users from over 190 countries trust us to manage over $1 billion in assets. We are a profitable, cashflow positive private rocket ship that's just getting ready for take-off. Join us.</p>
-<p> </p>
-</div><p><strong>Birthday Research</strong></p>
-<p><span style="font-weight:400;">Birthday Research (BR) is our Blockchain Research and Development arm. Fuelled by the best minds in the industry, BR seeks to develop best-in-class blockchain innovations with the mission of enabling the next bound of Web3.</span></p>
-<p><span style="font-weight:400;">As a pioneering force, our work spans cryptographic research, deep blockchain consensus development, and smart contracts development â with a laser-sharp focus on driving the industry frontier while tackling the most demanding DeFi challenges of today. To date, one of our core contributions, DeFiChain, has garnered over 1 billion USD in total value locked on the layer-1 protocol.</span></p>
-<p><span style="font-weight:400;">We are a fast-growing, globally distributed, close-knit team of multi-disciplinary doers and getters. Join Birthday Research today to be a part of the driving force shaping the future of decentralization.</span></p>
-<h3><span style="text-decoration:underline;"><strong>What youâll do:</strong></span></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with cross-functional teams, product designers, and managers to design and develop TypeScript based applications using React, React Native, Next.js and/or Node.js.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Write highly performant codes that are clean, simple, maintainable, and battle-tested with test-driven development (TDD) for maximum test coverage automated from pull request all the way to release.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Take on active responsibility in creating highly scalable UI Components and/or backend modules for our scaling needs.</span></li>
-</ul>
-<h3><span style="text-decoration:underline;"><strong>What youâll need:</strong></span></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience working in a fast pace tech-driven startup as a Software Engineer with at least 2 years of experience or in a similar capacity.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Strong proficiency in TypeScript or JavaScript with experience working in Web, Node, or Mobile technologies.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ability to take full ownership and work independently while collaborating with others in a fast-paced agile and async team.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">A collaborative and resourceful individual with excellent communication skills able to make radical decisions while being empathetic and respectful.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Willingness to pick up new and emerging bleeding edge blockchain technologies.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Deep technical understanding of blockchain technologies, cryptography, BIPs, DeFi, UTXO, EVM, or Nakamoto Consensus is highly preferred.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience participating or maintaining in open source software development is highly preferred.</span></li>
-</ul>
-<p> </p><div class="content-conclusion">
-<p>We want to transform and decentralise finance with tomorrowâs technology. This is where you come in. Join a company that is at the forefront of bleeding-edge innovations in blockchain and DeFi. You will be empowered to push boundaries and think out of the box. You will get to work with a bunch of ridiculously motivated and talented people. And most importantly, you'll have fun. The best places to work at, are often also the most fun to work at. That's us.</p>
-<p>We hire based on merit, fit, and strong alignment to our culture. Our culture is defined by 7 team principles: Integrity, Resourcefulness, Ownership, Meritocratic Decision-making, Customer Obsession, Radical Candour, and Passion. These 7 principles guide our company, our people, and our work. At Cake DeFi, our culture is our pride. It has been instrumental to our success, so we are steadfast in our commitment to it. We welcome you to add to it.</p>
-</div><br/><br/>Please mention the word **STABLE** and tag RMTguMjA1LjY2LjEwNg== when applying to show you read the job post completely (#RMTguMjA1LjY2LjEwNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/2914/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Circle</h5>
-                    <h3> Senior Software Engineer (CMS)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/circle-senior-software-engineer-cms" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/2914/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> New York
-    <br /><strong>URL:</strong> <a href="https://circle.so">https://circle.so</a>
-</p>
-
-<div>
-<a href="http://circle.so/">Circle</a> is building the modern community platform for every creator and brand in the world: think "Shopify for creator/brand-led communities". We make it really easy for creators and brands to bring their discussions, members, and content all into one place.</div><div><br></div><div>We're looking for a <strong>Senior Software Engineer (Rails/React)</strong> to join our CMS engineering team. At Circle, our CMS team is responsible for the core user-facing areas of our product — including community discussions, courses, the Home feed, our automated weekly digests, search, and more. This is a high leverage role with the opportunity to make an immense amount of impact for thousands of Circle communities and millions of members.</div><div><br></div><div>This is a 100% remote role. We're now a fully remote team of 88 (and growing!) based in the U.S., Colombia, Portugal, India, Argentina, Slovenia, and other countries. We have a preference for candidates in U.S. and European time zones.</div><div>Check out our <a href="http://careers.circle.so/">Careers page</a> for more information about us.</div><div><br></div><div>
-<strong><br>Responsibilities<br></strong><br>
-</div><ul>
-<li>Work in our CMS team to build out the best content consumption and management experience for our communities.</li>
-<li>Improve the quality of our codebase, identify architectural deficiencies, and create achievable paths to solve/evolve them in payments-adjacent areas.</li>
-<li>Engage in considerate, but robust, PR reviews with Circle's engineers.</li>
-<li>Work closely with Circle's co-founders and designers throughout the feature spec + design process.</li>
-</ul><div>
-<strong><br>Who we're looking for<br></strong><br>
-</div><ul>
-<li>Significant full-stack experience working with the React and Ruby on Rails stack.</li>
-<li>Knowledge of Elasticsearch.</li>
-<li>Strong judgment and attention to detail when it comes to architectural, product, design, and process decisions. Your judgement should inspire a high level of trust within the team.</li>
-<li>Great communication skills which empower async work across the team.</li>
-<li>A desire to work in an environment that values speed of iteration and individual autonomy.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/circle-senior-software-engineer-cms">https://weworkremotely.com/remote-jobs/circle-senior-software-engineer-cms</a></p>
-
+</ul><div>ð°ï¸ In order to scale efficiently, we focus our hiring on candidates able to work during the standard business hours of the following timezones: GMT-8 to GMT+3. </div><div>This does not mean that you have to be located in these timezones to get the job but must be able to work the bulk of your time during their standard business hours.</div><br/><br/>Please mention the word **SWANKY** and tag RMzQuMjM5LjkzLjc0 when applying to show you read the job post completely (#RMzQuMjM5LjkzLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -163,7 +165,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -225,7 +227,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
