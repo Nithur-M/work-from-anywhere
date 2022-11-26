@@ -1,56 +1,5 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/17f6270e2cdeceb5b7249afb95629f201668928538.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Streamflow</h5>
-                    <h3>Frontend engineer</h3>
-                </td>
-                <td width="300">
-                    <code>frontend,design,web3,crypto,react,software,growth,payroll,js,fintech,go,engineer,full-time,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-streamflow-151714" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h3><b>The Company</b></h3><br><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Streamflow</a> helps web3 organizations distribute tokens efficiently and effectively. We leverage our token streaming protocol to provide a suite of tools every Solana organization can use to manage and stream tokens.<p></p><h3><b>Why You Should Join Us</b></h3><br>Streamflow is built on the values of integrity, curiosity and passion. We look to uphold these qualities in our day to day and look for these qualities in candidates who apply.<br>Our work culture is fast moving, engaging and ambitious. We passionately believe in the value that our protocol can unlock for the world and weâre looking to work with mission driven people who are ready to jump onboard with us, roll up their sleeves and get stuck into it. We believe in selfless sharing of knowledge, transparency and insight into all aspects of the business and personal initiative.<br>We are a remote-first, office-optional team that prioritises high quality written communication and the possibility of working asynchronously across timezones because we believe that the best talent exists on every corner of the earth. We are developing quite literally on bleeding edge technology on the most high performance blockchain, Solana. We offer above market salaries and discuss specific figures early on in the hiring process.<p></p><h3><b>Weâre seeking</b></h3><br>We're looking for a full-time Frontend Engineer to supercharge our presence in the Solana ecosystem and beyond. We need to grow the Streamflow brand to ensure users think of Streamflow first when looking to solve token vesting and payroll on Solana. We are looking for individuals who are here for the long-term, fully committing themselves to being a part of the Streamflow team.<p>If you:<br><ul>
-<li align="left">you can work with at least 4h of overlap with the Central European Timezone</li>
-<li align="left">have 5+ years of professional experience working as a software engineer specialized in client side applications development (working with any of the popular js frameworks)</li>
-<li align="left">have been part of high growth technology start-ups or scale-ups, preferably in the crypto or FinTech space as a dedicated full-time contributor</li>
-</ul><br>It will be a perfect fit if you like:<br><ul>
-<li align="left">To work</li>
-<li align="left">To develop</li>
-<li align="left">To learn (and do it fast)</li>
-<li align="left">To go outside the comfort zone</li>
-<li align="left">To do what is best for the business</li>
-<li align="left">To participate in the construction of processes and organizations from an early stage</li>
-<li align="left">Autonomy and responsibility</li>
-<li align="left">Very ambitious projects</li>
-</ul><br></p><h3><b>Bonus points</b></h3><br>Weâre confident that if you:<br><ul>
-<li align="left">Break React applications (into components, hehe) and have experience in that</li>
-<li align="left">Want to make JS SDK (NPM packages) for other developers</li>
-<li align="left">Like to implement design, not just functionality</li>
-<li align="left">Are interested in Web3 and Solana blockchain</li>
-</ul>youâre more likely to succeed in this role.<p></p><h3><b>Responsibilities</b></h3><br>Responsibilities include:<br><ul>
-<li align="left">Hands-on work on the front end using tools like React, TypeScript, Next.js, Tailwind, Solana Web3.js</li>
-<li align="left">Participate in technical discussions with team members, provide expert opinion and be involved in technical decision making</li>
-<li align="left">Take ownership of key pieces of streamflowâs client side stack and steer them in the right direction</li>
-<li align="left">Work with product and design teams to rapidly build experimental products.</li>
-</ul><br><h3><b>Compensation:</b></h3><br>Salary is negotiable based on previous experience and crypto-native exposure.<p></p><h3><b>Links:</b></h3><br><ul>
-<li align="left"><a class="bbcode-link" href="https://streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">Website</a></li>
-<li align="left"><a class="bbcode-link" href="https://app.streamflow.finance/" target="_blank" rel="noopener noreferrer nofollow">dApp</a></li>
-<li align="left"><a class="bbcode-link" href="https://twitter.com/streamflow_fi" target="_blank" rel="noopener noreferrer nofollow">Twitter</a></li>
-</ul><br><br/><br/>Please mention the word **FREEDOM** and tag RMTguMjA1LjY2LjEwNg== when applying to show you read the job post completely (#RMTguMjA1LjY2LjEwNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4666/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -61,7 +10,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-frontend-engineer-angular-1" align="right" target="_blank">Apply</a>
@@ -135,6 +84,90 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/9305/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OCR Labs</h5>
+                    <h3> Front End Engineer - Full Time</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>60 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0066/9305/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London / Sydney / San Francisco
+    <br /><strong>URL:</strong> <a href="https://ocrlabs.com">https://ocrlabs.com</a>
+</p>
+
+<div> </div><div>
+<strong>Full time – Remote - London / UK Timezone<br></strong><br>
+</div><div>
+<br>Join a new team of passionate engineers and build a world-class platform to fight identity fraud at a global scale.  The technology is awesome, interesting and solves real world problems.</div><div> </div><div><br></div><div>
+<strong>The Position<br></strong><br>
+</div><div>We are looking to add engineers to our team with strong front-end programming experience. You should be well-versed in component-driven development with a working knowledge of HTML, JavaScript, and CSS.  The role would include:</div><div>
+<br>·        Building new product features for both our customers and our product teams</div><div>
+<br>·        Work closely with product managers, designers and backend engineers in order to create innovative and usable solutions</div><div>
+<br>·        Helping shape the technical direction - your choices will become the building blocks of our infrastructure<br><br>
+</div><div>
+<br><br>
+</div><div>
+<strong>Needed qualifications<br></strong><br>
+</div><div>
+<br>Whilst technical competence is critical, we place great emphasis on passion, communication, and collaboration across the business. <br><br>
+</div><div>
+<br>·        You have minimum 3 years of commercial front-end development experience with React, typescript and NodeJS.</div><div>
+<br>·        Minimum 3 years working with complex web applications.<br><br>
+</div><div>·        Proficient in JavaScript ES6, CSS3 and HTML5.</div><div>
+<br>·        Exposure to writing unit, integration and E2E tests</div><div>
+<br>·        Optimising code to effectively run across multiple devices and browsers</div><div>
+<br>·        Strong written and verbal skills</div><div>
+<br>·        You have an In-depth understanding of Javascript, the DOM, and relevant concepts</div><div>
+<br>·        Have a keen eye for UI details</div><div>
+<br>·        Understanding of progressive web apps</div><div>
+<br>·        Experience with webpack, docker, Git and CI/CD</div><div>
+<br>·        Experience in mobile and responsive development<br><br>
+</div><div>
+<br> </div><div><br></div><div>
+<strong>Nice to haves…<br></strong><br>
+</div><div>
+<br>·        Working on a SaaS product (B2B)<br><br>
+</div><div>
+<br>·        Typescript<br><br>
+</div><div>
+<br>·        Experience with RUST<br><br>
+</div><div>
+<br>·        Experience working in a Fintech company<br><br>
+</div><div>
+<br>·        AWS Lambda / Microservices architecture<br><br>
+</div><div>
+<br>·        Any AWS technologies<br><br>
+</div><div> <br><br>
+</div><div><strong>About us </strong></div><div>OCR Labs is an identity verification software company that has developed world leading digital identity verification technology. Our technology eliminates identity fraud and makes sure people are who they say they are.</div><div> </div><div>We’ve built everything from the ground up and have a broad range of top customers across banking, telecommunications, government and more. We are growing very fast and scaling internationally.</div><div> </div><div>The successful candidate can be based remotely but will report to the Product Owner in Sydney. The position is fulltime and remuneration is competitive, based on experience. You’ll need to have good written and spoken English. </div><div> </div><div>
+<br><br>
+</div><h1>Instructions on how to apply </h1><div>Send an email through to devjobs@ocrlabs.com with “I love developing” in the subject. Write a few lines about you and attach your resume.</div><div>
+<br> Add any link you think will help us assess your soft and hard skills. If you peak our interest, we’ll set up an interview and go from there.</div><div>
+<br> <br><br>
+</div><div>
+<br> <br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1">https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1421232/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -145,7 +178,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
