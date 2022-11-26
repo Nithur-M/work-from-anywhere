@@ -1,5 +1,136 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/0dc60c3adf0cbf62aa690ccf86853c861669360525.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Abra</h5>
+                    <h3>Quantitative Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,defi,crypto,cryptocurrency,system,software,testing,financial,bank,cloud,strategy,management,engineering,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-quantitative-developer-abra-154191" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro">
+<p>Abra is on a mission to create a simple and honest crypto bank to enable millions of crypto holders to maximize the potential of their crypto assets. We operate an easy to use app allowing users to earn interest, buy, sell, hold, and trade in cryptocurrencies, in one single place. Our vision is an open, global financial system that is easily accessible to everyone <span style="font-weight:400;">by making cryptocurrency investing simple and accessible. Our growing crypto investing and wealth management platform is used by millions of consumers in over 150 countries and growing! </span></p>
+<p><span style="font-weight:400;">We are growing our team to match our growing user base. This is an opportunity to join a company that is part of the biggest financial revolution in modern history. </span></p>
+</div><p><span style="font-weight:400;">Our Institutional Trading team is looking for a Quantitative Developer who will work hand-in-hand with the trading desk to maintain and develop an execution engine, automate CeFi/DeFi trading strategies, and build monitoring tools while managing our technology infrastructure.  In this role, you will work with the head of trading and co-head of the OTC desk to build cutting-edge infrastructure that will directly impact the trading PnL. This is an attractive opportunity for ambitious devs who want to be part of the action on a trading desk. </span></p>
+<p><strong>What Youâll Do:</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Build a trade execution system connecting to various CeFi and DeFi exchanges</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Develop tools to help the trading desk with pre-trade analysis, such as monitoring dashboards and backtesting systems</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Build post-trade monitoring dashboards for CeFi and DeFi</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Write smart contracts to automate DeFi strategies</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Own, secure and manage Cloud resources</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Liaise with the Engineering team to source software and hardware needed by the team</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Participate and trading strategy discussions and enhance the conversation by offering ideas to improve strategy</span></li>
+</ul>
+<p><strong>About You:</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">3+ years of commercial experience</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Bachelors/Masters/PhD in Computer Science/Engineering/Mathematics and Computing/Physics or similar field</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Strong coding experience in C++/Java, Solidity/Rust, and Python</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Some experience with writing smart contracts </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Excellent software architecture skills, experience, and understanding of software engineering best practices, object oriented design, and software testing methodologies </span></li>
+<li style="font-weight:400;">A self-starter mindset</li>
+<li style="font-weight:400;">Able to identify opportunities to improve trades, executions, and monitoring</li>
+</ul><div class="content-conclusion">
+<p><strong>Benefits: </strong></p>
+<ul>
+<li><span style="font-weight:400;">Globally distributed team (everyone is remote!)</span></li>
+<li><span style="font-weight:400;">Unlimited PTO</span></li>
+<li><span style="font-weight:400;">Medical</span></li>
+<li><span style="font-weight:400;">Dental</span></li>
+<li><span style="font-weight:400;">Vision</span></li>
+<li><span style="font-weight:400;">Basic and supplemental life insurance</span></li>
+<li><span style="font-weight:400;">Short-term and long-term disability</span></li>
+<li><span style="font-weight:400;">401(k)</span></li>
+</ul>
+<p><em><span style="font-weight:400;">At Abra, we are an equal opportunity employer committed to a diverse, inclusive, and equitable workplace and candidate experience. We strive to create an environment where everyone has a sense of belonging and purpose, and where we learn from the unique experiences of those around us. </span></em></p>
+<p><em><span style="font-weight:400;">We encourage all qualified candidates to apply regardless of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender, gender identity or expression, pregnancy or caregiver status, veteran status, or any other legally protected status.</span></em></p>
+</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **AGILE** and tag RMzQuMjM5LjkzLjc0 when applying to show you read the job post completely (#RMzQuMjM5LjkzLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/aa4807726cfc61852ce556f133bd1a9b1669360539.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Flare Network</h5>
+                    <h3>Head of Developer Relations</h3>
+                </td>
+                <td width="300">
+                    <code>developer,design,web3,solidity,ethereum,growth,web,travel,mobile,content,marketing,engineering,fulltime,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-head-of-developer-relations-flare-network-154195" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>This role is remote and location agnostic. Full time or paid via grant.<br>
+This role is suitable for a developer relations expert with an unrelenting & uncompromising passion for truly decentralized and trustless infrastructure. As well as having the chutzpah to design & scale a developer adoption programme with strong support from a stellar engineering team.</p>
+
+<p>Flareâs EVM compatibility means Ethereumâs tooling is readily available & solidity developers will have few problems picking up the code.</p>
+
+<p>As Head of Developer Relations you will become Flareâs leading light amongst the most influential developer communities within Web3 and beyond. You will be backed to the hilt and responsible for leading all developer engagement, hackathons & bounty programmes.</p>
+
+<h3>Your impact:</h3>
+
+<ul>
+        <li>First & foremost, you have a passion for relating to developers.</li>
+        <li>Build the developer relations programme and scale the team required.</li>
+        <li>Working with the Ecosystem Team, strategize the products & programme of content required to fuel rapid developer adoption.</li>
+        <li>Represent Flare Networks at developer conferences and events by leading the execution of Flare Networkâs hackathons.</li>
+        <li>Oversee the participation in all the other major Web 3 hackathons & developer conferences by giving speeches, doing live demos of Flare Networks, and interacting with attendees.</li>
+        <li>Create inspiring product demos, tutorials, and other videos to use for events and marketing.</li>
+        <li>Create and publish technical content that will excite Web 2 & 3 audiences.</li>
+        <li>Manage and grow developer communication channels such as Github & Discord. Moderate discussions across forums in a timely manner.</li>
+        <li>Be an active and respected participant within Ethereum and other major layer 1 protocolâs ecosystems.</li>
+        <li>Clearly communicate complex topics to non-technical audiences, changing the relevant level of complexity for the relevant stakeholders.</li>
+        <li>Respond quickly to conceptual and technical troubleshooting questions (design applications, integration into existing services, deployment and more). Providing strategic end-user feedback to the protocol and product development teams.</li>
+        <li>Always personable and sufficiently empathetic to be able to extrapolate the relevant issues and provide robust easy to comprehend solutions.</li>
+        <li>Collaborate with marketing & partnerships to launch new features & products.</li>
+        <li>Always have a unique growth mindset.</li>
+</ul>
+
+<h3>How to be a stand-out candidate:</h3>
+
+<ul>
+        <li>Passion for layer 1 protocols & EVM bridge growth areas within Web 3.0.</li>
+        <li>Strong presence already within major Web3 communities.</li>
+        <li>Solid public speaking experience.</li>
+        <li>Exemplary interpersonal skills and ability to effectively communicate, build rapport and relate to others.</li>
+        <li>Experience running hackathons or plenty of experience attending high caliber hacks.</li>
+        <li>Typically a min of 6+ years experience working as a developer or evangelist or dev-tools expert.</li>
+        <li>Strong engineering skills; experience in building web and/or mobile applications.</li>
+        <li>Strong technical writing skills; ability to clearly communicate complex ideas and concepts.</li>
+        <li>Social and hustling skills; a desire to get out and meet people.</li>
+        <li>Passion for inspiring and educating fellow developers.</li>
+        <li>Ability to work in a hyper-fast environment.</li>
+        <li>Willingness to travel and work irregular hours when required.</li>
+        <li>Community experience including organizing meetups.</li>
+        <li>Passion for building a developer community around the world and desire to invest your energy to make them better.</li>
+        <li>Experienced with Solidity, Typescript, and/or Golang.</li>
+</ul>
+
+<p>We ask that you overlap some working hours with GMT. English is essential, other languages are a bonus. Fulltime or grants-based arrangement possible. If this is the kind of role that potentially appeals to you, please reach out.</p><br/><br/>Please mention the word **PROSPEROUS** and tag RMzQuMjM5LjkzLjc0 when applying to show you read the job post completely (#RMzQuMjM5LjkzLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/a52403dfef80da348b36a5e3c4ad0f371669274139.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +141,7 @@
                     <code>developer,golang,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-blockchain-developer-kira-network-153689" align="right" target="_blank">Apply</a>
@@ -29,7 +160,7 @@ Requirements:</h3>
         <li>Excellent understanding of Golang and cosmos-sdk with prior experience in blockchain development. </li>
         <li>Strong familiarity with Linux OS,</li>
         <li>Basic familiarity  infrastructure development</li>
-</ul><br/><br/>Please mention the word **EXCITE** and tag RMTguMjA1LjY2LjEwNg== when applying to show you read the job post completely (#RMTguMjA1LjY2LjEwNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **EXCITE** and tag RMzQuMjM5LjkzLjc0 when applying to show you read the job post completely (#RMzQuMjM5LjkzLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -44,7 +175,7 @@ Requirements:</h3>
                     <code>developer,software,code,web,travel,cloud,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-developer-holochain-corenbspteam-holo-152677" align="right" target="_blank">Apply</a>
@@ -145,44 +276,7 @@ Requirements:</h3>
 <p>Holo is an equal-opportunity employer, and we celebrate our diverse, creative, and collaborative team.</p>
 <p></p>
 <p><br><a rel="noopener noreferrer nofollow"><span>Apply Now!</span> <i></i></a></p>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/TPVo0pOB2yQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **THANK** and tag RMTguMjA1LjY2LjEwNg== when applying to show you read the job post completely (#RMTguMjA1LjY2LjEwNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/d68f89babb81c0f88126c75be98835831668928539.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Enya</h5>
-                    <h3>Senior Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,design,crypto,nft,cryptocurrency,ethereum,python,ui,code,web,javascript,cloud,senior,golang,engineer,engineering,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-full-stack-developer-enya-151715" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>Enya, as a core contributor to Boba Network is seeking a Full Stack Web Engineer that will be responsible for helping build our products end-to end, from customer insights through deployment. We're looking for someone who can understand our users (dApp developers and crypto consumers) and design products & systems to best serve their needs. This person will work with UI and graphic designers to bring a vision to life, while also contextualizing the engineering constraints of the product. In addition to being a part of the UI/UX design process, this role will execute on bringing their vision to life. This includes coding the front end of the product, while working with the rest of the engineering team to ensure that the designs fit with the technology of the back end.</div><h4>Responsibilities:</h4><ul>
-<li>Understand the needs of users of Enya's products</li>
-<li>Collaborate with internal and external partners to design the UI/UX of new products, as well as improvements to existing products</li>
-<li>Execute on designs, building out the front and back end of new products</li>
-<li>Develop the web infrastructure to support an expanding suite of products and offerings</li>
-</ul><h4>Requirements:</h4><ul>
-<li>Demonstrated experience building products from the ground up, including design, implementation, and maintenance.</li>
-<li>Must have experience with libraries web3.js/ethers.js and Ethereum nodes</li>
-<li>The ideal candidate will have familiarity with cryptocurrency or decentralized applications, and has been an experienced user or designer of products in the crypto ecosystem.</li>
-<li>Expertise in Javascript/Typescript and using modern Javascript frameworks - Vue, React/Redux</li>
-<li>Expertise in working with backend stacks including NodeJs</li>
-<li>Experience with Golang (and/or Python is a plus) is preferred</li>
-<li>Familiarity with cloud services (AWS, GCP)</li>
-</ul><div><br></div><div><span style="font-size:18px;">About Enya</span></div><div><br></div><div><span style="font-size:11pt;">Enya Labs is a contributor to the Boba Network, a multichain Layer 2 that reduces the barriers of adoption for users and developers. We are empowering Gaming, DeFi, and NFT projects to scale more cost-effectively while delivering a smoother user experience. Boba's Hybrid Compute technology enables developers across the blockchain ecosystem to build dApps that invoke code executed on web-scale infrastructure, making it possible to leverage sophisticated algorithms that are either too expensive or impossible to execute on-chain. </span></div><br/><br/>Please mention the word **BARGAIN** and tag RMTguMjA1LjY2LjEwNg== when applying to show you read the job post completely (#RMTguMjA1LjY2LjEwNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/TPVo0pOB2yQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **THANK** and tag RMzQuMjM5LjkzLjc0 when applying to show you read the job post completely (#RMzQuMjM5LjkzLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -197,7 +291,7 @@ Requirements:</h3>
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote" align="right" target="_blank">Apply</a>
@@ -259,7 +353,7 @@ Requirements:</h3>
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -324,7 +418,7 @@ Requirements:</h3>
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazee-io-frontend-developer-80-100-1" align="right" target="_blank">Apply</a>
@@ -375,168 +469,20 @@ Requirements:</h3>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0075/9084/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>TestGorilla</h5>
-                    <h3> Frontend Engineer (Angular Developer)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>9 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-4" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0075/9084/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Amsterdam, The Netherlands
-    <br /><strong>URL:</strong> <a href="https://www.testgorilla.com/">https://www.testgorilla.com/</a>
-</p>
-
-<div>Hi there,<br><br>
-</div><div>I’m Nicolas, TestGorilla’s Head of Engineering. We’re a fast-growing HR tech startup that helps hiring teams make better hiring decisions faster and bias-free.<br><br>Over the past year, we’ve experienced tremendous growth. More than 7,500 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way.<br><br>
-</div><div>As we scale our efforts in 2022 and beyond, we’re looking for a<strong> Frontend Engineer</strong> who’s passionate about joining our quest to help people land dream jobs.<br><br>
-</div><h1>The proposition</h1><ul>
-<li>Helping shape a fast-growing HR tech startup as an early employee</li>
-<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
-<li>Competitive salary incl. bonus and stock options</li>
-<li>Flexible hours and vacation</li>
-<li>Paid parental leave </li>
-<li>€1000 remote working budget per year</li>
-<li>Learning &amp; development budget of 3.5% of salary</li>
-</ul><div>
-<br><br>
-</div><h1>The role in context</h1><div>We are looking for a<strong> Frontend Engineer</strong> to join our engineering department and help us bring our product to Enterprise level maturity. Your work will directly impact hundreds of thousands of users around the world.</div><div> </div><div>As a member of the engineering team, you will build and deliver frontend solutions to provide extraordinary product experiences for our users, including SPAs and reusable components for the rapid growth of all our products.</div><div> </div><div>You’ll own the design, code, and deployment of solutions and make sure they perform and scale in production. </div><div>
-<br> </div><h1>You’ll spend time on the following</h1><ul>
-<li>Take full <strong>ownership</strong> of the frontend; from low-level optimizations to improving user experience</li>
-<li>Build <strong>reusable</strong> code and libraries for future use</li>
-<li>Ensure the technical feasibility of <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/ux-ui-design-test/">UI/UX designs</a> and propose features and functionalities to the product team</li>
-<li>
-<strong>Optimize</strong> the application for maximum speed and scalability</li>
-<li>Lead the entire <strong>software development and delivery</strong> cycle from ideation to deployment and everything in between</li>
-<li>Efficiently utilize <strong>DevOps</strong> tools and practices to deliver high-quality software as well as value to end customers as early as possible</li>
-<li>Work in a collaborative, talented <strong>distributed team</strong> across Europe, United States, South America, and Asia</li>
-<li>You will act as a <strong>mentor</strong> for less-experienced team members through both your technical knowledge and leadership skills</li>
-</ul><div>
-<br><br>
-</div><h1>Here’s what we’re looking for</h1><ul>
-<li>You are inspired by our mission of putting<em> 1 billion people in dream jobs</em> </li>
-<li> You are fully aligned with our <a href="https://www.testgorilla.com/careers/">values</a>
-</li>
-<li>You have 4-6 years of experience designing, implementing, running, and maintaining production <strong>front-end code</strong> using modern client-side development frameworks based on JS/TS such as <a href="https://www.testgorilla.com/test-library/programming-skills-tests/angular-test/">Angular</a>
-</li>
-<li>You strive for <strong>excellence:</strong> pixel-perfect, high-quality code, and lightning-fast load times</li>
-<li>You care deeply about building a <strong>world-class engineering</strong> team</li>
-<li>You have a solid understanding of<strong> UX/UI design, usability, and accessibility</strong>
-</li>
-<li>You are passionate about improving skills and <strong>learning</strong> new technologies</li>
-<li>You enjoy <strong>influencing others</strong> and always advocate for technical excellence while being open to change</li>
-<li>You’re <strong>resilient</strong> in ambiguous situations and can approach challenges from multiple perspectives</li>
-<li>You have strong written and verbal <strong>communication skills</strong>. You can validate your decisions and communicate them clearly</li>
-</ul><div>
-<br><br>
-</div><h1>Bonus points if ...</h1><ul>
-<li>you have experience in a SaaS product based company</li>
-<li>you are comfortable with Agile methods, such as Extreme Programming (XP), Scrum, and/or Kanban</li>
-<li>you have a working knowledge of cloud technology such as <a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/aws-test/">AWS</a>, Azure, Kubernetes, and Docker </li>
-</ul><div>
-<br><br>
-</div><h1>Interested?</h1><div>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions faster and bias-free. I took one too and I enjoyed it!<br><br>
-</div><div>So if this role sounds like a good fit for you, I’d like you to <a href="https://assessment.testgorilla.com/testtaker/publicinvitation/dfb458d5-b49e-4c93-a830-fdfa210e733f">take an assessment </a>so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product! <br><br>
-</div><div>If you’re hired, I’ll do everything I can to help you succeed at <a href="https://www.testgorilla.com/">TestGorilla</a> and throughout the rest of your career.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-4">https://weworkremotely.com/remote-jobs/testgorilla-frontend-engineer-angular-developer-4</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/3747/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Credit Glory</h5>
-                    <h3> Senior Ruby on Rails Developer</h3>
+                    <h5>Dearman Systems LLC</h5>
+                    <h3> ASP.NET C# Developer or Software Engineer (ASP.NET C#) </h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/credit-glory-senior-ruby-on-rails-developer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/3747/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Henderson, NV
-    <br /><strong>URL:</strong> <a href="http://www.creditglory.com">http://www.creditglory.com</a>
-</p>
-
-<div>
-<strong>About Us<br></strong><br>
-</div><div>We are a fully remote team looking for a proactive and experienced Senior Rails Developer to join our team.</div><div> </div><div>Your responsibilities will include working closely with our CTO &amp; COO to develop new, innovative &amp; exciting features (+ improve existing ones) that help improve our customers’ financial future. </div><div> </div><div>If you enjoy solving complex problems, can work across the whole stack from backend to frontend, and know how to get the job done right the first time, this might be a great position for you.</div><div><br></div><div>
-<br><strong>What We’re Looking For:</strong>
-</div><ul>
-<li>5+ years experience with Ruby on Rails</li>
-<li>Ability to work across the whole stack</li>
-<li>Hotwire and Stimulus.JS experience is a plus</li>
-<li>TailwindCSS experience is a plus as well</li>
-<li>Good experience with testing - both unit, integration, and E2E</li>
-<li>Good working knowledge of SQL and PostgresSQL</li>
-<li>Previous experience working remotely</li>
-<li>Analytical, pro-active &amp; problem-solving skills (along with attention to detail)</li>
-<li>Good written and verbal communication skills</li>
-<li>Ability to receive &amp; administer constructive feedback</li>
-<li>4-hour overlap with CET timezone required.<br><br>
-</li>
-</ul><div><strong>What You’ll Do:</strong></div><ul>
-<li>You’ll work with us to architect, build, deploy, and maintain applications that serve both internal and external users</li>
-<li>Design and develop well-tested code when needed</li>
-<li>Write proof of concept or throwaway code when the situation calls for it</li>
-<li>Increase overall code quality long-term</li>
-</ul><div><strong><br>Examples of Actual Things You Might Work On:</strong></div><ul>
-<li>Building a cost-effective contact centre</li>
-<li>Reconciling different reports to find the source of the truth</li>
-<li>Integrate a 3rd party affiliate API</li>
-<li>Build a new report in Grafana (using SQL queries)</li>
-<li>Build a new sign-up form for a specific marketing campaign</li>
-</ul><div><br></div><div>
-<strong>Pay<br></strong><br>
-</div><div>Starting salary is between $80,000 - $120,000 USD depending on your skills and experience. Earning potential for tenured developers is &gt;=$150,000 + based on tangible value provision.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/credit-glory-senior-ruby-on-rails-developer-1">https://weworkremotely.com/remote-jobs/credit-glory-senior-ruby-on-rails-developer-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sendwave</h5>
-                    <h3> Senior Developer Productivity Engineer (Remote)</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>37 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/sendwave-senior-developer-productivity-engineer-remote" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/dearman-systems-llc-asp-net-csharp-developer-or-software-engineer-asp-net-c" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -545,76 +491,45 @@ Requirements:</h3>
                 
 
 <p>
-  <strong>Headquarters:</strong> Boston, MA
-    <br /><strong>URL:</strong> <a href="https://sendwave.com">https://sendwave.com</a>
+  <strong>Headquarters:</strong> Houston, Tx
+    <br /><strong>URL:</strong> <a href="https://www.dearmansystems.com/">https://www.dearmansystems.com/</a>
 </p>
 
-<div><br></div><div>
-<strong>How we work<br></strong><br>
-</div><div>What we’re most proud of though is our brilliant, creative, and tenacious team. Our remote-first workplace means you’ll be working with Sendwavers in Europe, Africa, South America, and the U.S. that all share a core set of Sendwave values. What exactly are those values? Glad you asked.<br><br>
-</div><ol>
-<li>
-<strong>Prioritize fearlessly.</strong><br>There will always be more problems to solve and opportunities to pursue than we have the capacity for. We’re not afraid to say no and are willing to let fires burn, knowing that to win we must discern and execute decisively on the vital few rather than the important many.</li>
-<li>
-<strong>Take full ownership of the outcomes we’re responsible for.</strong><br>Our job is not to do what we can to solve a problem. It's to ensure that problem is solved. If an attempt to solve a problem doesn't work, we seek an alternative. If we need help, we request it, and, if necessary, demand it.</li>
-<li>
-<strong>Forge a diverse team and inclusive culture.</strong><br>We believe the challenges we’re addressing will be best met by a truly global, diverse team, working together. We’re not naive to the systemic bias and discrimination that make this easier said than done, so we check our egos, listen deeply, and measure progress towards making this a fundamental part of our success.</li>
-<li>
-<strong>Maximize our rate of learning.</strong><br>We view projects as ever-evolving drafts and welcome opportunities to discover that what we had in mind won't work so we can move to an even better end state. Most importantly, we do this fast. The faster we run these loops — as a company and individuals — the faster we’ll achieve our mission.</li>
-<li>
-<strong>Embrace embarrassing honesty from ourselves and others.</strong><br>We function best when we're open and honest with one another — especially about our challenges and doubts. We lean into uncomfortable conversations and support our colleagues when they do the same.</li>
-<li>
-<strong>Maximize energy, not time spent.</strong><br>We measure our own and others’ contributions by objectives reached, not time spent. Living a full life outside of work is necessary for high achievement over the long term.</li>
-</ol><div>
-<br> <br><br>
+<div><strong>ASP.NET C# Developer or Software Engineer (ASP.NET C#) </strong></div><div><br></div><div>
+<strong>About The Role:<br></strong><br>
 </div><div>
-<strong><br>Your key area of focus:<br></strong><br>
-</div><div>A good CI/CD pipeline helps our engineers deliver features quickly, efficiently, and safely to production. A Senior Developer Tooling Engineer at Sendwave aims to apply the same principles to our tooling that supports our wider engineering organization.<br><br>You’ll be working on automating complex processes, reducing manual steps in day-to-day workloads, improving infrastructure health visibility, and improving our engineers' delivery of code. You'll take on the burden of managing how software gets delivered to production and ensuring that our infrastructure just works. In short, you’ll provide leverage for the other engineers at Sendwave to continue making sending money as easy and simple as sending a text.<br><br>
-</div><div><strong><br>In the first few months, you’ll:</strong></div><ul>
-<li>Work on improving our development tools and experience so that engineers can ship work faster.</li>
-<li>Build tools to help increase visibility into more opaque processes and pipelines.</li>
-<li>Create automation for manual tasks, or workflows that span multiple different sources.</li>
-<li>Explore and evaluate third-party or in-house solutions for complex process problems.</li>
-<li>Participate in an on-call rotation to handle problems outside of business hours so that our system is always available to our users</li>
-<li>Uncover bottlenecks in our software delivery process and improve them.</li>
-</ul><div><strong><br>What you bring to the table:</strong></div><ul>
-<li>3+ years of professional experience in DevOps, SRE, Software Development, or an equivalent field.</li>
-<li>Experience working closely with key stakeholders across an organization's development, operations, and business units.</li>
-<li>2+ years working with AWS or Google Cloud.</li>
-<li>Proficient in code deployment tools (Terraform, Puppet, Ansible, Chef)</li>
-<li>Experienced with scripting (Bash, Python)</li>
-<li>Experience working with Git and other CI/CD tools and pipelines.</li>
-</ul><div><strong><br>Bonus points if you:</strong></div><ul>
-<li>Are a creative and flexible problem solver, and interested in finding the best solutions for our particular needs</li>
-<li>Like getting in the weeds and making projects happen</li>
-<li>Are excited about multiple kinds of work and want to help out where it’s needed</li>
-<li>Are comfortable defaulting to over-communication and overreaching when it comes to coordination.</li>
-<li>Adjust quickly to changing priorities and conditions and cope effectively with complexity and change.</li>
-<li>Have created BI dashboards and tooling in a previous role.</li>
-<li>Have experience with Load/Stress testing and tools.</li>
-<li>Have experience with service-based architectures.</li>
-</ul><div><strong><br>Key Details:</strong></div><ul>
-<li>Location: Our company is 100% remote. This is a permanent position and you can be based anywhere in the United States, Canada, United Kingdom, Germany, France, or Belgium.</li>
-<li>Competitive compensation package</li>
-<li>Major benefits:</li>
-<li>Subsidized health insurance and retirement contribution matching (both vary from country to country)</li>
-<li>26 weeks of fully paid parental leave and subsidized fertility assistance</li>
-<li>Unlimited vacation with a 20-day <em>minimum</em> requirement</li>
-<li>$10,000 annual charitable donation matching</li>
-</ul><div><strong><br>And best of all:</strong></div><ul>
-<li>Our team of over 400 employees is fully distributed across the world. We are working from coffee shops, homes, and co-working spaces — making us one of the larger fully distributed growth-stage startups in the world.</li>
-<li>We are proud parents, community organizers, farmers, band members, yoga teachers, YouTube influencers, former Olympians, and serial entrepreneurs.</li>
-<li>We collectively speak over twenty languages, including Akuapem, Amharic, Bengali, Ewe, Fante, Ga, Igbo, Kalenjin, Luganda, Oromo, Somali, Swahili, Wolof, Bulgarian, Croatian, Czech, Danish, Dutch, English, Estonian, Finnish, French, German, Greek, Hungarian, Irish, Italian, Latvian, Lithuanian, Maltese, Polish, Portuguese, Romanian, Slovak, Slovenian, Spanish and Swedish.</li>
-<li>We recently joined forces with WorldRemit, another remittance company. We’re excited about the ways we can collaborate and continue to provide the best service to our users.</li>
-</ul><div>
-<strong><br>Ready to apply?<br></strong><br>
+<strong>In this role, you will be a developer for our LYNX web application.<br></strong><br>
 </div><div>
-<br>Applications will be reviewed on a rolling basis. If interested, please submit your resume along with a cover letter highlighting why your experience demonstrates you meet the requirements of the role. Please also indicate the countries in which you have work authorization.<br><br>
+<strong>This role is remote and you can be located anywhere in the world.<br></strong><br>
 </div><div>
-<strong><em><br>Confidence can sometimes hold us back from applying for a job. But we'll let you in on a secret: there's no such thing as a 'perfect' candidate. Sendwave is a place where everyone can thrive. So however you identify and whatever background you bring with you, please apply if this is a role that would make you excited to wake up every day.<br></em></strong><br>
+<br><br>
+</div><div>
+<strong>Key Responsibilities:<br></strong><br>
+</div><div>
+<strong>- Integrate 3rd party APIs for billing and contract management<br></strong><br>
+</div><div>
+<strong>- Track and communicate task progress and status to project manager on a regular basis<br></strong><br>
+</div><div>
+<strong>- Work with project manager to estimate future project efforts<br></strong><br>
+</div><div>
+<br><br>
+</div><div>
+<strong>Qualifications:<br></strong><br>
+</div><div>
+<strong>- Experience and proficiency in ASP.Net and C# using the Microsoft Visual Studio IDE (Required)<br></strong><br>
+</div><div>
+<strong>- Experience with cloud architecture, preferably Azure<br></strong><br>
+</div><div>
+<strong>- Relational database experience, MS SQL Server (Preferred)<br></strong><br>
+</div><div>
+<strong>- Working knowledge of Git source control system (Preferred)<br></strong><br>
+</div><div>
+<strong>- Bachelor's degree in Computer Science or related discipline or related work experience <br></strong><br>
+</div><div>
+<strong>- 5-10 years of experience is preferred<br></strong><br>
 </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sendwave-senior-developer-productivity-engineer-remote">https://weworkremotely.com/remote-jobs/sendwave-senior-developer-productivity-engineer-remote</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/dearman-systems-llc-asp-net-csharp-developer-or-software-engineer-asp-net-c">https://weworkremotely.com/remote-jobs/dearman-systems-llc-asp-net-csharp-developer-or-software-engineer-asp-net-c</a></p>
 
                 </details>
                 </td>
@@ -630,7 +545,7 @@ Requirements:</h3>
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>66 days ago</text>
+                <text>67 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-backend-developer-java" align="right" target="_blank">Apply</a>
@@ -706,176 +621,69 @@ Requirements:</h3>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6914/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1446640/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Front-end Developer</h3>
+                    <h5>Creable</h5>
+                    <h3>Full Stack Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Front-End Programming</code>
+                    <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>73 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6914/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><br></div><div><strong>The Role:</strong></div><div>We are searching for a Senior Front-End Developer (Angular.js/React.js). You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years experience with React.js/Angular.js;</li>
-<li>You follow best practices and conventions;</li>
-<li>Relevant experience in CI/CD and related tools;</li>
-<li>Responsible and able to work with minimal supervision;</li>
-<li>Upper-intermediate English level;</li>
-<li>You can communicate well with both technical and non-technical clients.</li>
-</ul><div>
-<strong><br>Nice-to-have:</strong> <br><br>
-</div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Basic back-end knowledge for minor back-end jobs where necessary.</li>
-</ul><div>
-<strong><br>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Build reusable code and libraries for future use;</li>
-<li>Ensure the technical feasibility of UI/UX designs;</li>
-<li>Transform visual designs and wireframes into working products;</li>
-<li>Accurate planning of the feature delivery;</li>
-<li>Collaborate with other team members and stakeholders</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.🚀 <strong>360 degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/7400/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>A.Team</h5>
-                    <h3> Senior Independent Software Developer ($110-$190/hr)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>483 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/7400/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> NYC, SF, and TLV
-    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
-</p>
-
-<div>
-<a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
-<li>
-<strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
-<li>
-<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
-<li>
-<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
-<li>
-<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
-<li>
-<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
-</ul><div>
-<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
-</div><ul>
-<li>Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would.</li>
-<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
-<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is for:</strong>
-</div><ul>
-<li>Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
-<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
-<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
-</ul><div>
-<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
-</div><ul>
-<li>People looking for small gigs.</li>
-<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
-<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
-</ul><div>
-<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrfastrackreferral">A·Team</a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
-<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1499543/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SD Solutions</h5>
-                    <h3>Affogata | Senior Front-End Developer</h3>
-                </td>
-                <td width="300">
-                    <code>backend,developer,frontend,mobile</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/affogata-senior-front-end-developer-1499543" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>On behalf of<strong><a href="https://www.affogata.com/" rel="nofollow"> Affogata</a></strong>, SD Solutions is looking for a <strong>Senior</strong> <strong>Frontend Developer</strong> for expanding the R&amp;D team.<br></p>
-<p><em>SD Solutions is a staffing company operating globally. Contact us to get more details about the benefits we offer.</em><br></p>
-<p><strong>Responsibilities:</strong></p>
-<ul><li>Lead the frontend development of our web application.</li><li>Collaborate with back-end developers and web designers to improve usability.</li><li>Take part of technical design decisions with the backend team and the product team.</li><li>Optimize the application for maximum speed and responsiveness.</li><li>Help back-end developers with coding and troubleshooting.</li><li>Ensure high quality visual standards.</li></ul>
-<p><strong>Requirements:</strong><br></p>
-<ul><li><strong>5+ years of </strong><strong>Vue.JS experience - a must.</strong><em><br>(Can be 2 years Vue + the rest React/Angular).</em></li><li>At least 5 years of experience in working on web applications in various capacities.</li><li>Working with HTTP backend APIs, familiarity with deployment issues, CORS, etc.</li><li>Frontend debugging and optimization experience (using Web Dev tools, etc).</li><li>Team player – works well with all the stakeholders (Product, Design, Backend).</li></ul>
-<p><strong>Advantages: </strong><br></p>
-<ul><li>Experience with mobile first design.</li></ul>
-<ul></ul>
-<p><strong>About the company:</strong><br>Our product is a B2B SaaS product, used by large business customers to make a difference in how they engage with their own customers, learn from them, and operate better in a fast-moving market. We deal with complex and fascinating data and interaction applications, and our customers and users are top-notch. Customer-obsession is in our DNA, and we need people to fit right into that.<br></p>
-<img src="https://remotive.com/job/track/1499543/blank.gif?source=public_api" alt=""/>
+                <p><strong>About Creable</strong></p>
+<p>Hi there ✋</p>
+<p>At Creable (<a href="https://creable.com" rel="nofollow">https://creable.com</a>) we're building the world's biggest real-time Influencer database across all relevant Social Media platforms (YouTube, Instagram, TikTok, Facebook) with more (Twitch, Snapchat, Spotify, Twitter, LinkedIn, etc.) coming soon!</p>
+<p>Our software helps Creators &amp; Managers find high-quality Brand Deals and Brands to find the highest ROI Influencers.</p>
+<p><strong> </strong></p>
+<p><strong>What you’ll do</strong></p>
+<ul>
+<li>Discuss the weekly sprint with the dev. team every Monday morning</li>
+<li>Research, implement and test solutions for your assigned weekly tasks</li>
+<li>Implement beautiful and delightful UIs with Next.js, React, and Typescript that are responsive across all modern platforms</li>
+<li>Review PRs </li>
+<li>Write E2E tests</li>
+<li>Write serverless functions and scalable REST APIs</li>
+</ul>
+<p> </p>
+<p><strong>How we work</strong></p>
+<ul>
+<li>We plan weekly sprints on Friday and manage them in Linear</li>
+<li>We use Notion for documentation (notes, research)</li>
+<li>We (internally) communicate via Slack</li>
+<li>We use Loom for video recordings and to avoid meetings</li>
+<li>When we have meetings we use either Zoom or Google Meet</li>
+<li>We design in Figma</li>
+</ul>
+<p> </p>
+<p><strong>Tech Stack</strong><strong><br></strong></p>
+<ul>
+<li>React &amp; Next.js</li>
+<li>Tailwind CSS<strong><br></strong></li>
+<li>Firebase (DB, Auth, Storage)</li>
+<li>Vercel</li>
+</ul>
+<p> </p>
+<p><strong>Job requirements</strong></p>
+<ul>
+<li>At least 5 years of professional development experience</li>
+<li>Very good oral and written English</li>
+<li>Strong communication skills via text and audio/video</li>
+<li>Strong work-ethic, ambition and will to get sh*t done together with your team</li>
+<li>Positive can-do attitude</li>
+<li>Proficient in our Tech Stack</li>
+<li>Full-time commitment to Creable (no part-time work or commitment to other projects)</li>
+</ul>
+<img src="https://remotive.com/job/track/1446640/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -890,7 +698,7 @@ Requirements:</h3>
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -959,7 +767,7 @@ Requirements:</h3>
                     <code>api,developer,ios,mobile</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ios-developer-1497219" align="right" target="_blank">Apply</a>
@@ -1015,7 +823,7 @@ Requirements:</h3>
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1092,7 +900,7 @@ Requirements:</h3>
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1118,7 +926,7 @@ Requirements:</h3>
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
