@@ -31,7 +31,7 @@
 <li>Experience building SDKs, APIs, or otherwise building and maintaining a production system at scale.</li>
 <li>Experience with AWS, GCP or similar cloud providers</li>
 <li>Desire to keep up with modern best practices in software development and crypto, and shape our tech stack as we build out new systems and services</li>
-</ul><div>Our benefits include competitive compensation, early stage equity allocations, team outings, wellness stipends, 401k with employer matching (for US employees), unlimited PTO, medical, dental, and vision insurance. In addition, you'll join a team of high caliber engineers who are innovating at the frontier of crypto that all work collaboratively to help one another accelerate their growth.</div><div><br></div><div>We are a mission driven company. We believe deeply that through software engineering we can build a self-sovereign society. In our day to day, we make decisions based upon our company values of Individual Autonomy, Long-Term Orientation and Open Access.</div><div><br></div><div>The future belongs to all of us, independent of our origins. Rift is an equal opportunity employer and does not discriminate on the basis of race, religion, color, sexual orientation, gender or any other status protected under federal, state or local law.   We celebrate diversity and inclusion among our team mates and seek to hire talent that will add to our culture.</div><br/><br/>Please mention the word **FLEXIBILITY** and tag RMTguMjA2LjkwLjEy when applying to show you read the job post completely (#RMTguMjA2LjkwLjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>Our benefits include competitive compensation, early stage equity allocations, team outings, wellness stipends, 401k with employer matching (for US employees), unlimited PTO, medical, dental, and vision insurance. In addition, you'll join a team of high caliber engineers who are innovating at the frontier of crypto that all work collaboratively to help one another accelerate their growth.</div><div><br></div><div>We are a mission driven company. We believe deeply that through software engineering we can build a self-sovereign society. In our day to day, we make decisions based upon our company values of Individual Autonomy, Long-Term Orientation and Open Access.</div><div><br></div><div>The future belongs to all of us, independent of our origins. Rift is an equal opportunity employer and does not discriminate on the basis of race, religion, color, sexual orientation, gender or any other status protected under federal, state or local law.   We celebrate diversity and inclusion among our team mates and seek to hire talent that will add to our culture.</div><br/><br/>Please mention the word **FLEXIBILITY** and tag RMy44Mi4yNi4xNTQ= when applying to show you read the job post completely (#RMy44Mi4yNi4xNTQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -98,7 +98,7 @@
 <li>Team offsites for periodic in-person collaborative strategy sessions</li>
 <li>Passionate, supportive team dedicated to learning and growing together in web3</li>
 </ul>
-</div><br/><br/>Please mention the word **SWANKIER** and tag RMTguMjA2LjkwLjEy when applying to show you read the job post completely (#RMTguMjA2LjkwLjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **SWANKIER** and tag RMy44Mi4yNi4xNTQ= when applying to show you read the job post completely (#RMy44Mi4yNi4xNTQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -113,7 +113,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
@@ -201,7 +201,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
