@@ -32,7 +32,7 @@ As a Nimble Engineer, you will help in architecting the technology and customer 
 
 At Nimble, we are dedicated to putting patients first and improving pharmacies across America. Join us on this exciting journey!
 
-Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and inclusive work environment where we learn from each other. We pride ourselves on being an equal opportunity employer and welcome people of diverse backgrounds, abilities and perspectives.<br/><br/>Please mention the word **STIMULATIVE** and tag RNzUuMTAxLjIxMi4zOA== when applying to show you read the job post completely (#RNzUuMTAxLjIxMi4zOA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and inclusive work environment where we learn from each other. We pride ourselves on being an equal opportunity employer and welcome people of diverse backgrounds, abilities and perspectives.<br/><br/>Please mention the word **STIMULATIVE** and tag RNDQuMjAwLjE5MS4xMjI= when applying to show you read the job post completely (#RNDQuMjAwLjE5MS4xMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -47,7 +47,7 @@ Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and i
                     <code>software,web3,front-end,javascript,health,engineer,engineering,full-time</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-utopia-labs-154190" align="right" target="_blank">Apply</a>
@@ -79,7 +79,7 @@ Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and i
 <li>Experience writing smart contracts </li>
 <li>Demonstrated interest in open and community-driven platforms.</li>
 </ul><div><span style="font-size:24px;">Perks & Benefits</span></div><div><br></div><div><span style="font-size:18px;">ð Health and wellbeing</span></div><div>We offer top-of-the-line benefits, including health, mental health, dental, and vision insurance.</div><div><br></div><div><span style="font-size:18px;">ð´ Time off</span></div><div>We want people to take time off to rest and rejuvenate. We offer a 3 week paid vacation as well as 10 observed holidays by country.</div><div><br></div><div><span style="font-size:18px;">ð£ Parental leave</span></div><div>Our parental leave policy offers biological, adoptive, and foster parents paid time off to spend quality time with family.</div><div><br></div><div><span style="font-size:18px;">ð¥ Lunch on us</span></div><div>You'll have a very generous meal budget for you to eat every day.</div><div><br></div><div><span style="font-size:18px;">ð Commuting</span></div><div>We offer monthly commuter credits.</div><div><br></div><div><br></div><div><span style="font-size:24px;">Any Questions?</span></div><div><br></div><div>Email: pryce@utopialabs.com</div><div><br></div><div>Twitter: <a href="https://twitter.com/pryceandstuff" class="postings-link" rel="noopener noreferrer nofollow">https://twitter.com/pryceandstuff</a>
-</div><div><br></div><br/><br/>Please mention the word **REMUNERATE** and tag RNzUuMTAxLjIxMi4zOA== when applying to show you read the job post completely (#RNzUuMTAxLjIxMi4zOA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><div><br></div><br/><br/>Please mention the word **REMUNERATE** and tag RNDQuMjAwLjE5MS4xMjI= when applying to show you read the job post completely (#RNDQuMjAwLjE5MS4xMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -94,7 +94,7 @@ Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and i
                     <code>solidity,software,design,web3,ethereum,testing,test,manager,senior,golang,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-solidity-obol-labs-154201" align="right" target="_blank">Apply</a>
@@ -134,7 +134,7 @@ Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and i
 <li>Opportunity to collaborate with industry leading validators</li>
 <li>Opportunity to collaborate with Ethereum core client teams</li>
 <div><br></div>
-</ul><div>ð°ï¸ In order to scale efficiently, we focus our hiring on candidates able to work during the standard business hours of the following timezones: GMT-8 to GMT+3. </div><div>This does not mean that you have to be located in these timezones to get the job but must be able to work the bulk of your time during their standard business hours.</div><div><br></div><div>â ï¸ This role has been hired for but we are keeping the application open as we are growing fast and are always open to great talent â ï¸</div><br/><br/>Please mention the word **VIRTUE** and tag RNzUuMTAxLjIxMi4zOA== when applying to show you read the job post completely (#RNzUuMTAxLjIxMi4zOA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>ð°ï¸ In order to scale efficiently, we focus our hiring on candidates able to work during the standard business hours of the following timezones: GMT-8 to GMT+3. </div><div>This does not mean that you have to be located in these timezones to get the job but must be able to work the bulk of your time during their standard business hours.</div><div><br></div><div>â ï¸ This role has been hired for but we are keeping the application open as we are growing fast and are always open to great talent â ï¸</div><br/><br/>Please mention the word **VIRTUE** and tag RNDQuMjAwLjE5MS4xMjI= when applying to show you read the job post completely (#RNDQuMjAwLjE5MS4xMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
