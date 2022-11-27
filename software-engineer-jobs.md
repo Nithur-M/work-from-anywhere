@@ -1,5 +1,42 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/8ab4dab9983c97e68d323fb9a99841121669374006.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>NimbleRx</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,front-end,developer,engineer,engineering,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-nimblerx-154283" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                NimbleRxÂ is a technology company that enables people to live their best lives by improving access to reliable, affordable healthcare. Our mission is to bring pharmacies into the future by building a convenient and easy-to-use service that supports pharmacists and empowers patients. We are a fast-growing, technology-first startup doing over $1 billion in GMV annually, and our team stays rooted in a patient-first mentality; we aim to bring all of our patients convenient access to reasonably-priced medications without ever needing to step foot in a pharmacy.
+
+Our Engineering culture: We operate with shared trust and no egos. We enjoy being âin this togetherâ to collaborate on the challenges of a rapidly scaling business, daily living out our company values of High Ownership, Burning Curiosity, and Bias for Action.Â 
+
+As a Nimble Engineer, you will help in architecting the technology and customer experience that run Nimble (www.nimblerx.com). You will join a team of world-class, highly motivated software engineers to deliver front-end patterns and practices that ensure developer productivity, a great end-user experience, and a performant website. If you have the aspirations to help drive technical direction, take on technical challenges and design life changing features, come join us!Â 
+
+#LI-Remote
+
+
+
+
+At Nimble, we are dedicated to putting patients first and improving pharmacies across America. Join us on this exciting journey!
+
+Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and inclusive work environment where we learn from each other. We pride ourselves on being an equal opportunity employer and welcome people of diverse backgrounds, abilities and perspectives.<br/><br/>Please mention the word **STIMULATIVE** and tag RMTguMjA2LjkwLjEy when applying to show you read the job post completely (#RMTguMjA2LjkwLjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/e6ba0f559c9a82a877f711299b546c251669360523.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +47,7 @@
                     <code>software,web3,front-end,javascript,health,engineer,engineering,full-time</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-utopia-labs-154190" align="right" target="_blank">Apply</a>
@@ -42,7 +79,7 @@
 <li>Experience writing smart contracts </li>
 <li>Demonstrated interest in open and community-driven platforms.</li>
 </ul><div><span style="font-size:24px;">Perks & Benefits</span></div><div><br></div><div><span style="font-size:18px;">ð Health and wellbeing</span></div><div>We offer top-of-the-line benefits, including health, mental health, dental, and vision insurance.</div><div><br></div><div><span style="font-size:18px;">ð´ Time off</span></div><div>We want people to take time off to rest and rejuvenate. We offer a 3 week paid vacation as well as 10 observed holidays by country.</div><div><br></div><div><span style="font-size:18px;">ð£ Parental leave</span></div><div>Our parental leave policy offers biological, adoptive, and foster parents paid time off to spend quality time with family.</div><div><br></div><div><span style="font-size:18px;">ð¥ Lunch on us</span></div><div>You'll have a very generous meal budget for you to eat every day.</div><div><br></div><div><span style="font-size:18px;">ð Commuting</span></div><div>We offer monthly commuter credits.</div><div><br></div><div><br></div><div><span style="font-size:24px;">Any Questions?</span></div><div><br></div><div>Email: pryce@utopialabs.com</div><div><br></div><div>Twitter: <a href="https://twitter.com/pryceandstuff" class="postings-link" rel="noopener noreferrer nofollow">https://twitter.com/pryceandstuff</a>
-</div><div><br></div><br/><br/>Please mention the word **REMUNERATE** and tag RMzQuMjM5LjkzLjc0 when applying to show you read the job post completely (#RMzQuMjM5LjkzLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><div><br></div><br/><br/>Please mention the word **REMUNERATE** and tag RMTguMjA2LjkwLjEy when applying to show you read the job post completely (#RMTguMjA2LjkwLjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -57,7 +94,7 @@
                     <code>solidity,software,design,web3,ethereum,testing,test,manager,senior,golang,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-solidity-obol-labs-154201" align="right" target="_blank">Apply</a>
@@ -97,60 +134,7 @@
 <li>Opportunity to collaborate with industry leading validators</li>
 <li>Opportunity to collaborate with Ethereum core client teams</li>
 <div><br></div>
-</ul><div>ð°ï¸ In order to scale efficiently, we focus our hiring on candidates able to work during the standard business hours of the following timezones: GMT-8 to GMT+3. </div><div>This does not mean that you have to be located in these timezones to get the job but must be able to work the bulk of your time during their standard business hours.</div><div><br></div><div>â ï¸ This role has been hired for but we are keeping the application open as we are growing fast and are always open to great talent â ï¸</div><br/><br/>Please mention the word **VIRTUE** and tag RMzQuMjM5LjkzLjc0 when applying to show you read the job post completely (#RMzQuMjM5LjkzLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/28564fa6911d3141abc797ba2a62f0d31669187757.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Obol Labs</h5>
-                    <h3>Senior Software Engineer GoLang</h3>
-                </td>
-                <td width="300">
-                    <code>software,design,web3,solidity,ethereum,test,senior,golang,engineer,engineering,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-golang-obol-labs-153180" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size:24px;">Who Are We?</b></div><div><br></div><div>Obol Labs is a remote-first research and software development team focused on Proof of Stake infrastructure for public blockchain networks. Specific topics of focus are Internet Bonds, Distributed Validator Technology, and Multi-Operator Validation. The core team includes 14 members spread across 8 countries.</div><div><br></div><div>The core team is building the Obol Network, a protocol to foster trust-minimized staking through multi-operator validation. This will enable low-trust access to Ethereum staking yield, which can be used as a core building block in various Web3 products.</div><div><br></div><div><b style="font-size:18px;">The Network</b></div><div><br></div><div>The network can be best visualized as a work layer that sits directly on top of the base layer consensus. This work layer is designed to provide the base layer with more resiliency and decentralization as it scales. In this chapter of Ethereum, we will move on to the next great scaling challenge, which is stake centralization. Layers like Obol are critical to the long-term viability and resiliency of public networks, especially networks like Ethereum.</div><div><br></div><div>Obol as a layer is focused on scaling main chain staking by providing permissionless access to Distributed Validators. The network utilizes a middleware implementation of Distributed Validator Technology (DVT), to enable the operation of distributed validator clusters that can preserve validators' current client and remote signing configurations.</div><div><br></div><div>Similar to how roll-up technology laid the foundation for L2 scaling implementations, we believe DVT will do the same for scaling the consensus layer while preserving decentralization. Staking infrastructure is entering its protocol phase of evolution, which must include trust-minimized staking networks that can be plugged into at scale. We believe DVT will evolve into a widely used primitive and will ensure the security, resiliency, and decentralization of public networks.</div><div><br></div><div><span style="font-size:11pt;">The Obol Network develops and maintains four core public goods that will eventually work together through circular economics:</span></div><div><br></div><div>
-<b style="font-size:11pt;">The DV Launchpad</b><span style="font-size:11pt;">, a User Interface for bootstrapping and managing Distributed Validators</span>
-</div><div><br></div><div>
-<b style="font-size:11pt;">Charon,</b><span style="font-size:11pt;"> a middleware Golang client that enables validators to run in a fault-tolerant, distributed manner</span>
-</div><div><br></div><div>
-<b style="font-size:11pt;">Obol Managers</b><span style="font-size:11pt;">, a set of solidity libraries for the formation of Distributed Validators tailored to different use cases such as DeFi, Liquid Staking, and Fractionalized Deposits </span>
-</div><div><br></div><div>
-<b style="font-size:11pt;">Obol Testnets</b><span style="font-size:11pt;">, a set of ongoing public </span><span style="font-size:14.6667px;">incentivized</span><span style="font-size:11pt;"> testnets that enable any sized operator to test their deployment before serving for the Ethereum Main net</span>
-</div><div><br></div><div><b style="font-size:18px;">Sustainable Public Goods</b></div><div><br></div><div>Obol is inspired by previous work on Ethereum public goods and experimenting with circular economics. We believe that to unlock innovation in staking use cases, a credibly neutral layer must exist for innovation to flow and evolve vertically. Without this layer, highly available uptime will continue to be a moat.</div><div><br></div><div>The Obol Network will become an open, community-governed, self-sustaining project over the coming months and years. Together we will incentivize, build, and maintain distributed validator technology that makes public networks a more secure and resilient foundation to build on top of.</div><div><br></div><div><b style="font-size:24px;">Senior Software Engineer, GoLang</b></div><div><br></div><div><span style="font-size:10pt;">Senior Software Engineers are polymaths with experience across all layers of the technology stack. This role is responsible for driving the direction of the Obol DVT implementation(s) from early architecture and design documents, to performance tuning and scaling and building up a professional engineering team in the process. At Obol we are stripping Ethereum clients down to their fundamentals and rebuilding them in a highly-available by default, byzantine tolerant architecture, capable of being run by multiple operators. This project will push the envelope on distributed systems and coordination via smart contracts beyond what has been seen in the space to date.</span></div><p></p><h4>Responsibilities</h4><p></p><p></p><ul>
-<li>Developing open source public goods for permissionless networks</li>
-<li>Start and grow a professional engineering department within Obol</li>
-<li>Work with advisors and stakeholders to develop Obol products</li>
-<li>Solve technical problems of the highest scope, complexity, and ambiguity with autonomy</li>
-<li>Play a central role in technical, business, and organizational contributions</li>
-<li>Management and responsibility for Technical milestones and development teams</li>
-<li>Interview technical hires</li>
-<li>Present key technical findings and solutions to the Obol core team</li>
-<li>Build GoLang based HTTP clients, servers and validators</li>
-<li>Build web-related infrastructure for supporting our testnets and production deployments</li>
-<div><br></div>
-</ul><p></p><h4>What you will like about us</h4><p></p><p></p><ul>
-<li>Solving groundbreaking problems in distributed cryptography and cryptoeconomics</li>
-<li>Competitive compensation and benefits</li>
-<li>Twice annual Global Off-sites</li>
-<li>Annual opportunity to attend DevCon (or a blockchain conference of choice)</li>
-<li>Opportunity to collaborate with industry leading cryptography researchers and advisors</li>
-<li>Opportunity to collaborate with industry leading validators</li>
-<li>Opportunity to collaborate with Ethereum core client teams</li>
-<div><br></div>
-</ul><div>ð°ï¸ In order to scale efficiently, we focus our hiring on candidates able to work during the standard business hours of the following timezones: GMT-8 to GMT+3. </div><div>This does not mean that you have to be located in these timezones to get the job but must be able to work the bulk of your time during their standard business hours.</div><br/><br/>Please mention the word **SWANKY** and tag RMzQuMjM5LjkzLjc0 when applying to show you read the job post completely (#RMzQuMjM5LjkzLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>ð°ï¸ In order to scale efficiently, we focus our hiring on candidates able to work during the standard business hours of the following timezones: GMT-8 to GMT+3. </div><div>This does not mean that you have to be located in these timezones to get the job but must be able to work the bulk of your time during their standard business hours.</div><div><br></div><div>â ï¸ This role has been hired for but we are keeping the application open as we are growing fast and are always open to great talent â ï¸</div><br/><br/>Please mention the word **VIRTUE** and tag RMTguMjA2LjkwLjEy when applying to show you read the job post completely (#RMTguMjA2LjkwLjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -165,7 +149,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -227,7 +211,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
