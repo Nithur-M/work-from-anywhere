@@ -1,5 +1,41 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/a3835a1494d43aca2eeb4c264cb1b1ed1669446970.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Rift Finance</h5>
+                    <h3>Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>design,web3,crypto,system,software,test,code,finance,cloud,go,engineer,engineering,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-rift-finance-154727" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b>About Rift</b></div><div><br></div><div>We are a remote-first, global company. We are hiring internationally. </div><div><br></div><div>The internet gave us freedom of information. Crypto gives us economic freedom. Come help us combine these technologies so that every human across the world can achieve freedom and opportunity no matter where they were born.</div><div><br></div><div>Through combining our long-term vision for how these technologies will impact society with consistent, pragmatic execution our team of 5 built a platform that has already processed over $70M leading to our $18M fundraise from top investors including Pantera, Two Sigma Ventures, Coinbase Ventures alongside angel investors including Stani Kulechov (founder of Aave), Sandeep Nailwal (cofounder of Polygon) and more.</div><div><br></div><div>If you are looking to join a passionate, motivated team and leverage your engineering abilities to develop software that levels the playing field for people across the globe join us at Rift. Weâre building a future that re-centers the individual in the internet.</div><div><br></div><div><span style="font-size:18px;">About the Role</span></div><div><br></div><div>Backend engineers are responsible for the design and implementation of foundational components of the Rift protocol stack while also having responsibilities to collaborate with the wider engineering team to improve our overall architecture and code quality.</div><p></p><h4>Responsibilities:</h4><p></p><p></p><ul>
+<li>Build, maintain and test high performance Web3 REST & WebSocket APIs to power communications in our distributed systems.</li>
+<li>Write performant SDKs and documentations enabling clients to interact with the Web3 APIs</li>
+<li>Detect and improve performance, stability for microservices</li>
+<li>Dockerize and provide microservice deployment guidance for DevOps</li>
+</ul><p></p><h4></h4><p></p><p></p><ul>
+<li>3-7 years of experience in a backend software engineering role.</li>
+<li>Significant experience with a systems language like Go (preferred), Rust, or C++</li>
+<li>Extensive experience managing the software development life cycle for medium to large projects</li>
+<li>Experience building SDKs, APIs, or otherwise building and maintaining a production system at scale.</li>
+<li>Experience with AWS, GCP or similar cloud providers</li>
+<li>Desire to keep up with modern best practices in software development and crypto, and shape our tech stack as we build out new systems and services</li>
+</ul><div>Our benefits include competitive compensation, early stage equity allocations, team outings, wellness stipends, 401k with employer matching (for US employees), unlimited PTO, medical, dental, and vision insurance. In addition, you'll join a team of high caliber engineers who are innovating at the frontier of crypto that all work collaboratively to help one another accelerate their growth.</div><div><br></div><div>We are a mission driven company. We believe deeply that through software engineering we can build a self-sovereign society. In our day to day, we make decisions based upon our company values of Individual Autonomy, Long-Term Orientation and Open Access.</div><div><br></div><div>The future belongs to all of us, independent of our origins. Rift is an equal opportunity employer and does not discriminate on the basis of race, religion, color, sexual orientation, gender or any other status protected under federal, state or local law.   We celebrate diversity and inclusion among our team mates and seek to hire talent that will add to our culture.</div><br/><br/>Please mention the word **FLEXIBILITY** and tag RMTguMjA2LjkwLjEy when applying to show you read the job post completely (#RMTguMjA2LjkwLjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/472b5898f55d71ca9c4a5e9d51f106761669360516.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +46,7 @@
                     <code>web3,react,graphql,redis,system,strategy,health,engineer,backend</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-mirror-154188" align="right" target="_blank">Apply</a>
@@ -62,93 +98,7 @@
 <li>Team offsites for periodic in-person collaborative strategy sessions</li>
 <li>Passionate, supportive team dedicated to learning and growing together in web3</li>
 </ul>
-</div><br/><br/>Please mention the word **SWANKIER** and tag RMzQuMjM5LjkzLjc0 when applying to show you read the job post completely (#RMzQuMjM5LjkzLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/30936f8adf0effffe6131cc393d634601669014936.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Syndica</h5>
-                    <h3>Senior Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>design,saas,developer,code,web,cloud,node,lead,senior,operational,engineer,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-syndica-152215" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="row mb-4">
-<div class="col">
-<p> </p>
-<p><span style="font-weight:400;">Syndica is a developer infrastructure company building the cloud of web3. We are dedicated to building developer infrastructure that just works. Syndica offers highly scalable RPC node infrastructure, with advanced logging and analytics.</span></p>
-<p><span style="font-weight:400;">We are backed by strategic partners, investors, and advisors who are all-in on our mission: Chamath of Social Capital, Sam Bankman-Fried of Alameda Research, Solana Ventures, and many more.</span></p>
-<p><span style="font-weight:400;">This role will have the primary accountability of designing, implementing, and operating Syndicaâs blockchain infrastructure platform. </span><strong>Rust knowledge is a necessity!</strong><span style="font-weight:400;"> The team operates with a ârun what you writeâ philosophy and each engineer is responsible for deploying and operating the code they write.</span></p>
-<p><span style="font-weight:400;">A successful candidate must have demonstrable experience in at least one programming language (preferably Go, Rust or C++), and previous work in SaaS application development and operations. You will be working closely with the Support and Development team on the architecture and configuration of our AWS and GCP hosted infrastructure. You will be responsible to ensure the environment is built, deployed, configured, managed, and monitored correctly to support the business. The ideal candidate will also have prior experience developing applications on either of the three major cloud platforms - AWS, Azure, or GCP via Kubernetes.</span></p>
-<h3><strong>Responsibilities</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Design, creation, and provisioning of infrastructure</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Write beautiful maintainable Rust code</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Create modular and extensible micro-services to support the platform</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Build a reliable fault-tolerant service</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Identify and troubleshoot any availability and performance issues at multiple layers of deployment, from hardware, to operating environment, network, and application</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Evaluate performance trends and expected changes in demand and capacity, and establish the appropriate scalability plans</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Troubleshoot and solve customer platform issues</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ensure that SLAs are met in executing operational tasks</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with other engineers to implement operational solutions while defining and adhering to industry best practices</span></li>
-</ul>
-<h3><strong>Qualifications</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">3+ years related professional experience using Rust</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with Prometheus/Grafana for metrics aggregation/visualization is plus</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with alerting and monitoring tools is plus</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience working in a highly distributed company is a plus</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Align a portion of your day with the business hours of Central Time Zone - UTC -6</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Systematic problem-solving approach, combined with a strong sense of ownership and drive</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Some working knowledge of web and network protocols and standards (HTTP, TLS, DNS, etc)</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Bachelor's degree in Computer Science or related field or relevant experience</span></li>
-</ul>
-<h3><strong>What does success in this role look like?</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">In three months, you have become one of our lead Rust developers. Youâll have taken on independent code review responsibilities and are collaborating on the design of new features</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">In six months, you have earned the trust of the team and are delivering tasks through the entire SDLC, from design through development with minimal guidance, and are helping to effectively mentor new engineers joining the team</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">In twelve months, you have established a cadence of predictable, on-time delivery without cutting corners - we love clean, maintainable code :)</span></li>
-</ul>
-<p> </p>
-</div>
-</div><br/><br/>Please mention the word **EFFUSIVENESS** and tag RMzQuMjM5LjkzLjc0 when applying to show you read the job post completely (#RMzQuMjM5LjkzLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/a4acde4852059558c9f136a309ccb67e1669014929.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Moralis</h5>
-                    <h3>Senior Backend Engineer API Team</h3>
-                </td>
-                <td width="300">
-                    <code>web3,redis,code,typescript,api,senior,go,golang,engineer,backend</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-api-team-moralis-152214" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><br>Are you ready for something fresh and exciting, a chance to dive into some cool, new tech?</p><p>At Moralis youâll work in a fast, dedicated and innovative environment and youâll join a company growing at an exciting pace. Youâll have the opportunity to work with the best projects in Web3. Currently we are on our journey to onboard the next 1 million Developers to Web3 through Moralis.</p><p>For us to be able to reach that, continue delivering outstanding results, and grow at the desired pace, we are looking for a Senior Backend Engineer to work directly with our API team</p><p>Â </p><p><strong><strong>About the role ð©âð»ð¨âð»</strong></strong></p><p>As a Senior Backend Engineer in the API Team you will be working with on-chain data extraction and building data processing pipelines.</p><ul> <li>This is learning intensive job - you need to learn how to decode the relevant on-chain data emitted by different blockchain</li> <li>You need to learn how Moralis currently processes on-chain data and improve our current data pipeline</li> <li>When Moralis needs to implement new features you will need to learn new smart contract standards and understand how they emit data and implement new data pipelines</li> <li>Proactively look for ways to make the next iteration a bit better in regards to scalability, observability, tech debt and testability</li> </ul><p><strong><br></strong></p><p><strong>Moralis Culture</strong></p><p>If you want to learn about Moralis, our values and our ways of working - be sure to check out the <a href="https://academy.moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Onboarding course</a>. We highly value the cultural fit and the onboarding course explains exactly how we work and how we are as a team.</p><p><strong><strong>About you ðââï¸ðââï¸</strong></strong><br></p><ul> <li>You're able to contribute independently and self-manage your tasks and projects</li> <li>You're self-motivated and always go the extra mile to deliver extra value to Moralis thus inspiring the other team members</li> <li>You take the responsibility to quickly learn and follow Moralis coding style and guidelines.</li> <li>You understand and resonate with <a href="https://moralis.io/mbs" rel="noopener noreferrer nofollow">Moralis Values</a> </li> <li>You take responsibility for sustaining the code base by flagging technical debt, potential scalability issues and other ways the code base may improve.</li> <li>You keep up to date with industry standards and new innovations.</li> <li>You have a knack for leading others and guiding them</li> <li>You can churn out high level of code output <strong>DAILY</strong>.</li> <li>You can use Gitlab efficiently.</li> <li>Ready to collaborate and solve problems</li> </ul><p>Â </p><p><strong>Key Qualifications</strong></p><ul> <li>5+ years relevant backend experience<br> </li> <li>Excellent understanding of NodeJS, NestJS and Typescript stack</li> <li>Experience with Massive Real-Time Systems</li> <li>Experience working with Kafka, Ampq, GRPC, Open API, Avro, Redis and Docker</li> <li>Good knowledge of PostgreSQL, NoSQL, Golang and Kubernetes.</li> </ul><p><br></p><p>We truly appreciate the mindset of someone who always finds a way of improving existing work and strives to reach higher highs. In return, youâll get to work with a fun team (we love memes and gamingðð®), diverse (we have team members from 39 different countries all over the world! ð), dedicated and forward-looking people (for real). We have a fully remote-first culture, meaning Moralis is open for everyone who is interested in working in the Metaverse.<br></p><p>Want to take things further? Go on, send in your application & Let's Talk!</p><p>Â </p><p><em>Please ensure that all resumes and communication must be submitted in English</em></p><br/><br/>Please mention the word **SUPER** and tag RMzQuMjM5LjkzLjc0 when applying to show you read the job post completely (#RMzQuMjM5LjkzLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **SWANKIER** and tag RMTguMjA2LjkwLjEy when applying to show you read the job post completely (#RMTguMjA2LjkwLjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -163,7 +113,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
@@ -251,7 +201,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
