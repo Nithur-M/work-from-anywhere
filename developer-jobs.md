@@ -10,7 +10,7 @@
                     <code>developer,defi,crypto,cryptocurrency,system,software,testing,financial,bank,cloud,strategy,management,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-quantitative-developer-abra-154191" align="right" target="_blank">Apply</a>
@@ -56,7 +56,7 @@
 </ul>
 <p><em><span style="font-weight:400;">At Abra, we are an equal opportunity employer committed to a diverse, inclusive, and equitable workplace and candidate experience. We strive to create an environment where everyone has a sense of belonging and purpose, and where we learn from the unique experiences of those around us. </span></em></p>
 <p><em><span style="font-weight:400;">We encourage all qualified candidates to apply regardless of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender, gender identity or expression, pregnancy or caregiver status, veteran status, or any other legally protected status.</span></em></p>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **AGILE** and tag RMzQuMjM5LjkzLjc0 when applying to show you read the job post completely (#RMzQuMjM5LjkzLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **AGILE** and tag RMTguMjA2LjkwLjEy when applying to show you read the job post completely (#RMTguMjA2LjkwLjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -71,7 +71,7 @@
                     <code>developer,design,web3,solidity,ethereum,growth,web,travel,mobile,content,marketing,engineering,fulltime,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-head-of-developer-relations-flare-network-154195" align="right" target="_blank">Apply</a>
@@ -126,7 +126,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
         <li>Experienced with Solidity, Typescript, and/or Golang.</li>
 </ul>
 
-<p>We ask that you overlap some working hours with GMT. English is essential, other languages are a bonus. Fulltime or grants-based arrangement possible. If this is the kind of role that potentially appeals to you, please reach out.</p><br/><br/>Please mention the word **PROSPEROUS** and tag RMzQuMjM5LjkzLjc0 when applying to show you read the job post completely (#RMzQuMjM5LjkzLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>We ask that you overlap some working hours with GMT. English is essential, other languages are a bonus. Fulltime or grants-based arrangement possible. If this is the kind of role that potentially appeals to you, please reach out.</p><br/><br/>Please mention the word **PROSPEROUS** and tag RMTguMjA2LjkwLjEy when applying to show you read the job post completely (#RMTguMjA2LjkwLjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -141,7 +141,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,golang,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-blockchain-developer-kira-network-153689" align="right" target="_blank">Apply</a>
@@ -160,123 +160,7 @@ Requirements:</h3>
         <li>Excellent understanding of Golang and cosmos-sdk with prior experience in blockchain development. </li>
         <li>Strong familiarity with Linux OS,</li>
         <li>Basic familiarity  infrastructure development</li>
-</ul><br/><br/>Please mention the word **EXCITE** and tag RMzQuMjM5LjkzLjc0 when applying to show you read the job post completely (#RMzQuMjM5LjkzLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/b5adefadd1fa433f29fa71bbd8e960361669101321.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Holo</h5>
-                    <h3>Software Developer Holochain Core&Nbsp;Team</h3>
-                </td>
-                <td width="300">
-                    <code>developer,software,code,web,travel,cloud,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-developer-holochain-corenbspteam-holo-152677" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>
-<p></p>
-<p><span>Full time - contract<br>(Full Time - 100% Remote Work)</span></p>
-<p></p>
-<p></p>
-<p>Time Zone: CET TO ET  (EU to Eastern USA)</p>
-<p></p>
-<p></p>
-<p>Language: English Fluenc<span>y</span></p>
-<p></p>
-<p></p>
-<p>This opportunity is in a rapidly growing, disruptive global tech startup.</p>
-<p></p>
-<p></p>
-<p>We are looking for a software developer to join our Holochain core team. </p>
-<p></p>
-<p></p>
-<h3><b>What will you do:</b></h3>
-<p></p>
-<p></p>
-<p>The person best suited for this role will be able to engage directly with our open-source community and internal app devs to respond to issues and feedback, as well as the ability to dive deep into the code to solve problems and implement new features. You will know you are the person for the job if:</p>
-<p></p>
-<p></p>
-<ul>
-<li>You are able to effectively work on an established codebase.</li>
-<li>You are open and excited to interface with the community of developers to:<ul>
-<li><span>Respond to Github issues</span></li>
-<li>Respond to bugs and implement fixes</li>
-<li>Receive and respond to feedback and requests from the community</li>
-</ul>
-</li>
-<li>You can deep dive into potentially time-sensitive community/product issues, create reproductions as needed, and implement timely and correct iterative fixes<ul>
-<li>Performance testing</li>
-<li>Correctness of implementation</li>
-<li>Ergonomics (DRY, maintainable, testable patterns)</li>
-</ul>
-</li>
-<li>You can jump into our Continuous integration pipeline to make improvements, including our hand-crafted Nix environment</li>
-<li>You are proficient in documenting your own code and improving existing documentation as needed</li>
-<li>You are comfortable writing thorough tests for your code</li>
-<li>You are comfortable giving and receiving code reviews for your and your teammatesâ work</li>
-<li>You have an orientation to win as a team: You develop solutions independently and together with distributed teams, using modern software development and agile methodologies</li>
-<li>Experience working with and contributing to open-source projects is nice to have</li>
-<li>Excellent and direct communication is a must</li>
-<li>Willingness to learn new technologies is a must</li>
-</ul>
-<p></p>
-<p></p>
-<h3>Skill<b>s</b>:</h3>
-<p></p>
-<p></p>
-<ul>
-<li>Experience C/C++/Go/Rust experience, or similar systems programming experience - 2 years</li>
-<li>Mastery of CI frameworks and tools, including Travis, Docker</li>
-<li>A basic high-level understanding of Holochain is a nice to have â bonus points for direct experience working with Holochain</li>
-<li>Knowledge of secure coding practices</li>
-<li>Experience with multi-threaded programming</li>
-<li>In-depth knowledge of the software development life cycle</li>
-<li>Startup experience - 4 years</li>
-</ul>
-<p></p>
-<p></p>
-<h3>Some details about what we offer:</h3>
-<p></p>
-<p></p>
-<ul>
-<li><span>Market salary (National Currency)</span></li>
-<li>RewardsProgram  (HoloFuel)</li>
-<li>Supportive introductory period</li>
-<li>Regular team meetings (remote/video)</li>
-<li>Occasional Team travel 1-2x per year</li>
-<li>Collaborative and inspiring culture</li>
-<li>Flexible work schedules and vacation</li>
-<li>Motivated, passionately engaged and evolutionary global teammates</li>
-</ul>
-<p></p>
-<p></p>
-<h3>About us</h3>
-<p></p>
-<p></p>
-<p>Holochain is our new open-source framework infrastructure technology for distributed peer-to-peer applications. Holochain is fast, massively scalable, cost-effective, resource-efficient, and energy-efficient.</p>
-<p></p>
-<p></p>
-<p>Holo, which is built on Holochain, is a distributed cloud platform and marketplace for hosting and serving other Holochain applications to everyday users connected to the Internet. Holo brings access to distributed applications to the familiar web browser by creating an ecosystem and a currency that enables distributed hosting services provided by peers.</p>
-<p></p>
-<p></p>
-<p>With Holo, we envision a world where people own their own data and control their identity and privacy, a world where communities create together with patterns and tech designed to maximise individual, social and environmental well-being. Our aim is to make distributed peer-to-peer computing accessible to everyone.</p>
-<p></p>
-<p></p>
-<p>Holo is an equal-opportunity employer, and we celebrate our diverse, creative, and collaborative team.</p>
-<p></p>
-<p><br><a rel="noopener noreferrer nofollow"><span>Apply Now!</span> <i></i></a></p>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/TPVo0pOB2yQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **THANK** and tag RMzQuMjM5LjkzLjc0 when applying to show you read the job post completely (#RMzQuMjM5LjkzLjc0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **EXCITE** and tag RMTguMjA2LjkwLjEy when applying to show you read the job post completely (#RMTguMjA2LjkwLjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -291,7 +175,7 @@ Requirements:</h3>
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote" align="right" target="_blank">Apply</a>
@@ -353,7 +237,7 @@ Requirements:</h3>
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -418,7 +302,7 @@ Requirements:</h3>
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazee-io-frontend-developer-80-100-1" align="right" target="_blank">Apply</a>
@@ -479,7 +363,7 @@ Requirements:</h3>
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/dearman-systems-llc-asp-net-csharp-developer-or-software-engineer-asp-net-c" align="right" target="_blank">Apply</a>
@@ -535,88 +419,77 @@ Requirements:</h3>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1499278/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Data Virtuality GmbH</h5>
-                    <h3> Senior Backend Developer (Java)</h3>
+                    <h5>OpenProject GmbH</h5>
+                    <h3>Senior Full-Stack developer (m/f/d)</h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>backend,CSS,developer,frontend</code>
                 </td>
                 <td width="200">
-                <text>67 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-backend-developer-java" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-m-f-d-1499278" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Leipzig, Germany
-    <br /><strong>URL:</strong> <a href="https://datavirtuality.com/en/careers/">https://datavirtuality.com/en/careers/</a>
-</p>
-
-<h1>SENIOR BACKEND DEVELOPER (m/f/d)</h1><div>Remote. Full-time. Unlimited Contract.<br><br><strong>Data Virtuality in a Sec</strong>
-</div><div>Leading various large-scale data integration projects at a global media company, our founder and CEO Dr. Nick Golovin experienced that it isn’t enough to rely on just one data integration approach to meet the ever-changing business needs. The Data Virtuality Platform uniquely combines data virtualization and ETL to provide data professionals with a data integration tool that allows them always to choose the suitable method for the specific requirement. Data Virtuality’s flexible data integration approach is the reliable enabler and accelerator for modern data architectures, like data fabric, data mesh, unified data platform, and hybrid-/multi-cloud environments.</div><div><strong><br>As a Senior Backend Developer, you will be:</strong></div><div><br></div><div>
-<strong>Coding Expert</strong> – You push on further developing our monolithic product Data Virtuality Platform. With your clean coding approach and your creative power, you conceive, develop, and integrate new components and applications into our products with the highest quality.</div><div><br></div><div>
-<strong>Bug Buster</strong> – Your mission is to keep an eye on our existing products: You analyze and improve our components and fix bugs.</div><div><br></div><div>
-<strong>Team Player</strong> – Working remotely: You are independent and reliable and stay in constant touch with the Data Virtuality Team. You keep exchanging ideas with your colleagues and help the team develop the best performance.</div><div><br></div><div><strong><br>Our ultimate candidate will have:</strong></div><ul>
-<li>“Fluent in” Java</li>
-<li>strong experience (5+ years) in database design, complex SQL queries</li>
-<li>in-depth knowledge of OOD methodology, Java, XML, J2EE (JSP, JMS, EJB, Servlet, JDBC, JPA), and Web Services (SOAP &amp; REST)</li>
-<li>working knowledge of Hibernate</li>
-<li>keen understanding of the internal operation principles of an RDBMS, knowledge of Data Warehousing is a plus</li>
-<li>practical knowledge of standard technologies for development, assembly (Maven), and versioning (Git)</li>
-<li>strong experience (5+ years) in J2EE development with a focus on WildFly, JBoss, Tomcat, or a similar application server</li>
-<li>in-depth knowledge of modern architectural concepts, design patterns, and agile software development (Scrum, Kanban)</li>
-</ul><div><br></div><ul>
-<li>fluent spoken and written English is a must-have criterion</li>
-<li>clean and good quality coding approach is very important because of our complex product</li>
-<li>analytical thinking, pragmatic development approach with a hands-on mentality</li>
-<li>being a team player, but also being able to solve problems independently</li>
-<li>understanding the requirements from the customer's view</li>
-<li>generally very good communication behavior – on both customer and colleague side</li>
-</ul><div><br></div><div><strong><br>What our fantastic team worldwide loves about working with Data Virtuality</strong></div><ul>
-<li>A job with the stability and team spirit of an employee but also with the freedom and flexibility of a freelancer</li>
-<li>A stable and reliable job with the freedom and flexibility of a freelancer</li>
-<li>Flexible working hours + additional perks</li>
-<li>Fast and dependable monthly payment – in EUR, USD, or Crypto, as you prefer</li>
-<li>Contributing to the success of a growing company</li>
-<li>Developing a groundbreaking data technology and working with cutting-edge technologies</li>
-<li>Knowledgeable and approachable C-Level</li>
-<li>Continuity and growth potential</li>
-<li>Friendly and international colleagues</li>
-<li>Full integration into our teams and invitation for our team events worldwide</li>
-</ul><div>
-<strong><br>This might be your new team!<br></strong><br>
-</div><div>Working at Data Virtuality means being part of an international team and thriving. What we offer is remote work from your home, wherever it is. Further, you can expect an unlimited long-term freelance contract with full-time work, benefits, and genuine team spirit.<br><br>
-</div><div>At Data Virtuality, you will experience respectful interactions, harmonious teamwork,<br>without a dog-eat-dog mentality!<br><br><strong><br>Our Tech Stack<br></strong><br>
-</div><ul>
-<li>Backend: J2EE application running in a JBoss/WildFly container to connect to any kind of<br>data source (relational/NoSQL/cloud-based databases, web services, text files, etc.) and to<br>query data by using SQL. Persistence layers and internal configurations are delegated to<br>Hibernate.</li>
-<li>Frontend (Desktop): Desktop Application based on Eclipse RCP</li>
-<li>Frontend (Web): several Web applications based on Angular</li>
-<li>Operating System: Linux, Microsoft Windows, macOs</li>
-<li>Languages: Java 11, C, C++, TypeScript, SQL, XML</li>
-<li>Databases: Oracle, PostgreSQL, MySQL, MS SQL Server, Amazon Redshift, Snowflake,<br>Microsoft Azure Synapse Analytics, Exasol, Teradata, Vertica, MongoDB, etc.</li>
-<li>Others: Web Services, JDBC, ODBC, REST, OData, LDAP</li>
-<li>IDE: IntelliJ IDEA, Eclipse</li>
-<li>Framework: Eclipse Rich Client Platform, JUnit, Spring, Hibernate, Angular, JQuery</li>
-<li>Application Servers: WildFly, JBoss</li>
-<li>Cloud Technologies: Amazon Web Services, Microsoft Azure, Google Cloud Platform</li>
-<li>Development, Building, and Versioning tools: Maven, Ant, Git</li>
-<li>Dev and CI tools: Jira, FishEye, BitBucket, GitLab, Crucible, Confluence, Jenkins</li>
-<li>Virtualization and Containers: Docker, VirtualBox, VMware, Vagrant</li>
-</ul><div><br></div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-backend-developer-java">https://weworkremotely.com/remote-jobs/data-virtuality-gmbh-senior-backend-developer-java</a></p>
-
+                <p><br><br></p>
+<div class="h3">Company Description</div>
+<p>At OpenProject we are building the leading open source project management software. To enable our further growth, we are searching for excellent full-stack developers who are passionate about open source software and remote team collaboration. </p>
+<p><br><br></p>
+<div class="h3">Job Description</div>
+<ul>
+<li>Join our existing team of six very experienced senior developers and<strong> develop frontend and backend features and improvements</strong> to OpenProject in a secure, well-tested, and performant way.</li>
+<li><strong>Craft code that meets our internal standards</strong> for style, maintainability, and best practices for a high-scale web environment. Maintain and advocate for these standards through <strong>code review</strong>.</li>
+<li><strong>Advocate for improvements </strong>to product quality, security, and performance.</li>
+<li><strong>Fix prioritized bugs</strong> listed in our bug backlog.</li>
+<li><strong>Solve challenging technical problems</strong> of high complexity.</li>
+<li>Recognize impediments to our efficiency as a team ("technical debt"), <strong>propose and implement solutions</strong>.</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Qualifications</div>
+<ul>
+<li>You have <strong>several years of prior experience</strong> building frontend and backend elements of web applications.</li>
+<li>Ideally, you have a solid understanding of 
+<ul>
+<li><strong>core web and browser concepts</strong> (e.g. how JavaScript does handle asynchronous code), </li>
+<li><strong>CSS</strong> and <strong>semantic HTML</strong>,</li>
+<li>core <strong>JavaScript</strong> concepts,</li>
+<li><strong>Ruby-on-Rails </strong>and</li>
+<li><strong>Angular</strong>.</li>
+</ul>
+</li>
+<li>You have working knowledge of when and how to <strong>make your code scale</strong> effectively.</li>
+<li>You are comfortable with working in a <strong>highly agile, intensely iterative</strong> software development process.</li>
+<li>You have experience in <strong>owning a project from concept to production</strong>, including proposal, discussion, and execution.</li>
+<li>You have <strong>effective communication skills </strong>to achieve consensus with peers, and provide clear status updates.</li>
+<li>You are <strong>passionate about open source</strong> software development </li>
+<li>Our <strong>“OPENP” core company values resonate strongly with you </strong>(O = <u>O</u>pen for new stuff, P = <u>P</u>ragmatic (not dogmatic), E = <u>E</u>ngaged for clients and colleagues, N = <u>N</u>eigung (passion) about OpenProject, P = <u>P</u>roactive and accountable)</li>
+<li>You are <strong>proficient in the English language</strong> (both written and verbal), for success in a remote and asynchronous work environment. German language skills are a plus. </li>
+</ul>
+<p><br><br></p>
+<div class="h3">Additional Information</div>
+<p><br><strong>What awaits you:</strong></p>
+<ul>
+<li>The <strong>best of both worlds</strong>: the creative challenges and learning opportunities of a start-up combined with the financial stability of a “grown-up” company in a team of around fifteen dedicated professionals.</li>
+<li>The <strong>flexibility to decide from where you would like to work</strong>: remotely in any location worldwide or from our office in Berlin right next to Alexanderplatz.</li>
+<li><strong>Contributing to an open source project</strong> with high visibility and transparency within the developer world (our software code is freely available on Github.</li>
+<li>You will <strong>work with a team of experienced software engineers</strong> in continuous delivery and integration processes who love to learn from each other.</li>
+<li>Once a year, we dedicate two weeks of "<strong>Passion Time</strong>" to work on any improvements of our choice with a business impact (e.g. product improvements, marketing concepts,...) in multi-disciplinary teams.</li>
+<li>You will be<strong> in touch with exciting clients and users from all around the globe</strong>, including NGOs and other open source projects which we love to support in fulfilling their mission (such as Greenpeace, Engineers without Frontiers), corporates like Siemens, Deutsche Bahn or Audi and public institutions like German Federal Ministries.</li>
+</ul>
+<p><strong>Find out more on:</strong></p>
+<ul>
+<li>openproject.org</li>
+<li>github.com/opf/openproject</li>
+</ul>
+<p><br><strong>Your application</strong><br>You don't want to use SmartRecruiters to submit your application due to data privacy concerns?<br><br>We understand this very well!<br>Feel free to apply via an encrypted email to talents[at]openproject.com using our GPG key (https://keys.openpgp.org/vks/v1/by-fingerprint/591DEE72037EB2FBD04AD78860C8C5A9E7C87DBB).</p>
+<img src="https://remotive.com/job/track/1499278/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -631,7 +504,7 @@ Requirements:</h3>
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -698,7 +571,7 @@ Requirements:</h3>
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -767,7 +640,7 @@ Requirements:</h3>
                     <code>api,developer,ios,mobile</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ios-developer-1497219" align="right" target="_blank">Apply</a>
@@ -823,7 +696,7 @@ Requirements:</h3>
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -900,7 +773,7 @@ Requirements:</h3>
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -926,7 +799,7 @@ Requirements:</h3>
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
