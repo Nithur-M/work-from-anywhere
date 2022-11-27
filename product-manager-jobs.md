@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/learning-tapestry-product-manager-web" align="right" target="_blank">Apply</a>
@@ -67,7 +67,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-product-manager-3" align="right" target="_blank">Apply</a>
@@ -152,7 +152,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager-2" align="right" target="_blank">Apply</a>
@@ -213,76 +213,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager-2">https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager-2</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1497235/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Gozem</h5>
-                    <h3>Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>android,api,ecommerce,ios</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-manager-1497235" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are now looking for a highly motivated individual that will be able to support this fast pace growth by ensuring that Gozem's product constantly evolves to meet the needs of its users. If you have a strong entrepreneurial spirit and love setting a vision, solving problems, and creating something from nothing, this may be the opportunity you've been looking for.  <br><br>The Product Manager role at Gozem is a unique opportunity to have a direct and significant impact at the earliest stages of a tech startup in West Africa. As a key member of the team, you will oversee and optimize Gozem's product to achieve rapid growth. This role calls for a rare combination of problem-solving skills, creative business thinking, and strong interpersonal ability/people skills.<br><br>The Product Manager needs to be competent in all facets of the design process, hands-on experience with visual design, user research and exceptionally talented and skilled in Interaction and Information Architecture Design. As a well-rounded UX/UI professional you will connect the dots between business needs, innovation and good design. A great communicator with extensive cross functional collaboration experience and able to balance user needs and business objectives.<br><br></p>
-<p><strong>What You'll Do</strong></p>
-<ul>
-<li>Ability to define the full specifications of new product functions and engage with the engineering team to develop them</li>
-<li>Ability to rigorously test functions to ensure they match specifications and UX expectations</li>
-<li>Ability to build user flow charts, storyboards, wireframes, and related elements that play into the planning phase of an application.</li>
-<li>Strong focus on usability and interactive design.</li>
-<li>Researching and analyzing industry UX/UI trends and competitor sites and strategies.</li>
-<li>Regular review of usage data to analyze user behaviour, pain points and to inform design decisions.</li>
-<li>Able to handle expectations of Stakeholders and setting clear vision and get buy in cross functional.</li>
-</ul>
-<p> </p>
-<p><strong>What You'll Need</strong></p>
-<ul>
-<li>Bachelor or Masters in Computer Science, Electrical/Computer Engineering , Operations Research or Mathematics/Statistics</li>
-<li>3 years of relevant experience in related fields</li>
-<li>Familiarity with database structuring needed</li>
-<li>Familiarity with API based product needed</li>
-<li>Basic knowledge of any programming language a plus</li>
-<li>Experience in interfacing with other teams and departments to deliver impact solutions for organisation</li>
-<li>Self-motivated, independent learner, and enjoy sharing knowledge with team members</li>
-<li>Detail-oriented and efficient time manager in a dynamic and fast-paced working environment</li>
-<li>Fluent in French and English</li>
-</ul>
-<p> </p>
-<p><strong>Nice to have</strong></p>
-<ul>
-<li>Previous experience as a growth hacker in a startup or tech company is a plus</li>
-<li>Experience in geospatial databases or graph databases</li>
-<li>Recent programming experience in a production environment</li>
-</ul>
-<p> </p>
-<p> </p>
-<p><strong>About US</strong></p>
-<p>Gozem is Africa's Super App. The app, available on Android and iOS, provides a suite of transport, ecommerce and financial services to consumers and transport providers of Francophone Sub-saharan Africa. </p>
-<p>Gozem is currently operating in 8 cities in Togo and Benin with more than 400,000 registered users that have completed more than 2 million trips since their launch in November 2018.</p>
-<p> </p>
-<p>Website: <a href="http://www.gozem.co" rel="nofollow">http://www.gozem.co</a></p>
-<p>Google Play Store: <a href="https://play.google.com/store/apps/details?id=com.gozem" rel="nofollow">https://play.google.com/store/apps/details?id=com.gozem</a> </p>
-<p>Apple App Store: <a href="https://apps.apple.com/us/app/gozem/id1441247963" rel="nofollow">https://apps.apple.com/us/app/gozem/id1441247963</a> </p>
-<p> </p>
-<p> </p>
-<p><strong>Our Spirit</strong></p>
-<p>Do you aspire to flourish in a stimulating and friendly environment? Do you want to evolve and progress in digital, dynamic and disruptive contexts?</p>
-<p>Help us grow and become Africa's next unicorn! Join a company where long-term vision, ambition and human values ​​will be the connectors of your professional project!<br><br></p>
-<p>If you share our vision of moving Africa forward quickly, apply to join our team today.</p>
-<img src="https://remotive.com/job/track/1497235/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
