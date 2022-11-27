@@ -45,7 +45,7 @@
 <li>Ethereum Clients implementation ( Execution & Consensus)</li>
 <li>Interest in DeFi/Crypto, MEV </li>
 <li>Experience in Fintech/Financial services</li>
-</ul><div>Blockswap is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer. We embrace all qualified persons to apply and will receive consideration for employment without regard to race, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.  If you have a disability or special need that requires accommodation, please feel free to let us know.</div><br/><br/>Please mention the word **FERVID** and tag RMy44Mi4yNi4xNTQ= when applying to show you read the job post completely (#RMy44Mi4yNi4xNTQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>Blockswap is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer. We embrace all qualified persons to apply and will receive consideration for employment without regard to race, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.  If you have a disability or special need that requires accommodation, please feel free to let us know.</div><br/><br/>Please mention the word **FERVID** and tag RNzUuMTAxLjIxMi4zOA== when applying to show you read the job post completely (#RNzUuMTAxLjIxMi4zOA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
