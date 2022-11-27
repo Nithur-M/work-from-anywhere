@@ -56,7 +56,7 @@
 </ul>
 <p><em><span style="font-weight:400;">At Abra, we are an equal opportunity employer committed to a diverse, inclusive, and equitable workplace and candidate experience. We strive to create an environment where everyone has a sense of belonging and purpose, and where we learn from the unique experiences of those around us. </span></em></p>
 <p><em><span style="font-weight:400;">We encourage all qualified candidates to apply regardless of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender, gender identity or expression, pregnancy or caregiver status, veteran status, or any other legally protected status.</span></em></p>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **AGILE** and tag RMTguMjA2LjkwLjEy when applying to show you read the job post completely (#RMTguMjA2LjkwLjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **AGILE** and tag RMy44Mi4yNi4xNTQ= when applying to show you read the job post completely (#RMy44Mi4yNi4xNTQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -71,7 +71,7 @@
                     <code>developer,design,web3,solidity,ethereum,growth,web,travel,mobile,content,marketing,engineering,fulltime,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-head-of-developer-relations-flare-network-154195" align="right" target="_blank">Apply</a>
@@ -126,7 +126,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
         <li>Experienced with Solidity, Typescript, and/or Golang.</li>
 </ul>
 
-<p>We ask that you overlap some working hours with GMT. English is essential, other languages are a bonus. Fulltime or grants-based arrangement possible. If this is the kind of role that potentially appeals to you, please reach out.</p><br/><br/>Please mention the word **PROSPEROUS** and tag RMTguMjA2LjkwLjEy when applying to show you read the job post completely (#RMTguMjA2LjkwLjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>We ask that you overlap some working hours with GMT. English is essential, other languages are a bonus. Fulltime or grants-based arrangement possible. If this is the kind of role that potentially appeals to you, please reach out.</p><br/><br/>Please mention the word **PROSPEROUS** and tag RMy44Mi4yNi4xNTQ= when applying to show you read the job post completely (#RMy44Mi4yNi4xNTQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -141,7 +141,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,golang,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-blockchain-developer-kira-network-153689" align="right" target="_blank">Apply</a>
@@ -160,7 +160,7 @@ Requirements:</h3>
         <li>Excellent understanding of Golang and cosmos-sdk with prior experience in blockchain development. </li>
         <li>Strong familiarity with Linux OS,</li>
         <li>Basic familiarity  infrastructure development</li>
-</ul><br/><br/>Please mention the word **EXCITE** and tag RMTguMjA2LjkwLjEy when applying to show you read the job post completely (#RMTguMjA2LjkwLjEy). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **EXCITE** and tag RMy44Mi4yNi4xNTQ= when applying to show you read the job post completely (#RMy44Mi4yNi4xNTQ=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -175,7 +175,7 @@ Requirements:</h3>
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote" align="right" target="_blank">Apply</a>
@@ -227,71 +227,6 @@ Requirements:</h3>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6740/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Golang Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>8 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/6740/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>We are searching for a Senior Golang Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years of solid development experience with Golang;</li>
-<li>You follow best practices and conventions;</li>
-<li>Responsible and able to work with minimal supervision;</li>
-<li>Upper-intermediate English level;</li>
-<li>You can communicate well with both technical and non-technical clients.</li>
-</ul><div>
-<strong><br>Nice-to-have:</strong> </div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Basic knowledge of DevOps culture and REST API development would be a plus.</li>
-</ul><div><br></div><div><strong>Responsibilities:</strong></div><ul>
-<li>Design, develop, document, and test core software components according to product requirements;</li>
-<li>Collaborate with other team members to incorporate their development work;</li>
-<li>Work with QA and DevOps teams to deliver quality software research and investigate product requirements and new technologies;</li>
-<li>Collaborate with the stakeholders.</li>
-</ul><div><br></div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0394/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -302,7 +237,7 @@ Requirements:</h3>
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/amazee-io-frontend-developer-80-100-1" align="right" target="_blank">Apply</a>
@@ -363,7 +298,7 @@ Requirements:</h3>
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/dearman-systems-llc-asp-net-csharp-developer-or-software-engineer-asp-net-c" align="right" target="_blank">Apply</a>
@@ -419,81 +354,6 @@ Requirements:</h3>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1499278/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>OpenProject GmbH</h5>
-                    <h3>Senior Full-Stack developer (m/f/d)</h3>
-                </td>
-                <td width="300">
-                    <code>backend,CSS,developer,frontend</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-m-f-d-1499278" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><br><br></p>
-<div class="h3">Company Description</div>
-<p>At OpenProject we are building the leading open source project management software. To enable our further growth, we are searching for excellent full-stack developers who are passionate about open source software and remote team collaboration. </p>
-<p><br><br></p>
-<div class="h3">Job Description</div>
-<ul>
-<li>Join our existing team of six very experienced senior developers and<strong> develop frontend and backend features and improvements</strong> to OpenProject in a secure, well-tested, and performant way.</li>
-<li><strong>Craft code that meets our internal standards</strong> for style, maintainability, and best practices for a high-scale web environment. Maintain and advocate for these standards through <strong>code review</strong>.</li>
-<li><strong>Advocate for improvements </strong>to product quality, security, and performance.</li>
-<li><strong>Fix prioritized bugs</strong> listed in our bug backlog.</li>
-<li><strong>Solve challenging technical problems</strong> of high complexity.</li>
-<li>Recognize impediments to our efficiency as a team ("technical debt"), <strong>propose and implement solutions</strong>.</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Qualifications</div>
-<ul>
-<li>You have <strong>several years of prior experience</strong> building frontend and backend elements of web applications.</li>
-<li>Ideally, you have a solid understanding of 
-<ul>
-<li><strong>core web and browser concepts</strong> (e.g. how JavaScript does handle asynchronous code), </li>
-<li><strong>CSS</strong> and <strong>semantic HTML</strong>,</li>
-<li>core <strong>JavaScript</strong> concepts,</li>
-<li><strong>Ruby-on-Rails </strong>and</li>
-<li><strong>Angular</strong>.</li>
-</ul>
-</li>
-<li>You have working knowledge of when and how to <strong>make your code scale</strong> effectively.</li>
-<li>You are comfortable with working in a <strong>highly agile, intensely iterative</strong> software development process.</li>
-<li>You have experience in <strong>owning a project from concept to production</strong>, including proposal, discussion, and execution.</li>
-<li>You have <strong>effective communication skills </strong>to achieve consensus with peers, and provide clear status updates.</li>
-<li>You are <strong>passionate about open source</strong> software development </li>
-<li>Our <strong>“OPENP” core company values resonate strongly with you </strong>(O = <u>O</u>pen for new stuff, P = <u>P</u>ragmatic (not dogmatic), E = <u>E</u>ngaged for clients and colleagues, N = <u>N</u>eigung (passion) about OpenProject, P = <u>P</u>roactive and accountable)</li>
-<li>You are <strong>proficient in the English language</strong> (both written and verbal), for success in a remote and asynchronous work environment. German language skills are a plus. </li>
-</ul>
-<p><br><br></p>
-<div class="h3">Additional Information</div>
-<p><br><strong>What awaits you:</strong></p>
-<ul>
-<li>The <strong>best of both worlds</strong>: the creative challenges and learning opportunities of a start-up combined with the financial stability of a “grown-up” company in a team of around fifteen dedicated professionals.</li>
-<li>The <strong>flexibility to decide from where you would like to work</strong>: remotely in any location worldwide or from our office in Berlin right next to Alexanderplatz.</li>
-<li><strong>Contributing to an open source project</strong> with high visibility and transparency within the developer world (our software code is freely available on Github.</li>
-<li>You will <strong>work with a team of experienced software engineers</strong> in continuous delivery and integration processes who love to learn from each other.</li>
-<li>Once a year, we dedicate two weeks of "<strong>Passion Time</strong>" to work on any improvements of our choice with a business impact (e.g. product improvements, marketing concepts,...) in multi-disciplinary teams.</li>
-<li>You will be<strong> in touch with exciting clients and users from all around the globe</strong>, including NGOs and other open source projects which we love to support in fulfilling their mission (such as Greenpeace, Engineers without Frontiers), corporates like Siemens, Deutsche Bahn or Audi and public institutions like German Federal Ministries.</li>
-</ul>
-<p><strong>Find out more on:</strong></p>
-<ul>
-<li>openproject.org</li>
-<li>github.com/opf/openproject</li>
-</ul>
-<p><br><strong>Your application</strong><br>You don't want to use SmartRecruiters to submit your application due to data privacy concerns?<br><br>We understand this very well!<br>Feel free to apply via an encrypted email to talents[at]openproject.com using our GPG key (https://keys.openpgp.org/vks/v1/by-fingerprint/591DEE72037EB2FBD04AD78860C8C5A9E7C87DBB).</p>
-<img src="https://remotive.com/job/track/1499278/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1446640/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -504,7 +364,7 @@ Requirements:</h3>
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -571,7 +431,7 @@ Requirements:</h3>
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -696,7 +556,7 @@ Requirements:</h3>
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -773,7 +633,7 @@ Requirements:</h3>
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
