@@ -10,7 +10,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1" align="right" target="_blank">Apply</a>
