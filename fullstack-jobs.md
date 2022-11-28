@@ -41,7 +41,7 @@
 <b>Web3 Platform</b>: Cosmos-SDK (Golang), CosmWasm (Rust)</li>
 <li>
 <b>Infrastructure</b>: AWS</li>
-</ul><div>As we are still a lean engineering team, we are looking for engineers willing to take on multiple roles. When applying, please include which of the following skillsets you believe you would be able to bring to the table most rapidly:</div><div><br></div><div><b>1. Typescript + React</b></div><div><b>2. Smart contract development</b></div><div><b>3. Web3/Cosmjs</b></div><div><b>4. Other</b></div><div><br></div><div>Benefits of working at Burnt include competitive compensation, unlimited PTO, medical, dental, and vision insurance, company off-sites and more!</div><div><br></div><div>Burnt is proud to foster an inclusive environment that is free from discrimination. We strongly believe in order to build the best products, we need a diversity of perspectives and backgrounds. This leads to a more delightful experience for our users and team members. We value listening to every voice and we encourage everyone to come be a part of building a company and products we love.</div><br/><br/>Please mention the word **OVERTOOK** and tag RNDQuMjAwLjE5MS4xMjI= when applying to show you read the job post completely (#RNDQuMjAwLjE5MS4xMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>As we are still a lean engineering team, we are looking for engineers willing to take on multiple roles. When applying, please include which of the following skillsets you believe you would be able to bring to the table most rapidly:</div><div><br></div><div><b>1. Typescript + React</b></div><div><b>2. Smart contract development</b></div><div><b>3. Web3/Cosmjs</b></div><div><b>4. Other</b></div><div><br></div><div>Benefits of working at Burnt include competitive compensation, unlimited PTO, medical, dental, and vision insurance, company off-sites and more!</div><div><br></div><div>Burnt is proud to foster an inclusive environment that is free from discrimination. We strongly believe in order to build the best products, we need a diversity of perspectives and backgrounds. This leads to a more delightful experience for our users and team members. We value listening to every voice and we encourage everyone to come be a part of building a company and products we love.</div><br/><br/>Please mention the word **OVERTOOK** and tag RMTguMjA4LjE5Ni44MA== when applying to show you read the job post completely (#RMTguMjA4LjE5Ni44MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -56,7 +56,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ocr-labs-full-stack-engineer-1" align="right" target="_blank">Apply</a>
@@ -123,7 +123,7 @@
                     <code>api,backend,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/staff-software-engineer-full-stack-1496950" align="right" target="_blank">Apply</a>
