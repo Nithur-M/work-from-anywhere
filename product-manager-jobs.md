@@ -215,4 +215,204 @@
 
                 </details>
                 </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1177267684574208000/54eG3WmW_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>SafetyWing</h5>
+                    <h3>
+            Product Manager Nomad Insurance
+          </h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://safetywing.pinpointhq.com//en/jobs/49596" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+          <div class="external-panel__trix-content external-panel__trix-content--colored external-panel__trix-content--lead-in" id="external-jobs-show-description">
+            <script type="application/json" id="js-react-on-rails-context">{"railsEnv":"production","inMailer":false,"i18nLocale":"en","i18nDefaultLocale":"en","rorVersion":"13.0.2","rorPro":false,"href":"https://safetywing.pinpointhq.com//en/jobs/49596","location":"//en/jobs/49596","scheme":"https","host":"safetywing.pinpointhq.com","port":null,"pathname":"//en/jobs/49596","search":null,"httpAcceptLanguage":"en-US","serverSide":false}</script>
+<div id="External::Careerspage::Renderplyrvideo-react-component-7781c316-1dd6-43b9-9538-f9d22977e00f"><div><div>
+<!--block--><a href="https://safetywing.com" target="_blank" rel="noopener"><strong>SafetyWing</strong></a> (YC W18) is seeking an ambitious and creative <strong>Product Manager - Nomad Insurance</strong> to help make our product something our customers love so much they’ll tell their friends about it. <br><strong>Nomad Insurance</strong> is rapidly scaling, and we need an experienced product leader to partner with the General Manager to own and implement the product roadmap. You will be working on the very first product we have launched.</div></div></div>
+      <script type="application/json" class="js-react-on-rails-component" data-component-name="External::Careerspage::Renderplyrvideo" data-dom-id="External::Careerspage::Renderplyrvideo-react-component-7781c316-1dd6-43b9-9538-f9d22977e00f">{"featureFlags":{"job_templates":"enabled"},"companySettings":{"edit_offer_before_send":true,"advanced_search":true,"facebook_advert":false,"bulk_download":false,"move_to_hired_on_offer_acceptance":true,"bulk_email_job_seekers":false,"workflow_automation":true,"cronofy_enterprise_connect":false,"enable_job_maximum_headcount":false,"job_requisition_management":true,"essential_cookies_only":false,"strict_gdpr_adherence":false,"use_company_from_address":false,"semi_private_comments":false,"additional_statuses":false,"multiple_company_themes":false,"strict_ofccp_compliance":false,"grouped_jobs":false,"move_to_any_job":false,"remove_logo_from_email_template":false,"candidate_job_preferences":false,"automatically_reject_referrals":false,"indeed_feed_stages_and_workplace_type":false,"variable_sign_off_signatories":false,"react_select_on_external_jobs":false,"monitor_with_rum":false,"restricted_cronofy_oauth_scope":false},"enabledLocaleKeys":["en"],"onboardingSettings":{"isOnboardingEnabled":true},"htmlString":"\u003cdiv\u003e\n\u003c!--block--\u003e\u003ca href=\"https://safetywing.com\" target=\"_blank\" rel=\"noopener\"\u003e\u003cstrong\u003eSafetyWing\u003c/strong\u003e\u003c/a\u003e (YC W18) is seeking an ambitious and creative \u003cstrong\u003eProduct Manager - Nomad Insurance\u003c/strong\u003e to help make our product something our customers love so much they’ll tell their friends about it. \u003cbr\u003e\u003cstrong\u003eNomad Insurance\u003c/strong\u003e is rapidly scaling, and we need an experienced product leader to partner with the General Manager to own and implement the product roadmap. You will be working on the very first product we have launched.\u003c/div\u003e"}</script>
+      
+
+
+          </div>
+
+          <dl class="external-definition-list hide-at-sm-block" id="external-jobs-show-meta-mobile">
+
+            <div class="frow frow--tn-gutters">
+
+
+              <div class="col-tn-1-2" id="external-jobs-show-department">
+                <dt>Department</dt>
+                <dd>Product</dd>
+              </div>
+
+              <div class="col-tn-1-2" id="external-jobs-show-employment-type">
+                <dt>Employment Type</dt>
+                <dd>Full Time</dd>
+              </div>
+
+              <div class="col-tn-1-2" id="external-jobs-show-location">
+                <dt>Location</dt>
+                <dd>Remote</dd>
+              </div>
+
+              <div class="col-tn-1-2" id="external-jobs-show-workplace-type">
+                <dt>Workplace type</dt>
+                <dd>Fully remote</dd>
+              </div>
+
+
+
+
+                <div class="col-tn-1-1" id="external-jobs-show-hiring-manager-profile">
+
+                  <hr class="divider divider--dark mar-v-3">
+
+                  <div class="pinpoint-job-sidebar--hiring_manager">
+
+  <div class="text-bold mar-b-3">
+    This role's hiring manager:
+  </div>
+
+  <div class="frow frow--gutters frow--items-center">
+
+
+      <div>
+        <img class="avatar avatar--14x" src="https://safetywing.pinpointhq.com/rails/active_storage/blobs/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGtqTUE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--87967ebaaa2a0d15014cf259de29e17cb8268e7c/Michael.jpg">
+      </div>
+
+
+    <span class="text-medium text-semi-bold mar-l-1">
+      Michael Cubbin
+    </span>
+
+  </div>
+
+  <div class="mar-t-3">
+
+    <a class="link link--default link--underline text-underline" target="_blank" href="/en/profile/11676?theme_id=1487">
+      View Michael's Profile <i class="fal fa-chevron-right-mar-l-1" aria-hidden="true"></i>
+</a>
+  </div>
+
+</div>
+
+
+                </div>
+
+
+            </div>
+
+          </dl>
+
+          <h2 class="external-panel__heading" id="responsibilities-heading">
+            💻 Your responsibilities will include
+          </h2>
+
+          <div class="external-panel__trix-content external-panel__trix-content--colored" id="responsibilities-body">
+            <div id="External::Careerspage::Renderplyrvideo-react-component-db97ffff-110e-4834-aed1-87330709781a"><div><ul>
+<li>
+<!--block-->Identify the most pressing issues in the product, find creative solutions to them, and quickly implement improvements with optimism and enthusiasm.&nbsp;</li>
+<li>
+<!--block-->Lead cross-functional projects most important to the team. If you were to join today, these would include things like implementing better processes for handling customer claims and working with legal, compliance, and partnership stakeholders to improve both our current nomad insurance product and our affiliate product for ambassadors.</li>
+<li>
+<!--block-->Help Nomad Insurance achieve its potential by understanding the latest status of all priority projects happening, pushing goals to be met, and being a jack of all trades to support your team in implementation.&nbsp;</li>
+<li>
+<!--block-->Build out operational systems and automation SafetyWing as we scale and grow, and ultimately make a product people love so much they tell their friends about it.</li>
+</ul></div></div>
+      <script type="application/json" class="js-react-on-rails-component" data-component-name="External::Careerspage::Renderplyrvideo" data-dom-id="External::Careerspage::Renderplyrvideo-react-component-db97ffff-110e-4834-aed1-87330709781a">{"featureFlags":{"job_templates":"enabled"},"companySettings":{"edit_offer_before_send":true,"advanced_search":true,"facebook_advert":false,"bulk_download":false,"move_to_hired_on_offer_acceptance":true,"bulk_email_job_seekers":false,"workflow_automation":true,"cronofy_enterprise_connect":false,"enable_job_maximum_headcount":false,"job_requisition_management":true,"essential_cookies_only":false,"strict_gdpr_adherence":false,"use_company_from_address":false,"semi_private_comments":false,"additional_statuses":false,"multiple_company_themes":false,"strict_ofccp_compliance":false,"grouped_jobs":false,"move_to_any_job":false,"remove_logo_from_email_template":false,"candidate_job_preferences":false,"automatically_reject_referrals":false,"indeed_feed_stages_and_workplace_type":false,"variable_sign_off_signatories":false,"react_select_on_external_jobs":false,"monitor_with_rum":false,"restricted_cronofy_oauth_scope":false},"enabledLocaleKeys":["en"],"onboardingSettings":{"isOnboardingEnabled":true},"htmlString":"\u003cul\u003e\n\u003cli\u003e\n\u003c!--block--\u003eIdentify the most pressing issues in the product, find creative solutions to them, and quickly implement improvements with optimism and enthusiasm. \u003c/li\u003e\n\u003cli\u003e\n\u003c!--block--\u003eLead cross-functional projects most important to the team. If you were to join today, these would include things like implementing better processes for handling customer claims and working with legal, compliance, and partnership stakeholders to improve both our current nomad insurance product and our affiliate product for ambassadors.\u003c/li\u003e\n\u003cli\u003e\n\u003c!--block--\u003eHelp Nomad Insurance achieve its potential by understanding the latest status of all priority projects happening, pushing goals to be met, and being a jack of all trades to support your team in implementation. \u003c/li\u003e\n\u003cli\u003e\n\u003c!--block--\u003eBuild out operational systems and automation SafetyWing as we scale and grow, and ultimately make a product people love so much they tell their friends about it.\u003c/li\u003e\n\u003c/ul\u003e"}</script>
+      
+
+
+          </div>
+
+
+            <h2 class="external-panel__heading" id="skills-heading">
+              🧪 We are looking for someone who
+            </h2>
+            <div class="external-panel__trix-content external-panel__trix-content--colored" id="skills-body">
+              <div id="External::Careerspage::Renderplyrvideo-react-component-989289a1-19e7-45cd-ad38-760729a12994"><div><ul>
+<li>
+<!--block-->Is ambitious, organized, and great with a verbal and written communication</li>
+<li>
+<!--block-->Has had Product Management experience or equivalent experience as an entrepreneur. Ideally, you’ve also worked in the B2C space before.</li>
+<li>
+<!--block-->Has strong leadership skills and the ability to make people around you fulfill their potential.</li>
+<li>
+<!--block-->Is comfortable with product development cycles and ready to iterate and innovate on our processes.&nbsp;</li>
+<li>
+<!--block-->Has a growth-oriented mindset and is motivated by challenging growth targets.</li>
+<li>
+<!--block-->Has the ability to plan a project, gather the resources and see it through to completion no matter what challenges you encounter.</li>
+<li>
+<!--block-->Has good judgment in making something people love so much they tell their friends.</li>
+</ul><div>
+<!--block--><strong>😀 We like to work with people who:</strong>
+</div><ul>
+<li>
+<!--block-->Want to help build a global social safety net on the Internet.</li>
+<li>
+<!--block-->Think for themselves instead of copying others.</li>
+<li>
+<!--block-->Are willing to try new things, even with the risk of failure.</li>
+<li>
+<!--block-->Are intellectually curious and open to new ideas.</li>
+<li>
+<!--block-->Are creative and bold in the face of any problems.</li>
+<li>
+<!--block-->Have strong integrity and do the right thing.</li>
+</ul></div></div>
+      <script type="application/json" class="js-react-on-rails-component" data-component-name="External::Careerspage::Renderplyrvideo" data-dom-id="External::Careerspage::Renderplyrvideo-react-component-989289a1-19e7-45cd-ad38-760729a12994">{"featureFlags":{"job_templates":"enabled"},"companySettings":{"edit_offer_before_send":true,"advanced_search":true,"facebook_advert":false,"bulk_download":false,"move_to_hired_on_offer_acceptance":true,"bulk_email_job_seekers":false,"workflow_automation":true,"cronofy_enterprise_connect":false,"enable_job_maximum_headcount":false,"job_requisition_management":true,"essential_cookies_only":false,"strict_gdpr_adherence":false,"use_company_from_address":false,"semi_private_comments":false,"additional_statuses":false,"multiple_company_themes":false,"strict_ofccp_compliance":false,"grouped_jobs":false,"move_to_any_job":false,"remove_logo_from_email_template":false,"candidate_job_preferences":false,"automatically_reject_referrals":false,"indeed_feed_stages_and_workplace_type":false,"variable_sign_off_signatories":false,"react_select_on_external_jobs":false,"monitor_with_rum":false,"restricted_cronofy_oauth_scope":false},"enabledLocaleKeys":["en"],"onboardingSettings":{"isOnboardingEnabled":true},"htmlString":"\u003cul\u003e\n\u003cli\u003e\n\u003c!--block--\u003eIs ambitious, organized, and great with a verbal and written communication\u003c/li\u003e\n\u003cli\u003e\n\u003c!--block--\u003eHas had Product Management experience or equivalent experience as an entrepreneur. Ideally, you’ve also worked in the B2C space before.\u003c/li\u003e\n\u003cli\u003e\n\u003c!--block--\u003eHas strong leadership skills and the ability to make people around you fulfill their potential.\u003c/li\u003e\n\u003cli\u003e\n\u003c!--block--\u003eIs comfortable with product development cycles and ready to iterate and innovate on our processes. \u003c/li\u003e\n\u003cli\u003e\n\u003c!--block--\u003eHas a growth-oriented mindset and is motivated by challenging growth targets.\u003c/li\u003e\n\u003cli\u003e\n\u003c!--block--\u003eHas the ability to plan a project, gather the resources and see it through to completion no matter what challenges you encounter.\u003c/li\u003e\n\u003cli\u003e\n\u003c!--block--\u003eHas good judgment in making something people love so much they tell their friends.\u003c/li\u003e\n\u003c/ul\u003e\u003cdiv\u003e\n\u003c!--block--\u003e\u003cstrong\u003e😀 We like to work with people who:\u003c/strong\u003e\n\u003c/div\u003e\u003cul\u003e\n\u003cli\u003e\n\u003c!--block--\u003eWant to help build a global social safety net on the Internet.\u003c/li\u003e\n\u003cli\u003e\n\u003c!--block--\u003eThink for themselves instead of copying others.\u003c/li\u003e\n\u003cli\u003e\n\u003c!--block--\u003eAre willing to try new things, even with the risk of failure.\u003c/li\u003e\n\u003cli\u003e\n\u003c!--block--\u003eAre intellectually curious and open to new ideas.\u003c/li\u003e\n\u003cli\u003e\n\u003c!--block--\u003eAre creative and bold in the face of any problems.\u003c/li\u003e\n\u003cli\u003e\n\u003c!--block--\u003eHave strong integrity and do the right thing.\u003c/li\u003e\n\u003c/ul\u003e"}</script>
+      
+
+
+            </div>
+
+
+
+            <h2 class="external-panel__heading" id="benefits-heading">
+              🧘 What we offer
+            </h2>
+            <div class="external-panel__trix-content external-panel__trix-content--colored" id="benefits-body">
+              <div id="External::Careerspage::Renderplyrvideo-react-component-97147640-80ec-4c82-b562-778923233b87"><div><div>
+<!--block-->We operate in a fully remote work environment – work from anywhere globally.&nbsp;<br><br>You will receive salary and equity compensation, health insurance, a laptop, a minimum of four weeks of the yearly vacation, personal development budget, attendance of professional conferences (and much more 😉).<br><br>We have a minimum of two annual team gatherings where you will join us. The previous gatherings were in&nbsp; Ljubljana, San Francisco, and Mexico.<br><br>We are looking forward to hearing from you!</div></div></div>
+      <script type="application/json" class="js-react-on-rails-component" data-component-name="External::Careerspage::Renderplyrvideo" data-dom-id="External::Careerspage::Renderplyrvideo-react-component-97147640-80ec-4c82-b562-778923233b87">{"featureFlags":{"job_templates":"enabled"},"companySettings":{"edit_offer_before_send":true,"advanced_search":true,"facebook_advert":false,"bulk_download":false,"move_to_hired_on_offer_acceptance":true,"bulk_email_job_seekers":false,"workflow_automation":true,"cronofy_enterprise_connect":false,"enable_job_maximum_headcount":false,"job_requisition_management":true,"essential_cookies_only":false,"strict_gdpr_adherence":false,"use_company_from_address":false,"semi_private_comments":false,"additional_statuses":false,"multiple_company_themes":false,"strict_ofccp_compliance":false,"grouped_jobs":false,"move_to_any_job":false,"remove_logo_from_email_template":false,"candidate_job_preferences":false,"automatically_reject_referrals":false,"indeed_feed_stages_and_workplace_type":false,"variable_sign_off_signatories":false,"react_select_on_external_jobs":false,"monitor_with_rum":false,"restricted_cronofy_oauth_scope":false},"enabledLocaleKeys":["en"],"onboardingSettings":{"isOnboardingEnabled":true},"htmlString":"\u003cdiv\u003e\n\u003c!--block--\u003eWe operate in a fully remote work environment – work from anywhere globally. \u003cbr\u003e\u003cbr\u003eYou will receive salary and equity compensation, health insurance, a laptop, a minimum of four weeks of the yearly vacation, personal development budget, attendance of professional conferences (and much more 😉).\u003cbr\u003e\u003cbr\u003eWe have a minimum of two annual team gatherings where you will join us. The previous gatherings were in  Ljubljana, San Francisco, and Mexico.\u003cbr\u003e\u003cbr\u003eWe are looking forward to hearing from you!\u003c/div\u003e"}</script>
+      
+
+
+            </div>
+
+
+          <h2 class="external-panel__heading" id="about-heading">
+            About SafetyWing
+          </h2>
+
+          <div class="external-panel__trix-content external-panel__trix-content--colored" id="about-body">
+            <div>
+<strong>SafetyWing</strong> was founded to support nomads like ourselves by building an adaptable software-based global social safety net.<br><strong>Our products</strong> are created by a fully remote team distributed across the globe and stretching ten timezones while headquartered in San Francisco.<br><strong>We’re here</strong> to remove the role of geographical borders as a barrier to equal opportunities and freedom for everyone.</div>
+          </div>
+
+            <div class="frow frow--centered-column mar-t-8 mar-t-md-14" id="external-jobs-show-apply-now">
+
+              <a class="external-button external-button--theme-highlight theme-highlight-background-color-ie-override theme-highlight-border-color-ie-override" href="/en/jobs/49596/applications/new">Apply Now</a>
+
+            </div>
+
+        
+                </details>
+                </td>
             </tr></table>
