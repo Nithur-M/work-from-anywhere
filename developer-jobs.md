@@ -10,7 +10,7 @@
                     <code>developer,defi,crypto,cryptocurrency,system,software,testing,financial,bank,cloud,strategy,management,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-quantitative-developer-abra-154191" align="right" target="_blank">Apply</a>
@@ -56,7 +56,7 @@
 </ul>
 <p><em><span style="font-weight:400;">At Abra, we are an equal opportunity employer committed to a diverse, inclusive, and equitable workplace and candidate experience. We strive to create an environment where everyone has a sense of belonging and purpose, and where we learn from the unique experiences of those around us. </span></em></p>
 <p><em><span style="font-weight:400;">We encourage all qualified candidates to apply regardless of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender, gender identity or expression, pregnancy or caregiver status, veteran status, or any other legally protected status.</span></em></p>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **AGILE** and tag RMTguMjA4LjE5Ni44MA== when applying to show you read the job post completely (#RMTguMjA4LjE5Ni44MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **AGILE** and tag RNDQuMTk3LjE3MS4xMjI= when applying to show you read the job post completely (#RNDQuMTk3LjE3MS4xMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -71,7 +71,7 @@
                     <code>developer,design,web3,solidity,ethereum,growth,web,travel,mobile,content,marketing,engineering,fulltime,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-head-of-developer-relations-flare-network-154195" align="right" target="_blank">Apply</a>
@@ -126,229 +126,126 @@ This role is suitable for a developer relations expert with an unrelenting & unc
         <li>Experienced with Solidity, Typescript, and/or Golang.</li>
 </ul>
 
-<p>We ask that you overlap some working hours with GMT. English is essential, other languages are a bonus. Fulltime or grants-based arrangement possible. If this is the kind of role that potentially appeals to you, please reach out.</p><br/><br/>Please mention the word **PROSPEROUS** and tag RMTguMjA4LjE5Ni44MA== when applying to show you read the job post completely (#RMTguMjA4LjE5Ni44MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>We ask that you overlap some working hours with GMT. English is essential, other languages are a bonus. Fulltime or grants-based arrangement possible. If this is the kind of role that potentially appeals to you, please reach out.</p><br/><br/>Please mention the word **PROSPEROUS** and tag RNDQuMTk3LjE3MS4xMjI= when applying to show you read the job post completely (#RNDQuMTk3LjE3MS4xMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/a52403dfef80da348b36a5e3c4ad0f371669274139.peg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0885/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Kira Network</h5>
-                    <h3>Blockchain Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,golang,linux,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-blockchain-developer-kira-network-153689" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>KIRA Blockchain Developer</p>
-
-<h3>
-<br>
-Requirements:</h3>
-
-<ul>
-        <li>Excellent understanding of Golang and cosmos-sdk with prior experience in blockchain development. </li>
-        <li>Strong familiarity with Linux OS,</li>
-        <li>Basic familiarity  infrastructure development</li>
-</ul><br/><br/>Please mention the word **EXCITE** and tag RMTguMjA4LjE5Ni44MA== when applying to show you read the job post completely (#RMTguMjA4LjE5Ni44MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/8312/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>XM</h5>
-                    <h3> Senior PHP Web Developers– Cyprus, Greece or Remote</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/8312/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Cyprus, Greece or Remote
-    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
-</p>
-
-<div>
-<strong>Reference Number: SPHPWD1021<br></strong><br>
-</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>The role:<br></strong><br>
-</div><div>As our new Senior PHP Developer, you will join an amazing team who is dedicated to taking the next step in software engineering. You will make key decisions on software processes, and use Kubernetes and Terraform on PHP, Go, React &amp; Angular on AWS. The team will keep you up-to-date with the latest technology stacks and processes and help you see challenging projects from beginning to end.<br><br>
-</div><div> <br><br>
-</div><div>
-<strong>The main responsibilities of the role include:<br></strong><br>
-</div><div>●        Design and implement new features/projects</div><div>●        Maintain and refactor existing web applications such as the company's website, registration forms, Members Area and internal web services</div><div>●        Research and integrate new web technologies</div><div>●        Write tests that will run on a continuous integration server 24/7 to ensure code testability, code coverage and quality conforms to the company’s highest standards</div><div>●        Resolve support tickets for IT related issues</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>Main requirements:<br></strong><br>
-</div><div>●        BSc/MSc in information technology or any other relevant degree</div><div>●        At least 3 years of experience in a similar position</div><div>●        Very good knowledge of PHP 7+, MySQL, Redis, Git</div><div>●        Very good understanding of object-oriented programming principles</div><div>●        Experience in creating and consuming web services</div><div>●        Experience with modern PHP frameworks</div><div>●        Experience in writing tests with PHPUnit</div><div>●        Ability to research and adapt new web technologies that add value to the team</div><div>●        Strong organisational skills with the ability to multitask and prioritise</div><div>●        Problem solving and analytical skills</div><div>●        Ability to work independently and integrate well within a team</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>The following will be considered an advantage:<br></strong><br>
-</div><div>●        Experience in Symfony framework</div><div>●        Experience in the development of REST APIs</div><div>●        Experience in software development practices like design patterns, SOLID principles, DRY</div><div>●        Very good understanding of security practices (OWASP)</div><div>●        Experience with cloud providers (e.g. AWS)</div><div>●        Experience in database query optimization</div><div>●        Experience in creating composer packages</div><div>●        Experience in front-end frameworks or libraries like Angular or React</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>Benefit from:<br></strong><br>
-</div><div>●        Attractive remuneration package </div><div>●        Private health insurance</div><div>●        Food allowance</div><div>●        Intellectually stimulating work environment</div><div>●        Continuous personal development and international training opportunities</div><div> </div><div>
-<br>Type of employment: Full time<br><br>
-</div><div>
-<br>Location: Cyprus, Greece or Remote <br><br>
-</div><div>
-<br> <br><br>
-</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position. </div><div> </div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote">https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0394/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>amazee.io</h5>
-                    <h3> Frontend Developer - (80% - 100%)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>9 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/amazee-io-frontend-developer-80-100-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/0394/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Zurich, Switzerland 
-    <br /><strong>URL:</strong> <a href="https://amazee.io">https://amazee.io</a>
-</p>
-
-<div>
-<strong>Frontend Developer - Remote (80% - 100%)<br><br>Description: </strong><br><br>Hi! We're <a href="http://amazee.io/">amazee.io</a>, a ZeroOps application delivery hub for engineering teams to deploy applications more easily. Our developer-centric, open source platform makes developers’ lives and jobs easier, minimizing the stress of managing infrastructure or operations. amazee.io supports organizations across the globe to accelerate their cloud and container adoption, along with providing easily managed Kubernetes for developer teams. We run anywhere in the world, with 24/7/365 dedicated support. </div><div><br></div><div>We’re looking for a Frontend Developer to join our remote team. As a Frontend Developer with amazee.io, you’ll be working alongside a UX designer and a UI designer on our core ZeroOps applications delivery product, Lagoon. You’ll be key in transforming Lagoon from a developer focused tool, to a market ready intuitively designed platform, by implementing design and interaction changes, turning the work of the UX and UI designers into well functioning code. We’ve got some exciting new directions to take our interfaces and integrations, and in delivering a more complete experience for all our users. </div><div><br></div><div>If you feel like this could be the role for you, then come and join a team of open source enthusiasts, committed to providing flexible web solutions in an open and transparent work environment, and having fun doing it.</div><div><br></div><div><strong>What you’ll be doing: </strong></div><ul>
-<li>Breathing new life into our React-based Lagoon UI, refining the integration between it and our GraphQL API</li>
-<li>Owning the entire development lifecycle for the UI components, over their various iterations</li>
-<li>Implementing a design system and set of components to guide the future development of the UI</li>
-<li>Implementing iterations of the UI and components as React Native plugins to third party applications</li>
-<li>Working with our UI, product and engineering teams to design, develop and iterate a range of prototypes for upcoming features</li>
-</ul><div><br></div><div><strong>What you’ll bring:</strong></div><ul>
-<li>Experience developing in React, React Native, GraphQL</li>
-<li>Experience with integrating backend technologies (e.g server-side rendering, single sign-on)</li>
-<li>Understanding of how to implement and maintain design systems</li>
-<li>Ability to perform end-to-end Javascript testing and compatibility</li>
-<li>Experience with shipping features via feature flags, phased rollouts and A/B testing</li>
-<li>Comfort communicating technical topics in English, both verbal and written<br><br>
-</li>
-</ul><div>amazee.io is dedicated to providing a work environment of trust, transparency, and inclusion for everyone. As a fully remote company we offer flexibility when it comes to working hours and location. Here’s some other things you can expect from us.</div><div><br></div><div><strong>What we’ll bring:</strong></div><ul>
-<li>A fully distributed team of creative colleagues in a flat, open and transparent organization </li>
-<li>Flexible working hours, and time off in lieu when you work overhours</li>
-<li>Fully Remote working </li>
-<li>5 paid days off a year for conference attendance or education related commitments </li>
-<li>An annual education benefit of $1,500 or equivalent to dedicate to your professional development</li>
-<li>An annual wellbeing benefit of $500 or equivalent to dedicate to your physical or mental health </li>
-<li>A monthly connectivity benefit of $100 or equivalent for you to expense internet costs as a remote worker </li>
-<li>Your own annual tech budget, with full initial setup provided</li>
-<li>Sweet, sweet Swag - Hoodies and other goodies </li>
-<li>
-<strong>amazee.io Quest!</strong> - After 3 years, you’ll get 3 weeks paid off work to undertake a profound personal goal, or undertake a bucket list type challenge.</li>
-</ul><div><br></div><div><strong>So what’s next?: </strong></div><div><br></div><div>Apply! Send us your CV and Cover Letter, showcasing who you are, your experience, and anything else you think we should know! </div><div><br></div><div>The amazee.io Team.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/amazee-io-frontend-developer-80-100-1">https://weworkremotely.com/remote-jobs/amazee-io-frontend-developer-80-100-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Dearman Systems LLC</h5>
-                    <h3> ASP.NET C# Developer or Software Engineer (ASP.NET C#) </h3>
+                    <h5>Innovations For Learning</h5>
+                    <h3> Senior Full Stack Developer (US)</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/dearman-systems-llc-asp-net-csharp-developer-or-software-engineer-asp-net-c" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/innovations-for-learning-senior-full-stack-developer-us" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0082/0885/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Houston, Tx
-    <br /><strong>URL:</strong> <a href="https://www.dearmansystems.com/">https://www.dearmansystems.com/</a>
+  <strong>Headquarters:</strong> Evanston, IL
+    <br /><strong>URL:</strong> <a href="https://innovationsforlearning.org">https://innovationsforlearning.org</a>
 </p>
 
-<div><strong>ASP.NET C# Developer or Software Engineer (ASP.NET C#) </strong></div><div><br></div><div>
-<strong>About The Role:<br></strong><br>
-</div><div>
-<strong>In this role, you will be a developer for our LYNX web application.<br></strong><br>
-</div><div>
-<strong>This role is remote and you can be located anywhere in the world.<br></strong><br>
-</div><div>
-<br><br>
-</div><div>
-<strong>Key Responsibilities:<br></strong><br>
-</div><div>
-<strong>- Integrate 3rd party APIs for billing and contract management<br></strong><br>
-</div><div>
-<strong>- Track and communicate task progress and status to project manager on a regular basis<br></strong><br>
-</div><div>
-<strong>- Work with project manager to estimate future project efforts<br></strong><br>
-</div><div>
-<br><br>
-</div><div>
-<strong>Qualifications:<br></strong><br>
-</div><div>
-<strong>- Experience and proficiency in ASP.Net and C# using the Microsoft Visual Studio IDE (Required)<br></strong><br>
-</div><div>
-<strong>- Experience with cloud architecture, preferably Azure<br></strong><br>
-</div><div>
-<strong>- Relational database experience, MS SQL Server (Preferred)<br></strong><br>
-</div><div>
-<strong>- Working knowledge of Git source control system (Preferred)<br></strong><br>
-</div><div>
-<strong>- Bachelor's degree in Computer Science or related discipline or related work experience <br></strong><br>
-</div><div>
-<strong>- 5-10 years of experience is preferred<br></strong><br>
-</div>
+<div>
+<strong>Innovations For Learning</strong> is a non-profit with over 20 years of proven success in improving children’s literacy in many school districts in the US, Canada, and the UK. We use technology in the classroom, in online tutoring sessions, and at home to give young kids the skills to read confidently to the expected standard for their age. We aren’t a sleepy, soft-spoken non-profit - we are driven to make a dent in the universe and have a profound and positive impact on children’s lives.<br><br>
+</div><div>IFL is looking for a creative, energetic, and passionate full-stack developer to help us build out our suite of software. You will be mostly focused on the server side, building out our back-end software and APIs using Ruby. However, there will also be times you will work with Javascript. We intend for this position to be an 80/20 back-end/front-end role.</div><div>
+<br>We have a flexible, supportive, and collaborative work environment with all the best development tools and frameworks. Our development team encourages you to take an idea and run with it. This is a fully-remote position.</div><div>
+<br>So, please apply, join our dynamic team, and make a difference in children’s lives all across the world. It all starts with literacy!</div><div>
+<br>Skills:</div><ul>
+<li>Ruby on Rails</li>
+<li>PostgreSQL</li>
+<li>Active Record</li>
+<li>RESTful API’s</li>
+<li>Data modeling</li>
+<li>SQL</li>
+<li>Experience with modern Javascript frameworks</li>
+<li>Computer Science or a related degree is a plus</li>
+<li>5+ years experience</li>
+</ul><div>Some of our tools and framework stack:</div><ul>
+<li>Jira Agile</li>
+<li>GitHub</li>
+<li>Gulp</li>
+<li>RSpec</li>
+<li>Mocha</li>
+<li>Capybara</li>
+<li>Nightwatch</li>
+<li>Heroku</li>
+<li>Codeship</li>
+<li>AWS S3</li>
+<li>Twilio Voice and SMS</li>
+<li>Postgres</li>
+<li>Redis</li>
+</ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/dearman-systems-llc-asp-net-csharp-developer-or-software-engineer-asp-net-c">https://weworkremotely.com/remote-jobs/dearman-systems-llc-asp-net-csharp-developer-or-software-engineer-asp-net-c</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/innovations-for-learning-senior-full-stack-developer-us">https://weworkremotely.com/remote-jobs/innovations-for-learning-senior-full-stack-developer-us</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7016/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bottomless</h5>
+                    <h3> Senior Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-4" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7016/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Seattle, Wa
+    <br /><strong>URL:</strong> <a href="https://www.bottomless.com/">https://www.bottomless.com/</a>
+</p>
+
+<div>We are a fast-growing startup with a product used by thousands of consumers every day.<br><br>We are looking for a jack-of-all-trades <strong><em>senior</em></strong> javascript/full stack developer.<br><br>The ideal candidate for this position would be able to dive into any kind of project, from frontend UI/UX tasks in React.js to backend tasks running on Node.js.<br><br>If you’re interested in variety and working hard to build something big, this might be a good fit.<br><br>We need to achieve <em>80% of the results with 20% of the effort</em>.<br><br><strong>Responsibilities:</strong>
+</div><ul>
+<li>Design and build infrastructure and products for a sensor-enabled e-commerce marketplace.</li>
+<li>Build robust infrastructure to support existing product lines and the ability to roll out new ones.</li>
+<li>Responsibility over the user-facing product</li>
+<li>Quick iteration on different fronts from fronted UX changes to database design to quick and dirty implementations.</li>
+<li>Responsible for full deployment and testing of applications.</li>
+</ul><div><br></div><div><strong>Skill, Qualifications, and Experience:</strong></div><div><br></div><div><em>Expert proficiency required:</em></div><ul>
+<li>Node.js</li>
+<li>NoSQL databases</li>
+<li>React.js</li>
+<li>English (written and verbal)</li>
+</ul><div><br></div><div><em>Intermediate proficiency, at a minimum:</em></div><ul>
+<li>UI/UX design</li>
+<li>Software architecture</li>
+</ul><div>
+<br>Not required, but a plus:</div><ul>
+<li>Python (background tasks)</li>
+<li>Embedded systems (C++)</li>
+</ul><div> <br><strong>Details:</strong>
+</div><ul>
+<li>Remote OK. Must be flexible with hours as we have a remote international team.</li>
+<li>Competitive equity and cash compensation</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-4">https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-4</a></p>
 
                 </details>
                 </td>
@@ -364,7 +261,7 @@ Requirements:</h3>
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -431,7 +328,7 @@ Requirements:</h3>
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -500,7 +397,7 @@ Requirements:</h3>
                     <code>api,developer,ios,mobile</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ios-developer-1497219" align="right" target="_blank">Apply</a>
@@ -556,7 +453,7 @@ Requirements:</h3>
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -633,7 +530,7 @@ Requirements:</h3>
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -659,7 +556,7 @@ Requirements:</h3>
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
