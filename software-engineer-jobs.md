@@ -1,5 +1,73 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/347bf01a2316f4893402c54c9832bdd01669619735.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TradeBlock</h5>
+                    <h3>Lead Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,crypto,redis,python,django,code,web,financial,java,cloud,postgresql,lead,health,engineer,linux,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-lead-software-engineer-tradeblock-155728" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro"><p><span style="text-decoration:underline;"><strong>About The Company</strong></span><br><span style="font-weight:400;">TradeBlock is the leading institutional digital assets trading platform. TradeBlock provides standardized connectivity and a powerful suite of tools to capture the end-to-end trade lifecycle for liquidity providers, asset managers, corporate clients, and exchanges, among others.</span></p></div><p><span style="text-decoration:underline;"><strong>About the Position</strong></span></p>
+<p><em>Budgeted Base Salary Range:</em> $200k - $250k</p>
+<p>Our engineers design and build Financial Information Exchange (FIX) infrastructure which supports our Crypto Trading Platform.  Our Platform must provide low-latency, highly secure, and distributed design for our clients. They are responsible for core software development, data ingestion, transformation, and distribution, as well as measuring and improving the performance of our systems.</p>
+<p>The ideal candidate will have experience in crypto currencies, capital markets and/or FX, solid understanding of data structures and algorithms, strong Java programming skills and FIX knowledge/experience.</p>
+<p><strong>Responsibilities</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Develop scalable and robust architecture for the existing state of our infrastructure as  well as its future state while contributing to its maintenance and improvement.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Write reliable, reusable, and efficient code and APIs to support our infrastructure and  product requirements.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Spend 70% of time coding</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Manage a small team of 3-4 engineers.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Manage crypto exchange and broker connectivity (REST, Web Socket and FIX) </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Analyze performance and identify bottlenecks.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Contribute to the status and health monitoring systems of our infrastructure.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Provide quick responses to production issues.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Contribute technical input and knowledge to the planning, design, and requirements  process of new products.</span></li>
+</ul>
+<p><strong>Requirements</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">5+ years of Python coding skills.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Strong Data Structures & Algorithms knowledge</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with Django framework</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with SQL and relational databases, PostgreSQL preferred</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Knowledge of Cloud Infrastructure (AWS, Google, On-prem)</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Strong Linux experience</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Proficiency with messaging (Redis, ZeroMQ, RabbitMQ) and ETL data pipelines</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience managing a small team of 3-4 engineers</span></li>
+</ul>
+<p><strong>Preferred</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Knowledge of C++, Rust, or Go</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with crypto currencies, FX, or capital markets.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with Redis Streams, NATS or other streaming technologies</span></li>
+</ul>
+<p><strong>Technologies</strong></p>
+<p><span style="font-weight:400;">AWS, PostgreSQL, Linux, Redis, Python, ZeroMQ, and Git</span></p><div class="content-conclusion">
+<p><span style="text-decoration:underline;"><strong>Benefits Highlights</strong></span></p>
+<ul>
+<li>90% of Medical, Dental, Vision costs covered by TradeBlock (Coverage starts from day one)</li>
+<li>401k Match w/ 5% company match</li>
+<li>Flexible PTO (Taking time off is important and encouraged)</li>
+<li>Opportunities for Equity in Digital Currency Group</li>
+<li>Paid Family Leave for mothers and fathers</li>
+<li>All new employees receive a WFH stipend.</li>
+</ul>
+</div><br/><br/>Please mention the word **DOUBTLESS** and tag RNDQuMTk3LjE3MS4xMjI= when applying to show you read the job post completely (#RNDQuMTk3LjE3MS4xMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/8ab4dab9983c97e68d323fb9a99841121669374006.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +78,7 @@
                     <code>software,design,front-end,developer,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-nimblerx-154283" align="right" target="_blank">Apply</a>
@@ -32,7 +100,7 @@ As a Nimble Engineer, you will help in architecting the technology and customer 
 
 At Nimble, we are dedicated to putting patients first and improving pharmacies across America. Join us on this exciting journey!
 
-Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and inclusive work environment where we learn from each other. We pride ourselves on being an equal opportunity employer and welcome people of diverse backgrounds, abilities and perspectives.<br/><br/>Please mention the word **STIMULATIVE** and tag RMTguMjA4LjE5Ni44MA== when applying to show you read the job post completely (#RMTguMjA4LjE5Ni44MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and inclusive work environment where we learn from each other. We pride ourselves on being an equal opportunity employer and welcome people of diverse backgrounds, abilities and perspectives.<br/><br/>Please mention the word **STIMULATIVE** and tag RNDQuMTk3LjE3MS4xMjI= when applying to show you read the job post completely (#RNDQuMTk3LjE3MS4xMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -47,7 +115,7 @@ Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and i
                     <code>software,web3,front-end,javascript,health,engineer,engineering,full-time</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-utopia-labs-154190" align="right" target="_blank">Apply</a>
@@ -79,7 +147,7 @@ Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and i
 <li>Experience writing smart contracts </li>
 <li>Demonstrated interest in open and community-driven platforms.</li>
 </ul><div><span style="font-size:24px;">Perks & Benefits</span></div><div><br></div><div><span style="font-size:18px;">ð Health and wellbeing</span></div><div>We offer top-of-the-line benefits, including health, mental health, dental, and vision insurance.</div><div><br></div><div><span style="font-size:18px;">ð´ Time off</span></div><div>We want people to take time off to rest and rejuvenate. We offer a 3 week paid vacation as well as 10 observed holidays by country.</div><div><br></div><div><span style="font-size:18px;">ð£ Parental leave</span></div><div>Our parental leave policy offers biological, adoptive, and foster parents paid time off to spend quality time with family.</div><div><br></div><div><span style="font-size:18px;">ð¥ Lunch on us</span></div><div>You'll have a very generous meal budget for you to eat every day.</div><div><br></div><div><span style="font-size:18px;">ð Commuting</span></div><div>We offer monthly commuter credits.</div><div><br></div><div><br></div><div><span style="font-size:24px;">Any Questions?</span></div><div><br></div><div>Email: pryce@utopialabs.com</div><div><br></div><div>Twitter: <a href="https://twitter.com/pryceandstuff" class="postings-link" rel="noopener noreferrer nofollow">https://twitter.com/pryceandstuff</a>
-</div><div><br></div><br/><br/>Please mention the word **REMUNERATE** and tag RMTguMjA4LjE5Ni44MA== when applying to show you read the job post completely (#RMTguMjA4LjE5Ni44MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><div><br></div><br/><br/>Please mention the word **REMUNERATE** and tag RNDQuMTk3LjE3MS4xMjI= when applying to show you read the job post completely (#RNDQuMTk3LjE3MS4xMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -94,7 +162,7 @@ Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and i
                     <code>solidity,software,design,web3,ethereum,testing,test,manager,senior,golang,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-solidity-obol-labs-154201" align="right" target="_blank">Apply</a>
@@ -134,7 +202,7 @@ Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and i
 <li>Opportunity to collaborate with industry leading validators</li>
 <li>Opportunity to collaborate with Ethereum core client teams</li>
 <div><br></div>
-</ul><div>ð°ï¸ In order to scale efficiently, we focus our hiring on candidates able to work during the standard business hours of the following timezones: GMT-8 to GMT+3. </div><div>This does not mean that you have to be located in these timezones to get the job but must be able to work the bulk of your time during their standard business hours.</div><div><br></div><div>â ï¸ This role has been hired for but we are keeping the application open as we are growing fast and are always open to great talent â ï¸</div><br/><br/>Please mention the word **VIRTUE** and tag RMTguMjA4LjE5Ni44MA== when applying to show you read the job post completely (#RMTguMjA4LjE5Ni44MA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>ð°ï¸ In order to scale efficiently, we focus our hiring on candidates able to work during the standard business hours of the following timezones: GMT-8 to GMT+3. </div><div>This does not mean that you have to be located in these timezones to get the job but must be able to work the bulk of your time during their standard business hours.</div><div><br></div><div>â ï¸ This role has been hired for but we are keeping the application open as we are growing fast and are always open to great talent â ï¸</div><br/><br/>Please mention the word **VIRTUE** and tag RNDQuMTk3LjE3MS4xMjI= when applying to show you read the job post completely (#RNDQuMTk3LjE3MS4xMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -149,7 +217,7 @@ Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and i
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -211,7 +279,7 @@ Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and i
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
