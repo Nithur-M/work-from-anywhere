@@ -1,5 +1,91 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/4971/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Whitespectre</h5>
+                    <h3> UI/UX Designer</h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/whitespectre-ui-ux-designer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0077/4971/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="http://www.whitespectre.com/">http://www.whitespectre.com/</a>
+</p>
+
+<div>We’re seeking a talented, creative, and dedicated UI/UX Designer to join our team. In this role, you’ll create impactful and engaging experiences for both our clients as well as Whitespectre’s own software products. You’ll collaborate with engineering, product management, and stakeholders to solve interesting product challenges and deliver features that provide a great user experience and drive significant business value and insight.<br><br>
+</div><div>This role sits within the product design team and reports directly to the head of UI/UX. <strong>Please provide a link to your current portfolio.</strong> Candidates without portfolios will not be considered.<br><br>
+</div><div>
+<a href="http://www.whitespectre.com/"><strong>Whitespectre</strong></a> is a product development company that creates high-performing platforms and apps, both for our long-term client partners and our own products. Founded in 2013, we partner with both large established companies and high-growth start-ups in the US and Europe. We're a close-knit team of 70 smart and diverse architects, engineers, product managers and designers, working together remotely and growing! Only candidates from outside of the US will be considered for this role.<br><br>
+</div><div>
+<br><br>
+</div><div><strong>In this role, you will:</strong></div><ul>
+<li>Cover the end-to-end UI/UX design process, from research and the development of wires and prototyping, to gathering user feedback, to collaborating with and presenting to stakeholders and designing polished interfaces.</li>
+<li>Collaborate closely with product managers, engineers, and other UI/UX designers to develop intuitive and elegant product experiences.</li>
+<li>Prioritize user needs and be the voice of the user in conversations and decisions.</li>
+<li>Design user flows, wireframes, and prototypes to demonstrate your ideas to stakeholders.</li>
+<li>Incorporate best practices, research, and user feedback into your design decisions.</li>
+<li>Confidently present your ideas and recommendations to internal stakeholders and clients.</li>
+</ul><div><br></div><div><strong>The ‘check the box’ requirements:</strong></div><ul>
+<li>3+ years experience in UI/UX design, including responsive sites and applications and native mobile applications (iOS, Android, React Native).</li>
+<li>Experience working across the entire product lifecycle, from research and prototyping, to launch, to ongoing feedback and iteration cycles.</li>
+<li>A robust portfolio of past projects and live examples.</li>
+<li>Strong visual design skills that demonstrate excellence in the core principles of typography, layout, color etc. A design aesthetic that demonstrates a strong foundation in the core visual design principles (typography, layout, color, etc.).</li>
+<li>Excellent communication skills in English, including the ability to engage confidently with clients in design discussions and presentations.</li>
+<li>Comfortable in fast-paced, collaborative environments.</li>
+<li>Availability to work full-time within a fast-moving cross-functional team, crossing over with 11am - 7pm Central European Time</li>
+</ul><div><br></div><div><strong>We’re excited about candidates who are:</strong></div><ul>
+<li>Passionate about creating products that deliver both a first-class user experience as well as real business results.</li>
+<li>Seriously detail-oriented. You pride yourself on delivering designs that are accurate and consistent. You enjoy thinking through the multiple scenarios and perspectives in each user experience you create.</li>
+<li>Committed to keeping up with ‘best practices’ and new design thinking. You’re naturally curious, you’re constantly reviewing new apps and products, you can speak comfortably on the pros and cons of the latest design trends</li>
+<li>Skilled at presenting your designs and findings with clarity and confidence and engaging in stakeholder discussions</li>
+</ul><div><br></div><div><strong>Benefits</strong></div><ul>
+<li>Competitive pay, in USD</li>
+<li>Annual Performance &amp; Salary Reviews, with proactive career management</li>
+<li>20 Days PTO &amp; 3 Charity Days annually</li>
+<li>Funded face-to-face meet ups in Barcelona, as well as, South America and Asia</li>
+<li>Assisted Relocation package up to $5k</li>
+<li>Flexible working hours for efficient teaming in a 100% remote environment (proudly remote-first for 9 years!)</li>
+<li>Free English classes &amp; educational expenses support</li>
+<li>Generous Employee Referral Plan</li>
+<li>Team Fitness and Charity Initiatives</li>
+<li>We offer employee or long-term independent contractor agreements, depending on location</li>
+</ul><div><br></div><div>
+<strong>Cultural benefits<br></strong><br>
+</div><div>In addition to the above benefits, we foster an inclusive working environment that provides:<br><br>
+</div><ul>
+<li>Great company environment - check out <a href="https://www.glassdoor.com.ar/Reviews/Whitespectre-Reviews-E1575846.htm?countryRedirect=true"><strong>Glassdoor</strong></a>
+</li>
+<li>Personalized onboardings</li>
+<li>Opportunity to contribute to company-level initiatives</li>
+<li>Work with a broad range of best-in-class technologies and the latest design tools</li>
+<li>Cross-company knowledge groups - improve your expertise and share your learnings</li>
+<li>Regular brown bag learning sessions</li>
+<li>An emphasis on Work-life balance</li>
+</ul><div><br></div><div><strong>Interested in applying?</strong></div><ul>
+<li>Apply by completing the form below</li>
+<li>Or email us with any questions on recruiting@whitespectre.com</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/whitespectre-ui-ux-designer-1">https://weworkremotely.com/remote-jobs/whitespectre-ui-ux-designer-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0617/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +96,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/pebble-ui-ux-designer" align="right" target="_blank">Apply</a>
@@ -66,67 +152,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Springboard</h5>
-                    <h3> Mentor - UI/UX Design Career Track (Part-time/Remote)</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>277 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="https://www.springboard.com/">https://www.springboard.com/</a>
-</p>
-
-<div><strong>The Company </strong></div><div> </div><div>At Springboard, we’re on a mission to bridge the world’s skills gap, offering transformative online education in data science, UI/UX design, machine learning, and coding. Our courses may be tech-enabled, but we're ultimately human-centric: each student taps into a vast community throughout their time with us, engaging with fellow students, industry-expert mentors, student advisors, and career coaches, the goal of which is to successfully transition students into their dream job. Through this hybrid approach, we’ve helped thousands of learners revamp their careers and, by extension, their lives, with hundreds of top-notch job offers received every year and a near-perfect placement rate for our program graduates.</div><div>
-<br><strong>The Opportunity</strong>
-</div><div> </div><div>Springboard runs an online, self-paced UI/UX Design Career Track in which participants learn with the help of a curated curriculum and 1-1 guidance from an expert mentor. Our mentor community is the biggest strength of our programs with a Net Promoter Score rated as world class.</div><div> </div><div>If you are as passionate about mentoring as you are about UX and UI, and can give a few hours per week in return for an honorarium, we would love to hear from you.</div><div> </div><div><strong>What does mentoring mean at Springboard?</strong></div><div> </div><div>Mentoring encompasses many levels of support at Springboard. We believe in giving a personalized approach to mentoring students. What this looks like is grading student deliverables on a weekly basis, offering detailed feedback, teaching/modeling concepts that are challenging for students, and/or giving them career pointers about the industry. Depending on your mentees you’ll lean on a teaching approach, being a motivator, advisor, or you may have high level conversions to guide them throughout the course. A mix of diverse students, skills, and abilities offers opportunities to renew your skills or take your skills to the next level. Mentors have said it’s a rewarding opportunity to grow professionally and make a lasting impact. </div><div> </div><div>Please reach out to us with any questions at mentorrecruiting@springboard.com :-)</div><div> </div><div><strong>The Program:</strong></div><ul>
-<li>Completely online</li>
-<li>Self-paced</li>
-<li>Students become proficient in UI/UX with the help of a curated online curriculum, an industry design project, and project-based deliverables</li>
-<li>Coursework is made up of 700+ hour expert-curated curriculum</li>
-<li>On average, students finish in 9 months</li>
-<li>Students are working professionals from all over the world, dedicated to switching careers into UI/UX Design</li>
-<li>Students have a weekly 30-minute checkin with their mentor to discuss questions, projects, and career advice!</li>
-<li>Students communicate with mentors outside of calls on an as-needed basis to support learning and career objectives</li>
-</ul><div><strong>You:</strong></div><ul>
-<li>Are as passionate about teaching design as about design itself</li>
-<li>Are proficient in the topics covered in our<a href="https://www.springboard.com/workshops/ui-ux-design-career-track/"> UI/UX Design Career Track</a> (we are looking for designers who have equal experience in UI and UX)</li>
-<li>Have at least 3 years of relevant work experience, and a high quality  portfolio to showcasing your UI and UX skills</li>
-<li>Are available for weekly, 30-minute video check-ins for each student to help them set and achieve learning goals, provide feedback, and help them move towards getting a job</li>
-<li>Are able to utilize Zoom for the 30-minute calls with students</li>
-<li>Are available outside of weekly calls for each student to review projects and answer questions as needed</li>
-<li>Have experience critiquing work, in particular giving meaningful feedback on visual/UI design, and be able to think on your feet quickly</li>
-<li>Are empathetic and have excellent communication skills</li>
-</ul><div><strong>Benefits:</strong></div><ul>
-<li>Membership in a rich community of expert mentors from great companies like AirBnB, Uber, Google, and Pivotal</li>
-<li>Change the lives of students in our program</li>
-<li>Help us revolutionize online education!</li>
-<li>UI/UX career track mentors are paid an honorarium between $20.50-$37.50 per 30 minute call with students</li>
-<li>Work at your convenience</li>
-</ul><div>
-<em>We are an equal opportunity employer and value diversity at our company. We welcome applications from all backgrounds, and do not discriminate on the basis of race, religion, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br></em> </div><div><strong>California Privacy Rights Notice for Job Applicants</strong></div><div>Under the California Consumer Privacy Act (“CCPA”), Springboard is required to inform California residents who are job applicants about the categories of personal information we collect about you and the purposes for which we will use this information. This <a href="https://www.springboard.com/archeio/download/841f959e9c964e93a87abe993316cc1f/">notice</a> contains disclosures required by the CCPA and applies only to personal information that is subject to the CCPA.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote">https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -137,7 +162,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
