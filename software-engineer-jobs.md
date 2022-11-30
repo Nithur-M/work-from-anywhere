@@ -63,7 +63,7 @@
 <li>Paid Family Leave for mothers and fathers</li>
 <li>All new employees receive a WFH stipend.</li>
 </ul>
-</div><br/><br/>Please mention the word **DOUBTLESS** and tag RNTQuMTk3LjEyLjE3NA== when applying to show you read the job post completely (#RNTQuMTk3LjEyLjE3NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **DOUBTLESS** and tag RNTQuMjM2LjI1My4xODc= when applying to show you read the job post completely (#RNTQuMjM2LjI1My4xODc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -100,7 +100,7 @@ As a Nimble Engineer, you will help in architecting the technology and customer 
 
 At Nimble, we are dedicated to putting patients first and improving pharmacies across America. Join us on this exciting journey!
 
-Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and inclusive work environment where we learn from each other. We pride ourselves on being an equal opportunity employer and welcome people of diverse backgrounds, abilities and perspectives.<br/><br/>Please mention the word **STIMULATIVE** and tag RNTQuMTk3LjEyLjE3NA== when applying to show you read the job post completely (#RNTQuMTk3LjEyLjE3NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and inclusive work environment where we learn from each other. We pride ourselves on being an equal opportunity employer and welcome people of diverse backgrounds, abilities and perspectives.<br/><br/>Please mention the word **STIMULATIVE** and tag RNTQuMjM2LjI1My4xODc= when applying to show you read the job post completely (#RNTQuMjM2LjI1My4xODc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
