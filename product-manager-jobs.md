@@ -215,4 +215,28 @@
 
                 </details>
                 </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1177267684574208000/54eG3WmW_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>SafetyWing</h5>
+                    <h3>Product Manager Nomad Insurance</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://safetywing.pinpointhq.com/en/jobs/49596" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2>🧘 What we offer</h2> <div><!--block-->We operate in a fully remote work environment – work from anywhere globally.&nbsp;<br><br>You will receive salary and equity compensation, health insurance, a laptop, a minimum of four weeks of the yearly vacation, personal development budget, attendance of professional conferences (and much more 😉).<br><br>We have a minimum of two annual team gatherings where you will join us. The previous gatherings were in&nbsp; Ljubljana, San Francisco, and Mexico.<br><br>We are looking forward to hearing from you!</div> <div><!--block--><a href="https://safetywing.com"><strong>SafetyWing</strong></a> (YC W18) is seeking an ambitious and creative <strong>Product Manager - Nomad Insurance</strong> to help make our product something our customers love so much they’ll tell their friends about it. <br><strong>Nomad Insurance</strong> is rapidly scaling, and we need an experienced product leader to partner with the General Manager to own and implement the product roadmap. You will be working on the very first product we have launched.</div> <h2>💻 Your responsibilities will include</h2>  <ul><li><!--block-->Identify the most pressing issues in the product, find creative solutions to them, and quickly implement improvements with optimism and enthusiasm.&nbsp;</li><li><!--block-->Lead cross-functional projects most important to the team. If you were to join today, these would include things like implementing better processes for handling customer claims and working with legal, compliance, and partnership stakeholders to improve both our current nomad insurance product and our affiliate product for ambassadors.</li><li><!--block-->Help Nomad Insurance achieve its potential by understanding the latest status of all priority projects happening, pushing goals to be met, and being a jack of all trades to support your team in implementation.&nbsp;</li><li><!--block-->Build out operational systems and automation SafetyWing as we scale and grow, and ultimately make a product people love so much they tell their friends about it.</li></ul> <h2>🧪 We are looking for someone who</h2> <ul><li><!--block-->Is ambitious, organized, and great with a verbal and written communication</li><li><!--block-->Has had Product Management experience or equivalent experience as an entrepreneur. Ideally, you’ve also worked in the B2C space before.</li><li><!--block-->Has strong leadership skills and the ability to make people around you fulfill their potential.</li><li><!--block-->Is comfortable with product development cycles and ready to iterate and innovate on our processes.&nbsp;</li><li><!--block-->Has a growth-oriented mindset and is motivated by challenging growth targets.</li><li><!--block-->Has the ability to plan a project, gather the resources and see it through to completion no matter what challenges you encounter.</li><li><!--block-->Has good judgment in making something people love so much they tell their friends.</li></ul><div><!--block--><strong>😀 We like to work with people who:</strong></div><ul><li><!--block-->Want to help build a global social safety net on the Internet.</li><li><!--block-->Think for themselves instead of copying others.</li><li><!--block-->Are willing to try new things, even with the risk of failure.</li><li><!--block-->Are intellectually curious and open to new ideas.</li><li><!--block-->Are creative and bold in the face of any problems.</li><li><!--block-->Have strong integrity and do the right thing.</li></ul>
+                </details>
+                </td>
             </tr></table>
