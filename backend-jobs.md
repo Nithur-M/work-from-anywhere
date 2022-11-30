@@ -1,5 +1,56 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/9674b8985011abeb76a30485b25d84311669706126.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Zora</h5>
+                    <h3>Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>ethereum,system,api,engineer,engineering,backend</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-zora-156226" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2>About Us</h2>
+<p>ZORA is a group of individuals working towards a new paradigm for creators by enabling the creation, curation, and collection of NFTs. We believe that by enabling a more equitable system for creators and communities, we will fundamentally rediscover the power of the internet.</p>
+<p>Weâre working tirelessly to make ZORA available to as many creators as possible. Our <a href="http://zora.co/manifesto" rel="noopener noreferrer nofollow">mission</a> is to build a new creator and community-owned economy.</p>
+<h2>Who we're looking for</h2>
+<p>ZORA is looking for experienced backend engineers to help design, implement, and extend the ZORA API and indexing services. </p>
+<h2>What you'll do</h2>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with engineering & product teams to build toward our shared vision</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Focus on the ZORA API and indexing architecture</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Deliver & own features and projects from beginning to end</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Work closely with our product teams to implement and collaborate to deliver new features and experience for the ZORA ecosystem</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Inject your energy and perspective into every product meeting, standup, and interaction, both within the team and around ZORA's broader community</span></li>
+</ul>
+<h2>Skills we're looking for</h2>
+<ul>
+<li>Solid understanding of Python, Ethereum RPCs, and blockchain indexing patterns</li>
+<li>An eye for detail</li>
+<li>A collaborative approach to problem solving</li>
+<li>Adept communication skills</li>
+</ul>
+<h2>We'd love it if you had</h2>
+<ul>
+<li>Crypto experience</li>
+<li>High scale API expertise</li>
+<li>Past contributions to open source libraries</li>
+</ul>
+<h2>Compensation</h2>
+<p>We're committed to offering you a salary competitive to the market based on your experience.</p><br/><br/>Please mention the word **WORTHWHILE** and tag RNDQuMjAwLjI0Mi4yMzM= when applying to show you read the job post completely (#RNDQuMjAwLjI0Mi4yMzM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/a3835a1494d43aca2eeb4c264cb1b1ed1669446970.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +61,7 @@
                     <code>design,web3,crypto,system,software,test,code,finance,cloud,go,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-rift-finance-154727" align="right" target="_blank">Apply</a>
@@ -31,74 +82,7 @@
 <li>Experience building SDKs, APIs, or otherwise building and maintaining a production system at scale.</li>
 <li>Experience with AWS, GCP or similar cloud providers</li>
 <li>Desire to keep up with modern best practices in software development and crypto, and shape our tech stack as we build out new systems and services</li>
-</ul><div>Our benefits include competitive compensation, early stage equity allocations, team outings, wellness stipends, 401k with employer matching (for US employees), unlimited PTO, medical, dental, and vision insurance. In addition, you'll join a team of high caliber engineers who are innovating at the frontier of crypto that all work collaboratively to help one another accelerate their growth.</div><div><br></div><div>We are a mission driven company. We believe deeply that through software engineering we can build a self-sovereign society. In our day to day, we make decisions based upon our company values of Individual Autonomy, Long-Term Orientation and Open Access.</div><div><br></div><div>The future belongs to all of us, independent of our origins. Rift is an equal opportunity employer and does not discriminate on the basis of race, religion, color, sexual orientation, gender or any other status protected under federal, state or local law.   We celebrate diversity and inclusion among our team mates and seek to hire talent that will add to our culture.</div><br/><br/>Please mention the word **FLEXIBILITY** and tag RNDQuMjExLjI5LjE4 when applying to show you read the job post completely (#RNDQuMjExLjI5LjE4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/472b5898f55d71ca9c4a5e9d51f106761669360516.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Mirror</h5>
-                    <h3>Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>web3,react,graphql,redis,system,strategy,health,engineer,backend</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-mirror-154188" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>At Mirror, our mission is to use web3 technology in order to reimagine the ways people publish, read and share writing online. We are a small, passionate team with a breadth of experience that has been building in web3 for years. Together, we aspire to build products that are beautiful and intuitive, without compromising on <span class="discussion-id-dfde74bb-5410-45f6-920d-cc78543321e8 notion-enable-hover">user sovereignty</span> or decentralization.</p>
-<h3>The Company</h3>
-<p>Mirror is a web3-native publishing platform that powers a new writing ecosystem. Writers on Mirror donât just publish, they build community and fund their writing by minting their work as Writing NFTs  â collectible, minted versions of posts on Mirror. Readers on Mirror donât just consume content, they collect it and discover new writers in each otherâs collections. All of this happens within a tightly integrated web3 product that is centered around an intuitive editor that allows writers to incorporate smart contract-based economic blocks.</p>
-<p>We've raised close to $14 million from investors that include a16z Crypto, Union Square Ventures, and Variant.</p>
-<h3>Responsibilities</h3>
-<ul>
-<li>Support product development by developing our backend API</li>
-</ul>
-<h3>Requirements</h3>
-<ul>
-<li>Experience building and maintaining a production system at scale</li>
-<li>Comfortable with SQL databases</li>
-<li>Experience designing performant and well-tested GraphQL APIs</li>
-</ul>
-<h3>Nice to have</h3>
-<ul>
-<li>Degree in computer science</li>
-<li>Frontend experience (React, React Native)</li>
-<li>Web3 experience</li>
-<li>No-SQL and Redis experience</li>
-<li>Experience with monitoring tools (Honeycomb, NewRelic, ElasticSearch, etc)</li>
-</ul>
-<h3><strong>Salary Range</strong></h3>
-<ul>
-<li>$140,000 - $210,000 (based on experience)</li>
-</ul><div class="content-conclusion">
-<h3>Mirror's Benefits</h3>
-<p>Here are some of our benefits:</p>
-<ul>
-<li>Medical, dental, and vision insurance, with 80% of premiums paid by the company</li>
-<li>$3,000 work-from-home/remote office setup stipend</li>
-<li>$150/month home internet and cell phone reimbursement</li>
-<li>Healthcare Flexible Spending Account or Health Savings Account</li>
-<li>Dependent Care Flexible Spending Account</li>
-<li>Short-term and long-term disability insurance, with premiums paid by the company</li>
-<li>$50,000 life insurance and accidental death and dismemberment insurance, with premiums paid by company</li>
-<li>401(k)</li>
-<li>Flexible time off policy</li>
-<li>Three monthsâ paid baby bonding leave</li>
-<li>Remote-first teamwork with team and community members around the world</li>
-<li>Team offsites for periodic in-person collaborative strategy sessions</li>
-<li>Passionate, supportive team dedicated to learning and growing together in web3</li>
-</ul>
-</div><br/><br/>Please mention the word **SWANKIER** and tag RNDQuMjExLjI5LjE4 when applying to show you read the job post completely (#RNDQuMjExLjI5LjE4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>Our benefits include competitive compensation, early stage equity allocations, team outings, wellness stipends, 401k with employer matching (for US employees), unlimited PTO, medical, dental, and vision insurance. In addition, you'll join a team of high caliber engineers who are innovating at the frontier of crypto that all work collaboratively to help one another accelerate their growth.</div><div><br></div><div>We are a mission driven company. We believe deeply that through software engineering we can build a self-sovereign society. In our day to day, we make decisions based upon our company values of Individual Autonomy, Long-Term Orientation and Open Access.</div><div><br></div><div>The future belongs to all of us, independent of our origins. Rift is an equal opportunity employer and does not discriminate on the basis of race, religion, color, sexual orientation, gender or any other status protected under federal, state or local law.   We celebrate diversity and inclusion among our team mates and seek to hire talent that will add to our culture.</div><br/><br/>Please mention the word **FLEXIBILITY** and tag RNDQuMjAwLjI0Mi4yMzM= when applying to show you read the job post completely (#RNDQuMjAwLjI0Mi4yMzM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -113,7 +97,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-fast-tracked-application-backend-javascript-engineer" align="right" target="_blank">Apply</a>
@@ -169,7 +153,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
@@ -257,7 +241,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
