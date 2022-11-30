@@ -50,7 +50,7 @@
 <li>Past contributions to open source libraries</li>
 </ul>
 <h2>Compensation</h2>
-<p>We're committed to offering you a salary competitive to the market based on your experience.</p><br/><br/>Please mention the word **CONGRATULATORY** and tag RNDQuMjAwLjI0Mi4yMzM= when applying to show you read the job post completely (#RNDQuMjAwLjI0Mi4yMzM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>We're committed to offering you a salary competitive to the market based on your experience.</p><br/><br/>Please mention the word **CONGRATULATORY** and tag RMy44MC4xMTIuMjEx when applying to show you read the job post completely (#RMy44MC4xMTIuMjEx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
