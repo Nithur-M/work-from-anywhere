@@ -10,7 +10,7 @@
                     <code>amazon,web3,defi,crypto,nft,ethereum,security,consultant,code,web,devops,serverless,cloud,management,engineer,engineering,linux</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-devops-engineer-blockswap-154723" align="right" target="_blank">Apply</a>
@@ -45,7 +45,7 @@
 <li>Ethereum Clients implementation ( Execution & Consensus)</li>
 <li>Interest in DeFi/Crypto, MEV </li>
 <li>Experience in Fintech/Financial services</li>
-</ul><div>Blockswap is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer. We embrace all qualified persons to apply and will receive consideration for employment without regard to race, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.  If you have a disability or special need that requires accommodation, please feel free to let us know.</div><br/><br/>Please mention the word **FERVID** and tag RNDQuMjExLjI5LjE4 when applying to show you read the job post completely (#RNDQuMjExLjI5LjE4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>Blockswap is committed to diversity in its workforce and is proud to be an Equal Opportunity Employer. We embrace all qualified persons to apply and will receive consideration for employment without regard to race, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.  If you have a disability or special need that requires accommodation, please feel free to let us know.</div><br/><br/>Please mention the word **FERVID** and tag RNDQuMjAwLjI0Mi4yMzM= when applying to show you read the job post completely (#RNDQuMjAwLjI0Mi4yMzM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -60,7 +60,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-12" align="right" target="_blank">Apply</a>
