@@ -1,5 +1,127 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/25bff03fba390ee429ac2f330858fe361669706155.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Zora</h5>
+                    <h3>Frontend Engineer Dev Tools</h3>
+                </td>
+                <td width="300">
+                    <code>frontend,design,system,engineer,engineering,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-dev-tools-zora-156235" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2>About Us</h2>
+<p>ZORA is a group of individuals working towards a new paradigm for creators by enabling the creation, curation, and collection of NFTs. We believe that by enabling a more equitable system for creators and communities, we will fundamentally rediscover the power of the internet.</p>
+<p>Weâre working tirelessly to make ZORA available to as many creators as possible. Our <a href="http://zora.co/manifesto" rel="noopener noreferrer nofollow">mission</a> is to build a new creator and community-owned economy.</p>
+<h2>Who we're looking for</h2>
+<p>ZORA is looking for experienced frontend engineers to help design, implement, and extend the ZORA ecosystem. </p>
+<h2>What you'll do</h2>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with engineering & product teams to build toward our shared vision</span></li>
+<li style="font-weight:400;">
+<span style="font-weight:400;">Focus on the ZORA frontend dev tools,</span><span style="font-weight:400;"> built on the ZORA protocol and API</span>
+</li>
+<li style="font-weight:400;"><span style="font-weight:400;">Deliver & own features and projects from beginning to end</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Work closely with our design teams to implement and collaborate to deliver new features and experience for the creator tool</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Inject your energy and perspective into every product meeting, standup, and interaction, both within the team and around ZORA's broader community</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Interact with our APIs, SDKs & zoraOS tools to build modular, efficient & hardened front end products</span></li>
+</ul>
+<h2>Skills we're looking for</h2>
+<ul>
+<li>Solid understanding of React, component architecture</li>
+<li>An eye for detail</li>
+<li>A collaborative approach to problem solving</li>
+<li>Adept communication skills</li>
+</ul>
+<h2>We'd love it if you had</h2>
+<ul>
+<li>Experience working with web3</li>
+<li>Vercel experience</li>
+<li>Typescript expertise</li>
+<li>Past contributions to open source libraries</li>
+</ul>
+<h2>Compensation</h2>
+<p>We're committed to offering you a salary competitive to the market based on your experience.</p><br/><br/>Please mention the word **CONGRATULATORY** and tag RNDQuMjAwLjI0Mi4yMzM= when applying to show you read the job post completely (#RNDQuMjAwLjI0Mi4yMzM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/4123/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ClickGUARD Inc.</h5>
+                    <h3> React.js Engineer Frontend</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/clickguard-inc-react-js-engineer-frontend" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/4123/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> America
+    <br /><strong>URL:</strong> <a href="https://www.clickguard.com/">https://www.clickguard.com/</a>
+</p>
+
+<div><strong>About the role</strong></div><ul>
+<li>Participating in front-end development for our SaaS product</li>
+<li>Implementing new user-facing features using React.js</li>
+<li>Building reusable components and front-end libraries</li>
+<li>Optimizing components for maximum performance across a variety of browsers and web-capable devices</li>
+<li>Translating user stories, specs, and wireframes into high-quality code that delivers value to the end-user</li>
+<li>Reporting to the Head of Product and Technical Team Lead</li>
+</ul><div>
+<br><strong>What qualifies you for this role?</strong>
+</div><ul>
+<li>You've demonstrated proven experience as a frontend developer using React.js</li>
+<li>You have excellent JavaScript knowledge in front end libraries and React.js ecosystem</li>
+<li>You have deep experience with UI libraries and design system</li>
+<li>You are familiar with code versioning tools like git</li>
+<li>You have extensive SaaS App dashboard product development experience</li>
+<li>You have versatility in the JavaScript ecosystem and programming languages in general</li>
+<li>Clear background in building Software as a Service, ad tech, and/or cybersecurity tech</li>
+<li>You have experience with Test-Driven Development</li>
+<li>Are experienced with working remotely</li>
+</ul><div>
+<br><br><strong>Who You’ll Work with</strong>
+</div><div>You'll be working with our CTO <a href="https://www.linkedin.com/in/ralphperrier/">Dusan Llilic</a> along with the rest of the engineering team.<br><br>
+</div><div><strong>What's in it for you?</strong></div><ul>
+<li>Competitive salary + performance bonuses</li>
+<li>Work that fits your personality and lifestyle</li>
+<li>Your hours are flexible, and so is your vacation</li>
+<li>Any equipment/software/tech that you need to do your job</li>
+<li>You can work from anywhere in the world - We work remotely!</li>
+<li>Join and help shape the future of PPC advertising</li>
+<li>Once a year all expenses paid company get-togethers</li>
+</ul><div>
+<br><strong>How to apply</strong>
+</div><div>If all of the above got you interested and you believe you would be a good fit for the role - we invite you to submit a formal application by following the steps to ‘APPLY’ via this site.</div><div>All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age, or any other characteristic.<br><br>
+</div><div><strong>Please note that we are not accepting recruitment agency assistance at this time.</strong></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clickguard-inc-react-js-engineer-frontend">https://weworkremotely.com/remote-jobs/clickguard-inc-react-js-engineer-frontend</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +132,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-fast-tracked-application-frontend-javascript-engineer" align="right" target="_blank">Apply</a>
@@ -65,7 +187,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>63 days ago</text>
+                <text>64 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1" align="right" target="_blank">Apply</a>
@@ -139,55 +261,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1506508/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Staking Rewards</h5>
-                    <h3>Senior Frontend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>crypto,frontend,react,security</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-1506508" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p></p><div class="h2">If you haven't heard of us</div>
-<p>Staking Rewards is on a mission. Agency is the strategy, passive income from Crypto is one of our tactics in this strategy. We're building tools, platforms and products to help you, ourselves and others to achieve an impactful level of control over their income and help to improve the quality of their investment decisions.</p>
-<p>We serve different kinds of stakeholders, investors, analysts and crypto community members worldwide. The narrative we're always pushing is Agency. We want you to be in control. ​​This is why we're on a mission to increase transparency, reduce entry barriers and enable everyone to become financially independent. We make staking easy &amp; accessible.</p>
-<p>Let's cut to the chase, Staking Rewards is a close-knit team, 20 some members all working remotely, all over the world. Working here means you pick your own timezone, you pick your own vacation days, have as many of them as you see fit, get compensated well, feel comfortable saying “No” and engage in intelligent dialogues with curious people. The only thing we ask in return is to bring your A-game. Get the job done, with a positive intent and a positive attitude. </p>
-<p></p>
-<div class="h2">The person we're looking to work with</div>
-<p>An Engineer that values quality over quantity. Has a deep understanding of software design and how to apply design principles on different types of problems. Some call them well-rounded Engineers or 10x Engineers, we simply call them good Engineers. </p>
-<p>Good Engineers can learn and adapt. They are creative and curious at all times. </p>
-<p>This is what we're looking for.</p>
-<p>You will work with familiar technologies, but you will also be expected to work with unfamiliar technologies, you will learn on the job, you will challenge yourself and the status quo. Most importantly, you will be proud of your work. </p>
-<p>Nevertheless, we expect you have gained a good chuck of experience with different environments in your senior career so far and optimally worked in a React environment last so you can bring your A-game from day one.</p>
-<p></p>
-<div class="h2">Engineering at Staking Rewards</div>
-<p>In two words, it's comfortable chaos. Our systems are constantly changing, evolving and adapting as the business alongside the crypto market does. Engineering in our environment means constantly facing challenges and being resourceful in our solutions. </p>
-<p>We work the problem. An Engineer at Staking Rewards is expected to inquire, communicate expectations and be open to unusual solutions. Our strength comes from our ability to deliver strong, high quality solutions in an ever changing business environment. </p>
-<p>We keep our feedback loops short and always aim to find the best possible solution together as one Engineering team.</p>
-<p></p>
-<div class="h2">Where do you fit in there?</div>
-<p>You become one of the heroes in this saga. An Engineer capable of working on different challenges and storylines.</p>
-<p>Some of these challenges we'd like you to focus on are</p>
-<ul><li>Building high performing web experiences</li><li>Bringing a strong defensive security mindset to our code and technical practices</li><li>Building for others: other developers on the team, for stakeholders and our users</li><li>Own the full vertical: shape, build, ship, monitor</li></ul>
-<p></p>
-<div class="h2">Sounds good, what now?</div>
-<ol><li>You send us your application</li><li><strong>Screening Interview</strong> with one of our team members (30 min)</li><li>Take home <strong>coding challenge</strong> (max. 5 days)</li><li>Interview Day<ol><li><strong>Challenge Recap</strong> &amp; <strong>Top grading interview</strong> with the CTO / Head of Engineering (60-90 min)</li><li><strong>Focused peer interviews</strong> (3 x 30 min)</li></ol></li><li>You give us three contacts as a <strong>reference</strong> that we will reach out to</li><li>You will receive our <strong>offer</strong></li><li><strong>Congratulations</strong>, you're part of the Staking Rewards team! </li></ol>
-<p></p><p></p>
-<img src="https://remotive.com/job/track/1506508/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1421232/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -198,7 +271,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
