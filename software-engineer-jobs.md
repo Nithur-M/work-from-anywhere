@@ -63,7 +63,7 @@
 <li>Paid Family Leave for mothers and fathers</li>
 <li>All new employees receive a WFH stipend.</li>
 </ul>
-</div><br/><br/>Please mention the word **DOUBTLESS** and tag RNDQuMjAwLjI0Mi4yMzM= when applying to show you read the job post completely (#RNDQuMjAwLjI0Mi4yMzM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **DOUBTLESS** and tag RMy44MC4xMTIuMjEx when applying to show you read the job post completely (#RMy44MC4xMTIuMjEx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -100,54 +100,7 @@ As a Nimble Engineer, you will help in architecting the technology and customer 
 
 At Nimble, we are dedicated to putting patients first and improving pharmacies across America. Join us on this exciting journey!
 
-Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and inclusive work environment where we learn from each other. We pride ourselves on being an equal opportunity employer and welcome people of diverse backgrounds, abilities and perspectives.<br/><br/>Please mention the word **STIMULATIVE** and tag RNDQuMjAwLjI0Mi4yMzM= when applying to show you read the job post completely (#RNDQuMjAwLjI0Mi4yMzM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/e6ba0f559c9a82a877f711299b546c251669360523.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Utopia Labs</h5>
-                    <h3>Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>software,web3,front-end,javascript,health,engineer,engineering,full-time</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-utopia-labs-154190" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><span style="font-size:24px;">ð» Engineering at Utopia Labs</span></div><div><br></div><div>We love building beautiful and powerful technology with deep impact and purpose. With almost all of our founding team having a technically-focused background from companies like Microsoft, Facebook, and Lunchclub. Utopia Labs wants you to join a group of hackers who are driven by their deep curiosity, a pursuit of technical excellence, and a passion for driving impact.</div><div><br></div><div>At Utopia Labs, we're building the tools that will support the future of governance, commerce, and work. We aim to help DAOs revolutionize the way people work, own, and interact with the world. Our engineering effort is central to that goal.</div><div><br></div><div>As a engineer with Utopia, you will help build + layout our engineering foundation and craft our product backbone. If you're interested in championing technological leadership in the web3 space, we'd love for you to apply!</div><p></p><h4>Responsibilities </h4><p></p><p></p><ul>
-<li>Participate in the initial scoping of product requirements for new features and products</li>
-<li>Developing products from designs and specifications to live deployments.</li>
-<li>Build out new features and products with the product team.</li>
-<li>Help address customer feature requests</li>
-<li>Build out prospective integrations with partners and protocols</li>
-<li>Create trustworthy user experiences by building interfaces that are simple, easy to comprehend, performant and reliable using modern tools like React, Typescript, and GraphQL</li>
-</ul><p></p><h4>Requirements</h4><p></p><p></p><ul>
-<li>Experience with Javascript + front-end frameworks such as Javascript, Typescript, NodeJS, Express, NextJS, or similar.</li>
-<li>Development experience using NodeJS, Express, NextJS, or similar</li>
-<li>Understanding of GraphQL</li>
-<li>Solid experience architecting solutions (experience in different architecture layers and components) through multiple frameworks</li>
-<li>Proficiency with Git</li>
-<li>A good understanding of CI/CD</li>
-<li>Experience developing with a test-driven mentality</li>
-</ul><p></p><h4>Nice to have</h4><p></p><p></p><ul>
-<li>Hackathon experience or competitive programming</li>
-<li>Experience contributing to open-source projects</li>
-<li>1-3+ years full-time software engineering experience</li>
-<li>Experience contributing to open-source projects</li>
-<li>Experience writing smart contracts </li>
-<li>Demonstrated interest in open and community-driven platforms.</li>
-</ul><div><span style="font-size:24px;">Perks & Benefits</span></div><div><br></div><div><span style="font-size:18px;">ð Health and wellbeing</span></div><div>We offer top-of-the-line benefits, including health, mental health, dental, and vision insurance.</div><div><br></div><div><span style="font-size:18px;">ð´ Time off</span></div><div>We want people to take time off to rest and rejuvenate. We offer a 3 week paid vacation as well as 10 observed holidays by country.</div><div><br></div><div><span style="font-size:18px;">ð£ Parental leave</span></div><div>Our parental leave policy offers biological, adoptive, and foster parents paid time off to spend quality time with family.</div><div><br></div><div><span style="font-size:18px;">ð¥ Lunch on us</span></div><div>You'll have a very generous meal budget for you to eat every day.</div><div><br></div><div><span style="font-size:18px;">ð Commuting</span></div><div>We offer monthly commuter credits.</div><div><br></div><div><br></div><div><span style="font-size:24px;">Any Questions?</span></div><div><br></div><div>Email: pryce@utopialabs.com</div><div><br></div><div>Twitter: <a href="https://twitter.com/pryceandstuff" class="postings-link" rel="noopener noreferrer nofollow">https://twitter.com/pryceandstuff</a>
-</div><div><br></div><br/><br/>Please mention the word **REMUNERATE** and tag RNDQuMjAwLjI0Mi4yMzM= when applying to show you read the job post completely (#RNDQuMjAwLjI0Mi4yMzM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+Diversity, inclusion and belonging at Nimble: Nimble is building a diverse and inclusive work environment where we learn from each other. We pride ourselves on being an equal opportunity employer and welcome people of diverse backgrounds, abilities and perspectives.<br/><br/>Please mention the word **STIMULATIVE** and tag RMy44MC4xMTIuMjEx when applying to show you read the job post completely (#RMy44MC4xMTIuMjEx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
