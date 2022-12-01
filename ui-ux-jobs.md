@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/whitespectre-ui-ux-designer-1" align="right" target="_blank">Apply</a>
@@ -86,188 +86,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0617/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Pebble</h5>
-                    <h3> UI UX Designer</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/pebble-ui-ux-designer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/0617/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> 
-    <br /><strong>URL:</strong> <a href="https://pebblerei.com">https://pebblerei.com</a>
-</p>
-
-<h2><strong>Shape the future of land investing, wherever you are</strong></h2><p>Join our fully-remote team building the most incredible product for land investors. We are at the cutting edge of shaping how to systemize and run a land investing business. </p><p></p><p><strong>Who We Are</strong></p><p>Pebble is a platform for land investors to systemize and scale their businesses. We're a full self-funded SAAS company founded in 2019. We're profitable ($1m+ ARR), growing quickly, and our customers rave about us. Our team is fully remote with people from Korea to Morocco. Each team member is critical to our success and makes a direct impact on the business.</p><p></p><p><strong>What we value</strong></p><ul>
-<li><p>Help First</p></li>
-<li><p>Kindness &amp; Respect</p></li>
-<li><p>Progress over Perfection</p></li>
-<li><p>Continuous Self Improvement</p></li>
-<li><p>Accountability to Deliver</p></li>
-<li><p>Work Anytime, from Anywhere</p></li>
-</ul><p></p><p><strong>Who You Are</strong></p><p>You are an experienced designer looking to take on a mission-critical role building a highly impactful product. You want to deep-dive into an amazing product and to improve ourselves and our craft.</p><p></p><p><strong>What You'll Do</strong></p><ul>
-<li><p>Drive the design of our core products - taking features from concept to delivery</p></li>
-<li><p>Designing compelling product experiences based on customer needs</p></li>
-<li><p>Tackle and solve hard design problems around complex workflows.</p></li>
-<li><p>Work closely with the product and engineering teams to design awesome customer experiences based on user and implementation feedback</p></li>
-<li><p>Maintain consistent visual standards and keep the living component library up to date</p></li>
-<li><p>Review features implemented by the engineering team and providing guidance to ensure pixel-perfect experiences</p></li>
-<li><p>Lead our team goals towards empathizing with users, and advocating for usability and accessibility</p></li>
-<li><p>Conduct and coordinate usability interviews to gather feedback and insights into customer needs</p></li>
-<li><p>Produce brand and marketing material across different mediums</p></li>
-</ul><p></p><p><strong>Qualifications</strong></p><p>You have at least three years of experience in visual and user experience design at a high-growth SaaS company. You are motivated by making an impact, detail-oriented, and have a history of major accomplishments to prove it. You work collaboratively, enjoy crossing back and forth between UX and visual design, and love to see your work ship — quickly. You have a "get it done" attitude and a background of delivering superb work again and again.</p><ul>
-<li><p>3+ years of experience as a UI/UX designer, experience designer, or product designer</p></li>
-<li><p>A broad UX design toolkit and proficiency with industry standard design tools including Figma, Miro, Photoshop, and Illustrator</p></li>
-<li><p>Someone who is driven to have an intimate understanding of our product</p></li>
-<li><p>Self-initiator who values autonomy and can manage time effectively</p></li>
-<li><p>Demonstrate attention to detail, making technical design decisions that lead to growth in design systems</p></li>
-<li><p>Experience implementing designs with HTML and CSS.</p></li>
-<li><p>Fluent in English<br></p></li>
-</ul><p><strong>Grow with us</strong></p><p>Everyone deserves to reach their fullest potential. We feel engaged and alive when we do work that matters with people we care about. And our goal is to help you do just that.</p><ul>
-<li><p>Generous salary</p></li>
-<li><p>12 days of paid time off with additional days provided based on seniority. Sick and family leave provided.</p></li>
-<li>
-<p>$1,000 annually for third-party education, along with paid time off to immerse yourself in learning</p>
-<p></p>
-</li>
-</ul><p>If this role sounds appealing, we would love to hear from you. (A real human reviews every application.)</p><p>In order to qualify for this role, you will need to submit a short video introducing yourself and share why you think you’d be a great fit for this team.</p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pebble-ui-ux-designer">https://weworkremotely.com/remote-jobs/pebble-ui-ux-designer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1493835/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Judo</h5>
-                    <h3>Mobile UI Designer</h3>
-                </td>
-                <td width="300">
-                    <code>android,api,CSS,developer</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/design/mobile-ui-designer-1493835" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Judo is searching for a talented Mobile UI Designer who is excited by the idea of joining a company that builds a powerful tool for other designers.</p>
-<p><strong>About Judo:</strong></p>
-<p>Judo empowers designers to design and build apps without code.</p>
-<p>With Judo's Mac app, designers can build app UIs using the same frameworks as a developer, but through the use of a visual canvas instead of writing code. Judo helps designers fully imagine and envision what's possible, by putting them in the driver's seat and giving them complete control from concept to completion.</p>
-<p>The output from Judo is more than a static image and more than a prototype—it is a fully functional app UI that is ready to be shipped to users instantly, without having to submit to the App/Play store.</p>
-<p>Judo's iOS and Android SDKs are installed in close to 100 different apps reaching millions of users. Some of our customers include DraftKings, Cabela's, Chicago Bulls and New England Patriots.</p>
-<p>We're backed by the same group that funded Shippabo, Airtable, LaunchKit and more (TenOneTen and Freestyle VC), a top U.S. accelerator as well as several prominent angel investors. We've built a solid reputation with several major sports franchises as clients, and are now charting new territory as we explore the multitude of other industries who could benefit from incorporating Judo into their native app workflows.</p>
-<p>Our name derives from the martial art, a key principle of which is “maximum efficiency with minimal effort”. This concept is captured in our mission to enable product teams to build faster and iterate more frequently.<br><br><strong>About our team:</strong></p>
-<p>We're a group of humans who believe that we're our most creative and most innovative when we have the flexibility to determine where and when we work. We're 100% remote and hire talented folks from all over the world. Currently we have team members based in Canada, Brazil, Scotland, South Korea, Spain and Poland. We're intentional about remote culture, and believe that meaningful connections and effective collaboration with teammates aren't only possible in a remote environment - but that they're crucial for organizational success.</p>
-<p>Things move quickly around here. Judo is a fast-paced, self-directed, energetic environment where everyone is bringing a fiery passion to work every single day. We value hustle, balance, innovation, customer obsession, design-centricity and continuous learning. We're entrepreneurial in spirit, creative in our thinking, and experimental in our approach.</p>
-<p><strong>About the role:</strong></p>
-<p>As a Mobile UI Designer at Judo, you will contribute directly to Judo's iOS and Android apps, helping to enhance the look, feel and usability of apps that are used by other designers, mobile product teams and engineers. </p>
-<p><strong>What will you do as a Mobile UI designer at Judo?</strong></p>
-<ul>
-<li>As a member of the product team, you'll be the lead designer for Judo's iOS and Android apps</li>
-<li>Collaborate to build a holistic user experience and bridge overlapping functionalities between Judo's features and platforms </li>
-<li>Iterate on design solutions and ideas based on feedback from colleagues, customers and data insights</li>
-<li>Work closely with the  Engineering Team to implement your designs</li>
-</ul>
-<p><strong>What we'd love to see in your work history:</strong></p>
-<ul>
-<li>3+ years in a design or UX role on a product team</li>
-<li>A love for the Mac, Apple software and extensive experience designing for one or more of Apple's platforms. Bonus points if this includes macOS!</li>
-<li>Experience designing for native mobile apps</li>
-<li>Strong understanding of native technologies (iOS + Android)</li>
-<li>Some programming experience is ideal. This could be HTML/CSS, JavaScript or Swift! We're looking for a tech-savvy designer who can demonstrate their interest and ability to get their hands dirty when it comes to code.</li>
-<li>An interest and/or experience with SwiftUI. Judo's visual design tool is based on SwiftUI so you'll need to understand it to be able to design for it.   </li>
-<li>An extensive understanding of Figma including auto-layout and variants. Bonus points if you've ever worked on tooling that uses Figma's API!</li>
-<li>Ability to balance great design solutions with an iterative approach</li>
-<li>Strong understanding of human-centered design, visual design, UX strategy, prototyping, interaction design, user research, and user adoption</li>
-</ul>
-<p><strong>Some of the attributes we hope you'll bring to the role:</strong></p>
-<ul>
-<li>An exceptional design aesthetic</li>
-<li>Passion for software</li>
-<li>The ability to transform insights into delightful product experiences</li>
-<li>Excitement about hands-on work, and a willingness to roll up your sleeves to get the job done</li>
-<li>The ability to thrive in a fast-paced working environment with ever-changing challenges</li>
-<li>Attention to detail - we'd love to see you mention “Kano Jigoro” in your cover letter</li>
-<li>Entrepreneurial spirit </li>
-<li>The ability to be self-directed in your work</li>
-<li>A fierce curiosity for your craft, always striving to learn more and improve yourself</li>
-<li>The ability to wear many hats, find ways to bring value and a willingness to do what needs to be done</li>
-<li>A desire to help our team continuously improve. We want you to teach us new things!</li>
-<li>A demonstrated ability to be productive working remotely and an enthusiasm for remote work environments</li>
-</ul>
-<p><strong>A few of the reasons why you should join Judo:</strong></p>
-<ul>
-<li>We're a dynamic and entrepreneurial team working on the cutting edge of server-driven UI</li>
-<li>
-<div class="h3">Small, dynamic teams = massive impact</div>
-</li>
-<li>
-<div class="h3">Be part of a high performing team of critical thinkers that thrive on problem-solving</div>
-</li>
-<li>
-<div class="h3">Maintain optimal work-life balance in a remote environment with flexible hours</div>
-</li>
-<li>
-<div class="h3">We're a quickly-growing startup with competitive salaries and stock option plan</div>
-</li>
-<li>
-<div class="h3">Extended health and dental coverage for Canadian employees</div>
-</li>
-<li>
-<div class="h3">Topped-up maternity and parental leave</div>
-</li>
-<li>
-<div class="h3">Subsidized coworking memberships</div>
-</li>
-<li>
-<div class="h3">We encourage open communication with management and company leadership</div>
-</li>
-<li>
-<div class="h3">Participate in optional virtual social events regularly to connect with colleagues</div>
-</li>
-<li>
-<div class="h3">Join us for in-person retreats with the full team twice annually</div>
-</li>
-<li>
-<div class="h3">Take part in the Judo Meetup program, which encourages team members around the world to spend time together in person (expenses paid)</div>
-</li>
-<li>
-<div class="h3">Work alongside an international team of smart, kind individuals who celebrate each other and care for each other</div>
-</li>
-</ul>
-<p><strong>Start Date:</strong></p>
-<p>ASAP, but can be flexible according to the availability of the successful candidate.</p>
-<p>If you don't have all of the attributes or particular experience we've listed above, please know that we would still love to hear from you! We understand that talent comes from many places and that skills are transferable.</p>
-<p>Judo's total addressable market is vast, our platform is unique, and our team is ambitious. If you're eager to be a part of something big in this next chapter of your career - we'd love to have you aboard for liftoff. Apply now!</p>
-<p><em>At Judo, we are committed to fostering an inclusive environment where everyone feels empowered to bring their authentic selves to work. Judo is an equal-opportunity employer, and we support applicants requesting accommodation at any stage of the interview process.</em></p>
-<p> </p>
-<img src="https://remotive.com/job/track/1493835/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -278,7 +96,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
