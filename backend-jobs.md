@@ -1,5 +1,49 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/be7519d60b8bd7f8e2540b69932eb93c1669792553.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Spruce</h5>
+                    <h3>Software Engineer Backend</h3>
+                </td>
+                <td width="300">
+                    <code>software,system,security,support,test,code,web,cloud,api,mobile,engineer,backend</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-backend-spruce-156758" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>Spruce is hiring programmers to develop world-class open source products and libraries implementing open global standards in identity. At Spruce, we are reimagining trusted interactions by creating the worldâs best software for packaging beliefs digitally. We hire programmers who love technology and are committed to intellectual honesty, user privacy, and innovation.Â </div><div><br></div><div>You will be responsible for developing cross-platform libraries and server software in Rust. Our software is secure by design, professionally audited, and suitable for high stakes applications. You will also have the opportunity to contribute to emerging global technology standards for digital identity. While we don't require you to have Rust experience to apply for this job, you should demonstrate a strong aptitude for statically typed languages, memory management, and secure programming practices so we feel confident you can pick it up without a hitch.</div><h4>Responsibilities</h4><ul>
+<li>Contribute to new and existing Rust codebases, with a focus on high code quality (e.g., tasteful use of traits, code/memory footprint reduction, minimizing dependency trees, refactoring between enums/structs, using macros to reduce copy-paste errors, etc.). </li>
+<li>Utilize best practices for unit tests, integration tests, benchmarking, documentation, version control hygiene, and open source release cycle management.</li>
+<li>Implement low-level systems code that is cross-compiled and performantly ran across platforms, including backend servers, mobile devices, and in the browser through WASM.</li>
+<li>With support and review from cryptographers, use cryptographic APIs to implement digital signatures, message authentication, encryption/decryption, data structures, and zero-knowledge proof protocols for production applications. For this role, you are not expected to know the math, but you will be responsible for correct low-level implementations, "blocking and tackling" such as zeroing memory, preventing timing attacks, writing test vectors, and configuring fuzzers.</li>
+<li>Interface directly with security auditing firms who have experience evaluating implementations that rely on applied cryptography.</li>
+</ul><h4>Qualifications</h4><ul>
+<li>Excellent written communications skills (necessary for remote work).</li>
+<li>Experience writing widely-distributed backend software in statically-typed languages.</li>
+<li>Aptitude for computer security, correct use of cryptography, and user data privacy.</li>
+<li>Proficiency in backend web frameworks, API design, databases, and scalability.</li>
+<li>Experience setting up or configuring CI/CD pipelines based on containers and cloud services.</li>
+<li>Comfortable with rapid directional changes of focus in a startup environment.</li>
+</ul><h4>Bonus</h4><ul>
+<li>Experience building distributed storage systems at scale.</li>
+<li>Proficiency with functional programming paradigms and use of advanced type systems found in languages such as Rust, C++, OCaml, or Haskell.</li>
+<li>Contributions to open source software projects and technology standards.</li>
+<li>Full-time experience with working remotely.</li>
+<li>Familiarity with operating system internals, compiler internals, memory management, and low level programming.</li>
+<li>Professional experience in a high stakes industry such as cloud infrastructure, finance, healthcare, social media, or online gaming.</li>
+</ul><div>We are passionate about cultivating a thriving culture of diverse individuals who bring unique perspectives to our mission. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.</div><br/><br/>Please mention the word **UNBEATABLE** and tag RNDQuMjEzLjczLjE1MQ== when applying to show you read the job post completely (#RNDQuMjEzLjczLjE1MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/9674b8985011abeb76a30485b25d84311669706126.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +54,7 @@
                     <code>ethereum,system,api,engineer,engineering,backend</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-zora-156226" align="right" target="_blank">Apply</a>
@@ -46,43 +90,7 @@
 <li>Past contributions to open source libraries</li>
 </ul>
 <h2>Compensation</h2>
-<p>We're committed to offering you a salary competitive to the market based on your experience.</p><br/><br/>Please mention the word **WORTHWHILE** and tag RNTIuOTAuMTEuNjM= when applying to show you read the job post completely (#RNTIuOTAuMTEuNjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/a3835a1494d43aca2eeb4c264cb1b1ed1669446970.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Rift Finance</h5>
-                    <h3>Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>design,web3,crypto,system,software,test,code,finance,cloud,go,engineer,engineering,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-rift-finance-154727" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b>About Rift</b></div><div><br></div><div>We are a remote-first, global company. We are hiring internationally. </div><div><br></div><div>The internet gave us freedom of information. Crypto gives us economic freedom. Come help us combine these technologies so that every human across the world can achieve freedom and opportunity no matter where they were born.</div><div><br></div><div>Through combining our long-term vision for how these technologies will impact society with consistent, pragmatic execution our team of 5 built a platform that has already processed over $70M leading to our $18M fundraise from top investors including Pantera, Two Sigma Ventures, Coinbase Ventures alongside angel investors including Stani Kulechov (founder of Aave), Sandeep Nailwal (cofounder of Polygon) and more.</div><div><br></div><div>If you are looking to join a passionate, motivated team and leverage your engineering abilities to develop software that levels the playing field for people across the globe join us at Rift. Weâre building a future that re-centers the individual in the internet.</div><div><br></div><div><span style="font-size:18px;">About the Role</span></div><div><br></div><div>Backend engineers are responsible for the design and implementation of foundational components of the Rift protocol stack while also having responsibilities to collaborate with the wider engineering team to improve our overall architecture and code quality.</div><p></p><h4>Responsibilities:</h4><p></p><p></p><ul>
-<li>Build, maintain and test high performance Web3 REST & WebSocket APIs to power communications in our distributed systems.</li>
-<li>Write performant SDKs and documentations enabling clients to interact with the Web3 APIs</li>
-<li>Detect and improve performance, stability for microservices</li>
-<li>Dockerize and provide microservice deployment guidance for DevOps</li>
-</ul><p></p><h4></h4><p></p><p></p><ul>
-<li>3-7 years of experience in a backend software engineering role.</li>
-<li>Significant experience with a systems language like Go (preferred), Rust, or C++</li>
-<li>Extensive experience managing the software development life cycle for medium to large projects</li>
-<li>Experience building SDKs, APIs, or otherwise building and maintaining a production system at scale.</li>
-<li>Experience with AWS, GCP or similar cloud providers</li>
-<li>Desire to keep up with modern best practices in software development and crypto, and shape our tech stack as we build out new systems and services</li>
-</ul><div>Our benefits include competitive compensation, early stage equity allocations, team outings, wellness stipends, 401k with employer matching (for US employees), unlimited PTO, medical, dental, and vision insurance. In addition, you'll join a team of high caliber engineers who are innovating at the frontier of crypto that all work collaboratively to help one another accelerate their growth.</div><div><br></div><div>We are a mission driven company. We believe deeply that through software engineering we can build a self-sovereign society. In our day to day, we make decisions based upon our company values of Individual Autonomy, Long-Term Orientation and Open Access.</div><div><br></div><div>The future belongs to all of us, independent of our origins. Rift is an equal opportunity employer and does not discriminate on the basis of race, religion, color, sexual orientation, gender or any other status protected under federal, state or local law.   We celebrate diversity and inclusion among our team mates and seek to hire talent that will add to our culture.</div><br/><br/>Please mention the word **FLEXIBILITY** and tag RNTIuOTAuMTEuNjM= when applying to show you read the job post completely (#RNTIuOTAuMTEuNjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>We're committed to offering you a salary competitive to the market based on your experience.</p><br/><br/>Please mention the word **WORTHWHILE** and tag RNDQuMjEzLjczLjE1MQ== when applying to show you read the job post completely (#RNDQuMjEzLjczLjE1MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -97,7 +105,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-fast-tracked-application-backend-javascript-engineer" align="right" target="_blank">Apply</a>
@@ -143,6 +151,95 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9084/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MindsDB</h5>
+                    <h3> Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/mindsdb-backend-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/9084/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Berkeley, California, USA
+    <br /><strong>URL:</strong> <a href="http://www.mindsdb.com">http://www.mindsdb.com</a>
+</p>
+
+<div>
+<strong>Who we are<br></strong><br>
+</div><div>MindsDB helps companies use the power of Machine Learning to ask predictive questions of their data and receive accurate answers from it. We do all of this inside the database with a simple interface, decreasing development time and increasing accessibility.<br><br>
+</div><div>We are a fast-paced, fast-growing company with an exciting future ahead!</div><div>
+<br><br>
+</div><div><strong>Our history so far</strong></div><ul>
+<li>MindsDB are the largest, fastest growing open source Machine Learning project in the world with over 11k Github stars.</li>
+<li>Graduate of YCombinator (the startup accelerator for Stripe, Airbnb, and Coinbase).</li>
+<li>Backed by Walden Catalyst Ventures, YCombinator, OpenOcean (the venture fund launched by the creators of MySQL and MariaDB), SpeedInvest, and the University of California Berkeley.</li>
+<li>Recognized as one of America’s most promising AI companies by Forbes Magazine, one of the 8 most innovative AI and ML companies by TechRepublic, and recently nominated as a “Cool Vendors in Data for Artificial Intelligence and Machine Learning” by Gartner.<br><br>
+</li>
+</ul><div><br></div><div><strong>About the role</strong></div><div><br></div><div>We are looking for a driven Backend Engineer (Python) to be a main developer of the infrastructure that powers our product.</div><div><br></div><div>Together with the team, you’ll work to drive platform stability, optimise performance, and develop new functionality. You’ll also help drive our next stage of growth, playing a key role in our serverless development.</div><div><br></div><div>We are a 100% remote team, allowing us to hire the best talent from around the globe. For this role we are hiring in North/South American time zones, approximately GMT-7 to GMT-4.</div><div><br></div><div>MindsDB is committed to flexible working. Our goal is for our people to feel free to work where, when and how they choose to enable our staff to balance their personal interests with their work commitments and deliverables, to support a happier and healthier way of life. Performance will be judged on output and staff are trusted to manage their working time effectively to meet work deadlines and goals whilst ensuring their wellbeing is prioritised. If that suits you we would encourage you to apply!</div><div>
+<br><br>
+</div><div><strong>What you'll be working on</strong></div><ul>
+<li>Driving platform stability</li>
+<li>Maintaining platform components that enable our core product features</li>
+<li>Implementing security best practices</li>
+<li>Optimising performance &amp; scalability</li>
+<li>Improving the performance of our current platform</li>
+<li>Helping transition us to a serverless cloud architecture</li>
+<li>Developing new functionality</li>
+<li>Collaborating with the all parts of the team</li>
+<li>Implementing major features and enhancements<br><br>
+</li>
+</ul><div><br></div><div><strong>Requirements</strong></div><ul>
+<li>5+ years Backend Engineering experience</li>
+<li>Expertise in Python and SQL</li>
+<li>Experience with AWS, HTTP, TCP/IP, Docker</li>
+<li>Fast, high quality development</li>
+<li>Strong communication skills<br><br>
+</li>
+</ul><div><br></div><div><strong>Nice To Have</strong></div><ul>
+<li>Experience with microservices architecture</li>
+<li>Experience with Kubernetes</li>
+<li>Experience with Machine Learning</li>
+<li>Experience working in a fast moving, growing startup environment.</li>
+<li>Fluency and communication skills in Spanish<br><br>
+</li>
+</ul><div><br></div><div>We understand that there's no such thing as a 'perfect' candidate. We're looking for someone passionate, proactive and ambitious, who is excited to face the challenges of a rapidly growing startup. MindsDB is the type of company where you can grow exponentially, and we encourage you to apply to us even if you don't 100% match the candidate description.</div><div>
+<br><br>
+</div><div><strong>Benefits &amp; Perks:</strong></div><ul>
+<li>Fully remote team</li>
+<li>Flexible working hours</li>
+<li>Competitive Compensation</li>
+<li>Unlimited PTO</li>
+<li>New Hire Remote Setup budget</li>
+<li>Learning &amp; Development budget</li>
+<li>Medical, Dental, Vision Insurance (US only)</li>
+<li>Monthly Wellbeing Budget</li>
+<li>Monthly (virtual) team events</li>
+<li>International in-person company retreats</li>
+<li>Wellbeing/Mental Health leave<br><br>
+</li>
+</ul><div><br></div><div><strong>Diversity, Equality &amp; Inclusion</strong></div><div><br></div><div>MindsDB is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all of our employees. MindsDB will give all qualified applicants consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations, and ordinances.​</div><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/mindsdb-backend-engineer">https://weworkremotely.com/remote-jobs/mindsdb-backend-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1368332/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -153,7 +250,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
@@ -241,7 +338,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
