@@ -1,62 +1,153 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/0dc60c3adf0cbf62aa690ccf86853c861669360525.peg" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/4547cebe9a38100c97d3f745a0f73c491669792542.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Abra</h5>
-                    <h3>Quantitative Developer</h3>
+                    <h5>GameFi</h5>
+                    <h3>Lead Smart Contract Developer</h3>
                 </td>
                 <td width="300">
-                    <code>developer,defi,crypto,cryptocurrency,system,software,testing,financial,bank,cloud,strategy,management,engineering,digital nomad</code>
+                    <code>developer,web3,solidity,nft,security,game,technical,software,testing,test,code,scheme,lead,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-quantitative-developer-abra-154191" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-lead-smart-contract-developer-gamefi-156754" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="content-intro">
-<p>Abra is on a mission to create a simple and honest crypto bank to enable millions of crypto holders to maximize the potential of their crypto assets. We operate an easy to use app allowing users to earn interest, buy, sell, hold, and trade in cryptocurrencies, in one single place. Our vision is an open, global financial system that is easily accessible to everyone <span style="font-weight:400;">by making cryptocurrency investing simple and accessible. Our growing crypto investing and wealth management platform is used by millions of consumers in over 150 countries and growing! </span></p>
-<p><span style="font-weight:400;">We are growing our team to match our growing user base. This is an opportunity to join a company that is part of the biggest financial revolution in modern history. </span></p>
-</div><p><span style="font-weight:400;">Our Institutional Trading team is looking for a Quantitative Developer who will work hand-in-hand with the trading desk to maintain and develop an execution engine, automate CeFi/DeFi trading strategies, and build monitoring tools while managing our technology infrastructure.  In this role, you will work with the head of trading and co-head of the OTC desk to build cutting-edge infrastructure that will directly impact the trading PnL. This is an attractive opportunity for ambitious devs who want to be part of the action on a trading desk. </span></p>
-<p><strong>What Youâll Do:</strong></p>
+                <p>We are looking for a smart contract developer who is capable of being self sufficient, self motivating and a self starter at heart. Must have experience of solidity development in the blockchain space, smart-contract and/or web3 interactions and ideally NFT and gaming. Problem solving is what you do best and nothing is impossible but just a matter of figuring it out. You are a team player possessing strong analytical as well as technical skills. Must be comfortable working in an agile environment and have the ability to âtake the wheelâ when necessary.</p>
+
+<h3>Requirements</h3>
+
 <ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Build a trade execution system connecting to various CeFi and DeFi exchanges</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Develop tools to help the trading desk with pre-trade analysis, such as monitoring dashboards and backtesting systems</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Build post-trade monitoring dashboards for CeFi and DeFi</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Write smart contracts to automate DeFi strategies</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Own, secure and manage Cloud resources</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Liaise with the Engineering team to source software and hardware needed by the team</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Participate and trading strategy discussions and enhance the conversation by offering ideas to improve strategy</span></li>
+        <li>Immersed in blockchain technologies</li>
+        <li>Interested in Game Development and NFTs</li>
+        <li>Lead smart contract development</li>
+        <li>Estimate and scope smart contract developement</li>
+        <li>Write and test code to ensure compatibility and stability: refine and rewrite as necessary</li>
+        <li>Execute full software development life cycle (SDLC)</li>
+        <li>Integrate software components into a fully functional software system</li>
+        <li>Troubleshoot, debug and upgrade existing systems</li>
+        <li>Deploy software, demo your code and evaluate team feedback</li>
+        <li>Comply with project plans and industry standards</li>
+        <li>Ensure software is updated with latest features</li>
+        <li>Must speak conversational English<br>
+         </li>
 </ul>
-<p><strong>About You:</strong></p>
+
+<h3>Required experience</h3>
+
 <ul>
-<li style="font-weight:400;"><span style="font-weight:400;">3+ years of commercial experience</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Bachelors/Masters/PhD in Computer Science/Engineering/Mathematics and Computing/Physics or similar field</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Strong coding experience in C++/Java, Solidity/Rust, and Python</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Some experience with writing smart contracts </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Excellent software architecture skills, experience, and understanding of software engineering best practices, object oriented design, and software testing methodologies </span></li>
-<li style="font-weight:400;">A self-starter mindset</li>
-<li style="font-weight:400;">Able to identify opportunities to improve trades, executions, and monitoring</li>
-</ul><div class="content-conclusion">
-<p><strong>Benefits: </strong></p>
-<ul>
-<li><span style="font-weight:400;">Globally distributed team (everyone is remote!)</span></li>
-<li><span style="font-weight:400;">Unlimited PTO</span></li>
-<li><span style="font-weight:400;">Medical</span></li>
-<li><span style="font-weight:400;">Dental</span></li>
-<li><span style="font-weight:400;">Vision</span></li>
-<li><span style="font-weight:400;">Basic and supplemental life insurance</span></li>
-<li><span style="font-weight:400;">Short-term and long-term disability</span></li>
-<li><span style="font-weight:400;">401(k)</span></li>
+        <li>Experience with Web3 or any similar blockchain interaction libraries</li>
+        <li>Proven work experience as a Software Engineer or Software Developer</li>
+        <li>Experience with truffle or similar</li>
+        <li>Experience testing with truffle or hardhat</li>
+        <li>Proven work experience of deployments on Ethereum, Binance Smart Chain and or Polgyon</li>
+        <li>Understands virtual machine architecture, memory, and stack.</li>
+        <li>Experience writing NFT contracts.</li>
+        <li>Python<br>
+         </li>
 </ul>
-<p><em><span style="font-weight:400;">At Abra, we are an equal opportunity employer committed to a diverse, inclusive, and equitable workplace and candidate experience. We strive to create an environment where everyone has a sense of belonging and purpose, and where we learn from the unique experiences of those around us. </span></em></p>
-<p><em><span style="font-weight:400;">We encourage all qualified candidates to apply regardless of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender, gender identity or expression, pregnancy or caregiver status, veteran status, or any other legally protected status.</span></em></p>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **AGILE** and tag RNTIuOTAuMTEuNjM= when applying to show you read the job post completely (#RNTIuOTAuMTEuNjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+
+<h3>Desirable experience</h3>
+
+<ul>
+        <li>Solidity experience</li>
+        <li>Truffle/Hardhat</li>
+        <li>Redis</li>
+        <li>Ganache</li>
+        <li>Basic knowledge of solidity security testing tools (eg: Truffle, Slither, Echinda, Mitrhil, etcâ¦)</li>
+        <li>Has audits that are publicly viewable.</li>
+</ul>
+
+<p>â</p>
+
+<h3>BENEFITS</h3>
+
+<ul>
+        <li>Work in a startup environment</li>
+        <li>Remote working</li>
+        <li>Flexible hours</li>
+        <li>Bonus scheme available</li>
+</ul><br/><br/>Please mention the word **SWEETNESS** and tag RNDQuMjEzLjczLjE1MQ== when applying to show you read the job post completely (#RNDQuMjEzLjczLjE1MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/90f2661a7e1c554dc6ab0aeb91234ef31669792564.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Hector Network</h5>
+                    <h3>Senior Smart contract developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,design,web3,defi,solidity,nft,ethereum,security,testing,test,growth,javascript,senior,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-smart-contract-developer-hector-network-156762" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Hector Network</strong> is an expansive decentralized ecosystem run by a utility token, HEC, and complemented by the TOR stablecoin. The company is committed to developing the future of web3 by pioneering decentralized offerings ranging from Tokenomics, NFT collections, and marketplace to launchpad and Defi Metaverse. Our mission is to bring mass adoption of blockchain technology to life by lowering the barrier to entry and making crosschain expansion happen.</p>
+
+<p>Hector Network continues to develop innovative solutions with the goal of bringing utility and excellent quality to the whole ecosystem.</p>
+<p>We are looking for a <strong>Senior Smart Contract Developer</strong> (EVM) to be part of our amazing team that is on a mission. In this role, youâll be working closely with the Head of Infrastructure and Development as well as with the talented development team. This is an exciting opportunity to foster growth and innovation in the Defi/Web3 field</p>
+
+<p><strong>What you will be doing</strong>:</p>
+<ul>
+<li>Writing and compiling Solidity Smart Contracts, including quirks and edge cases</li>
+<li>Debugging and testing with tools like hevm, dapp-test, remix</li>
+<li>Ethereum testnets and contract deployment scripts</li>
+<li>Playing with Fuzzers and Vulnerability Scanners such as Echidna, Manticore, Slither, etc</li>
+<li>Feeds & Oracles including both smart contracts (solidity)</li>
+</ul>
+<p></p>
+<p><strong>Minimum Requirements</strong>:</p>
+<ul>
+<li>4+ years of professional Solidity development experience</li>
+<li>Deep understanding of the underlying Ethereum Virtual Machine, compilation from high level language to bytecode, the EVM execution model, memory layout, etc.</li>
+<li>Knowledge of common smart contract development design patterns, industry standards (ERCs and EIPs) and best practices.</li>
+<li>Understand typical smart contract problems like reentrancy, migrations and upgradeability of immutable systems.</li>
+<li>Deployed real smart contracts that have seen public use (in TVL, middleware, governance) in Ethereum Mainnet.</li>
+<li>Experience with a scripting language for test automation and monitoring, preferably Javascript or Typescript.</li>
+<li>Solution architecture /functional & non functional requirements deconstruction / expansion</li>
+<li>Have a collaborative, problem-solving attitude and be willing to help other team members.</li>
+<li>Continuous improvement mindset (ITIL / SDLC understanding or certification)</li>
+<li>Unit test case development</li>
+<li>Unit test execution and pressure testing vulnerabilities / design flexibility</li>
+</ul>
+<p></p>
+<p><strong> Additional Experience:</strong></p>
+<ul>
+<li>Broad understanding of traditional finance, currency and money markets, and how theyâre being adapted into Decentralized Finance, with concepts such as Security Tokens, Decentralized Exchanges, Fungibility, etc.</li>
+<li>Experience with solidity from reputable DeFi or blockchain project</li>
+<li>Security/auditing experience</li>
+</ul>
+<p></p>
+<p><strong>Why work with us</strong></p>
+<ul>
+<li>Exciting opportunity to join a top Web3 project on a Fantom network</li>
+<li>Amazing chance for you career movement into the revolutionary and innovative space</li>
+<li>Competitive salary( stable coin)</li>
+<li>The environment of creativity, flexibility and freedom</li>
+<li>Global Connections in the Web3 space</li>
+<li>Working in environment where ideas and opinions are valued and encouragedY</li>
+<li>our impact is evident.</li>
+<li>Talented and supportive team</li>
+<li>Flexible Hours</li>
+<li>Youâll learn a lot</li>
+<li>A focused, communicative team with aligned goals</li>
+<li>The opportunity to play an active role in one of the most significant technological innovations in human history.</li>
+</ul><br/><br/>Please mention the word **CONVINCING** and tag RNDQuMjEzLjczLjE1MQ== when applying to show you read the job post completely (#RNDQuMjEzLjczLjE1MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -71,7 +162,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/much-remote-senior-odoo-developer-m-f-d" align="right" target="_blank">Apply</a>
@@ -127,7 +218,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bbe-marketing-inc-full-stack-wordpress-developer-3" align="right" target="_blank">Apply</a>
@@ -161,6 +252,162 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/3489/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>OpenCraft</h5>
+                    <h3> Senior Open Source Developer & DevOps (Python, Django, React, AWS/OpenStack)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>750 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0017/3489/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Fully remote company (worldwide, incorporated in Berlin)
+    <br /><strong>URL:</strong> <a href="https://opencraft.com/">https://opencraft.com/</a>
+</p>
+
+<div>Do you care about contributing to open-source, and appreciate a good challenge? We do too! :) <br><br>
+</div><div>
+<strong>Open-source<br></strong><br>
+</div><div>We are a team of veteran open-source developers, working on educational and community-based projects in an<a href="https://handbook.opencraft.com/en/latest/open_first/"> open-first</a> environment – and we are looking for new members. By joining us, you will work full-time on open-source, pushing your changes to free software projects upstream through pull requests, contributing features, documentation, or help on public forums. </div><div>
+<br>We care deeply about contributing our work upstream. You will see the results of your work reused and recognized across the educational community, increasing access to quality education for everyone, everywhere.</div><div>
+<br><strong>Remote-first</strong>
+</div><div>
+<br>Unlike companies who reluctantly started to accept remote workers recently, we have embraced it from day 1. For the past 7 years, we have based and refined our way of working around remote-friendly workflows, from the ground up. No day-long video meetings, mandatory work hours, or risk of being forced back into an office one day -- as long as you have a good internet connection, it’s none of our business when or where you work from. :)</div><div>
+<br>We are all working remotely, from all continents (except Antarctica, at least so far - applicants welcome!). We use remote-friendly and timezone-agnostic workflows based on asynchronous principles and good documentation practices.</div><div>
+<br><strong>Online education<br></strong><br>
+</div><div>We are one of the main contributors to the <a href="https://open.edx.org/">Open edX project</a>, the main open-source MOOC platform created by MIT, Harvard and many other top universities. It powers sites like <a href="https://www.edx.org/">edX.org</a>, the <a href="https://openlearning.mit.edu/courses-programs/open-learning-library">MIT Open Learning Library</a>, and the <a href="https://www.fun-mooc.fr/">national online learning platform for France</a>. We provide development and hosting for institutions like <a href="https://onlinelearning.hms.harvard.edu/hmx/">Harvard Medical School</a>, <a href="https://www.labxchange.org">Harvard LabXchange</a>, <a href="https://ondemand.cloudera.com">Cloudera</a>, <a href="https://www.upskill.autodesk.com">Autodesk</a>, and several governments. We are not affiliated with <a href="https://www.edx.org/">edX.org</a>, but we contribute and work with them on various projects. </div><div>
+<br><strong>Technical stack</strong><br><br>
+</div><div>The Open edX project is a large Python/Django codebase, with good code standards and architecture. Tasks are varied, from developing core platform features, custom exercises and tools for specific courses (XBlocks), customizing and deploying instances, working full-stack, operating our service infrastructure, improving our hosting platform, etc. You won't get bored here.<br><br>
+</div><div>
+<strong>Contracting terms<br></strong><br>
+</div><div>This is a full-time, permanent contract position. We aim for long-term relationships -- once in, almost all team members stay for many years. </div><div><br></div><div>We care about paying fairly: </div><ul>
+<li>Team members set their own compensation level, which is paid based on hours worked (no unpaid overtime!). </li>
+<li>When determining your rate, we will expect you to factor in benefits (vacation, healthcare, purchase budgets, etc.) - the idea is to let <em>you</em> pick the benefits that are useful to you, rather than offer one-size-fits-all packages that aren’t always very valuable.</li>
+<li>We also proactively apply generous raises team-wide, based on the company results at the end of each year. <a href="https://handbook.opencraft.com/en/latest/team_compensation/">See the details about how we approach compensation in our handbook</a>.</li>
+</ul><div>We also firmly believe in work-life balance: as long as you deliver what you commit to, there is a lot of latitude in how much work you can choose to accept. We are open to time commitments anywhere in the 30h to 40h/week range, and highly discourage working more than that. It’s important to have time to ourselves, as well as having some slack, and there are diminishing returns in working more anyway. We are currently recruiting precisely to preserve that balance, and ensure we have plenty of capacity to handle our projects.</div><div><br></div><div>We welcome applicants of all genders and ethnicities.</div><div>
+<br><strong>Basic Requirements:</strong>
+</div><ul>
+<li>Experience with contributing to free software projects - small contributions are completely fine, but you <em>must</em> have at least one patch or pull request merged in a third-party project, or been a maintainer of an open source project with significant adoption. (Note that you can contribute now to satisfy this requirement - see for example the <a href="https://github.com/openedx/build-test-release-wg/projects/1">Open edX release issues</a>, fixing one of these issues guarantees an interview.)</li>
+<li>Senior developer with 3+ years working with Python</li>
+<li>Experience with Python web frameworks, specifically Django</li>
+<li>3+ years of HTML, Javascript, and CSS (experience with React and/or Typescript is a big plus!)</li>
+<li>Experience with unit testing</li>
+<li>Comfortable working in a Linux environment, specifically Debian or Ubuntu</li>
+<li>Experience with databases: MySQL, MongoDB, PostgreSQL</li>
+</ul><div>
+<strong>Additional Skills:</strong><br><br>
+</div><div>You will work on tasks from the following categories, but you can pick up the skills on the job if you haven't mastered these yet:</div><ul>
+<li>DevOps experience, especially on Debian/Ubuntu servers, Terraform, Vault, Packer, Prometheus, ELK, Docker. We are building a modern infrastructure and having a strong DevOps presence on top of core software engineering skills is a big plus with us.</li>
+<li>Cloud computing, like AWS or OpenStack</li>
+<li>Configuration management tools such as Ansible, Consul</li>
+<li>RabbitMQ, Redis &amp; Elasticsearch</li>
+<li>Mobile development (iOS and/or Android)</li>
+<li>Managing clients &amp; projects from beginning to completion (senior developer)</li>
+<li>Public speaking at conferences (you would present a talk every year at the Open edX Con)</li>
+</ul><div>
+<br><strong>Apply for this Position</strong><br><br>
+</div><div>Our recruitment process differs from most other companies - we don’t believe resumes and the traditional interviews to be particularly effective. Often, they tell more about how good someone is at interviewing, rather than at the actual work. So, our initial interview is lighter and easier to pass than in other companies - but we then provide you with real (and paid!) work to see how it works out in reality.</div><ul>
+<li>Step 1: You apply by filling out this form: <a href="https://opencraft.com/jobs/open-source-developer/">https://opencraft.com/jobs/open-source-developer/</a> </li>
+<li>Step 2: We do two interviews with candidates matching the requirements listed above. The first interview includes a (simple) coding exercise.</li>
+<li>Step 3: If this works out, we hire you! We start with a 2 months <a href="https://handbook.opencraft.com/en/latest/processes/#recruitment">trial period</a>, which allows both you and the rest of the team to fully evaluate how we work together, and is followed by a final review and confirmation. </li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack">https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>A.Team</h5>
+                    <h3>Senior Independent Software Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,go,wordpress,hr</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="text-size-adjust: 100%; overflow-wrap: break-word;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior independent software builders to team up with hand-picked, high-growth companies on their next big thing. </p>
+<p style="text-size-adjust: 100%; overflow-wrap: break-word;">After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.</p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><em>As part of A·Team, you can expect:</em></span></p>
+<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
+<li><strong>High-paying, meaningful missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li><strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li><strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li><strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li><strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul>
+<p> </p>
+<p> </p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>How to apply:</strong></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Go here: <a href="https://build.a.team/remotivereferral" rel="nofollow">https://build.a.team/remotivereferral</a> + mention Remotive. </span>No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.</p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>What you’ll do:</strong></span></p>
+<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Once part of A.Team, you’ll regularly be invited to impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old school non-tech incumbents looking to build as a tech giant would</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </span></p>
+</li>
+</ul>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is for:</span></strong></p>
+<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Senior software developers who left large companies and high-growth startups to pursue their craft with autonomy.</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing</span></p>
+</li>
+</ul>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><strong><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Who A</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">·</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Team is </span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">not</span><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"> for:</span></strong></p>
+<ul style="margin-top: 0; margin-bottom: 0; padding-inline-start: 48px;">
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">People looking for small gigs</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 0pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Folks looking to build simple wordpress/wix/squarespace-style websites</span></p>
+</li>
+<li dir="ltr" style="list-style-type: disc; font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">
+<p dir="ltr" style="line-height: 1.38; margin-top: 0pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">Those still early in their careers and recent university/bootcamp grads (at least not yet)</span></p>
+</li>
+</ul>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><strong>Our long-term vision:</strong></span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
+<p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
+<img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1446640/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -171,7 +418,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -238,7 +485,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -307,7 +554,7 @@
                     <code>api,developer,ios,mobile</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ios-developer-1497219" align="right" target="_blank">Apply</a>
@@ -363,7 +610,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -440,7 +687,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
