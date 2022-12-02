@@ -1,246 +1,219 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/e8e8cf5b025a67312983a32696e867ec1669792539.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/1defa82695dcaf38b9de6768ae1673421669878970.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Prime Trust</h5>
-                    <h3>Staff Software Engineer</h3>
+                    <h5>Celestia Labs</h5>
+                    <h3>Software Engineer Test</h3>
                 </td>
                 <td width="300">
-                    <code>software,design,hr,system,security,technical,support,travel,financial,fintech,bank,postgresql,rails,api,legal,recruiting,engineer,engineering,recruitment,full-time,digital nomad</code>
+                    <code>software,test,design,web3,system,python,technical,developer,testing,code,qa,devops,engineer,full-time,digital nomad</code>
                 </td>
                 <td width="200">
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-staff-software-engineer-prime-trust-156751" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-test-celestia-labs-157303" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="content-intro">
-<p><strong>About Prime Trust</strong></p>
-<div>
-<p>Prime Trust provides financial infrastructure APIs that allow fintech and digital asset companies to innovate quickly, securely, and reliably. Prime Trust makes it easy for businesses to offer access to digital assets with qualified custody, payment rails, indemnity, liquidity, compliance, and settlement APIs, as well as debit cards for custodial spending. Regulated by the State of Nevada, Prime Trust processes hundreds of millions of API calls per month. Prime Trustâs team has extensive regulatory and financial services backgrounds from the OCC, SEC, Federal Reserve, US Department of Justice, US Treasury/Secret Service, JPMorgan Chase, Green Dot, American Express, PNC, Bank of America, and Visa. The company is recognized by Forbes as Americaâs Best Startup Employer 2022 and is also Great Place to Work-Certifiedâ¢ 2022. Prime Trust has also been named to CB Insights Blockchain 50 for 2022. Visit us at <a class="c-link" href="http://www.primetrust.com/" target="_blank" rel="noopener noreferrer nofollow">www.primetrust.com</a> and connect with us on <a class="c-link" href="https://www.linkedin.com/company/primetrust/" target="_blank" rel="noopener noreferrer nofollow">LinkedIn</a>, <a class="c-link" href="https://twitter.com/PrimeTrustCo" target="_blank" rel="noopener noreferrer nofollow">Twitter</a>, and <a class="c-link" href="https://www.facebook.com/PrimeTrustLLC" target="_blank" rel="noopener noreferrer nofollow">Facebook</a>.</p>
-</div>
-<div> </div>
-</div><div class="css-1al0cc eu4oa1w0">
-<div class="css-1jb7xmw e37uo190">
-<div class="css-smaipe e1wnkr790">
-<p><strong>Job Summary</strong></p>
-<p>Prime Trust is seeking an experienced staff software engineer for a full-time remote position to help us build, support, and scale Prime Trust products. The right candidate can expect to develop new products, enhance existing features, and solve problems efficiently. They will be expected to collaborate efficiently with teammates and communicate often with other colleagues including product managers, business teams, and QA. You should be comfortable working with fully remote teams (as youâll work with many folks in time zones different from your own), and also excited about fostering an inclusive environment. We seek to provide an <strong>inclusive work environment </strong>where everyone can thrive professionally, as well as have full lives outside of work. If this sounds like you, we would love to hear from you!</p>
-<p><strong>Job Responsibilities</strong></p>
-<ul>
-<li>Collaborate with product managers and engineering managers to define and assess scope, estimates & priority of work for various features and enhancements</li>
-<li>Set technical direction and maintain ownership for the design and implementation of system architecture and infrastructure</li>
-<li>Work to define and adhere to our internal coding standards, development processes, and continue to improve best practices</li>
-<li>Make architecture recommendations and drive alignment with Product and peers</li>
-<li>Develop new features and enhance existing features with a test-driven mindset</li>
-<li>Investigate and resolve issues in a timely manner</li>
-<li>Provide mentorship, guidance, feedback, and suggestions to teammates</li>
-</ul>
-<p><strong>Experience & Skill Requirements</strong></p>
-<ul>
-<li>10+ years of software development experience</li>
-<li>Strong experience building RESTful APIs using languages including JavaScript/TypeScript</li>
-<li>Strong experience with PostgreSQL and ORMs (preferably TypeORM and/or MikroORM)</li>
-<li>Ruby on Rails familiarity is highly desirable â¢ Experience with full Software Development Lifecycle across multiple projects</li>
-<li>Knowledge and experience working in FinTech infrastructure & solutions highly desirable</li>
-<li>Team player and an excellent listener, collaborator, and communicator</li>
-<li>Passionate about solving engineering problems and seeing your solution through to the finished product</li>
-<li>Experience (or willingness) to work with a fully remote team across all time zones</li>
-</ul>
-<p><strong>Education - </strong>Bachelor's degree in computer science/engineering or equivalent work experience</p>
-<p><strong>Benefits - </strong>Flexible PTO/Paid holidays/401(k)/Health, Dental, and Vision insurance for employee and dependents which is currently 100% paid for by the company, after the first day of the month following date of employment, and connectivity service reimbursement up to $100 per month (which includes work related cell phone, wifi, etc.)</p>
-</div>
-</div>
-</div><div class="content-conclusion">
-<p>At Prime Trust, we hold the steadfast belief that diversity and inclusion is essential to realize our mission and is a must-have for us to do our best work. We are proud to be an Equal Employment Opportunity employer and do not discriminate on the basis of race, color, ancestry, national origin, citizenship, religion, sex, sexual orientation, gender identity, age, ability, marital status, veteran status, or any other legally protected status. We will ensure that individuals with disabilities are provided reasonable accommodation to participate in the job application or interview process, to perform essential job functions, and to receive other benefits and privileges of employment. Please contact us to request accommodation.</p>
-<p> </p>
-<h3><strong>CCPA Notice for Candidates</strong></h3>
-<p><span style="font-weight:400;">Thank you for your interest in joining Prime Trust, LLC and/or any Prime Trust affiliate companies (collectively âPrime Trust,â âwe,â âour,â or âusâ). Protecting your privacy is important to us. Under California law, we are required to provide you notice about the collection and use of your personal information. Please contact privacy@primetrust.com if you have any questions after reviewing the following information.</span></p>
-<h3><strong>Scope and Applicability</strong></h3>
-<p><span style="font-weight:400;">This Notice applies to job applicants and describes Prime Trustâs privacy practices when you apply for employment or are considered for a position with Prime Trust. </span></p>
-<p><span style="font-weight:400;">Prime Trust does </span><span style="font-weight:400;">not</span><span style="font-weight:400;"> recruit or hire the following:</span></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Children under 18 â We will not process or retain job applications from children under 18, nor do we direct information toward audiences under 18.</span></li>
-</ul>
-<h3><strong>Information We Collect</strong></h3>
-<p><span style="font-weight:400;">We collect and process personal information for recruitment, interviewing, and hiring purposes as described in this Notice (collectively, âRecruitment Activitiesâ). To learn about your information collection choices, see the âYour Privacy Choices and Rightsâ section below.</span></p>
-<ol>
-<li style="font-weight:400;">
-<h3><span style="font-weight:400;">Information You Provide to Us</span></h3>
-</li>
-</ol>
-<p><span style="font-weight:400;">In addition to the information we collect when you use our Services described in our </span><a href="https://www.primetrust.com/legal/privacy-policy" rel="noopener noreferrer nofollow"><span style="font-weight:400;">Privacy Notice</span></a><span style="font-weight:400;">, we collect the following information directly from you as part of our Recruitment Activities:</span></p>
-<ul>
-<li>
-<strong>Academic and professional experience</strong><span style="font-weight:400;"> such as employment history, level of education, skills, certifications, professional affiliations, and other relevant career information you choose to provide; and</span>
-</li>
-</ul>
-<ul>
-<li style="font-weight:400;">
-<strong>Work eligibility</strong><span style="font-weight:400;"> such as your eligibility to work in the country where you applied for a job and your start date.</span>
-</li>
-</ul>
-<ol>
-<li style="font-weight:400;">
-<h3><span style="font-weight:400;">Publicly Available Information</span></h3>
-</li>
-</ol>
-<p><span style="font-weight:400;">We also may receive information from publicly available sources and social media websites, such as LinkedIn, during our Recruitment Activities.</span></p>
-<ol>
-<li style="font-weight:400;">
-<h3><span style="font-weight:400;">Information We Collect from Third Parties</span></h3>
-</li>
-</ol>
-<p><span style="font-weight:400;">We receive information about you from third parties, such as recruiting agencies, background check suppliers, and former employers, to engage in and support our Recruitment Activities. We limit the processing of your personal information to the purposes described in this Notice.</span></p>
-<p><span style="font-weight:400;">Personal information that third parties share with us includes:</span></p>
-<ul>
-<li style="font-weight:400;">
-<strong>Contact information</strong><span style="font-weight:400;">; and</span>
-</li>
-<li style="font-weight:400;">
-<strong>Academic and professional background information</strong><span style="font-weight:400;">, such as referrals from current and former employees, contractors, recruiting agencies, or background check suppliers.</span>
-</li>
-</ul>
-<p><span style="font-weight:400;">Third parties that collect personal information may have their own privacy notices which govern how your personal information is shared or used. We encourage you to read those notices carefully, and to contact the third party directly if you have any questions about their privacy practices. </span></p>
-<ul>
-<li>
-<strong>Academic and professional experience</strong><span style="font-weight:400;"> such as employment history, level of education, skills, certifications, professional affiliations, and other relevant career information you choose to provide; and</span>
-</li>
-</ul>
-<ul>
-<li style="font-weight:400;">
-<strong>Work eligibility</strong><span style="font-weight:400;"> such as your eligibility to work in the country where you applied for a job and your start date.</span>
-</li>
-</ul>
-<h3><strong>How We Use Information</strong></h3>
-<p><span style="font-weight:400;">When you interact with us during our Recruitment Activities, we use your personal information in the following ways:</span></p>
-<ul>
-<li style="font-weight:400;">
-<strong>Communicate with you</strong><span style="font-weight:400;"> â We use your personal information to engage with you, including contacting you during the screening and interviewing process and communicating with you through our Recruitment Activities.</span>
-</li>
-<li style="font-weight:400;">
-<strong>Provide our Recruitment Activities</strong><span style="font-weight:400;"> â We use your personal information to provide, operate, monitor, and maintain our Recruitment Activities, such as to evaluate and verify your application and qualifications for employment, prepare for and conduct interviews and screenings, conduct background and criminal checks, check references, arrange travel where applicable, or reimburse you for travel expenses.</span>
-</li>
-<li style="font-weight:400;">
-<strong>Provide and improve functionality</strong><span style="font-weight:400;"> â We use your personal information to provide you with the functionality required during Recruitment Activities to analyze how you interact with our Recruitment Activities, and improve functionality, quality, and user experience. For example, we collect information about which websites you visited before applying to determine the effectiveness of our job postings. We also collect your information to determine whether you have previously visited our career page or previously applied for a job at Prime Trust.</span>
-</li>
-<li style="font-weight:400;">
-<strong>Promote the security of our Recruitment Activities </strong><span style="font-weight:400;">â We use your personal information to investigate and prevent fraudulent behavior, unauthorized access related to Recruitment Activities and other illegal activities by verifying that the information you and others provide is true and accurate, such as for reference checks.</span>
-</li>
-<li style="font-weight:400;">
-<strong>Develop and improve our Recruitment Activities</strong><span style="font-weight:400;"> â We process your personal information for legitimate business purposes, such as internally evaluating our recruitment process, submitting reports as required by law, and conducting analytics.</span>
-</li>
-<li style="font-weight:400;">
-<strong>Legal, Regulatory, Safety and Compliance purposes</strong><span style="font-weight:400;"> â We use your personal information for compliance with laws or regulations, resolving legal disputes, and reviewing compliance with applicable usage terms, such as work eligibility in the country of employment. </span>
-</li>
-<li style="font-weight:400;">
-<strong>Meeting any Statutory and/or Regulatory Reporting Obligations</strong><span style="font-weight:400;"> â We collect your personal information to evaluate whether we are meeting our recruiting our internal commitments to diversity and for collecting and/or submitting applicant data as required to regulatory authorities such as the Equal Employment Opportunity Commission.</span>
-</li>
-<li style="font-weight:400;">
-<strong>Other purposes </strong><span style="font-weight:400;">â If we use your personal information for other purposes not described above, we will notify you in advance and ask for your consent. </span>
-</li>
-</ul>
-<h3><strong>How We Share Information</strong></h3>
-<p><span style="font-weight:400;">We share your personal information with third parties as required by law and as part of our business practices, as described below.</span></p>
-<p><span style="font-weight:400;">We work with service providers such as skills evaluation providers, recruiting and HR software providers, recruiting agencies, and consultants to help us with our Recruitment Activities. Under contract with Prime Trust, these third parties are authorized to use your personal information only as necessary to provide these services or perform them on our behalf.</span></p>
-<h3><strong>International Transfers</strong></h3>
-<p><span style="font-weight:400;">If you provide us with your personal information, we may transfer your personal information to other countries. Some of these countries may have different data protection laws than the country in which you initially provided the information to us, and you may have few rights with respect to your personal information. </span><strong>If you do not want your personal information transferred to other countries, please do not submit any information to us.</strong></p>
-<p><span style="font-weight:400;">To the extent required by law, we will take measures to protect the cross-border transfer of your information.</span></p>
-<h3><strong>Changes to This Notice</strong></h3>
-<p><span style="font-weight:400;"> We periodically review and update this Notice to describe changes to our practices. You can determine when this Notice was last revised by referring to the âUpdatedâ date at the top of this Notice. We encourage you to review the Notice whenever you interact with our Recruitment Activities to stay informed about our privacy practices and the ways that you can help protect your privacy.</span></p>
-<p><span style="font-weight:400;">If we make significant changes to this Notice, we will notify you through</span><span style="font-weight:400;"> the email address associated with your application.</span><span style="font-weight:400;"> </span><strong>If you do not agree with the privacy practices disclosed in the Notice, we recommend you stop engaging in our Recruitment Activities.</strong></p>
-<h3><strong>Contact Us</strong></h3>
-<p><span style="font-weight:400;">If you have questions about this Notice or to update or request changes to your personal information, please contact us at privacy@primetrust.com or write to us:</span></p>
-<p><span style="font-weight:400;">Prime Trust</span></p>
-<p><span style="font-weight:400;">Attn: Jennifer Blanco</span></p>
-<p><span style="font-weight:400;">330 S Rampart Blvd Ste 260,  </span></p>
-<p><span style="font-weight:400;">Las Vegas, NV 89145 </span></p>
-<p><br><br><strong>GDPR Notice for Candidates</strong></p>
-<h3><strong>Legal Bases for Processing (for EEA Job Applicants)</strong></h3>
-<p><span style="font-weight:400;">If you are an individual from the European Economic Area (âEEAâ), we collect and process your personal data only where we have legal basis for doing so under applicable European Union laws. The legal basis depends on Prime Trustâs relationship to you and how you choose to interact with us. This means we collect and use your personal data only:</span></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">To fulfill our contractual obligations to you;</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">To operate our business, including to improve and develop our Recruitment Activities, for fraud prevention purposes, improve user experience, or other legitimate interest; and/or</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">As otherwise in compliance with law.</span></li>
-</ul>
-<p> </p>
-<p><span style="font-weight:400;">If you have any questions about the legal basis for processing, please contact us at the address listed in the </span><strong>âContact Usâ section</strong><span style="font-weight:400;">.</span></p>
-<h3><strong>International Transfers</strong></h3>
-<p><span style="font-weight:400;">If you provide us with your personal information, we may transfer your personal information to other countries. Some of these countries may have different data protection laws than the country in which you initially provided the information to us, and you may have few rights with respect to your personal information. </span><strong>If you do not want your personal information transferred to other countries, please do not submit any information to us.</strong></p>
-<p><span style="font-weight:400;">To the extent required by law, we will take measures to protect the cross-border transfer of your information.</span></p>
-</div><br/><br/>Please mention the word **SWANKY** and tag RNDQuMjEzLjczLjE1MQ== when applying to show you read the job post completely (#RNDQuMjEzLjczLjE1MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <div><b style="font-size:18px;">About Celestia</b></div><div>Celestia is the first modular blockchain network. By decoupling consensus from execution, Celestia enables anyone to easily deploy their own blockchain, without the overhead of bootstrapping a new consensus network. Blockchains on Celestia are free from constraints, making them scalable, sovereign, and secure.</div><div><br></div><div><b><span style="font-size:18px;">About the Team</span></b></div><div>The Celestia team is remote first and highly distributed, with english as our primary language for communication. We are looking for self-starters that are excited about working in a fast paced startup environment. We do not require employees to live in specific timezones, but much of the team lives and works in the European and US timezones.  As such, employees are expected to be available as needed for team and company events that are scheduled. Generally these are scheduled between 12pm-5pm UTC. </div><div><br></div><div>Celestia Labs is seeking a remote full-time Software Engineer in Test to help build out the testing infrastructure and CI/CD architecture.</div><div><br></div><div><br></div><p></p><h4>Perks</h4><p></p><p></p><ul>
+<li>Flexible and remote work environment</li>
+<li>Employment benefits and 4 weeks annual vacation</li>
+<li>A share of the initial token supply, in addition to a salary</li>
+<li>Work at the forefront of blockchain scaling alongside an exceptional team of engineers</li>
+</ul><p></p><h4>Responsibilities</h4><p></p><p></p><ul>
+<li>Help design and build E2E tests for our modular stack</li>
+<li>Participate in technical discussions on issues and code reviews</li>
+<li>Collaborate with developers across multiple teams to improve E2E feedback cycles for test cases, bugs, and new features</li>
+<li>Manual debugging as needed to developer well define bug reports for the developer teams</li>
+</ul><p></p><h4>Who You Are</h4><p></p><p></p><ul>
+<li>At least 2 years of experience in this role or similar (Software Developer in Test, QA Automation, Devops Engineer)</li>
+<li>Experience defining test scenarios and writing tests in languages like Go</li>
+<li>Experience with open source CI/CD tools like Github Actions</li>
+</ul><p></p><h4>Nice to Haves</h4><p></p><p></p><ul>
+<li>Experience with Testground</li>
+<li>Hands-on experience with Cosmos SDK</li>
+<li>A testing microservices background</li>
+<li>You have developed automation frameworks from scratch in Go, Python or other system languages</li>
+</ul><div>While experience in the blockchain space is preferred â having general excitement about web3 and modular blockchain technology is a must!	</div><br/><br/>Please mention the word **LIFESAVER** and tag RNDQuMTkzLjIxMi4yMDY= when applying to show you read the job post completely (#RNDQuMTkzLjIxMi4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/347bf01a2316f4893402c54c9832bdd01669619735.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/a99a0fcdd36e813523532815d11250ec1669878927.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>TradeBlock</h5>
-                    <h3>Lead Software Engineer</h3>
+                    <h5>Celestia Labs</h5>
+                    <h3>Software Engineer Go</h3>
                 </td>
                 <td width="300">
-                    <code>software,design,crypto,redis,python,django,code,web,financial,java,cloud,postgresql,lead,health,engineer,linux,digital nomad</code>
+                    <code>software,web3,technical,code,go,engineer,full-time</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-lead-software-engineer-tradeblock-155728" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-go-celestia-labs-157278" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="content-intro"><p><span style="text-decoration:underline;"><strong>About The Company</strong></span><br><span style="font-weight:400;">TradeBlock is the leading institutional digital assets trading platform. TradeBlock provides standardized connectivity and a powerful suite of tools to capture the end-to-end trade lifecycle for liquidity providers, asset managers, corporate clients, and exchanges, among others.</span></p></div><p><span style="text-decoration:underline;"><strong>About the Position</strong></span></p>
-<p><em>Budgeted Base Salary Range:</em> $200k - $250k</p>
-<p>Our engineers design and build Financial Information Exchange (FIX) infrastructure which supports our Crypto Trading Platform.  Our Platform must provide low-latency, highly secure, and distributed design for our clients. They are responsible for core software development, data ingestion, transformation, and distribution, as well as measuring and improving the performance of our systems.</p>
-<p>The ideal candidate will have experience in crypto currencies, capital markets and/or FX, solid understanding of data structures and algorithms, strong Java programming skills and FIX knowledge/experience.</p>
-<p><strong>Responsibilities</strong></p>
+                <div><b style="font-size:18px;">About Celestia</b></div><div>Celestia is the first modular blockchain network. By decoupling consensus from execution, Celestia enables anyone to easily deploy their own blockchain, without the overhead of bootstrapping a new consensus network. Blockchains on Celestia are free from constraints, making them scalable, sovereign, and secure.</div><div><br></div><div><b><span style="font-size:18px;">About the Team</span></b></div><div>The Celestia team is remote first and highly distributed, with english as our primary language for communication. We are looking for self-starters that are excited about working in a fast paced startup environment. We do not require employees to live in specific timezones, but much of the team lives and works in the European and US timezones.  As such, employees are expected to be available as needed for team and company events that are scheduled. Generally these are scheduled between 12pm-5pm UTC. </div><div><br></div><div>Celestia Labs is seeking a remote full-time software engineer with Go experience to help build the Celestia core protocol.</div><div><br></div><p></p><h4>Perks</h4><p></p><p></p><ul>
+<li>Flexible and remote work environment</li>
+<li>Employment benefits and 4 weeks annual vacation</li>
+<li>A share of the initial token supply, in addition to a salary</li>
+<li>Work at the forefront of blockchain scaling alongside an exceptional team of engineers</li>
+</ul><p></p><h4>Responsibilities</h4><p></p><p></p><ul>
+<li>Contribute readable, well-tested, and well-documented code to the core Celestia protocol</li>
+<li>Participate in technical discussions on issues and code reviews on pull requests</li>
+<li>Be a part of the feedback loop between technical specification and implementation</li>
+</ul><p></p><h4>Who You Are</h4><p></p><p></p><ul>
+<li>You are an experienced blockchain engineer with 4+ years of experience in Go, Rust, C++, or other systems languages</li>
+<li>Experience with building maintainable and well documented codebases</li>
+<li>Experience with open source software development tools like Github</li>
+</ul><p></p><h4>Nice to Haves</h4><p></p><p></p><ul>
+<li>Solid understanding of Tendermint or other consensus engines</li>
+<li>Experience with libp2p, IPFS</li>
+<li>Experience implementing Cosmos-SDK modules and applications</li>
+</ul><div>While experience in the blockchain space is preferred â having general excitement about web3 and modular blockchain technology is a must!	</div><br/><br/>Please mention the word **CUTE** and tag RNDQuMTkzLjIxMi4yMDY= when applying to show you read the job post completely (#RNDQuMTkzLjIxMi4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/08034e5761e93395265a62b62ff533a31669878967.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>XMTP</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,crypto,security,technical,financial,senior,engineer,linux,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-xmtp-157300" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><span style="font-weight:400;">Our mission at </span><strong><a href="https://www.beforeyouapply.com/team/early-stage-team-at-xmtp-labs" rel="noopener noreferrer nofollow">XMTP Labs</a></strong><span style="font-weight:400;"> is to build a secure, open, and decentralized communication protocol that connects creators, communities, apps, and users.</span></p>
+<h4>As a Senior Software Engineer at XMTP you will:</h4>
 <ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Develop scalable and robust architecture for the existing state of our infrastructure as  well as its future state while contributing to its maintenance and improvement.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Write reliable, reusable, and efficient code and APIs to support our infrastructure and  product requirements.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Spend 70% of time coding</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Manage a small team of 3-4 engineers.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Manage crypto exchange and broker connectivity (REST, Web Socket and FIX) </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Analyze performance and identify bottlenecks.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Contribute to the status and health monitoring systems of our infrastructure.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Provide quick responses to production issues.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Contribute technical input and knowledge to the planning, design, and requirements  process of new products.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Develop and maintain highly reliable, scalable, and secure applications</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Debug production issues across services and multiple levels of the stack</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Write high quality documentation for your contributions</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with other engineers, PMs, and designers on the team</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Participate in open source development</span></li>
 </ul>
-<p><strong>Requirements</strong></p>
+<h4>You may be a fit for this role if you have:</h4>
 <ul>
-<li style="font-weight:400;"><span style="font-weight:400;">5+ years of Python coding skills.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Strong Data Structures & Algorithms knowledge</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with Django framework</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with SQL and relational databases, PostgreSQL preferred</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Knowledge of Cloud Infrastructure (AWS, Google, On-prem)</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Strong Linux experience</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Proficiency with messaging (Redis, ZeroMQ, RabbitMQ) and ETL data pipelines</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience managing a small team of 3-4 engineers</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Excellent communication skills on technical and non-technical issues, with an emphasis on written communication</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">5+ years of experience in software engineering</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience building complex, high-performance software</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">A solid working knowledge of standard security methodologies</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience working with: React, TypeScript, Golang, libp2p<br></span></li>
 </ul>
-<p><strong>Preferred</strong></p>
+<h4>Not required, but a bonus if you have:</h4>
 <ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Knowledge of C++, Rust, or Go</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with crypto currencies, FX, or capital markets.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with Redis Streams, NATS or other streaming technologies</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience leading or contributing to open source projects</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with end to end encryption, messaging, secure storage, key management</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with cryptographic primitives and protocols</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with the Linux operating system, its internals, and ecosystem</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience building with decentralized networks, consensus protocols, smart contracts, blockchains, etc.</span></li>
 </ul>
-<p><strong>Technologies</strong></p>
-<p><span style="font-weight:400;">AWS, PostgreSQL, Linux, Redis, Python, ZeroMQ, and Git</span></p><div class="content-conclusion">
-<p><span style="text-decoration:underline;"><strong>Benefits Highlights</strong></span></p>
-<ul>
-<li>90% of Medical, Dental, Vision costs covered by TradeBlock (Coverage starts from day one)</li>
-<li>401k Match w/ 5% company match</li>
-<li>Flexible PTO (Taking time off is important and encouraged)</li>
-<li>Opportunities for Equity in Digital Currency Group</li>
-<li>Paid Family Leave for mothers and fathers</li>
-<li>All new employees receive a WFH stipend.</li>
-</ul>
-</div><br/><br/>Please mention the word **DOUBTLESS** and tag RNDQuMjEzLjczLjE1MQ== when applying to show you read the job post completely (#RNDQuMjEzLjczLjE1MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<h2><strong>Who we are</strong></h2>
+<p><span style="font-weight:400;">We set out to design a modern organization from the startâone thatâs global, remote, and asynchronous-by-default.</span></p>
+<p><span style="font-weight:400;">We think of ourselves as a âgrown-upâ startupâbuilding a company thatâs fair, equitable, and rewarding for everyone to work at, with an emphasis on having fun while building an ambitious project.</span></p>
+<p><span style="font-weight:400;">Our team has decades of experience in building companies, but weâre looking for more diverse experiences to add to the founding team. Joining XMTP Labs today represents not just an opportunity to play a key role in building an essential part of the next web, but also in establishing the core DNA of the company.</span></p>
+<p><a href="https://www.beforeyouapply.com/team/early-stage-team-at-xmtp-labs" target="_blank" rel="noopener noreferrer nofollow"><strong>Here's an inside look at XMTP</strong></a><strong> </strong>and some of the frequently asked questions about our culture, answered by one of our co-founders and core team members.</p>
+<h2><strong>About XMTP, Inc.</strong></h2>
+<p>XMTP, Inc. was co-founded by <a href="https://twitter.com/mg" rel="noopener noreferrer nofollow">Matt Galligan</a> and <a href="https://twitter.com/shanemac" rel="noopener noreferrer nofollow">Shane Mac</a>, and is headquartered on the web. We have an excellent benefits package that includes parental leave, competitive pay, an equipment and home office allowance that refreshes yearly, monthly lifestyle stipend, as well as a personal assistant, and financial advisor. For U.S.-based team members we also provide access to FSA, 401K, and fully paid high quality medical, dental, and vision insurance for you and your family.</p>
+<p>Weâre backed by some of the best investors in tech and crypto: a16z Crypto Fund, Offline Ventures, Sound Ventures, Distributed Global, Redpoint, IDEO CoLab and many more key ecosystem investors and operators. <a href="https://blog.xmtp.com/series-a/#xmtps-investors" target="_blank" rel="noopener noreferrer nofollow">See the full list here</a>.</p>
+<p>XMTP, Inc. is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><br/><br/>Please mention the word **CONSIDERATE** and tag RNDQuMTkzLjIxMi4yMDY= when applying to show you read the job post completely (#RNDQuMTkzLjIxMi4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/19e785dc7eaed691e3a476b5fb0242ed1669878948.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Obol Labs</h5>
+                    <h3>Senior Software Engineer Infrastructure</h3>
+                </td>
+                <td width="300">
+                    <code>software,web3,solidity,ethereum,system,security,technical,support,test,code,devops,cloud,senior,reliability,golang,engineer,engineering</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-infrastructure-obol-labs-157291" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b style="font-size:24px;">Who Are We?</b></div><div><br></div><div>Obol Labs is a remote-first research and software development team focused on Proof of Stake infrastructure for public blockchain networks. Specific topics of focus are Internet Bonds, Distributed Validator Technology, and Multi-Operator Validation. The core team includes 14 members spread across 8 countries.</div><div><br></div><div>The core team is building the Obol Network, a protocol to foster trust-minimized staking through multi-operator validation. This will enable low-trust access to Ethereum staking yield, which can be used as a core building block in various Web3 products.</div><div><br></div><div><b style="font-size:18px;">The Network</b></div><div><br></div><div>The network can be best visualized as a work layer that sits directly on top of the base layer consensus. This work layer is designed to provide the base layer with more resiliency and decentralization as it scales. In this chapter of Ethereum, we will move on to the next great scaling challenge, which is stake centralization. Layers like Obol are critical to the long-term viability and resiliency of public networks, especially networks like Ethereum.</div><div><br></div><div>Obol as a layer is focused on scaling main chain staking by providing permissionless access to Distributed Validators. The network utilizes a middleware implementation of Distributed Validator Technology (DVT), to enable the operation of distributed validator clusters that can preserve validators' current client and remote signing configurations.</div><div><br></div><div>Similar to how roll-up technology laid the foundation for L2 scaling implementations, we believe DVT will do the same for scaling the consensus layer while preserving decentralization. Staking infrastructure is entering its protocol phase of evolution, which must include trust-minimized staking networks that can be plugged into at scale. We believe DVT will evolve into a widely used primitive and will ensure the security, resiliency, and decentralization of public networks.</div><div><br></div><div><span style="font-size:11pt;">The Obol Network develops and maintains four core public goods that will eventually work together through circular economics:</span></div><div><br></div><div>
+<b style="font-size:11pt;">The DV Launchpad</b><span style="font-size:11pt;">, a User Interface for bootstrapping and managing Distributed Validators</span>
+</div><div><br></div><div>
+<b style="font-size:11pt;">Charon,</b><span style="font-size:11pt;"> a middleware Golang client that enables validators to run in a fault-tolerant, distributed manner</span>
+</div><div><br></div><div>
+<b style="font-size:11pt;">Obol Managers</b><span style="font-size:11pt;">, a set of solidity libraries for the formation of Distributed Validators tailored to different use cases such as DeFi, Liquid Staking, and Fractionalized Deposits </span>
+</div><div><br></div><div>
+<b style="font-size:11pt;">Obol Testnets</b><span style="font-size:11pt;">, a set of ongoing public </span><span style="font-size:14.6667px;">incentivized</span><span style="font-size:11pt;"> testnets that enable any sized operator to test their deployment before serving for the Ethereum Main net</span>
+</div><div><br></div><div><b style="font-size:18px;">Sustainable Public Goods</b></div><div><br></div><div>Obol is inspired by previous work on Ethereum public goods and experimenting with circular economics. We believe that to unlock innovation in staking use cases, a credibly neutral layer must exist for innovation to flow and evolve vertically. Without this layer, highly available uptime will continue to be a moat.</div><div><br></div><div>The Obol Network will become an open, community-governed, self-sustaining project over the coming months and years. Together we will incentivize, build, and maintain distributed validator technology that makes public networks a more secure and resilient foundation to build on top of.</div><div><br></div><div><span style="font-size:24px;">Job Description</span></div><div><br></div><div>The Infrastructure team at Obol is looking for talented and experienced engineers to help us build and support our infrastructure. Join our growing organization and you will get a chance to be in the driving seat of innovation and change at Obol.</div><div><br></div><div>As an infrastructure Software Engineer, your primary role will be building, monitoring, and ensuring the reliability of our globally distributed infrastructure that powers Obolâs network for thousands of DVT clusters. </div><div>You will develop solutions, tools, and processes to increase developers' productivity and promote DevOps culture across the engineering teams while adhering to the industry security best practices and world-class quality measures.</div><p></p><h4>Responsibilities</h4><p></p><p></p><ul>
+<li>Build an enterprise-grade software development lifecycle that grows with the Obol team</li>
+<li>Automate blockchain infrastructure provisioning in cloud environments based on GCP, Kubernetes,  Terraform, and Helm.</li>
+<li>Drive a culture of automation, both within the team and throughout the organization, to scale Obolâs efficiently and reliably</li>
+<li>Build tools, processes, scripts, and CICD workflows (Github Actions) that help accelerate the engineering team so we can deliver better products faster.</li>
+<li>Ensure Obolâs cloud platform's high availability, reliability, security, and performance through implementing observability and SRE standards and building monitoring infrastructure with tools such as Grafana, Prometheus, and VictoriaMetrics.</li>
+<li>Performing blameless post-mortems whenever thereâs an unplanned outage.</li>
+<li>Participate in technical discussions to aid system design, analysis, and troubleshooting</li>
+<li>Assessment of current and future systems to ensure they adhere to security standards</li>
+<li>Writing clear documentation around infrastructure code and development tooling so that itâs easy to understand, use, and modify</li>
+<li>Participate in the Ethereum ecosystem events from the DevOps side.</li>
+</ul><p></p><h4>What you will like about us</h4><p></p><p></p><ul>
+<li>Building a world-class infrastructure that empowers a leading blockchain and Ethereum technology.</li>
+<li>Solving groundbreaking problems in distributed cryptography and cryptoeconomics</li>
+<li>Opportunity to collaborate with industry-leading cryptography researchers and advisors</li>
+<li>Opportunity to collaborate with industry-leading validators</li>
+<li>Opportunity to collaborate with Ethereum core client teams</li>
+<li>Twice annual Global Off-sitesAnnual opportunity to attend DevCon (or a blockchain conference of choice)</li>
+<li>Competitive compensation and benefits.</li>
+</ul><div>ð°ï¸ In order to scale efficiently, we focus our hiring on candidates able to work during the standard business hours of the following timezones: GMT-8 to GMT+3. </div><div>This does not mean that you have to be located in these timezones to get the job but must be able to work the bulk of your time during their standard business hours.</div><br/><br/>Please mention the word **LUXURIOUS** and tag RNDQuMTkzLjIxMi4yMDY= when applying to show you read the job post completely (#RNDQuMTkzLjIxMi4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/523cec696f6f9bde07d99f974109d2791669878947.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Offchain Labs</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,cryptocurrency,ethereum,security,developer,code,engineer,engineering,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-offchain-labs-157290" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><span style="font-size:11pt;">Offchain Labs is building a suite of scaling solutions for Ethereum. This includes Arbitrum, an Optimistic Rollup, that instantly scales apps, reducing costs and increasing capacity, without sacrificing Ethereum's security. Porting contracts to Arbitrum requires no code changes or downloads since itâs compatible with existing Ethereum developer languages and tooling.</span></div><div><br></div><div>
+<span style="font-size:11pt;">Our team is extremely passionate and works tirelessly to bridge the gap between what blockchain is and what blockchain can be. We strive to maintain an atmosphere that fosters innovation and new ideas through collaboration, research, and deep discussions. After raising an initial round of $</span><a href="http://3.8M" style="font-size:11pt;" class="postings-link" rel="noopener noreferrer nofollow">3.8M</a><span style="font-size:11pt;"> in seed funding in January 2019 and a $20M series A, as well as a $100M series B in 2021, we are ready to hire additional team members that have an interest in working in the blockchain space and a knack for approaching problems in unconventional ways.</span>
+</div><br>Who you are:<br><li>Excited to learn and develop blockchain technology (No experience yet? No problem!)</li><li>Possess production experience with a compiled language (C++, Go, or Rust)</li><li>Experienced with compiler construction and architecture, and security engineering on large-scale systems is a plus</li><li>Possess a strong sense of ownership in your work, which drives you to find ways to do things better and faster</li><li>Always up-to-speed on the latest technologies</li><li>Constantly on the lookout for new and innovative ways to solve complex problems through rigorous experimentation</li><li>Your communication style is open, transparent and direct, and you consistently work in tight collaboration with your teammates</li><li>Always open to feedback, new ideas and opportunities for self-improvement</li><li>You look for ways to help out beyond the scope of your day-to-day work</li><br>What you've done:<br><li>Made significant contributions to the products youâve worked on in your career</li><li>Have dabbled in, educated yourself on, or are experienced working on blockchain technology</li><li>Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency applications</li><li>Experience working with compilers, architecting systems and developing SDKs</li><li>Security-minded and always keeping an eye out for potential threats and vulnerabilities in your code</li><li>Mastered CS fundamentals, either in a formal university program or through self-learning</li><div><span style="font-size:11pt;">We understand it takes a diverse team of highly intelligent, passionate, curious, and creative people to solve the challenges involved in developing and improving Arbitrum. Our dynamic team has incredible perspectives to share, just as we know you do, and we take great pride in being an equal opportunity workplace.</span></div><br/><br/>Please mention the word **FESTIVE** and tag RNDQuMTkzLjIxMi4yMDY= when applying to show you read the job post completely (#RNDQuMTkzLjIxMi4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -255,7 +228,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/qumulus-technology-ltd-lead-software-engineer" align="right" target="_blank">Apply</a>
@@ -291,6 +264,88 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9182/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Narrative</h5>
+                    <h3> Web Software Engineer (Remote)</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/9182/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://narrative.io">https://narrative.io</a>
+</p>
+
+<h1>Web Software Engineer (Remote)</h1><div>
+<strong><br>What You Will Do<br></strong><br>
+</div><div>Here's what you will do in a nutshell:</div><ul>
+<li>Create new features for Narrative's Vuejs web application. Work with Product and Design teams to create the best user experience and create modular, maintainable components.</li>
+<li>Design, implement and maintain embedded applications on Narrative's Data Marketplace which enhance the ability of customers to manage and manipulate data.</li>
+<li>Help select technologies and define the strategic direction for our system architecture</li>
+<li>Work on Narrative's Tacklebox UI library, designing creating reusable components and modules for use in all of Narrative's web applications.</li>
+<li>Review and evaluate team members' code contributions, delivering transparent, honest and direct feedback to your peers.</li>
+</ul><div>While most of the work focuses on the frontend, this position is ideal for someone who would like to improve his/her backend and Functional Programming skills.<br><br>
+</div><div><strong><br>Technical Stack</strong></div><div>
+<br>In a nutshell, our technical stack looks like:</div><ul>
+<li>
+<strong>Frontend</strong>: Vuejs, Sass, Pug, and Functional JavaScript</li>
+<li>
+<strong>Backend</strong>: scala, AWS, spark, Iceberg, cats, cats-effect, http4s, and doobie</li>
+<li>
+<strong>Ops</strong>: EC2, Fargate, Lambda, Terraform, EMR, DynamoDB, S3, RDS, Step Functions, Jenkins, and Datadog</li>
+</ul><div><br></div><div>
+<strong>The Ideal Candidate<br></strong><br>
+</div><div>We are not looking for a 100% fit on all the technology buzzwords, but we are looking for someone with strong personal and technical skills who is eager to pick up new technologies as necessary. We are obviously going to expect much more from a senior candidate than we would from a junior one.<br><br>
+</div><div>The ideal candidate should:</div><ul>
+<li>Have extensive experience in one or more web frameworks (Vue, React, Angular etc.) and the ES6/JavaScript/HTML/CSS ecosystem.</li>
+<li>Have proven experience using Amazon Web Services to deploy and host web applications and databases.</li>
+<li>Be able to debug various aspects of web application code, such as cross-browser Javascript quirks.</li>
+<li>Thoroughly understand the HTTP lifecycle and how the browser interacts with web APIs.</li>
+<li>Enjoy building fast, user-friendly UIs.</li>
+<li>Not be afraid of contributing to the entire stack when the need arises, given that frontend doesn’t simply mean HTML/CSS. For instance, a feature might require<ul>
+<li>some metrics to be computed from a Spark Report</li>
+<li>creating a PostgreSQL migration script</li>
+<li>tweaking S3 permissions and terraform scripts for deployment</li>
+</ul>
+</li>
+<li>Have the ability to lead the creation of architectural and design documents, collect requirements as well as feedback from the development and product teams and evalute new technologies as needed.</li>
+<li>Drive success in a flat organization with minimal process, interfacing with technical and non-technical team members as necessary.</li>
+<li>Communicate potential technical issues to relevant teams and adapt to changing requirements.</li>
+<li>Be mindful of the compromises that need to be done to be reactive on the business side while keeping the systems manageable in the long run.</li>
+<li>Live/work within +/- 3 hours of EST</li>
+</ul><div>
+<strong><br>The Team (Remote US and Canada)<br></strong><br>
+</div><div>We are a small, early stage, remote-first team looking for great developers who want to jump in and take major systems and user-facing features from design to launch.<br><br>
+</div><div>
+<strong><br>Our Mission<br></strong><br>
+</div><div>We are building a data streaming marketplace that makes it easy to buy, sell, and win.<br><br>
+</div><div>We do this by creating tools that reduce the friction and increase transparency in the data buying process, creating a win-win relationship between buyers and sellers.</div><div>
+<br>You can learn more about Narrative by visiting https://www.narrative.io/<br><br>
+</div><div><strong>Apply Now</strong></div><div>
+<br>Apply by sending an email to <a href="mailto:hiring-dev@narrative.io">hiring-dev@narrative.io</a>.<br><br>
+</div><div>If you would like to have a chat to learn more about the company, our culture, or the team before formally applying, that's is fine too: just drop us a line at dev@narrative.io.<br><br>
+</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote">https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -301,7 +356,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -363,7 +418,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
