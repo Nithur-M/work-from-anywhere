@@ -1,56 +1,93 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/25bff03fba390ee429ac2f330858fe361669706155.peg" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/b98c6a83030e2f819b5e1b48fb6070de1669879068.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Zora</h5>
-                    <h3>Frontend Engineer Dev Tools</h3>
+                    <h5>Swish</h5>
+                    <h3>Frontend Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>frontend,design,system,engineer,engineering,digital nomad</code>
+                    <code>frontend,design,technical,support,software,web,css,lead,content,analytics,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-dev-tools-zora-156235" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-swish-157368" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <h2>About Us</h2>
-<p>ZORA is a group of individuals working towards a new paradigm for creators by enabling the creation, curation, and collection of NFTs. We believe that by enabling a more equitable system for creators and communities, we will fundamentally rediscover the power of the internet.</p>
-<p>Weâre working tirelessly to make ZORA available to as many creators as possible. Our <a href="http://zora.co/manifesto" rel="noopener noreferrer nofollow">mission</a> is to build a new creator and community-owned economy.</p>
-<h2>Who we're looking for</h2>
-<p>ZORA is looking for experienced frontend engineers to help design, implement, and extend the ZORA ecosystem. </p>
-<h2>What you'll do</h2>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with engineering & product teams to build toward our shared vision</span></li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Focus on the ZORA frontend dev tools,</span><span style="font-weight:400;"> built on the ZORA protocol and API</span>
-</li>
-<li style="font-weight:400;"><span style="font-weight:400;">Deliver & own features and projects from beginning to end</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work closely with our design teams to implement and collaborate to deliver new features and experience for the creator tool</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Inject your energy and perspective into every product meeting, standup, and interaction, both within the team and around ZORA's broader community</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Interact with our APIs, SDKs & zoraOS tools to build modular, efficient & hardened front end products</span></li>
-</ul>
-<h2>Skills we're looking for</h2>
-<ul>
-<li>Solid understanding of React, component architecture</li>
-<li>An eye for detail</li>
-<li>A collaborative approach to problem solving</li>
-<li>Adept communication skills</li>
-</ul>
-<h2>We'd love it if you had</h2>
-<ul>
-<li>Experience working with web3</li>
-<li>Vercel experience</li>
-<li>Typescript expertise</li>
-<li>Past contributions to open source libraries</li>
-</ul>
-<h2>Compensation</h2>
-<p>We're committed to offering you a salary competitive to the market based on your experience.</p><br/><br/>Please mention the word **CONGRATULATORY** and tag RNDQuMjEzLjczLjE1MQ== when applying to show you read the job post completely (#RNDQuMjEzLjczLjE1MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <div><span style="font-size:12pt;">The Engineering team at Swish is looking for talented Frontend Engineers to create fast, responsive user interfaces with a focus on the best possible user experiences. You will work closely with a talented team of designers, engineers, and product managers who design, implement and ship mission-critical features. You have prior experience developing high quality web experiences and are excited about doing that at a company that is transforming the way enterprises run their businesses with a tech-focused, mobile-first mindset. You want to have productive technical discussions with a bias towards analytics and user feedback and contribute to the continuous improvement of our web experiences.</span></div><div><br></div><div><span style="font-size:12pt;">We are looking for individuals who are passionate about the latest technologies and can lead the design and development of scalable applications. A successful candidate will bring deep analytical ability, software engineering expertise, and the ability to deliver results within a fast-moving, agile environment.</span></div><div><br></div><div><b style="font-size:18px;">Our Stack</b></div><div><br></div><div>â¢ <span style="font-size:12pt;">Frontend: React, Redux, ES6, ESLint, CSS Modules, Sass, Babel, Webpack, Flow, Jest</span>
+</div><div>â¢ <span style="font-size:12pt;">Backend: Node</span>
+</div><div>â¢ <span style="font-size:12pt;">Framework: Express, Next, Meteor</span>
+</div><div>â¢ <span style="font-size:12pt;">Datastore: MongoDB, Redis</span>
+</div><div>â¢ <span style="font-size:12pt;">Container: Docker</span>
+</div><div>â¢ <span style="font-size:12pt;">Hosting: AWS, Heroku</span>
+</div><div><br></div><div><b style="font-size:18px;">A Typical Week </b></div><div><br></div><div>â¢ <span style="font-size:12pt;">You'll brainstorm with product managers and designers to conceptualize new features.</span>
+</div><div>â¢ <span style="font-size:12pt;">You'll collaborate with backend engineers to build new features for a client.</span>
+</div><div>â¢ <span style="font-size:12pt;">You'll learn about new technologies and discuss potential solutions to problems.</span>
+</div><div>â¢ <span style="font-size:12pt;">You'll help our skilled support team triage bugs and troubleshoot production issues.</span>
+</div><div>â¢ <span style="font-size:12pt;">You'll mentor other engineers and deeply review code.</span>
+</div><div><br></div><div><b style="font-size:18px;">Requirements</b></div><div><br></div><div><span style="font-size:12pt;">You'll be tasked with developing web applications and applying them at scale to our projects. We look for the following attributes in candidates:</span></div><div><br></div><div><span style="font-size:12pt;">â¢ Strong communication skills.</span></div><div><span style="font-size:12pt;">â¢ Work across disciplines with team members from frontend, backend, design, and product.</span></div><div>â¢ <span style="font-size:12pt;">Actively participate in product decisions and improve our development workflow.</span>
+</div><div>â¢ <span style="font-size:12pt;">3+ years of relevant work experience building production web applications, ideally using our stack.</span>
+</div><div>â¢ <span style="font-size:12pt;">Experience with measuring and improving site performance by reducing time to first paint, content fully loaded, and package size.</span>
+</div><div>â¢ <span style="font-size:12pt;">Experience with unit and integration testing, continuous integration and deployment workflows.</span>
+</div><div>â¢ <span style="font-size:12pt;">Experience with integrating popular frontend libraries and packages.</span>
+</div><div><br></div><div><span style="font-size:12pt;">In all cases, you should be motivated by a desire to solve the most important problems and obtain unprecedented results and eager to push your methods to their maximal performance.</span></div><div><br></div><div><b style="font-size:18px;">Bonus Points</b></div><div><br></div><div>â¢ <span style="font-size:12pt;">Degree in STEM field, especially software engineering or computer science related.</span>
+</div><div>â¢ <span style="font-size:12pt;">Interested in emerging technology such as machine learning and blockchain.</span>
+</div><div>â¢ <span style="font-size:12pt;">Track record of improving site performance that uses legacy infrastructure.</span>
+</div><div>â¢ <span style="font-size:12pt;">Experience in small startÂ­up environments helping large enterprises.</span>
+</div><div>â¢ <span style="font-size:12pt;">Experience working with a team, especially a distributed team.</span>
+</div><div><br></div><div><b style="font-size:18px;">About Swish</b></div><div><br></div><div>
+<span style="font-size:12pt;">Launched in February 2013, </span><a href="http://www.swishlabs.com/" class="postings-link" rel="noopener noreferrer nofollow"><b style="font-size:12pt;">Swish</b></a><span style="font-size:12pt;"> is a fast-growing business with an innovative working culture and teams spanned across the world with teams in Toronto, San Francisco, Berlin, Auckland, Bruxelles, Medellin, and more. </span>
+</div><div><br></div><div><span style="font-size:12pt;">We create products for successful business using cutting-edge technologies: Blockchain, Machine Learning, and Apps Dev. Working with Swish puts you in contact with prestigious brands, wherever your base is. We are a 100% remote-work company because we believe it is everyoneâs choice to live and work the way they prefer.</span></div><div><br></div><div><span style="font-size:12pt;">Work is organized in sprints  - 2 weeks periods to which, as a member of our talent community, you choose to commit. You always have the choice to accept or decline a sprint, or take-on multiple sprints simultaneously. </span></div><div><br></div><div><span style="font-size:12pt;">We let members choose what suits them best depending on their current situation: family, travel, studies, finance. We know life is not linear and we respect the humans behind the screens. </span></div><div><br></div><div>
+<span style="font-size:12pt;">Our work ethic relies on six core values: Transparency, Directness, Meritocracy, Autonomy, Responsibility, </span><span style="font-size:16px;">Continuous</span><span style="font-size:12pt;"> Learning.</span>
+</div><div><br></div><div><span style="font-size:12pt;">Ensuring a diverse and inclusive workplace where we learn from each other is core to our values. We welcome people of different backgrounds, experiences, abilities, and perspectives. We are an equal opportunity employer and a fun place to work. </span></div><div><br></div><div><span style="font-size:12pt;">Join the future of work today.</span></div><div><br></div><br/><br/>Please mention the word **RESOLUTE** and tag RNDQuMTkzLjIxMi4yMDY= when applying to show you read the job post completely (#RNDQuMTkzLjIxMi4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/e689038d548dc693c2de0d07e505326e1669879052.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Burnt Finance</h5>
+                    <h3>Frontend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>frontend,design,web3,crypto,voice,finance,engineer,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-burnt-finance-157355" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>Burnt is building the worldâs first creator-centric monetization and engagement app powered by its own custom infrastructure layer, bringing innovative Web3 tools to creators and their billions of end-users. We are proud to be supported by amazing investors such as Animoca Brands, Multicoin Capital, Alameda Research, and so many more. If youâre looking to join a fast paced, problem solving environment in the center of blockchain infrastructure, NFTs, decentralized applications, and the creator economy please apply!</div><div><br></div><div>You will help build groundbreaking decentralized applications from the ground up, which will become a critical piece of architecture for the next stage of Web3 and crypto adoption.</div><p></p><h4>Responsibilities:</h4><p></p><p></p><ul>
+<li>Build and maintain a cross-chain (Cosmos and beyond) dapp built on NextJS and React.</li>
+<li>Collaborate with our design team to build and maintain a design system.</li>
+<li>Ensure that components are functional, elegant, performant, and mobile-friendly.</li>
+<li>Opportunities to expand into smart contract development should you be interested.</li>
+</ul><p></p><h4>Requirements:</h4><p></p><p></p><ul>
+<li>2-5 years of professional experience as a frontend engineer.</li>
+<li>Deep familiarity with frontend frameworks: React, Typescript.</li>
+<li>Highly autonomous, strong communication and collaboration within team.</li>
+<li>Comfortable with and excited to be learning on the job.</li>
+</ul><p></p><h4>Our Tech Stack:</h4><p></p><p></p><ul>
+<li>
+<b>Web</b>: HTML, Javascript, Typescript, React, NextJS, CSS, Sass, Web3/Cosmjs</li>
+<li>
+<b>Backend</b>: NodeJS, Typescript, GraphQL, Postgres</li>
+<li>
+<b>Web3 Platform</b>: Cosmos-SDK (Golang), CosmWasm (Rust)</li>
+<li>
+<b>Infrastructure</b>: AWS</li>
+</ul><div><br></div><div><br></div><div>Benefits of working at Burnt include competitive compensation, unlimited PTO, medical, dental, and vision insurance, company off-sites and more!</div><div><br></div><div>Burnt is proud to foster an inclusive environment that is free from discrimination. We strongly believe in order to build the best products, we need a diversity of perspectives and backgrounds. This leads to a more delightful experience for our users and team members. We value listening to every voice and we encourage everyone to come be a part of building a company and products we love.</div><br/><br/>Please mention the word **SIMPLIFYING** and tag RNDQuMTkzLjIxMi4yMDY= when applying to show you read the job post completely (#RNDQuMTkzLjIxMi4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -65,7 +102,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clickguard-inc-react-js-engineer-frontend" align="right" target="_blank">Apply</a>
@@ -132,7 +169,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-fast-tracked-application-frontend-javascript-engineer" align="right" target="_blank">Apply</a>
@@ -187,7 +224,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>65 days ago</text>
+                <text>66 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ocr-labs-front-end-engineer-full-time-1" align="right" target="_blank">Apply</a>
@@ -271,7 +308,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>330 days ago</text>
+                <text>331 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-frontend-engineer" align="right" target="_blank">Apply</a>
@@ -358,7 +395,7 @@
                     <code>AWS,developer,frontend,golang</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-f-m-d-1421232" align="right" target="_blank">Apply</a>
