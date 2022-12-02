@@ -40,7 +40,7 @@
 <li>Hands-on experience with Cosmos SDK or Tendermint</li>
 <li>A testing microservices background</li>
 <li>You have developed automation frameworks from scratch in Go, Python or other system languages</li>
-</ul><div>While experience in the blockchain space is preferred â having general excitement about web3 and modular blockchain technology is a must!	</div><br/><br/>Please mention the word **OPENLY** and tag RNDQuMTkzLjIxMi4yMDY= when applying to show you read the job post completely (#RNDQuMTkzLjIxMi4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>While experience in the blockchain space is preferred â having general excitement about web3 and modular blockchain technology is a must!	</div><br/><br/>Please mention the word **OPENLY** and tag RMy4yMDkuNTYuMjA3 when applying to show you read the job post completely (#RMy4yMDkuNTYuMjA3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -228,7 +228,7 @@
 <h3><strong>International Transfers</strong></h3>
 <p><span style="font-weight:400;">If you provide us with your personal information, we may transfer your personal information to other countries. Some of these countries may have different data protection laws than the country in which you initially provided the information to us, and you may have few rights with respect to your personal information. </span><strong>If you do not want your personal information transferred to other countries, please do not submit any information to us.</strong></p>
 <p><span style="font-weight:400;">To the extent required by law, we will take measures to protect the cross-border transfer of your information.</span></p>
-</div><br/><br/>Please mention the word **CRISP** and tag RNDQuMTkzLjIxMi4yMDY= when applying to show you read the job post completely (#RNDQuMTkzLjIxMi4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **CRISP** and tag RMy4yMDkuNTYuMjA3 when applying to show you read the job post completely (#RMy4yMDkuNTYuMjA3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
