@@ -1,213 +1,5 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/fa4d77b42d86daed9f95c37a4fdf3c7f1669878937.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>QuickNode</h5>
-                    <h3>Software Engineer Backend</h3>
-                </td>
-                <td width="300">
-                    <code>software,web3,strategy,go,engineer,engineering,backend</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-backend-quicknode-157286" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro">
-<div>QuickNode is a cloud-based infrastructure company that powers the blockchain ecosystem.</div>
-<div> </div>
-<div>Our mission is to be the indispensable utility that empowers companies and innovators globally to build next-generation, Web3 enabled businesses & applications using blockchain technology. QuickNode is backed by some of the world's best investors including Tiger Global, Y Combinator, SoftBank, and the Seven Seven Six Fund. The QuickNode team has over 90 people maintaining high performance global data infrastructure for amazing customers serving billions of requests daily.</div>
-<div> </div>
-<div>We are a global remote first company HQ'd in Miami, Florida.</div>
-</div><div class="section page-centered">
-<h3><strong>The Role</strong></h3>
-<div>We are looking for an engineer for the Build team who can deliver value and impact to the QuickNode team in a fast and nimble way. This engineer will be what we consider a âswiss army knifeâ within the company, working with a team of outside the box thinkers and visionaries. You will have the opportunity to tackle challenging problems that have not been solved yet in the blockchain space.</div>
-</div>
-<div class="section page-centered">
-<h3>What You'll Do</h3>
-<ul class="posting-requirements plain-list">
-<ul>
-<li>Work with a team of passionate engineers to build and innovate products that will push the edge of what the industry offers</li>
-<li>Design, build, and maintain reliable infrastructure that powers QuickNode services</li>
-<li>Influence engineering strategy and roadmap across the team and company</li>
-<li>Interact with customers and relevant stakeholders to gather requirements and feedback</li>
-<li>Triage, debug, and resolve issues that impact the quality of our services</li>
-<li>Continuously improve the quality and standards of our engineering practices, tools, and processes</li>
-</ul>
-</ul>
-</div>
-<div class="section page-centered">
-<h3>What You'll Bring</h3>
-<ul class="posting-requirements plain-list">
-<ul>
-<li>Experience in writing Rust and/or Go is preferred, but we believe that a solid engineering mindset is more valuable that relevant language experience</li>
-<li>Experience with building large-scale distributed systems involving tools like PostgreSQL, Kafka, Kinesis, ScyllaDB, RabbitMQ, etc.</li>
-<li>You have passion for building products, and a healthy obsession with learning and growing</li>
-<li>You thrive working in a fast-paced, dynamic environment while remaining autonomous</li>
-<li>You have pride in providing customers with the best experience possible</li>
-<li>A healthy obsession with learning and growing with the team</li>
-</ul>
-</ul>
-</div>
-<div class="section page-centered"> </div><div class="content-conclusion"><p>We at Quicknode are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.</p></div><br/><br/>Please mention the word **MAGIC** and tag RMy4yMDkuNTYuMjA3 when applying to show you read the job post completely (#RMy4yMDkuNTYuMjA3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/5453813260f07354a58aaa8bca86409b1669879051.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Maple Finance</h5>
-                    <h3>Backend Web Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>web,web3,crypto,ethereum,graphql,technical,developer,software,test,growth,code,finance,bank,nosql,typescript,node,senior,engineer,engineering,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-web-engineer-maple-finance-157354" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size:18px;">About Maple</b></div><div>Developed to solve the inefficiencies seen in traditional systems. Maple brings the corporate credit market 100% on-chain removing time and cost frictions, and executed on blockchains for immutability.</div><div>  </div><div>Maple Finance is infrastructure for experts (pool delegates) to run on-chain lending businesses. There are three core customers, Borrowers, Lenders and Pool Delegates. Maple offers Borrowers transparent, capital-efficient financing. For Lenders, a sustainable yield source through lending to diversified pools of premium institutions. Loans are managed and underwritten by sophisticated teams of credit analysts called Pool Delegates, who assess credit-worthiness and set loan terms with Borrowers.  </div><div><br></div><div><b style="font-size:18px;">The Team</b></div><div>Today the Maple team is 40+ strong, with staff from BlockFi, Kraken, Meta, Bank of America, Gemini and MakerDAO to name just a few blue-chip orgs. <a href="https://www.maple.finance/#team" class="postings-link" rel="noopener noreferrer nofollow">Team profiles are shared on our site here!</a>
-</div><div><br></div><div><b style="font-size:24px;">Remote anywhere in EST or Europe</b></div><div><br></div><div><b style="font-size:18px;">The Role</b></div><div><span style="font-size:11pt;">We are looking for a mature and talented Senior Web Developer that has several years' of first-rate commercial experience. The position requires you to have a deep understanding of Web3 and Ethereum. You will be working with six other developers on the Off Chain team in agile, two-week sprints on the evolution of the web application.</span></div><div><span style="font-size:11pt;">This is a critical position requiring you to take ownership of multiple tasks and resolve technical roadblocks as they emerge. Youâll be truly passionate about the craft of software development. The role demands the highest standards of tested, linted and formatted code. We are a fully remote team located across Europe and the Americas. We have two daily stand ups at 10am CET and 9:30am EST, this ensures suiting the individual team members core working hours.</span></div><div><br></div><div><b style="font-size:18px;">The Opportunity</b></div><div><span style="font-size:11pt;">This role puts the right candidate at the heart of a Global Capital Markets platform for the future of Institutional Credit and they will heavily impact/influence the further development of it over the coming years. </span></div><div><span style="font-size:11pt;">We require a developer with high Code Quality standards to match the scope of our vision to expand the digital economy. In this role you will build the innovative features that our users will find the most valuable. To achieve this you will be using the most cutting edge tech & tools available, in these fast exciting times of Web3 exploration!</span></div><p></p><h4>Responsibilities:</h4><p></p><p></p><ul>
-<li>Build clean, maintainable, and well-tested backend code (TypeScript, Node, GraphQL, AssemblyScript)</li>
-<li>Collaborate with Product, Design, and Engineering teams to define, prioritize and develop solutions/features</li>
-<li>Own and plan projects and products end to end for long-term impact â including APIs, backend, testing, etc.</li>
-<li>Contribute highly performant web3 code with a strong focus on security.</li>
-<li>Follow Test Driven Development process</li>
-<li>Monitoring and improving backend performance.</li>
-<li>Documenting application changes and developing updates.</li>
-</ul><p></p><h4>Requirements:</h4><p></p><p></p><ul>
-<li>Demonstrated coding experience with Web3 and Ethereum development tools, languages, and libraries, such as Ethers.js, Hardhat, etc.. </li>
-<li>Experience with The Graph Protocol, building and deploying Sub-Graphs</li>
-<li>JavaScript and TypeScript professional with a minimum of 5 years of experience</li>
-<li>Advanced knowledge of Node and GraphQL APIs</li>
-<li>Experience working with SQL and NoSQL databases</li>
-<li>Deep understanding of software documentation procedures</li>
-<li>Preference for Test Driven Development (TDD) and highly testable code</li>
-<li>Fluency in English</li>
-</ul><p></p><h4>What's in it for you:</h4><p></p><p></p><ul>
-<li>Base salary paid in your choice of crypto (USDC) or local fiat currency;</li>
-<li>MPL token allocation, giving you a alignment with Mapleâs long term success</li>
-<li>30 days paid time off per year</li>
-<li>Fully remote and flexible working giving you the autonomy to live and work your way</li>
-<li>Optional access to shared working space at your local WeWork or equivalent</li>
-<li>Contract or full time employment opportunities including all local statutory benefits</li>
-<li>Fully transparent and collaborative team culture</li>
-<li>Funding for personal skills development</li>
-<li>Annual team offsite events</li>
-</ul><div><b style="font-size:18px;">Last but not Least!</b></div><div>With our current lending pools collectively having almost $1B in TVL across the Ethereum and Solana applications, and further pools imminent, now is the time to join the most exciting project in DeFi. </div><div><br></div><div>Since our launch in 2021 we've been building strong partnerships with Circle, Genesis, Alameda Research, Framework, Polychain, Wintermute, Orthogonal Trading, Maven 11, BlockTower, Credora and more. Having found product-market fit, Maple is focused on growth in 2022 and aims to reach $5BN in TVL by year end. </div><div><br></div><div>If you subscribe to the values of Maple - <b>Personal Ownership, Focused Execution, User Prioritisation, Innovative Mindset</b> - and want to be part of a collaborative culture focused on bringing Global Finance into the future, then we want to hear from you!</div><div><br></div><div>We look forward to receiving your application and will be in touch after having a chance to review. </div><div><br></div><div><b style="font-size:18px;">In the meantime, here are some links to more information about Maple to help you check us out:</b></div><div><a href="https://www.maple.finance/" class="postings-link" rel="noopener noreferrer nofollow"><b>Website</b></a></div><div><a href="https://maplefinance.gitbook.io/maple/" class="postings-link" rel="noopener noreferrer nofollow"><b>Gitbook</b></a></div><div><a href="https://github.com/maple-labs" class="postings-link" rel="noopener noreferrer nofollow"><b>Github</b></a></div><div><a href="https://twitter.com/maplefinance?s=11" class="postings-link" rel="noopener noreferrer nofollow"><b>Twitter</b></a></div><div><a href="https://www.linkedin.com/company/maplefinance" class="postings-link" rel="noopener noreferrer nofollow"><b>LinkedIn</b></a></div><div><a href="https://discord.com/invite/9WdQHNp9Ja" class="postings-link" rel="noopener noreferrer nofollow"><b>Discord</b></a></div><br/><br/>Please mention the word **PAMPER** and tag RMy4yMDkuNTYuMjA3 when applying to show you read the job post completely (#RMy4yMDkuNTYuMjA3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/77fcd8ceadc825e54e4dee5bfbe5231a1669878931.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Paradigm</h5>
-                    <h3>Senior Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>defi,technical,test,web,financial,senior,engineer,engineering,backend</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-paradigm-157281" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro">
-<p><span style="font-weight:400;">At Paradigm, we are changing the future of finance! By joining us at this early stage, youâll be building cutting-edge, distributed financial service infrastructure that will reshape financial services across CeFi and DeFi markets. </span></p>
-<p><strong>About Paradigm</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Paradigm is a zero-fee, institutional liquidity network for derivatives traders across CeFi and DeFi. </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">We provide unified access to multi-asset, multi-protocol liquidity on demand without compromising on execution preferences, costs, and immediacy. </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Weâve built the largest network of institutional counterparties in crypto, with over 600 institutional clients trading over $10 B per month.</span></li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">We are a diverse, global team led by our </span><a href="https://www.paradigm.co/company#principles" rel="noopener noreferrer nofollow"><span style="font-weight:400;">organizational principles</span></a><span style="font-weight:400;"> and united by our mission to bring on-demand liquidity for traders, anytime and anywhere, without compromises. We also strive to ship faster than anyone else in the industry!</span>
-</li>
-<li style="font-weight:400;"><span style="font-weight:400;">We are backed by the best traders and investors in the space, including Jump Capital, Alameda Ventures/FTX, Dragonfly Capital, Digital Currency Group, Genesis Trading, QCP Capital, Optiver US, IMC, GSR Markets, Akuna Capital, Fidelity Digital Assets CMT Digital, Goldentree Asset Management, Amber Group, OK Group, Bybit Fintech, and CoinShares.</span></li>
-</ul>
-</div><div> </div>
-<div> </div>
-<div><strong>The role</strong></div>
-<div> </div>
-<div>As a core member of our backend team, you will build and maintain major features, through inception, design, implementation and launch, working closely with product and engineering disciplines across the company. You will spend the majority of your time on cross-functional self-contained feature teams focused on delivering value to the customer, while other projects will be more internally focused on integrations, scalability, and performance.</div>
-<div> </div>
-<div><strong>Responsibilities </strong></div>
-<div>
-<ul>
-<li>Design, build and maintain scalable, secure web services and distributed systems</li>
-<li>Design and develop robust solutions for trade negotiation and execution, real-time market data, chat messaging, authentication, and security</li>
-<li>Help maintain existing codebase, infrastructure, test coverage, and documentation</li>
-<li>Communicate requirements effectively within and across teams</li>
-</ul>
-<p><strong>Requirements </strong></p>
-<ul>
-<li>7+ years of backend engineering experience, ideally building products from ideation to launch with a strong engineering team</li>
-<li>Experience monitoring and scaling microservice-oriented systems</li>
-<li>Familiarity with websocket architecture and implementation</li>
-<li>Team-building and technical leadership experience</li>
-<li>B.S. in Computer Science or a related field (M.S. a plus)</li>
-</ul>
-<p><strong>Nice to have </strong></p>
-<ul>
-<li>Working knowledge of Python/Django, Go, Rust</li>
-<li>Experience working with cloud-native AWS infrastructure and/or Kubernetes</li>
-</ul>
-</div><div class="content-conclusion">
-<div>
-<p><strong>Our Benefits and Perks</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Competitive pay and transparent pay bands</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Flexible work environment</span></li>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Unlimited vacation with a minimum required PTO of 10 days annually.</span></li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Celebrate your national holidays, </span><span style="text-decoration:underline;"><span style="font-weight:400;">in addition</span></span><span style="font-weight:400;"> to floating holidays, to honor what matters to you, not HQ.</span>
-</li>
-</ul>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Full benefits (</span><span style="font-weight:400;">vary by location)</span>
-</li>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Medical, dental, vision</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Health Flexible Savings Account (FSA)</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Long Term Disability and Life Insurance</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Retirement savings (i.e. Traditional and Roth 401(k))</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Paid Parental Leave</span></li>
-</ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Generous technology and learning allowances</span></li>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">$5000 first-year budget to spend on your computer, peripherals, office essentials...whatever makes you most efficient and comfortable. You'll receive a $2000 refresh each anniversary.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">$1000 budget to spend on learning and development materials, courses or conferences.</span></li>
-</ul>
-</ul>
-<br>
-<p><em><span style="font-weight:400;">Paradigm US is an equal opportunity employer.</span></em></p>
-</div>
-<div> </div>
-<div>#LI-Remote</div>
-</div><br/><br/>Please mention the word **TEMPTING** and tag RMy4yMDkuNTYuMjA3 when applying to show you read the job post completely (#RMy4yMDkuNTYuMjA3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -218,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-fast-tracked-application-backend-javascript-engineer" align="right" target="_blank">Apply</a>
@@ -274,7 +66,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer" align="right" target="_blank">Apply</a>
@@ -340,7 +132,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mindsdb-backend-engineer" align="right" target="_blank">Apply</a>
@@ -429,7 +221,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
@@ -517,7 +309,7 @@
                     <code>ADS,CSS,html,music</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
