@@ -10,7 +10,7 @@
                     <code>web3,system,python,testing,devops,lead,engineer,full-time</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-devops-engineer-celestia-labs-157339" align="right" target="_blank">Apply</a>
@@ -40,7 +40,7 @@
 <li>Hands-on experience with Cosmos SDK or Tendermint</li>
 <li>A testing microservices background</li>
 <li>You have developed automation frameworks from scratch in Go, Python or other system languages</li>
-</ul><div>While experience in the blockchain space is preferred â having general excitement about web3 and modular blockchain technology is a must!	</div><br/><br/>Please mention the word **OPENLY** and tag RMy4yMDkuNTYuMjA3 when applying to show you read the job post completely (#RMy4yMDkuNTYuMjA3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>While experience in the blockchain space is preferred â having general excitement about web3 and modular blockchain technology is a must!	</div><br/><br/>Please mention the word **OPENLY** and tag RMTguMjM0LjEyOS4yMjM= when applying to show you read the job post completely (#RMTguMjM0LjEyOS4yMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -55,7 +55,7 @@
                     <code>hr,security,python,architect,docker,technical,support,developer,software,test,growth,code,travel,devops,financial,fintech,bank,cloud,api,junior,operations,legal,reliability,recruiting,engineer,engineering,recruitment,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-staff-devops-engineer-prime-trust-157326" align="right" target="_blank">Apply</a>
@@ -228,7 +228,7 @@
 <h3><strong>International Transfers</strong></h3>
 <p><span style="font-weight:400;">If you provide us with your personal information, we may transfer your personal information to other countries. Some of these countries may have different data protection laws than the country in which you initially provided the information to us, and you may have few rights with respect to your personal information. </span><strong>If you do not want your personal information transferred to other countries, please do not submit any information to us.</strong></p>
 <p><span style="font-weight:400;">To the extent required by law, we will take measures to protect the cross-border transfer of your information.</span></p>
-</div><br/><br/>Please mention the word **CRISP** and tag RMy4yMDkuNTYuMjA3 when applying to show you read the job post completely (#RMy4yMDkuNTYuMjA3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **CRISP** and tag RMTguMjM0LjEyOS4yMjM= when applying to show you read the job post completely (#RMTguMjM0LjEyOS4yMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -243,7 +243,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/podchaser-senior-devops-engineer" align="right" target="_blank">Apply</a>
@@ -312,7 +312,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-12" align="right" target="_blank">Apply</a>
