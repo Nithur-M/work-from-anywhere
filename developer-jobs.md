@@ -10,7 +10,7 @@
                     <code>developer,crypto,cryptocurrency,hr,system,teaching,training,technical,support,software,testing,growth,web,financial,investment,fintech,postgresql,node.js,api,management,senior,go,health,recruitment,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-rust-backend-developer-keyrock-157296" align="right" target="_blank">Apply</a>
@@ -45,123 +45,7 @@
 <li style="list-style-type:disc;font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Complete autonomy in your time management thanks to flexible working hours and the opportunity to work remotely </span></p></li>
 <li style="list-style-type:disc;font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The freedom to create your own entrepreneurial experience by being part of a team of people in search of excellence who all receive stock options from the first year</span></p></li>
 <li style="list-style-type:disc;font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:7pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">A ton of fun in a thriving and multicultural environment, with colleagues enjoying regular team building activities </span></p></li>
-</ul><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"> </p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Keyrock offers you both a career and a large range of benefits that we will gladly discuss in the course of the application process.</span></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><br></p><p>As an employer we are committed to build an inclusive, diverse and non-discriminating work environment. We welcome employees of all backgrounds, ethnicities, genders, creed and sexual orientation. We hire, reward and promote entirely based on merit and performance.</p><br/><br/>Please mention the word **ADMIRABLY** and tag RMy4yMDkuNTYuMjA3 when applying to show you read the job post completely (#RMy4yMDkuNTYuMjA3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/31b199f3240e9d684152418900d3f1d21669879013.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Offchain Labs</h5>
-                    <h3>Blockchain Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,web3,solidity,cryptocurrency,ethereum,code,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-blockchain-developer-offchain-labs-157331" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><span style="font-size:11pt;">Offchain Labs is building a suite of scaling solutions for Ethereum. This includes Arbitrum, an Optimistic Rollup, that instantly scales apps, reducing costs and increasing capacity, without sacrificing Ethereum's security. Porting contracts to Arbitrum requires no code changes or downloads since itâs compatible with existing Ethereum developer languages and tooling.</span></div><div><br></div><div>
-<span style="font-size:11pt;">Our team is extremely passionate and works tirelessly to bridge the gap between what blockchain is and what blockchain can be. We strive to maintain an atmosphere that fosters innovation and new ideas through collaboration, research, and deep discussions. After raising an initial round of $</span><a href="http://3.8m/" style="font-size:11pt;" class="postings-link" rel="noopener noreferrer nofollow">3.8M</a><span style="font-size:11pt;"> in seed funding in January 2019 and a $20M series A, as well as a $100M series B in 2021, we are ready to hire additional team members that have an interest in working in the blockchain space and a knack for approaching problems in unconventional ways.</span>
-</div><br>Who you are:<br><li>Great understanding of blockchain development on the Ethereum Network</li><li>Experience with solidity and other Web3 related technologies</li><li>Possess a strong sense of ownership in your work, which drives you to find ways to do things better and faster</li><li>Always up-to-speed on the latest technologies</li><li>Constantly on the lookout for new and innovative ways to solve complex problems through rigorous experimentation</li><li>Your communication style is open, transparent, and direct, and you consistently work in tight collaboration with your teammates</li><li>Always open to feedback, new ideas, and opportunities for self-improvement</li><li>You look for ways to help out beyond the scope of your day-to-day work</li><br>What you've done:<br><li>Have dabbled in, educated yourself on, or are experienced working on blockchain technology</li><li>Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency applications</li><li>Security-minded and always keeping an eye out for potential threats and vulnerabilities in your code</li><li>Mastered CS fundamentals, either in a formal university program or through self-learning</li><div><span style="font-size:16px;">We understand it takes a diverse team of highly intelligent, passionate, curious, and creative people to solve the challenges involved in developing and improving Arbitrum. Our dynamic team has incredible perspectives to share, just as we know you do. We take great pride in being an equal opportunity workplace.</span></div><br/><br/>Please mention the word **CONTENTMENT** and tag RMy4yMDkuNTYuMjA3 when applying to show you read the job post completely (#RMy4yMDkuNTYuMjA3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/a153b9148294bfb0d8b9086c8b1868a51669879036.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Woo</h5>
-                    <h3>DeFi Frontend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>defi,frontend,developer,web3,cryptocurrency,technical,software,voice,video,management,reliability,engineering,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-defi-frontend-developer-woo-157345" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="text-align:center;"><span style="font-size:14pt;"><strong>Work with the best</strong></span></p>
-<p>WOO Network was incubated by Kronos Research, connecting traders, exchanges, institutions, and DeFi platforms with democratized access to the best-in-class liquidity and trading execution at zero or low cost.</p>
-<p>The opportunity to work among individuals who are both driven and talented is few and far between. At WOO Network we believe that Web3 is all about breaking down barriers and bringing people together closer than ever before. Our mission of progressing decentralization in an industry that stands at the forefront of innovation has fostered an environment of ingenuity, perseverance, and fulfillment.</p>
-<p style="text-align:center;"><span style="font-size:14pt;"><strong>Our DNA</strong></span></p>
-<p>Integrity - We act with integrity at every turn<br>Innovation - We never give up seeking creative ways<br>Teamwork - We value each otherâs efforts<br>Openness - We are transparent with our processes<br>Courage - We are not afraid of mistakes<br>Urgency - We seize fleeting opportunities timely</p>
-<p>Picture a Tuesday morning at your current job. You use your judgement effectively to spot a solution for an apparent issue. The issue lies in an area that may not be in your jurisdiction, but you decide to offer your opinion anyway, however you struggle to have your voice heard. This is what we strive to change in the working environment at WOO Network. Your voice and opinions are always valued, and we work hard to maintain a culture that is flat, inclusive, and empowering.</p>
-<p style="text-align:center;"><span style="font-size:14pt;"><strong>A Glimpse into Your Future at WOO</strong></span></p>
-<p><em><u>What will you be working on?</u></em></p>
-<ul>
-<li>Develop web-based decentralized applications such as decentralized exchanges, yield products and staking.</li>
-<li>Participate in building up innovative tools to enrich the ecosystem of our products.</li>
-<li>Optimize the process of development, performance and user experience continuously.</li>
-</ul>
-<p><em><u>Who will you be working with?</u></em></p>
-<ul>
-<li>DeFi engineering developers, technical lead, product team, designers, and backend developers. As an employee, there is no greater perk than having a top supporting cast to help you achieve your personal and professional goals.</li>
-</ul>
-<p><span style="text-decoration:underline;"><em>What challenges will you face?</em></span></p>
-<ul>
-<li>We're looking for a Frontend Developer who has been involved in defi projects. We are seeking a determined and creative developer who is passionate about changing the world through technology, someone who will join a team responsible for the implementation of various solutions in the Web3 and DeFi domains where reliability and efficiency of software are crucial.</li>
-<li>Fast-paced working environment.</li>
-<li>Learning ability and communication skills.</li>
-<li>Self-management ability and a team working with people from different countries.</li>
-</ul>
-<p><em><u>What tech stacks/skills will you be using?</u></em></p>
-<ul>
-<li>Fluent in Mandarin and English. </li>
-<li>Youâre in Asian timezone.</li>
-<li>A deep understanding of the architecture of modern client-side React/Vue applications.</li>
-<li>At least 3 years of industry experience in frontend development.</li>
-<li>Solid fundamentals in data structures, algorithms and programming.</li>
-<li>It's a plus - you're familiar with the web3 frontend stack (ethers.js/web3.js, open zeppelin, client-side private key management, etc.).</li>
-<li>It's a plus - or 2) you have experiences in various DeFi protocol liquidity providing and yield farming.</li>
-<li>Weâre expecting you to have good communication, expression skills and teamwork spirit and execution ability.</li>
-<li>Youâre self-promoted and self learning.</li>
-</ul>
-<p style="text-align:center;"><span style="font-size:14pt;"><strong>Interested in Learning More?</strong></span></p>
-<ul>
-<li>Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.</li>
-<li>If you have experience in developing trading systems or financial-related products is a plus.</li>
-<li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
-<li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our External Referral Incentives Program as well. (https://boards.greenhouse.io/wooreferral/jobs/4698841003?utm_source=linkedin)</li>
-</ul><br/><br/>Please mention the word **WIELDY** and tag RMy4yMDkuNTYuMjA3 when applying to show you read the job post completely (#RMy4yMDkuNTYuMjA3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/02df7e9a67c1169f762e3f35cc7e019f1669878974.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Ethereum Foundation</h5>
-                    <h3>Ecosystem Developer</h3>
-                </td>
-                <td width="300">
-                    <code>web3,ethereum,developer,travel,voice,strategy,management,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-ecosystem-developer-ethereum-foundation-157306" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b>Location</b></div><div>Remote with some travel </div><div><br></div><div><b>About the Ethereum Foundation</b></div><div> The Ethereum Foundation (EF) is a global non-profit organization dedicated to supporting Ethereum. Our mission is to do what is best for Ethereumâs long-term success. We do this by allocating resources to critical projects, being a positive voice within the Ethereum ecosystem, and advocating for Ethereum to the outside world.</div><div><br></div><div><b>About the role</b></div><div>Youâre a generalist and an analytical and entrepreneurial operator whoâs excited to drive strategic ecosystem development initiatives at the Ethereum Foundation. As someone who cares about shaping the future of Ethereum, you'll conceive of, build, and shepherd a diverse set of Ethereum-related "ecodev" projects. You'll also evaluate grants, experiment with allocation methods, and generally help the EF scale up its array of ecodev initiatives.</div><div><br></div><div><b style="font-size:18px;">Key Responsibilities:</b></div><p></p><h4>Project Management</h4><p></p><p></p><li>Responsible for driving and managing the end-to-end execution of projects</li><li>Coordinate across disparate stakeholders across a diverse range of contexts (community organizers, developers, researchers, funders, etc, etc.)</li><li>Set and own quantifiable targets for measuring project success</li><li>Create more leverage for the EF through recruitment, capacity-building, and delegation</li><li>Capture, synthesize, and document learnings throughout the course of your work</li><p></p><h4>Grants Management</h4><p></p><p></p><li>Deliver exceptional relationship management to existing partners and grantees</li><li>Build and own processes to streamline strategic collaborations and grants pipelines</li><div><br></div><p></p><h4>Strategy </h4><p></p><p></p><li>A strong contributor to the overall vision of ecosystem development strategy at the Ethereum Foundation</li><li>Conceive and develop actionable ecodev plans </li><li>Connect the dots between seemingly unconnected dots of the ecosystem</li><p></p><h4>Qualifications </h4><p></p><p></p><li>Exceptional communication, organizational, and analytical skills</li><li>Strong writing skills</li><li>You're able to work in a highly independent and self-directed manner, while effectively communicating what needs to be communicated</li><li>You value candor, direct communication, and feedback</li><li>You have a "no task is too small" mindset</li><li>Curious and question-oriented</li><li>You're excited to learn</li><li>You're relentless in asking questions and getting answers</li><li>Strong relationship management skills</li><li>Comfortable operating in a fast-paced and constantly evolving and at times uncertain space</li><li>Bonus: experience building in web3</li><li>Bonus: you have deep Ethereum ecosystem knowledge and relationships</li><div><b style="font-size:11pt;">Does this sound exciting? If yes, please apply by submitting a cover letter explaining why you would be a good fit for this role and a resume or CV.</b></div><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **AMIABILY** and tag RMy4yMDkuNTYuMjA3 when applying to show you read the job post completely (#RMy4yMDkuNTYuMjA3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"> </p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Keyrock offers you both a career and a large range of benefits that we will gladly discuss in the course of the application process.</span></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><br></p><p>As an employer we are committed to build an inclusive, diverse and non-discriminating work environment. We welcome employees of all backgrounds, ethnicities, genders, creed and sexual orientation. We hire, reward and promote entirely based on merit and performance.</p><br/><br/>Please mention the word **ADMIRABLY** and tag RMTguMjM0LjEyOS4yMjM= when applying to show you read the job post completely (#RMTguMjM0LjEyOS4yMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -176,7 +60,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -245,7 +129,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>751 days ago</text>
+                <text>752 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -314,68 +198,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1508803/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>skygate</h5>
-                    <h3>Fullstack JavaScript Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,frontend,fullstack,javascript</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/fullstack-javascript-developer-1508803" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>🔥 <strong>We’re looking for: </strong>Senior Fullstack Developer<strong> </strong>experienced in designing and implementing modern frontend solutions. <br>You will be a key player in projects we deliver for international clients and a mentor for less experienced developers.</p>
-<p> </p>
-<p>📁 <strong>PROJECT INFO:</strong></p>
-<ul>
-<li>The gaming platform integrated with the desktop game allows you to purchase and view units on the blockchain network</li>
-<li>Currently, there are 6 developers, PM and UI/UX designer working on the project.</li>
-<li>In the near future, we will be combining relational 2 databases</li>
-<li>Stack: React.js, TypeScript, Ethers.js, Chart.js, Redux, Firebase, Node.js</li>
-</ul>
-<p> </p>
-<p><strong><strong>🟦 WHAT WILL YOU DO:</strong></strong><strong><strong><br></strong></strong></p>
-<ul>
-<li>Analyze customers’ needs and propose feasible technical solutions,</li>
-<li>As a person with experience and good communication skills, you will coordinate the work of the team and set directions in cooperation with the client,</li>
-<li>Provide guidance and can help less experienced team members,</li>
-<li>Be up-to-date on technology trends and best practices in the field.</li>
-</ul>
-<p> </p>
-<p><strong><strong><strong>🟦 </strong></strong>SALARY:</strong></p>
-<ul>
-<li>💰 <strong>Senior: €3000</strong>-<strong>€7</strong><strong>000</strong> gross</li>
-</ul>
-<p><strong>🟦 KEY VALUES:</strong><strong><br></strong></p>
-<ul>
-<li><strong>At least 2 years of experience</strong> in Frontend technologies, <strong>especially React/Vue;</strong></li>
-<li>Knowledge of ES6+, Typescript, React</li>
-<li>English at least C1,</li>
-<li>Pushing a project from a <strong>business perspective</strong>,</li>
-<li>Capable of taking the lead in the projects,</li>
-<li>Understanding the right patterns and algorithms.</li>
-</ul>
-<div><strong>🟦 PROCESS OF RECRUITMENT:</strong></div>
-<ul>
-<li>We will be available for you to help at every stage of the recruitment process,</li>
-<li>We will not leave you without feedback,</li>
-<li><strong>We are shortening* the process and eliminating the “Basic Test” step</strong> (only If → you have min. 4-5 complex commercial projects in your portfolio and proper exp in great software companies).<br><br></li>
-</ul>
-<div>We have an office in Gliwice, Poland. While you can work from anywhere in the world<br><br>Let's start with 1st step; apply<strong> now.</strong></div>
-<img src="https://remotive.com/job/track/1508803/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -386,7 +208,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -599,7 +421,7 @@
                     <code>api,developer,ios,mobile</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ios-developer-1497219" align="right" target="_blank">Apply</a>
@@ -655,7 +477,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -732,7 +554,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
