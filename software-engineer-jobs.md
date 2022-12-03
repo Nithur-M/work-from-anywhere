@@ -10,7 +10,7 @@
                     <code>software,test,design,web3,system,python,technical,developer,testing,code,qa,devops,engineer,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-test-celestia-labs-157303" align="right" target="_blank">Apply</a>
@@ -38,7 +38,7 @@
 <li>Hands-on experience with Cosmos SDK</li>
 <li>A testing microservices background</li>
 <li>You have developed automation frameworks from scratch in Go, Python or other system languages</li>
-</ul><div>While experience in the blockchain space is preferred â having general excitement about web3 and modular blockchain technology is a must!	</div><br/><br/>Please mention the word **LIFESAVER** and tag RMy4yMDkuNTYuMjA3 when applying to show you read the job post completely (#RMy4yMDkuNTYuMjA3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>While experience in the blockchain space is preferred â having general excitement about web3 and modular blockchain technology is a must!	</div><br/><br/>Please mention the word **LIFESAVER** and tag RMTguMjM0LjEyOS4yMjM= when applying to show you read the job post completely (#RMTguMjM0LjEyOS4yMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -53,7 +53,7 @@
                     <code>software,web3,technical,code,go,engineer,full-time</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-go-celestia-labs-157278" align="right" target="_blank">Apply</a>
@@ -79,7 +79,7 @@
 <li>Solid understanding of Tendermint or other consensus engines</li>
 <li>Experience with libp2p, IPFS</li>
 <li>Experience implementing Cosmos-SDK modules and applications</li>
-</ul><div>While experience in the blockchain space is preferred â having general excitement about web3 and modular blockchain technology is a must!	</div><br/><br/>Please mention the word **CUTE** and tag RMy4yMDkuNTYuMjA3 when applying to show you read the job post completely (#RMy4yMDkuNTYuMjA3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>While experience in the blockchain space is preferred â having general excitement about web3 and modular blockchain technology is a must!	</div><br/><br/>Please mention the word **CUTE** and tag RMTguMjM0LjEyOS4yMjM= when applying to show you read the job post completely (#RMTguMjM0LjEyOS4yMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -94,7 +94,7 @@
                     <code>software,design,crypto,security,technical,financial,senior,engineer,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-xmtp-157300" align="right" target="_blank">Apply</a>
@@ -136,84 +136,7 @@
 <h2><strong>About XMTP, Inc.</strong></h2>
 <p>XMTP, Inc. was co-founded by <a href="https://twitter.com/mg" rel="noopener noreferrer nofollow">Matt Galligan</a> and <a href="https://twitter.com/shanemac" rel="noopener noreferrer nofollow">Shane Mac</a>, and is headquartered on the web. We have an excellent benefits package that includes parental leave, competitive pay, an equipment and home office allowance that refreshes yearly, monthly lifestyle stipend, as well as a personal assistant, and financial advisor. For U.S.-based team members we also provide access to FSA, 401K, and fully paid high quality medical, dental, and vision insurance for you and your family.</p>
 <p>Weâre backed by some of the best investors in tech and crypto: a16z Crypto Fund, Offline Ventures, Sound Ventures, Distributed Global, Redpoint, IDEO CoLab and many more key ecosystem investors and operators. <a href="https://blog.xmtp.com/series-a/#xmtps-investors" target="_blank" rel="noopener noreferrer nofollow">See the full list here</a>.</p>
-<p>XMTP, Inc. is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><br/><br/>Please mention the word **CONSIDERATE** and tag RMy4yMDkuNTYuMjA3 when applying to show you read the job post completely (#RMy4yMDkuNTYuMjA3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/19e785dc7eaed691e3a476b5fb0242ed1669878948.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Obol Labs</h5>
-                    <h3>Senior Software Engineer Infrastructure</h3>
-                </td>
-                <td width="300">
-                    <code>software,web3,solidity,ethereum,system,security,technical,support,test,code,devops,cloud,senior,reliability,golang,engineer,engineering</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-infrastructure-obol-labs-157291" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size:24px;">Who Are We?</b></div><div><br></div><div>Obol Labs is a remote-first research and software development team focused on Proof of Stake infrastructure for public blockchain networks. Specific topics of focus are Internet Bonds, Distributed Validator Technology, and Multi-Operator Validation. The core team includes 14 members spread across 8 countries.</div><div><br></div><div>The core team is building the Obol Network, a protocol to foster trust-minimized staking through multi-operator validation. This will enable low-trust access to Ethereum staking yield, which can be used as a core building block in various Web3 products.</div><div><br></div><div><b style="font-size:18px;">The Network</b></div><div><br></div><div>The network can be best visualized as a work layer that sits directly on top of the base layer consensus. This work layer is designed to provide the base layer with more resiliency and decentralization as it scales. In this chapter of Ethereum, we will move on to the next great scaling challenge, which is stake centralization. Layers like Obol are critical to the long-term viability and resiliency of public networks, especially networks like Ethereum.</div><div><br></div><div>Obol as a layer is focused on scaling main chain staking by providing permissionless access to Distributed Validators. The network utilizes a middleware implementation of Distributed Validator Technology (DVT), to enable the operation of distributed validator clusters that can preserve validators' current client and remote signing configurations.</div><div><br></div><div>Similar to how roll-up technology laid the foundation for L2 scaling implementations, we believe DVT will do the same for scaling the consensus layer while preserving decentralization. Staking infrastructure is entering its protocol phase of evolution, which must include trust-minimized staking networks that can be plugged into at scale. We believe DVT will evolve into a widely used primitive and will ensure the security, resiliency, and decentralization of public networks.</div><div><br></div><div><span style="font-size:11pt;">The Obol Network develops and maintains four core public goods that will eventually work together through circular economics:</span></div><div><br></div><div>
-<b style="font-size:11pt;">The DV Launchpad</b><span style="font-size:11pt;">, a User Interface for bootstrapping and managing Distributed Validators</span>
-</div><div><br></div><div>
-<b style="font-size:11pt;">Charon,</b><span style="font-size:11pt;"> a middleware Golang client that enables validators to run in a fault-tolerant, distributed manner</span>
-</div><div><br></div><div>
-<b style="font-size:11pt;">Obol Managers</b><span style="font-size:11pt;">, a set of solidity libraries for the formation of Distributed Validators tailored to different use cases such as DeFi, Liquid Staking, and Fractionalized Deposits </span>
-</div><div><br></div><div>
-<b style="font-size:11pt;">Obol Testnets</b><span style="font-size:11pt;">, a set of ongoing public </span><span style="font-size:14.6667px;">incentivized</span><span style="font-size:11pt;"> testnets that enable any sized operator to test their deployment before serving for the Ethereum Main net</span>
-</div><div><br></div><div><b style="font-size:18px;">Sustainable Public Goods</b></div><div><br></div><div>Obol is inspired by previous work on Ethereum public goods and experimenting with circular economics. We believe that to unlock innovation in staking use cases, a credibly neutral layer must exist for innovation to flow and evolve vertically. Without this layer, highly available uptime will continue to be a moat.</div><div><br></div><div>The Obol Network will become an open, community-governed, self-sustaining project over the coming months and years. Together we will incentivize, build, and maintain distributed validator technology that makes public networks a more secure and resilient foundation to build on top of.</div><div><br></div><div><span style="font-size:24px;">Job Description</span></div><div><br></div><div>The Infrastructure team at Obol is looking for talented and experienced engineers to help us build and support our infrastructure. Join our growing organization and you will get a chance to be in the driving seat of innovation and change at Obol.</div><div><br></div><div>As an infrastructure Software Engineer, your primary role will be building, monitoring, and ensuring the reliability of our globally distributed infrastructure that powers Obolâs network for thousands of DVT clusters. </div><div>You will develop solutions, tools, and processes to increase developers' productivity and promote DevOps culture across the engineering teams while adhering to the industry security best practices and world-class quality measures.</div><p></p><h4>Responsibilities</h4><p></p><p></p><ul>
-<li>Build an enterprise-grade software development lifecycle that grows with the Obol team</li>
-<li>Automate blockchain infrastructure provisioning in cloud environments based on GCP, Kubernetes,  Terraform, and Helm.</li>
-<li>Drive a culture of automation, both within the team and throughout the organization, to scale Obolâs efficiently and reliably</li>
-<li>Build tools, processes, scripts, and CICD workflows (Github Actions) that help accelerate the engineering team so we can deliver better products faster.</li>
-<li>Ensure Obolâs cloud platform's high availability, reliability, security, and performance through implementing observability and SRE standards and building monitoring infrastructure with tools such as Grafana, Prometheus, and VictoriaMetrics.</li>
-<li>Performing blameless post-mortems whenever thereâs an unplanned outage.</li>
-<li>Participate in technical discussions to aid system design, analysis, and troubleshooting</li>
-<li>Assessment of current and future systems to ensure they adhere to security standards</li>
-<li>Writing clear documentation around infrastructure code and development tooling so that itâs easy to understand, use, and modify</li>
-<li>Participate in the Ethereum ecosystem events from the DevOps side.</li>
-</ul><p></p><h4>What you will like about us</h4><p></p><p></p><ul>
-<li>Building a world-class infrastructure that empowers a leading blockchain and Ethereum technology.</li>
-<li>Solving groundbreaking problems in distributed cryptography and cryptoeconomics</li>
-<li>Opportunity to collaborate with industry-leading cryptography researchers and advisors</li>
-<li>Opportunity to collaborate with industry-leading validators</li>
-<li>Opportunity to collaborate with Ethereum core client teams</li>
-<li>Twice annual Global Off-sitesAnnual opportunity to attend DevCon (or a blockchain conference of choice)</li>
-<li>Competitive compensation and benefits.</li>
-</ul><div>ð°ï¸ In order to scale efficiently, we focus our hiring on candidates able to work during the standard business hours of the following timezones: GMT-8 to GMT+3. </div><div>This does not mean that you have to be located in these timezones to get the job but must be able to work the bulk of your time during their standard business hours.</div><br/><br/>Please mention the word **LUXURIOUS** and tag RMy4yMDkuNTYuMjA3 when applying to show you read the job post completely (#RMy4yMDkuNTYuMjA3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/523cec696f6f9bde07d99f974109d2791669878947.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Offchain Labs</h5>
-                    <h3>Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>software,cryptocurrency,ethereum,security,developer,code,engineer,engineering,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-offchain-labs-157290" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><span style="font-size:11pt;">Offchain Labs is building a suite of scaling solutions for Ethereum. This includes Arbitrum, an Optimistic Rollup, that instantly scales apps, reducing costs and increasing capacity, without sacrificing Ethereum's security. Porting contracts to Arbitrum requires no code changes or downloads since itâs compatible with existing Ethereum developer languages and tooling.</span></div><div><br></div><div>
-<span style="font-size:11pt;">Our team is extremely passionate and works tirelessly to bridge the gap between what blockchain is and what blockchain can be. We strive to maintain an atmosphere that fosters innovation and new ideas through collaboration, research, and deep discussions. After raising an initial round of $</span><a href="http://3.8M" style="font-size:11pt;" class="postings-link" rel="noopener noreferrer nofollow">3.8M</a><span style="font-size:11pt;"> in seed funding in January 2019 and a $20M series A, as well as a $100M series B in 2021, we are ready to hire additional team members that have an interest in working in the blockchain space and a knack for approaching problems in unconventional ways.</span>
-</div><br>Who you are:<br><li>Excited to learn and develop blockchain technology (No experience yet? No problem!)</li><li>Possess production experience with a compiled language (C++, Go, or Rust)</li><li>Experienced with compiler construction and architecture, and security engineering on large-scale systems is a plus</li><li>Possess a strong sense of ownership in your work, which drives you to find ways to do things better and faster</li><li>Always up-to-speed on the latest technologies</li><li>Constantly on the lookout for new and innovative ways to solve complex problems through rigorous experimentation</li><li>Your communication style is open, transparent and direct, and you consistently work in tight collaboration with your teammates</li><li>Always open to feedback, new ideas and opportunities for self-improvement</li><li>You look for ways to help out beyond the scope of your day-to-day work</li><br>What you've done:<br><li>Made significant contributions to the products youâve worked on in your career</li><li>Have dabbled in, educated yourself on, or are experienced working on blockchain technology</li><li>Eager to bring cutting-edge research to the real world and help build a platform for the next generation of cryptocurrency applications</li><li>Experience working with compilers, architecting systems and developing SDKs</li><li>Security-minded and always keeping an eye out for potential threats and vulnerabilities in your code</li><li>Mastered CS fundamentals, either in a formal university program or through self-learning</li><div><span style="font-size:11pt;">We understand it takes a diverse team of highly intelligent, passionate, curious, and creative people to solve the challenges involved in developing and improving Arbitrum. Our dynamic team has incredible perspectives to share, just as we know you do, and we take great pride in being an equal opportunity workplace.</span></div><br/><br/>Please mention the word **FESTIVE** and tag RMy4yMDkuNTYuMjA3 when applying to show you read the job post completely (#RMy4yMDkuNTYuMjA3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>XMTP, Inc. is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><br/><br/>Please mention the word **CONSIDERATE** and tag RMTguMjM0LjEyOS4yMjM= when applying to show you read the job post completely (#RMTguMjM0LjEyOS4yMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -264,6 +187,70 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3712/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Tiller</h5>
+                    <h3> Senior Software Engineer (Ops Focus) at Tiller</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/3712/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Seattle, WA, USA
+    <br /><strong>URL:</strong> <a href="http://tillerhq.com">http://tillerhq.com</a>
+</p>
+
+<div>Working at Tiller Video - <a href="https://www.youtube.com/watch?v=bnYSGJiznv0">Click here</a><br><br>We are looking for a Senior Software Engineer with considerable operations engineering experience to accelerate our team’s adoption of best practices while contributing to product development as a key member of our cross-functional engineering team. Your perspective and track record of implementing modern, state-of-the-art site reliability engineering, CI/CD automation, and service architecture automation will be a force multiplier to our growing team of talented engineers. </div><div><br></div><div>You’ll take ownership of critical DevOps and Site Reliability Engineering projects and provide related mentorship, guidance, and domain expertise to your peers, delivering a reliable service  that will delight our customers now and as we continue to scale. You should have a deep understanding of distributed application service concepts, a propensity for figuring stuff out, and some additional depth in either back-end development, front-end development, or QA automation. You were born a problem solver and love finding efficient and durable ways to solve difficult problems.</div><div><br></div><div><strong>What You’ll Do</strong></div><ul>
+<li>Build secure solutions that honor the trust customers are placing in our service</li>
+<li>Lead the development of operations engineering practices, including collaborating across the organization on capacity planning, service level objectives, error budgets and incident response outcomes</li>
+<li>Collaborate with the rest of the team on a broad range of infrastructure and product development work</li>
+<li>Evangelize the benefits of modern SRE and DevOps practices across the organization</li>
+<li>Highlight and celebrate wins, as well as blamelessly assess failures from current and future attempts at implementing best practices such as CI/CD, observability, alerting and monitoring</li>
+<li>Tenaciously dive into complex infrastructure as well as application code, figure it out, and improve or update it</li>
+<li>Relentlessly share information, always leaving better code, practices, and documentation so it’s easier for others to understand your reasoning and follow your tracks</li>
+<li>Be curious - troubleshoot operational issues when a customer is experiencing a quirky condition or when you or your teammates notice something isn’t quite right</li>
+</ul><div>
+<br><br>
+</div><div><strong>Helpful For Success</strong></div><ul>
+<li>Significant experience as an SRE or DevOps practitioner - you have experience building, operating, and troubleshooting complex applications using cloud infrastructure</li>
+<li>Ideal candidates will have specific experience with Google Cloud Platform</li>
+<li>Some experience with a good cross-section of our tech stack, including Google Cloud Platform, GitHub, Node.js, MongoDB, TypeScript, React, Google Apps Script/Editor Add-ons APIs and ecosystem, and Microsoft Office Add-ins APIs and ecosystem</li>
+<li>Experience maintaining and refactoring legacy applications</li>
+</ul><div><br></div><div><strong>Why Tiller</strong></div><ul>
+<li>We’re small and growing, so you’ll have tremendous agency and outsized impact on our developing culture, the Tiller service, and the success of our customers</li>
+<li>You’ll be surrounded by awesome, supportive colleagues who know how to have fun together</li>
+<li>We’ve been fully remote from day one; work from anywhere</li>
+<li>You’ll have an opportunity to explore a broad range of development and operations tools, technologies, and practices; you won’t be siloed or pigeon-holed</li>
+<li>You’ll have ongoing and repeated opportunities to pull up a seat at a lot of tables and wear multiple ‘hats’, depending on where your interests and capabilities lie; we have growth needs well beyond software development, and you’ll be close to them all, including IT, security, ops, customer support, product management, marketing </li>
+<li>We’re pioneers in Open Banking, a world-wide security and privacy initiative that gives customers more control over what financial institution information they share, and with whom</li>
+<li>Our customers tend to stick around - we have one of the highest customer retention rates among consumer fintech services</li>
+<li>Our team also sticks around, and we have uniquely high retention</li>
+<li>You will be eligible for stock options and equity ownership</li>
+<li>We provide health care coverage</li>
+</ul><div><br></div><div><strong>Our Values</strong></div><div><br></div><div>
+<strong>How we work together: </strong>Tiller is intent on making this a great place to work for our entire team. A place where our team can do their best work, and an environment that supports their full lives, from kids to aging parents, from nieces and nephews and their larger community. </div><div><br></div><div>To do this, four values that guide our work are empowerment, trust, engagement, and optimism. </div><div><br></div><div>We <strong>empower</strong> each other to do our best work. We value good judgment over rules; proactive decisions over approvals. We take ownership in our own productivity, knowing we’re all critical in the success of Tiller. We communicate openly, follow-through, and ask questions. </div><div><br></div><div>We depend on <strong>trust</strong> rather than oversight as a team. We rely on each other to make decisions in the interest of Tiller and our customers. We demonstrate positive intent so that others may presume positive intent. </div><div><br></div><div>
+<strong>Engagement</strong> is the glue that holds us together. We know that communication across the wire is harder than in person, so we take risks in sharing more of ourselves with each other online. We enjoy a good laugh together. We also speak up and raise hard questions with each other. </div><div>
+<br>As a team, we’re also <strong>optimistic</strong>. Despite what sometimes feels like a crushing backlog, a long list of ways we can deliver value to our customers, and a keen awareness of our shortcomings, we keep our focus on a future that is bright.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller-1">https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9182/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -274,7 +261,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote" align="right" target="_blank">Apply</a>
@@ -356,7 +343,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -418,7 +405,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
