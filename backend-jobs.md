@@ -1,57 +1,33 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/ab1df706e537e3df787deff781d7da301670051722.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3> Fast Tracked Application - Backend Javascript Engineer </h3>
+                    <h5>Coinshift</h5>
+                    <h3>Senior Backend engineer</h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>design,web3,crypto,ethereum,technical,testing,code,financial,management,lead,senior,engineer,backend,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clevertech-fast-tracked-application-backend-javascript-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-coinshift-158389" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
-</p>
-
-<div>
-<strong>** Fast-Tracked Application - Get a Decision in 3 Days **</strong><br><br>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects<br><br>
-</div><div><strong>What we're working on:</strong></div><div>
-<br>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries<br><br>
-</div><div><strong><br>Requirements</strong></div><ul>
-<li>7+ years of professional experience (A technical assessment will be required)</li>
-<li>Senior-level experience with Javascript, NodeJS, Express, Mongo</li>
-<li>Ability to create clean, modern, testable, well-documented code</li>
-<li>Serverless experience with AWS lambda or Azure functions</li>
-<li>English fluency, verbal and written</li>
-<li>Professional, empathic, team player</li>
-<li>Problem solver, proactive, go-getter</li>
-</ul><div><strong>Straight from the Devs</strong></div><div>
-<br>Watch short snippets of actual developers (Real, not scripted) share why they joined <a href="https://cleverte.ch/3"><strong>YouTube Playlist<br></strong></a><br>
-</div><div><strong>Why Clevertech is an amazing place to work at</strong></div><div>
-<br>At Clevertech, you can expect that you will:<br><br>
-</div><ul>
-<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
-<li>Be a part of a team of talented and friendly senior-level developers</li>
-<li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li>
-</ul><div>
-<br>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-fast-tracked-application-backend-javascript-engineer">https://weworkremotely.com/remote-jobs/clevertech-fast-tracked-application-backend-javascript-engineer</a></p>
-
+                <div><b style="font-size:18px;">About Coinshift</b></div><div><br></div><div>Coinshift is a leading non-custodial treasury management platform built on top of Gnosis safe. It provides a smart and sophisticated user experience layer to manage treasury ops in an efficient manner.</div><div>Our mission is to build the most sophisticated multi-chain crypto treasury management platform for DAOs & companies.</div><div><br></div><div>We are currently a hyper-growth business targeting an immediate $100+ billion market with a very ambitious vision and roadmap. We manage billions of dollars in assets currently, and strongly believe itâs still day 1 for Coinshift. We are backed by the best-in-class VC investors globally. We are and want to be run as a technology company, not a financial service provider, and we build our culture around core values of ambition, collaboration, entrepreneurship, transparency, and meritocracy.</div><div><br></div><div>Since launching the MVP in June 2021, weâve seen crazy traction from having nearly $150M+ in processed payments to having a billion dollars in assets under management. We now serve thousands of users across three continents and over 10 different countries. And weâre just getting started.</div><div><br></div><div>The development of Coinshift v2 is underway and we are currently looking for a full-time backend engineer with strong skills in backend and web3 technologies.</div><div><br></div><div><b>What will you achieve:</b></div><div><br></div><div>-You'll work with the core team to build new product features from start to finish: through conception, research, implementation, and maintenance.</div><div>-You'll participate in backend architecture decisions and guide team members in technical knowledge with best practices.</div><div>-You'll implement state of the art multi-chain web3 user experiences and actively learn about the latest developments in web3.</div><div><br></div><div><b>What skills do you bring:</b></div><div><br></div><div>
+<b>-Experienced leader:</b> You have worked at product based companies for more than 6 years including more than 2 years in web3 organisations, have participated in architecture design and deployment pipeline. You have worked with backend teams where you lead the team to achieve fast iterations and high code quality.</div><div>
+<b>-Familiarity with backend technologies:</b> You're well versed with AWS technologies, Javascript, <a href="http://Node.js" class="postings-link" rel="noopener noreferrer nofollow">Node.js</a>, MySQL.</div><div>
+<b>-Familiarity with web3 technologies:</b> You're well versed with web3js/ethersjs and understand ethereum blockchain and itâs tool stack, such as Metamask</div><div>
+<b>-Thoughtful problem-solving:</b> You have the ability to break down a problem until you get a clear and accurate understanding of the context.</div><div>
+<b>-Navigating ambiguity in design:</b> You can translate high level designs into production-ready systems. Given clear requirements, you are comfortable making judgments and tradeoffs in the user experience on your own.</div><div>
+<b>-Put users first:</b> You think critically about the implications of what you're building, and how it impacts real people's lives.</div><div>
+<b>-Empathetic communication:</b> You communicate ideas clearly in plain english. In disagreements, you listen to other perspectives and compromise when needed.</div><div>
+<b>-Team player:</b> You enjoy collaborating cross-functionally to accomplish shared goals, and you care about learning, growing, and helping others to do the same.</div><div><br></div><div><b>Nice to Haves:</b></div><div><br></div><div>-You're proficient with technologies that are part of our stack, including Express, Datadog.</div><div>-You participate in open source projects and web3 hackathons, or write about web3 technology.</div><div>-You have experience in backend integration testing and in debugging performance issues.</div><div>We are committed to fostering diversity and inclusiveness within our organization, and we strongly encourage candidates of all backgrounds to apply, even if they donât match all the above criteria.</div><div><br></div><div>If you are hired, you will have the option of fiat/USDC payments made monthly</div><div><br></div><div>We look forward to your application!</div><br/><br/>Please mention the word **CORRECT** and tag RMy4yMzYuMTgwLjEwMQ== when applying to show you read the job post completely (#RMy4yMzYuMTgwLjEwMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -66,7 +42,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer" align="right" target="_blank">Apply</a>
@@ -132,7 +108,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mindsdb-backend-engineer" align="right" target="_blank">Apply</a>
@@ -221,7 +197,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
@@ -295,31 +271,6 @@
 <p> </p>
 <p><em>Our application process was designed to promote equitable and unbiased hiring practices. We ask a small series of questions that are similar to what would be asked in the first interview. This helps us learn more about you right from the start so please be sure to answer each question thoughtfully. Each application will receive two screens by two different reviewers. Regardless of fit, you will hear back from us letting you know if we'll be moving forward. </em></p>
 <img src="https://remotive.com/job/track/1368332/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1479998/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>FM</h5>
-                    <h3>Laravel PHP Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>ADS,CSS,html,music</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/laravel-php-backend-engineer-1479998" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We’re hiring a mid-level Laravel engineer to work on our web and mobile applications. These applications are the way that thousands of creative people around the world find great music and inspiring clips for use in their projects and campaigns.<br></p><br><p><strong>About Us</strong></p><p>FM is the parent company of Musicbed and Filmsupply, two premium content licensing brands in the filmmaking industry. We represent an elite roster of musicians and filmmakers and place their work in movies, shows, ads, short films, and more. <br></p><br><p>Headquartered in Fort Worth, Texas, we work with entertainment powerhouses like Sony Pictures, 20th Century Fox, Lionsgate, Netflix, MTV, and ESPN; as well as the world’s top brands like Nike, Apple, Google, Lamborghini, and Spotify.</p><br><p><strong>Core Duties</strong></p><p>As part of the Engineering team, your time will be spent collaborating with other engineers and clients. You will be involved in the full development life-cycle for new and existing products. The ideal candidate loves tinkering with cutting edge technology and has at least 2  years solid experience working with PHP and Laravel. You will be able to code out features in PHP, create quality pull requests and help our team stay current with best industry practices.</p><br><p>Although PHP (preferably Laravel) is the core competency for this position, we work with a variety of  AWS technologies, as well as with Elasticsearch, Redis, Memcached, payment gateways, multiple API integrations, and a whole lot more. We take pride in our work and follow best industry practices in everything we do.</p><br><p>We have a very relaxed working environment, flexible working hours and a super friendly team. You will learn tons of new things and be exposed to lots of new technologies. We’re after individuals that are curious about the possibility of technology, are eager to learn, and are diligent and kind. Our teams work well because we place trust in them to succeed. We believe in healthy debate and that great ideas can come from anybody. As such, you’ll have plenty of opportunities to add your own input in our software.</p><br><p>The engineering team has a remote-first culture. As such, you will be comfortable working remotely, possess excellent verbal and written communication skills and be able to manage your own time.</p><br><p>This is an excellent opportunity to move your career forward and be part of an amazing team.</p><br><p><strong>Experience and Skills</strong></p><ul><li><p>At least 2 years solid experience with PHP (preferably Laravel)</p></li><li><p>Good understanding of relational databases (MySQL / Postgres)</p></li><li><p>API driven development</p></li><li><p>Git + GitHub knowledge</p></li><li><p>Excellent analytical and problem solving skills</p></li><li>Ability to write unit and acceptance tests</li></ul><br><p><strong>A Great Candidate Will Have</strong></p><ul><li>Excellent written and verbal communication skills in English</li><li>Desire to work in a team-centered, collaborative environment</li><li>High professional standards - strong motivation for individual and organization success</li><li>Strong work ethic, with the ability to deliver solid work on tight schedules</li><li>Some server admin (Ubuntu, nginx, Forge, Envoyer, Docker, AWS) experience</li><li>Some unit / integration / acceptance testing experience</li><li>Some Elasticsearch, Redis, Memcache experience</li></ul>
-<img src="https://remotive.com/job/track/1479998/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
