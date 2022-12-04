@@ -1,146 +1,5 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/1defa82695dcaf38b9de6768ae1673421669878970.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Celestia Labs</h5>
-                    <h3>Software Engineer Test</h3>
-                </td>
-                <td width="300">
-                    <code>software,test,design,web3,system,python,technical,developer,testing,code,qa,devops,engineer,full-time,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-test-celestia-labs-157303" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size:18px;">About Celestia</b></div><div>Celestia is the first modular blockchain network. By decoupling consensus from execution, Celestia enables anyone to easily deploy their own blockchain, without the overhead of bootstrapping a new consensus network. Blockchains on Celestia are free from constraints, making them scalable, sovereign, and secure.</div><div><br></div><div><b><span style="font-size:18px;">About the Team</span></b></div><div>The Celestia team is remote first and highly distributed, with english as our primary language for communication. We are looking for self-starters that are excited about working in a fast paced startup environment. We do not require employees to live in specific timezones, but much of the team lives and works in the European and US timezones.  As such, employees are expected to be available as needed for team and company events that are scheduled. Generally these are scheduled between 12pm-5pm UTC. </div><div><br></div><div>Celestia Labs is seeking a remote full-time Software Engineer in Test to help build out the testing infrastructure and CI/CD architecture.</div><div><br></div><div><br></div><p></p><h4>Perks</h4><p></p><p></p><ul>
-<li>Flexible and remote work environment</li>
-<li>Employment benefits and 4 weeks annual vacation</li>
-<li>A share of the initial token supply, in addition to a salary</li>
-<li>Work at the forefront of blockchain scaling alongside an exceptional team of engineers</li>
-</ul><p></p><h4>Responsibilities</h4><p></p><p></p><ul>
-<li>Help design and build E2E tests for our modular stack</li>
-<li>Participate in technical discussions on issues and code reviews</li>
-<li>Collaborate with developers across multiple teams to improve E2E feedback cycles for test cases, bugs, and new features</li>
-<li>Manual debugging as needed to developer well define bug reports for the developer teams</li>
-</ul><p></p><h4>Who You Are</h4><p></p><p></p><ul>
-<li>At least 2 years of experience in this role or similar (Software Developer in Test, QA Automation, Devops Engineer)</li>
-<li>Experience defining test scenarios and writing tests in languages like Go</li>
-<li>Experience with open source CI/CD tools like Github Actions</li>
-</ul><p></p><h4>Nice to Haves</h4><p></p><p></p><ul>
-<li>Experience with Testground</li>
-<li>Hands-on experience with Cosmos SDK</li>
-<li>A testing microservices background</li>
-<li>You have developed automation frameworks from scratch in Go, Python or other system languages</li>
-</ul><div>While experience in the blockchain space is preferred â having general excitement about web3 and modular blockchain technology is a must!	</div><br/><br/>Please mention the word **LIFESAVER** and tag RMTguMjM0LjEyOS4yMjM= when applying to show you read the job post completely (#RMTguMjM0LjEyOS4yMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/a99a0fcdd36e813523532815d11250ec1669878927.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Celestia Labs</h5>
-                    <h3>Software Engineer Go</h3>
-                </td>
-                <td width="300">
-                    <code>software,web3,technical,code,go,engineer,full-time</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-go-celestia-labs-157278" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size:18px;">About Celestia</b></div><div>Celestia is the first modular blockchain network. By decoupling consensus from execution, Celestia enables anyone to easily deploy their own blockchain, without the overhead of bootstrapping a new consensus network. Blockchains on Celestia are free from constraints, making them scalable, sovereign, and secure.</div><div><br></div><div><b><span style="font-size:18px;">About the Team</span></b></div><div>The Celestia team is remote first and highly distributed, with english as our primary language for communication. We are looking for self-starters that are excited about working in a fast paced startup environment. We do not require employees to live in specific timezones, but much of the team lives and works in the European and US timezones.  As such, employees are expected to be available as needed for team and company events that are scheduled. Generally these are scheduled between 12pm-5pm UTC. </div><div><br></div><div>Celestia Labs is seeking a remote full-time software engineer with Go experience to help build the Celestia core protocol.</div><div><br></div><p></p><h4>Perks</h4><p></p><p></p><ul>
-<li>Flexible and remote work environment</li>
-<li>Employment benefits and 4 weeks annual vacation</li>
-<li>A share of the initial token supply, in addition to a salary</li>
-<li>Work at the forefront of blockchain scaling alongside an exceptional team of engineers</li>
-</ul><p></p><h4>Responsibilities</h4><p></p><p></p><ul>
-<li>Contribute readable, well-tested, and well-documented code to the core Celestia protocol</li>
-<li>Participate in technical discussions on issues and code reviews on pull requests</li>
-<li>Be a part of the feedback loop between technical specification and implementation</li>
-</ul><p></p><h4>Who You Are</h4><p></p><p></p><ul>
-<li>You are an experienced blockchain engineer with 4+ years of experience in Go, Rust, C++, or other systems languages</li>
-<li>Experience with building maintainable and well documented codebases</li>
-<li>Experience with open source software development tools like Github</li>
-</ul><p></p><h4>Nice to Haves</h4><p></p><p></p><ul>
-<li>Solid understanding of Tendermint or other consensus engines</li>
-<li>Experience with libp2p, IPFS</li>
-<li>Experience implementing Cosmos-SDK modules and applications</li>
-</ul><div>While experience in the blockchain space is preferred â having general excitement about web3 and modular blockchain technology is a must!	</div><br/><br/>Please mention the word **CUTE** and tag RMTguMjM0LjEyOS4yMjM= when applying to show you read the job post completely (#RMTguMjM0LjEyOS4yMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/08034e5761e93395265a62b62ff533a31669878967.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>XMTP</h5>
-                    <h3>Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>software,design,crypto,security,technical,financial,senior,engineer,linux,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-xmtp-157300" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><span style="font-weight:400;">Our mission at </span><strong><a href="https://www.beforeyouapply.com/team/early-stage-team-at-xmtp-labs" rel="noopener noreferrer nofollow">XMTP Labs</a></strong><span style="font-weight:400;"> is to build a secure, open, and decentralized communication protocol that connects creators, communities, apps, and users.</span></p>
-<h4>As a Senior Software Engineer at XMTP you will:</h4>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Develop and maintain highly reliable, scalable, and secure applications</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Debug production issues across services and multiple levels of the stack</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Write high quality documentation for your contributions</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with other engineers, PMs, and designers on the team</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Participate in open source development</span></li>
-</ul>
-<h4>You may be a fit for this role if you have:</h4>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Excellent communication skills on technical and non-technical issues, with an emphasis on written communication</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">5+ years of experience in software engineering</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience building complex, high-performance software</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">A solid working knowledge of standard security methodologies</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience working with: React, TypeScript, Golang, libp2p<br></span></li>
-</ul>
-<h4>Not required, but a bonus if you have:</h4>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience leading or contributing to open source projects</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with end to end encryption, messaging, secure storage, key management</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with cryptographic primitives and protocols</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with the Linux operating system, its internals, and ecosystem</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience building with decentralized networks, consensus protocols, smart contracts, blockchains, etc.</span></li>
-</ul>
-<h2><strong>Who we are</strong></h2>
-<p><span style="font-weight:400;">We set out to design a modern organization from the startâone thatâs global, remote, and asynchronous-by-default.</span></p>
-<p><span style="font-weight:400;">We think of ourselves as a âgrown-upâ startupâbuilding a company thatâs fair, equitable, and rewarding for everyone to work at, with an emphasis on having fun while building an ambitious project.</span></p>
-<p><span style="font-weight:400;">Our team has decades of experience in building companies, but weâre looking for more diverse experiences to add to the founding team. Joining XMTP Labs today represents not just an opportunity to play a key role in building an essential part of the next web, but also in establishing the core DNA of the company.</span></p>
-<p><a href="https://www.beforeyouapply.com/team/early-stage-team-at-xmtp-labs" target="_blank" rel="noopener noreferrer nofollow"><strong>Here's an inside look at XMTP</strong></a><strong> </strong>and some of the frequently asked questions about our culture, answered by one of our co-founders and core team members.</p>
-<h2><strong>About XMTP, Inc.</strong></h2>
-<p>XMTP, Inc. was co-founded by <a href="https://twitter.com/mg" rel="noopener noreferrer nofollow">Matt Galligan</a> and <a href="https://twitter.com/shanemac" rel="noopener noreferrer nofollow">Shane Mac</a>, and is headquartered on the web. We have an excellent benefits package that includes parental leave, competitive pay, an equipment and home office allowance that refreshes yearly, monthly lifestyle stipend, as well as a personal assistant, and financial advisor. For U.S.-based team members we also provide access to FSA, 401K, and fully paid high quality medical, dental, and vision insurance for you and your family.</p>
-<p>Weâre backed by some of the best investors in tech and crypto: a16z Crypto Fund, Offline Ventures, Sound Ventures, Distributed Global, Redpoint, IDEO CoLab and many more key ecosystem investors and operators. <a href="https://blog.xmtp.com/series-a/#xmtps-investors" target="_blank" rel="noopener noreferrer nofollow">See the full list here</a>.</p>
-<p>XMTP, Inc. is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><br/><br/>Please mention the word **CONSIDERATE** and tag RMTguMjM0LjEyOS4yMjM= when applying to show you read the job post completely (#RMTguMjM0LjEyOS4yMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0984/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -151,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/qumulus-technology-ltd-lead-software-engineer" align="right" target="_blank">Apply</a>
@@ -197,7 +56,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller-1" align="right" target="_blank">Apply</a>
@@ -261,7 +120,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote" align="right" target="_blank">Apply</a>
@@ -343,7 +202,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -405,7 +264,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
