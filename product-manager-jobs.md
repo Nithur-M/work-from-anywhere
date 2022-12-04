@@ -10,7 +10,7 @@
                     <code>defi,manager,design,web3,full-stack,technical,support,software,test,growth,ux,financial,education,leader,management,engineering,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-defi-product-manager-acala-157366" align="right" target="_blank">Apply</a>
@@ -33,7 +33,7 @@
 <b>UI Enhancements; </b>workshops with our Design Team</li><li>
 <b>External</b>; Occasional ad-hoc projects with other ecosystem teams</li><p></p><h4>What it takes</h4><p></p><p></p><li>Commercial Software Product Management experience, 3 years minimum</li><li>Passion for working with innovative Software Developers [<i>&lt;-- 50% of the job</i>]</li><li>Expert level knowledge of DeFi use cases, DAOs, LP/MM dynamics, etc</li><li>A Demonstrable methodology for increasing efficiency across teams</li><li>Software Engineering background beneficial; you will regularly evaluate the technological strengths and weakness of 3rd party solutions</li><li>Alignment with our core values: Empowerment, Support & Community </li><p></p><h4>What we offer</h4><p></p><p></p><li>Competitive contract-based compensation (you'll have to invoice us from wherever you are)</li><li>Flexible working hours within Pacific timezones</li><li>Collaborative, transparent and empowering work culture</li><li>Meaningful work on creating better technologies for a fairer future</li><li>Opportunity to work in a multinational, high-performance team with diverse backgrounds</li><div>
 <b>NB:</b> For the <i>fastest</i> response to any of our positions, apply directly on our website: <a href="http://acala.network/jobs" class="postings-link" rel="noopener noreferrer nofollow">acala.network/jobs</a>. For more information on this position, our employment conditions, or anything related to working for Acala, get in touch with our Talent Manager: simon@acala.network</div><div><br></div><div><br></div><div><b style="font-size:18px;">Our Team</b></div><div>With approximately 50 full-time team members working across 8 different countries, our team is truly decentralised. Weâre some of the leading blockchain innovators, Substrate & Rust engineers, full-stack dApp developers, & Economist Analysts. But we're just people like you, working from our shared desire for a fairer and more inclusive financial system, in direct contrast to the clear shortcomings of the current institutions that run our world.</div><div><br></div><div><b style="font-size:18px;">Our Values</b></div><div>The community weâre building is shaped by our values and fuelled by the needs of all humans:</div><div>- Inclusion, Care, Trust, and Respect</div><div>- Empowerment</div><div>- Guidance and Support</div><div>- Friendship, Community, Real Relationships </div><div><br></div><div>Weâre building Acala based on a core set of values we believe are in line with the tenets of web3:</div><div>- True decentralisation</div><div>- Less Trust, More Truth</div><div>- Integrity</div><div>- Accountability</div><div>- Empowering individuals with more autonomy </div><div><br></div><div><b style="font-size:18px;">What We Have Achieved</b></div><div>Acala was founded in 2019 as an early Web3 Foundation grant recipient, and is an ecosystem and education partner of both the W3F and Polkadot. Throughout 2021 we have proven ourselves to be the DeFi hub(s) of the Polkadot Ecosystem & Community by securing the first crowdloan-funded parachain slots on both the Polkadot & Kusama blockchain networks. But even at this, our true work has only just begun...</div><div><br></div><div><br></div><div>
-<b>NOTE</b>: To all external Recruiters who have 'exciting profiles' to share with us, please do so knowing that without signed terms & conditions Acala deem any introductions made to be a complimentary courtesy to the development of the world's Web3 infrastructure. Thank you for your support.</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/jpF7ncfnmxM" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **GLORIOUSLY** and tag RMTguMjM0LjEyOS4yMjM= when applying to show you read the job post completely (#RMTguMjM0LjEyOS4yMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<b>NOTE</b>: To all external Recruiters who have 'exciting profiles' to share with us, please do so knowing that without signed terms & conditions Acala deem any introductions made to be a complimentary courtesy to the development of the world's Web3 infrastructure. Thank you for your support.</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/jpF7ncfnmxM" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **GLORIOUSLY** and tag RMy4yMzYuMTgwLjEwMQ== when applying to show you read the job post completely (#RMy4yMzYuMTgwLjEwMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -48,7 +48,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/lofty-product-manager" align="right" target="_blank">Apply</a>
@@ -126,7 +126,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/airdev-no-code-product-manager-independent-contractor-multiple-seniority-levels" align="right" target="_blank">Apply</a>
@@ -183,7 +183,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/learning-tapestry-product-manager-web" align="right" target="_blank">Apply</a>
@@ -240,7 +240,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-product-manager-3" align="right" target="_blank">Apply</a>
