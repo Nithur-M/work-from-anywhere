@@ -10,7 +10,7 @@
                     <code>developer,crypto,cryptocurrency,hr,system,teaching,training,technical,support,software,testing,growth,web,financial,investment,fintech,postgresql,node.js,api,management,senior,go,health,recruitment,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-rust-backend-developer-keyrock-157296" align="right" target="_blank">Apply</a>
@@ -45,7 +45,7 @@
 <li style="list-style-type:disc;font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Complete autonomy in your time management thanks to flexible working hours and the opportunity to work remotely </span></p></li>
 <li style="list-style-type:disc;font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The freedom to create your own entrepreneurial experience by being part of a team of people in search of excellence who all receive stock options from the first year</span></p></li>
 <li style="list-style-type:disc;font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;"><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:7pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">A ton of fun in a thriving and multicultural environment, with colleagues enjoying regular team building activities </span></p></li>
-</ul><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"> </p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Keyrock offers you both a career and a large range of benefits that we will gladly discuss in the course of the application process.</span></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><br></p><p>As an employer we are committed to build an inclusive, diverse and non-discriminating work environment. We welcome employees of all backgrounds, ethnicities, genders, creed and sexual orientation. We hire, reward and promote entirely based on merit and performance.</p><br/><br/>Please mention the word **ADMIRABLY** and tag RMy4yMzYuMTgwLjEwMQ== when applying to show you read the job post completely (#RMy4yMzYuMTgwLjEwMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"> </p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:10pt;font-family:Roboto , sans-serif;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Keyrock offers you both a career and a large range of benefits that we will gladly discuss in the course of the application process.</span></p><p style="line-height:1.38;background-color:#ffffff;margin-top:0pt;margin-bottom:0pt;"><br></p><p>As an employer we are committed to build an inclusive, diverse and non-discriminating work environment. We welcome employees of all backgrounds, ethnicities, genders, creed and sexual orientation. We hire, reward and promote entirely based on merit and performance.</p><br/><br/>Please mention the word **ADMIRABLY** and tag RNTQuMjExLjEyOC4yMTU= when applying to show you read the job post completely (#RNTQuMjExLjEyOC4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -60,7 +60,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -119,80 +119,194 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/3489/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7668/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>OpenCraft</h5>
-                    <h3> Senior Open Source Developer & DevOps (Python, Django, React, AWS/OpenStack)</h3>
+                    <h5>Planet Argon</h5>
+                    <h3> Senior Ruby on Rails Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Full-Stack Programming</code>
+                    <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>753 days ago</text>
+                <text>60 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/planet-argon-senior-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0017/3489/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7668/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Fully remote company (worldwide, incorporated in Berlin)
-    <br /><strong>URL:</strong> <a href="https://opencraft.com/">https://opencraft.com/</a>
+  <strong>Headquarters:</strong> Portland, Oregon
+    <br /><strong>URL:</strong> <a href="https://planetargon.com">https://planetargon.com</a>
 </p>
 
-<div>Do you care about contributing to open-source, and appreciate a good challenge? We do too! :) <br><br>
+<div>
+<strong>Hello Ruby on Rails Developers!<br></strong><br>
+</div><div>Here's the deal; before our clients hire us, they've often already invested a lot of time, energy, and money into having custom web applications developed to help them solve their business challenges. They come to us looking for a team to provide dependable support and maintenance of their existing Ruby on Rails projects. We do this in the form of recurring retainers where we take care of small feature updates, bug fixes, performance improvements, chipping away at their technical debt, and helping them experiment as they navigate forward as a business.<br><br>
+</div><div>What we rarely do is spin up brand new web applications for them. We learned years ago that we perform better and are more successful developing long-term client relationships rather than working on one-off builds, so we stopped competing on those projects.<br><br>
+</div><div>The tradeoff? We get to build lasting partnerships with our clients and have some influence on how they're planning for the life of their web applications.<br><br>
+</div><div>So, if you're the type of developer that really enjoys shiny, new things (and/or pitching entire app rewrites), this probably isn't the position for you.<br><br>
+</div><div>But if you're the type of developer that enjoys jumping into the deep end of complex projects, helping iterate and improve software, taking on responsibility, and being given opportunities to help lead projects, then we should talk.<br><br>
 </div><div>
-<strong>Open-source<br></strong><br>
-</div><div>We are a team of veteran open-source developers, working on educational and community-based projects in an<a href="https://handbook.opencraft.com/en/latest/open_first/"> open-first</a> environment – and we are looking for new members. By joining us, you will work full-time on open-source, pushing your changes to free software projects upstream through pull requests, contributing features, documentation, or help on public forums. </div><div>
-<br>We care deeply about contributing our work upstream. You will see the results of your work reused and recognized across the educational community, increasing access to quality education for everyone, everywhere.</div><div>
-<br><strong>Remote-first</strong>
+<br><br>
 </div><div>
-<br>Unlike companies who reluctantly started to accept remote workers recently, we have embraced it from day 1. For the past 7 years, we have based and refined our way of working around remote-friendly workflows, from the ground up. No day-long video meetings, mandatory work hours, or risk of being forced back into an office one day -- as long as you have a good internet connection, it’s none of our business when or where you work from. :)</div><div>
-<br>We are all working remotely, from all continents (except Antarctica, at least so far - applicants welcome!). We use remote-friendly and timezone-agnostic workflows based on asynchronous principles and good documentation practices.</div><div>
-<br><strong>Online education<br></strong><br>
-</div><div>We are one of the main contributors to the <a href="https://open.edx.org/">Open edX project</a>, the main open-source MOOC platform created by MIT, Harvard and many other top universities. It powers sites like <a href="https://www.edx.org/">edX.org</a>, the <a href="https://openlearning.mit.edu/courses-programs/open-learning-library">MIT Open Learning Library</a>, and the <a href="https://www.fun-mooc.fr/">national online learning platform for France</a>. We provide development and hosting for institutions like <a href="https://onlinelearning.hms.harvard.edu/hmx/">Harvard Medical School</a>, <a href="https://www.labxchange.org">Harvard LabXchange</a>, <a href="https://ondemand.cloudera.com">Cloudera</a>, <a href="https://www.upskill.autodesk.com">Autodesk</a>, and several governments. We are not affiliated with <a href="https://www.edx.org/">edX.org</a>, but we contribute and work with them on various projects. </div><div>
-<br><strong>Technical stack</strong><br><br>
-</div><div>The Open edX project is a large Python/Django codebase, with good code standards and architecture. Tasks are varied, from developing core platform features, custom exercises and tools for specific courses (XBlocks), customizing and deploying instances, working full-stack, operating our service infrastructure, improving our hosting platform, etc. You won't get bored here.<br><br>
+<strong>Our Core Values<br></strong><br>
 </div><div>
-<strong>Contracting terms<br></strong><br>
-</div><div>This is a full-time, permanent contract position. We aim for long-term relationships -- once in, almost all team members stay for many years. </div><div><br></div><div>We care about paying fairly: </div><ul>
-<li>Team members set their own compensation level, which is paid based on hours worked (no unpaid overtime!). </li>
-<li>When determining your rate, we will expect you to factor in benefits (vacation, healthcare, purchase budgets, etc.) - the idea is to let <em>you</em> pick the benefits that are useful to you, rather than offer one-size-fits-all packages that aren’t always very valuable.</li>
-<li>We also proactively apply generous raises team-wide, based on the company results at the end of each year. <a href="https://handbook.opencraft.com/en/latest/team_compensation/">See the details about how we approach compensation in our handbook</a>.</li>
-</ul><div>We also firmly believe in work-life balance: as long as you deliver what you commit to, there is a lot of latitude in how much work you can choose to accept. We are open to time commitments anywhere in the 30h to 40h/week range, and highly discourage working more than that. It’s important to have time to ourselves, as well as having some slack, and there are diminishing returns in working more anyway. We are currently recruiting precisely to preserve that balance, and ensure we have plenty of capacity to handle our projects.</div><div><br></div><div>We welcome applicants of all genders and ethnicities.</div><div>
-<br><strong>Basic Requirements:</strong>
+<strong>🙋 PROACTIVE</strong> - We actively seek opportunities to improve our client’s products, our processes, and our abilities.<br><br>
+</div><div>
+<strong>🐒 CURIOUS</strong> - A natural curiosity for the undiscovered results in remarkable work for our clients and stronger connections for our team. We ask questions, learn, and aren't afraid to fail.<br><br>
+</div><div>
+<strong>🤝 DEPENDABLE</strong> - We are invested in our work. We manage expectations. We support our clients and teammates. We hold ourselves, our teammates, and our clients accountable.<br><br>
+</div><div>
+<strong>🕺 VERSATILE</strong> - We readily adapt to change and encourage innovation because our team and work are transparent and flexible.<br><br>
+</div><div>🙃 <strong>DELIGHTFUL</strong> - We choose to set a mindful, positive tone that allows everyone to flourish.<br><br>
+</div><div>
+<a href="https://www.planetargon.com/about">Learn more about Planet Argon<br></a><br>
+</div><div>
+<br><br>
+</div><div>
+<strong>As a Senior Ruby-on-Rails Developer at Planet Argon, you will regularly do the following things:<br></strong><br>
 </div><ul>
-<li>Experience with contributing to free software projects - small contributions are completely fine, but you <em>must</em> have at least one patch or pull request merged in a third-party project, or been a maintainer of an open source project with significant adoption. (Note that you can contribute now to satisfy this requirement - see for example the <a href="https://github.com/openedx/build-test-release-wg/projects/1">Open edX release issues</a>, fixing one of these issues guarantees an interview.)</li>
-<li>Senior developer with 3+ years working with Python</li>
-<li>Experience with Python web frameworks, specifically Django</li>
-<li>3+ years of HTML, Javascript, and CSS (experience with React and/or Typescript is a big plus!)</li>
-<li>Experience with unit testing</li>
-<li>Comfortable working in a Linux environment, specifically Debian or Ubuntu</li>
-<li>Experience with databases: MySQL, MongoDB, PostgreSQL</li>
+<li>Document the solutions to mistakes you’ve made so future developers can avoid them and learn from your experiences</li>
+<li>Write modular, well-tested code with minimal bugs that accounts for app performance and user experience</li>
+<li>Assess the risks associated with a task you’re assigned, ask follow-up questions of stakeholders or your project manager, determine a workflow forward, outline possible bottlenecks, and deliver a well-documented, well-tested, and stable solution</li>
+<li>Take responsibility when something goes wrong and lead others to fixing the issue</li>
+<li>Make technical decisions with little to no guidance</li>
+<li>Teach junior- and mid-level developers technical strategy by involving them in decision-making</li>
+<li>Evaluate and choose gems that are right for your project and speak to the value and risk of using them</li>
+<li>Choose appropriate software design patterns for common client problems and explain them to client stakeholders, other developers, and the project manager</li>
+<li>Spot performance bottlenecks in the stack and implement strategies to speed things up</li>
+<li>Track down bugs within the code base and the infrastructure, explain how those bugs are causing the reported issue, and develop a solution</li>
+<li>Act as technical lead on projects</li>
+<li>Meet regularly with your PM(s) to create issues, review current work, and plan sprints</li>
+<li>Suggest version upgrades, code refactoring, security and performance improvements, and UI/UX redesigns to the client and explain why they are beneficial to the client’s long-term needs</li>
+<li>Create thorough and clear Jira issues that clients and other devs can read and understand</li>
+<li>Provide fairly accurate estimates on proposed work to PMs or sales to assist with the creation of SOWs (SWAG estimates)</li>
+<li>Remove roadblocks for the team by pairing, answering questions in Slack, suggesting tools, gems, or packages, or granting someone access to needed accounts</li>
+<li>Set up and/or improve deployments for projects</li>
+<li>Manage deployment access for other team members</li>
+<li>Run deployments and perform debugging within staging/production environments</li>
+<li>Regularly SSH into and navigate around log files, Rails console, etc.</li>
+<li>Identify security vulnerabilities and harden our servers with security tools</li>
+<li>Keep your codebase documentation up-to-date</li>
+<li>Provide specific, useful feedback on PRs</li>
+<li>Provide peer support to developers at all levels</li>
+<li>Contribute to open source projects by reporting bugs, contributing possible fixes, or improving documentation</li>
+<li>Create connections with your peers on social media, in Slack channels, at meet-ups, and at conferences</li>
+<li>Help design and lead technical interviews with candidates</li>
+<li>Regularly introduce or improve documentation in our internal knowledge base</li>
 </ul><div>
-<strong>Additional Skills:</strong><br><br>
-</div><div>You will work on tasks from the following categories, but you can pick up the skills on the job if you haven't mastered these yet:</div><ul>
-<li>DevOps experience, especially on Debian/Ubuntu servers, Terraform, Vault, Packer, Prometheus, ELK, Docker. We are building a modern infrastructure and having a strong DevOps presence on top of core software engineering skills is a big plus with us.</li>
-<li>Cloud computing, like AWS or OpenStack</li>
-<li>Configuration management tools such as Ansible, Consul</li>
-<li>RabbitMQ, Redis &amp; Elasticsearch</li>
-<li>Mobile development (iOS and/or Android)</li>
-<li>Managing clients &amp; projects from beginning to completion (senior developer)</li>
-<li>Public speaking at conferences (you would present a talk every year at the Open edX Con)</li>
+<strong>Requirements<br></strong><br>
+</div><div>
+<strong>5-7 years of industry experience</strong>, which can include:<br><br>
+</div><ul>
+<li>Education</li>
+<li>Internships</li>
+<li>Contribution to open-source projects</li>
+<li>Support engineer, QA, and other dev-adjacent industry roles</li>
+<li>Junior, Mid-, or Senior-level Ruby on Rails Developer roles</li>
+<li>Team-lead roles</li>
 </ul><div>
-<br><strong>Apply for this Position</strong><br><br>
-</div><div>Our recruitment process differs from most other companies - we don’t believe resumes and the traditional interviews to be particularly effective. Often, they tell more about how good someone is at interviewing, rather than at the actual work. So, our initial interview is lighter and easier to pass than in other companies - but we then provide you with real (and paid!) work to see how it works out in reality.</div><ul>
-<li>Step 1: You apply by filling out this form: <a href="https://opencraft.com/jobs/open-source-developer/">https://opencraft.com/jobs/open-source-developer/</a> </li>
-<li>Step 2: We do two interviews with candidates matching the requirements listed above. The first interview includes a (simple) coding exercise.</li>
-<li>Step 3: If this works out, we hire you! We start with a 2 months <a href="https://handbook.opencraft.com/en/latest/processes/#recruitment">trial period</a>, which allows both you and the rest of the team to fully evaluate how we work together, and is followed by a final review and confirmation. </li>
+<strong>A Senior Ruby-on-Rails Developer at Planet Argon should have some of the following experience:<br></strong><br>
+</div><ul>
+<li>Self-onboarding to an existing Ruby/Rails app and providing value soon after</li>
+<li>Determining the health of an existing Ruby on Rails application by evaluating test coverage, app architecture, security, and performance</li>
+<li>Using application monitoring tools like CodeClimate, Pingdom, or New Relic</li>
+<li>Researching open-source gems and implementing them into an existing application</li>
+<li>Using git to fix branching errors and merge conflicts and enforcing version control best practices across applications</li>
+<li>Setting up and documenting deployments for Ruby-on-Rails applications</li>
+<li>Writing automated tests for Ruby on Rails apps</li>
+</ul><div>
+<strong>Benefits<br></strong><br>
+</div><ul>
+<li>Medical, dental and vision insurance (Planet Argon pays 80% of premium)</li>
+<li>Paid vacation time that increases with your length of employment (15 days accrued the first year, 20 days after the first year, and 25 days after three years)</li>
+<li>5 days of sick time each calendar year</li>
+<li>7 paid company holidays each calendar year</li>
+<li>Health &amp; Wellness Program</li>
+<li>Home office and internet connection stipend</li>
+<li>Periodic bonuses dependent upon company and employee performance</li>
+<li>Participation in our flexible work time policies</li>
+<li>Creative, relaxed, professional work environment</li>
+<li>
+<em>After 90 days of employment:</em><ul><li>SIMPLE IRA with 3% of employee salary match</li></ul>
+</li>
+</ul><div>
+<br>The salary for this position is capped at $145,000/year.<br><br>
+</div><div>We will perform background checks and request professional references from finalist candidates.<br><br>
+</div><div>
+<em>Responses from freelancers, design studios or recruiters offering their services will be ignored.<br></em><br>
+</div><div>
+<strong><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.<br></em></strong><br>
+</div><div><a href="https://apply.workable.com/planetargon/j/781C982139/apply/"><strong>Apply for this job</strong></a></div><div><br></div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/planet-argon-senior-ruby-on-rails-developer">https://weworkremotely.com/remote-jobs/planet-argon-senior-ruby-on-rails-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>90 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
+
+<div><strong>The Role:</strong></div><div>We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
+<br><br>
+</div><div><strong>What we are looking for:</strong></div><ul>
+<li>4+ years of working experience as a FullStack;</li>
+<li>Frontend:<br>- React JS;<br>- Design System;</li>
+<li>Backend:<br>- Microservices architecture;<br>- NodeJS; </li>
+<li>Database:<br>- SQL;<br>- MongoDB;</li>
+<li>Upper-intermediate or higher English level.</li>
+</ul><div><br></div><div><strong>Nice-to-have: </strong></div><ul>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Database Architecture knowledge</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.🚀 <strong>360 degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<br><br>
+</div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
 </ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack">https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote</a></p>
 
                 </details>
                 </td>
@@ -208,7 +322,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -285,7 +399,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -352,7 +466,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -421,7 +535,7 @@
                     <code>api,developer,ios,mobile</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ios-developer-1497219" align="right" target="_blank">Apply</a>
@@ -477,7 +591,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -554,7 +668,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
