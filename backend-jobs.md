@@ -1,5 +1,55 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/b7eca1364e2e3d894666cdfae86f2e651670138137.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>AlphaPoint</h5>
+                    <h3>C# Backend Software Engineer Code Reviewer</h3>
+                </td>
+                <td width="300">
+                    <code>c#,software,code,cryptocurrency,architect,financial,fintech,senior,engineer,engineering,backend</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-c-backend-software-engineer-code-reviewer-alphapoint-158895" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><span style="font-size:14px;"><span style="font-family:Arial , Helvetica , sans-serif;"><span style="font-variant:normal;white-space:pre-wrap;"><span style="color:#000000;"><span style="font-weight:700;"><span style="font-style:normal;"><span style="text-decoration:none;">About AlphaPoint:</span></span></span></span></span></span></span></p><p><span style="font-size:14px;"><span style="font-family:Arial , Helvetica , sans-serif;"><span style="font-variant:normal;white-space:pre-wrap;"><span style="color:#222222;"><span style="background-color:#ffffff;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">AlphaPoint is a financial technology company powering digital asset exchanges and brokerages worldwide. Through its secure, scalable, and customizable white label digital asset trading platform, AlphaPoint has enabled over 150 customers in 35 countries to launch and operate digital asset markets, as well as digitize assets. AlphaPoint and its award winning blockchain technology have helped startups and institutions discover and execute their blockchain strategies since 2013.</span></span></span></span></span></span></span></span></p><p style="line-height:1.38;"><span style="font-size:14px;"><span style="font-family:Arial , Helvetica , sans-serif;"><span style="font-variant:normal;white-space:pre-wrap;"><span style="color:#000000;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">This role is 100% US remote. </span></span></span></span></span></span></span></p><p><span style="font-family:Arial , Helvetica , sans-serif;"><span style="font-size:11pt;font-variant:normal;white-space:pre-wrap;"><span style="color:#000000;"><span style="font-weight:700;"><span style="font-style:normal;"><span style="text-decoration:none;">Role Responsibilities:</span></span></span></span></span></span></p><p style="line-height:1.38;margin-right:36px;"><span style="font-family:Arial , Helvetica , sans-serif;"><span style="font-size:11pt;font-variant:normal;white-space:pre-wrap;"><span style="color:#000000;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">The code reviewer will be reviewing all code written by engineers on the development team. Reviewing, correcting and looking for better ways to write existing code. This person must be a skilled code reviewer and enjoys doing code reviews and coming up with best practices for code reviews. This person will be reporting directly into the CIO and dotted reporting line into the solution architect lead.</span></span></span></span></span></span></p><p><span style="font-size:14px;"><span style="font-family:Arial , Helvetica , sans-serif;"><span style="font-variant:normal;white-space:pre-wrap;"><span style="color:#000000;"><span style="font-weight:700;"><span style="font-style:normal;"><span style="text-decoration:none;">Basic requirements:</span></span></span></span></span></span></span></p><ul>
+<li style="list-style-type:disc;"><span style="font-size:14px;"><span style="font-family:Arial , Helvetica , sans-serif;"><span style="font-variant:normal;white-space:pre-wrap;"><span style="color:#000000;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">C# programming language expert. 5 - 8 years experienced in C#.</span></span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:14px;"><span style="font-family:Arial , Helvetica , sans-serif;"><span style="font-variant:normal;white-space:pre-wrap;"><span style="color:#000000;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Well-versed in documenting, critiquing, creating best practice guides and implementing coding standards</span></span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:14px;"><span style="font-family:Arial , Helvetica , sans-serif;"><span style="font-variant:normal;white-space:pre-wrap;"><span style="color:#000000;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Identifying and documenting anti-patterns</span></span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:14px;"><span style="font-family:Arial , Helvetica , sans-serif;"><span style="font-variant:normal;white-space:pre-wrap;"><span style="color:#000000;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Performance profiling to determine which type of code is more efficient</span></span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:14px;"><span style="font-family:Arial , Helvetica , sans-serif;"><span style="font-variant:normal;white-space:pre-wrap;"><span style="color:#000000;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Draft the engineering coding guide and policy for AlphaPoint</span></span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:14px;"><span style="font-family:Arial , Helvetica , sans-serif;"><span style="font-variant:normal;white-space:pre-wrap;"><span style="color:#000000;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Comfortable with communicating mistakes in code and coaching/supporting engineers to take corrective action</span></span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:14px;"><span style="font-family:Arial , Helvetica , sans-serif;"><span style="font-variant:normal;white-space:pre-wrap;"><span style="color:#000000;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Someone very detail-oriented</span></span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:14px;"><span style="font-family:Arial , Helvetica , sans-serif;"><span style="font-variant:normal;white-space:pre-wrap;"><span style="color:#000000;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">A specialist in code reviewing</span></span></span></span></span></span></span></li>
+</ul><p><span style="font-size:14px;"><span style="font-family:Arial , Helvetica , sans-serif;"><span style="font-variant:normal;white-space:pre-wrap;"><span style="color:#000000;"><span style="font-weight:700;"><span style="font-style:normal;"><span style="text-decoration:none;">Preferred requirements:</span></span></span></span></span></span></span></p><ul>
+<li style="list-style-type:disc;"><span style="font-size:14px;"><span style="font-variant:normal;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#000000;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Prior experience with maintaining open source projects and triaging other engineersâ code on a frequent basis - either for professional/work reasons or as a hobby </span></span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:14px;"><span style="font-variant:normal;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#000000;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Passion and experience in cryptocurrencies, blockchain, trading systems or other fintech instruments</span></span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:14px;"><span style="font-variant:normal;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#000000;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Someone who is comfortable working across the engineering organization with senior developers, leads and staff level engineers</span></span></span></span></span></span></span></li>
+</ul><p><b>Here are some of the benefits of working at AlphaPoint:</b></p><ul>
+<li>Competitive base salary, bonus and equity</li>
+<li>Comprehensive health, dental, vision insurance coverage</li>
+<li>Life Insurance</li>
+<li>Short and Long-Term Disability Benefits</li>
+<li>401k company match</li>
+<li>Unlimited PTO</li>
+<li>Brex company credit card</li>
+<li>Computer equipment and workplace furniture to suit your needs</li>
+<li>Great colleagues and an inspiring startup environment with colleagues internationally</li>
+<li>$100 of the Cryptocurrency of your choice upon signing</li>
+<li>Company paid Co-Working benefits</li>
+<li>$2500/year for learning and development</li>
+</ul><p style="line-height:1.38;"> </p><p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ECONOMICAL** and tag RNTQuMjExLjEyOC4yMTU= when applying to show you read the job post completely (#RNTQuMjExLjEyOC4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/ab1df706e537e3df787deff781d7da301670051722.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +60,7 @@
                     <code>design,web3,crypto,ethereum,technical,testing,code,financial,management,lead,senior,engineer,backend,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-coinshift-158389" align="right" target="_blank">Apply</a>
@@ -27,7 +77,7 @@
 <b>-Navigating ambiguity in design:</b> You can translate high level designs into production-ready systems. Given clear requirements, you are comfortable making judgments and tradeoffs in the user experience on your own.</div><div>
 <b>-Put users first:</b> You think critically about the implications of what you're building, and how it impacts real people's lives.</div><div>
 <b>-Empathetic communication:</b> You communicate ideas clearly in plain english. In disagreements, you listen to other perspectives and compromise when needed.</div><div>
-<b>-Team player:</b> You enjoy collaborating cross-functionally to accomplish shared goals, and you care about learning, growing, and helping others to do the same.</div><div><br></div><div><b>Nice to Haves:</b></div><div><br></div><div>-You're proficient with technologies that are part of our stack, including Express, Datadog.</div><div>-You participate in open source projects and web3 hackathons, or write about web3 technology.</div><div>-You have experience in backend integration testing and in debugging performance issues.</div><div>We are committed to fostering diversity and inclusiveness within our organization, and we strongly encourage candidates of all backgrounds to apply, even if they donât match all the above criteria.</div><div><br></div><div>If you are hired, you will have the option of fiat/USDC payments made monthly</div><div><br></div><div>We look forward to your application!</div><br/><br/>Please mention the word **CORRECT** and tag RMy4yMzYuMTgwLjEwMQ== when applying to show you read the job post completely (#RMy4yMzYuMTgwLjEwMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<b>-Team player:</b> You enjoy collaborating cross-functionally to accomplish shared goals, and you care about learning, growing, and helping others to do the same.</div><div><br></div><div><b>Nice to Haves:</b></div><div><br></div><div>-You're proficient with technologies that are part of our stack, including Express, Datadog.</div><div>-You participate in open source projects and web3 hackathons, or write about web3 technology.</div><div>-You have experience in backend integration testing and in debugging performance issues.</div><div>We are committed to fostering diversity and inclusiveness within our organization, and we strongly encourage candidates of all backgrounds to apply, even if they donât match all the above criteria.</div><div><br></div><div>If you are hired, you will have the option of fiat/USDC payments made monthly</div><div><br></div><div>We look forward to your application!</div><br/><br/>Please mention the word **CORRECT** and tag RNTQuMjExLjEyOC4yMTU= when applying to show you read the job post completely (#RNTQuMjExLjEyOC4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -42,7 +92,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer" align="right" target="_blank">Apply</a>
@@ -108,7 +158,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mindsdb-backend-engineer" align="right" target="_blank">Apply</a>
@@ -197,7 +247,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
