@@ -1,5 +1,54 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/fadcd12e11cd339eb8bd9780b37b25051670138119.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Axoni</h5>
+                    <h3>Software Engineer Java</h3>
+                </td>
+                <td width="300">
+                    <code>software,saas,docker,test,code,scrum,fintech,java,legal,engineer,apache</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-java-axoni-158889" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>Axoni is building the next generation of capital markets technology. Our solutions are used by the worldâs leading banks, asset managers, hedge funds, and infrastructure providers. Our diverse team focuses every day on our goal of building products that will change and improve how our clients and the markets will interact. </div><div><br></div><div>We are seeking talented, motivated professionals that want to be part of this once-in-a-career opportunity to not only see, but also drive the incredible changes coming to global capital markets. We are building a culture where our team feels valued and everyone is given an opportunity to grow and succeed. We try to live by our Core Values and demonstrate what we believe represent the kind of company we are working to build. These Values are: Delivery is everything; Choose Kindness; Be better every day.</div><div><br></div><div><span style="font-size:11pt;">Axoni is looking for Java Software Engineers who will be responsible for software development for our biggest client initiative. Our projects vary across multiple industries including Bond Issuance, Securities Lending, and Equity Swaps to deliver a seamless, optimized experience all the way to the end user. You will work directly with our clients to understand and solve their largest pain points. </span></div><p></p><h4>You will: </h4><p></p><p></p><ul>
+<li>Use Java to develop cloud-hosted, API-first, microservices and applications</li>
+<li>Handle end-to-end development, including coding, testing, debugging and reviewing code</li>
+<li>Interact with users and development teams to gather and define requirements and analyze user stories for validity and feasibility</li>
+<li>Work within the team on iterative development that delivers high-quality, stable services</li>
+<li>Engineer effective, defect-free configurations and code that meets business requirements and team standards</li>
+<li>Interact with messaging systems like Apache Kafka, MQ, etc.</li>
+<li>Work in a scrum team and follow Agile and Test Driven Development best practices</li>
+<li>Work with containerization/orchestration tools such as Docker or Kubernetes</li>
+</ul><p></p><h4>Qualifications: </h4><p></p><p></p><ul>
+<li>2-5 years of professional software development experience using Java</li>
+<li>Experience designing distributed enterprise software</li>
+<li>Experience deploying and supporting production workloads</li>
+<li>Experience building REST services and/or microservices</li>
+<li>Strong database experience, preferably with PostgreSQL, MySQL, Oracle, or DB2</li>
+<li>Familiarity with tools and frameworks in the Java ecosystems (Spring, Spring Boot, Vert.x etc.)</li>
+<li>Experience with AWS infrastructure</li>
+<li>Experience writing concurrent and multi-threaded java applications</li>
+<div><br></div>
+</ul><p></p><h4>Bonus Points: </h4><p></p><p></p><ul>
+<li>Experience with networking protocols (http, tcp, gRPC, etc.)</li>
+<li>Experience working with OAuth and Authorization providers </li>
+<li>Experience with SaaS </li>
+<li>Capital markets and fintech experience</li>
+<li>Familiarity or interest in learning scala</li>
+</ul><div>Individuals seeking employment at Axoni are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. You are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements.</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/xO7B4WYKVZE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **APPRECIATES** and tag RNTQuMjExLjEyOC4yMTU= when applying to show you read the job post completely (#RNTQuMjExLjEyOC4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0984/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +59,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/qumulus-technology-ltd-lead-software-engineer" align="right" target="_blank">Apply</a>
@@ -56,7 +105,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller-1" align="right" target="_blank">Apply</a>
@@ -120,7 +169,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote" align="right" target="_blank">Apply</a>
@@ -192,6 +241,54 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1512583/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Staking Rewards</h5>
+                    <h3>Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>crypto,golang,security,design</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1512583" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h2">If you haven't heard of us</div>
+<p>Staking Rewards is on a mission. Agency is the strategy, passive income from Crypto is one of our tactics in this strategy. We're building tools, platforms and products to help you, ourselves and others to achieve an impactful level of control over their income and help to improve the quality of their investment decisions.</p>
+<p>We serve different kinds of stakeholders, investors, analysts and crypto community members worldwide. The narrative we're always pushing is Agency. We want you to be in control. ​​This is why we're on a mission to increase transparency, reduce entry barriers and enable everyone to become financially independent. We make staking easy &amp; accessible.</p>
+<p>Let's cut to the chase, Staking Rewards is a close-knit team, 20 some members all working remotely, all over the world. Working here means you pick your own timezone, you pick your own vacation days, have as many of them as you see fit, get compensated well, feel comfortable saying “No” and engage in intelligent dialogues with curious people. The only thing we ask in return is to bring your A-game. Get the job done, with a positive intent and a positive attitude. </p>
+<p></p>
+<div class="h2">The person we're looking to work with</div>
+<p>An Engineer that values quality over quantity. Has a deep understanding of software design and how to apply design principles on different types of problems. Some call them well-rounded Engineers or 10x Engineers, we simply call them good Engineers. </p>
+<p>Good Engineers can learn and adapt. They are creative and curious at all times. </p>
+<p>This is what we're looking for.</p>
+<p>You will work with familiar technologies, but you will also be expected to work with unfamiliar technologies, you will learn on the job, you will challenge yourself and the status quo. Most importantly, you will be proud of your work. </p>
+<p>Nevertheless, we expect you have gained a good chuck of experience, about 7-10 years, with different environments in your senior career so far and optimally worked in a Golang environment last so you can bring your A-game from day one.</p>
+<p></p>
+<div class="h2">Engineering at Staking Rewards</div>
+<p>In two words, it's comfortable chaos. Our systems are constantly changing, evolving and adapting as the business alongside the crypto market does. Engineering in our environment means constantly facing challenges and being resourceful in our solutions. </p>
+<p>We work the problem. An Engineer at Staking Rewards is expected to inquire, communicate expectations and be open to unusual solutions. Our strength comes from our ability to deliver strong, high quality solutions in an ever changing business environment. </p>
+<p>We keep our feedback loops short and always aim to find the best possible solution together as one Engineering team.</p>
+<p></p>
+<div class="h2">Where do you fit in there?</div>
+<p>You become one of the heroes in this saga. An Engineer capable of working on different challenges and storylines.</p>
+<p>Some of these challenges we'd like you to focus on are:</p>
+<ul><li>Building high performing data services</li><li>Be responsible for happy life - build your own internal tooling</li><li>Maintain the platform on GCP</li><li>Bringing a strong defensive security mindset to our code and technical practices</li><li>Building for others: other developers on the team, for stakeholders and our users</li><li>Own the full vertical: shape, build, ship, monitor</li></ul>
+<p></p>
+<div class="h2">Sounds good, what now?</div>
+<ol><li>You send us your application</li><li><strong>Screening Interview</strong> with one of our team members (30 min)</li><li>Take home <strong>coding challenge</strong> (max. 5 days)</li><li>Interview Day<ol><li><strong>Challenge Recap</strong> &amp; <strong>Top grading interview</strong> with the CTO / Head of Engineering (60-90 min)</li><li><strong>Focused peer interviews</strong> (3 x 30 min)</li></ol></li><li>You give us three contacts as a <strong>reference</strong> that we will reach out to</li><li>You will receive our <strong>offer</strong></li><li><strong>Congratulations</strong>, you're part of the Staking Rewards team! </li></ol>
+<img src="https://remotive.com/job/track/1512583/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -202,7 +299,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -264,7 +361,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
