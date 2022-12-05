@@ -1,43 +1,5 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/13964a9b38795093bdc0400fb7c3e3d71669879066.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Acala</h5>
-                    <h3>DeFi Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>defi,manager,design,web3,full-stack,technical,support,software,test,growth,ux,financial,education,leader,management,engineering,full-time,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-defi-product-manager-acala-157366" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size:18px;">About Acala</b></div><div><br></div><div>Acala's mission is to build and nurture the autonomous financial infrastructure of the decentralized web. Delivering on this mission will bring more financial accessibility, opportunity, and prosperity to everyone on the planet through a new, open financial system.</div><div><br></div><div>Our core project is the Acala Network itself, which we expect to become the de facto DeFi parachain and stablecoin of the Polkadot ecosystem. Polkadot provides the underlying trust primitives to our parachain, upon which weâve built our suite of financial primitives including; decentralized, multi-collateral stablecoin; trustless staking derivatives, and Decentralized Exchange. These primitives will be used by us and other teams to power open DeFi innovations, and remove the need for the intermediaries that inhabit almost every conventional trust-based financial system.</div><div><br></div><div>We have secured our support from eminent backers like Polychain, Coinbase Venture, Pantera and many more. Acala began its launch process on December 18, 2021, and we've got regular product launches and tokenomic incentive programs planned throughout 2022, so thereâs no better time to join the DeFi mission and be a part of the future that weâre building...because we're building it for you, too.</div><div><br></div><div>
-<b>NB:</b> For the <i>fastest</i> response to any of our positions, apply directly on our website: acala.network/jobs</div><div><br></div><div><b style="font-size:18px;">About the role</b></div><div><br></div><div>
-<b>As a Product Manager at Acala </b>your goal will be to keep our team focused on building what our growing network of DeFi customers wants. It sounds easy.</div><div><br></div><div>Examples of Products that you could work on include:</div><div>- <a href="https://apps.acala.network/" class="postings-link" rel="noopener noreferrer nofollow">Acala dApps</a>, our DeFi suite for swapping, staking and earning on Polkadot</div><div>- <a href="https://apps.karura.network/" class="postings-link" rel="noopener noreferrer nofollow">Karura dApps</a>, a sister suite for similar DeFi activities on Kusama</div><div>- <a href="https://www.aquadao.app/" class="postings-link" rel="noopener noreferrer nofollow">AquaDAO</a>, Acalaâs upcoming decentralised Treasury Reserve protocol</div><div><br></div><div>
-<b>This is an end-to-end Product Management role</b> for an experienced leader in commercial software products, but it also requires an in-depth knowledge of DeFi application practices and the common pitfalls they succumb to. In other words youâll be taking Software Products from conception to launch, but if youâre not already an advanced DeFi user then you may find the learning curve quite steep. Beware.</div><div><br></div><div>
-<b>You wonât be alone.</b> Youâll be brainstorming blockchain possibilities in a team with <a href="http://linkedin.com/in/lawrencelaw/" class="postings-link" rel="noopener noreferrer nofollow">Lawrence</a> & <a href="https://nz.linkedin.com/in/alnech19" class="postings-link" rel="noopener noreferrer nofollow">Alex</a>, as well as the Acala founders and our Engineering Team of 20+. But you'll need to balance data-driven decisions with the technical demands of an Engineering liaison, while keeping an eye on ever-changing User Experience requirements and igniting ad-hoc UX projects as you see fit.</div><div><br></div><div>
-<b>Our ideal candidate</b> will be an advanced DeFi user and an experienced web-based Product Manager who has already spent some time working on blockchain applications, whether commercially successful or not. At minimum we need a code-fluent Product Manager with a mature interest in decentralised applications and the general concept behind blockchain applications.</div><div><br></div><div><b>Full Time | Contract | Competitive Salary | Remote APAC</b></div><p></p><h4>What you'll do</h4><p></p><p></p><li>
-<b>Roadmap; </b>define & own Product goals with Acalaâs founders</li><li>
-<b>User Research; </b>design & execute with our User Ops team</li><li>
-<b>Software Requirements;</b> from tech specs to test cases</li><li>
-<b>Dev Liaison</b>; steer workflows & wireframes with our Engineering team</li><li>
-<b>Launch plans;</b> co-ordinate with our Community & Growth team</li><li>
-<b>UI Enhancements; </b>workshops with our Design Team</li><li>
-<b>External</b>; Occasional ad-hoc projects with other ecosystem teams</li><p></p><h4>What it takes</h4><p></p><p></p><li>Commercial Software Product Management experience, 3 years minimum</li><li>Passion for working with innovative Software Developers [<i>&lt;-- 50% of the job</i>]</li><li>Expert level knowledge of DeFi use cases, DAOs, LP/MM dynamics, etc</li><li>A Demonstrable methodology for increasing efficiency across teams</li><li>Software Engineering background beneficial; you will regularly evaluate the technological strengths and weakness of 3rd party solutions</li><li>Alignment with our core values: Empowerment, Support & Community </li><p></p><h4>What we offer</h4><p></p><p></p><li>Competitive contract-based compensation (you'll have to invoice us from wherever you are)</li><li>Flexible working hours within Pacific timezones</li><li>Collaborative, transparent and empowering work culture</li><li>Meaningful work on creating better technologies for a fairer future</li><li>Opportunity to work in a multinational, high-performance team with diverse backgrounds</li><div>
-<b>NB:</b> For the <i>fastest</i> response to any of our positions, apply directly on our website: <a href="http://acala.network/jobs" class="postings-link" rel="noopener noreferrer nofollow">acala.network/jobs</a>. For more information on this position, our employment conditions, or anything related to working for Acala, get in touch with our Talent Manager: simon@acala.network</div><div><br></div><div><br></div><div><b style="font-size:18px;">Our Team</b></div><div>With approximately 50 full-time team members working across 8 different countries, our team is truly decentralised. Weâre some of the leading blockchain innovators, Substrate & Rust engineers, full-stack dApp developers, & Economist Analysts. But we're just people like you, working from our shared desire for a fairer and more inclusive financial system, in direct contrast to the clear shortcomings of the current institutions that run our world.</div><div><br></div><div><b style="font-size:18px;">Our Values</b></div><div>The community weâre building is shaped by our values and fuelled by the needs of all humans:</div><div>- Inclusion, Care, Trust, and Respect</div><div>- Empowerment</div><div>- Guidance and Support</div><div>- Friendship, Community, Real Relationships </div><div><br></div><div>Weâre building Acala based on a core set of values we believe are in line with the tenets of web3:</div><div>- True decentralisation</div><div>- Less Trust, More Truth</div><div>- Integrity</div><div>- Accountability</div><div>- Empowering individuals with more autonomy </div><div><br></div><div><b style="font-size:18px;">What We Have Achieved</b></div><div>Acala was founded in 2019 as an early Web3 Foundation grant recipient, and is an ecosystem and education partner of both the W3F and Polkadot. Throughout 2021 we have proven ourselves to be the DeFi hub(s) of the Polkadot Ecosystem & Community by securing the first crowdloan-funded parachain slots on both the Polkadot & Kusama blockchain networks. But even at this, our true work has only just begun...</div><div><br></div><div><br></div><div>
-<b>NOTE</b>: To all external Recruiters who have 'exciting profiles' to share with us, please do so knowing that without signed terms & conditions Acala deem any introductions made to be a complimentary courtesy to the development of the world's Web3 infrastructure. Thank you for your support.</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/jpF7ncfnmxM" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **GLORIOUSLY** and tag RMy4yMzYuMTgwLjEwMQ== when applying to show you read the job post completely (#RMy4yMzYuMTgwLjEwMQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1095/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -48,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/lofty-product-manager" align="right" target="_blank">Apply</a>
@@ -126,7 +88,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/airdev-no-code-product-manager-independent-contractor-multiple-seniority-levels" align="right" target="_blank">Apply</a>
@@ -183,7 +145,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/learning-tapestry-product-manager-web" align="right" target="_blank">Apply</a>
@@ -240,7 +202,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-product-manager-3" align="right" target="_blank">Apply</a>
@@ -310,6 +272,72 @@
 </div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-product-manager-3">https://weworkremotely.com/remote-jobs/testgorilla-senior-product-manager-3</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>A.Team</h5>
+                    <h3> Senior Independent Product Manager/Product Designer ($110-$190/hr)</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>390 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4151/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> NYC, SF, and TLV
+    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
+</p>
+
+<div>
+<a href="https://build.a.team/wwrproductmgrfasttrack">A·Team</a> is a VC-backed, stealth, application-only home on the internet for Senior Product Managers &amp; Product Designers (along with developers &amp; UX/UI folks) to team up with the best companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
+<li>
+<strong>High-paying, meaningful client missions (where you'd lead Product) with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li>
+<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li>
+<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li>
+<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li>
+<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul><div>
+<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrproductmgrfasttrack">https://build.a.team/wwrproductmgrfasttrack</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
+</div><ul>
+<li>Once part of A.Team, you’ll regularly be invited to be the lead Product manager/designer for impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old-school non-tech incumbents looking to build as a tech giant would.</li>
+<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
+<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is for:</strong>
+</div><ul>
+<li>Senior Product Managers/Designers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
+<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
+<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
+</div><ul>
+<li>People looking for small gigs.</li>
+<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
+<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
+</ul><div>
+<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrproductmgrfasttrack"><span>A·Team</span></a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
+<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
                 </details>
                 </td>
