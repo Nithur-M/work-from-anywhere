@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/whitespectre-ui-ux-designer-1" align="right" target="_blank">Apply</a>
@@ -27,7 +27,10 @@
 </p>
 
 <div>We’re seeking a talented, creative, and dedicated UI/UX Designer to join our team. In this role, you’ll create impactful and engaging experiences for both our clients as well as Whitespectre’s own software products. You’ll collaborate with engineering, product management, and stakeholders to solve interesting product challenges and deliver features that provide a great user experience and drive significant business value and insight.<br><br>
-</div><div>This role sits within the product design team and reports directly to the head of UI/UX. <strong>Please provide a link to your current portfolio.</strong> Candidates without portfolios will not be considered.<br><br>
+</div><div>This role sits within the product design team and reports directly to the head of UI/UX. <strong>Please, note that this is NOT a freelance/project based opportunity, it’s a long-term, full-time role.</strong>
+</div><div><br></div><div>
+<strong>Please provide a link to your current portfolio</strong>. Candidates without portfolios will not be considered.</div><div>
+<br><br>
 </div><div>
 <a href="http://www.whitespectre.com/"><strong>Whitespectre</strong></a> is a product development company that creates high-performing platforms and apps, both for our long-term client partners and our own products. Founded in 2013, we partner with both large established companies and high-growth start-ups in the US and Europe. We're a close-knit team of 70 smart and diverse architects, engineers, product managers and designers, working together remotely and growing! Only candidates from outside of the US will be considered for this role.<br><br>
 </div><div>
@@ -41,6 +44,7 @@
 <li>Confidently present your ideas and recommendations to internal stakeholders and clients.</li>
 </ul><div><br></div><div><strong>The ‘check the box’ requirements:</strong></div><ul>
 <li>3+ years experience in UI/UX design, including responsive sites and applications and native mobile applications (iOS, Android, React Native).</li>
+<li>Experience working as UI/UX designer within an international company and team, on a full-time and long-term basis, interacting with developers, product managers and stakeholders.</li>
 <li>Experience working across the entire product lifecycle, from research and prototyping, to launch, to ongoing feedback and iteration cycles.</li>
 <li>A robust portfolio of past projects and live examples.</li>
 <li>Strong visual design skills that demonstrate excellence in the core principles of typography, layout, color etc. A design aesthetic that demonstrates a strong foundation in the core visual design principles (typography, layout, color, etc.).</li>
@@ -96,7 +100,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>390 days ago</text>
+                <text>391 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -162,7 +166,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
