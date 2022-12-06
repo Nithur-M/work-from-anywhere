@@ -10,7 +10,7 @@
                     <code>c#,software,code,cryptocurrency,architect,financial,fintech,senior,engineer,engineering,backend</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-c-backend-software-engineer-code-reviewer-alphapoint-158895" align="right" target="_blank">Apply</a>
@@ -45,7 +45,7 @@
 <li>$100 of the Cryptocurrency of your choice upon signing</li>
 <li>Company paid Co-Working benefits</li>
 <li>$2500/year for learning and development</li>
-</ul><p style="line-height:1.38;"> </p><p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ECONOMICAL** and tag RNTQuMjExLjEyOC4yMTU= when applying to show you read the job post completely (#RNTQuMjExLjEyOC4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p style="line-height:1.38;"> </p><p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ECONOMICAL** and tag RNTQuMjI0LjEzNi40 when applying to show you read the job post completely (#RNTQuMjI0LjEzNi40). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -60,7 +60,7 @@
                     <code>design,web3,crypto,ethereum,technical,testing,code,financial,management,lead,senior,engineer,backend,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-coinshift-158389" align="right" target="_blank">Apply</a>
@@ -77,7 +77,7 @@
 <b>-Navigating ambiguity in design:</b> You can translate high level designs into production-ready systems. Given clear requirements, you are comfortable making judgments and tradeoffs in the user experience on your own.</div><div>
 <b>-Put users first:</b> You think critically about the implications of what you're building, and how it impacts real people's lives.</div><div>
 <b>-Empathetic communication:</b> You communicate ideas clearly in plain english. In disagreements, you listen to other perspectives and compromise when needed.</div><div>
-<b>-Team player:</b> You enjoy collaborating cross-functionally to accomplish shared goals, and you care about learning, growing, and helping others to do the same.</div><div><br></div><div><b>Nice to Haves:</b></div><div><br></div><div>-You're proficient with technologies that are part of our stack, including Express, Datadog.</div><div>-You participate in open source projects and web3 hackathons, or write about web3 technology.</div><div>-You have experience in backend integration testing and in debugging performance issues.</div><div>We are committed to fostering diversity and inclusiveness within our organization, and we strongly encourage candidates of all backgrounds to apply, even if they donât match all the above criteria.</div><div><br></div><div>If you are hired, you will have the option of fiat/USDC payments made monthly</div><div><br></div><div>We look forward to your application!</div><br/><br/>Please mention the word **CORRECT** and tag RNTQuMjExLjEyOC4yMTU= when applying to show you read the job post completely (#RNTQuMjExLjEyOC4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<b>-Team player:</b> You enjoy collaborating cross-functionally to accomplish shared goals, and you care about learning, growing, and helping others to do the same.</div><div><br></div><div><b>Nice to Haves:</b></div><div><br></div><div>-You're proficient with technologies that are part of our stack, including Express, Datadog.</div><div>-You participate in open source projects and web3 hackathons, or write about web3 technology.</div><div>-You have experience in backend integration testing and in debugging performance issues.</div><div>We are committed to fostering diversity and inclusiveness within our organization, and we strongly encourage candidates of all backgrounds to apply, even if they donât match all the above criteria.</div><div><br></div><div>If you are hired, you will have the option of fiat/USDC payments made monthly</div><div><br></div><div>We look forward to your application!</div><br/><br/>Please mention the word **CORRECT** and tag RNTQuMjI0LjEzNi40 when applying to show you read the job post completely (#RNTQuMjI0LjEzNi40). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -92,7 +92,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer" align="right" target="_blank">Apply</a>
@@ -158,7 +158,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mindsdb-backend-engineer" align="right" target="_blank">Apply</a>
@@ -247,7 +247,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
@@ -321,6 +321,30 @@
 <p> </p>
 <p><em>Our application process was designed to promote equitable and unbiased hiring practices. We ask a small series of questions that are similar to what would be asked in the first interview. This helps us learn more about you right from the start so please be sure to answer each question thoughtfully. Each application will receive two screens by two different reviewers. Regardless of fit, you will hear back from us letting you know if we'll be moving forward. </em></p>
 <img src="https://remotive.com/job/track/1368332/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1445184469132926979/udMW3mSs_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Slab</h5>
+                    <h3>Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://jobs.lever.co/slab/e97d694f-2ef9-47e7-8599-c6e624e4d084" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="section page-centered"><div><b style="font-size: 18px">About: </b></div><div><br></div><div>At&nbsp;<a href="https://slab.com/" class="postings-link">Slab</a>, we believe that knowledge is the foundation of any organization's success. When a team's collective knowledge is accessible, that team's potential is limitless. That's why we're making the workplace a source of learning and purpose through knowledge-sharing. Our product helps teams easily create, organize, and discover knowledge across the entire company, from non-technical to tech-savvy. Thousands of customers rely on Slab across their entire workforces, including Asana, Benchling, and Fivetran.</div><div><br></div><div>As a small product-focused company, you'll join a team of experienced engineers, working on shipping features that delight users, fixing issues that get in their way while keeping our codebase, infrastructure, and tooling modern and well-maintained. We are globally distributed, with processes that minimize meetings and overhead, letting makers build on the maker's schedule.</div></div><div class="section page-centered"><div><h3>Technologies we use:</h3><ul class="posting-requirements plain-list"><ul><li>React + TypeScript + Sass</li><li>GraphQL + Apollo + Absinthe</li><li>Elixir + Phoenix</li><li>Postgres + Redis</li><li>Docker + Kubernetes</li><li>Google Cloud Platform </li></ul></ul></div></div><div class="section page-centered"><div><h3>Sound like you? </h3><ul class="posting-requirements plain-list"><ul><li>You have a strong technical background, with experience solving complex problems within a software development team</li><li>You love delighting users with great product experiences and resolving issues that get in their way</li><li>You're curious to learn and demonstrate the ability to do so very quickly</li><li>You communicate with clearly and concisely, whether with teammates or users</li><li>You are self-motivated and possess a strong work ethic</li><li>You are passionate about knowledge-sharing and identify with Slab's mission and values</li></ul></ul></div></div><div class="section page-centered"><div><h3>What we value:</h3><ul class="posting-requirements plain-list"><ul><li><b>Stay lean</b>&nbsp;- We strive for the greatest possible impact with the fewest number of employees. We empower our teammates with the most leveraged tools and efficient processes.</li><li><b>Default to open</b>&nbsp;- We encourage and nurture open exchanges of knowledge and ideas — while acting with respect and regard for each other.</li><li><b>Think rigorously</b>&nbsp;- We act and execute after careful thought and examination of known information, while acknowledging the risks we accept in its absence.</li><li><b>Say no</b>&nbsp;- We aim to deliver exceptionally high value in a small set of focus areas. We willingly abstain from good ideas to give only the most promising paths the attention they deserve.</li><li><b>The best prevails</b>&nbsp;- Whether an idea or an individual, the best will rise to the top at Slab. Ideas we pursue can come from anywhere, and individuals gain responsibilities due to outperformance.</li><li><b>Global optimization</b>&nbsp;- We believe that our mission — to make the workplace a source of learning and purpose — is the ultimate priority, above any single project, team, or individual.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits:</h3><ul class="posting-requirements plain-list"><ul><li>Full health insurance (USA) or stipend (International)</li><li>Wellness &amp; remote work stipends</li><li>$5k workspace setup, renewed biannually</li><li>7-year options exercise window</li></ul></ul></div></div><div class="section page-centered"><div><i>Slab is an equal opportunity employer. We welcome people of diverse backgrounds, experiences, and perspectives.</i></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" href="https://jobs.lever.co/slab/e97d694f-2ef9-47e7-8599-c6e624e4d084/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr></table>
