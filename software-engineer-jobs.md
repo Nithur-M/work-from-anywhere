@@ -1,5 +1,66 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/4c61f19f2bdc8ce17724c96bee8f0b401670224558.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Flashbots</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,crypto,ethereum,c,c++,lead,senior,go,health,engineer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-flashbots-159395" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro">
+<h3>Our Organization</h3>
+<p>Flashbots started in 2020 as a research and development organization formed to mitigate the negative externalities and existential risks posed by Maximal Extractable Value (MEV) to smart-contract blockchains, starting with Ethereum. <br><br>We build decentralized products to maximally decentralize public blockchains and empower users.</p>
+</div><h1>What we're looking for</h1>
+<p>Flashbots is seeking a senior engineer to lead the development of our SGX related products.<br><br>Working closely with <a href="https://twitter.com/bertcmiller" target="_blank" rel="noopener noreferrer nofollow">Robert Miller,</a> your work will bring to life one of our original approaches to democratize MEV as outlined In this Eth Resreach post by Robert in the early days of Flashbots:<br><br><a href="https://ethresear.ch/t/mev-sgx-a-sealed-bid-mev-auction-design/9677" target="_blank" rel="noopener noreferrer nofollow">MEV-SGX: A sealed bid MEV auction design</a><br><br>You will have the opportunity to work on both implementing products and contributing to research efforts with a high degree of autonomy.<br><br></p>
+<h1>Responsibilities</h1>
+<ul>
+<li>Developing a fast EVM environment that can be used within an SGX</li>
+<li>Build and maintain brand new products for Flashbots searchers, miners, and retail users</li>
+<li>Contribute to the roadmap of Flashbots</li>
+<li>Writing examples and documentation for public consumption</li>
+</ul>
+<h1>Qualifications</h1>
+<ul>
+<li>5+ years experience working on production systems</li>
+<li>Experience in C and/or C++ programming languages</li>
+<li>Experience with cryptography</li>
+</ul>
+<h1>Nice-to-haves</h1>
+<ul>
+<li>Experience with devops</li>
+<li>Experience with Solidity</li>
+<li>Experience with at least one of Go or Rust</li>
+<li>Experience with Ethereum or EVM-based chains</li>
+<li>Experience with geth or other Ethereum clients</li>
+<li>Experience with strategies currently used for MEV</li>
+<li>Able to show available open source work</li>
+</ul><div class="content-conclusion">
+<h3>Benefits</h3>
+<p>ð Fully remote with flexible hours in a flat hierarchy</p>
+<p>ð§  Work alongside the brightest minds in the crypto space</p>
+<p>ð¸ Competitive salary + significantly above market rate equity package</p>
+<p>âï¸ Regular team on-sites to locations like Morocco, Amsterdam and Costa Rica<br><br>ð´Unlimited PTO with no approval needed on 3 days or less vacations</p>
+<p>ð Attractive health cover package for US employee</p>
+<p> </p>
+<hr>
+<p>Join us to help solve hard problems that have asymmetric impact and strike at the core of crypto.</p>
+</div><br/><br/>Please mention the word **SOFTER** and tag RNTQuMjI0LjEzNi40 when applying to show you read the job post completely (#RNTQuMjI0LjEzNi40). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/fadcd12e11cd339eb8bd9780b37b25051670138119.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +71,7 @@
                     <code>software,saas,docker,test,code,scrum,fintech,java,legal,engineer,apache</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-java-axoni-158889" align="right" target="_blank">Apply</a>
@@ -44,52 +105,64 @@
 <li>Experience with SaaS </li>
 <li>Capital markets and fintech experience</li>
 <li>Familiarity or interest in learning scala</li>
-</ul><div>Individuals seeking employment at Axoni are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. You are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements.</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/xO7B4WYKVZE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **APPRECIATES** and tag RNTQuMjExLjEyOC4yMTU= when applying to show you read the job post completely (#RNTQuMjExLjEyOC4yMTU=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>Individuals seeking employment at Axoni are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. You are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements.</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/xO7B4WYKVZE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **APPRECIATES** and tag RNTQuMjI0LjEzNi40 when applying to show you read the job post completely (#RNTQuMjI0LjEzNi40). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0984/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1243/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Qumulus Technology Ltd</h5>
-                    <h3> Lead Software Engineer</h3>
+                    <h5>Cloudsmith</h5>
+                    <h3> Senior/Staff+ Software Engineer (Experienced)</h3>
                 </td>
                 <td width="300">
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/qumulus-technology-ltd-lead-software-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/listings/cloudsmith-senior-staff-software-engineer-experienced" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/0984/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0082/1243/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Philippines
-    <br /><strong>URL:</strong> <a href="https://qumulus.io">https://qumulus.io</a>
+  <strong>Headquarters:</strong> Belfast, Northern Ireland, United Kingdom
+    <br /><strong>URL:</strong> <a href="http://www.cloudsmith.com">http://www.cloudsmith.com</a>
 </p>
 
-<p>Qumulus delivers cloud-based brilliance to all kinds of businesses. Launched this year in Manchester, England, the company is dedicated to delivering innovative IT infrastructure and software development services.</p>    <p>We're in the process of building up a highly skilled team, in this phase we're looking for experienced developers who aren't shy to wear multiple hats. Curiosity is a very important trait, interfacing with clients you will be expected to discover the problems that need to be solved.</p>    <p>Once the problem domain is fully understood, you will draw on your own experience and the experience of the group, to first propose, and then implement solutions. This opportunity will provide a maximum impact role, where everything you do will influence an outcome.</p>    <p>We'll look to you to recruit the best multi-disciplinary teams for each project, ensuring the right people and development processes are in place for every sprint phase of the project. </p>
-<p><strong>You'll need at least 3 years' </strong><i>experience in a leadership role, and will be ready to motivate and inspire a globally dispersed team of designers, analysts and project managers.</i></p>
-<p></p>
-<p>Sharing your knowledge and providing expert technical advice and guidance to clients and colleagues alike will drive everything you do, as will your determination to deliver brilliant solutions that put the user experience front and centre.</p>
-<p></p>
-<p>This is a hands-on customer-facing role in which you'll manage an agile team of talented software engineers. You will be also reviewing architecture, code, plans, deployments, and operations all while maintaining software quality. Excellent written and spoken English skills are essential.</p>
-<p></p>
-<p><strong>Your responsibilities will include:</strong></p>
-<ul> <li>Leading the delivery of best-in-class system design, architecture and software solutions</li> <li>Ensuring all output aligns with best practice, coding standards and an architectural approach</li> <li>Establishing and maintaining professional relations with clients and Qumulus teams</li> <li>Mentoring and advising team members while providing technical direction</li> </ul>
+<h3>Build It. Ship It. Own It.</h3>
+<p>Cloudsmith (<a href="https://cloudsmith.com" class="external">https://cloudsmith.com</a>) is a fully managed cloud-based artifact management service. </p> <p>We aim to sit right in the center of every company's critical infrastructure as the single source of truth for all software. Our customers ship faster and wiser while ensuring the safety of their software supply chain, maximizing developer productivity, and protecting their critical systems from outages in public ecosystems. We handle the artifact management, so they don't have to.</p> <p>We are building the world's source of truth for all software that flows between developers, machines, and services, made to be cloud-native from day zero. Our team focuses on delivering simplicity, security by default, and visibility for engineering, operations, and security teams worldwide. We're fully remote, and our crew is distributed globally. </p> <p>We're a startup, and that comes with all of the challenges a typical startup has. Startups are hard work but also unbelievably rewarding and career/life-defining. Not everything about work in a startup fits into a neat box, but we embrace the chaos. We live by thinking fast, acting fast, and sometimes failing fast. Experiment and flow forward.</p> <p>We seek individuals passionate about their craft, ready to help build a globally distributed service. You will have a startup mentality of not shying away from the things that need doing, caring about it deeply, and ensuring we build it, ship it, and own it; while using empathy to share and collaborate with the rest of the team to plan, implement and maintain the product and infrastructure.</p> <p>In short, your most important qualities:</p> <ol> <li>Smart! 💡</li> <li>Gets Things Done! 💥</li> <li>An Awesome Human Being! 😎</li> </ol>
+<h3>How we're built</h3>
+<p>Cloudsmith is built with love 💙 and uses the following technologies:</p>
+<ul> <li>Amazon Web Services (AWS)</li> <li>Linux, Docker, Fargate, Nginx, Haproxy, Lambda</li> <li>Python, Django, TypeScript, Node, TypeScript, Go</li> <li>HTML/CSS, SCSS, React, Bootstrap, Storybook, Webpack</li> <li>PostgreSQL, Aurora, Memcached, Redis, RabbitMQ, Celery</li> <li>Terraform, Secrets Manager, Spacelift (Soon)</li> <li>Kinesis, Analytics/Flink, DBT, EMR/Spark, Superset, Athena</li> <li>DataDog, Sentry, Detectify, CloudWatch</li> <li>GitHub, Slack, Notion, Linear, CircleCI, Zoom</li> <li>Cloudsmith :)</li> </ul>
 <p><strong>Requirements</strong></p>
-<ul> <li>To be first and foremost a brilliant communicator and people motivator</li> <li>The ability to recruit, lead and inspire colleagues working remotely</li> <li>An unmistakable passion and talent for coding</li> <li>A high degree of competency in at least 2 mainstream programming languages / frameworks (and a willingness to adopt more where the solution demands it). </li> <li>A track record of successful problem solving on large scale web projects</li> <li>Experience of designing solutions and establishing architecture principles</li> <li>A constant desire to proactively discover and understand new technologies and the benefits they bring.</li> <li>Extensive experience and knowledge with current DevOps best practices and technologies, CI/CD, IaaC, containerization, Kubernetes, cloud technologies and microservices</li> </ul>
+<h3>What you'll do</h3>
+<p>You'll do a lot of things at Cloudsmith, but most of them will be to:</p>
+<ul> <li>Grow and learn on an egoless team of engineers with diverse skills, providing and receiving guidance and mentorship</li> <li>Collaborate with your peers to design, build and test new features, simplify existing services, and scale our systems</li> <li>Partner closely with cross-functional team members (product managers, designers, and account managers) to learn about our business priorities, explore solutions, weigh in on tradeoffs, and help set the future direction of our product</li> <li>Build, support, ship, maintain and debug services in a complex distributed web-scale system, end-to-end, from source to delivery</li> <li>Use Python, Git, Django, AWS, Docker, Celery, DataDog, HTML/CSS, React/Bootstrap, and PostgreSQL regularly</li> <li>Strive to improve our code, practices, processes, tooling, and docs with a "leave it better than you found it" attitude</li> <li>Participate in an on-call rota and support-based sprints with the rest of the team at your back to help our customers when they need it most</li> <li>Participate in a writing culture of communicating about what we built, how we work, and sometimes, blameless mistakes!</li> </ul>
+<h3>Signs you may be a great fit</h3>
+<p>Some additional qualifications that might be signs you are a Cloudsmither:</p>
+<ul> <li>Strong engineering background with 5-9+ years of professional experience in building, testing, deploying, debugging, and maintaining complex systems in production environments; or equivalent experience in widely used open-source ecosystems and projects</li> <li>You understand the importance of shipping early and often and have demonstrable experience working and delivering iteratively</li> <li>High level of proficiency with programming languages such as Python, TypeScript, Golang, Rust, or similar</li> <li>Experience with working in a fully remote asynchronous environment and thriving!</li> <li>Experience with UNIX-like systems (Linux/WSL/MacOS), especially in production-based environments</li> <li>Experience with container runtimes and orchestration, with working knowledge of CI / CD ecosystems</li> <li>Expertise in cloud-based infrastructure, data structures &amp; algorithms, storage systems, source control, and continuous integration</li> <li>Eagerness to continuously learn the latest technologies and expand your technical capabilities; not afraid to admit what you don't know</li> <li>An enthusiastic and effective communicator (using English): you should be able to appeal to and communicate with both technical and non-technical listeners alike</li> <li>Deeply passionate about your craft: we deeply care that you care</li> </ul>
+<h3>Things that are bonuses</h3>
+<p>We realize that not everyone will have every experience and expertise in every possible thing. Still, if you have any in any one of the following, we'll consider it an excellent bonus point for each (so point it out to us!):</p>
+<ul> <li>Artifact / Package Management</li> <li>Building, Running, Scaling, Enterprise SaaS</li> <li>Significant contributions to open-source projects</li> <li>ReST, GraphQL, gRPC API Design</li> <li>Amazon Web Services (AWS) / AWS Certifications</li> <li>Docker, OCI, ORAS, Kubernetes (k3s, k8s)</li> <li>Sigstore, Cosign, Keyless Signatures, Signature Attestation</li> <li>Grafeas, Kritis, Metadata Provenance</li> <li>Software Bill of Materials, Software Composition Analysis</li> <li>Serverless, Edge Computing, Distributed, Microservices</li> <li>Securing Web Services, Software Vulnerabilities</li> <li>Developer Tooling Ecosystem, CI/CD</li> <li>Prolific Tech Community Speaker</li> </ul>
 <p><strong>Benefits</strong></p>
-<ul> <li>Full-time remote position, work anywhere!</li> <li>Paid on vacation/sick leaves</li> <li>Private healthcare insurance coverage</li> <li>Training &amp; Development</li> <li>Work with a global team and with industry experts</li> </ul>
+<p>You will receive an incredible package of compensation and equity, depending on location and experience, and the following benefits:</p>
+<h3>Health and Wellness</h3>
+<p>Regardless of your location, we deeply care about the health and wellness of our staff and their families; a sustainable pace is important to us. In addition to generous annual leave (PTO), we offer parental leave and benefits that can cover you and your dependents up to 100%. We also offer flexible working policies and hours upon agreement.</p>
+<h3>Personal Growth</h3>
+<p>You will have an enormous scope to learn new skills alongside your colleagues, and your continued professional development is essential to us because it's important to you. We will support you with budgets for equipment, training, books, conferences, travel, and certifications. The more powerful you become, the better for all of us.</p>
+<h3>Fully Remote</h3>
+<p>The right future of all work is remote, and that future is here with  Cloudsmith. Like our product, we're fully distributed and operate  remotely. Although you might be in the same city as some colleagues,  you'll spend most of your time working remotely from a location of your  choice. We're distributed globally but get together a few times  throughout the year for strategy, food, and fun!<br></p>
+<h3>Incredible Opportunity</h3>
+<p>At Cloudsmith, you will have an incredible opportunity for a broad and deep impact across the company. We're building toward a technological IPO (taking the company public), and as an early Cloudsmither (staffer), you will be on the journey to help take us there. Your career will be on a rocket ship, and you'll join us in the reward of getting there. Be excited!</p>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/qumulus-technology-ltd-lead-software-engineer">https://weworkremotely.com/remote-jobs/qumulus-technology-ltd-lead-software-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/cloudsmith-senior-staff-software-engineer-experienced">https://weworkremotely.com/remote-jobs/cloudsmith-senior-staff-software-engineer-experienced</a></p>
 
                 </details>
                 </td>
@@ -105,7 +178,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller-1" align="right" target="_blank">Apply</a>
@@ -121,7 +194,7 @@
     <br /><strong>URL:</strong> <a href="http://tillerhq.com">http://tillerhq.com</a>
 </p>
 
-<div>Working at Tiller Video - <a href="https://www.youtube.com/watch?v=bnYSGJiznv0">Click here</a><br><br>We are looking for a Senior Software Engineer with considerable operations engineering experience to accelerate our team’s adoption of best practices while contributing to product development as a key member of our cross-functional engineering team. Your perspective and track record of implementing modern, state-of-the-art site reliability engineering, CI/CD automation, and service architecture automation will be a force multiplier to our growing team of talented engineers. </div><div><br></div><div>You’ll take ownership of critical DevOps and Site Reliability Engineering projects and provide related mentorship, guidance, and domain expertise to your peers, delivering a reliable service  that will delight our customers now and as we continue to scale. You should have a deep understanding of distributed application service concepts, a propensity for figuring stuff out, and some additional depth in either back-end development, front-end development, or QA automation. You were born a problem solver and love finding efficient and durable ways to solve difficult problems.</div><div><br></div><div><strong>What You’ll Do</strong></div><ul>
+<div>Why join the Tiller team? <a href="https://www.youtube.com/watch?v=bnYSGJiznv0">Watch here!</a><br><br>Tiller (tillerhq.com) is a nimble, distributed company transforming the way people handle their finances. We make it easy to track spending and manage money in a spreadsheet with daily bank feeds and helpful templates. We’re passionate about empowering people with their financial data in a flexible, private, and customizable format so they can take control of their future. <br><br>We are looking for a Senior Software Engineer with considerable operations engineering experience to accelerate our team’s adoption of best practices while contributing to product development as a key member of our cross-functional engineering team. Your perspective and track record of implementing modern, state-of-the-art site reliability engineering, CI/CD automation, and service architecture automation will be a force multiplier to our growing team of talented engineers. </div><div><br></div><div>You’ll take ownership of critical DevOps and Site Reliability Engineering projects and provide related mentorship, guidance, and domain expertise to your peers, delivering a reliable service  that will delight our customers now and as we continue to scale. You should have a deep understanding of distributed application service concepts, a propensity for figuring stuff out, and some additional depth in either back-end development, front-end development, or QA automation. You were born a problem solver and love finding efficient and durable ways to solve difficult problems.</div><div><br></div><div><strong>What You’ll Do</strong></div><ul>
 <li>Build secure solutions that honor the trust customers are placing in our service</li>
 <li>Lead the development of operations engineering practices, including collaborating across the organization on capacity planning, service level objectives, error budgets and incident response outcomes</li>
 <li>Collaborate with the rest of the team on a broad range of infrastructure and product development work</li>
@@ -169,7 +242,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote" align="right" target="_blank">Apply</a>
@@ -251,7 +324,7 @@
                     <code>crypto,golang,security,design</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1512583" align="right" target="_blank">Apply</a>
@@ -285,136 +358,6 @@
 <div class="h2">Sounds good, what now?</div>
 <ol><li>You send us your application</li><li><strong>Screening Interview</strong> with one of our team members (30 min)</li><li>Take home <strong>coding challenge</strong> (max. 5 days)</li><li>Interview Day<ol><li><strong>Challenge Recap</strong> &amp; <strong>Top grading interview</strong> with the CTO / Head of Engineering (60-90 min)</li><li><strong>Focused peer interviews</strong> (3 x 30 min)</li></ol></li><li>You give us three contacts as a <strong>reference</strong> that we will reach out to</li><li>You will receive our <strong>offer</strong></li><li><strong>Congratulations</strong>, you're part of the Staking Rewards team! </li></ol>
 <img src="https://remotive.com/job/track/1512583/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Iterative</h5>
-                    <h3>Senior Software Engineer - Front-end, Typescript</h3>
-                </td>
-                <td width="300">
-                    <code>backend,git,machine learning,python</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>The ML tools ecosystem is what JS space was 10 years ago: there’s a clear need for better tools, frameworks, and open standards. <span class="notion-enable-hover" style="font-style: italic;">ITERATIVE</span> is already a well known company in this fast-evolving space with a big, engaged open-source community. Please consider joining our <span class="notion-enable-hover" style="font-style: italic;">remote-first team</span> if you love open-source, if you’re interested in building dev tools and simplifying the lives of many, many developers in ML.</p>
-<p><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;"><br class="Apple-interchange-newline">Job Description</span></p>
-<p>We’re seeking<span class="notion-enable-hover" style="font-weight: 600;"> </span><span class="notion-enable-hover">TypeScript front-end engineers to build our</span><span class="notion-enable-hover"> <a href="https://studio.iterative.ai/" rel="nofollow" style="font-weight: 600;">SaaS product</a> and a</span><span class="notion-enable-hover" style="font-weight: 600;"> VS Code UI</span> (to be open sourced soon!) for our popular machine learning tools: <a class="notion-link-token notion-enable-hover" href="http://dvc.org/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--1168671846" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">DVC</span></a> (9k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span>on GitHub) and <a class="notion-link-token notion-enable-hover" href="http://cml.dev/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--2051758088" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">CML</span></a> (3k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span> on GitHub).</p>
-<p><span style="color: var(--remotive-chocolate);">If you have experience with dev tools like GitHub, UI plugins for Git, etc., you should have some sense what the project is like (if not, check our <a href="https://iterative.ai/" rel="nofollow">site</a>).</span></p>
-<p> </p>
-<p class="h3">Tech Stack</p>
-<ul>
-<li>TypeScript</li>
-</ul>
-<ul>
-<li>Node</li>
-</ul>
-<ul>
-<li>React</li>
-</ul>
-<ul>
-<li>Python (on the backend)</li>
-</ul>
-<p> </p>
-<p class="h3">Must have</p>
-<ul>
-<li>Strong TS/JS/Node experience (5+ years)</li>
-</ul>
-<ul>
-<li>Excellent communication skills and a positive mindset 🤗</li>
-</ul>
-<ul>
-<li>Initiative to help shape the engineering practices, products, and culture of a young startup</li>
-</ul>
-<p><br><br></p>
-<p class="h3">Nice to have</p>
-<ul>
-<li>Python or open source experience - good to have</li>
-</ul>
-<ul>
-<li>Some domain knowledge (DS/ML understanding) - an advantage</li>
-</ul>
-<p> </p>
-<img src="https://remotive.com/job/track/1187421/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1187416/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Iterative</h5>
-                    <h3>Senior Software Engineer  - DevTools, Open Source, Python</h3>
-                </td>
-                <td width="300">
-                    <code>data science,machine learning,python,open source</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Job Description</strong></p>
-<p>Strong Python knowledge and excellent coding culture (standards, unit test, etc) are required. Alternatively, strong skill in other languages along with some knowledge of Python is also acceptable.</p>
-<p><br><br></p>
-<div class="h3">Responsibilities</div>
-<ul>
-<li>Discuss and research issues, features, new products.</li>
-</ul>
-<ul>
-<li>Write code (see some <a class="postings-link" href="https://github.com/iterative/dvc/pulls?q=is%3Apr+is%3Aclosed" rel="nofollow"><strong>PR examples</strong></a>).</li>
-</ul>
-<ul>
-<li>Write docs if needed for your code (see this <a class="postings-link" href="https://github.com/iterative/dvc.org" rel="nofollow"><strong>repo</strong></a>).</li>
-</ul>
-<ul>
-<li>Being actively involved with the community - talk to users on Github, Discord, forum.</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Must have</div>
-<ul>
-<li>Motivation and interest</li>
-</ul>
-<ul>
-<li>Remote work self-discipline</li>
-</ul>
-<ul>
-<li>Excellent communication skills - clear, constructive, and respectful dialog with other team members, community.</li>
-</ul>
-<ul>
-<li>Can focus and deliver a task w/o constantly switching to other stuff - respect team's planning, deadlines, etc</li>
-</ul>
-<p><br><br></p>
-<div class="h3">Great to have</div>
-<ul>
-<li>Experience working remotely</li>
-</ul>
-<ul>
-<li>Open source contributions or experience of maintaining, developing an open source project</li>
-</ul>
-<ul>
-<li>System programming experience - kernel, databases, etc.</li>
-</ul>
-<ul>
-<li>Machine learning or data science experience</li>
-</ul>
-<img src="https://remotive.com/job/track/1187416/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
