@@ -10,7 +10,7 @@
                     <code>software,crypto,ethereum,c,c++,lead,senior,go,health,engineer</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-flashbots-159395" align="right" target="_blank">Apply</a>
@@ -56,7 +56,7 @@
 <p> </p>
 <hr>
 <p>Join us to help solve hard problems that have asymmetric impact and strike at the core of crypto.</p>
-</div><br/><br/>Please mention the word **SOFTER** and tag RNTQuMjI0LjEzNi40 when applying to show you read the job post completely (#RNTQuMjI0LjEzNi40). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **SOFTER** and tag RMy44OC4xMDIuNjI= when applying to show you read the job post completely (#RMy44OC4xMDIuNjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -71,7 +71,7 @@
                     <code>software,saas,docker,test,code,scrum,fintech,java,legal,engineer,apache</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-java-axoni-158889" align="right" target="_blank">Apply</a>
@@ -105,7 +105,7 @@
 <li>Experience with SaaS </li>
 <li>Capital markets and fintech experience</li>
 <li>Familiarity or interest in learning scala</li>
-</ul><div>Individuals seeking employment at Axoni are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. You are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements.</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/xO7B4WYKVZE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **APPRECIATES** and tag RNTQuMjI0LjEzNi40 when applying to show you read the job post completely (#RNTQuMjI0LjEzNi40). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>Individuals seeking employment at Axoni are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. You are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements.</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/xO7B4WYKVZE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **APPRECIATES** and tag RMy44OC4xMDIuNjI= when applying to show you read the job post completely (#RMy44OC4xMDIuNjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -120,7 +120,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/cloudsmith-senior-staff-software-engineer-experienced" align="right" target="_blank">Apply</a>
@@ -168,70 +168,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3712/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Tiller</h5>
-                    <h3> Senior Software Engineer (Ops Focus) at Tiller</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>33 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0071/3712/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Seattle, WA, USA
-    <br /><strong>URL:</strong> <a href="http://tillerhq.com">http://tillerhq.com</a>
-</p>
-
-<div>Why join the Tiller team? <a href="https://www.youtube.com/watch?v=bnYSGJiznv0">Watch here!</a><br><br>Tiller (tillerhq.com) is a nimble, distributed company transforming the way people handle their finances. We make it easy to track spending and manage money in a spreadsheet with daily bank feeds and helpful templates. We’re passionate about empowering people with their financial data in a flexible, private, and customizable format so they can take control of their future. <br><br>We are looking for a Senior Software Engineer with considerable operations engineering experience to accelerate our team’s adoption of best practices while contributing to product development as a key member of our cross-functional engineering team. Your perspective and track record of implementing modern, state-of-the-art site reliability engineering, CI/CD automation, and service architecture automation will be a force multiplier to our growing team of talented engineers. </div><div><br></div><div>You’ll take ownership of critical DevOps and Site Reliability Engineering projects and provide related mentorship, guidance, and domain expertise to your peers, delivering a reliable service  that will delight our customers now and as we continue to scale. You should have a deep understanding of distributed application service concepts, a propensity for figuring stuff out, and some additional depth in either back-end development, front-end development, or QA automation. You were born a problem solver and love finding efficient and durable ways to solve difficult problems.</div><div><br></div><div><strong>What You’ll Do</strong></div><ul>
-<li>Build secure solutions that honor the trust customers are placing in our service</li>
-<li>Lead the development of operations engineering practices, including collaborating across the organization on capacity planning, service level objectives, error budgets and incident response outcomes</li>
-<li>Collaborate with the rest of the team on a broad range of infrastructure and product development work</li>
-<li>Evangelize the benefits of modern SRE and DevOps practices across the organization</li>
-<li>Highlight and celebrate wins, as well as blamelessly assess failures from current and future attempts at implementing best practices such as CI/CD, observability, alerting and monitoring</li>
-<li>Tenaciously dive into complex infrastructure as well as application code, figure it out, and improve or update it</li>
-<li>Relentlessly share information, always leaving better code, practices, and documentation so it’s easier for others to understand your reasoning and follow your tracks</li>
-<li>Be curious - troubleshoot operational issues when a customer is experiencing a quirky condition or when you or your teammates notice something isn’t quite right</li>
-</ul><div>
-<br><br>
-</div><div><strong>Helpful For Success</strong></div><ul>
-<li>Significant experience as an SRE or DevOps practitioner - you have experience building, operating, and troubleshooting complex applications using cloud infrastructure</li>
-<li>Ideal candidates will have specific experience with Google Cloud Platform</li>
-<li>Some experience with a good cross-section of our tech stack, including Google Cloud Platform, GitHub, Node.js, MongoDB, TypeScript, React, Google Apps Script/Editor Add-ons APIs and ecosystem, and Microsoft Office Add-ins APIs and ecosystem</li>
-<li>Experience maintaining and refactoring legacy applications</li>
-</ul><div><br></div><div><strong>Why Tiller</strong></div><ul>
-<li>We’re small and growing, so you’ll have tremendous agency and outsized impact on our developing culture, the Tiller service, and the success of our customers</li>
-<li>You’ll be surrounded by awesome, supportive colleagues who know how to have fun together</li>
-<li>We’ve been fully remote from day one; work from anywhere</li>
-<li>You’ll have an opportunity to explore a broad range of development and operations tools, technologies, and practices; you won’t be siloed or pigeon-holed</li>
-<li>You’ll have ongoing and repeated opportunities to pull up a seat at a lot of tables and wear multiple ‘hats’, depending on where your interests and capabilities lie; we have growth needs well beyond software development, and you’ll be close to them all, including IT, security, ops, customer support, product management, marketing </li>
-<li>We’re pioneers in Open Banking, a world-wide security and privacy initiative that gives customers more control over what financial institution information they share, and with whom</li>
-<li>Our customers tend to stick around - we have one of the highest customer retention rates among consumer fintech services</li>
-<li>Our team also sticks around, and we have uniquely high retention</li>
-<li>You will be eligible for stock options and equity ownership</li>
-<li>We provide health care coverage</li>
-</ul><div><br></div><div><strong>Our Values</strong></div><div><br></div><div>
-<strong>How we work together: </strong>Tiller is intent on making this a great place to work for our entire team. A place where our team can do their best work, and an environment that supports their full lives, from kids to aging parents, from nieces and nephews and their larger community. </div><div><br></div><div>To do this, four values that guide our work are empowerment, trust, engagement, and optimism. </div><div><br></div><div>We <strong>empower</strong> each other to do our best work. We value good judgment over rules; proactive decisions over approvals. We take ownership in our own productivity, knowing we’re all critical in the success of Tiller. We communicate openly, follow-through, and ask questions. </div><div><br></div><div>We depend on <strong>trust</strong> rather than oversight as a team. We rely on each other to make decisions in the interest of Tiller and our customers. We demonstrate positive intent so that others may presume positive intent. </div><div><br></div><div>
-<strong>Engagement</strong> is the glue that holds us together. We know that communication across the wire is harder than in person, so we take risks in sharing more of ourselves with each other online. We enjoy a good laugh together. We also speak up and raise hard questions with each other. </div><div>
-<br>As a team, we’re also <strong>optimistic</strong>. Despite what sometimes feels like a crushing backlog, a long list of ways we can deliver value to our customers, and a keen awareness of our shortcomings, we keep our focus on a future that is bright.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller-1">https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9182/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -242,7 +178,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote" align="right" target="_blank">Apply</a>
@@ -314,50 +250,132 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1512583/logo" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Staking Rewards</h5>
-                    <h3>Senior Software Engineer</h3>
+                    <h5>Iterative</h5>
+                    <h3>Senior Software Engineer - Front-end, Typescript</h3>
                 </td>
                 <td width="300">
-                    <code>crypto,golang,security,design</code>
+                    <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-1512583" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="h2">If you haven't heard of us</div>
-<p>Staking Rewards is on a mission. Agency is the strategy, passive income from Crypto is one of our tactics in this strategy. We're building tools, platforms and products to help you, ourselves and others to achieve an impactful level of control over their income and help to improve the quality of their investment decisions.</p>
-<p>We serve different kinds of stakeholders, investors, analysts and crypto community members worldwide. The narrative we're always pushing is Agency. We want you to be in control. ​​This is why we're on a mission to increase transparency, reduce entry barriers and enable everyone to become financially independent. We make staking easy &amp; accessible.</p>
-<p>Let's cut to the chase, Staking Rewards is a close-knit team, 20 some members all working remotely, all over the world. Working here means you pick your own timezone, you pick your own vacation days, have as many of them as you see fit, get compensated well, feel comfortable saying “No” and engage in intelligent dialogues with curious people. The only thing we ask in return is to bring your A-game. Get the job done, with a positive intent and a positive attitude. </p>
-<p></p>
-<div class="h2">The person we're looking to work with</div>
-<p>An Engineer that values quality over quantity. Has a deep understanding of software design and how to apply design principles on different types of problems. Some call them well-rounded Engineers or 10x Engineers, we simply call them good Engineers. </p>
-<p>Good Engineers can learn and adapt. They are creative and curious at all times. </p>
-<p>This is what we're looking for.</p>
-<p>You will work with familiar technologies, but you will also be expected to work with unfamiliar technologies, you will learn on the job, you will challenge yourself and the status quo. Most importantly, you will be proud of your work. </p>
-<p>Nevertheless, we expect you have gained a good chuck of experience, about 7-10 years, with different environments in your senior career so far and optimally worked in a Golang environment last so you can bring your A-game from day one.</p>
-<p></p>
-<div class="h2">Engineering at Staking Rewards</div>
-<p>In two words, it's comfortable chaos. Our systems are constantly changing, evolving and adapting as the business alongside the crypto market does. Engineering in our environment means constantly facing challenges and being resourceful in our solutions. </p>
-<p>We work the problem. An Engineer at Staking Rewards is expected to inquire, communicate expectations and be open to unusual solutions. Our strength comes from our ability to deliver strong, high quality solutions in an ever changing business environment. </p>
-<p>We keep our feedback loops short and always aim to find the best possible solution together as one Engineering team.</p>
-<p></p>
-<div class="h2">Where do you fit in there?</div>
-<p>You become one of the heroes in this saga. An Engineer capable of working on different challenges and storylines.</p>
-<p>Some of these challenges we'd like you to focus on are:</p>
-<ul><li>Building high performing data services</li><li>Be responsible for happy life - build your own internal tooling</li><li>Maintain the platform on GCP</li><li>Bringing a strong defensive security mindset to our code and technical practices</li><li>Building for others: other developers on the team, for stakeholders and our users</li><li>Own the full vertical: shape, build, ship, monitor</li></ul>
-<p></p>
-<div class="h2">Sounds good, what now?</div>
-<ol><li>You send us your application</li><li><strong>Screening Interview</strong> with one of our team members (30 min)</li><li>Take home <strong>coding challenge</strong> (max. 5 days)</li><li>Interview Day<ol><li><strong>Challenge Recap</strong> &amp; <strong>Top grading interview</strong> with the CTO / Head of Engineering (60-90 min)</li><li><strong>Focused peer interviews</strong> (3 x 30 min)</li></ol></li><li>You give us three contacts as a <strong>reference</strong> that we will reach out to</li><li>You will receive our <strong>offer</strong></li><li><strong>Congratulations</strong>, you're part of the Staking Rewards team! </li></ol>
-<img src="https://remotive.com/job/track/1512583/blank.gif?source=public_api" alt=""/>
+                <p>The ML tools ecosystem is what JS space was 10 years ago: there’s a clear need for better tools, frameworks, and open standards. <span class="notion-enable-hover" style="font-style: italic;">ITERATIVE</span> is already a well known company in this fast-evolving space with a big, engaged open-source community. Please consider joining our <span class="notion-enable-hover" style="font-style: italic;">remote-first team</span> if you love open-source, if you’re interested in building dev tools and simplifying the lives of many, many developers in ML.</p>
+<p><span style="font-weight: 600; color: #000000; letter-spacing: 0.75px;"><br class="Apple-interchange-newline">Job Description</span></p>
+<p>We’re seeking<span class="notion-enable-hover" style="font-weight: 600;"> </span><span class="notion-enable-hover">TypeScript front-end engineers to build our</span><span class="notion-enable-hover"> <a href="https://studio.iterative.ai/" rel="nofollow" style="font-weight: 600;">SaaS product</a> and a</span><span class="notion-enable-hover" style="font-weight: 600;"> VS Code UI</span> (to be open sourced soon!) for our popular machine learning tools: <a class="notion-link-token notion-enable-hover" href="http://dvc.org/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--1168671846" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">DVC</span></a> (9k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span>on GitHub) and <a class="notion-link-token notion-enable-hover" href="http://cml.dev/" rel="nofollow" style="cursor: pointer; overflow-wrap: break-word;" target="_blank"><span class="link-annotation-unknown-block-id--2051758088" style="border-bottom-width: 0.05em; border-color: rgba(55, 53, 47, 0.4); opacity: 0.7;">CML</span></a> (3k+ <span style="line-height: 1em; white-space: nowrap; ">⭐</span> on GitHub).</p>
+<p><span style="color: var(--remotive-chocolate);">If you have experience with dev tools like GitHub, UI plugins for Git, etc., you should have some sense what the project is like (if not, check our <a href="https://iterative.ai/" rel="nofollow">site</a>).</span></p>
+<p> </p>
+<p class="h3">Tech Stack</p>
+<ul>
+<li>TypeScript</li>
+</ul>
+<ul>
+<li>Node</li>
+</ul>
+<ul>
+<li>React</li>
+</ul>
+<ul>
+<li>Python (on the backend)</li>
+</ul>
+<p> </p>
+<p class="h3">Must have</p>
+<ul>
+<li>Strong TS/JS/Node experience (5+ years)</li>
+</ul>
+<ul>
+<li>Excellent communication skills and a positive mindset 🤗</li>
+</ul>
+<ul>
+<li>Initiative to help shape the engineering practices, products, and culture of a young startup</li>
+</ul>
+<p><br><br></p>
+<p class="h3">Nice to have</p>
+<ul>
+<li>Python or open source experience - good to have</li>
+</ul>
+<ul>
+<li>Some domain knowledge (DS/ML understanding) - an advantage</li>
+</ul>
+<p> </p>
+<img src="https://remotive.com/job/track/1187421/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1187416/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Iterative</h5>
+                    <h3>Senior Software Engineer  - DevTools, Open Source, Python</h3>
+                </td>
+                <td width="300">
+                    <code>data science,machine learning,python,open source</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Job Description</strong></p>
+<p>Strong Python knowledge and excellent coding culture (standards, unit test, etc) are required. Alternatively, strong skill in other languages along with some knowledge of Python is also acceptable.</p>
+<p><br><br></p>
+<div class="h3">Responsibilities</div>
+<ul>
+<li>Discuss and research issues, features, new products.</li>
+</ul>
+<ul>
+<li>Write code (see some <a class="postings-link" href="https://github.com/iterative/dvc/pulls?q=is%3Apr+is%3Aclosed" rel="nofollow"><strong>PR examples</strong></a>).</li>
+</ul>
+<ul>
+<li>Write docs if needed for your code (see this <a class="postings-link" href="https://github.com/iterative/dvc.org" rel="nofollow"><strong>repo</strong></a>).</li>
+</ul>
+<ul>
+<li>Being actively involved with the community - talk to users on Github, Discord, forum.</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Must have</div>
+<ul>
+<li>Motivation and interest</li>
+</ul>
+<ul>
+<li>Remote work self-discipline</li>
+</ul>
+<ul>
+<li>Excellent communication skills - clear, constructive, and respectful dialog with other team members, community.</li>
+</ul>
+<ul>
+<li>Can focus and deliver a task w/o constantly switching to other stuff - respect team's planning, deadlines, etc</li>
+</ul>
+<p><br><br></p>
+<div class="h3">Great to have</div>
+<ul>
+<li>Experience working remotely</li>
+</ul>
+<ul>
+<li>Open source contributions or experience of maintaining, developing an open source project</li>
+</ul>
+<ul>
+<li>System programming experience - kernel, databases, etc.</li>
+</ul>
+<ul>
+<li>Machine learning or data science experience</li>
+</ul>
+<img src="https://remotive.com/job/track/1187416/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
