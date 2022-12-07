@@ -10,7 +10,7 @@
                     <code>c#,software,code,cryptocurrency,architect,financial,fintech,senior,engineer,engineering,backend</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-c-backend-software-engineer-code-reviewer-alphapoint-158895" align="right" target="_blank">Apply</a>
@@ -45,7 +45,7 @@
 <li>$100 of the Cryptocurrency of your choice upon signing</li>
 <li>Company paid Co-Working benefits</li>
 <li>$2500/year for learning and development</li>
-</ul><p style="line-height:1.38;"> </p><p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ECONOMICAL** and tag RNTQuMjI0LjEzNi40 when applying to show you read the job post completely (#RNTQuMjI0LjEzNi40). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p style="line-height:1.38;"> </p><p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ECONOMICAL** and tag RMy44OC4xMDIuNjI= when applying to show you read the job post completely (#RMy44OC4xMDIuNjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -60,7 +60,7 @@
                     <code>design,web3,crypto,ethereum,technical,testing,code,financial,management,lead,senior,engineer,backend,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-coinshift-158389" align="right" target="_blank">Apply</a>
@@ -77,7 +77,7 @@
 <b>-Navigating ambiguity in design:</b> You can translate high level designs into production-ready systems. Given clear requirements, you are comfortable making judgments and tradeoffs in the user experience on your own.</div><div>
 <b>-Put users first:</b> You think critically about the implications of what you're building, and how it impacts real people's lives.</div><div>
 <b>-Empathetic communication:</b> You communicate ideas clearly in plain english. In disagreements, you listen to other perspectives and compromise when needed.</div><div>
-<b>-Team player:</b> You enjoy collaborating cross-functionally to accomplish shared goals, and you care about learning, growing, and helping others to do the same.</div><div><br></div><div><b>Nice to Haves:</b></div><div><br></div><div>-You're proficient with technologies that are part of our stack, including Express, Datadog.</div><div>-You participate in open source projects and web3 hackathons, or write about web3 technology.</div><div>-You have experience in backend integration testing and in debugging performance issues.</div><div>We are committed to fostering diversity and inclusiveness within our organization, and we strongly encourage candidates of all backgrounds to apply, even if they donât match all the above criteria.</div><div><br></div><div>If you are hired, you will have the option of fiat/USDC payments made monthly</div><div><br></div><div>We look forward to your application!</div><br/><br/>Please mention the word **CORRECT** and tag RNTQuMjI0LjEzNi40 when applying to show you read the job post completely (#RNTQuMjI0LjEzNi40). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<b>-Team player:</b> You enjoy collaborating cross-functionally to accomplish shared goals, and you care about learning, growing, and helping others to do the same.</div><div><br></div><div><b>Nice to Haves:</b></div><div><br></div><div>-You're proficient with technologies that are part of our stack, including Express, Datadog.</div><div>-You participate in open source projects and web3 hackathons, or write about web3 technology.</div><div>-You have experience in backend integration testing and in debugging performance issues.</div><div>We are committed to fostering diversity and inclusiveness within our organization, and we strongly encourage candidates of all backgrounds to apply, even if they donât match all the above criteria.</div><div><br></div><div>If you are hired, you will have the option of fiat/USDC payments made monthly</div><div><br></div><div>We look forward to your application!</div><br/><br/>Please mention the word **CORRECT** and tag RMy44OC4xMDIuNjI= when applying to show you read the job post completely (#RMy44OC4xMDIuNjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -92,7 +92,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer" align="right" target="_blank">Apply</a>
@@ -148,90 +148,83 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/9084/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>MindsDB</h5>
-                    <h3> Backend Engineer</h3>
+                    <h5>AgencyAnalytics</h5>
+                    <h3> Senior Backend Engineer</h3>
                 </td>
                 <td width="300">
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>390 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/mindsdb-backend-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/9084/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> Berkeley, California, USA
-    <br /><strong>URL:</strong> <a href="http://www.mindsdb.com">http://www.mindsdb.com</a>
+  <strong>Headquarters:</strong> Toronto, Canada
+    <br /><strong>URL:</strong> <a href="https://agencyanalytics.com">https://agencyanalytics.com</a>
 </p>
 
-<div>
-<strong>Who we are<br></strong><br>
-</div><div>MindsDB helps companies use the power of Machine Learning to ask predictive questions of their data and receive accurate answers from it. We do all of this inside the database with a simple interface, decreasing development time and increasing accessibility.<br><br>
-</div><div>We are a fast-paced, fast-growing company with an exciting future ahead!</div><div>
-<br><br>
-</div><div><strong>Our history so far</strong></div><ul>
-<li>MindsDB are the largest, fastest growing open source Machine Learning project in the world with over 11k Github stars.</li>
-<li>Graduate of YCombinator (the startup accelerator for Stripe, Airbnb, and Coinbase).</li>
-<li>Backed by Walden Catalyst Ventures, YCombinator, OpenOcean (the venture fund launched by the creators of MySQL and MariaDB), SpeedInvest, and the University of California Berkeley.</li>
-<li>Recognized as one of America’s most promising AI companies by Forbes Magazine, one of the 8 most innovative AI and ML companies by TechRepublic, and recently nominated as a “Cool Vendors in Data for Artificial Intelligence and Machine Learning” by Gartner.<br><br>
-</li>
-</ul><div><br></div><div><strong>About the role</strong></div><div><br></div><div>We are looking for a driven Backend Engineer (Python) to be a main developer of the infrastructure that powers our product.</div><div><br></div><div>Together with the team, you’ll work to drive platform stability, optimise performance, and develop new functionality. You’ll also help drive our next stage of growth, playing a key role in our serverless development.</div><div><br></div><div>We are a 100% remote team, allowing us to hire the best talent from around the globe. For this role we are hiring in North/South American time zones, approximately GMT-7 to GMT-4.</div><div><br></div><div>MindsDB is committed to flexible working. Our goal is for our people to feel free to work where, when and how they choose to enable our staff to balance their personal interests with their work commitments and deliverables, to support a happier and healthier way of life. Performance will be judged on output and staff are trusted to manage their working time effectively to meet work deadlines and goals whilst ensuring their wellbeing is prioritised. If that suits you we would encourage you to apply!</div><div>
-<br><br>
-</div><div><strong>What you'll be working on</strong></div><ul>
-<li>Driving platform stability</li>
-<li>Maintaining platform components that enable our core product features</li>
-<li>Implementing security best practices</li>
-<li>Optimising performance &amp; scalability</li>
-<li>Improving the performance of our current platform</li>
-<li>Helping transition us to a serverless cloud architecture</li>
-<li>Developing new functionality</li>
-<li>Collaborating with the all parts of the team</li>
-<li>Implementing major features and enhancements<br><br>
-</li>
-</ul><div><br></div><div><strong>Requirements</strong></div><ul>
-<li>5+ years Backend Engineering experience</li>
-<li>Expertise in Python and SQL</li>
-<li>Experience with AWS, HTTP, TCP/IP, Docker</li>
-<li>Fast, high quality development</li>
-<li>Strong communication skills<br><br>
-</li>
-</ul><div><br></div><div><strong>Nice To Have</strong></div><ul>
-<li>Experience with microservices architecture</li>
-<li>Experience with Kubernetes</li>
-<li>Experience with Machine Learning</li>
-<li>Experience working in a fast moving, growing startup environment.</li>
-<li>Fluency and communication skills in Spanish<br><br>
-</li>
-</ul><div><br></div><div>We understand that there's no such thing as a 'perfect' candidate. We're looking for someone passionate, proactive and ambitious, who is excited to face the challenges of a rapidly growing startup. MindsDB is the type of company where you can grow exponentially, and we encourage you to apply to us even if you don't 100% match the candidate description.</div><div>
-<br><br>
-</div><div><strong>Benefits &amp; Perks:</strong></div><ul>
-<li>Fully remote team</li>
+<div>We’re seeking a Senior Backend Engineer to work in our product-driven or platform teams, focused on building features that help our customers grow their business.<br><br>As part of AgencyAnalytics, you'll be developing and operating a range of backend functions and tools that enable the features our users love. Together with the team, you'll work remotely to implement architectural changes, drive platform stability, research new technologies and continuously advocate for the use of best practices. You'll frequently work with other engineering teams to deliver incremental product improvements and new features<br><br>
+</div><div>
+<br><strong>What You'll Work With</strong><br><br>
+</div><ul>
+<li>PHP (PSR) + Slim + Microservice Framework</li>
+<li>BigQuery ML (Arima Time Series Model)</li>
+<li>Serverless Cloud Functions + GraphQL</li>
+<li>GCP Infrastructure (GKE, BigQuery, Cloud Tasks, PubSub etc.)</li>
+<li>Non-blocking CI/CD tooling with on-demand staging for every PR</li>
+</ul><div>
+<br><strong>Key Responsibilities</strong><br><br>
+</div><ul>
+<li>You'll design, develop and iterate on backend PHP services that handle millions of requests</li>
+<li>You'll work with your frontend engineering peers, product and design members to create high quality products our customers love to use</li>
+<li>You'll prioritize and work on multiple projects from start to finish, balancing quality, stability and project delivery</li>
+<li>You'll review your teammates' work, advocate for high standards, and look for ways to improve the overall quality of our codebase</li>
+<li>You'll work within your team to achieve technical excellence by taking a collaborative approach to architecture, technical patterns, and complex problems</li>
+<li>You'll work with infrastructure engineers to collaboratively plan and maintain tools that underpin our developer experience</li>
+</ul><div>
+<br><strong>Job requirements<br></strong><br>
+</div><ul>
+<li>You have several years of professional experience with PHP 7+ and the modern PHP ecosystem, using frameworks such as Laravel and Phalcon</li>
+<li>You have at least 5+ years of total experience with PHP</li>
+<li>You have experience with modern cloud storage solutions such as BigQuery</li>
+<li>You have professional experience working in a cross-functional team of 5+ members</li>
+<li>You have the ability to communicate effectively with other engineers, while building trust, credibility, and mutual success with your peers</li>
+<li>You have a strong understanding of the challenges of working in engineering and delivering products in a remote work environment</li>
+<li>You have the drive to stay current with technological changes and set a high standard for yourself</li>
+<li>You proactively take on a challenge and help the team solve problems from start to finish</li>
+</ul><div>
+<br><strong>Job Benefits</strong><br><br>
+</div><ul>
+<li>Fully remote workplace</li>
 <li>Flexible working hours</li>
-<li>Competitive Compensation</li>
-<li>Unlimited PTO</li>
-<li>New Hire Remote Setup budget</li>
-<li>Learning &amp; Development budget</li>
-<li>Medical, Dental, Vision Insurance (US only)</li>
-<li>Monthly Wellbeing Budget</li>
-<li>Monthly (virtual) team events</li>
-<li>International in-person company retreats</li>
-<li>Wellbeing/Mental Health leave<br><br>
-</li>
-</ul><div><br></div><div><strong>Diversity, Equality &amp; Inclusion</strong></div><div><br></div><div>MindsDB is an equal opportunity employer. We celebrate diversity and are committed to creating an inclusive environment for all of our employees. MindsDB will give all qualified applicants consideration for employment without regard to age, ancestry, color, family or medical care leave, gender identity or expression, genetic information, marital status, medical condition, national origin, physical or mental disability, political affiliation, protected veteran status, race, religion, sex (including pregnancy), sexual orientation, or any other characteristic protected by applicable laws, regulations, and ordinances.​</div><div>
-<br><br>
+<li>4 weeks paid vacation</li>
+<li>Unlimited paid sick days</li>
+<li>Quarterly profit sharing</li>
+<li>Parental &amp; Maternity leave top-ups</li>
+<li>Extended health benefits</li>
+<li>Health spend account</li>
+<li>Equipment credit</li>
+<li>Fitness/Education credit</li>
+<li>Internet reimbursement</li>
+<li>Training and certification reimbursement</li>
+<li>Travel reimbursement for company events</li>
+</ul><div>
+<br><strong>Our Application Process</strong><br><br>
+</div><div>1. Complete a self-assessment (5 - 10 minutes)<br>2. Non-technical introduction interview (15 - 30 minutes)<br>3. Take-home engineering challenge<br>4. Interview with the Hiring Committee (30 - 45 minutes)<br>5. Offer extended to successful applicants<br><br>
 </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/mindsdb-backend-engineer">https://weworkremotely.com/remote-jobs/mindsdb-backend-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer">https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer</a></p>
 
                 </details>
                 </td>
@@ -247,7 +240,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
