@@ -1,5 +1,104 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/3506/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bonfire</h5>
+                    <h3> Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bonfire-product-manager-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/3506/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Virginia, USA
+    <br /><strong>URL:</strong> <a href="http://bonfire.com">http://bonfire.com</a>
+</p>
+
+<div>
+<strong><br>ABOUT THE COMPANY<br></strong><br>
+</div><div>
+<br>Bonfire is transforming the way people buy and sell high-quality custom apparel. We are a free online platform where anyone can design, sell, and buy custom products. We’ve helped thousands of individuals, groups, and nonprofits raise money for the causes they care about, and also serve the world’s top creators as their premiere custom merch platform. We’re a passionate, creative, and data-driven team constantly pursuing our vision: to strengthen communities that inspire a kinder world. We bring this vision to life by hiring passionate, smart people who celebrate and respect others, are committed to a life of curiosity, are never satisfied with ‘good enough’, are eager to co-create the future, and who thrive through teamwork. <strong>Have we been looking for </strong><strong><em>you</em></strong><strong>?<br></strong><br>
+</div><div>
+<strong><br>ABOUT THE JOB<br></strong><br>
+</div><div>
+<br>Our Product team is searching for their future<strong><em> Product Manager</em></strong>. The ideal candidate will value critical thinking and intellectual honesty, and have an insatiable need to continuously improve oneself to learn and navigate new and changing technologies and market opportunities. <br><br>
+</div><div>
+<br>Our Product Managers at Bonfire are “full stack” PMs. You will work closely with our engineering team, designers, and senior management to design solutions, in addition to participating in customer interactions to define needs, test out options, and get feedback for the features you release. You will ensure alignment with our Growth team: Customer Support, Marketing, and Sales.<br><br>
+</div><div>
+<br>In this role you will make decisions by being data-informed at all times and data-driven where appropriate. While using design thinking to bring our customers the best experience, it is also essential to communicate and collaborate with the Engineering team to create solutions to problems we want to solve, all while delivering high quality service to our customers and their markets. <br><br>
+</div><div>
+<br>This role lies within our Product department and reports to the Director of Product. <br><br>
+</div><div>
+<br>____________________<br><br>
+</div><div>
+<br>Bonfire employees are expected to embrace the<a href="https://www.bonfire.com/about/"> Mission</a> and<a href="https://careers.bonfire.com/life-at-bonfire/"> Values</a>, we live together and apart:  <strong><em>Humble Ingenuity, Trusting Partnerships, Inclusive Cooperation, Moral Courage, Healthy Dissatisfaction<br></em></strong><br>
+</div><div>
+<strong><em><br>Bonfire is currently supporting a virtual work environment; however, we are looking to only hire candidates who reside in the following locations: ​​North Carolina, Virginia, Washington DC, Maryland, and Pennsylvania.<br></em></strong><br>
+</div><div>
+<br>____________________<br><br>
+</div><div>
+<strong><br>ESSENTIAL RESPONSIBILITIES <br></strong>include but are not limited to:<br><br>
+</div><ol>
+<li>Interview customers to understand needs. Deeply understand our customers' workflows and jobs-to-be-done.</li>
+<li>Define product requirements, communicate the “why” to engineers and executives alike.</li>
+<li>Meet and collaborate with stakeholders to source/validate/evolve features and the roadmap.</li>
+<li>Own and manage the backlog and roadmap for your area of responsibility. Prioritize between new features, architectural improvements, and operational excellence.</li>
+<li>Interact daily with the engineering and design teams in both the design and development phases by running the agile meetings.</li>
+<li>Create initial low-fi wireframes and coordinate hi-fi mockups with the product design team.</li>
+<li>Manage stakeholder expectations and communication for upcoming/planned releases.</li>
+<li>Contribute to the educational content of improvements and features to ensure smooth adjustment to stakeholder processes.</li>
+<li>Analyze and/or work with the Business Intelligence/Marketing teams to analyze the impact of platform changes &amp; trends to inform future iterations.<br><br>
+</li>
+</ol><div><strong><br>MINIMUM QUALIFICATIONS</strong></div><ul>
+<li>Have 2+ years experience in product management.</li>
+<li>Have 2+ years working within an agile software development framework.</li>
+<li>Have 2+ years experience in ecommerce, saas, or a related industry.</li>
+<li>Have experience working with datasets to analyze/answer business questions and/or build business cases.</li>
+<li>Proficient in SQL and able to write basic to moderate queries.</li>
+<li>Experience using analytics tools to explore trends in product feature usage &amp; measure impact.</li>
+<li>Experience using wireframing tools to create wireframes/prototypes/mockups for digital products.<br><br>
+</li>
+</ul><div><strong><br>ADDITIONAL DESIRED QUALIFICATIONS</strong></div><ul>
+<li>
+<br>Knowledge of and ideally experience managing roadmaps for web apps built using javascript frameworks such as Angular, React, Vue, etc.</li>
+<li>Some actual coding experience is a plus, but not required.<br><br>
+</li>
+</ul><div>
+<strong><br>WHY WORK AT BONFIRE? <br></strong><br>
+</div><div>When team members all around the world were asked to find three words they’d use to describe Bonfire, the most commonly shared values were: <strong>kind, inclusive, charitable, supportive, collaborative, and passionate. </strong>Work here and help us guide people toward their full potential and possibility in support of a company that’s trying to infuse the world with more of those values. <br><br>
+</div><div>
+<br>In addition to leading purposeful work, you will also benefit from our full-time employee offerings:  </div><ul>
+<li>Competitive compensation with great insurance and savings benefits</li>
+<li>Remote work environment (We are a fully distributed team!)</li>
+<li>Tech setup right-fit for your remote work environment </li>
+<li>Year-round swag giveaways</li>
+<li>Unlimited PTO that we encourage everyone to take advantage of</li>
+<li>A positive culture and dynamic team environment</li>
+<li>The ability to help create a kinder planet</li>
+<li>An environment to grow your skills, learn new technologies, and to challenge yourself <br><br>
+</li>
+</ul><div>
+<br>Does this sound like you? If so, we’d love to hear from you!<br><br>
+</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bonfire-product-manager-1">https://weworkremotely.com/remote-jobs/bonfire-product-manager-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1095/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +109,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/lofty-product-manager" align="right" target="_blank">Apply</a>
@@ -88,7 +187,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/airdev-no-code-product-manager-independent-contractor-multiple-seniority-levels" align="right" target="_blank">Apply</a>
@@ -145,7 +244,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/learning-tapestry-product-manager-web" align="right" target="_blank">Apply</a>
@@ -192,91 +291,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/5904/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TestGorilla</h5>
-                    <h3> Senior Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>13 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-product-manager-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/5904/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Amsterdam
-    <br /><strong>URL:</strong> <a href="https://www.testgorilla.com/">https://www.testgorilla.com/</a>
-</p>
-
-<div>Hi,</div><div><br></div><div>I’m Claudia, the Head of Product at TestGorilla. We’re a fast-growing <a href="https://www.testgorilla.com/">HR tech startup</a> that helps teams make better hiring decisions faster and bias-free.</div><div><br></div><div>Over the past year, we’ve experienced tremendous growth. More than 7,500 companies have replaced CVs with our assessments to screen candidates in an unbiased and data-driven way. </div><div><br></div><div>As we scale our efforts in 2022 and beyond, we’re looking for a <strong>Senior Product Manager </strong>who’s passionate about building amazing product experiences and helping people land dream jobs. </div><div>
-<br><br>
-</div><h1><strong>What’s in it for you?</strong></h1><ul>
-<li>Helping shape a fast-growing HR tech startup as an early employee</li>
-<li>Fully remote position with bright, motivated, and friendly colleagues around the world </li>
-<li>Competitive salary + Share appreciation rights (SARs)</li>
-<li>Flexible hours and vacation</li>
-<li>Paid parental leave </li>
-<li>Remote working budget: €1,000 per year</li>
-<li>Learning and development budget: 3.5% of salary</li>
-</ul><div><br></div><h1>The job in a nutshell</h1><div>As a<strong> Senior Product Manager,</strong> you’ll be responsible for creating and shipping products that help hundreds of thousands of users around the world land their dream job. <br><br>
-</div><div>Together with a cross-functional team, you’ll take ownership of translating our product vision and strategy into a roadmap, ensure seamless product delivery and drive feedback loops on what has been shipped. <br><br>
-</div><div>Your goal is to give our customers and their candidates the best experience possible out there! This is an amazing opportunity for a product manager that is looking to embark on an entrepreneurial journey and is ready to put a dent in the universe! </div><div><br></div><div><br></div><h1><strong>You’ll spend time on the following:</strong></h1><ul>
-<li>Define a vision, strategy and roadmap that drives maximum impact for your area of the customer and candidate experience. </li>
-<li>
-<a href="https://www.testgorilla.com/test-library/role-specific-skills-tests/product-owner-test/">Drive product execution</a>: gather requirements, define functionality, set goals, deliver with your team against these goals, resolve quality issues.</li>
-<li>Work with cross-functional stakeholders (Customer Success, Sales, Marketing, etc.). to factor their requirements into product decisions.</li>
-<li>Talk to users on a regular basis: our customers that create assessments as well as candidates taking the assessment.</li>
-<li>Leverage data and user insights to create solutions that satisfy and solve user needs.</li>
-<li>Create clear and thoughtful documentation that can easily be understood and used by both technical and non-technical stakeholders.</li>
-<li>Ensure UX and product-led growth is at the heart of what we build.</li>
-<li>Gain a broader understanding of trends in the HR and HR-tech vertical that impact product development.</li>
-<li>Work in a collaborative, talented distributed team across the globe.<br><br>
-</li>
-</ul><div> </div><h1><strong>Here's what we are looking for:</strong></h1><ul>
-<li>You are inspired by our mission to put <em>one billion people in dream jobs</em>
-</li>
-<li>You are fully aligned with our <a href="https://www.testgorilla.com/careers/">values </a>
-</li>
-<li>You have a track record of shipping and scaling high quality products that effectively service the needs of both customers and the business.</li>
-<li>You have creative and innovative problem solving skills and feel comfortable engaging in detailed conversations about strategy and product design with both non-technical and technical audiences.</li>
-<li>You are data driven and use that skill to drive strategic decisions for the product you are working on. Making sure we tackle the biggest opportunities in the most effective way.</li>
-<li>You’re able to think big, but start small. You can establish a north star for your product while maintaining an agile mindset towards getting there.</li>
-<li>You have a user-first mindset. You’re passionate about understanding their needs and continuously improving their experience.</li>
-<li>You have strong collaboration and relationship building skills that allow you to build cross-functional relationships.</li>
-<li>You have excellent communication skills (both written and verbal) and attention to detail. </li>
-<li>You are comfortable with ambiguity and thrive in the fast paced environment of an early-stage startup that is operating remotely around the globe.</li>
-</ul><div>We typically expect candidates with at least <strong><em>5 years of Senior Product Management experience</em></strong> to have the skills mentioned above.<br><br>
-</div><div> </div><h1><strong>Bonus points if…</strong></h1><ul>
-<li>You have experience working in a high growth product-led startup.</li>
-<li>You have domain experience working in HR-tech and/or SaaS.</li>
-<li>You have led detailed short-term product roadmaps while keeping the longer term vision intact.</li>
-<li>You have strong experience with UI/UX design, and you are passionate about design and creating beautiful products.</li>
-</ul><div>
-<br><br>
-</div><h1><strong>Interested?</strong></h1><div>
-<br>We don’t offer rainbow glitter unicorns or dog-friendly offices (we literally don’t have an office), but we do offer real people, solid core values, and a product meant to give everyone a fair, unbiased chance at their dream jobs.</div><div>
-<br>Here at TestGorilla, we eat our own dog food. We use our assessment platform to make sure we make the best hiring decisions, faster and bias-free. </div><div>
-<br>So if this role sounds like a good fit for you, I’d like you to take an assessment so we can get a better idea about whether you would fit the role. It’s also a great opportunity for you to get to know our product!</div><div>
-<br>If you’re hired, I’ll do everything I can to help you succeed at TestGorilla and throughout the rest of your career.</div><div><br></div><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-product-manager-3">https://weworkremotely.com/remote-jobs/testgorilla-senior-product-manager-3</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -287,7 +301,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>391 days ago</text>
+                <text>392 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
