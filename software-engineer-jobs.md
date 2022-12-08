@@ -10,7 +10,7 @@
                     <code>software,crypto,ethereum,c,c++,lead,senior,go,health,engineer</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-flashbots-159395" align="right" target="_blank">Apply</a>
@@ -56,7 +56,7 @@
 <p> </p>
 <hr>
 <p>Join us to help solve hard problems that have asymmetric impact and strike at the core of crypto.</p>
-</div><br/><br/>Please mention the word **SOFTER** and tag RMy44OC4xMDIuNjI= when applying to show you read the job post completely (#RMy44OC4xMDIuNjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **SOFTER** and tag RNTQuMjIxLjU0LjE0NA== when applying to show you read the job post completely (#RNTQuMjIxLjU0LjE0NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -71,7 +71,7 @@
                     <code>software,saas,docker,test,code,scrum,fintech,java,legal,engineer,apache</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-java-axoni-158889" align="right" target="_blank">Apply</a>
@@ -105,7 +105,7 @@
 <li>Experience with SaaS </li>
 <li>Capital markets and fintech experience</li>
 <li>Familiarity or interest in learning scala</li>
-</ul><div>Individuals seeking employment at Axoni are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. You are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements.</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/xO7B4WYKVZE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **APPRECIATES** and tag RMy44OC4xMDIuNjI= when applying to show you read the job post completely (#RMy44OC4xMDIuNjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>Individuals seeking employment at Axoni are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. You are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements.</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/xO7B4WYKVZE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **APPRECIATES** and tag RNTQuMjIxLjU0LjE0NA== when applying to show you read the job post completely (#RNTQuMjIxLjU0LjE0NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -120,7 +120,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/cloudsmith-senior-staff-software-engineer-experienced" align="right" target="_blank">Apply</a>
@@ -178,7 +178,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote" align="right" target="_blank">Apply</a>
@@ -260,7 +260,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -322,7 +322,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
