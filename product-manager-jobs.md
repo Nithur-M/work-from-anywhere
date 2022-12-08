@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bonfire-product-manager-1" align="right" target="_blank">Apply</a>
@@ -109,7 +109,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/lofty-product-manager" align="right" target="_blank">Apply</a>
@@ -187,7 +187,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/airdev-no-code-product-manager-independent-contractor-multiple-seniority-levels" align="right" target="_blank">Apply</a>
@@ -234,63 +234,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0001/5459/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Learning Tapestry</h5>
-                    <h3> Product Manager, Web</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>13 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/learning-tapestry-product-manager-web" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0001/5459/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> United States
-    <br /><strong>URL:</strong> <a href="https://learningtapestry.com">https://learningtapestry.com</a>
-</p>
-
-<div>
-<br><strong>What We’re Looking For <br></strong><br>
-</div><div>Learning Tapestry is working with our client who is a leading learning service for families with preschoolers. Our client delivers streaming and interactive learning content that helps young kids develop skills, knowledge and passions, through play with the characters they love. They also help parents help their kids thrive. The client is a direct-to-consumer offering available on standalone mobile apps, connected TV apps, and add-on channels. We are forming a team of highly motivated individuals who are eager to work in a start-up-like environment within a large media company. We need innovators and self-starters who are passionate about playful learning and comfortable working in a fast-paced, creative-led organization.</div><div><br></div><div><strong><em>Product Manager role:</em></strong></div><div>The Product Manager, Web role will be responsible for leading the product roadmap that cuts across our Growth channels. This role will shepherd business and user needs through the many stages of product development, including ideation, research, planning, and execution. </div><div><strong> </strong></div><div>
-<strong>RESPONSIBILITIES</strong>:</div><div><br></div><ul>
-<li>Lead the creation of a well-supported product strategy to optimize platforms that support Marketing’s Growth channels.</li>
-<li>Partner closely with Marketing Leads and key partners to define a compelling long-term vision.<br>Build positive relationships with Marketing, Product, Design, and Engineering to drive marketing vision forward.</li>
-<li>Oversee the entire lifecycle of features, from ideation to technical implementation, in collaboration with cross-functional stakeholders, designers, developers and QA.</li>
-<li>Break down complex problems into manageable steps by authoring and prioritizing epics and user stories. </li>
-<li>Be a leader on a cross-functional scrum team—foster a creative, collaborative and disciplined culture to produce the best results possible.</li>
-<li>Analyze product use and performance to continually focus on subscription growth and engagement.</li>
-<li>Communicate product roadmap and requirements across teams and departments.</li>
-</ul><div><br></div><div><strong>QUALIFICATIONS:</strong></div><ul>
-<li>Must be available to work US East Coast standard business hours, 40 hours per week</li>
-<li>3+ years experience in product management </li>
-<li>Deep understanding of the product development process end-to-end; technical background or extensive experience with the technical side of product development</li>
-<li>Ability to thrive in a fast-paced, collaborative, agile environment</li>
-<li>Highly motivated to work independently and collaboratively with stakeholders</li>
-<li>Natural collaborator who knows how to drive decision-making and has the ability to influence through informal authority.</li>
-<li>Experience using data to make decisions</li>
-<li>Experience working on an Agile/Scrum team</li>
-<li>Bachelor’s degree</li>
-</ul><div><br></div><div>
-<br><strong>About You<br></strong><br>
-</div><div>You’re comfortable in a remote work environment, with team members from different time zones. You manage your own time well and are a self-starter. You have a distraction-free place you can use for work that offers reliable Internet access, either in your home or a local co-working facility. You’re able to work 8:00 AM to 5:00 PM US Eastern Standard Time (standard business hours).</div><div><br></div><div>You are experienced and well-versed in the productivity tools we use, like Google Apps &amp; Hangouts, Slack, and Harvest for time tracking.</div><div><br></div><div>You’re fluent in written and spoken English. </div><div><br></div><div>Please do not hesitate to apply if you do not match these requirements exactly but think you could be a good fit.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/learning-tapestry-product-manager-web">https://weworkremotely.com/remote-jobs/learning-tapestry-product-manager-web</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -301,7 +244,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>392 days ago</text>
+                <text>393 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
