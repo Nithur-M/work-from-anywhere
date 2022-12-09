@@ -1,5 +1,188 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/21a6339aaebf79466864d00461e0803f1670436006.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Vizion</h5>
+                    <h3>Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>manager,design,saas,system,teacher,cto,technical,support,developer,software,ux,api,microsoft,leader,strategy,management,lead,senior,operations,operational,marketing,sales,engineering,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-product-manager-vizion-160601" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                About the Company:
+Itâs never been more challenging for shippers to simply know where their ocean freight is, when it will arrive, and why it was delayed. At VIZION API, we automatically push the most complete, standardized, and detailed container tracking events to any software system or spreadsheet, so shippers get end-to-end visibility into the freight that drives their business. Our mission is to enhance and optimize world trade by making data more accessible and building tools that empower digital transformation. Vizionâs goal is to be the world's leader in delivering the highest quality data in the easiest-to-use formats to the international freight industry. 
+Â 
+Our Company Values and Culture: 
+Simple Honesty, Be a Teacher and Long-Term Thinking are the values that guide our decision making and are our uncompromising core principles. Vizion is dedicated to building an inclusive and diverse team focused on fostering a culture of Communication, Innovation and High-Performance.
+Â 
+How You Fit In & the Details:Â 
+As a Senior Product Manager you will play a critical role in managing and growing our API products, ensuring API design meets customer needs, applying governance and guidelines, managing roadmaps and cultivating a developer experience that will delight our customers. You will be expected to implement effective inbound and outbound automation solutions, engage with Vizion partners and customers to understand their workflows, work with other PMs to build supporting APIs and deliver world class integrations for Vizionâs platform. In addition, this role will develop, lead, and scale a high-performing Product team that will support our product roadmap and customerâs needs. You will work closely with customers to understand their needs and pain points and prioritize and sequence feature development and releases leading to significant and tangible business value. This role will work to turn ideas into real products that and have the proven ability to creatively lead the development and support of core systems that power mission critical business processes in shipping and logistics. 
+Â 
+This role reports to the CTO and will partner and collaborate with a broad set of stakeholders in Vizionâs technology solution, but specifically with operations, customer experience, and engineering to ensure the delivery of innovative, high-performance API solutions to support our business operations and rapid growth.Â Â In addition to the above, you will: 
+Â 
+âÂ Â Â Â Â Â  Demonstrate clear understanding of how key personas and workflows map across major verticals
+âÂ Â Â Â Â Â  Formulate and promote our API, automation, and workflow strategy to internal and external stakeholders
+âÂ Â Â Â Â Â  Design specifications and prioritize requirements to develop highly leveraged APIs needed for building the automation solution
+âÂ Â Â Â Â Â  Collaborate with engineering to build key automation & integration workflows
+âÂ Â Â Â Â Â  Deeply understand the developer persona and ensure API products are easy to implement, well documented and designed to our high standards through a developer platform
+âÂ Â Â Â Â Â  Deep engagement and consultation with various business teams to understand current and future needs for product enhancements
+âÂ Â Â Â Â Â  Understand the customer, market, and technology drivers for Vizionâs business
+âÂ Â Â Â Â Â  Propose innovative solutions based on API products to introduce, enhance, and automate key processes and use cases
+âÂ Â Â Â Â Â  Develop supporting product plans and requirements by gathering feedback, collaborating with key planning stakeholders, including leadership, writing requirements documents, and managing the feature backlog
+âÂ Â Â Â Â Â  Develop API product and enhancement roadmap for short and long-range product plans based on customer feedback
+âÂ Â Â Â Â Â  Champion the product's roadmap with key stakeholders and engineering teams
+âÂ Â Â Â Â Â  Partner with marketing and sales team to support, design, and influence partner integration flows on the front end and back end
+âÂ Â Â Â Â Â  Manage internal and external resources to ensure completion of projects
+âÂ Â Â Â Â Â  Drive a culture of measurement and continuous improvement for both business and customer value delivered, develop KPIs, and monitor progress continuously, actively reporting on milestones and deliverables
+âÂ Â Â Â Â Â  Own all API documentation UX including documents for developer support, security, sales, sales training, marketing (with support from engineering and partner relations)
+âÂ Â Â Â Â Â  Collaborate with cross-functional project teams to ensure the successful delivery of fully operational products and deliver accompanying user documentation and training
+âÂ Â Â Â Â Â  Track product performance and use to inform product management.
+Â 
+Basic Qualifications:
+âÂ Â Â Â Â Â  7+ years of product management experience with a minimum of 5 years of API product management experience. 
+âÂ Â Â Â Â Â  Experience building APIs for SaaS products and evolving those products into platforms
+âÂ Â Â Â Â Â  Experience building integrations into CRMs like HubSpot, Salesforce, Microsoft Dynamics, ServiceNow, Zendesk and other integration platforms
+âÂ Â Â Â Â Â  Experience creating technical product and design documents
+âÂ Â Â Â Â Â  Prior startup experience highly desired
+âÂ Â Â Â Â Â  Demonstrated hands-on experience and subject matter expertise in configuring and managing the end-to-end product vision and strategy
+âÂ Â Â Â Â Â  Crystallize vague concepts into concise tactical plans 
+âÂ Â Â Â Â Â  Understanding that speed is everything but prioritizing the right thing is equally important - you appreciate delivering impact quickly
+âÂ Â Â Â Â Â  Be comfortable with ambiguity in a fast-paced and ever-changing environment
+âÂ Â Â Â Â Â  Comprehensive and deep command of the product management function
+âÂ Â Â Â Â Â  Strong collaboration, coordination, organizational and communication (written and spoken) skills with demonstrated experience across multiple products and/or projects
+âÂ Â Â Â Â Â  Background in software development and project/program management is a plus
+âÂ Â Â Â Â Â  Familiarity with Agile framework is preferred
+âÂ Â Â Â Â Â  Preferred Education: BS/BA in Computer Science, Engineering, or related field
+Â 
+Perks & Benefits: 
+âÂ Â Â Â Â Â  We feel passionately about equal pay for equal work, and transparency inÂ compensationÂ is one vehicle to achieve that. TotalÂ compensationÂ for this role is market competitive, including aÂ baseÂ salary range of: $150,000 to $175,000. Vizion intends to offer the selected candidateÂ baseÂ pay within this range, dependentÂ onÂ job-related, non-discriminatory factors such as experience and location.
+âÂ Â Â Â Â Â  Equity Options â Share in the upside of our companyâs success
+âÂ Â Â Â Â Â  We prioritize diversity in our hiring and are LGBTQ+ friendly
+âÂ Â Â Â Â Â  Fully remote: Work from your home office or beach somewhere (as long as the beach has Wi-Fi, of course)!
+âÂ Â Â Â Â Â  Excellent No-Cost Medical, Dental and Vision plans: 100% coverage for you and dependents
+âÂ Â Â Â Â Â  Unlimited PTO Policy: We believe in recharging our batteries and we mean it when we say we expect you to take time off!
+âÂ Â Â Â Â Â  401(k) with company contribution
+âÂ Â Â Â Â Â  Company-Provided Laptop (Mac or PC) and an office-outfitting budget
+Â 
+Did you know: 
+Some studies indicate that the average female-identifying person will apply to a job only if they feel that they qualify for 100% of the requirements? Persons of color experience this at an even higher rate. Whereas male-identifying people will apply if they feel that they qualify for 60% or more of the requirements.
+Â 
+Now you (may) know something new, and we want to encourage anyone who feels that they might be qualified for the role to apply. You may be surprised!
+Â 
+We do not and shall not discriminate on the basis of race, color, religion (creed), gender, gender expression, age, national origin (ancestry), disability, marital status, sexual orientation, or military status, in any of its activities or operations. These activities include, but are not limited to: hiring and firing of staff, selection of vendors, and provision of services. We at Vizion are committed to providing an inclusive and welcoming environment for all members of our staff, contractors, vendors, and clients.
+
+<br/><br/>Please mention the word **EFFECTIVELY** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/3c40eee4dd01fa0961344647ea8a1cb11670483781.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Cere Network</h5>
+                    <h3>Technical Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>manager,web3,crypto,nft,hr,architect,technical,support,software,ui,financial,cloud,management,lead,content,engineering</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-technical-product-manager-cere-network-160892" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b>About CERE:</b></div><div>Cere Network is the worldâs first web3 data network powering the future of web3 applications with trustless content delivery/streaming capabilities and decentralized data cloud solutions optimized to power interactions between users, (NFT) assets, and applications. Cere is backed by the world's largest institutions and projects, including Binance Labs, Republic Labs, and Polygon.</div><div><br></div><div><b>What do we look for?</b></div><div>We look for a few things across all hires we make at Cere, regardless of role or team. First, we look for signals that a candidate will thrive in our fast-paced work environment, where we default to quick iterations, critical thinking, and sound judgments because we play only to succeed. Second, we seek people with the desire to share their expertise and the capacity to extend their knowledge to drive innovation. Finally, we seek candidates who can commit to a greater goal; unite as a team to reach something no one could have done on their own.</div><div><br></div><div><b>About the Role:</b></div><div>As a Technical Product Manager and a Product Owner, you will be part of our Product Team to drive innovation in the space of Decentralised Cloud Storage and CDNs, Crypto wallets, NFT platforms, Marketplaces, and Analytics. You will help develop, document, and execute a comprehensive plan to understand user needs, iterate on product scope and ensure the timely development of highly complex technical products. With the Lead Architect and Lead Product Manager, you will be responsible for giving our teams the information and product methodology needed to succeed and continuously help us improve as an organization.Â </div><div><br></div><div><b>What we expect you to do:</b></div><div>- Manage highly complex technical products at the fringe of innovation in the Blockchain space</div><div>- Own and drive a rapidly scaling product roadmap</div><div>- Work closely with the engineering team to convey product direction and deliver milestones</div><div>- Manage Backlog and drive product development using agile methodology</div><div>- Actively seek user feedback to focus on solving problems</div><div>- Demonstrate a data-driven approach to product decisions along the product development lifecycle</div><div>- Clearly and effectively communicate and document the product strategy, functionality, and requirements</div><div>- Track, measure, analyze and communicate relevant KPIs as well as product development progress to key stakeholders</div><div>- Collaborate with Designers to quickly iterate on UI implementations</div><div>- Manage and support new Product Launches in collaboration with other departments: Marketing, LiveOps, Business Development, Engineering</div><div>- Assist and support the Lead Product Manager in the adoption of new processes</div><div>- Work closely with the Ecosystem Team to ensure accurate technical documentation and support with problem resolution during Partner integrationsÂ </div><div><br></div><div><b>Requirements:</b></div><div>- 5+ years in technical product management or technical product owner role, working closely with both businesses and developers in data-driven B2B/B2C initiatives and consumer-facing experience (preferably gaming, advertising, cloud, or data infrastructure)</div><div>- Structured and organized written/verbal communication</div><div>- Highly motivated self-starter able to work with minimal supervision</div><div>- Ability to context-switch efficiently from - understanding the user's need to getting into the technical detail</div><div>- Strong stakeholder management skills and experience</div><div>- Best if you have successfully launched an app with a metrics-driven mindset</div><div>- Start-up experience in fast-paced environments working in agile, cross-functional teams</div><div><b>Nice to have:</b></div><div>- Web3 Product experience</div><div>- Software development experience</div><div>- German (B1)</div><div><br></div><div><b>Our perks:</b></div><div>Youâll be joining a fantastic multinational team that was gathered by Silicon Valley veterans with 50 years of experience from Amazon, Twitch, D-Link, and Bebo. We have a supportive culture that cares about both excellent work and work-life balance. You will begin by learning from the experiences of our current team. Our Lead Engineers and HR managers will assist you with the onboarding process and work with you every step of the way.Â </div><div><br></div><div><b>Financial Employee Incentives:</b></div><div>With the CERE token fueling our ecosystem, team members will get multiple financial incentives along the way. Together as a team, we work for one goal: 100 million blockchain users.</div><div><br></div><div><b>Multinational, High-Performance Team:</b></div><div>Join a highly multi-cultural team that is based all over the world. We have offices in San Francisco, New York, Amsterdam, Berlin and several locations in Asia.</div><div><br></div><div><b>Be flexible in your work: </b></div><div>Morning person? Or a night owl? At Cere you can plan your work accordingly. Take control over your agenda and plan your work around your life, not the other way around.Â </div><div><br></div><div><b>Highly Skilled Team:</b></div><div>Ever wondered what is it like to work with a team full of Silicon Valley veterans? At Cere you get the opportunity to work with the brightest minds in the industry. Whether that's our crypto-savvy marketers, creative HR wizards or amazing developers.Â </div><div><br></div><div><b>Work equipment:</b></div><div>To perform at your highest level, you will need the right equipment. Cere has multiple policies to make your WFH office a paradise, or pimp up your desk in one of our offices. You decide.Â </div><div><br></div><div><b>Keep learning:</b></div><div>In the ever-changing world that is blockchain, we need our employees to stay up-to-date with the latest developments. Cere helps you out with multiple deep dives, presentations, trips and other events to increase your knowledge.</div><br/><br/>Please mention the word **INPRESSED** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/ee8915cf4c12d88ebff43577623429781670483738.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TradeBlock</h5>
+                    <h3>Senior Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>manager,crypto,training,technical,support,testing,test,web,education,management,lead,senior,operations,sales,engineering</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-product-manager-tradeblock-160879" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro"><p><span style="text-decoration:underline;"><strong>About The Company</strong></span><br><span style="font-weight:400;">TradeBlock is the leading institutional digital assets trading platform. TradeBlock provides standardized connectivity and a powerful suite of tools to capture the end-to-end trade lifecycle for liquidity providers, asset managers, corporate clients, and exchanges, among others.</span></p></div><p><strong><u>ABOUT THE ROLE</u></strong></p>
+<p>We are looking for an experienced Product Manager to work closely with our cross-functional teams to own a technical product from planning to execution, and throughout the complete product life cycle. Interface with the business team and/or clients directly to understand requirements and coordinate product deliverables across multiple internal technology teams. Additionally, this role will support client meetings when technical discussions are required. Although this role wonât be directly developing software, there should be comfort communicating technical details about our technology to internal or external audiences.</p>
+<p><strong><u>RESPONSIBILITIES</u></strong></p>
+<ul>
+<li>Coordinate cross-functionally across sales, engineering, marketing, research to ensure that market/ client feedback is incorporated into product roadmaps in a timely manner.</li>
+<li>Partner with engineering teams, company leadership and other product managers to contribute to overall Platform strategy, as well as roadmap and business plan development.</li>
+<li>Engage in comprehensive User Acceptance Testing to ensure product requirements are met.</li>
+<li>Manage and maintain backlogs, and product prioritization in order to facilitate the engineering teams and their project remain on track.</li>
+<li>Document detailed product requirements and cooperate on formulating technical designs with engineers.</li>
+<li>Create a seamless product feedback loop from sales, research and other DCG companies.</li>
+<li>Drive the creation of product operations processes as we scale.</li>
+<li>Manage product life cycle from strategic planning to tactical activities</li>
+<li>Specify market requirements for current and future products by conducting market research using multiple channels supported by on-going calls and visits to customers and prospects</li>
+<li>Prepare, create, and execute detailed functional requirements for capabilities in Portfolio Management, inclusive of detailed test scripts.</li>
+<li>Analyze potential product partner relationships.</li>
+<li>Define feature roadmap for products based on business opportunities, strategic direction of the company, and market research</li>
+<li>Work with sales management and other contributors to evaluate and prioritize opportunities and develop strategy</li>
+<li>Create feature descriptions to provide guidance to business analysts (or engineering leads) and contribute and approve the product-related business requirements documents</li>
+<li>Develop product launch and release plans.</li>
+<li>Deliver concise and meaningful presentations for internal and external audiences, including education and training of sales staff, training of support groups, and presentations at conferences, trade shows and key customer accounts.</li>
+<li>Act as liaison between sales, client services, and technology teams to support product positioning and customer demand as part of product development</li>
+<li>Act as a product champion within the company</li>
+</ul>
+<p><strong><u>QUALIFICATIONS</u></strong></p>
+<ul>
+<li>6+ years in Product Management.</li>
+<li>Ability to own products autonomously, think strategically and execute methodically.</li>
+<li>Experience with web technologies (REST, APIs, etc.).</li>
+<li>Strong technical skills and experience coordinating with engineering.</li>
+<li>Strong communication skills.</li>
+<li>Experience in the crypto, FX and/or capital markets (experience with crypto trading systems especially favored) First-hand experience with trading platforms (OMS/EMS and deep understanding of trade life cycle management)</li>
+<li>Demonstrated experience with derivative securities, and associated life cycle events</li>
+<li>Working understanding of trade lifecycle, including portfolio management, compliance, trading, and post trade activities</li>
+</ul>
+<p><strong><u>PREFERRED</u></strong></p>
+<ul>
+<li>Knowledge of UI/UX best practices preferred</li>
+<li>Comfort with fast-paced, high-growth startup environments.</li>
+<li>Demonstrated results as a crypto product manager lead role</li>
+</ul><div class="content-conclusion">
+<p><span style="text-decoration:underline;"><strong>Benefits Highlights</strong></span></p>
+<ul>
+<li>90% of Medical, Dental, Vision costs covered by TradeBlock (Coverage starts from day one)</li>
+<li>401k Match w/ 5% company match</li>
+<li>Flexible PTO (Taking time off is important and encouraged)</li>
+<li>Opportunities for Equity in Digital Currency Group</li>
+<li>Paid Family Leave for mothers and fathers</li>
+<li>All new employees receive a WFH stipend.</li>
+</ul>
+</div><br/><br/>Please mention the word **CONGRATULATIONS** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/3506/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +193,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bonfire-product-manager-1" align="right" target="_blank">Apply</a>
@@ -109,7 +292,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/lofty-product-manager" align="right" target="_blank">Apply</a>
@@ -187,7 +370,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/airdev-no-code-product-manager-independent-contractor-multiple-seniority-levels" align="right" target="_blank">Apply</a>
@@ -244,7 +427,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>393 days ago</text>
+                <text>394 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
