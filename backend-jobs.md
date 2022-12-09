@@ -1,5 +1,191 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/b103842f7be539c2e4669618f202f5401670483785.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Zora</h5>
+                    <h3>Crypto Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>crypto,ethereum,system,api,engineer,engineering,backend</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-crypto-backend-engineer-zora-160895" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2>About Us</h2>
+<p>ZORA is a group of individuals working towards a new paradigm for creators by enabling the creation, curation, and collection of NFTs. We believe that by enabling a more equitable system for creators and communities, we will fundamentally rediscover the power of the internet.</p>
+<p>Weâre working tirelessly to make ZORA available to as many creators as possible. Our <a href="http://zora.co/manifesto" rel="noopener noreferrer nofollow">mission</a> is to build a new creator and community-owned economy.</p>
+<h2>Who we're looking for</h2>
+<p>ZORA is looking for experienced backend engineers to help design, implement, and extend the ZORA API and indexing services.Â </p>
+<h2>What you'll do</h2>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with engineering & product teams to build toward our shared vision</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Focus on the ZORA API and indexing architecture</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Deliver & own features and projects from beginning to end</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Work closely with our product teams to implement and collaborate to deliver new features and experience for the ZORA ecosystem</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Inject your energy and perspective into every product meeting, standup, and interaction, both within the team and around ZORA's broader community</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Interact with our protocol, data warehouses, andÂ </span></li>
+</ul>
+<h2>Skills we're looking for</h2>
+<ul>
+<li>Solid understanding of Python, Ethereum RPCs, and blockchain indexing patterns</li>
+<li>An eye for detail</li>
+<li>A collaborative approach to problem solving</li>
+<li>Adept communication skills</li>
+</ul>
+<h2>We'd love it if you had</h2>
+<ul>
+<li>Solidity experience</li>
+<li>High scale API expertise</li>
+<li>Past contributions to open source libraries</li>
+</ul>
+<h2>Compensation</h2>
+<p>We're committed to offering you a salary competitive to the market based on your experience.</p><br/><br/>Please mention the word **ENHANCED** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/c26a53de0e372bd22e14a0a1665ea57e1670483783.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Flashbots</h5>
+                    <h3>Senior Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>solidity,crypto,ethereum,technical,api,senior,golang,health,engineer,engineering,backend</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-flashbots-160893" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro">
+<h3>Our Organization</h3>
+<p>Flashbots started in 2020 as a research and development organization formed to mitigate the negative externalities and existential risks posed by Maximal Extractable Value (MEV) to smart-contract blockchains, starting with Ethereum. <br><br>We build decentralized products to maximally decentralize public blockchains and empower users.</p>
+</div><h1>About the position:</h1>
+<p>Weâre looking for experienced Backend engineers to:</p>
+<ul>
+<li>Support engineering efforts across the product and research organization</li>
+<li>Be a part of <a href="https://twitter.com/bertcmiller/status/1593668480951373827?s=20&t=Zg4sHvh3BAt6Aqv7400bPg" rel="noopener noreferrer nofollow">open-sourcing our software</a>
+</li>
+<li>Contributing to <a href="https://twitter.com/bertcmiller/status/1595492392022421504" rel="noopener noreferrer nofollow">Suaveâs future success</a>
+</li>
+</ul>
+<p>Bringing life to our core products (as well as the efforts of our research org) means youâll need to be a capable self-starter who enjoys learning new things in motion and approaches hard problems with a builder mentality.</p>
+<h2>Responsibilities</h2>
+<ul>
+<li>Contributing to the development of Flashbots products, such as <a href="https://github.com/flashbots/mev-boost" rel="noopener noreferrer nofollow">MEV-Boost</a>, <a href="https://twitter.com/bertcmiller/status/1595492392022421504" rel="noopener noreferrer nofollow">Suave</a> & others</li>
+<li>Writing and orchestrating technical documentation/diagrams for public consumption</li>
+<li>Build and maintain public API services as well as developer-friendly tools for Flashbots ecosystem (searchers, integration partners, and end-users)</li>
+<li>Advance the user experience by building and scaling relevant tools</li>
+<li>Collaborating with research org/team on technical challenges</li>
+<li>implementing well-thought-out unit or integration tests</li>
+<li>Engaging with the community on technical issues</li>
+</ul>
+<h2>Qualifications</h2>
+<ul>
+<li>Experience working on production systems with Go, Rust or TypeScript</li>
+<li>Comfortable with async contributing, both collaboratively and self-sufficiently</li>
+<li>Flexible, accountable, and focused on high-impact solutions</li>
+<li><a href="https://jchyip.medium.com/why-t-shaped-people-e8706198e437" rel="noopener noreferrer nofollow">T-Shaped capabilities</a></li>
+</ul>
+<h2>Nice-to-haves</h2>
+<ul>
+<li>Experienced Golang background working on production systems</li>
+<li>Experience with Ethereum, Geth or other Ethereum clients</li>
+<li>Worked with Solidity or other smart contract languages</li>
+<li>Contributed to open-source work/projects</li>
+</ul><div class="content-conclusion">
+<h3>Benefits</h3>
+<p>ð Fully remote with flexible hours in a flat hierarchy</p>
+<p>ð§  Work alongside the brightest minds in the crypto space</p>
+<p>ð¸ Competitive salary + significantly above market rate equity package</p>
+<p>âï¸ Regular team on-sites to locations like Morocco, Amsterdam and Costa Rica<br><br>ð´Unlimited PTO with no approval needed on 3 days or less vacations</p>
+<p>ð Attractive health cover package for US employee</p>
+<p>Â </p>
+<hr>
+<p>Join us to help solve hard problems that have asymmetric impact and strike at the core of crypto.</p>
+</div><br/><br/>Please mention the word **GOLDEN** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/c61810e255953a9ba1745e42fb4b80351670483735.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Syndica</h5>
+                    <h3>Senior Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>design,saas,support,code,web,cloud,lead,senior,operational,golang,engineer,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-syndica-160877" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="row mb-4">
+<div class="col">
+<p><span style="font-weight:400;">At Syndica, big things happen. Every day, weâre translating vision into reality by tackling new and exciting challenges head-on. This is a breakthrough stage in our company, and youâll experience firsthand the infectious enthusiasm of our employees and leadership team. Youâll have the opportunity to learn new skills, grow your career, and work with the smartest, most passionate people in crypto.</span></p>
+<p><span style="font-weight:400;">We are backed by strategic partners, investors, and advisors who are all-in on our mission: Chamath of Social Capital, Sam Bankman-Fried of Alameda Research, Solana Ventures, and many more.</span></p>
+<p><span style="font-weight:400;">This role will have the primary accountability of designing, implementing, and operating Syndicaâs blockchain infrastructure platform. </span><strong>Golang knowledge is a necessity!</strong><span style="font-weight:400;"> The team operates with a ârun what you writeâ philosophy and each engineer is responsible for deploying and operating the code they write.</span></p>
+<p><span style="font-weight:400;">A successful candidate must have demonstrable experience in at least one programming language (preferably Go, Rust or C++), and previous work in SaaS application development and operations. You will be responsible to ensure the environment is built, deployed, configured, managed, and monitored correctly to support the business. The ideal candidate will also have prior experience developing applications on either of the three major cloud platforms - AWS, Azure, or GCP via Kubernetes.</span></p>
+<h3><strong>Responsibilities</strong></h3>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Design, creation, and provisioning of infrastructure</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Write beautiful maintainable Golang code - idiomatic Go!</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Create modular and extensible micro-services to support the platform</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Build a reliable fault-tolerant service</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Identify and troubleshoot any availability and performance issues at multiple layers of deployment, from hardware, to operating environment, network, and application</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Evaluate performance trends and expected changes in demand and capacity, and establish the appropriate scalability plans</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Troubleshoot and solve customer platform issues</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Ensure that SLAs are met in executing operational tasks</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with other engineers to implement operational solutions while defining and adhering to industry best practices</span></li>
+</ul>
+<h3><strong>Qualifications</strong></h3>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">3+ years related professional experience using Golang</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with Prometheus/Grafana for metrics aggregation/visualization is plus</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with automation tools/platforms</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with alerting and monitoring tools is plus</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience working in a highly distributed company is a plus</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Align a portion of your day with the business hours of Central Time Zone - UTC -6</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Systematic problem-solving approach, combined with a strong sense of ownership and drive</span></li>
+<li style="font-weight:400;">Â </li>
+<li style="font-weight:400;"><span style="font-weight:400;">Some working knowledge of web and network protocols and standards (HTTP, TLS, DNS, etc)</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience writing automation tools & eagerness to "automate all the things"</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Bachelor's degree in Computer Science or related field or relevant experience</span></li>
+</ul>
+<h3><strong>What does success in this role look like?</strong></h3>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">In three months, you have become one of our lead Golang developers. Youâll have taken on independent code review responsibilities and are collaborating on the design of new features</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">In six months, you have earned the trust of the team and are delivering tasks through the entire SDLC, from design through development with minimal guidance, and are helping to effectively mentor new engineers joining the team</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">In twelve months, you have established a cadence of predictable, on-time delivery without cutting corners</span></li>
+</ul>
+<p class="sc-bdvvtL jgAYSX">Â </p>
+</div>
+</div><br/><br/>Please mention the word **NIFTY** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/b7eca1364e2e3d894666cdfae86f2e651670138137.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +196,7 @@
                     <code>c#,software,code,cryptocurrency,architect,financial,fintech,senior,engineer,engineering,backend</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-c-backend-software-engineer-code-reviewer-alphapoint-158895" align="right" target="_blank">Apply</a>
@@ -45,39 +231,7 @@
 <li>$100 of the Cryptocurrency of your choice upon signing</li>
 <li>Company paid Co-Working benefits</li>
 <li>$2500/year for learning and development</li>
-</ul><p style="line-height:1.38;"> </p><p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ECONOMICAL** and tag RNTQuMjIxLjU0LjE0NA== when applying to show you read the job post completely (#RNTQuMjIxLjU0LjE0NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/ab1df706e537e3df787deff781d7da301670051722.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Coinshift</h5>
-                    <h3>Senior Backend engineer</h3>
-                </td>
-                <td width="300">
-                    <code>design,web3,crypto,ethereum,technical,testing,code,financial,management,lead,senior,engineer,backend,full-time,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-coinshift-158389" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size:18px;">About Coinshift</b></div><div><br></div><div>Coinshift is a leading non-custodial treasury management platform built on top of Gnosis safe. It provides a smart and sophisticated user experience layer to manage treasury ops in an efficient manner.</div><div>Our mission is to build the most sophisticated multi-chain crypto treasury management platform for DAOs & companies.</div><div><br></div><div>We are currently a hyper-growth business targeting an immediate $100+ billion market with a very ambitious vision and roadmap. We manage billions of dollars in assets currently, and strongly believe itâs still day 1 for Coinshift. We are backed by the best-in-class VC investors globally. We are and want to be run as a technology company, not a financial service provider, and we build our culture around core values of ambition, collaboration, entrepreneurship, transparency, and meritocracy.</div><div><br></div><div>Since launching the MVP in June 2021, weâve seen crazy traction from having nearly $150M+ in processed payments to having a billion dollars in assets under management. We now serve thousands of users across three continents and over 10 different countries. And weâre just getting started.</div><div><br></div><div>The development of Coinshift v2 is underway and we are currently looking for a full-time backend engineer with strong skills in backend and web3 technologies.</div><div><br></div><div><b>What will you achieve:</b></div><div><br></div><div>-You'll work with the core team to build new product features from start to finish: through conception, research, implementation, and maintenance.</div><div>-You'll participate in backend architecture decisions and guide team members in technical knowledge with best practices.</div><div>-You'll implement state of the art multi-chain web3 user experiences and actively learn about the latest developments in web3.</div><div><br></div><div><b>What skills do you bring:</b></div><div><br></div><div>
-<b>-Experienced leader:</b> You have worked at product based companies for more than 6 years including more than 2 years in web3 organisations, have participated in architecture design and deployment pipeline. You have worked with backend teams where you lead the team to achieve fast iterations and high code quality.</div><div>
-<b>-Familiarity with backend technologies:</b> You're well versed with AWS technologies, Javascript, <a href="http://Node.js" class="postings-link" rel="noopener noreferrer nofollow">Node.js</a>, MySQL.</div><div>
-<b>-Familiarity with web3 technologies:</b> You're well versed with web3js/ethersjs and understand ethereum blockchain and itâs tool stack, such as Metamask</div><div>
-<b>-Thoughtful problem-solving:</b> You have the ability to break down a problem until you get a clear and accurate understanding of the context.</div><div>
-<b>-Navigating ambiguity in design:</b> You can translate high level designs into production-ready systems. Given clear requirements, you are comfortable making judgments and tradeoffs in the user experience on your own.</div><div>
-<b>-Put users first:</b> You think critically about the implications of what you're building, and how it impacts real people's lives.</div><div>
-<b>-Empathetic communication:</b> You communicate ideas clearly in plain english. In disagreements, you listen to other perspectives and compromise when needed.</div><div>
-<b>-Team player:</b> You enjoy collaborating cross-functionally to accomplish shared goals, and you care about learning, growing, and helping others to do the same.</div><div><br></div><div><b>Nice to Haves:</b></div><div><br></div><div>-You're proficient with technologies that are part of our stack, including Express, Datadog.</div><div>-You participate in open source projects and web3 hackathons, or write about web3 technology.</div><div>-You have experience in backend integration testing and in debugging performance issues.</div><div>We are committed to fostering diversity and inclusiveness within our organization, and we strongly encourage candidates of all backgrounds to apply, even if they donât match all the above criteria.</div><div><br></div><div>If you are hired, you will have the option of fiat/USDC payments made monthly</div><div><br></div><div>We look forward to your application!</div><br/><br/>Please mention the word **CORRECT** and tag RNTQuMjIxLjU0LjE0NA== when applying to show you read the job post completely (#RNTQuMjIxLjU0LjE0NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p style="line-height:1.38;"> </p><p> </p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ECONOMICAL** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -92,7 +246,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>391 days ago</text>
+                <text>392 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer" align="right" target="_blank">Apply</a>
@@ -174,7 +328,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
