@@ -1,5 +1,185 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/10b491eb369de0a5bf4f4939b9a5dd0e1670483725.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>C3 Protocol</h5>
+                    <h3>Senior Software Engineer Trading</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,system,testing,lead,senior,engineer,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-trading-c3-protocol-160874" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro"><h2>About The Role</h2></div><p><strong>Job Overview:</strong></p>
+<p>We are looking for a Senior Software Engineer to lead the development of high-performance, low-latency trading system and a monitoring system around it. This individual will be working alongside the leadership team throughout its design and implementation. Experience with optimization and low-level systems programming is required.</p>
+<p><strong>Responsibilities:</strong></p>
+<ul>
+<li>Development of a high-performance, low-latency trading system.</li>
+<li>Maintain highly reliable software systems enabling 24/7 trading</li>
+<li>Thorough testing and monitoring at unit and functional level</li>
+</ul>
+<p><strong>Requirements:</strong></p>
+<ul>
+<li>Excellent analytical and quantitative skills</li>
+<li>Excellent optimization skills</li>
+<li>Experience with low level system programming</li>
+</ul>
+<div class="p-rich_text_section"><strong>Benefits:</strong></div>
+<ul class="p-rich_text_list p-rich_text_list__bullet">
+<li>International competitive salaries</li>
+<li>Significant equity incentive</li>
+<li>Flexible vacations</li>
+<li>Flexible hours</li>
+<li>Cutting edge technologies</li>
+</ul>
+<p><strong>Location:</strong></p>
+<ul>
+<li>Remote: GMT-7 to GMT -2</li>
+</ul><br/><br/>Please mention the word **CONVIENT** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/66fb14805342dc1aca831b58d96384d81670483786.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Audius</h5>
+                    <h3>Software Engineer Infrastructure & Tooling</h3>
+                </td>
+                <td width="300">
+                    <code>software,solidity,crypto,ethereum,react,system,music,architect,code,web,api,engineer,linux,backend</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-tooling-audius-160896" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b>Who are we? </b></div><div>
+<a href="https://audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius</a> is a digital streaming service that connects fans directly with artists and exclusive new music.Â </div><div><br></div><div>It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can freely build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence.</div><div><br></div><div>Backed by an all-star team of <a href="https://www.crunchbase.com/organization/audius/company_financials#investors" class="postings-link" rel="noopener noreferrer nofollow">investors</a>, Audius was founded in 2018 and serves over 6 million users every month, making it the largest non-financial crypto application ever built.</div><div><br></div><div><b>Who we are looking for? </b></div><div>We are looking for passionate team-players to help us architect and build the most difficult parts of the <a href="http://whitepaper.audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius protocol</a> (high availability services for decentralized replication of data, latency-sensitive distributed file transfers, Ethereum smart contracts, infrastructure and tooling for third parties to run our open source services). You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. Youâre eager to jump into multiple parts of our tech stack and have strong CS fundamentals to do so. We solve a lot of problems that can't be easily Googled or searched on StackOverflow.</div><div><br></div><div><b>Our Company</b></div><div>Audius is a 30-person team of entrepreneurs, engineers, music industry professionals, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have monthly concert stipends, wellness benefits, team activities, and bi-annual in-person get-togethers.</div><div><br></div><div>Our company is fully remote and our team is currently distributed across the United States. </div><div><br></div><div><b>Our Tech Stack</b></div><div>Frontend: React, React Native, Redux, Redux-Saga, Electron, Typescript, Javascript</div><div>Backend: Postgres, Elasticsearch, Redis, IPFS, Python, Typescript, Javascript, Rust (Solana), Solidity (Ethereum), Docker</div><h4>What you'll do here</h4>Design and build resilient infrastructure that decentralized third-parties run on diverse hardwareHelp architect and deploy across the backend of the Audius stack including databases, monitoring, logging, and load-testingBuild tooling that supports the Audius team and a network of third-parties that operate infrastructure for the protocolPerform thoughtful architecture and code reviewsOwn features end-to-end including release plans, monitoring, and incident/bug triage<h4>We would love to chat if you have</h4>Experience with a modern programming language (Our stack is in Javascript/Typescript, Python, Rust, and Solidity)Strong shell scripting and Linux fundamentals and a love for building great command line toolsSolid conceptual understanding of backend software development including system architecture, web serving infrastructure, API & database designGreat interpersonal and communication skills and comfort working within a small teamFamiliarity with version control and agile software development methodologiesAn awesome attention to detail<div><br></div><div>If this role speaks to you, but your previous experience doesn't match the job description, please consider applying anyways! We're looking for smart and capable software engineers and highly value the ability to grow in your role. You might be the perfect fit!</div><br/><br/>Please mention the word **CONVINCING** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/13894d520bc27d1f32dce29bee8d2aac1670483766.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Rift Finance</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,crypto,system,code,finance,cloud,go,engineer,engineering,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-rift-finance-160889" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b>About Rift</b></div><div><br></div><div>We are a remote-first, global company. We are hiring internationally.Â </div><div><br></div><div>The internet gave us freedom of information. Crypto gives us economic freedom. Come help us combine these technologies so that every human across the world can achieve freedom and opportunity no matter where they were born.</div><div><br></div><div>Through combining our long-term vision for how these technologies will impact society with consistent, pragmatic execution our team of 5 built a platform that has already processed over $70M leading to our $18M fundraise from top investors including Pantera, Two Sigma Ventures, Coinbase Ventures alongside angel investors including Stani Kulechov (founder of Aave), Sandeep Nailwal (cofounder of Polygon) and more.</div><div><br></div><div>If you are looking to join a passionate, motivated team and leverage your engineering abilities to develop software that levels the playing field for people across the globe join us at Rift. Weâre building a future that re-centers the individual in the internet.</div><div><br></div><div><span style="font-size:18px;">About the Role</span></div><div><br></div><div>Software engineers are responsible for the design and implementation of foundational components of the Rift protocol stack while also having responsibilities to collaborate with the wider engineering team to improve our overall architecture and code quality.</div><h4>Responsibilities:</h4><ul>
+<li>Develop our core software stack from the design stage all the way to production ready implementations.</li>
+<li>Design crypto-economic protocols for coordinating agents in distributed networks.</li>
+<li>Improve the design of peerâs architecture through thoughtful, professionally communicated feedback.</li>
+<li>Contribute to open source projects and play a role in building out the crypto ecosystem at large.</li>
+<li>Develop SDKs that abstract away the complexity of our software stack into a simplified user friendly toolkit.</li>
+</ul><h4>Requirements:</h4><ul>
+<li>3-7 years of experience in a backend software engineering role.</li>
+<li>Significant experience with a systems language like Go (preferred), Rust, or C++</li>
+<li>Extensive experience managing the software development life cycle for medium to large projects</li>
+<li>Experience building SDKs, APIs, or otherwise building and maintaining a production system at scale.</li>
+<li>Experience with AWS, GCP or similar cloud providers</li>
+<li>Desire to keep up with modern best practices in software development and crypto, and shape our tech stack as we build out new systems and services</li>
+</ul><div>Our benefits include competitive compensation, early stage equity allocations, team outings, wellness stipends, 401k with employer matching (for US employees), unlimited PTO,Â medical, dental, and vision insurance. In addition, you'll join a team of high caliber engineers who are innovating at the frontier of crypto that all work collaboratively to help one another accelerate their growth.</div><div><br></div><div>We are a mission driven company. We believe deeply that through software engineering we can build a self-sovereign society. In our day to day, we make decisions based upon our company values of Individual Autonomy, Long-Term Orientation and Open Access.</div><div><br></div><div>The future belongs to all of us, independent of our origins. Rift is an equal opportunity employer and does not discriminate on the basis of race, religion, color, sexual orientation, gender or any other status protected under federal, state or local law.Â Â  We celebrate diversity and inclusion among our team mates and seek to hire talent that will add to our culture.</div><br/><br/>Please mention the word **EUPHORIA** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/28b24ec4964bc47ea6263458c1a899051670483724.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Blockstream</h5>
+                    <h3>Lead Software Engineer Blockstream Mining</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,bitcoin,system,security,technical,support,testing,test,financial,cloud,strategy,management,lead,operations,engineer,engineering,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-lead-software-engineer-blockstream-mining-blockstream-160873" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><span style="font-weight:400;"><a href="https://blockstream.com/" rel="noopener noreferrer nofollow">Blockstream</a> was founded in 2014 by <a href="https://en.wikipedia.org/wiki/Adam_Back" rel="noopener noreferrer nofollow">Dr. Adam Back</a> and a group of fellow cryptographers and engineers passionate about Bitcoin and its potential to change the future of finance. Focusing on building fundamental Bitcoin infrastructure, Blockstream quickly grew into one of the leading technology power houses of the industry.</span></p>
+<p><span style="font-weight:400;">At Blockstream, weâre building solutions on Bitcoin that will disrupt the existing financial system. We imagine a world where individuals and businesses can easily access a global, permissionless system to secure their money, use it every day, and invest it or put it to work. In pursuit of our expansive vision, weâve built a full stack of innovative products on top of the Bitcoin protocol, from layer 2 projects like Liquid and Core Lightning, to end user software and hardware wallets like Green and Jade. Our brand stands for innovation in the Bitcoin community, and weâre growing our team to accelerate the future. Come join us in our mission!</span></p>
+<p><span style="font-weight:400;">We are looking for a Lead Software Engineer to manage the development of our in house mining management platform. This role is focused on building backend infrastructure but will liaise with the frontend. As a Lead Software Engineer, you will be responsible for oversight and engineering planning of new, expanded, or enhanced platforms. This is a key hands-on role within our Mining Operations product engineering team with the opportunity to develop, deliver, and support innovative products in a quickly growing and exciting industry. We are looking for an engineer who is a âbig-pictureâ thinker who thrives on creating application architecture and solving challenging technical problems.</span></p>
+<p><strong>What Youâll Be Doing (Responsibilities):</strong></p>
+<ul>
+<li><span style="font-weight:400;">Own the software development life cycle which includes establishing the scope, business requirements, technology analysis, development best practices, and testing requirements</span></li>
+<li><span style="font-weight:400;">Design, develop, debug, integrate, deploy, and maintain applications that meet requirements and business objectives</span></li>
+<li><span style="font-weight:400;">Works with other functional areas to establish a design, technology, product development strategy and influence and drive decisions to meet development standards and launch within project timelines</span></li>
+<li><span style="font-weight:400;">Implement software engineering solutions to meet requirements, architectural direction, and adoption efforts</span></li>
+<li><span style="font-weight:400;">Determine root cause for the most complex software issues and develop practical, efficient, and permanent technical solutions.</span></li>
+<li><span style="font-weight:400;">Code (and responsible for teamâs code) and successfully perform unit and integration testing of software to ensure proper and efficient execution, as well as compliance to the business and technical requirements</span></li>
+<li><span style="font-weight:400;">Work in Node.js, MySQL, and Mongo with deep knowledge on basic algorithms and other Document and Key-Value data structures and ability to adopt new languages and architecture patterns needed for the work</span></li>
+<li><span style="font-weight:400;">Resolve problems that arise with production applications in a timely manner to ensure the efficient and proper functioning of application components</span></li>
+<li><span style="font-weight:400;">Migrate applications to quality assurance and/or the production environment, or perform quality assurance as necessary</span></li>
+<li><span style="font-weight:400;">Capable of coaching, leading, and communicating a vision for best practices, coding standards, automation, test driven and behavioral driven development</span></li>
+</ul>
+<p><em><strong>Our current stack:</strong></em></p>
+<ul>
+<li>
+<span style="font-weight:400;"> Â  </span><span style="font-weight:400;">Backend: Typescript, Websockets</span>
+</li>
+<li>
+<span style="font-weight:400;"> Â  </span><span style="font-weight:400;">Frontend: Typescript</span>
+</li>
+<li>
+<span style="font-weight:400;"> Â  </span><span style="font-weight:400;">Node.js</span>
+</li>
+<li>
+<span style="font-weight:400;"> Â  </span><span style="font-weight:400;">Google Cloud</span>
+</li>
+<li>
+<span style="font-weight:400;"> Â  </span><span style="font-weight:400;">Docker, Kubernetes</span>
+</li>
+</ul>
+<p><strong>What We Look For In You (Required Qualifications):</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Bachelorâs degree or higher in computer science, engineering, or related field or equivalent experience</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">10+ years of experience in product software design and development engineering</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">5+ years of experience acting in lead, supervisory, or mentor capacity</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience working in Google Cloud environments</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Solid understanding of SQL and Database Schema</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience leading multiple concurrent IT projects (e.g., capacity planning, application migrations, etc.)</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience in the full software development lifecycle and end-to-end testing</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Must be committed to incorporating security into all decisions and daily job responsibilities</span></li>
+</ul>
+<p><br></p><br/><br/>Please mention the word **EXCEEDED** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/4c61f19f2bdc8ce17724c96bee8f0b401670224558.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +190,7 @@
                     <code>software,crypto,ethereum,c,c++,lead,senior,go,health,engineer</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-flashbots-159395" align="right" target="_blank">Apply</a>
@@ -56,7 +236,7 @@
 <p> </p>
 <hr>
 <p>Join us to help solve hard problems that have asymmetric impact and strike at the core of crypto.</p>
-</div><br/><br/>Please mention the word **SOFTER** and tag RNTQuMjIxLjU0LjE0NA== when applying to show you read the job post completely (#RNTQuMjIxLjU0LjE0NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **SOFTER** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -71,7 +251,7 @@
                     <code>software,saas,docker,test,code,scrum,fintech,java,legal,engineer,apache</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-java-axoni-158889" align="right" target="_blank">Apply</a>
@@ -105,7 +285,7 @@
 <li>Experience with SaaS </li>
 <li>Capital markets and fintech experience</li>
 <li>Familiarity or interest in learning scala</li>
-</ul><div>Individuals seeking employment at Axoni are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. You are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements.</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/xO7B4WYKVZE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **APPRECIATES** and tag RNTQuMjIxLjU0LjE0NA== when applying to show you read the job post completely (#RNTQuMjIxLjU0LjE0NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>Individuals seeking employment at Axoni are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. You are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements.</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/xO7B4WYKVZE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **APPRECIATES** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -120,7 +300,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/cloudsmith-senior-staff-software-engineer-experienced" align="right" target="_blank">Apply</a>
@@ -178,7 +358,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>36 days ago</text>
+                <text>37 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote" align="right" target="_blank">Apply</a>
@@ -250,6 +430,96 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4854/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>AssemblyAI (YC 17)</h5>
+                    <h3> Senior Software Engineer, Python</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>120 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/4854/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> United States
+    <br /><strong>URL:</strong> <a href="https://www.assemblyai.com/">https://www.assemblyai.com/</a>
+</p>
+
+<div>We're looking for a senior backend engineer with strong software and cloud engineering skills. You'll help us build highly scalable developer-centric APIs and backend systems powered by state-of-the-art ML models. Some of your responsibilities will include:</div><ul>
+<li>Build new API features and endpoints</li>
+<li>Build automated test suites and CI/CD pipelines</li>
+<li>Build highly scalable event-driven and realtime systems</li>
+<li>Instrument systems with metrics, tracing, and logging </li>
+<li>Refactor applications to eliminate tech debt</li>
+<li>Troubleshoot production issues</li>
+</ul><h1><strong>You'll love this job if you....</strong></h1><ul>
+<li>Enjoy solving complex technical problems, even when there is no perfect solution.</li>
+<li>Enjoy being in a fast-paced, customer-facing role.</li>
+<li>Thrive in small, cross-functional teams. We like to wear many hats here!</li>
+<li>You're excited to tackle big technical challenges like building highly scalable architectures and achieving zero-downtime deploys.</li>
+</ul><h1><strong>Requirements</strong></h1><ul>
+<li>6+ years of professional experience building backend applications using any popular language such as Python, Java, C#, JavaScript, Go, C/C++</li>
+<li>4+ years of working with SQL and NoSQL databases</li>
+<li>3+ years of production support experience</li>
+<li>3+ years working with common AWS services</li>
+<li>3+ years developing REST APIs</li>
+<li>3+ years of experience working with Python</li>
+<li>3+ working with Python backend frameworks like Django, Flask, or Tornado</li>
+<li>Experience migrating systems to meet increasing traffic/scale</li>
+<li>
+<strong>Startup or FAANG-type experience </strong>- Has worked at a startup or high growth company</li>
+<li>
+<strong>Deep AWS knowledge </strong>- Has many years of experience solutioning within AWS</li>
+<li>
+<strong>Strong Python coding abilities </strong>- Can pass difficult programming challenges in a relatively short period of time. Can speak clearly about their thinking throughout these challenges. Can speak to O-notation of algorithms. Has excellent knowledge of common python idioms and libraries.</li>
+<li>
+<strong>High scalability experience</strong> - Has been a tech leader on scaling systems to hundreds of millions of requests/events per day. Has experience with hyper-observability, scaling algorithms, and using production data to drive system changes</li>
+</ul><h1><strong>Skills</strong></h1><ul>
+<li>
+<strong>Amazing system design chops </strong>- When given a hard problem to solve with a new system, they can quickly shape an effective design and communicate its strengths, weaknesses, and tradeoffs.</li>
+<li>
+<strong>High-octane thinking</strong> - Engages deeply on subjects of expertise. Thinks ahead many steps and can see where decisions are likely to lead. Their brains compute at a very high level.</li>
+<li>
+<strong>Extremely creative </strong>- Can find both novel and effective solutions within highly constrained time and resources</li>
+<li>
+<strong>Fast learner</strong> - Has shown they can ramp up on difficult topics very fast</li>
+<li>
+<strong>Exceptional gut instincts </strong>- Can practically feel when something is right or wrong. Can use these instincts to quickly point themselves in the right direction.</li>
+<li>
+<strong>Opinionated</strong> - They have convictions in what they believe and can communicate their position clearly without drama.</li>
+</ul><h1><strong>Nice to Have</strong></h1><ul>
+<li>Machine learning experience - Has worked with machine learning models at scale</li>
+<li>Experience integrating and deploying ML models into production</li>
+</ul><h1><strong>Benefits (US)</strong></h1><ul>
+<li>Competitive Salary + Bonus</li>
+<li>Equity</li>
+<li>401k</li>
+<li>100% Remote team</li>
+<li>Unlimited PTO</li>
+<li>Premium Healthcare (100% Covered for you + dependents)</li>
+<li>Vision &amp; Dental Care</li>
+<li>$1K budget for your home office setup</li>
+<li>New Macbook Pro (or PC if you prefer)</li>
+<li>2x/year company paid team retreat</li>
+</ul><h1>Salary Range (Global): $125,000 - $200,000</h1>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python">https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -260,7 +530,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -322,7 +592,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
@@ -376,30 +646,6 @@
 <li>Machine learning or data science experience</li>
 </ul>
 <img src="https://remotive.com/job/track/1187416/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1569512792381878278/Smf8h3tt_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>ConvertKit</h5>
-                    <h3>Senior+ Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://apply.workable.com/convertkit/j/821170BB26" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>ConvertKit is a creator marketing platform built to empower creators to earn a living online. We help them own their audience and turn fans into customers. For makers, authors, chefs, musicians, athletes, and anyone else making a living by creating the culture we all love, there isn’t a better tool for reaching inboxes. More importantly, there isn’t a team more committed to helping creators earn a living doing work that matters.</p><p>We’re on a mission to help creators earn $1 billion using our SaaS marketing platform. We have always been 100% independent and 100% remote. We are proud to have built a product that our customers love, that 25,000+ creators use to earn a living, and we look for people who have enthusiasm and belief in our mission, vision, and values to join our team.</p><h3><br></h3><h3>The Role</h3><p>You’ll join a strong team of engineers responsible for building and supporting ConvertKit's core application logic, including our<a href="https://convertkit.com/features/email-marketing" rel="nofollow noreferrer noopener" class="external"> email marketing</a>,<a href="https://convertkit.com/features/automations" rel="nofollow noreferrer noopener" class="external"> visual automation</a>, and<a href="https://developers.convertkit.com/" rel="nofollow noreferrer noopener" class="external"> API</a> products. This team tackles some of the ConvertKit's most challenging aspects of the platform, like background processing systems which handle 100 million jobs a day. You’ll collaborate with other engineers, designers, and product managers to build sound, scalable features and refactor code to meet the demands of growth and scale.</p><p>To learn more about how our engineering team works, you can peruse<a href="https://convertkit.engineering/" rel="nofollow noreferrer noopener" class="external"> our engineering blog</a>.<br></p><h3>Requirements: </h3><ul> <li>At least four years building software in a team environment or equivalent experience. Years of experience doesn’t always capture expertise, so we encourage you to apply if you can demonstrate you’re well versed in building software in a team environment</li> <li>At least two years working professionally on a Ruby on Rails application or equivalent experience. Years of experience doesn’t always capture expertise, so we encourage you to apply if you can demonstrate a confident grasp of Ruby on Rails. Have more experience than that? Even better</li> <li>Experience writing code that is accessible, scalable, maintainable, and performant</li> <li>Experience working with background job processing environments - like Sidekiq and Redis</li> <li>Experience writing complex queries for relational databases - we use MySQL.</li> <li>Comfortable working remotely in an autonomous environment - you don’t mind asking questions and problem solving in public communication channels.</li> <li>Able to work in US time zones - you don’t have to live in those time zones, but you have to be able to collaborate with your teammates during those times</li> <li>Belief in our<a href="https://convertkit.com/mission" rel="nofollow noreferrer noopener" class="external"> mission, vision, and values</a> </li> </ul><p>To get a better idea of the type of work you’ll do with us, here are some examples of our recent work:</p><ul> <li>Enable queries to a replica database to handle varying levels of acceptable latency</li> <li>Optimize our business logic to prevent unnecessary table scans in MySQL</li> <li>Migrate data and queries from MySQL to Elasticsearch and ensure data consistency</li> <li>Pitch an improvement to our Elastic Stack cluster architecture</li> <li>Conceptualize<a href="https://betterprogramming.pub/a-short-practical-programmers-guide-to-graph-theory-bfc87bc52581" rel="nofollow noreferrer noopener" class="external"> Graph Theory</a> and pinpoint where our logic may be overly expensive</li> <li>Respectfully poke holes in a discussion about pub/sub implementation across our codebase</li> <li>Set a dynamic Cassandra bucket threshold to prevent long hashing times</li> <li>Upgrade our application to newer versions of Ruby and Rails!</li> </ul><h3>Benefits: </h3><p>ConvertKit has standardized salaries based on position, no matter where you live. We have six engineering levels. For this role, we’re hiring at a level 4 ($166,500) or level 5 ($187,500). The level is based upon your experience, our interview process, and our engineering matrix.</p><p><br></p><p><strong>Other benefits include:</strong></p><ul> <li>Profit Sharing - <a target="_blank" href="https://twitter.com/nathanbarry/status/1491429183977050114" rel="nofollow noreferrer noopener" class="external">Learn about profit sharing and compensation at ConvertKit</a> </li> <li>Four weeks paid vacation per year</li> <li>$1,000 yearly vacation bonus for taking five consecutive days of vacation, fully unplugged from work</li> <li>Equity in ConvertKit - when you join and when you help us hit company targets</li> <li>401k with a 5% match</li> <li>10 paid holidays a year</li> <li>Two weeks of paid sick + mental health and wellbeing time per year</li> <li>Up to six weeks of paid bereavement leave, medical leave, and disaster after six months of employment, two weeks of each paid leave in your first six months</li> <li>12 weeks paid parental leave and flexible scheduling in your child’s first year</li> <li>$3,000 annual childcare benefit</li> <li>Monthly medical benefits up to $1,600 a month toward premiums. Dental and vision premiums covered 100%</li> <li>Gender-affirming benefits</li> <li>$4,000 equipment allowance for your first two years, $3,000 budget every following two years (US employees only)</li> <li>$3,500 annual learning &amp; development budget</li> <li>Four-week, paid sabbatical after five years with the team</li> <li>The team gathers twice a year for fantastic virtual or in-person retreats</li> </ul><h3><br></h3><h3>How to Apply</h3><p>We know that interviewing can be a stressful and anxiety-inducing process (we relate!). We aim to make it as good an experience as we can, and part of that includes keeping you informed during the process.</p><p>Here’s what the full set of hiring steps looks like:</p><ul> <li>Complete your application, which includes two, short-answer questions</li> <li>Phone screen with the hiring manager</li> <li>Complete a short, 2-hour coding and writing assignment</li> <li>Technical interview to discuss the homework assignment and your technical knowledge with two engineers on the team</li> <li>Culture contribution interview with a product team member and another person from the team</li> <li>Technical storytelling interview with two members of the team (at least one from engineering)</li> </ul><p>To get started, complete this application, including answers to the questions on the next page. We read every single application, and your responses to our application questions help put your experience into context.</p><p>ConvertKit is an equal opportunity employer. We value diversity in all of its forms, and we hire the best person we can for each role, no matter your personal background. Research tells us that applicants who are female or non-binary, as well as applicants who are people of color, are less likely to apply for roles they do not feel 100% qualified for. If you think you meet more than 50% of our requirements but fewer than 100% of them, please apply. We’re imperfect communicators, so think of our job postings as the starting point for discussion rather than proof that you shouldn’t apply.</p>
                 </details>
                 </td>
             </tr></table>
