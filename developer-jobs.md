@@ -10,7 +10,7 @@
                     <code>ethereum,developer,solidity,react,system,security,technical,ui,web,financial,lambda,nodejs,operations,operational,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-ethereum-developer-openzeppelin-160378" align="right" target="_blank">Apply</a>
@@ -88,7 +88,7 @@
 <h3 class="job-description-title"> </h3>
 </div>
 </div>
-</div><br/><br/>Please mention the word **SEXY** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **SEXY** and tag RMzQuMjM5LjE1Ni42MQ== when applying to show you read the job post completely (#RMzQuMjM5LjE1Ni42MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -103,7 +103,7 @@
                     <code>developer,design,ethereum,system,security,game,testing,growth,code,senior,e-commerce,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-blockchain-developer-boson-protocol-160386" align="right" target="_blank">Apply</a>
@@ -189,78 +189,64 @@
 <li>
 <strong>Stay lean:</strong><span style="font-weight:400;"> Our ethos is to create and share value equitably, with minimal value extraction.</span>
 </li>
-</ul><br/><br/>Please mention the word **PLAYFUL** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **PLAYFUL** and tag RMzQuMjM5LjE1Ni42MQ== when applying to show you read the job post completely (#RMzQuMjM5LjE1Ni42MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/317746dad178809c79824313b9bda0541670224526.peg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1525/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>corpus.ventures</h5>
-                    <h3>DevOps Engineer And Developer</h3>
+                    <h5>resOS ApS</h5>
+                    <h3> Full stack WordPress developer with SEO experience for international site </h3>
                 </td>
                 <td width="300">
-                    <code>developer,web3,ethereum,security,technical,software,devops,cloud,git,node.js,go,engineer,digital nomad</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-devops-engineer-and-developer-corpus-ventures-159386" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/resos-aps-full-stack-wordpress-developer-with-seo-experience-for-international-site" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>We build web3 products. Our roots go back to the birth of Ethereum, hardened by the experience of TheDAO, slock.it, aleth.io, atpar.io, and many more projects. Strongly driven by Ethereumâs values such as openness, interoperability, censorship resistance, and decentralization. We are a venture studio buidling for the self- sovereign individual. Upgrading the web!</p>
-<p>Join our team and work directly with the founders to build the future of the upcoming decentralized web. In this role youâll be taking a leading position within a small and driven team to expand, improve, and create new ways to manage all our deployed services and products, and you are also a passionate developer to build web3 and cloud based solutions. Ideally, you have experiences in skaling of applications and security, too. Youâll have the creative freedom to think of the best ways of how to do the task at hand while working in an agile environment. Our ideal candidate has substantial infrastructure experience in a range of environments and an understanding of Ethereum and Web3. Weâre looking for a next generation DevOps Engineer and Developer to join our team as soon as possible.</p>
-<p>We are looking for real 10x engineers for our core team! You know what this is? And you are one of those? Great!</p>
-<p> </p>
-<h3>We Need Someone Who</h3>
-<ul>
-        <li>Loves web3 and blockchain and is endlessly curious about how decentralized development technologies are evolving.</li>
-        <li>Understands blockchain architecture and modern blockchain notions, such as validators, bridges, and oracles.</li>
-        <li>Has the ability to analyze and resolve complex infrastructure tasks and application deployment issues.</li>
-        <li>Has experience with distributed blockchain systems, ideally has also experience in running and maintaining blockchain full nodes.</li>
-        <li>Has experience building and maintaining CI/CD pipelines.</li>
-        <li>Has experience employing Git Flow or other Git workflow strategies.</li>
-        <li>Is comfortable around various programming languages.</li>
-        <li>Can showcase substantial experience in building reliable software infrastructure, specifically for Node.js & Typescript.</li>
-        <li>Brings a personal history of contributing to or experience using open-source projects.</li>
-        <li>Has experience with agile methodologies, a rapid development cycle as well as experience working in a distributed team.</li>
-        <li>Brings the ability to work autonomously, be proactive, prioritue, communicate, and function in a team setting.</li>
-        <li>Has strong analytical and critical thinking skills.</li>
-        <li>You feel comfortable developing and building a prototype completely by yourself or in a small team.</li>
-</ul>
-<p>You donât completely meet all these requirements? No worries. If you think you have what it takes for our fun startup environment, apply anyway. While we have a pretty clear picture of what we need, weâre willing to let you challenge our vision of this role.</p>
-<h3>What You'll Be Doing</h3>
-<ul>
-        <li>Actively participate in the development of our projects, take charge of implementing features, and solving bugs.</li>
-        <li>Build secure and reliable infrastructure to monitor, detect and, mitigate performance and security issues.</li>
-        <li>Review currently used technologies and tools and research new solutions to adapt to the latest standards.</li>
-        <li>Design, built, and operate our platform and ensure that everything we develop is scalable, testable, maintainable, highly available, and secure.</li>
-        <li>Implement and manage automation tools and frameworks (CI/CD pipelines).</li>
-        <li>Create, maintain, and communicate threat models and risk assessments for all systems we operate.</li>
-        <li>Enforce and maintain security practices as well as help to train and guide the team in DevOps practices.</li>
-        <li>Scale infrastructure to onboard new projects.</li>
-        <li>Participate in the Ethereum ecosystem events from the DevOps side.</li>
-</ul>
-<h3>
-<br>
-Why Work For Us</h3>
-<ul>
-        <li>Directly shape the future of a new venture studio and play an active role in it.</li>
-        <li>Work together with one of the best technical teams on Ethereum.</li>
-        <li>Great colleagues and inspiring startup enviroment.</li>
-        <li>Opportunity to work on variety of exciting projects.</li>
-        <li>Home workstation and equipment budget.</li>
-        <li>Ultimate location and work time flexibility: We provide you with the ability to truly work from anywhere in the world.</li>
-        <li>Unlimited vacation policy (yes you heard that right!).</li>
-        <li>A competitive salary.</li>
-        <li>Join amazing in-person offsites all over the world.</li>
-</ul>
-<p>We have ambitious plans for our future and weâre counting on your expertise to help make them a reality. So if youâre up for it, weâd love to hear from you! </p><br/><br/>Please mention the word **AFFIRM** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <img src="https://we-work-remotely.imgix.net/logos/0082/1525/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Denmark, Copenhagen
+    <br /><strong>URL:</strong> <a href="https://resos.com">https://resos.com</a>
+</p>
+
+<div> </div><div>Do you want to be part of a fully-funded product company working in the restaurant industry with the option to work remotely? And do you have a technical flair and can navigate Wordpress like a pro? We are looking for a talented developer with strong experience with WordPress, PHP, SEO and UI/UX.<br><br>
+</div><div><br></div><div><strong>About resOS </strong></div><div>
+<br>resOS is a restaurant operation system with customers in countries all over the world. We enable restaurants to run their business as efficiently as possible with modern technology. Our system helps restaurants with managing all their data such as opening hours, tables, communication, customers, and much more.<br><br>
+</div><div>We aim at providing our customers with the world’s best product. Having satisfied customers is our number one priority, which is also why we are 100% engaged in delivering fast and friendly customer service. Our customers should have the best possible experience when using our product, and the same goes for when they visit our website. This is where you and your Wordpress skills come into play. <br><br>
+</div><div><br></div><div><strong>Location</strong></div><div>
+<br>We have an office in Copenhagen, Denmark, but we fully support working remotely. Basically, you can work from anywhere you want in the world. <br><br>
+</div><div><br></div><div><strong>Who are you?</strong></div><div>
+<br>We are looking for a skilled and experienced WordPress developer to improve and optimize our company website <a href="https://resos.com/">https://resos.com</a>. You will take ownership of the website to allow resOS to have a first-class website optimized for SEO and conversion. The ideal candidate will have a strong foundation of knowledge and experience related to WordPress, PHP, SEO, and UI/UX. We prefer someone who is experienced with design (Figma, Photoshop or similar) as well as frontend and backend code.<br><br>
+</div><div><br></div><div><strong>What you’ll do</strong></div><ul>
+<li>Facilitate technical website improvements.</li>
+<li>Take ownership of core SEO functions including keyword research, technical SEO and on-site optimisation. </li>
+<li>Making fixes and updates to existing WordPress plugins</li>
+<li>Optimize the website and content for conversion rate optimization </li>
+<li>Develop unique landing pages with engaging content (We can help with the actual content)</li>
+</ul><div><strong><br>Requirements: </strong></div><ul>
+<li>It is required that you have at least a couple of years experience working with WordPress, PHP and SEO.</li>
+<li>You have experience with Search Engine Optimization and web marketing techniques and best practices.</li>
+<li>Professional experience with WordPress plugin development, architecture, and standards.</li>
+<li>Fluency in English.</li>
+<li>Excellent written and verbal communication skills.</li>
+<li>Experience with technical SEO tools like Ahrefs, SEMRush, Google Search console, and Google Analytics is considered a plus.  </li>
+</ul><div>Another thing we require is that you are detail-oriented and deliver your best work. To be able to do that, we always encourage our employees to take the time they need to complete a task, and with no rush. Employee satisfaction and great long-term results are more important to us than rushed short-term results. <br><br>
+</div><div><br></div><div><strong>Application</strong></div><div>
+<br>The position is full-time and we are looking for someone who can start in mid January/February 2023. We look forward to receiving your application.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/resos-aps-full-stack-wordpress-developer-with-seo-experience-for-international-site">https://weworkremotely.com/remote-jobs/resos-aps-full-stack-wordpress-developer-with-seo-experience-for-international-site</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -275,7 +261,7 @@ Why Work For Us</h3>
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -352,7 +338,7 @@ Why Work For Us</h3>
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -378,7 +364,7 @@ Why Work For Us</h3>
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -455,7 +441,7 @@ Why Work For Us</h3>
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -522,7 +508,7 @@ Why Work For Us</h3>
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -577,62 +563,6 @@ Why Work For Us</h3>
 <p>Save your time: Fast and efficient hiring process to match you with the project of your preference.</p>
 <p>Ownership: Take ownership of your work and enjoy more freedom in your career.</p>
 <img src="https://remotive.com/job/track/1359476/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1497219/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MirrorMe3D</h5>
-                    <h3>iOS Developer</h3>
-                </td>
-                <td width="300">
-                    <code>api,developer,ios,mobile</code>
-                </td>
-                <td width="200">
-                <text>23 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/ios-developer-1497219" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;"><em><span style="color: #050c26;"> Contract to Full-time Opportunity<br></span></em><br><br><span style="color: #050c26;">Want to build an app with impact? This may be the place for you!</span></p>
-<p style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;">MirrorMe is looking for an enthusiastic and highly motivated iOS developer to help us reach more patients and help them connect with more doctors, the worldover. We are looking for someone who is passionate about building exceptional apps and experiences for users and who has a strong desire to deliver elegant code and intuitive UI.</p>
-<p style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;">If you love to tackle new challenges, learn new frameworks, and work alongside a results-oriented team, please read below to make sure your experience aligns with our needs and reach out with any questions.</p>
-<p style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;">Responsibilities:</p>
-<ul style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-top: 16px; margin-bottom: 24px; padding-left: 32px; color: #050c26;">
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Create and architect MirrorMe mobile applications</li>
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Maintain and improve existing features on existing application</li>
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Maintain and refactor existing codebase to best practices and new features</li>
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Reference Apple HIG and iOS best practices</li>
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Utilize Fastlane and Continuous Integration tools</li>
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Assess feasibility and develop timelines on implementing new features</li>
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Work with web developers on API integrations and consume RESTful APIs</li>
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Deliver clean, well-tested code and meet deadlines</li>
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Engage in regular sprint planning, feature specification meetings, and code reviews</li>
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Continuously learn and grow as a developer, keeping up to date with emerging technologies and trends</li>
-</ul>
-<p style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;">Requirements:</p>
-<ul style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-top: 16px; margin-bottom: 24px; padding-left: 32px; color: #050c26;">
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">In depth knowledge of what it takes to build production ready iOS mobile applications</li>
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Experience with and interest in ARKit, CoreMotion, and other 3D frameworks</li>
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Bachelor’s degree in computer science, engineering or the equivalent in software development experience</li>
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">At least 3 years of experience in development of commercial mobile applications and production level code</li>
-</ul>
-<p style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-bottom: 16px; padding: 0px; color: #050c26;">Nice to haves:</p>
-<ul style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin-top: 16px; margin-bottom: 24px; padding-left: 32px; color: #050c26;">
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Strong communication skills</li>
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Strong desire to innovate and experiment</li>
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Strong desire to deliver results to add value and make a difference</li>
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Possess a user-centric focus </li>
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Possess a learning mindset</li>
-<li style="--tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-scroll-snap-strictness: proximity; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgba(15,111,255,0.5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; box-sizing: inherit; margin: 0px; padding: 0px;">Ability to adapt, constantly monitoring and learning of new technologies and the market landscape</li>
-</ul>
-<img src="https://remotive.com/job/track/1497219/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
