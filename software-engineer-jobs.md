@@ -10,7 +10,7 @@
                     <code>software,design,system,testing,lead,senior,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-trading-c3-protocol-160874" align="right" target="_blank">Apply</a>
@@ -44,7 +44,7 @@
 <p><strong>Location:</strong></p>
 <ul>
 <li>Remote: GMT-7 to GMT -2</li>
-</ul><br/><br/>Please mention the word **CONVIENT** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **CONVIENT** and tag RMzQuMjM5LjE1Ni42MQ== when applying to show you read the job post completely (#RMzQuMjM5LjE1Ni42MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -59,7 +59,7 @@
                     <code>software,solidity,crypto,ethereum,react,system,music,architect,code,web,api,engineer,linux,backend</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-infrastructure-tooling-audius-160896" align="right" target="_blank">Apply</a>
@@ -69,7 +69,7 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><b>Who are we? </b></div><div>
-<a href="https://audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius</a> is a digital streaming service that connects fans directly with artists and exclusive new music.Â </div><div><br></div><div>It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can freely build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence.</div><div><br></div><div>Backed by an all-star team of <a href="https://www.crunchbase.com/organization/audius/company_financials#investors" class="postings-link" rel="noopener noreferrer nofollow">investors</a>, Audius was founded in 2018 and serves over 6 million users every month, making it the largest non-financial crypto application ever built.</div><div><br></div><div><b>Who we are looking for? </b></div><div>We are looking for passionate team-players to help us architect and build the most difficult parts of the <a href="http://whitepaper.audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius protocol</a> (high availability services for decentralized replication of data, latency-sensitive distributed file transfers, Ethereum smart contracts, infrastructure and tooling for third parties to run our open source services). You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. Youâre eager to jump into multiple parts of our tech stack and have strong CS fundamentals to do so. We solve a lot of problems that can't be easily Googled or searched on StackOverflow.</div><div><br></div><div><b>Our Company</b></div><div>Audius is a 30-person team of entrepreneurs, engineers, music industry professionals, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have monthly concert stipends, wellness benefits, team activities, and bi-annual in-person get-togethers.</div><div><br></div><div>Our company is fully remote and our team is currently distributed across the United States. </div><div><br></div><div><b>Our Tech Stack</b></div><div>Frontend: React, React Native, Redux, Redux-Saga, Electron, Typescript, Javascript</div><div>Backend: Postgres, Elasticsearch, Redis, IPFS, Python, Typescript, Javascript, Rust (Solana), Solidity (Ethereum), Docker</div><h4>What you'll do here</h4>Design and build resilient infrastructure that decentralized third-parties run on diverse hardwareHelp architect and deploy across the backend of the Audius stack including databases, monitoring, logging, and load-testingBuild tooling that supports the Audius team and a network of third-parties that operate infrastructure for the protocolPerform thoughtful architecture and code reviewsOwn features end-to-end including release plans, monitoring, and incident/bug triage<h4>We would love to chat if you have</h4>Experience with a modern programming language (Our stack is in Javascript/Typescript, Python, Rust, and Solidity)Strong shell scripting and Linux fundamentals and a love for building great command line toolsSolid conceptual understanding of backend software development including system architecture, web serving infrastructure, API & database designGreat interpersonal and communication skills and comfort working within a small teamFamiliarity with version control and agile software development methodologiesAn awesome attention to detail<div><br></div><div>If this role speaks to you, but your previous experience doesn't match the job description, please consider applying anyways! We're looking for smart and capable software engineers and highly value the ability to grow in your role. You might be the perfect fit!</div><br/><br/>Please mention the word **CONVINCING** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<a href="https://audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius</a> is a digital streaming service that connects fans directly with artists and exclusive new music.Â </div><div><br></div><div>It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can freely build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence.</div><div><br></div><div>Backed by an all-star team of <a href="https://www.crunchbase.com/organization/audius/company_financials#investors" class="postings-link" rel="noopener noreferrer nofollow">investors</a>, Audius was founded in 2018 and serves over 6 million users every month, making it the largest non-financial crypto application ever built.</div><div><br></div><div><b>Who we are looking for? </b></div><div>We are looking for passionate team-players to help us architect and build the most difficult parts of the <a href="http://whitepaper.audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius protocol</a> (high availability services for decentralized replication of data, latency-sensitive distributed file transfers, Ethereum smart contracts, infrastructure and tooling for third parties to run our open source services). You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. Youâre eager to jump into multiple parts of our tech stack and have strong CS fundamentals to do so. We solve a lot of problems that can't be easily Googled or searched on StackOverflow.</div><div><br></div><div><b>Our Company</b></div><div>Audius is a 30-person team of entrepreneurs, engineers, music industry professionals, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have monthly concert stipends, wellness benefits, team activities, and bi-annual in-person get-togethers.</div><div><br></div><div>Our company is fully remote and our team is currently distributed across the United States. </div><div><br></div><div><b>Our Tech Stack</b></div><div>Frontend: React, React Native, Redux, Redux-Saga, Electron, Typescript, Javascript</div><div>Backend: Postgres, Elasticsearch, Redis, IPFS, Python, Typescript, Javascript, Rust (Solana), Solidity (Ethereum), Docker</div><h4>What you'll do here</h4>Design and build resilient infrastructure that decentralized third-parties run on diverse hardwareHelp architect and deploy across the backend of the Audius stack including databases, monitoring, logging, and load-testingBuild tooling that supports the Audius team and a network of third-parties that operate infrastructure for the protocolPerform thoughtful architecture and code reviewsOwn features end-to-end including release plans, monitoring, and incident/bug triage<h4>We would love to chat if you have</h4>Experience with a modern programming language (Our stack is in Javascript/Typescript, Python, Rust, and Solidity)Strong shell scripting and Linux fundamentals and a love for building great command line toolsSolid conceptual understanding of backend software development including system architecture, web serving infrastructure, API & database designGreat interpersonal and communication skills and comfort working within a small teamFamiliarity with version control and agile software development methodologiesAn awesome attention to detail<div><br></div><div>If this role speaks to you, but your previous experience doesn't match the job description, please consider applying anyways! We're looking for smart and capable software engineers and highly value the ability to grow in your role. You might be the perfect fit!</div><br/><br/>Please mention the word **CONVINCING** and tag RMzQuMjM5LjE1Ni42MQ== when applying to show you read the job post completely (#RMzQuMjM5LjE1Ni42MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -84,7 +84,7 @@
                     <code>software,design,crypto,system,code,finance,cloud,go,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-rift-finance-160889" align="right" target="_blank">Apply</a>
@@ -106,7 +106,7 @@
 <li>Experience building SDKs, APIs, or otherwise building and maintaining a production system at scale.</li>
 <li>Experience with AWS, GCP or similar cloud providers</li>
 <li>Desire to keep up with modern best practices in software development and crypto, and shape our tech stack as we build out new systems and services</li>
-</ul><div>Our benefits include competitive compensation, early stage equity allocations, team outings, wellness stipends, 401k with employer matching (for US employees), unlimited PTO,Â medical, dental, and vision insurance. In addition, you'll join a team of high caliber engineers who are innovating at the frontier of crypto that all work collaboratively to help one another accelerate their growth.</div><div><br></div><div>We are a mission driven company. We believe deeply that through software engineering we can build a self-sovereign society. In our day to day, we make decisions based upon our company values of Individual Autonomy, Long-Term Orientation and Open Access.</div><div><br></div><div>The future belongs to all of us, independent of our origins. Rift is an equal opportunity employer and does not discriminate on the basis of race, religion, color, sexual orientation, gender or any other status protected under federal, state or local law.Â Â  We celebrate diversity and inclusion among our team mates and seek to hire talent that will add to our culture.</div><br/><br/>Please mention the word **EUPHORIA** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>Our benefits include competitive compensation, early stage equity allocations, team outings, wellness stipends, 401k with employer matching (for US employees), unlimited PTO,Â medical, dental, and vision insurance. In addition, you'll join a team of high caliber engineers who are innovating at the frontier of crypto that all work collaboratively to help one another accelerate their growth.</div><div><br></div><div>We are a mission driven company. We believe deeply that through software engineering we can build a self-sovereign society. In our day to day, we make decisions based upon our company values of Individual Autonomy, Long-Term Orientation and Open Access.</div><div><br></div><div>The future belongs to all of us, independent of our origins. Rift is an equal opportunity employer and does not discriminate on the basis of race, religion, color, sexual orientation, gender or any other status protected under federal, state or local law.Â Â  We celebrate diversity and inclusion among our team mates and seek to hire talent that will add to our culture.</div><br/><br/>Please mention the word **EUPHORIA** and tag RMzQuMjM5LjE1Ni42MQ== when applying to show you read the job post completely (#RMzQuMjM5LjE1Ni42MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -121,7 +121,7 @@
                     <code>software,design,bitcoin,system,security,technical,support,testing,test,financial,cloud,strategy,management,lead,operations,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-lead-software-engineer-blockstream-mining-blockstream-160873" align="right" target="_blank">Apply</a>
@@ -175,7 +175,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Experience in the full software development lifecycle and end-to-end testing</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Must be committed to incorporating security into all decisions and daily job responsibilities</span></li>
 </ul>
-<p><br></p><br/><br/>Please mention the word **EXCEEDED** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><br></p><br/><br/>Please mention the word **EXCEEDED** and tag RMzQuMjM5LjE1Ni42MQ== when applying to show you read the job post completely (#RMzQuMjM5LjE1Ni42MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -190,7 +190,7 @@
                     <code>software,crypto,ethereum,c,c++,lead,senior,go,health,engineer</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-flashbots-159395" align="right" target="_blank">Apply</a>
@@ -236,56 +236,7 @@
 <p> </p>
 <hr>
 <p>Join us to help solve hard problems that have asymmetric impact and strike at the core of crypto.</p>
-</div><br/><br/>Please mention the word **SOFTER** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/fadcd12e11cd339eb8bd9780b37b25051670138119.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Axoni</h5>
-                    <h3>Software Engineer Java</h3>
-                </td>
-                <td width="300">
-                    <code>software,saas,docker,test,code,scrum,fintech,java,legal,engineer,apache</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-java-axoni-158889" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>Axoni is building the next generation of capital markets technology. Our solutions are used by the worldâs leading banks, asset managers, hedge funds, and infrastructure providers. Our diverse team focuses every day on our goal of building products that will change and improve how our clients and the markets will interact. </div><div><br></div><div>We are seeking talented, motivated professionals that want to be part of this once-in-a-career opportunity to not only see, but also drive the incredible changes coming to global capital markets. We are building a culture where our team feels valued and everyone is given an opportunity to grow and succeed. We try to live by our Core Values and demonstrate what we believe represent the kind of company we are working to build. These Values are: Delivery is everything; Choose Kindness; Be better every day.</div><div><br></div><div><span style="font-size:11pt;">Axoni is looking for Java Software Engineers who will be responsible for software development for our biggest client initiative. Our projects vary across multiple industries including Bond Issuance, Securities Lending, and Equity Swaps to deliver a seamless, optimized experience all the way to the end user. You will work directly with our clients to understand and solve their largest pain points. </span></div><p></p><h4>You will: </h4><p></p><p></p><ul>
-<li>Use Java to develop cloud-hosted, API-first, microservices and applications</li>
-<li>Handle end-to-end development, including coding, testing, debugging and reviewing code</li>
-<li>Interact with users and development teams to gather and define requirements and analyze user stories for validity and feasibility</li>
-<li>Work within the team on iterative development that delivers high-quality, stable services</li>
-<li>Engineer effective, defect-free configurations and code that meets business requirements and team standards</li>
-<li>Interact with messaging systems like Apache Kafka, MQ, etc.</li>
-<li>Work in a scrum team and follow Agile and Test Driven Development best practices</li>
-<li>Work with containerization/orchestration tools such as Docker or Kubernetes</li>
-</ul><p></p><h4>Qualifications: </h4><p></p><p></p><ul>
-<li>2-5 years of professional software development experience using Java</li>
-<li>Experience designing distributed enterprise software</li>
-<li>Experience deploying and supporting production workloads</li>
-<li>Experience building REST services and/or microservices</li>
-<li>Strong database experience, preferably with PostgreSQL, MySQL, Oracle, or DB2</li>
-<li>Familiarity with tools and frameworks in the Java ecosystems (Spring, Spring Boot, Vert.x etc.)</li>
-<li>Experience with AWS infrastructure</li>
-<li>Experience writing concurrent and multi-threaded java applications</li>
-<div><br></div>
-</ul><p></p><h4>Bonus Points: </h4><p></p><p></p><ul>
-<li>Experience with networking protocols (http, tcp, gRPC, etc.)</li>
-<li>Experience working with OAuth and Authorization providers </li>
-<li>Experience with SaaS </li>
-<li>Capital markets and fintech experience</li>
-<li>Familiarity or interest in learning scala</li>
-</ul><div>Individuals seeking employment at Axoni are considered without regards to race, color, religion, national origin, age, sex, marital status, ancestry, physical or mental disability, veteran status, gender identity, or sexual orientation. You are being given the opportunity to provide the following information in order to help us comply with federal and state Equal Employment Opportunity/Affirmative Action record keeping, reporting, and other legal requirements.</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/xO7B4WYKVZE" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **APPRECIATES** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **SOFTER** and tag RMzQuMjM5LjE1Ni42MQ== when applying to show you read the job post completely (#RMzQuMjM5LjE1Ni42MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -300,7 +251,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/cloudsmith-senior-staff-software-engineer-experienced" align="right" target="_blank">Apply</a>
@@ -358,7 +309,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>38 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/narrative-web-software-engineer-remote" align="right" target="_blank">Apply</a>
@@ -440,7 +391,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>120 days ago</text>
+                <text>121 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python" align="right" target="_blank">Apply</a>
@@ -520,6 +471,62 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/3890/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Springboard</h5>
+                    <h3> Mentor - Software Engineering Career Track (Part-time/Remote)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>150 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0016/3890/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="https://www.springboard.com/">https://www.springboard.com/</a>
+</p>
+
+<div><strong>The Opportunity</strong></div><div><br></div><div>Springboard runs an online, self-paced Software Engineering Career Track in which participants learn with the help of a curated curriculum and 1-1 guidance from an expert mentor. Our mentor community - the biggest strength of our programs - comprises some of the best software engineering experts in the field.</div><div><br></div><div>If you are as passionate about mentoring as you are about software engineering, and can give a few hours per week in return for an honorarium, we would love to hear from you.</div><div><br></div><div>Please reach out to us with any questions at mentorrecruiting@springboard.com <br><br><strong>The Program</strong>
+</div><ul>
+<li>Completely online and self-paced</li>
+<li>Students become proficient in Software Engineering with the help of a curated online curriculum and project-based deliverables</li>
+<li>Coursework is made up of 800+ hour expert-curated curriculum in partnership with <a href="https://www.rithmschool.com/">Rithm School</a>
+</li>
+<li>On average, students finish in 9 months</li>
+<li>Students are working professionals from all over the world, dedicated to switching careers into Software Engineering</li>
+<li>Students have a weekly 30-minute checkin with their mentor to discuss questions, projects, and career advice!</li>
+</ul><div><strong>You</strong></div><ul>
+<li>are as passionate about teaching coding as about software engineering itself</li>
+<li>are proficient in the topics covered in our <a href="https://ddf46429.springboard.com/uploads/resources/1572915743_Software_Engineering_Career_Track_-_Syllabus_2019.11.04.pdf">Software Engineering Career Track</a> and are fluent in technologies such as HTML, CSS, JavaScript, React, Python, Flask, SQL, Data Structures and Algorithms</li>
+<li>have at least 3+ years of relevant work experience </li>
+<li>are available for weekly, 30-minute video check-ins with students to help them set and achieve learning goals, answer subject matter questions, provide feedback on projects, and offer career advice</li>
+<li>have experience critiquing work, in particular giving meaningful feedback on web development, and are able to think on your feet quickly</li>
+<li>are empathetic and have excellent communication skills</li>
+</ul><div><strong>Benefits</strong></div><ul>
+<li>Software Engineering mentors are paid an honorarium between $17.50-$32.50 per 30 minute call with students</li>
+<li>Membership in a rich community of expert mentors from great companies like AirBnB, Uber, Google, and Pivotal</li>
+<li>Change the lives of students in our program</li>
+<li>Help us revolutionize online education and inspire the next generation of software engineers!</li>
+<li>Work at your convenience</li>
+</ul><div><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3">https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1187421/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -530,7 +537,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -592,7 +599,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
