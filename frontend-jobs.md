@@ -10,7 +10,7 @@
                     <code>software,cryptocurrency,react,support,developer,ui,web,financial,video,management,reliability,engineer,backend,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-front-end-orderly-160880" align="right" target="_blank">Apply</a>
@@ -63,74 +63,7 @@
 <li>If you have experience in developing trading systems or financial-related products is aÂ plus.</li>
 <li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed.Â </li>
 <li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our <a href="https://boards.greenhouse.io/orderlynetwork/jobs/5170520003" rel="noopener noreferrer nofollow">External Referral Incentives Program</a> as well.Â </li>
-</ul><br/><br/>Please mention the word **RELISH** and tag RNTQuOTAuMjUwLjEzMw== when applying to show you read the job post completely (#RNTQuOTAuMjUwLjEzMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/4123/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>ClickGUARD Inc.</h5>
-                    <h3> React.js Engineer Frontend</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>9 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clickguard-inc-react-js-engineer-frontend" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/4123/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> America
-    <br /><strong>URL:</strong> <a href="https://www.clickguard.com/">https://www.clickguard.com/</a>
-</p>
-
-<div><strong>About the role</strong></div><ul>
-<li>Participating in front-end development for our SaaS product</li>
-<li>Implementing new user-facing features using React.js</li>
-<li>Building reusable components and front-end libraries</li>
-<li>Optimizing components for maximum performance across a variety of browsers and web-capable devices</li>
-<li>Translating user stories, specs, and wireframes into high-quality code that delivers value to the end-user</li>
-<li>Reporting to the Head of Product and Technical Team Lead</li>
-</ul><div>
-<br><strong>What qualifies you for this role?</strong>
-</div><ul>
-<li>You've demonstrated proven experience as a frontend developer using React.js</li>
-<li>You have excellent JavaScript knowledge in front end libraries and React.js ecosystem</li>
-<li>You have deep experience with UI libraries and design system</li>
-<li>You are familiar with code versioning tools like git</li>
-<li>You have extensive SaaS App dashboard product development experience</li>
-<li>You have versatility in the JavaScript ecosystem and programming languages in general</li>
-<li>Clear background in building Software as a Service, ad tech, and/or cybersecurity tech</li>
-<li>You have experience with Test-Driven Development</li>
-<li>Are experienced with working remotely</li>
-</ul><div>
-<br><br><strong>Who You’ll Work with</strong>
-</div><div>You'll be working with our CTO <a href="https://www.linkedin.com/in/ralphperrier/">Dusan Llilic</a> along with the rest of the engineering team.<br><br>
-</div><div><strong>What's in it for you?</strong></div><ul>
-<li>Competitive salary + performance bonuses</li>
-<li>Work that fits your personality and lifestyle</li>
-<li>Your hours are flexible, and so is your vacation</li>
-<li>Any equipment/software/tech that you need to do your job</li>
-<li>You can work from anywhere in the world - We work remotely!</li>
-<li>Join and help shape the future of PPC advertising</li>
-<li>Once a year all expenses paid company get-togethers</li>
-</ul><div>
-<br><strong>How to apply</strong>
-</div><div>If all of the above got you interested and you believe you would be a good fit for the role - we invite you to submit a formal application by following the steps to ‘APPLY’ via this site.</div><div>All qualified applicants will receive consideration for employment without regard to sex, gender identity, sexual orientation, race, color, religion, national origin, disability, protected veteran status, age, or any other characteristic.<br><br>
-</div><div><strong>Please note that we are not accepting recruitment agency assistance at this time.</strong></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clickguard-inc-react-js-engineer-frontend">https://weworkremotely.com/remote-jobs/clickguard-inc-react-js-engineer-frontend</a></p>
-
+</ul><br/><br/>Please mention the word **RELISH** and tag RMzQuMjM5LjE1Ni42MQ== when applying to show you read the job post completely (#RMzQuMjM5LjE1Ni42MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -145,7 +78,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>338 days ago</text>
+                <text>339 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-frontend-engineer" align="right" target="_blank">Apply</a>
