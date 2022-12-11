@@ -10,7 +10,7 @@
                     <code>ethereum,developer,solidity,react,system,security,technical,ui,web,financial,lambda,nodejs,operations,operational,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-ethereum-developer-openzeppelin-160378" align="right" target="_blank">Apply</a>
@@ -88,7 +88,7 @@
 <h3 class="job-description-title"> </h3>
 </div>
 </div>
-</div><br/><br/>Please mention the word **SEXY** and tag RMzQuMjM5LjE1Ni42MQ== when applying to show you read the job post completely (#RMzQuMjM5LjE1Ni42MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **SEXY** and tag RMzQuMjI4LjgxLjIz when applying to show you read the job post completely (#RMzQuMjI4LjgxLjIz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -103,7 +103,7 @@
                     <code>developer,design,ethereum,system,security,game,testing,growth,code,senior,e-commerce,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-blockchain-developer-boson-protocol-160386" align="right" target="_blank">Apply</a>
@@ -189,7 +189,41 @@
 <li>
 <strong>Stay lean:</strong><span style="font-weight:400;"> Our ethos is to create and share value equitably, with minimal value extraction.</span>
 </li>
-</ul><br/><br/>Please mention the word **PLAYFUL** and tag RMzQuMjM5LjE1Ni42MQ== when applying to show you read the job post completely (#RMzQuMjM5LjE1Ni42MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **PLAYFUL** and tag RMzQuMjI4LjgxLjIz when applying to show you read the job post completely (#RMzQuMjI4LjgxLjIz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Inops Services</h5>
+                    <h3> Azure Integration Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/inops-services-azure-integration-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Netherlands
+    <br /><strong>URL:</strong> <a href="https://inopsservices.com">https://inopsservices.com</a>
+</p>
+
+<div>Azure Integration developer</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/inops-services-azure-integration-developer">https://weworkremotely.com/remote-jobs/inops-services-azure-integration-developer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -204,7 +238,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/resos-aps-full-stack-wordpress-developer-with-seo-experience-for-international-site" align="right" target="_blank">Apply</a>
@@ -261,7 +295,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -338,7 +372,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -364,7 +398,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -441,7 +475,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -508,7 +542,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
