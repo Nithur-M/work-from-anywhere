@@ -1,195 +1,61 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/234e2a5c7cce4d3e2ac8898282a8dfdf1670397328.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/4314/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>OpenZeppelin</h5>
-                    <h3>Full Stack Ethereum Developer</h3>
+                    <h5>HR Partner</h5>
+                    <h3> Full Stack Ruby (Sinatra) Developer with some UX Skills</h3>
                 </td>
                 <td width="300">
-                    <code>ethereum,developer,solidity,react,system,security,technical,ui,web,financial,lambda,nodejs,operations,operational,educational,digital nomad</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-full-stack-ethereum-developer-openzeppelin-160378" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/hr-partner-full-stack-ruby-sinatra-developer-with-some-ux-skills" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="content-intro">
-<h3><strong>About us</strong></h3>
-<p><span style="font-weight:400;">OpenZeppelin is a leading cybersecurity company that provides security products to build, automate, and operate decentralized applications.</span></p>
-<p><span style="font-weight:400;">With a mission to protect the open economy, our team created the most popular open source library for smart contract development with over 4 million downloads. Our unique expertise subsequently allowed us to uncover major security vulnerabilities for the Ethereum Foundation,  MakerDAO, and Facebookâs Libra, and conduct security audits for many top blockchain companies including Coinbase, Brave, Compound, Aave, and Augur. </span></p>
-<p><span style="font-weight:400;">Building on this experience, we recently launched a platform to help teams automate their Ethereum operations and securely ship products faster: OpenZeppelin Defender. </span></p>
-<p><span style="font-weight:400;">With the success of our products, security audit work, and open source educational efforts, we are setting industry standards for building secure systems in a fast-growing industry that is creating an open financial system for the world.</span></p>
-</div><h3><strong>What you'll be doing</strong></h3>
-<p><span style="font-weight:400;">As a Full Stack Ethereum Developer, you will join the team working on products at </span><a href="https://openzeppelin.com/defender/" rel="noopener noreferrer nofollow"><span style="font-weight:400;">OpenZeppelin</span></a><span style="font-weight:400;">, including Defender and other new products for secure operations. OpenZeppelin's operational security products are used by top teams in the space such as Aave, Yearn, Balancer, PoolTogether, Opyn, Notional, and Foundation Labs. </span></p>
-<p><span style="font-weight:400;">OpenZeppelin products are built using a variety of server- and client-side technologies including NodeJS, Go, Typescript, React and Svelte. We are looking for developers who have strength in one or more of these areas. We also deploy systems in AWS, so skills in AWS services including Lambda and DynamoDB are a plus. All of our work integrates with Solidity smart contracts, so experience and understanding working with Ethereum and EVM-compatible blockchains is a must.</span></p>
-<p><span style="font-weight:400;">In this role, you will play an essential part in building new components, communicating with our users to gather feedback, and working collaboratively with the rest of the team to make sure we solve important problems and provide a great user experience. </span></p>
-<p><span style="font-weight:400;">Specifically, you will:</span></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Design and implement new features including writing tests and documentation.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Participate in user interviews to collect feedback and define new features.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Contribute to building a great user experience.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Help build reliable and scalable systems with a strong focus on security.</span></li>
-</ul>
-<h3><strong>You have</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">3+ years of experience in full stack web or Ethereum development.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Good understanding of Ethereum and Solidity.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with NodeJS (Typescript) or Go.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with at least one of the following UI frameworks: React, Vue, Svelte.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Strong desire to learn about Ethereum and contribute to the blockchain space.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Prior experience working remotely: strong personal organizational skills, a love for self-time management, and ability to work collaboratively with a team.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Advanced English communication skills â all of our internal and external communication is in English.</span></li>
-</ul>
-<h3><strong>Nice to have</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Good understanding of security concerns in the Ethereum ecosystem.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Working knowledge of AWS services such as Lambda, DynamoDB, CloudFormation.</span></li>
-</ul><div class="content-conclusion">
-<div class="container">
-<div class="job-description">
-<div class="requirements">
-<h3 class="job-description-title">Benefits</h3>
-<ul>
-<li>
-<p>Medical Insurance: Top quality insurance options for you.</p>
-</li>
-<li>
-<p>Paid leave for new parents.</p>
-</li>
-<li>
-<p>Team Events: Company retreats in different locations around the world.</p>
-</li>
-<li>
-<p>Monthly allowance for wellness activities.</p>
-</li>
-<li>
-<p>Coworking: access to a coworking of your choice.</p>
-</li>
-<li>
-<p>Training: Technical training, language lessons in any language of your choice.</p>
-</li>
-</ul>
-</div>
-<div class="company-footer">
-<p>At OpenZeppelin, we are an equal opportunity employer and we value different perspectives. We are committed to building a diverse workforce. This includes but is not limited to gender, race, sexual orientation, religion, national origin and other characteristics that make each one of us unique. In this uniqueness, we find the most value. Come join us!</p>
-</div>
-</div>
+                <img src="https://we-work-remotely.imgix.net/logos/0016/4314/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Australia
+    <br /><strong>URL:</strong> <a href="http://www.hrpartner.io">http://www.hrpartner.io</a>
+</p>
+
+<div>
+<strong><br>🔥 Join a Growing SaaS Business with Big Potential 🔥<br></strong><br>
+</div><div><strong>Are you looking to be part of a small development team, where you can make your mark? </strong></div><div><br></div><div>HR Partner is a growing human resource management SaaS app that has around 2000 customers in 70 countries. We are on a mission to grow to become one of the leading HR platforms worldwide, and we are looking for talented developers to help us achieve this objective.<br><br>
+</div><div><strong>What is the Role?</strong></div><div>
+<br>The HR Partner app is written in Ruby, but not Ruby on Rails - rather, we use a Sinatra based framework called Padrino. If you know the Ruby language inside and out, then this could be a good challenge for you to focus on building using a different framework that isn't quite as opinionated as Rails. This position is for a full stack developer, so knowledge in building APIs (including integrating with third-party APIs), tuning SQL queries via an ORM, caching reusable views on Redis, as well as improving customer experience by building snappier user interfaces will be highly regarded.<br><br>
+</div><div>The main codebase has grown organically over the past 7 years, and there is now scope for taking an app that is essentially a monolith with some microservices around it, to the next level so it will be scalable well into the future. Some experience with Nodejs will also be advantageous as we have Lambda functions built using Node that we wish to expand upon and improve. Experience with tuning Ruby memory management and resource utilisation will also be a great skill to have.<br><br>
+</div><div>Our front end currently uses a legacy javascript library, and one upcoming task will be to modernise it and bring it up to date using a more current front-end framework. Knowledge of HTML/CSS is also critical as we transition from the older Bootstrap framework to something like Tailwind CSS.<br><br>
+</div><div>We are looking for developers who are excited by the challenge of taking an existing project, in a stable and growing company, and helping to improve it so that it can be scaled and maintained well into the future. This is a fully remote position, and you will be working your own hours as part of a very small team, and as such, you will be doing large blocks of work without being micro-managed. As you get to grips with our codebase, you will be taking on full responsibility for entire modules and features that you will build, test and deploy pretty much yourself.<br><br>
+</div><div><strong>What are we looking for?</strong></div><div>
+<br>You are someone who is smart, self-driven and interested in being part of a long-term project where you can see your ideas and work come into fruition. In particular, you should be;</div><ul>
+<li>A self-starter - Do you have exciting side projects that you have worked on, publicly or privately?</li>
+<li>Willing to learn - Are you looking forward to implementing some of the latest and greatest technology alongside some old and mundane ones?</li>
+<li>An ideas person - Do you 'push back' when asked to do a task if you think there is a better way to do it?</li>
+<li>Brimming with initiative - When working on a codebase, do you see opportunities to improve other things outside of your scope of work?</li>
+<li>A marathoner - Are you happy just coding away for hours uninterrupted, and keep yourself motivated while doing so?Ideally, you will be located in the Asian or Eastern European timezones (GMT + 3 hours to GMT + 12 hours), to make it easier to collaborate with our CTO who is based in Australia, but don't worry if you are outside of that.</li>
+</ul><div>
+<br><br>
+</div><div><strong>Why will you love working at HR Partner?</strong></div><div>
+<br>We might be biased, but there's a lot to love about working here, including;</div><ul>
+<li>Work-from-home - We've been fully remote since our inception, so you can work from the comfort of your own home.</li>
+<li>Flexible hours - Need to pickup the kids or go to gym in the middle of the day? No problem. So long as you are around for some agreed overlapping working times, you can structure your day to suit your lifestyle. If you would prefer to work part-time hours, we're open to those ideas too.</li>
+<li>Small, international team - You'll work with colleagues around the world - all of whom are smart, inspiring people! We truly love our team at HR Partner and we hope you will too. </li>
+<li>Learning &amp; growth - We’re big supporters of personal growth and development and our team is constantly learning and upskilling themselves in many different areas. Innovation is a big part of our culture and we welcome new ideas from everyone.</li>
+<li>Meaningful work - We’re constantly getting feedback from customers that are relieved to be using HR Partner. It feels great to be part of something that small businesses grow and support their employees as they do so.</li>
+</ul><div>
+<br>If you want to be part of a small but dynamic team that is passionate about supporting our customers, then we'd love to hear from you and have you as part of our team!<br><br>
 </div>
 
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/hr-partner-full-stack-ruby-sinatra-developer-with-some-ux-skills">https://weworkremotely.com/remote-jobs/hr-partner-full-stack-ruby-sinatra-developer-with-some-ux-skills</a></p>
 
-<div class="container">
-<div class="application-information">
-<h3 class="job-description-title"> </h3>
-</div>
-</div>
-</div><br/><br/>Please mention the word **SEXY** and tag RMzQuMjI4LjgxLjIz when applying to show you read the job post completely (#RMzQuMjI4LjgxLjIz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/6fdcc09e57ff550fce305227a5641a911670397366.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Boson Protocol</h5>
-                    <h3>Senior Blockchain Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,design,ethereum,system,security,game,testing,growth,code,senior,e-commerce,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-blockchain-developer-boson-protocol-160386" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Position:</strong> <strong>Senior Blockchain Engineer</strong></p>
-<p><strong>Role:</strong> <strong>Full time</strong></p>
-<p><strong>Location:</strong> <strong>Remote</strong></p>
-<p><strong>Salary:</strong> <strong>Competitive</strong></p>
-<p> </p>
-<h4><strong>Why work with us </strong></h4>
-<p><span style="font-weight:400;">Boson Protocol enables an open tokenized economy by automating digital to physical redemptions using NFTs encoded with game theory. Boson Protocol disrupts e-commerce platforms by tokenizing Things and commerce data within a liquid digital market, built on DeFi. </span></p>
-<p><span style="font-weight:400;">We call this Decentralized Autonomous Commerce (dCommerce).</span></p>
-<p><span style="font-weight:400;">Boson Protocolâs vision is to enable a capture resistant, decentralized commerce ecosystem, by funding and accelerating the development of a stack of specialized applications to disrupt, demonopolize and democratize commerce.</span></p>
-<p><span style="font-weight:400;">We are empowering builders and partners to reinvent commercial exchange as we know it. If you are passionate about becoming part of that revolution, we hope you apply to join us!</span></p>
-<p><span style="font-weight:400;">Read more about us here: </span><a href="https://bosonprotocol.io/" rel="noopener noreferrer nofollow"><span style="font-weight:400;">https://bosonprotocol.io/</span></a></p>
-<h4><strong>Role Summary </strong></h4>
-<p><span style="font-weight:400;">Boson Protocol is looking for a senior blockchain Developer that can comfortably navigate through the rapidly evolving blockchain technology. As a Senior developer, you will take initiative in building at the bleeding edge of technology that is going to be immediately applied in real life. The ideal candidate has a Computer Science degree, is well versed in advanced cryptographic concepts, esp. with advancements in zero knowledge proofs, has a minimum of 3 years of experience in Ethereum and is effective in inspiring and mentoring colleagues.</span></p>
-<p><span style="font-weight:400;">The role open is for a long-term relationship, working predominantly remotely and you can expect to become an integral part of a diverse international team.</span></p>
-<p><strong>Roles and responsibilities</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">The design and build of the Boson Protocol, the core of the project</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Take ownership over core parts of the protocol, from specification to implementation & maintenance</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Coordinate large scale upgrades and releases with other team members</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Perform internal code reviews as well as rigorous testing & verification practices</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Assist the rest of the protocol team with writing and maintaining up to date documentation</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Stay up to date with relevant updates in the industry and foster a growing internal knowledge base</span></li>
-</ul>
-<h3><strong>Requirements:</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Working understanding of how Ethereum works, with a familiarity with its rivals</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Prior experience of building a production system on Ethereum</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Understanding of smart contract security and the common pitfalls. </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience of testing best practices</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">A strong understanding of the blockchain ecosystem, layer 2, side chains, rollups etc</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">You can work with high autonomy</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Strong written and verbal communication skills</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Strong familiarity of Agile methodologies </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">A never ending curiosity to learn and master new tooling and best practices</span></li>
-</ul>
-<h3><strong>Bonus:</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Knowledge about the inner workings of the EVM</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Practical experience with scaling strategies and layer 2 systems</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Have knowledge of another layer 1 besides Ethereum</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Adept with applied cryptographic concepts & tools including zero knowledge systems</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience of using smart contract security tools, e.g. static analysis, fuzzy testing, etc</span></li>
-</ul>
-<h3><strong>Our tech stack:</strong></h3>
-<ul>
-<li><span style="font-weight:400;">Solidity</span></li>
-<li style="font-weight:400;">Waffle </li>
-<li style="font-weight:400;"><span style="font-weight:400;">Node.js</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Javascript</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ethers.js / web3.js</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Hardhat </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">MongoDB</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">IPFS</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">GitHub Actions</span></li>
-</ul>
-<p><strong>What we offer you:</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Flexible, remote work with a high degree of autonomy in a dynamic, fast growth startup</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">An opportunity to leverage bleeding edge technology and industry-leading development practices</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Close collaboration with leading projects in the space, e.g. immediate deep dive into Ocean Protocol integration</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">A highly competitive salary and other potential arrangements. Details depend on ability and experience. Come and talk to us.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Your choice of equipment</span></li>
-</ul>
-<p><strong>Some of our guiding principles: </strong></p>
-<ul>
-<li>
-<strong>Dream Big:</strong><span style="font-weight:400;"> We want to build technology that can outlast the founders and reshape commerce and society at large</span>
-</li>
-<li>
-<strong>Self-Mastery: </strong><span style="font-weight:400;">Mindful conduct and always on learning are critical components of personal and collective growth</span>
-</li>
-<li>
-<strong>Collaboration:</strong><span style="font-weight:400;"> Expertise is key, but sharing knowledge and building together with joy is the foundation of truly remarkable work</span>
-</li>
-<li>
-<strong>Stay lean:</strong><span style="font-weight:400;"> Our ethos is to create and share value equitably, with minimal value extraction.</span>
-</li>
-</ul><br/><br/>Please mention the word **PLAYFUL** and tag RMzQuMjI4LjgxLjIz when applying to show you read the job post completely (#RMzQuMjI4LjgxLjIz). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -204,7 +70,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/inops-services-azure-integration-developer" align="right" target="_blank">Apply</a>
@@ -238,7 +104,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/resos-aps-full-stack-wordpress-developer-with-seo-experience-for-international-site" align="right" target="_blank">Apply</a>
@@ -285,6 +151,80 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Front-end Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>90 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
+
+<div><br></div><div><strong>The Role:</strong></div><div>We are searching for a Senior Front-End Developer (Angular.js/React.js). You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
+<br><br>
+</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
+<li>You have +3 years experience with React.js/Angular.js;</li>
+<li>You follow best practices and conventions;</li>
+<li>Relevant experience in CI/CD and related tools;</li>
+<li>Responsible and able to work with minimal supervision;</li>
+<li>Upper-intermediate English level;</li>
+<li>You can communicate well with both technical and non-technical clients.</li>
+</ul><div>
+<strong><br>Nice-to-have:</strong> <br><br>
+</div><ul>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Basic back-end knowledge for minor back-end jobs where necessary.</li>
+</ul><div>
+<strong><br>Responsibilities:<br></strong><br>
+</div><ul>
+<li>Build reusable code and libraries for future use;</li>
+<li>Ensure the technical feasibility of UI/UX designs;</li>
+<li>Transform visual designs and wireframes into working products;</li>
+<li>Accurate planning of the feature delivery;</li>
+<li>Collaborate with other team members and stakeholders</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.🚀 <strong>360 degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<br><br>
+</div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul><div>
+<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -295,7 +235,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -372,7 +312,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -398,7 +338,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -475,7 +415,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -542,7 +482,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
