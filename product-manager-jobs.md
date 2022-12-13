@@ -10,7 +10,7 @@
                     <code>manager,design,saas,system,teacher,cto,technical,support,developer,software,ux,api,microsoft,leader,strategy,management,lead,senior,operations,operational,marketing,sales,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-product-manager-vizion-160601" align="right" target="_blank">Apply</a>
@@ -81,7 +81,7 @@ Now you (may) know something new, and we want to encourage anyone who feels that
 Â 
 We do not and shall not discriminate on the basis of race, color, religion (creed), gender, gender expression, age, national origin (ancestry), disability, marital status, sexual orientation, or military status, in any of its activities or operations. These activities include, but are not limited to: hiring and firing of staff, selection of vendors, and provision of services. We at Vizion are committed to providing an inclusive and welcoming environment for all members of our staff, contractors, vendors, and clients.
 
-<br/><br/>Please mention the word **EFFECTIVELY** and tag RMzQuMTUwLjE4OC4xMA== when applying to show you read the job post completely (#RMzQuMTUwLjE4OC4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<br/><br/>Please mention the word **EFFECTIVELY** and tag RMzQuMjA3LjcyLjI3 when applying to show you read the job post completely (#RMzQuMjA3LjcyLjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -96,7 +96,7 @@ We do not and shall not discriminate on the basis of race, color, religion (cree
                     <code>manager,web3,crypto,nft,hr,architect,technical,support,software,ui,financial,cloud,management,lead,content,engineering</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-technical-product-manager-cere-network-160892" align="right" target="_blank">Apply</a>
@@ -105,7 +105,7 @@ We do not and shall not discriminate on the basis of race, color, religion (cree
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><b>About CERE:</b></div><div>Cere Network is the worldâs first web3 data network powering the future of web3 applications with trustless content delivery/streaming capabilities and decentralized data cloud solutions optimized to power interactions between users, (NFT) assets, and applications. Cere is backed by the world's largest institutions and projects, including Binance Labs, Republic Labs, and Polygon.</div><div><br></div><div><b>What do we look for?</b></div><div>We look for a few things across all hires we make at Cere, regardless of role or team. First, we look for signals that a candidate will thrive in our fast-paced work environment, where we default to quick iterations, critical thinking, and sound judgments because we play only to succeed. Second, we seek people with the desire to share their expertise and the capacity to extend their knowledge to drive innovation. Finally, we seek candidates who can commit to a greater goal; unite as a team to reach something no one could have done on their own.</div><div><br></div><div><b>About the Role:</b></div><div>As a Technical Product Manager and a Product Owner, you will be part of our Product Team to drive innovation in the space of Decentralised Cloud Storage and CDNs, Crypto wallets, NFT platforms, Marketplaces, and Analytics. You will help develop, document, and execute a comprehensive plan to understand user needs, iterate on product scope and ensure the timely development of highly complex technical products. With the Lead Architect and Lead Product Manager, you will be responsible for giving our teams the information and product methodology needed to succeed and continuously help us improve as an organization.Â </div><div><br></div><div><b>What we expect you to do:</b></div><div>- Manage highly complex technical products at the fringe of innovation in the Blockchain space</div><div>- Own and drive a rapidly scaling product roadmap</div><div>- Work closely with the engineering team to convey product direction and deliver milestones</div><div>- Manage Backlog and drive product development using agile methodology</div><div>- Actively seek user feedback to focus on solving problems</div><div>- Demonstrate a data-driven approach to product decisions along the product development lifecycle</div><div>- Clearly and effectively communicate and document the product strategy, functionality, and requirements</div><div>- Track, measure, analyze and communicate relevant KPIs as well as product development progress to key stakeholders</div><div>- Collaborate with Designers to quickly iterate on UI implementations</div><div>- Manage and support new Product Launches in collaboration with other departments: Marketing, LiveOps, Business Development, Engineering</div><div>- Assist and support the Lead Product Manager in the adoption of new processes</div><div>- Work closely with the Ecosystem Team to ensure accurate technical documentation and support with problem resolution during Partner integrationsÂ </div><div><br></div><div><b>Requirements:</b></div><div>- 5+ years in technical product management or technical product owner role, working closely with both businesses and developers in data-driven B2B/B2C initiatives and consumer-facing experience (preferably gaming, advertising, cloud, or data infrastructure)</div><div>- Structured and organized written/verbal communication</div><div>- Highly motivated self-starter able to work with minimal supervision</div><div>- Ability to context-switch efficiently from - understanding the user's need to getting into the technical detail</div><div>- Strong stakeholder management skills and experience</div><div>- Best if you have successfully launched an app with a metrics-driven mindset</div><div>- Start-up experience in fast-paced environments working in agile, cross-functional teams</div><div><b>Nice to have:</b></div><div>- Web3 Product experience</div><div>- Software development experience</div><div>- German (B1)</div><div><br></div><div><b>Our perks:</b></div><div>Youâll be joining a fantastic multinational team that was gathered by Silicon Valley veterans with 50 years of experience from Amazon, Twitch, D-Link, and Bebo. We have a supportive culture that cares about both excellent work and work-life balance. You will begin by learning from the experiences of our current team. Our Lead Engineers and HR managers will assist you with the onboarding process and work with you every step of the way.Â </div><div><br></div><div><b>Financial Employee Incentives:</b></div><div>With the CERE token fueling our ecosystem, team members will get multiple financial incentives along the way. Together as a team, we work for one goal: 100 million blockchain users.</div><div><br></div><div><b>Multinational, High-Performance Team:</b></div><div>Join a highly multi-cultural team that is based all over the world. We have offices in San Francisco, New York, Amsterdam, Berlin and several locations in Asia.</div><div><br></div><div><b>Be flexible in your work: </b></div><div>Morning person? Or a night owl? At Cere you can plan your work accordingly. Take control over your agenda and plan your work around your life, not the other way around.Â </div><div><br></div><div><b>Highly Skilled Team:</b></div><div>Ever wondered what is it like to work with a team full of Silicon Valley veterans? At Cere you get the opportunity to work with the brightest minds in the industry. Whether that's our crypto-savvy marketers, creative HR wizards or amazing developers.Â </div><div><br></div><div><b>Work equipment:</b></div><div>To perform at your highest level, you will need the right equipment. Cere has multiple policies to make your WFH office a paradise, or pimp up your desk in one of our offices. You decide.Â </div><div><br></div><div><b>Keep learning:</b></div><div>In the ever-changing world that is blockchain, we need our employees to stay up-to-date with the latest developments. Cere helps you out with multiple deep dives, presentations, trips and other events to increase your knowledge.</div><br/><br/>Please mention the word **INPRESSED** and tag RMzQuMTUwLjE4OC4xMA== when applying to show you read the job post completely (#RMzQuMTUwLjE4OC4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <div><b>About CERE:</b></div><div>Cere Network is the worldâs first web3 data network powering the future of web3 applications with trustless content delivery/streaming capabilities and decentralized data cloud solutions optimized to power interactions between users, (NFT) assets, and applications. Cere is backed by the world's largest institutions and projects, including Binance Labs, Republic Labs, and Polygon.</div><div><br></div><div><b>What do we look for?</b></div><div>We look for a few things across all hires we make at Cere, regardless of role or team. First, we look for signals that a candidate will thrive in our fast-paced work environment, where we default to quick iterations, critical thinking, and sound judgments because we play only to succeed. Second, we seek people with the desire to share their expertise and the capacity to extend their knowledge to drive innovation. Finally, we seek candidates who can commit to a greater goal; unite as a team to reach something no one could have done on their own.</div><div><br></div><div><b>About the Role:</b></div><div>As a Technical Product Manager and a Product Owner, you will be part of our Product Team to drive innovation in the space of Decentralised Cloud Storage and CDNs, Crypto wallets, NFT platforms, Marketplaces, and Analytics. You will help develop, document, and execute a comprehensive plan to understand user needs, iterate on product scope and ensure the timely development of highly complex technical products. With the Lead Architect and Lead Product Manager, you will be responsible for giving our teams the information and product methodology needed to succeed and continuously help us improve as an organization.Â </div><div><br></div><div><b>What we expect you to do:</b></div><div>- Manage highly complex technical products at the fringe of innovation in the Blockchain space</div><div>- Own and drive a rapidly scaling product roadmap</div><div>- Work closely with the engineering team to convey product direction and deliver milestones</div><div>- Manage Backlog and drive product development using agile methodology</div><div>- Actively seek user feedback to focus on solving problems</div><div>- Demonstrate a data-driven approach to product decisions along the product development lifecycle</div><div>- Clearly and effectively communicate and document the product strategy, functionality, and requirements</div><div>- Track, measure, analyze and communicate relevant KPIs as well as product development progress to key stakeholders</div><div>- Collaborate with Designers to quickly iterate on UI implementations</div><div>- Manage and support new Product Launches in collaboration with other departments: Marketing, LiveOps, Business Development, Engineering</div><div>- Assist and support the Lead Product Manager in the adoption of new processes</div><div>- Work closely with the Ecosystem Team to ensure accurate technical documentation and support with problem resolution during Partner integrationsÂ </div><div><br></div><div><b>Requirements:</b></div><div>- 5+ years in technical product management or technical product owner role, working closely with both businesses and developers in data-driven B2B/B2C initiatives and consumer-facing experience (preferably gaming, advertising, cloud, or data infrastructure)</div><div>- Structured and organized written/verbal communication</div><div>- Highly motivated self-starter able to work with minimal supervision</div><div>- Ability to context-switch efficiently from - understanding the user's need to getting into the technical detail</div><div>- Strong stakeholder management skills and experience</div><div>- Best if you have successfully launched an app with a metrics-driven mindset</div><div>- Start-up experience in fast-paced environments working in agile, cross-functional teams</div><div><b>Nice to have:</b></div><div>- Web3 Product experience</div><div>- Software development experience</div><div>- German (B1)</div><div><br></div><div><b>Our perks:</b></div><div>Youâll be joining a fantastic multinational team that was gathered by Silicon Valley veterans with 50 years of experience from Amazon, Twitch, D-Link, and Bebo. We have a supportive culture that cares about both excellent work and work-life balance. You will begin by learning from the experiences of our current team. Our Lead Engineers and HR managers will assist you with the onboarding process and work with you every step of the way.Â </div><div><br></div><div><b>Financial Employee Incentives:</b></div><div>With the CERE token fueling our ecosystem, team members will get multiple financial incentives along the way. Together as a team, we work for one goal: 100 million blockchain users.</div><div><br></div><div><b>Multinational, High-Performance Team:</b></div><div>Join a highly multi-cultural team that is based all over the world. We have offices in San Francisco, New York, Amsterdam, Berlin and several locations in Asia.</div><div><br></div><div><b>Be flexible in your work: </b></div><div>Morning person? Or a night owl? At Cere you can plan your work accordingly. Take control over your agenda and plan your work around your life, not the other way around.Â </div><div><br></div><div><b>Highly Skilled Team:</b></div><div>Ever wondered what is it like to work with a team full of Silicon Valley veterans? At Cere you get the opportunity to work with the brightest minds in the industry. Whether that's our crypto-savvy marketers, creative HR wizards or amazing developers.Â </div><div><br></div><div><b>Work equipment:</b></div><div>To perform at your highest level, you will need the right equipment. Cere has multiple policies to make your WFH office a paradise, or pimp up your desk in one of our offices. You decide.Â </div><div><br></div><div><b>Keep learning:</b></div><div>In the ever-changing world that is blockchain, we need our employees to stay up-to-date with the latest developments. Cere helps you out with multiple deep dives, presentations, trips and other events to increase your knowledge.</div><br/><br/>Please mention the word **INPRESSED** and tag RMzQuMjA3LjcyLjI3 when applying to show you read the job post completely (#RMzQuMjA3LjcyLjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -120,7 +120,7 @@ We do not and shall not discriminate on the basis of race, color, religion (cree
                     <code>manager,crypto,training,technical,support,testing,test,web,education,management,lead,senior,operations,sales,engineering</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-product-manager-tradeblock-160879" align="right" target="_blank">Apply</a>
@@ -178,7 +178,7 @@ We do not and shall not discriminate on the basis of race, color, religion (cree
 <li>Paid Family Leave for mothers and fathers</li>
 <li>All new employees receive a WFH stipend.</li>
 </ul>
-</div><br/><br/>Please mention the word **CONGRATULATIONS** and tag RMzQuMTUwLjE4OC4xMA== when applying to show you read the job post completely (#RMzQuMTUwLjE4OC4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **CONGRATULATIONS** and tag RMzQuMjA3LjcyLjI3 when applying to show you read the job post completely (#RMzQuMjA3LjcyLjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -193,7 +193,7 @@ We do not and shall not discriminate on the basis of race, color, religion (cree
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bonfire-product-manager-1" align="right" target="_blank">Apply</a>
@@ -282,84 +282,6 @@ We do not and shall not discriminate on the basis of race, color, religion (cree
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1095/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Lofty</h5>
-                    <h3> Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>10 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/lofty-product-manager" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/1095/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> United States
-    <br /><strong>URL:</strong> <a href="https://hirelofty.com">https://hirelofty.com</a>
-</p>
-
-<p><strong>About Product Work Lofty</strong><br></p>
-<p>Our Product People want to grow and learn. We want to empower people and discover new difficult challenges. We charge failure and find opportunity for success, then we replicate that success in new situations as we build new teams. Product isn't cushy, and building here means constant ascent to new heights. We aim for LOFTY, which is HARD, and we reap the rewards.</p>
-<p>Lofty is a client services consultancy that creates custom software applications that operationalize emerging technology and Data Science. Our vision is to be leaders in bringing domain knowledge to life through software, enabling experts to empower their colleagues to do bigger and better things. </p>
-<p>We are a growth company focused on producing world-class functional software for the advancement of the world through tools that matter. We focus our areas of practice on Architecture, Engineering, Construction, Agriculture, Energy, Renewables, and Electric Vehicles. This has allowed us to build a team of experts who can provide invaluable support to our portfolio of clients.<br></p>
-<p><strong>Life @ Lofty</strong></p>
-<p>Remote Team - Our brilliant team of engineers and operations support staff is spread across several states. We believe people get their best work done from where they want to work. That can be our nice new office in downtown Fayetteville Arkansas, a code shed in your backyard, or the back of your RV in a national park. If you can show up for meetings and get your work done, we don't worry about where you're working from (but we will ask for pics if it's really cool).</p>
-<p>Client Services - We talk about this A LOT. We work with amazing clients in really exciting industries. They're the boss. Our entire organization is composed around the reality that we must excel at meeting and exceeding customer expectations. Anyone can build software, we help our clients and partners build the right software.</p>
-<p>Travel - We understand how valuable your time is. We promise we won't abuse it. There will be a moderate amount of all-hands, client on-sites, and conferences we attend each year, and we'll make sure to have them planned well in advance. Plus, they'll be fun. This job may require up to 25% travel. </p>
-<p>Schedule - Take your dog for a walk over lunch, get that dental follow up scheduled, make time for school drop off. We all have rhythm and pacing to our lives, if you're producing great work, supporting your teammates, making all meetings and engagements, and getting your hours in, you won't hear any complaints from us.</p>
-<p>Compensation (<strong>80k - 95k</strong>) - Lofty offers competitive compensation and benefits, including matching retirement, sponsored medical, work from home stipends, and generous time off.</p>
-<p><br></p>
-<p>Product Owner Responsibilities:</p>
-<ul> <li>Lead teams in defining and developing custom software projects</li> <li>Interface with client stakeholders to define value and translate product vision into concrete strategy and discrete features</li> </ul>
-<ul><li>Manage product backlogs while supporting Product Owners in their skill development</li></ul>
-<ul><li>Participate in client facing discovery and strategy sessions</li></ul>
-<ul><li>Assist in coordination of and participate in project Scrum ceremonies</li></ul>
-<ul><li>Ensure that Scrum team always has detailed prepared tasking to work on</li></ul>
-<ul><li>Keep abreast of Agile best practices and emerging techniques<br> </li></ul>
-<p><strong>Requirements</strong></p>
-<p>Product Owner Requirements:</p>
-<ul> <li>3-5 years experience as Product Owner or Product Manager</li> <li>Experience  <ul> <li>Consultative Workshops</li> <li>Multi-team Retrospectives</li> <li>Marshaling multi-stakeholder communication</li> <li>Defining key stakeholder business value </li> </ul> </li> </ul>
-<ul> <li>Excellent Zoom skills</li> <li>Advanced Miro/Mural/InVision/Figma digital white boarding skills </li> </ul>
-<ul><li> Desire to grow experience in software products and industry trends</li></ul>
-<ul><li>Operational knowledge of Agile principles and Scrum methodologies</li></ul>
-<ul><li>Desire to be proactive and create a positive experience for others</li></ul>
-<p><strong>Benefits</strong></p>
-<h3>Salary</h3>
-<p>80k - 95k</p>
-<p><br></p>
-<h3>Work From Home</h3>
-<p>Production roles for Product Owners, Software Engineers, and Product Owners are fully remote anywhere in the US. Local staff enjoy remote flexibility as well.</p>
-<h3>Generous PTO</h3>
-<p>3 weeks of fully unplugged PTO is standard for all new hires. We have ample sick leave (2 weeks) and flexible schedules, so Lofty encourages employees to use all of their PTO as real downtime.</p>
-<h3>Flexible Schedules</h3>
-<p>We all have rhythm and pacing to our lives, if you're producing great work, supporting your teammates, making all meetings and engagements, you won't hear any complaints from us.</p>
-<h3>Retirement Savings</h3>
-<p>Lofty offers matching contributions to a company sponsored SIMPLE IRA plan. We match contributions dollar for dollar up to 3% of your salary.</p>
-<h3>Fully Sponsored Health Insurance</h3>
-<p>We cover 100% of medical benefits for our employees as well as significant subsidies for spouses and dependents.</p>
-<h3>WFH Stipend</h3>
-<p>Order that extra monitor and boost your internet speed! All remote employees enjoy a monthly Work From Home stipend to outfit their home office.</p>
-<h3>Fitness Reimbursement Bonus</h3>
-<p>Lofty reimburses employees for qualifying fitness programs and memberships</p>
-<h3>Floating Holidays</h3>
-<p>Choose two extra holidays per year that fit your lifestyle or beliefs, in addition to our standard US holiday schedule.</p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/lofty-product-manager">https://weworkremotely.com/remote-jobs/lofty-product-manager</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -370,7 +292,7 @@ We do not and shall not discriminate on the basis of race, color, religion (cree
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>397 days ago</text>
+                <text>398 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -426,6 +348,92 @@ We do not and shall not discriminate on the basis of race, color, religion (cree
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1519039/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>UpCodes</h5>
+                    <h3>Product Manager (SaaS)</h3>
+                </td>
+                <td width="300">
+                    <code>product manager,saas,ui,ux</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-saas-1519039" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height: 1.5em;"><strong>THE ROLE </strong></p>
+<p style="min-height: 1.5em;">UpCodes is looking for our first product manager to define and operationalize our Product process. This person will partner closely with the CEO to build a concrete roadmap to help us achieve our vision.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">One of the most challenging tasks at UpCodes is deciding what to build and exactly how to do it. We operate in a highly complex and opaque domain (regulations that are in 3D and change across time and location), so we need someone who can wrangle complexity, talk with users, and come up with sensible, simple ideas. For our first product manager, we need someone who can think strategically and isn't afraid to get their hands dirty.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">You will work closely with our users and engineering team to create hypotheses, test your assumptions, and develop specs. Given that deciding what to build and ironing out the details is one of our toughest challenges, you'll find that we have a very open environment where we encourage debate and input from lots of stakeholders.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>RESPONSIBILITIES </strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Gain a deep understanding of our industry through lots of user interviews and research, and use this to inform both high-level insights as well as honing the nitty-gritty details of new features</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Work with designers and subject matter experts to create specs/mocks for new features, gather internal/external feedback on them and iterate</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Come up with simple UI/UX for complex problems, grounded in user feedback and data</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Work closely with engineering to launch new features</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Study analytics to help inform product decisions</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Communicate and align our team with the strategy and rationale for new features in a logical, well-structured way</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>YOU MUST HAVE </strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">4-6 years of professional experience minimum</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">SaaS Experience</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience talking with users to nail the details of a feature</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience with managing a complex product, coming up with solutions in a structured way, using user feedback and data</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience writing clear, simple specs and tickets</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Effective communication / interpersonal skills</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Someone who isn’t afraid of responsibility and operating in an unstructured environment</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Strong work ethic</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">A good sense of humor and a down-to-earth personality</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"><strong>Full-Time Role</strong></p>
+<p style="min-height: 1.5em;"><strong>100% remote</strong></p>
+<p style="min-height: 1.5em;"><strong>$140k-$180k + equity</strong></p>
+<img src="https://remotive.com/job/track/1519039/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1519995/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -436,7 +444,7 @@ We do not and shall not discriminate on the basis of race, color, religion (cree
                     <code>go,mobile,music,product manager</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-mobile-apps-1519995" align="right" target="_blank">Apply</a>
@@ -494,62 +502,6 @@ We do not and shall not discriminate on the basis of race, color, religion (cree
 <p><strong>If this sounds like a team you’d like to be a part of right away - then we can’t wait to hear about you!</strong></p>
 <p><strong>Let’s get in touch and discuss your next, big career move.</strong></p>
 <img src="https://remotive.com/job/track/1519995/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1520168/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Insight Timer</h5>
-                    <h3>Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>product manager,saas,teacher,growth</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-manager-1520168" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We’re home to 22 million people, 16,000 teachers, and the largest free library of 160,000 guided meditations on earth. More time is spent on Insight Timer than all other meditation apps combined. This is an opportunity to become an integral part of our purpose driven team building SaaS tools for our teacher community and Enterprise customers.</p>
-<p><strong>The Role</strong></p>
-<p>We are looking for someone to own the Product-led growth Enterprise roadmap, servicing 68k customers, and continue to build world class Marketplace tools to drive revenue for our diverse community of teachers. You will join a dynamic and fast-paced environment and work with cross-functional teams to design, build and roll-out products that deliver on our vision and strategy.</p>
-<p><strong>Responsibilities</strong></p>
-<ul style="">
-<li style="">Work directly with the CEO, CPO, Design and Engineering teams to ship high quality products for both our Enterprise platform and our Teacher Marketplace.</li>
-<li style="">Manage our SaaS roadmap, backlog, and incoming needs, as well as defining our success metrics.</li>
-<li style="">Track build progress, manage risks and communicate project status to key stakeholders.</li>
-<li style="">Measure and monitor the impact of product performance through data and user feedback so we can learn and iterate quickly after launch.</li>
-</ul>
-<ul style="">
-<li style="">Be the expert on and advocate for the needs of the Insight Timer users, publishers and Enterprise customers.</li>
-</ul>
-<p><strong>About You </strong></p>
-<ul style="">
-<li style="">2+ years of software product management experience, with a focus on Enterprise SaaS and/or marketplace offerings. Ideally at an early stage, fast-growing company.</li>
-<li style="">Technical understanding and experience translating complex technical projects into clear, concrete product goals.</li>
-<li style="">Ability to prioritise opportunities, balance customers' needs with business needs, and clearly communicate the rationale behind decisions.</li>
-<li style="">Demonstrated experience generating outstanding results at a software company launching innovative features that delivered meaningful outcomes.</li>
-<li style="">An excellent eye for detail and design.</li>
-<li style="">Ability to apply user insights, data, and statistical analyses to inform decisions.</li>
-<li style="">An instinct for creating simple and intuitive user experiences and generally passionate about building the best possible customer experience.</li>
-<li style="">Demonstrated experience leading complex projects with cross functional teams that deal with ambiguity every day.</li>
-<li style="">The ability to collaborate and communicate with diverse internal stakeholders, you’ll be experienced at adjusting your approach depending on who you are communicating with.</li>
-<li style="">Excellent written and spoken English.</li>
-<li style="">A Team Player, we depend on each other.</li>
-</ul>
-<p><strong>Benefits</strong></p>
-<p>You'll be able to share in our success through a generous employee options plan.</p>
-<p>We have dedicated learning and development budgets to support your growth, as well as a competitive benefits plan.</p>
-<p>We're remote first, with no central office location. We dial in from all over the world, and it's important that our team is just as diverse as our community of users, customers and teachers. We do not discriminate on the basis of race, religion, national origin, gender identity or expression, sexual orientation, age, or marital, veteran, or disability status.</p>
-<p>Even if you don't think you quite meet all of the skills listed or tick all the boxes, we'd still love to hear from you!</p>
-<img src="https://remotive.com/job/track/1520168/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
