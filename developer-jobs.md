@@ -1,5 +1,150 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/9140/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>PostPilot</h5>
+                    <h3> Senior Ruby/Rails Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/postpilot-senior-ruby-rails-developer-3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/9140/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> US
+    <br /><strong>URL:</strong> <a href="https://www.postpilot.com/">https://www.postpilot.com/</a>
+</p>
+
+<div><strong>About the Job at PostPilot.com / Handwrite.io </strong></div><div>You’ll pitch in on building our <strong>Ruby on Rails + Hotwire app(s)</strong> as we continue to grow, add new features, keep them fast, and ratchet up their reliability &amp; robustness. <br><br>At PostPilot we build our product following the Basecamp <a href="https://basecamp.com/shapeup">Shape Up</a> methodology and keep our apps fast, secure, and reliable. Right now, we're hoping to further develop our flagship product PostPilot and work on problems like A/B testing, MFA, Adding more e-commerce integrations, building external APIs, and of course, making sure our existing infrastructure is scalable and maintained. </div><div><br></div><div>This position includes building features, deep-dive debugging, internal tooling, web performance, and internal support, with a bit of Robots and hardware thrown in. Day in and day out you’ll get to the bottom of multiple different issues across the stack and across projects. You can expect an <strong>inclusive, eager small team (of 4 devs)</strong> team who’ll support you in it, rise to challenges with you, and grow together. </div><div><br></div><div>Here are real examples of the work we’ve done lately that might help you to get a better idea of what this job entails:</div><ul>
+<li>Built a new customer workflow journey marketing ui with Hotwire </li>
+<li>Built a way for email lists to be converted into physical mailable addresses. </li>
+<li>Built software to manage pulling, printing, and monitoring our in-house printshop manufacturing process.</li>
+<li>Built a fleet of handwriting <strong>robots</strong> driven by Ruby on Rails.</li>
+<li>Built support for single-use unique coupon codes in <strong>direct mail campaigns</strong> </li>
+<li>Built the ability for <strong>Shopify</strong> brands (our users) to send real handwritten notes (postcards in envelopes, with real pens) with live in-browser previews</li>
+<li>Created a Public API for sending <strong>postcards</strong> and <strong>handwritten notes</strong> in our production facility.</li>
+<li>Developing a load balancing strategy for “expensive” <strong>Sidekiq</strong> background jobs that were crushing<strong> external APIs</strong> and our queues.</li>
+<li>Improved developer experience with <strong>Heroku</strong> (Pipelines, CI, and Review apps), <strong>Github</strong> Actions</li>
+<li>Deep dive into expensive queries in our application and working to improve performance and memory consumption from <strong>Postgres</strong> to Rails</li>
+<li>Built a <strong>webhook</strong> event publishing system for events from our production facility.</li>
+<li>Upgraded our main application to <strong>Rails 7 with import maps and hotwire</strong>.</li>
+</ul><div><br></div><div><strong>About you</strong></div><div>We’re looking for candidates who are ready for a similar breadth and depth of work. There are a lot of areas of responsibility! Solid fundamentals with software development, systems, troubleshooting, and teamwork pave the way.</div><div><br></div><div>We value people who have an opinion but can commit even if they disagree. People who understand the value of others being heard. This is only possible with direct feedback, openness to each others’ experiences, and willingness to show up for each other.</div><div><br></div><div>You can expect a team that listens, and to be heard. You can expect to be counted on. We care about what you can do and how you do it, not about how you got here. This is a remote-friendly job. You’re free to work where you work best. The bulk of our work is written via Slack and Github, from pull request discussions to team chats, and video recordings with a few video calls thrown in. </div><div>
+<br><strong>We require an overlap at least 4 hours</strong> with the United States east coast workday. That said, we’re not hiring from locations that require a graveyard shift to make the overlap happen.<br><br><strong>Pay and benefits</strong><br>The annual salary for this position is $80,000 - $120,000 USD. Applicants from outside the US will be offered a contractor role with comparable terms and at the same rate of pay as our US-based employees. <br><br>Our target start date for our new hire is as soon as possible.<br><br><strong>How to apply</strong><br>Please send a quick message tailored to this position that speaks to us.  Include the phrase "Ghostbusters!" and we'll know you're a real person that made it this far. Introduce yourself to us as a colleague. Give us some examples of how you’ve been successful in the past and attach a resume.<br><br>You should expect to hear from us fairly quickly. After that, there are 3 phases of the process. </div><ol>
+<li>A quick call to learn more about each other. <em>Expect a 30-minute call.</em>
+</li>
+<li>A take-home exercise, our ​​technical exercise is representative of the kind of day-to-day work we do with a follow-up code walkthrough call. <em>Plan for around 4 hours for the exercise and 30-minutes for the follow-up.</em>
+</li>
+<li>One last call with one of our Founders and the CEO of the company. <em>Expect this to take 20-minutes.</em> </li>
+</ol><div> Our interviews are conversations held over video with future colleagues – no tests, no surprises! </div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/postpilot-senior-ruby-rails-developer-3">https://weworkremotely.com/remote-jobs/postpilot-senior-ruby-rails-developer-3</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/4971/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Whitespectre</h5>
+                    <h3> Experienced Front End Web/React Developer (with Shopify)</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/whitespectre-experienced-front-end-web-react-developer-with-shopify" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0077/4971/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="http://www.whitespectre.com/">http://www.whitespectre.com/</a>
+</p>
+
+<div>
+<a href="http://www.whitespectre.com/"><strong><br>Whitespectre</strong></a> is a product-centric, technology consultancy for both VC funded start-ups and large, established companies across the US and Europe. We’re also a product incubator with our own applications and B2B SaaS platform. As long-term partners to our clients, we’ve played a critical role in their growth- both through the products we co-create and the expertise and processes we bring. Proudly remote first since 2013, we’re a close-knit team of 75, working in fast-moving, cross-functional agile pods to solve interesting technical challenges and drive real business impact.<br><br>
+</div><div><br></div><div><strong>What's it like to be an Engineer at Whitespectre?</strong></div><ul>
+<li>All of our engineers are sharp technical experts with the ability to think like product owners - being able to advocate for code quality as a long-term strategic investment while knowing when to adapt a more start-up mentality to deliver rapid business value. They work with the team to make architecture and implementation decisions, and stay up to date with the latest technologies and approaches.</li>
+<li>Our Frontend engineers live and breathe pixel perfect design, highly performant frontend implementations and are always implementing for multiple devices.</li>
+<li>Whitespectre projects use a fully-modern tech stack- toolset includes Node.js/Express, ReactJS, Typescript, Webpack, Shopify, REST/GraphQL, Rails, Postgres, Elastic, CI/CD with Docker, Heroku/AWS, etc. Working smartly is important to us; automation, dynamic environments spin up with new feature branches and slack bot integrations control our production releases.</li>
+<li>The majority of our projects involve building greenfield applications and our delivery teams typically own products end to end - your thinking and contribution make a big impact! </li>
+<li>You can read more about life in our engineering team in this <a href="https://www.whitespectre.com/ideas/a-day-in-the-life-with-eneko-senior-react-engineer/?utm_source=workable&amp;utm_medium=job-openings">blog post by our Senior Engineer, Eneko.<br></a><br>
+</li>
+</ul><div><strong>Benefits</strong></div><ul>
+<li>Competitive salaries, with payment in USD</li>
+<li>Annual Performance &amp; Salary Reviews, with structured, supported &amp; proactive career management</li>
+<li>20 Days PTO &amp; 3 Charity Days annually</li>
+<li>Funded face-to-face meet ups in Barcelona, as well as South America and Asia</li>
+<li>Assisted Relocation package up to $5k</li>
+<li>Flexible working hours for efficient teaming in a 100% remote environment (proudly remote-first for 9 years!)</li>
+<li>Free English classes &amp; educational expenses support</li>
+<li>Generous Employee Referral Plan</li>
+<li>Team Fitness and Charity Initiatives<br><br>
+</li>
+</ul><div>
+<strong>Cultural benefits<br></strong><br>
+</div><div>In addition to the above benefits, we foster an inclusive working environment that provides:</div><ul>
+<li>Great company environment - check out <a href="https://www.glassdoor.com/Reviews/Whitespectre-Reviews-E1575846.htm?countryRedirect=true">Glassdoor</a>
+</li>
+<li>On-going career guidance &amp; support with your Capability Leader and Mentor working with you to achieve your goals</li>
+<li>Personalized onboardings</li>
+<li>Opportunity to contribute to company-level initiatives</li>
+<li>Work with a broad range of best-in-class technologies</li>
+<li>Cross-company knowledge groups - improve your expertise, share your learnings and work with different technologies and tools</li>
+<li>Regular brown bag learning sessions</li>
+<li>An emphasis on work-life balance<br><br>
+</li>
+</ul><div><strong>   This is the right position for you if want-</strong></div><ul>
+<li>To build frontends on Shopify or other headless commerce platforms</li>
+<li>The challenge of collaborating with business stakeholders and Product Managers to advocate for technology solutions while bearing in mind the tradeoffs for business results</li>
+<li>The responsibility of designing new architectures and being confident to justify your technology decisions. (Plus debating and recognizing when a colleague has an even better idea!)</li>
+<li>The opportunity to go outside your core expertise and strengthen skills with other technologies and learn more</li>
+<li>An environment where excellent communication skills (both verbal and written) are valued and honed.</li>
+<li>A culture where people from different backgrounds interact, collaborate and reach a shared goal<br><br>
+</li>
+</ul><div><strong>The “check the box” Requirements</strong></div><ul>
+<li>3+ years of experience in software development, 3+ years of HTML/CSS/animation/ Javascript) experience</li>
+<li>Have worked on Shopify projects with multiple developers on the team</li>
+<li>Experience contributing to technical decision-making within a team</li>
+<li>Can work full-time with a significant crossover with the core hours: 11 am - 7 pm Central European Time</li>
+<li>Live outside of the US. Please, no recruitment agencies.<br><br>
+</li>
+</ul><div><strong>Interested in applying?</strong></div><ul>
+<li>Apply by completing the form below - and we’ll get back to you. Candidates enjoy meeting our FE Technical Leads, and discussing interesting coding challenges as part of our updated selection process.</li>
+<li>Or email us with any questions on <a href="mailto:frontend-jobs@whitespectre.com">frontend-jobs@whitespectre.com</a>.</li>
+<li>Our process includes the following:<ul>
+<li>A 30 minute video call with our Talent Acquisition team to understand your experience &amp; expectations</li>
+<li>A 60 minute technical interview including a live code working sessions with a lead engineer to explore your technical capabilities</li>
+<li>Final interview(s) with the company leadership to confirm fit &amp; finalize your offer </li>
+</ul>
+</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/whitespectre-experienced-front-end-web-react-developer-with-shopify">https://weworkremotely.com/remote-jobs/whitespectre-experienced-front-end-web-react-developer-with-shopify</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/4314/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +155,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/hr-partner-full-stack-ruby-sinatra-developer-with-some-ux-skills" align="right" target="_blank">Apply</a>
@@ -70,7 +215,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/inops-services-azure-integration-developer" align="right" target="_blank">Apply</a>
@@ -94,63 +239,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1525/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>resOS ApS</h5>
-                    <h3> Full stack WordPress developer with SEO experience for international site </h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/resos-aps-full-stack-wordpress-developer-with-seo-experience-for-international-site" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/1525/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Denmark, Copenhagen
-    <br /><strong>URL:</strong> <a href="https://resos.com">https://resos.com</a>
-</p>
-
-<div> </div><div>Do you want to be part of a fully-funded product company working in the restaurant industry with the option to work remotely? And do you have a technical flair and can navigate Wordpress like a pro? We are looking for a talented developer with strong experience with WordPress, PHP, SEO and UI/UX.<br><br>
-</div><div><br></div><div><strong>About resOS </strong></div><div>
-<br>resOS is a restaurant operation system with customers in countries all over the world. We enable restaurants to run their business as efficiently as possible with modern technology. Our system helps restaurants with managing all their data such as opening hours, tables, communication, customers, and much more.<br><br>
-</div><div>We aim at providing our customers with the world’s best product. Having satisfied customers is our number one priority, which is also why we are 100% engaged in delivering fast and friendly customer service. Our customers should have the best possible experience when using our product, and the same goes for when they visit our website. This is where you and your Wordpress skills come into play. <br><br>
-</div><div><br></div><div><strong>Location</strong></div><div>
-<br>We have an office in Copenhagen, Denmark, but we fully support working remotely. Basically, you can work from anywhere you want in the world. <br><br>
-</div><div><br></div><div><strong>Who are you?</strong></div><div>
-<br>We are looking for a skilled and experienced WordPress developer to improve and optimize our company website <a href="https://resos.com/">https://resos.com</a>. You will take ownership of the website to allow resOS to have a first-class website optimized for SEO and conversion. The ideal candidate will have a strong foundation of knowledge and experience related to WordPress, PHP, SEO, and UI/UX. We prefer someone who is experienced with design (Figma, Photoshop or similar) as well as frontend and backend code.<br><br>
-</div><div><br></div><div><strong>What you’ll do</strong></div><ul>
-<li>Facilitate technical website improvements.</li>
-<li>Take ownership of core SEO functions including keyword research, technical SEO and on-site optimisation. </li>
-<li>Making fixes and updates to existing WordPress plugins</li>
-<li>Optimize the website and content for conversion rate optimization </li>
-<li>Develop unique landing pages with engaging content (We can help with the actual content)</li>
-</ul><div><strong><br>Requirements: </strong></div><ul>
-<li>It is required that you have at least a couple of years experience working with WordPress, PHP and SEO.</li>
-<li>You have experience with Search Engine Optimization and web marketing techniques and best practices.</li>
-<li>Professional experience with WordPress plugin development, architecture, and standards.</li>
-<li>Fluency in English.</li>
-<li>Excellent written and verbal communication skills.</li>
-<li>Experience with technical SEO tools like Ahrefs, SEMRush, Google Search console, and Google Analytics is considered a plus.  </li>
-</ul><div>Another thing we require is that you are detail-oriented and deliver your best work. To be able to do that, we always encourage our employees to take the time they need to complete a task, and with no rush. Employee satisfaction and great long-term results are more important to us than rushed short-term results. <br><br>
-</div><div><br></div><div><strong>Application</strong></div><div>
-<br>The position is full-time and we are looking for someone who can start in mid January/February 2023. We look forward to receiving your application.</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/resos-aps-full-stack-wordpress-developer-with-seo-experience-for-international-site">https://weworkremotely.com/remote-jobs/resos-aps-full-stack-wordpress-developer-with-seo-experience-for-international-site</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -161,7 +249,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>90 days ago</text>
+                <text>91 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -235,7 +323,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -312,7 +400,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -338,7 +426,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -415,7 +503,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -482,7 +570,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
