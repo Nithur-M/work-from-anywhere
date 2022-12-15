@@ -1,5 +1,68 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Lifetimely</h5>
+                    <h3> Senior Devops / PostgreSQL Admin (USD 80K-120K)</h3>
+                </td>
+                <td width="300">
+                    <code>DevOps and Sysadmin</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/lifetimely-senior-devops-postgresql-admin-usd-80k-120k" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Helsinki, Finland
+    <br /><strong>URL:</strong> <a href="https://lifetimely.io">https://lifetimely.io</a>
+</p>
+
+<div>Lifetimely is a fast-growing ecommerce analytics company looking for a <strong>Senior DevOps with PostgreSQL expertise to help us manage and take ownership of our bare metal servers and databases</strong>. If you have experience managing machines with Ansible (or any other server automation tool) and also managed PostgreSQL servers before, then we want to hear from you!<br><br>
+</div><div>Our customers include names like MrBeast's Feastables, Liquid Death, and Unilever. You can read about our app on the <a href="https://apps.shopify.com/lifetimely-lifetime-value-and-profit-analytics">Shopify app store</a> and <a href="https://lifetimely.io/">our website</a>. We provide real-time reporting and predictions to more than 5000 ecommerce shops. To give you a sense of scale - we collect data on millions of orders per day from a few thousand stores and process many millions of background jobs to deliver quality reports and insights to our customers. <br><br>
+</div><div>We're looking for someone who can hit the ground running and make an immediate impact on our team. In this role, you'll be responsible for maintaining and optimizing our databases, as well as implementing backup and disaster recovery solutions.<br><br>
+</div><div><strong>We are looking for someone who has extensive experience in the following:</strong></div><ul>
+<li>5+ years of PostgreSQL experience</li>
+<li>Storage tuning</li>
+<li>Experience with PGBackRest or any other backup solution</li>
+</ul><div><br></div><div><strong>Additionally, we will highly value experience with:</strong></div><ul>
+<li>Bare metal servers</li>
+<li>Being Ubuntu admin</li>
+<li>Docker</li>
+<li>Nomad ( or Kubernetes ) experience</li>
+</ul><div><br></div><div><strong>Other:</strong></div><ul>
+<li>You should be humble, can mentor others, both provide and receive direction and be always willing to share what you learn.</li>
+<li>Location: prefer America / Europe / Africa</li>
+</ul><div><br></div><div>
+<strong>Compensation for this position is between USD 80K-120K and varies with experience and skill set.</strong> This is a full-time position, but we will consider candidates who can allocate 25+ hours per week to the project. You will be employed through <a href="https://www.usemultiplier.com/">Multiplier</a> either as a full-time employee or as a contractor with paid time off and other benefits, depending on your location and preferences.<br><br>
+</div><div>
+<strong>Where we are and how we work:<br></strong><br>
+</div><div>Our tech stack is Ansible / Ruby / PostgreSQL.<br><br>
+</div><div>Working for Lifetimely doesn't feel like the usual office or startup gig: we are a distributed group of 20+ people across ten different countries 🇫🇮 🇺🇸 🇫🇷 🇨🇱 🇪🇬 🇪🇸 🇭🇷🇸🇬🇦🇺🇦🇺 with our own way of working. Some of us are nomads, some just like working remotely. We highly encourage written (long-form) communication and documenting things on Notion, and generally don't like tight fixed schedules. There is not much management or oversight, we expect you to know how to manage yourself. <strong>We prioritize shipping and results above how or when you do the work.<br></strong><br>
+</div><div>
+<strong>Two meetings per week, one for the devs on Tuesday and another one on Thursday for everyone. That's it.</strong> If you are into distributed work and prefer the lifestyle aspects or maybe live somewhere with not many exciting startups, you will enjoy working with us.<br><br>
+</div><div>
+<strong>To apply, please...<br></strong><br>
+</div><ul>
+<li>Describe the largest PostgreSQL deployment you worked on.</li>
+<li>Please explain in your own words why VACUUM exists in Postgres</li>
+<li>What was the largest number of Linux servers you had to manage? Describe what the infrastructure was used for.</li>
+</ul><div><br></div><div>If you're passionate about working with databases and have the skills and experience we're looking for, then we encourage you to apply for this role. We can't wait to hear from you and learn more about why you're the right person for the job. <br><strong><br></strong>All the interviews will be conducted by the company CTO - you won't be talking to a recruiter.</div><div><br></div><div><br></div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/lifetimely-senior-devops-postgresql-admin-usd-80k-120k">https://weworkremotely.com/remote-jobs/lifetimely-senior-devops-postgresql-admin-usd-80k-120k</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0001/4828/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +73,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bear-group-devops-engineer" align="right" target="_blank">Apply</a>
@@ -62,17 +125,17 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior DevOps Engineer</h3>
+                    <h5>RemoteMore</h5>
+                    <h3> DevOps Engineer</h3>
                 </td>
                 <td width="300">
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>66 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/remotemore-devops-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -81,49 +144,31 @@
                 
 
 <p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+  <strong>Headquarters:</strong> Berlin/Chicago 
+    <br /><strong>URL:</strong> <a href="https://remotemore.com/candidates?utm_source=Jobpost&amp;utm_medium=WWR&amp;utm_campaign=PythonTrue">https://remotemore.com/candidates?utm_source=Jobpost&amp;utm_medium=WWR&amp;utm_campaign=PythonTrue</a>
 </p>
 
-<div><strong>The Role:</strong></div><div>We are searching for a Senior DevOps Engineer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +4 years of solid development experience as a DevOps Engineer;</li>
-<li>You have +3 years of experience in Azure Cloud and Kubernetes;</li>
-<li>You have good understanding of operating, monitoring, and documenting cloud solutions;</li>
-<li>Responsible and able to work with minimal supervision;</li>
-<li>Upper-intermediate English level;</li>
-<li>You can communicate well with both technical and non-technical clients.</li>
-</ul><div>
-<strong><br>Nice-to-have:</strong> <br><br>
-</div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Azure certifications in Cloud development and architecture would be a plus.</li>
-</ul><div>
-<strong><br>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Set up and maintain local development and test environments (based on containers and similar technologies);</li>
-<li>Set up CI/CD pipelines, including build processes for container images and delivery to container registries;</li>
-<li>Planning and setting up automated updates to AKS (Azure Kubernetes Service) and surrounding infrastructure components;</li>
-<li>Continued setup and improvement of Cloud infrastructure to support new cloud-native solutions;</li>
-<li>Collaborate with the stakeholders.</li>
-</ul><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule<br>.🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<div><strong>The position</strong></div><div><br></div><div>RemoteMore is helping a large tech company with hiring DevOps engineers for its European and US teams.</div><div><br></div><div>The company is one of the major tech companies and works across many internal product teams. Multiple DevOps engineers will be hired and matched to the teams that are best fit for their background/experience. All product teams are fully distributed. The company culture is to focus on work delivered and not hours worked.</div><div><br></div><div>Good work-life balance is encouraged: 4-week paid holiday per year is part of the benefits package. You can work from home or any other place of your choice.</div><div><br></div><div>The position is full-time and fully remote.</div><div>
 <br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of the Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul><div>
-<br><br><br>
+</div><div><strong>Your profile</strong></div><div><br></div><div>Coming from a strong technical background, you are expected to have:</div><div><br></div><ul>
+<li>Required technologies: AWS/Azure/GCP, CI/CD pipelines, Docker</li>
+<li>Bonus points: Python/Ruby/Golang coding skills; Kubernetes; Jenkins</li>
+<li>Top technical skills for your level of experience: Intermediate or Senior (2+  years of professional experience)</li>
+<li>The soft skills to work remotely. Strong individual contributor, strong communication skills.</li>
+<li>Passion for remote work. You understand the pros and cons of working remotely.</li>
+<li>Good English language skills to work as part of an international team.<br><br>
+</li>
+</ul><div><br></div><div><strong>Why should YOU apply?</strong></div><div><br></div><ul>
+<li>Work from anywhere you want.</li>
+<li>Competitive compensation based on your skills.</li>
+<li>Work in a team with other top developers.</li>
+<li>Making a difference.<br><br><br>
+</li>
+</ul><div>To be considered for the position, please sign up to RemoteMore by following the apply button. </div><div>
+<br><br>
 </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer">https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/remotemore-devops-engineer">https://weworkremotely.com/remote-jobs/remotemore-devops-engineer</a></p>
 
                 </details>
                 </td>
