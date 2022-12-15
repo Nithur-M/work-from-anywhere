@@ -1,187 +1,129 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/b103842f7be539c2e4669618f202f5401670483785.peg" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/08667528f998ca858231dd5955734a021670915758.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Zora</h5>
-                    <h3>Crypto Backend Engineer</h3>
+                    <h5>Metaschool</h5>
+                    <h3>Backend Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>crypto,ethereum,system,api,engineer,engineering,backend</code>
+                    <code>web3,technical,developer,growth,code,laravel,lead,content,go,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-crypto-backend-engineer-zora-160895" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-metaschool-163397" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <h2>About Us</h2>
-<p>ZORA is a group of individuals working towards a new paradigm for creators by enabling the creation, curation, and collection of NFTs. We believe that by enabling a more equitable system for creators and communities, we will fundamentally rediscover the power of the internet.</p>
-<p>Weâre working tirelessly to make ZORA available to as many creators as possible. Our <a href="http://zora.co/manifesto" rel="noopener noreferrer nofollow">mission</a> is to build a new creator and community-owned economy.</p>
-<h2>Who we're looking for</h2>
-<p>ZORA is looking for experienced backend engineers to help design, implement, and extend the ZORA API and indexing services.Â </p>
-<h2>What you'll do</h2>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with engineering & product teams to build toward our shared vision</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Focus on the ZORA API and indexing architecture</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Deliver & own features and projects from beginning to end</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work closely with our product teams to implement and collaborate to deliver new features and experience for the ZORA ecosystem</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Inject your energy and perspective into every product meeting, standup, and interaction, both within the team and around ZORA's broader community</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Interact with our protocol, data warehouses, andÂ </span></li>
-</ul>
-<h2>Skills we're looking for</h2>
-<ul>
-<li>Solid understanding of Python, Ethereum RPCs, and blockchain indexing patterns</li>
-<li>An eye for detail</li>
-<li>A collaborative approach to problem solving</li>
-<li>Adept communication skills</li>
-</ul>
-<h2>We'd love it if you had</h2>
-<ul>
-<li>Solidity experience</li>
-<li>High scale API expertise</li>
-<li>Past contributions to open source libraries</li>
-</ul>
-<h2>Compensation</h2>
-<p>We're committed to offering you a salary competitive to the market based on your experience.</p><br/><br/>Please mention the word **ENHANCED** and tag RMzQuMjA3LjcyLjI3 when applying to show you read the job post completely (#RMzQuMjA3LjcyLjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Metaschool is looking for a high ownership, product-minded backend engineers to help our small engineering team build and ship a delightful product for our dev users. </span></p><p><br></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">There are 30M developers in the world but only 24k devs are actively contributing to the web3 ecosystem as of now. Metaschool produces fun, free and exciting projects for web2 devs to propel to web3. Find this exciting? Keep reading.</span></p><p><br></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Working at Metaschool</span></p><p><br></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Metaschool produces courses for devs to build, ship and learn web3. We have over 70K devs signed up from 50+ countries within 5 months of launch.</span></p><p><br></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Weâre a decentralized, remote-first company with teammates based in Singapore, India and Pakistan (for now ð). We are divided by borders but our common mission to help devs build and flourish in the web3 ecosystem has brought us very close. If you are in any timezone of Asia and are a web3 native, we would love to have you onboard. </span></p><p><br></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Our Values</span></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><br></p><ul>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">
+<span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Buidl dope shit!</span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> - We care about what you have built, not your degrees or FAANG experience.</span>
+</li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">
+<span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Stay weird - </span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> Own yourself, be yourself! Diversity is our strength! </span>
+</li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">
+<span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Improve daily -</span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> Daily efforts compound. Donât underestimate them.</span>
+</li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">
+<span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Developers come first - </span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">We are building for devs. Put them first, always!</span>
+</li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">
+<span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Learners for life -</span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> Leave your ego outside, learn whenever you can.</span>
+</li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">
+<span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Collaborate to win -</span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> If you want to go far, collaborate and go with a team.</span>
+</li>
+</ul><p><br></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The Role</span></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">At Metaschool, we ship weekly and we are nothing without our Product. Our engineering team is the backbone of what we are doing at Metaschool. The learning content lives on the CMS we have created in house. The idea is to think from first principles and evolve the product to continue to delight and help our dev user base. </span></p><p><br></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">This is how you will be working with us.</span></p><ol>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Building the backend infrastructure of Metaschool. Our tech stack is React, Laravel & AWS. But we are ever evolving and looking to migrate to Node.</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">Writing requirements of your deliverables, speaking with developer users of our platform and designing sprints with teams.</li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">Writing efficient and scalable code to help the platform growth and scale.</li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">Helping and supporting other devs in the team.</li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">
+<span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Anything else you would like to contribute to? Weâd love that ;)</span><br><br>
+</li>
+</ol><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">YOU</span></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">An ideal person to lead this role:</span><br><br></p><ul>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Is technical but product minded</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Previously worked with a startup</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Has previously built and shipped something.</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Has managed a team. </span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Loves to collaborate with, and bring people together.</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Has great written and verbal communication skills.</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Loves startup environment & comfortable wearing multiple hats.</span></li>
+</ul><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">If any of the above doesnât apply to you and you still strongly feel you can do it. Donât let us stop you.. Please apply for the opportunity.</span></p><p><br></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Perks</span></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">We are a small intimate team with a big mission to help more devs enter web3. At Metaschool, you will have exposure to product, business, growth, technology and everything in between. </span><br><br><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Additionally, you will get:</span></p><ul>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Competitive Salary</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Generous Equity</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Health Insurance </span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Paid Time off</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Workstation Allowance</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Multiple Tech subscription(s) to make your life easier</span></li>
+<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">And an amazing bunch of weird frens!!</span></li>
+</ul><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">We are so excited to see you around. </span></p><br/><br/>Please mention the word **IMPRESSED** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/c26a53de0e372bd22e14a0a1665ea57e1670483783.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/3b3b852e3479953b66a8cb8f057290ae1670915721.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Flashbots</h5>
-                    <h3>Senior Backend Engineer</h3>
+                    <h5>aXedras</h5>
+                    <h3>Backend Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>solidity,crypto,ethereum,technical,api,senior,golang,health,engineer,engineering,backend</code>
+                    <code>design,frontend,code,web,java,node,go,engineer,linux,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-flashbots-160893" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-axedras-163392" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="content-intro">
-<h3>Our Organization</h3>
-<p>Flashbots started in 2020 as a research and development organization formed to mitigate the negative externalities and existential risks posed by Maximal Extractable Value (MEV) to smart-contract blockchains, starting with Ethereum. <br><br>We build decentralized products to maximally decentralize public blockchains and empower users.</p>
-</div><h1>About the position:</h1>
-<p>Weâre looking for experienced Backend engineers to:</p>
+                <h3>Who we are</h3>
+
+<p>aXedrasâ¢ vision is to connect and digitalize the precious metal industry. We combine bullion market expertise and cutting-edge information technology to create significant benefits for the stakeholders of the precious metals industry.</p>
+
+<h3>What we do</h3>
+
+<p>aXedrasâ¢ builds and runs the Bullion Integrity Ledgerâ¢ - a trusted digital network based on latest DLT - on which market participants in the precious metals industry can interact with each other to maintain shared ledgers of product and ownership information. The technology of the Bullion Integrity Ledgerâ¢ enables to digitally reflect manifold precious metals industry use cases and applications along the entire value-chain.</p>
+
+<h3>What you will do</h3>
+
+<p>You will have the opportunity to join an innovative and agile IT project within a fast growing and dynamic start-up company. You will to be part of a highly motivated, cross-functional team! You will get the chance to take a driving role in the design and development of the entire stack, with a focus on the microservice components.</p>
+
+<h3>Our Stack</h3>
+
+<p>We develop on GitLab, using Kotlin, Gradle, Docker, NodeJS, React, Terraform and Ansible. An instance of the aXedrasâ¢ stack is composed of a R3 Corda blockchain node, a set of JVM/Spring-Boot-based microservices to control and connect the node to our frontend, and the React-based user interface. Each network member owns its own stack, which is hosted and operated by the customers either on-premise or in the cloud.</p>
+
+<h3>Who we are looking for</h3>
+
 <ul>
-<li>Support engineering efforts across the product and research organization</li>
-<li>Be a part of <a href="https://twitter.com/bertcmiller/status/1593668480951373827?s=20&t=Zg4sHvh3BAt6Aqv7400bPg" rel="noopener noreferrer nofollow">open-sourcing our software</a>
-</li>
-<li>Contributing to <a href="https://twitter.com/bertcmiller/status/1595492392022421504" rel="noopener noreferrer nofollow">Suaveâs future success</a>
-</li>
+        <li>Applications of all seniority levels are welcome but experience with designing and developing backend applications using Java 8 or another JVM language (preferably Kotlin) is expected.</li>
+        <li>Masterâs/Bachelorâs degree in computer science or in a related field</li>
+        <li>Capable of bootstrapping a backend project from scratch</li>
+        <li>Proficient in structuring and developing RESTful API</li>
+        <li>Knowledge of Spring Boot, JPA/Hibernate, SQL, Gradle</li>
+        <li>Solid understanding of distributed systems, microservice architecture, IPC/RPC and serialization frameworks, web services and network protocols</li>
+        <li>Experience with DevOps, CI/CD, build/deployment-automation, Gitlab pipelines, Linux and Docker</li>
+        <li>Knowledge of DLT/blockchain and specifically R3 Corda is a plus</li>
+        <li>Non JVM experience like Go or Rust experience is a plus</li>
+        <li>Understanding of frontend development in React, Angular, etc. is a plus</li>
+        <li>Proficient in code versioning with Git</li>
+        <li>Fixed (Swiss work permit & residency required) or contractor (remote worldwide, +/- 2h CET preferred) employment is possible</li>
+        <li>Proficient in English</li>
+        <li>German, Italian or Spanish is a plus</li>
 </ul>
-<p>Bringing life to our core products (as well as the efforts of our research org) means youâll need to be a capable self-starter who enjoys learning new things in motion and approaches hard problems with a builder mentality.</p>
-<h2>Responsibilities</h2>
-<ul>
-<li>Contributing to the development of Flashbots products, such as <a href="https://github.com/flashbots/mev-boost" rel="noopener noreferrer nofollow">MEV-Boost</a>, <a href="https://twitter.com/bertcmiller/status/1595492392022421504" rel="noopener noreferrer nofollow">Suave</a> & others</li>
-<li>Writing and orchestrating technical documentation/diagrams for public consumption</li>
-<li>Build and maintain public API services as well as developer-friendly tools for Flashbots ecosystem (searchers, integration partners, and end-users)</li>
-<li>Advance the user experience by building and scaling relevant tools</li>
-<li>Collaborating with research org/team on technical challenges</li>
-<li>implementing well-thought-out unit or integration tests</li>
-<li>Engaging with the community on technical issues</li>
-</ul>
-<h2>Qualifications</h2>
-<ul>
-<li>Experience working on production systems with Go, Rust or TypeScript</li>
-<li>Comfortable with async contributing, both collaboratively and self-sufficiently</li>
-<li>Flexible, accountable, and focused on high-impact solutions</li>
-<li><a href="https://jchyip.medium.com/why-t-shaped-people-e8706198e437" rel="noopener noreferrer nofollow">T-Shaped capabilities</a></li>
-</ul>
-<h2>Nice-to-haves</h2>
-<ul>
-<li>Experienced Golang background working on production systems</li>
-<li>Experience with Ethereum, Geth or other Ethereum clients</li>
-<li>Worked with Solidity or other smart contract languages</li>
-<li>Contributed to open-source work/projects</li>
-</ul><div class="content-conclusion">
-<h3>Benefits</h3>
-<p>ð Fully remote with flexible hours in a flat hierarchy</p>
-<p>ð§  Work alongside the brightest minds in the crypto space</p>
-<p>ð¸ Competitive salary + significantly above market rate equity package</p>
-<p>âï¸ Regular team on-sites to locations like Morocco, Amsterdam and Costa Rica<br><br>ð´Unlimited PTO with no approval needed on 3 days or less vacations</p>
-<p>ð Attractive health cover package for US employee</p>
-<p>Â </p>
-<hr>
-<p>Join us to help solve hard problems that have asymmetric impact and strike at the core of crypto.</p>
-</div><br/><br/>Please mention the word **GOLDEN** and tag RMzQuMjA3LjcyLjI3 when applying to show you read the job post completely (#RMzQuMjA3LjcyLjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/c61810e255953a9ba1745e42fb4b80351670483735.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Syndica</h5>
-                    <h3>Senior Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>design,saas,support,code,web,cloud,lead,senior,operational,golang,engineer,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-syndica-160877" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="row mb-4">
-<div class="col">
-<p><span style="font-weight:400;">At Syndica, big things happen. Every day, weâre translating vision into reality by tackling new and exciting challenges head-on. This is a breakthrough stage in our company, and youâll experience firsthand the infectious enthusiasm of our employees and leadership team. Youâll have the opportunity to learn new skills, grow your career, and work with the smartest, most passionate people in crypto.</span></p>
-<p><span style="font-weight:400;">We are backed by strategic partners, investors, and advisors who are all-in on our mission: Chamath of Social Capital, Sam Bankman-Fried of Alameda Research, Solana Ventures, and many more.</span></p>
-<p><span style="font-weight:400;">This role will have the primary accountability of designing, implementing, and operating Syndicaâs blockchain infrastructure platform. </span><strong>Golang knowledge is a necessity!</strong><span style="font-weight:400;"> The team operates with a ârun what you writeâ philosophy and each engineer is responsible for deploying and operating the code they write.</span></p>
-<p><span style="font-weight:400;">A successful candidate must have demonstrable experience in at least one programming language (preferably Go, Rust or C++), and previous work in SaaS application development and operations. You will be responsible to ensure the environment is built, deployed, configured, managed, and monitored correctly to support the business. The ideal candidate will also have prior experience developing applications on either of the three major cloud platforms - AWS, Azure, or GCP via Kubernetes.</span></p>
-<h3><strong>Responsibilities</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Design, creation, and provisioning of infrastructure</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Write beautiful maintainable Golang code - idiomatic Go!</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Create modular and extensible micro-services to support the platform</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Build a reliable fault-tolerant service</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Identify and troubleshoot any availability and performance issues at multiple layers of deployment, from hardware, to operating environment, network, and application</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Evaluate performance trends and expected changes in demand and capacity, and establish the appropriate scalability plans</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Troubleshoot and solve customer platform issues</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ensure that SLAs are met in executing operational tasks</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with other engineers to implement operational solutions while defining and adhering to industry best practices</span></li>
-</ul>
-<h3><strong>Qualifications</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">3+ years related professional experience using Golang</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with Prometheus/Grafana for metrics aggregation/visualization is plus</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with automation tools/platforms</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with alerting and monitoring tools is plus</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience working in a highly distributed company is a plus</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Align a portion of your day with the business hours of Central Time Zone - UTC -6</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Systematic problem-solving approach, combined with a strong sense of ownership and drive</span></li>
-<li style="font-weight:400;">Â </li>
-<li style="font-weight:400;"><span style="font-weight:400;">Some working knowledge of web and network protocols and standards (HTTP, TLS, DNS, etc)</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience writing automation tools & eagerness to "automate all the things"</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Bachelor's degree in Computer Science or related field or relevant experience</span></li>
-</ul>
-<h3><strong>What does success in this role look like?</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">In three months, you have become one of our lead Golang developers. Youâll have taken on independent code review responsibilities and are collaborating on the design of new features</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">In six months, you have earned the trust of the team and are delivering tasks through the entire SDLC, from design through development with minimal guidance, and are helping to effectively mentor new engineers joining the team</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">In twelve months, you have established a cadence of predictable, on-time delivery without cutting corners</span></li>
-</ul>
-<p class="sc-bdvvtL jgAYSX">Â </p>
-</div>
-</div><br/><br/>Please mention the word **NIFTY** and tag RMzQuMjA3LjcyLjI3 when applying to show you read the job post completely (#RMzQuMjA3LjcyLjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+
+<h3>How to apply</h3>
+
+<p>Please send your full application CV. A motivation or cover letter is not required. Also, the diplomas specified in your CV do not have to be attached and will be checked at a later stage.</p><br/><br/>Please mention the word **SWEEPING** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -196,7 +138,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
