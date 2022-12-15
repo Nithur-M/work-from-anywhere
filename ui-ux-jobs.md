@@ -10,7 +10,7 @@
                     <code>ux,design,crypto,financial,lead,senior,executive,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-ux-researcher-xmtp-161395" align="right" target="_blank">Apply</a>
@@ -49,7 +49,7 @@
 <h2><strong>About XMTP, Inc.</strong></h2>
 <p>XMTP, Inc. was co-founded by <a href="https://twitter.com/mg" rel="noopener noreferrer nofollow">Matt Galligan</a> and <a href="https://twitter.com/shanemac" rel="noopener noreferrer nofollow">Shane Mac</a>, and is headquartered on the web. We have an excellent benefits package that includes parental leave, competitive pay, an equipment and home office allowance that refreshes yearly, monthly lifestyle stipend, as well as a personal assistant, and financial advisor. For U.S.-based team members we also provide access to FSA, 401K, and fully paid high quality medical, dental, and vision insurance for you and your family.</p>
 <p>Weâre backed by some of the best investors in tech and crypto: a16z Crypto Fund, Offline Ventures, Sound Ventures, Distributed Global, Redpoint, IDEO CoLab and many more key ecosystem investors and operators. <a href="https://blog.xmtp.com/series-a/#xmtps-investors" rel="noopener noreferrer nofollow">See the full list here</a>.</p>
-<p>XMTP, Inc. is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><br/><br/>Please mention the word **ACCOMPLISHED** and tag RMzQuMjA3LjcyLjI3 when applying to show you read the job post completely (#RMzQuMjA3LjcyLjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>XMTP, Inc. is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><br/><br/>Please mention the word **ACCOMPLISHED** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -64,7 +64,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>398 days ago</text>
+                <text>400 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -130,7 +130,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
