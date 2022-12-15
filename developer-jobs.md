@@ -1,5 +1,155 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/4585068622a40369926d14b4c6539a2c1670915741.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Swirlds Labs</h5>
+                    <h3>Developer Advocate</h3>
+                </td>
+                <td width="300">
+                    <code>developer,design,web3,technical,support,software,travel,voice,video,lead,engineering,educational,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-developer-advocate-swirlds-labs-163396" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="p-rich_text_section"><strong>About Swirlds Labs:</strong></div>
+<div class="p-rich_text_section">
+<p>Swirlds Labs was established with the mission to accelerate the future, built on Hedera â the most used, greenest, enterprise-grade public ledger for the decentralized economy. Our vision is to enable âShared Worldsâ, where anyone can gather, collaborate, conduct commerce, and control their own online footprint. We will enable this vision by continuing to provide development and other support for the Hedera network, building community and enterprise solutions that enable fast, rapidly scalable adoption of Hedera network services, and cultivating âmoonshotâ projects that will change the way humans and organizations interact in cyberspace.</p>
+</div>
+<p><strong>You may find yourself doing all of the following:</strong></p>
+<p><span style="font-weight:400;">As a Developer Advocate for Swirlds Labs, your job is to be on the edge of the newest developments in Hedera and in the overall web3/blockchain ecosystem. You will stay updated on the innovative use cases of decentralized networks for a variety of industries, including crypto, DeFi, NFTs, Metaverse, enterprise banking, gaming, sustainability, and many others. You will then use that knowledge to empower the Hedera Council members, clients, pre-sales leaders, developer community, and other partners with the ability to build innovative decentralized applications using Hedera as the best-in-class public distributed ledger. You will lead learning and project planning workshops and also provide in-depth knowledge of the Hedera technology stack in support of live deployments, events, and technical discussions. You will also play an important role in representing the voice of the partners and developers in the community to ultimately improve the Hedera network. This role is great for people with technical aptitude and an entrepreneurial spirit who want to make a difference in evolving the web3 industry together with amazing technical talent.</span></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Being the technical Hedera product expert empowering others to build on Hedera</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Staying updated on the latest developments in the blockchain ecosystem and sharing this knowledge both internally and externally</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Understanding developer user journeys and enabling newcomers to participate in the ecosystem</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Working with the product and engineering teams to deliver the feedback and design future Hedera improvements through Hedera Improvement Proposals</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Defining industry and use case best practices</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Delivering successful partner and end-customer workshops</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Engaging and enabling developers through social media channels</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Participating in and recording educational podcasts and video tutorials</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Speaking at technical meetups and conferences</span></li>
+</ul>
+<p><strong>Qualification Requirements:</strong></p>
+<p><span style="font-weight:400;">A Developer Advocate should be able to lean on his or her vast technical knowledge, extensive experience, and general engineering prowess to effectively assist projects and make suggestions or recommendations for improvements.</span></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Solid and diverse engineering skills, with a finger on the pulse of current development technologies across several platforms</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience developing decentralized applications on public or private networks, especially using EVM-compatible networks</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience using web3 development tools: Hardhat, Truffle, Open Zeppelin, etc.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Friendly and approachable; a great mentor</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Willingness to travel anywhere our communities live a few times every quarter</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Ability to work irregular hours and some weekends to support conferences, user groups, and other developer events</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Entrepreneurial thinking and the ability to act effectively with only high-level direction</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Very social, a willingness and desire to make connections while meeting and talking with people</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Strong English verbal and written communication skills</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Ability to work independently</span></li>
+</ul>
+<p><strong>Other skills that are great to bring with you but that we can help you develop:</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Existing skills working with systems integrators and major enterprise software vendors</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Existing leadership and service in developer communities</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Technical writing skills as demonstrated via blog posts and other written work</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Willingness to take the stage is essential for inspiring developers. A Developer Advocate needs to deliver presentations that are effective and respectful of an audience's time and attention</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">A deep industry specialty and network are strongly preferred</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">An active GitHub account demonstrative of your technical abilities and interests</span></li>
+</ul><br/><br/>Please mention the word **LUSTROUS** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>LocalVR</h5>
+                    <h3> Senior Full-Stack Developer for Short-Term Rental Company</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/localvr-senior-full-stack-developer-for-short-term-rental-company" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Denver, Colorado, United States
+    <br /><strong>URL:</strong> <a href="http://www.golocalvr.com">http://www.golocalvr.com</a>
+</p>
+
+<p>We are seeking an experienced Full-Stack Engineer to join our product team and help develop cutting-edge technology for our rapidly growing vacation rental management company. Our vision is to provide the attention to detail and personal care of a small, local company backed by an industry-leading technology suite.  </p>
+<p><br><strong>Product Highlights</strong></p>
+<p><strong>Some of our custom built products include:</strong></p>
+<ul><li>Internal Admin Tool - A dashboard that syncs data from our property management software (PMS) via API such as reservation details, reservation financial information and more. This application allows us to organize hundreds of thousands of data points, build new applications and two-way communicates with our property management software.</li></ul>
+<ul><li>Pricing - An algorithm that allows us to set pricing rulesets and daily rates for over 200 properties. The backend system on the LocalVR Admin Tool is operated by our revenue management team who constantly monitor and adjust the rules to meet homeowner revenue expectations as well as the market at any given time. The adjustments flow back into our PMS via API. We've conducted multiple case studies that proves LocalVR Pricing outperforms competitors up to 100% in year over year comparison. This pricing application is a cornerstone of our service offering.</li></ul>
+<ul> <li>Owner's Portal - This application is client-facing and allows our clients, the homeowner, to login and access specific information about their property. Homeowners have the ability to see their properties calendar, revenue metrics, financial statements, book their own stay, submit maintenance requests and more in a sleek and user friendly manner.</li> </ul>
+<ul> <li>Finance Application - Accounting in our industry is very complex and begins to get very complicated as you scale. This application allows us to organize the data we receive from our PMS, apply different financial rules and deliver precise monthly financial summaries, or "Owner Statements", with a breakdown of any given month's reservation financial information to our clients. Statements are generated and organized automatically for each homeowner. Once approved by our team, each statement is emailed to the related client. We then process payment for each client using an integration with Stripe.</li> </ul>
+<p><strong>Requirements</strong></p>
+<p><strong>Software</strong></p>
+<p>In this role, you will be responsible for designing, testing, and implementing software using the Django Python framework and React/Next.js JavaScript frameworks. The ideal candidate will have at least 3 years of software development experience with these frameworks and be comfortable working independently in a fast-paced environment. Familiarity with agile development practices (such as Kanban or Scrum), Git, and writing functional QA tests and unit tests is required.<br><br>Experience with PostgreSQL, Kubernetes, Docker, Celery, and managing CI/CD pipelines is not required, but would be a plus.<br><br>You will be joining a small team of dedicated back-end and front-end engineers, as well as a Sr. Product Manager, to help deliver on our strategic roadmap. If you are passionate about developing innovative technology, we want to hear from you.<br><br><strong>Location(s)</strong></p>
+<ul> <li><strong>Latin America</strong></li> <li><strong>South America</strong></li> </ul>
+<p>Note: This position requires availability for stand-ups and scrum meetings that typically occur between 9:00am and 12:00pm MST on weekdays.</p>
+<p><strong>Benefits</strong></p>
+<ul> <li>Contract position</li> <li>Fully remote</li> </ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/localvr-senior-full-stack-developer-for-short-term-rental-company">https://weworkremotely.com/remote-jobs/localvr-senior-full-stack-developer-for-short-term-rental-company</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1814/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>LocalVR</h5>
+                    <h3> Senior Full-Stack Developer for Short-Term Rental Management</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/localvr-senior-full-stack-developer-for-short-term-rental-management" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0082/1814/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Denver, CO
+    <br /><strong>URL:</strong> <a href="https://golocalvr.com">https://golocalvr.com</a>
+</p>
+
+<div>We are seeking an experienced Full-Stack Engineer to join our product team and help develop cutting-edge technology for our rapidly growing vacation rental management company. Our vision is to provide the attention to detail and personal care of a small, local company backed by an industry-leading technology suite.<br><br>
+</div><div>In this role, you will be responsible for designing, testing, and implementing software using the Django Python framework and React/Next.js JavaScript frameworks. The ideal candidate will have at least 3 years of software development experience with these frameworks and be comfortable working independently in a fast-paced environment. Familiarity with agile development practices (such as Kanban or Scrum), Git, and writing functional QA tests and unit tests is required.<br><br>Experience with PostgreSQL, Kubernetes, Docker, Celery, and managing CI/CD pipelines is not required, but would be a plus.<br><br>You will be joining a small team of dedicated back-end and front-end engineers, as well as a Sr. Product Manager, to help deliver on our strategic roadmap. If you are passionate about developing innovative technology, we want to hear from you.<br><br><strong>Location(s)<br></strong><br>
+</div><ul>
+<li><strong>Latin America</strong></li>
+<li><strong>South America</strong></li>
+</ul><div><br></div><div>Note: This position requires availability for stand-ups and scrum meetings that typically occur between 9:00am and 12:00pm MST on weekdays.<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/localvr-senior-full-stack-developer-for-short-term-rental-management">https://weworkremotely.com/remote-jobs/localvr-senior-full-stack-developer-for-short-term-rental-management</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/9140/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +160,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/postpilot-senior-ruby-rails-developer-3" align="right" target="_blank">Apply</a>
@@ -54,26 +204,26 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0077/4971/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1800/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Whitespectre</h5>
-                    <h3> Experienced Front End Web/React Developer (with Shopify)</h3>
+                    <h3> Experienced Frontend Web/React Developer (with Shopify)</h3>
                 </td>
                 <td width="300">
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/whitespectre-experienced-front-end-web-react-developer-with-shopify" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/whitespectre-experienced-frontend-web-react-developer-with-shopify" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0077/4971/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0082/1800/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
   <strong>Headquarters:</strong> Remote
@@ -139,67 +289,7 @@
 </li>
 </ul><div><br></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/whitespectre-experienced-front-end-web-react-developer-with-shopify">https://weworkremotely.com/remote-jobs/whitespectre-experienced-front-end-web-react-developer-with-shopify</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/4314/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>HR Partner</h5>
-                    <h3> Full Stack Ruby (Sinatra) Developer with some UX Skills</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/hr-partner-full-stack-ruby-sinatra-developer-with-some-ux-skills" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0016/4314/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Australia
-    <br /><strong>URL:</strong> <a href="http://www.hrpartner.io">http://www.hrpartner.io</a>
-</p>
-
-<div>
-<strong><br>🔥 Join a Growing SaaS Business with Big Potential 🔥<br></strong><br>
-</div><div><strong>Are you looking to be part of a small development team, where you can make your mark? </strong></div><div><br></div><div>HR Partner is a growing human resource management SaaS app that has around 2000 customers in 70 countries. We are on a mission to grow to become one of the leading HR platforms worldwide, and we are looking for talented developers to help us achieve this objective.<br><br>
-</div><div><strong>What is the Role?</strong></div><div>
-<br>The HR Partner app is written in Ruby, but not Ruby on Rails - rather, we use a Sinatra based framework called Padrino. If you know the Ruby language inside and out, then this could be a good challenge for you to focus on building using a different framework that isn't quite as opinionated as Rails. This position is for a full stack developer, so knowledge in building APIs (including integrating with third-party APIs), tuning SQL queries via an ORM, caching reusable views on Redis, as well as improving customer experience by building snappier user interfaces will be highly regarded.<br><br>
-</div><div>The main codebase has grown organically over the past 7 years, and there is now scope for taking an app that is essentially a monolith with some microservices around it, to the next level so it will be scalable well into the future. Some experience with Nodejs will also be advantageous as we have Lambda functions built using Node that we wish to expand upon and improve. Experience with tuning Ruby memory management and resource utilisation will also be a great skill to have.<br><br>
-</div><div>Our front end currently uses a legacy javascript library, and one upcoming task will be to modernise it and bring it up to date using a more current front-end framework. Knowledge of HTML/CSS is also critical as we transition from the older Bootstrap framework to something like Tailwind CSS.<br><br>
-</div><div>We are looking for developers who are excited by the challenge of taking an existing project, in a stable and growing company, and helping to improve it so that it can be scaled and maintained well into the future. This is a fully remote position, and you will be working your own hours as part of a very small team, and as such, you will be doing large blocks of work without being micro-managed. As you get to grips with our codebase, you will be taking on full responsibility for entire modules and features that you will build, test and deploy pretty much yourself.<br><br>
-</div><div><strong>What are we looking for?</strong></div><div>
-<br>You are someone who is smart, self-driven and interested in being part of a long-term project where you can see your ideas and work come into fruition. In particular, you should be;</div><ul>
-<li>A self-starter - Do you have exciting side projects that you have worked on, publicly or privately?</li>
-<li>Willing to learn - Are you looking forward to implementing some of the latest and greatest technology alongside some old and mundane ones?</li>
-<li>An ideas person - Do you 'push back' when asked to do a task if you think there is a better way to do it?</li>
-<li>Brimming with initiative - When working on a codebase, do you see opportunities to improve other things outside of your scope of work?</li>
-<li>A marathoner - Are you happy just coding away for hours uninterrupted, and keep yourself motivated while doing so?Ideally, you will be located in the Asian or Eastern European timezones (GMT + 3 hours to GMT + 12 hours), to make it easier to collaborate with our CTO who is based in Australia, but don't worry if you are outside of that.</li>
-</ul><div>
-<br><br>
-</div><div><strong>Why will you love working at HR Partner?</strong></div><div>
-<br>We might be biased, but there's a lot to love about working here, including;</div><ul>
-<li>Work-from-home - We've been fully remote since our inception, so you can work from the comfort of your own home.</li>
-<li>Flexible hours - Need to pickup the kids or go to gym in the middle of the day? No problem. So long as you are around for some agreed overlapping working times, you can structure your day to suit your lifestyle. If you would prefer to work part-time hours, we're open to those ideas too.</li>
-<li>Small, international team - You'll work with colleagues around the world - all of whom are smart, inspiring people! We truly love our team at HR Partner and we hope you will too. </li>
-<li>Learning &amp; growth - We’re big supporters of personal growth and development and our team is constantly learning and upskilling themselves in many different areas. Innovation is a big part of our culture and we welcome new ideas from everyone.</li>
-<li>Meaningful work - We’re constantly getting feedback from customers that are relieved to be using HR Partner. It feels great to be part of something that small businesses grow and support their employees as they do so.</li>
-</ul><div>
-<br>If you want to be part of a small but dynamic team that is passionate about supporting our customers, then we'd love to hear from you and have you as part of our team!<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/hr-partner-full-stack-ruby-sinatra-developer-with-some-ux-skills">https://weworkremotely.com/remote-jobs/hr-partner-full-stack-ruby-sinatra-developer-with-some-ux-skills</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/whitespectre-experienced-frontend-web-react-developer-with-shopify">https://weworkremotely.com/remote-jobs/whitespectre-experienced-frontend-web-react-developer-with-shopify</a></p>
 
                 </details>
                 </td>
@@ -215,7 +305,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/inops-services-azure-integration-developer" align="right" target="_blank">Apply</a>
@@ -239,6 +329,57 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6989/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ProjectDiscovery.io</h5>
+                    <h3> Senior Back End Developer (Golang)</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>91 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6989/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco
+    <br /><strong>URL:</strong> <a href="https://projectdiscovery.io">https://projectdiscovery.io</a>
+</p>
+
+<div>ProjectDiscovery is an open-source cyber-security company that builds a range of softwares for security engineers and developers. Our user base is among the largest in the InfoSec community, and we are used by top internet companies’ security and developer teams, including Fastly, Microsoft, CloudFlare, Gitlab, Facebook, IBM, and many others.</div><div><br></div><div>We are well funded and just recently raised $25M in our Series A. Backed by current/former CXOs from companies like Fastly, Databricks, Google, Twitter, HashiCorp, RedHat.</div><div><br></div><div>→ github.com/projectdiscovery</div><div><br></div><div>
+<br>You're a backend engineer with 6+ years of software experience. You're ready to be an individual contributor, design and build sophisticated systems quickly, and collaborate in a fast-paced environment.</div><div><br></div><div>You are a product-focused engineer that takes just as much pride in the user experience of your product as you do the performance.</div><div>
+<br><strong>Requirements:</strong>
+</div><ul>
+<li>6+ years of experience as a backend developer, with at least 3+ years of experience working with GO language.</li>
+<li>Strong knowledge of working with Go paradigms and best practices</li>
+<li>Good knowledge of concurrency in Go - goroutines, channel patterns, Go ecosystem, and tools available</li>
+<li>Worked on or have an understanding of various frameworks in Go</li>
+<li>Ability to dissect and recommend best tools for the job</li>
+<li>Worked with microservices architecture and patterns, DevOps, and continuous delivery.</li>
+<li>Experience building APIs with gRPC or REST</li>
+<li>Some experience with deployment processes including knowledge of Kubernetes and Docker.</li>
+<li>Strong knowledge of PostgreSQL / MySQL</li>
+</ul><div><br></div><div><strong>What will you work on:</strong></div><ul>
+<li>Here is our work: https://github.com/projectdiscovery you are directly going to be involved in many of these open-source projects. 90%+ code base is written in Go.</li>
+<li>Developing high-volume, low-latency applications for large systems and coping with the challenges of working in a distributed and highly concurrent environment.</li>
+<li>You will also be coding new features and have an active role in the defining the backend architecture, which includes designing microservices and researching new alternatives and technologies.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang">https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -249,7 +390,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>93 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -323,7 +464,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -400,7 +541,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -426,7 +567,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -503,7 +644,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -570,7 +711,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
