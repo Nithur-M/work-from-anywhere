@@ -10,7 +10,7 @@
                     <code>software,amazon,nft,docker,testing,test,code,web,financial,java,cloud,nosql,junior,sales,go,engineer,engineering,linux,ecommerce</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-staff-software-engineer-recur-161900" align="right" target="_blank">Apply</a>
@@ -72,7 +72,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">$100 per month stipend for internet & cell phone</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Learning and development reimbursement (including online courses, certifications, conferences, seminars, etc.)</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Free monthly subscription to Headspace, Gympass, Omada</span></li>
-</ul><br/><br/>Please mention the word **CLEANLINESS** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **CLEANLINESS** and tag RNTguNjAuMTU1LjE2NA== when applying to show you read the job post completely (#RNTguNjAuMTU1LjE2NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -87,7 +87,7 @@
                     <code>software,bitcoin,architect,technical,support,developer,javascript,cloud,nosql,strategy,senior,go,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-hiro-161896" align="right" target="_blank">Apply</a>
@@ -113,7 +113,7 @@
 <div><i>Weâd love to hear from you even if you donât have experience or interest in every bullet. Thereâs no perfect candidate and we want to find the right fit, even if itâs different than we imagine. We especially would like to meet underrepresented/underestimated candidates.</i></div>
 <div><br></div>
 <div><i>Hiro is proud to be an equal opportunity employer and deeply cares about building a diverse team. Hiro is committed to building an inclusive environment for people of all backgrounds. We do not discriminate on the basis of race, color, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by law.</i></div>
-</ul><div><br></div><br/><br/>Please mention the word **GLIMMER** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><br></div><br/><br/>Please mention the word **GLIMMER** and tag RNTguNjAuMTU1LjE2NA== when applying to show you read the job post completely (#RNTguNjAuMTU1LjE2NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -128,7 +128,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -190,7 +190,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
