@@ -1,5 +1,56 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/43f67978b459dbe1a8bcf8405d1a50d51671088576.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Xenon Labs</h5>
+                    <h3>Blockchain Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-blockchain-developer-xenon-labs-164404" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>The blockchain developer will work on developing and implementing a blockchain platform. They will be responsible for working with the team to develop a platform that can be used for the secure storage and transmission of data. The blockchain developer will also be responsible for developing and implementing smart contracts.<br><br>Responsibilities:<br><br>â¢ Developing and implementing blockchain technology applications<br>â¢ Identifying and resolving defects by researching specific blockchain technologies<br>â¢ Documenting the development process and blockchain procedures<br><br>Requirements:<br><br>â¢ Proven experience as a Blockchain Developer<br>â¢ Strong experience in Python, Rust, Solidity, and NodeJS<br>â¢ Understanding of blockchain systems, smart contracts, and how to create them<br>â¢ Knowledge of consensus mechanisms and cryptographic hashing algorithms<br>â¢ Experience with Git, Bitcoin, and Hyperledger would be an advantage</p><br/><br/>Please mention the word **SANE** and tag RNTguNjAuMTU1LjE2NA== when applying to show you read the job post completely (#RNTguNjAuMTU1LjE2NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/634817c7015c31cc31f39fd4c83c61951671088575.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ChromaWay</h5>
+                    <h3>Java Kotlin developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,system,frontend,cto,support,software,code,java,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-java-kotlin-developer-chromaway-164403" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>About us</strong></p><p>Chromaway is the company that has been at the cutting edge of blockchain tech for more than eight years. The company was founded to commercialize Colored Coins which can be considered as the start of blockchain 2.0.</p><p>Our CTO created the first system for issuing tokens - one member of that team, a young(er) Vitalik Buterin. We know the technology, and we know the industry. Chromia, our blockchain platform, is our answer to everything that is wrong with the status quo, a wholly new approach to building decentralized applications for the real world.</p><p>So far we have released both successful products and new start-up projects, and whether youâre looking for a stable company or the energy of a start-up team both expectations can be justified with us. Chromaway is mostly flat in hierarchy, consensus oriented and distributed around the world. Self development and listening to the needs of our people are core values at Chromaway.</p><p><strong>About you</strong></p><p>Weâre looking for a Java/Kotlin developer to join our Developer Experience team. The DevEx team helps developers be successful with our platform, Chromia.</p><p>In this role we are looking for someone who is always looking for improvements, thinking outside the box and willing to work in an organization with a low level of bureaucracy and a flat hierarchy in close collaboration with our other developers.</p><p><strong>What youâll do </strong><br></p>  <ul>  <li>Build command line      tools to help developers on the Chromia platform run blockchain platform      nodes for local development, run unit tests in our proprietary programming      language (Rell), deploy dApps to the platform, and more.</li>  <li>Work with our core      development team to improve the experience for developers using our      platform.</li>  <li>Contribute to the Rell      interpreter (written in Java and Kotlin) for the purpose of building a      language server that can enable language support for Rell in various code      editors.</li>  <li>Become an expert in      ChromaWayâs blockchain platforms (Postchain and Chromia) </li>  <li>Learn and build dApps      in our programming language (Rell) </li>
+</ul><p><strong>Experience and skills</strong><br></p>  <ul>  <li>5+ years as a software      developer</li>  <li>Fluent in Java and      Kotlin</li>  <li>Excellent      communication skills</li>  <li>Experience in agile      ways of working</li>
+</ul><p><strong>Bonus:</strong><br></p>  <ul>  <li>Web3 experience</li>  <li>Experience building      tooling (such as command line tools)</li>  <li>Experience as a      frontend developer (JavaScript and/or TypeScript)</li>
+</ul><p><strong>Is this you?</strong></p><p>Are you the one we are looking for? Please apply with your CV or LinkedIn profile. If you have any questions do not hesitate to contact <strong>Oscar.stierncreutz@chromaway.com</strong>. Please note that we do not accept CVâs sent to us by mail.</p><br/><br/>Please mention the word **ELECTRIFY** and tag RNTguNjAuMTU1LjE2NA== when applying to show you read the job post completely (#RNTguNjAuMTU1LjE2NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/4585068622a40369926d14b4c6539a2c1670915741.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +61,7 @@
                     <code>developer,design,web3,technical,support,software,travel,voice,video,lead,engineering,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-advocate-swirlds-labs-163396" align="right" target="_blank">Apply</a>
@@ -58,7 +109,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Willingness to take the stage is essential for inspiring developers. A Developer Advocate needs to deliver presentations that are effective and respectful of an audience's time and attention</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">A deep industry specialty and network are strongly preferred</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">An active GitHub account demonstrative of your technical abilities and interests</span></li>
-</ul><br/><br/>Please mention the word **LUSTROUS** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **LUSTROUS** and tag RNTguNjAuMTU1LjE2NA== when applying to show you read the job post completely (#RNTguNjAuMTU1LjE2NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -73,7 +124,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/localvr-senior-full-stack-developer-for-short-term-rental-company" align="right" target="_blank">Apply</a>
@@ -120,7 +171,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/localvr-senior-full-stack-developer-for-short-term-rental-management" align="right" target="_blank">Apply</a>
@@ -150,74 +201,20 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/9140/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>PostPilot</h5>
-                    <h3> Senior Ruby/Rails Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/postpilot-senior-ruby-rails-developer-3" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/9140/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> US
-    <br /><strong>URL:</strong> <a href="https://www.postpilot.com/">https://www.postpilot.com/</a>
-</p>
-
-<div><strong>About the Job at PostPilot.com / Handwrite.io </strong></div><div>You’ll pitch in on building our <strong>Ruby on Rails + Hotwire app(s)</strong> as we continue to grow, add new features, keep them fast, and ratchet up their reliability &amp; robustness. <br><br>At PostPilot we build our product following the Basecamp <a href="https://basecamp.com/shapeup">Shape Up</a> methodology and keep our apps fast, secure, and reliable. Right now, we're hoping to further develop our flagship product PostPilot and work on problems like A/B testing, MFA, Adding more e-commerce integrations, building external APIs, and of course, making sure our existing infrastructure is scalable and maintained. </div><div><br></div><div>This position includes building features, deep-dive debugging, internal tooling, web performance, and internal support, with a bit of Robots and hardware thrown in. Day in and day out you’ll get to the bottom of multiple different issues across the stack and across projects. You can expect an <strong>inclusive, eager small team (of 4 devs)</strong> team who’ll support you in it, rise to challenges with you, and grow together. </div><div><br></div><div>Here are real examples of the work we’ve done lately that might help you to get a better idea of what this job entails:</div><ul>
-<li>Built a new customer workflow journey marketing ui with Hotwire </li>
-<li>Built a way for email lists to be converted into physical mailable addresses. </li>
-<li>Built software to manage pulling, printing, and monitoring our in-house printshop manufacturing process.</li>
-<li>Built a fleet of handwriting <strong>robots</strong> driven by Ruby on Rails.</li>
-<li>Built support for single-use unique coupon codes in <strong>direct mail campaigns</strong> </li>
-<li>Built the ability for <strong>Shopify</strong> brands (our users) to send real handwritten notes (postcards in envelopes, with real pens) with live in-browser previews</li>
-<li>Created a Public API for sending <strong>postcards</strong> and <strong>handwritten notes</strong> in our production facility.</li>
-<li>Developing a load balancing strategy for “expensive” <strong>Sidekiq</strong> background jobs that were crushing<strong> external APIs</strong> and our queues.</li>
-<li>Improved developer experience with <strong>Heroku</strong> (Pipelines, CI, and Review apps), <strong>Github</strong> Actions</li>
-<li>Deep dive into expensive queries in our application and working to improve performance and memory consumption from <strong>Postgres</strong> to Rails</li>
-<li>Built a <strong>webhook</strong> event publishing system for events from our production facility.</li>
-<li>Upgraded our main application to <strong>Rails 7 with import maps and hotwire</strong>.</li>
-</ul><div><br></div><div><strong>About you</strong></div><div>We’re looking for candidates who are ready for a similar breadth and depth of work. There are a lot of areas of responsibility! Solid fundamentals with software development, systems, troubleshooting, and teamwork pave the way.</div><div><br></div><div>We value people who have an opinion but can commit even if they disagree. People who understand the value of others being heard. This is only possible with direct feedback, openness to each others’ experiences, and willingness to show up for each other.</div><div><br></div><div>You can expect a team that listens, and to be heard. You can expect to be counted on. We care about what you can do and how you do it, not about how you got here. This is a remote-friendly job. You’re free to work where you work best. The bulk of our work is written via Slack and Github, from pull request discussions to team chats, and video recordings with a few video calls thrown in. </div><div>
-<br><strong>We require an overlap at least 4 hours</strong> with the United States east coast workday. That said, we’re not hiring from locations that require a graveyard shift to make the overlap happen.<br><br><strong>Pay and benefits</strong><br>The annual salary for this position is $80,000 - $120,000 USD. Applicants from outside the US will be offered a contractor role with comparable terms and at the same rate of pay as our US-based employees. <br><br>Our target start date for our new hire is as soon as possible.<br><br><strong>How to apply</strong><br>Please send a quick message tailored to this position that speaks to us.  Include the phrase "Ghostbusters!" and we'll know you're a real person that made it this far. Introduce yourself to us as a colleague. Give us some examples of how you’ve been successful in the past and attach a resume.<br><br>You should expect to hear from us fairly quickly. After that, there are 3 phases of the process. </div><ol>
-<li>A quick call to learn more about each other. <em>Expect a 30-minute call.</em>
-</li>
-<li>A take-home exercise, our ​​technical exercise is representative of the kind of day-to-day work we do with a follow-up code walkthrough call. <em>Plan for around 4 hours for the exercise and 30-minutes for the follow-up.</em>
-</li>
-<li>One last call with one of our Founders and the CEO of the company. <em>Expect this to take 20-minutes.</em> </li>
-</ol><div> Our interviews are conversations held over video with future colleagues – no tests, no surprises! </div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/postpilot-senior-ruby-rails-developer-3">https://weworkremotely.com/remote-jobs/postpilot-senior-ruby-rails-developer-3</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1800/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Whitespectre</h5>
-                    <h3> Experienced Frontend Web/React Developer (with Shopify)</h3>
+                    <h3> Experienced Frontend React/Shopify Developer</h3>
                 </td>
                 <td width="300">
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/whitespectre-experienced-frontend-web-react-developer-with-shopify" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/whitespectre-experienced-frontend-react-shopify-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -287,43 +284,87 @@
 <li>Final interview(s) with the company leadership to confirm fit &amp; finalize your offer </li>
 </ul>
 </li>
-</ul><div><br></div>
+</ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/whitespectre-experienced-frontend-web-react-developer-with-shopify">https://weworkremotely.com/remote-jobs/whitespectre-experienced-frontend-web-react-developer-with-shopify</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/whitespectre-experienced-frontend-react-shopify-developer">https://weworkremotely.com/remote-jobs/whitespectre-experienced-frontend-react-shopify-developer</a></p>
 
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0052/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Inops Services</h5>
-                    <h3> Azure Integration Developer</h3>
+                    <h5>TAG Media</h5>
+                    <h3> Web Developer </h3>
                 </td>
                 <td width="300">
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/inops-services-azure-integration-developer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/tag-media-web-developer-2" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0082/0052/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Netherlands
-    <br /><strong>URL:</strong> <a href="https://inopsservices.com">https://inopsservices.com</a>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://tag.media">https://tag.media</a>
 </p>
 
-<div>Azure Integration developer</div>
+<div><img src="https://lh4.googleusercontent.com/hx9dIWsCZGLixZZboLgXkxfRJSxfokCFMozxvtl-pbELAonkRiVsdQzl34qeHQF5aVERVdTs4ah0JaF5lYHmakeXCWpt1hUe2s1NEJEenXhJf--px93w5JbwzEU9IkUfMmugbiTrcGsN4CxXLmLt_eV2es1EYPJ8N3hduJQM_-TUFo4cZcUstGH0jZX7dQ" width="600" height="100"></div><div>
+<br><br>
+</div><div>
+<br>First Look Games Web Developer and Support Manager<br><br>
+</div><div><br></div><div>
+<br>About First Look Games<br><br>
+</div><div>
+<br>First Look Games is the leading content marketing platform connecting iGaming studios with digital publishers, enabling the creation of quality, accurate &amp; compliant game reviews. We service over 800 publishers &amp; 58 game studios and together have created over 26,000 casino reviews reaching over 20 million casino players worldwide.<br><br>
+</div><div>
+<br>Our staff comprises highly skilled iGaming performance marketing professionals, with team members averaging over 12 years of industry experience with operators of all shapes, sizes and product verticals.<br><br>
+</div><div>
+<br><strong>The Role</strong>
+</div><div>We are looking to recruit a full time, remote Web Developer to assist in the development and support of our growing business.</div><div>
+<br>Reporting to the Head of Tech, the successful candidate will work closely with stakeholders to plan and code updates and features to our existing systems whilst coordinating with customers on first level support.<br><br>
+</div><div>If you are a self motivated, hard working individual with a strong background in PHP theme development and excellent spoken and written English who wants to contribute to a growing business then this role could be for you. This is a multi disciplined role that requires expert knowledge of PHP along with fantastic customer service skills.<br><br>
+</div><div>
+<br>Responsibilities</div><ul>
+<li>Adding to the current functionality of the platform via PHP coding</li>
+<li>Managing support queries from all clients</li>
+<li>Ensuring the smooth running of day to day technical systems, including server maintenance</li>
+<li>Managing html email newsletters</li>
+<li>Designing and building new front-end pages in the admin system</li>
+<li>Writing “clean”, well-designed code<br><br>
+</li>
+</ul><div>Requirements</div><ul>
+<li>Proven experience in PHP &amp; MySQL programming including knowledge of Yii framework</li>
+<li>Server maintenance including, Litespeed, Nginx and Apache</li>
+<li>Great knowledge of JavaScript, HTML and CSS,</li>
+<li>Experience in common third-party APIs</li>
+<li>Experience in working with customers in a support role</li>
+<li>Analytical skills with high attention to detail</li>
+<li>Native English speaker with excellent written communication skills</li>
+<li>Organisational skills with the ability to handle multiple tasks</li>
+<li>Work in a team or own initiative</li>
+<li>Great problem-solving skills<br><br>Desirable skills<br><br>
+</li>
+<li>Experience working in the iGaming and affiliate marketing industries</li>
+<li>Working knowledge of Adobe Photoshop<br><br>
+</li>
+</ul><div>Benefits</div><ul>
+<li>Pro Rata: 20 days per year paid leave, plus statutory holidays &amp; 5 mental health days off – including Christmas week</li>
+<li>Home Working allowance (printer, desk/chair allowance, home broadband &amp; mobile contributions, plus coffee allowance)</li>
+<li>Job Types: Full Time/Permanent</li>
+<li>Salary- DOE</li>
+</ul><div><br></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/inops-services-azure-integration-developer">https://weworkremotely.com/remote-jobs/inops-services-azure-integration-developer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tag-media-web-developer-2">https://weworkremotely.com/remote-jobs/tag-media-web-developer-2</a></p>
 
                 </details>
                 </td>
@@ -339,7 +380,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>92 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
@@ -390,7 +431,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>93 days ago</text>
+                <text>94 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -464,7 +505,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -541,7 +582,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -567,7 +608,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -644,7 +685,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -711,7 +752,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
