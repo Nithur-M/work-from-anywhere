@@ -10,7 +10,7 @@
                     <code>web3,technical,developer,growth,code,laravel,lead,content,go,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-metaschool-163397" align="right" target="_blank">Apply</a>
@@ -62,7 +62,7 @@
 <li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Workstation Allowance</span></li>
 <li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Multiple Tech subscription(s) to make your life easier</span></li>
 <li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">And an amazing bunch of weird frens!!</span></li>
-</ul><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">We are so excited to see you around. </span></p><br/><br/>Please mention the word **IMPRESSED** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">We are so excited to see you around. </span></p><br/><br/>Please mention the word **IMPRESSED** and tag RNTguNjAuMTU1LjE2NA== when applying to show you read the job post completely (#RNTguNjAuMTU1LjE2NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -77,7 +77,7 @@
                     <code>design,frontend,code,web,java,node,go,engineer,linux,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-axedras-163392" align="right" target="_blank">Apply</a>
@@ -123,7 +123,58 @@
 
 <h3>How to apply</h3>
 
-<p>Please send your full application CV. A motivation or cover letter is not required. Also, the diplomas specified in your CV do not have to be attached and will be checked at a later stage.</p><br/><br/>Please mention the word **SWEEPING** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>Please send your full application CV. A motivation or cover letter is not required. Also, the diplomas specified in your CV do not have to be attached and will be checked at a later stage.</p><br/><br/>Please mention the word **SWEEPING** and tag RNTguNjAuMTU1LjE2NA== when applying to show you read the job post completely (#RNTguNjAuMTU1LjE2NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CoverGo</h5>
+                    <h3> Senior Backend Engineer .Net</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/covergo-senior-backend-engineer-net-5" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Warsaw, Masovian Voivodeship, Poland
+    <br /><strong>URL:</strong> <a href="http://covergo.com">http://covergo.com</a>
+</p>
+
+<p><strong>Top 3 Reasons To Join Us</strong><br></p>
+<ul> <li>Competitive Salary</li> <li>100% Remote</li> <li>Working on the latest tech for the Insurtech Market Leader</li> </ul>
+<p><strong>About Us</strong></p>
+<p>At CoverGo, our mission is to help insurance companies and banks to make insurance 100% digital, to better serve their customers.</p>
+<ul> <li>We are the leading provider of cutting-edge technology to the insurance industry</li> <li>We're also the winner of the insurtech of the year in all of Asia in 2021 and other awards globally</li> <li>We work with enterprise clients such as AXA, MSIG, DBS, Fubon, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team with over 20 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have offices in Singapore, Hong Kong, and Vietnam. We plan to expand to the US and other markets in the upcoming months</li> <li>We've grown our annualized revenue by over 1000% since January 2021</li> <li>We're constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul>
+<p><strong>About the Role</strong></p>
+<p>.Net Backend engineering is the heart of our technical excellence. We are looking for people who are able to analyze complex insurance domains and build high-quality API and microservices in cross-functional product and project teams. </p>
+<p>CoverGo is a Kubernetes-native platform that consists of around twenty microservices exposed via a GraphQL gateway (<a href="https://api.covergo.com/playground" class="external">https://api.covergo.com/playground</a>), based on .net 6.</p>
+<p><strong>What You Will Do</strong><br></p>
+<ul> <li>Help us build, grow and maintain our services</li> <li>Apply your skills to develop robust and scalable software</li> </ul>
+<p><strong>You'll be successful in this role if:</strong></p>
+<ul> <li>You are a hands-on engineer, and you love what you do</li> <li>You are a quick learner and excited about learning new technologies</li> <li>You are passionate about automated testing, code quality and engineering best practices</li> <li>You advocate software craftsmanship and take pride in your work</li> <li>You enjoy collaborating with engineers across functional teams and have excellent communication skills</li> <li>You enjoy taking full ownership of projects from conception to production</li> </ul>
+<p><strong>What We Need</strong><br></p>
+<ul> <li>Experience in Event sourcing, CQRS, and DDD (Domain Driven Design)</li> <li>Excellent understanding of .NET Core and C#</li> <li>Experience with Docker</li> <li>Familiarity with microservices using GraphQL</li> <li>Experience with database technologies like MongoDB, PostgreSQL</li> <li>Intensive TDD practice</li> </ul>
+<p><strong>It'll be nice if you have some experience in areas:</strong></p>
+<ul> <li>Event Storming or Event Modeling</li> <li>SpecFlow and BDD</li> <li>GitHub Actions</li> <li>Cloud Computing platforms: Amazon AWS, Microsoft Azure, Google Cloud, Alibaba etc.</li> <li>MS/BS in Computer Science or a related degree</li> <li>Insurance and fintech experience</li> <li>Know what these names are about: Vaughn Vernon, Eric Evans, Martin Fowler</li> <li>Kubernetes</li> <li>GitOps</li> </ul>
+<p><strong>Why You'll Love Working Here</strong></p>
+<ul> <li>Salary: Up to 5000USD/Month</li> <li>Full-remote employment, work from anywhere and/or from one of our physical offices in Vietnam, Singapore or Hong Kong occasionally</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid annual leaves</li> <li>Employee stock options</li> <li>Performance bonus</li> <li>Performance review 2x a year</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/covergo-senior-backend-engineer-net-5">https://weworkremotely.com/remote-jobs/covergo-senior-backend-engineer-net-5</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -138,7 +189,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>20 days ago</text>
+                <text>21 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
