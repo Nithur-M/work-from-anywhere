@@ -1,59 +1,5 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/f5d25c7962d3cbc9699d9e9dfb7802ac1670570132.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>XMTP</h5>
-                    <h3>Senior UX Researcher</h3>
-                </td>
-                <td width="300">
-                    <code>ux,design,crypto,financial,lead,senior,executive,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-ux-researcher-xmtp-161395" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h4>As a Senior UX Researcher at <a href="https://www.beforeyouapply.com/team/early-stage-team-at-xmtp-labs" rel="noopener noreferrer nofollow">XMTP </a>you will:</h4>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Establish research best practices and embed the research function in the product development lifecycle</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Create, establish, design, and analyze collected data and lead studies using methods and sources such as in-depth interviews, usability testing, user surveys, blockchain activity, concept testing, and A/B testing</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work closely with the Product Design, Engineering, and Executive team to create actionable goals and initiatives using research insights</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Prioritize research internally as well as contribute research learnings to the external XMTP community</span></li>
-</ul>
-<h4>You may be a fit for this role if you have:</h4>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with research design utilizing various methods including but not limited to usability studies, contextual inquiry, and surveys</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience seeing the research process end-to-end from ideation all the way to the proposed solution</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Proficiency in evangelizing and communicating user research data with cross-functional partners to drive impact and steer direction</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Excellent communication skills, with an emphasis in written communication</span></li>
-</ul>
-<h4>Not required, but a bonus if you have:</h4>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience using empirical research methods such as computer science, statistics, and other fields to distill data into tactical insights</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience leading or contributing to open source projects</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience working with secure projects or protocols</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with cryptographic primitives and protocols</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience building with decentralized networks, consensus protocols, smart contracts, blockchains, etc.</span></li>
-</ul>
-<h2><strong>Who we are</strong></h2>
-<p>We set out to design a modern organization from the startâone thatâs global, remote, and asynchronous-by-default.</p>
-<p>We think of ourselves as a âgrown-upâ startupâbuilding a company thatâs fair, equitable, and rewarding for everyone to work at, with an emphasis on having fun while building an ambitious project.</p>
-<p>Our team has decades of experience in building companies, but weâre looking for more diverse experiences to add to the founding team. Joining XMTP Labs today represents not just an opportunity to play a key role in building an essential part of the next web, but also in establishing the core DNA of the company.</p>
-<p><a href="https://www.beforeyouapply.com/team/early-stage-team-at-xmtp-labs" rel="noopener noreferrer nofollow"><strong>Here's an inside look at XMTP</strong></a>and some of the frequently asked questions about our culture, answered by one of our co-founders and core team members.</p>
-<h2><strong>About XMTP, Inc.</strong></h2>
-<p>XMTP, Inc. was co-founded by <a href="https://twitter.com/mg" rel="noopener noreferrer nofollow">Matt Galligan</a> and <a href="https://twitter.com/shanemac" rel="noopener noreferrer nofollow">Shane Mac</a>, and is headquartered on the web. We have an excellent benefits package that includes parental leave, competitive pay, an equipment and home office allowance that refreshes yearly, monthly lifestyle stipend, as well as a personal assistant, and financial advisor. For U.S.-based team members we also provide access to FSA, 401K, and fully paid high quality medical, dental, and vision insurance for you and your family.</p>
-<p>Weâre backed by some of the best investors in tech and crypto: a16z Crypto Fund, Offline Ventures, Sound Ventures, Distributed Global, Redpoint, IDEO CoLab and many more key ecosystem investors and operators. <a href="https://blog.xmtp.com/series-a/#xmtps-investors" rel="noopener noreferrer nofollow">See the full list here</a>.</p>
-<p>XMTP, Inc. is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</p><br/><br/>Please mention the word **ACCOMPLISHED** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4150/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -64,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>400 days ago</text>
+                <text>401 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -130,7 +76,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
