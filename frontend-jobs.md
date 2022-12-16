@@ -1,5 +1,48 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/4064013c9bfb55c047df1f1a5e4c80411671088588.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>CipherTrace</h5>
+                    <h3>Frontend Engineer Cryptocurrency & Blockchain</h3>
+                </td>
+                <td width="300">
+                    <code>cryptocurrency,frontend,defi,crypto,cryptocurrencies,back-end,software,testing,ui,web,travel,javascript,api,leader,engineer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-frontend-engineer-cryptocurrency-blockchain-ciphertrace-164406" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>CipherTrace, a Mastercard company, is a rapidly growing leader in cryptocurrency intelligence and compliance. Our team has introduced novel solutions to challenges including sanctions compliance for DeFi and the Crypto Travel Rule. Our mission is to grow the blockchain economy by making crypto safe for users and trusted by governments. CipherTrace operates on a global scale to assist banks, cryptocurrency exchanges, law enforcement agencies, regulators, VASPs, and businesses in preventing fraud, human trafficking, money laundering, and other illicit activity where cryptocurrency is involved.</div><div><br></div><div>The ideal candidate should be a passionate, self-motivated, team player with experience working in a quickly evolving environment and who has a willingness to work and learn in a collaborative organization.</div><div><br></div><div><br></div><p></p><h4>Responsibilities</h4><p></p><p></p><ul>
+<li>Build the next generation cryptocurrency tools, law enforcement tools, and DeFi platforms.</li>
+<li>Build middleware services to interface the UI to the Back End infrastructure.</li>
+<li>Write <a href="http://angular.js/" class="postings-link" rel="noopener noreferrer nofollow">Angular.js</a> to display Bitcoin, Ethereum, and other cryptocurrencies cross-platform.</li>
+<li>Debug and perform quality testing on the Blockchain cryptocurrency data user interface.</li>
+<li>Design reactive API software for real-time cryptocurrency displays.</li>
+<li>Write software in JavaScript to allow users to interactively investigate wallets and addresses of multiple cryptocurrencies.</li>
+<li>Co-design software APIs with back-end developers to access cryptocurrency feeds.</li>
+<li>Develop middleware modules to visualize cryptocurrency transactions.</li>
+</ul><p></p><h4>Requirements</h4><p></p><p></p><ul>
+<li>8+ years of experience building enterprise JavaScript web applications.</li>
+<li>JavaScript, TypeScript, Python, styled components, and frameworks like Angular, React, <a href="http://node.js/" class="postings-link" rel="noopener noreferrer nofollow">Node.js</a>.</li>
+<li>SQL/noSQL, Cassandra, PostgreSQL, MySQL, BigQuery, Elasticsearch, GraphQL.</li>
+<li>Restful APIs, Kafka, and microservices.</li>
+<li>Data visualization app development and concepts.</li>
+<li>Blockchain technologies, DeFi, law enforcement software, or cryptocurrencies.</li>
+</ul><p></p><h4>Nice to Have</h4><p></p><p></p><ul>
+<li>Experience with data visualization libraries like <a href="http://d3.js/" class="postings-link" rel="noopener noreferrer nofollow">D3.js</a>.</li>
+<li>Strong communication skills (both spoken and written).</li>
+</ul><div><br></div><div><br></div><div><b style="font-size:18px;">Perks & Benefits</b></div><div>We offer a comprehensive benefits package including competitive salaries, bonuses, medical, dental, and vision - which cover domestic partners as well - plus life and disability coverage, 20 vacation days, and a 401K matching plan.</div><br/><br/>Please mention the word **MESMERIZES** and tag RNTguNjAuMTU1LjE2NA== when applying to show you read the job post completely (#RNTguNjAuMTU1LjE2NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://pbs.twimg.com/profile_images/1445184469132926979/udMW3mSs_400x400.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
