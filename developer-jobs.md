@@ -1,5 +1,139 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/f3fbbdabd98cc6d4d12776720bd038a41671174978.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>QuickNode</h5>
+                    <h3>Head of Developer Relations</h3>
+                </td>
+                <td width="300">
+                    <code>developer,web3,technical,testing,code,travel,video,education,api,strategy,lead,content,marketing,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-head-of-developer-relations-quicknode-164918" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro">
+<div>QuickNode is a cloud-based infrastructure company that powers the blockchain ecosystem.</div>
+<div> </div>
+<div>Our mission is to be the indispensable utility that empowers companies and innovators globally to build next-generation, Web3 enabled businesses & applications using blockchain technology. QuickNode is backed by some of the world's best investors including Tiger Global, Y Combinator, SoftBank, and the Seven Seven Six Fund. The QuickNode team has over 90 people maintaining high performance global data infrastructure for amazing customers serving billions of requests daily.</div>
+<div> </div>
+<div>We are a global remote first company HQ'd in Miami, Florida.</div>
+</div><div>QuickNode is a cloud-based infrastructure company that powers the blockchain ecosystem.</div>
+<div> </div>
+<div>Our mission is to be the indispensable utility that empowers companies and innovators globally to build next-generation, Web3 enabled businesses & applications using blockchain technology. QuickNode is backed by some of the world's best investors including Tiger Global, Y Combinator, SoftBank, and the Seven Seven Six Fund. The QuickNode team has over 100 people maintaining high performance global data infrastructure for amazing customers serving billions of requests daily.</div>
+<div> </div>
+<div>We are a global remote first company HQ'd in Miami, Florida.</div>
+<div> </div>
+<div>
+<div><strong>The Role</strong></div>
+<div> </div>
+<div>The Head of Developer Relations will have full ownership over the vision and strategy for developer relations at QuickNode. You will lead and grow the team that champions developer advocacy activities related to our product suite.</div>
+<div> </div>
+<div> In this role, you will develop a plan to attract, engage, and grow a community of developers, and work with your reports to own channels such as video (eg. YouTube), town halls (eg. AMAs, Twitter Spaces), and high-leverage resources (eg. sample applications, code snippets & pro-tips). Your team will be the face of our brand at virtual and in-person events (eg. conferences, hackathons, meetups). You will partner closely with Product, Product Marketing, Technical Writers, and Events to execute your vision for a delightful developer experience across every touchpoint in the developer journey.</div>
+<div> </div>
+<div><strong>What You'll Do</strong></div>
+<div>
+<ul>
+<li>Manage a budget against team goals you will define, as measured by KPIs you will also define</li>
+<li>Hire and manage a talented team of developer advocatesWork cross-functionally with our Events team to plan and execute on meetups, hackathons, and developer events</li>
+<li>Provide market and developer feedback to the documentation and technical writing team</li>
+<li>Conduct internal user acceptance testing, providing feedback to the product team</li>
+<li>Create programs that drive developer education and engagement, such as early-access user testing and Quicknode ambassadors for community-driven advocacy</li>
+<li>Collaborate with the Product team to build a scalable structure for our developer audience to share insights about their feedback</li>
+<li>Work with product marketing to position new products and increase product adoption</li>
+<li>Lead the team that prepares technical content for YouTube demos, engineering-centric blog posts, hackathons, and more</li>
+<li>This role requires regular travel to industry events. While conference schedules vary with the seasons, it is to be expected that you will be attending at least one or two in-person events per month</li>
+</ul>
+<p><strong>What You'll Bring </strong></p>
+<ul>
+<li>Stellar written and verbal communication skills</li>
+<li>Minimum 5+ years of experience in Developer Advocacy / Developer Relations</li>
+<li>3+ years of experience managing and developing teams</li>
+<li>Ability and experience headlining large events and conferences</li>
+<li>A passion for Web3 that can attract and inspire our developer community</li>
+<li>Experience with smart contract programming languages and fluency in one or more programming languages like JavaScript, Python, Java, or Ruby</li>
+<li>Up-to-date knowledge of best practices in developer advocacy platforms, communities, and initiatives</li>
+<li>Desire to engage with technical audiences online and in-person</li>
+<li>Empathy with technical audiences, and an ability to articulate their needs to product teams</li>
+<li>Familiarity with API concepts like RPC, REST, GraphQL, Webhooks, OpenAPI, and OAuth</li>
+</ul>
+</div>
+</div><div class="content-conclusion"><p>We at Quicknode are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.</p></div><br/><br/>Please mention the word **SENSIBLE** and tag RMTczLjc1LjQxLjE1MQ== when applying to show you read the job post completely (#RMTczLjc1LjQxLjE1MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/cbdfd9a74d13a618bdaae4ef77d248d11671174977.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Cryptohopper</h5>
+                    <h3>Android Native Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,design,crypto,cryptocurrency,training,gaming,testing,code,financial,cloud,git,android,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-android-native-developer-cryptohopper-164917" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p></p><p>At Cryptohopper we're looking for an AndroidÃÂ Native Developer to join our team.</p><br><p><b>You probably think cryptocurrency trading bots are like the current housing market. A black hole for many, a goldmine for few. However, these bots should be leveraged by a lot more people, because, well, they frigging work wonders. ;-) While the early adopters have been mining cryptos since the beginning. HODLING their investments for the big win. You might still be HOLDING on to your traditional savings, thinking the crypto-ship has sailedÃ¢â¬Â¦</b></p><p><b>But hey ho, hell no. There is crypto-hope on the horizon. And we invite you to embark on our mission to simplify and clarify our Ã¢â¬ËmysteriousÃ¢â¬â¢ product. To all. Including yourself, your friends, (grand)parents and that nerdy nephew who keeps pestering you with terms like FOMO, FUD and Satoshi. Take those shitcoins and run, kiddo!</b>ÃÂ </p><br><h1>Forecast: raining FOMO</h1><p>Do you ever trust the weatherman? Neither do we. But we do trust the unbeatable experts on our Cryptohopper team. And they predicted FOMO season is coming. Of course you may think this is a far-fetched prophecy. But weÃ¢â¬â¢ve been back-testing our gut feeling since the early days and we were rarely wrong. So. Buckle up. We prepare for storm.<br></p><br><h1>Android App Developer?</h1><p>Turn right if you want to develop an edge-of-your-seat app that creates an awesome experience for our traders. Prepare to snuggle up (currently not too closely) to our product teams, so you can build (and run, and love) the exact app our users need to trade on cryptocurrency markets. To succeed, you have to be versed in Kotlin and Java, and willing to get up close and personal with up-and-coming tooling. Including tech that you introduce to the stack. This is the perfect position if you combine Ã¢â¬ËhardcoreÃ¢â¬â¢ coding skills with a Ã¢â¬Ësecurity firstÃ¢â¬â¢ mindset and are excited to learn about crypto trading and blockchain technologies<br></p><br><h1>Hi, we're the stack.</h1><p>Kotlin and Java, JUnit, Truth,ÃÂ RESTful APIs, Git, Bitrise.</p><br><h1>You know you got this if.<br>
+</h1><ul>
+<li>You have 3+ years of experience as an Android Native app developer</li>
+<li><p>You dream about Kotlin, Java, Android's design principles and application interface guidelines</p></li>
+<li><p>Your lunch break experiments sometimes get out of hand. One time you accidentally developed an app that correlated caffeine intake with sock funkiness. And it worked<br></p></li>
+<li><p>You have knowledge of automation and testing methodologies used for automated testing (JUnit, Truth), familiar with RESTful API's, offline storage, threading and perfomance tuningÃÂ </p></li>
+<li><p>Proficient in code versioning tools such as Git and familiair withÃÂ push notifications, APIs, and cloud messaging</p></li>
+<li><p>Experience with continuous integration (CI) and continuous deployment (CD) solutions such as Bitrise</p></li>
+                </ul><br><h1>What we offer.</h1><p>A mission-driven culture with a great work/life balance and a good benefits package. Sure, we work hard to get sh*t done, but we also regularly push our moustache (sorry, itÃ¢â¬â¢s a silly joke for Dutch readers) for a VR gaming session, picnics in the park, indoor bouldering, drinks at the pub, live DJ sessions and whatever happens in our (wo)man cave - and probably best stays there. The setting aside, we also:</p><ul>
+<li>Pay you (pinky promise!): between EUR 55K and 75K per year [skill dependent]</li>
+<li>Allow you to work wherever, including 2 days at our Amsterdam HQ </li>
+<li>Send you on your merry way for 25 days each year, minimum (more is negotiable)</li>
+<li>Provide you with great gear; a high-end laptop and whatever else you need to succeed. Perhaps an AI-driven desk chair that *knows* when you want to lean back?</li>
+<li>Lifetime Cryptohopper subscription (if you donÃ¢â¬â¢t break our BFF vows)</li>
+<li>Shower you with extras, like trading benefits, a generous training budget, and (mom will be proud!) the opportunity to work in a domain that accelerates financial inclusion for the unbanked</li>
+<li>Pour you a stiff drink on Fridays, coffee that wonÃ¢â¬â¢t make you wish you chose tea, and lots of mind-blowing feedback on your work, hobbyÃ¢â¬â¢s, and pets. And we sincerely look forward to hearing whatÃ¢â¬â¢s on your mind, too.</li>
+</ul><br><p></p><h1>Ready to virtually meet our engineers?</h1><p>We donÃ¢â¬â¢t require (in fact, please donÃ¢â¬â¢t) a motivation letter; weÃ¢â¬â¢d rather have a good chat and tell you everything you want to know. About life, the universe, and everything! Mail your resume to hr@cryptohopper.com. More information? Call or WhatsApp Laura at +31614886381 (n/a for trading insights ;-)</p><br><br/><br/>Please mention the word **GAINING** and tag RMTczLjc1LjQxLjE1MQ== when applying to show you read the job post completely (#RMTczLjc1LjQxLjE1MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/1019629df52a30016cf77461f21849171671094806.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Lyra Health</h5>
+                    <h3>Salesforce Developer</h3>
+                </td>
+                <td width="300">
+                    <code>salesforce,developer,system,full-stack,cfo,technical,test,code,math,strategy,operations,sales,medical,health,healthcare,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-salesforce-developer-lyra-health-164441" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><b>About Lyra Health</b></p><p>Lyra is transforming mental health care through technology with a human touch to help people feel emotionally healthy at work and at home. We work with industry leaders, such as Morgan Stanley, Uber, Amgen, and other Fortune 500 companies, to improve access to effective, high-quality mental health care for their employees and their families. With our innovative digital care platform and global provider network, 10 million people can receive the best care and feel better, faster. Founded by David Ebersman, former CFO of Facebook and Genentech, Lyra has raised more than $900 million.</p><p><br></p><p><b>About this role</b></p><p><span style="font-size: 12pt">Our team plays a critical role in helping shape and execute Lyra's Go-To-Market strategy and day-to-day operations for the Go-To-Market team. As a Salesforce Developer, you will be responsible for various projects including the development, and maintenance of our in-house CPQ application and driving a seamless Quote-to-Cash business process.</span></p><p><br></p><p><span style="font-size: 12pt">This is a cross-functional role where you will partner closely with Finance, Legal, Operations, and end-users to improve processes, workflows and develop new SFDC product object iterations. This position is ideal for an individual looking to drive scalable business systems for a fast-growth startup transforming the mental healthcare industry.</span></p><p><br></p><p>**Please provide a link to your GitHub and/or Trailblazer profiles if applicable</p>\n<p><p><br></p><b>Qualifications and Responsibilities</b><ul><li>B.S. in Engineering, Computer Science, Math or another technical field with good computer programming skills</li><li>Experience with CPQ development (price rules, discount schedules), CLM tools, &amp; Apex Programming</li><li>Salesforce Certifications</li><li>Platform Developer I</li><li>Platform Developer II</li><li>Experience in writing Apex code and triggers, VisualForce pages &amp; components, <a href="http://Force.com" class="postings-link">Force.com</a>, SOQL, SOSL</li><li>Experience in designing &amp; implementing full-stack CPQ solutions using the Salesforce Platform (Good to have)</li><li>Salesforce CPQ (quote calculator plugins &amp; automation), CLM (Apptus Conga CLM), Billing Systems (Zuora, CPQ Billing), and other 3rd party integration</li><li>Integrate Salesforce with 3rd party analytical platforms, billing systems and other applications via integration tools using SOAP or REST APIs</li><li>Strong problem-solving, critical thinking, and analytical skills to set up and interpret logic, data tables, and rule relationships</li><li>Strong functional and configuration expertise in Sales Cloud</li><li>Proficiency in various CPQ functionalities like perpetual and subscription-based licensing, Usage billing, seasonal licensing, amendments, extensions, co-terming and renewals</li><li>Design, configure, administer, and customize SFDC CPQ including, but not limited to, Salesforce lightning APEX class, APEX triggers and supporting test classes, Custom Objects, Workflow Rules, Custom Fields, Validation Rules and Visual Force Pages</li><li>Own system configuration and user setups as needed. Configure fields, workflows, roles/permissions, page layouts, custom objects, custom record types, reports, saved searches and dashboards</li></ul><p><br></p></p>\n<p>This is a U.S. remote opportunity. #LI-REMOTE</p><p><br></p><p><span style="font-size: 15px">We are an Equal Opportunity Employer. We do not discriminate on the basis of race, color, religion, sex (including pregnancy), national origin, age (40 or older), disability,&nbsp; genetic information or any other category protected by law.</span></p><br/><br/>Please mention the word **REMISSION** and tag RMTczLjc1LjQxLjE1MQ== when applying to show you read the job post completely (#RMTczLjc1LjQxLjE1MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/43f67978b459dbe1a8bcf8405d1a50d51671088576.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +144,7 @@
                     <code>developer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-blockchain-developer-xenon-labs-164404" align="right" target="_blank">Apply</a>
@@ -19,7 +153,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>The blockchain developer will work on developing and implementing a blockchain platform. They will be responsible for working with the team to develop a platform that can be used for the secure storage and transmission of data. The blockchain developer will also be responsible for developing and implementing smart contracts.<br><br>Responsibilities:<br><br>â¢ Developing and implementing blockchain technology applications<br>â¢ Identifying and resolving defects by researching specific blockchain technologies<br>â¢ Documenting the development process and blockchain procedures<br><br>Requirements:<br><br>â¢ Proven experience as a Blockchain Developer<br>â¢ Strong experience in Python, Rust, Solidity, and NodeJS<br>â¢ Understanding of blockchain systems, smart contracts, and how to create them<br>â¢ Knowledge of consensus mechanisms and cryptographic hashing algorithms<br>â¢ Experience with Git, Bitcoin, and Hyperledger would be an advantage</p><br/><br/>Please mention the word **SANE** and tag RNTguNjAuMTU1LjE2NA== when applying to show you read the job post completely (#RNTguNjAuMTU1LjE2NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p>The blockchain developer will work on developing and implementing a blockchain platform. They will be responsible for working with the team to develop a platform that can be used for the secure storage and transmission of data. The blockchain developer will also be responsible for developing and implementing smart contracts.<br><br>Responsibilities:<br><br>â¢ Developing and implementing blockchain technology applications<br>â¢ Identifying and resolving defects by researching specific blockchain technologies<br>â¢ Documenting the development process and blockchain procedures<br><br>Requirements:<br><br>â¢ Proven experience as a Blockchain Developer<br>â¢ Strong experience in Python, Rust, Solidity, and NodeJS<br>â¢ Understanding of blockchain systems, smart contracts, and how to create them<br>â¢ Knowledge of consensus mechanisms and cryptographic hashing algorithms<br>â¢ Experience with Git, Bitcoin, and Hyperledger would be an advantage</p><br/><br/>Please mention the word **SANE** and tag RMTczLjc1LjQxLjE1MQ== when applying to show you read the job post completely (#RMTczLjc1LjQxLjE1MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -34,7 +168,7 @@
                     <code>developer,system,frontend,cto,support,software,code,java,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-java-kotlin-developer-chromaway-164403" align="right" target="_blank">Apply</a>
@@ -46,7 +180,7 @@
                 <p><strong>About us</strong></p><p>Chromaway is the company that has been at the cutting edge of blockchain tech for more than eight years. The company was founded to commercialize Colored Coins which can be considered as the start of blockchain 2.0.</p><p>Our CTO created the first system for issuing tokens - one member of that team, a young(er) Vitalik Buterin. We know the technology, and we know the industry. Chromia, our blockchain platform, is our answer to everything that is wrong with the status quo, a wholly new approach to building decentralized applications for the real world.</p><p>So far we have released both successful products and new start-up projects, and whether youâre looking for a stable company or the energy of a start-up team both expectations can be justified with us. Chromaway is mostly flat in hierarchy, consensus oriented and distributed around the world. Self development and listening to the needs of our people are core values at Chromaway.</p><p><strong>About you</strong></p><p>Weâre looking for a Java/Kotlin developer to join our Developer Experience team. The DevEx team helps developers be successful with our platform, Chromia.</p><p>In this role we are looking for someone who is always looking for improvements, thinking outside the box and willing to work in an organization with a low level of bureaucracy and a flat hierarchy in close collaboration with our other developers.</p><p><strong>What youâll do </strong><br></p>  <ul>  <li>Build command line      tools to help developers on the Chromia platform run blockchain platform      nodes for local development, run unit tests in our proprietary programming      language (Rell), deploy dApps to the platform, and more.</li>  <li>Work with our core      development team to improve the experience for developers using our      platform.</li>  <li>Contribute to the Rell      interpreter (written in Java and Kotlin) for the purpose of building a      language server that can enable language support for Rell in various code      editors.</li>  <li>Become an expert in      ChromaWayâs blockchain platforms (Postchain and Chromia) </li>  <li>Learn and build dApps      in our programming language (Rell) </li>
 </ul><p><strong>Experience and skills</strong><br></p>  <ul>  <li>5+ years as a software      developer</li>  <li>Fluent in Java and      Kotlin</li>  <li>Excellent      communication skills</li>  <li>Experience in agile      ways of working</li>
 </ul><p><strong>Bonus:</strong><br></p>  <ul>  <li>Web3 experience</li>  <li>Experience building      tooling (such as command line tools)</li>  <li>Experience as a      frontend developer (JavaScript and/or TypeScript)</li>
-</ul><p><strong>Is this you?</strong></p><p>Are you the one we are looking for? Please apply with your CV or LinkedIn profile. If you have any questions do not hesitate to contact <strong>Oscar.stierncreutz@chromaway.com</strong>. Please note that we do not accept CVâs sent to us by mail.</p><br/><br/>Please mention the word **ELECTRIFY** and tag RNTguNjAuMTU1LjE2NA== when applying to show you read the job post completely (#RNTguNjAuMTU1LjE2NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p><strong>Is this you?</strong></p><p>Are you the one we are looking for? Please apply with your CV or LinkedIn profile. If you have any questions do not hesitate to contact <strong>Oscar.stierncreutz@chromaway.com</strong>. Please note that we do not accept CVâs sent to us by mail.</p><br/><br/>Please mention the word **ELECTRIFY** and tag RMTczLjc1LjQxLjE1MQ== when applying to show you read the job post completely (#RMTczLjc1LjQxLjE1MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -61,7 +195,7 @@
                     <code>developer,design,web3,technical,support,software,travel,voice,video,lead,engineering,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-advocate-swirlds-labs-163396" align="right" target="_blank">Apply</a>
@@ -109,7 +243,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Willingness to take the stage is essential for inspiring developers. A Developer Advocate needs to deliver presentations that are effective and respectful of an audience's time and attention</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">A deep industry specialty and network are strongly preferred</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">An active GitHub account demonstrative of your technical abilities and interests</span></li>
-</ul><br/><br/>Please mention the word **LUSTROUS** and tag RNTguNjAuMTU1LjE2NA== when applying to show you read the job post completely (#RNTguNjAuMTU1LjE2NA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **LUSTROUS** and tag RMTczLjc1LjQxLjE1MQ== when applying to show you read the job post completely (#RMTczLjc1LjQxLjE1MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -124,7 +258,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/localvr-senior-full-stack-developer-for-short-term-rental-company" align="right" target="_blank">Apply</a>
@@ -161,46 +295,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1814/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>LocalVR</h5>
-                    <h3> Senior Full-Stack Developer for Short-Term Rental Management</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/localvr-senior-full-stack-developer-for-short-term-rental-management" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/1814/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Denver, CO
-    <br /><strong>URL:</strong> <a href="https://golocalvr.com">https://golocalvr.com</a>
-</p>
-
-<div>We are seeking an experienced Full-Stack Engineer to join our product team and help develop cutting-edge technology for our rapidly growing vacation rental management company. Our vision is to provide the attention to detail and personal care of a small, local company backed by an industry-leading technology suite.<br><br>
-</div><div>In this role, you will be responsible for designing, testing, and implementing software using the Django Python framework and React/Next.js JavaScript frameworks. The ideal candidate will have at least 3 years of software development experience with these frameworks and be comfortable working independently in a fast-paced environment. Familiarity with agile development practices (such as Kanban or Scrum), Git, and writing functional QA tests and unit tests is required.<br><br>Experience with PostgreSQL, Kubernetes, Docker, Celery, and managing CI/CD pipelines is not required, but would be a plus.<br><br>You will be joining a small team of dedicated back-end and front-end engineers, as well as a Sr. Product Manager, to help deliver on our strategic roadmap. If you are passionate about developing innovative technology, we want to hear from you.<br><br><strong>Location(s)<br></strong><br>
-</div><ul>
-<li><strong>Latin America</strong></li>
-<li><strong>South America</strong></li>
-</ul><div><br></div><div>Note: This position requires availability for stand-ups and scrum meetings that typically occur between 9:00am and 12:00pm MST on weekdays.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/localvr-senior-full-stack-developer-for-short-term-rental-management">https://weworkremotely.com/remote-jobs/localvr-senior-full-stack-developer-for-short-term-rental-management</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1800/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -211,7 +305,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/whitespectre-experienced-frontend-react-shopify-developer" align="right" target="_blank">Apply</a>
@@ -292,84 +386,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0052/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TAG Media</h5>
-                    <h3> Web Developer </h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>30 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/tag-media-web-developer-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/0052/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="https://tag.media">https://tag.media</a>
-</p>
-
-<div><img src="https://lh4.googleusercontent.com/hx9dIWsCZGLixZZboLgXkxfRJSxfokCFMozxvtl-pbELAonkRiVsdQzl34qeHQF5aVERVdTs4ah0JaF5lYHmakeXCWpt1hUe2s1NEJEenXhJf--px93w5JbwzEU9IkUfMmugbiTrcGsN4CxXLmLt_eV2es1EYPJ8N3hduJQM_-TUFo4cZcUstGH0jZX7dQ" width="600" height="100"></div><div>
-<br><br>
-</div><div>
-<br>First Look Games Web Developer and Support Manager<br><br>
-</div><div><br></div><div>
-<br>About First Look Games<br><br>
-</div><div>
-<br>First Look Games is the leading content marketing platform connecting iGaming studios with digital publishers, enabling the creation of quality, accurate &amp; compliant game reviews. We service over 800 publishers &amp; 58 game studios and together have created over 26,000 casino reviews reaching over 20 million casino players worldwide.<br><br>
-</div><div>
-<br>Our staff comprises highly skilled iGaming performance marketing professionals, with team members averaging over 12 years of industry experience with operators of all shapes, sizes and product verticals.<br><br>
-</div><div>
-<br><strong>The Role</strong>
-</div><div>We are looking to recruit a full time, remote Web Developer to assist in the development and support of our growing business.</div><div>
-<br>Reporting to the Head of Tech, the successful candidate will work closely with stakeholders to plan and code updates and features to our existing systems whilst coordinating with customers on first level support.<br><br>
-</div><div>If you are a self motivated, hard working individual with a strong background in PHP theme development and excellent spoken and written English who wants to contribute to a growing business then this role could be for you. This is a multi disciplined role that requires expert knowledge of PHP along with fantastic customer service skills.<br><br>
-</div><div>
-<br>Responsibilities</div><ul>
-<li>Adding to the current functionality of the platform via PHP coding</li>
-<li>Managing support queries from all clients</li>
-<li>Ensuring the smooth running of day to day technical systems, including server maintenance</li>
-<li>Managing html email newsletters</li>
-<li>Designing and building new front-end pages in the admin system</li>
-<li>Writing “clean”, well-designed code<br><br>
-</li>
-</ul><div>Requirements</div><ul>
-<li>Proven experience in PHP &amp; MySQL programming including knowledge of Yii framework</li>
-<li>Server maintenance including, Litespeed, Nginx and Apache</li>
-<li>Great knowledge of JavaScript, HTML and CSS,</li>
-<li>Experience in common third-party APIs</li>
-<li>Experience in working with customers in a support role</li>
-<li>Analytical skills with high attention to detail</li>
-<li>Native English speaker with excellent written communication skills</li>
-<li>Organisational skills with the ability to handle multiple tasks</li>
-<li>Work in a team or own initiative</li>
-<li>Great problem-solving skills<br><br>Desirable skills<br><br>
-</li>
-<li>Experience working in the iGaming and affiliate marketing industries</li>
-<li>Working knowledge of Adobe Photoshop<br><br>
-</li>
-</ul><div>Benefits</div><ul>
-<li>Pro Rata: 20 days per year paid leave, plus statutory holidays &amp; 5 mental health days off – including Christmas week</li>
-<li>Home Working allowance (printer, desk/chair allowance, home broadband &amp; mobile contributions, plus coffee allowance)</li>
-<li>Job Types: Full Time/Permanent</li>
-<li>Salary- DOE</li>
-</ul><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tag-media-web-developer-2">https://weworkremotely.com/remote-jobs/tag-media-web-developer-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6989/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -380,7 +396,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>92 days ago</text>
+                <text>93 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
@@ -431,7 +447,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>94 days ago</text>
+                <text>95 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -495,6 +511,88 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Storetasker</h5>
+                    <h3> Senior Shopify Developer (Remote + Flexible)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>690 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/8032/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Brooklyn, NY
+    <br /><strong>URL:</strong> <a href="https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021">https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021</a>
+</p>
+
+<h1>Shopify developers love to freelance with Storetasker.</h1><ul>
+<li>
+<strong>Endless, quality clients: </strong>from well known DTC brands to top agencies. </li>
+<li>
+<strong>Fully remote, flexible: </strong>work as much or as little as you want, wherever you want. </li>
+<li>
+<strong>A talented and helpful community: </strong>it's freelance (with a team).</li>
+<li>
+<strong>Earn $80-$120 per hour: </strong>pick your clients, and send your own quotes or retainers. <br><br>
+</li>
+</ul><div>We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: <a href="https://www.alphaindustries.com/">Alpha Industries</a>, <a href="https://www.bollandbranch.com/">Boll &amp; Branch</a>, <a href="https://getsuperfluid.com">Superfluid</a>, <a href="https://jackhenry.co/">Jack Henry</a>, <a href="http://plenaire.co/">Plenaire</a>, and <a href="https://walkfulton.com/">Fulton</a> among many more. <br><br><strong>Why Storetasker?</strong>
+</div><ul>
+<li>
+<strong>Endless clients &amp; project opportunities:</strong> you’ll see between 5 - 50 new opportunities per day and can pick any lead you want. </li>
+<li>
+<strong>You’ll earn more:</strong> some experts are making $150-200k per year. </li>
+<li>
+<strong>A high quality community:</strong> we carefully select about 5% of those who apply. </li>
+<li>
+<strong>Remote:</strong> work from anywhere, anytime. </li>
+<li>
+<strong>Flexible:</strong> take on as many clients as you want.</li>
+<li>
+<strong>No external ratings:</strong> you’re already a professional. No need to prove it. </li>
+<li>
+<strong>Great Software:</strong> that makes it easy to manage more clients and increase billable hours.</li>
+<li>
+<strong>Support when you need it:</strong> we offer project support 7 days per week. </li>
+<li>
+<strong>Community (not competition):</strong> you pick your clients, projects, and never compete against other Experts in the community. </li>
+</ul><div><br></div><div>
+<a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>Learn more and join</strong></a>! It’s confidential, and takes less than 5 minutes. <br><br><strong>Here's who we're looking for:</strong>
+</div><ul>
+<li>Ambitious part time and full-time freelancers and boutique agencies.</li>
+<li>Who have 3+ years of Shopify experience, and 5+ years of web development experience. </li>
+<li>And who have managed projects, deadlines, and communication successfully. </li>
+</ul><div>
+<br><strong>Especially people with some of these skills:</strong>
+</div><ul>
+<li>Front-end or full-stack Shopify development</li>
+<li>Klaviyo Email flows</li>
+<li>Headless e-commerce development</li>
+<li>Conversion rate optimization</li>
+<li>E-commerce expertise and strategy</li>
+<li>SEO </li>
+<li>Site Speed</li>
+<li>Builder and/or Shogun</li>
+</ul><div>
+<br><a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>It takes just a few minutes to join.</strong></a><br><br><strong>Here's what a few current members have to say:</strong><br><br>"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!" - Adan, United States, Storetasker Expert since March 2020<br><br>"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”" - Mark, England, Storetasker Expert since 2019<br><br>"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow." - Siah, Canada, Storetasker Expert since 2017<br><br><strong>Our Mission: </strong><br><br>We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.  <br><br><strong>Questions?</strong> Reach out at experts@storetasker.com.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1">https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1383531/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -505,7 +603,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -582,7 +680,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -608,7 +706,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -685,7 +783,7 @@
                     <code>CSS,developer,react,social media</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>22 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
@@ -752,7 +850,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
