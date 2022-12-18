@@ -1,129 +1,61 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/08667528f998ca858231dd5955734a021670915758.peg" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/8851ce5ad7a660743327b923e5de13641671261376.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Metaschool</h5>
-                    <h3>Backend Engineer</h3>
+                    <h5>QuickNode</h5>
+                    <h3>Software Engineer Backend</h3>
                 </td>
                 <td width="300">
-                    <code>web3,technical,developer,growth,code,laravel,lead,content,go,engineer,engineering,backend,digital nomad</code>
+                    <code>software,web3,c++,strategy,engineer,engineering,backend</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-metaschool-163397" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-backend-quicknode-165421" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Metaschool is looking for a high ownership, product-minded backend engineers to help our small engineering team build and ship a delightful product for our dev users. </span></p><p><br></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">There are 30M developers in the world but only 24k devs are actively contributing to the web3 ecosystem as of now. Metaschool produces fun, free and exciting projects for web2 devs to propel to web3. Find this exciting? Keep reading.</span></p><p><br></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Working at Metaschool</span></p><p><br></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Metaschool produces courses for devs to build, ship and learn web3. We have over 70K devs signed up from 50+ countries within 5 months of launch.</span></p><p><br></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Weâre a decentralized, remote-first company with teammates based in Singapore, India and Pakistan (for now ð). We are divided by borders but our common mission to help devs build and flourish in the web3 ecosystem has brought us very close. If you are in any timezone of Asia and are a web3 native, we would love to have you onboard. </span></p><p><br></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Our Values</span></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><br></p><ul>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">
-<span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Buidl dope shit!</span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> - We care about what you have built, not your degrees or FAANG experience.</span>
-</li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">
-<span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Stay weird - </span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> Own yourself, be yourself! Diversity is our strength! </span>
-</li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">
-<span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Improve daily -</span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> Daily efforts compound. Donât underestimate them.</span>
-</li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">
-<span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Developers come first - </span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">We are building for devs. Put them first, always!</span>
-</li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">
-<span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Learners for life -</span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> Leave your ego outside, learn whenever you can.</span>
-</li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">
-<span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Collaborate to win -</span><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;"> If you want to go far, collaborate and go with a team.</span>
-</li>
-</ul><p><br></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">The Role</span></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">At Metaschool, we ship weekly and we are nothing without our Product. Our engineering team is the backbone of what we are doing at Metaschool. The learning content lives on the CMS we have created in house. The idea is to think from first principles and evolve the product to continue to delight and help our dev user base. </span></p><p><br></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">This is how you will be working with us.</span></p><ol>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Building the backend infrastructure of Metaschool. Our tech stack is React, Laravel & AWS. But we are ever evolving and looking to migrate to Node.</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">Writing requirements of your deliverables, speaking with developer users of our platform and designing sprints with teams.</li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">Writing efficient and scalable code to help the platform growth and scale.</li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">Helping and supporting other devs in the team.</li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;">
-<span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Anything else you would like to contribute to? Weâd love that ;)</span><br><br>
-</li>
-</ol><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">YOU</span></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">An ideal person to lead this role:</span><br><br></p><ul>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Is technical but product minded</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Previously worked with a startup</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Has previously built and shipped something.</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Has managed a team. </span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Loves to collaborate with, and bring people together.</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Has great written and verbal communication skills.</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Loves startup environment & comfortable wearing multiple hats.</span></li>
-</ul><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">If any of the above doesnât apply to you and you still strongly feel you can do it. Donât let us stop you.. Please apply for the opportunity.</span></p><p><br></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:700;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Perks</span></p><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">We are a small intimate team with a big mission to help more devs enter web3. At Metaschool, you will have exposure to product, business, growth, technology and everything in between. </span><br><br><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Additionally, you will get:</span></p><ul>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Competitive Salary</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Generous Equity</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Health Insurance </span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Paid Time off</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Workstation Allowance</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">Multiple Tech subscription(s) to make your life easier</span></li>
-<li style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">And an amazing bunch of weird frens!!</span></li>
-</ul><p style="line-height:1.38;margin-top:0pt;margin-bottom:0pt;"><span style="font-size:11pt;font-family:Arial;color:#000000;background-color:transparent;font-weight:400;font-style:normal;font-variant:normal;text-decoration:none;vertical-align:baseline;white-space:pre;white-space:pre-wrap;">We are so excited to see you around. </span></p><br/><br/>Please mention the word **IMPRESSED** and tag RMTczLjc1LjQxLjE1MQ== when applying to show you read the job post completely (#RMTczLjc1LjQxLjE1MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/3b3b852e3479953b66a8cb8f057290ae1670915721.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>aXedras</h5>
-                    <h3>Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>design,frontend,code,web,java,node,go,engineer,linux,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-axedras-163392" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h3>Who we are</h3>
-
-<p>aXedrasâ¢ vision is to connect and digitalize the precious metal industry. We combine bullion market expertise and cutting-edge information technology to create significant benefits for the stakeholders of the precious metals industry.</p>
-
-<h3>What we do</h3>
-
-<p>aXedrasâ¢ builds and runs the Bullion Integrity Ledgerâ¢ - a trusted digital network based on latest DLT - on which market participants in the precious metals industry can interact with each other to maintain shared ledgers of product and ownership information. The technology of the Bullion Integrity Ledgerâ¢ enables to digitally reflect manifold precious metals industry use cases and applications along the entire value-chain.</p>
-
-<h3>What you will do</h3>
-
-<p>You will have the opportunity to join an innovative and agile IT project within a fast growing and dynamic start-up company. You will to be part of a highly motivated, cross-functional team! You will get the chance to take a driving role in the design and development of the entire stack, with a focus on the microservice components.</p>
-
-<h3>Our Stack</h3>
-
-<p>We develop on GitLab, using Kotlin, Gradle, Docker, NodeJS, React, Terraform and Ansible. An instance of the aXedrasâ¢ stack is composed of a R3 Corda blockchain node, a set of JVM/Spring-Boot-based microservices to control and connect the node to our frontend, and the React-based user interface. Each network member owns its own stack, which is hosted and operated by the customers either on-premise or in the cloud.</p>
-
-<h3>Who we are looking for</h3>
-
+                <div class="content-intro">
+<div>QuickNode is a cloud-based infrastructure company that powers the blockchain ecosystem.</div>
+<div> </div>
+<div>Our mission is to be the indispensable utility that empowers companies and innovators globally to build next-generation, Web3 enabled businesses & applications using blockchain technology. QuickNode is backed by some of the world's best investors including Tiger Global, Y Combinator, SoftBank, and the Seven Seven Six Fund. The QuickNode team has over 90 people maintaining high performance global data infrastructure for amazing customers serving billions of requests daily.</div>
+<div> </div>
+<div>We are a global remote first company HQ'd in Miami, Florida.</div>
+</div><div class="section page-centered">
+<h3><strong>The Role</strong></h3>
+<div>We are looking for an engineer for the Build team who can deliver value and impact to the QuickNode team in a fast and nimble way. This engineer will be what we consider a âswiss army knifeâ within the company, working with a team of outside the box thinkers and visionaries. You will have the opportunity to tackle challenging problems that have not been solved yet in the blockchain space.</div>
+</div>
+<div class="section page-centered">
+<h3>What You'll Do</h3>
+<ul class="posting-requirements plain-list">
 <ul>
-        <li>Applications of all seniority levels are welcome but experience with designing and developing backend applications using Java 8 or another JVM language (preferably Kotlin) is expected.</li>
-        <li>Masterâs/Bachelorâs degree in computer science or in a related field</li>
-        <li>Capable of bootstrapping a backend project from scratch</li>
-        <li>Proficient in structuring and developing RESTful API</li>
-        <li>Knowledge of Spring Boot, JPA/Hibernate, SQL, Gradle</li>
-        <li>Solid understanding of distributed systems, microservice architecture, IPC/RPC and serialization frameworks, web services and network protocols</li>
-        <li>Experience with DevOps, CI/CD, build/deployment-automation, Gitlab pipelines, Linux and Docker</li>
-        <li>Knowledge of DLT/blockchain and specifically R3 Corda is a plus</li>
-        <li>Non JVM experience like Go or Rust experience is a plus</li>
-        <li>Understanding of frontend development in React, Angular, etc. is a plus</li>
-        <li>Proficient in code versioning with Git</li>
-        <li>Fixed (Swiss work permit & residency required) or contractor (remote worldwide, +/- 2h CET preferred) employment is possible</li>
-        <li>Proficient in English</li>
-        <li>German, Italian or Spanish is a plus</li>
+<li>Work with a team of passionate engineers to build and innovate products that will push the edge of what the industry offers</li>
+<li>Design, build, and maintain reliable infrastructure that powers QuickNode services</li>
+<li>Influence engineering strategy and roadmap across the team and company</li>
+<li>Interact with customers and relevant stakeholders to gather requirements and feedback</li>
+<li>Triage, debug, and resolve issues that impact the quality of our services</li>
+<li>Continuously improve the quality and standards of our engineering practices, tools, and processes</li>
 </ul>
-
-<h3>How to apply</h3>
-
-<p>Please send your full application CV. A motivation or cover letter is not required. Also, the diplomas specified in your CV do not have to be attached and will be checked at a later stage.</p><br/><br/>Please mention the word **SWEEPING** and tag RMTczLjc1LjQxLjE1MQ== when applying to show you read the job post completely (#RMTczLjc1LjQxLjE1MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul>
+</div>
+<div class="section page-centered">
+<h3>What You'll Bring</h3>
+<ul class="posting-requirements plain-list">
+<ul>
+<li>Experience in writing Rust, Go, and/or C++ is preferred, but we believe that a solid engineering mindset is more valuable that relevant language experience</li>
+<li>Experience with building large-scale distributed systems involving tools like PostgreSQL, Kafka, Kinesis, ScyllaDB, RabbitMQ, etc.</li>
+<li>You have passion for building products, and a healthy obsession with learning and growing</li>
+<li>You thrive working in a fast-paced, dynamic environment while remaining autonomous</li>
+<li>You have pride in providing customers with the best experience possible</li>
+<li>A healthy obsession with learning and growing with the team</li>
+</ul>
+</ul>
+</div>
+<div class="section page-centered"> </div><div class="content-conclusion"><p>We at Quicknode are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.</p></div><br/><br/>Please mention the word **AFFLUENCE** and tag RMzQuOTEuMjAxLjI1NQ== when applying to show you read the job post completely (#RMzQuOTEuMjAxLjI1NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -138,7 +70,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/covergo-senior-backend-engineer-net-5" align="right" target="_blank">Apply</a>
@@ -189,7 +121,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
