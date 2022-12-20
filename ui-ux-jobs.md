@@ -1,5 +1,56 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/2064/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>LedgerComm Ltd</h5>
+                    <h3> UX designer </h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/ledgercomm-ltd-ux-designer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0082/2064/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London
+    <br /><strong>URL:</strong> <a href="https://ledgercomm.io/">https://ledgercomm.io/</a>
+</p>
+
+<div>We are looking for a full time UI/UX Designer to join our team. <br><br><strong>About us </strong><br><br>We've created a new operating system for the corporate loan market a $2 trillion part of the financial services market. <br><br><strong>Our challenge</strong><br><br>Our clients are served by a very small number of existing operating systems - as a new entrant to the market our UX flow needs to be as easy to use a consumer banking app. <br><br><strong>The role </strong>
+</div><div><br></div><div>UI/UX Designer responsibilities include gathering user requirements, creating user flows, designing graphic elements and building navigation components. To be successful in this role, you should have at least 4 years experience with design software and wireframe tools. </div><div><br></div><div>
+<br><strong>Successful candidates will have</strong>
+</div><div><br></div><ul>
+<li>4 years + proven commercial experience as a UI/UX Designer or similar role</li>
+<li>At least 2 years in 1 company as UX designer</li>
+<li>Commercial experience with a SaaS platform</li>
+<li>Strong experience in planning, documenting, and leading design and research projects</li>
+<li>Point to a successful portfolio of design projects</li>
+<li>Deep experience with UI/UX best practices</li>
+<li>Ability to show and design prototypes in Figma (or equivalent) </li>
+<li>Team spirit; strong communication skills to collaborate with various stakeholders</li>
+<li>Excellent time-management skills</li>
+<li>Knowledge of UX research</li>
+<li>Professional business level of English</li>
+</ul><div><br></div><div>
+<strong>Process<br><br></strong>Successful candidates will be asked for interview, you should be prepared to show off your previous work and crucially your working methodology. Understanding how you work and plan for edge cases is key to the interview process. <br><br>
+</div><div><br></div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/ledgercomm-ltd-ux-designer">https://weworkremotely.com/remote-jobs/ledgercomm-ltd-ux-designer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +61,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
