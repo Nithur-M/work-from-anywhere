@@ -10,7 +10,7 @@
                     <code>software,design,crypto,ethereum,system,music,code,web,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-smart-contracts-audius-165424" align="right" target="_blank">Apply</a>
@@ -20,7 +20,42 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><b>Who are we? </b></div><div>
-<a href="https://audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius</a> is a digital streaming service that connects fans directly with artists and exclusive new music. </div><div><br></div><div>It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence. </div><div><br></div><div>Backed by an all-star team of <a href="https://www.crunchbase.com/organization/audius/company_financials#investors" class="postings-link" rel="noopener noreferrer nofollow">investors</a>, Audius was founded in 2018 and serves over 6 million users every month, making it the largest non-financial crypto application ever built.</div><div><br></div><div><b>Who we are looking for? </b></div><div>We are looking for passionate team-players who will help us architect, build, and ship the most difficult parts of the on-chain entities in the Audius protocol, chiefly in Solana (Rust), where you will bring in and craft new expertise on our team. Audius deploys smart contracts across Ethereum and Solana, and we're looking for proficient systems-programmers with a strong background in low-level languages (ideally Rust) to help us deliver the largest non-financial crypto project to date.</div><div><br></div><div>You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. Youâre eager to problem solve in a wide variety of spaces within the blockchain ecosystem (think scalability, governance, NFTs, social tokens, etc.). We solve a lot of problems that can't be easily Googled or searched on StackOverflow, and you have the fundamentals and drive to self-start and come to original solutions.</div><div><br></div><div><b>Our Company</b></div><div>Audius is a 26-person team of entrepreneurs, engineers, audiophiles, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have a monthly concert credit (COVID-19 permitting).</div><div><br></div><div>Our company is fully remote and our team is currently distributed across the United States. </div><p>Key Responsibilities</p><p></p><li>Write, test, and deploy Solana blockchain (Rust) programs</li><li>Write, test, and deploy Ethereum blockchain (Solidity) smart contracts</li><li>Work closely with other blockchain engineers on the team and own core pieces of contract code that powers the economics, data storage, and transactional logic across Audius</li><li>Participate deeply in design discussions around tokenomics, blockchain interoperability, blockchain scalability, and governance systems</li><p>Skills and Experience</p><p></p><li>Deep experience with systems programming, ideally in Rust</li><li>Experience developing and shipping blockchain smart contracts</li><li>3+ years of experience building in production environments</li><li>Solid conceptual understanding of full stack software development including system architecture, web serving infrastructure, and database design</li><li>Great interpersonal and communication skills, comfort working within a small team, and owning projects</li><p></p><br/><br/>Please mention the word **RATIONAL** and tag RMTczLjc1LjQxLjE1MQ== when applying to show you read the job post completely (#RMTczLjc1LjQxLjE1MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<a href="https://audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius</a> is a digital streaming service that connects fans directly with artists and exclusive new music. </div><div><br></div><div>It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence. </div><div><br></div><div>Backed by an all-star team of <a href="https://www.crunchbase.com/organization/audius/company_financials#investors" class="postings-link" rel="noopener noreferrer nofollow">investors</a>, Audius was founded in 2018 and serves over 6 million users every month, making it the largest non-financial crypto application ever built.</div><div><br></div><div><b>Who we are looking for? </b></div><div>We are looking for passionate team-players who will help us architect, build, and ship the most difficult parts of the on-chain entities in the Audius protocol, chiefly in Solana (Rust), where you will bring in and craft new expertise on our team. Audius deploys smart contracts across Ethereum and Solana, and we're looking for proficient systems-programmers with a strong background in low-level languages (ideally Rust) to help us deliver the largest non-financial crypto project to date.</div><div><br></div><div>You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. Youâre eager to problem solve in a wide variety of spaces within the blockchain ecosystem (think scalability, governance, NFTs, social tokens, etc.). We solve a lot of problems that can't be easily Googled or searched on StackOverflow, and you have the fundamentals and drive to self-start and come to original solutions.</div><div><br></div><div><b>Our Company</b></div><div>Audius is a 26-person team of entrepreneurs, engineers, audiophiles, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have a monthly concert credit (COVID-19 permitting).</div><div><br></div><div>Our company is fully remote and our team is currently distributed across the United States. </div><p>Key Responsibilities</p><p></p><li>Write, test, and deploy Solana blockchain (Rust) programs</li><li>Write, test, and deploy Ethereum blockchain (Solidity) smart contracts</li><li>Work closely with other blockchain engineers on the team and own core pieces of contract code that powers the economics, data storage, and transactional logic across Audius</li><li>Participate deeply in design discussions around tokenomics, blockchain interoperability, blockchain scalability, and governance systems</li><p>Skills and Experience</p><p></p><li>Deep experience with systems programming, ideally in Rust</li><li>Experience developing and shipping blockchain smart contracts</li><li>3+ years of experience building in production environments</li><li>Solid conceptual understanding of full stack software development including system architecture, web serving infrastructure, and database design</li><li>Great interpersonal and communication skills, comfort working within a small team, and owning projects</li><p></p><br/><br/>Please mention the word **RATIONAL** and tag RMzUuMjAzLjI1NS4xMTc= when applying to show you read the job post completely (#RMzUuMjAzLjI1NS4xMTc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/9371/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sticker Mule</h5>
+                    <h3> Software engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>61 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/9371/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
+</p>
+
+<div><strong>About Sticker Mule</strong></div><div>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a  globally distributed team who cares deeply about delivering a great customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.</div><div><br></div><div><a href="https://www.stickermule.com/about"><strong>See more about our teams here</strong></a></div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. Varied, interesting technical challenges to solve</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div><strong>We like you to know</strong></div><div>1. Docker</div><div>2. NextJS</div><div>3. React</div><div>4. NodeJS</div><div>5. GraphQL</div><div>6. Postgres</div><div>7. Redis</div><div>8. Familiarity with Ruby</div><div>9. Excellent communication skills (English)</div><div>10. Degree in Computer Science or equivalent practical experience<br><br><strong>Challenges</strong>
+</div><div>1. Improve and expand our React shared components gallery</div><div>2. Migrate a large Rails code base to JavaScript front-ends and back-ends</div><div>3. Maintain optimal front-end performance on desktop and mobile</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. $112,000/yr</div><div>2. $20,000 signing bonus</div><div>3. 28 vacation days (+ holidays based on your country of residence) </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +70,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -97,7 +132,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
