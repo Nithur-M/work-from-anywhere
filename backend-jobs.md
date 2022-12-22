@@ -10,7 +10,7 @@
                     <code>software,web3,c++,strategy,engineer,engineering,backend</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-backend-quicknode-165421" align="right" target="_blank">Apply</a>
@@ -55,7 +55,7 @@
 </ul>
 </ul>
 </div>
-<div class="section page-centered"> </div><div class="content-conclusion"><p>We at Quicknode are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.</p></div><br/><br/>Please mention the word **AFFLUENCE** and tag RMTczLjc1LjQxLjE1MQ== when applying to show you read the job post completely (#RMTczLjc1LjQxLjE1MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<div class="section page-centered"> </div><div class="content-conclusion"><p>We at Quicknode are an equal opportunity employer and all qualified applicants will receive consideration for employment without regard to race, color, religion, sex, sexual orientation, gender identity or expression, pregnancy, age, national origin, disability status, genetic information, protected veteran status, or any other characteristic protected by law.</p></div><br/><br/>Please mention the word **AFFLUENCE** and tag RMzUuMjAzLjI1NS4xMTc= when applying to show you read the job post completely (#RMzUuMjAzLjI1NS4xMTc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -70,7 +70,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-1" align="right" target="_blank">Apply</a>
@@ -116,57 +116,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>CoverGo</h5>
-                    <h3> Senior Backend Engineer .Net</h3>
-                </td>
-                <td width="300">
-                    <code>All Other Remote</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/covergo-senior-backend-engineer-net-5" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Warsaw, Masovian Voivodeship, Poland
-    <br /><strong>URL:</strong> <a href="http://covergo.com">http://covergo.com</a>
-</p>
-
-<p><strong>Top 3 Reasons To Join Us</strong><br></p>
-<ul> <li>Competitive Salary</li> <li>100% Remote</li> <li>Working on the latest tech for the Insurtech Market Leader</li> </ul>
-<p><strong>About Us</strong></p>
-<p>At CoverGo, our mission is to help insurance companies and banks to make insurance 100% digital, to better serve their customers.</p>
-<ul> <li>We are the leading provider of cutting-edge technology to the insurance industry</li> <li>We're also the winner of the insurtech of the year in all of Asia in 2021 and other awards globally</li> <li>We work with enterprise clients such as AXA, MSIG, DBS, Fubon, Bank of China Group Insurance, and many more</li> <li>We're an international, diverse team with over 20 nationalities and team members working remotely from all over the world</li> <li>We are fully funded and backed by reputable VC funds and strategic institutional investors</li> <li>We have offices in Singapore, Hong Kong, and Vietnam. We plan to expand to the US and other markets in the upcoming months</li> <li>We've grown our annualized revenue by over 1000% since January 2021</li> <li>We're constantly working towards making CoverGo a workplace that you love coming to. We deeply believe that bringing together a diversity of thoughts, expressions, and perspectives is key to building the best culture for equally diverse communities all over the world</li> </ul>
-<p><strong>About the Role</strong></p>
-<p>.Net Backend engineering is the heart of our technical excellence. We are looking for people who are able to analyze complex insurance domains and build high-quality API and microservices in cross-functional product and project teams. </p>
-<p>CoverGo is a Kubernetes-native platform that consists of around twenty microservices exposed via a GraphQL gateway (<a href="https://api.covergo.com/playground" class="external">https://api.covergo.com/playground</a>), based on .net 6.</p>
-<p><strong>What You Will Do</strong><br></p>
-<ul> <li>Help us build, grow and maintain our services</li> <li>Apply your skills to develop robust and scalable software</li> </ul>
-<p><strong>You'll be successful in this role if:</strong></p>
-<ul> <li>You are a hands-on engineer, and you love what you do</li> <li>You are a quick learner and excited about learning new technologies</li> <li>You are passionate about automated testing, code quality and engineering best practices</li> <li>You advocate software craftsmanship and take pride in your work</li> <li>You enjoy collaborating with engineers across functional teams and have excellent communication skills</li> <li>You enjoy taking full ownership of projects from conception to production</li> </ul>
-<p><strong>What We Need</strong><br></p>
-<ul> <li>Experience in Event sourcing, CQRS, and DDD (Domain Driven Design)</li> <li>Excellent understanding of .NET Core and C#</li> <li>Experience with Docker</li> <li>Familiarity with microservices using GraphQL</li> <li>Experience with database technologies like MongoDB, PostgreSQL</li> <li>Intensive TDD practice</li> </ul>
-<p><strong>It'll be nice if you have some experience in areas:</strong></p>
-<ul> <li>Event Storming or Event Modeling</li> <li>SpecFlow and BDD</li> <li>GitHub Actions</li> <li>Cloud Computing platforms: Amazon AWS, Microsoft Azure, Google Cloud, Alibaba etc.</li> <li>MS/BS in Computer Science or a related degree</li> <li>Insurance and fintech experience</li> <li>Know what these names are about: Vaughn Vernon, Eric Evans, Martin Fowler</li> <li>Kubernetes</li> <li>GitOps</li> </ul>
-<p><strong>Why You'll Love Working Here</strong></p>
-<ul> <li>Salary: Up to 5000USD/Month</li> <li>Full-remote employment, work from anywhere and/or from one of our physical offices in Vietnam, Singapore or Hong Kong occasionally</li> <li>Local time zone office hours, work by your schedule</li> <li>Paid annual leaves</li> <li>Employee stock options</li> <li>Performance bonus</li> <li>Performance review 2x a year</li> <li>Company activities &amp; team offsites to exotic locations</li> <li>Training and development plan</li> </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/covergo-senior-backend-engineer-net-5">https://weworkremotely.com/remote-jobs/covergo-senior-backend-engineer-net-5</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1368332/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -177,7 +126,7 @@
                     <code>api,AWS,backend,docker</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/software-engineer-backend-python-1368332" align="right" target="_blank">Apply</a>
@@ -274,7 +223,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="section page-centered"><div><b style="font-size: 18px">About: </b></div><div><br></div><div>At&nbsp;<a href="https://slab.com/" class="postings-link">Slab</a>, we believe that knowledge is the foundation of any organization's success. When a team's collective knowledge is accessible, that team's potential is limitless. That's why we're making the workplace a source of learning and purpose through knowledge-sharing. Our product helps teams easily create, organize, and discover knowledge across the entire company, from non-technical to tech-savvy. Thousands of customers rely on Slab across their entire workforces, including Asana, Benchling, and Fivetran.</div><div><br></div><div>As a small product-focused company, you'll join a team of experienced engineers, working on shipping features that delight users, fixing issues that get in their way while keeping our codebase, infrastructure, and tooling modern and well-maintained. We are globally distributed, with processes that minimize meetings and overhead, letting makers build on the maker's schedule.</div></div><div class="section page-centered"><div><h3>Technologies we use:</h3><ul class="posting-requirements plain-list"><ul><li>React + TypeScript + Sass</li><li>GraphQL + Apollo + Absinthe</li><li>Elixir + Phoenix</li><li>Postgres + Redis</li><li>Docker + Kubernetes</li><li>Google Cloud Platform </li></ul></ul></div></div><div class="section page-centered"><div><h3>Sound like you? </h3><ul class="posting-requirements plain-list"><ul><li>You have a strong technical background, with experience solving complex problems within a software development team</li><li>You love delighting users with great product experiences and resolving issues that get in their way</li><li>You're curious to learn and demonstrate the ability to do so very quickly</li><li>You communicate with clearly and concisely, whether with teammates or users</li><li>You are self-motivated and possess a strong work ethic</li><li>You are passionate about knowledge-sharing and identify with Slab's mission and values</li></ul></ul></div></div><div class="section page-centered"><div><h3>What we value:</h3><ul class="posting-requirements plain-list"><ul><li><b>Stay lean</b>&nbsp;- We strive for the greatest possible impact with the fewest number of employees. We empower our teammates with the most leveraged tools and efficient processes.</li><li><b>Default to open</b>&nbsp;- We encourage and nurture open exchanges of knowledge and ideas — while acting with respect and regard for each other.</li><li><b>Think rigorously</b>&nbsp;- We act and execute after careful thought and examination of known information, while acknowledging the risks we accept in its absence.</li><li><b>Say no</b>&nbsp;- We aim to deliver exceptionally high value in a small set of focus areas. We willingly abstain from good ideas to give only the most promising paths the attention they deserve.</li><li><b>The best prevails</b>&nbsp;- Whether an idea or an individual, the best will rise to the top at Slab. Ideas we pursue can come from anywhere, and individuals gain responsibilities due to outperformance.</li><li><b>Global optimization</b>&nbsp;- We believe that our mission — to make the workplace a source of learning and purpose — is the ultimate priority, above any single project, team, or individual.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits:</h3><ul class="posting-requirements plain-list"><ul><li>Full health insurance (USA) or stipend (International)</li><li>Wellness &amp; remote work stipends</li><li>$5k workspace setup, renewed biannually</li><li>7-year options exercise window</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered"><div><i>Slab is an equal opportunity employer. We welcome people of diverse backgrounds, experiences, and perspectives.</i></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" href="https://jobs.lever.co/slab/e97d694f-2ef9-47e7-8599-c6e624e4d084/apply">Apply for this job</a></div>
+                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">About: </b></div><div><br></div><div>At&nbsp;<a href="https://slab.com/" class="postings-link">Slab</a>, we believe that knowledge is the foundation of any organization's success. When a team's collective knowledge is accessible, that team's potential is limitless. That's why we're making the workplace a source of learning and purpose through knowledge-sharing. Our product helps teams easily create, organize, and discover knowledge across the entire company, from non-technical to tech-savvy. Thousands of customers rely on Slab across their entire workforces, including Asana, Benchling, and Fivetran.</div><div><br></div><div>As a small product-focused company, you'll join a team of experienced engineers, working on shipping features that delight users, fixing issues that get in their way while keeping our codebase, infrastructure, and tooling modern and well-maintained. We are globally distributed, with processes that minimize meetings and overhead, letting makers build on the maker's schedule.</div></div><div class="section page-centered"><div><h3>Technologies we use:</h3><ul class="posting-requirements plain-list"><ul><li>React + TypeScript + Sass</li><li>GraphQL + Apollo + Absinthe</li><li>Elixir + Phoenix</li><li>Postgres + Redis</li><li>Docker + Kubernetes</li><li>Google Cloud Platform </li></ul></ul></div></div><div class="section page-centered"><div><h3>Sound like you? </h3><ul class="posting-requirements plain-list"><ul><li>You have a strong technical background, with experience solving complex problems within a software development team</li><li>You love delighting users with great product experiences and resolving issues that get in their way</li><li>You're curious to learn and demonstrate the ability to do so very quickly</li><li>You communicate with clearly and concisely, whether with teammates or users</li><li>You are self-motivated and possess a strong work ethic</li><li>You are passionate about knowledge-sharing and identify with Slab's mission and values</li></ul></ul></div></div><div class="section page-centered"><div><h3>What we value:</h3><ul class="posting-requirements plain-list"><ul><li><b>Stay lean</b>&nbsp;- We strive for the greatest possible impact with the fewest number of employees. We empower our teammates with the most leveraged tools and efficient processes.</li><li><b>Default to open</b>&nbsp;- We encourage and nurture open exchanges of knowledge and ideas — while acting with respect and regard for each other.</li><li><b>Think rigorously</b>&nbsp;- We act and execute after careful thought and examination of known information, while acknowledging the risks we accept in its absence.</li><li><b>Say no</b>&nbsp;- We aim to deliver exceptionally high value in a small set of focus areas. We willingly abstain from good ideas to give only the most promising paths the attention they deserve.</li><li><b>The best prevails</b>&nbsp;- Whether an idea or an individual, the best will rise to the top at Slab. Ideas we pursue can come from anywhere, and individuals gain responsibilities due to outperformance.</li><li><b>Global optimization</b>&nbsp;- We believe that our mission — to make the workplace a source of learning and purpose — is the ultimate priority, above any single project, team, or individual.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits:</h3><ul class="posting-requirements plain-list"><ul><li>Full health insurance (USA) or stipend (International)</li><li>Wellness &amp; remote work stipends</li><li>$5k workspace setup, renewed biannually</li><li>7-year options exercise window</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><i>Slab is an equal opportunity employer. We welcome people of diverse backgrounds, experiences, and perspectives.</i></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/slab/e97d694f-2ef9-47e7-8599-c6e624e4d084/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr></table>
