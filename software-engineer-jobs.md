@@ -1,26 +1,113 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/b597093a2cd80b2f5dbb3fb7087286cf1671261389.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/1e2256f9bf871143281db833bbfa4da11671693884.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Audius</h5>
-                    <h3>Software Engineer Smart Contracts</h3>
+                    <h5>Recur</h5>
+                    <h3>Blockchain Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>software,design,crypto,ethereum,system,music,code,web,engineer,digital nomad</code>
+                    <code>software,nft,security,architect,technical,testing,code,serverless,typescript,node,lead,senior,go,engineer,engineering</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-smart-contracts-audius-165424" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-blockchain-software-engineer-recur-167894" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><b>Who are we? </b></div><div>
-<a href="https://audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius</a> is a digital streaming service that connects fans directly with artists and exclusive new music. </div><div><br></div><div>It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence. </div><div><br></div><div>Backed by an all-star team of <a href="https://www.crunchbase.com/organization/audius/company_financials#investors" class="postings-link" rel="noopener noreferrer nofollow">investors</a>, Audius was founded in 2018 and serves over 6 million users every month, making it the largest non-financial crypto application ever built.</div><div><br></div><div><b>Who we are looking for? </b></div><div>We are looking for passionate team-players who will help us architect, build, and ship the most difficult parts of the on-chain entities in the Audius protocol, chiefly in Solana (Rust), where you will bring in and craft new expertise on our team. Audius deploys smart contracts across Ethereum and Solana, and we're looking for proficient systems-programmers with a strong background in low-level languages (ideally Rust) to help us deliver the largest non-financial crypto project to date.</div><div><br></div><div>You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. Youâre eager to problem solve in a wide variety of spaces within the blockchain ecosystem (think scalability, governance, NFTs, social tokens, etc.). We solve a lot of problems that can't be easily Googled or searched on StackOverflow, and you have the fundamentals and drive to self-start and come to original solutions.</div><div><br></div><div><b>Our Company</b></div><div>Audius is a 26-person team of entrepreneurs, engineers, audiophiles, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have a monthly concert credit (COVID-19 permitting).</div><div><br></div><div>Our company is fully remote and our team is currently distributed across the United States. </div><p>Key Responsibilities</p><p></p><li>Write, test, and deploy Solana blockchain (Rust) programs</li><li>Write, test, and deploy Ethereum blockchain (Solidity) smart contracts</li><li>Work closely with other blockchain engineers on the team and own core pieces of contract code that powers the economics, data storage, and transactional logic across Audius</li><li>Participate deeply in design discussions around tokenomics, blockchain interoperability, blockchain scalability, and governance systems</li><p>Skills and Experience</p><p></p><li>Deep experience with systems programming, ideally in Rust</li><li>Experience developing and shipping blockchain smart contracts</li><li>3+ years of experience building in production environments</li><li>Solid conceptual understanding of full stack software development including system architecture, web serving infrastructure, and database design</li><li>Great interpersonal and communication skills, comfort working within a small team, and owning projects</li><p></p><br/><br/>Please mention the word **RATIONAL** and tag RMzUuMjAzLjI1NS4xMTc= when applying to show you read the job post completely (#RMzUuMjAzLjI1NS4xMTc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <div class="section page-centered">
+<div class="section page-centered">
+<p><span style="font-weight:400;">RECUR is looking for a senior level software engineer to help architect and build our NFT platform from the ground up.  Your focus will be on blockchain technology, integration of various blockchain networks, how we mint, swap, and generally transact in a NFT blockchain agnostic environment.</span></p>
+<p><strong>What do we at RECUR believe makes a great engineering team? </strong></p>
+<p><strong>Here are our core beliefs:   </strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Itâs important to have team members that care about the teamâs results more than their own individual achievements</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Itâs important for leadership to be tolerant of making mistakes</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Itâs important that the team members help, teach, and mentor one another</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Itâs important not to place blame on individuals when things go bad but instead to evaluate as a team how we do it better the next time</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Itâs important to be clear on what that mission is and minimize the distractions on the teams executing on that mission</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Small teams execute better than big ones, empower small teams with ownership and minimize the dependencies between them</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Itâs important to encourage self-directed innovation</span></li>
+</ul>
+<h4><strong>What you will do at RECUR</strong></h4>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Architect and code small components to large systems</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Drive decisions on what technologies we use and the software practices we adopt </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Be a technical lead on small to large sized projects</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Work on a small agile team of software engineers and product managers</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Coach less experienced teammates to become better software engineers</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Set an example and define our standards for how we code and deliver our software</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Help us grow our team of talented software engineers</span></li>
+</ul>
+<h4><strong>What you bring to RECUR</strong></h4>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">You have 10+ years of experience developing software</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">You have experience building and deploying software in the cloud, preferably AWS</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">You have built and maintained highly scalable and reliable internet applications or platforms accessed by hundreds of thousands of users on a daily basis</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">You have designed and maintained highly transactional databases that store lots of data and handle heavy loads</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">You are an expert TypeScript developer</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">You are an experienced technical lead, that can direct and guide a team of engineers through building platforms/products and solving big, complex, open ended problems</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">You have developed and built blockchain solutions (integrating with blockchain node APIs, developed smart contracts, or been part of a blockchain project team)</span></li>
+<li style="font-weight:400;">
+<span style="font-weight:400;">You have experience building and maintaining ecommerce, payment, auction, trading platforms, or similar </span><strong>where security and keeping customer funds safe is imperative</strong>
+</li>
+<li style="font-weight:400;"><span style="font-weight:400;">You know how to break down a big, complex problem into smaller components and coordinate your team to iteratively deliver high quality software </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">You have a passion for testing your code through unit testing and automation </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">You strive to be a productive engineer and use the latest tools and techniques to achieve this goal</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">You have experience building applications with node.js, preferably as serverless services, especially with Typescript.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">You are a legally eligible to work in the USA or Canada</span></li>
+</ul>
+<p><strong>Benefits & Perks</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Company sponsored Health, Dental and Vision Benefits</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">4 weeks paid vacation, 10 company holidays and paid parental leave</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Equity in RECUR</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Industry focused lunch and learns, company swag and the and flexibility to get the tooling you need to do your best work</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">The chance to work with incredibly passionate people on a mission to shape an industry!</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">This is a completely remote role and can work anywhere in the US</span></li>
+</ul>
+</div>
+</div><br/><br/>Please mention the word **POSH** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/d21a3addeeebec3e68412cdf7d7dc4e31671693826.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>bloXroute Labs</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,defi,crypto,testing,code,leader,reliability,go,healthcare,engineer,engineering,backend</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-bloxroute-labs-167885" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b style="font-size:18px;">ABOUT BLOXROUTE </b></div><div><br></div><div>bloXroute is the "Flash Boys" for DeFi. It created the first and only high performance blockchain distribution network (BDN) with the best solution for Ethereum, BSC, and Polygon. The bloXroute BDN and DeFi trading tools allow its users to win at crypto trading. The BDN utilizes a global network of servers optimized for network performance.  Nodes access this network through open source gateways and users can access it through the bloXroute public-API. </div><div><br></div><div>The BDN network propagates blockchain transactions and blocks closer to the speed of light. It provides traders with the speed and reliability required for crypto transactions. bloXroute is the leader in mempool services, block streaming and anything Defi performance. The BDN also allow blockchains to scale by speeding the time it takes to communicate the current state. The BDN fast communication reduce the blocksâ size and frequency limits. This is true for all consensus mechanisms, including Proof of Stake, Proof of Work, and DAGs.</div><div><br></div><div>We encourage you to apply even if you don't match all of the qualifications listed. </div><p></p><h4>Responsibilities </h4><p></p><p></p><ul>
+<li>Improve (suggest and implement) the speed of the BDN (Blockchain Distribution Network) based on the blockchain protocol, network and consensus model </li>
+<li>Create offerings that leverage the speed of the data that passes through the blockchain distribution network </li>
+<li>Integrate our core systems with other blockchains such as Ethereum, Binance Smart Chain, Polygon, Solana and other future blockchains on the roadmap </li>
+<div><br></div>
+</ul><p></p><h4>Requirements </h4><p></p><p></p><ul>
+<li>At least 5 years of experience with designing, building, testing and implementing highly scalable and distributed backend systems </li>
+<li>3+ years experience in Blockchain </li>
+<li>2+ years experience in Blockchain propagation, consensus (one of the following networks: Ethereum, Binance Smart Chain, Polygon and Solana) </li>
+<li>Expertise using Go language </li>
+<li>Creative, independent, can do attitude, and a great team player </li>
+<li>Ability to read, modify blockchain core code (geth, bor, prysm, ...)</li>
+</ul><div><b style="font-size:18px;">BENEFITS </b></div><div><br></div><div>bloXroute Labs offers competitive salaries, stock options, company paid healthcare benefits, 401k, unlimited PTO, remote work option and more. The benefits may vary based on global locations. We built a highly skilled team of business and engineering minds who are working on complex and innovative projects.</div><br/><br/>Please mention the word **ADORABLE** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +122,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1" align="right" target="_blank">Apply</a>
@@ -70,7 +157,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -132,7 +219,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
