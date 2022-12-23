@@ -10,7 +10,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-engineer-1" align="right" target="_blank">Apply</a>
@@ -65,7 +65,7 @@
                     <code>backend,cloud,CSS,developer</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/cloud-frontend-engineer-es-1525219" align="right" target="_blank">Apply</a>
