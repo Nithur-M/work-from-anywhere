@@ -10,7 +10,7 @@
                     <code>web3,defi,training,support,devops,financial,finance,cloud,leader,reliability,engineer,engineering</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-devops-engineer-uma-165917" align="right" target="_blank">Apply</a>
@@ -39,7 +39,7 @@
 <li>Passion for automation</li>
 </ul><div>
 <b style="font-size:18px;">Compensation</b><span style="font-size:18px;">:Â </span>
-</div><div><span style="font-size:11pt;">- UMA's pay packages include competitive salaries & substantial token options. Salaries range from $100-200K and your token allocation can grow with your voting rewards while you participate in the growing ecosystem.</span></div><div><span style="font-size:11pt;">- Philosophies for a culture that shows we care: Take vacation when you need it, family care, training and development (just to name a few)</span></div><div><span style="font-size:11pt;">- 100% remote, which means we encourage you to create the work environment that you thrive in.</span></div><div><br></div><div><b style="font-size:18px;">Our values:Â </b></div><div><span style="font-size:11pt;">1) We value each individualâs right to economic freedom</span></div><div><span style="font-size:11pt;">2) We value openness, honesty, and directness.Â </span></div><div><span style="font-size:11pt;">3) We value integrity.</span></div><div><span style="font-size:11pt;">4) We value iterative learning.</span></div><div><span style="font-size:11pt;">5) We value taking smart risks.Â We value creating an environment where everyone âdoes their best workâ.Â </span></div><div><br></div><div><b style="font-size:18px;">Still want to know more?</b></div><div><br></div><div><span style="font-size:10.5pt;">-Our team at UMA blends a mix of highly-sought engineers, developers and community builders with a traditional finance pedigree. Our fast-growing team includes a diverse background of experiences and has drawn talent from Google, Ernst & Young, IBM and Goldman Sachs. Weâre a decentralized protocol governed by community members across the globe in a DAO, and supported by Risk Labs Foundation.Â </span></div><div><br></div><div><span style="font-size:10.5pt;">-We value economic freedom, integrity, and taking smart risks. Youâll succeed at UMA if youâre a self-starter, kind, adaptable, and passionate about building impactful tools to make finance more equitable.Â </span></div><div><br></div><div><span style="font-size:10.5pt;">-UMA is a remote-first international team and we support everyone to create an environment where they can do their best work. UMA teammates take the time off that they need and support each other to create an environment where they are happy, healthy, and inspired. We pride ourselves on being family-friendly as well as nomad-friendly.</span></div><div><br></div><div><span style="font-size:10.5pt;">-You will not get bored at UMA. The OO empowers unlimited ideas, products, services and protocols. We are constantly developing, building, experimenting and evolving.</span></div><div><br></div><div><i style="font-size:15px;">Studies have shown that women and people of colour are less likely to apply to jobs unless they meet every single qualification. Risk Labs, the employing entity, is an equal opportunity employer and is dedicated to diverse, inclusive, and authentic workplaces. So,Â  if youâre excited about this role but your past experience doesnât perfectly align- we encourage you to apply anyways. We value you taking the chance. Risk labs will not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</i></div><div><br></div><div><br></div><br/><br/>Please mention the word **BRAINY** and tag RMzUuMjAzLjI1NS4xMTc= when applying to show you read the job post completely (#RMzUuMjAzLjI1NS4xMTc=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><div><span style="font-size:11pt;">- UMA's pay packages include competitive salaries & substantial token options. Salaries range from $100-200K and your token allocation can grow with your voting rewards while you participate in the growing ecosystem.</span></div><div><span style="font-size:11pt;">- Philosophies for a culture that shows we care: Take vacation when you need it, family care, training and development (just to name a few)</span></div><div><span style="font-size:11pt;">- 100% remote, which means we encourage you to create the work environment that you thrive in.</span></div><div><br></div><div><b style="font-size:18px;">Our values:Â </b></div><div><span style="font-size:11pt;">1) We value each individualâs right to economic freedom</span></div><div><span style="font-size:11pt;">2) We value openness, honesty, and directness.Â </span></div><div><span style="font-size:11pt;">3) We value integrity.</span></div><div><span style="font-size:11pt;">4) We value iterative learning.</span></div><div><span style="font-size:11pt;">5) We value taking smart risks.Â We value creating an environment where everyone âdoes their best workâ.Â </span></div><div><br></div><div><b style="font-size:18px;">Still want to know more?</b></div><div><br></div><div><span style="font-size:10.5pt;">-Our team at UMA blends a mix of highly-sought engineers, developers and community builders with a traditional finance pedigree. Our fast-growing team includes a diverse background of experiences and has drawn talent from Google, Ernst & Young, IBM and Goldman Sachs. Weâre a decentralized protocol governed by community members across the globe in a DAO, and supported by Risk Labs Foundation.Â </span></div><div><br></div><div><span style="font-size:10.5pt;">-We value economic freedom, integrity, and taking smart risks. Youâll succeed at UMA if youâre a self-starter, kind, adaptable, and passionate about building impactful tools to make finance more equitable.Â </span></div><div><br></div><div><span style="font-size:10.5pt;">-UMA is a remote-first international team and we support everyone to create an environment where they can do their best work. UMA teammates take the time off that they need and support each other to create an environment where they are happy, healthy, and inspired. We pride ourselves on being family-friendly as well as nomad-friendly.</span></div><div><br></div><div><span style="font-size:10.5pt;">-You will not get bored at UMA. The OO empowers unlimited ideas, products, services and protocols. We are constantly developing, building, experimenting and evolving.</span></div><div><br></div><div><i style="font-size:15px;">Studies have shown that women and people of colour are less likely to apply to jobs unless they meet every single qualification. Risk Labs, the employing entity, is an equal opportunity employer and is dedicated to diverse, inclusive, and authentic workplaces. So,Â  if youâre excited about this role but your past experience doesnât perfectly align- we encourage you to apply anyways. We value you taking the chance. Risk labs will not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</i></div><div><br></div><div><br></div><br/><br/>Please mention the word **BRAINY** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -54,7 +54,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-13" align="right" target="_blank">Apply</a>
@@ -113,7 +113,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-senior-devops-postgresql-admin-usd-80k-120k" align="right" target="_blank">Apply</a>
@@ -176,7 +176,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bear-group-devops-engineer" align="right" target="_blank">Apply</a>
@@ -235,7 +235,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>37 days ago</text>
+                <text>38 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/remotemore-devops-engineer" align="right" target="_blank">Apply</a>
