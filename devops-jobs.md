@@ -1,49 +1,5 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/c5d088f2403149f3e44690a5f708809c1671347766.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>UMA</h5>
-                    <h3>DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>web3,defi,training,support,devops,financial,finance,cloud,leader,reliability,engineer,engineering</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-devops-engineer-uma-165917" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><span style="font-size:18px;">Our mission is to make markets universally fair and accessible.</span></div><div><br></div><div><b style="font-size:18px;">Who is UMA?</b></div><div>
-<span style="font-size:11pt;">We are a team, driven by a shared </span><b style="font-size:11pt;">belief</b><span style="font-size:11pt;"> that markets should be universally accessible. Our </span><b style="font-size:11pt;">goal</b><span style="font-size:11pt;"> is to enable anyone to attain or transfer any form of financial risk, thus empowering everyone to participate in a universally accessible financial system. We have built an optimistic oracle for web3, and are building a robust ecosystem around that core solution. Our growing team is relatively small but incredibly mighty, and strives to be an engaging leader in the DeFi community.Â </span>
-</div><div><br></div><div><b style="font-size:18px;">Where are we headed:Â </b></div><div><span style="font-size:11pt;">- Weâre building foundational infrastructure for web3 and developing high quality products to showcase this.</span></div><div><span style="font-size:11pt;">- Our road-map is robust, and with an iterative and continuous development philosophy, weâre always building.Â </span></div><div><span style="font-size:11pt;">- Weâre a global team that values diverse perspectives and top tier talent. Weâre growing internationally with the support of top tier investors and advisors.</span></div><div><br></div><div><b style="font-size:11pt;">Where do you fit in?</b></div><div>
-<span style="font-size:11pt;">We're looking for a</span><b style="font-size:11pt;"> Sr. DevOps Engineer</b><span style="font-size:11pt;"> to join our team. You'll have an opportunity to work across our entire Ethereum-based web3 stack on cutting-edge technology that reshapes the global financial system. If you're a servant leader who values the ability to help other people excel, this is a role for you. You'll be a heavily relied on individual by the engineering team, and the organization at large.  </span>
-</div><h4>Responsibilities</h4><ul>
-<li>Managing a growing cloud infrastructure stack on GCP</li>
-<li>Designing and managing permissioning systems across our cloud infrastructure and other relevant systems</li>
-<li>Improving and building out CD pipelines</li>
-<li>Managing and securing DNS</li>
-<li>Owning alerting systems and processes (currently based on Pagerduty)</li>
-<li>Manually managing much of the above responsibilities and automating them over time to allow the organization to continuously expand the scope of these activities</li>
-</ul><h4>Skill and Qualifications</h4><ul>
-<li>4+ years as a sysadmin, systems engineer, site reliability engineer, reliability engineer, or related role in a professional setting</li>
-<li>Experience with Cloud Provider infrastructure, preferably GCP</li>
-<li>Experience with secrets management</li>
-<li>Experience with scripting languages like Bash or Python</li>
-<li>Experience using, configuring, and managing custom and open source software</li>
-<li>Passion for automation</li>
-</ul><div>
-<b style="font-size:18px;">Compensation</b><span style="font-size:18px;">:Â </span>
-</div><div><span style="font-size:11pt;">- UMA's pay packages include competitive salaries & substantial token options. Salaries range from $100-200K and your token allocation can grow with your voting rewards while you participate in the growing ecosystem.</span></div><div><span style="font-size:11pt;">- Philosophies for a culture that shows we care: Take vacation when you need it, family care, training and development (just to name a few)</span></div><div><span style="font-size:11pt;">- 100% remote, which means we encourage you to create the work environment that you thrive in.</span></div><div><br></div><div><b style="font-size:18px;">Our values:Â </b></div><div><span style="font-size:11pt;">1) We value each individualâs right to economic freedom</span></div><div><span style="font-size:11pt;">2) We value openness, honesty, and directness.Â </span></div><div><span style="font-size:11pt;">3) We value integrity.</span></div><div><span style="font-size:11pt;">4) We value iterative learning.</span></div><div><span style="font-size:11pt;">5) We value taking smart risks.Â We value creating an environment where everyone âdoes their best workâ.Â </span></div><div><br></div><div><b style="font-size:18px;">Still want to know more?</b></div><div><br></div><div><span style="font-size:10.5pt;">-Our team at UMA blends a mix of highly-sought engineers, developers and community builders with a traditional finance pedigree. Our fast-growing team includes a diverse background of experiences and has drawn talent from Google, Ernst & Young, IBM and Goldman Sachs. Weâre a decentralized protocol governed by community members across the globe in a DAO, and supported by Risk Labs Foundation.Â </span></div><div><br></div><div><span style="font-size:10.5pt;">-We value economic freedom, integrity, and taking smart risks. Youâll succeed at UMA if youâre a self-starter, kind, adaptable, and passionate about building impactful tools to make finance more equitable.Â </span></div><div><br></div><div><span style="font-size:10.5pt;">-UMA is a remote-first international team and we support everyone to create an environment where they can do their best work. UMA teammates take the time off that they need and support each other to create an environment where they are happy, healthy, and inspired. We pride ourselves on being family-friendly as well as nomad-friendly.</span></div><div><br></div><div><span style="font-size:10.5pt;">-You will not get bored at UMA. The OO empowers unlimited ideas, products, services and protocols. We are constantly developing, building, experimenting and evolving.</span></div><div><br></div><div><i style="font-size:15px;">Studies have shown that women and people of colour are less likely to apply to jobs unless they meet every single qualification. Risk Labs, the employing entity, is an equal opportunity employer and is dedicated to diverse, inclusive, and authentic workplaces. So,Â  if youâre excited about this role but your past experience doesnât perfectly align- we encourage you to apply anyways. We value you taking the chance. Risk labs will not discriminate on the basis of race, religion, colour, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</i></div><div><br></div><div><br></div><br/><br/>Please mention the word **BRAINY** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7619/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -54,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-13" align="right" target="_blank">Apply</a>
@@ -113,7 +69,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-senior-devops-postgresql-admin-usd-80k-120k" align="right" target="_blank">Apply</a>
@@ -176,7 +132,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bear-group-devops-engineer" align="right" target="_blank">Apply</a>
@@ -235,7 +191,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>38 days ago</text>
+                <text>39 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/remotemore-devops-engineer" align="right" target="_blank">Apply</a>
