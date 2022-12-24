@@ -10,7 +10,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-engineer-1" align="right" target="_blank">Apply</a>
@@ -51,104 +51,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-engineer-1">https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-engineer-1</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1525219/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Signaloid</h5>
-                    <h3>Cloud Frontend Engineer (ES)</h3>
-                </td>
-                <td width="300">
-                    <code>backend,cloud,CSS,developer</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/cloud-frontend-engineer-es-1525219" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Signaloid provides efficient computing hardware and software technologies to quantify, transmit, and track data uncertainty in computations on empirical data. Our technologies are used in applications including materials modeling, autonomous systems, computational finance, machine learning, and noisy intermediate-scale quantum computing. Our team consists of contrarian engineers with combined research, engineering, and leadership experience from Apple, ARC, ARM, Bell Labs, CMU, University of Cambridge, EPFL, IBM Research, Max Planck, MIT, and NEC Labs. Find out more at <a class="external" href="https://signaloid.com/" rel="nofollow">https://signaloid.com</a> and try out the Signaloid uncertainty-tracking computing platform by signing up for free at <a class="external" href="https://get.signaloid.io/" rel="nofollow">https://get.signaloid.io</a>.</p>
-<p> </p>
-<div class="h3">Role Description</div>
-<p>In this role, you will:</p>
-<ul style="">
-<li style="">Lead the implementation of new front-end functionality of the Signaloid Cloud Developer Platform</li>
-<li style="">Be responsible for extending the testing and QA infrastructure of the Signaloid Cloud Developer Platform</li>
-<li style="">Be responsible for formulating your own objectives to deliver on company-wide objectives and key results</li>
-<li style="">Be responsible for taking the initiative to identify whether the quality level of your implementation meets both explicit and implicit design and quality objectives of the team</li>
-<li style="">Be responsible for delivering new functionality and tests on a regular release schedule and to work with other parts of the engineering and commercial teams</li>
-</ul>
-<p><strong>Requirements</strong></p>
-<ul style="">
-<li style="">Undergraduate or masters degree in computer engineering, computer science, or a related discipline</li>
-<li style="">1+ years experience working as a frontend engineer</li>
-<li style="">Proficiency in HTML5, CSS, and JavaScript/TypeScript.</li>
-<li style="">Experience in modern web frameworks (e.g., Vue.js, React.js)</li>
-<li style="">Experience in frontend state management (e.g., Vuex, Redux)</li>
-<li style="">Experience developing client-side web applications</li>
-<li style="">Experience working with Git</li>
-<li style="">Experience writing testable re-usable code, associated tests, and documentation.</li>
-<li style="">Experience working on full-stack applications collaborating with backend engineers</li>
-<li style="">Ability to design clean, intuitive and pixel-perfect user interfaces</li>
-<li style="">Excellent written and verbal communication skills</li>
-<li style="">Good design sensibilities</li>
-<li style="">A willingness to listen to people until they feel understood</li>
-<li style="">Honesty, empathy, and a willingness to see the world from the viewpoint of others</li>
-</ul>
-<p><strong>Additional Desirable Skills and Experience:</strong></p>
-<ul style="">
-<li style="">Experience working at a pre-seed round software startup</li>
-<li style="">Experience with GraphQL</li>
-<li style="">Experience with responsive and accessible design</li>
-<li style="">Understanding of SEO principles.</li>
-<li style="">Experience working with UX/UI/Product designers</li>
-<li style="">Knowledge of good CI/CD practices</li>
-<li style="">Experience deploying cloud applications</li>
-<li style="">Experience developing full stack applications</li>
-<li style="">Experience with interface design tools (e.g., Figma, Canva, Adobe XD)</li>
-<li style="">Experience in Test-Driven Development</li>
-</ul>
-<p> </p>
-<div class="h3">Our Recruiting Procedure</div>
-<ul style="">
-<li style="">All positions require you to write a one-page cover letter. We use this to screen for communication skills, as clear communication is essential in a remote working environment.</li>
-<li style="">Applicants who pass the cover letter screening receive an initial 15-minute Zoom screening call with a member of our People Development Team to discuss your CV.</li>
-<li style="">Applicants who pass the screening interview, regardless of the position you are interviewing for, will be given a real-world project to solve over the course of one week (or two weeks if there are currently employed in a full-time job). In exchange for your time, we give you two books relevant to the rest of the interview process and £500 worth of free credits on the Signaloid Cloud Developer Platform.</li>
-<li style="">Applicants who successfully complete the project are invited for a set of one-hour interviews with people from our core teams (there will be up to six such interviews) which will use the project you completed as a discussion point.</li>
-<li style="">In the final stage, applicants are invited for an on-site interview with members of the team in Cambridge.</li>
-</ul>
-<p><strong>Benefits</strong></p>
-<p>You will get to see your work very quickly deployed in products used by people in the real world, including:</p>
-<ul style="">
-<li style="">Signaloid Cloud Developer Platform</li>
-<li style="">Signaloid Cloud Computing Engine</li>
-<li style="">Signaloid Hardware Modules</li>
-</ul>
-<p><strong>A flexible remote-first work environment</strong></p>
-<ul style="">
-<li style="">Be part of an international team with the flexibility to choose where you live</li>
-<li style="">You can work any set of eight hours in a day provided four of those hours overlap with the working day in Zurich</li>
-<li style="">Join the rest of the team every three months for an in-person session somewhere in Europe</li>
-</ul>
-<p><strong>Competitive compensation</strong></p>
-<ul style="">
-<li style="">All roles pay in the top decile of similar roles in London, adjusted for the OECD cost of living in your chosen domicile country</li>
-<li style="">Yearly bonus based on company's <em>Objectives and Key Results (OKR)</em> performance and bi-yearly bonus based on your project team's OKR performance</li>
-<li style="">Simple transparent compensation across the company, with four pay levels, in all roles, based on skill level: Contributor, Senior Contributor, Lead Contributor, and Principal Contributor</li>
-<li style="">All full-time employees receive attractive stock options package</li>
-</ul>
-<p><strong>A driven but respectful environment</strong></p>
-<ul style="">
-<li style="">Our motto is "We're all going to die": We never speak ill of others even if we differ in our viewpoints; we show up every day with a sense of urgency; we treat each other with respect as though each day were our last.</li>
-</ul>
-<img src="https://remotive.com/job/track/1525219/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
