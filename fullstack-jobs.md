@@ -10,7 +10,7 @@
                     <code>design,web3,nft,ethereum,react,security,testing,test,ui,code,javascript,typescript,api,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-mid-full-stack-engineer-earnifi-166883" align="right" target="_blank">Apply</a>
@@ -58,7 +58,7 @@
         <li>â¥ 4 work-hour overlap with MST time zone</li>
         <li>Prior experience with monorepos</li>
         <li>Degree in computer science or code school</li>
-</ul><br/><br/>Please mention the word **JUBILATION** and tag RMTA3LjE3OC4yMzIuMjQ3 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMjQ3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **JUBILATION** and tag RMzQuMTQ1LjE0MS43OA== when applying to show you read the job post completely (#RMzQuMTQ1LjE0MS43OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
