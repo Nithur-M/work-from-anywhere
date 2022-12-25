@@ -1,27 +1,65 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/0db7bb9aebee4e01f8ce40fb317a28fb1671347778.png" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1530208/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Swish</h5>
-                    <h3>Mobile Web Product Manager</h3>
+                    <h5>Constructor</h5>
+                    <h3>Product Manager</h3>
                 </td>
                 <td width="300">
-                    <code>web,manager,design,technical,growth,mobile,lead,digital nomad</code>
+                    <code>education,go,marketing,product manager</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-mobile-web-product-manager-swish-165920" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/product/product-manager-1530208" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><span style="font-size:12pt;">Swish is a world-class development studio which teams have delivered products for Google, Microsoft, Gatorade, Nasdaq, Factset, and other major enterprises. </span></div><div><span style="font-size:12pt;">The Apps team at Swish is looking for talented Product Managers (PM) to own products and projects from conception to delivery and bridge the technical and business worlds.</span></div><div><br></div><div><span style="font-size:12pt;">PMs ensure a flawless project lifecycle both from client and devs teams perspectives. </span></div><div><br></div><div><span style="font-size:12pt;">As an Apps Product Manager, as soon as a project starts, you will be the interface between Swish and the client. You are in charge of setting direction and owning the project. This includes setting up the team to work on the project, creating sprints for the development and design team as well as leading the team throughout the entire project lifecycle. </span></div><div><br></div><div><span style="font-size:12pt;">Prior experience with Apps and Website creation projects is required but we are flexible as to which paths youâve taken to get it.  You should have prior experience in taking part in developing high-quality apps and be excited about doing this in a way that transforms how companies run their businesses.</span></div><div><br></div><div><span style="font-size:12pt;">We design apps that deliver business results to our clients. Be it growing their visibility online, increasing the performance of their online platform, improving UX, we always keep in mind the business KPIs (usually- business growth and sales).</span></div><div><br></div><div><span style="font-size:12pt;">To lead such projects, we are looking for individuals who are passionate about pushing the technological paradigm to the next level and can lead the design and development of scalable applications. </span></div><div><br></div><div><span style="font-size:12pt;">A successful candidate will bring a passion for excellent customer service and the ability to deliver results within a fast-moving and agile environment.</span></div><div><br></div><div><span style="font-size:12pt;">You are driven by a desire to create a great client experience and have the spirit of a team player as well as a leader.  </span></div><br>Responsibilities<br><li>Be the interface between Swish and the client</li><li>Onboard new clients and projects</li><li>Create the team and the sprints for the project</li><li>Lead the developers team throughout the entire project lifecycle:</li><li>Setting-up responsibilities and tasks</li><li>Creating stories</li><li>Reviewing deliverables</li><li>Thinking through edge cases of designs </li><li>Ensuring timelines are respected</li><li>Coordinating individual deliverables and managing interdependencies </li><li>Operating as the open channel of communication between the internal team and the client team </li><li>Present deliverables to the client and take feedback</li><li>Collaborate with the Growth and Fulfillment teams to improve processes and project lifecycle </li><li>Build and maintain rapport with clients you have worked with</li><br>Requirements<br><li>Prior experience managing apps-related projects</li><li>5+ years experience in management/customer experience </li><li>Ability to streamline and organize projects and people</li><li>A keen aptitude for sharp feedback and structured communication</li><li>An eye for efficient design and UI</li><li>Excellent communication skills allowing you to adapt to different stakeholders</li><li>Ability to present technical concepts in a business-friendly fashion</li><li>Strong passion for innovation</li><li>Strong drive to create an excellent client experience</li><li>Independent and self-driven</li><br>Bonus Points<br><li>Experience with deploying tools to manage builds/versions/privileges </li><li>Experience in small startÂ­up environments helping large enterprises</li><li>Experience with a distributed team / remote work</li><div><b style="font-size:12pt;">About Swish.</b></div><div><br></div><div>
-<span style="font-size:12pt;">Launched in February 2013, </span><a href="http://www.swishlabs.com/" style="font-size:10.5pt;" class="postings-link" rel="noopener noreferrer nofollow">Swish</a><span style="font-size:12pt;"> is a fast-growing business with an innovative working culture and teams spanned across the world with teams in Toronto, San Francisco, Berlin, Auckland, </span><span style="font-size:16px;">Brussels</span><span style="font-size:12pt;">, Medellin, and more.</span>
-</div><div><br></div><div><span style="font-size:12pt;">We create products for successful business using cutting-edge technologies: Blockchain, Machine Learning, and Apps Dev. Working with Swish puts you in contact with prestigious brands, wherever your base is. We are a 100% remote-work company because we believe it is everyoneâs choice to live and work the way they prefer.</span></div><div><br></div><div><span style="font-size:12pt;">Work is organized in sprints  - 2 weeks periods to which, as a member of our talent community, you choose to commit. You always have the choice to accept or decline a sprint, or take-on multiple sprints simultaneously.</span></div><div><br></div><div><span style="font-size:12pt;">We let members choose what suits them best depending on their current situation: family, travel, studies, finance. We know life is not linear and we respect the humans behind the screens.</span></div><div><br></div><div><span style="font-size:12pt;">Our work ethic relies on six core values: Transparency, Directness, Meritocracy, Autonomy, Responsibility, Continuous Learning.</span></div><div><br></div><div><span style="font-size:12pt;">Ensuring a diverse and inclusive workplace where we learn from each other is core to our values. We welcome people of different backgrounds, experiences, abilities, and perspectives. We are an equal opportunity employer and a fun place to work.</span></div><div><br></div><div><span style="font-size:12pt;">Join the future of work today.</span></div><br/><br/>Please mention the word **RIGHTEOUSNESS** and tag RMTA3LjE3OC4yMzIuMjQ3 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMjQ3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p>We are seeking an exceptional Product Manager who can dive deep with engineering to understand technical challenges and constraints; work with sales to understand prospective customer’s pain points; and coordinate ideal messaging with marketing -- all while maintaining focus on our customers.</p>
+<p>This person will be as talented at communication as they are at analysis and user discovery. Recognizing that a product manager is more effective at leading through persuasion than decree, this individual is expert in artful communication across functional roles, teams and personalities to influence company trajectory. Furthermore, the ideal candidate should be just as comfortable discussing search internally as they are with external partners and current or prospective customers.</p>
+<p> </p>
+<p>Day-to-day you will:</p>
+<ul style="">
+<li style="">Create and socialize a compelling roadmap that translates into an iterative and value-driven backlog.</li>
+<li style="">Orchestrate go-to-market activities with sales and marketing.</li>
+<li style="">Conduct customer and user interviews to better understand pain-points and product opportunities.</li>
+<li style="">Drive cross-team coordination and collaboration with your fellow Product Managers to maximize delivered customer value.</li>
+<li style="">Work to support major new customer onboarding where necessary.</li>
+<li style="">Perform competitive research and analysis, and regularly report it back to the team.</li>
+<li style="">Research market trends, and make sure we're planning for where the market will be in a few years, not just today.</li>
+<li style="">Drive product definition, strategy, long term vision and you have autonomy to go after the largest opportunities, regardless of where they fall within the user journey.</li>
+</ul>
+<p>You would be a good fit if:</p>
+<ul style="">
+<li style="">You have 2 years of experience leading the definition and delivery of products / features / projects which have a high degree of cross-functional complexity and integration.</li>
+<li style="">You seek an entrepreneurial environment and have a track-record of delivering results in a high-growth environment.</li>
+<li style="">You have excellent analytical abilities and can effectively use data to drive decisions.</li>
+<li style="">You are motivated to deliver value in production and aren't satisfied with works-in-theory solutions.</li>
+<li style="">You have experience running product in a B2B SaaS context or think you can learn the ropes quickly enough.</li>
+<li style="">You are collaborative, value learning and are driven to accomplish great things.</li>
+<li style="">You are excited to bring learnings from your experience to augment our product culture.</li>
+<li style="">You have demonstrated success working with teams including a significant number of remote and distributed members, particularly in engineering roles.</li>
+<li style="">Familiarity working in an agile software development environment with empowered teams.</li>
+</ul>
+<p><strong>Benefits</strong></p>
+<ul style="">
+<li style="">Unlimited vacation time -we strongly encourage all of our employees take at least 3 weeks per year</li>
+<li style="">A competitive compensation package including stock options</li>
+<li style="">Company sponsored US health coverage (100% paid for employee)</li>
+<li style="">Fully remote team - choose where you live</li>
+<li style="">Work from home stipend! We want you to have the resources you need to set up your home office</li>
+<li style="">Apple laptops provided for new employees</li>
+<li style="">Training and development budget for every employee, refreshed each year</li>
+<li style="">Maternity &amp; Paternity leave for qualified employees</li>
+<li style="">Work with smart people who will help you grow and make a meaningful impact</li>
+</ul>
+<p><strong>Diversity, Equity, and Inclusion at Constructor</strong></p>
+<p>At Constructor.io we are committed to cultivating a work environment that is diverse, equitable, and inclusive. As an equal opportunity employer, we welcome individuals of all backgrounds and provide equal opportunities to all applicants regardless of their education, diversity of opinion, race, color, religion, gender, gender expression, sexual orientation, national origin, genetics, disability, age, veteran status or affiliation in any other protected group.</p>
+<img src="https://remotive.com/job/track/1530208/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
