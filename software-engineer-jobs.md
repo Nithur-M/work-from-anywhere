@@ -10,7 +10,7 @@
                     <code>software,nft,security,architect,technical,testing,code,serverless,typescript,node,lead,senior,go,engineer,engineering</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-blockchain-software-engineer-recur-167894" align="right" target="_blank">Apply</a>
@@ -71,7 +71,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">This is a completely remote role and can work anywhere in the US</span></li>
 </ul>
 </div>
-</div><br/><br/>Please mention the word **POSH** and tag RMTA3LjE3OC4yMzIuMjQ3 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMjQ3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **POSH** and tag RMzQuMTQ1LjE0MS43OA== when applying to show you read the job post completely (#RMzQuMTQ1LjE0MS43OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -86,7 +86,7 @@
                     <code>software,defi,crypto,testing,code,leader,reliability,go,healthcare,engineer,engineering,backend</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-bloxroute-labs-167885" align="right" target="_blank">Apply</a>
@@ -107,42 +107,7 @@
 <li>Expertise using Go language </li>
 <li>Creative, independent, can do attitude, and a great team player </li>
 <li>Ability to read, modify blockchain core code (geth, bor, prysm, ...)</li>
-</ul><div><b style="font-size:18px;">BENEFITS </b></div><div><br></div><div>bloXroute Labs offers competitive salaries, stock options, company paid healthcare benefits, 401k, unlimited PTO, remote work option and more. The benefits may vary based on global locations. We built a highly skilled team of business and engineering minds who are working on complex and innovative projects.</div><br/><br/>Please mention the word **ADORABLE** and tag RMTA3LjE3OC4yMzIuMjQ3 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMjQ3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/9371/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sticker Mule</h5>
-                    <h3> Software engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>63 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/9371/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
-</p>
-
-<div><strong>About Sticker Mule</strong></div><div>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a  globally distributed team who cares deeply about delivering a great customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.</div><div><br></div><div><a href="https://www.stickermule.com/about"><strong>See more about our teams here</strong></a></div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. Varied, interesting technical challenges to solve</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div><strong>We like you to know</strong></div><div>1. Docker</div><div>2. NextJS</div><div>3. React</div><div>4. NodeJS</div><div>5. GraphQL</div><div>6. Postgres</div><div>7. Redis</div><div>8. Familiarity with Ruby</div><div>9. Excellent communication skills (English)</div><div>10. Degree in Computer Science or equivalent practical experience<br><br><strong>Challenges</strong>
-</div><div>1. Improve and expand our React shared components gallery</div><div>2. Migrate a large Rails code base to JavaScript front-ends and back-ends</div><div>3. Maintain optimal front-end performance on desktop and mobile</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. $112,000/yr</div><div>2. $20,000 signing bonus</div><div>3. 28 vacation days (+ holidays based on your country of residence) </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-1</a></p>
-
+</ul><div><b style="font-size:18px;">BENEFITS </b></div><div><br></div><div>bloXroute Labs offers competitive salaries, stock options, company paid healthcare benefits, 401k, unlimited PTO, remote work option and more. The benefits may vary based on global locations. We built a highly skilled team of business and engineering minds who are working on complex and innovative projects.</div><br/><br/>Please mention the word **ADORABLE** and tag RMzQuMTQ1LjE0MS43OA== when applying to show you read the job post completely (#RMzQuMTQ1LjE0MS43OA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -157,7 +122,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -219,7 +184,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
