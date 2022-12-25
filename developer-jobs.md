@@ -10,7 +10,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-net-developer-3" align="right" target="_blank">Apply</a>
@@ -88,7 +88,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -150,7 +150,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/whitespectre-experienced-frontend-react-shopify-developer" align="right" target="_blank">Apply</a>
@@ -241,7 +241,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>35 days ago</text>
+                <text>36 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -306,7 +306,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/credit-glory-senior-ruby-on-rails-developer-1" align="right" target="_blank">Apply</a>
@@ -370,7 +370,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>63 days ago</text>
+                <text>64 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/designfiles-remote-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -445,7 +445,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>102 days ago</text>
+                <text>103 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -519,7 +519,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>123 days ago</text>
+                <text>124 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -631,7 +631,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>512 days ago</text>
+                <text>513 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -697,7 +697,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -766,7 +766,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -843,7 +843,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -869,7 +869,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -932,73 +932,6 @@
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;"><a href="https://build.a.team/remotivereferral" rel="nofollow">A·Team</a> is a new type of company for a new kind of independent software builder. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </span></p>
 <p dir="ltr" style="line-height: 1.38; margin-top: 12pt; margin-bottom: 12pt;"><span style="font-variant-numeric: normal; font-variant-east-asian: normal; vertical-align: baseline;">To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</span></p>
 <img src="https://remotive.com/job/track/814298/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1446640/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Creable</h5>
-                    <h3>Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>CSS,developer,react,social media</code>
-                </td>
-                <td width="200">
-                <text>29 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/full-stack-developer-1446640" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>About Creable</strong></p>
-<p>Hi there ✋</p>
-<p>At Creable (<a href="https://creable.com" rel="nofollow">https://creable.com</a>) we're building the world's biggest real-time Influencer database across all relevant Social Media platforms (YouTube, Instagram, TikTok, Facebook) with more (Twitch, Snapchat, Spotify, Twitter, LinkedIn, etc.) coming soon!</p>
-<p>Our software helps Creators &amp; Managers find high-quality Brand Deals and Brands to find the highest ROI Influencers.</p>
-<p><strong> </strong></p>
-<p><strong>What you’ll do</strong></p>
-<ul>
-<li>Discuss the weekly sprint with the dev. team every Monday morning</li>
-<li>Research, implement and test solutions for your assigned weekly tasks</li>
-<li>Implement beautiful and delightful UIs with Next.js, React, and Typescript that are responsive across all modern platforms</li>
-<li>Review PRs </li>
-<li>Write E2E tests</li>
-<li>Write serverless functions and scalable REST APIs</li>
-</ul>
-<p> </p>
-<p><strong>How we work</strong></p>
-<ul>
-<li>We plan weekly sprints on Friday and manage them in Linear</li>
-<li>We use Notion for documentation (notes, research)</li>
-<li>We (internally) communicate via Slack</li>
-<li>We use Loom for video recordings and to avoid meetings</li>
-<li>When we have meetings we use either Zoom or Google Meet</li>
-<li>We design in Figma</li>
-</ul>
-<p> </p>
-<p><strong>Tech Stack</strong><strong><br></strong></p>
-<ul>
-<li>React &amp; Next.js</li>
-<li>Tailwind CSS<strong><br></strong></li>
-<li>Firebase (DB, Auth, Storage)</li>
-<li>Vercel</li>
-</ul>
-<p> </p>
-<p><strong>Job requirements</strong></p>
-<ul>
-<li>At least 5 years of professional development experience</li>
-<li>Very good oral and written English</li>
-<li>Strong communication skills via text and audio/video</li>
-<li>Strong work-ethic, ambition and will to get sh*t done together with your team</li>
-<li>Positive can-do attitude</li>
-<li>Proficient in our Tech Stack</li>
-<li>Full-time commitment to Creable (no part-time work or commitment to other projects)</li>
-</ul>
-<img src="https://remotive.com/job/track/1446640/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
