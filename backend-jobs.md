@@ -10,7 +10,7 @@
                     <code>design,web3,solidity,crypto,frontend,technical,support,software,code,scrum,financial,nodejs,nosql,mobile,lead,junior,excel,telecom,go,golang,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-lead-backend-engineer-giant-protocol-167874" align="right" target="_blank">Apply</a>
@@ -69,7 +69,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">401k with company match</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Annual professional development budget</span></li>
 </ul>
-</div><br/><br/>Please mention the word **GALORE** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **GALORE** and tag RMTA3LjE3OC4yMzkuMTky when applying to show you read the job post completely (#RMTA3LjE3OC4yMzkuMTky). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -84,7 +84,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-1" align="right" target="_blank">Apply</a>
