@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-13" align="right" target="_blank">Apply</a>
@@ -69,7 +69,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/lifetimely-senior-devops-postgresql-admin-usd-80k-120k" align="right" target="_blank">Apply</a>
@@ -122,65 +122,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0001/4828/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bear Group</h5>
-                    <h3> DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>14 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bear-group-devops-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0001/4828/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Seattle, Wa
-    <br /><strong>URL:</strong> <a href="https://www.beargroup.com/">https://www.beargroup.com/</a>
-</p>
-
-<div>Bear Group is a leading web development firm dedicated to building and supporting custom website solutions that businesses can count on. Our approachable team of experts helps navigate custom website projects of every size and complexity. With high standards of integrity guiding us, we seek to understand client pain points, offer our best guidance, and build solutions that mold technology to fit a business.</div><div><br></div><div>We’re looking for a motivated individual ready to roll up your sleeves and join our talented team. Work alongside some of the brightest in the web development industry in a fully remote, rewarding and down-to-earth company culture. This is a place where you can thrive. </div><div><br></div><div>The DevOps Engineer needs to be self-motivated and able to work independently most of the time, but we have a friendly and capable team to collaborate with along the way. The ideal person is reliable and consistent with a mind for standardizing and streamlining processes, and able to efficiently find the root cause when things don't go to plan.</div><div><br></div><div>The type of work depends on the client, but often includes:</div><ul>
-<li>Execute safe and efficient deployment procedures to QA, staging, and production environments for Bear Group clients</li>
-<li>Collaborate with Team Leads to review and merge code prior to deployments</li>
-<li>Handle escalation support and help troubleshoot and resolve issues that may arise in client’s server environments</li>
-<li>Work directly with all members of the project management team on environment-related items</li>
-<li>Engage with client IT department and technical support for hosting companies</li>
-<li>​​Support developers with new hire onboarding, local environment setup, and keeping developers unblocked from environment-related issues in their day-to-day coding tasks</li>
-</ul><div><br></div><div><strong>General Qualifications</strong></div><ul>
-<li>Bachelor’s degree plus 5+ years in a DevOps focused role</li>
-<li>Preference for client service environments such as web development firms, technical support teams, interactive agencies, or graphic design firms</li>
-<li>Independence, enthusiasm, superb communication, attention to detail, and organization skills</li>
-<li>Experience administrating Linux based servers, including Apache and Nginx, ideally with mod-php or php-fpm</li>
-<li>Understanding of web application frameworks, ideally PHP based</li>
-<li>Experience handling complex merges and conflict resolution in git</li>
-<li>Working knowledge of Docker</li>
-<li>Understanding of networking concepts, including DNS, routing, and caching</li>
-<li>Understanding of database concepts and administration</li>
-<li>Familiarity with web hosting platforms such as AWS, Linode, Rackspace, Acquia, Pantheon, Platform.sh</li>
-</ul><div><br></div><div><strong>Working at Bear Group</strong></div><div>In addition to competitive pay, we provide a range of benefits and resources to our employees, including: </div><ul>
-<li>Medical, vision, and dental insurance</li>
-<li>3 weeks of PTO plus approximately 10 vacation days annually</li>
-<li>401k with matching</li>
-<li>$1,500 annual education stipend</li>
-<li>Software and home equipment stipend for the tools that you prefer to use</li>
-</ul><div>
-<br>To learn more about us, visit <a href="http://www.beargroup.com">www.beargroup.com</a>. We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bear-group-devops-engineer">https://weworkremotely.com/remote-jobs/bear-group-devops-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -191,7 +132,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>42 days ago</text>
+                <text>44 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/remotemore-devops-engineer" align="right" target="_blank">Apply</a>
@@ -229,6 +170,76 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/remotemore-devops-engineer">https://weworkremotely.com/remote-jobs/remotemore-devops-engineer</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1533358/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bitquery</h5>
+                    <h3>DevOps Engineer (Middle / Senior)</h3>
+                </td>
+                <td width="300">
+                    <code>api,AWS,cloud,crypto</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/devops-engineer-middle-senior-1533358" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Bitquery</strong> is an API-first product company dedicated to power and solve blockchain data problems using the ground truth, on-chain data. Bitquery extracts and presents valuable data via APIs. These APIs are delivering solutions to multiple verticals like Decentralize Finance (DeFi), DEX Arbitrage Analytics, Crypto Surveillance &amp; Forensics across all major blockchains like Bitcoin, Ethereum, EOS, Tezos.</p>
+<p>We are an international company of developers of software for the analysis of decentralized data (40+ chains). Bitquery is a distributed team. Currently, are looking for a full-time DevOps engineer to further develop infrastructure, automation of various processes like software deployment, scaling and clustering.<br><br><strong>Roles &amp; </strong><strong>Responsibilities</strong></p>
+<ul style="">
+<li style="">Creation of architecture, and documentation that will lead to consistent reliability, scalability, security, and performance of the 24/7 servers</li>
+<li style="">Developing and maintaining technical infrastructure and system software components</li>
+<li style="">Enhancing processes that allow for proper testing and validation of releases that goes from development to staging to production environments</li>
+<li style="">Effectively interacting with other team members to accomplish shared projects</li>
+<li style="">Stay up to date on the latest technology in our space</li>
+</ul>
+<p> </p>
+<p><strong>Requirements</strong></p>
+<ul style="">
+<li style="">5+ years of work experience implement, troubleshooting, and supporting infrastructure software and distributed systems</li>
+<li style="">experience with cloud platforms (e. g. AWS)</li>
+<li style="">scripting writing and modifying code experience to improve monitoring and automation</li>
+<li style="">deep understanding of Docker, Docker Compose, Kubernetes, Helm Charts</li>
+<li style="">experience in GitOps practices</li>
+<li style="">TCP/IP networking knowledge, Linux architecture, p2p networks, micro-services and distributed systems</li>
+<li style="">good at adapting to new tools, processes, and challenges</li>
+<li style="">experience with set up and configuring blockchain nodes will be a plus</li>
+</ul>
+<p> </p>
+<p><strong>Our Tech stack:</strong></p>
+<ul style="">
+<li style="">Infrastructure: Bare-metal / AWS</li>
+<li style="">Databases: Clickhouse / MySQL</li>
+<li style="">SCM: git / github</li>
+<li style="">Message broker: Kafka</li>
+<li style="">Repository: Nexus</li>
+<li style="">CI/CD: Jenkins</li>
+<li style="">Monitoring: Icinga 2, Grafana, Prometheus, Victoria metrics, ELK</li>
+<li style="">Orchestration: k8s, Ansible, Terraform</li>
+<li style="">Containers: LXC, Docker</li>
+<li style="">Scripting: Python, Golang, Ruby, Groovy</li>
+<li style="">OS: Debian/Ubuntu</li>
+<li style="">Others: Docker compose, IPSec</li>
+</ul>
+<p><strong>Benefits</strong></p>
+<ul style="">
+<li style="">Opportunity to work &amp; collaborate with a truly global team spread across 5 countries</li>
+<li style="">Work from anywhere in the world</li>
+<li style="">Choose your own work hours</li>
+<li style="">Yearly trip with Bitquery team to any remote destination</li>
+<li style=""><strong>A promise to finish the interview processes within 1-2 weeks<br><br></strong></li>
+</ul>
+<p><strong><em>Being a startup we take decisions &amp; move fairly fast, while giving candidates great experience with the interview process. We have a flat hierarchy in the organization where we empower individuals and provide an opportunity to deliver results as per his/her working style. Come and join a great culture and build Bitquery with us.</em></strong></p>
+<img src="https://remotive.com/job/track/1533358/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
