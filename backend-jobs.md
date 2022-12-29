@@ -1,5 +1,66 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/6d030db936cd08ad412dd2bb851c72c21672125350.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>aXedras</h5>
+                    <h3>Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>design,frontend,code,web,java,node,go,engineer,linux,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-axedras-170338" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h3>Who we are</h3>
+
+<p>aXedrasâ¢ vision is to connect and digitalize the precious metal industry. We combine bullion market expertise and cutting-edge information technology to create significant benefits for the stakeholders of the precious metals industry.</p>
+
+<h3>What we do</h3>
+
+<p>aXedrasâ¢ builds and runs the Bullion Integrity Ledgerâ¢ - a trusted digital network based on latest DLT - on which market participants in the precious metals industry can interact with each other to maintain shared ledgers of product and ownership information. The technology of the Bullion Integrity Ledgerâ¢ enables to digitally reflect manifold precious metals industry use cases and applications along the entire value-chain.</p>
+
+<h3>What you will do</h3>
+
+<p>You will have the opportunity to join an innovative and agile IT project within a fast growing and dynamic start-up company. You will to be part of a highly motivated, cross-functional team! You will get the chance to take a driving role in the design and development of the entire stack, with a focus on the microservice components.</p>
+
+<h3>Our Stack</h3>
+
+<p>We develop on GitLab, using Kotlin, Gradle, Docker, NodeJS, React, Terraform and Ansible. An instance of the aXedrasâ¢ stack is composed of a R3 Corda blockchain node, a set of JVM/Spring-Boot-based microservices to control and connect the node to our frontend, and the React-based user interface. Each network member owns its own stack, which is hosted and operated by the customers either on-premise or in the cloud.</p>
+
+<h3>Who we are looking for</h3>
+
+<ul>
+        <li>Applications of all seniority levels are welcome but experience with designing and developing backend applications using Java 8 or another JVM language (preferably Kotlin) is expected.</li>
+        <li>Masterâs/Bachelorâs degree in computer science or in a related field</li>
+        <li>Capable of bootstrapping a backend project from scratch</li>
+        <li>Proficient in structuring and developing RESTful API</li>
+        <li>Knowledge of Spring Boot, JPA/Hibernate, SQL, Gradle</li>
+        <li>Solid understanding of distributed systems, microservice architecture, IPC/RPC and serialization frameworks, web services and network protocols</li>
+        <li>Experience with DevOps, CI/CD, build/deployment-automation, Gitlab pipelines, Linux and Docker</li>
+        <li>Knowledge of DLT/blockchain and specifically R3 Corda is a plus</li>
+        <li>Non JVM experience like Go or Rust experience is a plus</li>
+        <li>Understanding of frontend development in React, Angular, etc. is a plus</li>
+        <li>Proficient in code versioning with Git</li>
+        <li>Fixed (Swiss work permit & residency required) or contractor (remote worldwide, +/- 2h CET preferred) employment is possible</li>
+        <li>Proficient in English</li>
+        <li>German, Italian or Spanish is a plus</li>
+</ul>
+
+<h3>How to apply</h3>
+
+<p>Please send your full application CV. A motivation or cover letter is not required. Also, the diplomas specified in your CV do not have to be attached and will be checked at a later stage.</p><br/><br/>Please mention the word **REVELATION** and tag RMTA3LjE3OC4yMzIuMTgx when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/fb987ef73f03713536c7fa867a7735ed1671693776.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +71,7 @@
                     <code>design,web3,solidity,crypto,frontend,technical,support,software,code,scrum,financial,nodejs,nosql,mobile,lead,junior,excel,telecom,go,golang,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-lead-backend-engineer-giant-protocol-167874" align="right" target="_blank">Apply</a>
@@ -69,7 +130,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">401k with company match</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Annual professional development budget</span></li>
 </ul>
-</div><br/><br/>Please mention the word **GALORE** and tag RMTA3LjE3OC4yMzkuMTky when applying to show you read the job post completely (#RMTA3LjE3OC4yMzkuMTky). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **GALORE** and tag RMTA3LjE3OC4yMzIuMTgx when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -84,7 +145,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-1" align="right" target="_blank">Apply</a>
