@@ -1,5 +1,70 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/0a46a83937ab4a1c76f104015e6fa0ab1672125327.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>AlphaPoint</h5>
+                    <h3>Security Developer</h3>
+                </td>
+                <td width="300">
+                    <code>security,developer,cryptocurrency,system,software,testing,financial,api,mobile,linux,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-security-developer-alphapoint-170335" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="col col-xs-7 description" id="job-description">                    <p><span><span><span><span><span><span>About AlphaPoint:</span></span></span></span></span></span></p>
+<p><span><span><span><span><span><span>AlphaPoint is a financial technology company powering digital asset exchanges and brokerages worldwide. Through its secure, scalable, and customizable white label digital asset trading platform, AlphaPoint has enabled over 150 customers in 35 countries to launch and operate digital asset markets, as well as digitize assets. AlphaPoint and its award winning blockchain technology have helped startups and institutions discover and execute their blockchain strategies since 2013.</span></span></span></span></span></span></p>
+<p><strong><u>(US or Canada based Candidates Only) </u></strong></p>
+<p><strong>Position Overview<u> </u></strong></p>
+<p><span><span><span><span><span><span>We are looking for a Security Developer focused on security features and enhancing the strength of security and fraud prevention tools to protect the wallet and end-user assets from theft and fraudulent activity.</span></span></span></span></span></span></p>
+<p><span><span><span><span><span><span><span>Responsibilities:</span></span></span></span></span></span></span></p>
+<ul>
+<li><span><span><span><span><span><span><span>Coordinate with the development team to understand the system from a security perspective</span></span></span></span></span></span></span></li>
+<li><span><span><span><span><span><span><span>Work alongside the development team to create and maintain secure code</span></span></span></span></span></span></span></li>
+<li><span><span><span><span><span><span><span>Continuously run security tests against a representative system and presentation of recommendations and results</span></span></span></span></span></span></span></li>
+<li><span><span><span><span><span><span><span>Regularly testing our systems from a security perspective </span></span></span></span></span></span></span></li>
+<li><span><span><span><span><span><span><span>Provide input into security-related topics and assist in securing security practices internally within our organization</span></span></span></span></span></span></span></li>
+<li><span><span><span><span><span><span><span>Perform application security testing as part of the software development process to ensure there are no security vulnerabilities in a new or updated version of the application.</span></span></span></span></span></span></span></li>
+<li><span><span><span><span><span><span><span> Participate in deploy tests</span></span></span></span></span></span></span></li>
+<li><span><span><span><span><span><span><span>Collaborate with the security team to perform internal pentests</span></span></span></span></span></span></span></li>
+<li><span><span><span><span><span><span><span>Strong with testing and QA</span></span></span></span></span></span></span></li>
+</ul>
+<p><span><span><span><span><span><span><span>Basic requirements:</span></span></span></span></span></span></span></p>
+<ul>
+<li><span><span><span><span><span><span><span>Bachelorâs Degree in Computer Science or equivalent</span></span></span></span></span></span></span></li>
+<li><span><span><span><span><span><span><span>At least 5 years of experience in similar roles. </span></span></span></span></span></span></span></li>
+<li><span><span><span><span><span><span><span>Mid-senior experience in cybersecurity-related position </span></span></span></span></span></span></span></li>
+<li><span><span><span><span><span><span><span>Programming and scripting knowledge/skills: Net, C#, Python, PowerShell</span></span></span></span></span></span></span></li>
+<li><span><span><span><span><span><span><span>Experience with using Linux</span></span></span></span></span></span></span></li>
+<li><span><span><span><span><span><span><span>Experience in API security and mobile application testing</span></span></span></span></span></span></span></li>
+</ul>
+<p><span><span><span><span><span><span>Preferred skills & knowledge:</span></span></span></span></span></span></p>
+<ul>
+<li><span><span><span><span><span><span><span>Professional experience in the Cryptocurrency industry, including exchange, retail trading, deposit and withdraw experience</span></span></span></span></span></span></span></li>
+<li><span><span><span><span><span><span><span>Burp Suite, Postman</span></span></span></span></span></span></span></li>
+<li><span><span><span><span><span><span><span>Experience with using Linux and kali Linux , Parrot OS or similar others API security testing experience</span></span></span></span></span></span></span></li>
+<li><span><span><span><span><span><span><span>Python, PowerShell</span></span></span></span></span></span></span></li>
+</ul>
+<p><b>Here are some of the benefits of working at AlphaPoint:</b></p>
+<ul>
+<li>Competitive salary</li>
+<li>Relocation Bonus </li>
+<li>Unlimited Vacation</li>
+<li>Brex company credit card</li>
+<li>Computer equipment and workplace furniture to suit your needs</li>
+<li>Great colleagues and an inspiring startup environment with colleagues internationally</li>
+</ul>                </div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **PLEASANTLY** and tag RMTA3LjE3OC4yMzIuMTgx when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7016/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +75,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/bottomless-remote-senior-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -67,7 +132,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-net-developer-3" align="right" target="_blank">Apply</a>
@@ -145,7 +210,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -207,7 +272,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/whitespectre-experienced-frontend-react-shopify-developer" align="right" target="_blank">Apply</a>
@@ -288,145 +353,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Golang Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>38 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>We are searching for a Senior Golang Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years of solid development experience with Golang;</li>
-<li>You follow best practices and conventions;</li>
-<li>Responsible and able to work with minimal supervision;</li>
-<li>Upper-intermediate English level;</li>
-<li>You can communicate well with both technical and non-technical clients.</li>
-</ul><div>
-<strong><br>Nice-to-have:</strong> </div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Basic knowledge of DevOps culture and REST API development would be a plus.</li>
-</ul><div><br></div><div><strong>Responsibilities:</strong></div><ul>
-<li>Design, develop, document, and test core software components according to product requirements;</li>
-<li>Collaborate with other team members to incorporate their development work;</li>
-<li>Work with QA and DevOps teams to deliver quality software research and investigate product requirements and new technologies;</li>
-<li>Collaborate with the stakeholders.</li>
-</ul><div><br></div><div>
-<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-golang-developer-long-term-job-100-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Front-end Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>105 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><br></div><div><strong>The Role:</strong></div><div>We are searching for a Senior Front-End Developer (Angular.js/React.js). You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
-<li>You have +3 years experience with React.js/Angular.js;</li>
-<li>You follow best practices and conventions;</li>
-<li>Relevant experience in CI/CD and related tools;</li>
-<li>Responsible and able to work with minimal supervision;</li>
-<li>Upper-intermediate English level;</li>
-<li>You can communicate well with both technical and non-technical clients.</li>
-</ul><div>
-<strong><br>Nice-to-have:</strong> <br><br>
-</div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Basic back-end knowledge for minor back-end jobs where necessary.</li>
-</ul><div>
-<strong><br>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Build reusable code and libraries for future use;</li>
-<li>Ensure the technical feasibility of UI/UX designs;</li>
-<li>Transform visual designs and wireframes into working products;</li>
-<li>Accurate planning of the feature delivery;</li>
-<li>Collaborate with other team members and stakeholders</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.🚀 <strong>360 degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul><div>
-<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/3165/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -437,7 +363,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>126 days ago</text>
+                <text>128 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -539,6 +465,90 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1536937/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>AirCrew by Outliant</h5>
+                    <h3>Senior PHP Backend Developer</h3>
+                </td>
+                <td width="300">
+                    <code>AWS,azure,backend,cloud</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-php-backend-developer-1536937" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height: 1.5em;">We’re looking to hire a full-time, remote <strong>Senior PHP Backend Developer (with CodeIgniter experience). </strong>For this role, your primary focus will be collaborating with a team of developers in creating and implementing software applications and components. You’ll have the opportunity to choose your hours and work and learn with a team of world-class engineers and designers, through a commitment to team collaboration, communication, and product quality.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Requirements</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Minimum of <strong>5 years</strong> of backend web development experience</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;"><strong>CodeIgniter framework </strong>experience is required</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Expertise with MySQL or other SQL database</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience deploying cloud hosting services such as AWS or Azure, and managing basic DevOps.</p>
+<p style="min-height: 1.5em;"> </p>
+</li>
+</ul>
+<p style="min-height: 1.5em;">A candidate should have their own computer and stable internet connection to apply. We want a full-time employee who is only working for us and can commit to around 40 hours per week. You are in charge of your own hours!</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>About Us </strong></p>
+<p style="min-height: 1.5em;">Outliant is a fully-remote, US-based, digital product development and startup consulting company, with a team of culturally diverse creators whose exceptional skills and talents help conceive seamless digital products. Our teams exhibit work-play energy that supports individual growth, as well as encourages the freedom of creativity and “thinking outside the box.”</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Why You Should Work with Us</strong></p>
+<p style="min-height: 1.5em;">As a full-time member of our team, you’ll enjoy:</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Flexible hours - work whenever you choose</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Work from home</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Unlimited PTO</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Non-working holidays per country of residence</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">13th-month bonus</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Salary increases</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Financial support for online courses</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Mental health and well-being programs</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Fun and casual work environment</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Employee engagement activities and virtual gatherings</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">We are a very diverse bunch! 🌍</p>
+</li>
+</ul>
+<img src="https://remotive.com/job/track/1536937/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -549,7 +559,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -618,7 +628,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -695,7 +705,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>21 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -721,7 +731,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
