@@ -1,113 +1,70 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/1e2256f9bf871143281db833bbfa4da11671693884.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/a7512400538d90f81b84f7afbfe06bca1672298167.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Recur</h5>
-                    <h3>Blockchain Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>software,nft,security,architect,technical,testing,code,serverless,typescript,node,lead,senior,go,engineer,engineering</code>
-                </td>
-                <td width="200">
-                <text>7 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-blockchain-software-engineer-recur-167894" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered">
-<div class="section page-centered">
-<p><span style="font-weight:400;">RECUR is looking for a senior level software engineer to help architect and build our NFT platform from the ground up.  Your focus will be on blockchain technology, integration of various blockchain networks, how we mint, swap, and generally transact in a NFT blockchain agnostic environment.</span></p>
-<p><strong>What do we at RECUR believe makes a great engineering team? </strong></p>
-<p><strong>Here are our core beliefs:   </strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Itâs important to have team members that care about the teamâs results more than their own individual achievements</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Itâs important for leadership to be tolerant of making mistakes</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Itâs important that the team members help, teach, and mentor one another</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Itâs important not to place blame on individuals when things go bad but instead to evaluate as a team how we do it better the next time</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Itâs important to be clear on what that mission is and minimize the distractions on the teams executing on that mission</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Small teams execute better than big ones, empower small teams with ownership and minimize the dependencies between them</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Itâs important to encourage self-directed innovation</span></li>
-</ul>
-<h4><strong>What you will do at RECUR</strong></h4>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Architect and code small components to large systems</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Drive decisions on what technologies we use and the software practices we adopt </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Be a technical lead on small to large sized projects</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work on a small agile team of software engineers and product managers</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Coach less experienced teammates to become better software engineers</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Set an example and define our standards for how we code and deliver our software</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Help us grow our team of talented software engineers</span></li>
-</ul>
-<h4><strong>What you bring to RECUR</strong></h4>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">You have 10+ years of experience developing software</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">You have experience building and deploying software in the cloud, preferably AWS</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">You have built and maintained highly scalable and reliable internet applications or platforms accessed by hundreds of thousands of users on a daily basis</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">You have designed and maintained highly transactional databases that store lots of data and handle heavy loads</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">You are an expert TypeScript developer</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">You are an experienced technical lead, that can direct and guide a team of engineers through building platforms/products and solving big, complex, open ended problems</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">You have developed and built blockchain solutions (integrating with blockchain node APIs, developed smart contracts, or been part of a blockchain project team)</span></li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">You have experience building and maintaining ecommerce, payment, auction, trading platforms, or similar </span><strong>where security and keeping customer funds safe is imperative</strong>
-</li>
-<li style="font-weight:400;"><span style="font-weight:400;">You know how to break down a big, complex problem into smaller components and coordinate your team to iteratively deliver high quality software </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">You have a passion for testing your code through unit testing and automation </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">You strive to be a productive engineer and use the latest tools and techniques to achieve this goal</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">You have experience building applications with node.js, preferably as serverless services, especially with Typescript.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">You are a legally eligible to work in the USA or Canada</span></li>
-</ul>
-<p><strong>Benefits & Perks</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Company sponsored Health, Dental and Vision Benefits</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">4 weeks paid vacation, 10 company holidays and paid parental leave</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Equity in RECUR</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Industry focused lunch and learns, company swag and the and flexibility to get the tooling you need to do your best work</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">The chance to work with incredibly passionate people on a mission to shape an industry!</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">This is a completely remote role and can work anywhere in the US</span></li>
-</ul>
-</div>
-</div><br/><br/>Please mention the word **POSH** and tag RMTA3LjE3OC4yMzIuMTgx when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/d21a3addeeebec3e68412cdf7d7dc4e31671693826.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>bloXroute Labs</h5>
+                    <h5>XMTP</h5>
                     <h3>Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>software,defi,crypto,testing,code,leader,reliability,go,healthcare,engineer,engineering,backend</code>
+                    <code>software,design,crypto,security,technical,web,travel,financial,healthcare,engineer,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-bloxroute-labs-167885" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-xmtp-171312" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><b style="font-size:18px;">ABOUT BLOXROUTE </b></div><div><br></div><div>bloXroute is the "Flash Boys" for DeFi. It created the first and only high performance blockchain distribution network (BDN) with the best solution for Ethereum, BSC, and Polygon. The bloXroute BDN and DeFi trading tools allow its users to win at crypto trading. The BDN utilizes a global network of servers optimized for network performance.  Nodes access this network through open source gateways and users can access it through the bloXroute public-API. </div><div><br></div><div>The BDN network propagates blockchain transactions and blocks closer to the speed of light. It provides traders with the speed and reliability required for crypto transactions. bloXroute is the leader in mempool services, block streaming and anything Defi performance. The BDN also allow blockchains to scale by speeding the time it takes to communicate the current state. The BDN fast communication reduce the blocksâ size and frequency limits. This is true for all consensus mechanisms, including Proof of Stake, Proof of Work, and DAGs.</div><div><br></div><div>We encourage you to apply even if you don't match all of the qualifications listed. </div><p></p><h4>Responsibilities </h4><p></p><p></p><ul>
-<li>Improve (suggest and implement) the speed of the BDN (Blockchain Distribution Network) based on the blockchain protocol, network and consensus model </li>
-<li>Create offerings that leverage the speed of the data that passes through the blockchain distribution network </li>
-<li>Integrate our core systems with other blockchains such as Ethereum, Binance Smart Chain, Polygon, Solana and other future blockchains on the roadmap </li>
-<div><br></div>
-</ul><p></p><h4>Requirements </h4><p></p><p></p><ul>
-<li>At least 5 years of experience with designing, building, testing and implementing highly scalable and distributed backend systems </li>
-<li>3+ years experience in Blockchain </li>
-<li>2+ years experience in Blockchain propagation, consensus (one of the following networks: Ethereum, Binance Smart Chain, Polygon and Solana) </li>
-<li>Expertise using Go language </li>
-<li>Creative, independent, can do attitude, and a great team player </li>
-<li>Ability to read, modify blockchain core code (geth, bor, prysm, ...)</li>
-</ul><div><b style="font-size:18px;">BENEFITS </b></div><div><br></div><div>bloXroute Labs offers competitive salaries, stock options, company paid healthcare benefits, 401k, unlimited PTO, remote work option and more. The benefits may vary based on global locations. We built a highly skilled team of business and engineering minds who are working on complex and innovative projects.</div><br/><br/>Please mention the word **ADORABLE** and tag RMTA3LjE3OC4yMzIuMTgx when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p><span style="font-weight:400;">Our mission at </span><a href="https://www.beforeyouapply.com/team/early-stage-team-at-xmtp-labs" rel="noopener noreferrer nofollow"><strong>XMTP Labs</strong></a><span style="font-weight:400;"> is to build a secure, open, and decentralized communication protocol that connects creators, communities, apps, and users</span></p>
+<p><span style="font-weight:400;">We are seeking talented software engineers with a passion for decentralized technology who would like to join us on our mission to become the backbone for web 3 messaging. We welcome candidates with a range of experience levels, programming language expertise, and areas of focus. If you have the skills and experience outlined below and are excited about the opportunity to work on cutting-edge technology, we encourage you to apply.</span></p>
+<h4><strong>As a Software Engineer at XMTP you will:</strong></h4>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Develop and maintain highly reliable, scalable, and secure applications</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Debug production issues across services and multiple levels of the stack</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Write high quality documentation for your contributions</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with other engineers, PMs, and designers on the team</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Participate in open source development</span></li>
+</ul>
+<h4><strong>You may be a fit for this role if you have:</strong></h4>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Excellent communication skills on technical and non-technical issues, with an emphasis on written communication</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">5+ years of experience in software engineering</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience building complex, high-performance software</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">A solid working knowledge of standard security methodologies</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience working with: React, TypeScript, Golang, libp2p</span></li>
+</ul>
+<h4><strong>Not required, but a bonus if you have:</strong></h4>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience leading or contributing to open source projects</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with end to end encryption, messaging, secure storage, key management</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with cryptographic primitives and protocols</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with the Linux operating system, its internals, and ecosystem</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience building with decentralized networks, consensus protocols, smart contracts, blockchains, etc.</span></li>
+</ul>
+<h4><strong>Benefits & Perks:</strong></h4>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">High autonomy, human-first, curiosity driven culture</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Salary range between $165-265k (Depending on experience and country)</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Meaningful equity in an early stage startup </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Remote-first, asynchronous team with bi-annual offsites and an individual travel budget</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Minimum Time Off Policy requiring everyone take 3 weeks, unlimited beyond that </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Flexible and supportive parental and loss leave</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Full paid Healthcare in the US for you + spouse/dependents</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Generous perks including WFH stipend, wellness stipend and travel stipend</span></li>
+</ul>
+<h2><strong>Who we are</strong></h2>
+<p><span style="font-weight:400;">We set out to design a modern organization from the startâone thatâs global, remote, and asynchronous-by-default.</span></p>
+<p><span style="font-weight:400;">We think of ourselves as a âgrown-upâ startupâbuilding a company thatâs fair, equitable, and rewarding for everyone to work at, with an emphasis on having fun while building an ambitious project.</span></p>
+<p><span style="font-weight:400;">Our team has decades of experience in building companies, but weâre looking for more diverse experiences to add to the founding team. Joining XMTP Labs today represents not just an opportunity to play a key role in building an essential part of the next web, but also in establishing the core DNA of the company.</span></p>
+<p><a href="https://www.beforeyouapply.com/team/early-stage-team-at-xmtp-labs" rel="noopener noreferrer nofollow"><strong>Here's an inside look at XMTP</strong></a><strong> </strong><span style="font-weight:400;">and some of the frequently asked questions about our culture, answered by one of our co-founders and core team members.</span></p>
+<h2><strong>About XMTP, Inc.</strong></h2>
+<p><span style="font-weight:400;">XMTP, Inc. was co-founded by </span><strong><a href="https://twitter.com/mg" rel="noopener noreferrer nofollow">Matt Galligan</a></strong><span style="font-weight:400;"><strong> </strong>and </span><strong><a href="https://twitter.com/shanemac" rel="noopener noreferrer nofollow">Shane Mac</a></strong><span style="font-weight:400;">, and is headquartered on the web. We have an excellent benefits package that includes parental leave, competitive pay, an equipment and home office allowance that refreshes yearly, monthly lifestyle stipend, as well as a personal assistant, and financial advisor. For U.S.-based team members we also provide access to FSA, 401K, and fully paid high quality medical, dental, and vision insurance for you and your family.</span></p>
+<p><span style="font-weight:400;">Weâre backed by some of the best investors in tech and crypto: a16z Crypto Fund, Offline Ventures, Sound Ventures, Distributed Global, Redpoint, IDEO CoLab and many more key ecosystem investors and operators. </span><strong><a href="https://blog.xmtp.com/series-a/#xmtps-investors" rel="noopener noreferrer nofollow">See the full list here</a></strong><span style="font-weight:400;">.</span></p>
+<p><span style="font-weight:400;">XMTP, Inc. is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</span></p><br/><br/>Please mention the word **PAINLESSLY** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -122,7 +79,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -184,7 +141,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
