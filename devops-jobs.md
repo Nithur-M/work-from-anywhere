@@ -10,7 +10,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-13" align="right" target="_blank">Apply</a>
@@ -62,69 +62,6 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Lifetimely</h5>
-                    <h3> Senior Devops / PostgreSQL Admin (USD 80K-120K)</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>15 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/lifetimely-senior-devops-postgresql-admin-usd-80k-120k" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Helsinki, Finland
-    <br /><strong>URL:</strong> <a href="https://lifetimely.io">https://lifetimely.io</a>
-</p>
-
-<div>Lifetimely is a fast-growing ecommerce analytics company looking for a <strong>Senior DevOps with PostgreSQL expertise to help us manage and take ownership of our bare metal servers and databases</strong>. If you have experience managing machines with Ansible (or any other server automation tool) and also managed PostgreSQL servers before, then we want to hear from you!<br><br>
-</div><div>Our customers include names like MrBeast's Feastables, Liquid Death, and Unilever. You can read about our app on the <a href="https://apps.shopify.com/lifetimely-lifetime-value-and-profit-analytics">Shopify app store</a> and <a href="https://lifetimely.io/">our website</a>. We provide real-time reporting and predictions to more than 5000 ecommerce shops. To give you a sense of scale - we collect data on millions of orders per day from a few thousand stores and process many millions of background jobs to deliver quality reports and insights to our customers. <br><br>
-</div><div>We're looking for someone who can hit the ground running and make an immediate impact on our team. In this role, you'll be responsible for maintaining and optimizing our databases, as well as implementing backup and disaster recovery solutions.<br><br>
-</div><div><strong>We are looking for someone who has extensive experience in the following:</strong></div><ul>
-<li>5+ years of PostgreSQL experience</li>
-<li>Storage tuning</li>
-<li>Experience with PGBackRest or any other backup solution</li>
-</ul><div><br></div><div><strong>Additionally, we will highly value experience with:</strong></div><ul>
-<li>Bare metal servers</li>
-<li>Being Ubuntu admin</li>
-<li>Docker</li>
-<li>Nomad ( or Kubernetes ) experience</li>
-</ul><div><br></div><div><strong>Other:</strong></div><ul>
-<li>You should be humble, can mentor others, both provide and receive direction and be always willing to share what you learn.</li>
-<li>Location: prefer America / Europe / Africa</li>
-</ul><div><br></div><div>
-<strong>Compensation for this position is between USD 80K-120K and varies with experience and skill set.</strong> This is a full-time position, but we will consider candidates who can allocate 25+ hours per week to the project. You will be employed through <a href="https://www.usemultiplier.com/">Multiplier</a> either as a full-time employee or as a contractor with paid time off and other benefits, depending on your location and preferences.<br><br>
-</div><div>
-<strong>Where we are and how we work:<br></strong><br>
-</div><div>Our tech stack is Ansible / Ruby / PostgreSQL.<br><br>
-</div><div>Working for Lifetimely doesn't feel like the usual office or startup gig: we are a distributed group of 20+ people across ten different countries 🇫🇮 🇺🇸 🇫🇷 🇨🇱 🇪🇬 🇪🇸 🇭🇷🇸🇬🇦🇺🇦🇺 with our own way of working. Some of us are nomads, some just like working remotely. We highly encourage written (long-form) communication and documenting things on Notion, and generally don't like tight fixed schedules. There is not much management or oversight, we expect you to know how to manage yourself. <strong>We prioritize shipping and results above how or when you do the work.<br></strong><br>
-</div><div>
-<strong>Two meetings per week, one for the devs on Tuesday and another one on Thursday for everyone. That's it.</strong> If you are into distributed work and prefer the lifestyle aspects or maybe live somewhere with not many exciting startups, you will enjoy working with us.<br><br>
-</div><div>
-<strong>To apply, please...<br></strong><br>
-</div><ul>
-<li>Describe the largest PostgreSQL deployment you worked on.</li>
-<li>Please explain in your own words why VACUUM exists in Postgres</li>
-<li>What was the largest number of Linux servers you had to manage? Describe what the infrastructure was used for.</li>
-</ul><div><br></div><div>If you're passionate about working with databases and have the skills and experience we're looking for, then we encourage you to apply for this role. We can't wait to hear from you and learn more about why you're the right person for the job. <br><strong><br></strong>All the interviews will be conducted by the company CTO - you won't be talking to a recruiter.</div><div><br></div><div><br></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/lifetimely-senior-devops-postgresql-admin-usd-80k-120k">https://weworkremotely.com/remote-jobs/lifetimely-senior-devops-postgresql-admin-usd-80k-120k</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
                     <h5>RemoteMore</h5>
                     <h3> DevOps Engineer</h3>
                 </td>
@@ -132,7 +69,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>44 days ago</text>
+                <text>45 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/remotemore-devops-engineer" align="right" target="_blank">Apply</a>
@@ -184,7 +121,7 @@
                     <code>api,AWS,cloud,crypto</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/devops-engineer-middle-senior-1533358" align="right" target="_blank">Apply</a>
