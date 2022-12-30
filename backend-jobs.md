@@ -1,5 +1,73 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/f80e2ddc26e0f0b143f0b53265e9ae3b1672298134.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TradeBlock</h5>
+                    <h3>Senior Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>design,crypto,python,technical,support,software,code,web,financial,senior,reliability,engineer,linux,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-tradeblock-171306" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro"><p><span style="text-decoration:underline;"><strong>About The Company</strong></span><br><span style="font-weight:400;">TradeBlock is the leading institutional digital assets trading platform. TradeBlock provides standardized connectivity and a powerful suite of tools to capture the end-to-end trade lifecycle for liquidity providers, asset managers, corporate clients, and exchanges, among others.</span></p></div><p><span style="text-decoration:underline;"><strong>About the Role</strong></span></p>
+<p><em>Budgeted Salary Range:</em> $175k - $225k</p>
+<p>Our engineers build and maintain the technology underpinning our OTC trading platform. They are responsible for core software development, data ingestion, transformation and distribution, as well as measuring and improving the performance of our systems. The ideal candidate will have experience in crypto currencies, capital markets and/or FX, solid understanding of data structures and algorithms, and very strong Python programming skills.</p>
+<p> </p>
+<p><span style="text-decoration:underline;"><strong>Responsibilities</strong></span></p>
+<ul>
+<li>Manage multiple systems that communicate with one another via APIs (REST & WebSocket</li>
+<li>Develop and maintain applications that support our core business offerings, placing an emphasis on their reliability and performance.</li>
+<li>Write and document reliable and reusable code to advance our existing products and to develop new solutions, rigorously adhering to the requirements outlined by our Product team.</li>
+<li>Ability to analyze application and performance issues that span multiple interdependent systems in real time.</li>
+<li>Provide quick resolutions to production issues.</li>
+<li>Contribute technical input for the planning and design process of new and existing systems.</li>
+</ul>
+<p><span style="text-decoration:underline;"><strong>Requirements </strong></span></p>
+<ul>
+<li>Advanced Linux experience</li>
+<li>Advanced Python experience</li>
+<li>Experience with Python frameworks</li>
+<li>Understanding of the OSI model and especially proficient understanding of the application layer</li>
+<li>Knowledge of AWS</li>
+<li>Advanced understanding of the concepts and fundamentals behind modern day Web APIs</li>
+</ul>
+<p><span style="text-decoration:underline;"><strong>Preferred</strong></span></p>
+<ul>
+<li>5+ years of experience with Linux</li>
+<li>5+ years of experience with Python</li>
+<li>3+ years of experience with AWS</li>
+<li>3+ years of experience with SQL</li>
+<li>Experience with Nginx</li>
+<li>Experience with HAProxy</li>
+<li>Experience working with software for financial markets (crypto, FX, etc.)</li>
+</ul>
+<p><span style="text-decoration:underline;"><strong>Technologies</strong></span></p>
+<p>AWS, PostgreSQL, Linux, Redis, Python, HAProxy, Javascript, Graphite/Grafana, Nginx, Django, Git</p>
+<p> </p><div class="content-conclusion">
+<p><span style="text-decoration:underline;"><strong>Benefits Highlights</strong></span></p>
+<ul>
+<li>90% of Medical, Dental, Vision costs covered by TradeBlock (Coverage starts from day one)</li>
+<li>401k Match w/ 5% company match</li>
+<li>Flexible PTO (Taking time off is important and encouraged)</li>
+<li>Opportunities for Equity in Digital Currency Group</li>
+<li>Paid Family Leave for mothers and fathers</li>
+<li>All new employees receive a WFH stipend.</li>
+</ul>
+</div><br/><br/>Please mention the word **ELATION** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/6d030db936cd08ad412dd2bb851c72c21672125350.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +78,7 @@
                     <code>design,frontend,code,web,java,node,go,engineer,linux,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-axedras-170338" align="right" target="_blank">Apply</a>
@@ -56,137 +124,99 @@
 
 <h3>How to apply</h3>
 
-<p>Please send your full application CV. A motivation or cover letter is not required. Also, the diplomas specified in your CV do not have to be attached and will be checked at a later stage.</p><br/><br/>Please mention the word **REVELATION** and tag RMTA3LjE3OC4yMzIuMTgx when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>Please send your full application CV. A motivation or cover letter is not required. Also, the diplomas specified in your CV do not have to be attached and will be checked at a later stage.</p><br/><br/>Please mention the word **REVELATION** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/fb987ef73f03713536c7fa867a7735ed1671693776.peg" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1535605/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>GIANT Protocol</h5>
-                    <h3>Lead Backend Engineer</h3>
+                    <h5>Syndicate</h5>
+                    <h3>Backend Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>design,web3,solidity,crypto,frontend,technical,support,software,code,scrum,financial,nodejs,nosql,mobile,lead,junior,excel,telecom,go,golang,engineer,backend,digital nomad</code>
+                    <code>api,AWS,backend,cloud</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-lead-backend-engineer-giant-protocol-167874" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/backend-engineer-1535605" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="content-intro">
-<p>The GIANT Protocol Foundation aims to empower the world to build a more open and inclusive internet. It created the GIANT Protocol to decentralize and democratize access to connectivity and financial services for all. Itâs a new web3 telecommunications layer that coordinates, tokenizes, and financializes ownership of the entire telecom ecosystem.</p>
-<p>GIANT Connect is a consumer app powered by GIANT Protocol offering the most fun and rewarding way to stay connected to the Internet. Access inflight wifi on thousands of planes, mobile networks in 120 countries, and 68M free and premium wifi hotspots globally. Earn crypto rewards when you go online and when you donât.</p>
-<p> </p>
-</div><h2><span style="font-weight:400;">Position Overview</span></h2>
-<p><span style="font-weight:400;">We are looking for a seasoned backend engineer, to join our growing team, who specializes in server side development - REST APIs, scripts, etc. with a passion for writing test-driven code. In this role you will be primarily working in </span><strong>Golang and/or NodeJS</strong><span style="font-weight:400;"> languages on existing code bases or creating new services as required.</span></p>
-<h2><span style="font-weight:400;">Responsibilities</span></h2>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Build robust and scalable server side services and REST APIs in Golang and/or NodeJS.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Help improve our code quality through writing unit and functional tests, improving coding standards and performing code reviews.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work with frontend engineers to help them integrate the backend business logic and REST APIs with client side software.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Participate in brainstorming sessions and contribute ideas to improve our product and technology.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work with the product and design teams to understand business goals, end-user requirements, formulate use cases, and then translate that into a pragmatic and effective technical solution.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Document decisions and its future impacts. </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Create and improve technical documentation.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Join sprints and scrum calls with our cross-regional team for successful delivery of product.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Guide and mentor junior developers.</span></li>
+                <div class="h1">About Us</div>
+<p style="min-height: 1.5em;">Within the next decade, investing will be decentralized, democratized, and community-driven. Syndicate is building the infrastructure to enable this at scale—we’re developing decentralized investing and social networking protocols, advanced legal tech solutions, and a next-gen social networking platform that empowers communities to raise, coordinate, and invest capital like never before.</p>
+<p style="min-height: 1.5em;">Founded in Jan 2021, we've raised over $20M from values-aligned leaders who represent a diverse array of industries and communities, including firms like Andreessen Horowitz and its Cultural Leadership Fund, IDEO CoLab Ventures, Variant, Electric Capital, and over 200 others. We've also partnered with and received investment from over 100 community partners.</p>
+<p style="min-height: 1.5em;">Our first product allows anyone to start an investing syndicate on the Ethereum for just the cost of gas. The typical fees to set up an investing syndicate average $12,000 which allows us to be up to <strong>1,200x less expensive</strong> than traditional methods. We're using public blockchain technology to expand access to venture capital for entrepreneurs around the world because we believe that venture capital should be widely available rather than only accessible in a small handful of cities.</p>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2">We're a Remote-First Company</div>
+<p style="min-height: 1.5em;">We're proud to be a globally distributed company that's remote forever. Many companies have had to adopt remote work, but you could say we were born into it. That keeps things simple and efficient—you can work from almost anywhere, without worrying about a commute, rigid schedule, or retrofitting old processes into new ways of working.</p>
+<p style="min-height: 1.5em;">We’ve built a top-notch remote culture that includes things like a home office stipend, travel reimbursement, and unlimited time off, regular in-person meetups around the world (including at least once a year where we fly the whole company out to a shared summit), and many more benefits to help you do your best work wherever you are.</p>
+<p style="min-height: 1.5em;">For most roles, we welcome applicants from anywhere in the world as long as the hours you choose overlap with the Pacific US timezone for meetings.</p>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2">Diversity and Inclusion</div>
+<p style="min-height: 1.5em;">At Syndicate, we're building a fundamentally revolutionary product—one that promises to democratize finance in a way never before attempted. That starts with a diverse, inclusive, affirming, and welcoming team. We are deeply committed to these principles as a core value, and proud to be an equal opportunity workplace. If you're a member of an underrepresented or marginalized group, we strongly encourage you to apply.</p>
+<p style="min-height: 1.5em;"> </p>
+<div class="h1">The Role</div>
+<p style="min-height: 1.5em;">We're looking for a Senior Backend Engineer to architect and build systems at the intersection of our protocol and product engineering teams. You will be at the forefront of building inclusive capital allocation tools in web3 and work with a diverse, world-class team of engineers, designers, and product managers.</p>
+<p style="min-height: 1.5em;">We welcome applicants from anywhere in the world, but given the collaborative nature of engineering, the hours you choose must have several hours of overlap with San Francisco's and New York's time zones.</p>
+<p style="min-height: 1.5em;">This role will pay between $160,000-$220,000 per year.</p>
+<p style="min-height: 1.5em;"><strong>You Will:</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Own and solve challenging problems from end-to-end to create and launch products and features that customers love</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Build across the application and data stack using a variety of modern coding languages and tools (Typescript, Node.js, GraphQL, SQL databases, Solidity, among others)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Design, build, and deploy systems using serverless architecture that interface with both the frontend and protocol</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Closely collaborate with frontend and protocol engineers, and with cross-functional partners including product managers, designers and company leadership, to ship products that consistently raise the bar</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Lead teams and mentor engineers while building a supportive team culture</p>
+</li>
 </ul>
-<h2><span style="font-weight:400;"><br>Requirements/Skills</span></h2>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">5+ years of recent coding experience in writing Golang and/or NodeJS software.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience working with NoSQL databases like MongoDB.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Solid software design knowledge â you should know how to create software thatâs extensible, reusable and meets desired architectural objectives.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Passionate about solving complex problems and take pride in their code and development standards.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Effective communication skills: Regularly achieve consensus with peers, and provide clear status updates.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ability to work independently and in a team environment.<br><br></span></li>
+<p style="min-height: 1.5em;"><strong>Requirements:</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">At least 5 years of experience building scalable backends in a production environment at scale</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience working with cloud-first backend frameworks and languages, such as Golang, Rust, or Typescript</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience architecting modern applications and data stacks</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Familiarity with building for, and deploying on, modern cloud services such as AWS and GCP</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Familiarity with microservice infrastructure tools, such as Kubernetes and Terraform</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">You are self-directed, innovative, and biased towards action in fast-paced environments</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Superb communication, collaboration, and organizational skills</p>
+</li>
 </ul>
-<h2><span style="font-weight:400;">Bonus Skills</span></h2>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Familiarity with blockchain and web3 technologies.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Can write Solidity smart contracts</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Able to write code in Rust</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Knowledge of frontend languages/full stack.</span></li>
-</ul><div class="content-conclusion">
-<h3><strong>Company Values</strong></h3>
-<p><strong>Thinking in possibilities</strong><span style="font-weight:400;">: We realize that most see the world in terms of what is not possible. We believe the future is made by those who see what </span><em><span style="font-weight:400;">is</span></em><span style="font-weight:400;"> possible. Seeing a path of possibilities requires intellectual curiosity, dedication, and diligence. We are big thinkers and believers but also pragmatists, focused on relentless execution.</span></p>
-<p><strong>Integrity of word, thought, and action</strong><span style="font-weight:400;">: Integrity is what is behind our words, thoughts, and </span><span style="font-weight:400;">actions. We help ourselves and others to stay true to why we do things so we can align, </span><span style="font-weight:400;">together, for the highest purpose.</span></p>
-<p><strong>Diversity of perspectives:</strong><span style="font-weight:400;"> A good discussion is one that ends with all participants feeling </span><span style="font-weight:400;">that the other participants understood them, even if they had different ideas. This requires trust, </span><span style="font-weight:400;">vulnerability, and compassion. We believe organizations where people can truly co-create will </span><span style="font-weight:400;">thrive.</span></p>
-<p><strong>Winning with purpose: </strong><span style="font-weight:400;">We are mission focused and realize that winning is a requirement to </span><span style="font-weight:400;">achieve lasting change that benefits everyone. Even though we love to compete, we understand that winning is not the same as success, but is needed to succeed.</span></p>
-<p><strong>Ownership is key:</strong><span style="font-weight:400;"> When we own our successes, failures, best qualities, and flaws, we can truly work in a team, as a team. Ownership unlocks greatness as a team because it </span><span style="font-weight:400;">enables us to support and be supported.</span></p>
-<p><strong>The excellence of being:</strong><span style="font-weight:400;"> Excellence is an expression of beingâof what we want for ourselves </span><span style="font-weight:400;">and others. It is passion turned into action. We share a desire to learn and excel while being </span><span style="font-weight:400;">comfortable with failing. Excellence comes when weâre courageously open about what we </span><span style="font-weight:400;">desire for this world.</span></p>
-<p><strong>Unity in consciousness:</strong><span style="font-weight:400;"> We understand that we are all one. We are all working towards moving humanity forward in unique ways. We firmly believe that there is infinitely more that unites us than divides us, and our work is to bring that out in the world.</span></p>
-<h3><strong>Benefits:</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Competitive salary with generous token plan</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Unlimited PTO and flexible remote options</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Health benefits: medical, dental, vision, EAP, virtual medicine, and more </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">401k with company match</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Annual professional development budget</span></li>
+<p style="min-height: 1.5em;"><strong>Nice to Haves:</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Experience interacting with core web3 tooling such as <code>web3.js</code>, <code>Infura</code>, and <code>MetaMask API</code></p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience building or working with real-time indexers</p>
+</li>
 </ul>
-</div><br/><br/>Please mention the word **GALORE** and tag RMTA3LjE3OC4yMzIuMTgx when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTgx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Clevertech</h5>
-                    <h3> Senior Backend Engineer </h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>9 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://clevertech.biz">https://clevertech.biz</a>
-</p>
-
-<div>
-<br>Experience Remote done Right. Over 20 years of remote experience, all 500+ staff are 100% remote and we still grow vibrant relationships, provide exceptional opportunities for career growth while working with stellar clients on ambitious projects<br><br>
-</div><div><strong>What we're working on:</strong></div><div>
-<br>Enterprise companies turn to us to help them launch innovative digital products that interact with hundreds of millions of customers, transactions and data points. The problems we solve every day are real and require creativity, grit and determination. We are building a culture that challenges norms while fostering experimentation and personal growth. In order to grasp the scale of problems we face, ideally, you have some exposure to Logistics, FinTech, Transportation, Insurance, Media or other complex multifactor industries<br><br>
-</div><div><strong><br>Requirements</strong></div><ul>
-<li>7+ years of professional experience (A technical assessment will be required)</li>
-<li>Senior-level experience with Javascript, NodeJS, Express, Mongo</li>
-<li>Ability to create clean, modern, testable, well-documented code</li>
-<li>Serverless experience with AWS lambda or Azure functions</li>
-<li>English fluency, verbal and written</li>
-<li>Professional, empathic, team player</li>
-<li>Problem solver, proactive, go-getter</li>
-</ul><div><strong>Straight from the Devs</strong></div><div>
-<br>Watch short snippets of actual developers (Real, not scripted) share why they joined <a href="https://cleverte.ch/3"><strong>YouTube Playlist<br></strong></a><br>
-</div><div><strong>Why Clevertech is an amazing place to work at</strong></div><div>
-<br>At Clevertech, you can expect that you will:<br><br>
-</div><ul>
-<li>Be 100% dedicated to one project at a time so that you can hone your skills, innovate and grow</li>
-<li>Be a part of a team of talented and friendly senior-level developers</li>
-<li>Work on projects that allow you to use cutting edge tech. We believe in constantly evolving your mastery</li>
-</ul><div>
-<br>The result? We produce meaningful work and we are truly proud and excited to be creating waves in an industry under transformation.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-1">https://weworkremotely.com/remote-jobs/clevertech-senior-backend-engineer-1</a></p>
-
+<img src="https://remotive.com/job/track/1535605/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
