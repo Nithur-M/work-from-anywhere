@@ -10,7 +10,7 @@
                     <code>software,design,crypto,security,technical,web,travel,financial,healthcare,engineer,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-xmtp-171312" align="right" target="_blank">Apply</a>
@@ -64,7 +64,7 @@
 <h2><strong>About XMTP, Inc.</strong></h2>
 <p><span style="font-weight:400;">XMTP, Inc. was co-founded by </span><strong><a href="https://twitter.com/mg" rel="noopener noreferrer nofollow">Matt Galligan</a></strong><span style="font-weight:400;"><strong> </strong>and </span><strong><a href="https://twitter.com/shanemac" rel="noopener noreferrer nofollow">Shane Mac</a></strong><span style="font-weight:400;">, and is headquartered on the web. We have an excellent benefits package that includes parental leave, competitive pay, an equipment and home office allowance that refreshes yearly, monthly lifestyle stipend, as well as a personal assistant, and financial advisor. For U.S.-based team members we also provide access to FSA, 401K, and fully paid high quality medical, dental, and vision insurance for you and your family.</span></p>
 <p><span style="font-weight:400;">Weâre backed by some of the best investors in tech and crypto: a16z Crypto Fund, Offline Ventures, Sound Ventures, Distributed Global, Redpoint, IDEO CoLab and many more key ecosystem investors and operators. </span><strong><a href="https://blog.xmtp.com/series-a/#xmtps-investors" rel="noopener noreferrer nofollow">See the full list here</a></strong><span style="font-weight:400;">.</span></p>
-<p><span style="font-weight:400;">XMTP, Inc. is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</span></p><br/><br/>Please mention the word **PAINLESSLY** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><span style="font-weight:400;">XMTP, Inc. is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</span></p><br/><br/>Please mention the word **PAINLESSLY** and tag RNS4xODEuODEuNQ== when applying to show you read the job post completely (#RNS4xODEuODEuNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -79,7 +79,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -141,7 +141,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>24 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
