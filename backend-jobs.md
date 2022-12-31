@@ -1,5 +1,34 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/56a0561f5c071a0a5ef8ec3fbedef3a01672384574.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Swish</h5>
+                    <h3>Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>design,frontend,technical,support,software,web,css,mobile,lead,analytics,engineer,engineering,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-swish-171813" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><span style="font-size:12pt;">The Engineering team at Swish is looking for talented Backend Engineers to create fast, scalable server infrastructures with a focus on the best possible user experiences. You will work closely with a talented team of designers, engineers, and product managers who design, implement and ship mission-critical features. You have prior experience developing high quality backend architecture and are excited about doing that at a company that is transforming the way enterprises run their businesses with a tech-focused, mobile-first mindset. You want to have productive technical discussions with a bias towards analytics and user feedback and contribute to the continuous improvement of our web and mobile experiences.</span></div><div><br></div><div><span style="font-size:12pt;">We are looking for individuals who are passionate about the latest technologies and can lead the design and development of scalable applications. A successful candidate will bring deep analytical ability, software engineering expertise, and the ability to deliver results within a fast-moving, agile environment.</span></div><div><br></div><div><b style="font-size:18px;">Our Stack</b></div><div><br></div><div><span style="font-size:12pt;">â¢ Frontend: React, Redux, ES6, ESLint, CSS Modules, Sass, Babel, Webpack, Flow, Jest</span></div><div><span style="font-size:12pt;">â¢ Backend: Node</span></div><div><span style="font-size:12pt;">â¢ Framework: Express, Next, Meteor</span></div><div><span style="font-size:12pt;">â¢ Datastore: MongoDB, Redis</span></div><div><span style="font-size:12pt;">â¢ Container: Docker</span></div><div><span style="font-size:12pt;">â¢ Hosting: AWS, Heroku</span></div><div><br></div><div><b style="font-size:18px;">A Typical Week</b></div><div><br></div><div><span style="font-size:12pt;">â¢ You'll brainstorm with product managers and designers to conceptualize new features.</span></div><div>â¢ <span style="font-size:12pt;">You'll collaborate with frontend engineers to build new features for a client.</span>
+</div><div><span style="font-size:12pt;">â¢ You'll learn about new technologies and discuss potential solutions to problems.</span></div><div><span style="font-size:12pt;">â¢ You'll help our skilled support team triage bugs and troubleshoot production issues.</span></div><div><span style="font-size:12pt;">â¢ You'll mentor other engineers and deeply review code.</span></div><div><br></div><div><b style="font-size:18px;">Requirements</b></div><div><br></div><div><span style="font-size:12pt;">You'll be tasked with developing server infrastructures and applying them at scale to our projects. We look for the following attributes in candidates:</span></div><div><br></div><div><span style="font-size:12pt;">â¢ Strong communication skills.</span></div><div><span style="font-size:12pt;">â¢ Work across disciplines with team members from frontend, backend, design, and product.</span></div><div><span style="font-size:12pt;">â¢ Actively participate in product decisions and improve our development workflow.</span></div><div><span style="font-size:12pt;">â¢ 3+ years of relevant work experience building production server infrastructures, ideally using our stack.Experience with measuring and improving server response times in different conditions and environments.</span></div><div><span style="font-size:12pt;">â¢ Experience with unit and integration testing, continuous integration and deployment workflows.</span></div><div><span style="font-size:12pt;">â¢ Experience with developing REST APIs and integrating third-party APIs.</span></div><div><br></div><div><span style="font-size:12pt;">In all cases, you should be motivated by a desire to solve the most important problems and obtain unprecedented results and eager to push your methods to their maximal performance.</span></div><div><br></div><div><b style="font-size:18px;">Bonus Points</b></div><div><br></div><div><span style="font-size:12pt;">â¢ Degree in STEM field, especially software engineering or computer science related.</span></div><div><span style="font-size:12pt;">â¢ Interested in emerging technology such as machine learning and blockchain.</span></div><div><span style="font-size:12pt;">â¢ Track record of migrating legacy infrastructure to modern stacks.</span></div><div><span style="font-size:12pt;">â¢ Experience in small startÂ­up environments helping large enterprises.</span></div><div><span style="font-size:12pt;">â¢ Experience working with a team, especially a distributed team.</span></div><div><br></div><div><b style="font-size:18px;">About Swish </b></div><div><br></div><div>
+<span style="font-size:12pt;">Launched in February 2013, </span><b style="font-size:12pt;"><a href="http://www.swishlabs.com/" class="postings-link" rel="noopener noreferrer nofollow">Swish</a></b><span style="font-size:12pt;"> is a fast-growing business with an innovative working culture and teams spanned across the world with teams in Toronto, San Francisco, Berlin, Auckland, Bruxelles, Medellin, and more. </span>
+</div><div><br></div><div><span style="font-size:12pt;">We create products for successful business using cutting-edge technologies: Blockchain, Machine Learning, and Apps Dev. Working with Swish puts you in contact with prestigious brands, wherever your base is. We are a 100% remote-work company because we believe it is everyoneâs choice to live and work the way they prefer.</span></div><div><br></div><div><span style="font-size:12pt;">Work is organized in sprints  - 2 weeks periods to which, as a member of our talent community, you choose to commit. You always have the choice to accept or decline a sprint, or take-on multiple sprints simultaneously. </span></div><div><br></div><div><span style="font-size:12pt;">We let members choose what suits them best depending on their current situation: family, travel, studies, finance. We know life is not linear and we respect the humans behind the screens. </span></div><div><br></div><div>
+<span style="font-size:12pt;">Our work ethic relies on six core values: Transparency, Directness, Meritocracy, Autonomy, Responsibility, </span><span style="font-size:16px;">Continuous</span><span style="font-size:12pt;"> Learning.</span>
+</div><div><br></div><div><span style="font-size:12pt;">Ensuring a diverse and inclusive workplace where we learn from each other is core to our values. We welcome people of different backgrounds, experiences, abilities, and perspectives. We are an equal opportunity employer and a fun place to work. </span></div><div><br></div><div><span style="font-size:12pt;">Join the future of work today.</span></div><div><br></div><br/><br/>Please mention the word **FAVORABLE** and tag RNS4xODEuODEuNQ== when applying to show you read the job post completely (#RNS4xODEuODEuNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/f80e2ddc26e0f0b143f0b53265e9ae3b1672298134.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +39,7 @@
                     <code>design,crypto,python,technical,support,software,code,web,financial,senior,reliability,engineer,linux,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-tradeblock-171306" align="right" target="_blank">Apply</a>
@@ -63,7 +92,7 @@
 <li>Paid Family Leave for mothers and fathers</li>
 <li>All new employees receive a WFH stipend.</li>
 </ul>
-</div><br/><br/>Please mention the word **ELATION** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **ELATION** and tag RNS4xODEuODEuNQ== when applying to show you read the job post completely (#RNS4xODEuODEuNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -78,7 +107,7 @@
                     <code>design,frontend,code,web,java,node,go,engineer,linux,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-axedras-170338" align="right" target="_blank">Apply</a>
@@ -124,7 +153,7 @@
 
 <h3>How to apply</h3>
 
-<p>Please send your full application CV. A motivation or cover letter is not required. Also, the diplomas specified in your CV do not have to be attached and will be checked at a later stage.</p><br/><br/>Please mention the word **REVELATION** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>Please send your full application CV. A motivation or cover letter is not required. Also, the diplomas specified in your CV do not have to be attached and will be checked at a later stage.</p><br/><br/>Please mention the word **REVELATION** and tag RNS4xODEuODEuNQ== when applying to show you read the job post completely (#RNS4xODEuODEuNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -139,7 +168,7 @@
                     <code>api,AWS,backend,cloud</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/backend-engineer-1535605" align="right" target="_blank">Apply</a>
