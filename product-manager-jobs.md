@@ -10,7 +10,7 @@
                     <code>api,crypto,data science,education</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/growth-product-manager-matcha-1531898" align="right" target="_blank">Apply</a>
@@ -78,7 +78,7 @@
                     <code>android,cloud,ios,linux</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/senior-product-manager-1532466" align="right" target="_blank">Apply</a>
