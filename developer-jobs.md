@@ -10,7 +10,7 @@
                     <code>developer,design,web3,solidity,ethereum,technical,support,growth,web,travel,mobile,content,marketing,engineering,fulltime,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-head-of-developer-relations-flare-network-171310" align="right" target="_blank">Apply</a>
@@ -65,7 +65,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
         <li>Experienced with Solidity, Typescript, and/or Golang.</li>
 </ul>
 
-<p>We ask that you overlap some working hours with GMT. English is essential, other languages are a bonus. Fulltime or grants-based arrangement possible. If this is the kind of role that potentially appeals to you, please reach out.</p><br/><br/>Please mention the word **COMPACTLY** and tag RNS4xODEuODEuNQ== when applying to show you read the job post completely (#RNS4xODEuODEuNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>We ask that you overlap some working hours with GMT. English is essential, other languages are a bonus. Fulltime or grants-based arrangement possible. If this is the kind of role that potentially appeals to you, please reach out.</p><br/><br/>Please mention the word **COMPACTLY** and tag RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5 when applying to show you read the job post completely (#RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -80,7 +80,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>security,developer,cryptocurrency,system,software,testing,financial,api,mobile,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-security-developer-alphapoint-170335" align="right" target="_blank">Apply</a>
@@ -130,237 +130,75 @@ This role is suitable for a developer relations expert with an unrelenting & unc
 <li>Brex company credit card</li>
 <li>Computer equipment and workplace furniture to suit your needs</li>
 <li>Great colleagues and an inspiring startup environment with colleagues internationally</li>
-</ul>                </div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **PLEASANTLY** and tag RNS4xODEuODEuNQ== when applying to show you read the job post completely (#RNS4xODEuODEuNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul>                </div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **PLEASANTLY** and tag RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5 when applying to show you read the job post completely (#RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/8312/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1067/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>XM</h5>
-                    <h3> .NET Developer </h3>
+                    <h5>Proxify AB</h5>
+                    <h3> Senior React Native Developer</h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-net-developer-3" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0066/8312/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0082/1067/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Cyprus
-    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
 </p>
 
-<div>
-<strong> <br></strong><br>
-</div><div>
-<strong>.NET Developer <br></strong><br>
-</div><div>
-<strong>Reference Number: NET1021<br></strong><br>
-</div><div>
-<strong> <br></strong><br>
-</div><div><strong>The Role: </strong></div><div><strong> </strong></div><div>As a .Net Developer you will join our full-stack team to help us deliver high quality code for new and existing projects. </div><div>
-<br> Your main focus will be the development of backend-services using C#  .NET (full framework, .NET Core, .NET5) and supporting application delivery to multiple environments on the direction of CI/CD.</div><div><em> </em></div><div><strong>The main responsibilities of the position include:</strong></div><div><strong> </strong></div><ul>
-<li>Full stack design and the implementation of key internal web applications</li>
-<li>Identify, troubleshoot and debug defects in designated application code</li>
-<li>Write reusable, testable, clean and documented code, utilising prescribed coding conventions</li>
-<li>Follow test driven development, continuous integration and agile methodologies</li>
-<li>Participate in peer code reviews</li>
-</ul><div> </div><div>
-<strong>Main requirements:<br></strong><br>
-</div><ul>
-<li>BS/MS degree in Computer Science, Engineering, or a related subject</li>
-<li>At least 2 years of experience in Microsoft .NET (full framework, .NET Core)</li>
-<li>Proficiency in object-oriented programming (C#) and web concepts (Http, MVC, REST, OAuth)</li>
-<li>A strong background in relational database theory and excellent knowledge of Relational Databases (Postgres, MySQL, SQL server, Oracle)</li>
-<li>Familiarity with front-end web technologies and frameworks (AngularJS, ReactJs, etc.) </li>
-<li>Knowledge of and an active interest in Design Patterns and SOLID architecture principles</li>
-<li>Excellent problem solving and troubleshooting skills</li>
-<li>Outstanding communication and interpersonal skills</li>
-<li>Dynamic and target oriented</li>
-</ul><div><br></div><div><br></div><div>
-<strong>The following will be considered an advantage: <br></strong><br>
-</div><ul>
-<li>Familiarity with CI/CD process (Jenkins, Kubernetes)</li>
-<li>Experience developing with microservices (Docker)</li>
-<li>Experience with asynchronous pub-sub message bus architectures such as RabbitMQ or equivalent.</li>
-</ul><div><br></div><div> </div><div>
-<strong>You will benefit from:<br></strong><br>
-</div><ul>
-<li>An attractive remuneration package </li>
-<li>Private health insurance </li>
-<li>Intellectually stimulating work environment</li>
-<li>Continuous personal development and international training opportunities</li>
-</ul><div>Type of employment: Full time<br><br>
-</div><div>Location: Athens, Cyprus or remote work<br><br>
-</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position.</div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div><div> <br><br>
-</div><div> <br><br>
-</div><div><br></div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-net-developer-3">https://weworkremotely.com/remote-jobs/xm-net-developer-3</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>XM</h5>
-                    <h3> Senior PHP Web Developers– Cyprus, Greece or Remote</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>9 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Cyprus, Greece or Remote
-    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
-</p>
-
-<div>
-<strong>Reference Number: SPHPWD1021<br></strong><br>
-</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>The role:<br></strong><br>
-</div><div>As our new Senior PHP Developer, you will join an amazing team who is dedicated to taking the next step in software engineering. You will make key decisions on software processes, and use Kubernetes and Terraform on PHP, Go, React &amp; Angular on AWS. The team will keep you up-to-date with the latest technology stacks and processes and help you see challenging projects from beginning to end.<br><br>
-</div><div> <br><br>
-</div><div>
-<strong>The main responsibilities of the role include:<br></strong><br>
-</div><div>●        Design and implement new features/projects</div><div>●        Maintain and refactor existing web applications such as the company's website, registration forms, Members Area and internal web services</div><div>●        Research and integrate new web technologies</div><div>●        Write tests that will run on a continuous integration server 24/7 to ensure code testability, code coverage and quality conforms to the company’s highest standards</div><div>●        Resolve support tickets for IT related issues</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>Main requirements:<br></strong><br>
-</div><div>●        BSc/MSc in information technology or any other relevant degree</div><div>●        At least 3 years of experience in a similar position</div><div>●        Very good knowledge of PHP 7+, MySQL, Redis, Git</div><div>●        Very good understanding of object-oriented programming principles</div><div>●        Experience in creating and consuming web services</div><div>●        Experience with modern PHP frameworks</div><div>●        Experience in writing tests with PHPUnit</div><div>●        Ability to research and adapt new web technologies that add value to the team</div><div>●        Strong organisational skills with the ability to multitask and prioritise</div><div>●        Problem solving and analytical skills</div><div>●        Ability to work independently and integrate well within a team</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>The following will be considered an advantage:<br></strong><br>
-</div><div>●        Experience in Symfony framework</div><div>●        Experience in the development of REST APIs</div><div>●        Experience in software development practices like design patterns, SOLID principles, DRY</div><div>●        Very good understanding of security practices (OWASP)</div><div>●        Experience with cloud providers (e.g. AWS)</div><div>●        Experience in database query optimization</div><div>●        Experience in creating composer packages</div><div>●        Experience in front-end frameworks or libraries like Angular or React</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>Benefit from:<br></strong><br>
-</div><div>●        Attractive remuneration package </div><div>●        Private health insurance</div><div>●        Food allowance</div><div>●        Intellectually stimulating work environment</div><div>●        Continuous personal development and international training opportunities</div><div> </div><div>
-<br>Type of employment: Full time<br><br>
-</div><div>
-<br>Location: Cyprus, Greece or Remote <br><br>
-</div><div>
-<br> <br><br>
-</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position. </div><div> </div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1">https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1800/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Whitespectre</h5>
-                    <h3> Experienced Frontend React/Shopify Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>18 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/whitespectre-experienced-frontend-react-shopify-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/1800/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="http://www.whitespectre.com/">http://www.whitespectre.com/</a>
-</p>
-
-<div>
-<a href="http://www.whitespectre.com/"><strong><br>Whitespectre</strong></a> is a product-centric, technology consultancy for both VC funded start-ups and large, established companies across the US and Europe. We’re also a product incubator with our own applications and B2B SaaS platform. As long-term partners to our clients, we’ve played a critical role in their growth- both through the products we co-create and the expertise and processes we bring. Proudly remote first since 2013, we’re a close-knit team of 75, working in fast-moving, cross-functional agile pods to solve interesting technical challenges and drive real business impact.<br><br>
-</div><div><br></div><div><strong>What's it like to be an Engineer at Whitespectre?</strong></div><ul>
-<li>All of our engineers are sharp technical experts with the ability to think like product owners - being able to advocate for code quality as a long-term strategic investment while knowing when to adapt a more start-up mentality to deliver rapid business value. They work with the team to make architecture and implementation decisions, and stay up to date with the latest technologies and approaches.</li>
-<li>Our Frontend engineers live and breathe pixel perfect design, highly performant frontend implementations and are always implementing for multiple devices.</li>
-<li>Whitespectre projects use a fully-modern tech stack- toolset includes Node.js/Express, ReactJS, Typescript, Webpack, Shopify, REST/GraphQL, Rails, Postgres, Elastic, CI/CD with Docker, Heroku/AWS, etc. Working smartly is important to us; automation, dynamic environments spin up with new feature branches and slack bot integrations control our production releases.</li>
-<li>The majority of our projects involve building greenfield applications and our delivery teams typically own products end to end - your thinking and contribution make a big impact! </li>
-<li>You can read more about life in our engineering team in this <a href="https://www.whitespectre.com/ideas/a-day-in-the-life-with-eneko-senior-react-engineer/?utm_source=workable&amp;utm_medium=job-openings">blog post by our Senior Engineer, Eneko.<br></a><br>
-</li>
-</ul><div><strong>Benefits</strong></div><ul>
-<li>Competitive salaries, with payment in USD</li>
-<li>Annual Performance &amp; Salary Reviews, with structured, supported &amp; proactive career management</li>
-<li>20 Days PTO &amp; 3 Charity Days annually</li>
-<li>Funded face-to-face meet ups in Barcelona, as well as South America and Asia</li>
-<li>Assisted Relocation package up to $5k</li>
-<li>Flexible working hours for efficient teaming in a 100% remote environment (proudly remote-first for 9 years!)</li>
-<li>Free English classes &amp; educational expenses support</li>
-<li>Generous Employee Referral Plan</li>
-<li>Team Fitness and Charity Initiatives<br><br>
-</li>
-</ul><div>
-<strong>Cultural benefits<br></strong><br>
-</div><div>In addition to the above benefits, we foster an inclusive working environment that provides:</div><ul>
-<li>Great company environment - check out <a href="https://www.glassdoor.com/Reviews/Whitespectre-Reviews-E1575846.htm?countryRedirect=true">Glassdoor</a>
-</li>
-<li>On-going career guidance &amp; support with your Capability Leader and Mentor working with you to achieve your goals</li>
-<li>Personalized onboardings</li>
-<li>Opportunity to contribute to company-level initiatives</li>
-<li>Work with a broad range of best-in-class technologies</li>
-<li>Cross-company knowledge groups - improve your expertise, share your learnings and work with different technologies and tools</li>
-<li>Regular brown bag learning sessions</li>
-<li>An emphasis on work-life balance<br><br>
-</li>
-</ul><div><strong>   This is the right position for you if want-</strong></div><ul>
-<li>To build frontends on Shopify or other headless commerce platforms</li>
-<li>The challenge of collaborating with business stakeholders and Product Managers to advocate for technology solutions while bearing in mind the tradeoffs for business results</li>
-<li>The responsibility of designing new architectures and being confident to justify your technology decisions. (Plus debating and recognizing when a colleague has an even better idea!)</li>
-<li>The opportunity to go outside your core expertise and strengthen skills with other technologies and learn more</li>
-<li>An environment where excellent communication skills (both verbal and written) are valued and honed.</li>
-<li>A culture where people from different backgrounds interact, collaborate and reach a shared goal<br><br>
-</li>
-</ul><div><strong>The “check the box” Requirements</strong></div><ul>
-<li>3+ years of experience in software development, 3+ years of HTML/CSS/animation/ Javascript) experience</li>
-<li>Have worked on Shopify projects with multiple developers on the team</li>
-<li>Experience contributing to technical decision-making within a team</li>
-<li>Can work full-time with a significant crossover with the core hours: 11 am - 7 pm Central European Time</li>
-<li>Live outside of the US. Please, no recruitment agencies.<br><br>
-</li>
-</ul><div><strong>Interested in applying?</strong></div><ul>
-<li>Apply by completing the form below - and we’ll get back to you. Candidates enjoy meeting our FE Technical Leads, and discussing interesting coding challenges as part of our updated selection process.</li>
-<li>Or email us with any questions on <a href="mailto:frontend-jobs@whitespectre.com">frontend-jobs@whitespectre.com</a>.</li>
-<li>Our process includes the following:<ul>
-<li>A 30 minute video call with our Talent Acquisition team to understand your experience &amp; expectations</li>
-<li>A 60 minute technical interview including a live code working sessions with a lead engineer to explore your technical capabilities</li>
-<li>Final interview(s) with the company leadership to confirm fit &amp; finalize your offer </li>
-</ul>
-</li>
+<div><strong>The Role:</strong></div><div>We are searching for a Senior React Native Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><ul>
+<li>You have +4 years of professional experience working with React Native;</li>
+<li>You have +2 years of professional software development experience;</li>
+<li>You have a deep understanding of React Native best practices and a commitment to following them;</li>
+<li>You possess an ability to work through new and difficult React Native issues and contribute to libraries as needed;</li>
+<li>You are able to create and maintain continuous integration and delivery of React Native applications;</li>
+<li>Team spirit: strong communication skills to collaborate with various stakeholders;</li>
+<li>Good time-management skills;</li>
+<li>You are responsible and able to work with minimal supervision;</li>
+<li>Advanced English level.</li>
+</ul><div><strong>Nice-to-have: </strong></div><ul>
+<li>Timezone: CET (+/- 3 hours);</li>
+<li>Experience working with Swift, Objective C, and/or Java.</li>
+</ul><div><strong>Responsibilities:</strong></div><ul>
+<li>Architect, build, and maintain excellent React Native applications with clean code;</li>
+<li>Implement pixel perfect UIs that match designs;</li>
+<li>Implement clean, modern, smooth animations and transitions that provide an excellent user experience;</li>
+<li>Integrate third-party APIs;</li>
+<li>Write unit and integration tests;</li>
+<li>Release applications to the Apple and Google Play stores;</li>
+<li>Work with native modules when required.</li>
+</ul><div><br></div><div>
+<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<br><br>
+</div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
 </ul>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/whitespectre-experienced-frontend-react-shopify-developer">https://weworkremotely.com/remote-jobs/whitespectre-experienced-frontend-react-shopify-developer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote</a></p>
 
                 </details>
                 </td>
@@ -376,7 +214,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/much-remote-senior-odoo-developer-m-f-d" align="right" target="_blank">Apply</a>
@@ -432,7 +270,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>130 days ago</text>
+                <text>131 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -544,7 +382,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>780 days ago</text>
+                <text>781 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -623,7 +461,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -700,7 +538,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -769,7 +607,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -846,7 +684,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
