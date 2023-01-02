@@ -10,7 +10,7 @@
                     <code>developer,design,web3,solidity,ethereum,technical,support,growth,web,travel,mobile,content,marketing,engineering,fulltime,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-head-of-developer-relations-flare-network-171310" align="right" target="_blank">Apply</a>
@@ -65,7 +65,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
         <li>Experienced with Solidity, Typescript, and/or Golang.</li>
 </ul>
 
-<p>We ask that you overlap some working hours with GMT. English is essential, other languages are a bonus. Fulltime or grants-based arrangement possible. If this is the kind of role that potentially appeals to you, please reach out.</p><br/><br/>Please mention the word **COMPACTLY** and tag RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5 when applying to show you read the job post completely (#RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>We ask that you overlap some working hours with GMT. English is essential, other languages are a bonus. Fulltime or grants-based arrangement possible. If this is the kind of role that potentially appeals to you, please reach out.</p><br/><br/>Please mention the word **COMPACTLY** and tag RMzQuODIuMTE1LjExNw== when applying to show you read the job post completely (#RMzQuODIuMTE1LjExNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -80,7 +80,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>security,developer,cryptocurrency,system,software,testing,financial,api,mobile,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-security-developer-alphapoint-170335" align="right" target="_blank">Apply</a>
@@ -130,7 +130,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
 <li>Brex company credit card</li>
 <li>Computer equipment and workplace furniture to suit your needs</li>
 <li>Great colleagues and an inspiring startup environment with colleagues internationally</li>
-</ul>                </div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **PLEASANTLY** and tag RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5 when applying to show you read the job post completely (#RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul>                </div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **PLEASANTLY** and tag RMzQuODIuMTE1LjExNw== when applying to show you read the job post completely (#RMzQuODIuMTE1LjExNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -145,7 +145,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -214,7 +214,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/much-remote-senior-odoo-developer-m-f-d" align="right" target="_blank">Apply</a>
@@ -270,7 +270,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>131 days ago</text>
+                <text>132 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -382,7 +382,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>781 days ago</text>
+                <text>782 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -451,6 +451,85 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1534788/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Jooble</h5>
+                    <h3>.NET Developer</h3>
+                </td>
+                <td width="300">
+                    <code>.Net,api,C,C#</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/net-developer-1534788" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>Jooble</strong> — is a Ukrainian IT company whose product is used by more than 90 million monthly users in 69 countries all around the world.</p>
+<p><strong>Jooble's Product</strong> — a worldwide employment website that is the second most visited employment service in the world and is among 500 top visited websites globally, according to SimilarWeb.</p>
+<p>Jooble is a <strong>remote-first company</strong>. We believe that talented people can create cool projects no matter where they are. Yet if you like to work from the office – for all employees we have created closed corporate workspaces in Kyiv, Uzhgorod, and Lutsk that are free to be used anytime.</p>
+<p><strong>Our purpose</strong> — Help people all over the world find their dream jobs!</p>
+<p>Due to the constant development of the product, we want to strengthen our team with several <strong>.NET Developers</strong>.</p>
+<div class="h2"><strong>Jooble's product from the technological perspective</strong></div>
+<p>Our website is built upon <strong>microservices architecture</strong>. We use the latest versions of <strong>.NET</strong> and <strong>ASP.NET Core</strong> to create new services and applications. Message queuing with <strong>RabbitMQ</strong> allows transferring data between services and applications in the most effective way. To improve application performance, we implement caching using <strong>Redis</strong>. Our main front-end framework is react.js. To balance the load across multiple site instances, we use <strong>NGINX</strong>. In a bundle with Consul, NGINX balances the traffic among several microservices instances according to setup configurations. <br><br>Massive volumes of data are stored in numerous <strong>MSSQL</strong> and <strong>PostgreSQL</strong> relational databases. Since our website is a search engine, we use <strong>Elasticsearch</strong> to access data quickly. Along with Elasticsearch, we use other instruments of Elastic Stack. For example, Logstash and Kibana allow keeping an eye on error logs of our software. <br><br>Together with DevOps, our Developers implement the best CI/CD practices using <strong>GitLab</strong> and <strong>Jenkins</strong>. Using <strong>Prometheus</strong>, we gather performance metrics of our services and applications and then visualize them on <strong>Grafana</strong> dashboards.</p>
+<div class="h2"><strong>Development culture at Jooble</strong></div>
+<p>At Jooble, we strive to create high-quality code. Therefore, we follow coding standards agreed within the development team and conduct timely and effective <strong>code reviews</strong>. To ensure that our software meets business requirements, we apply <strong>TDD</strong>, <strong>DDD</strong>, and <strong>BDD</strong> techniques. Also, our developers often take part in pair/mob programming sessions to brainstorm ideas, design the best solutions, and share expertise within the team.<br><br>We regularly conduct Tech talks where we share knowledge on implementing new development approaches and solving challenging engineering issues. And on <strong>Product Sprint Demos</strong>, we sync on the overall progress of the whole product. We carefully track the progress on tasks in <strong>Jira</strong>, which provides clarity and transparency of the development process. The team of Technical Writers keep our internal knowledge base in <strong>Confluence</strong> up to date. Opportunities to make an impact.</p>
+<div class="h2"><strong>As a .NET Developer, you will:</strong></div>
+<ul style="">
+<li style="">Implement new features that bring great value to millions of users.</li>
+<li style="">Contribute the code quality enhancement and improve the project's infrastructure.</li>
+<li style="">Design sophisticated algorithms for optimizing the performance of high-load applications.</li>
+<li style="">Work in collaboration with your team members to share knowledge and validate development solutions.</li>
+</ul>
+<div class="h2"><strong>Among the challenges faced by our Engineering Team are:</strong></div>
+<ul style="">
+<li style="">Designing solutions for establishing effective communication with Job Seekers and Employers minimizing business and development resources.</li>
+<li style="">Incorporating machine learning models to match Job Seekers' interests and Employers' needs.</li>
+<li style="">Enabling a smooth transition of internal software modules from monolith to microservices architecture.</li>
+</ul>
+<div class="h2"><strong>Requirements:</strong></div>
+<ul style="">
+<li style="">2 years of experience in C # development, experience with <a href="http://asp.net/" rel="nofollow" tabindex="-1" target="_blank">ASP.NET</a> Core.</li>
+<li style="">Experience with <a href="http://asp.net/" rel="nofollow" tabindex="-1" target="_blank">ASP.NET</a> MVC, Web API</li>
+<li style="">Good knowledge of SQL (MSSQL), experience with highly loaded applications and understanding of the features of multithreaded application development.</li>
+<li style="">Knowledge of English at a level not lower than pre-intermediate</li>
+<li style="">Work according to Ukrainian timezone (GMT+2)</li>
+</ul>
+<div class="h2"><strong>As a Plus:</strong></div>
+<ul style="">
+<li style="">ElasticSearch</li>
+<li style="">Machine learning</li>
+<li style="">Dotnet internals (what's behind built-in classes)</li>
+</ul>
+<div class="h1"><strong>Why Jooble?</strong></div>
+<ul style="">
+<li style="">Work from anywhere : from a home office, or travel continuously if that's what you like. As long as you have Wi-fi, you're all set</li>
+<li style="">Medical insurance (after three months of cooperation)</li>
+<li style="">Mental health support programs</li>
+<li style="">We cover 50% of the cost of training, courses, webinars etc.</li>
+<li style="">We cover 50% of the cost of any language courses</li>
+<li style="">Vacation: 20 working days + 10 additional vacation days</li>
+<li style="">4 sick days per year (no need for a sick leave)</li>
+</ul>
+<p>If in the job description you see yourself and eagerly want to become a member of our team, please send us your CV and our recruiter will reach you.</p>
+<p> </p>
+<p><strong>While you are waiting – you may read how our team works:</strong></p>
+<p><a href="http://hiring.jooble.org/" rel="nofollow">http://hiring.jooble.org/</a></p>
+<p><strong>Watch an interesting video about the work in Jooble:</strong> </p>
+<figure></figure>
+<p><strong> </strong></p>
+<p><strong>More on our Instagram page:</strong></p>
+<p><a href="https://www.instagram.com/jooblelife/" rel="nofollow">https://www.instagram.com/jooblelife/</a></p>
+<img src="https://remotive.com/job/track/1534788/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/814298/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -461,7 +540,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -538,7 +617,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -607,7 +686,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -684,7 +763,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
