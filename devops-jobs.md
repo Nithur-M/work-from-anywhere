@@ -10,7 +10,7 @@
                     <code>ansible,docker,technical,support,devops,banking,bank,cloud,management,operational,engineer,linux</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-devops-tech-support-engineer-soramitsu-172317" align="right" target="_blank">Apply</a>
@@ -52,7 +52,7 @@
 </ul><p><br></p><p><strong>Physical work hours:</strong></p><ul>
 <li><p>The candidate will work on a scheduled shift, (8 pm â 8 am MSK or 8 am - 8 pm MSK)</p></li>
 <li><p>12 hours work and 36-hours rest</p></li>
-</ul><p><strong>Salary details:</strong></p><ul><li><p> $600-$800 Net per month</p></li></ul><p><br></p><p><br></p><p><br></p><br/><br/>Please mention the word **CURE** and tag RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5 when applying to show you read the job post completely (#RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p><strong>Salary details:</strong></p><ul><li><p> $600-$800 Net per month</p></li></ul><p><br></p><p><br></p><p><br></p><br/><br/>Please mention the word **CURE** and tag RMzQuODIuMTE1LjExNw== when applying to show you read the job post completely (#RMzQuODIuMTE1LjExNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -67,7 +67,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-devops-engineer-13" align="right" target="_blank">Apply</a>
