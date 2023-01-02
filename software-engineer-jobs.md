@@ -10,7 +10,7 @@
                     <code>software,design,crypto,security,technical,web,travel,financial,healthcare,engineer,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-xmtp-171312" align="right" target="_blank">Apply</a>
@@ -64,7 +64,71 @@
 <h2><strong>About XMTP, Inc.</strong></h2>
 <p><span style="font-weight:400;">XMTP, Inc. was co-founded by </span><strong><a href="https://twitter.com/mg" rel="noopener noreferrer nofollow">Matt Galligan</a></strong><span style="font-weight:400;"><strong> </strong>and </span><strong><a href="https://twitter.com/shanemac" rel="noopener noreferrer nofollow">Shane Mac</a></strong><span style="font-weight:400;">, and is headquartered on the web. We have an excellent benefits package that includes parental leave, competitive pay, an equipment and home office allowance that refreshes yearly, monthly lifestyle stipend, as well as a personal assistant, and financial advisor. For U.S.-based team members we also provide access to FSA, 401K, and fully paid high quality medical, dental, and vision insurance for you and your family.</span></p>
 <p><span style="font-weight:400;">Weâre backed by some of the best investors in tech and crypto: a16z Crypto Fund, Offline Ventures, Sound Ventures, Distributed Global, Redpoint, IDEO CoLab and many more key ecosystem investors and operators. </span><strong><a href="https://blog.xmtp.com/series-a/#xmtps-investors" rel="noopener noreferrer nofollow">See the full list here</a></strong><span style="font-weight:400;">.</span></p>
-<p><span style="font-weight:400;">XMTP, Inc. is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</span></p><br/><br/>Please mention the word **PAINLESSLY** and tag RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5 when applying to show you read the job post completely (#RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><span style="font-weight:400;">XMTP, Inc. is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</span></p><br/><br/>Please mention the word **PAINLESSLY** and tag RMzQuODIuMTE1LjExNw== when applying to show you read the job post completely (#RMzQuODIuMTE1LjExNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/3712/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Tiller</h5>
+                    <h3> Senior Software Engineer (Ops Focus) at Tiller</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>60 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/3712/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Seattle, WA, USA
+    <br /><strong>URL:</strong> <a href="http://tillerhq.com">http://tillerhq.com</a>
+</p>
+
+<div>Why join the Tiller team? <a href="https://www.youtube.com/watch?v=bnYSGJiznv0">Watch here!</a><br><br>Tiller (tillerhq.com) is a nimble, distributed company transforming the way people handle their finances. We make it easy to track spending and manage money in a spreadsheet with daily bank feeds and helpful templates. We’re passionate about empowering people with their financial data in a flexible, private, and customizable format so they can take control of their future. <br><br>We are looking for a Senior Software Engineer with considerable operations engineering experience to accelerate our team’s adoption of best practices while contributing to product development as a key member of our cross-functional engineering team. Your perspective and track record of implementing modern, state-of-the-art site reliability engineering, CI/CD automation, and service architecture automation will be a force multiplier to our growing team of talented engineers. </div><div><br></div><div>You’ll take ownership of critical DevOps and Site Reliability Engineering projects and provide related mentorship, guidance, and domain expertise to your peers, delivering a reliable service  that will delight our customers now and as we continue to scale. You should have a deep understanding of distributed application service concepts, a propensity for figuring stuff out, and some additional depth in either back-end development, front-end development, or QA automation. You were born a problem solver and love finding efficient and durable ways to solve difficult problems.</div><div><br></div><div><strong>What You’ll Do</strong></div><ul>
+<li>Build secure solutions that honor the trust customers are placing in our service</li>
+<li>Lead the development of operations engineering practices, including collaborating across the organization on capacity planning, service level objectives, error budgets and incident response outcomes</li>
+<li>Collaborate with the rest of the team on a broad range of infrastructure and product development work</li>
+<li>Evangelize the benefits of modern SRE and DevOps practices across the organization</li>
+<li>Highlight and celebrate wins, as well as blamelessly assess failures from current and future attempts at implementing best practices such as CI/CD, observability, alerting and monitoring</li>
+<li>Tenaciously dive into complex infrastructure as well as application code, figure it out, and improve or update it</li>
+<li>Relentlessly share information, always leaving better code, practices, and documentation so it’s easier for others to understand your reasoning and follow your tracks</li>
+<li>Be curious - troubleshoot operational issues when a customer is experiencing a quirky condition or when you or your teammates notice something isn’t quite right</li>
+</ul><div>
+<br><br>
+</div><div><strong>Helpful For Success</strong></div><ul>
+<li>Significant experience as an SRE or DevOps practitioner - you have experience building, operating, and troubleshooting complex applications using cloud infrastructure</li>
+<li>Ideal candidates will have specific experience with Google Cloud Platform</li>
+<li>Some experience with a good cross-section of our tech stack, including Google Cloud Platform, GitHub, Node.js, MongoDB, TypeScript, React, Google Apps Script/Editor Add-ons APIs and ecosystem, and Microsoft Office Add-ins APIs and ecosystem</li>
+<li>Experience maintaining and refactoring legacy applications</li>
+</ul><div><br></div><div><strong>Why Tiller</strong></div><ul>
+<li>We’re small and growing, so you’ll have tremendous agency and outsized impact on our developing culture, the Tiller service, and the success of our customers</li>
+<li>You’ll be surrounded by awesome, supportive colleagues who know how to have fun together</li>
+<li>We’ve been fully remote from day one; work from anywhere</li>
+<li>You’ll have an opportunity to explore a broad range of development and operations tools, technologies, and practices; you won’t be siloed or pigeon-holed</li>
+<li>You’ll have ongoing and repeated opportunities to pull up a seat at a lot of tables and wear multiple ‘hats’, depending on where your interests and capabilities lie; we have growth needs well beyond software development, and you’ll be close to them all, including IT, security, ops, customer support, product management, marketing </li>
+<li>We’re pioneers in Open Banking, a world-wide security and privacy initiative that gives customers more control over what financial institution information they share, and with whom</li>
+<li>Our customers tend to stick around - we have one of the highest customer retention rates among consumer fintech services</li>
+<li>Our team also sticks around, and we have uniquely high retention</li>
+<li>You will be eligible for stock options and equity ownership</li>
+<li>We provide health care coverage</li>
+</ul><div><br></div><div><strong>Our Values</strong></div><div><br></div><div>
+<strong>How we work together: </strong>Tiller is intent on making this a great place to work for our entire team. A place where our team can do their best work, and an environment that supports their full lives, from kids to aging parents, from nieces and nephews and their larger community. </div><div><br></div><div>To do this, four values that guide our work are empowerment, trust, engagement, and optimism. </div><div><br></div><div>We <strong>empower</strong> each other to do our best work. We value good judgment over rules; proactive decisions over approvals. We take ownership in our own productivity, knowing we’re all critical in the success of Tiller. We communicate openly, follow-through, and ask questions. </div><div><br></div><div>We depend on <strong>trust</strong> rather than oversight as a team. We rely on each other to make decisions in the interest of Tiller and our customers. We demonstrate positive intent so that others may presume positive intent. </div><div><br></div><div>
+<strong>Engagement</strong> is the glue that holds us together. We know that communication across the wire is harder than in person, so we take risks in sharing more of ourselves with each other online. We enjoy a good laugh together. We also speak up and raise hard questions with each other. </div><div>
+<br>As a team, we’re also <strong>optimistic</strong>. Despite what sometimes feels like a crushing backlog, a long list of ways we can deliver value to our customers, and a keen awareness of our shortcomings, we keep our focus on a future that is bright.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller-1">https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller-1</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -79,7 +143,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -141,7 +205,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
