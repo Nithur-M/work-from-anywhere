@@ -10,7 +10,7 @@
                     <code>design,crypto,system,security,architect,support,software,test,code,qa,senior,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-rabbithole-172318" align="right" target="_blank">Apply</a>
@@ -51,7 +51,7 @@
 </ul><p></p><h4>Nice to haves</h4><p></p><p></p><ul>
 <li>Knowledge of and passion for crypto applications / Ethereum</li>
 <li>Worked at an early stage startup</li>
-</ul><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/BD6XbT38gZQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ENTERTAINS** and tag RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5 when applying to show you read the job post completely (#RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/BD6XbT38gZQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ENTERTAINS** and tag RMzQuODIuMTE1LjExNw== when applying to show you read the job post completely (#RMzQuODIuMTE1LjExNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -66,7 +66,7 @@
                     <code>software,ethereum,full-stack,developer,javascript,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-full-stack-spruce-171812" align="right" target="_blank">Apply</a>
@@ -86,7 +86,7 @@
 <li>Experience shipping modern full-stack JavaScript to production.</li>
 <li>Eager to work on emerging technology in a rapidly growing ecosystem.</li>
 <li>Comfortable with rapid prototyping for demonstration or research purposes.</li>
-</ul><div><span style="font-size:12pt;">We are passionate about cultivating a thriving culture of diverse people who bring unique perspectives to our mission. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.</span></div><br/><br/>Please mention the word **HAPPY** and tag RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5 when applying to show you read the job post completely (#RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><span style="font-size:12pt;">We are passionate about cultivating a thriving culture of diverse people who bring unique perspectives to our mission. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.</span></div><br/><br/>Please mention the word **HAPPY** and tag RMzQuODIuMTE1LjExNw== when applying to show you read the job post completely (#RMzQuODIuMTE1LjExNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
