@@ -10,7 +10,7 @@
                     <code>manager,bitcoin,react,system,support,software,financial,management,engineering</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-project-manager-blockstream-mining-blockstream-171819" align="right" target="_blank">Apply</a>
@@ -51,7 +51,7 @@
 <li><span style="font-weight:400;">Comfort with the pace, scrappiness and dynamic environment within a growing startup</span></li>
 <li><span style="font-weight:400;">Entrepreneurial mindset; know how to be nimble, spot and react to new opportunities<br><br><br></span></li>
 </ul>
-<p><iframe src="https://www.youtube.com/embed/I06zkXfDR5w" width="400" height="224"></iframe></p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/EKrQP99gUMI" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXEMPLAR** and tag RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5 when applying to show you read the job post completely (#RMjYwMToyYzM6ODU4MDo2MjQwOjpmMDM5). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><iframe src="https://www.youtube.com/embed/I06zkXfDR5w" width="400" height="224"></iframe></p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/EKrQP99gUMI" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXEMPLAR** and tag RMzQuODIuMTE1LjExNw== when applying to show you read the job post completely (#RMzQuODIuMTE1LjExNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
