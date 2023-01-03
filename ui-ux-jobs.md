@@ -1,5 +1,142 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/6932900ccbb3062af7b8234051e3c56d1672643758.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Nova Labs</h5>
+                    <h3>Senior UI UX Designer</h3>
+                </td>
+                <td width="300">
+                    <code>ui,ux,design,founder,designer,software,senior,health,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-ui-ux-designer-nova-labs-173312" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Nova Labs is the founding team behind the Helium Network, the worldâs fastest-growing decentralized wireless network, now live in over 74,000+ cities and 182 countries.</p>
+<p>Nova Labs was founded in 2013 by Napster Founder Shawn Fanning, Amir Haleem, and Sean Carey, with a mission to make it easier to build connected devices. The company has raised equity funding from some of the most prominent Venture Capital (VC) firms in the world including GV (formerly Google Ventures), Khosla Ventures, FirstMark Capital, Marc Benioff, MunichRe and others.</p>
+<p>We are looking for an experienced and creative UI/UX Designer to join the expanding Nova Labs team. Nova Labs is seeking to change the world of connectivity with a highly disruptive model growing at a fast pace.</p>
+<p><span style="font-size:12pt;"><strong>In this role, you will:</strong></span></p>
+<ul>
+<li>Gather user requirements, design graphic elements, navigate components, and create seamless, enjoyable experiences for our users.Â </li>
+<li>Gather and evaluate user requirements in collaboration with product managers and engineers</li>
+<li>Illustrate design ideas using storyboards, process flows and sitemaps</li>
+<li>Design graphic user interface elements, like menus, tabs and widgets, and more</li>
+<li>Build page navigation buttons and search fields</li>
+<li>Develop UI mockups and prototypes that clearly illustrate how sites/apps function and look like</li>
+<li>Create original graphic designs (e.g. images, sketches and tables)</li>
+<li>Prepare and present rough drafts to internal teams and key stakeholders</li>
+<li>Identify and troubleshoot UX problems (e.g. responsiveness)</li>
+<li>Conduct layout adjustments based on user feedback</li>
+<li>Adhere to style standards on fonts, colors and images</li>
+</ul>
+<p><span style="font-size:12pt;"><strong>Required Skills:</strong></span></p>
+<ul>
+<li>Proven work experience as a UI/UX Designer or similar role</li>
+<li>Portfolio of design projects</li>
+<li>Knowledge of wireframe tools (e.g. Wireframe.cc and InVision)</li>
+<li>Up-to-date knowledge of design software like Figma, Sketch etc.</li>
+<li>Team spirit; strong communication skills to collaborate with various stakeholders</li>
+<li>Excellent time-management skills</li>
+<li>Preferred experience within decentralized technologies/blockchain/crypto</li>
+<li>Preferred experience with HMTL/CSS/JS</li>
+</ul>
+<p><span style="font-size:12pt;"><strong>Compensation:</strong></span></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Total compensation structure at Nova Labs is base salary + private equity + perks/benefits</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">The salary pay scale for the target experience and target skill set for this role is $123k - $176k</span></li>
+</ul>
+<p><span style="font-size:12pt;"><strong>Benefits:</strong></span></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">We are a remote-first company</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">100% company-paid health insurance premiums (medical, dental, and vision) for you and your dependents</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Unlimited paid vacation and paid company holidays</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Vacation stipend</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Monthly wellness/gym stipend</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Annual hardware stipend</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">401K plan</span></li>
+</ul><br/><br/>Please mention the word **AWSOME** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/2226/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Opinion Stage</h5>
+                    <h3> Senior UI/UX Product Designer (SaaS)</h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>11 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/opinion-stage-senior-ui-ux-product-designer-saas" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0082/2226/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Tel aviv, Israel
+    <br /><strong>URL:</strong> <a href="https://www.opinionstage.com">https://www.opinionstage.com</a>
+</p>
+
+<div>Opinion Stage is looking for an experienced UI/UX designer to lead the design of an innovative survey &amp; quiz app.</div><div><br></div><div>
+<br><strong>Who we are?<br></strong><br>
+</div><div>Opinion Stage is a SaaS platform for creating visual conversational surveys, polls quizzes &amp; forms that drive top business results.<br><br>
+</div><div>Our surveys &amp; quizzes are used to generate leads, engage audiences, provide actionable insights, do research, drive sales/revenue, and more.<br><br>
+</div><div>Opinion Stage is used by customers such as NBC, Microsoft, Pepsico &amp; Uber.<br><br>
+</div><div>We are a global remote-first team committed to building the most engaging and best-converting surveys &amp; quizzes on the planet.<br><br>
+</div><div>For more information, refer to <a href="https://www.opinionstage.com">https://www.opinionstage.com<strong><br></strong></a><br>
+</div><div>
+<br><strong>Whom do we expect you to be?<br></strong><br>
+</div><div>An experienced designer with a proven track record driving the UX, UI, and overall look &amp; feel of software products (preferably SaaS)<br><br>
+</div><ul>
+<li>5+ years of experience in UI/UX design</li>
+<li>3+ years as a product designer</li>
+<li>In-depth understanding of UX design principles</li>
+<li>The ability to design intuitive, beautiful interfaces for web</li>
+<li>Excellent sense of visual aesthetics (color, typography, spacing, etc.).</li>
+<li>Ability to rapidly prototype and communicate your ideas</li>
+<li>Passion for user psychology</li>
+<li>Passion for logic, consistency, simplicity, and attention to detail</li>
+<li>Quality and pixel-perfect are top priorities for you</li>
+<li>Working experience creating wireframes, screen flows, interaction models, responsive layouts, and UI elements.</li>
+<li>Ability to weigh the pros &amp; cons as well as the cost &amp; benefits of different design solutions</li>
+<li>Excellent verbal, visual, and written communication skills in English</li>
+<li>An awesome portfolio showcasing your previous designs and processes</li>
+<li>Deep &amp; extensive experience with Figma or equivalent</li>
+</ul><div><br></div><div>
+<strong>What will you be doing?<br><br></strong>You’ll have a major impact on how our product works and feels.<br><br>
+</div><ul>
+<li>Take ownership of user experience across all our products and sites including the item creation dashboard, the item widgets (e.g. quiz, survey), 3rd party integrations, and our website</li>
+<li>You will be responsible for research, setting goals, designing wireframes, high-fidelity UI mock-ups, all the way to pixel-perfect designs, and tracking success metrics</li>
+<li>Develop and maintain style guides, UI components, and design Systems to accelerate development and ensure consistency</li>
+<li>You will work closely with our product manager, developers, and content department to ensure the successful planning and implementation of the designs</li>
+</ul><div><br></div><div>
+<strong>What else?<br></strong><br>
+</div><ul>
+<li>This is a 100% remote job</li>
+<li>Align with Europe working hours</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opinion-stage-senior-ui-ux-product-designer-saas">https://weworkremotely.com/remote-jobs/opinion-stage-senior-ui-ux-product-designer-saas</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +147,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>312 days ago</text>
+                <text>313 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -71,7 +208,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
