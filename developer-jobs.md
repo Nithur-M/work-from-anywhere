@@ -10,7 +10,7 @@
                     <code>developer,design,web3,solidity,ethereum,technical,support,growth,web,travel,mobile,content,marketing,engineering,fulltime,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-head-of-developer-relations-flare-network-171310" align="right" target="_blank">Apply</a>
@@ -65,72 +65,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
         <li>Experienced with Solidity, Typescript, and/or Golang.</li>
 </ul>
 
-<p>We ask that you overlap some working hours with GMT. English is essential, other languages are a bonus. Fulltime or grants-based arrangement possible. If this is the kind of role that potentially appeals to you, please reach out.</p><br/><br/>Please mention the word **COMPACTLY** and tag RMzQuODIuMTE1LjExNw== when applying to show you read the job post completely (#RMzQuODIuMTE1LjExNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/0a46a83937ab4a1c76f104015e6fa0ab1672125327.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>AlphaPoint</h5>
-                    <h3>Security Developer</h3>
-                </td>
-                <td width="300">
-                    <code>security,developer,cryptocurrency,system,software,testing,financial,api,mobile,linux,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-security-developer-alphapoint-170335" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="col col-xs-7 description" id="job-description">                    <p><span><span><span><span><span><span>About AlphaPoint:</span></span></span></span></span></span></p>
-<p><span><span><span><span><span><span>AlphaPoint is a financial technology company powering digital asset exchanges and brokerages worldwide. Through its secure, scalable, and customizable white label digital asset trading platform, AlphaPoint has enabled over 150 customers in 35 countries to launch and operate digital asset markets, as well as digitize assets. AlphaPoint and its award winning blockchain technology have helped startups and institutions discover and execute their blockchain strategies since 2013.</span></span></span></span></span></span></p>
-<p><strong><u>(US or Canada based Candidates Only) </u></strong></p>
-<p><strong>Position Overview<u> </u></strong></p>
-<p><span><span><span><span><span><span>We are looking for a Security Developer focused on security features and enhancing the strength of security and fraud prevention tools to protect the wallet and end-user assets from theft and fraudulent activity.</span></span></span></span></span></span></p>
-<p><span><span><span><span><span><span><span>Responsibilities:</span></span></span></span></span></span></span></p>
-<ul>
-<li><span><span><span><span><span><span><span>Coordinate with the development team to understand the system from a security perspective</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Work alongside the development team to create and maintain secure code</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Continuously run security tests against a representative system and presentation of recommendations and results</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Regularly testing our systems from a security perspective </span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Provide input into security-related topics and assist in securing security practices internally within our organization</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Perform application security testing as part of the software development process to ensure there are no security vulnerabilities in a new or updated version of the application.</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span> Participate in deploy tests</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Collaborate with the security team to perform internal pentests</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Strong with testing and QA</span></span></span></span></span></span></span></li>
-</ul>
-<p><span><span><span><span><span><span><span>Basic requirements:</span></span></span></span></span></span></span></p>
-<ul>
-<li><span><span><span><span><span><span><span>Bachelorâs Degree in Computer Science or equivalent</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>At least 5 years of experience in similar roles. </span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Mid-senior experience in cybersecurity-related position </span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Programming and scripting knowledge/skills: Net, C#, Python, PowerShell</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Experience with using Linux</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Experience in API security and mobile application testing</span></span></span></span></span></span></span></li>
-</ul>
-<p><span><span><span><span><span><span>Preferred skills & knowledge:</span></span></span></span></span></span></p>
-<ul>
-<li><span><span><span><span><span><span><span>Professional experience in the Cryptocurrency industry, including exchange, retail trading, deposit and withdraw experience</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Burp Suite, Postman</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Experience with using Linux and kali Linux , Parrot OS or similar others API security testing experience</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Python, PowerShell</span></span></span></span></span></span></span></li>
-</ul>
-<p><b>Here are some of the benefits of working at AlphaPoint:</b></p>
-<ul>
-<li>Competitive salary</li>
-<li>Relocation Bonus </li>
-<li>Unlimited Vacation</li>
-<li>Brex company credit card</li>
-<li>Computer equipment and workplace furniture to suit your needs</li>
-<li>Great colleagues and an inspiring startup environment with colleagues internationally</li>
-</ul>                </div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **PLEASANTLY** and tag RMzQuODIuMTE1LjExNw== when applying to show you read the job post completely (#RMzQuODIuMTE1LjExNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>We ask that you overlap some working hours with GMT. English is essential, other languages are a bonus. Fulltime or grants-based arrangement possible. If this is the kind of role that potentially appeals to you, please reach out.</p><br/><br/>Please mention the word **COMPACTLY** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -145,7 +80,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -204,62 +139,6 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0942/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>much</h5>
-                    <h3> Remote Senior Odoo Developer (m/f/d)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>33 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/much-remote-senior-odoo-developer-m-f-d" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/0942/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> 
-    <br /><strong>URL:</strong> <a href="https://muchconsulting.de">https://muchconsulting.de</a>
-</p>
-
-<div>You want to work as a remote developer with the prospect of coming to Portugal after a successful freelance cooperation?<br><br>We are a boutique consultancy in the heart of Munich and in sunny Lisbon with a focus on business IT &amp; ERP systems.<br><br>Our customers are fast-growing, international start-ups and medium-sized companies. We are ambitious, team-oriented and passionate about our work.<br>We are looking for a dedicated full time Odoo developer to support our Team in ERP development.<br><br><strong><br>Our offer:</strong>
-</div><ul>
-<li>The chance to come to Portugal after your freelance work </li>
-<li>Support with visa process, bureaucracy &amp; relocation</li>
-<li>Inclusion in our motivated &amp; high-performing international team through daily  meetings  </li>
-<li>Challenging projects and autonomy</li>
-<li>Flexible working hours</li>
-<li>Above-average remuneration  </li>
-</ul><div>
-<br><strong>Your profile:</strong>
-</div><ul>
-<li>Studies in computer engineering or similar </li>
-<li>5 or more years experience in Odoo and QWeb</li>
-<li>Ninja programming skills in Python</li>
-<li>Adaptive, quick working method &amp;  high commitment style</li>
-<li>Independent working style </li>
-<li>English speaking team player </li>
-</ul><div><br></div><div><strong>Your tasks:</strong></div><ul>
-<li>Evolve and maintain custom and  open source used modules in our  ERP System Odoo </li>
-<li>Assist our consultants analysing  customer needs to design and build  the best fit IT solutions  </li>
-<li>Development, maintenance, technical fixing &amp; management of  our systems </li>
-</ul><div>
-<br>Learn more about much. Consulting at muchconsulting.com/join</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/much-remote-senior-odoo-developer-m-f-d">https://weworkremotely.com/remote-jobs/much-remote-senior-odoo-developer-m-f-d</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/3165/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -270,7 +149,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>132 days ago</text>
+                <text>133 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -382,7 +261,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>782 days ago</text>
+                <text>783 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -461,7 +340,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>.Net,api,C,C#</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/net-developer-1534788" align="right" target="_blank">Apply</a>
@@ -540,7 +419,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -617,7 +496,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -686,7 +565,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -763,7 +642,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
