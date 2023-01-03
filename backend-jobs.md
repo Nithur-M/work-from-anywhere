@@ -10,7 +10,7 @@
                     <code>design,web3,defi,ethereum,strategist,developer,testing,web,devops,cloud,typescript,lead,senior,health,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-relayer-lukso-172306" align="right" target="_blank">Apply</a>
@@ -47,7 +47,7 @@
 <li>Work fully remote CEST +/-6h or from our picturesque LUKSO office located next to the Spree river in Berlin, Germany</li>
 </ul><div>--</div><div>LUKSO is the new blockchain for the Creative Economy. As a next-generation layer-1 EVM blockchain, LUKSO has introduced new tools and standards that will bring blockchain technology to its next frontier. The building blocks for the New Creative Economy will revolutionize the way users and creators interact with the blockchain. From Fashion, Art, Music, Entertainment, Gaming, Social Media and more, we welcome you to explore our open and interoperable blueprint for the physical and digital worlds.</div><div><br></div><div>LUKSO has introduced new standards called LUKSO Standard Proposals (LSPs), which are the building blocks for the New Creative Economy. These building blocks can be used to create user-friendly dApps and lower the barriers of entry in Web3 for all creators and users.</div><div><br></div><div>
 <a href="https://docs.lukso.tech/standards/universal-profile/introduction" rel="noreferrer noopener nofollow"><strong>Universal Profiles</strong></a> bring social identity to blockchain and improve the overall user experience in Web3. With upgradable security, these platform-agnostic smart-contract-based accounts empower users and creators and allow for true ownership, interoperability, transaction relay services and more.  </div><div><br></div><div>LUKSOâs new standards allow for flexible NFTs that are extensible and directly compatible with Universal Profiles. <a href="https://docs.lukso.tech/standards/nft-2.0/introduction" rel="noreferrer noopener nofollow"><strong>NFTs 2.0</strong></a> are updatable, safer and have unlimited metadata, batch transfers and even better IDs.</div><div><br></div><div>LUKSO is bringing blockchain beyond DeFi with <strong>Cultural Currencies</strong>. The future of blockchain is social, and LUKSOâs essential, future-proof solutions are reshaping the way the world interacts with the blockchain.</div><div><br></div><div>
-<strong>You belong here.</strong><br><br>At LUKSO, we welcome applicants from around the world of all abilities, race, ethnicity, gender/gender expression and age to explore our solutions and join us in building out the foundation for the New Creative Economy. We look forward to meeting you!</div><br/><br/>Please mention the word **DAZZLING** and tag RMzQuODIuMTE1LjExNw== when applying to show you read the job post completely (#RMzQuODIuMTE1LjExNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<strong>You belong here.</strong><br><br>At LUKSO, we welcome applicants from around the world of all abilities, race, ethnicity, gender/gender expression and age to explore our solutions and join us in building out the foundation for the New Creative Economy. We look forward to meeting you!</div><br/><br/>Please mention the word **DAZZLING** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -62,7 +62,7 @@
                     <code>crypto,cryptocurrency,support,bank,java,lead,engineer,engineering,educational,backend</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-tradfi-bitcoincom-172321" align="right" target="_blank">Apply</a>
@@ -108,7 +108,7 @@
 <li>Health insurance reimbursement</li>
 <li>Wellness program (gym, etc.)</li>
 </ul>
-</div><br/><br/>Please mention the word **SUPPORTED** and tag RMzQuODIuMTE1LjExNw== when applying to show you read the job post completely (#RMzQuODIuMTE1LjExNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **SUPPORTED** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -123,7 +123,7 @@
                     <code>design,frontend,technical,support,software,web,css,mobile,lead,analytics,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-swish-171813" align="right" target="_blank">Apply</a>
@@ -137,7 +137,7 @@
 <span style="font-size:12pt;">Launched in February 2013, </span><b style="font-size:12pt;"><a href="http://www.swishlabs.com/" class="postings-link" rel="noopener noreferrer nofollow">Swish</a></b><span style="font-size:12pt;"> is a fast-growing business with an innovative working culture and teams spanned across the world with teams in Toronto, San Francisco, Berlin, Auckland, Bruxelles, Medellin, and more. </span>
 </div><div><br></div><div><span style="font-size:12pt;">We create products for successful business using cutting-edge technologies: Blockchain, Machine Learning, and Apps Dev. Working with Swish puts you in contact with prestigious brands, wherever your base is. We are a 100% remote-work company because we believe it is everyoneâs choice to live and work the way they prefer.</span></div><div><br></div><div><span style="font-size:12pt;">Work is organized in sprints  - 2 weeks periods to which, as a member of our talent community, you choose to commit. You always have the choice to accept or decline a sprint, or take-on multiple sprints simultaneously. </span></div><div><br></div><div><span style="font-size:12pt;">We let members choose what suits them best depending on their current situation: family, travel, studies, finance. We know life is not linear and we respect the humans behind the screens. </span></div><div><br></div><div>
 <span style="font-size:12pt;">Our work ethic relies on six core values: Transparency, Directness, Meritocracy, Autonomy, Responsibility, </span><span style="font-size:16px;">Continuous</span><span style="font-size:12pt;"> Learning.</span>
-</div><div><br></div><div><span style="font-size:12pt;">Ensuring a diverse and inclusive workplace where we learn from each other is core to our values. We welcome people of different backgrounds, experiences, abilities, and perspectives. We are an equal opportunity employer and a fun place to work. </span></div><div><br></div><div><span style="font-size:12pt;">Join the future of work today.</span></div><div><br></div><br/><br/>Please mention the word **FAVORABLE** and tag RMzQuODIuMTE1LjExNw== when applying to show you read the job post completely (#RMzQuODIuMTE1LjExNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><div><br></div><div><span style="font-size:12pt;">Ensuring a diverse and inclusive workplace where we learn from each other is core to our values. We welcome people of different backgrounds, experiences, abilities, and perspectives. We are an equal opportunity employer and a fun place to work. </span></div><div><br></div><div><span style="font-size:12pt;">Join the future of work today.</span></div><div><br></div><br/><br/>Please mention the word **FAVORABLE** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -152,7 +152,7 @@
                     <code>design,crypto,python,technical,support,software,code,web,financial,senior,reliability,engineer,linux,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-tradeblock-171306" align="right" target="_blank">Apply</a>
@@ -205,68 +205,7 @@
 <li>Paid Family Leave for mothers and fathers</li>
 <li>All new employees receive a WFH stipend.</li>
 </ul>
-</div><br/><br/>Please mention the word **ELATION** and tag RMzQuODIuMTE1LjExNw== when applying to show you read the job post completely (#RMzQuODIuMTE1LjExNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/6d030db936cd08ad412dd2bb851c72c21672125350.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>aXedras</h5>
-                    <h3>Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>design,frontend,code,web,java,node,go,engineer,linux,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-axedras-170338" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h3>Who we are</h3>
-
-<p>aXedrasâ¢ vision is to connect and digitalize the precious metal industry. We combine bullion market expertise and cutting-edge information technology to create significant benefits for the stakeholders of the precious metals industry.</p>
-
-<h3>What we do</h3>
-
-<p>aXedrasâ¢ builds and runs the Bullion Integrity Ledgerâ¢ - a trusted digital network based on latest DLT - on which market participants in the precious metals industry can interact with each other to maintain shared ledgers of product and ownership information. The technology of the Bullion Integrity Ledgerâ¢ enables to digitally reflect manifold precious metals industry use cases and applications along the entire value-chain.</p>
-
-<h3>What you will do</h3>
-
-<p>You will have the opportunity to join an innovative and agile IT project within a fast growing and dynamic start-up company. You will to be part of a highly motivated, cross-functional team! You will get the chance to take a driving role in the design and development of the entire stack, with a focus on the microservice components.</p>
-
-<h3>Our Stack</h3>
-
-<p>We develop on GitLab, using Kotlin, Gradle, Docker, NodeJS, React, Terraform and Ansible. An instance of the aXedrasâ¢ stack is composed of a R3 Corda blockchain node, a set of JVM/Spring-Boot-based microservices to control and connect the node to our frontend, and the React-based user interface. Each network member owns its own stack, which is hosted and operated by the customers either on-premise or in the cloud.</p>
-
-<h3>Who we are looking for</h3>
-
-<ul>
-        <li>Applications of all seniority levels are welcome but experience with designing and developing backend applications using Java 8 or another JVM language (preferably Kotlin) is expected.</li>
-        <li>Masterâs/Bachelorâs degree in computer science or in a related field</li>
-        <li>Capable of bootstrapping a backend project from scratch</li>
-        <li>Proficient in structuring and developing RESTful API</li>
-        <li>Knowledge of Spring Boot, JPA/Hibernate, SQL, Gradle</li>
-        <li>Solid understanding of distributed systems, microservice architecture, IPC/RPC and serialization frameworks, web services and network protocols</li>
-        <li>Experience with DevOps, CI/CD, build/deployment-automation, Gitlab pipelines, Linux and Docker</li>
-        <li>Knowledge of DLT/blockchain and specifically R3 Corda is a plus</li>
-        <li>Non JVM experience like Go or Rust experience is a plus</li>
-        <li>Understanding of frontend development in React, Angular, etc. is a plus</li>
-        <li>Proficient in code versioning with Git</li>
-        <li>Fixed (Swiss work permit & residency required) or contractor (remote worldwide, +/- 2h CET preferred) employment is possible</li>
-        <li>Proficient in English</li>
-        <li>German, Italian or Spanish is a plus</li>
-</ul>
-
-<h3>How to apply</h3>
-
-<p>Please send your full application CV. A motivation or cover letter is not required. Also, the diplomas specified in your CV do not have to be attached and will be checked at a later stage.</p><br/><br/>Please mention the word **REVELATION** and tag RMzQuODIuMTE1LjExNw== when applying to show you read the job post completely (#RMzQuODIuMTE1LjExNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **ELATION** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -281,7 +220,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer" align="right" target="_blank">Apply</a>
