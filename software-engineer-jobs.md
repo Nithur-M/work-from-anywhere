@@ -1,5 +1,80 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/90976341162c60df17ee9aac39c9d6ea1672643724.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Orderly</h5>
+                    <h3>Software Engineer Rust</h3>
+                </td>
+                <td width="300">
+                    <code>software,cryptocurrency,security,technical,developer,code,financial,video,fintech,management,reliability,engineer,engineering,educational,full-time,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-rust-orderly-173304" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h2 style="text-align:center;"><strong>Work with the best</strong></h2>
+<p>Orderly Network is a permissionless, decentralized exchange protocol and modular ecosystem built on top of NEAR. It uses an on-chain orderbook to provide a platform complete with a risk engine, matching engine, and shared asset pools for Dapps to build on top of. Dapps built on the Orderly Network will allow for financial instruments such as; Spot Trading, Margin Trading, Perpetual Swaps and Lending & Borrowing.</p>
+<p>Whilst a fully independent team operates at Orderly Network, we were incubated by NEAR and WOO Network - Industry heavyweights in their respective fields. Thanks to both the guidance and expertise Orderly Network will offer market-leading execution with low latency and minimal fees with a combination of orderbook efficiency alongside on-chain settlement. We will become the go-to network for ecosystem partners to come and build upon.</p>
+<h2 style="text-align:center;"><strong>A Glimpse into Your Future at Orderly Network</strong></h2>
+<ul>
+<li>
+<span style="text-decoration:underline;"><em>What will you be working on?</em></span>
+<ul>
+<li>Develop new protocols on the innovative Solana or NEAR blockchain.</li>
+<li>Write and review technical proposals.</li>
+<li>Write, test, and deploy high-performance, networking code.</li>
+<li>Design product architecture according to business needs.</li>
+<li>Program and optimize rust/wasm based smart contracts.</li>
+<li>Develop infrastructure software.</li>
+<li>Implement advanced features from scratch.</li>
+<li>Perform technical analysis and contribute to code reviews.</li>
+<li><span style="font-weight:400;">Provide the vision of how the project should be driven forward from a technical perspective.</span></li>
+<li>Take part in our educational blockchain programs and make your contribution to our startups.</li>
+</ul>
+</li>
+<li>
+<span style="text-decoration:underline;"><em>What challenges will you face?</em></span>
+<ul>
+<li><span style="font-weight:400;">We're looking for a Rust Developer who has been involved in blockchain projects. This is a full-time remote position (possibility to work remotely as fully as partially). We are seeking a determined and creative developer who is passionate about changing the world through technology, someone who will  join a team responsible for implementation of various solutions in the Blockchain and FinTech domains where reliability and efficiency of software is crucial.</span></li>
+</ul>
+</li>
+<li>
+<span style="text-decoration:underline;"><em>What tech stacks/skills will you be using?</em></span>
+<ul>
+<li><span style="font-weight:400;">5+ years of software engineering experience.</span></li>
+<li><span style="font-weight:400;">Experience with Virtual machines used by modern blockchains: WebAssembly, EVM, COSMWASM (would be a plus).</span></li>
+<li><span style="font-weight:400;">Knowledge of best practices in blockchain management and data protection (would be a plus).</span></li>
+<li>You have working experience with Rust in Solana ecosystem.</li>
+<li>Experience or understanding the approach of smart contracts development.</li>
+<li>Experience with relational and non-relational databases.</li>
+<li>Knowledge of REST principles.</li>
+<li>You understand the OOP, OOD, SOLID principles.</li>
+<li>Deep knowledge of standard algorithms and data structures.</li>
+<li>You can analyze and optimize the platformâs performance.</li>
+<li>You have experience with security audits of third-party and internal solutions.</li>
+<li>You are interested in Solana or Near ecosystem.</li>
+<li>You possess strong written and verbal communication skills in English.</li>
+</ul>
+</li>
+</ul>
+<h2 style="text-align:center;"><strong>Interested in Learning More?</strong></h2>
+<ul>
+<li>Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.</li>
+<li>If you have experience in developing trading systems or financial-related products is a plus.</li>
+<li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
+<li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our <a href="https://boards.greenhouse.io/orderlynetwork/jobs/5170520003" target="_blank" rel="noopener noreferrer nofollow">External Referral Incentives Program</a> as well. </li>
+</ul><br/><br/>Please mention the word **PANORAMIC** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/a7512400538d90f81b84f7afbfe06bca1672298167.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +85,7 @@
                     <code>software,design,crypto,security,technical,web,travel,financial,healthcare,engineer,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-xmtp-171312" align="right" target="_blank">Apply</a>
@@ -64,7 +139,66 @@
 <h2><strong>About XMTP, Inc.</strong></h2>
 <p><span style="font-weight:400;">XMTP, Inc. was co-founded by </span><strong><a href="https://twitter.com/mg" rel="noopener noreferrer nofollow">Matt Galligan</a></strong><span style="font-weight:400;"><strong> </strong>and </span><strong><a href="https://twitter.com/shanemac" rel="noopener noreferrer nofollow">Shane Mac</a></strong><span style="font-weight:400;">, and is headquartered on the web. We have an excellent benefits package that includes parental leave, competitive pay, an equipment and home office allowance that refreshes yearly, monthly lifestyle stipend, as well as a personal assistant, and financial advisor. For U.S.-based team members we also provide access to FSA, 401K, and fully paid high quality medical, dental, and vision insurance for you and your family.</span></p>
 <p><span style="font-weight:400;">Weâre backed by some of the best investors in tech and crypto: a16z Crypto Fund, Offline Ventures, Sound Ventures, Distributed Global, Redpoint, IDEO CoLab and many more key ecosystem investors and operators. </span><strong><a href="https://blog.xmtp.com/series-a/#xmtps-investors" rel="noopener noreferrer nofollow">See the full list here</a></strong><span style="font-weight:400;">.</span></p>
-<p><span style="font-weight:400;">XMTP, Inc. is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</span></p><br/><br/>Please mention the word **PAINLESSLY** and tag RMzQuODIuMTE1LjExNw== when applying to show you read the job post completely (#RMzQuODIuMTE1LjExNw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><span style="font-weight:400;">XMTP, Inc. is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</span></p><br/><br/>Please mention the word **PAINLESSLY** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/2201/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Overleaf</h5>
+                    <h3> Software Engineer (Remote UK/EU/USA/Canada)</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/overleaf-software-engineer-remote-uk-eu-usa-canada" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/2201/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London, England, United Kingdom
+    <br /><strong>URL:</strong> <a href="https://www.overleaf.com">https://www.overleaf.com</a>
+</p>
+
+<p><strong>About Us</strong></p>
+<p>Overleaf is a scaleup and social enterprise that builds modern collaborative authoring tools for scientists — like Google Docs for Science. We make an online, real-time collaborative editor for papers, theses and other documents written in the LaTeX markup language.</p>
+<p>We have over 11 million registered users from around the world, over 400,000 people use our platform each day and we host over 100 million user-created projects. Our company is growing and we are looking for Software Engineers to help improve our platform.</p>
+<p>We've been recognised as one of the <a href="https://www.overleaf.com/blog/overleaf-recognized-as-one-of-the-uks-top-100-fastest-growing-businesses" class="external">UK's top 100 fastest growing businesses</a> and included in the <a href="https://www.overleaf.com/blog/overleaf-makes-the-febe-growth-100-list" class="external">FEBE Growth 100 list</a>. We were <a href="https://www.overleaf.com/blog/overleaf-named-2020-saas-awards-winner" class="external"> Best SaaS for Nonprofits or Education</a> in the 2020 SaaS Awards Program, and a finalist in the <a href="https://www.overleaf.com/blog/overleaf-named-finalist-in-digital-leaders-impact-awards-2022" class="external">Digital Leaders Impact Awards 2022</a>. We're part of the <a href="https://www.digital-science.com/" class="external">Digital Science</a> family of science, health and ed-tech companies.</p>
+<p><strong>Our Tech</strong></p>
+<p>Overleaf is based on open-source software, and most of our product code is open-source. You can find it on GitHub: <a href="https://github.com/overleaf/overleaf" class="external">https://github.com/overleaf/overleaf</a></p>
+<p>On the backend, we run a microservices architecture, mainly in Node.js using MongoDB, PostgreSQL and Redis, running on Google Kubernetes Engine. On the front end, we mainly use React. </p>
+<p><strong>Your New Role</strong></p>
+<p>We are looking to hire a software engineer to help improve our platform. This is a complex web app that allows users to edit their scientific documents in collaboration with others, in real-time.</p>
+<p>We are working on projects to improve our group collaboration features, which will include easier ways for groups to share projects, templates and files, and improving permissions' management. We're also planning to make our on-premises version easier to deploy and migrate more of our SaaS features into this product.</p>
+<p>There will be opportunities to work on the frontend, so both backend and full-stack engineers are welcome to apply. (We also have openings for frontend engineers.)</p>
+<p>As part of the engineering team at Overleaf, you will be helping to make Overleaf the go-to place for scientific writing.</p>
+<p><strong>How We Work</strong></p>
+<p>Overleaf is remote-first — all staff work remotely, and this is <a href="https://www.overleaf.com/about/values" class="external">part of our values</a>. We also have an office space in London for those that want to use it, and we get the whole team together a few times a year (usually in the UK) for face-to-face time.</p>
+<p>Our core hours for meetings are 2pm-5pm UK time; we try to schedule all team meetings during this time, including daily 10-15 minute standup calls and biweekly company update calls.</p>
+<p>We always collect user feedback to inform our work. We have UX professionals on our team, and we run many surveys and user interviews. Our engineers work closely with the product team in product trios (PM, engineer, UX) during both discovery and delivery of new features.</p>
+<p>Our development process is based on the "Shape Up" model, using 6-week delivery cycles and a 4-week cooldown between them. In each cycle, we have multiple delivery tracks, each with its own tech lead. Engineers move between delivery teams each cycle. We practice code review, invest in automated testing and are big fans of linting.</p>
+<p><strong>How We Hire</strong></p>
+<p>The stages in our hiring process are typically:</p>
+<ol> <li>We will aim to update you on the status of your application within 5 working days from when we receive it.</li> <li>We'll schedule a 30-minute call for a discussion with our Engineering Director to discuss the role and your experience, to see if they look like a good fit.</li> <li>We'll schedule a more in-depth interview, which is typically two hours long. The first hour is discussion, and the second hour is based on a short homework assignment (max 2h outside of interview) or an exercise during the interview if you prefer. The problems are practical in nature - no fizzbuzz, sorting linked lists or code golf.</li> <li>We'll make an offer. We usually interview in batches, so there may be a short delay while we interview other candidates, but we will keep you informed throughout the process.</li> </ol>
+<p>If you have a deadline, please let us know in your application, and we will try to be accommodating.</p>
+<p><strong>Requirements</strong></p>
+<strong>To do this job well you'll need to:</strong><br><ul> <li>Have 2-3 years of experience working as a backend or full-stack engineer<ul><li>Experience with the technologies we use (like node.js) helps, but you don't need to know them all; your ability to learn is much more important to us.</li></ul> </li> <li>Be based in the US, Canada, the UK or Europe (EU member state)</li> <li>Usually be available in our core hours, 2pm-5pm UK time</li> </ul>
+<p><strong>Benefits</strong></p>
+<ul> <li>Remote and flexible working.</li> <li>Salary up to £75k per year, depending on experience.</li> <li>You would join a small, dedicated and growing team.</li> <li>We're substantially (around 80%) open-source, so your work will often be on open-source code.</li> <li>We organize company and team meetups several times a year for valuable face-to-face time.</li> <li>We'll provide a new Mac, PC or Linux laptop, along with a stipend for other equipment.</li> <li>We provide a training budget and allocate time for training; many of our developers choose to attend relevant industry conferences or buy training materials.</li> <li>We run regular<a href="https://www.overleaf.com/blog/overleafs-remote-hackathon-revisited-one-year" class="external"> remote hackathons</a> to keep learning and experimenting.</li> <li>We run a weekly internal seminar series with short talks from staff about their work or personal projects, new technologies and techniques.</li> <li>Additional benefits package varies by country. Please ask us.</li> </ul>
+<p>We're an equal opportunity employer. All applicants will be considered for employment without attention to race, color, religion, sex, sexual orientation, gender identity, national origin, veteran or disability status. Underrepresented groups often do not apply and we encourage them even if they do not meet all the requirements.</p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/overleaf-software-engineer-remote-uk-eu-usa-canada">https://weworkremotely.com/remote-jobs/overleaf-software-engineer-remote-uk-eu-usa-canada</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -79,7 +213,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>60 days ago</text>
+                <text>61 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tiller-senior-software-engineer-ops-focus-at-tiller-1" align="right" target="_blank">Apply</a>
@@ -143,7 +277,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -205,7 +339,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
