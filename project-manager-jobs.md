@@ -10,7 +10,7 @@
                     <code>manager,bitcoin,react,system,support,software,financial,management,engineering</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-project-manager-blockstream-mining-blockstream-171819" align="right" target="_blank">Apply</a>
@@ -52,6 +52,103 @@
 <li><span style="font-weight:400;">Entrepreneurial mindset; know how to be nimble, spot and react to new opportunities<br><br><br></span></li>
 </ul>
 <p><iframe src="https://www.youtube.com/embed/I06zkXfDR5w" width="400" height="224"></iframe></p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/EKrQP99gUMI" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXEMPLAR** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/1823/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MailerLite</h5>
+                    <h3> IT Project Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/mailerlite-it-project-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/1823/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> USA
+    <br /><strong>URL:</strong> <a href="https://www.mailerlite.com/company-values">https://www.mailerlite.com/company-values</a>
+</p>
+
+<div>
+<strong>Job description<br></strong><br>
+</div><div>
+<a href="https://www.mailerlite.com/">MailerLite</a> is one of the fastest-growing email marketing services. We help more than 1 million businesses around the world to keep in touch with their customers. Today, we are a team of more than 130 dreamers, adventurers, and world travelers passionate about what we do and believe in. And we are ready for another talented person to join the party.</div><div>
+<br>We are looking for a Project Manager to help the Product team ship improvements, features and integrations from the beginning to the end. Let’s 🚀 together!<br><br><br>
+</div><div>
+<strong>Why MailerLite?<br></strong>Wondering why we think you’ll love working at MailerLite? Here are 5 reasons!</div><div><br></div><ul>
+<li>
+<strong>You won’t be bored<br></strong>The role includes working on a variety of projects from smaller to bigger ones with a multicultural team.<br><br>
+</li>
+<li>
+<strong>You will take ownership<br></strong>We don’t micromanage and try not to interrupt your work with random tasks. We do expect you to take full responsibility and ownership for the stuff you build.<br><br>
+</li>
+<li>
+<strong>You will have experts at hand<br></strong>Whenever you’re stuck, your teammates are eager to help you grow. And they’d love for you to share your knowledge too!<br><br>
+</li>
+<li>
+<strong>You can pick where you want to work, every day<br></strong>At MailerLite, we embrace the remote culture. Every day you get to choose what environment makes you most productive.<br><br>
+</li>
+<li>
+<strong>You can count on stability<br></strong>You can count on us to offer you a stable workplace! We're continuously growing and we’ve been around for more than 10 years.</li>
+</ul><div>
+<br><br><strong>What you will work on</strong>
+</div><ul>
+<li>Manage your team’s backlog, constantly iterating on scope, working with the team to plan, ensure timely delivery of business goals</li>
+<li>Promote the principle of continuous and measurable improvement</li>
+<li>Host online calls for brainstorming, planning and online team-buildings</li>
+<li>Collaborate with marketing and support teams to launch projects louder and smoother</li>
+<li>Work on your own ideas to improve the team’s productivity or the product itself<br><br>
+</li>
+</ul><div>
+<br><br>
+</div><div><strong>What we expect from you</strong></div><ul>
+<li>Have a proven experience in agile methodologies preferably with development teams.</li>
+<li>Outstanding communication skills in English.</li>
+<li>Can deal with uncertainty around business requirements.</li>
+<li>Creative problem-solving and can-do approach.</li>
+<li>Has experience working with GitHub, Notion and Zoom.</li>
+<li>Can plan kick-ass events online for team-building.</li>
+<li>Strong growth mindset, passionate about learning.</li>
+<li>Outstanding attention to detail (if you apply, include the word <em>lite</em> somewhere in your application).</li>
+<li>Interested in one or more industries: email marketing, automation, e-commerce, mobile apps (iOS), web development.</li>
+</ul><div>
+<br><br><strong>What we offer</strong>
+</div><ul>
+<li>Yearly salary: $36000 - $45600 a year (gross)</li>
+<li>Remote-first culture with the team working remotely from all over the world</li>
+<li>Remote health insurance. Every team member gets global health insurance with full coverage in their home country and 175+ countries. No exclusions for pandemics</li>
+<li>Company-paid retreats. Once per year we gather for a week in an exotic location to work, learn and have fun together</li>
+<li>31 days of vacation per year. We encourage you to unplug and recharge!</li>
+<li>4 creative days. One paid day off per quarter to do something creative and fun.</li>
+<li>12 parental days per year. Parents can take one paid day off every month to spend time with their children.</li>
+<li>Parenting budget. Anyone who becomes a parent through childbirth or adoption gets a budget as a gift.</li>
+<li>Joy Budget. Annual budget to spent on whatever that brings you joy.</li>
+<li>MacBook and other tools that'll help you to do your job efficiently</li>
+<li>Check the full list of our awesome benefits <a href="https://www.mailerlite.com/jobs"><strong>here.</strong></a>
+</li>
+</ul><div>
+<br><br><strong>Meet your Team Lead</strong>
+</div><div><img src="https://www.mailerlite.com/img/containers/assets/team/avatars/migle_.jpg/c89593e701f6c96855c0e8c26c3ad383.jpg" width="160" height="160"></div><div>
+<strong>Migle - </strong>Product Manager<br><a href="https://www.linkedin.com/in/miglenav/">LinkedIn profile</a>
+</div><blockquote>I’m Migle which is a pretty hard Lithuanian name to pronounce. Let's just say I have way too many nicknames to count. I am Product Manager at MailerLite and I've been in the company for almost 6 years. I enjoy travelling maybe a bit too much while at home I attend pilates class, go for a walk with my Shiba or spend time discovering new tools. I #lovemyjob because we have a great bunch of people to tackle challenges together. Come and join us!</blockquote><div><br></div><div><br></div><div><strong>Interested?</strong></div><div>
+<br>Don't send us a CV. We like to do things differently. Instead, fill out the application form <a href="https://mailerlite1.recruitee.com/o/it-project-manager/c/new"><strong>HERE.</strong></a>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/mailerlite-it-project-manager">https://weworkremotely.com/remote-jobs/mailerlite-it-project-manager</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
