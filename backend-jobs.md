@@ -10,7 +10,7 @@
                     <code>design,web3,defi,ethereum,strategist,developer,testing,web,devops,cloud,typescript,lead,senior,health,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-relayer-lukso-172306" align="right" target="_blank">Apply</a>
@@ -62,7 +62,7 @@
                     <code>crypto,cryptocurrency,support,bank,java,lead,engineer,engineering,educational,backend</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-tradfi-bitcoincom-172321" align="right" target="_blank">Apply</a>
@@ -123,7 +123,7 @@
                     <code>design,frontend,technical,support,software,web,css,mobile,lead,analytics,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-swish-171813" align="right" target="_blank">Apply</a>
@@ -152,7 +152,7 @@
                     <code>design,crypto,python,technical,support,software,code,web,financial,senior,reliability,engineer,linux,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-tradeblock-171306" align="right" target="_blank">Apply</a>
@@ -220,7 +220,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>62 days ago</text>
+                <text>63 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer" align="right" target="_blank">Apply</a>
