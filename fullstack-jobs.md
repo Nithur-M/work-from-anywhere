@@ -10,7 +10,7 @@
                     <code>design,crypto,system,security,architect,support,software,test,code,qa,senior,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-rabbithole-172318" align="right" target="_blank">Apply</a>
@@ -66,7 +66,7 @@
                     <code>software,ethereum,full-stack,developer,javascript,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-full-stack-spruce-171812" align="right" target="_blank">Apply</a>
