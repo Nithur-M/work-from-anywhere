@@ -10,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-frontend-engineer-remote-uk-eu-usa-canada" align="right" target="_blank">Apply</a>
@@ -71,7 +71,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clevertech-senior-frontend-engineer-1" align="right" target="_blank">Apply</a>
@@ -126,7 +126,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>363 days ago</text>
+                <text>364 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-frontend-engineer" align="right" target="_blank">Apply</a>
