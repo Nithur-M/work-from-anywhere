@@ -1,71 +1,192 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/7c0879a20fe0f3fae8111b0d0fd0438a1672298151.jpg" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/263c4a546896f4e5cd3dd3c460de5c5d1672816535.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Flare Network</h5>
-                    <h3>Head of Developer Relations</h3>
+                    <h5>Spruce</h5>
+                    <h3>Developer Relations</h3>
                 </td>
                 <td width="300">
-                    <code>developer,design,web3,solidity,ethereum,technical,support,growth,web,travel,mobile,content,marketing,engineering,fulltime,digital nomad</code>
+                    <code>developer,web3,ethereum,technical,software,content,engineering,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-head-of-developer-relations-flare-network-171310" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-developer-relations-spruce-174276" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>This role is remote and location agnostic. Full time or paid via grant.<br>
-This role is suitable for a developer relations expert with an unrelenting & uncompromising passion for truly decentralized and trustless infrastructure. As well as having the chutzpah to design & scale a developer adoption programme with strong support from a stellar engineering team.</p>
+                <div>The strength of devrel is only as good as the strength of developer evangelists that they organically create. Your job is to create missionaries. Spruce is searching for a proactive individual with exceptional organizational and communication skills for a new Developer Relations position, focused on Sign-In with Ethereum, Decentralized Identity, and Web3. </div><div><br></div><div>At Spruce, we are letting users control their identity and data across the web. We hire individuals who love technology and are committed to intellectual honesty, user privacy, and innovation.</div><div><br></div><div><span style="font-size:18px;">Responsibilities</span></div><div>- Build and grow a dedicated international developer community around Sign-In with Ethereum and Spruceâs libraries and products. </div><div>- Continually produce and maintain content around our libraries and products including spotlights on new features, dapp-building tutorials, and more. This content is well documented and leads to developer conversion from followers, to tinkerers, and finally, contributors. </div><div>- Ensure developers using Spruceâs product documentation never hit a snag, and if they do, those problems are resolved in a timely manner. </div><div>- Partner with organizations, conferences, and projects to build advocacy, brand awareness, and content around Spruceâs Web3 efforts. </div><div>- Attend and represent Spruce at hackathons, conferences, university meetups, and more to get interested developers up and running on Spruceâs products. </div><div><br></div><div>
+<span style="font-size:18px;">Qualifications</span><span style="font-size:12pt;"> </span>
+</div><div>- Previous experience working with and fostering active developer communities. </div><div>- Excellence in technical writing, and the ability to break down complex topics into tutorials and content for developers to follow.</div><div>- Experience working with Web3 developer tools.</div><div>- Comfortable with rapid directional changes of focus in a startup environment. </div><div>- Experience collaborating with diverse project and engineering teams.</div><div>- Ability to handle multiple projects and tasks simultaneously.</div><div><br></div><div><span style="font-size:18px;">Bonus</span></div><div>- Contributions to open-source software projects and technology standards.</div><div>- Full-time experience working remotely.</div><div>We are passionate about cultivating a thriving culture of diverse individuals who bring unique perspectives to our mission. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.</div><br/><br/>Please mention the word **STYLIZED** and tag RMTA3LjE3OC4yMzIuMTY0 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTY0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/5829/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Toptal</h5>
+                    <h3> Unreal Engine Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/toptal-unreal-engine-developer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/5829/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
-<p>Flareâs EVM compatibility means Ethereumâs tooling is readily available & solidity developers will have few problems picking up the code.</p>
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://www.toptal.com/">https://www.toptal.com/</a>
+</p>
 
-<p>As Head of Developer Relations you will become Flareâs leading light amongst the most influential developer communities within Web3 and beyond. You will be backed to the hilt and responsible for leading all developer engagement, hackathons & bounty programmes.</p>
+<div>
+<strong><em>Design your full-time freelance career as a top freelance developer with Toptal. </em></strong><br><br>Freelance work is defining developer careers in exciting new ways. If you’re passionate about finding rapid career growth potential working with leading Fortune 500 brands and innovative Silicon Valley startups, Toptal could be a great fit for your next career shift. <br><br>Toptal is an exclusive talent network made up of the world’s top 3% of developers, connecting the best and brightest freelancers with top organizations. Unlike a 9-to-5 job, you’ll choose your own schedule and work from anywhere. <strong>Jobs come to you, so you won’t bid for projects against other developers in a race to the bottom. </strong>Plus, Toptal takes care of all the overhead, empowering you to focus on successful engagements while getting paid on time, at the rate you decide, every time. Our sophisticated screening process makes sure you are provided with top clients without additional overhead, as well as assistance in maximizing the potential of your full-time freelance career. Joining the Toptal network also gives you access to technical training programs, mentors, and coaching programs, so you can connect with a global community of experts like you to share peer-to-peer knowledge and expand your network globally. <br><br>As a freelance developer, you can become a part of an ever-expanding community of experts in over 120 countries, working remotely on projects that meet your career ambitions. <br><br>That’s why the world’s top 3% of developers choose Toptal. Unreal Engine developers in our exclusive network share:<br><br>
+</div><ul>
+<li>English language proficiency</li>
+<li>
+<strong>3+ years</strong> of professional experience in software development</li>
+<li>Strong experience in <strong>Unreal Engine</strong>
+</li>
+<li>Strong <strong>AR/VR</strong> Development experience</li>
+<li>Experience with 3D Studio Max or Maya is preferred</li>
+<li>
+<strong>Full-time availability</strong> is a strong advantage</li>
+</ul><div>If you’re interested in pursuing an engaging career working on full-time freelance jobs for exclusive clients, take the next step by clicking apply and filling out the short form: <a href="https://topt.al/wacMxe"><strong>https://topt.al/wacMxe</strong></a>
+</div>
 
-<h3>Your impact:</h3>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toptal-unreal-engine-developer-1">https://weworkremotely.com/remote-jobs/toptal-unreal-engine-developer-1</a></p>
 
-<ul>
-        <li>First & foremost, you have a passion for relating to developers.</li>
-        <li>Build the developer relations programme and scale the team required.</li>
-        <li>Working with the Ecosystem Team, strategize the products & programme of content required to fuel rapid developer adoption.</li>
-        <li>Represent Flare Networks at developer conferences and events by leading the execution of Flare Networkâs hackathons.</li>
-        <li>Oversee the participation in all the other major Web 3 hackathons & developer conferences by giving speeches, doing live demos of Flare Networks, and interacting with attendees.</li>
-        <li>Create inspiring product demos, tutorials, and other videos to use for events and marketing.</li>
-        <li>Create and publish technical content that will excite Web 2 & 3 audiences.</li>
-        <li>Manage and grow developer communication channels such as Github & Discord. Moderate discussions across forums in a timely manner.</li>
-        <li>Be an active and respected participant within Ethereum and other major layer 1 protocolâs ecosystems.</li>
-        <li>Clearly communicate complex topics to non-technical audiences, changing the relevant level of complexity for the relevant stakeholders.</li>
-        <li>Respond quickly to conceptual and technical troubleshooting questions (design applications, integration into existing services, deployment and more). Providing strategic end-user feedback to the protocol and product development teams.</li>
-        <li>Always personable and sufficiently empathetic to be able to extrapolate the relevant issues and provide robust easy to comprehend solutions.</li>
-        <li>Collaborate with marketing & partnerships to launch new features & products.</li>
-        <li>Always have a unique growth mindset.</li>
-</ul>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1067/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Proxify AB</h5>
+                    <h3> Senior Rust Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-rust-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0082/1067/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
-<h3>How to be a stand-out candidate:</h3>
+<p>
+  <strong>Headquarters:</strong> Sweden
+    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+</p>
 
-<ul>
-        <li>Passion for layer 1 protocols & EVM bridge growth areas within Web 3.0.</li>
-        <li>Strong presence already within major Web3 communities.</li>
-        <li>Solid public speaking experience.</li>
-        <li>Exemplary interpersonal skills and ability to effectively communicate, build rapport and relate to others.</li>
-        <li>Experience running hackathons or plenty of experience attending high caliber hacks.</li>
-        <li>Typically a min of 6+ years experience working as a developer or evangelist or dev-tools expert.</li>
-        <li>Strong engineering skills; experience in building web and/or mobile applications.</li>
-        <li>Strong technical writing skills; ability to clearly communicate complex ideas and concepts.</li>
-        <li>Social and hustling skills; a desire to get out and meet people.</li>
-        <li>Passion for inspiring and educating fellow developers.</li>
-        <li>Ability to work in a hyper-fast environment.</li>
-        <li>Willingness to travel and work irregular hours when required.</li>
-        <li>Community experience including organizing meetups.</li>
-        <li>Passion for building a developer community around the world and desire to invest your energy to make them better.</li>
-        <li>Experienced with Solidity, Typescript, and/or Golang.</li>
-</ul>
+<div><strong>The Role:</strong></div><div>We are searching for a Senior Rust Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><div><br></div><ul>
+<li>You have +4 years of solid experience as a Rust Developer in a top-notch environment;</li>
+<li>You have +3 years of experience in building a scalable blockchain-based application architecture;</li>
+<li>You have extensive experience with any other low-level backend programming language (C/C++, Go, etc.);</li>
+<li>You have previous experience in building enterprise-grade solutions for specialized platforms (Blockchain, AI, Finance, HTS, etc.);</li>
+<li>Responsible and able to work with minimal supervision;</li>
+<li>Upper-intermediate English level;</li>
+<li>You can communicate well with both technical and non-technical clients.</li>
+</ul><div><br></div><div><strong>Nice-to-have: </strong></div><ul>
+<li>Willingness to learn blockchain technology in order to help blockchain engineers in developing software;</li>
+<li>Good knowledge of security best practices;</li>
+<li>Comfortable setting up an environment from scratch;</li>
+<li>Timezone: CET (+/- 3 hours).</li>
+</ul><div><strong> </strong></div><div><strong>Responsibilities:</strong></div><ul>
+<li>Participating in a research process about traits, solutions, trends, and security measures required for the proper use of blockchain technology;</li>
+<li>Writing and helping maintain automated tests;</li>
+<li>Identifying security risks;</li>
+<li>Providing accurate timing estimates on work;</li>
+<li>Collaborating with the stakeholders.</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>What we offer:<br></strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
+<br><br>
+</div><div><strong>Your benefits with Proxify:</strong></div><ul>
+<li>
+<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
+<li>
+<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
+<li>
+<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
+<li>
+<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
+<li>
+<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
+</ul><div>
+<br><br><br><br><br><br><br>
+</div>
 
-<p>We ask that you overlap some working hours with GMT. English is essential, other languages are a bonus. Fulltime or grants-based arrangement possible. If this is the kind of role that potentially appeals to you, please reach out.</p><br/><br/>Please mention the word **COMPACTLY** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-rust-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-rust-developer-long-term-job-100-remote</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/2269/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Maprehend</h5>
+                    <h3> Senior Software Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/maprehend-senior-software-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/2269/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="https://maprehend.com/">https://maprehend.com/</a>
+</p>
+
+<h1>Senior Software Developer</h1><div>Play key role to lead development for highly intelligent business selling platform<br><br>
+</div><div>
+<br><br>
+</div><div>
+<strong>BRIEF DESCRIPTION<br></strong><br>
+</div><div>Growing startup in Silicon Valley looking for someone who can help lead our product development and take it to the next generation. With Vue.JS, Laravel and PostgreSQL, you’ll build innovative features across the stack from back-end to middleware to front-end.<br><br>
+</div><div>
+<strong>BACKGROUND</strong><br>It all started with an idea to create a highly complex, unique type of eCommerce that even websites like Amazon cannot do. Think a bot, but powered by a highly intelligent, flexible brain that can determine any customer’s unique needs and solutions, no matter how custom the situation may be.<br><br>
+</div><div>Three years after launching our first solution, we’re growing, profitable, and have customers who absolutely love our product. We believe we’re on a path to create an entirely new type of technology that’s going to change how customized selling can be done on the internet.<br><br>
+</div><div>The best part is, our team and software is still very early stage and we have much more cool technology to build and improve upon. That’s where you come in.<br><br>
+</div><div>
+<strong>ABOUT THE JOB</strong><br>Full Stack Developer who likes the idea of working with a very small team and being able to take our product to the next level.<br><br>
+</div><div>You’re passionate about building solid code that’s easy to maintain and scale. You strive to make sure your code is automatically tested. You make features in days, not weeks.<br><br>
+</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/maprehend-senior-software-developer">https://weworkremotely.com/remote-jobs/maprehend-senior-software-developer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -80,7 +201,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-5" align="right" target="_blank">Apply</a>
@@ -119,323 +240,69 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1067/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0067/1147/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior React Native Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>33 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/1067/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div><strong>The Role:</strong></div><div>We are searching for a Senior React Native Developer. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div><br></div><div><strong>What we are looking for:</strong></div><ul>
-<li>You have +4 years of professional experience working with React Native;</li>
-<li>You have +2 years of professional software development experience;</li>
-<li>You have a deep understanding of React Native best practices and a commitment to following them;</li>
-<li>You possess an ability to work through new and difficult React Native issues and contribute to libraries as needed;</li>
-<li>You are able to create and maintain continuous integration and delivery of React Native applications;</li>
-<li>Team spirit: strong communication skills to collaborate with various stakeholders;</li>
-<li>Good time-management skills;</li>
-<li>You are responsible and able to work with minimal supervision;</li>
-<li>Advanced English level.</li>
-</ul><div><strong>Nice-to-have: </strong></div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Experience working with Swift, Objective C, and/or Java.</li>
-</ul><div><strong>Responsibilities:</strong></div><ul>
-<li>Architect, build, and maintain excellent React Native applications with clean code;</li>
-<li>Implement pixel perfect UIs that match designs;</li>
-<li>Implement clean, modern, smooth animations and transitions that provide an excellent user experience;</li>
-<li>Integrate third-party APIs;</li>
-<li>Write unit and integration tests;</li>
-<li>Release applications to the Apple and Google Play stores;</li>
-<li>Work with native modules when required.</li>
-</ul><div><br></div><div>
-<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.<br>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Senior Full Stack Developer</h3>
+                    <h5>OperateBeyond</h5>
+                    <h3> PHP Developer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>120 days ago</text>
+                <text>450 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
+                <img src="https://we-work-remotely.imgix.net/logos/0067/1147/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
+  <strong>Headquarters:</strong> Michigan
+    <br /><strong>URL:</strong> <a href="http://operatebeyond.com/">http://operatebeyond.com/</a>
 </p>
 
-<div><strong>The Role:</strong></div><div>We are searching for a Senior Full Stack Developer skilled in React.js and Node.js. You can be a perfect candidate if you are growth-oriented, you take pleasure in your work, and you enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features. </div><div>
-<br><br>
-</div><div><strong>What we are looking for:</strong></div><ul>
-<li>4+ years of working experience as a FullStack;</li>
-<li>Frontend:<br>- React JS;<br>- Design System;</li>
-<li>Backend:<br>- Microservices architecture;<br>- NodeJS; </li>
-<li>Database:<br>- SQL;<br>- MongoDB;</li>
-<li>Upper-intermediate or higher English level.</li>
-</ul><div><br></div><div><strong>Nice-to-have: </strong></div><ul>
-<li>Timezone: CET (+/- 3 hours);</li>
-<li>Database Architecture knowledge</li>
-</ul><div>
-<br><br>
+<div><br></div><div>OperateBeyond is a fast growing technology company building web and mobile applications. We specialize in delivering top-notch user experiences paired with solid technology in non-auto vehicle software industry. Our successes come from our teamwork and mutual respect for each other’s talents and unique perspectives.<br><br>
 </div><div>
-<strong>What we offer:</strong>💻 <strong>100% remote work</strong>: Work from anywhere.👌🏻 <strong>Flexibility</strong>: The ability to change the project to another one.💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.🚀 <strong>360 degree growth</strong>: Opportunities for professional development and personal growth.</div><div>
-<br><br>
-</div><div><strong>Your benefits with Proxify:</strong></div><ul>
-<li>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference. </li>
-<li>
-<strong>Make an impact</strong>: You get the opportunity to work on the projects that inspire you and add value to your career.</li>
-<li>
-<strong>Transparency</strong>: Contracts with transparency in earnings and working hours.</li>
-<li>
-<strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.</li>
-<li>
-<strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/3165/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SocialHub</h5>
-                    <h3> ReactJS Web Developer - Remote/SaaS (m/f/d)</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>134 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/3165/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Schütterlettenweg 4, 85053 Ingolstadt, Deutschland
-    <br /><strong>URL:</strong> <a href="https://socialhub.io/de/">https://socialhub.io/de/</a>
-</p>
-
-<div>
-<strong>DOES THIS SOUND LIKE YOU?<br></strong><br>
-</div><ul>
-<li>You like to build clean and well structured Software that your clients love to use.<br><br>
-</li>
-<li>You’ve been making your way through the world of frontend frameworks for at least 3 years, have developed a variety of applications and have an understanding of the good and the bad aspects of each framework.<br><br>
-</li>
-<li>Your ReactJS skills are strong. You know how to build large and scalable web applications.<br><br>
-</li>
-<li>You know how to spot performance issues and how to resolve them.<br><br>
-</li>
-<li>Using a DVCS like git comes natural to you.<br><br>
-</li>
-<li>You enjoy working within a team, helping fellow team members find elegant solutions to complicated problems and would happily jump into a code review at a moment's notice.</li>
-</ul><div>
-<br><br>
+<br>So when we say we are looking for a PHP Developer we do want want you to be an awesome back-end developer who’s dabbled with many different projects. We are looking for someone who can hold their own when when it comes to system integrations, databases, and even be interested in understanding more about user experience to help us shape amazing products.<br><br>
 </div><div>
-<strong>YOUR REQUIREMENTS FOR THE JOB</strong><br><br>
+<strong><br>What you might do on any given day:<br></strong><br>
 </div><ul>
-<li>At least 3 years of commercial experience<br><br>
+<li>Work with a variety of technologies and platforms such as PHP, ZF2, ZF1, Laravel, ElasticSearch, MySQL, Vue.js, jQuery and many more technologies we may introduce<br><br>
 </li>
-<li>Strong proficiency in modern JavaScript, browsers (and their quirks) including stylesheets and DOM manipulation.<br><br>
+<li>Collaborate with product managers and technical leads<br><br>
 </li>
-<li>Previous commercial experience building component-based web applications.<br><br>
+<li>Develop comprehensive use cases and test conditions<br><br>
 </li>
-<li>A practical approach to development including the reuse of shared components and open source projects rather than always reinventing the wheel.<br><br>
+<li>Take part in analysis efforts, identification, and recommendation of solutions, integration points and related implementation architecture for business usage improvements, scalability and performance.<br><br>
 </li>
-<li>In-depth knowledge of the ReactJS ecosystem including Redux, Redux-Saga, Reselect, Styled Components.<br><br>
+<li>Provide guidance in the form of code review, solution design, and recommended training and development plans.<br><br>
 </li>
-<li>An appreciation of good UI/UX design and the ability to translate wireframes into high quality, reusable code.<br><br>
+<li>Write unit tests, specs, integration tests, UI tests, and acceptance tests.<br><br>
 </li>
-<li>Fluid in the different approaches to storing and structuring data (e.g. Immutable Structures).<br><br>
+<li>Advocate for new or improved development practices that increase craftsmanship, availability, resilience, and scalability of our solutions<br><br>
 </li>
-<li>An understanding of test driven development with frameworks like Jest.<br><br>
-</li>
-<li>Experience with browser-based debugging and performance optimisation.<br><br>
-</li>
-<li>Common development tools such as Git, Babel, Create-React-App and Yarn have been part of your toolkit for a while.<br><br>
-</li>
-<li>Some experience with React Native. Even if it was a small demo or side project.<br><br>
-</li>
-<li>Startup-Spirit (ambition, flexibility &amp; willingness to experiment)<br><br>
-</li>
-<li>You are able to work and communicate with your teammates through our core hours (11am to 4pm german timezone)</li>
 </ul><div>
-<br><br><strong>THESE SKILLS WOULD BE BENEFICAL FOR YOU</strong><br><br>
+<strong><br>We think you’ll enjoy working with our team if you:<br></strong><br>
 </div><ul>
-<li>Knowledge of some of the new cutting-edge ECMAScript features.<br><br>
+<li>Bring a passion to stay on top of tech trends, experiment with and learn new technologies, participate in technology communities.<br><br>
 </li>
-<li>If you have experience with web workers and/or progressive webapps, you would definitely be hitting the ground running by bringing in new skills into the team!<br><br>
+<li>Can be flexible, agile, dependable, and responsive even when there are a lot of moving parts and prefer that over following rigid processes and guidelines.<br><br>
 </li>
-<li>Some exposure to Typescript.<br><br>
+<li>Believe that good application development includes good testing, good documentation, and good collaboration.<br><br>
 </li>
-<li>Mobile app development in either/both the iOS and Android ecosystems.<br><br>
+<li>Have great communication and reasoning skills, including the ability to make a strong case for technology choices while understanding other viewpoints and the need to find the best possible solution for everyone.<br><br>
 </li>
-<li>Commercial React Native experience.<br><br>
+<li>Have a positive yet practical attitude; You are willing to take on any task that might help take one of our products, or our company, a little further.<br><br>
 </li>
-<li>Experience iteratively moving/upgrading an older code base to a newer platform. (We are currently migrating BackboneJS to ReactJS)<br><br>
-</li>
-<li>Regular contributor or author to an open source project.</li>
-</ul><div>
-<br><br><strong>WHAT WE HAVE TO OFFER</strong>
-</div><div><br></div><ul>
-<li>Company houses 2023: We rent houses worldwide - free of charge for you. Enjoy work and meet your teammates from all over the world. To work or to take a vacation, we leave it up to you!<br><br>
-</li>
-<li>Flexible working hours and the possibility to work remotely.<br><br>
-</li>
-<li>An enthusiastic and friendly team in a productive working environment.<br><br>
-</li>
-<li>Varied and challenging activities in a constantly growing and future-oriented industry.<br><br>
-</li>
-<li>Great coaching and development opportunities. We have an annual budget for external training courses and conferences. We previously attended GitHub Universe in London and Amsterdam.<br><br>
-</li>
-<li>An afternoon each sprint (every 2 weeks) to work on something that interests you. Want to learn a new programming language? That’s fine by us. It doesn't have to be work-related. It’s there to help you expand your skill set and keep the creative juices flowing. <br><br>
-</li>
-<li>Always a cold Fritz-Kola in the fridge (if you decide to stop by our office). <br><br>
-</li>
-<li>Join us for whole company get-togethers. Our past retreats have been in Belgium, Prague &amp; Spain. Our next one is in Portugal.</li>
-</ul>
+</ul><div><br></div><div><br></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1">https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer">https://weworkremotely.com/remote-jobs/operatebeyond-php-developer</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1534788/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Jooble</h5>
-                    <h3>.NET Developer</h3>
-                </td>
-                <td width="300">
-                    <code>.Net,api,C,C#</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/net-developer-1534788" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p><strong>Jooble</strong> — is a Ukrainian IT company whose product is used by more than 90 million monthly users in 69 countries all around the world.</p>
-<p><strong>Jooble's Product</strong> — a worldwide employment website that is the second most visited employment service in the world and is among 500 top visited websites globally, according to SimilarWeb.</p>
-<p>Jooble is a <strong>remote-first company</strong>. We believe that talented people can create cool projects no matter where they are. Yet if you like to work from the office – for all employees we have created closed corporate workspaces in Kyiv, Uzhgorod, and Lutsk that are free to be used anytime.</p>
-<p><strong>Our purpose</strong> — Help people all over the world find their dream jobs!</p>
-<p>Due to the constant development of the product, we want to strengthen our team with several <strong>.NET Developers</strong>.</p>
-<div class="h2"><strong>Jooble's product from the technological perspective</strong></div>
-<p>Our website is built upon <strong>microservices architecture</strong>. We use the latest versions of <strong>.NET</strong> and <strong>ASP.NET Core</strong> to create new services and applications. Message queuing with <strong>RabbitMQ</strong> allows transferring data between services and applications in the most effective way. To improve application performance, we implement caching using <strong>Redis</strong>. Our main front-end framework is react.js. To balance the load across multiple site instances, we use <strong>NGINX</strong>. In a bundle with Consul, NGINX balances the traffic among several microservices instances according to setup configurations. <br><br>Massive volumes of data are stored in numerous <strong>MSSQL</strong> and <strong>PostgreSQL</strong> relational databases. Since our website is a search engine, we use <strong>Elasticsearch</strong> to access data quickly. Along with Elasticsearch, we use other instruments of Elastic Stack. For example, Logstash and Kibana allow keeping an eye on error logs of our software. <br><br>Together with DevOps, our Developers implement the best CI/CD practices using <strong>GitLab</strong> and <strong>Jenkins</strong>. Using <strong>Prometheus</strong>, we gather performance metrics of our services and applications and then visualize them on <strong>Grafana</strong> dashboards.</p>
-<div class="h2"><strong>Development culture at Jooble</strong></div>
-<p>At Jooble, we strive to create high-quality code. Therefore, we follow coding standards agreed within the development team and conduct timely and effective <strong>code reviews</strong>. To ensure that our software meets business requirements, we apply <strong>TDD</strong>, <strong>DDD</strong>, and <strong>BDD</strong> techniques. Also, our developers often take part in pair/mob programming sessions to brainstorm ideas, design the best solutions, and share expertise within the team.<br><br>We regularly conduct Tech talks where we share knowledge on implementing new development approaches and solving challenging engineering issues. And on <strong>Product Sprint Demos</strong>, we sync on the overall progress of the whole product. We carefully track the progress on tasks in <strong>Jira</strong>, which provides clarity and transparency of the development process. The team of Technical Writers keep our internal knowledge base in <strong>Confluence</strong> up to date. Opportunities to make an impact.</p>
-<div class="h2"><strong>As a .NET Developer, you will:</strong></div>
-<ul style="">
-<li style="">Implement new features that bring great value to millions of users.</li>
-<li style="">Contribute the code quality enhancement and improve the project's infrastructure.</li>
-<li style="">Design sophisticated algorithms for optimizing the performance of high-load applications.</li>
-<li style="">Work in collaboration with your team members to share knowledge and validate development solutions.</li>
-</ul>
-<div class="h2"><strong>Among the challenges faced by our Engineering Team are:</strong></div>
-<ul style="">
-<li style="">Designing solutions for establishing effective communication with Job Seekers and Employers minimizing business and development resources.</li>
-<li style="">Incorporating machine learning models to match Job Seekers' interests and Employers' needs.</li>
-<li style="">Enabling a smooth transition of internal software modules from monolith to microservices architecture.</li>
-</ul>
-<div class="h2"><strong>Requirements:</strong></div>
-<ul style="">
-<li style="">2 years of experience in C # development, experience with <a href="http://asp.net/" rel="nofollow" tabindex="-1" target="_blank">ASP.NET</a> Core.</li>
-<li style="">Experience with <a href="http://asp.net/" rel="nofollow" tabindex="-1" target="_blank">ASP.NET</a> MVC, Web API</li>
-<li style="">Good knowledge of SQL (MSSQL), experience with highly loaded applications and understanding of the features of multithreaded application development.</li>
-<li style="">Knowledge of English at a level not lower than pre-intermediate</li>
-<li style="">Work according to Ukrainian timezone (GMT+2)</li>
-</ul>
-<div class="h2"><strong>As a Plus:</strong></div>
-<ul style="">
-<li style="">ElasticSearch</li>
-<li style="">Machine learning</li>
-<li style="">Dotnet internals (what's behind built-in classes)</li>
-</ul>
-<div class="h1"><strong>Why Jooble?</strong></div>
-<ul style="">
-<li style="">Work from anywhere : from a home office, or travel continuously if that's what you like. As long as you have Wi-fi, you're all set</li>
-<li style="">Medical insurance (after three months of cooperation)</li>
-<li style="">Mental health support programs</li>
-<li style="">We cover 50% of the cost of training, courses, webinars etc.</li>
-<li style="">We cover 50% of the cost of any language courses</li>
-<li style="">Vacation: 20 working days + 10 additional vacation days</li>
-<li style="">4 sick days per year (no need for a sick leave)</li>
-</ul>
-<p>If in the job description you see yourself and eagerly want to become a member of our team, please send us your CV and our recruiter will reach you.</p>
-<p> </p>
-<p><strong>While you are waiting – you may read how our team works:</strong></p>
-<p><a href="http://hiring.jooble.org/" rel="nofollow">http://hiring.jooble.org/</a></p>
-<p><strong>Watch an interesting video about the work in Jooble:</strong> </p>
-<figure></figure>
-<p><strong> </strong></p>
-<p><strong>More on our Instagram page:</strong></p>
-<p><a href="https://www.instagram.com/jooblelife/" rel="nofollow">https://www.instagram.com/jooblelife/</a></p>
-<img src="https://remotive.com/job/track/1534788/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -450,7 +317,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -527,7 +394,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -596,7 +463,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -673,7 +540,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
