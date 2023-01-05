@@ -10,7 +10,7 @@
                     <code>design,web3,defi,ethereum,strategist,developer,testing,web,devops,cloud,typescript,lead,senior,health,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-relayer-lukso-172306" align="right" target="_blank">Apply</a>
@@ -47,7 +47,7 @@
 <li>Work fully remote CEST +/-6h or from our picturesque LUKSO office located next to the Spree river in Berlin, Germany</li>
 </ul><div>--</div><div>LUKSO is the new blockchain for the Creative Economy. As a next-generation layer-1 EVM blockchain, LUKSO has introduced new tools and standards that will bring blockchain technology to its next frontier. The building blocks for the New Creative Economy will revolutionize the way users and creators interact with the blockchain. From Fashion, Art, Music, Entertainment, Gaming, Social Media and more, we welcome you to explore our open and interoperable blueprint for the physical and digital worlds.</div><div><br></div><div>LUKSO has introduced new standards called LUKSO Standard Proposals (LSPs), which are the building blocks for the New Creative Economy. These building blocks can be used to create user-friendly dApps and lower the barriers of entry in Web3 for all creators and users.</div><div><br></div><div>
 <a href="https://docs.lukso.tech/standards/universal-profile/introduction" rel="noreferrer noopener nofollow"><strong>Universal Profiles</strong></a> bring social identity to blockchain and improve the overall user experience in Web3. With upgradable security, these platform-agnostic smart-contract-based accounts empower users and creators and allow for true ownership, interoperability, transaction relay services and more.  </div><div><br></div><div>LUKSOâs new standards allow for flexible NFTs that are extensible and directly compatible with Universal Profiles. <a href="https://docs.lukso.tech/standards/nft-2.0/introduction" rel="noreferrer noopener nofollow"><strong>NFTs 2.0</strong></a> are updatable, safer and have unlimited metadata, batch transfers and even better IDs.</div><div><br></div><div>LUKSO is bringing blockchain beyond DeFi with <strong>Cultural Currencies</strong>. The future of blockchain is social, and LUKSOâs essential, future-proof solutions are reshaping the way the world interacts with the blockchain.</div><div><br></div><div>
-<strong>You belong here.</strong><br><br>At LUKSO, we welcome applicants from around the world of all abilities, race, ethnicity, gender/gender expression and age to explore our solutions and join us in building out the foundation for the New Creative Economy. We look forward to meeting you!</div><br/><br/>Please mention the word **DAZZLING** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<strong>You belong here.</strong><br><br>At LUKSO, we welcome applicants from around the world of all abilities, race, ethnicity, gender/gender expression and age to explore our solutions and join us in building out the foundation for the New Creative Economy. We look forward to meeting you!</div><br/><br/>Please mention the word **DAZZLING** and tag RMTA3LjE3OC4yMzIuMTY0 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTY0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -62,7 +62,7 @@
                     <code>crypto,cryptocurrency,support,bank,java,lead,engineer,engineering,educational,backend</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-tradfi-bitcoincom-172321" align="right" target="_blank">Apply</a>
@@ -108,7 +108,7 @@
 <li>Health insurance reimbursement</li>
 <li>Wellness program (gym, etc.)</li>
 </ul>
-</div><br/><br/>Please mention the word **SUPPORTED** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **SUPPORTED** and tag RMTA3LjE3OC4yMzIuMTY0 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTY0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -123,7 +123,7 @@
                     <code>design,frontend,technical,support,software,web,css,mobile,lead,analytics,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-swish-171813" align="right" target="_blank">Apply</a>
@@ -137,75 +137,7 @@
 <span style="font-size:12pt;">Launched in February 2013, </span><b style="font-size:12pt;"><a href="http://www.swishlabs.com/" class="postings-link" rel="noopener noreferrer nofollow">Swish</a></b><span style="font-size:12pt;"> is a fast-growing business with an innovative working culture and teams spanned across the world with teams in Toronto, San Francisco, Berlin, Auckland, Bruxelles, Medellin, and more. </span>
 </div><div><br></div><div><span style="font-size:12pt;">We create products for successful business using cutting-edge technologies: Blockchain, Machine Learning, and Apps Dev. Working with Swish puts you in contact with prestigious brands, wherever your base is. We are a 100% remote-work company because we believe it is everyoneâs choice to live and work the way they prefer.</span></div><div><br></div><div><span style="font-size:12pt;">Work is organized in sprints  - 2 weeks periods to which, as a member of our talent community, you choose to commit. You always have the choice to accept or decline a sprint, or take-on multiple sprints simultaneously. </span></div><div><br></div><div><span style="font-size:12pt;">We let members choose what suits them best depending on their current situation: family, travel, studies, finance. We know life is not linear and we respect the humans behind the screens. </span></div><div><br></div><div>
 <span style="font-size:12pt;">Our work ethic relies on six core values: Transparency, Directness, Meritocracy, Autonomy, Responsibility, </span><span style="font-size:16px;">Continuous</span><span style="font-size:12pt;"> Learning.</span>
-</div><div><br></div><div><span style="font-size:12pt;">Ensuring a diverse and inclusive workplace where we learn from each other is core to our values. We welcome people of different backgrounds, experiences, abilities, and perspectives. We are an equal opportunity employer and a fun place to work. </span></div><div><br></div><div><span style="font-size:12pt;">Join the future of work today.</span></div><div><br></div><br/><br/>Please mention the word **FAVORABLE** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/f80e2ddc26e0f0b143f0b53265e9ae3b1672298134.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>TradeBlock</h5>
-                    <h3>Senior Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>design,crypto,python,technical,support,software,code,web,financial,senior,reliability,engineer,linux,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-tradeblock-171306" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro"><p><span style="text-decoration:underline;"><strong>About The Company</strong></span><br><span style="font-weight:400;">TradeBlock is the leading institutional digital assets trading platform. TradeBlock provides standardized connectivity and a powerful suite of tools to capture the end-to-end trade lifecycle for liquidity providers, asset managers, corporate clients, and exchanges, among others.</span></p></div><p><span style="text-decoration:underline;"><strong>About the Role</strong></span></p>
-<p><em>Budgeted Salary Range:</em> $175k - $225k</p>
-<p>Our engineers build and maintain the technology underpinning our OTC trading platform. They are responsible for core software development, data ingestion, transformation and distribution, as well as measuring and improving the performance of our systems. The ideal candidate will have experience in crypto currencies, capital markets and/or FX, solid understanding of data structures and algorithms, and very strong Python programming skills.</p>
-<p> </p>
-<p><span style="text-decoration:underline;"><strong>Responsibilities</strong></span></p>
-<ul>
-<li>Manage multiple systems that communicate with one another via APIs (REST & WebSocket</li>
-<li>Develop and maintain applications that support our core business offerings, placing an emphasis on their reliability and performance.</li>
-<li>Write and document reliable and reusable code to advance our existing products and to develop new solutions, rigorously adhering to the requirements outlined by our Product team.</li>
-<li>Ability to analyze application and performance issues that span multiple interdependent systems in real time.</li>
-<li>Provide quick resolutions to production issues.</li>
-<li>Contribute technical input for the planning and design process of new and existing systems.</li>
-</ul>
-<p><span style="text-decoration:underline;"><strong>Requirements </strong></span></p>
-<ul>
-<li>Advanced Linux experience</li>
-<li>Advanced Python experience</li>
-<li>Experience with Python frameworks</li>
-<li>Understanding of the OSI model and especially proficient understanding of the application layer</li>
-<li>Knowledge of AWS</li>
-<li>Advanced understanding of the concepts and fundamentals behind modern day Web APIs</li>
-</ul>
-<p><span style="text-decoration:underline;"><strong>Preferred</strong></span></p>
-<ul>
-<li>5+ years of experience with Linux</li>
-<li>5+ years of experience with Python</li>
-<li>3+ years of experience with AWS</li>
-<li>3+ years of experience with SQL</li>
-<li>Experience with Nginx</li>
-<li>Experience with HAProxy</li>
-<li>Experience working with software for financial markets (crypto, FX, etc.)</li>
-</ul>
-<p><span style="text-decoration:underline;"><strong>Technologies</strong></span></p>
-<p>AWS, PostgreSQL, Linux, Redis, Python, HAProxy, Javascript, Graphite/Grafana, Nginx, Django, Git</p>
-<p> </p><div class="content-conclusion">
-<p><span style="text-decoration:underline;"><strong>Benefits Highlights</strong></span></p>
-<ul>
-<li>90% of Medical, Dental, Vision costs covered by TradeBlock (Coverage starts from day one)</li>
-<li>401k Match w/ 5% company match</li>
-<li>Flexible PTO (Taking time off is important and encouraged)</li>
-<li>Opportunities for Equity in Digital Currency Group</li>
-<li>Paid Family Leave for mothers and fathers</li>
-<li>All new employees receive a WFH stipend.</li>
-</ul>
-</div><br/><br/>Please mention the word **ELATION** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><div><br></div><div><span style="font-size:12pt;">Ensuring a diverse and inclusive workplace where we learn from each other is core to our values. We welcome people of different backgrounds, experiences, abilities, and perspectives. We are an equal opportunity employer and a fun place to work. </span></div><div><br></div><div><span style="font-size:12pt;">Join the future of work today.</span></div><div><br></div><br/><br/>Please mention the word **FAVORABLE** and tag RMTA3LjE3OC4yMzIuMTY0 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTY0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -220,7 +152,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>63 days ago</text>
+                <text>64 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer" align="right" target="_blank">Apply</a>
@@ -274,6 +206,53 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer">https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1546972/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ITScout</h5>
+                    <h3>[Blockchain] - Backend Nodejs Engineer - (CE)</h3>
+                </td>
+                <td width="300">
+                    <code>backend,cloud,crypto,developer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/devops/blockchain-backend-nodejs-engineer-ce-1546972" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>The world's first physical NFT marketplace focused on the collector community. Our client connects the real world and the metaverse. They are a community for people who trade the things they love.They are a completely remote company with no fixed headquarters. Their team is spread across the globe - They form an inclusive network across various locations, lifestyles and backgrounds.The culture is driven by empathy, integrity, strategic thinking, innovation, leadership and a shared desire to perform at their best. While their differences make them adaptable and versatile, their shared values give them the strength and drive to become the open metaverse for collectors.<br></p>
+<p><strong><em>We are looking for a Backend Developer</em></strong> to join the team of blockchain developers to design and implement products. Your ideal engineer is someone who thrives in a fast-paced startup environment and can adapt to the ever-changing industry. </p>
+<p>You will work with the team to - implement functionality, design our system, maintain the health of our code, and continue to grow as an engineer with support from senior team members.</p>
+<p><strong>Responsibilities:</strong></p>
+<p>Develop products and projects related to backend development, configuration and maintenance around NFT Utilities, Backend to Frontend Integration.</p>
+<p>Build core infrastructure software, instrument for performance, and optimize for performance.</p>
+<p>Write, test, deploy smart contracts, and build system design around the product.</p>
+<p>Build core backend modules such as authentication, session, queues, and schedulers</p>
+<p>Write unit and end-to-end test scripts for required modules/packages</p>
+<p>Integrate and consume other services/APIs.</p>
+<p><strong><em>Technology stack:</em></strong></p>
+<p>Languages: TypeScript</p>
+<p>BE: Node.js / Express</p>
+<p>FE: React</p>
+<p>DB: MongoDB</p>
+<p>Cloud: AW</p>
+<p><strong><em>Requirements</em></strong></p>
+<p>+5-10 years of experience in backend technologies. The main stack is Node.js, so Typescript is preferred. However, they may consider candidates with extensive experience with Java or Python.</p>
+<p>Experience with Solidity (Defi smart contracts), Web3, Ethereum and integration of APIs into DApps.</p>
+<p>Knowledge of Ethereum/Polygon or other blockchains.</p>
+<p>Knowledge and interest in crypto projects covering DeFi, NFTs and DAOs.</p>
+<p>Have designed, built, scaled and maintained production services and knowledge to compose a service-oriented product and integrate decentralized technologies, infrastructure and data systems.<br><br><strong>What's in it for you?</strong></p>
+<p>Be part of building a great project and make a real impact on your career. Work flexible hours from anywhere and be part of a team driven by strong values and a clear shared vision. Directly shape the future of a completely new model for cryptocurrency and blockchain applications.Test your skills and push your creative boundaries by working with the latest technologies and systems. Play an active role in one of human history's most significant technological innovations. Receive a competitive salary paid in crypto.<br><strong><br>Benefits:</strong><br>-- Bonus structure varies between 25 and 100% of annual salary depending on KPIs.<br>-- 6.5% additional to the monthly salary for the payment of the ETH fees (we pay via USDT only). Payments are 50% on 10 and 50% on 25.<br>-- Company meetings three times a year in different parts of the world.<br>-- Computer stack<br>-- Flexible schedule and very scrum-focused.<br><br>Budget: USDT 90-170k per year. T<em>his information is for reference only, depending on the candidate's Seniority.</em></p>
+<img src="https://remotive.com/job/track/1546972/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
