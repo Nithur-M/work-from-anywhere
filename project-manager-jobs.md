@@ -10,7 +10,7 @@
                     <code>manager,bitcoin,react,system,support,software,financial,management,engineering</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-project-manager-blockstream-mining-blockstream-171819" align="right" target="_blank">Apply</a>
@@ -51,7 +51,7 @@
 <li><span style="font-weight:400;">Comfort with the pace, scrappiness and dynamic environment within a growing startup</span></li>
 <li><span style="font-weight:400;">Entrepreneurial mindset; know how to be nimble, spot and react to new opportunities<br><br><br></span></li>
 </ul>
-<p><iframe src="https://www.youtube.com/embed/I06zkXfDR5w" width="400" height="224"></iframe></p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/EKrQP99gUMI" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXEMPLAR** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><iframe src="https://www.youtube.com/embed/I06zkXfDR5w" width="400" height="224"></iframe></p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/EKrQP99gUMI" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXEMPLAR** and tag RMTA3LjE3OC4yMzIuMTY0 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTY0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -66,7 +66,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mailerlite-it-project-manager" align="right" target="_blank">Apply</a>
@@ -90,7 +90,10 @@
 </div><div>
 <strong>Why MailerLite?<br></strong>Wondering why we think you’ll love working at MailerLite? Here are 5 reasons!</div><div><br></div><ul>
 <li>
-<strong>You won’t be bored<br></strong>The role includes working on a variety of projects from smaller to bigger ones with a multicultural team.<br><br>
+<strong>You won’t be bored<br></strong>We have big plans not just for the Product itself but for the Product team too and you will be a big part of that!<br><br>
+</li>
+<li>
+<strong>You will be challenged with interesting tasks<br></strong>The role includes working on a variety of projects from smaller improvements to bigger feature launches and you get to do that with a talented multicultural team.<br><br>
 </li>
 <li>
 <strong>You will take ownership<br></strong>We don’t micromanage and try not to interrupt your work with random tasks. We do expect you to take full responsibility and ownership for the stuff you build.<br><br>
@@ -115,6 +118,7 @@
 </ul><div>
 <br><br>
 </div><div><strong>What we expect from you</strong></div><ul>
+<li>At least 1 year proven experience in a Tech Project Management Role</li>
 <li>Have a proven experience in agile methodologies preferably with development teams.</li>
 <li>Outstanding communication skills in English.</li>
 <li>Can deal with uncertainty around business requirements.</li>
@@ -124,6 +128,7 @@
 <li>Strong growth mindset, passionate about learning.</li>
 <li>Outstanding attention to detail (if you apply, include the word <em>lite</em> somewhere in your application).</li>
 <li>Interested in one or more industries: email marketing, automation, e-commerce, mobile apps (iOS), web development.</li>
+<li>Timezone requirement UTC +- 4</li>
 </ul><div>
 <br><br><strong>What we offer</strong>
 </div><ul>
