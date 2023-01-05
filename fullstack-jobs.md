@@ -1,5 +1,40 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/a05909a7b55e9523e02a182433e1b3be1672816557.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Manta Network</h5>
+                    <h3>Full Stack Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>design,web3,ethereum,react,system,front-end,security,ui,web,education,c++,engineer,educational,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-full-stack-engineer-manta-network-174279" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><span style="font-size:32px;">About p0xeidon labs</span></div><div><br></div><div>p0xeidon labs, a group developing technologies behind projects including Manta Network, delivers privacy for web3 applications and decentralized assets through use of zero-knowledge proofs. The project is built in accordance with first principles, <span style="font-size:11pt;">by applying cutting-edge cryptographic constructions such as zkSNARKs to design and deploy protocols with high performance and strong privacy/security guarantees. </span>
+</div><div><br></div><div><span style="font-size:11pt;">Manta Network is supported by leading investors including Polychain, Multicoin, Binance, CoinFund, and Parafi. The founding team has extensive experience in the blockchain space and come from educational institutions including Harvard and MIT, and leading web3 projects such as Algorand. If you are excited about building privacy-preserving solutions using zero-knowledge proofs, building blockchain applications, or learning about Polkadot ecosystems, then we want to hear from you.</span></div><p></p><h4>Requirement</h4><p></p><p></p><ul>
+<li>Proven execution in building React based Web App in Typescript/Javascript</li>
+<li>Solid programming skills in at least one system level programming language like Rust, C, or C++ (Rust preferred)</li>
+<li>Understanding browser security policies and security best practices in front-end development</li>
+<li>Extreme ownership mentality - ability to take extreme ownership and full responsibility of tasks and projects</li>
+<li>Passionate in working in Web3 industry</li>
+</ul><p></p><h4>Nice to have</h4><p></p><p></p><ul>
+<li>Strong understanding of Ethereum smart contracts and best practices</li>
+<li>Previous experience in the blockchain industry, particularly around the Ethereum, Polkadot, Avalanche, or Near ecosystem</li>
+<li>Experience of quick prototyping and UI design</li>
+</ul><div><span style="font-size:24px;">Life at p0xeidon labs</span></div><div><br></div><div>p0xeidon labs is comprised of a diverse and global group of core contributors. We offer a friendly, flexible work environment that provides full-remote opportunities. Our team is full of bright and motivated minds. Despite our geographical diversity, we host events both virtual and physical to promote a strong culture. We also pride ourselves on our ability to move fast as a cohesive team.</div><div><br></div><div><span style="font-size:18px;">Additional Benefits with p0xeidon labs</span></div><div>- Competitive compensation</div><div>- Unlimited PTO</div><div>- Token allocation</div><div>- Remote-first</div><div>- Inclusive team</div><div>- Education opportunites</div><div>- Conference travel</div><div>- Many other benefits! </div><br/><br/>Please mention the word **DELIGHTFULNESS** and tag RMTA3LjE3OC4yMzIuMTY0 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTY0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/d5326ea285b1f45e969a1e1af40178291672470953.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +45,7 @@
                     <code>design,crypto,system,security,architect,support,software,test,code,qa,senior,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-rabbithole-172318" align="right" target="_blank">Apply</a>
@@ -51,7 +86,7 @@
 </ul><p></p><h4>Nice to haves</h4><p></p><p></p><ul>
 <li>Knowledge of and passion for crypto applications / Ethereum</li>
 <li>Worked at an early stage startup</li>
-</ul><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/BD6XbT38gZQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ENTERTAINS** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/BD6XbT38gZQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ENTERTAINS** and tag RMTA3LjE3OC4yMzIuMTY0 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTY0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -66,7 +101,7 @@
                     <code>software,ethereum,full-stack,developer,javascript,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-full-stack-spruce-171812" align="right" target="_blank">Apply</a>
@@ -86,7 +121,7 @@
 <li>Experience shipping modern full-stack JavaScript to production.</li>
 <li>Eager to work on emerging technology in a rapidly growing ecosystem.</li>
 <li>Comfortable with rapid prototyping for demonstration or research purposes.</li>
-</ul><div><span style="font-size:12pt;">We are passionate about cultivating a thriving culture of diverse people who bring unique perspectives to our mission. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.</span></div><br/><br/>Please mention the word **HAPPY** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><span style="font-size:12pt;">We are passionate about cultivating a thriving culture of diverse people who bring unique perspectives to our mission. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.</span></div><br/><br/>Please mention the word **HAPPY** and tag RMTA3LjE3OC4yMzIuMTY0 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTY0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
