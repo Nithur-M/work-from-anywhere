@@ -10,7 +10,7 @@
                     <code>design,web3,ethereum,react,system,front-end,security,ui,web,education,c++,engineer,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-engineer-manta-network-174279" align="right" target="_blank">Apply</a>
@@ -30,7 +30,7 @@
 <li>Strong understanding of Ethereum smart contracts and best practices</li>
 <li>Previous experience in the blockchain industry, particularly around the Ethereum, Polkadot, Avalanche, or Near ecosystem</li>
 <li>Experience of quick prototyping and UI design</li>
-</ul><div><span style="font-size:24px;">Life at p0xeidon labs</span></div><div><br></div><div>p0xeidon labs is comprised of a diverse and global group of core contributors. We offer a friendly, flexible work environment that provides full-remote opportunities. Our team is full of bright and motivated minds. Despite our geographical diversity, we host events both virtual and physical to promote a strong culture. We also pride ourselves on our ability to move fast as a cohesive team.</div><div><br></div><div><span style="font-size:18px;">Additional Benefits with p0xeidon labs</span></div><div>- Competitive compensation</div><div>- Unlimited PTO</div><div>- Token allocation</div><div>- Remote-first</div><div>- Inclusive team</div><div>- Education opportunites</div><div>- Conference travel</div><div>- Many other benefits! </div><br/><br/>Please mention the word **DELIGHTFULNESS** and tag RMTA3LjE3OC4yMzIuMTY0 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTY0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><span style="font-size:24px;">Life at p0xeidon labs</span></div><div><br></div><div>p0xeidon labs is comprised of a diverse and global group of core contributors. We offer a friendly, flexible work environment that provides full-remote opportunities. Our team is full of bright and motivated minds. Despite our geographical diversity, we host events both virtual and physical to promote a strong culture. We also pride ourselves on our ability to move fast as a cohesive team.</div><div><br></div><div><span style="font-size:18px;">Additional Benefits with p0xeidon labs</span></div><div>- Competitive compensation</div><div>- Unlimited PTO</div><div>- Token allocation</div><div>- Remote-first</div><div>- Inclusive team</div><div>- Education opportunites</div><div>- Conference travel</div><div>- Many other benefits! </div><br/><br/>Please mention the word **DELIGHTFULNESS** and tag RMy4yMzYuNTguMTkx when applying to show you read the job post completely (#RMy4yMzYuNTguMTkx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -45,7 +45,7 @@
                     <code>design,crypto,system,security,architect,support,software,test,code,qa,senior,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-rabbithole-172318" align="right" target="_blank">Apply</a>
@@ -86,42 +86,94 @@
 </ul><p></p><h4>Nice to haves</h4><p></p><p></p><ul>
 <li>Knowledge of and passion for crypto applications / Ethereum</li>
 <li>Worked at an early stage startup</li>
-</ul><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/BD6XbT38gZQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ENTERTAINS** and tag RMTA3LjE3OC4yMzIuMTY0 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTY0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/BD6XbT38gZQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **ENTERTAINS** and tag RMy4yMzYuNTguMTkx when applying to show you read the job post completely (#RMy4yMzYuNTguMTkx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/8ec67bd6ae88196fd892e18156d623f71672384572.peg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7878/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Spruce</h5>
-                    <h3>Software Engineer Full Stack</h3>
+                    <h5>Forem</h5>
+                    <h3> Senior Full Stack Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>software,ethereum,full-stack,developer,javascript,engineer,digital nomad</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>90 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-full-stack-spruce-171812" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/forem-senior-full-stack-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><span style="font-size:12pt;">Spruce is hiring a full stack Software Engineer to develop world-class open-source products and libraries for decentralized identity standards. At Spruce, we are letting users control their identity and data across the web. We hire people who love technology and are committed to unbiased problem-solving, user privacy, and innovation. </span></div><div><br></div><div><span style="font-size:12pt;">You will work closely with designers and product managers to bring new product features and enhancements to life. We will count on you to always keep the userâs journey in mind to produce excellent products with an outstanding developer experience.</span></div><p></p><h4>Responsibilities</h4><p></p><p></p><ul>
-<li>Contribute to new and existing products focused on decentralized identity. </li>
-<li>Work with multiple teams to ship features, updates, and tests. </li>
-<li>Bring emerging and well-established identity standards such as Verifiable Credentials (VCs), Decentralized Identifiers (DIDs), and Sign-In with Ethereum (SIWE) to a growing developer community. </li>
-<li>Ship clean, accessible, well-documented code, continually improving the developer experience and portability of our software. </li>
-<li>Utilize best practices for testing, documentation, software security, version control hygiene, and open-source release cycle management.</li>
-</ul><p></p><h4>Qualifications</h4><p></p><p></p><ul>
-<li>Strong collaboration on a remote team across multiple time zones.</li>
-<li>Experience shipping modern full-stack JavaScript to production.</li>
-<li>Eager to work on emerging technology in a rapidly growing ecosystem.</li>
-<li>Comfortable with rapid prototyping for demonstration or research purposes.</li>
-</ul><div><span style="font-size:12pt;">We are passionate about cultivating a thriving culture of diverse people who bring unique perspectives to our mission. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.</span></div><br/><br/>Please mention the word **HAPPY** and tag RMTA3LjE3OC4yMzIuMTY0 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTY0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7878/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New York, New York
+    <br /><strong>URL:</strong> <a href="https://forem.com">https://forem.com</a>
+</p>
+
+<div>
+<strong>Job description<br></strong><br>
+</div><div>We are looking for a Senior Full Stack Engineer with strong front-end experience while working in Ruby on Rails. This engineer will have the opportunity to work closely with members on the team and tackle a wide variety of technical obstacles throughout the stack. This candidate will need to take into consideration performance, accessibility, and user experience to ensure that we are providing a cutting-edge community building experience for creators and users alike.The starting salary range for this role is $145,000 - $157,000 plus equity and is not location-based.<br><br>
+</div><div>
+<strong><br>n this role, you'll be accountable for:<br></strong><br>
+</div><ul>
+<li>Build thoughtful, accessible UI and components that by contributing to our component library<br><br>
+</li>
+<li>Design and expand the capabilities of our API (built with Ruby on Rails), and design and expand the capabilities of our web frontend, built in JavaScript and Preact<br><br>
+</li>
+<li>Work closely and collaboratively within a cross functional team that includes Product, Design, Engineering, as well as other stakeholders, like our Community team<br><br>
+</li>
+<li>Identify areas for growth and iteration on our application stack and advocate for them on the Engineering roadmap<br><br>
+</li>
+<li>Triage, debug, and fix bugs reported by users<br><br>
+</li>
+<li>Participate in code reviews, design and implementation conversations, and post-incident reviews<br><br>
+</li>
+</ul><div>
+<strong>What we would like you to bring to this role:<br></strong><br>
+</div><ul>
+<li>4+ years of experience with Javascript including vanilla javascript, and Preact (or React)<br><br>
+</li>
+<li>At least 1 year of experience with Ruby on Rails<br><br>
+</li>
+<li>Knowledge of relational databases. Postgres experience is a plus<br><br>
+</li>
+<li>Experience writing high-quality, maintainable, readable code, with a focus on performance and accessibility<br><br>
+</li>
+<li>Experience with a range of frontend testing tools, ideally including component-level, End to End, and accessibility testing. Experience with Cypress is a plus<br><br>
+</li>
+<li>Experience working in an asynchronous, distributed team<br><br>
+</li>
+<li>Able to work proactively as part of a team with strong communication experience<br><br>
+</li>
+<li>Thrives in a start-up environment<br><br>
+</li>
+<li>Interest or experience in open source software and/or the open source community<br><br>
+</li>
+</ul><div>
+<strong>Interview process<br></strong><br>
+</div><div>We want our candidates to have the best possible interview experience because this is as much about you finding the right fit as it is us finding a great new addition to the team. We value candidates from all backgrounds and experiences and want our interview process to be representative of that. Here is what you can expect:<br><br>
+</div><ul>
+<li>Application review<br><br>
+</li>
+<li>Round 1: Hiring manager interview (60 mins)<br><br>
+</li>
+<li>Round 2: A short take-home that is meant to mimic real-life work and provide fodder for a synchronous technical conversation (90 mins)<br><br>
+</li>
+<li>Round 3: Team interview covering your take-home, your technical experience and your soft skills in teamwork, mentorship, and technical leadership (90 mins)<br><br>
+</li>
+<li>Round 4: Co-founder interview intended to cover your skills in collaboration and communication, as well as to provide a final opportunity for you to ask any lingering questions about the company strategy and progress (45 mins)<br><br>
+</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/forem-senior-full-stack-engineer">https://weworkremotely.com/remote-jobs/forem-senior-full-stack-engineer</a></p>
+
                 </details>
                 </td>
             </tr></table>
