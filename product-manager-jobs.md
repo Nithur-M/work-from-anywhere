@@ -10,7 +10,7 @@
                     <code>manager,design,technical,developer,strategy,operational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-product-manager-scroll-io-173601" align="right" target="_blank">Apply</a>
@@ -19,7 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>We are looking for a first <b>product manager</b> to work with our founding team to define and execute on testnet and mainnet launches for Scrollâs fully EVM-equivalent zkRollup. You will define the UI-UX and launch strategy to reach the broadest spectrum of developers and users.  This will require partnering closely across a variety of cross-functional domains on a highly technical product and working with our community and developer relations teams to roll out major releases end-to-end.</p><p><br></p><p>Your day-to-day work will involve working with the founding team to define release requirements, coordinating across engineering, design, and developer relations teams to execute on them, and ensuring the quality of the final release.  This will require the ability to prioritize features for developers and users as well as make complex technical ideas understandable to developers.  Most importantly, the ideal candidate will prioritize Scrollâs open source, collaborative, and research-driven values when making decisions about the initial releases.</p>\n<p><p><br></p><b>Job Duties</b><ul><li>Work with the team to identify requirements for testnet and mainnet releases.</li><li>Coordinate engineering, design, and developer relations teams for major releases.</li><li>Own the UI-UX and launch strategy of testnet and mainnet releases.</li></ul><p><br></p><b>Qualifications</b><ul><li>Strong interest in and some knowledge of zero-knowledge proofs and Layer 2 protocols.</li><li>Prior experience in or deep interest in cryptocurrency.</li><li>Ability to design and execute operational processes at a high level.</li><li>Ability to work across a highly technical product.</li><li>Experience working with a designer.</li></ul><p><br></p><b>Benefits</b><ul><li>This is a remote position. Work from anywhere with our global team.</li></ul><div><br></div><p><br></p></p>\n<p><span style="font-size: 16px">Don't see your role, but want to join our team? Reach out at&nbsp;</span><a href="http://hire@scroll.io/" style="font-size: 16px" class="postings-link">hire@scroll.io</a><span style="font-size: 16px">&nbsp;with your background and ideal role.</span></p><br/><br/>Please mention the word **HEARTILY** and tag RMTA3LjE3OC4yMzIuMTY0 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTY0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p>We are looking for a first <b>product manager</b> to work with our founding team to define and execute on testnet and mainnet launches for Scrollâs fully EVM-equivalent zkRollup. You will define the UI-UX and launch strategy to reach the broadest spectrum of developers and users.  This will require partnering closely across a variety of cross-functional domains on a highly technical product and working with our community and developer relations teams to roll out major releases end-to-end.</p><p><br></p><p>Your day-to-day work will involve working with the founding team to define release requirements, coordinating across engineering, design, and developer relations teams to execute on them, and ensuring the quality of the final release.  This will require the ability to prioritize features for developers and users as well as make complex technical ideas understandable to developers.  Most importantly, the ideal candidate will prioritize Scrollâs open source, collaborative, and research-driven values when making decisions about the initial releases.</p>\n<p><p><br></p><b>Job Duties</b><ul><li>Work with the team to identify requirements for testnet and mainnet releases.</li><li>Coordinate engineering, design, and developer relations teams for major releases.</li><li>Own the UI-UX and launch strategy of testnet and mainnet releases.</li></ul><p><br></p><b>Qualifications</b><ul><li>Strong interest in and some knowledge of zero-knowledge proofs and Layer 2 protocols.</li><li>Prior experience in or deep interest in cryptocurrency.</li><li>Ability to design and execute operational processes at a high level.</li><li>Ability to work across a highly technical product.</li><li>Experience working with a designer.</li></ul><p><br></p><b>Benefits</b><ul><li>This is a remote position. Work from anywhere with our global team.</li></ul><div><br></div><p><br></p></p>\n<p><span style="font-size: 16px">Don't see your role, but want to join our team? Reach out at&nbsp;</span><a href="http://hire@scroll.io/" style="font-size: 16px" class="postings-link">hire@scroll.io</a><span style="font-size: 16px">&nbsp;with your background and ideal role.</span></p><br/><br/>Please mention the word **HEARTILY** and tag RMy4yMzYuNTguMTkx when applying to show you read the job post completely (#RMy4yMzYuNTguMTkx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -34,7 +34,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-growth-product-manager-3" align="right" target="_blank">Apply</a>
@@ -109,7 +109,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/testgorilla-senior-product-manager-4" align="right" target="_blank">Apply</a>
@@ -194,7 +194,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>421 days ago</text>
+                <text>422 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
