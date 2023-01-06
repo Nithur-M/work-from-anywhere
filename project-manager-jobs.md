@@ -1,62 +1,58 @@
 <div align="center"><h2>PROJECT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/ba3a315638327eaa77ed67106959c6f91672384591.peg" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/f7562f46be64c91e4f5a350846d1952b1672902959.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Blockstream</h5>
-                    <h3>Project Manager Blockstream Mining</h3>
+                    <h5>AlphaPoint</h5>
+                    <h3>Senior Project Manager</h3>
                 </td>
                 <td width="300">
-                    <code>manager,bitcoin,react,system,support,software,financial,management,engineering</code>
+                    <code>manager,cryptocurrency,support,software,financial,leader,management,lead,senior</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-project-manager-blockstream-mining-blockstream-171819" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-project-manager-alphapoint-174779" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><span style="font-weight:400;"><a href="https://blockstream.com/" target="_blank" rel="noopener noreferrer nofollow">Blockstream</a> was founded in 2014 by <a href="https://en.wikipedia.org/wiki/Adam_Back" target="_blank" rel="noopener noreferrer nofollow">Dr. Adam Back</a> and a group of fellow cryptographers and engineers passionate about Bitcoin and its potential to change the future of finance. Focusing on building fundamental Bitcoin infrastructure, Blockstream quickly grew into one of the leading technology power houses of the industry.</span></p>
-<p><span style="font-weight:400;">At Blockstream, weâre building solutions on Bitcoin that will disrupt the existing financial system. We imagine a world where individuals and businesses can easily access a global, permissionless system to secure their money, use it every day, and invest it or put it to work. In pursuit of our expansive vision, weâve built a full stack of innovative products on top of the Bitcoin protocol, from layer 2 projects like Liquid and Core Lightning, to end user software and hardware wallets like Green and Jade. Our brand stands for innovation in the Bitcoin community, and weâre growing our team to accelerate the future. Come join us in our mission!</span></p>
-<p><span style="font-weight:400;">ââWe are looking for a Project Manager to define the project roadmap in partnership with a cross-functional team of stakeholders, developers, engineers, QA, and users to build viable, feasible, and usable products within our mining management platform. As a Project Manager, you will balance multiple projects while creating actionable, outcome-driven roadmaps towards meeting business objectives. We are looking for a self-directed project owner who values moving quickly with sprint planning.</span></p>
-<p><strong>What Youâll Be Doing (Responsibilities):</strong></p>
-<ul>
-<li><span style="font-weight:400;">Work effectively with cross-functional teams to drive product vision, define requirements, coordinate resources, determine priorities, and communicate key milestones</span></li>
-<li><span style="font-weight:400;">Own the roadmap, strategy, and execution for features or products</span></li>
-<li><span style="font-weight:400;">Maintain clear communication and coordination from start to finish between front end and back end</span></li>
-<li><span style="font-weight:400;">Lead the project planning and delivery of innovative tools, platforms, and/or products</span></li>
-<li><span style="font-weight:400;">Facilitates daily stand-up, iteration planning, sprint review, and iteration retrospective</span></li>
-<li><span style="font-weight:400;">Manage the engineering development projects and facilitates sprint releases</span></li>
-<li><span style="font-weight:400;">Able to do post mortem and root cause analysis to help teams continuously improve their practices to ensure maximum productivity</span></li>
-<li><span style="font-weight:400;">Maintain team data in project management software (i.e. JIRA, Notion, etc.) to support estimates and execution</span></li>
-<li><span style="font-weight:400;">Willing to jump in to assist with the issue queue to achieve the projectâs goal</span></li>
-<li><span style="font-weight:400;">Prioritize, rationalize, and ensure delivery against project timelines and issues</span></li>
-<li><span style="font-weight:400;">Responsible for documentation of features and products</span></li>
-<li><span style="font-weight:400;">Define, analyze, and track key performance metrics to ensure a projectâs success</span></li>
-<li><span style="font-weight:400;">Maximize efficiency in a new and constantly evolving environment where the process is fluid and creative solutions are the norm</span></li>
-<li><span style="font-weight:400;">Create status reports for stakeholders that include key indicators of project progress, risk, and success</span></li>
-</ul>
-<p><strong>What We Look For In You (Required Qualifications):</strong></p>
-<ul>
-<li><span style="font-weight:400;">Bachelorâs degree in related field</span></li>
-<li><span style="font-weight:400;">3+ years of experience in product/project management in an IT environment or related industry experience</span></li>
-<li><span style="font-weight:400;">Demonstrable expertise of agile methodology and frameworks like Scrum, Kanban, etc.</span></li>
-<li><span style="font-weight:400;">Thrives in a highly collaborative, fast paced environment</span></li>
-<li><span style="font-weight:400;">Experience going through a full product lifecycle, integrating customer feedback into product requirements, driving prioritization and pre/post-launch execution in scrum/agile methodologies</span></li>
-<li><span style="font-weight:400;">Exceptional verbal and written communication, coupled with strong meeting facilitation skills</span></li>
-<li><span style="font-weight:400;">Must have strong time management and organization skills, partnered with strong attention to detail</span></li>
-<li><span style="font-weight:400;">Comfort with the pace, scrappiness and dynamic environment within a growing startup</span></li>
-<li><span style="font-weight:400;">Entrepreneurial mindset; know how to be nimble, spot and react to new opportunities<br><br><br></span></li>
-</ul>
-<p><iframe src="https://www.youtube.com/embed/I06zkXfDR5w" width="400" height="224"></iframe></p><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/EKrQP99gUMI" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXEMPLAR** and tag RMTA3LjE3OC4yMzIuMTY0 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTY0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p style="line-height:1.2;margin-top:16px;margin-bottom:16px;"><span style="font-size:14px;"><strong>About AlphaPoint:</strong></span></p><p style="line-height:1.2;margin-top:16px;margin-bottom:16px;"> </p><p style="line-height:1.2;margin-top:16px;margin-bottom:16px;"><br><span style="font-size:16px;">AlphaPoint is a financial technology company powering digital asset exchanges and brokerages worldwide. Through its secure, scalable, and customizable white-label digital asset trading platform, AlphaPoint has enabled over 150 customers in 35 countries to launch and operate digital asset markets, as well as to support the digitization of assets. AlphaPoint and its award-winning blockchain technology has helped startups and institutions discover and execute their blockchain strategies since 2013.</span><br> </p><p style="line-height:1.2;margin-top:16px;margin-bottom:16px;"> </p><p style="line-height:1.2;margin-top:16px;margin-bottom:16px;"><span style="font-size:10.5pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#000000;"><span style="font-weight:700;"><span style="font-style:normal;"><span style="text-decoration:none;">Responsibilities:</span></span></span></span></span></span><span style="font-size:10.5pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#000000;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;"> </span></span></span></span></span></span></p><p style="line-height:1.2;margin-top:16px;margin-bottom:16px;"><span style="font-size:11pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#000000;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">AP is looking for an experienced Project Manager to manage and lead all key projects across AlphaPoint. </span></span></span></span></span></span><span style="font-size:11pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#000000;"><span style="background-color:#ffffff;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">This includes the coordination and completion of projects on time within budget and within scope. He/She will oversee all aspects of company projects. Set deadlines, assign responsibilities, and monitor and summarize progress of projects. Prepare reports for upper management regarding the status of all projects. The successful candidate will work directly with clients to ensure deliverables fall within the applicable scope and budget. He or she will coordinate with other departments to ensure all aspects of each project are compatible and aligned to fulfill client needs.</span></span></span></span></span></span></span></p><p style="line-height:1.2;margin-top:16px;margin-bottom:16px;"><span style="font-size:11pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#000000;"><span style="background-color:#ffffff;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:underline;"><span style="">This role will be 100% US remote, EST preferred.</span></span></span></span></span></span></span></span></p><p> </p><p style="line-height:1.2;margin-top:16px;margin-bottom:16px;"><span style="font-size:10.5pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#000000;"><span style="font-weight:700;"><span style="font-style:normal;"><span style="text-decoration:none;">Basic requirements:</span></span></span></span></span></span></p><ul>
+<li style="list-style-type:disc;"><span style="font-size:11pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#202124;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">At least 10+ years experienced in Project Management and PMP certified or PRINCE II Certified</span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:11pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#202124;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Past performance having managed client relationships and all stakeholders involved across the organization by managing and controlling all stages of the project lifecycle</span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:11pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#202124;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Proven ability to develop detailed project scoping</span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:11pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#202124;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Solid organization skills and strong ability to multitask</span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:11pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#202124;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Excellent written and verbal communication skills</span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:11pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#202124;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Ability to influence teams and monitor/track team progress from start to end of project</span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:11pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#202124;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Past experience running large, complex and multiple projects at the same time while leading teams on deadlines and delivery</span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:11pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#202124;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Ensure resource availability and allocation so that project is delivered within scope, budget and on schedule</span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:11pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#202124;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Past performance with tracking project performance and motivating teams to achieve the successful completion of short and long-term goals</span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:11pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#202124;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Manage changes to the project scope, project schedule, and project costs using appropriate verification techniques</span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"> </li>
+<li style="list-style-type:disc;"><span style="font-size:11pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#202124;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Measure performance using appropriate project management tools and techniques</span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:11pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#202124;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Meet budgetary objectives and make adjustments to project constraints based on financial analysis</span></span></span></span></span></span></li>
+<li style="list-style-type:disc;"><span style="font-size:11pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#202124;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Experienced in Project Management Software and tools</span></span></span></span></span></span></li>
+</ul><p style="line-height:1.2;margin-top:45px;margin-bottom:55px;"><span style="font-size:10.5pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#000000;"><span style="font-weight:700;"><span style="font-style:normal;"><span style="text-decoration:none;">Preferred skills & knowledge:</span></span></span></span></span></span></p><ul><li style="line-height:1.2;margin-top:45px;margin-bottom:55px;"><span style="font-size:11pt;white-space:pre-wrap;"><span style="font-family:Arial;"><span style="color:#000000;"><span style="font-weight:400;"><span style="font-style:normal;"><span style="text-decoration:none;">Previous fintech/cryptocurrency industry experience Thought leader in Project Management / technology communities</span></span></span></span></span></span></li></ul><p style="line-height:1.2;margin-top:45px;margin-bottom:55px;"><b>Here are some of the benefits of working at AlphaPoint:</b></p><ul>
+<li>Competitive base salary, bonus, and equity</li>
+<li>Comprehensive health, dental, vision insurance coverage</li>
+<li>Life Insurance</li>
+<li>Short and long-term disability benefits</li>
+<li>401k company match</li>
+<li>Unlimited PTO</li>
+<li>Company credit card</li>
+<li>Computer equipment and workplace furniture allowance to suit your needs</li>
+<li>Great colleagues and an inspiring startup environment with colleagues internationally</li>
+<li>$100 worth of cryptocurrency of your choice upon joining AlphaPoint</li>
+<li>Company paid coworking space benefits</li>
+<li>$2500/year for learning and development</li>
+</ul><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **PROVIDENCE** and tag RMy4yMzYuNTguMTkx when applying to show you read the job post completely (#RMy4yMzYuNTguMTkx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/1823/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>MailerLite</h5>
@@ -66,7 +62,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mailerlite-it-project-manager" align="right" target="_blank">Apply</a>
@@ -75,7 +71,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/1823/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
   <strong>Headquarters:</strong> USA
