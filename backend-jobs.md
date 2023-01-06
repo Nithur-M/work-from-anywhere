@@ -10,7 +10,7 @@
                     <code>design,web3,defi,ethereum,strategist,developer,testing,web,devops,cloud,typescript,lead,senior,health,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-relayer-lukso-172306" align="right" target="_blank">Apply</a>
@@ -47,164 +47,88 @@
 <li>Work fully remote CEST +/-6h or from our picturesque LUKSO office located next to the Spree river in Berlin, Germany</li>
 </ul><div>--</div><div>LUKSO is the new blockchain for the Creative Economy. As a next-generation layer-1 EVM blockchain, LUKSO has introduced new tools and standards that will bring blockchain technology to its next frontier. The building blocks for the New Creative Economy will revolutionize the way users and creators interact with the blockchain. From Fashion, Art, Music, Entertainment, Gaming, Social Media and more, we welcome you to explore our open and interoperable blueprint for the physical and digital worlds.</div><div><br></div><div>LUKSO has introduced new standards called LUKSO Standard Proposals (LSPs), which are the building blocks for the New Creative Economy. These building blocks can be used to create user-friendly dApps and lower the barriers of entry in Web3 for all creators and users.</div><div><br></div><div>
 <a href="https://docs.lukso.tech/standards/universal-profile/introduction" rel="noreferrer noopener nofollow"><strong>Universal Profiles</strong></a> bring social identity to blockchain and improve the overall user experience in Web3. With upgradable security, these platform-agnostic smart-contract-based accounts empower users and creators and allow for true ownership, interoperability, transaction relay services and more.  </div><div><br></div><div>LUKSOâs new standards allow for flexible NFTs that are extensible and directly compatible with Universal Profiles. <a href="https://docs.lukso.tech/standards/nft-2.0/introduction" rel="noreferrer noopener nofollow"><strong>NFTs 2.0</strong></a> are updatable, safer and have unlimited metadata, batch transfers and even better IDs.</div><div><br></div><div>LUKSO is bringing blockchain beyond DeFi with <strong>Cultural Currencies</strong>. The future of blockchain is social, and LUKSOâs essential, future-proof solutions are reshaping the way the world interacts with the blockchain.</div><div><br></div><div>
-<strong>You belong here.</strong><br><br>At LUKSO, we welcome applicants from around the world of all abilities, race, ethnicity, gender/gender expression and age to explore our solutions and join us in building out the foundation for the New Creative Economy. We look forward to meeting you!</div><br/><br/>Please mention the word **DAZZLING** and tag RMTA3LjE3OC4yMzIuMTY0 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTY0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<strong>You belong here.</strong><br><br>At LUKSO, we welcome applicants from around the world of all abilities, race, ethnicity, gender/gender expression and age to explore our solutions and join us in building out the foundation for the New Creative Economy. We look forward to meeting you!</div><br/><br/>Please mention the word **DAZZLING** and tag RMy4yMzYuNTguMTkx when applying to show you read the job post completely (#RMy4yMzYuNTguMTkx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/3eb045eb2645f9209eba658f1cc893b61672470966.png" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>BitcoinCom</h5>
-                    <h3>Backend Engineer TradFi</h3>
-                </td>
-                <td width="300">
-                    <code>crypto,cryptocurrency,support,bank,java,lead,engineer,engineering,educational,backend</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-tradfi-bitcoincom-172321" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="styles--2BkR3">
-<p>Bitcoin.com's mission is to create more 'economic freedom' in the world. By economic freedom we mean the ability for individuals to freely acquire and use personal resources however they choose. We assert that economic freedom is a fundamental human right and a vital component of human dignity, and we believe that it is foundational for peaceful and prosperous societies.</p>
-<p>Our vision is to provide the next billion people with access to products that exemplify the ideals of Bitcoin. These ideals - which include peer-to-peer transactions, decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
-<p>Our approach is to develop and promote widely accessible products that support economic freedom. For example, our digital wallet - which has 29 million downloads - provides people with an easy-to-use, non-custodial method for buying, selling, storing, sending, receiving, and trading cryptocurrencies.</p>
-<p>We are seeking a talented Java Backend Engineer who shares our vision.</p>
-<p>Tradfi, or âTraditional Financeâ, is our way of introducing users to the exciting world of cryptocurrency. Leveraging our world renowned brand, you will guide users as they take the first step from their bank account to their first decentralized wallet. By creating exciting opportunities such as educational tools, rewards tokens, crypto card, shared wallets and much more, the TradFi team is at the heart of every users journey at [bitcoin.com](http://bitcoin.com). If youâre ready to onboard millions of users into the cryptocurrency ecosystem, tradfi is the fit for you.</p>
-<p>The position will require the successful candidate to work inter-departmentally across Engineering and Product Management.</p>
-<p><strong>Role:</strong></p>
-<ol>
-<li>Build features, infrastructure, architecture and applications for world-class cryptocurrency products and services</li>
-<li>Able to lead and oversee coding at all levels of the stack including engineering design, setting and ensuring high standards and best practices</li>
-<li>Build robust solutions that scale globally.</li>
-<li>Able to work to tight deadlines</li>
-<li>Expressive in a collaborative way when new features need to built fast, or older features need to be shut down</li>
-<li>Communicates thoughts in a clear and concise way</li>
-</ol>
-<p><strong>CoreÂ </strong><strong>Competencies</strong></p>
-<ol>
-<li>3+ years of Java or other object oriented languages</li>
-<li>Experience using common Java frameworks (Spring, RxJava)</li>
-<li>Strong knowledge of object-oriented design</li>
-<li>Communicates well in both written and verbal English</li>
-</ol>
-<p><strong>Nice To Have:</strong></p>
-<ul>
-<li>Knowledge of working with Cassandra</li>
-<li>Worked with reactive frameworks</li>
-<li>Experience working within an Agile framework</li>
-</ul>
-<p><strong>Benefits</strong></p>
-<p>We are serious about what we do, but more importantly, we have a lot of fun doing it. Our work culture is modern, meaning we strive for work experiences based on transparency, productivity, trust, and passion. For all benefits include:</p>
-<ul>
-<li>Flexible work hours</li>
-<li>Remote work</li>
-<li>Health insurance reimbursement</li>
-<li>Wellness program (gym, etc.)</li>
-</ul>
-</div><br/><br/>Please mention the word **SUPPORTED** and tag RMTA3LjE3OC4yMzIuMTY0 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTY0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/56a0561f5c071a0a5ef8ec3fbedef3a01672384574.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Swish</h5>
-                    <h3>Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>design,frontend,technical,support,software,web,css,mobile,lead,analytics,engineer,engineering,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-backend-engineer-swish-171813" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><span style="font-size:12pt;">The Engineering team at Swish is looking for talented Backend Engineers to create fast, scalable server infrastructures with a focus on the best possible user experiences. You will work closely with a talented team of designers, engineers, and product managers who design, implement and ship mission-critical features. You have prior experience developing high quality backend architecture and are excited about doing that at a company that is transforming the way enterprises run their businesses with a tech-focused, mobile-first mindset. You want to have productive technical discussions with a bias towards analytics and user feedback and contribute to the continuous improvement of our web and mobile experiences.</span></div><div><br></div><div><span style="font-size:12pt;">We are looking for individuals who are passionate about the latest technologies and can lead the design and development of scalable applications. A successful candidate will bring deep analytical ability, software engineering expertise, and the ability to deliver results within a fast-moving, agile environment.</span></div><div><br></div><div><b style="font-size:18px;">Our Stack</b></div><div><br></div><div><span style="font-size:12pt;">â¢ Frontend: React, Redux, ES6, ESLint, CSS Modules, Sass, Babel, Webpack, Flow, Jest</span></div><div><span style="font-size:12pt;">â¢ Backend: Node</span></div><div><span style="font-size:12pt;">â¢ Framework: Express, Next, Meteor</span></div><div><span style="font-size:12pt;">â¢ Datastore: MongoDB, Redis</span></div><div><span style="font-size:12pt;">â¢ Container: Docker</span></div><div><span style="font-size:12pt;">â¢ Hosting: AWS, Heroku</span></div><div><br></div><div><b style="font-size:18px;">A Typical Week</b></div><div><br></div><div><span style="font-size:12pt;">â¢ You'll brainstorm with product managers and designers to conceptualize new features.</span></div><div>â¢ <span style="font-size:12pt;">You'll collaborate with frontend engineers to build new features for a client.</span>
-</div><div><span style="font-size:12pt;">â¢ You'll learn about new technologies and discuss potential solutions to problems.</span></div><div><span style="font-size:12pt;">â¢ You'll help our skilled support team triage bugs and troubleshoot production issues.</span></div><div><span style="font-size:12pt;">â¢ You'll mentor other engineers and deeply review code.</span></div><div><br></div><div><b style="font-size:18px;">Requirements</b></div><div><br></div><div><span style="font-size:12pt;">You'll be tasked with developing server infrastructures and applying them at scale to our projects. We look for the following attributes in candidates:</span></div><div><br></div><div><span style="font-size:12pt;">â¢ Strong communication skills.</span></div><div><span style="font-size:12pt;">â¢ Work across disciplines with team members from frontend, backend, design, and product.</span></div><div><span style="font-size:12pt;">â¢ Actively participate in product decisions and improve our development workflow.</span></div><div><span style="font-size:12pt;">â¢ 3+ years of relevant work experience building production server infrastructures, ideally using our stack.Experience with measuring and improving server response times in different conditions and environments.</span></div><div><span style="font-size:12pt;">â¢ Experience with unit and integration testing, continuous integration and deployment workflows.</span></div><div><span style="font-size:12pt;">â¢ Experience with developing REST APIs and integrating third-party APIs.</span></div><div><br></div><div><span style="font-size:12pt;">In all cases, you should be motivated by a desire to solve the most important problems and obtain unprecedented results and eager to push your methods to their maximal performance.</span></div><div><br></div><div><b style="font-size:18px;">Bonus Points</b></div><div><br></div><div><span style="font-size:12pt;">â¢ Degree in STEM field, especially software engineering or computer science related.</span></div><div><span style="font-size:12pt;">â¢ Interested in emerging technology such as machine learning and blockchain.</span></div><div><span style="font-size:12pt;">â¢ Track record of migrating legacy infrastructure to modern stacks.</span></div><div><span style="font-size:12pt;">â¢ Experience in small startÂ­up environments helping large enterprises.</span></div><div><span style="font-size:12pt;">â¢ Experience working with a team, especially a distributed team.</span></div><div><br></div><div><b style="font-size:18px;">About Swish </b></div><div><br></div><div>
-<span style="font-size:12pt;">Launched in February 2013, </span><b style="font-size:12pt;"><a href="http://www.swishlabs.com/" class="postings-link" rel="noopener noreferrer nofollow">Swish</a></b><span style="font-size:12pt;"> is a fast-growing business with an innovative working culture and teams spanned across the world with teams in Toronto, San Francisco, Berlin, Auckland, Bruxelles, Medellin, and more. </span>
-</div><div><br></div><div><span style="font-size:12pt;">We create products for successful business using cutting-edge technologies: Blockchain, Machine Learning, and Apps Dev. Working with Swish puts you in contact with prestigious brands, wherever your base is. We are a 100% remote-work company because we believe it is everyoneâs choice to live and work the way they prefer.</span></div><div><br></div><div><span style="font-size:12pt;">Work is organized in sprints  - 2 weeks periods to which, as a member of our talent community, you choose to commit. You always have the choice to accept or decline a sprint, or take-on multiple sprints simultaneously. </span></div><div><br></div><div><span style="font-size:12pt;">We let members choose what suits them best depending on their current situation: family, travel, studies, finance. We know life is not linear and we respect the humans behind the screens. </span></div><div><br></div><div>
-<span style="font-size:12pt;">Our work ethic relies on six core values: Transparency, Directness, Meritocracy, Autonomy, Responsibility, </span><span style="font-size:16px;">Continuous</span><span style="font-size:12pt;"> Learning.</span>
-</div><div><br></div><div><span style="font-size:12pt;">Ensuring a diverse and inclusive workplace where we learn from each other is core to our values. We welcome people of different backgrounds, experiences, abilities, and perspectives. We are an equal opportunity employer and a fun place to work. </span></div><div><br></div><div><span style="font-size:12pt;">Join the future of work today.</span></div><div><br></div><br/><br/>Please mention the word **FAVORABLE** and tag RMTA3LjE3OC4yMzIuMTY0 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzIuMTY0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/9860/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Maharishi Foundation International</h5>
-                    <h3> Backend Engineer</h3>
+                    <h5>AgencyAnalytics</h5>
+                    <h3> Senior Backend Engineer</h3>
                 </td>
                 <td width="300">
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>64 days ago</text>
+                <text>420 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0016/9860/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
-  <strong>Headquarters:</strong> London (Remote)
-    <br /><strong>URL:</strong> <a href="https://www.maharishi.foundation/">https://www.maharishi.foundation/</a>
+  <strong>Headquarters:</strong> Toronto, Canada
+    <br /><strong>URL:</strong> <a href="https://agencyanalytics.com">https://agencyanalytics.com</a>
 </p>
 
-<div><strong>About Us</strong></div><div>
-<a href="https://www.maharishi.foundation/">Maharishi Foundation International</a> (MFI) is a US-registered non-profit that supports the development of new technologies and outreach opportunities for the worldwide Transcendental Meditation® (TM®) organisations. Over the past 60 years, more than 10 million people worldwide have learned the TM technique through personal instruction by tens of thousands of certified teachers. </div><div><br></div><div>MFI is a growing, fully remote team of nearly 50 people, located around the globe but mainly in North America and Europe. As an organisation we are committed to leveraging modern technology and progressive management practices to make the TM technique and its related programmes more available to people everywhere. </div><div><br></div><div>We favor a healthy and balanced work environment with opportunities for personal development.  </div><div><br></div><div><strong>Job Summary</strong></div><div>We are looking for a backend engineer with focus on AWS Infrastructure with a proven track record of developing backend services Serverless framework. As we are a small, but growing team you will be responsible for the maintenance and support of existing backend features as well as planning and scoping new feature additions and iterations.</div><div><br></div><div>You will be working closely with our product team (design, product and development) to launch a meditation and lifestyle application and accompanying internal services. Applicants should have a proven track record working on large scale, consumer facing products with experience creating modular service based solutions. Applicants should be comfortable working in a fast paced environment, where each individual has a lot of influence and responsibility to deliver, and key to this continuous integration is a reliable and scalable CI / CD process.  You will play an extremely vital role in the development and release of this application as well as maintaining and improving the CI tools we use moving forward. Since there is an existing global community waiting for this application, the app will have an immediate, engaged user base. </div><div><br></div><div>The AWS backend is built using a serverless approach using API Gateway, DynamoDB, Cognito and Lambda. Local development and stack deployment is managed using the Serverless framework, and CI pipelines have been implemented using CircleCI and Bitrise. You will become responsible for all of the working elements of the system and the accounts associated with the architecture.</div><div><br></div><div><strong>About You</strong></div><div>You understand how the AWS suite of products is structured, and can show experience writing fully tested scalable code using relevant AWS products and services. You understand API architecture, and can take a data model and translate it into reusable and flexible components. You enjoy shipping clean, readable and reusable code. You are comfortable working on a distributed team spread across time zones and cultures. You are excited to use technology to have a positive impact in the world as a whole, and in an intimate way for each individual.</div><div><br></div><div><strong>Responsibilities</strong></div><ul>
-<li>Work with design and product teams during their sprints to develop the platform </li>
-<li>Ensure the performance, quality, and responsiveness of the application</li>
-<li>Collaborate with the team and contribute to the definition of specifications for new features, and own the development of those features</li>
-<li>Develop a detailed understanding of deployment processes for AWS (cloudformation) Bitrise, CircleCI and the destination APIs from Google Play and App Store Connect.</li>
-<li>Proactively identify and correct bottlenecks, fix bugs and performance issues</li>
-<li>Maintain code quality, organization and automatization</li>
-<li>Develop a logging and monitoring strategy for all aspects of the infrastructure</li>
-<li>Understand the concepts of DevSecOps and the tools we should implement to ensure Security best practices are followed</li>
-<li>Ensure testing strategy is followed within the team - for unit and integration tests</li>
-</ul><div><br></div><div>
-<strong>Skills and Requirements</strong> </div><ul>
-<li>Familiarity with connecting mobile applications to back-end services through APIs</li>
-<li>Proven track record working within an AWS application environment</li>
-<li>An understanding of best practice DevOps process, and some experience writing CI pipelines and deployment scripts</li>
-<li>Familiarity with application logging and debugging platforms (Sentry, New Relic, Splunk)</li>
-<li>Some knowledge of security testing tools and code quality assessment</li>
-<li>Experience with large scale testing in a production environment</li>
-<li>Familiarity with connecting mobile applications to back-end services through APIs</li>
-<li>Familiarly with the API standards including GraphQL and REST </li>
-<li>Experience with performance and memory tuning with standard tools</li>
-<li>Familiarity with cloud message APIs and push notifications</li>
-<li>Proficient with code versioning tools (Git)</li>
-<li>5 years of testing and deploying code in a large scale production environment</li>
-<li>Experience working in an agile environment </li>
-<li>Experience working in a global non-profit, working with a remote team or in a multinational organization preferred</li>
-<li>Fluency in English (written and verbal)</li>
-</ul><div> </div><div>Bonus points if you have </div><ul>
-<li>Experience with Node.js and TypeScript</li>
-<li>Experience with data architecture and noSQL systems ( DynamoDB)</li>
-<li>Experience with serverless architecture and services (Serverless Framework, EventBridge, StepFunctions, SQS)</li>
-<li>Experience with Netsuite or similar CRMs and lead nurturing would be a plus</li>
-<li>Experience with the Transcendental Meditation® organisation, meditation, or some form of healthy living</li>
-</ul><div><br></div><div>If you are passionate about this work but do not have all of the skills listed we are still interested in hearing from you! </div><div><br></div><div><strong>Pay and benefits</strong></div><div>Our pay levels are set according to a formula that combines above-median market rate data for the role (we pay 55th percentile of New York market rate for this role, based on <a href="https://www.payscale.com/">Payscale</a> data) adjusted for your local cost of living based on <a href="https://www.numbeo.com/cost-of-living/rankings_current.jsp">Numbeo</a> data.</div><div> </div><div>We take the issue of equitable pay very seriously, and we apply our pay formula to all workers who work 80% or more of full time hours with us.</div><div><br></div><div><strong>Diversity and inclusion</strong></div><div>We care about diversity - we strive to ensure all of our team feel included and can bring their whole selves to work but we also know that this work is never ‘done’ or complete, and that we can always improve.</div><div><br></div><div>Our team is fully remote, living and working across 20 countries across the world, and we’d love to hear how you can add to our special culture at MFI.</div>
+<div>We’re seeking a Senior Backend Engineer to work in our product-driven or platform teams, focused on building features that help our customers grow their business.<br><br>As part of AgencyAnalytics, you'll be developing and operating a range of backend functions and tools that enable the features our users love. Together with the team, you'll work remotely to implement architectural changes, drive platform stability, research new technologies and continuously advocate for the use of best practices. You'll frequently work with other engineering teams to deliver incremental product improvements and new features<br><br>
+</div><div>
+<br><strong>What You'll Work With</strong><br><br>
+</div><ul>
+<li>PHP (PSR) + Slim + Microservice Framework</li>
+<li>BigQuery ML (Arima Time Series Model)</li>
+<li>Serverless Cloud Functions + GraphQL</li>
+<li>GCP Infrastructure (GKE, BigQuery, Cloud Tasks, PubSub etc.)</li>
+<li>Non-blocking CI/CD tooling with on-demand staging for every PR</li>
+</ul><div>
+<br><strong>Key Responsibilities</strong><br><br>
+</div><ul>
+<li>You'll design, develop and iterate on backend PHP services that handle millions of requests</li>
+<li>You'll work with your frontend engineering peers, product and design members to create high quality products our customers love to use</li>
+<li>You'll prioritize and work on multiple projects from start to finish, balancing quality, stability and project delivery</li>
+<li>You'll review your teammates' work, advocate for high standards, and look for ways to improve the overall quality of our codebase</li>
+<li>You'll work within your team to achieve technical excellence by taking a collaborative approach to architecture, technical patterns, and complex problems</li>
+<li>You'll work with infrastructure engineers to collaboratively plan and maintain tools that underpin our developer experience</li>
+</ul><div>
+<br><strong>Job requirements<br></strong><br>
+</div><ul>
+<li>You have several years of professional experience with PHP 7+ and the modern PHP ecosystem, using frameworks such as Laravel and Phalcon</li>
+<li>You have at least 5+ years of total experience with PHP</li>
+<li>You have experience with modern cloud storage solutions such as BigQuery</li>
+<li>You have professional experience working in a cross-functional team of 5+ members</li>
+<li>You have the ability to communicate effectively with other engineers, while building trust, credibility, and mutual success with your peers</li>
+<li>You have a strong understanding of the challenges of working in engineering and delivering products in a remote work environment</li>
+<li>You have the drive to stay current with technological changes and set a high standard for yourself</li>
+<li>You proactively take on a challenge and help the team solve problems from start to finish</li>
+</ul><div>
+<br><strong>Job Benefits</strong><br><br>
+</div><ul>
+<li>Fully remote workplace</li>
+<li>Flexible working hours</li>
+<li>4 weeks paid vacation</li>
+<li>Unlimited paid sick days</li>
+<li>Quarterly profit sharing</li>
+<li>Parental &amp; Maternity leave top-ups</li>
+<li>Extended health benefits</li>
+<li>Health spend account</li>
+<li>Equipment credit</li>
+<li>Fitness/Education credit</li>
+<li>Internet reimbursement</li>
+<li>Training and certification reimbursement</li>
+<li>Travel reimbursement for company events</li>
+</ul><div>
+<br><strong>Our Application Process</strong><br><br>
+</div><div>1. Complete a self-assessment (5 - 10 minutes)<br>2. Non-technical introduction interview (15 - 30 minutes)<br>3. Take-home engineering challenge<br>4. Interview with the Hiring Committee (30 - 45 minutes)<br>5. Offer extended to successful applicants<br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer">https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer">https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer</a></p>
 
                 </details>
                 </td>
@@ -220,7 +144,7 @@
                     <code>backend,cloud,crypto,developer</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/blockchain-backend-nodejs-engineer-ce-1546972" align="right" target="_blank">Apply</a>
