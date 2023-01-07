@@ -10,7 +10,7 @@
                     <code>ui,ux,design,defi,designer,testing,growth,manager,finance,strategy,operations,marketing,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-ux-ui-designer-jet-protocol-174281" align="right" target="_blank">Apply</a>
@@ -77,7 +77,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Early stage startup with tremendous growth potential </span></li>
 </ul>
 <p><span style="font-weight:400;">If you're ready to bring your full self to work with a bunch of passionate, shadowy super coders rethinking finance, grab your passport and boarding pass - come join us!</span></p>
-<p> </p><br/><br/>Please mention the word **DIVERSIFIED** and tag RMy4yMzYuNTguMTkx when applying to show you read the job post completely (#RMy4yMzYuNTguMTkx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p> </p><br/><br/>Please mention the word **DIVERSIFIED** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -92,7 +92,7 @@
                     <code>ui,ux,design,founder,designer,software,senior,health,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-ui-ux-designer-nova-labs-173312" align="right" target="_blank">Apply</a>
@@ -143,78 +143,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Monthly wellness/gym stipend</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Annual hardware stipend</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">401K plan</span></li>
-</ul><br/><br/>Please mention the word **AWSOME** and tag RMy4yMzYuNTguMTkx when applying to show you read the job post completely (#RMy4yMzYuNTguMTkx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/2226/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Opinion Stage</h5>
-                    <h3> Senior UI/UX Product Designer (SaaS)</h3>
-                </td>
-                <td width="300">
-                    <code>Design</code>
-                </td>
-                <td width="200">
-                <text>14 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/opinion-stage-senior-ui-ux-product-designer-saas" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/2226/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Tel aviv, Israel
-    <br /><strong>URL:</strong> <a href="https://www.opinionstage.com">https://www.opinionstage.com</a>
-</p>
-
-<div>Opinion Stage is looking for an experienced UI/UX designer to lead the design of an innovative survey &amp; quiz app.</div><div><br></div><div>
-<br><strong>Who we are?<br></strong><br>
-</div><div>Opinion Stage is a SaaS platform for creating visual conversational surveys, polls quizzes &amp; forms that drive top business results.<br><br>
-</div><div>Our surveys &amp; quizzes are used to generate leads, engage audiences, provide actionable insights, do research, drive sales/revenue, and more.<br><br>
-</div><div>Opinion Stage is used by customers such as NBC, Microsoft, Pepsico &amp; Uber.<br><br>
-</div><div>We are a global remote-first team committed to building the most engaging and best-converting surveys &amp; quizzes on the planet.<br><br>
-</div><div>For more information, refer to <a href="https://www.opinionstage.com">https://www.opinionstage.com<strong><br></strong></a><br>
-</div><div>
-<br><strong>Whom do we expect you to be?<br></strong><br>
-</div><div>An experienced designer with a proven track record driving the UX, UI, and overall look &amp; feel of software products (preferably SaaS)<br><br>
-</div><ul>
-<li>5+ years of experience in UI/UX design</li>
-<li>3+ years as a product designer</li>
-<li>In-depth understanding of UX design principles</li>
-<li>The ability to design intuitive, beautiful interfaces for web</li>
-<li>Excellent sense of visual aesthetics (color, typography, spacing, etc.).</li>
-<li>Ability to rapidly prototype and communicate your ideas</li>
-<li>Passion for user psychology</li>
-<li>Passion for logic, consistency, simplicity, and attention to detail</li>
-<li>Quality and pixel-perfect are top priorities for you</li>
-<li>Working experience creating wireframes, screen flows, interaction models, responsive layouts, and UI elements.</li>
-<li>Ability to weigh the pros &amp; cons as well as the cost &amp; benefits of different design solutions</li>
-<li>Excellent verbal, visual, and written communication skills in English</li>
-<li>An awesome portfolio showcasing your previous designs and processes</li>
-<li>Deep &amp; extensive experience with Figma or equivalent</li>
-</ul><div><br></div><div>
-<strong>What will you be doing?<br><br></strong>You’ll have a major impact on how our product works and feels.<br><br>
-</div><ul>
-<li>Take ownership of user experience across all our products and sites including the item creation dashboard, the item widgets (e.g. quiz, survey), 3rd party integrations, and our website</li>
-<li>You will be responsible for research, setting goals, designing wireframes, high-fidelity UI mock-ups, all the way to pixel-perfect designs, and tracking success metrics</li>
-<li>Develop and maintain style guides, UI components, and design Systems to accelerate development and ensure consistency</li>
-<li>You will work closely with our product manager, developers, and content department to ensure the successful planning and implementation of the designs</li>
-</ul><div><br></div><div>
-<strong>What else?<br></strong><br>
-</div><ul>
-<li>This is a 100% remote job</li>
-<li>Align with Europe working hours</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/opinion-stage-senior-ui-ux-product-designer-saas">https://weworkremotely.com/remote-jobs/opinion-stage-senior-ui-ux-product-designer-saas</a></p>
-
+</ul><br/><br/>Please mention the word **AWSOME** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -229,7 +158,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>422 days ago</text>
+                <text>423 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -295,7 +224,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
