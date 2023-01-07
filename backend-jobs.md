@@ -1,53 +1,63 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/1aa7f57e266d8b1c1bae0c1264db87681672470918.peg" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/3480f02591f0b1b4061d12c844ef7d291672989347.png" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>LUKSO</h5>
-                    <h3>Senior Backend Engineer Relayer</h3>
+                    <h5>Syndica</h5>
+                    <h3>Senior Backend Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>design,web3,defi,ethereum,strategist,developer,testing,web,devops,cloud,typescript,lead,senior,health,engineer,engineering,backend,digital nomad</code>
+                    <code>design,saas,support,developer,code,web,cloud,node,lead,senior,operational,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-relayer-lukso-172306" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-syndica-175280" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>As a Back End Engineer in the LUKSO engineering team, your mission is to partner with us to enhance our backend capabilities and build new features. You will contribute to the development of building various APIs, backend queuing systems or/and blockchain transaction relay services. Some of these will be off-chain solutions whilst others will be integrated with on-chain solutions.<br><br><span style="color:rgb(0, 0, 0);font-family:-apple-system ,;">LUKSO is focused on bringing blockchain technology to its next frontier with new tools and standards that will revolutionize the way the world interacts with blockchain. Creators and users will be able to have a seamless Web3 experience with LUKSO's future-proof solutions and we welcome talent around the world to join us in building the most innovative tools for the New Creative Economy.</span><br style="color:rgb(0, 0, 0);font-family:-apple-system ,;"><br style="color:rgb(0, 0, 0);font-family:-apple-system ,;"><span style="color:rgb(0, 0, 0);font-family:-apple-system ,;">LUKSO was Co-Founded by Chief Blockchain Architect, </span><a href="https://www.linkedin.com/in/fabian-vogelsteller-46365042/" rel="noreferrer noopener nofollow" style="background-color:rgb(255, 255, 255);text-decoration:none;color:rgb(44, 92, 197);cursor:pointer;font-family:-apple-system ,;">Fabian Vogelsteller</a><span style="color:rgb(0, 0, 0);font-family:-apple-system ,;">, author of ERC-20, ERC-725, Web3.js, Mist Browser and former Lead Dapp developer of Ethereum and </span><a href="https://www.linkedin.com/in/marjorie-hernandez-3059473a/" rel="noreferrer noopener nofollow" style="background-color:rgb(255, 255, 255);text-decoration:none;color:rgb(44, 92, 197);cursor:pointer;font-family:-apple-system ,;">Marjorie Hernandez</a><span style="color:rgb(0, 0, 0);font-family:-apple-system ,;">, an early blockchain strategist working with Ethereum, IOTA Foundation and world-renowned brands, who also Co-Founded </span><a href="https://discover.thedematerialised.com/" rel="noreferrer noopener nofollow" style="background-color:rgb(255, 255, 255);text-decoration:none;color:rgb(44, 92, 197);cursor:pointer;font-family:-apple-system ,;">THE DEMATERIALISED</a><span style="color:rgb(0, 0, 0);font-family:-apple-system ,;">.</span><br style="color:rgb(0, 0, 0);font-family:-apple-system ,;"><br style="color:rgb(0, 0, 0);font-family:-apple-system ,;"><span style="color:rgb(0, 0, 0);font-family:-apple-system ,;">LUKSO is now being developed by 40+ people around the globe and we are looking for motivated and passionate people who are up to the task of joining us in building out the foundation for the New Creative Economy and the apps that power it.</span><br>--<br><strong>In one year youâll know you were successful if youâveâ¦<br></strong></p><ul>
-<li>Worked closely with Product Owners and third-party service consumers on the development of the new features.</li>
-<li>Produced quality codebase with maximum simplicity and testability that is well documented.</li>
-<li>Worked with technologies such as RESTful APIs, becoming the subject matter expert.</li>
-<li>Helped to shape LUKSOâs core development mission, with your influence and expertise.</li>
-</ul><p><strong>A background like this helps:</strong></p><ul>
-<li>Several years of professional experience working with Gitflow (or being able to compromise on this with the team).</li>
-<li>Node.js experience (such as NestJS, Express or similar)..</li>
-<li>Additional experience in TypeScript and/or experience in hard typed language.</li>
-<li>Experience working with Domain driven design (separation of concern or SoA - service oriented architecture).</li>
-<li>Familiar with testing libraries such as Jest, Mocha, Cypress</li>
-<li>Good understanding of SQL.</li>
-<li>Great communicator and able to construct needs/requirements properly.</li>
-<li>Knowledge of DevOps basics, but also maybe specifics of Cloud Services and containerisation</li>
-<li>Collaboration on the requirements, needs and flaws.</li>
-<li>Understanding of scrumban/ all the standard rituals for agile approach.</li>
-<li>Knowledge of queueing systems is great to have.</li>
-<li>Understanding of stateful web with websockets is a massive plus.</li>
-<li>Kubernetes knowledge is also a massive plus.</li>
-<li>A demonstrated interest in cryptocurrencies/blockchain/web3 Technology, attending conferences or even being involved with DAOs, with a willingness and eagerness to learn on a daily basis. </li>
-</ul><div><strong>What We Offer:</strong></div><ul>
-<li>Innovation-driven working environment, where youâll be part of a project that aims to set new standards in the industry and change the world we live in: doc.lukso.tech</li>
-<li>Team lunches and social activities</li>
-<li>Regular in-office health & sporting activities</li>
-<li>Collaborative squads and a flat structure, with a renowned team of industry experts</li>
-<li>Work fully remote CEST +/-6h or from our picturesque LUKSO office located next to the Spree river in Berlin, Germany</li>
-</ul><div>--</div><div>LUKSO is the new blockchain for the Creative Economy. As a next-generation layer-1 EVM blockchain, LUKSO has introduced new tools and standards that will bring blockchain technology to its next frontier. The building blocks for the New Creative Economy will revolutionize the way users and creators interact with the blockchain. From Fashion, Art, Music, Entertainment, Gaming, Social Media and more, we welcome you to explore our open and interoperable blueprint for the physical and digital worlds.</div><div><br></div><div>LUKSO has introduced new standards called LUKSO Standard Proposals (LSPs), which are the building blocks for the New Creative Economy. These building blocks can be used to create user-friendly dApps and lower the barriers of entry in Web3 for all creators and users.</div><div><br></div><div>
-<a href="https://docs.lukso.tech/standards/universal-profile/introduction" rel="noreferrer noopener nofollow"><strong>Universal Profiles</strong></a> bring social identity to blockchain and improve the overall user experience in Web3. With upgradable security, these platform-agnostic smart-contract-based accounts empower users and creators and allow for true ownership, interoperability, transaction relay services and more.  </div><div><br></div><div>LUKSOâs new standards allow for flexible NFTs that are extensible and directly compatible with Universal Profiles. <a href="https://docs.lukso.tech/standards/nft-2.0/introduction" rel="noreferrer noopener nofollow"><strong>NFTs 2.0</strong></a> are updatable, safer and have unlimited metadata, batch transfers and even better IDs.</div><div><br></div><div>LUKSO is bringing blockchain beyond DeFi with <strong>Cultural Currencies</strong>. The future of blockchain is social, and LUKSOâs essential, future-proof solutions are reshaping the way the world interacts with the blockchain.</div><div><br></div><div>
-<strong>You belong here.</strong><br><br>At LUKSO, we welcome applicants from around the world of all abilities, race, ethnicity, gender/gender expression and age to explore our solutions and join us in building out the foundation for the New Creative Economy. We look forward to meeting you!</div><br/><br/>Please mention the word **DAZZLING** and tag RMy4yMzYuNTguMTkx when applying to show you read the job post completely (#RMy4yMzYuNTguMTkx). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <div class="row mb-4">
+<div class="col">
+<p> </p>
+<p><span style="font-weight:400;">Syndica is a developer infrastructure company building the cloud of web3. We are dedicated to building developer infrastructure that just works. Syndica offers highly scalable RPC node infrastructure, with advanced logging and analytics.</span></p>
+<p><span style="font-weight:400;">We are backed by strategic partners, investors, and advisors who are all-in on our mission: Chamath of Social Capital, Sam Bankman-Fried of Alameda Research, Solana Ventures, and many more.</span></p>
+<p><span style="font-weight:400;">This role will have the primary accountability of designing, implementing, and operating Syndicaâs blockchain infrastructure platform. </span><strong>Rust knowledge is a necessity!</strong><span style="font-weight:400;"> The team operates with a ârun what you writeâ philosophy and each engineer is responsible for deploying and operating the code they write.</span></p>
+<p><span style="font-weight:400;">A successful candidate must have demonstrable experience in at least one programming language (preferably Go, Rust or C++), and previous work in SaaS application development and operations. You will be working closely with the Support and Development team on the architecture and configuration of our AWS and GCP hosted infrastructure. You will be responsible to ensure the environment is built, deployed, configured, managed, and monitored correctly to support the business. The ideal candidate will also have prior experience developing applications on either of the three major cloud platforms - AWS, Azure, or GCP via Kubernetes.</span></p>
+<h3><strong>Responsibilities</strong></h3>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Design, creation, and provisioning of infrastructure</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Write beautiful maintainable Rust code</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Create modular and extensible micro-services to support the platform</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Build a reliable fault-tolerant service</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Identify and troubleshoot any availability and performance issues at multiple layers of deployment, from hardware, to operating environment, network, and application</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Evaluate performance trends and expected changes in demand and capacity, and establish the appropriate scalability plans</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Troubleshoot and solve customer platform issues</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Ensure that SLAs are met in executing operational tasks</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with other engineers to implement operational solutions while defining and adhering to industry best practices</span></li>
+</ul>
+<h3><strong>Qualifications</strong></h3>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">3+ years related professional experience using Rust</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with Prometheus/Grafana for metrics aggregation/visualization is plus</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with alerting and monitoring tools is plus</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience working in a highly distributed company is a plus</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Align a portion of your day with the business hours of Central Time Zone - UTC -6</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Systematic problem-solving approach, combined with a strong sense of ownership and drive</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Some working knowledge of web and network protocols and standards (HTTP, TLS, DNS, etc)</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Bachelor's degree in Computer Science or related field or relevant experience</span></li>
+</ul>
+<h3><strong>What does success in this role look like?</strong></h3>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">In three months, you have become one of our lead Rust developers. Youâll have taken on independent code review responsibilities and are collaborating on the design of new features</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">In six months, you have earned the trust of the team and are delivering tasks through the entire SDLC, from design through development with minimal guidance, and are helping to effectively mentor new engineers joining the team</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">In twelve months, you have established a cadence of predictable, on-time delivery without cutting corners - we love clean, maintainable code :)</span></li>
+</ul>
+<p> </p>
+</div>
+</div><br/><br/>Please mention the word **ADULATORY** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -62,7 +72,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>420 days ago</text>
+                <text>421 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer" align="right" target="_blank">Apply</a>
@@ -130,53 +140,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer">https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1546972/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>ITScout</h5>
-                    <h3>[Blockchain] - Backend Nodejs Engineer - (CE)</h3>
-                </td>
-                <td width="300">
-                    <code>backend,cloud,crypto,developer</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/devops/blockchain-backend-nodejs-engineer-ce-1546972" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>The world's first physical NFT marketplace focused on the collector community. Our client connects the real world and the metaverse. They are a community for people who trade the things they love.They are a completely remote company with no fixed headquarters. Their team is spread across the globe - They form an inclusive network across various locations, lifestyles and backgrounds.The culture is driven by empathy, integrity, strategic thinking, innovation, leadership and a shared desire to perform at their best. While their differences make them adaptable and versatile, their shared values give them the strength and drive to become the open metaverse for collectors.<br></p>
-<p><strong><em>We are looking for a Backend Developer</em></strong> to join the team of blockchain developers to design and implement products. Your ideal engineer is someone who thrives in a fast-paced startup environment and can adapt to the ever-changing industry. </p>
-<p>You will work with the team to - implement functionality, design our system, maintain the health of our code, and continue to grow as an engineer with support from senior team members.</p>
-<p><strong>Responsibilities:</strong></p>
-<p>Develop products and projects related to backend development, configuration and maintenance around NFT Utilities, Backend to Frontend Integration.</p>
-<p>Build core infrastructure software, instrument for performance, and optimize for performance.</p>
-<p>Write, test, deploy smart contracts, and build system design around the product.</p>
-<p>Build core backend modules such as authentication, session, queues, and schedulers</p>
-<p>Write unit and end-to-end test scripts for required modules/packages</p>
-<p>Integrate and consume other services/APIs.</p>
-<p><strong><em>Technology stack:</em></strong></p>
-<p>Languages: TypeScript</p>
-<p>BE: Node.js / Express</p>
-<p>FE: React</p>
-<p>DB: MongoDB</p>
-<p>Cloud: AW</p>
-<p><strong><em>Requirements</em></strong></p>
-<p>+5-10 years of experience in backend technologies. The main stack is Node.js, so Typescript is preferred. However, they may consider candidates with extensive experience with Java or Python.</p>
-<p>Experience with Solidity (Defi smart contracts), Web3, Ethereum and integration of APIs into DApps.</p>
-<p>Knowledge of Ethereum/Polygon or other blockchains.</p>
-<p>Knowledge and interest in crypto projects covering DeFi, NFTs and DAOs.</p>
-<p>Have designed, built, scaled and maintained production services and knowledge to compose a service-oriented product and integrate decentralized technologies, infrastructure and data systems.<br><br><strong>What's in it for you?</strong></p>
-<p>Be part of building a great project and make a real impact on your career. Work flexible hours from anywhere and be part of a team driven by strong values and a clear shared vision. Directly shape the future of a completely new model for cryptocurrency and blockchain applications.Test your skills and push your creative boundaries by working with the latest technologies and systems. Play an active role in one of human history's most significant technological innovations. Receive a competitive salary paid in crypto.<br><strong><br>Benefits:</strong><br>-- Bonus structure varies between 25 and 100% of annual salary depending on KPIs.<br>-- 6.5% additional to the monthly salary for the payment of the ETH fees (we pay via USDT only). Payments are 50% on 10 and 50% on 25.<br>-- Company meetings three times a year in different parts of the world.<br>-- Computer stack<br>-- Flexible schedule and very scrum-focused.<br><br>Budget: USDT 90-170k per year. T<em>his information is for reference only, depending on the candidate's Seniority.</em></p>
-<img src="https://remotive.com/job/track/1546972/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
