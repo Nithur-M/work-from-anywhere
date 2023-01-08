@@ -10,7 +10,7 @@
                     <code>manager,cryptocurrency,support,software,financial,leader,management,lead,senior</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-project-manager-alphapoint-174779" align="right" target="_blank">Apply</a>
@@ -47,7 +47,7 @@
 <li>$100 worth of cryptocurrency of your choice upon joining AlphaPoint</li>
 <li>Company paid coworking space benefits</li>
 <li>$2500/year for learning and development</li>
-</ul><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **PROVIDENCE** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **PROVIDENCE** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -62,7 +62,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/mailerlite-it-project-manager" align="right" target="_blank">Apply</a>
