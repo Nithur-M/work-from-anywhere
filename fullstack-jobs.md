@@ -10,7 +10,7 @@
                     <code>design,web3,ethereum,react,system,front-end,security,ui,web,education,c++,engineer,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-engineer-manta-network-174279" align="right" target="_blank">Apply</a>
@@ -30,7 +30,7 @@
 <li>Strong understanding of Ethereum smart contracts and best practices</li>
 <li>Previous experience in the blockchain industry, particularly around the Ethereum, Polkadot, Avalanche, or Near ecosystem</li>
 <li>Experience of quick prototyping and UI design</li>
-</ul><div><span style="font-size:24px;">Life at p0xeidon labs</span></div><div><br></div><div>p0xeidon labs is comprised of a diverse and global group of core contributors. We offer a friendly, flexible work environment that provides full-remote opportunities. Our team is full of bright and motivated minds. Despite our geographical diversity, we host events both virtual and physical to promote a strong culture. We also pride ourselves on our ability to move fast as a cohesive team.</div><div><br></div><div><span style="font-size:18px;">Additional Benefits with p0xeidon labs</span></div><div>- Competitive compensation</div><div>- Unlimited PTO</div><div>- Token allocation</div><div>- Remote-first</div><div>- Inclusive team</div><div>- Education opportunites</div><div>- Conference travel</div><div>- Many other benefits! </div><br/><br/>Please mention the word **DELIGHTFULNESS** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><span style="font-size:24px;">Life at p0xeidon labs</span></div><div><br></div><div>p0xeidon labs is comprised of a diverse and global group of core contributors. We offer a friendly, flexible work environment that provides full-remote opportunities. Our team is full of bright and motivated minds. Despite our geographical diversity, we host events both virtual and physical to promote a strong culture. We also pride ourselves on our ability to move fast as a cohesive team.</div><div><br></div><div><span style="font-size:18px;">Additional Benefits with p0xeidon labs</span></div><div>- Competitive compensation</div><div>- Unlimited PTO</div><div>- Token allocation</div><div>- Remote-first</div><div>- Inclusive team</div><div>- Education opportunites</div><div>- Conference travel</div><div>- Many other benefits! </div><br/><br/>Please mention the word **DELIGHTFULNESS** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -45,7 +45,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>92 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/forem-senior-full-stack-engineer" align="right" target="_blank">Apply</a>
