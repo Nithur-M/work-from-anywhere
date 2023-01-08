@@ -10,7 +10,7 @@
                     <code>design,saas,system,security,support,software,code,web,devops,cloud,administrator,management,operational,analytics,reliability,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-syndica-175286" align="right" target="_blank">Apply</a>
@@ -95,7 +95,7 @@
 </div>
 </div>
 </div>
-</div><br/><br/>Please mention the word **DILIGENCE** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **DILIGENCE** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
