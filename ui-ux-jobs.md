@@ -10,7 +10,7 @@
                     <code>ui,ux,design,defi,designer,testing,growth,manager,finance,strategy,operations,marketing,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-ux-ui-designer-jet-protocol-174281" align="right" target="_blank">Apply</a>
@@ -77,73 +77,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Early stage startup with tremendous growth potential </span></li>
 </ul>
 <p><span style="font-weight:400;">If you're ready to bring your full self to work with a bunch of passionate, shadowy super coders rethinking finance, grab your passport and boarding pass - come join us!</span></p>
-<p> </p><br/><br/>Please mention the word **DIVERSIFIED** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/6932900ccbb3062af7b8234051e3c56d1672643758.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Nova Labs</h5>
-                    <h3>Senior UI UX Designer</h3>
-                </td>
-                <td width="300">
-                    <code>ui,ux,design,founder,designer,software,senior,health,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-ui-ux-designer-nova-labs-173312" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Nova Labs is the founding team behind the Helium Network, the worldâs fastest-growing decentralized wireless network, now live in over 74,000+ cities and 182 countries.</p>
-<p>Nova Labs was founded in 2013 by Napster Founder Shawn Fanning, Amir Haleem, and Sean Carey, with a mission to make it easier to build connected devices. The company has raised equity funding from some of the most prominent Venture Capital (VC) firms in the world including GV (formerly Google Ventures), Khosla Ventures, FirstMark Capital, Marc Benioff, MunichRe and others.</p>
-<p>We are looking for an experienced and creative UI/UX Designer to join the expanding Nova Labs team. Nova Labs is seeking to change the world of connectivity with a highly disruptive model growing at a fast pace.</p>
-<p><span style="font-size:12pt;"><strong>In this role, you will:</strong></span></p>
-<ul>
-<li>Gather user requirements, design graphic elements, navigate components, and create seamless, enjoyable experiences for our users.Â </li>
-<li>Gather and evaluate user requirements in collaboration with product managers and engineers</li>
-<li>Illustrate design ideas using storyboards, process flows and sitemaps</li>
-<li>Design graphic user interface elements, like menus, tabs and widgets, and more</li>
-<li>Build page navigation buttons and search fields</li>
-<li>Develop UI mockups and prototypes that clearly illustrate how sites/apps function and look like</li>
-<li>Create original graphic designs (e.g. images, sketches and tables)</li>
-<li>Prepare and present rough drafts to internal teams and key stakeholders</li>
-<li>Identify and troubleshoot UX problems (e.g. responsiveness)</li>
-<li>Conduct layout adjustments based on user feedback</li>
-<li>Adhere to style standards on fonts, colors and images</li>
-</ul>
-<p><span style="font-size:12pt;"><strong>Required Skills:</strong></span></p>
-<ul>
-<li>Proven work experience as a UI/UX Designer or similar role</li>
-<li>Portfolio of design projects</li>
-<li>Knowledge of wireframe tools (e.g. Wireframe.cc and InVision)</li>
-<li>Up-to-date knowledge of design software like Figma, Sketch etc.</li>
-<li>Team spirit; strong communication skills to collaborate with various stakeholders</li>
-<li>Excellent time-management skills</li>
-<li>Preferred experience within decentralized technologies/blockchain/crypto</li>
-<li>Preferred experience with HMTL/CSS/JS</li>
-</ul>
-<p><span style="font-size:12pt;"><strong>Compensation:</strong></span></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Total compensation structure at Nova Labs is base salary + private equity + perks/benefits</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">The salary pay scale for the target experience and target skill set for this role is $123k - $176k</span></li>
-</ul>
-<p><span style="font-size:12pt;"><strong>Benefits:</strong></span></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">We are a remote-first company</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">100% company-paid health insurance premiums (medical, dental, and vision) for you and your dependents</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Unlimited paid vacation and paid company holidays</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Vacation stipend</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Monthly wellness/gym stipend</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Annual hardware stipend</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">401K plan</span></li>
-</ul><br/><br/>Please mention the word **AWSOME** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p> </p><br/><br/>Please mention the word **DIVERSIFIED** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -158,7 +92,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>423 days ago</text>
+                <text>424 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -224,7 +158,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
