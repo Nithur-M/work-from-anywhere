@@ -10,7 +10,7 @@
                     <code>crypto,defi,blockchain,web3,software,design,react,technical,test,ui,javascript,finance,fintech,typescript,mobile,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-cake-defi-174780" align="right" target="_blank">Apply</a>
@@ -45,7 +45,7 @@
 <p> </p><div class="content-conclusion">
 <p>We want to transform and decentralise finance with tomorrowâs technology. This is where you come in. Join a company that is at the forefront of bleeding-edge innovations in blockchain and DeFi. You will be empowered to push boundaries and think out of the box. You will get to work with a bunch of ridiculously motivated and talented people. And most importantly, you'll have fun. The best places to work at, are often also the most fun to work at. That's us.</p>
 <p>We hire based on merit, fit, and strong alignment to our culture. Our culture is defined by 7 team principles: Integrity, Resourcefulness, Ownership, Meritocratic Decision-making, Customer Obsession, Radical Candour, and Passion. These 7 principles guide our company, our people, and our work. At Cake DeFi, our culture is our pride. It has been instrumental to our success, so we are steadfast in our commitment to it. We welcome you to add to it.</p>
-</div><br/><br/>Please mention the word **EUPHORIC** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **EUPHORIC** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -60,7 +60,7 @@
                     <code>software,design,amazon,defi,crypto,cryptocurrency,system,frontend,test,code,web,javascript,investment,nodejs,php,git,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-nobi-174275" align="right" target="_blank">Apply</a>
@@ -96,7 +96,7 @@
 <li>Knowledgeable on software design pattern</li>
 <li>Understanding the principles of application security</li>
 <li>Blockchain or Crypto enthusiast</li>
-</ul></div><br/><br/>Please mention the word **WORTHINESS** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul></div><br/><br/>Please mention the word **WORTHINESS** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -111,7 +111,7 @@
                     <code>software,design,cryptocurrency,cryptocurrencies,full-stack,technical,developer,test,director,code,web,devops,financial,cloud,operational,health,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-cudos-174272" align="right" target="_blank">Apply</a>
@@ -120,7 +120,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p><strong>About Us:</strong></p><p>Cudo Ventures is a team of business leaders and developers who came together to live the mission of creating tech for good. Founded in 2017 by serial tech entrepreneur Matt Hawkins, our highly experienced team is joined by world-class advisors and investors including the Ex-President of Sony Playstation, Director of Blockchain at AMD, BGA, Brilliance Ventures & Moonrock Capital.  </p><p>Our vision is to enable more efficient use of the worldâs computing resources. Through our innovative platforms and network, we use spare computing power to create a decentralized, sustainable and connected world. We aim to empower people and organisations to earn and save through cheaper, accessible, and sustainable computing by utilising spare capacity.</p><p> At our core, we design and develop cutting edge technology. CUDOS is the decentralised, cloud-computing Network powered by Cudo Compute, connecting consumers of cloud computing to providers looking to monetise their underutilised hardware. By creating the platform, powered by the CUDOS Token, Cudo is able to provide organisations with up to 10x more cost-effective computing. Cudos unites Cloud and Blockchain.</p><p>Alongside CUDOS & Compute, we also built one of the largest automated cryptocurrency mining tools (Cudo Miner). Miner has lowered the barrier of entry for users new to cryptocurrency and provided tools to allow experienced users to manage large farms of rigs. </p><p>We are scaling fast and hiring talented people globally to join us on our journey. Regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics, we want everyone to feel welcome. We are committed to building a diverse and inclusive equal opportunity workplace everyone can call home. For more information, please visit us at <a href="http://www.cudoventures.com/" rel="noopener noreferrer nofollow">www.cudoventures.com</a> and www.cudos.org. </p><p><strong>The Role:</strong></p><p>We are looking for aÂ Software Engineer (Blockchain) to join our Data and Insight team.<br><br></p><p> <strong>What youâll get to do:</strong><br></p><ul><li><ul> <li>Design, develop, test and maintain user-facing features and improvements to the blockchain products in a secure, well-tested, and performant way.<br> </li> <li>Solve technical problems of high scope and complexity.<br> </li> <li>Advocate for and write code that meets defined standards for style, maintainability, and best practices for a high-scale web environment.<br> </li> <li>Work with the wider blockchain team and other stakeholders to iterate on new features, and to ensure consistency and health of the network.<br><br> </li> </ul></li></ul><p><strong>What youâll bring with you:</strong></p><ul> <li><ul> <li>Strong ability to prioritize tasks and make decisions based on both the needs of the blockchain team and of the wider business.<br> </li> <li>Experience in fast paced, remote DevOps environment.<br> </li> <li>Proactivity and an active pursue of communication and work efficiency.<br> </li> <li>Have an operational mindset and the ability to recognise and implement improvements.<strong><br><br></strong> </li> </ul></li> </ul><strong>Qualifications/Experience;</strong><br><br><ul> <li>A minimum of 3 years of full-stack software developer experience.<br> </li> <li>Experience architecting and designing solutions or features end-to-end, working collaboratively with other engineers building on the same or other components, and ensuring their work meets the standards required for the solution.<br> </li> <li>Applicable experience and skills in product UI/UX design would be desirable<br> </li> <li>Experience working with financial services would be desirable, ideally cloud hosting solutions and/or cryptocurrencies in a production environment.<br> </li> <li>No blockchain experience is required, but would be desirable.<br><br> </li> </ul> <p><strong>What we offer: </strong></p><ul> <li>A Competitive Salary - Negotiable dependent on experienceÂ </li> <li>Share options and CUDOS token options. </li> <li>Cyclescheme and Techscheme</li> <li>Unlimited holiday policy - we donât believe in limiting how much time you need to rest away from work.</li> <li>Remote working with the option to work from a shared workspace up to 2 days per week. </li> <li>Fantastic opportunities to develop - we have a habit of promoting in house.</li> <li>A great team with a passion for working collaboratively.</li> <li>Team bonding - whether that be an online comedy show, or monthly drinks; we like to get to know each other as individuals and not just colleagues.</li> </ul><br/><br/>Please mention the word **HEADWAY** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p><strong>About Us:</strong></p><p>Cudo Ventures is a team of business leaders and developers who came together to live the mission of creating tech for good. Founded in 2017 by serial tech entrepreneur Matt Hawkins, our highly experienced team is joined by world-class advisors and investors including the Ex-President of Sony Playstation, Director of Blockchain at AMD, BGA, Brilliance Ventures & Moonrock Capital.  </p><p>Our vision is to enable more efficient use of the worldâs computing resources. Through our innovative platforms and network, we use spare computing power to create a decentralized, sustainable and connected world. We aim to empower people and organisations to earn and save through cheaper, accessible, and sustainable computing by utilising spare capacity.</p><p> At our core, we design and develop cutting edge technology. CUDOS is the decentralised, cloud-computing Network powered by Cudo Compute, connecting consumers of cloud computing to providers looking to monetise their underutilised hardware. By creating the platform, powered by the CUDOS Token, Cudo is able to provide organisations with up to 10x more cost-effective computing. Cudos unites Cloud and Blockchain.</p><p>Alongside CUDOS & Compute, we also built one of the largest automated cryptocurrency mining tools (Cudo Miner). Miner has lowered the barrier of entry for users new to cryptocurrency and provided tools to allow experienced users to manage large farms of rigs. </p><p>We are scaling fast and hiring talented people globally to join us on our journey. Regardless of age, education, ethnicity, gender, sexual orientation, or any personal characteristics, we want everyone to feel welcome. We are committed to building a diverse and inclusive equal opportunity workplace everyone can call home. For more information, please visit us at <a href="http://www.cudoventures.com/" rel="noopener noreferrer nofollow">www.cudoventures.com</a> and www.cudos.org. </p><p><strong>The Role:</strong></p><p>We are looking for aÂ Software Engineer (Blockchain) to join our Data and Insight team.<br><br></p><p> <strong>What youâll get to do:</strong><br></p><ul><li><ul> <li>Design, develop, test and maintain user-facing features and improvements to the blockchain products in a secure, well-tested, and performant way.<br> </li> <li>Solve technical problems of high scope and complexity.<br> </li> <li>Advocate for and write code that meets defined standards for style, maintainability, and best practices for a high-scale web environment.<br> </li> <li>Work with the wider blockchain team and other stakeholders to iterate on new features, and to ensure consistency and health of the network.<br><br> </li> </ul></li></ul><p><strong>What youâll bring with you:</strong></p><ul> <li><ul> <li>Strong ability to prioritize tasks and make decisions based on both the needs of the blockchain team and of the wider business.<br> </li> <li>Experience in fast paced, remote DevOps environment.<br> </li> <li>Proactivity and an active pursue of communication and work efficiency.<br> </li> <li>Have an operational mindset and the ability to recognise and implement improvements.<strong><br><br></strong> </li> </ul></li> </ul><strong>Qualifications/Experience;</strong><br><br><ul> <li>A minimum of 3 years of full-stack software developer experience.<br> </li> <li>Experience architecting and designing solutions or features end-to-end, working collaboratively with other engineers building on the same or other components, and ensuring their work meets the standards required for the solution.<br> </li> <li>Applicable experience and skills in product UI/UX design would be desirable<br> </li> <li>Experience working with financial services would be desirable, ideally cloud hosting solutions and/or cryptocurrencies in a production environment.<br> </li> <li>No blockchain experience is required, but would be desirable.<br><br> </li> </ul> <p><strong>What we offer: </strong></p><ul> <li>A Competitive Salary - Negotiable dependent on experienceÂ </li> <li>Share options and CUDOS token options. </li> <li>Cyclescheme and Techscheme</li> <li>Unlimited holiday policy - we donât believe in limiting how much time you need to rest away from work.</li> <li>Remote working with the option to work from a shared workspace up to 2 days per week. </li> <li>Fantastic opportunities to develop - we have a habit of promoting in house.</li> <li>A great team with a passion for working collaboratively.</li> <li>Team bonding - whether that be an online comedy show, or monthly drinks; we like to get to know each other as individuals and not just colleagues.</li> </ul><br/><br/>Please mention the word **HEADWAY** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -135,7 +135,7 @@
                     <code>software,cryptocurrency,security,technical,developer,code,financial,video,fintech,management,reliability,engineer,engineering,educational,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-rust-orderly-173304" align="right" target="_blank">Apply</a>
@@ -195,7 +195,97 @@
 <li>If you have experience in developing trading systems or financial-related products is a plus.</li>
 <li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
 <li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our <a href="https://boards.greenhouse.io/orderlynetwork/jobs/5170520003" target="_blank" rel="noopener noreferrer nofollow">External Referral Incentives Program</a> as well. </li>
-</ul><br/><br/>Please mention the word **PANORAMIC** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **PANORAMIC** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4854/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>AssemblyAI (YC 17)</h5>
+                    <h3> Senior Software Engineer, Python</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>150 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0076/4854/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> United States
+    <br /><strong>URL:</strong> <a href="https://www.assemblyai.com/">https://www.assemblyai.com/</a>
+</p>
+
+<div>We're looking for a senior backend engineer with strong software and cloud engineering skills. You'll help us build highly scalable developer-centric APIs and backend systems powered by state-of-the-art ML models. Some of your responsibilities will include:</div><ul>
+<li>Build new API features and endpoints</li>
+<li>Build automated test suites and CI/CD pipelines</li>
+<li>Build highly scalable event-driven and realtime systems</li>
+<li>Instrument systems with metrics, tracing, and logging </li>
+<li>Refactor applications to eliminate tech debt</li>
+<li>Troubleshoot production issues</li>
+</ul><h1><strong>You'll love this job if you....</strong></h1><ul>
+<li>Enjoy solving complex technical problems, even when there is no perfect solution.</li>
+<li>Enjoy being in a fast-paced, customer-facing role.</li>
+<li>Thrive in small, cross-functional teams. We like to wear many hats here!</li>
+<li>You're excited to tackle big technical challenges like building highly scalable architectures and achieving zero-downtime deploys.</li>
+</ul><h1><strong>Requirements</strong></h1><ul>
+<li>6+ years of professional experience building backend applications using any popular language such as Python, Java, C#, JavaScript, Go, C/C++</li>
+<li>4+ years of working with SQL and NoSQL databases</li>
+<li>3+ years of production support experience</li>
+<li>3+ years working with common AWS services</li>
+<li>3+ years developing REST APIs</li>
+<li>3+ years of experience working with Python</li>
+<li>3+ working with Python backend frameworks like Django, Flask, or Tornado</li>
+<li>Experience migrating systems to meet increasing traffic/scale</li>
+<li>
+<strong>Startup or FAANG-type experience </strong>- Has worked at a startup or high growth company</li>
+<li>
+<strong>Deep AWS knowledge </strong>- Has many years of experience solutioning within AWS</li>
+<li>
+<strong>Strong Python coding abilities </strong>- Can pass difficult programming challenges in a relatively short period of time. Can speak clearly about their thinking throughout these challenges. Can speak to O-notation of algorithms. Has excellent knowledge of common python idioms and libraries.</li>
+<li>
+<strong>High scalability experience</strong> - Has been a tech leader on scaling systems to hundreds of millions of requests/events per day. Has experience with hyper-observability, scaling algorithms, and using production data to drive system changes</li>
+</ul><h1><strong>Skills</strong></h1><ul>
+<li>
+<strong>Amazing system design chops </strong>- When given a hard problem to solve with a new system, they can quickly shape an effective design and communicate its strengths, weaknesses, and tradeoffs.</li>
+<li>
+<strong>High-octane thinking</strong> - Engages deeply on subjects of expertise. Thinks ahead many steps and can see where decisions are likely to lead. Their brains compute at a very high level.</li>
+<li>
+<strong>Extremely creative </strong>- Can find both novel and effective solutions within highly constrained time and resources</li>
+<li>
+<strong>Fast learner</strong> - Has shown they can ramp up on difficult topics very fast</li>
+<li>
+<strong>Exceptional gut instincts </strong>- Can practically feel when something is right or wrong. Can use these instincts to quickly point themselves in the right direction.</li>
+<li>
+<strong>Opinionated</strong> - They have convictions in what they believe and can communicate their position clearly without drama.</li>
+</ul><h1><strong>Nice to Have</strong></h1><ul>
+<li>Machine learning experience - Has worked with machine learning models at scale</li>
+<li>Experience integrating and deploying ML models into production</li>
+</ul><h1><strong>Benefits (US)</strong></h1><ul>
+<li>Competitive Salary + Bonus</li>
+<li>Equity</li>
+<li>401k</li>
+<li>100% Remote team</li>
+<li>Unlimited PTO</li>
+<li>Premium Healthcare (100% Covered for you + dependents)</li>
+<li>Vision &amp; Dental Care</li>
+<li>$1K budget for your home office setup</li>
+<li>New Macbook Pro (or PC if you prefer)</li>
+<li>2x/year company paid team retreat</li>
+</ul><h1>Salary Range (Global): $125,000 - $200,000</h1>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python">https://weworkremotely.com/remote-jobs/assemblyai-yc-17-senior-software-engineer-python</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -210,7 +300,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -272,7 +362,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
