@@ -1,5 +1,121 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/e45836e124dea09c188272bbb2d727161673075753.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Holo</h5>
+                    <h3>Software Developer Holochain Core&Nbsp;Team</h3>
+                </td>
+                <td width="300">
+                    <code>developer,software,code,web,travel,cloud,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-developer-holochain-corenbspteam-holo-175785" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>
+<p></p>
+<p><span>Full time - contract<br>(Full Time - 100% Remote Work)</span></p>
+<p></p>
+<p></p>
+<p>Time Zone: CET TO ET  (EU to Eastern USA)</p>
+<p></p>
+<p></p>
+<p>Language: English Fluenc<span>y</span></p>
+<p></p>
+<p></p>
+<p>This opportunity is in a rapidly growing, disruptive global tech startup.</p>
+<p></p>
+<p></p>
+<p>We are looking for a software developer to join our Holochain core team. </p>
+<p></p>
+<p></p>
+<h3><b>What will you do:</b></h3>
+<p></p>
+<p></p>
+<p>The person best suited for this role will be able to engage directly with our open-source community and internal app devs to respond to issues and feedback, as well as the ability to dive deep into the code to solve problems and implement new features. You will know you are the person for the job if:</p>
+<p></p>
+<p></p>
+<ul>
+<li>You are able to effectively work on an established codebase.</li>
+<li>You are open and excited to interface with the community of developers to:<ul>
+<li><span>Respond to Github issues</span></li>
+<li>Respond to bugs and implement fixes</li>
+<li>Receive and respond to feedback and requests from the community</li>
+</ul>
+</li>
+<li>You can deep dive into potentially time-sensitive community/product issues, create reproductions as needed, and implement timely and correct iterative fixes<ul>
+<li>Performance testing</li>
+<li>Correctness of implementation</li>
+<li>Ergonomics (DRY, maintainable, testable patterns)</li>
+</ul>
+</li>
+<li>You can jump into our Continuous integration pipeline to make improvements, including our hand-crafted Nix environment</li>
+<li>You are proficient in documenting your own code and improving existing documentation as needed</li>
+<li>You are comfortable writing thorough tests for your code</li>
+<li>You are comfortable giving and receiving code reviews for your and your teammatesâ work</li>
+<li>You have an orientation to win as a team: You develop solutions independently and together with distributed teams, using modern software development and agile methodologies</li>
+<li>Experience working with and contributing to open-source projects is nice to have</li>
+<li>Excellent and direct communication is a must</li>
+<li>Willingness to learn new technologies is a must</li>
+</ul>
+<p></p>
+<p></p>
+<h3>Skill<b>s</b>:</h3>
+<p></p>
+<p></p>
+<ul>
+<li>Experience C/C++/Go/Rust experience, or similar systems programming experience - 2 years</li>
+<li>Mastery of CI frameworks and tools, including Travis, Docker</li>
+<li>A basic high-level understanding of Holochain is a nice to have â bonus points for direct experience working with Holochain</li>
+<li>Knowledge of secure coding practices</li>
+<li>Experience with multi-threaded programming</li>
+<li>In-depth knowledge of the software development life cycle</li>
+<li>Startup experience - 4 years</li>
+</ul>
+<p></p>
+<p></p>
+<h3>Some details about what we offer:</h3>
+<p></p>
+<p></p>
+<ul>
+<li><span>Market salary (National Currency)</span></li>
+<li>RewardsProgram  (HoloFuel)</li>
+<li>Supportive introductory period</li>
+<li>Regular team meetings (remote/video)</li>
+<li>Occasional Team travel 1-2x per year</li>
+<li>Collaborative and inspiring culture</li>
+<li>Flexible work schedules and vacation</li>
+<li>Motivated, passionately engaged and evolutionary global teammates</li>
+</ul>
+<p></p>
+<p></p>
+<h3>About us</h3>
+<p></p>
+<p></p>
+<p>Holochain is our new open-source framework infrastructure technology for distributed peer-to-peer applications. Holochain is fast, massively scalable, cost-effective, resource-efficient, and energy-efficient.</p>
+<p></p>
+<p></p>
+<p>Holo, which is built on Holochain, is a distributed cloud platform and marketplace for hosting and serving other Holochain applications to everyday users connected to the Internet. Holo brings access to distributed applications to the familiar web browser by creating an ecosystem and a currency that enables distributed hosting services provided by peers.</p>
+<p></p>
+<p></p>
+<p>With Holo, we envision a world where people own their own data and control their identity and privacy, a world where communities create together with patterns and tech designed to maximise individual, social and environmental well-being. Our aim is to make distributed peer-to-peer computing accessible to everyone.</p>
+<p></p>
+<p></p>
+<p>Holo is an equal-opportunity employer, and we celebrate our diverse, creative, and collaborative team.</p>
+<p></p>
+<p><br><a rel="noopener noreferrer nofollow"><span>Apply Now!</span> <i></i></a></p>
+</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/TPVo0pOB2yQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **HELPED** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/232597b99404a68bf40e44a1ed66fcca1672902989.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +126,7 @@
                     <code>developer,design,web3,crypto,ethereum,security,software,devops,fintech,math,microsoft,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-blockchain-developer-data-mynt-174787" align="right" target="_blank">Apply</a>
@@ -43,7 +159,7 @@
         <li>Experience with Microsoft Azure and infrastructure management</li>
         <li>Good understanding of Crypto Wallets and their standards along with understanding of cryptography and cryptographic protocols.</li>
         <li>Strong background in Math is a plus.</li>
-</ul><br/><br/>Please mention the word **IDOLIZE** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **IDOLIZE** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -58,7 +174,7 @@
                     <code>developer,design,crypto,nft,cryptocurrency,ethereum,python,designer,support,ui,code,web,javascript,cloud,senior,golang,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-full-stack-developer-enya-174773" align="right" target="_blank">Apply</a>
@@ -80,7 +196,7 @@
 <li>Expertise in working with backend stacks including NodeJs</li>
 <li>Experience with Golang (and/or Python is a plus) is preferred</li>
 <li>Familiarity with cloud services (AWS, GCP)</li>
-</ul><div><br></div><div><span style="font-size:18px;">About Enya</span></div><div><br></div><div><span style="font-size:11pt;">Enya Labs is a contributor to the Boba Network, a multichain Layer 2 that reduces the barriers of adoption for users and developers. We are empowering Gaming, DeFi, and NFT projects to scale more cost-effectively while delivering a smoother user experience. Boba's Hybrid Compute technology enables developers across the blockchain ecosystem to build dApps that invoke code executed on web-scale infrastructure, making it possible to leverage sophisticated algorithms that are either too expensive or impossible to execute on-chain. </span></div><br/><br/>Please mention the word **EXQUISITE** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><br></div><div><span style="font-size:18px;">About Enya</span></div><div><br></div><div><span style="font-size:11pt;">Enya Labs is a contributor to the Boba Network, a multichain Layer 2 that reduces the barriers of adoption for users and developers. We are empowering Gaming, DeFi, and NFT projects to scale more cost-effectively while delivering a smoother user experience. Boba's Hybrid Compute technology enables developers across the blockchain ecosystem to build dApps that invoke code executed on web-scale infrastructure, making it possible to leverage sophisticated algorithms that are either too expensive or impossible to execute on-chain. </span></div><br/><br/>Please mention the word **EXQUISITE** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -95,7 +211,7 @@
                     <code>developer,web3,ethereum,technical,software,content,engineering,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-relations-spruce-174276" align="right" target="_blank">Apply</a>
@@ -106,7 +222,7 @@
                 <details><summary>Description</summary>
                 <div>The strength of devrel is only as good as the strength of developer evangelists that they organically create. Your job is to create missionaries. Spruce is searching for a proactive individual with exceptional organizational and communication skills for a new Developer Relations position, focused on Sign-In with Ethereum, Decentralized Identity, and Web3. </div><div><br></div><div>At Spruce, we are letting users control their identity and data across the web. We hire individuals who love technology and are committed to intellectual honesty, user privacy, and innovation.</div><div><br></div><div><span style="font-size:18px;">Responsibilities</span></div><div>- Build and grow a dedicated international developer community around Sign-In with Ethereum and Spruceâs libraries and products. </div><div>- Continually produce and maintain content around our libraries and products including spotlights on new features, dapp-building tutorials, and more. This content is well documented and leads to developer conversion from followers, to tinkerers, and finally, contributors. </div><div>- Ensure developers using Spruceâs product documentation never hit a snag, and if they do, those problems are resolved in a timely manner. </div><div>- Partner with organizations, conferences, and projects to build advocacy, brand awareness, and content around Spruceâs Web3 efforts. </div><div>- Attend and represent Spruce at hackathons, conferences, university meetups, and more to get interested developers up and running on Spruceâs products. </div><div><br></div><div>
 <span style="font-size:18px;">Qualifications</span><span style="font-size:12pt;"> </span>
-</div><div>- Previous experience working with and fostering active developer communities. </div><div>- Excellence in technical writing, and the ability to break down complex topics into tutorials and content for developers to follow.</div><div>- Experience working with Web3 developer tools.</div><div>- Comfortable with rapid directional changes of focus in a startup environment. </div><div>- Experience collaborating with diverse project and engineering teams.</div><div>- Ability to handle multiple projects and tasks simultaneously.</div><div><br></div><div><span style="font-size:18px;">Bonus</span></div><div>- Contributions to open-source software projects and technology standards.</div><div>- Full-time experience working remotely.</div><div>We are passionate about cultivating a thriving culture of diverse individuals who bring unique perspectives to our mission. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.</div><br/><br/>Please mention the word **STYLIZED** and tag RNzQuOTguMjI4LjExMg== when applying to show you read the job post completely (#RNzQuOTguMjI4LjExMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><div>- Previous experience working with and fostering active developer communities. </div><div>- Excellence in technical writing, and the ability to break down complex topics into tutorials and content for developers to follow.</div><div>- Experience working with Web3 developer tools.</div><div>- Comfortable with rapid directional changes of focus in a startup environment. </div><div>- Experience collaborating with diverse project and engineering teams.</div><div>- Ability to handle multiple projects and tasks simultaneously.</div><div><br></div><div><span style="font-size:18px;">Bonus</span></div><div>- Contributions to open-source software projects and technology standards.</div><div>- Full-time experience working remotely.</div><div>We are passionate about cultivating a thriving culture of diverse individuals who bring unique perspectives to our mission. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.</div><br/><br/>Please mention the word **STYLIZED** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -121,7 +237,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/publitas-com-senior-backend-developer-remote-saas-ruby-on-rails" align="right" target="_blank">Apply</a>
@@ -214,7 +330,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-ios-developer-cyprus-greece-or-remote-5" align="right" target="_blank">Apply</a>
@@ -263,7 +379,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -340,7 +456,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -366,7 +482,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -443,7 +559,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
