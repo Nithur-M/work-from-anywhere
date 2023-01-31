@@ -1,81 +1,19 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/3480f02591f0b1b4061d12c844ef7d291672989347.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Syndica</h5>
-                    <h3>Senior Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>design,saas,support,developer,code,web,cloud,node,lead,senior,operational,engineer,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-syndica-175280" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="row mb-4">
-<div class="col">
-<p> </p>
-<p><span style="font-weight:400;">Syndica is a developer infrastructure company building the cloud of web3. We are dedicated to building developer infrastructure that just works. Syndica offers highly scalable RPC node infrastructure, with advanced logging and analytics.</span></p>
-<p><span style="font-weight:400;">We are backed by strategic partners, investors, and advisors who are all-in on our mission: Chamath of Social Capital, Sam Bankman-Fried of Alameda Research, Solana Ventures, and many more.</span></p>
-<p><span style="font-weight:400;">This role will have the primary accountability of designing, implementing, and operating Syndicaâs blockchain infrastructure platform. </span><strong>Rust knowledge is a necessity!</strong><span style="font-weight:400;"> The team operates with a ârun what you writeâ philosophy and each engineer is responsible for deploying and operating the code they write.</span></p>
-<p><span style="font-weight:400;">A successful candidate must have demonstrable experience in at least one programming language (preferably Go, Rust or C++), and previous work in SaaS application development and operations. You will be working closely with the Support and Development team on the architecture and configuration of our AWS and GCP hosted infrastructure. You will be responsible to ensure the environment is built, deployed, configured, managed, and monitored correctly to support the business. The ideal candidate will also have prior experience developing applications on either of the three major cloud platforms - AWS, Azure, or GCP via Kubernetes.</span></p>
-<h3><strong>Responsibilities</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Design, creation, and provisioning of infrastructure</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Write beautiful maintainable Rust code</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Create modular and extensible micro-services to support the platform</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Build a reliable fault-tolerant service</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Identify and troubleshoot any availability and performance issues at multiple layers of deployment, from hardware, to operating environment, network, and application</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Evaluate performance trends and expected changes in demand and capacity, and establish the appropriate scalability plans</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Troubleshoot and solve customer platform issues</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ensure that SLAs are met in executing operational tasks</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with other engineers to implement operational solutions while defining and adhering to industry best practices</span></li>
-</ul>
-<h3><strong>Qualifications</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">3+ years related professional experience using Rust</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with Prometheus/Grafana for metrics aggregation/visualization is plus</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with alerting and monitoring tools is plus</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience working in a highly distributed company is a plus</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Align a portion of your day with the business hours of Central Time Zone - UTC -6</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Systematic problem-solving approach, combined with a strong sense of ownership and drive</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Some working knowledge of web and network protocols and standards (HTTP, TLS, DNS, etc)</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Bachelor's degree in Computer Science or related field or relevant experience</span></li>
-</ul>
-<h3><strong>What does success in this role look like?</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">In three months, you have become one of our lead Rust developers. Youâll have taken on independent code review responsibilities and are collaborating on the design of new features</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">In six months, you have earned the trust of the team and are delivering tasks through the entire SDLC, from design through development with minimal guidance, and are helping to effectively mentor new engineers joining the team</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">In twelve months, you have established a cadence of predictable, on-time delivery without cutting corners - we love clean, maintainable code :)</span></li>
-</ul>
-<p> </p>
-</div>
-</div><br/><br/>Please mention the word **ADULATORY** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>AgencyAnalytics</h5>
+                    <h5>Merchstack</h5>
                     <h3> Senior Backend Engineer</h3>
                 </td>
                 <td width="300">
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>422 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/merchstack-senior-backend-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -84,61 +22,138 @@
                 
 
 <p>
-  <strong>Headquarters:</strong> Toronto, Canada
-    <br /><strong>URL:</strong> <a href="https://agencyanalytics.com">https://agencyanalytics.com</a>
+  <strong>Headquarters:</strong> Houston, TX
+    <br /><strong>URL:</strong> <a href="https://merchstack.io">https://merchstack.io</a>
 </p>
 
-<div>We’re seeking a Senior Backend Engineer to work in our product-driven or platform teams, focused on building features that help our customers grow their business.<br><br>As part of AgencyAnalytics, you'll be developing and operating a range of backend functions and tools that enable the features our users love. Together with the team, you'll work remotely to implement architectural changes, drive platform stability, research new technologies and continuously advocate for the use of best practices. You'll frequently work with other engineering teams to deliver incremental product improvements and new features<br><br>
+<div>
+<br>Merchstack is looking for an experienced backend engineer to help architect, build, and evolve our SaaS product on the backend. We’re seeking engineers who think about UI/UX in terms of systems, reuse, flexibility, and performance.<br><br>
 </div><div>
-<br><strong>What You'll Work With</strong><br><br>
+<br>To succeed in this role, you will need a breadth of experience working in modelling data structures for data-rich applications, a passion for object-oriented design patterns and an unparalleled ability to think about individual work items, holistically across the design of the entire application.<br><br>We are looking for candidates in the UK/EU, India or Africa. All candidates MUST be able to overlap most of your day with leadership in the UK.<br><br>Salary Range: $60 - $80k<br><br>
+</div><div>
+<strong><br>What you’ll do<br></strong><br>
 </div><ul>
-<li>PHP (PSR) + Slim + Microservice Framework</li>
-<li>BigQuery ML (Arima Time Series Model)</li>
-<li>Serverless Cloud Functions + GraphQL</li>
-<li>GCP Infrastructure (GKE, BigQuery, Cloud Tasks, PubSub etc.)</li>
-<li>Non-blocking CI/CD tooling with on-demand staging for every PR</li>
+<li>Design and implement new GraphQL queries and mutations to either meet customer demand or UI/UX requirements.</li>
+<li>Contribute to the overall stability and performance of our application.</li>
+<li>Optimize our application for maximum speed and scalability.</li>
+<li>Build new data providers for Merchstack in the form of composable plugins.</li>
+<li>Take ownership of dependencies in our code base i.e. ensuring that we are reasonably patched.</li>
+<li>Work with the VP of Engineering to plan out new prospective pieces of work ahead of time, such as architectural design and infrastructure requirements.</li>
+<li>Work with DevOps / DBA functions to ensure that new and existing features are being backed and observed by appropriate hardware/infrastructure.</li>
 </ul><div>
-<br><strong>Key Responsibilities</strong><br><br>
+<strong><br>The Stack<br></strong><br>
 </div><ul>
-<li>You'll design, develop and iterate on backend PHP services that handle millions of requests</li>
-<li>You'll work with your frontend engineering peers, product and design members to create high quality products our customers love to use</li>
-<li>You'll prioritize and work on multiple projects from start to finish, balancing quality, stability and project delivery</li>
-<li>You'll review your teammates' work, advocate for high standards, and look for ways to improve the overall quality of our codebase</li>
-<li>You'll work within your team to achieve technical excellence by taking a collaborative approach to architecture, technical patterns, and complex problems</li>
-<li>You'll work with infrastructure engineers to collaboratively plan and maintain tools that underpin our developer experience</li>
+<li>Typescript, NestJS</li>
+<li>SQL / TypeORM</li>
+<li>Apollo GraphQL</li>
+<li>ElasticSearch</li>
+<li>Redis</li>
+<li>AWS / Elastic Kubernetes Service</li>
 </ul><div>
-<br><strong>Job requirements<br></strong><br>
+<strong><br>What we look for<br></strong><br>
 </div><ul>
-<li>You have several years of professional experience with PHP 7+ and the modern PHP ecosystem, using frameworks such as Laravel and Phalcon</li>
-<li>You have at least 5+ years of total experience with PHP</li>
-<li>You have experience with modern cloud storage solutions such as BigQuery</li>
-<li>You have professional experience working in a cross-functional team of 5+ members</li>
-<li>You have the ability to communicate effectively with other engineers, while building trust, credibility, and mutual success with your peers</li>
-<li>You have a strong understanding of the challenges of working in engineering and delivering products in a remote work environment</li>
-<li>You have the drive to stay current with technological changes and set a high standard for yourself</li>
-<li>You proactively take on a challenge and help the team solve problems from start to finish</li>
+<li>4+ years building object-oriented data-driven applications at scale.</li>
+<li>Confident in leveraging relational data sources at scale, this includes but is not limited to a deep understanding of data cardinality, data structures and efficient client-side memory management for large datasets and fast-moving dimensions.</li>
+<li>Experience leveraging IoC containers for dependency injection, with a full understanding of the 3 main dependency injection lifecycles.</li>
+<li>Advanced Typescript knowledge and desire to use more advanced Typescript concepts to reduce boiler-plate.</li>
+<li>Will not write O(n!) code.</li>
+<li>Good understanding of Internet protocols: TCP/IP, HTTP, WebSocket and demonstratable web performance tuning skills</li>
+<li>Knowledge of the software development lifecycle (version control, tooling, testing, etc.)</li>
+<li>An active Github account, showcasing your own projects</li>
+<li>Deep experience leveraging ORMs for data modelling and data access concerns. Should understand both the pros and cons of using an ORM vs. raw queries.</li>
+<li>Has worked with one or all of the following: NestJS, TypeORM, Apollo GraphQL</li>
 </ul><div>
-<br><strong>Job Benefits</strong><br><br>
+<strong><br>Bonus points<br></strong><br>
 </div><ul>
-<li>Fully remote workplace</li>
-<li>Flexible working hours</li>
-<li>4 weeks paid vacation</li>
-<li>Unlimited paid sick days</li>
-<li>Quarterly profit sharing</li>
-<li>Parental &amp; Maternity leave top-ups</li>
-<li>Extended health benefits</li>
-<li>Health spend account</li>
-<li>Equipment credit</li>
-<li>Fitness/Education credit</li>
-<li>Internet reimbursement</li>
-<li>Training and certification reimbursement</li>
-<li>Travel reimbursement for company events</li>
+<li>Any experience in another exclusively OOP C-like language, for instance: C# or Java.</li>
+<li>Elasticsearch</li>
+<li>Functional understanding of service-based architecture.</li>
+<li>Packaging container-based applications with an emphasis on small footprints.</li>
 </ul><div>
-<br><strong>Our Application Process</strong><br><br>
-</div><div>1. Complete a self-assessment (5 - 10 minutes)<br>2. Non-technical introduction interview (15 - 30 minutes)<br>3. Take-home engineering challenge<br>4. Interview with the Hiring Committee (30 - 45 minutes)<br>5. Offer extended to successful applicants<br><br>
+<strong><br>About you<br></strong><br>
+</div><ul>
+<li>You are detail-oriented and focus on delivering seamless, reliable experiences.</li>
+<li>You care about code quality and are committed to writing strongly typed, well-tested code.</li>
+<li>You are intrinsically motivated, able to manage your time, and enjoy working with a distributed team across the globe.</li>
+<li>You believe in asking for help and helping others when they ask, never throwing a problem over the wall</li>
+<li>You approach problems with curiosity, creativity, and flexibility.</li>
+<li>You strive to foster relationships in order to ensure healthy debate.</li>
+<li>You show gratitude and give back.</li>
+</ul><div>
+<strong><br>About Merchstack<br></strong><br>
+</div><div>
+<br>Merchstack partners with companies on their journey to build, launch, and scale modern eCommerce stores. We work with market-leading technologies and our own internal products to help our customers achieve ambitious digital experiences and unlock new growth opportunities. We are a remote-only company with employees all over the world, including the Philippines, the United States, Canada, Spain, and the United Kingdom. We are a small team with big ambitions and value people who are driven towards delivery and thrive on autonomy and trust.<br><br>
 </div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer">https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/merchstack-senior-backend-engineer">https://weworkremotely.com/remote-jobs/merchstack-senior-backend-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/9860/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Maharishi Foundation International</h5>
+                    <h3> Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>90 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0016/9860/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> London (Remote)
+    <br /><strong>URL:</strong> <a href="https://www.maharishi.foundation/">https://www.maharishi.foundation/</a>
+</p>
+
+<div><strong>About Us</strong></div><div>
+<a href="https://www.maharishi.foundation/">Maharishi Foundation International</a> (MFI) is a US-registered non-profit that supports the development of new technologies and outreach opportunities for the worldwide Transcendental Meditation® (TM®) organisations. Over the past 60 years, more than 10 million people worldwide have learned the TM technique through personal instruction by tens of thousands of certified teachers. </div><div><br></div><div>MFI is a growing, fully remote team of nearly 50 people, located around the globe but mainly in North America and Europe. As an organisation we are committed to leveraging modern technology and progressive management practices to make the TM technique and its related programmes more available to people everywhere. </div><div><br></div><div>We favor a healthy and balanced work environment with opportunities for personal development.  </div><div><br></div><div><strong>Job Summary</strong></div><div>We are looking for a backend engineer with focus on AWS Infrastructure with a proven track record of developing backend services Serverless framework. As we are a small, but growing team you will be responsible for the maintenance and support of existing backend features as well as planning and scoping new feature additions and iterations.</div><div><br></div><div>You will be working closely with our product team (design, product and development) to launch a meditation and lifestyle application and accompanying internal services. Applicants should have a proven track record working on large scale, consumer facing products with experience creating modular service based solutions. Applicants should be comfortable working in a fast paced environment, where each individual has a lot of influence and responsibility to deliver, and key to this continuous integration is a reliable and scalable CI / CD process.  You will play an extremely vital role in the development and release of this application as well as maintaining and improving the CI tools we use moving forward. Since there is an existing global community waiting for this application, the app will have an immediate, engaged user base. </div><div><br></div><div>The AWS backend is built using a serverless approach using API Gateway, DynamoDB, Cognito and Lambda. Local development and stack deployment is managed using the Serverless framework, and CI pipelines have been implemented using CircleCI and Bitrise. You will become responsible for all of the working elements of the system and the accounts associated with the architecture.</div><div><br></div><div><strong>About You</strong></div><div>You understand how the AWS suite of products is structured, and can show experience writing fully tested scalable code using relevant AWS products and services. You understand API architecture, and can take a data model and translate it into reusable and flexible components. You enjoy shipping clean, readable and reusable code. You are comfortable working on a distributed team spread across time zones and cultures. You are excited to use technology to have a positive impact in the world as a whole, and in an intimate way for each individual.</div><div><br></div><div><strong>Responsibilities</strong></div><ul>
+<li>Work with design and product teams during their sprints to develop the platform </li>
+<li>Ensure the performance, quality, and responsiveness of the application</li>
+<li>Collaborate with the team and contribute to the definition of specifications for new features, and own the development of those features</li>
+<li>Develop a detailed understanding of deployment processes for AWS (cloudformation) Bitrise, CircleCI and the destination APIs from Google Play and App Store Connect.</li>
+<li>Proactively identify and correct bottlenecks, fix bugs and performance issues</li>
+<li>Maintain code quality, organization and automatization</li>
+<li>Develop a logging and monitoring strategy for all aspects of the infrastructure</li>
+<li>Understand the concepts of DevSecOps and the tools we should implement to ensure Security best practices are followed</li>
+<li>Ensure testing strategy is followed within the team - for unit and integration tests</li>
+</ul><div><br></div><div>
+<strong>Skills and Requirements</strong> </div><ul>
+<li>Familiarity with connecting mobile applications to back-end services through APIs</li>
+<li>Proven track record working within an AWS application environment</li>
+<li>An understanding of best practice DevOps process, and some experience writing CI pipelines and deployment scripts</li>
+<li>Familiarity with application logging and debugging platforms (Sentry, New Relic, Splunk)</li>
+<li>Some knowledge of security testing tools and code quality assessment</li>
+<li>Experience with large scale testing in a production environment</li>
+<li>Familiarity with connecting mobile applications to back-end services through APIs</li>
+<li>Familiarly with the API standards including GraphQL and REST </li>
+<li>Experience with performance and memory tuning with standard tools</li>
+<li>Familiarity with cloud message APIs and push notifications</li>
+<li>Proficient with code versioning tools (Git)</li>
+<li>5 years of testing and deploying code in a large scale production environment</li>
+<li>Experience working in an agile environment </li>
+<li>Experience working in a global non-profit, working with a remote team or in a multinational organization preferred</li>
+<li>Fluency in English (written and verbal)</li>
+</ul><div> </div><div>Bonus points if you have </div><ul>
+<li>Experience with Node.js and TypeScript</li>
+<li>Experience with data architecture and noSQL systems ( DynamoDB)</li>
+<li>Experience with serverless architecture and services (Serverless Framework, EventBridge, StepFunctions, SQS)</li>
+<li>Experience with Netsuite or similar CRMs and lead nurturing would be a plus</li>
+<li>Experience with the Transcendental Meditation® organisation, meditation, or some form of healthy living</li>
+</ul><div><br></div><div>If you are passionate about this work but do not have all of the skills listed we are still interested in hearing from you! </div><div><br></div><div><strong>Pay and benefits</strong></div><div>Our pay levels are set according to a formula that combines above-median market rate data for the role (we pay 55th percentile of New York market rate for this role, based on <a href="https://www.payscale.com/">Payscale</a> data) adjusted for your local cost of living based on <a href="https://www.numbeo.com/cost-of-living/rankings_current.jsp">Numbeo</a> data.</div><div> </div><div>We take the issue of equitable pay very seriously, and we apply our pay formula to all workers who work 80% or more of full time hours with us.</div><div><br></div><div><strong>Diversity and inclusion</strong></div><div>We care about diversity - we strive to ensure all of our team feel included and can bring their whole selves to work but we also know that this work is never ‘done’ or complete, and that we can always improve.</div><div><br></div><div>Our team is fully remote, living and working across 20 countries across the world, and we’d love to hear how you can add to our special culture at MFI.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer">https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer</a></p>
 
                 </details>
                 </td>
