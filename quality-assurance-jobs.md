@@ -86,7 +86,7 @@
 <strong>Stay lean</strong><span style="font-weight:400;">: Our ethos is to create and share value equitably, with minimal value extraction</span><span style="font-weight:400;">.</span>
 </li>
 </ul>
-<p><br><br></p><br/><br/>Please mention the word **ACCOMPLISHMENT** and tag RNTQuMjM3LjE1Mi43NQ== when applying to show you read the job post completely (#RNTQuMjM3LjE1Mi43NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><br><br></p><br/><br/>Please mention the word **ACCOMPLISHMENT** and tag RMzQuMTQ1LjIyMC41NQ== when applying to show you read the job post completely (#RMzQuMTQ1LjIyMC41NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
