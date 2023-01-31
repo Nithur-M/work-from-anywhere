@@ -1,101 +1,117 @@
 <div align="center"><h2>SITE RELIABILITY ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/d6800f26e2686b11c985df64664bf80f1672989368.png" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1570342/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Syndica</h5>
+                    <h5>SportyBet</h5>
                     <h3>Site Reliability Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>design,saas,system,security,support,software,code,web,devops,cloud,administrator,management,operational,analytics,reliability,engineer,digital nomad</code>
+                    <code>apache,AWS,backend,cloud</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-syndica-175286" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/devops/site-reliability-engineer-1570342" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="row mb-4">
-<div class="col">
-<div class="row mb-4">
-<div class="col">
-<div class="row mb-4">
-<div class="col">
-<div class="row mb-4">
-<div class="col">
-<p class="mb-3">At Syndica, big things happen. Every day, weâre translating vision into reality by tackling new and exciting challenges head-on. This is a breakthrough stage in our company, and youâll experience firsthand the infectious enthusiasm of our employees and leadership team. Youâll have the opportunity to learn new skills, grow your career, and work with the smartest, most passionate people in crypto.</p>
-<p class="mb-3">This role will have primary accountability for maintaining and operating Syndicaâs blockchain infrastructure platform. <strong>Golang knowledge is a necessity!</strong> The team operates with a ârun what you writeâ philosophy and each engineer is responsible for deploying and operating the code they write.</p>
-<p class="mb-3">A successful candidate must have demonstrable experience in at least one programming language (preferably Go, Rust or C++), and previous work in SaaS application development and operations. You will be working closely with the Support and Development team on the architecture and configuration of our AWS and GCP hosted infrastructure as well as management of our bare metal RPC nodes. You will be responsible to ensure the environment is configured, managed, and monitored correctly to support the business. You will drive decisions on the right-sizing of servers and storage, troubleshooting performance issues, ensuring the highest level of reliability for the platform, and tuning the environment for maximum scalability, cost efficiency, and security. The ideal candidate will also have prior experience developing applications on either of the three major cloud platforms - AWS, Azure, or GCP via Kubernetes.</p>
-</div>
-</div>
-<div class="row mb-4">
-<div class="col job-list">
-<h3 class="mb-2"><strong>Responsibilities</strong></h3>
+                <p>Sporty's sites are some of the most popular on the internet, consistently staying in Alexa's list of top websites for the countries they operate in</p><p><br></p><p>In addition to our DevOps Team we are building a Site Reliability Team whose purpose is to focus on site reliability and security. It will also involved deployment, configuration, and monitoring, as well as the availability, latency, change management, emergency response, and capacity management of services in production.</p><p><br></p><p><strong>Our Stack</strong></p><p><br></p><p></p><ul style=""><li style="">Backend Application Framework: Spring Boot (Java Config + Embedded Tomcat)</li><li style="">Frontend Application Framework: VueJS</li><li style="">Micro Service Framework: Spring Cloud Dalston (Netflix Eureka + Netflix Eureka + Netflix Ribbon + Feign)</li><li style="">Database: AWS RDS, RDS Proxy, MONGODB</li><li style="">Public Cache: AWS ElastiCache + Redis</li><li style="">Message Queue: Apache RocketMQ, RabbitMQ</li><li style="">Distributed Scheduling: Dangdang Elastic Job</li><li style="">Data Index and Search: ElasticSearch</li><li style="">Log Real-time Visualization: ElasticSearch + Logstash + Kibana, Grafana Loki</li><li style="">Business Monitoring: Prometheus + Grafana</li><li style="">Reverse Proxy: Nginx</li><li style="">CDN: Cloudflare</li><li style="">Server Virtualization Container: AWS EKS + AWS EC2</li><li style="">Server Operation System: CentOS</li><li style="">Static File Storage: AWS S3</li><li style="">Inner DNS Resolution: AWS Route 53</li><li style="">Network Management: AWS VPC</li><li style="">Cluster Management and Scaling: AWS OpsWorks</li><li style="">Cluster Monitoring: Prometheus + AWS CloudWatch</li><li style="">HTTPS Certificate Management: AWS Certificate Manager</li><li style="">Malicious Attack Defending: AWS WAF &amp; Shield</li><li style="">Cluster Alert: AWS SNS + Slack</li><li style="">Continuous Integration/Deployment: Jenkins, Rancher, ArgoCD</li><li style="">Configuration Tool: Ansible, Chef, Salt</li></ul><p><br></p><p><strong>Responsibilities</strong></p><p><br></p><p></p><ul style=""><li style="">Work with a team of DevOps/SRE and DBA professionals</li><li style="">Improve existing infrastructure and processes in the 6 countries we’re currently deployed in as well as streamlining processes deploy to new countries in the future</li><li style="">Holistically improve all aspects of our current infrastructure including: reducing costs; streamlining environment provisioning; lowering response times and incorporating the latest techniques and technologies</li><li style="">Monitor and maintain the existing cloud infrastructure via autoscaling, automated alerts, andOpsWork and Grafana dashboards</li><li style="">Take ownership and responsibility for our cloud operation activities</li><li style="">Liaise with external security agencies for annual audits as well as perform our own internal security sweeps</li><li style="">Aid in reconfiguring existing architecture to allow for rapid deployments to new countries</li><li style="">Mentoring less experienced team members</li></ul><p><br></p><p><strong>Requirements</strong></p><p><strong><br></strong></p><p></p><ul style=""><li style="">3+ years SRE experience</li><li style="">Experience independently leading the planning and deployment of a project</li><li style="">Experienced with cloud platforms, especially AWS, including solid knowledge of how to utilize cloud resources to fulfill the demand from other teams and production</li><li style="">A sound understanding of modern Micro Services and Service Mesh concepts</li><li style="">Experience managing Kubernetes, including CI / CD with Kubernetes</li><li style="">Solid networking knowledge, especially the TCP / IP stack and HTTP protocol</li><li style="">A strong understanding of cache, including CDN, HTTP cache, Redis / Memcached</li><li style="">Excellent troubleshooting skills, including Linux OS issue diagnosis and OS parameter optimization, JVM optimization would be highly advantageous</li><li style="">Experienced with CloudNative Monitoring solution in Large distributed system using observation model</li></ul><p><br></p><p><strong>Benefits</strong></p><p><br></p><p>Quarterly and flash bonuses</p><p>Flexible working hours</p><p>Top-of-the-line equipment</p><p>Education allowance</p><p>Referral bonuses</p><p>28 days paid annual leave</p><p>Annual company retreat - we all went to Dubai in 2022 and are planning 2 more retreats for 2023!</p><p>Highly talented, dependable co-workers in a global, multicultural organisation</p><p>Payment via DEEL, a world class online wallet system </p><p>We score 100% on The Joel Test</p><p>Our teams are small enough for you to be impactful</p><p>Our business is globally established and successful, offering stability and security to our Team Members</p>
+<img src="https://remotive.com/job/track/1570342/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://pbs.twimg.com/profile_images/1397471927132844033/jN-wuufb_400x400.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Supabase</h5>
+                    <h3>Cloud Platform / Site Reliability Engineer</h3>
+                </td>
+                <td width="300">
+                    <code></code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://boards.greenhouse.io/supabase/jobs/4307459004" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+    <div class="content-intro"><p><img src="https://pbs.twimg.com/media/FIdU8GJWQAUGWRA?format=jpg&amp;name=small" alt="Join Supabase" width="680" height="453"></p></div>
+
+    <p>Supabase is an Open Source and fully remote company building developer tools for databases.</p>
+<p>We are seeking experienced Cloud Platform Engineers/Site Reliability Engineers to manage our hosted cloud offering which is currently serving over 40k postgres instances and is growing at a rate of 10% each month.</p>
+<h3>You will:</h3>
 <ul>
-<li>Design, creation, and provisioning of infrastructure</li>
-<li>Administer overall site availability, security, latency and system health</li>
-<li>Responsible for effective provisioning, installation/configuration, operation, and maintenance of services and system software and related infrastructure</li>
-<li>Administer the state of all components in our cloud and bare metal environments</li>
-<li>Deploy, manage, and operate the cloud environments</li>
-<li>Design, build, manage and operate the infrastructure and configuration of SaaS applications with a focus on automation and infrastructure as code</li>
-<li>Design, manage and operate the infrastructure as a service layer (hosted and cloud-based platforms) that supports the different platform services</li>
-<li>Develop comprehensive monitoring solutions to provide full visibility to the different platform components using tools and services like Kubernetes, Prometheus, Grafana, ELK, Datadog, New Relic, and other similar tools</li>
-<li>Create the environments and tooling that enables the development team to release code quickly and reliably</li>
-<li>Identify and troubleshoot any availability and performance issues at multiple layers of deployment, from hardware, to operating environment, network, and application</li>
-<li>Evaluate performance trends and expected changes in demand and capacity, and establish the appropriate scalability plans</li>
-<li>Troubleshoot and solve customer RPC issues</li>
-<li>Ensure that SLAs are met in executing operational tasks</li>
-<li>Work with development teams to ensure best practices for scalability, reliability, and security are designed and implemented from the start</li>
-<li>Conduct periodic on-call duties</li>
+<li>Help build the Supabase Cloud offering.</li>
+<li>Improve our system architecture to reduce costs while balancing security and performance.</li>
+<li>Work on designing and tracking metrics for platform uptime.</li>
+<li>Increase observability into our system by capturing relevant metrics and logs.</li>
+<li>Implement and maintain intrusion detection, automated remediation and patch management systems.</li>
+<li>Design CI/CD systems to speed up deployments with proper change and release management processes.</li>
+<li>Work on our SOC2 and GDPR compliance initiatives.</li>
 </ul>
-</div>
-</div>
-<div class="row mb-4">
-<div class="col job-list">
-<h3 class="mb-2"><strong>Qualifications</strong></h3>
+<h3>You are:</h3>
 <ul>
-<li>Great collaborator with 5+ years of experience in a DevOps or SRE role</li>
-<li>Deep understand of infrastructure-as-code (Terraform, etc.) and deploying large-scale systems reliably</li>
-<li>Strong experience with Infrastructure as Code and Configuration Management tools</li>
-<li>Experience with Prometheus/Grafana for metrics aggregation/visualization</li>
-<li>Configuration of CI/CD pipelines</li>
-<li>Experience using Kubernetes</li>
-<li>Experience with automation tools/platforms</li>
-<li>Experience with alerting and monitoring tools</li>
-<li>Strong knowledge of monitoring and performance analytics tools (DataDog, New Relic, etc.)</li>
-<li>Commitment to implementing reliability and security best practices</li>
-<li>Capacity planning experience, including resource optimization and load testing</li>
-<li>Experience working in a highly distributed company is a plus</li>
-<li>Align a portion of your day with the business hours of Central Time Zone - UTC -6</li>
-<li>Working knowledge of information security issues</li>
-<li>Experience in Building and managing Virtualized systems (KVM, OVM, Containers/Docker) and ability to read and understand source code</li>
-<li>Systematic problem-solving approach, combined with a strong sense of ownership and drive</li>
-<li>Firm grasp of at least one modern programming language, beyond advanced scripting (Shell or Python)</li>
-<li>Working knowledge of web and network protocols and standards (HTTP, TLS, DNS, etc)</li>
-<li>Experience writing automation tools & eagerness to "automate all the things"</li>
+<li>5+ years experience in SRE/DevOps/Cloud Infrastructure</li>
+<li>Experience of managing large deployments on AWS</li>
+<li>Knowledge of networking</li>
+<li>Experience with Infrastructure as Code tools</li>
 </ul>
-</div>
-</div>
-<div class="row mb-4">
-<div class="col job-list">
-<h3 class="mb-2"><strong>What does success in this role look like?</strong></h3>
+<p><strong>We offer:</strong></p>
 <ul>
-<li>In three months, you have become our infrastructure administrator with respect to overall site availability, security, latency, system health, customer accounts, and billing. Youâll have taken on independent code review responsibilities and are collaborating on the design of new features</li>
-<li>In six months, you have earned the trust of the team and are delivering tasks through the entire SDLC, from design through development with minimal guidance, and are helping to effectively mentor new engineers joining the team</li>
-<li>In twelve months, you have established a cadence of predictable, on-time delivery without cutting corners</li>
+<li>100% remote work from anywhere in the world. No location-based adjustment to your salary.</li>
+<li>Autonomous work. We work collaboratively on projects, but you set your own pace.</li>
+<li>Health, Vision and Dental benefits. Supabase covers 100% of the cost for employees and 80% for dependents</li>
+<li>Generous Tech Allowance for any office setup you need</li>
+<li>Annual Education Allowance</li>
+<li>Annually run off-sites.</li>
 </ul>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div>
-</div><br/><br/>Please mention the word **DILIGENCE** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>We are a fully remote and globally distributed team. We hire internationally, inside and outside of the United States. We have a global salary structure vs location based pay adjustments and highly appreciate compensation transparency initiatives. The estimated salary range for this role is: $139,000 - $164,000 USD. The estimated total compensation: $150,000 -- $250,000 USD. &nbsp;</p>
+
+    
+
+    <div class="content-conclusion"><h3>BUILD IN A WEEKEND. SCALE TO BILLIONS</h3>
+<p>Supabase adds auth, realtime, and restful APIs to Postgres without a single line of code.</p>
+<p>Each project within Supabase is an isolated&nbsp;Postgres cluster, allowing customers to scale independently, while still providing the features that you need to build: instant database setup, auth, row level security, realtime data streams, auto-generating APIs, and a simple to use web interface.</p>
+<p>We are a fully remote company.</p>
+<p>Key Tech: Javascript, Typescript, Go, Elixir, PostgREST (haskell), Postgres, Pulumi.</p>
+<h3><a id="about-the-team" class="anchor"></a>About the team</h3>
+<ul>
+<li>We're a startup. It's unstructured.</li>
+<li>Collectively founded more than a dozen venture-backed companies.</li>
+<li>More than 10 different nationalities.</li>
+<li>We deeply believe in <a href="https://supabase.com/blog/2022/03/25/should-i-open-source-my-company" target="_blank">the efficacy of collaborative open source</a>. We support existing communities and tools, rather than building "yet another xx".</li>
+<li>We "dogfood" everything. If you use it in your project, we use it in Supabase.</li>
+</ul>
+<h2><a id="process" class="anchor"></a>Process</h2>
+<ul>
+<li>The entire process is fully remote and all communication will happen over email or via video chat.</li>
+<li>Once you've submitted your application, the team will review your submission, and may reach out for a short screening interview over video call.</li>
+<li>If you pass the screen you will be invited to up to four follow up interviews. The calls:
+<ul>
+<li>usually take between 20-45 minutes each depending on the interviewer.</li>
+<li>are all 1:1.</li>
+<li>will be with both founders, a member of either the growth or engineering team (depending on the role), and usually one other person from your immediate team or function.</li>
+</ul>
+</li>
+<li>Once the interviews are over, the team will meet to discuss several roles and candidates and may:
+<ul>
+<li>ask one or two follow-up questions over email or a quick call.</li>
+<li>go directly to making an offer.</li>
+</ul>
+</li>
+</ul>
+<h2>&nbsp;</h2></div>
+
                 </details>
                 </td>
             </tr></table>
