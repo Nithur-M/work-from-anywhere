@@ -64,7 +64,7 @@
 <li>Health insurance reimbursement</li>
 <li>Wellness program (Gym, etc.)</li>
 <li>Home office allowance</li>
-</ul><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **DEPENDABLE** and tag RMjE4LjU1LjExOS4xNDI= when applying to show you read the job post completely (#RMjE4LjU1LjExOS4xNDI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **DEPENDABLE** and tag RNS4xODEuODEuNQ== when applying to show you read the job post completely (#RNS4xODEuODEuNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
