@@ -69,7 +69,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">401k with company match</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Annual professional development budget</span></li>
 </ul>
-</div><br/><br/>Please mention the word **REVEL** and tag RMjE4LjU1LjExOS4xNDI= when applying to show you read the job post completely (#RMjE4LjU1LjExOS4xNDI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **REVEL** and tag RNS4xODEuODEuNQ== when applying to show you read the job post completely (#RNS4xODEuODEuNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -136,7 +136,67 @@
 </div><div>
 <span style="font-size:14.6667px;">-</span><span style="font-size:11pt;">(Nice to have) Experience with Discord and Discord web hooks. </span>
 </div><div><b>Benefits</b></div><div>Work from anywhere (Remote first), Flexible working hours, Flexible vacation policy, Competitive Salary + Token bonus (portion or all can be paid in Crypto).Â  Premia is committed to a diverse and inclusive workplace and is an equal opportunity employer. We do not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.</div><div><br></div><div>Premia welcomes all qualified persons to apply. Compensation will be competitive and commensurate with experience. This is a full time role.</div><div><br></div><div>To find out more you can view their website at <a href="https://premia.finance/" class="postings-link" rel="noopener noreferrer nofollow">https://premia.finance/</a>
-</div><br/><br/>Please mention the word **LUSH** and tag RMjE4LjU1LjExOS4xNDI= when applying to show you read the job post completely (#RMjE4LjU1LjExOS4xNDI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **LUSH** and tag RNS4xODEuODEuNQ== when applying to show you read the job post completely (#RNS4xODEuODEuNQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/6003/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MasteryPrep</h5>
+                    <h3> Frontend Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>6 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/masteryprep-frontend-software-engineer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/6003/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Baton Rouge, Louisiana, United States
+    <br /><strong>URL:</strong> <a href="http://www.masteryprep.com">http://www.masteryprep.com</a>
+</p>
+
+<p><strong>About the Opportunity</strong></p>
+<p>MasteryPrep is assembling an onshore development team to work exclusively on "greenfield" initiatives. We are looking for talented software engineers to help us level the playing field in education by building the most effective test preparation available, bar none. We believe that the best way to build this experience is by creating a diverse team of people from different backgrounds, races, religions, genders, sexual orientations, ages, and experiences. The team we are building must be aligned to our core values of:</p>
+<ul> <li> <strong>Go pro.</strong> Or go home. Get better than the best.</li> <li> <strong>Do right.</strong> Period.</li> <li> <strong>Make it happen.</strong> Excuses never built anything.</li> <li> <strong>Make it awesome.</strong> There is no equality without quality.</li> <li> <strong>Customers are forever.</strong> This company is for them.</li> </ul>
+<p><strong>Requirements</strong></p>
+<p><strong>About the Role</strong></p>
+<p>As a Frontend Software Engineer, you will be responsible for—but not limited to—implementation, testing, and partnering with our product, operations, and support teams. Building great products is a highly collaborative effort, so it's essential that you are a team player with solid communication skills.</p>
+<p><br></p>
+<p><strong>Success criteria:</strong></p>
+<ul> <li>You work collaboratively and respectfully with cross-functional teams to design cutting edge education products that change the world</li> <li>You propose innovative and creative ideas to solve tough engineering challenges that scale</li> <li>You raise the bar on quality, testing, and performance to ensure the product reliably performs</li> <li>You help identify and implement best practices and standards throughout the code and our processes</li> <li>You own quality issues and failures and work to actively resolve them with a sense of urgency</li> <li>You constantly strive to build an inclusive, supportive, and positive work environment</li> </ul>
+<p><strong>Our development environment:</strong></p>
+<ul> <li>React</li> <li>Typescript</li> <li>Mocha</li> <li>Cypress</li> <li>Storybook</li> <li>Material UI</li> <li>Lerna</li> <li>GraphQL</li> <li>Google App Engine</li> <li>Google Cloud Run</li> <li>Google Cloud Functions</li> <li>Google Compute Engine</li> <li>Google Firestore</li> <li>Google BigQuery</li> <li>Postgres</li> <li>GitLab</li> </ul>
+<p><strong>Integrated 3rd Party Solutions:</strong></p>
+<ul> <li>Mux</li> <li>DocRaptor</li> <li>Wistia</li> <li>Schoology</li> <li>Classlink</li> <li>Clever</li> <li>Google Analytics</li> <li>NewRelic</li> </ul>
+<p><strong>What you will be building</strong></p>
+<p>While support and maintenance for existing platforms may be required from time to time, this role will primarily focus on our "greenfield" initiatives. MasteryPrep is wholly committed to building cutting-edge technology solutions to level the playing field for education. These solutions will include innovative use of video streaming, 2D/3D interactions, and real-time collaborative systems at scale. Our platform has to scale to support interactions in hundreds of live classrooms with up to 250+ students in a single class. This is not a job for the faint of heart. However, if projects and challenges of this scale excite you, then you may be the right fit for the role.</p>
+<p>We look forward to hearing from you.</p>
+<p><strong>Benefits</strong></p>
+<ul> <li>100% Remote</li> <li>Flex work hours</li> <li>Full Medical, Dental and Vision with HSA eligibility</li> <li>401K with company contribution</li> <li>Salary $150K+</li> </ul>
+<p><strong>About MasteryPrep</strong></p>
+<p>Did you know that nearly 90% of low-income students graduate high school without a college-ready ACT or SAT score? We're here to change that.</p>
+<p>MasteryPrep's mission is to level the college admissions playing field by helping all students access the most effective ACT and SAT prep programs on the market. Unlike traditional prep, MasteryPrep works even for students who struggle with tests, and through our partnerships with school districts, is provided at no cost to students or their families.</p>
+<p>So far, over 1 million students have benefitted from our programs, and we're just getting started. We need your help!</p>
+<p>Join a diverse, high-energy, mission-driven team that is genuinely making an impact and strives to be on the cutting edge of making education technology work in the classroom.</p>
+<p>MasteryPrep is one of the fastest-growing ed-tech companies in the country:</p>
+<ul> <li>Inc. 5000 four years in a row</li> <li>Entrepreneur 360 Company</li> <li>Louisiana Growth Leader, 2020 and 2021</li> <li>Council for Opportunity in Education Preferred Provider of ACT &amp; SAT Prep</li> <li>#1 Provider of ACT Preparation (&gt;5% of all U.S. test-takers)</li> </ul>
+<p>Our diverse team consists of compassionate, intelligent, and highly energetic individuals. Remote team members are connected to the whole through appropriate touch-points, support, and partnerships.</p>
+<p>We invest in our team. Come grow with us!</p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/masteryprep-frontend-software-engineer-1">https://weworkremotely.com/remote-jobs/masteryprep-frontend-software-engineer-1</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -299,7 +359,7 @@
                 </td>
                 <td width="300">
                     <h5>Slab</h5>
-                    <h3>Frontend Engineer</h3>
+                    <h3>Senior Frontend Engineer</h3>
                 </td>
                 <td width="300">
                     <code></code>
