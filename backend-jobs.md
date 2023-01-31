@@ -163,7 +163,7 @@
                 </td>
                 <td width="300">
                     <h5>Slab</h5>
-                    <h3>Backend Engineer</h3>
+                    <h3>Senior Backend Engineer</h3>
                 </td>
                 <td width="300">
                     <code></code>
