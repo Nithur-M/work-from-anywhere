@@ -19,7 +19,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>The blockchain developer will work on developing and implementing a blockchain platform. They will be responsible for working with the team to develop a platform that can be used for the secure storage and transmission of data. The blockchain developer will also be responsible for developing and implementing smart contracts.<br><br>Responsibilities:<br><br>â¢ Developing and implementing blockchain technology applications<br>â¢ Identifying and resolving defects by researching specific blockchain technologies<br>â¢ Documenting the development process and blockchain procedures<br><br>Requirements:<br><br>â¢ Proven experience as a Blockchain Developer<br>â¢ Strong experience in Python, Rust, Solidity, and NodeJS<br>â¢ Understanding of blockchain systems, smart contracts, and how to create them<br>â¢ Knowledge of consensus mechanisms and cryptographic hashing algorithms<br>â¢ Experience with Git, Bitcoin, and Hyperledger would be an advantage</p><br/><br/>Please mention the word **ILLUMINE** and tag RNDQuMTk1LjQ5LjE2OQ== when applying to show you read the job post completely (#RNDQuMTk1LjQ5LjE2OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p>The blockchain developer will work on developing and implementing a blockchain platform. They will be responsible for working with the team to develop a platform that can be used for the secure storage and transmission of data. The blockchain developer will also be responsible for developing and implementing smart contracts.<br><br>Responsibilities:<br><br>â¢ Developing and implementing blockchain technology applications<br>â¢ Identifying and resolving defects by researching specific blockchain technologies<br>â¢ Documenting the development process and blockchain procedures<br><br>Requirements:<br><br>â¢ Proven experience as a Blockchain Developer<br>â¢ Strong experience in Python, Rust, Solidity, and NodeJS<br>â¢ Understanding of blockchain systems, smart contracts, and how to create them<br>â¢ Knowledge of consensus mechanisms and cryptographic hashing algorithms<br>â¢ Experience with Git, Bitcoin, and Hyperledger would be an advantage</p><br/><br/>Please mention the word **ILLUMINE** and tag RMzQuMTQ1LjIyMC41NQ== when applying to show you read the job post completely (#RMzQuMTQ1LjIyMC41NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -614,7 +614,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
