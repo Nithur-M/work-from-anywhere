@@ -69,7 +69,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">401k with company match</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Annual professional development budget</span></li>
 </ul>
-</div><br/><br/>Please mention the word **REVEL** and tag RNDQuMTk1LjQ5LjE2OQ== when applying to show you read the job post completely (#RNDQuMTk1LjQ5LjE2OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **REVEL** and tag RMzQuMTQ1LjIyMC41NQ== when applying to show you read the job post completely (#RMzQuMTQ1LjIyMC41NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -136,7 +136,7 @@
 </div><div>
 <span style="font-size:14.6667px;">-</span><span style="font-size:11pt;">(Nice to have) Experience with Discord and Discord web hooks. </span>
 </div><div><b>Benefits</b></div><div>Work from anywhere (Remote first), Flexible working hours, Flexible vacation policy, Competitive Salary + Token bonus (portion or all can be paid in Crypto).Â  Premia is committed to a diverse and inclusive workplace and is an equal opportunity employer. We do not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.</div><div><br></div><div>Premia welcomes all qualified persons to apply. Compensation will be competitive and commensurate with experience. This is a full time role.</div><div><br></div><div>To find out more you can view their website at <a href="https://premia.finance/" class="postings-link" rel="noopener noreferrer nofollow">https://premia.finance/</a>
-</div><br/><br/>Please mention the word **LUSH** and tag RNDQuMTk1LjQ5LjE2OQ== when applying to show you read the job post completely (#RNDQuMTk1LjQ5LjE2OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **LUSH** and tag RMzQuMTQ1LjIyMC41NQ== when applying to show you read the job post completely (#RMzQuMTQ1LjIyMC41NQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -151,7 +151,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/masteryprep-frontend-software-engineer-1" align="right" target="_blank">Apply</a>
