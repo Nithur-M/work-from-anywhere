@@ -10,7 +10,7 @@
                     <code>analyst,web3,technical,testing,test,manager,lead</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-quality-assurance-analyst-boson-protocol-185203" align="right" target="_blank">Apply</a>
@@ -86,7 +86,7 @@
 <strong>Stay lean</strong><span style="font-weight:400;">: Our ethos is to create and share value equitably, with minimal value extraction</span><span style="font-weight:400;">.</span>
 </li>
 </ul>
-<p><br><br></p><br/><br/>Please mention the word **ACCOMPLISHMENT** and tag RNDQuMTk1LjQ5LjE2OQ== when applying to show you read the job post completely (#RNDQuMTk1LjQ5LjE2OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><br><br></p><br/><br/>Please mention the word **ACCOMPLISHMENT** and tag RMzQuMTA1LjExMi4xMDE= when applying to show you read the job post completely (#RMzQuMTA1LjExMi4xMDE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
