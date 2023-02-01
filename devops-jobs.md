@@ -10,7 +10,7 @@
                     <code>web3,crypto,system,technical,support,devops,mobile,management,senior,engineer,engineering,linux</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-bitcoincom-184691" align="right" target="_blank">Apply</a>
@@ -64,7 +64,7 @@
 <li>Health insurance reimbursement</li>
 <li>Wellness program (Gym, etc.)</li>
 <li>Home office allowance</li>
-</ul><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **DEPENDABLE** and tag RNDQuMTk1LjQ5LjE2OQ== when applying to show you read the job post completely (#RNDQuMTk1LjQ5LjE2OQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **DEPENDABLE** and tag RMzQuMTA1LjExMi4xMDE= when applying to show you read the job post completely (#RMzQuMTA1LjExMi4xMDE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -79,7 +79,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/intellum-systems-engineer-devops-3" align="right" target="_blank">Apply</a>
