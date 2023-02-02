@@ -10,7 +10,7 @@
                     <code>developer,design,crypto,cryptocurrency,training,gaming,testing,code,financial,cloud,git,android,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-android-native-developer-cryptohopper-187198" align="right" target="_blank">Apply</a>
@@ -35,7 +35,7 @@
 <li>Lifetime Cryptohopper subscription (if you donÃ¢â¬â¢t break our BFF vows)</li>
 <li>Shower you with extras, like trading benefits, a generous training budget, and (mom will be proud!) the opportunity to work in a domain that accelerates financial inclusion for the unbanked</li>
 <li>Pour you a stiff drink on Fridays, coffee that wonÃ¢â¬â¢t make you wish you chose tea, and lots of mind-blowing feedback on your work, hobbyÃ¢â¬â¢s, and pets. And we sincerely look forward to hearing whatÃ¢â¬â¢s on your mind, too.</li>
-</ul><br><p></p><h1>Ready to virtually meet our engineers?</h1><p>We donÃ¢â¬â¢t require (in fact, please donÃ¢â¬â¢t) a motivation letter; weÃ¢â¬â¢d rather have a good chat and tell you everything you want to know. About life, the universe, and everything! Mail your resume to hr@cryptohopper.com. More information? Call or WhatsApp Laura at +31614886381 (n/a for trading insights ;-)</p><br><br/><br/>Please mention the word **ADULATION** and tag RMzQuMTA1LjExMi4xMDE= when applying to show you read the job post completely (#RMzQuMTA1LjExMi4xMDE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br><p></p><h1>Ready to virtually meet our engineers?</h1><p>We donÃ¢â¬â¢t require (in fact, please donÃ¢â¬â¢t) a motivation letter; weÃ¢â¬â¢d rather have a good chat and tell you everything you want to know. About life, the universe, and everything! Mail your resume to hr@cryptohopper.com. More information? Call or WhatsApp Laura at +31614886381 (n/a for trading insights ;-)</p><br><br/><br/>Please mention the word **ADULATION** and tag RMzQuMjM4LjExNS43MQ== when applying to show you read the job post completely (#RMzQuMjM4LjExNS43MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -50,7 +50,7 @@
                     <code>developer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-blockchain-developer-xenon-labs-186701" align="right" target="_blank">Apply</a>
@@ -59,7 +59,31 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>The blockchain developer will work on developing and implementing a blockchain platform. They will be responsible for working with the team to develop a platform that can be used for the secure storage and transmission of data. The blockchain developer will also be responsible for developing and implementing smart contracts.<br><br>Responsibilities:<br><br>â¢ Developing and implementing blockchain technology applications<br>â¢ Identifying and resolving defects by researching specific blockchain technologies<br>â¢ Documenting the development process and blockchain procedures<br><br>Requirements:<br><br>â¢ Proven experience as a Blockchain Developer<br>â¢ Strong experience in Python, Rust, Solidity, and NodeJS<br>â¢ Understanding of blockchain systems, smart contracts, and how to create them<br>â¢ Knowledge of consensus mechanisms and cryptographic hashing algorithms<br>â¢ Experience with Git, Bitcoin, and Hyperledger would be an advantage</p><br/><br/>Please mention the word **ILLUMINE** and tag RMzQuMTA1LjExMi4xMDE= when applying to show you read the job post completely (#RMzQuMTA1LjExMi4xMDE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <p>The blockchain developer will work on developing and implementing a blockchain platform. They will be responsible for working with the team to develop a platform that can be used for the secure storage and transmission of data. The blockchain developer will also be responsible for developing and implementing smart contracts.<br><br>Responsibilities:<br><br>â¢ Developing and implementing blockchain technology applications<br>â¢ Identifying and resolving defects by researching specific blockchain technologies<br>â¢ Documenting the development process and blockchain procedures<br><br>Requirements:<br><br>â¢ Proven experience as a Blockchain Developer<br>â¢ Strong experience in Python, Rust, Solidity, and NodeJS<br>â¢ Understanding of blockchain systems, smart contracts, and how to create them<br>â¢ Knowledge of consensus mechanisms and cryptographic hashing algorithms<br>â¢ Experience with Git, Bitcoin, and Hyperledger would be an advantage</p><br/><br/>Please mention the word **ILLUMINE** and tag RMzQuMjM4LjExNS43MQ== when applying to show you read the job post completely (#RMzQuMjM4LjExNS43MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/cae18940d883d535d4b401364ee3b20c1674890135.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Ethereum Foundation</h5>
+                    <h3>Ecosystem Developer</h3>
+                </td>
+                <td width="300">
+                    <code>web3,ethereum,developer,travel,voice,strategy,management,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>5 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-ecosystem-developer-ethereum-foundation-185700" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b>Location</b></div><div>Remote with some travel </div><div><br></div><div><b>About the Ethereum Foundation</b></div><div> The Ethereum Foundation (EF) is a global non-profit organization dedicated to supporting Ethereum. Our mission is to do what is best for Ethereumâs long-term success. We do this by allocating resources to critical projects, being a positive voice within the Ethereum ecosystem, and advocating for Ethereum to the outside world.</div><div><br></div><div><b>About the role</b></div><div>Youâre a generalist and an analytical and entrepreneurial operator whoâs excited to drive strategic ecosystem development initiatives at the Ethereum Foundation. As someone who cares about shaping the future of Ethereum, you'll conceive of, build, and shepherd a diverse set of Ethereum-related "ecodev" projects. You'll also evaluate grants, experiment with allocation methods, and generally help the EF scale up its array of ecodev initiatives.</div><div><br></div><div><b style="font-size:18px;">Key Responsibilities:</b></div><p></p><h4>Project Management</h4><p></p><p></p><li>Responsible for driving and managing the end-to-end execution of projects</li><li>Coordinate across disparate stakeholders across a diverse range of contexts (community organizers, developers, researchers, funders, etc, etc.)</li><li>Set and own quantifiable targets for measuring project success</li><li>Create more leverage for the EF through recruitment, capacity-building, and delegation</li><li>Capture, synthesize, and document learnings throughout the course of your work</li><p></p><h4>Grants Management</h4><p></p><p></p><li>Deliver exceptional relationship management to existing partners and grantees</li><li>Build and own processes to streamline strategic collaborations and grants pipelines</li><div><br></div><p></p><h4>Strategy </h4><p></p><p></p><li>A strong contributor to the overall vision of ecosystem development strategy at the Ethereum Foundation</li><li>Conceive and develop actionable ecodev plans </li><li>Connect the dots between seemingly unconnected dots of the ecosystem</li><p></p><h4>Qualifications </h4><p></p><p></p><li>Exceptional communication, organizational, and analytical skills</li><li>Strong writing skills</li><li>You're able to work in a highly independent and self-directed manner, while effectively communicating what needs to be communicated</li><li>You value candor, direct communication, and feedback</li><li>You have a "no task is too small" mindset</li><li>Curious and question-oriented</li><li>You're excited to learn</li><li>You're relentless in asking questions and getting answers</li><li>Strong relationship management skills</li><li>Comfortable operating in a fast-paced and constantly evolving and at times uncertain space</li><li>Bonus: experience building in web3</li><li>Bonus: you have deep Ethereum ecosystem knowledge and relationships</li><div><b style="font-size:11pt;">Does this sound exciting? If yes, please apply by submitting a cover letter explaining why you would be a good fit for this role and a resume or CV.</b></div><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **GOLD** and tag RMzQuMjM4LjExNS43MQ== when applying to show you read the job post completely (#RMzQuMjM4LjExNS43MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -74,7 +98,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vexxhost-inc-developpeur-e-de-kubernetes-ansible-kubernetes-ansible-developer" align="right" target="_blank">Apply</a>
@@ -108,7 +132,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/resos-aps-experienced-frontend-wordpress-php-developer-with-design-ui-skills-and-knowledge-of-technical-seo" align="right" target="_blank">Apply</a>
@@ -163,7 +187,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-lead-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -227,7 +251,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>61 days ago</text>
+                <text>62 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-react-native-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -296,7 +320,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>63 days ago</text>
+                <text>64 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/much-remote-senior-odoo-developer-m-f-d" align="right" target="_blank">Apply</a>
@@ -342,6 +366,118 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/3165/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>SocialHub</h5>
+                    <h3> ReactJS Web Developer - Remote/SaaS (m/f/d)</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>163 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/3165/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Schütterlettenweg 4, 85053 Ingolstadt, Deutschland
+    <br /><strong>URL:</strong> <a href="https://socialhub.io/de/">https://socialhub.io/de/</a>
+</p>
+
+<div>
+<strong>DOES THIS SOUND LIKE YOU?<br></strong><br>
+</div><ul>
+<li>You like to build clean and well structured Software that your clients love to use.<br><br>
+</li>
+<li>You’ve been making your way through the world of frontend frameworks for at least 3 years, have developed a variety of applications and have an understanding of the good and the bad aspects of each framework.<br><br>
+</li>
+<li>Your ReactJS skills are strong. You know how to build large and scalable web applications.<br><br>
+</li>
+<li>You know how to spot performance issues and how to resolve them.<br><br>
+</li>
+<li>Using a DVCS like git comes natural to you.<br><br>
+</li>
+<li>You enjoy working within a team, helping fellow team members find elegant solutions to complicated problems and would happily jump into a code review at a moment's notice.</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>YOUR REQUIREMENTS FOR THE JOB</strong><br><br>
+</div><ul>
+<li>At least 3 years of commercial experience<br><br>
+</li>
+<li>Strong proficiency in modern JavaScript, browsers (and their quirks) including stylesheets and DOM manipulation.<br><br>
+</li>
+<li>Previous commercial experience building component-based web applications.<br><br>
+</li>
+<li>A practical approach to development including the reuse of shared components and open source projects rather than always reinventing the wheel.<br><br>
+</li>
+<li>In-depth knowledge of the ReactJS ecosystem including Redux, Redux-Saga, Reselect, Styled Components.<br><br>
+</li>
+<li>An appreciation of good UI/UX design and the ability to translate wireframes into high quality, reusable code.<br><br>
+</li>
+<li>Fluid in the different approaches to storing and structuring data (e.g. Immutable Structures).<br><br>
+</li>
+<li>An understanding of test driven development with frameworks like Jest.<br><br>
+</li>
+<li>Experience with browser-based debugging and performance optimisation.<br><br>
+</li>
+<li>Common development tools such as Git, Babel, Create-React-App and Yarn have been part of your toolkit for a while.<br><br>
+</li>
+<li>Some experience with React Native. Even if it was a small demo or side project.<br><br>
+</li>
+<li>Startup-Spirit (ambition, flexibility &amp; willingness to experiment)<br><br>
+</li>
+<li>You are able to work and communicate with your teammates through our core hours (11am to 4pm german timezone)</li>
+</ul><div>
+<br><br><strong>THESE SKILLS WOULD BE BENEFICAL FOR YOU</strong><br><br>
+</div><ul>
+<li>Knowledge of some of the new cutting-edge ECMAScript features.<br><br>
+</li>
+<li>If you have experience with web workers and/or progressive webapps, you would definitely be hitting the ground running by bringing in new skills into the team!<br><br>
+</li>
+<li>Some exposure to Typescript.<br><br>
+</li>
+<li>Mobile app development in either/both the iOS and Android ecosystems.<br><br>
+</li>
+<li>Commercial React Native experience.<br><br>
+</li>
+<li>Experience iteratively moving/upgrading an older code base to a newer platform. (We are currently migrating BackboneJS to ReactJS)<br><br>
+</li>
+<li>Regular contributor or author to an open source project.</li>
+</ul><div>
+<br><br><strong>WHAT WE HAVE TO OFFER</strong>
+</div><div><br></div><ul>
+<li>Company houses 2023: We rent houses worldwide - free of charge for you. Enjoy work and meet your teammates from all over the world. To work or to take a vacation, we leave it up to you!<br><br>
+</li>
+<li>Flexible working hours and the possibility to work remotely.<br><br>
+</li>
+<li>An enthusiastic and friendly team in a productive working environment.<br><br>
+</li>
+<li>Varied and challenging activities in a constantly growing and future-oriented industry.<br><br>
+</li>
+<li>Great coaching and development opportunities. We have an annual budget for external training courses and conferences. We previously attended GitHub Universe in London and Amsterdam.<br><br>
+</li>
+<li>An afternoon each sprint (every 2 weeks) to work on something that interests you. Want to learn a new programming language? That’s fine by us. It doesn't have to be work-related. It’s there to help you expand your skill set and keep the creative juices flowing. <br><br>
+</li>
+<li>Always a cold Fritz-Kola in the fridge (if you decide to stop by our office). <br><br>
+</li>
+<li>Join us for whole company get-togethers. Our past retreats have been in Belgium, Prague &amp; Spain. Our next one is in Portugal.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1">https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/3489/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -352,7 +488,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>812 days ago</text>
+                <text>813 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/opencraft-senior-open-source-developer-devops-python-django-react-aws-openstack" align="right" target="_blank">Apply</a>
@@ -431,7 +567,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -508,7 +644,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -577,7 +713,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -654,7 +790,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
