@@ -1,5 +1,69 @@
 <div align="center"><h2>BACKEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/9481d85141c54700d7556680016179a81675235793.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MeanFI</h5>
+                    <h3>Senior Back end Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>design,web3,defi,solidity,crypto,graphql,front-end,security,support,developer,software,testing,code,web,devops,finance,serverless,management,senior,operations,reliability,engineer,engineering,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-back-end-engineer-meanfi-187707" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><strong>ABOUT THE ROLE</strong></p>
+
+<p>Come build the software that will enable the next wave of DeFi innovations across crypto. We are building advanced interactive DeFi infrastructure and Web3 tools to enable real-time settlement and self-custody asset management for people and businesses worldwide.</p>
+
+<p>Weâre looking for a front-end software engineer deeply passionate about design, code quality, performance, scalability, and seamless end-to-end experiences. You must possess experience designing, writing and maintaining distributed systems with proper architecture and practices, and have a passion for quality engineering and coding best practices.</p>
+
+<p>You must have a natural, insatiable passion for the future of crypto and a world of finance powered by DeFi. Although not required for this position, weâll consider a plus having working knowledge of developing Web3 Dapps.</p>
+
+<p><strong>KEY RESPONSIBILITIES</strong></p>
+
+<ul>
+        <li>Design, plan, create and deploy secure, and scalable Web APIs using REST, GraphQL and RPC architectures and techniques.</li>
+        <li>Youâll be tasked with maintaining state of the art DevOps operations and be a key decision-maker in defining the standards, reliability and performance metrics across our team for all server-side middleware components with proper metrics, code gates, security gates, automation and DR techniques.</li>
+        <li>Youâll support the on-chain development of smart contracts leveraging Rust, Move, and Solidity languages across multiple blockchains. We call Solana home, and you will too. Experience with the Solana runtime, although it is not a must-have for this position, will be considered a very big plus.</li>
+</ul>
+
+<p><strong>REQUIREMENTS</strong> <strong>Technologies</strong></p>
+
+<ul>
+        <li>We expect a high proficiency level in the following technologies: Typescript, C#, Rust, Move, Solidity and SQL languages. Our middleware stack is based on ASP.NET, Node.js, Express, SQL Server, Sealevel, DocumentDB, as well as various AWS and serverless components.</li>
+        <li>Experience delivering CI/CD infra with Git, GitHub, Vercel, AWS and self-hosted environments is a must. As mentioned before, although not absolutely required, working or experimental knowledge of blockchain runtimes and smart contract development is a plus.</li>
+        <li>Youâll be the perfect candidate if you are an opinionated expert hardcore backend developer with extreme proficiency in the entire Web API, Data and Blockchain stack, including DevOps, testing automation, routing, caching, and related techniques.</li>
+</ul>
+
+<p><strong>Personality</strong></p>
+
+<ul>
+        <li>Youâll be working in a 100% remote team setting. This means you must feel comfortable in fully remote environments and have a peaceful place to work consistently and continuously without interruptions. We speak English, and you must have excellent communication skills IN ENGLISH.</li>
+        <li>We are looking for people with field experience of previous implementations in server-side systems requiring multiple integration patterns that facilitate the composition of 3rd party frameworks and protocols. You must have an excellent understanding of REST APIs, Data Modeling, Design Patterns, Infrastructure & Comms Patterns, etc.</li>
+        <li>We expect you to pair with other colleagues on a daily basis to transfer knowledge and experience gained, and be comfortable working on a team with members of varying levels of experience.</li>
+</ul>
+
+<p><strong>WE OFFER</strong></p>
+
+<ul>
+        <li>Attractive compensation package: salary + equity + bonus + benefits</li>
+        <li>Remote-friendly environment with a possibility to work from any location, flexible hours and paid time off</li>
+        <li>Working in a disruptive and fast-growing industry where the possibilities are endless</li>
+        <li>Freedom, autonomy and responsibility - no micromanaging, looking for proactive and independent individuals that achieve results</li>
+        <li>A true meritocracy, flat organizational structure with rapid upwards mobility based on performance</li>
+</ul><br/><br/>Please mention the word **LIKED** and tag RMzQuMjM4LjExNS43MQ== when applying to show you read the job post completely (#RMzQuMjM4LjExNS43MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +74,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/merchstack-senior-backend-engineer" align="right" target="_blank">Apply</a>
@@ -101,7 +165,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>91 days ago</text>
+                <text>92 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer" align="right" target="_blank">Apply</a>
