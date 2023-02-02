@@ -1,70 +1,114 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/d5bf9032f0c86bd3f39c55bcebf2342c1674717321.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/4de2c5d27ea83f5769f529ea13f6e6fe1674803776.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>BitcoinCom</h5>
-                    <h3>Senior DevOps Engineer</h3>
+                    <h5>Nethermind</h5>
+                    <h3>DevOps Engineer Blockchain</h3>
                 </td>
                 <td width="300">
-                    <code>web3,crypto,system,technical,support,devops,mobile,management,senior,engineer,engineering,linux</code>
+                    <code>design,ethereum,system,security,technical,support,software,testing,growth,code,web,devops,finance,cloud,operations,operational,analytics,reliability,golang,engineer,digital nomad</code>
                 </td>
                 <td width="200">
                 <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-devops-engineer-bitcoincom-184691" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-devops-engineer-blockchain-nethermind-185212" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>Bitcoin's mission is to create more 'economic freedom' in the world. We believe individuals should be able to freely acquire and use personal resources however they choose. We assert that economic freedom is a fundamental human right and a vital component of human dignity, and we believe that it is foundational for peaceful and prosperous societies.</p>
-<p>Our vision is to provide the next billion people with access to products that exemplify the ideals of Bitcoin. These ideals - which include peer-to-peer transactions, decentralization, censorship resistance, and permissionless-ness - support economic freedom.</p>
-<p>Our approach is to develop and promote widely accessible products that support economic freedom. The Bitcoin.com App is a mobile and web-enabled platform from which anyone can access all Bitcoin.com products and services. Use the App to buy, sell, trade, earn, use, and learn crypto. At the core of the App is a multichain Web3 wallet that enables anyone to take control of their crypto and use it however they wish.<br><br>We are seeking a talented Senior DevOps Engineer who shares our vision.</p>
-<p> </p>
-<p><strong>Roles & Responsibilities</strong></p>
-<ol>
-<li>Streamline feedback for engineering team members by enhancing CI/CD processes and modernizing local and cloud-based development tools.</li>
-<li>Investigate new technologies, build proof-of-concepts, tackle technical obstacles and suggest cutting-edge solutions for both technical and business-related challenges.</li>
-<li>Conceptualize, execute, and implement the most effective DevOps tooling and automation across all of our services.</li>
-<li>Create measurements to make data-driven decisions about our development tooling, monitor the result, and iterate.</li>
-<li>Promote industry best practices within our engineering teams and actively implement them across our platform.</li>
-<li>Lead incident management and post-mortem processes to ensure that the products we develop meet the highest standards for quality, reliability, and stability for our users.</li>
-</ol>
-<p> </p>
-<p><strong>Core Competenties</strong></p>
+                <div class="content-intro">
+<h2>What are we all about?</h2>
+<p>We are a team of world class builders and researchers with expertise across several domains: Ethereum Protocol Engineering, Layer-2, Decentralized Finance (DeFi), Miner Extractable Value (MEV), Smart Contract Development, Security Auditing and Formal Verification.</p>
+<p>Working to solve some of the most challenging problems in the blockchain space, we frequently collaborate with renowned companies, such as Ethereum Foundation, StarkWare, Gnosis Chain, Aave, Flashbots, xDai, Open Zeppelin, Forta Protocol, Energy Web, POA Network and many more.</p>
+<p>We actively contribute to Ethereum core development, EIP's and network upgrades together with the Ethereum Foundation, and other client teams.</p>
+<div class="c-message_kit__gutter">
+<div class="c-message_kit__gutter__right">
+<div class="c-message_kit__blocks c-message_kit__blocks--rich_text">
+<div class="c-message__message_blocks c-message__message_blocks--rich_text">
+<div class="p-block_kit_renderer">
+<div class="p-block_kit_renderer__block_wrapper p-block_kit_renderer__block_wrapper--first">
+<div class="p-rich_text_block">
+<div class="p-rich_text_section">Today, there are nearly 200 of us working remotely from over 45+ countries.</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div>
+<div class="c-message_actions__container c-message__actions">
+<div class="c-message_actions__group">Â </div>
+</div>
+<p>You can view all our open positions here:Â <a class="c-link" href="https://jobs.nethermind.io/" rel="noopener noreferrer nofollow">https://jobs.nethermind.io/</a></p>
+<p><img src="https://nethermind-job-board-images.s3.us-east-2.amazonaws.com/map_update290722.png" width="707" height="499"></p>
+</div><h3><strong>About:</strong></h3>
+<p>The start-up is a non-custodial, institutional grade, staking as a service provider. The business operates validators across a wide range of Proof-of-Stake protocols and allows institutional clients to delegate their assets using their preferred custodians in order to collect staking rewards. It charges a commission on the staking rewards for operating the validators and providing analytics and reporting.</p>
+<p>The business' differentiation is based on:</p>
 <ul>
-<li>Experience with distributed database systems (Cassandra, etc)</li>
-<li>Experience with IaC tools (Terraform, Ansible, etc.)</li>
-<li>Experience with operating Linux and Cloud-based environments (AWS, etc)</li>
-<li>Experience with container orchestration platforms: Kubernetes, ECS, etc.</li>
-<li>Experience with source control systems: Git, GitLab, etc</li>
-<li>Experience in at least two of the following: Unix/Linux shell scripting, Go, Java, etc.</li>
-<li>Working knowledge of networking concepts: tcp/ip, common protocols, OSI model, etc.</li>
-<li>Experience with container technologies: Docker, Podman, etc.</li>
-<li>Ability to trace, debug, and diagnose remote distributed system issues</li>
-<li>Communicates well in both written and verbal English</li>
+<li>Institutional grade security and compliance (e.g. permissioned validators)</li>
+<li>Superior transparency and analytics, including dashboard and reporting</li>
+<li>Processes designed with institutional workflow in mind</li>
 </ul>
-<p> </p>
-<p><strong>Nice To Have</strong></p>
+<p><strong>The Role:</strong></p>
+<p>As a DevOps Engineer, you will help build and maintain validators on Polygon / Solana / Avalanche / Near / Elrond / Polkadot / AlgorandÂ  / Cosmos and other chains. You are ready to apply best practices for monitoring, observability, security, and infrastructure automation to the task of improving and expanding the multi-cloud hybrid platform used by our growing set of deployments.</p>
+<p>We are looking for DevOps Engineers that have development and operational experience deploying, debugging, tuning, and maintaining large-scale Web deployments, high-performance, low-latency distributed applications, and container-based applications and microservices.</p>
+<h3>Responsibilities:</h3>
 <ul>
-<li>Familiarity working with service meshes (Istio, Linkerd, etc.)</li>
-<li>Familiarity working with a multi-region infrastructure</li>
-<li>Familiarity working with GitOps workflows</li>
-<li>Certifications in Kubernetes, AWS, etc.</li>
+<li>Work to improve and maintain the reliability and availability of our services.</li>
+<li>Actively troubleshoot any issues that arise during testing and deployment, catching and solving issues before launch</li>
+<li>Manage code deployments, fixes, updates and related processes</li>
+<li>Build and maintain company-wide CI/CD pipelines for different projects (Github Actions)</li>
+<li>Deploy and maintain the blockchain infrastructure in a multi-cloud hybrid environment (AWS, Google Cloud, on-premise etc)</li>
+<li>Provide incident response and support for our production systems</li>
+<li>Monitor the infrastructure with tools like Grafana, Prometheus</li>
+<li>Ensure 99.99% system uptime, smooth operations and work with infra handling millions of request per second</li>
+<li>Continued technical growth through constant experimentation, learning, and rapid project iteration</li>
+<li>Continuously improve the infrastructure and the platform</li>
+<li>Participate in the on-call rota</li>
 </ul>
-<p> </p>
-<p><strong>Benefits</strong></p>
-<p>We are serious about what we do, but more importantly, we have a lot of fun doing it. Our work culture is modern, meaning we strive for work experiences based on transparency, productivity, trust, and passion. For all benefits include:</p>
-<p> </p>
+<h2>Must have:</h2>
 <ul>
-<li>Flexible work hours</li>
-<li>Remote work</li>
-<li>Health insurance reimbursement</li>
-<li>Wellness program (Gym, etc.)</li>
-<li>Home office allowance</li>
-</ul><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **DEPENDABLE** and tag RMzQuMTA1LjExMi4xMDE= when applying to show you read the job post completely (#RMzQuMTA1LjExMi4xMDE=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<li>Bachelorâs or Masterâs Degree in Computer Science/Engineering/Software Engineering/relevant field OR 5+ years of progressive relevant experience</li>
+<li>5+ years of experience in a DevOps/SRE Engineer role (or similar role)</li>
+<li>Strong experience with Linux-based infrastructure, and Linux/Unix system administration tasks</li>
+<li>Working knowledge of container environments along with container orchestration tools like Kubernetes</li>
+<li>Experience with monitoring tools like Grafana, Datadog, Prometheus, etc.</li>
+<li>Good knowledge of IaC tools like Terraform</li>
+<li>Knowledge of scripting languages (Bash is a must)</li>
+<li>Knowledge of systems programming languages like Golang and Python</li>
+<li>Extensive cloud experience and familiarity with configuring, scaling, tuning and monitoring the range of services (AWS/GCP/Azure)</li>
+<li>Experience producing operational and design documentation for the things you build, and writing post-mortem docs after troubleshooting service issues.</li>
+<li>Experience with continuous integration and continuous delivery tools, like Jenkins, GitHub Actions, etc.</li>
+<li>Any blockchain experience</li>
+</ul>
+<h2>Nice to have:</h2>
+<ul>
+<li>Experience in software development and infrastructure development is a plus.</li>
+<li>Previous experience with deployment, running and maintaining Polygon / Solana / Avalanche / Near / Elrond / Polkadot / AlgorandÂ  / Cosmos validators/nodes </li>
+<li>Experience of on-premise infrastructure</li>
+<li>GitOps</li>
+<li>Istio/Linkerd (Service mesh)</li>
+</ul>
+<h2><strong>Perks and benefits:</strong></h2>
+<ul>
+<li>Fully remote</li>
+<li>Flexible working hours</li>
+<li>Plus equity</li>
+</ul><div class="content-conclusion">
+<h1>Join us!</h1>
+<p>We are always on the lookout for talent!</p>
+<p>If what we do excites you, but none of the current open positions match your background, we encourage you to send us your CV at<strong> <a href="mailto:hello@nethermind.io" rel="noopener noreferrer nofollow">talent@nethermind.io</a><br><br>Join our growing and active community of 2000+ developers on our Discord server: <a href="https://discord.com/invite/PaCMRFdvWT" rel="noopener noreferrer nofollow">https://discord.com/invite/PaCMRFdvWT</a><br></strong></p>
+<div>
+<div><strong>In the meantime, keep up to date on what we are working on by followingÂ <span class="il">us</span>Â on our social channels:Â </strong></div>
+</div>
+<div>
+<strong><a href="https://twitter.com/nethermindeth" rel="noopener noreferrer nofollow">https://twitter.com/nethermindeth</a></strong><br><strong><a href="https://www.linkedin.com/company/nethermind/" rel="noopener noreferrer nofollow">https://www.linkedin.com/company/nethermind/</a><br><br><a href="https://nethermind.io/privacy-policy/" rel="noopener noreferrer nofollow">Click here to view our Privacy Policy.</a><br></strong>
+</div>
+<p><strong>Â </strong></p>
+</div><br/><br/>Please mention the word **CELEBRATE** and tag RMzQuMjM4LjExNS43MQ== when applying to show you read the job post completely (#RMzQuMjM4LjExNS43MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -79,7 +123,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/intellum-systems-engineer-devops-3" align="right" target="_blank">Apply</a>
