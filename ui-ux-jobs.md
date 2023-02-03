@@ -1,72 +1,70 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/5987/logo.gif" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/427925b8d5c2c46578632c3fc627a92b1675322140.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Uptime.com</h5>
-                    <h3> Lead UI/UX Design Manager</h3>
+                    <h5>Metaschool</h5>
+                    <h3>UI UX Designer</h3>
                 </td>
                 <td width="300">
-                    <code>Design</code>
+                    <code>ui,ux,design,web3,front-end,designer,testing,go,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/uptime-com-lead-ui-ux-design-manager" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-ui-ux-designer-metaschool-188213" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/5987/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Austin, Texas
-    <br /><strong>URL:</strong> <a href="https://uptime.com/">https://uptime.com/</a>
-</p>
-
-<h1>About Uptime.com </h1><div>At <a href="https://uptime.com/?utm_source=dynamitejobs&amp;utm_medium=dynamitejobs-job-post&amp;utm_campaign=Lead+UI%2FUX+Design+Manager">Uptime.com</a>, we pride ourselves on fostering a culture of flexibility and work-life balance. We understand that a happy workforce leads to increased productivity and better results. We are committed to driving innovation through our product-led approach.<br><br>
-</div><div>Our people are at the heart of our success. We invest in the growth and development of our team members, providing them with the support and resources they need to excel in their roles.<br><br>
-</div><div>Inclusion and diversity are core values at Uptime.com. We are dedicated to creating an inclusive environment where all individuals are respected, and valued and have equal opportunities to succeed. We believe that diversity strengthens our team, drives innovation, and helps us better serve our customers.<br><br>
-</div><div>Join our team and be part of the rocket ship! Uptime.com is growing more than 100% year-over-year and accelerating, and we're looking for a talented member to help continue building out our industry-leading, award-winning &amp; customer-pleasing monitoring solution. <br><br>
-</div><div>For this role, Uptime.com is looking for a talented member to help continue to build out our industry-leading, award-winning &amp; customer-pleasing monitoring solution. Uptime.com is collaborative, has interesting and elegant tech and our customers love us! <br><br>
-</div><div>Check out our <a href="https://www.g2.com/products/uptime-com/reviews?utm_source=dynamitejobs&amp;utm_medium=dynamitejobs-job-post&amp;utm_campaign=Lead+UI%2FUX+Design+Manager">Uptime.com Reviews &amp; Product Details</a>.<br><br>
-</div><div>This is a remote work position. We’re a team of unicorns - if you think you are too, tell us why!<br><br>
-</div><h1>Why we need you</h1><div>We are building the next-generation availability monitoring platform and rapidly growing our user experience and user interface team. Our focus is on our growing customer base as we develop features for SREs and developers in small and medium businesses, with plans to scale up to the enterprise level. <br><br>
-</div><div>We are seeking a UX/UI Design Manager to lead our product team and create an exceptional user experience for our customers. The ideal candidate has experience shaping customer journeys and is excited to build and grow the Uptime UX/UI design team. <br><br>
-</div><h1>What you will do</h1><ul>
-<li>Oversee the design, user experience, and visual style of Uptime sites, including marketing and core product pages. </li>
-<li>Lead, mentor, and develop a growing team of UX/UI designers to generate ideas, prototype, and test with business owners. </li>
-<li>Collaborate with Product Development teams to build out and maintain an Uptime design language and components library. </li>
-<li>Lead the design team to build the next-generation cloud-native user experience and implement the next-generation responsive interface. </li>
-<li>You will be hands-on leading and designing both web and mobile application experiences and defining our UI/UX improvements. </li>
-<li>Collaborate with the Marketing team to ensure information and site content reflects our product capabilities across the platform. </li>
-<li>Collaborate with the Support team, Product Managers, and Marketing team to ensure that the customer’s voice is considered in all design decisions. </li>
-<li>Responsible for user experience testing and presenting results to key stakeholders.</li>
-<li>Educate the product team (Product, Development and Marketing) on how to ensure a best-in-class user experience across our platform. </li>
-<li>Offer thought leadership and guidance to the product team to ensure that the end-to-end experience is seamless, customer-focused, and solves problems faced by our customers. </li>
-</ul><h1><strong>What you will need</strong></h1><ul>
-<li>Prior experience in managing a fully remote design team. </li>
-<li>Proficiency in implementing high-fidelity designs accurately in HTML, Flutter, CSS, and Sass with Bootstrap in Figma.</li>
-<li>ReactJS experience. </li>
-<li>Experience with mobile application development in flutter and other mobile frameworks.</li>
-<li>Ability to define a next-generation design language to set us apart from competitors.</li>
-<li>Talent for creating visually appealing data visualizations for large datasets.</li>
-<li>Track record of improving data elements, visuals, and experience for a wide, complex, and technical customer base. </li>
-<li>Strong communication skills and ability to defend designs, collaborate with others across the organization, and advocate chosen designs and solutions. </li>
-<li>Prior experience working in a high-growth, fast-paced environment with multiple parallel projects. </li>
-<li>Driving bottom-up innovation and new feature capabilities in an agile development environment &amp; writing user stories that represent the design requirements. </li>
-</ul><h1><strong>Helpful Extras</strong></h1><div>You have the ability to think at a high level about product strategy but also act with speed and precision to deliver the tactical components required to deliver the solution in a UI/UX framework consumed across the platform. <br><br>
-</div><div><strong>How we will support your growth and success: </strong></div><ul>
-<li>Partner with executives, leadership, and cross-functional organization including engineering, marketing, and business operations. </li>
-<li>Professional development opportunities to further skills and knowledge </li>
-<li>Discover the exciting world of monitoring, observability, and SRE while becoming an advocate and driving innovation in the industry. </li>
-<li>A supportive team of passionate and dedicated individuals all focused on building the best monitoring service in the world.</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/uptime-com-lead-ui-ux-design-manager">https://weworkremotely.com/remote-jobs/uptime-com-lead-ui-ux-design-manager</a></p>
-
+                <div>Metaschool is looking for a UI/UX Designer to join our team. We are on a mission to create an intuitive and user-friendly experience for our users, and we need your help to make it happen.<br><br>
+</div><div>We're a decentralized, remote-first company with teammates based in Singapore, India, and Pakistan (for now ð). We are divided by borders but our common mission to help developers build and flourish in the web3 ecosystem has brought us very close. If you are in any timezone of Asia and are passionate about blockchain, web3, and education, we would love to have you onboard.<br><br>
+</div><div>
+<strong>Our Values</strong><br><br>
+</div><ul>
+<li>
+<strong>Buidl dope shit!</strong> - We care about what you have built, not your degrees or FAANG experience.</li>
+<li>
+<strong>Stay weird -</strong>Â  Own yourself, be yourself! Diversity is our strength!</li>
+<li>
+<strong>Improve daily -</strong> Daily efforts compound. Donât underestimate them.</li>
+<li>
+<strong>Developers come first -</strong> We are building for devs. Put them first, always!</li>
+<li>
+<strong>Learners for life -</strong> Leave your ego outside, learn whenever you can.</li>
+<li>
+<strong>Collaborate to win -</strong> If you want to go far, collaborate and go with a team.</li>
+</ul><div>
+<strong>Key Responsibilities</strong><br><br>
+</div><ul>
+<li>Design and develop user interfaces for our web3 platform.</li>
+<li>Create wireframes, mockups, and interactive prototypes to communicate design ideas.</li>
+<li>Work closely with the product and development teams to ensure the final designs meet user needs and business goals.</li>
+<li>Conduct user research and testing to gather feedback and improve the user experience.</li>
+<li>Keep up to date with the latest design trends and technologies to ensure our platform stays modern and competitive.</li>
+</ul><div>
+<strong>Requirements</strong><br><br>
+</div><ul>
+<li>2+ years of experience in UI/UX design, with a portfolio of relevant work.</li>
+<li>Strong understanding of web3 and blockchain technology.</li>
+<li>Strong understanding of design principles and front-end technologies, such as HTML, CSS, and JavaScript.</li>
+<li>Experience with design tools such as Figma, Sketch, Adobe XD, etc.</li>
+<li>Strong problem-solving skills, attention to detail, and ability to work independently.</li>
+<li>Strong communication and collaboration skills, as you will be working closely with a cross-functional team.</li>
+<li>Bonus: experience with smart contract development and blockchain wallets like MetaMask, Trust Wallet.</li>
+</ul><div>If any of the above doesnât apply to you and you still strongly feel you can do it. Donât let us stop you.. Apply for the opportunity.<br><br>
+</div><div><strong>Perks</strong></div><div>At Metaschool, you will have exposure to product, business, growth, technology and everything in between. Additionally, you will get:<br><br>
+</div><ul>
+<li>Competitive Salary</li>
+<li>Generous Equity</li>
+<li>Health Insurance</li>
+<li>Paid Time off</li>
+<li>Macbook + Workstation Allowance</li>
+<li>Multiple Tech subscription(s) to make your life easier</li>
+<li>And an amazing bunch of weird frens!!</li>
+</ul><div>We are so excited to see you around. Please reach out to us and weâd be happy to speak to you.</div><br/><br/>Please mention the word **ADVANTAGEOUS** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -74,17 +72,17 @@
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Whitespectre</h5>
-                    <h3> UI/UX Designer</h3>
+                    <h5>Contra</h5>
+                    <h3> Mobile UI/UX Designer at Boostcamp</h3>
                 </td>
                 <td width="300">
-                    <code>Design</code>
+                    <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/whitespectre-ui-ux-designer-2" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/contra-mobile-ui-ux-designer-at-boostcamp" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -93,69 +91,83 @@
                 
 
 <p>
-  <strong>Headquarters:</strong> Remote
-    <br /><strong>URL:</strong> <a href="http://www.whitespectre.com/">http://www.whitespectre.com/</a>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
 </p>
 
-<div>We’re seeking a talented, creative, and dedicated UI/UX Designer to join our team. In this role, you’ll create impactful and engaging experiences for both our clients as well as Whitespectre’s own software products. You’ll collaborate with engineering, product management, and stakeholders to solve interesting product challenges and deliver features that provide a great user experience and drive significant business value and insight.<br><br>
-</div><div>This role sits within the product design team and reports directly to the head of UI/UX. <strong>Please, note that this is NOT a freelance/project based opportunity, it’s a long-term, full-time role.</strong>
-</div><div><br></div><div>
-<strong>Please provide a link to your current portfolio</strong>. Candidates without portfolios will not be considered.</div><div>
-<br><br>
+<div>
+<br>We are looking for a mobile UI/UX designer to help us with our iOS and Android app, as well as occasional work on our website and internal tools. The ideal candidate would stay with us as a long-term partner, and will have upside in the company as we scale and grow the business. <br><br>
 </div><div>
-<a href="http://www.whitespectre.com/"><strong>Whitespectre</strong></a> is a product development company that creates high-performing platforms and apps, both for our long-term client partners and our own products. Founded in 2013, we partner with both large established companies and high-growth start-ups in the US and Europe. We're a close-knit team of 70 smart and diverse architects, engineers, product managers and designers, working together remotely and growing! Only candidates from outside of the US will be considered for this role.<br><br>
-</div><div>
-<br><br>
-</div><div><strong>In this role, you will:</strong></div><ul>
-<li>Cover the end-to-end UI/UX design process, from research and the development of wires and prototyping, to gathering user feedback, to collaborating with and presenting to stakeholders and designing polished interfaces.</li>
-<li>Collaborate closely with product managers, engineers, and other UI/UX designers to develop intuitive and elegant product experiences.</li>
-<li>Prioritize user needs and be the voice of the user in conversations and decisions.</li>
-<li>Design user flows, wireframes, and prototypes to demonstrate your ideas to stakeholders.</li>
-<li>Incorporate best practices, research, and user feedback into your design decisions.</li>
-<li>Confidently present your ideas and recommendations to internal stakeholders and clients.</li>
-</ul><div><br></div><div><strong>The ‘check the box’ requirements:</strong></div><ul>
-<li>3+ years experience in UI/UX design, including responsive sites and applications and native mobile applications (iOS, Android, React Native).</li>
-<li>Experience working as UI/UX designer within an international company and team, on a full-time and long-term basis, interacting with developers, product managers and stakeholders.</li>
-<li>Experience working across the entire product lifecycle, from research and prototyping, to launch, to ongoing feedback and iteration cycles.</li>
-<li>A robust portfolio of past projects and live examples.</li>
-<li>Strong visual design skills that demonstrate excellence in the core principles of typography, layout, color etc. A design aesthetic that demonstrates a strong foundation in the core visual design principles (typography, layout, color, etc.).</li>
-<li>Excellent communication skills in English, including the ability to engage confidently with clients in design discussions and presentations.</li>
-<li>Comfortable in fast-paced, collaborative environments.</li>
-<li>Availability to work full-time within a fast-moving cross-functional team, crossing over with 11am - 7pm Central European Time</li>
-</ul><div><br></div><div><strong>We’re excited about candidates who are:</strong></div><ul>
-<li>Passionate about creating products that deliver both a first-class user experience as well as real business results.</li>
-<li>Seriously detail-oriented. You pride yourself on delivering designs that are accurate and consistent. You enjoy thinking through the multiple scenarios and perspectives in each user experience you create.</li>
-<li>Committed to keeping up with ‘best practices’ and new design thinking. You’re naturally curious, you’re constantly reviewing new apps and products, you can speak comfortably on the pros and cons of the latest design trends</li>
-<li>Skilled at presenting your designs and findings with clarity and confidence and engaging in stakeholder discussions</li>
-</ul><div><br></div><div><strong>Benefits</strong></div><ul>
-<li>Competitive pay, in USD</li>
-<li>Annual Performance &amp; Salary Reviews, with proactive career management</li>
-<li>20 Days PTO &amp; 3 Charity Days annually</li>
-<li>Funded face-to-face meet ups in Barcelona, as well as, South America and Asia</li>
-<li>Assisted Relocation package up to $5k</li>
-<li>Flexible working hours for efficient teaming in a 100% remote environment (proudly remote-first for 9 years!)</li>
-<li>Free English classes &amp; educational expenses support</li>
-<li>Generous Employee Referral Plan</li>
-<li>Team Fitness and Charity Initiatives</li>
-<li>We offer employee or long-term independent contractor agreements, depending on location</li>
-</ul><div><br></div><div>
-<strong>Cultural benefits<br></strong><br>
-</div><div>In addition to the above benefits, we foster an inclusive working environment that provides:<br><br>
-</div><ul>
-<li>Great company environment - check out <a href="https://www.glassdoor.com.ar/Reviews/Whitespectre-Reviews-E1575846.htm?countryRedirect=true"><strong>Glassdoor</strong></a>
-</li>
-<li>Personalized onboardings</li>
-<li>Opportunity to contribute to company-level initiatives</li>
-<li>Work with a broad range of best-in-class technologies and the latest design tools</li>
-<li>Cross-company knowledge groups - improve your expertise and share your learnings</li>
-<li>Regular brown bag learning sessions</li>
-<li>An emphasis on Work-life balance</li>
-</ul><div><br></div><div><strong>Interested in applying?</strong></div><ul>
-<li>Apply by completing the form below</li>
-<li>Or email us with any questions on recruiting@whitespectre.com</li>
-</ul>
+<br>We are a very fast growing startup (we have over 200K registered users), and there will be immense opportunity to grow with us and lead our product design. We iterate and implement features quickly and your designs will have immediate impact to our users!<br><br>
+</div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/whitespectre-ui-ux-designer-2">https://weworkremotely.com/remote-jobs/whitespectre-ui-ux-designer-2</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-mobile-ui-ux-designer-at-boostcamp">https://weworkremotely.com/remote-jobs/contra-mobile-ui-ux-designer-at-boostcamp</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4150/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>A.Team</h5>
+                    <h3> Senior Independent UX/UI Designer ($110-$190/hr)</h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>450 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4150/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> NYC, SF, and TLV
+    <br /><strong>URL:</strong> <a href="https://build.a.team/viaweworkremotely">https://build.a.team/viaweworkremotely</a>
+</p>
+
+<div>
+<a href="https://build.a.team/wwrdesignerfasttrack">A·Team</a> is a VC-backed, stealth, application-only home on the internet for senior UX/UI designers (along with developers &amp; product folks) to team up with the hand-picked, high-growth companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
+<li>
+<strong>High-paying, meaningful UX/UI design missions with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li>
+<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li>
+<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li>
+<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li>
+<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul><div>
+<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrdesignerfasttrack">https://build.a.team/wwrdesignerfasttrack</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
+</div><ul>
+<li>Once part of A.Team, you’ll regularly be invited to be the lead designer for impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old-school non-tech incumbents looking to build as a tech giant would.</li>
+<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
+<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is for:</strong>
+</div><ul>
+<li>Senior UX/UI Designers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
+<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
+<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
+</div><ul>
+<li>People looking for small gigs.</li>
+<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
+<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
+</ul><div>
+<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrdesignerfasttrack">A·Team</a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
+<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr</a></p>
 
                 </details>
                 </td>
@@ -171,7 +183,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>24 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
