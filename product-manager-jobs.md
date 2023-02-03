@@ -1,147 +1,5 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/09ef2d21ac70ff69bd46415b654380b51675235783.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Immunefi</h5>
-                    <h3>Product Manager</h3>
-                </td>
-                <td width="300">
-                    <code>manager,design,web3,crypto,security,software,web,management,lead,marketing,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-product-manager-immunefi-187705" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro">
-<p><span style="font-family:verdana , geneva , sans-serif;font-size:14pt;">About Immunefi</span></p>
-<p style="line-height:1.5;"><span style="font-weight:400;font-size:10pt;font-family:verdana , geneva , sans-serif;">Immunefi exists to protect the future of money. Immunefi is Web3's last line of defense and leading bug bounty platform, preventing catastrophic hacks before user funds are stolen. Our team is highly specialized, so weâre looking for talented people who are willing to jump right in and use their expertise to help us protect Web3. If youâre looking to join a fast paced, problem solving environment at the very core of decentralized finance, then read on.</span></p>
-<p> </p>
-</div><p><span style="font-family:verdana , geneva , sans-serif;font-size:14pt;">Summary</span></p>
-<p style="line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">We need a Product Manager to manage the core Immunefi product that our 200+ client base and several thousand security researchers rely on on a daily basis to submit and review bug reports. Youâll craft strategy, identify tactics and help devise solutions, prioritize, measure and validate the success of approaches that scale our current product. Your work will be critical in guiding the next product iterations.</span></p>
-<p> </p>
-<p><span style="font-family:verdana , geneva , sans-serif;font-size:14pt;">Responsibilities</span></p>
-<ul>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Define and execute the product roadmap for your domain, in alignment with the overall product vision, strategy, and roadmap</span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Understand the competitive landscape to identify market trends, key underserved customer needs, and new opportunities</span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Collaborate with all relevant internal and external stakeholders to discover, organize, and prioritize prospective new capabilities and solutions for your product domain</span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Drive product improvements through iterative design and experimentation; gather data to build a strong understanding of the user, their pain points and the solutions that will lead to a better user experience</span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Work with engineers and designers to deliver a high-quality product experience that users love</span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Actively engage with Account Management and Marketing teams to ensure successful product launches and adoption</span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Develop familiarity with Web3 security, vulnerability disclosure, bug bounties, hacker community and culture, vulnerability management, and other domain areas</span></li>
-</ul>
-<h3> </h3>
-<p><span style="font-family:verdana , geneva , sans-serif;font-size:14pt;">Requirements</span></p>
-<ul>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">4+ years experience in product management at a fast-growing software company</span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Track record of success delivering products and features that drive business results</span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Technical background particularly working with web and cloud-based platforms</span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Analytical mindset and experience making data informed decisions</span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Strong history working with design and development teams</span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Positive, professional, inclusive, self-starter and team-oriented demeanor</span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Strong written and verbal communication skills</span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Prior experience and success leading cross-functional teams remotely</span></li>
-</ul>
-<p> </p>
-<p><span style="font-family:verdana , geneva , sans-serif;font-size:14pt;">Bonus</span></p>
-<ul>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Prior track record in rapidly scaling product adoption</span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Domain experience with security products or services</span></li>
-</ul>
-<p> </p><div class="content-conclusion">
-<p><span style="font-family:verdana , geneva , sans-serif;font-size:14pt;">Working at Immunefi</span></p>
-<p style="line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Immunefi is the foremost Bug Bounty Marketplace in the crypto / Web3 space providing a platform to facilitate the protection of $bn of user funds. We aim for excellence in all we do and want to build a world class team of highly skilled professionals who can help us to scale & develop our company. If you are successful in joining the team, you will be working in a highly collaborative, cross-functional environment where ideas, input & communication are prized. By necessity, the work pace here is rapid and we need people who are able to rapidly immerse themselves. As a fully remote and geographically dispersed team, we require everyone to be capable of autonomous & self-driven work in addition to being able to manage communication across global timezones.</span></p>
-<p><span style="font-weight:400;"> </span></p>
-<p><span style="font-family:verdana , geneva , sans-serif;font-size:14pt;">Core Values</span></p>
-<p style="line-height:1.5;"><span style="font-family:verdana , geneva , sans-serif;font-size:10pt;"><strong>Radical Candor </strong><span style="font-weight:400;">- we seek out & give open feedback, both up & down across the entire organization</span></span></p>
-<p style="line-height:1.5;"><span style="font-family:verdana , geneva , sans-serif;font-size:10pt;"><strong>Be Worthy of Trust</strong><span style="font-weight:400;"> - we canât do our job without the trust of our clients. We want everyone here to be deserving of that trust and to be able to unequivocally trust the rest of the team</span></span></p>
-<p style="line-height:1.5;"><span style="font-family:verdana , geneva , sans-serif;font-size:10pt;"><strong>Take Responsibility & Own It</strong><span style="font-weight:400;"> - responsible people thrive on independence and are worthy of freedom - be accountable, grow from your mistakes</span></span></p>
-<p style="line-height:1.5;"><span style="font-family:verdana , geneva , sans-serif;font-size:10pt;"><strong>Exercise Good Judgment </strong><span style="font-weight:400;">- independent, good judgment means thinking for yourself and keeping the interests of the mission at heart</span></span></p>
-<p style="line-height:1.5;"><span style="font-family:verdana , geneva , sans-serif;font-size:10pt;"><strong>Writing is Greater Than Talking</strong><span style="font-weight:400;"> - By focusing on writing, we let our ideas take center stage. Writing allows for unemotional clarity about what we are doing, why we are doing it, and also what we are not doing</span></span></p>
-<p> </p>
-<p><span style="font-family:verdana , geneva , sans-serif;font-size:14pt;">What We Offer</span></p>
-<ul>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">100% remote-first work environment, flexible schedule</span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">Autonomous work environment with trusting, smart, reliable team members </span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">An opportunity to be building an early-stage company in a dynamically evolving market and industry</span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">An opportunity to build your own path in the company as we continue to evolve and grow</span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-family:verdana , geneva , sans-serif;font-size:10pt;"><span style="font-weight:400;">A global market (itâs fun to meet people from all over the world</span><span style="font-weight:400;"> every day!)</span></span></li>
-<li style="font-weight:400;line-height:1.5;"><span style="font-weight:400;font-family:verdana , geneva , sans-serif;font-size:10pt;">A chance to make impact and participate in building and securing the ecosystem for smart contracts and the future of money (weâre protecting over $100B in user funds)</span></li>
-</ul>
-</div><br/><br/>Please mention the word **SLEEK** and tag RMzQuMjM4LjExNS43MQ== when applying to show you read the job post completely (#RMzQuMjM4LjExNS43MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/dbc82774242844d17243ea3665076e521674976520.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>AlphaPoint</h5>
-                    <h3>Product Manager Margin & Derivatives</h3>
-                </td>
-                <td width="300">
-                    <code>manager,jira,crypto,support,financial,management,marketing,non tech</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-product-manager-margin-derivatives-alphapoint-186201" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="col col-xs-7 description" id="job-description">                    <p><span><span><b><span><span><span>About AlphaPoint:</span></span></span></b></span></span></p>
-<p><span><span><span><span><span><span>AlphaPoint is a financial technology company powering digital asset exchanges and brokerages worldwide. Through its secure, scalable, and customizable white label digital asset trading platform, AlphaPoint has enabled over 150 customers in 35 countries to launch and operate digital asset markets, as well as digitize assets. AlphaPoint and its award winning blockchain technology have helped startups and institutions discover and execute their blockchain strategies since 2013.</span></span></span></span></span></span></p>
-<p><span><span><span><span><span>Responsibilities:</span></span></span></span></span></p>
-<ul>
-<li><span><span><span><span><span><span><span>Evaluate market fit and create detailed business cases for key strategic feature sets including margin/leverage and derivatives trading.</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Meet with AlphaPoint clients to understand their business models and corresponding feature requirements.</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Write detailed specifications to be implemented by Development teams, managing those requirements from conception to delivery to post-launch.</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Manage and prioritize the Product backlog.</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>In addition to focus on margin and derivatives, contribute to other feature sets of the AlphaPoint product offering.</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Collaborate with designers to yield optimal UI/UX that meets business objectives.</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Ensure solutions meet business needs by defining acceptance criteria and conducting user acceptance testing.</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Communicate analysis and requirements to cross-functional team members and management.</span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span>Create product documentation including release notes, user guides, and marketing materials to be used by support teams, customers, and Sales.</span></span></span></span></span></span></span></li>
-</ul>
-<p><span><span><span><span><span>Basic requirements:</span></span></span></span></span></p>
-<ul>
-<li><span><span><span><span><span><span><span><span>5+ years experience in margin and/or derivatives trading of any asset class.</span></span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span><span>3+ years experience in product management or related field.</span></span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span><span>Exceptional analytical and conceptual thinking skills.</span></span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span><span>Excellent documentation skills.</span></span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span><span>Experience managing stakeholders and giving presentations.</span></span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span><span>Passionate about the Blockchain and Crypto space.</span></span></span></span></span></span></span></span></li>
-</ul>
-<p><span><span><span><span><span>Preferred skills & knowledge:</span></span></span></span></span></p>
-<ul>
-<li><span><span><span><span><span><span><span><span>Experience working in the digital asset ecosystem.</span></span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span><span>Experience defining/building financial systems with margin and/or derivatives trading capabilities.</span></span></span></span></span></span></span></span></li>
-<li><span><span><span><span><span><span><span><span>Experience with Jira or other project management tools.</span></span></span></span></span></span></span></span></li>
-</ul>
-<p> </p>
-<p><span><span><span><b><span>Here are some of the benefits of working at AlphaPoint:</span></b></span></span></span></p>
-<ul>
-<li><span><span><span><span><span>Competitive salary</span></span></span></span></span></li>
-<li><span><span><span><span><span>Remote Work Environment</span></span></span></span></span></li>
-<li><span><span><span><span><span>Unlimited Vacation</span></span></span></span></span></li>
-<li><span><span><span><span><span>Brex company credit card</span></span></span></span></span></li>
-<li><span><span><span><span><span>Computer equipment and workplace furniture to suit your needs</span></span></span></span></span></li>
-<li><span><span><span><span><span>Great colleagues and an inspiring startup environment with colleagues internationally</span></span></span></span></span></li>
-</ul>
-<p> </p>                </div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/r8N-hsJU-g4" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **AWARD** and tag RMzQuMjM4LjExNS43MQ== when applying to show you read the job post completely (#RMzQuMjM4LjExNS43MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/6259/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -152,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-product-manager-technical-2" align="right" target="_blank">Apply</a>
@@ -216,7 +74,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/walletconnect-product-manager-cloud" align="right" target="_blank">Apply</a>
@@ -274,6 +132,72 @@
 </ul>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/walletconnect-product-manager-cloud">https://weworkremotely.com/remote-jobs/walletconnect-product-manager-cloud</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>A.Team</h5>
+                    <h3> Senior Independent Product Manager/Product Designer ($110-$190/hr)</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>450 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0071/4151/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> NYC, SF, and TLV
+    <br /><strong>URL:</strong> <a href="https://build.a.team/wwrfastrackreferral">https://build.a.team/wwrfastrackreferral</a>
+</p>
+
+<div>
+<a href="https://build.a.team/wwrproductmgrfasttrack">A·Team</a> is a VC-backed, stealth, application-only home on the internet for Senior Product Managers &amp; Product Designers (along with developers &amp; UX/UI folks) to team up with the best companies on their next big thing. <br><br>After talking with hundreds of independent engineers, designers, and product folks, we heard over and over that finding vetted, high-quality, consistent clients is hard, and projects are often too small to be rewarding. A·Team matches small teams of the most talented builders in the world with companies backed by a16z, YC, Softbank, General Catalyst, etc. on a contract basis for many of their most important initiatives. We quietly launched in May 2020, and have helped A·Teamers earn $11.4+ million since.<br><br>As part of A·Team, you can expect:</div><ul>
+<li>
+<strong>High-paying, meaningful client missions (where you'd lead Product) with the most audacious companies</strong> sent your way; generally $110-$190/hr, with vetted, fascinating clients doing work that matters. We're picky about who we partner with; new clients only come in via trusted referral. We've worked with Lyft, McGraw Hill, ClearCo, irl.com, the former CEO of Waze, the leading vaccine production software, several new unicorns we can't say here, and dozens of startups backed by a16z/YC/Softbank/etc.</li>
+<li>
+<strong>Work alongside friends old &amp; new: </strong>our niche is small/diverse product teams, since clients with larger budgets and higher-impact work tell us they want teams, not individuals. Of course, we keep friends together whenever we can.</li>
+<li>
+<strong>Full autonomy:</strong> say "no" to things that don't excite you. The most talented builders often juggle a few things at once, so there's never pressure to join an A·Team mission if you don't have the bandwidth. If we're no longer a fit, it's easy to leave or pause too. </li>
+<li>
+<strong>Small, curated, off-the-record gatherings:</strong> for conversations hard to have elsewhere. Long-term, we're creating micro-communities for the world's top builders to become friends around the things they care about.</li>
+<li>
+<strong>Keep 100% of what you earn: </strong>if you charge $130/hr, you get $130/hr. A·Team makes money by charging a small, flat, transparent platform fee on <em>top</em> of your rate.</li>
+</ul><div>
+<br><strong>How to apply:<br></strong>Go here: <a href="https://build.a.team/wwrproductmgrfasttrack">https://build.a.team/wwrproductmgrfasttrack</a> + mention WWR under how you heard about A·Team. No resume or cover letter needed; we respect your time so the application is short. We're also much more interested in seeing what you've made, and excited to chat more if there’s a fit.<br><strong><br>What you’ll do:</strong>
+</div><ul>
+<li>Once part of A.Team, you’ll regularly be invited to be the lead Product manager/designer for impactful missions that match your interests, which you can accept or decline. Take your pick from early-stage incubations with world-class founders, to fast-growing super-funded companies, to old-school non-tech incumbents looking to build as a tech giant would.</li>
+<li>Missions usually involve building an ambitious piece of software from 0 to 1 as part of a small 3-4 person team. </li>
+<li>You’ll be paid to scope it out, give the client options, guide strategy, and execute on the selected solution. Sometimes the client has a clear vision, sometimes not; which is why A.Team builders tend to be senior folks who can work together to find the right direction. </li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is for:</strong>
+</div><ul>
+<li>Senior Product Managers/Designers who left large companies and high-growth startups to pursue their craft with autonomy.</li>
+<li>Those who prefer consistent contract work over a full-time role, who want to create a variety of new products alongside other top-tier builders.</li>
+<li>The majority of A.Teamers spend most of their time doing independent work, but a sizeable percentage are either employed full-time (but testing out client work), bootstrapping a side project, or looking for their next big thing.</li>
+</ul><div>
+<br><strong>Who A</strong>·<strong>Team is </strong><strong><em>not</em></strong><strong> for:</strong>
+</div><ul>
+<li>People looking for small gigs.</li>
+<li>Folks looking to build simple wordpress/wix/squarespace-style websites.</li>
+<li>Those still early in their careers and recent university/bootcamp grads (at least not yet).</li>
+</ul><div>
+<br><strong>Our long-term vision:<br></strong><a href="https://build.a.team/wwrproductmgrfasttrack"><span>A·Team</span></a> is a new type of company for a new kind of independent software builders. We call them "unhirables": people who traditional companies couldn’t hire full-time even if they wanted to, but who want to do their most meaningful work with their favorite people in small, autonomous, distributed expert teams. </div><div>
+<br>To help us secure amazing missions, we raised $5 million+ (not public, yet) from NFX, Village Global, and Box Group, along with the former CEO of Upwork, the founders of Fiverr and Lemonade, Apple's Global Head of Recruiting, YC Partner Aaron Harris, Wharton's Adam Grant, and Duke's Dan Ariely.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
                 </details>
                 </td>
