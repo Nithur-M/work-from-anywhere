@@ -1,5 +1,29 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/6903e51cd76416010223d6da6560a1fe1675322165.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Lit Protocol</h5>
+                    <h3>Senior Software Engineer Distributed Systems</h3>
+                </td>
+                <td width="300">
+                    <code>software,technical,code,travel,senior,engineer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-distributed-systems-lit-protocol-188217" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><span style="font-size:12pt;">Lit Protocol is a decentralized threshold cryptography network, a key piece of  infrastructure for the emerging decentralized internet known as web3.</span></div><div><br></div><div><span style="font-size:16px;">We're a well funded, curious, and passionate team that values independence, creative problem solving, and empowering everyone with systems that are open, secure, and private. </span></div><div><br></div><div><span style="font-size:12pt;">Today, Lit Protocol is being used by hundreds of applications for decentralized access control. In the future, Lit Protocol will serve as part of the foundation for an internet with private and portable user data.</span></div><div><br></div><div><span style="font-size:12pt;">Lit Protocol is looking for a Senior Software Engineer to join our team whose focus will be on the core Lit Protocol infrastructure.</span></div><div><br></div><div><span style="font-size:12pt;">In this role, you will have ownership over the features you implement, and are expected to think critically about how they should work to align with the vision of the entire product.</span></div><div><br></div><div><b style="font-size:12pt;">Core Qualifications:</b></div><div><span style="font-size:12pt;">&gt; Fluency in Rust</span></div><div><span style="font-size:12pt;">&gt; Understanding of smart contracts</span></div><div><span style="font-size:12pt;">&gt; Logical thinker interested in building high-assurance systems</span></div><div><span style="font-size:12pt;">&gt; Able to accurately predict and ship code in a timely manner</span></div><div><span style="font-size:12pt;">&gt; Proven track record of independently driving projects in a fast-paced environment</span></div><div><span style="font-size:12pt;">&gt; Comfortable giving and receiving constructive feedback</span></div><div><span style="font-size:12pt;">&gt; Excellent written and verbal communication skills on both technical and non-technical issues</span></div><div><br></div><div><b style="font-size:12pt;">Nice to Have:</b></div><div><span style="font-size:12pt;">&gt; Experience writing Rust smart contracts on platforms like Cosmos / Solana</span></div><div><span style="font-size:12pt;">&gt; Experience working as part of a distributed team</span></div><div><span style="font-size:12pt;">&gt; Experience building decentralized systems</span></div><div><span style="font-size:12pt;">&gt; Experience in cryptography</span></div><div><br></div><div><b style="font-size:12pt;">Some of the Perks:</b></div><div><span style="font-size:12pt;">&gt; Autonomy to work on meaningful, impactful, and interesting problems</span></div><div><span style="font-size:12pt;">&gt; Token incentives</span></div><div><span style="font-size:12pt;">&gt; Insurance + allocation for spouse/dependent</span></div><div><span style="font-size:12pt;">&gt; Company event travel stipends (conferences, etc)</span></div><div><span style="font-size:12pt;">&gt; Remote, flexible working schedule to live your decentralized life</span></div><div><span style="font-size:12pt;">&gt; Generous vacation + unlimited sick days</span></div><div><span style="font-size:12pt;">&gt; Company laptop and home office equipment stipend</span></div><div><br></div><div><br></div><br/><br/>Please mention the word **EXCEEDS** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/a74eb10436f2f1f45b0e92e7502c13d21675235747.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +34,7 @@
                     <code>software,design,crypto,ethereum,system,music,code,web,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-smart-contracts-audius-187695" align="right" target="_blank">Apply</a>
@@ -20,7 +44,7 @@
                 <td colspan="3">
                 <details><summary>Description</summary>
                 <div><b>Who are we? </b></div><div>
-<a href="https://audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius</a> is a digital streaming service that connects fans directly with artists and exclusive new music. </div><div><br></div><div>It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence. </div><div><br></div><div>Backed by an all-star team of <a href="https://www.crunchbase.com/organization/audius/company_financials#investors" class="postings-link" rel="noopener noreferrer nofollow">investors</a>, Audius was founded in 2018 and serves over 6 million users every month, making it the largest non-financial crypto application ever built.</div><div><br></div><div><b>Who we are looking for? </b></div><div>We are looking for passionate team-players who will help us architect, build, and ship the most difficult parts of the on-chain entities in the Audius protocol, chiefly in Solana (Rust), where you will bring in and craft new expertise on our team. Audius deploys smart contracts across Ethereum and Solana, and we're looking for proficient systems-programmers with a strong background in low-level languages (ideally Rust) to help us deliver the largest non-financial crypto project to date.</div><div><br></div><div>You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. Youâre eager to problem solve in a wide variety of spaces within the blockchain ecosystem (think scalability, governance, NFTs, social tokens, etc.). We solve a lot of problems that can't be easily Googled or searched on StackOverflow, and you have the fundamentals and drive to self-start and come to original solutions.</div><div><br></div><div><b>Our Company</b></div><div>Audius is a 26-person team of entrepreneurs, engineers, audiophiles, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have a monthly concert credit (COVID-19 permitting).</div><div><br></div><div>Our company is fully remote and our team is currently distributed across the United States. </div><p>Key Responsibilities</p><p></p><li>Write, test, and deploy Solana blockchain (Rust) programs</li><li>Write, test, and deploy Ethereum blockchain (Solidity) smart contracts</li><li>Work closely with other blockchain engineers on the team and own core pieces of contract code that powers the economics, data storage, and transactional logic across Audius</li><li>Participate deeply in design discussions around tokenomics, blockchain interoperability, blockchain scalability, and governance systems</li><p>Skills and Experience</p><p></p><li>Deep experience with systems programming, ideally in Rust</li><li>Experience developing and shipping blockchain smart contracts</li><li>3+ years of experience building in production environments</li><li>Solid conceptual understanding of full stack software development including system architecture, web serving infrastructure, and database design</li><li>Great interpersonal and communication skills, comfort working within a small team, and owning projects</li><p></p><br/><br/>Please mention the word **DESIROUS** and tag RMzQuMjM4LjExNS43MQ== when applying to show you read the job post completely (#RMzQuMjM4LjExNS43MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<a href="https://audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius</a> is a digital streaming service that connects fans directly with artists and exclusive new music. </div><div><br></div><div>It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence. </div><div><br></div><div>Backed by an all-star team of <a href="https://www.crunchbase.com/organization/audius/company_financials#investors" class="postings-link" rel="noopener noreferrer nofollow">investors</a>, Audius was founded in 2018 and serves over 6 million users every month, making it the largest non-financial crypto application ever built.</div><div><br></div><div><b>Who we are looking for? </b></div><div>We are looking for passionate team-players who will help us architect, build, and ship the most difficult parts of the on-chain entities in the Audius protocol, chiefly in Solana (Rust), where you will bring in and craft new expertise on our team. Audius deploys smart contracts across Ethereum and Solana, and we're looking for proficient systems-programmers with a strong background in low-level languages (ideally Rust) to help us deliver the largest non-financial crypto project to date.</div><div><br></div><div>You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. Youâre eager to problem solve in a wide variety of spaces within the blockchain ecosystem (think scalability, governance, NFTs, social tokens, etc.). We solve a lot of problems that can't be easily Googled or searched on StackOverflow, and you have the fundamentals and drive to self-start and come to original solutions.</div><div><br></div><div><b>Our Company</b></div><div>Audius is a 26-person team of entrepreneurs, engineers, audiophiles, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have a monthly concert credit (COVID-19 permitting).</div><div><br></div><div>Our company is fully remote and our team is currently distributed across the United States. </div><p>Key Responsibilities</p><p></p><li>Write, test, and deploy Solana blockchain (Rust) programs</li><li>Write, test, and deploy Ethereum blockchain (Solidity) smart contracts</li><li>Work closely with other blockchain engineers on the team and own core pieces of contract code that powers the economics, data storage, and transactional logic across Audius</li><li>Participate deeply in design discussions around tokenomics, blockchain interoperability, blockchain scalability, and governance systems</li><p>Skills and Experience</p><p></p><li>Deep experience with systems programming, ideally in Rust</li><li>Experience developing and shipping blockchain smart contracts</li><li>3+ years of experience building in production environments</li><li>Solid conceptual understanding of full stack software development including system architecture, web serving infrastructure, and database design</li><li>Great interpersonal and communication skills, comfort working within a small team, and owning projects</li><p></p><br/><br/>Please mention the word **DESIROUS** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -35,7 +59,7 @@
                     <code>software,crypto,haskell,engineer,full-time</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-haskell-software-engineer-kadena-187689" align="right" target="_blank">Apply</a>
@@ -62,124 +86,7 @@
 <li>Home office setup stipend</li>
 </ul>
 <p>Kadena requires all employees to be fully vaccinated against COVID-19 as a condition of employment. Kadena considers requests for reasonable accommodations for medical or religious reasons pursuant to applicable law.</p>
-</div><br/><br/>Please mention the word **ENGROSSING** and tag RMzQuMjM4LjExNS43MQ== when applying to show you read the job post completely (#RMzQuMjM4LjExNS43MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/f48cf2f4b70262a57cc8677cbb911cb71674976545.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Paradigm</h5>
-                    <h3>Software Engineer Customer Support</h3>
-                </td>
-                <td width="300">
-                    <code>software,defi,crypto,technical,support,web,financial,finance,api,mobile,sales,engineer,engineering</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-customer-support-paradigm-186208" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro">
-<p><span style="font-weight:400;">At Paradigm, we are changing the future of finance! By joining us at this early stage, youâll be building cutting-edge, distributed financial service infrastructure that will reshape financial services across CeFi and DeFi markets.Â </span></p>
-<p><strong>About Paradigm</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Paradigm is a zero-fee, institutional liquidity network for derivatives traders across CeFi and DeFi.Â </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">We provide unified access to multi-asset, multi-protocol liquidity on demand without compromising on execution preferences, costs, and immediacy.Â </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Weâve built the largest network of institutional counterparties in crypto, with over 1000 institutional clients trading over $10 B per month.</span></li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">We are a diverse, global team led by our </span><a href="https://www.paradigm.co/company#principles" rel="noopener noreferrer nofollow"><span style="font-weight:400;">organizational principles</span></a><span style="font-weight:400;"> and united by our mission to bring on-demand liquidity for traders, anytime and anywhere, without compromises. We also strive to ship faster than anyone else in the industry!</span>
-</li>
-<li style="font-weight:400;"><span style="font-weight:400;">We are backed by the best traders and investors in the space, including Jump Capital, Dragonfly Capital, Digital Currency Group, Genesis Trading, QCP Capital, Optiver US, IMC, GSR Markets, Akuna Capital, Fidelity Digital Assets CMT Digital, Goldentree Asset Management, Amber Group, OK Group, Bybit Fintech, and CoinShares.</span></li>
-</ul>
-</div><p><strong>The role:</strong></p>
-<p><span style="font-weight:400;">We seek an energetic, can-do engineer who understands happy customers are the key to our long-term success. While using your engineering knowledge to design, build, and implement unique solutions, you will also be responsible for providing product support, general or technical, with a focus on our APIs as well as Web and Mobile applications. Given this role is both technical and client facing, you should be interested in Crypto and Finance and be comfortable working with institutional clients. This is an opportunity to work on solving some of the hardest problems in the space.</span></p>
-<p><span style="font-weight:400;">Responsibilities may also include creation of technical notes, support videos, and product FAQ's.</span></p>
-<p><strong>Responsibilities:</strong></p>
-<p><span style="font-weight:400;">Primary point of contact for API for top clients<br></span><span style="font-weight:400;">Analytics/KPIs for the Product team to measure product success<br></span><span style="font-weight:400;">Automation tools for Product and Sales teams<br></span><span style="font-weight:400;">Support onboarding and implementation for new clients<br></span><span style="font-weight:400;">Coordinate with client to perform root cause analysis and debugging, resolving technical issues<br></span><span style="font-weight:400;">Recommend and contribute to solutions that ensure product meets client business needs</span></p>
-<p><strong>Requirements:</strong></p>
-<p><span style="font-weight:400;">5+ yearsâ experience with one or more of the following: REST and Websocket APIs, Python, React<br></span><span style="font-weight:400;">Excellent written and verbal English skills<br></span><span style="font-weight:400;">Ability to work independently (we do not believe in micromanagement)<br></span><span style="font-weight:400;">Enthusiastic, self-motivated with passion for the success of the customer and proven capability to develop key relationships<br></span><span style="font-weight:400;">Demonstrated experience in a customer/client facing role<br></span><span style="font-weight:400;">Tangible API Integration and Support experience<br></span><span style="font-weight:400;">BS in Computer Science, Engineering or relevant experience</span></p>
-<p><strong>Nice to have:</strong></p>
-<p><span style="font-weight:400;">Experience supporting business critical applications<br></span><span style="font-weight:400;">Comfortable using GIT<br></span><span style="font-weight:400;">Familiar with Crypto Exchange APIs<br></span><span style="font-weight:400;">Experience in Crypto trading and or derivatives<br></span><span style="font-weight:400;">Experience working with Trading platforms</span></p><div class="content-conclusion">
-<div>
-<p><strong>Our Benefits and Perks</strong></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Competitive pay and transparent pay bands</span></li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Flexible work environment</span><ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Unlimited vacation with a minimum required PTO of 10 days annually.</span></li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Celebrate your national holidays, </span><span style="text-decoration:underline;"><span style="font-weight:400;">in addition</span></span><span style="font-weight:400;"> to floating holidays, to honor what matters to you, not HQ.</span>
-</li>
-</ul>
-</li>
-
-<li style="font-weight:400;">
-<span style="font-weight:400;">Full benefits (benefits </span><span style="font-weight:400;">vary by country)</span><ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Medical, dental, vision</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Health Flexible Savings Account (FSA)</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Long Term Disability and Life Insurance</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Retirement savings (i.e. Traditional and Roth 401(k))</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Paid Parental Leave</span></li>
-</ul>
-</li>
-
-<li style="font-weight:400;">
-<span style="font-weight:400;">Generous technology and learning allowances</span><ul>
-<li style="font-weight:400;"><span style="font-weight:400;">$5000 first-year budget to spend on your computer, peripherals, office essentials...whatever makes you most efficient and comfortable. You'll receive a $2000 refresh each anniversary.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">$1000 budget to spend on learning and development materials, courses or conferences.</span></li>
-</ul>
-</li>
-
-</ul>
-<br>
-<p><em><span style="font-weight:400;">Paradigm US is an equal opportunity employer.</span></em></p>
-</div>
-<div>Â </div>
-<div>#LI-Remote</div>
-</div><br/><br/>Please mention the word **TEMPTING** and tag RMzQuMjM4LjExNS43MQ== when applying to show you read the job post completely (#RMzQuMjM4LjExNS43MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/b8432c8cd493aaec0ea4df428ca9de2f1674890175.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>bloXroute Labs</h5>
-                    <h3>Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>software,defi,crypto,testing,code,leader,reliability,go,healthcare,engineer,engineering,backend</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-bloxroute-labs-185712" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size:18px;">ABOUT BLOXROUTE </b></div><div><br></div><div>bloXroute is the "Flash Boys" for DeFi. It created the first and only high performance blockchain distribution network (BDN) with the best solution for Ethereum, BSC, and Polygon. The bloXroute BDN and DeFi trading tools allow its users to win at crypto trading. The BDN utilizes a global network of servers optimized for network performance.  Nodes access this network through open source gateways and users can access it through the bloXroute public-API. </div><div><br></div><div>The BDN network propagates blockchain transactions and blocks closer to the speed of light. It provides traders with the speed and reliability required for crypto transactions. bloXroute is the leader in mempool services, block streaming and anything Defi performance. The BDN also allow blockchains to scale by speeding the time it takes to communicate the current state. The BDN fast communication reduce the blocksâ size and frequency limits. This is true for all consensus mechanisms, including Proof of Stake, Proof of Work, and DAGs.</div><div><br></div><div>We encourage you to apply even if you don't match all of the qualifications listed. </div><p></p><h4>Responsibilities </h4><p></p><p></p><ul>
-<li>Improve (suggest and implement) the speed of the BDN (Blockchain Distribution Network) based on the blockchain protocol, network and consensus model </li>
-<li>Create offerings that leverage the speed of the data that passes through the blockchain distribution network </li>
-<li>Integrate our core systems with other blockchains such as Ethereum, Binance Smart Chain, Polygon, Solana and other future blockchains on the roadmap </li>
-<div><br></div>
-</ul><p></p><h4>Requirements </h4><p></p><p></p><ul>
-<li>At least 5 years of experience with designing, building, testing and implementing highly scalable and distributed backend systems </li>
-<li>3+ years experience in Blockchain </li>
-<li>2+ years experience in Blockchain propagation, consensus (one of the following networks: Ethereum, Binance Smart Chain, Polygon and Solana) </li>
-<li>Expertise using Go language </li>
-<li>Creative, independent, can do attitude, and a great team player </li>
-<li>Ability to read, modify blockchain core code (geth, bor, prysm, ...)</li>
-</ul><div><b style="font-size:18px;">BENEFITS </b></div><div><br></div><div>bloXroute Labs offers competitive salaries, stock options, company paid healthcare benefits, 401k, unlimited PTO, remote work option and more. The benefits may vary based on global locations. We built a highly skilled team of business and engineering minds who are working on complex and innovative projects.</div><br/><br/>Please mention the word **LUSH** and tag RMzQuMjM4LjExNS43MQ== when applying to show you read the job post completely (#RMzQuMjM4LjExNS43MQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **ENGROSSING** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -194,7 +101,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
@@ -250,7 +157,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/prospect-javascript-react-software-engineer-1" align="right" target="_blank">Apply</a>
@@ -351,7 +258,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -413,7 +320,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>27 days ago</text>
+                <text>28 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
