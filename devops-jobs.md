@@ -1,5 +1,83 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/4d894df41ca2dd60f79da6140cc451481675408528.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Yuga Labs</h5>
+                    <h3>DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>web3,crypto,nft,system,security,game,gaming,software,growth,devops,operations,engineer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-devops-engineer-yuga-labs-188703" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro">
+<p><span style="font-weight:400;">Yuga Labs is a web3 company exploring big ideas in identity, ownership, utility, and interoperability to push the crypto and NFT space forward. As The Defiant recently said, "The story of Yuga Labs is one where the improbable has become reality in the blink of an eye." Since debuting with our flagship collection Bored Ape Yacht Club in April 2021, weâve created new IP for the ape ecosystem (Mutant Ape Yacht Club, Bored Ape Kennel Club), acquired other top collections (CryptoPunks and Meebits), and pulled off successful events (ApeFest) and partnerships (Rolling Stone). And we made both web3 and gaming history â the biggest NFT mint ever followed by a game demo with record-breaking synchronized player participation â  for our newest initiative, Otherside.</span></p>
+<p>See you on the other side ð«¡</p>
+<p><iframe style="width:443px;height:250px;" src="https://www.youtube.com/embed/qt1equGhkQE" width="443" height="250"></iframe></p>
+</div><p><strong>Our Team</strong><br>Our team's goal is to set a new standard for how we build, deploy, and maintain software. We work hand in hand with the development, IT, and security teams to make building world class software easier and more enjoyable.</p>
+<p>We create an environment where best practices and boilerplate come for free. Security, safety, and privacy are principles we believe in and they should be in every piece of software that we produce by default. It should be easy for our teams to build, test, and get/provide feedback at any point in the development lifecycle. Monitoring, logging, and instrumentation should be simple for our team to implement and consume.<br> <br>In short, we let our developers, designers, product managers, and artists focus on the creative and inventive parts of building by providing robust and invisible infrastructure that makes great software the default outcome.<br>We have tons to do, building the future of web3, and we need help maturing our tech stack, work flows, security practices, and operations to meet our rapid growth.</p>
+<p>Our team is made up of hackers, detectives, tinkerers, and builders that are laying the foundation that will sit beneath every piece of software we create; weâd love to have you join us! </p>
+<p><br><strong>Who Weâre Looking For...</strong></p>
+<ul>
+<li>You work well on a distributed team and are self-motivated.</li>
+<li>You seek to understand problems holistically before trying to solve them.</li>
+<li>You have a bias towards action and an eye for detail.</li>
+<li>You have a broad base of knowledge about the different tools, services, and practices that are available and can evaluate when they are applicable to different problems.</li>
+<li>You are a capable communicator, written and verbal.</li>
+<li>You take pride in the quality of your work.</li>
+</ul>
+<p><br><strong>Required Skills:</strong></p>
+<ul>
+<li>4+ Years Development Experience</li>
+<li>Proficient in at least one scripting language - Python/Ruby/Bash/etcâ¦</li>
+<li>AWS - ECS, Cloudfront, Lambda, EC2, S3, IAM, ECS, RDS, etcâ¦</li>
+<li>Cloudflare</li>
+<li>Docker</li>
+<li>PostgreSQL</li>
+<li>Linux System Administration</li>
+<li>Basic Cybersecurity Knowledge</li>
+<li>Zero Trust Concepts</li>
+<li>Experience with the deployment and operation of CI/CD pipelines</li>
+<li>Git </li>
+</ul>
+<p><strong>Bonus Skills:</strong></p>
+<ul>
+<li>Code analysis tools SAST/DAST (DevSecOps interest).</li>
+<li>Deployment with NextJS applications</li>
+<li>Pulumi</li>
+<li>Terraform</li>
+<li>K8S</li>
+</ul>
+<p><span style="font-weight:400;">The annual salary for this position ranges from $155,000 to $200,000. The actual annual salary paid for this position will be based on several factors, including but not limited to, skills, prior experiences, training, company needs, and current market demands.  The annual salary range for this position is subject to change and may be adjusted in the future. This position may also be eligible for salary increases, bonuses, equity awards, and benefits.</span></p><div class="content-conclusion">
+<p><strong>What We Offer</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Working with the best-in-class talent creating innovative technologies and bringing the forefront of culture to web3</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Exposure to innovative technologies in cryptocurrency, blockchain technology, and game development</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Collaboration with blue chip projects and AAA studios and partners </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Great internal growth and development</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">100% remote </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Competitive compensation, benefits, and perks</span></li>
+</ul>
+<p class="c-mrkdwn__quote"><strong><br>Apply anyway.<br></strong>We believe true innovation in web3 requires diversity in perspectives, experiences, and backgrounds. But historically marginalized groups are underrepresented in the space, not just as participants but as leaders and creators. Luckily, we â and every web3 company â have the opportunity to bake necessary process and mindset shifts into our company DNA from the early days.</p>
+<p class="c-mrkdwn__quote">To help build a web3 thatâs diverse and inclusive, we strive to build Yugaâs workplace to be diverse and inclusive. Not just how we do things day to day, but who does them and who decides what needs to be done.</p>
+<p class="c-mrkdwn__quote">So if youâre excited about one of our roles but your resume doesnât align perfectly with the job description, please apply anyway. If youâre enthusiastic about web3 but come from an industry you think is unrelated, apply anyway. If youâre a great thinker and doer, apply anyway. The fate of web3 kiiinda depends on it.</p>
+<p class="c-mrkdwn__quote"><strong><br>Life at Yuga Labs <br></strong><span style="font-weight:400;">At Yuga Labs, being an Equal Opportunity Employer means more than upholding discrimination-free hiring practices. It means that we cultivate an environment where people can be their most authentic selves and find both belonging and support. We're shaping the future of identity, community, and technologyâan experience made whole by our unique backgrounds and perspectives.</span></p>
+<p><span style="font-weight:400;">As a remote-first company, we encourage our employees to care for their whole selves through comprehensive medical benefits, generous paid-time off, paid parental leave, retirement plans, company social events, wellness programs, and volunteer opportunities.</span></p>
+<p><strong><br>Reasonable Accommodation<br></strong><span style="font-weight:400;">Yuga Labs applicants are considered solely based on their qualifications, without regard to applicant's disability or need for accommodation. Any Yuga Labs applicant who requires reasonable accommodations during the application process should contact the Yuga Labs Benefits Team (accommodations@yugalabs.com) to make the need for an accommodation known.</span></p>
+</div><br/><br/>Please mention the word **BETTER** and tag RMzQuMTUwLjEzMS4xODI= when applying to show you read the job post completely (#RMzQuMTUwLjEzMS4xODI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/9171/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +88,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sportybet-devops-engineer" align="right" target="_blank">Apply</a>
@@ -76,7 +154,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/intellum-systems-engineer-devops-3" align="right" target="_blank">Apply</a>
