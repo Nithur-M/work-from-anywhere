@@ -10,7 +10,7 @@
                     <code>design,web3,defi,solidity,crypto,graphql,front-end,security,support,developer,software,testing,code,web,devops,finance,serverless,management,senior,operations,reliability,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-back-end-engineer-meanfi-187707" align="right" target="_blank">Apply</a>
@@ -59,98 +59,7 @@
         <li>Working in a disruptive and fast-growing industry where the possibilities are endless</li>
         <li>Freedom, autonomy and responsibility - no micromanaging, looking for proactive and independent individuals that achieve results</li>
         <li>A true meritocracy, flat organizational structure with rapid upwards mobility based on performance</li>
-</ul><br/><br/>Please mention the word **LIKED** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Merchstack</h5>
-                    <h3> Senior Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>35 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/merchstack-senior-backend-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Houston, TX
-    <br /><strong>URL:</strong> <a href="https://merchstack.io">https://merchstack.io</a>
-</p>
-
-<div>
-<br>Merchstack is looking for an experienced backend engineer to help architect, build, and evolve our SaaS product on the backend. We’re seeking engineers who think about UI/UX in terms of systems, reuse, flexibility, and performance.<br><br>
-</div><div>
-<br>To succeed in this role, you will need a breadth of experience working in modelling data structures for data-rich applications, a passion for object-oriented design patterns and an unparalleled ability to think about individual work items, holistically across the design of the entire application.<br><br>We are looking for candidates in the UK/EU, India or Africa. All candidates MUST be able to overlap most of your day with leadership in the UK.<br><br>Salary Range: $60 - $80k<br><br>
-</div><div>
-<strong><br>What you’ll do<br></strong><br>
-</div><ul>
-<li>Design and implement new GraphQL queries and mutations to either meet customer demand or UI/UX requirements.</li>
-<li>Contribute to the overall stability and performance of our application.</li>
-<li>Optimize our application for maximum speed and scalability.</li>
-<li>Build new data providers for Merchstack in the form of composable plugins.</li>
-<li>Take ownership of dependencies in our code base i.e. ensuring that we are reasonably patched.</li>
-<li>Work with the VP of Engineering to plan out new prospective pieces of work ahead of time, such as architectural design and infrastructure requirements.</li>
-<li>Work with DevOps / DBA functions to ensure that new and existing features are being backed and observed by appropriate hardware/infrastructure.</li>
-</ul><div>
-<strong><br>The Stack<br></strong><br>
-</div><ul>
-<li>Typescript, NestJS</li>
-<li>SQL / TypeORM</li>
-<li>Apollo GraphQL</li>
-<li>ElasticSearch</li>
-<li>Redis</li>
-<li>AWS / Elastic Kubernetes Service</li>
-</ul><div>
-<strong><br>What we look for<br></strong><br>
-</div><ul>
-<li>4+ years building object-oriented data-driven applications at scale.</li>
-<li>Confident in leveraging relational data sources at scale, this includes but is not limited to a deep understanding of data cardinality, data structures and efficient client-side memory management for large datasets and fast-moving dimensions.</li>
-<li>Experience leveraging IoC containers for dependency injection, with a full understanding of the 3 main dependency injection lifecycles.</li>
-<li>Advanced Typescript knowledge and desire to use more advanced Typescript concepts to reduce boiler-plate.</li>
-<li>Will not write O(n!) code.</li>
-<li>Good understanding of Internet protocols: TCP/IP, HTTP, WebSocket and demonstratable web performance tuning skills</li>
-<li>Knowledge of the software development lifecycle (version control, tooling, testing, etc.)</li>
-<li>An active Github account, showcasing your own projects</li>
-<li>Deep experience leveraging ORMs for data modelling and data access concerns. Should understand both the pros and cons of using an ORM vs. raw queries.</li>
-<li>Has worked with one or all of the following: NestJS, TypeORM, Apollo GraphQL</li>
-</ul><div>
-<strong><br>Bonus points<br></strong><br>
-</div><ul>
-<li>Any experience in another exclusively OOP C-like language, for instance: C# or Java.</li>
-<li>Elasticsearch</li>
-<li>Functional understanding of service-based architecture.</li>
-<li>Packaging container-based applications with an emphasis on small footprints.</li>
-</ul><div>
-<strong><br>About you<br></strong><br>
-</div><ul>
-<li>You are detail-oriented and focus on delivering seamless, reliable experiences.</li>
-<li>You care about code quality and are committed to writing strongly typed, well-tested code.</li>
-<li>You are intrinsically motivated, able to manage your time, and enjoy working with a distributed team across the globe.</li>
-<li>You believe in asking for help and helping others when they ask, never throwing a problem over the wall</li>
-<li>You approach problems with curiosity, creativity, and flexibility.</li>
-<li>You strive to foster relationships in order to ensure healthy debate.</li>
-<li>You show gratitude and give back.</li>
-</ul><div>
-<strong><br>About Merchstack<br></strong><br>
-</div><div>
-<br>Merchstack partners with companies on their journey to build, launch, and scale modern eCommerce stores. We work with market-leading technologies and our own internal products to help our customers achieve ambitious digital experiences and unlock new growth opportunities. We are a remote-only company with employees all over the world, including the Philippines, the United States, Canada, Spain, and the United Kingdom. We are a small team with big ambitions and value people who are driven towards delivery and thrive on autonomy and trust.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/merchstack-senior-backend-engineer">https://weworkremotely.com/remote-jobs/merchstack-senior-backend-engineer</a></p>
-
+</ul><br/><br/>Please mention the word **LIKED** and tag RMzQuMTUwLjEzMS4xODI= when applying to show you read the job post completely (#RMzQuMTUwLjEzMS4xODI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -165,7 +74,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>93 days ago</text>
+                <text>94 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer" align="right" target="_blank">Apply</a>
