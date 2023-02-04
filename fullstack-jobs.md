@@ -10,7 +10,7 @@
                     <code>defi,solidity,cryptocurrency,ethereum,technical,developer,growth,web,js,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-engineer-boson-protocol-188215" align="right" target="_blank">Apply</a>
@@ -90,7 +90,7 @@
 <strong>Stay lean:</strong><span> Our ethos is to create and share value equitably, with minimal value extraction.</span>
 </li>
 </ul>
-<p>Â </p><br/><br/>Please mention the word **UNFETTERED** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>Â </p><br/><br/>Please mention the word **UNFETTERED** and tag RMzQuMTUwLjEzMS4xODI= when applying to show you read the job post completely (#RMzQuMTUwLjEzMS4xODI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
