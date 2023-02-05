@@ -10,7 +10,7 @@
                     <code>design,web3,defi,solidity,crypto,graphql,front-end,security,support,developer,software,testing,code,web,devops,finance,serverless,management,senior,operations,reliability,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-back-end-engineer-meanfi-187707" align="right" target="_blank">Apply</a>
@@ -59,7 +59,7 @@
         <li>Working in a disruptive and fast-growing industry where the possibilities are endless</li>
         <li>Freedom, autonomy and responsibility - no micromanaging, looking for proactive and independent individuals that achieve results</li>
         <li>A true meritocracy, flat organizational structure with rapid upwards mobility based on performance</li>
-</ul><br/><br/>Please mention the word **LIKED** and tag RMzQuMTUwLjEzMS4xODI= when applying to show you read the job post completely (#RMzQuMTUwLjEzMS4xODI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **LIKED** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -74,7 +74,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>94 days ago</text>
+                <text>95 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer" align="right" target="_blank">Apply</a>
@@ -127,6 +127,88 @@
 </ul><div><br></div><div>If you are passionate about this work but do not have all of the skills listed we are still interested in hearing from you! </div><div><br></div><div><strong>Pay and benefits</strong></div><div>Our pay levels are set according to a formula that combines above-median market rate data for the role (we pay 55th percentile of New York market rate for this role, based on <a href="https://www.payscale.com/">Payscale</a> data) adjusted for your local cost of living based on <a href="https://www.numbeo.com/cost-of-living/rankings_current.jsp">Numbeo</a> data.</div><div> </div><div>We take the issue of equitable pay very seriously, and we apply our pay formula to all workers who work 80% or more of full time hours with us.</div><div><br></div><div><strong>Diversity and inclusion</strong></div><div>We care about diversity - we strive to ensure all of our team feel included and can bring their whole selves to work but we also know that this work is never ‘done’ or complete, and that we can always improve.</div><div><br></div><div>Our team is fully remote, living and working across 20 countries across the world, and we’d love to hear how you can add to our special culture at MFI.</div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer">https://weworkremotely.com/remote-jobs/maharishi-foundation-international-backend-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>AgencyAnalytics</h5>
+                    <h3> Senior Backend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>450 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Toronto, Canada
+    <br /><strong>URL:</strong> <a href="https://agencyanalytics.com">https://agencyanalytics.com</a>
+</p>
+
+<div>We’re seeking a Senior Backend Engineer to work in our product-driven or platform teams, focused on building features that help our customers grow their business.<br><br>As part of AgencyAnalytics, you'll be developing and operating a range of backend functions and tools that enable the features our users love. Together with the team, you'll work remotely to implement architectural changes, drive platform stability, research new technologies and continuously advocate for the use of best practices. You'll frequently work with other engineering teams to deliver incremental product improvements and new features<br><br>
+</div><div>
+<br><strong>What You'll Work With</strong><br><br>
+</div><ul>
+<li>PHP (PSR) + Slim + Microservice Framework</li>
+<li>BigQuery ML (Arima Time Series Model)</li>
+<li>Serverless Cloud Functions + GraphQL</li>
+<li>GCP Infrastructure (GKE, BigQuery, Cloud Tasks, PubSub etc.)</li>
+<li>Non-blocking CI/CD tooling with on-demand staging for every PR</li>
+</ul><div>
+<br><strong>Key Responsibilities</strong><br><br>
+</div><ul>
+<li>You'll design, develop and iterate on backend PHP services that handle millions of requests</li>
+<li>You'll work with your frontend engineering peers, product and design members to create high quality products our customers love to use</li>
+<li>You'll prioritize and work on multiple projects from start to finish, balancing quality, stability and project delivery</li>
+<li>You'll review your teammates' work, advocate for high standards, and look for ways to improve the overall quality of our codebase</li>
+<li>You'll work within your team to achieve technical excellence by taking a collaborative approach to architecture, technical patterns, and complex problems</li>
+<li>You'll work with infrastructure engineers to collaboratively plan and maintain tools that underpin our developer experience</li>
+</ul><div>
+<br><strong>Job requirements<br></strong><br>
+</div><ul>
+<li>You have several years of professional experience with PHP 7+ and the modern PHP ecosystem, using frameworks such as Laravel and Phalcon</li>
+<li>You have at least 5+ years of total experience with PHP</li>
+<li>You have experience with modern cloud storage solutions such as BigQuery</li>
+<li>You have professional experience working in a cross-functional team of 5+ members</li>
+<li>You have the ability to communicate effectively with other engineers, while building trust, credibility, and mutual success with your peers</li>
+<li>You have a strong understanding of the challenges of working in engineering and delivering products in a remote work environment</li>
+<li>You have the drive to stay current with technological changes and set a high standard for yourself</li>
+<li>You proactively take on a challenge and help the team solve problems from start to finish</li>
+</ul><div>
+<br><strong>Job Benefits</strong><br><br>
+</div><ul>
+<li>Fully remote workplace</li>
+<li>Flexible working hours</li>
+<li>4 weeks paid vacation</li>
+<li>Unlimited paid sick days</li>
+<li>Quarterly profit sharing</li>
+<li>Parental &amp; Maternity leave top-ups</li>
+<li>Extended health benefits</li>
+<li>Health spend account</li>
+<li>Equipment credit</li>
+<li>Fitness/Education credit</li>
+<li>Internet reimbursement</li>
+<li>Training and certification reimbursement</li>
+<li>Travel reimbursement for company events</li>
+</ul><div>
+<br><strong>Our Application Process</strong><br><br>
+</div><div>1. Complete a self-assessment (5 - 10 minutes)<br>2. Non-technical introduction interview (15 - 30 minutes)<br>3. Take-home engineering challenge<br>4. Interview with the Hiring Committee (30 - 45 minutes)<br>5. Offer extended to successful applicants<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer">https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer</a></p>
 
                 </details>
                 </td>
