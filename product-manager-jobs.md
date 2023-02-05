@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-product-manager-technical-2" align="right" target="_blank">Apply</a>
@@ -74,7 +74,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/walletconnect-product-manager-cloud" align="right" target="_blank">Apply</a>
@@ -147,7 +147,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>451 days ago</text>
+                <text>452 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -199,6 +199,230 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1556173/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Joinforage</h5>
+                    <h3>Product Manager, New Verticals</h3>
+                </td>
+                <td width="300">
+                    <code>marketing,product manager,recruiter,growth</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-new-verticals-1556173" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="h2">About Us:</div>
+<p style="min-height: 1.5em;">Forage is a mission-driven payments company helping merchants accept EBT/SNAP payments online and enabling 42 million Americans to spend their food benefits on the internet. 1 in 8 Americans rely on SNAP assistance, and less than 0.05% of grocers currently accept EBT online. </p>
+<p style="min-height: 1.5em;">In Aug. 2022 Forage received Series A funding of $22 million. As of the beginning of 2023 we have a strong team of 25 individuals with a remote-first mindset and  team members spread across North America. We look forward to strategic growth in 2023 and beyond, come Forage with us!</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Who we’re looking for</strong></p>
+<p style="min-height: 1.5em;">We are looking for a passionate Product Manager to explore and build new verticals at Forage. This is a critical role where you would drive product strategy and execution in a highly complex and regulated space. </p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>At Forage, you’ll have the opportunity to</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Make an impact by helping people with low to no income get access to basic needs</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Own product strategy from ideation to launch and beyond</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Work in a remote-first fun environment with talented people</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Key responsibilities</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Conduct market research to understand opportunity and competitive landscape</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Work with payments and government industry leaders to assess potential licensing and partnerships</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Lead product strategy and get buy-in from internal and external stakeholders</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Define the product roadmap and prioritize what we need to build now versus later</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Write and refine thorough technical product requirements</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Build pilots for early-stage products with long-term platform thinking</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Work closely with merchants, operations, and marketing to launch</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Define and measure metrics, incorporate learnings into future product development</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Preferred qualifications</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">4+ years of experience leading product from discovery to launch</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Familiarity with financial products</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience building new product verticals into business lines</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Ability to see the big picture to form long-term product strategy</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Ability to create and develop external partnerships</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Track record of executing large-scale launches that grow</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Our Offer</strong></p>
+<p style="min-height: 1.5em;">As of 12/19/22, if we hire you in San Francisco, your base salary would fall within the bands below. Please keep in mind that the equity portion of your offer is <em>not</em> included in these numbers and represents a significant part of your total compensation.</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Base Compensation:</p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Senior Product Manager I: $129,000 - $160,000 base</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Senior Product Manager II: $140,000 - $185,000 base</p>
+</li>
+</ul>
+</li>
+</ul>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Meaningful work that makes a positive impact on our society.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Competitive compensation: salary, equity, and benefits.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">A remote-first work environment with opportunity for onsite meetings.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">A fun and caring environment that prioritizes transparency, growth, and ownership.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">A talented, diverse, high-achieving, and humble team with diverse backgrounds and viewpoints.</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">We aim to review every application within 72 hours of submission and provide feedback on each of your interviews within 48 hours of completion. If you don't hear from us, please reach out to your recruiter or careers@joinforage.com directly to get an update on your candidacy.</p>
+<img src="https://remotive.com/job/track/1556173/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1563009/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>GravityClimate</h5>
+                    <h3>Product Manager (Senior+)</h3>
+                </td>
+                <td width="300">
+                    <code>api,marketing,product manager,sales</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/product/product-manager-senior-1563009" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">Who We Are</p>
+<p style="min-height: 1.5em;">Gravity Climate is a venture-backed startup that helps industrial businesses and their supply chain partners manage and reduce their carbon footprint. We’re building a software platform that makes it easy and cost-effective for companies to measure their emissions, decarbonize their operations, and promote their sustainability efforts. Together with our customers, our mission is to rapidly accelerate industrial decarbonization. Visit our <a href="https://www.gravityclimate.com/team" rel="nofollow" target="_blank">team page</a> for more about our company and values.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">The Opportunity</p>
+<p style="min-height: 1.5em;">You will be an early member of a rapidly growing product team, with ownership over more than a roadmap. This role will likely be player/coach, split between individual contributorship and helping hire and mentor a growing product and engineering organization. Working closely with Engineering, Science, and Marketing teams, you will own the roadmap for new product offerings. You’ll speak frequently with customers at all stages of their sustainability journeys to shape solutions that address their immediate environmental needs while anticipating broader functionalities in this rapidly evolving market. As an early member of the team, you will play a transformational role in our company culture while spearheading the product roadmap Gravity follows for years to come.</p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">This role is for Senior Product Managers and up, with no cap on seniority.</p>
+<p> </p>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Qualifications &amp; Skills</strong></p>
+<p> </p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Historical B2B product experience.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Excellent presentation and communication skills.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Technical aptitude to enable collaboration with engineering.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Revenue-oriented experience and ability to work alongside sales to understand and sell into customers' operational leaders' needs.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Autonomy; comfort working in semi-structured environments.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Ability to work cross-functionally and contribute to the overall development of a rapidly scaling company.</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Nice to Have</strong></p>
+<p> </p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Historical experience mentoring and growing a product team.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Comfort managing API product development.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience working in sustainability or ESG.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Knowledge of industrial customers' systems, emissions profiles, and/or business needs.</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Gravity provides</strong></p>
+<p> </p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Foundational impact at a company transforming industrial sustainability.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Competitive salary.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Outstanding health, vision, dental, and life insurance.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Meaningful equity.</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Unlimited PTO.</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;">Thank you for your interest in Gravity!</p>
+<p> </p>
+<img src="https://remotive.com/job/track/1563009/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
