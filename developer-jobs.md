@@ -1,5 +1,83 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/0c89cd9a7f1073fa3097323b0d4a707d1675494972.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Enya</h5>
+                    <h3>Senior Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,design,crypto,nft,cryptocurrency,ethereum,python,designer,support,ui,code,web,javascript,cloud,senior,golang,engineer,engineering,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-full-stack-developer-enya-189210" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>Enya, as a core contributor to Boba Network is seeking a Full Stack Web Engineer that will be responsible for helping build our products end-to end, from customer insights through deployment. We're looking for someone who can understand our users (dApp developers and crypto consumers) and design products & systems to best serve their needs. This person will work with UI and graphic designers to bring a vision to life, while also contextualizing the engineering constraints of the product. In addition to being a part of the UI/UX design process, this role will execute on bringing their vision to life. This includes coding the front end of the product, while working with the rest of the engineering team to ensure that the designs fit with the technology of the back end.</div><p></p><h4>Responsibilities:</h4><p></p><p></p><ul>
+<li>Understand the needs of users of Enya's products</li>
+<li>Collaborate with internal and external partners to design the UI/UX of new products, as well as improvements to existing products</li>
+<li>Execute on designs, building out the front and back end of new products</li>
+<li>Develop the web infrastructure to support an expanding suite of products and offerings</li>
+</ul><p></p><h4>Requirements:</h4><p></p><p></p><ul>
+<li>Demonstrated experience building products from the ground up, including design, implementation, and maintenance.</li>
+<li>Must have experience with libraries web3.js/ethers.js and Ethereum nodes</li>
+<li>The ideal candidate will have familiarity with cryptocurrency or decentralized applications, and has been an experienced user or designer of products in the crypto ecosystem.</li>
+<li>Expertise in Javascript/Typescript and using modern Javascript frameworks - Vue, React/Redux</li>
+<li>Expertise in working with backend stacks including NodeJs</li>
+<li>Experience with Golang (and/or Python is a plus) is preferred</li>
+<li>Familiarity with cloud services (AWS, GCP)</li>
+<div><br></div>
+</ul><div><span style="font-size:18px;">About Enya</span></div><div><br></div><div><span style="font-size:11pt;">Enya Labs is a contributor to the Boba Network, a multichain Layer 2 that reduces the barriers of adoption for users and developers. We are empowering Gaming, DeFi, and NFT projects to scale more cost-effectively while delivering a smoother user experience. Boba's Hybrid Compute technology enables developers across the blockchain ecosystem to build dApps that invoke code executed on web-scale infrastructure, making it possible to leverage sophisticated algorithms that are either too expensive or impossible to execute on-chain. </span></div><br/><br/>Please mention the word **FRESHEST** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/9f16347b2979a8fdcd9d2eae953166b31675494971.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Webaverse</h5>
+                    <h3>Senior Unity Developer</h3>
+                </td>
+                <td width="300">
+                    <code>unity,developer,3d,game,web,senior,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-unity-developer-webaverse-189209" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h3><b>Who We Are</b></h3><br>We're building a virtual world from open source and p2p technology that players create and own. Everything in the world is an NFT. There's an inventory system, so you can bring your items and favorite memes to share with your friends. Multiplayer is built with WebRTC and y.js (CRDTs). https://webaverse.com and our open alpha: https://app.webaverse.comÂ <p></p><h3><b>Why You Should Work with Us</b></h3><br>We're a young company, but we've accomplished a lot in that short time. What we've done wouldn't have been possible without passionate people, dedicated to our vision of an open and democratic metaverse. If you too would like to get in on the ground floor of the next major Internet revolution, if you too have the passion, the singular obsession to see the 3D web realized in all its glory, then we want to hear from you.<p></p><h3><b>Youâll Be Responsible for...</b></h3><br>Overseeing and establishing production-level processes around:Â <br><ul>
+<li align="left">System admin/security,Â </li>
+<li align="left">Work allocation,Â </li>
+<li align="left">System architectureÂ </li>
+<li align="left">Front-end systems</li>
+</ul><br><h3><b>Youâre a Good Fit if...</b></h3><br>You are/have:Â <br><ul>
+<li align="left">Primarily a Game Developer - working at least 5 years in game development as a technological leader</li>
+<li align="left">Shipped 2D MMORPG Games</li>
+<li align="left">Expert at Unity</li>
+<li align="left">Bonus: You've built your own game engine</li>
+</ul><br><h3><b>Our Process</b></h3><br><ul>
+<li align="left">Application review</li>
+<li align="left">Interviews via Voice/Video Call or Discord Chat</li>
+<li align="left">Coding challenge - We will provide a task from our open issues - Any solution we use will be paid for</li>
+<li align="left">Contract negotiationsÂ </li>
+<li align="left">Total expected time to hire: A few days to a couple weeks</li>
+</ul><br/><br/>Please mention the word **INVINCIBILITY** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/4ce10e512c2139407f5c2244dc7b67bc1675149366.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +88,7 @@
                     <code>developer,design,crypto,cryptocurrency,training,gaming,testing,code,financial,cloud,git,android,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-android-native-developer-cryptohopper-187198" align="right" target="_blank">Apply</a>
@@ -35,31 +113,7 @@
 <li>Lifetime Cryptohopper subscription (if you donÃ¢â¬â¢t break our BFF vows)</li>
 <li>Shower you with extras, like trading benefits, a generous training budget, and (mom will be proud!) the opportunity to work in a domain that accelerates financial inclusion for the unbanked</li>
 <li>Pour you a stiff drink on Fridays, coffee that wonÃ¢â¬â¢t make you wish you chose tea, and lots of mind-blowing feedback on your work, hobbyÃ¢â¬â¢s, and pets. And we sincerely look forward to hearing whatÃ¢â¬â¢s on your mind, too.</li>
-</ul><br><p></p><h1>Ready to virtually meet our engineers?</h1><p>We donÃ¢â¬â¢t require (in fact, please donÃ¢â¬â¢t) a motivation letter; weÃ¢â¬â¢d rather have a good chat and tell you everything you want to know. About life, the universe, and everything! Mail your resume to hr@cryptohopper.com. More information? Call or WhatsApp Laura at +31614886381 (n/a for trading insights ;-)</p><br><br/><br/>Please mention the word **ADULATION** and tag RMzQuMTUwLjEzMS4xODI= when applying to show you read the job post completely (#RMzQuMTUwLjEzMS4xODI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/13fb28e3adfae5231d7087c80434af621675062933.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Xenon Labs</h5>
-                    <h3>Blockchain Developer</h3>
-                </td>
-                <td width="300">
-                    <code>developer,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-blockchain-developer-xenon-labs-186701" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>The blockchain developer will work on developing and implementing a blockchain platform. They will be responsible for working with the team to develop a platform that can be used for the secure storage and transmission of data. The blockchain developer will also be responsible for developing and implementing smart contracts.<br><br>Responsibilities:<br><br>â¢ Developing and implementing blockchain technology applications<br>â¢ Identifying and resolving defects by researching specific blockchain technologies<br>â¢ Documenting the development process and blockchain procedures<br><br>Requirements:<br><br>â¢ Proven experience as a Blockchain Developer<br>â¢ Strong experience in Python, Rust, Solidity, and NodeJS<br>â¢ Understanding of blockchain systems, smart contracts, and how to create them<br>â¢ Knowledge of consensus mechanisms and cryptographic hashing algorithms<br>â¢ Experience with Git, Bitcoin, and Hyperledger would be an advantage</p><br/><br/>Please mention the word **ILLUMINE** and tag RMzQuMTUwLjEzMS4xODI= when applying to show you read the job post completely (#RMzQuMTUwLjEzMS4xODI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br><p></p><h1>Ready to virtually meet our engineers?</h1><p>We donÃ¢â¬â¢t require (in fact, please donÃ¢â¬â¢t) a motivation letter; weÃ¢â¬â¢d rather have a good chat and tell you everything you want to know. About life, the universe, and everything! Mail your resume to hr@cryptohopper.com. More information? Call or WhatsApp Laura at +31614886381 (n/a for trading insights ;-)</p><br><br/><br/>Please mention the word **ADULATION** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -74,7 +128,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ticketsolve-senior-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -109,7 +163,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/remotemore-javascript-developer-react-or-vue-or-angular-with-node-js-2" align="right" target="_blank">Apply</a>
@@ -166,7 +220,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-unity-developer-at-talkartive" align="right" target="_blank">Apply</a>
@@ -200,7 +254,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vexxhost-inc-developpeur-e-de-kubernetes-ansible-kubernetes-ansible-developer" align="right" target="_blank">Apply</a>
@@ -234,7 +288,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-lead-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -288,6 +342,99 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/2324/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Publitas.com</h5>
+                    <h3> Senior BackEnd Developer ( Remote / SaaS / Ruby on Rails)</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/publitas-com-senior-backend-developer-remote-saas-ruby-on-rails" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/2324/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Remote
+    <br /><strong>URL:</strong> <a href="https://publitas.com">https://publitas.com</a>
+</p>
+
+<h1><strong><em>Create customer value.</em></strong></h1><div>We believe that business growth starts with a fantastic product that people want to use. And with Publitas, we aim to create an exceptional experience for browsing shoppers by publishing engaging content online. We are on a mission to inspire people from all over the world (60M today) through a more sustainable discovery experience. We guide our customers, leading retailers such as Mattel, IKEA, Home Depot, Lenovo, and Williams Sonoma, through the print transition and provide the personalized service they deserve, which has earned us their trust and loyalty. As a result, we have more than 1900 passionate customers and advocates worldwide.<br><br>
+</div><div>
+<br><br>
+</div><div>At Publitas we’re looking to add a experienced, self driven Senior Backend Developer to the development team.<br><br>
+</div><div><br></div><div><strong>Responsibilities:</strong></div><ul>
+<li>You will collaborate with a cross functional team to translate customer needs and product vision into new features.<br><br>
+</li>
+<li>You will help us maintain and improve the performance, stability, and scalability of our platform<br><br>
+</li>
+<li>You will contribute to our backend architecture and strategy<br><br>
+</li>
+<li>You will be involved in monitoring and triaging issues &amp; bugs<br><br>
+</li>
+<li>You will help and mentor less experienced developers and help us build a strong engineering team.<br><br>
+</li>
+</ul><div><strong>Requirements:</strong></div><div><br></div><ul>
+<li>You have several years of experience building web applications in Ruby on Rails as well as other technologies and frameworks. Our backend is mostly Ruby on Rails with a bit of NodeJs.<br><br>
+</li>
+<li>You can work back from the problem domain towards technical solutions, making technical decisions and breaking problems into manageable chunks on the way.<br><br>
+</li>
+<li>You have experience releasing, maintaining and scaling a SAAS product on the public cloud. Our product runs on AWS.<br><br>
+</li>
+<li>You're a strong written and verbal communicator and very fluent and comfortable with English. You are able to explain technical concepts and help bring consensus within the team.<br><br>
+</li>
+</ul><div><strong>Bonus:</strong></div><ul>
+<li>You have experience with our frontend technologies, React &amp; Redux and you can build simple things end-to-end if need be.</li>
+<li>You have experience or an affinity with DevOps technologies, such as Infrastructure As Code</li>
+<li>You are working in the European time zone.</li>
+</ul><div>
+<br><strong>If you’ve been reading this far, chances are high you're a bit like us:</strong><br><br>
+</div><ul>
+<li>You desire to do things better and to improve the world around you.</li>
+<li>You believe that results and impact matter more than hours spent.</li>
+<li>You’re self-driven, and you love the fact that Publitas operates through <a href="https://sites.google.com/publitas.com/habits-values/">values &amp; habits</a> such as:<ul>
+<li>Honesty</li>
+<li>Respect</li>
+<li>Passion</li>
+<li>Generosity</li>
+<li>Excellence</li>
+<li>Curiosity<br><br>
+</li>
+</ul>
+</li>
+</ul><div>
+<br><strong>What can you expect from us?</strong>
+</div><ul>
+<li>€38,400k - €87,725k gross salary per year.</li>
+<li>Twenty-five vacation days per year and your National Holidays off.</li>
+<li>A contract of indefinite duration.</li>
+<li>Work from anywhere you desire.</li>
+<li>A monthly shared office space/coworking allowance.</li>
+<li>A one-time home office setup stipend.</li>
+<li>A top-of-the-line MacBook.</li>
+<li>Monthly wellness allowance to stay healthy while working remotely.</li>
+<li>Annual retreats in some of the greatest cities in the world.</li>
+<li>Free books in Kindle and Audible store.</li>
+<li>We'll challenge and support each other through <a href="https://publitas-ws.notion.site/1-1-Sessions-2-1-c9aaa6c8442842d686c14538c5a983e4">1-1 sessions</a> to get the most out of your and our potential.</li>
+</ul><div>
+<br><em>We promise to get rid of everything that stands in your way so you can create your best work. If this sounds like your kind of place, it’s time to get in touch.<br></em><br><strong>Please feel free to contact our Recruitment team at </strong><a href="mailto:careers@publitas.com"><strong>careers@publitas.com</strong></a><strong> if you have any questions.</strong>
+</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/publitas-com-senior-backend-developer-remote-saas-ruby-on-rails">https://weworkremotely.com/remote-jobs/publitas-com-senior-backend-developer-remote-saas-ruby-on-rails</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -298,7 +445,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -371,7 +518,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>151 days ago</text>
+                <text>152 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-full-stack-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -432,7 +579,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>165 days ago</text>
+                <text>166 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -544,7 +691,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>480 days ago</text>
+                <text>481 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/operatebeyond-php-developer" align="right" target="_blank">Apply</a>
@@ -611,7 +758,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -688,7 +835,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -757,7 +904,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -834,7 +981,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
