@@ -10,7 +10,7 @@
                     <code>web3,crypto,nft,system,security,game,gaming,software,growth,devops,operations,engineer</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-devops-engineer-yuga-labs-188703" align="right" target="_blank">Apply</a>
@@ -73,7 +73,7 @@
 <p class="c-mrkdwn__quote"><strong><br>Life at Yuga Labs <br></strong><span style="font-weight:400;">At Yuga Labs, being an Equal Opportunity Employer means more than upholding discrimination-free hiring practices. It means that we cultivate an environment where people can be their most authentic selves and find both belonging and support. We're shaping the future of identity, community, and technologyâan experience made whole by our unique backgrounds and perspectives.</span></p>
 <p><span style="font-weight:400;">As a remote-first company, we encourage our employees to care for their whole selves through comprehensive medical benefits, generous paid-time off, paid parental leave, retirement plans, company social events, wellness programs, and volunteer opportunities.</span></p>
 <p><strong><br>Reasonable Accommodation<br></strong><span style="font-weight:400;">Yuga Labs applicants are considered solely based on their qualifications, without regard to applicant's disability or need for accommodation. Any Yuga Labs applicant who requires reasonable accommodations during the application process should contact the Yuga Labs Benefits Team (accommodations@yugalabs.com) to make the need for an accommodation known.</span></p>
-</div><br/><br/>Please mention the word **BETTER** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **BETTER** and tag RMTAyLjg5LjQ3Ljc4 when applying to show you read the job post completely (#RMTAyLjg5LjQ3Ljc4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -88,7 +88,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sportybet-devops-engineer" align="right" target="_blank">Apply</a>
@@ -154,7 +154,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/intellum-systems-engineer-devops-3" align="right" target="_blank">Apply</a>
@@ -237,7 +237,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>120 days ago</text>
+                <text>121 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-devops-engineer" align="right" target="_blank">Apply</a>
