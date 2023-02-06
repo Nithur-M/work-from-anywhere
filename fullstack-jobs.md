@@ -10,7 +10,7 @@
                     <code>defi,solidity,cryptocurrency,ethereum,technical,developer,growth,web,js,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-engineer-boson-protocol-188215" align="right" target="_blank">Apply</a>
@@ -90,7 +90,7 @@
 <strong>Stay lean:</strong><span> Our ethos is to create and share value equitably, with minimal value extraction.</span>
 </li>
 </ul>
-<p>Â </p><br/><br/>Please mention the word **UNFETTERED** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>Â </p><br/><br/>Please mention the word **UNFETTERED** and tag RMTAyLjg5LjQ3Ljc4 when applying to show you read the job post completely (#RMTAyLjg5LjQ3Ljc4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -105,7 +105,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/gymdesk-senior-full-stack-engineer-lamp-stack" align="right" target="_blank">Apply</a>
@@ -152,7 +152,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>120 days ago</text>
+                <text>121 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/forem-senior-full-stack-engineer" align="right" target="_blank">Apply</a>
