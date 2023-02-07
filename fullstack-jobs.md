@@ -10,7 +10,7 @@
                     <code>defi,solidity,cryptocurrency,ethereum,technical,developer,growth,web,js,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-engineer-boson-protocol-188215" align="right" target="_blank">Apply</a>
@@ -90,12 +90,12 @@
 <strong>Stay lean:</strong><span> Our ethos is to create and share value equitably, with minimal value extraction.</span>
 </li>
 </ul>
-<p>Â </p><br/><br/>Please mention the word **UNFETTERED** and tag RMTAyLjg5LjQ3Ljc4 when applying to show you read the job post completely (#RMTAyLjg5LjQ3Ljc4). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>Â </p><br/><br/>Please mention the word **UNFETTERED** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/6603/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/6627/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Gymdesk</h5>
@@ -105,7 +105,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/gymdesk-senior-full-stack-engineer-lamp-stack" align="right" target="_blank">Apply</a>
@@ -114,7 +114,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/6603/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0083/6627/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
   <strong>Headquarters:</strong> 
@@ -130,7 +130,7 @@
 <li><p>And most importantly, a natural ability to <strong>get stuff done</strong></p></li>
 </ul><p><strong>Compensation:</strong></p><ul>
 <li><p>This is a full-time, 40-hour a week role</p></li>
-<li><p>Annual salary of $150k-200k depending on skills and seniority</p></li>
+<li><p>Annual salary of $130k-180k depending on skills and seniority</p></li>
 <li><p>Health and dental reimbursement plan (pick your own insurance)</p></li>
 <li><p>20 PTO days a year, in additional to national holidays</p></li>
 <li><p>Home office improvement budget</p></li>
@@ -152,7 +152,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>121 days ago</text>
+                <text>122 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/forem-senior-full-stack-engineer" align="right" target="_blank">Apply</a>
