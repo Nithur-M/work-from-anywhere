@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-product-manager-technical-2" align="right" target="_blank">Apply</a>
@@ -74,7 +74,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/walletconnect-product-manager-cloud" align="right" target="_blank">Apply</a>
@@ -147,7 +147,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>453 days ago</text>
+                <text>454 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -213,7 +213,7 @@
                     <code>analyst,machine learning,marketing,product manager</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/product/product-manager-analyst-experience-1524034" align="right" target="_blank">Apply</a>
@@ -282,214 +282,6 @@
 <p style="min-height: 1.5em;">Sisu is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</p>
 <p> </p>
 <img src="https://remotive.com/job/track/1524034/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1524035/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sisudata</h5>
-                    <h3>Product Manager - Machine Learning</h3>
-                </td>
-                <td width="300">
-                    <code>machine learning,marketing,product manager,saas</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-manager-machine-learning-1524035" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">At Sisu, we're building a software platform that empowers people to make better decisions using data. Based on years of cutting-edge research at Stanford, the platform helps businesses understand why their key metrics are changing. We use novel data mining and machine learning techniques to produce insights in real-time and deliver them through an elegant, modern web interface. Product Managers drive Sisu’s product strategy and execution, turning user needs and opportunities into a product roadmap.</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">We’re looking for an experienced Product Manager to invent and drive new ML/AI based features that solve difficult business problems for our customers with easy and intuitive solutions. This includes features like AI based automated anomaly, outlier or trend change detection in key business metrics that customers need to monitor and take action on when something unexpected happens. You’ll define the product vision,  customer experience and work closely with our ML team to drive the product strategy from an early stage as our team and customer base grows. As the first PM in this area, you’ll have a unique opportunity to shape what automated metric monitoring looks like at Sisu, partnering closely with Engineering, Design, Marketing, Sales, and Customer Success.</p>
-<p> </p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>What you'll accomplish</strong></p>
-<p> </p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Lead the definition and delivery of new machine learning based features that improve customer’s ability to find out “why” their metrics changed.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Work closely with the machine learning, design and solutions engineers team to develop and execute the product strategy and roadmap for such features</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Interact regularly with existing and prospective customers to gain a deep understanding of our users and their needs</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Develop insights about how to solve user needs in innovative ways that “wow”</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Collaborate tightly with Design and Engineering to determine what we build and how we build it</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Help shape the team culture and product direction as we grow</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>What you'll need to be successful</strong></p>
-<p> </p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">5-10+ Years of experience in B2B SaaS products and/or Data Analytics experience working on AI/ML products</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Bachelors or Masters in a Technical or math heavy field like Computer Science, Engineering, Statistics or similar</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Experience building and shipping great product experiences</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Passion for tackling large, nebulous problem spaces with a user-centered design thinking approach</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Comfort navigating and leading teams through ambiguity</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Familiarity with contemporary analytics and BI platforms</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">You should consider applying even if you don’t meet 100% of the qualifications above! For a Product Manager, there’s no better environment to advance your career, develop your skills, and make an impact along the way. As you mature in this role, you’ll have the chance to work with global leaders, learn from industry mavericks, and help build an amazing, eclectic, and supportive organization.</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">Sisu is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</p>
-<p> </p>
-<img src="https://remotive.com/job/track/1524035/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1556173/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Joinforage</h5>
-                    <h3>Product Manager, New Verticals</h3>
-                </td>
-                <td width="300">
-                    <code>marketing,product manager,recruiter,growth</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-manager-new-verticals-1556173" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="h2">About Us:</div>
-<p style="min-height: 1.5em;">Forage is a mission-driven payments company helping merchants accept EBT/SNAP payments online and enabling 42 million Americans to spend their food benefits on the internet. 1 in 8 Americans rely on SNAP assistance, and less than 0.05% of grocers currently accept EBT online. </p>
-<p style="min-height: 1.5em;">In Aug. 2022 Forage received Series A funding of $22 million. As of the beginning of 2023 we have a strong team of 25 individuals with a remote-first mindset and  team members spread across North America. We look forward to strategic growth in 2023 and beyond, come Forage with us!</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Who we’re looking for</strong></p>
-<p style="min-height: 1.5em;">We are looking for a passionate Product Manager to explore and build new verticals at Forage. This is a critical role where you would drive product strategy and execution in a highly complex and regulated space. </p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>At Forage, you’ll have the opportunity to</strong></p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Make an impact by helping people with low to no income get access to basic needs</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Own product strategy from ideation to launch and beyond</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Work in a remote-first fun environment with talented people</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Key responsibilities</strong></p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Conduct market research to understand opportunity and competitive landscape</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Work with payments and government industry leaders to assess potential licensing and partnerships</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Lead product strategy and get buy-in from internal and external stakeholders</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Define the product roadmap and prioritize what we need to build now versus later</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Write and refine thorough technical product requirements</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Build pilots for early-stage products with long-term platform thinking</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Work closely with merchants, operations, and marketing to launch</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Define and measure metrics, incorporate learnings into future product development</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Preferred qualifications</strong></p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">4+ years of experience leading product from discovery to launch</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Familiarity with financial products</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Experience building new product verticals into business lines</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Ability to see the big picture to form long-term product strategy</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Ability to create and develop external partnerships</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Track record of executing large-scale launches that grow</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Our Offer</strong></p>
-<p style="min-height: 1.5em;">As of 12/19/22, if we hire you in San Francisco, your base salary would fall within the bands below. Please keep in mind that the equity portion of your offer is <em>not</em> included in these numbers and represents a significant part of your total compensation.</p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Base Compensation:</p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Senior Product Manager I: $129,000 - $160,000 base</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Senior Product Manager II: $140,000 - $185,000 base</p>
-</li>
-</ul>
-</li>
-</ul>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Meaningful work that makes a positive impact on our society.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Competitive compensation: salary, equity, and benefits.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">A remote-first work environment with opportunity for onsite meetings.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">A fun and caring environment that prioritizes transparency, growth, and ownership.</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">A talented, diverse, high-achieving, and humble team with diverse backgrounds and viewpoints.</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">We aim to review every application within 72 hours of submission and provide feedback on each of your interviews within 48 hours of completion. If you don't hear from us, please reach out to your recruiter or careers@joinforage.com directly to get an update on your candidacy.</p>
-<img src="https://remotive.com/job/track/1556173/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
