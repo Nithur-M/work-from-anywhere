@@ -10,7 +10,7 @@
                     <code>defi,solidity,cryptocurrency,ethereum,technical,developer,growth,web,js,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-engineer-boson-protocol-188215" align="right" target="_blank">Apply</a>
@@ -90,54 +90,7 @@
 <strong>Stay lean:</strong><span> Our ethos is to create and share value equitably, with minimal value extraction.</span>
 </li>
 </ul>
-<p>Â </p><br/><br/>Please mention the word **UNFETTERED** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/6627/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Gymdesk</h5>
-                    <h3> Senior Full Stack Engineer (LAMP stack)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/listings/gymdesk-senior-full-stack-engineer-lamp-stack" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/6627/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> 
-    <br /><strong>URL:</strong> <a href="https://gymdesk.com">https://gymdesk.com</a>
-</p>
-
-<p>Gymdesk provides modern, online management software to gyms, martial arts schools, yoga studios and other fitness and wellness businesses. In an industry dominated by outdated and cumbersome products, we provide the superior user experience people expect in 2023.</p><p><img src="https://gymdesk.com/images/lp/dashboard-small.png">We are seeking an outstanding individual contributor who wants to help scale a B2B SaaS application that has product / market fit. We have over 1000 businesses use our product to manage their operation, and growing rapidly. You'll be maintaining the existing codebase and expanding it based on user feedback. Features you create will make an immediate difference to how thousands of gyms manage their business.</p><p>You should love managing complexity in elegant ways, and creating user interfaces that hide that complexity in the backend. The product is mature, but is constantly evolving / adapting based on new use-cases and user feedback.</p><p><strong>About the role:</strong></p><p>Our CEO is currently our lead developer as well. You'll receive training on the stack, platform and flows within the software. Gym management might not sound complicated, however there is a lot of complexity hidden behind our shiny UI, as we account for many different use-case that you likely have never considered as part of running a gym. Regardless of your skills and background, we believe this will be a worthy challenge.</p><p><strong>About the team:</strong></p><p>Gymdesk is a small and effective team (currently 10 people). We don't have office politics and try to minimize the amount of interruptions you will have to deal with. We are a remote team that communicates mostly through slack and video chats as needed. We use Github to manage our repos, tickets and sprints.</p><p><strong>Requirements:</strong></p><ul>
-<li><p><strong>6+ years of demonstrated professional experience with the entire PHP stack</strong> (language, frameworks, open-source libraries, web servers, optimization)</p></li>
-<li><p><strong>A growth mindset.</strong> You want to challenge yourself to grow as a technical leader and take on new responsibilities and acquire new skills.</p></li>
-<li><p><strong>Solid front end skills</strong> with the basic HTML stack - HTML5, CSS, vanila Javascript and jQuery</p></li>
-<li><p><strong>Strong experience with (My)SQL</strong> database design, querying and optimization</p></li>
-<li><p><strong>Excellent verbal and written communication skills.</strong></p></li>
-<li><p>And most importantly, a natural ability to <strong>get stuff done</strong></p></li>
-</ul><p><strong>Compensation:</strong></p><ul>
-<li><p>This is a full-time, 40-hour a week role</p></li>
-<li><p>Annual salary of $130k-180k depending on skills and seniority</p></li>
-<li><p>Health and dental reimbursement plan (pick your own insurance)</p></li>
-<li><p>20 PTO days a year, in additional to national holidays</p></li>
-<li><p>Home office improvement budget</p></li>
-</ul><p></p><p>If you’re excited about creating software that looks beautiful on the front end and elegant on the back end, give us a shot. We’ll do our best to make the interview experience fast, enjoyable, and mentally stimulating.</p><p>If we don’t get a chance to speak with you, thank you so much for your interest, and hopefully there will be a better opportunity down the line.</p>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/gymdesk-senior-full-stack-engineer-lamp-stack">https://weworkremotely.com/remote-jobs/gymdesk-senior-full-stack-engineer-lamp-stack</a></p>
-
+<p>Â </p><br/><br/>Please mention the word **UNFETTERED** and tag RNTIuMzcuNTcuMjI1 when applying to show you read the job post completely (#RNTIuMzcuNTcuMjI1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -152,7 +105,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>122 days ago</text>
+                <text>123 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/forem-senior-full-stack-engineer" align="right" target="_blank">Apply</a>
