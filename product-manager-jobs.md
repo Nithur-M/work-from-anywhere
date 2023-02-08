@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-product-manager-technical-2" align="right" target="_blank">Apply</a>
@@ -74,7 +74,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/walletconnect-product-manager-cloud" align="right" target="_blank">Apply</a>
@@ -147,7 +147,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>454 days ago</text>
+                <text>455 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -199,89 +199,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr">https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1524034/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Sisudata</h5>
-                    <h3>Product Manager - Analyst Experience</h3>
-                </td>
-                <td width="300">
-                    <code>analyst,machine learning,marketing,product manager</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/product/product-manager-analyst-experience-1524034" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">At Sisu, we're building a software platform that empowers people to make better decisions using data. Based on years of cutting-edge research at Stanford, the platform helps businesses understand why their key metrics are changing. We use novel data mining and machine learning techniques to produce insights in real-time and deliver them through an elegant, modern web interface. Product Managers drive Sisu’s product strategy and execution, turning user needs and opportunities into a product roadmap.</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">We’re looking for an experienced Product Manager to work closely with our front end engineering and design to invent and drive multiple new features/capabilities. The Analyst experience is key to driving value of Sisu's ML features to our core customers. You will be in charge of this area and drive features to make Sisu integrate seamlessly with analysts workflows both inside and outside the core Sisu app. As the first PM in this area, you’ll have a unique opportunity to define a product vision and partner closely with Engineering, Design, Marketing, Sales, and Customer Success teams to execute on the vision and drive 10x growth in business metrics (engagement)</p>
-<p> </p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>What you'll accomplish</strong></p>
-<p> </p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">Lead the definition and delivery of key features Sisu’s analyst experience features including reporting, sharing and integrations with 3p data products</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Partner directly with target customers to build features with them with the goal of driving customer value directly and then user engagement</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Once you find product market fit with a few customers, work with our GTM and CS team to scale out to all customers</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Interact regularly with existing and prospective business customers to gain a deep understanding of our users and their needs</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Collaborate tightly with Design and Engineering to determine what we build and how we build it</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Work closely with the founding team to develop and execute our product strategy and roadmap</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Help shape the team culture and product direction as we grow</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>What you'll need to be successful</strong></p>
-<p> </p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">5-10+ Years of experience as a PM in B2B SaaS, PaaS or IaaS products</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Previous experience as a PM working on BI or Data Products</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Experience building and shipping user centric products with a rich user experience</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Passion for tackling large, nebulous problem spaces with a user-centered design thinking approach</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Comfort navigating and leading teams through ambiguity</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Ability to influence, motivate and inspire cross-functional partners</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">You should consider applying even if you don’t meet 100% of the qualifications above! For a Product Manager, there’s no better environment to advance your career, develop your skills, and make an impact along the way. As you mature in this role, you’ll have the chance to work with global leaders, learn from industry mavericks, and help build an amazing, eclectic, and supportive organization.</p>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;">Sisu is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, disability, age, or veteran status.</p>
-<p> </p>
-<img src="https://remotive.com/job/track/1524034/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr></table>
