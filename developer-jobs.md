@@ -1,5 +1,89 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/99353b0135872d690586e0cbe38354451675754142.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>deBridge</h5>
+                    <h3>Developer Relations Advocate</h3>
+                </td>
+                <td width="300">
+                    <code>developer,web3,defi,solidity,nft,technical,support,software,web,lead,engineering,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-developer-relations-advocate-debridge-190702" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>deBridge is looking to hire a <strong>Developer Relations Advocate</strong> to join the team. </p>
+
+<p>In this role, you will have the chance to work closely with ecosystem partners like network validators, developers, and others, to develop and expand the deBridge ecosystem.</p>
+
+<p>All positions are 100% remote with no geographical restrictions. You can <strong>work from anywhere in the world</strong>. You will have a <strong>big impact</strong> on the team and will help deBridge to continue building a secure interoperability layer for Web3.</p>
+
+<h3>Responsibilities</h3>
+
+<ul>
+        <li>Increase awareness and adoption of deBridgeâs technology by working directly with our developer community to lower the barriers of adoption, help with technical questions, and bring insights back to the team to advance the technology and overall experience</li>
+        <li>Bring awareness and increase the number of successful developers and projects integrating with and/or building on top of our protocol</li>
+        <li>Work with the network of validators</li>
+        <li>Building out the ecosystem and scaling our developer outreach efforts by educating our community on how deBridge can empower cross-chain interoperability for other protocols</li>
+        <li>Create and improve the resources and documentation to enhance the resource offerings via deBridgeâs website, Github and other platforms</li>
+        <li>Hear to projectsâ needs and suggest the best solutions for their specific challenges.</li>
+        <li>Support and maintain our developer community. Be an active member to improve the overall support in various channels like Discord, Telegram, and more</li>
+        <li>Represent deBridge at conferences and events by giving presentations, live demos of deBridge, and communicating with the attendees</li>
+</ul>
+
+<h3>Ideal candidate</h3>
+
+<ul>
+        <li>At least 2 years in the software industry working as a developer, advocate, or evangelist</li>
+        <li>Passion for the blockchain ecosystem</li>
+        <li>Knowledge of Web3 and Solidity is mandatory</li>
+        <li>Strong engineering skills in web and/or mobile</li>
+        <li>Passion for inspiring and educating fellow developers</li>
+        <li>Eager to work in a startup environment</li>
+        <li>Social and fast-moving; an ambition to meet and communicate with people</li>
+        <li>Good attention to detail and a high level of independence</li>
+        <li>Understanding of the blockchain and open-source ecosystem</li>
+        <li>Passion for building a developer community</li>
+        <li>Good understanding of the DeFi ecosystem and decentralized protocols</li>
+</ul>
+
+<h3>Why join us</h3>
+
+<ul>
+        <li>Be one of the first employees in an exciting and growing project where weâre solving real problems in the existing DeFi and NFT ecosystem</li>
+        <li>Autonomy and ownership</li>
+        <li>Build up your experience and reputation within the blockchain space</li>
+        <li>Being able to influence the direction of the company</li>
+        <li>Being able to shape and lead how deBridge works with projects, validators, developers, and others</li>
+</ul>
+
+<h3>About deBridge</h3>
+
+<p>deBridge (<a href="http://debridge.finance/" rel="noopener noreferrer nofollow">https://debridge.finance/</a>) is a secure interoperability layer for Web3 that enables anyone to build powerful cross-chain applications where value and messages flow seamlessly. It's an infrastructure that enables:</p>
+
+<ul>
+        <li>Cross-chain composability of smart contracts</li>
+        <li>Cross-chain swaps between any liquid assets (deSwap is one of the applications built on top of deBridge)</li>
+        <li>Bridging of any arbitrary asset and message in one transaction</li>
+        <li>Interoperability and bridging of NFTs</li>
+</ul>
+
+<p>deBridge commenced during the [Chainlink Global Hackathon](<a href="http://chain.link/hackathon" rel="noopener noreferrer nofollow">https://chain.link/hackathon</a>) in early 2021. The project was awarded the grand prize and took first place among more than 140 teams worldwide. In September, the project announced its [$5.5M fundraising round](<a href="http://debridge.medium.com/debridge-announces-5-5m-fundraising-five-months-after-winning-the-chainlink-hackathon-2814ccb6a690" rel="noopener noreferrer nofollow">https://debridge.medium.com/debridge-announces-5-5m-fundraising-five-months-after-winning-the-chainlink-hackathon-2814ccb6a690</a>) with leading VCs and companies such as Animoca Brands, Lemniscap, [Crypto.com](<a href="http://crypto.com/" rel="noopener noreferrer nofollow">http://crypto.com/</a>) Capital, Huobi Ventures, and others.</p>
+
+<p>At deBridge, we are building a secure interoperability layer for Web3, aiming to securely unite all blockchains and bring seamless composability to the blockchain ecosystem.</p>
+
+<p>In February 2022, we [launched our mainnet beta](<a href="http://medium.com/debridge/debridge-mainnet-is-here-f441fabc83c0" rel="noopener noreferrer nofollow">https://medium.com/debridge/debridge-mainnet-is-here-f441fabc83c0</a>), where we supported five chains and seamless cross-chain swaps between any assets in one transaction. Now we have built out a secure and reliable cross-chain infrastructure and are currently supporting seven chains, and will continue to build out the deBridge ecosystem both horizontally and vertically. Hope you want to join us on this journey!</p><br/><br/>Please mention the word **FERVOR** and tag RNTIuMzcuNTcuMjI1 when applying to show you read the job post completely (#RNTIuMzcuNTcuMjI1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/0c89cd9a7f1073fa3097323b0d4a707d1675494972.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +94,7 @@
                     <code>developer,design,crypto,nft,cryptocurrency,ethereum,python,designer,support,ui,code,web,javascript,cloud,senior,golang,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-full-stack-developer-enya-189210" align="right" target="_blank">Apply</a>
@@ -33,7 +117,7 @@
 <li>Experience with Golang (and/or Python is a plus) is preferred</li>
 <li>Familiarity with cloud services (AWS, GCP)</li>
 <div><br></div>
-</ul><div><span style="font-size:18px;">About Enya</span></div><div><br></div><div><span style="font-size:11pt;">Enya Labs is a contributor to the Boba Network, a multichain Layer 2 that reduces the barriers of adoption for users and developers. We are empowering Gaming, DeFi, and NFT projects to scale more cost-effectively while delivering a smoother user experience. Boba's Hybrid Compute technology enables developers across the blockchain ecosystem to build dApps that invoke code executed on web-scale infrastructure, making it possible to leverage sophisticated algorithms that are either too expensive or impossible to execute on-chain. </span></div><br/><br/>Please mention the word **FRESHEST** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><span style="font-size:18px;">About Enya</span></div><div><br></div><div><span style="font-size:11pt;">Enya Labs is a contributor to the Boba Network, a multichain Layer 2 that reduces the barriers of adoption for users and developers. We are empowering Gaming, DeFi, and NFT projects to scale more cost-effectively while delivering a smoother user experience. Boba's Hybrid Compute technology enables developers across the blockchain ecosystem to build dApps that invoke code executed on web-scale infrastructure, making it possible to leverage sophisticated algorithms that are either too expensive or impossible to execute on-chain. </span></div><br/><br/>Please mention the word **FRESHEST** and tag RNTIuMzcuNTcuMjI1 when applying to show you read the job post completely (#RNTIuMzcuNTcuMjI1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -48,7 +132,7 @@
                     <code>unity,developer,3d,game,web,senior,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-unity-developer-webaverse-189209" align="right" target="_blank">Apply</a>
@@ -73,12 +157,108 @@
 <li align="left">Coding challenge - We will provide a task from our open issues - Any solution we use will be paid for</li>
 <li align="left">Contract negotiationsÂ </li>
 <li align="left">Total expected time to hire: A few days to a couple weeks</li>
-</ul><br/><br/>Please mention the word **INVINCIBILITY** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **INVINCIBILITY** and tag RNTIuMzcuNTcuMjI1 when applying to show you read the job post completely (#RNTIuMzcuNTcuMjI1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/5744/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/3951/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>TRAC Media Services</h5>
+                    <h3> Full-Stack .NET  Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/trac-media-services-full-stack-net-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/3951/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Tucson, AZ, USA
+    <br /><strong>URL:</strong> <a href="http://tracmedia.com">http://tracmedia.com</a>
+</p>
+
+<div>The Senior Developer is a remote, full-time salaried position; developing, testing and maintaining client-facing and internal software solutions. Responsibilities include assisting in diagnosing and solving software defects, development of technical documentation, and new project specifications. Once trained, developers are expected to be self-starters and able to work independently. </div><div> </div><div>Basic Qualifications:</div><ul>
+<li>5+ years of experience with:</li>
+<li>C# and/or F#</li>
+<li>MS SQL Server or similar</li>
+<li>ASP.NET or similar</li>
+<li>Front-end web technologies and frameworks: HTML, CSS, JavaScript, etc.</li>
+<li>Git or similar</li>
+<li>Unit Testing</li>
+<li>Interest and willingness to work with F# and functional programming techniques</li>
+<li>Excellent organizational and time-management skills</li>
+<li>Technical aptitude and the ability to troubleshoot</li>
+<li>Ability to research and execute solutions based on online guides and tutorials</li>
+<li>Bachelor's degree in Computer Science, Computer Engineering, or related STEM field</li>
+<li>Non-degreed applicants with equivalent experience will also be considered</li>
+</ul><div> </div><div>Preferred Qualifications:</div><ul>
+<li>Working knowledge of ReactJS</li>
+<li>Knowledge of F# specific technologies such as Giraffe and Fable</li>
+<li>Experience with modern .NET – 6.0+</li>
+<li>Experience with cloud computing, PAAS, SOA, especially Microsoft Azure</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/trac-media-services-full-stack-net-developer">https://weworkremotely.com/remote-jobs/trac-media-services-full-stack-net-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/6651/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Unipage.eu</h5>
+                    <h3> Fullstack developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/unipage-eu-fullstack-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/6651/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Belgium
+    <br /><strong>URL:</strong> <a href="https://unipage.be/en">https://unipage.be/en</a>
+</p>
+
+<div>
+<br>As a member of our Full-Stack development team, you will join a friendly and talented small group of professionals within a dynamic scale-up company facing great challenges.<br><br>
+</div><div>
+<br>Our main codebase is written in Laravel together with Inertia &amp; Vue on the front-end.<br><br>We have a POS codebase in Electron that delivers an offline-first experience with integrations with several hardware appliances (eg. thermal printers, cash drawers, ...)</div><div><strong><br>We are looking for an enthusiastic full-stack medior (or senior) developer to join our team.</strong></div><ul>
+<li>You are end-to-end responsible for the software development of one of our new to-be-launched business applications, including the development, testing, and release planning</li>
+<li>You design and develop user interfaces for web applications</li>
+<li>You design and develop backend and frontend code</li>
+<li>You design and optimize the underlying database</li>
+<li>You provide clear documentation </li>
+</ul><div>We're EU-based, so timezone overlap would be preferable.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/unipage-eu-fullstack-developer">https://weworkremotely.com/remote-jobs/unipage-eu-fullstack-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Contra</h5>
@@ -88,7 +268,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-remix-full-stack-developer" align="right" target="_blank">Apply</a>
@@ -97,7 +277,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/5744/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
   <strong>Headquarters:</strong> San Francisco, CA
@@ -126,7 +306,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/ticketsolve-senior-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -161,7 +341,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/vexxhost-inc-developpeur-e-de-kubernetes-ansible-kubernetes-ansible-developer" align="right" target="_blank">Apply</a>
@@ -195,7 +375,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-lead-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -259,7 +439,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/publitas-com-senior-backend-developer-remote-saas-ruby-on-rails" align="right" target="_blank">Apply</a>
@@ -352,7 +532,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>33 days ago</text>
+                <text>34 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-laravel-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -425,7 +605,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -502,7 +682,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -528,7 +708,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -605,7 +785,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
