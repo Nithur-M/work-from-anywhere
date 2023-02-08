@@ -10,7 +10,7 @@
                     <code>software,design,saas,web3,bitcoin,ethereum,embedded,security,javascript,java,api,senior,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-smart-contracts-swirlds-labs-189714" align="right" target="_blank">Apply</a>
@@ -53,7 +53,7 @@
 <li>Systems programming experience including providing services to other software (e.g. operating systems, computational science applications, industrial automation, and SaaS applications) is a big plus</li>
 <li>7+ years of software development experience</li>
 <li>Master's degree in Computer Science or similar field, or equivalent work experience</li>
-</ul><br/><br/>Please mention the word **FONDLY** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **FONDLY** and tag RNTIuMzcuNTcuMjI1 when applying to show you read the job post completely (#RNTIuMzcuNTcuMjI1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -68,7 +68,7 @@
                     <code>software,technical,code,travel,senior,engineer</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-distributed-systems-lit-protocol-188217" align="right" target="_blank">Apply</a>
@@ -77,32 +77,100 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><span style="font-size:12pt;">Lit Protocol is a decentralized threshold cryptography network, a key piece of  infrastructure for the emerging decentralized internet known as web3.</span></div><div><br></div><div><span style="font-size:16px;">We're a well funded, curious, and passionate team that values independence, creative problem solving, and empowering everyone with systems that are open, secure, and private. </span></div><div><br></div><div><span style="font-size:12pt;">Today, Lit Protocol is being used by hundreds of applications for decentralized access control. In the future, Lit Protocol will serve as part of the foundation for an internet with private and portable user data.</span></div><div><br></div><div><span style="font-size:12pt;">Lit Protocol is looking for a Senior Software Engineer to join our team whose focus will be on the core Lit Protocol infrastructure.</span></div><div><br></div><div><span style="font-size:12pt;">In this role, you will have ownership over the features you implement, and are expected to think critically about how they should work to align with the vision of the entire product.</span></div><div><br></div><div><b style="font-size:12pt;">Core Qualifications:</b></div><div><span style="font-size:12pt;">&gt; Fluency in Rust</span></div><div><span style="font-size:12pt;">&gt; Understanding of smart contracts</span></div><div><span style="font-size:12pt;">&gt; Logical thinker interested in building high-assurance systems</span></div><div><span style="font-size:12pt;">&gt; Able to accurately predict and ship code in a timely manner</span></div><div><span style="font-size:12pt;">&gt; Proven track record of independently driving projects in a fast-paced environment</span></div><div><span style="font-size:12pt;">&gt; Comfortable giving and receiving constructive feedback</span></div><div><span style="font-size:12pt;">&gt; Excellent written and verbal communication skills on both technical and non-technical issues</span></div><div><br></div><div><b style="font-size:12pt;">Nice to Have:</b></div><div><span style="font-size:12pt;">&gt; Experience writing Rust smart contracts on platforms like Cosmos / Solana</span></div><div><span style="font-size:12pt;">&gt; Experience working as part of a distributed team</span></div><div><span style="font-size:12pt;">&gt; Experience building decentralized systems</span></div><div><span style="font-size:12pt;">&gt; Experience in cryptography</span></div><div><br></div><div><b style="font-size:12pt;">Some of the Perks:</b></div><div><span style="font-size:12pt;">&gt; Autonomy to work on meaningful, impactful, and interesting problems</span></div><div><span style="font-size:12pt;">&gt; Token incentives</span></div><div><span style="font-size:12pt;">&gt; Insurance + allocation for spouse/dependent</span></div><div><span style="font-size:12pt;">&gt; Company event travel stipends (conferences, etc)</span></div><div><span style="font-size:12pt;">&gt; Remote, flexible working schedule to live your decentralized life</span></div><div><span style="font-size:12pt;">&gt; Generous vacation + unlimited sick days</span></div><div><span style="font-size:12pt;">&gt; Company laptop and home office equipment stipend</span></div><div><br></div><div><br></div><br/><br/>Please mention the word **EXCEEDS** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <div><span style="font-size:12pt;">Lit Protocol is a decentralized threshold cryptography network, a key piece of  infrastructure for the emerging decentralized internet known as web3.</span></div><div><br></div><div><span style="font-size:16px;">We're a well funded, curious, and passionate team that values independence, creative problem solving, and empowering everyone with systems that are open, secure, and private. </span></div><div><br></div><div><span style="font-size:12pt;">Today, Lit Protocol is being used by hundreds of applications for decentralized access control. In the future, Lit Protocol will serve as part of the foundation for an internet with private and portable user data.</span></div><div><br></div><div><span style="font-size:12pt;">Lit Protocol is looking for a Senior Software Engineer to join our team whose focus will be on the core Lit Protocol infrastructure.</span></div><div><br></div><div><span style="font-size:12pt;">In this role, you will have ownership over the features you implement, and are expected to think critically about how they should work to align with the vision of the entire product.</span></div><div><br></div><div><b style="font-size:12pt;">Core Qualifications:</b></div><div><span style="font-size:12pt;">&gt; Fluency in Rust</span></div><div><span style="font-size:12pt;">&gt; Understanding of smart contracts</span></div><div><span style="font-size:12pt;">&gt; Logical thinker interested in building high-assurance systems</span></div><div><span style="font-size:12pt;">&gt; Able to accurately predict and ship code in a timely manner</span></div><div><span style="font-size:12pt;">&gt; Proven track record of independently driving projects in a fast-paced environment</span></div><div><span style="font-size:12pt;">&gt; Comfortable giving and receiving constructive feedback</span></div><div><span style="font-size:12pt;">&gt; Excellent written and verbal communication skills on both technical and non-technical issues</span></div><div><br></div><div><b style="font-size:12pt;">Nice to Have:</b></div><div><span style="font-size:12pt;">&gt; Experience writing Rust smart contracts on platforms like Cosmos / Solana</span></div><div><span style="font-size:12pt;">&gt; Experience working as part of a distributed team</span></div><div><span style="font-size:12pt;">&gt; Experience building decentralized systems</span></div><div><span style="font-size:12pt;">&gt; Experience in cryptography</span></div><div><br></div><div><b style="font-size:12pt;">Some of the Perks:</b></div><div><span style="font-size:12pt;">&gt; Autonomy to work on meaningful, impactful, and interesting problems</span></div><div><span style="font-size:12pt;">&gt; Token incentives</span></div><div><span style="font-size:12pt;">&gt; Insurance + allocation for spouse/dependent</span></div><div><span style="font-size:12pt;">&gt; Company event travel stipends (conferences, etc)</span></div><div><span style="font-size:12pt;">&gt; Remote, flexible working schedule to live your decentralized life</span></div><div><span style="font-size:12pt;">&gt; Generous vacation + unlimited sick days</span></div><div><span style="font-size:12pt;">&gt; Company laptop and home office equipment stipend</span></div><div><br></div><div><br></div><br/><br/>Please mention the word **EXCEEDS** and tag RNTIuMzcuNTcuMjI1 when applying to show you read the job post completely (#RNTIuMzcuNTcuMjI1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/a74eb10436f2f1f45b0e92e7502c13d21675235747.png" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/6657/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Audius</h5>
-                    <h3>Software Engineer Smart Contracts</h3>
+                    <h5>Level</h5>
+                    <h3> Senior Software Engineer </h3>
                 </td>
                 <td width="300">
-                    <code>software,design,crypto,ethereum,system,music,code,web,engineer,digital nomad</code>
+                    <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-smart-contracts-audius-187695" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/level-senior-software-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><b>Who are we? </b></div><div>
-<a href="https://audius.co/" class="postings-link" rel="noopener noreferrer nofollow">Audius</a> is a digital streaming service that connects fans directly with artists and exclusive new music. </div><div><br></div><div>It does this by being fully decentralized: Audius is owned and run by a vibrant, open-source community of artists, fans, and developers all around the world. Audius gives artists the power to share never-before-heard music and monetize streams directly. Developers can build their own apps on top of Audius, giving them access to one of the most unique audio catalogs in existence. </div><div><br></div><div>Backed by an all-star team of <a href="https://www.crunchbase.com/organization/audius/company_financials#investors" class="postings-link" rel="noopener noreferrer nofollow">investors</a>, Audius was founded in 2018 and serves over 6 million users every month, making it the largest non-financial crypto application ever built.</div><div><br></div><div><b>Who we are looking for? </b></div><div>We are looking for passionate team-players who will help us architect, build, and ship the most difficult parts of the on-chain entities in the Audius protocol, chiefly in Solana (Rust), where you will bring in and craft new expertise on our team. Audius deploys smart contracts across Ethereum and Solana, and we're looking for proficient systems-programmers with a strong background in low-level languages (ideally Rust) to help us deliver the largest non-financial crypto project to date.</div><div><br></div><div>You are a collaborative engineer who enjoys working with a small team to solve big problems that need innovative solutions. Youâre eager to problem solve in a wide variety of spaces within the blockchain ecosystem (think scalability, governance, NFTs, social tokens, etc.). We solve a lot of problems that can't be easily Googled or searched on StackOverflow, and you have the fundamentals and drive to self-start and come to original solutions.</div><div><br></div><div><b>Our Company</b></div><div>Audius is a 26-person team of entrepreneurs, engineers, audiophiles, and blockchain experts. Our benefits include unlimited PTO, high quality paid medical insurance, FSA, 401k, yearly learning stipend, equipment stipend and a home office setup credit. We also have a monthly concert credit (COVID-19 permitting).</div><div><br></div><div>Our company is fully remote and our team is currently distributed across the United States. </div><p>Key Responsibilities</p><p></p><li>Write, test, and deploy Solana blockchain (Rust) programs</li><li>Write, test, and deploy Ethereum blockchain (Solidity) smart contracts</li><li>Work closely with other blockchain engineers on the team and own core pieces of contract code that powers the economics, data storage, and transactional logic across Audius</li><li>Participate deeply in design discussions around tokenomics, blockchain interoperability, blockchain scalability, and governance systems</li><p>Skills and Experience</p><p></p><li>Deep experience with systems programming, ideally in Rust</li><li>Experience developing and shipping blockchain smart contracts</li><li>3+ years of experience building in production environments</li><li>Solid conceptual understanding of full stack software development including system architecture, web serving infrastructure, and database design</li><li>Great interpersonal and communication skills, comfort working within a small team, and owning projects</li><p></p><br/><br/>Please mention the word **DESIROUS** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <img src="https://we-work-remotely.imgix.net/logos/0083/6657/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Asheville, NC
+    <br /><strong>URL:</strong> <a href="https://level.io">https://level.io</a>
+</p>
+
+<div>
+<a href="https://level.io">Level</a> is building a modern remote monitoring and management solution. We are a small, well-funded, team that recently launched our product. We are searching for a strong, multi-talented individual contributor who is comfortable with systems-level programming and networking and can contribute to our agent, written in Go.<br><br><strong>Must-Haves</strong><br>- Deep knowledge of a systems language like C, Rust, or Go.<br>- Not afraid to dig into an RFC. Low-level internals excites you, rather than scare you away.<br>- Experience with system-level APIs in Windows (win32), macOS, and/or Linux.<br>- Excellent written communicator.<br>- Willing to learn and work with Go.<br><br><strong>Nice-to-Haves</strong><br>- You are comfortable using GCC and find yourself at home going through a C codebase.<br>- Familiarity with RPC and common methods of IPC such as sockets and named pipes.<br>- Video encoding experience. You have worked with VP8 and understand the spec.<br>- Building cross-platform libraries, our Go agent compiles to Windows, Darwin, and Linux on a variety of architectures.<br><br><strong>Things you might work on<br></strong>- Building a cross-platform application management system to give users the ability to automatically install and update apps.<br>- Working with VP8 to reduce the latency and bandwidth when streaming a device.<br>- Creating a native GUI for the agent.<br>- Adding a proxy to the agent that enables remote access to routers and switches.<br>- Implementing Trickle ICE to improve WebRTC connection times.<br><br><strong>Why you might want to work with us</strong><br>- We are a small, fully remote engineering team, and there are no layers of bureaucracy. You can have a huge impact here.<br>- We are very flexible with working hours, we don't expect you to work a consistent block of time, and we trust you to get your work done.<br>- We launched within the last year and are starting to grow.<br><br><strong>Why you might not want to work with us</strong><br>- We are an early-stage startup, and while we are well funded, we are careful with our runway and haven't splurged on extra perks like gym memberships or 401k matching.<br>- You want to work with a large team. We believe that small teams are better and do not intend to hire more until it is painful enough to warrant doing so.<br><br><strong>More<br>- </strong>120k USD annual compensation<br>- Most work and communication is async but we do require our employee workdays to have 4-5 hours of overlap with 9-5 EST. This allows us to hire from any timezone but still guarantee collaboration time.</div><div>
+<br><strong>More About Us</strong><br>We are a small, close-knit team working to upend the RMM market with our new product. We have recently launched and have acquired our first hundred customers. Though we are a startup, our investors have given us a multi-year runway.<br><br>Our agent team is small, with just two developers. This hire should be an experienced self-starter that can make an impact on our product development. We aren't interested in someone that just wants to work down a list of pre-defined tasks. Our ideal candidate loves working on products and will help shape the direction of ours. We're going to be improving this product for years and want someone to come on this journey with us.<br><br>We really like the Basecamp philosophy and try to make sure that it doesn’t have to be crazy at work. We won’t ask that you work weekends, or late into the night. We don’t mind if you need to leave for an appointment in the middle of the day. We understand that software development doesn’t happen for 8 hours straight and don’t worry about counting time in the chair. We trust that given a fair timeline with a scope that you help us determine you will be able to deliver features. We are concerned with the end goal, not micromanaging you on the way there.</div><div> </div><div>Collaboration and communication are a critical aspect of how we work, a cover letter is a great way to provide a sample of how you communicate.<br><br>In your cover letter, please describe why you’re interested in working at Level, and what draws you to this role in particular. Specifics of your past experience that are relevant to this role are great to include, too.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/level-senior-software-engineer">https://weworkremotely.com/remote-jobs/level-senior-software-engineer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7710/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Credit Repair Cloud</h5>
+                    <h3> Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/credit-repair-cloud-software-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/7710/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Los Angeles, CA
+    <br /><strong>URL:</strong> <a href="https://www.creditrepaircloud.com/careers">https://www.creditrepaircloud.com/careers</a>
+</p>
+
+<div><strong>Responsibilities:</strong></div><ul>
+<li>Contribute to technical documentation.</li>
+<li>Quickly produce well-organized, optimized, and documented source code.</li>
+<li>Working closely with cross-functional in agile environment.</li>
+<li>Ensuring the code compatibility and stability as per the current technical stack.</li>
+<li>Analyze the business requirements and create precise technical specifications accordingly.</li>
+<li>Applying the coding principles in order to solve the real time engineering problems.</li>
+<li>Creating innovative solutions to meet the company’s technical needs.</li>
+<li>Managing the software development lifecycle and monitoring the system performance.</li>
+<li>Testing the piece of working code written, and fixing the bugs reported.</li>
+</ul><div><strong>Requirements:</strong></div><div><br></div><ul>
+<li>Bachelor’s degree in computer science or related area.</li>
+<li>3-5 years of prior work experience as a PHP Developer.</li>
+<li>Knowledge of front-end technologies including CSS3, JavaScript, and HTML5</li>
+<li>Understanding of object-oriented PHP programming.</li>
+<li>Knowledge of PHP web frameworks including Laravel, Lumen and CodeIgniter.</li>
+<li>Proficient with code versioning tools including Git, BitBucket.</li>
+<li>Proficient in full stack application development with concentration of back-end.</li>
+<li>Familiarity with SQL/NoSQL databases.</li>
+<li>Good to have knowledge of Micro Service Architecture.</li>
+<li>Familiarity with RESTful APIs.</li>
+<li>Knowledge of modern authorization mechanisms, such as JSON Web Token.</li>
+</ul><div><br></div><div>Want to learn more? Visit our careers page <a href="https://www.creditrepaircloud.com/careers">https://www.creditrepaircloud.com/careers</a>
+</div><div><br></div><div><em>Credit Repair Cloud is an Equal Opportunity Employer and is committed to working with a diverse staff. We hire globally for talent and drive and value members by work deliverables and passion. No matter what race, color, creed, religion, gender, gender identity, gender expression, national origin, citizenship, age, sex, sexual orientation, pregnancy, marital status, ancestry, physical or mental disability, military or veteran status, or any other characteristic protected by law, we are all equal here.</em></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/credit-repair-cloud-software-engineer">https://weworkremotely.com/remote-jobs/credit-repair-cloud-software-engineer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -117,7 +185,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-2" align="right" target="_blank">Apply</a>
@@ -219,102 +287,57 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0015/2558/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/3890/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Prospect</h5>
-                    <h3> JavaScript (React) Software Engineer</h3>
+                    <h5>Springboard</h5>
+                    <h3> Mentor - Software Engineering Career Track (Part-time/Remote)</h3>
                 </td>
                 <td width="300">
-                    <code>Front-End Programming</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>210 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/prospect-javascript-react-software-engineer-1" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0015/2558/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0016/3890/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> Waterloo, Canada
-    <br /><strong>URL:</strong> <a href="https://tryprospect.com">https://tryprospect.com</a>
+  <strong>Headquarters:</strong> San Francisco, CA
+    <br /><strong>URL:</strong> <a href="https://www.springboard.com/">https://www.springboard.com/</a>
 </p>
 
-<div>We are a remote startup (headquartered in Canada) building a smart, curious, and driven team that’s making software to help sales reps sell better.</div><div>
-<br>Prospect is a lead generation app that helps you find contact data right inside your browser in real-time. The best sales teams from the top tech companies in the world use Prospect to crush their sales targets.</div><div><strong><br>MORE ABOUT US</strong></div><div>
-<br>We are currently a team of 15 people -- you will be #16 🙂</div><div>
-<br>We are self-funded and profitable (no VCs or investors). We did this because we want to do what’s best for our team and customers.</div><div>
-<br>Authoritative leadership style is practiced here, where the overall goal is given and you have the freedom to choose your own way of achieving it.</div><div>
-<br>We have balanced working hours (~8 hours/day), don’t work weekends, and take ample time off. We don’t have any “managers” and we rarely do any internal meetings.</div><div><strong><br>ABOUT YOU</strong></div><div>
-<br>You enjoy writing beautiful code. You care not just about whether the code works, but you think deeply about how well it performs, and how it will be understood by future developers.</div><div>
-<br>You like shipping things. You realize that building excellent products is a marathon, not a sprint, and regularly make improvements in iterations.</div><div>
-<br>You are an excellent communicator. You realize that working remotely requires thoughtful communication and you do so through great written communication.</div><div>
-<br>You self-manage and are open to feedback. You enjoy taking a goal and figuring out how to ship it without heavy direction and regular check-ins.</div><div>
-<br>You are product and customer-centric. Whether it is a bug fix, perf improvement, or a new feature, you realize that every line of code is an opportunity to make a user’s experience better.</div><div><strong><br>OUR ENGINEERING TEAM RIGHT NOW</strong></div><div>
-<br>We are currently a team of 6 engineers. Our roles are divided based on the projects we work on.</div><div>
-<br>We work in 4-week-long development cycles in which we focus on adding new features, fixing bugs, or making improvements. After each cycle, we have a 2-week cool-off which we use to work on anything we would like to as well as plan for the next cycle.</div><div>
-<br>Our frontend stack is currently:</div><ul>
-<li>
-<strong>Languages</strong>: Mostly TypeScript, with some ES6</li>
-<li>
-<strong>Frameworks</strong>: React, Redux, Redux Sagas</li>
-<li>
-<strong>Tooling</strong>: ESLint, Jest, Prettier, Storybook</li>
-</ul><div>
-<br>And the rest of our stack is currently:</div><ul>
-<li>
-<strong>Backend</strong>: Java with modern practices</li>
-<li>
-<strong>Cloud</strong>: AWS, managed by Terraform</li>
-<li>
-<strong>Database</strong>: PostgreSQL</li>
-<li>
-<strong>Internal:</strong> GitLab, Linear, and LaunchDarkly</li>
-</ul><div>
-<br><strong>PROJECTS YOU WILL WORK ON</strong>
-</div><div>
-<br>You will be working on our core application’s frontend. The application is a React/Redux application written in TypeScript with modern best practices.</div><div>
-<br>This is a high-impact role. We are looking for someone to take real ownership of one or two core features within the first year. You will own some extremely important parts of our application that serve thousands of customers.</div><div>
-<br>We prioritize our projects based on what customers are requesting the most. Some things that you might work on include:</div><ul>
-<li>
-<strong>DevOps</strong>: Improve the CI pipeline by improving static analysis and adding tests</li>
-<li>
-<strong>Improvements</strong>: Improve performance to render UI at 60fps</li>
-<li>
-<strong>Integrations</strong>: Add features to and revamp our Salesforce integration</li>
-<li>
-<strong>Platform</strong>: Make the main app, a Chrome Extension, work on other platforms</li>
-<li>
-<strong>Upgrades</strong>: Migrate to the latest versions of core dependencies, such as React</li>
-</ul><div>
-<br><strong>MUST HAVES</strong>
+<div><strong>The Opportunity</strong></div><div><br></div><div>Springboard runs an online, self-paced Software Engineering Career Track in which participants learn with the help of a curated curriculum and 1-1 guidance from an expert mentor. Our mentor community - the biggest strength of our programs - comprises some of the best software engineering experts in the field.</div><div><br></div><div>If you are as passionate about mentoring as you are about software engineering, and can give a few hours per week in return for an honorarium, we would love to hear from you.</div><div><br></div><div>Please reach out to us with any questions at mentorrecruiting@springboard.com <br><br><strong>The Program</strong>
 </div><ul>
-<li>3+ years of JavaScript programming experience</li>
-<li>Experience shipping React applications to production</li>
-</ul><div>
-<br><strong>BONUS NICE-TO-HAVES</strong>
-</div><ul>
-<li>Past remote work experience</li>
-<li>Experience at a startup or a small company</li>
-<li>Experience working with Rust and TypeScript</li>
-<li>Front-end design experience (Figma/Sketch, CSS, an eye for good user interfaces)</li>
-</ul><div>
-<br><strong>COMPENSATION AND PERKS</strong>
-</div><ul>
-<li>Salary: $75,000 - $85,000 USD per year</li>
-<li>$1,500 annual continued learning budget (for books, courses, and self-improvement)</li>
-<li>$1,000+ annual travel spending allowance (money to spend during your vacation)</li>
-<li>Flexible working hours (4 hour overlap with EST and the remaining 4 flexible)</li>
-<li>4 weeks paid time off</li>
-<li>Benefits (health, dental, etc) through our company HSA (for people living in Canada)</li>
-</ul>
+<li>Completely online and self-paced</li>
+<li>Students become proficient in Software Engineering with the help of a curated online curriculum and project-based deliverables</li>
+<li>Coursework is made up of 800+ hour expert-curated curriculum in partnership with <a href="https://www.rithmschool.com/">Rithm School</a>
+</li>
+<li>On average, students finish in 9 months</li>
+<li>Students are working professionals from all over the world, dedicated to switching careers into Software Engineering</li>
+<li>Students have a weekly 30-minute checkin with their mentor to discuss questions, projects, and career advice!</li>
+</ul><div><strong>You</strong></div><ul>
+<li>are as passionate about teaching coding as about software engineering itself</li>
+<li>are proficient in the topics covered in our <a href="https://ddf46429.springboard.com/uploads/resources/1572915743_Software_Engineering_Career_Track_-_Syllabus_2019.11.04.pdf">Software Engineering Career Track</a> and are fluent in technologies such as HTML, CSS, JavaScript, React, Python, Flask, SQL, Data Structures and Algorithms</li>
+<li>have at least 3+ years of relevant work experience </li>
+<li>are available for weekly, 30-minute video check-ins with students to help them set and achieve learning goals, answer subject matter questions, provide feedback on projects, and offer career advice</li>
+<li>have experience critiquing work, in particular giving meaningful feedback on web development, and are able to think on your feet quickly</li>
+<li>are empathetic and have excellent communication skills</li>
+</ul><div><strong>Benefits</strong></div><ul>
+<li>Software Engineering mentors are paid an honorarium between $17.50-$32.50 per 30 minute call with students</li>
+<li>Membership in a rich community of expert mentors from great companies like AirBnB, Uber, Google, and Pivotal</li>
+<li>Change the lives of students in our program</li>
+<li>Help us revolutionize online education and inspire the next generation of software engineers!</li>
+<li>Work at your convenience</li>
+</ul><div><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/prospect-javascript-react-software-engineer-1">https://weworkremotely.com/remote-jobs/prospect-javascript-react-software-engineer-1</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3">https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3</a></p>
 
                 </details>
                 </td>
@@ -330,7 +353,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -392,7 +415,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
