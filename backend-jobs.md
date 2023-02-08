@@ -10,7 +10,7 @@
                     <code>design,web3,solidity,crypto,frontend,technical,support,software,code,scrum,financial,nodejs,nosql,mobile,lead,junior,excel,telecom,go,golang,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-lead-backend-engineer-giant-protocol-190205" align="right" target="_blank">Apply</a>
@@ -69,7 +69,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">401k with company match</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Annual professional development budget</span></li>
 </ul>
-</div><br/><br/>Please mention the word **MASTERFULLY** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **MASTERFULLY** and tag RNTIuMzcuNTcuMjI1 when applying to show you read the job post completely (#RNTIuMzcuNTcuMjI1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -84,7 +84,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/covergo-senior-backend-engineer-net-6" align="right" target="_blank">Apply</a>
@@ -136,7 +136,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>452 days ago</text>
+                <text>453 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer" align="right" target="_blank">Apply</a>
@@ -204,30 +204,6 @@
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer">https://weworkremotely.com/remote-jobs/agencyanalytics-senior-backend-engineer</a></p>
 
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1445184469132926979/udMW3mSs_400x400.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Slab</h5>
-                    <h3>Senior Backend Engineer</h3>
-                </td>
-                <td width="300">
-                    <code></code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://jobs.lever.co/slab/e97d694f-2ef9-47e7-8599-c6e624e4d084" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="section page-centered" data-qa="job-description"><div><b style="font-size: 18px">About: </b></div><div><br></div><div>At&nbsp;<a href="https://slab.com/" class="postings-link">Slab</a>, we believe that knowledge is the foundation of any organization's success. When a team's collective knowledge is accessible, that team's potential is limitless. That's why we're making the workplace a source of learning and purpose through knowledge-sharing. Our product helps teams easily create, organize, and discover knowledge across the entire company, from non-technical to tech-savvy. Thousands of customers rely on Slab across their entire workforces, including Asana, Benchling, and Fivetran.</div><div><br></div><div>As a small product-focused company, you'll join a team of experienced engineers, working on shipping features that delight users, fixing issues that get in their way while keeping our codebase, infrastructure, and tooling modern and well-maintained. We are globally distributed, with processes that minimize meetings and overhead, letting makers build on the maker's schedule.</div></div><div class="section page-centered"><div><h3>Technologies we use:</h3><ul class="posting-requirements plain-list"><ul><li>React + TypeScript + Sass</li><li>GraphQL + Apollo + Absinthe</li><li>Elixir + Phoenix</li><li>Postgres + Redis</li><li>Docker + Kubernetes</li><li>Google Cloud Platform </li></ul></ul></div></div><div class="section page-centered"><div><h3>Sound like you? </h3><ul class="posting-requirements plain-list"><ul><li>You have a strong technical background, with experience solving complex problems within a software development team</li><li>You love delighting users with great product experiences and resolving issues that get in their way</li><li>You're curious to learn and demonstrate the ability to do so very quickly</li><li>You communicate with clearly and concisely, whether with teammates or users</li><li>You are self-motivated and possess a strong work ethic</li><li>You are passionate about knowledge-sharing and identify with Slab's mission and values</li></ul></ul></div></div><div class="section page-centered"><div><h3>What we value:</h3><ul class="posting-requirements plain-list"><ul><li><b>Stay lean</b>&nbsp;- We strive for the greatest possible impact with the fewest number of employees. We empower our teammates with the most leveraged tools and efficient processes.</li><li><b>Default to open</b>&nbsp;- We encourage and nurture open exchanges of knowledge and ideas — while acting with respect and regard for each other.</li><li><b>Think rigorously</b>&nbsp;- We act and execute after careful thought and examination of known information, while acknowledging the risks we accept in its absence.</li><li><b>Say no</b>&nbsp;- We aim to deliver exceptionally high value in a small set of focus areas. We willingly abstain from good ideas to give only the most promising paths the attention they deserve.</li><li><b>The best prevails</b>&nbsp;- Whether an idea or an individual, the best will rise to the top at Slab. Ideas we pursue can come from anywhere, and individuals gain responsibilities due to outperformance.</li><li><b>Global optimization</b>&nbsp;- We believe that our mission — to make the workplace a source of learning and purpose — is the ultimate priority, above any single project, team, or individual.</li></ul></ul></div></div><div class="section page-centered"><div><h3>Benefits:</h3><ul class="posting-requirements plain-list"><ul><li>Full health insurance (USA) or stipend (International)</li><li>Wellness &amp; remote work stipends</li><li>$5k workspace setup, renewed biannually</li><li>7-year options exercise window</li></ul></ul></div></div><!--[2022-11-28] [GOLD-2535] Remove payTransparencyV1 when feature flag is fully removed--><div class="section page-centered" data-qa="closing-description"><div><i>Slab is an equal opportunity employer. We welcome people of diverse backgrounds, experiences, and perspectives.</i></div></div><div class="section page-centered last-section-apply" data-qa="btn-apply-bottom"><a class="postings-btn template-btn-submit hex-color" data-qa="show-page-apply" href="https://jobs.lever.co/slab/e97d694f-2ef9-47e7-8599-c6e624e4d084/apply">Apply for this job</a></div>
                 </details>
                 </td>
             </tr></table>
