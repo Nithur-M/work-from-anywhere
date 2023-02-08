@@ -10,7 +10,7 @@
                     <code>ui,ux,design,web3,front-end,designer,testing,go,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-ui-ux-designer-metaschool-188213" align="right" target="_blank">Apply</a>
@@ -64,7 +64,7 @@
 <li>Macbook + Workstation Allowance</li>
 <li>Multiple Tech subscription(s) to make your life easier</li>
 <li>And an amazing bunch of weird frens!!</li>
-</ul><div>We are so excited to see you around. Please reach out to us and weâd be happy to speak to you.</div><br/><br/>Please mention the word **ADVANTAGEOUS** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>We are so excited to see you around. Please reach out to us and weâd be happy to speak to you.</div><br/><br/>Please mention the word **ADVANTAGEOUS** and tag RNTIuMzcuNTcuMjI1 when applying to show you read the job post completely (#RNTIuMzcuNTcuMjI1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -79,7 +79,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/interaction-design-foundation-ux-editor-course-designer" align="right" target="_blank">Apply</a>
@@ -166,7 +166,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>454 days ago</text>
+                <text>455 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -232,7 +232,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
