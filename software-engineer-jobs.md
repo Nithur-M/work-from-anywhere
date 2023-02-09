@@ -10,7 +10,7 @@
                     <code>software,design,saas,web3,bitcoin,ethereum,embedded,security,javascript,java,api,senior,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-smart-contracts-swirlds-labs-189714" align="right" target="_blank">Apply</a>
@@ -53,31 +53,94 @@
 <li>Systems programming experience including providing services to other software (e.g. operating systems, computational science applications, industrial automation, and SaaS applications) is a big plus</li>
 <li>7+ years of software development experience</li>
 <li>Master's degree in Computer Science or similar field, or equivalent work experience</li>
-</ul><br/><br/>Please mention the word **FONDLY** and tag RNTIuMzcuNTcuMjI1 when applying to show you read the job post completely (#RNTIuMzcuNTcuMjI1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **FONDLY** and tag RMzUuMTY0LjgzLjEzOA== when applying to show you read the job post completely (#RMzUuMTY0LjgzLjEzOA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/6903e51cd76416010223d6da6560a1fe1675322165.peg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/6644/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Lit Protocol</h5>
-                    <h3>Senior Software Engineer Distributed Systems</h3>
+                    <h5>GoSkills</h5>
+                    <h3> Full-stack .NET Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>software,technical,code,travel,senior,engineer</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-distributed-systems-lit-protocol-188217" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/goskills-full-stack-net-software-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div><span style="font-size:12pt;">Lit Protocol is a decentralized threshold cryptography network, a key piece of  infrastructure for the emerging decentralized internet known as web3.</span></div><div><br></div><div><span style="font-size:16px;">We're a well funded, curious, and passionate team that values independence, creative problem solving, and empowering everyone with systems that are open, secure, and private. </span></div><div><br></div><div><span style="font-size:12pt;">Today, Lit Protocol is being used by hundreds of applications for decentralized access control. In the future, Lit Protocol will serve as part of the foundation for an internet with private and portable user data.</span></div><div><br></div><div><span style="font-size:12pt;">Lit Protocol is looking for a Senior Software Engineer to join our team whose focus will be on the core Lit Protocol infrastructure.</span></div><div><br></div><div><span style="font-size:12pt;">In this role, you will have ownership over the features you implement, and are expected to think critically about how they should work to align with the vision of the entire product.</span></div><div><br></div><div><b style="font-size:12pt;">Core Qualifications:</b></div><div><span style="font-size:12pt;">&gt; Fluency in Rust</span></div><div><span style="font-size:12pt;">&gt; Understanding of smart contracts</span></div><div><span style="font-size:12pt;">&gt; Logical thinker interested in building high-assurance systems</span></div><div><span style="font-size:12pt;">&gt; Able to accurately predict and ship code in a timely manner</span></div><div><span style="font-size:12pt;">&gt; Proven track record of independently driving projects in a fast-paced environment</span></div><div><span style="font-size:12pt;">&gt; Comfortable giving and receiving constructive feedback</span></div><div><span style="font-size:12pt;">&gt; Excellent written and verbal communication skills on both technical and non-technical issues</span></div><div><br></div><div><b style="font-size:12pt;">Nice to Have:</b></div><div><span style="font-size:12pt;">&gt; Experience writing Rust smart contracts on platforms like Cosmos / Solana</span></div><div><span style="font-size:12pt;">&gt; Experience working as part of a distributed team</span></div><div><span style="font-size:12pt;">&gt; Experience building decentralized systems</span></div><div><span style="font-size:12pt;">&gt; Experience in cryptography</span></div><div><br></div><div><b style="font-size:12pt;">Some of the Perks:</b></div><div><span style="font-size:12pt;">&gt; Autonomy to work on meaningful, impactful, and interesting problems</span></div><div><span style="font-size:12pt;">&gt; Token incentives</span></div><div><span style="font-size:12pt;">&gt; Insurance + allocation for spouse/dependent</span></div><div><span style="font-size:12pt;">&gt; Company event travel stipends (conferences, etc)</span></div><div><span style="font-size:12pt;">&gt; Remote, flexible working schedule to live your decentralized life</span></div><div><span style="font-size:12pt;">&gt; Generous vacation + unlimited sick days</span></div><div><span style="font-size:12pt;">&gt; Company laptop and home office equipment stipend</span></div><div><br></div><div><br></div><br/><br/>Please mention the word **EXCEEDS** and tag RNTIuMzcuNTcuMjI1 when applying to show you read the job post completely (#RNTIuMzcuNTcuMjI1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <img src="https://we-work-remotely.imgix.net/logos/0083/6644/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> New Zealand
+    <br /><strong>URL:</strong> <a href="https://www.goskills.com">https://www.goskills.com</a>
+</p>
+
+<div>Are you an experienced full-stack engineer? Do you like to figure things out? Are you looking for autonomy and focus? Are you a team player? Do you enjoy building a quality product? Do you want to work as part of a remote team? </div><div><br></div><div>GoSkills is an online education company dedicated to providing high-quality courses and an easy-to-use learning platform.</div><div><br></div><div>We are looking for a self-motivated software developer to join our team of ten developers. The development team also works closely with the design, marketing and customer support teams.</div><div><br></div><div>The people you will work with are distributed around the globe but mostly based in the Americas, Europe and New Zealand, so ideally you are located somewhere within these time zones. Our team is distributed across 14 countries, either working from home or from co-working spaces.</div><div><br></div><div><strong><br>Skills</strong></div><ul>
+<li>You have excellent software development skills</li>
+<li>You like to build products that look great</li>
+<li>You are willing to learn and develop your skills</li>
+<li>You are proactive, and have strong drive and initiative</li>
+<li>You have excellent attention to detail</li>
+<li>You have great communication skills</li>
+<li>You’re a team player and you also work independently</li>
+<li>Degree in Computer Science, Software Engineering or similar, or equivalent experience</li>
+</ul><div><strong><br>Technologies</strong></div><div>You have 3+ years of experience with:</div><ul>
+<li>.NET </li>
+<li>C#</li>
+<li>SQL</li>
+<li>JavaScript</li>
+</ul><div><br></div><div>We use a variety of other technologies, which you might have experience with:</div><ul>
+<li>Blazor</li>
+<li>Bootstrap</li>
+<li>TypeScript</li>
+<li>jQuery</li>
+<li>SASS</li>
+</ul><div><br></div><div><strong>What you get</strong></div><ul>
+<li>
+<strong>Remote work</strong>: We are a fully remote and distributed team, with our team members spread across 15 countries currently. </li>
+<li>
+<strong>Vacation days</strong>: 20 days of paid time off per year, plus 12 local public holidays, wherever you are.</li>
+<li>
+<strong>Work-life balance</strong>: Enjoy a flexible schedule based on your personal daily routine. This is a full-time position, so we expect 8 hours of work time per working day on average. We don’t expect crazy long hours, overtime and burn out. We expect good time management skills and high quality output during your regular work hours. </li>
+<li>
+<strong>Team retreat</strong>: We all travel and meet up at an exotic location for a week about once per year to have fun and get to know each other. Our last retreat was in Costa Rica. The next one might be in Croatia.</li>
+<li>
+<strong>Strong team culture</strong>: We build and maintain a strong team culture. This includes weekly all-hands Zoom calls, weekly team calls, and virtual catch-ups over tea/coffee/beer. There are no internal politics, we speak up if there are any issues and we treat each other with respect. We also like to be social, kind and fun.</li>
+<li>
+<strong>Diversity and inclusion</strong>: Our team members come from diverse backgrounds from different countries and cultures, and we are equally represented by gender (50:50 ratio), including our co-founders and management team. We value each person’s opinions and unique perspectives. We love to solve problems creatively and collaboratively.</li>
+<li>
+<strong>Autonomy in your work</strong>: We trust you to make the best decisions to achieve your goals. We provide you with enough support to get your work done to a high standard and let you get on with it. We have a flat company structure, we make fast decisions and iterate quickly. </li>
+<li>
+<strong>Personal growth and development</strong>: We invest in your long-term growth and development. You will work closely with team members to grow your skill set and we support you with courses, mentorship, training, workshops and conferences. </li>
+<li>
+<strong>Top-notch collaboration tools</strong>: We use Slack, Trello, Google Docs, Google Drive and Zoom to communicate and collaborate efficiently. We hardly use email at all.</li>
+</ul><div><br></div><div><strong>Why work for GoSkills?</strong></div><div>Does the thought of working with a fully remote, bootstrapped team of motivated people excite you? Do you have the drive to accelerate us on our path to becoming a fast-growing educational company? </div><div><br></div><div>This is your opportunity for a meaningful, long-term role to accelerate your career by contributing to the growth of an innovative tech company. Your work will have a real-life impact on people’s lives as we help them learn, upskill and stay relevant in the workplace. </div><div><br></div><div><strong>About our team </strong></div><div>Our team is small and fully distributed, and working remotely is part of our DNA. This means you’ll find a great remote working environment focused around making your day-to-day enjoyable and efficient. </div><div><br></div><div>We are a fun and social bunch, who communicate daily across time zones and continents, and have a strong culture that reflects the following values.</div><div><br></div><ul>
+<li>
+<strong>Openness &amp; creativity</strong>: Speak up! We encourage open communication, questioning minds and thinking outside the box.</li>
+<li>
+<strong>Freedom &amp; equality</strong>: Everyone deserves autonomy in their jobs and an equal chance at success.</li>
+<li>
+<strong>Fun</strong>: Have fun and be silly! Follow your passion, love what you do and don’t take life too seriously :)</li>
+<li>
+<strong>Quality &amp; innovation</strong>: We hold ourselves to high standards to ensure our learners have the best possible experience and achieve real results.</li>
+<li>
+<strong>Surprise &amp; delight: </strong>Our customers’ success=our success. We make customer satisfaction a top priority with every interaction.</li>
+<li>
+<strong>Be good: </strong>We make choices that reflect good moral character, and strive to be the most responsible organization we can be.</li>
+</ul><div>
+<br>Learn more at <a href="http://www.goskills.com/about">www.goskills.com/about</a>. </div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/goskills-full-stack-net-software-engineer">https://weworkremotely.com/remote-jobs/goskills-full-stack-net-software-engineer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -92,7 +155,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/level-senior-software-engineer" align="right" target="_blank">Apply</a>
@@ -128,7 +191,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/credit-repair-cloud-software-engineer" align="right" target="_blank">Apply</a>
@@ -175,118 +238,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0075/9006/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>LeadSimple, Inc.</h5>
-                    <h3> Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>1 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0075/9006/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Washington State, U.S.A.
-    <br /><strong>URL:</strong> <a href="https://www.leadsimple.com/careers">https://www.leadsimple.com/careers</a>
-</p>
-
-<div>🚀 Want to join a team of A-players in an exciting, high-growth, entrepreneurial environment?</div><div><br></div><div><strong>LeadSimple is a small team solving big problems in the property management industry. Bootstrapped since 2013, we're passionate about helping small businesses grow sustainably.</strong></div><div><br></div><div>Our software provides a powerful foundation for any property management company to take their business to the next level. Thousands of property managers rely on us for their day-to-day operations and we’re only getting started. </div><div><br></div><div>We’re looking for seasoned Senior and Lead Ruby on Rails Engineers to join our fully-remote team to help us scale to meet market demand. This is an opportunity to join on the ground floor of a bootstrapped, growing company with a lot of upside.</div><div><br></div><div><strong>What we’d want you to do:</strong></div><div><br></div><ul>
-<li>Assist with complex migration projects, such as:</li>
-<li>Modernizing our back-end stack (we’re currently on Rails 4)</li>
-<li>Optimizing our API and PostgreSQL database for scale and performance</li>
-<li>Suggest and implement scalability improvements</li>
-<li>Collaborate with the rest of the team in weekly meetings, chat and code reviews</li>
-<li>Develop new full-stack features from start to finish using the <a href="https://basecamp.com/shapeup/webbook">Shape Up method</a>
-</li>
-<li>Write high-quality and maintainable Ruby and Typescript code</li>
-</ul><div><br></div><div><strong>Qualifications</strong></div><div><br></div><div><em>Must have</em></div><ul>
-<li>5+ years of experience with Ruby on Rails</li>
-<li>Fluent spoken and written English at a professional level.</li>
-<li>Working hours must overlap with PST for at least 3 hours.</li>
-<li>Familiarity with PostgreSQL query optimization and scaling strategies</li>
-<li>Strong analytical and debugging skills</li>
-<li>Strong communication skills, able to recommend decisions using data and experience</li>
-</ul><div><br></div><div><em>Nice to have</em></div><ul>
-<li>Prior experience upgrading Ruby on Rails (this would be a big plus!)</li>
-<li>React, Typescript or GraphQL experience</li>
-<li>Elixir experience (we have 1 service using Elixir)</li>
-</ul><div><br></div><div><strong>Our Stack</strong></div><div><br></div><div><em>Front-end</em></div><ul>
-<li><a href="https://www.typescriptlang.org/">Typescript</a></li>
-<li>
-<a href="https://reactjs.org/">React</a> </li>
-<li><a href="http://mui.com/">MaterialUI</a></li>
-<li>
-<a href="https://relay.dev/">Relay<br></a><br>
-</li>
-</ul><div>
-<em>Back-end<br></em><br>
-</div><ul>
-<li>
-<a href="http://rubyonrails.org/">Ruby on Rails</a> monolith (with 95% test coverage)</li>
-<li>GraphQL (via <a href="https://graphql-ruby.org/">graphql-ruby</a> gem)</li>
-<li>Sidekiq</li>
-<li>PostgreSQL</li>
-<li>Redis</li>
-<li>Heroku<br><br>
-</li>
-</ul><div><br></div><div>
-<strong>What it’s like to work here<br></strong><br>
-</div><ul>
-<li>You’ll have opportunities to work on the entire stack, from databases to user interfaces and everything in between, in a wide variety of product areas.</li>
-<li>You’ll own the delivery of high-impact projects that affect real customers, from start to finish, with no bureaucracy, following the <a href="https://basecamp.com/shapeup/webbook">Shape Up method</a>. </li>
-<li>You’ll collaborate within a small, highly productive team, reviewing code and helping other engineers with their roadblocks.</li>
-<li>You’ll have time to focus. We don’t micromanage, and we do our best to keep distractions (and meetings) to a minimum. </li>
-<li>When assigned to on-call duty, you’ll investigate and fix bugs and respond to incidents. </li>
-<li>You’ll deploy early and often. We ship to production multiple times per day.<br><br>
-</li>
-</ul><div>
-<strong><br>Benefits<br></strong><br>
-</div><ul>
-<li>Remote-only team, location independent</li>
-<li>3rd Friday of every month off</li>
-<li>6 US Holidays</li>
-<li>3 Weeks Paid Time Off (in addition to the above)</li>
-<li>Quarterly Two-Week Hackathons</li>
-<li>Monthly Healthcare Allowance</li>
-<li>Yearly Vacation Allowance</li>
-<li>$2000 equipment stipend upon hire</li>
-<li>Focused and dedicated environment with smart, caring people</li>
-<li>Consistent, but flexible working schedule with minimum 3hr Pacific Time Zone overlap</li>
-<li>Mission driven, non-political company and values-based culture<br><br>
-</li>
-</ul><div>
-<strong>Our Interview Process<br></strong><br>
-</div><ul>
-<li>Fill out our application, located <a href="https://docs.google.com/forms/d/e/1FAIpQLSeF5zo6hIcTQK8gP9LLGz6sTZMXGI1vDHPVbkpISxiy9CvOfQ/viewform?usp=sf_link">here</a>
-</li>
-<li>Intro call (30 minutes)</li>
-<li>Offline work sample test (up to 60 minutes)</li>
-<li>Work history interview with Hiring Manager (up to 90 minutes)</li>
-<li>Culture interview with People Operations<strong> </strong>(30 minutes)</li>
-<li>Meet the CTO<strong> </strong>(30 minutes)</li>
-<li>Meet the CEO (30 minutes)</li>
-<li>Offer call (15 minutes), followed by a written offer</li>
-<li>If you accept the offer, you enter a 90-day trial period, fully paid.</li>
-<li>If all goes well in your first 90 days, you convert to a full-time team member!</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-2">https://weworkremotely.com/remote-jobs/leadsimple-inc-senior-software-engineer-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/3890/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -297,7 +248,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>210 days ago</text>
+                <text>211 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
@@ -353,7 +304,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -415,7 +366,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
