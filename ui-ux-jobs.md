@@ -1,74 +1,5 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/427925b8d5c2c46578632c3fc627a92b1675322140.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Metaschool</h5>
-                    <h3>UI UX Designer</h3>
-                </td>
-                <td width="300">
-                    <code>ui,ux,design,web3,front-end,designer,testing,go,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-ui-ux-designer-metaschool-188213" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>Metaschool is looking for a UI/UX Designer to join our team. We are on a mission to create an intuitive and user-friendly experience for our users, and we need your help to make it happen.<br><br>
-</div><div>We're a decentralized, remote-first company with teammates based in Singapore, India, and Pakistan (for now ð). We are divided by borders but our common mission to help developers build and flourish in the web3 ecosystem has brought us very close. If you are in any timezone of Asia and are passionate about blockchain, web3, and education, we would love to have you onboard.<br><br>
-</div><div>
-<strong>Our Values</strong><br><br>
-</div><ul>
-<li>
-<strong>Buidl dope shit!</strong> - We care about what you have built, not your degrees or FAANG experience.</li>
-<li>
-<strong>Stay weird -</strong>Â  Own yourself, be yourself! Diversity is our strength!</li>
-<li>
-<strong>Improve daily -</strong> Daily efforts compound. Donât underestimate them.</li>
-<li>
-<strong>Developers come first -</strong> We are building for devs. Put them first, always!</li>
-<li>
-<strong>Learners for life -</strong> Leave your ego outside, learn whenever you can.</li>
-<li>
-<strong>Collaborate to win -</strong> If you want to go far, collaborate and go with a team.</li>
-</ul><div>
-<strong>Key Responsibilities</strong><br><br>
-</div><ul>
-<li>Design and develop user interfaces for our web3 platform.</li>
-<li>Create wireframes, mockups, and interactive prototypes to communicate design ideas.</li>
-<li>Work closely with the product and development teams to ensure the final designs meet user needs and business goals.</li>
-<li>Conduct user research and testing to gather feedback and improve the user experience.</li>
-<li>Keep up to date with the latest design trends and technologies to ensure our platform stays modern and competitive.</li>
-</ul><div>
-<strong>Requirements</strong><br><br>
-</div><ul>
-<li>2+ years of experience in UI/UX design, with a portfolio of relevant work.</li>
-<li>Strong understanding of web3 and blockchain technology.</li>
-<li>Strong understanding of design principles and front-end technologies, such as HTML, CSS, and JavaScript.</li>
-<li>Experience with design tools such as Figma, Sketch, Adobe XD, etc.</li>
-<li>Strong problem-solving skills, attention to detail, and ability to work independently.</li>
-<li>Strong communication and collaboration skills, as you will be working closely with a cross-functional team.</li>
-<li>Bonus: experience with smart contract development and blockchain wallets like MetaMask, Trust Wallet.</li>
-</ul><div>If any of the above doesnât apply to you and you still strongly feel you can do it. Donât let us stop you.. Apply for the opportunity.<br><br>
-</div><div><strong>Perks</strong></div><div>At Metaschool, you will have exposure to product, business, growth, technology and everything in between. Additionally, you will get:<br><br>
-</div><ul>
-<li>Competitive Salary</li>
-<li>Generous Equity</li>
-<li>Health Insurance</li>
-<li>Paid Time off</li>
-<li>Macbook + Workstation Allowance</li>
-<li>Multiple Tech subscription(s) to make your life easier</li>
-<li>And an amazing bunch of weird frens!!</li>
-</ul><div>We are so excited to see you around. Please reach out to us and weâd be happy to speak to you.</div><br/><br/>Please mention the word **ADVANTAGEOUS** and tag RNTIuMzcuNTcuMjI1 when applying to show you read the job post completely (#RNTIuMzcuNTcuMjI1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0017/2183/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -79,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/interaction-design-foundation-ux-editor-course-designer" align="right" target="_blank">Apply</a>
@@ -166,7 +97,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>455 days ago</text>
+                <text>456 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-ux-ui-designer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -232,7 +163,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
