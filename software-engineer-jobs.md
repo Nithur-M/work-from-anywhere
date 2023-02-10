@@ -1,5 +1,56 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/54f50bfa3e806801fbfe58768edceca41675926970.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>MakersPlace</h5>
+                    <h3>Lead Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,growth,cloud,leader,lead,senior,go,engineer,engineering</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-lead-software-engineer-makersplace-191717" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><b style="font-size:18px;">About MakersPlace</b></div><div>Founded in 2018, MakersPlace is a curated online marketplace that allows artists to create and sell unique digital creations (NFTs) using blockchain technology (digital art marketplace). We offer a platform aimed at empowering digital creators to create and sell their unique pieces, while providing verifiable proof of authenticity, ownership, and scarcity on the blockchain. Stay up to date on all of our hottest drops and collaborations at MakersPlace on <a href="https://www.linkedin.com/company/makersplace" class="postings-link" rel="noopener noreferrer nofollow">Linkedin</a>, <a href="https://twitter.com/makersplaceco" class="postings-link" rel="noopener noreferrer nofollow">Twitter</a> and on our <a href="https://rare.makersplace.com/" class="postings-link" rel="noopener noreferrer nofollow">Blog</a>.</div><div><br></div><div><b><span style="font-size:18px;">About the Role</span></b></div><div><span style="font-size:11pt;">We are looking for a strong leader to join our team and work with us to invent the future of the digital economy.  We need someone who can easily lead by example and demonstrate accountability and impact.  This candidate will care deeply about their team and work to help them grow and achieve wildly amazing results. This person has worked in many stacks and frameworks and has deep knowledge in architecting reliable cloud systems at scale.  </span></div><p></p><h4>Our Principals</h4><p></p><p></p><ul>
+<li>Clear and measurable objectives (focused on user value)</li>
+<li>Isolated, Independent, single responsibility services</li>
+<li>Starting small and failing fast</li>
+<li>Experimentation and Innovation</li>
+<li>Test Driven Culture</li>
+<li>Prioritize learning</li>
+</ul><p></p><h4>You Have</h4><p></p><p></p><ul>
+<li>Degree in Computer Science or equivalent work experience (8+ years programming).</li>
+<li>Strong customer-first mindset, necessary to build a world-class product.</li>
+<li>Strong communication skills. Weâre a highly collaborative team.</li>
+<li>Experience with a dynamic programming language such as Python. </li>
+</ul><p></p><h4>Technical Stack</h4><p></p><p></p><ul>
+<li>React, GraphQL</li>
+<li>Python, Django, Celery</li>
+<li>AWS, RDS, Kinesis, ElasticSearch, Redis, IPFS</li>
+<li>Solidity, Hardhat </li>
+<li>Web3, <a href="http://Ether.js" class="postings-link" rel="noopener noreferrer nofollow">Ether.js</a>
+</li>
+</ul><p></p><h4>Benefits and Perks</h4><p></p><p></p><ul>
+<li>Health/Vision/Dental </li>
+<li>$500 workstation stipend, with an additional $1000 after 6 months of employment.</li>
+<li>Flexible vacation policy + 1 personal day off / month.</li>
+<li>Weekly team sponsored lunches</li>
+<li>$500/Quarter AirBnB stipendâ we want you to go out and enjoy life!</li>
+<li>100% Remote</li>
+<li>â¦and more!</li>
+</ul><div><b style="font-size:18px;">The Team</b></div><div>At MakersPlace, we curate our team as carefully as we do our digital marketplace to ensure the best experience for both our creative community and employees. Our remote-first company was founded by senior engineering leaders from Pinterest, including the first engineer and former head of growth engineering, and is funded by top-tier venture capital funds and angels in Silicon Valley.</div><div><br></div><div><br></div><div><i>MakersPlace is an equal opportunity employer and highly values diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</i></div><div><br></div><div><i>MakersPlace participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S. </i></div><div>#li-remote</div><br/><br/>Please mention the word **CASHBACK** and tag RMTUxLjgwLjE0My4yMDY= when applying to show you read the job post completely (#RMTUxLjgwLjE0My4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/7d11bfea94cb970b9d03235e62e484a91675581353.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +61,7 @@
                     <code>software,design,saas,web3,bitcoin,ethereum,embedded,security,javascript,java,api,senior,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-smart-contracts-swirlds-labs-189714" align="right" target="_blank">Apply</a>
@@ -53,94 +104,7 @@
 <li>Systems programming experience including providing services to other software (e.g. operating systems, computational science applications, industrial automation, and SaaS applications) is a big plus</li>
 <li>7+ years of software development experience</li>
 <li>Master's degree in Computer Science or similar field, or equivalent work experience</li>
-</ul><br/><br/>Please mention the word **FONDLY** and tag RMzUuMTY0LjgzLjEzOA== when applying to show you read the job post completely (#RMzUuMTY0LjgzLjEzOA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/6644/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>GoSkills</h5>
-                    <h3> Full-stack .NET Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>0 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/goskills-full-stack-net-software-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/6644/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> New Zealand
-    <br /><strong>URL:</strong> <a href="https://www.goskills.com">https://www.goskills.com</a>
-</p>
-
-<div>Are you an experienced full-stack engineer? Do you like to figure things out? Are you looking for autonomy and focus? Are you a team player? Do you enjoy building a quality product? Do you want to work as part of a remote team? </div><div><br></div><div>GoSkills is an online education company dedicated to providing high-quality courses and an easy-to-use learning platform.</div><div><br></div><div>We are looking for a self-motivated software developer to join our team of ten developers. The development team also works closely with the design, marketing and customer support teams.</div><div><br></div><div>The people you will work with are distributed around the globe but mostly based in the Americas, Europe and New Zealand, so ideally you are located somewhere within these time zones. Our team is distributed across 14 countries, either working from home or from co-working spaces.</div><div><br></div><div><strong><br>Skills</strong></div><ul>
-<li>You have excellent software development skills</li>
-<li>You like to build products that look great</li>
-<li>You are willing to learn and develop your skills</li>
-<li>You are proactive, and have strong drive and initiative</li>
-<li>You have excellent attention to detail</li>
-<li>You have great communication skills</li>
-<li>You’re a team player and you also work independently</li>
-<li>Degree in Computer Science, Software Engineering or similar, or equivalent experience</li>
-</ul><div><strong><br>Technologies</strong></div><div>You have 3+ years of experience with:</div><ul>
-<li>.NET </li>
-<li>C#</li>
-<li>SQL</li>
-<li>JavaScript</li>
-</ul><div><br></div><div>We use a variety of other technologies, which you might have experience with:</div><ul>
-<li>Blazor</li>
-<li>Bootstrap</li>
-<li>TypeScript</li>
-<li>jQuery</li>
-<li>SASS</li>
-</ul><div><br></div><div><strong>What you get</strong></div><ul>
-<li>
-<strong>Remote work</strong>: We are a fully remote and distributed team, with our team members spread across 15 countries currently. </li>
-<li>
-<strong>Vacation days</strong>: 20 days of paid time off per year, plus 12 local public holidays, wherever you are.</li>
-<li>
-<strong>Work-life balance</strong>: Enjoy a flexible schedule based on your personal daily routine. This is a full-time position, so we expect 8 hours of work time per working day on average. We don’t expect crazy long hours, overtime and burn out. We expect good time management skills and high quality output during your regular work hours. </li>
-<li>
-<strong>Team retreat</strong>: We all travel and meet up at an exotic location for a week about once per year to have fun and get to know each other. Our last retreat was in Costa Rica. The next one might be in Croatia.</li>
-<li>
-<strong>Strong team culture</strong>: We build and maintain a strong team culture. This includes weekly all-hands Zoom calls, weekly team calls, and virtual catch-ups over tea/coffee/beer. There are no internal politics, we speak up if there are any issues and we treat each other with respect. We also like to be social, kind and fun.</li>
-<li>
-<strong>Diversity and inclusion</strong>: Our team members come from diverse backgrounds from different countries and cultures, and we are equally represented by gender (50:50 ratio), including our co-founders and management team. We value each person’s opinions and unique perspectives. We love to solve problems creatively and collaboratively.</li>
-<li>
-<strong>Autonomy in your work</strong>: We trust you to make the best decisions to achieve your goals. We provide you with enough support to get your work done to a high standard and let you get on with it. We have a flat company structure, we make fast decisions and iterate quickly. </li>
-<li>
-<strong>Personal growth and development</strong>: We invest in your long-term growth and development. You will work closely with team members to grow your skill set and we support you with courses, mentorship, training, workshops and conferences. </li>
-<li>
-<strong>Top-notch collaboration tools</strong>: We use Slack, Trello, Google Docs, Google Drive and Zoom to communicate and collaborate efficiently. We hardly use email at all.</li>
-</ul><div><br></div><div><strong>Why work for GoSkills?</strong></div><div>Does the thought of working with a fully remote, bootstrapped team of motivated people excite you? Do you have the drive to accelerate us on our path to becoming a fast-growing educational company? </div><div><br></div><div>This is your opportunity for a meaningful, long-term role to accelerate your career by contributing to the growth of an innovative tech company. Your work will have a real-life impact on people’s lives as we help them learn, upskill and stay relevant in the workplace. </div><div><br></div><div><strong>About our team </strong></div><div>Our team is small and fully distributed, and working remotely is part of our DNA. This means you’ll find a great remote working environment focused around making your day-to-day enjoyable and efficient. </div><div><br></div><div>We are a fun and social bunch, who communicate daily across time zones and continents, and have a strong culture that reflects the following values.</div><div><br></div><ul>
-<li>
-<strong>Openness &amp; creativity</strong>: Speak up! We encourage open communication, questioning minds and thinking outside the box.</li>
-<li>
-<strong>Freedom &amp; equality</strong>: Everyone deserves autonomy in their jobs and an equal chance at success.</li>
-<li>
-<strong>Fun</strong>: Have fun and be silly! Follow your passion, love what you do and don’t take life too seriously :)</li>
-<li>
-<strong>Quality &amp; innovation</strong>: We hold ourselves to high standards to ensure our learners have the best possible experience and achieve real results.</li>
-<li>
-<strong>Surprise &amp; delight: </strong>Our customers’ success=our success. We make customer satisfaction a top priority with every interaction.</li>
-<li>
-<strong>Be good: </strong>We make choices that reflect good moral character, and strive to be the most responsible organization we can be.</li>
-</ul><div>
-<br>Learn more at <a href="http://www.goskills.com/about">www.goskills.com/about</a>. </div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/goskills-full-stack-net-software-engineer">https://weworkremotely.com/remote-jobs/goskills-full-stack-net-software-engineer</a></p>
-
+</ul><br/><br/>Please mention the word **FONDLY** and tag RMTUxLjgwLjE0My4yMDY= when applying to show you read the job post completely (#RMTUxLjgwLjE0My4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -155,7 +119,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/level-senior-software-engineer" align="right" target="_blank">Apply</a>
@@ -191,7 +155,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/credit-repair-cloud-software-engineer" align="right" target="_blank">Apply</a>
@@ -238,57 +202,37 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0016/3890/logo.gif" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4287/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Springboard</h5>
-                    <h3> Mentor - Software Engineering Career Track (Part-time/Remote)</h3>
+                    <h5>Stimulus</h5>
+                    <h3> Software engineer</h3>
                 </td>
                 <td width="300">
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>211 days ago</text>
+                <text>120 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0016/3890/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                <img src="https://we-work-remotely.imgix.net/logos/0076/4287/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
 <p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="https://www.springboard.com/">https://www.springboard.com/</a>
+  <strong>Headquarters:</strong> Amsterdam, NY
+    <br /><strong>URL:</strong> <a href="https://www.stimulus.com/">https://www.stimulus.com/</a>
 </p>
 
-<div><strong>The Opportunity</strong></div><div><br></div><div>Springboard runs an online, self-paced Software Engineering Career Track in which participants learn with the help of a curated curriculum and 1-1 guidance from an expert mentor. Our mentor community - the biggest strength of our programs - comprises some of the best software engineering experts in the field.</div><div><br></div><div>If you are as passionate about mentoring as you are about software engineering, and can give a few hours per week in return for an honorarium, we would love to hear from you.</div><div><br></div><div>Please reach out to us with any questions at mentorrecruiting@springboard.com <br><br><strong>The Program</strong>
-</div><ul>
-<li>Completely online and self-paced</li>
-<li>Students become proficient in Software Engineering with the help of a curated online curriculum and project-based deliverables</li>
-<li>Coursework is made up of 800+ hour expert-curated curriculum in partnership with <a href="https://www.rithmschool.com/">Rithm School</a>
-</li>
-<li>On average, students finish in 9 months</li>
-<li>Students are working professionals from all over the world, dedicated to switching careers into Software Engineering</li>
-<li>Students have a weekly 30-minute checkin with their mentor to discuss questions, projects, and career advice!</li>
-</ul><div><strong>You</strong></div><ul>
-<li>are as passionate about teaching coding as about software engineering itself</li>
-<li>are proficient in the topics covered in our <a href="https://ddf46429.springboard.com/uploads/resources/1572915743_Software_Engineering_Career_Track_-_Syllabus_2019.11.04.pdf">Software Engineering Career Track</a> and are fluent in technologies such as HTML, CSS, JavaScript, React, Python, Flask, SQL, Data Structures and Algorithms</li>
-<li>have at least 3+ years of relevant work experience </li>
-<li>are available for weekly, 30-minute video check-ins with students to help them set and achieve learning goals, answer subject matter questions, provide feedback on projects, and offer career advice</li>
-<li>have experience critiquing work, in particular giving meaningful feedback on web development, and are able to think on your feet quickly</li>
-<li>are empathetic and have excellent communication skills</li>
-</ul><div><strong>Benefits</strong></div><ul>
-<li>Software Engineering mentors are paid an honorarium between $17.50-$32.50 per 30 minute call with students</li>
-<li>Membership in a rich community of expert mentors from great companies like AirBnB, Uber, Google, and Pivotal</li>
-<li>Change the lives of students in our program</li>
-<li>Help us revolutionize online education and inspire the next generation of software engineers!</li>
-<li>Work at your convenience</li>
-</ul><div><em>We are an equal opportunity employer and value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</em></div>
+<div><strong>About Stimulus</strong></div><div>
+<a href="https://www.stimulus.com/jobs/Stimulus.com">Stimulus</a> is a social platform started by Sticker Mule to show what's possible if your mission is to increase human happiness.</div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. A privately owned, low-stress culture.</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div>
+<strong>We like you to know<br></strong>1. Docker<br>2. NextJS<br>3. TypeScript<br>4. React<br>5. NodeJS<br>6. GraphQL<br>7. Redis</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. Salary: $135k+ based on experience</div><div>2. $20,000 signing bonus</div><div>3. 4 weeks vacation + holidays based on your country of residence</div><div><br></div>
 
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3">https://weworkremotely.com/remote-jobs/springboard-mentor-software-engineering-career-track-part-time-remote-3</a></p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer">https://weworkremotely.com/remote-jobs/stimulus-software-engineer</a></p>
 
                 </details>
                 </td>
@@ -304,7 +248,7 @@
                     <code>backend,git,machine learning,python</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-front-end-typescript-1187421" align="right" target="_blank">Apply</a>
@@ -366,7 +310,7 @@
                     <code>data science,machine learning,python,open source</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-software-engineer-devtools-open-source-python-1187416" align="right" target="_blank">Apply</a>
