@@ -10,7 +10,7 @@
                     <code>design,web3,crypto,ethereum,technical,testing,code,management,lead,senior,engineer,backend,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-coinshift-191213" align="right" target="_blank">Apply</a>
@@ -31,7 +31,7 @@
 </div><div>Unleash your productivity and creativity with our unbeatable remote office setup package - a generous equipment stipend to ensure you have everything you need to work comfortably and effectively.</div><div><br></div><div>â <b>Flexible Time Off</b>
 </div><div>At Coinshift, we believe in the power of taking time to recharge and rejuvenate. That's why we offer unlimited time off to all team members, with the average being a refreshing 4-6 weeks."</div><div><br></div><div>ð°<b>Get Paid in Real Time, in Crypto</b>
 </div><div>Want to be at the forefront of the Web3 revolution? Join our team and get the option to be paid in Crypto - with our partnership with SuperFluid, you'll have access to real-time salary streaming.</div><div><br></div><div>ð<b>Annual Retreats</b>
-</div><div>And, once a year, we'll whisk you away to an amazing destination for our annual team retreat, where you'll collaborate, bond, and make unforgettable memories!</div><div><br></div><div><br></div><div><br></div><div>As an organization that celebrates diversity and inclusivity, we welcome candidates from all backgrounds to apply. Even if you don't meet all the qualifications, we still want to hear from you!</div><div><br></div><div>As a member of our team, you'll have the flexibility to choose how you get paid - fiat payments made monthly or, if you're feeling more adventurous, real-time streaming of your salary in Crypto.</div><div><br></div><div>We look forward to your application!</div><br/><br/>Please mention the word **RECEPTIVE** and tag RMTUxLjgwLjE0My4yMDY= when applying to show you read the job post completely (#RMTUxLjgwLjE0My4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><div>And, once a year, we'll whisk you away to an amazing destination for our annual team retreat, where you'll collaborate, bond, and make unforgettable memories!</div><div><br></div><div><br></div><div><br></div><div>As an organization that celebrates diversity and inclusivity, we welcome candidates from all backgrounds to apply. Even if you don't meet all the qualifications, we still want to hear from you!</div><div><br></div><div>As a member of our team, you'll have the flexibility to choose how you get paid - fiat payments made monthly or, if you're feeling more adventurous, real-time streaming of your salary in Crypto.</div><div><br></div><div>We look forward to your application!</div><br/><br/>Please mention the word **RECEPTIVE** and tag RMzQuMTUwLjE4OC4xMA== when applying to show you read the job post completely (#RMzQuMTUwLjE4OC4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -46,7 +46,7 @@
                     <code>design,crypto,cryptocurrency,system,code,fintech,api,senior,recruiting,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-wallet-191203" align="right" target="_blank">Apply</a>
@@ -113,7 +113,7 @@
 
 <p>We'll be happy to provide you with more details and answer your questions in an online interview.</p>
 
-<p>Wallet is an equal opportunity employer.</p><br/><br/>Please mention the word **RIGHTEOUS** and tag RMTUxLjgwLjE0My4yMDY= when applying to show you read the job post completely (#RMTUxLjgwLjE0My4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>Wallet is an equal opportunity employer.</p><br/><br/>Please mention the word **RIGHTEOUS** and tag RMzQuMTUwLjE4OC4xMA== when applying to show you read the job post completely (#RMzQuMTUwLjE4OC4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -128,7 +128,7 @@
                     <code>design,web3,solidity,crypto,frontend,technical,support,software,code,scrum,financial,nodejs,nosql,mobile,lead,junior,excel,telecom,go,golang,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-lead-backend-engineer-giant-protocol-190205" align="right" target="_blank">Apply</a>
@@ -187,7 +187,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">401k with company match</span></li>
 <li style="font-weight:400;"><span style="font-weight:400;">Annual professional development budget</span></li>
 </ul>
-</div><br/><br/>Please mention the word **MASTERFULLY** and tag RMTUxLjgwLjE0My4yMDY= when applying to show you read the job post completely (#RMTUxLjgwLjE0My4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **MASTERFULLY** and tag RMzQuMTUwLjE4OC4xMA== when applying to show you read the job post completely (#RMzQuMTUwLjE4OC4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
