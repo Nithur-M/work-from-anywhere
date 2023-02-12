@@ -1,5 +1,67 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/4e6912ec12d9f3f77392c1e6d593ba4f1676099788.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Aptos</h5>
+                    <h3>Developer Relations Ecosystem</h3>
+                </td>
+                <td width="300">
+                    <code>developer,web3,crypto,technical,financial,engineering,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-developer-relations-ecosystem-aptos-192729" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro">
+<p><span style="font-weight:400;">Aptos is a people-first blockchain on a mission to help billions of people achieve universal and fair access to decentralized assets in a safe and scalable way.</span></p>
+<p><span style="font-weight:400;">Founded by some of the original creators and maintainers that researched, designed, and built the Diem blockchain to serve this purpose, we have dedicated several years toward this mission. We believe the open-source Diem technology we have developed is an important foundation of a safe and scalable web3 world where everyone has more equitable opportunities to grow and access financial assets with lower fees and fewer intermediaries.  </span></p>
+<p><span style="font-weight:400;">Aptos (Ohlone for "The People") encompasses our mission and ethos for why we build.</span></p>
+</div><p><strong>About The Role</strong></p>
+<p><span style="font-weight:400;">We are searching for someone who has an equal balance of charisma and technical ability. You will need to be able to communicate with ecosystem projects to help them scale and debug issues. You will be responsible to have the technical competency to work directly with the engineering team to relay what they are experiencing and provide status reports and updates.</span></p>
+<p><strong>Wh</strong><strong>at you'll be doing:</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Engaging directly with ecosystem projects on technical support</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Assisting in debugging and technical growth</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Showcase best technical practices</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Work as a conduit between ecosystem and engineering</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Help build out new ecosystem verticals based on experience</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Grow and nurture the ecosystem developer community</span></li>
+</ul>
+<p><strong>What weâre looking for:</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">1 - 3 years in the crypto industry</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">1 - 3 years in a forward-facing developer role</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Proficient (or willing to learn)</span></li>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Move</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Rust</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Typescript</span></li>
+</ul>
+</ul><div class="content-conclusion">
+<p><strong>Our Benefits</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">100% insurance premium coverage for medical, dental, and vision for you and your dependents</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Equipment of your choice</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Flexible vacation time, 11 holidays, and floating company days off</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Competitive Salary</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Equity (RSUs)</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Protocol Token Grants</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">401k matching</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Fun and inclusive in-person and digital events</span></li>
+</ul>
+<p><em><span style="font-weight:400;">Aptos is committed to diversity in the workplace, and weâre proud to be an Equal Opportunity Employer. We do not hire on the basis of race, color, religion, creed, gender, national origin, citizenship, age, disability, veteran status, marital status, pregnancy, parental status, sex, gender expression or identity, sexual orientation, or any other basis protected by local, state or federal law. All employment is decided based on qualifications, merit, and business need.</span></em></p>
+</div><br/><br/>Please mention the word **TERRIFICALLY** and tag RMTUxLjgwLjE0My4yMDY= when applying to show you read the job post completely (#RMTUxLjgwLjE0My4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/dfc5ae342fa4855aac44612db05a336b1676013395.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +72,7 @@
                     <code>developer,design,defi,crypto,system,technical,support,software,growth,code,devops,education,finance,mathematics,senior,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-protocol-developer-composable-finance-192230" align="right" target="_blank">Apply</a>
@@ -52,7 +114,7 @@
 <li style="color:rgb(0,0,0);">The ability to work as an independent contractor: We treat you as your own agent and support you accordingly!</li>
 <li style="color:rgb(0,0,0);">Monthly Gym & Fitness Bonus</li>
 <li style="color:rgb(0,0,0);">Paid Time Off</li>
-</ul><span style="color:rgb(0,0,0);">Â <br>Diversity & Inclusion: A company commitment to equal opportunity. We do not condone discrimination on the premise of race, color, religion, sexual orientation, age, gender identity or expression.<br><br></span><br/><br/>Please mention the word **IRREPROACHABLE** and tag RMzQuMTUwLjE4OC4xMA== when applying to show you read the job post completely (#RMzQuMTUwLjE4OC4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><span style="color:rgb(0,0,0);">Â <br>Diversity & Inclusion: A company commitment to equal opportunity. We do not condone discrimination on the premise of race, color, religion, sexual orientation, age, gender identity or expression.<br><br></span><br/><br/>Please mention the word **IRREPROACHABLE** and tag RMTUxLjgwLjE0My4yMDY= when applying to show you read the job post completely (#RMTUxLjgwLjE0My4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -67,7 +129,7 @@
                     <code>developer,web3,nft,technical,web,financial,api,strategy,management,content,marketing,sales,engineer,engineering,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-advocate-upshot-192217" align="right" target="_blank">Apply</a>
@@ -93,7 +155,7 @@
 <li>Experience facilitating sensitive and complex community situations with empathy, judgment, and tact</li>
 <li>Ability to think like a developer and be passionate about making developers happy; even better, you know how to code</li>
 <li>Highly knowledgeable in the Web3 Crypto/NFT/DeFi space with a solid grasp of recent global trends and use cases</li>
-</ul><div><span style="font-size:16px;">Upshot is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</span></div><br/><br/>Please mention the word **SOOTHINGLY** and tag RMzQuMTUwLjE4OC4xMA== when applying to show you read the job post completely (#RMzQuMTUwLjE4OC4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><span style="font-size:16px;">Upshot is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</span></div><br/><br/>Please mention the word **SOOTHINGLY** and tag RMTUxLjgwLjE0My4yMDY= when applying to show you read the job post completely (#RMTUxLjgwLjE0My4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -108,7 +170,7 @@
                     <code>design,ethereum,react,front-end,frontend,full-stack,technical,support,code,web,education,typescript,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-blockchain-developers-gnosis-builders-gnosis-191724" align="right" target="_blank">Apply</a>
@@ -142,7 +204,7 @@
 <li>Not really an early bird? No worries!âFlexible working schedules and remote work policies are, for a long time, part of our culture;Â </li>
 <li>Impact: An innovative blockchain company driving change in a number of important global markets, including finance, insurance, and information discovery.Â Join in on our mission to build the future!</li>
 </ul><em>Variety is the spice of life and a celebrated component of our culture. At Gnosis, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences and are proud to be an equal opportunity employer: all qualified applicants are considered for positions regardless of race, ethnic origin, age, religion or belief, marital status, gender identification, sexual orientation, or physical ability.</em>Â  Â 
-<p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **BONNY** and tag RMzQuMTUwLjE4OC4xMA== when applying to show you read the job post completely (#RMzQuMTUwLjE4OC4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **BONNY** and tag RMTUxLjgwLjE0My4yMDY= when applying to show you read the job post completely (#RMTUxLjgwLjE0My4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -157,7 +219,7 @@
                     <code>frontend,developer,design,crypto,back-end,growth,code,web,payroll,financial,investment,css,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-frontend-developer-vinter-191713" align="right" target="_blank">Apply</a>
@@ -185,7 +247,7 @@
 <li>Understanding of the basics of AWS</li>
 <li>2+ years of experience in data visualization using libraries such as D3.js, Charts.js, or TradingView</li>
 <li>Able to work on the ET timezone (based in North or South America)</li>
-</ul><p><br></p><p>We offer a dynamic and fully remote work environment, growth opportunities, brilliant colleagues, and a competitive compensation package.</p><p><em>NB. Vinter will hire you through our entity in the UK and Sweden. In other countries, we hire using a global payroll provider as a contractor.</em></p><p><em>Vinter is an equal-opportunity employer committed to diversifying its workforce. Accordingly, it is the policy of the Firm to ensure equal employment opportunity without discrimination or harassment based on race, color, religion, creed, age, sex, gender, gender identity, sexual orientation, national origin, citizenship, disability, marital and civil partnership/union status, pregnancy or any other characteristic protected by law.</em><br></p><br/><br/>Please mention the word **UNBEATABLE** and tag RMzQuMTUwLjE4OC4xMA== when applying to show you read the job post completely (#RMzQuMTUwLjE4OC4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p><br></p><p>We offer a dynamic and fully remote work environment, growth opportunities, brilliant colleagues, and a competitive compensation package.</p><p><em>NB. Vinter will hire you through our entity in the UK and Sweden. In other countries, we hire using a global payroll provider as a contractor.</em></p><p><em>Vinter is an equal-opportunity employer committed to diversifying its workforce. Accordingly, it is the policy of the Firm to ensure equal employment opportunity without discrimination or harassment based on race, color, religion, creed, age, sex, gender, gender identity, sexual orientation, national origin, citizenship, disability, marital and civil partnership/union status, pregnancy or any other characteristic protected by law.</em><br></p><br/><br/>Please mention the word **UNBEATABLE** and tag RMTUxLjgwLjE0My4yMDY= when applying to show you read the job post completely (#RMTUxLjgwLjE0My4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -200,7 +262,7 @@
                     <code>developer,design,c#,web3,defi,solidity,ethereum,security,game,software,testing,web,java,cloud,typescript,senior,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-blockchain-developer-illuvium-191217" align="right" target="_blank">Apply</a>
@@ -274,7 +336,7 @@
 </li>
 </ul>
 <h3><strong>Location</strong></h3>
-<p>All of our jobs are 100% remote and we are looking to find the best talent globally!</p><br/><br/>Please mention the word **RELIABLY** and tag RMzQuMTUwLjE4OC4xMA== when applying to show you read the job post completely (#RMzQuMTUwLjE4OC4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>All of our jobs are 100% remote and we are looking to find the best talent globally!</p><br/><br/>Please mention the word **RELIABLY** and tag RMTUxLjgwLjE0My4yMDY= when applying to show you read the job post completely (#RMTUxLjgwLjE0My4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -289,7 +351,7 @@
                     <code>frontend,developer,cryptocurrency,cryptocurrencies,react,test,code,javascript,financial,git,typescript,mobile,senior,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-frontend-developer-senior-frontend-developer-ston-fi-191195" align="right" target="_blank">Apply</a>
@@ -362,7 +424,7 @@
         </li>
 </ul>
 
-<p>Ston.fi is an equal opportunity employer.</p><br/><br/>Please mention the word **BRISK** and tag RMzQuMTUwLjE4OC4xMA== when applying to show you read the job post completely (#RMzQuMTUwLjE4OC4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>Ston.fi is an equal opportunity employer.</p><br/><br/>Please mention the word **BRISK** and tag RMTUxLjgwLjE0My4yMDY= when applying to show you read the job post completely (#RMTUxLjgwLjE0My4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -377,7 +439,7 @@
                     <code>web3,frontend,developer,design,defi,crypto,ethereum,front-end,testing,test,growth,code,web,financial,css,management,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-web3-frontend-developer-velvet-capital-191218" align="right" target="_blank">Apply</a>
@@ -423,7 +485,7 @@ As a developer, you'll work within the product team with other engineers and des
         <li>Ethers.js / web3.js</li>
         <li>Hardhat</li>
         <li>Solidity</li>
-</ul><br/><br/>Please mention the word **EXTRAORDINARY** and tag RMzQuMTUwLjE4OC4xMA== when applying to show you read the job post completely (#RMzQuMTUwLjE4OC4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **EXTRAORDINARY** and tag RMTUxLjgwLjE0My4yMDY= when applying to show you read the job post completely (#RMTUxLjgwLjE0My4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -438,7 +500,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>developer,defi,solidity,crypto,front-end,students,docker,web,financial,management,engineer,internship,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-blockchain-developer-internship-velvet-capital-191215" align="right" target="_blank">Apply</a>
@@ -474,91 +536,7 @@ As a developer, you'll work within the product team with other engineers and des
         <li>Motivation to learn anything and everything new in the space</li>
         <li>Demonstratable opensource contribution in GitHub, Stack Overflow or any other platforms.</li>
         <li>If you are a curious learner and keep on iterating with development on new tech across the blockchain ecosystem weâd be happy to welcome you to the team!</li>
-</ul><br/><br/>Please mention the word **NOURISHING** and tag RMzQuMTUwLjE4OC4xMA== when applying to show you read the job post completely (#RMzQuMTUwLjE4OC4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/99353b0135872d690586e0cbe38354451675754142.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>deBridge</h5>
-                    <h3>Developer Relations Advocate</h3>
-                </td>
-                <td width="300">
-                    <code>developer,web3,defi,solidity,nft,technical,support,software,web,lead,engineering,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-developer-relations-advocate-debridge-190702" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>deBridge is looking to hire a <strong>Developer Relations Advocate</strong> to join the team. </p>
-
-<p>In this role, you will have the chance to work closely with ecosystem partners like network validators, developers, and others, to develop and expand the deBridge ecosystem.</p>
-
-<p>All positions are 100% remote with no geographical restrictions. You can <strong>work from anywhere in the world</strong>. You will have a <strong>big impact</strong> on the team and will help deBridge to continue building a secure interoperability layer for Web3.</p>
-
-<h3>Responsibilities</h3>
-
-<ul>
-        <li>Increase awareness and adoption of deBridgeâs technology by working directly with our developer community to lower the barriers of adoption, help with technical questions, and bring insights back to the team to advance the technology and overall experience</li>
-        <li>Bring awareness and increase the number of successful developers and projects integrating with and/or building on top of our protocol</li>
-        <li>Work with the network of validators</li>
-        <li>Building out the ecosystem and scaling our developer outreach efforts by educating our community on how deBridge can empower cross-chain interoperability for other protocols</li>
-        <li>Create and improve the resources and documentation to enhance the resource offerings via deBridgeâs website, Github and other platforms</li>
-        <li>Hear to projectsâ needs and suggest the best solutions for their specific challenges.</li>
-        <li>Support and maintain our developer community. Be an active member to improve the overall support in various channels like Discord, Telegram, and more</li>
-        <li>Represent deBridge at conferences and events by giving presentations, live demos of deBridge, and communicating with the attendees</li>
-</ul>
-
-<h3>Ideal candidate</h3>
-
-<ul>
-        <li>At least 2 years in the software industry working as a developer, advocate, or evangelist</li>
-        <li>Passion for the blockchain ecosystem</li>
-        <li>Knowledge of Web3 and Solidity is mandatory</li>
-        <li>Strong engineering skills in web and/or mobile</li>
-        <li>Passion for inspiring and educating fellow developers</li>
-        <li>Eager to work in a startup environment</li>
-        <li>Social and fast-moving; an ambition to meet and communicate with people</li>
-        <li>Good attention to detail and a high level of independence</li>
-        <li>Understanding of the blockchain and open-source ecosystem</li>
-        <li>Passion for building a developer community</li>
-        <li>Good understanding of the DeFi ecosystem and decentralized protocols</li>
-</ul>
-
-<h3>Why join us</h3>
-
-<ul>
-        <li>Be one of the first employees in an exciting and growing project where weâre solving real problems in the existing DeFi and NFT ecosystem</li>
-        <li>Autonomy and ownership</li>
-        <li>Build up your experience and reputation within the blockchain space</li>
-        <li>Being able to influence the direction of the company</li>
-        <li>Being able to shape and lead how deBridge works with projects, validators, developers, and others</li>
-</ul>
-
-<h3>About deBridge</h3>
-
-<p>deBridge (<a href="http://debridge.finance/" rel="noopener noreferrer nofollow">https://debridge.finance/</a>) is a secure interoperability layer for Web3 that enables anyone to build powerful cross-chain applications where value and messages flow seamlessly. It's an infrastructure that enables:</p>
-
-<ul>
-        <li>Cross-chain composability of smart contracts</li>
-        <li>Cross-chain swaps between any liquid assets (deSwap is one of the applications built on top of deBridge)</li>
-        <li>Bridging of any arbitrary asset and message in one transaction</li>
-        <li>Interoperability and bridging of NFTs</li>
-</ul>
-
-<p>deBridge commenced during the [Chainlink Global Hackathon](<a href="http://chain.link/hackathon" rel="noopener noreferrer nofollow">https://chain.link/hackathon</a>) in early 2021. The project was awarded the grand prize and took first place among more than 140 teams worldwide. In September, the project announced its [$5.5M fundraising round](<a href="http://debridge.medium.com/debridge-announces-5-5m-fundraising-five-months-after-winning-the-chainlink-hackathon-2814ccb6a690" rel="noopener noreferrer nofollow">https://debridge.medium.com/debridge-announces-5-5m-fundraising-five-months-after-winning-the-chainlink-hackathon-2814ccb6a690</a>) with leading VCs and companies such as Animoca Brands, Lemniscap, [Crypto.com](<a href="http://crypto.com/" rel="noopener noreferrer nofollow">http://crypto.com/</a>) Capital, Huobi Ventures, and others.</p>
-
-<p>At deBridge, we are building a secure interoperability layer for Web3, aiming to securely unite all blockchains and bring seamless composability to the blockchain ecosystem.</p>
-
-<p>In February 2022, we [launched our mainnet beta](<a href="http://medium.com/debridge/debridge-mainnet-is-here-f441fabc83c0" rel="noopener noreferrer nofollow">https://medium.com/debridge/debridge-mainnet-is-here-f441fabc83c0</a>), where we supported five chains and seamless cross-chain swaps between any assets in one transaction. Now we have built out a secure and reliable cross-chain infrastructure and are currently supporting seven chains, and will continue to build out the deBridge ecosystem both horizontally and vertically. Hope you want to join us on this journey!</p><br/><br/>Please mention the word **FERVOR** and tag RMzQuMTUwLjE4OC4xMA== when applying to show you read the job post completely (#RMzQuMTUwLjE4OC4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **NOURISHING** and tag RMTUxLjgwLjE0My4yMDY= when applying to show you read the job post completely (#RMTUxLjgwLjE0My4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -573,7 +551,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-ai-application-developer" align="right" target="_blank">Apply</a>
@@ -643,7 +621,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/zapiet-react-developer" align="right" target="_blank">Apply</a>
@@ -693,7 +671,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/zapiet-rust-developer" align="right" target="_blank">Apply</a>
@@ -743,7 +721,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tempmee-senior-backend-developer" align="right" target="_blank">Apply</a>
@@ -779,7 +757,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-1" align="right" target="_blank">Apply</a>
@@ -832,7 +810,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-lead-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -886,6 +864,111 @@ As a developer, you'll work within the product team with other engineers and des
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/2936/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>NINE15</h5>
+                    <h3> Shopify Back-end developer</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>30 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/nine15-shopify-back-end-developer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/2936/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Diego
+    <br /><strong>URL:</strong> <a href="https://nine15.com">https://nine15.com</a>
+</p>
+
+<div>NINE15 is looking to add a Shopify app developer to our team. This will be full-time remote position. The ideal candidate would be someone who is a good team player, a problem solver, self-sufficient in terms of getting the tasks done as well as has the ability to produce a maintainable codebase, and has a strong sense of ownership.</div><div>
+<br>You will be an expected to design, develop, test and deploy solutions based on industry's best practices and client's business requirements.<br><br><strong>Qualifications:<br></strong><br>You will also be expected to be well versed with the following technologies and tools:</div><ol>
+<li>Javascript</li>
+<li>Proficient understanding of adaptable web development and frameworks</li>
+<li>Backend - NodeJS/PHP</li>
+<li>Experience with Express Framework or Laravel framework is a good to have.</li>
+<li>ReactJS</li>
+<li>A decent understanding of Polaris is a plus</li>
+<li>Shopify App Development</li>
+<li>Great understanding of the Shopify ecosystem as a whole and how the different components interact with each other within the ecosystem.</li>
+<li>Experience with working Shopify Plus and custom checkout in Shopify Plus stores and Shopify Scripts.</li>
+<li>Experience working with Product, Order, Fulfillment, Custom Carrier Services, Fulfillment Services.</li>
+<li>3+ years of experience in Shopify app development</li>
+<li>Proven success architecting, scoping, and delivering enterprise Shopify solutions.</li>
+<li>Work central time hours</li>
+</ol><div><strong>Benefits:</strong></div><ul>
+<li>Competitive Salary</li>
+<li>Medical Insurance</li>
+<li>Always Remote</li>
+<li>Flexible PTO and Holidays</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/nine15-shopify-back-end-developer">https://weworkremotely.com/remote-jobs/nine15-shopify-back-end-developer</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/6989/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>ProjectDiscovery.io</h5>
+                    <h3> Senior Back End Developer (Golang)</h3>
+                </td>
+                <td width="300">
+                    <code>Back-End Programming</code>
+                </td>
+                <td width="200">
+                <text>151 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/6989/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> San Francisco
+    <br /><strong>URL:</strong> <a href="https://projectdiscovery.io">https://projectdiscovery.io</a>
+</p>
+
+<div>ProjectDiscovery is an open-source cyber-security company that builds a range of softwares for security engineers and developers. Our user base is among the largest in the InfoSec community, and we are used by top internet companies’ security and developer teams, including Fastly, Microsoft, CloudFlare, Gitlab, Facebook, IBM, and many others.</div><div><br></div><div>We are well funded and just recently raised $25M in our Series A. Backed by current/former CXOs from companies like Fastly, Databricks, Google, Twitter, HashiCorp, RedHat.</div><div><br></div><div>→ github.com/projectdiscovery</div><div><br></div><div>
+<br>You're a backend engineer with 6+ years of software experience. You're ready to be an individual contributor, design and build sophisticated systems quickly, and collaborate in a fast-paced environment.</div><div><br></div><div>You are a product-focused engineer that takes just as much pride in the user experience of your product as you do the performance.</div><div>
+<br><strong>Requirements:</strong>
+</div><ul>
+<li>6+ years of experience as a backend developer, with at least 3+ years of experience working with GO language.</li>
+<li>Strong knowledge of working with Go paradigms and best practices</li>
+<li>Good knowledge of concurrency in Go - goroutines, channel patterns, Go ecosystem, and tools available</li>
+<li>Worked on or have an understanding of various frameworks in Go</li>
+<li>Ability to dissect and recommend best tools for the job</li>
+<li>Worked with microservices architecture and patterns, DevOps, and continuous delivery.</li>
+<li>Experience building APIs with gRPC or REST</li>
+<li>Some experience with deployment processes including knowledge of Kubernetes and Docker.</li>
+<li>Strong knowledge of PostgreSQL / MySQL</li>
+</ul><div><br></div><div><strong>What will you work on:</strong></div><ul>
+<li>Here is our work: https://github.com/projectdiscovery you are directly going to be involved in many of these open-source projects. 90%+ code base is written in Go.</li>
+<li>Developing high-volume, low-latency applications for large systems and coping with the challenges of working in a distributed and highly concurrent environment.</li>
+<li>You will also be coding new features and have an active role in the defining the backend architecture, which includes designing microservices and researching new alternatives and technologies.</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang">https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -896,7 +979,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>151 days ago</text>
+                <text>153 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -960,6 +1043,46 @@ As a developer, you'll work within the product team with other engineers and des
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1587090/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Contra</h5>
+                    <h3>AI Application Developer </h3>
+                </td>
+                <td width="300">
+                    <code>developer,seo,social media,ai</code>
+                </td>
+                <td width="200">
+                <text>2 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/ai-application-developer-1587090" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>Are you a creative AI Application Developer with domain expertise in <strong>ChatGPT Applications</strong>, <strong>AI Web Applications</strong> and <strong>AI Chatbots</strong> and a passion for sharing your knowledge with others? Join the <a href="http://bit.ly/3J5ZhdS" rel="nofollow">Contra</a> Creator program to create and share high-quality projects and the portfolio of your dreams based on your unique skillset.</p><p>As a member of the Contra Creator program, you’ll be creating high-quality portfolio projects about AI development. These will be featured on Contra and around the web. You will be paid <strong>$2000 USD</strong> for a 1 month project for the following scope.</p><p><br></p><div class="h3">Scope</div><ul style="">
+<li style="">Create and share 8 - 10 high-quality projects on your Contra Portfolio. Contra will help you choose the topics that will be most beneficial to your portfolio. We will also do SEO research on each topic to make sure your portfolio gets tons of visibility.</li>
+<li style="">Host the content on your Contra portfolio that lives on your custom domain (we can help you get one if you don’t have one already)</li>
+<li style="">Ensure that content is easy to share and engage with on social media platforms and other online channels</li>
+<li style="">Share content on your social platforms and/or in communities</li>
+</ul><p><br></p><div class="h3">What We’re Looking For</div><ul style="">
+<li style="">Experience creating and editing high-quality content</li>
+<li style="">Strong domain expertise in the AI space</li>
+<li style="">Active on social media and familiar with engagement strategies (a plus)</li>
+</ul><p><br></p><div class="h3">What You’ll Get</div><ul style="">
+<li style="">Build the Portfolio of your dreams 💭</li>
+<li style="">Boost your reputation on Contra and as an independent</li>
+<li style="">Increased discoverability of your unique expertise</li>
+<li style="">Community of fellow freelancers and thought leaders</li>
+</ul><p><br></p><p><br></p><div class="h3">About Contra</div><p>The Contra team wants to continue to support the independent community and we believe there is no better way to do this than with paid opportunities 🚀</p><p>Contra allows Independents to build their digital portfolio, get discovered by clients around the world, and earn money commission-free; while connecting Clients with top Independent talent.</p><p><br></p><p>We believe in empowering people to work the way <em>they want.</em></p><p><em><br></em></p><p>If you are passionate about sharing your knowledge and want to be part of a growing community of creators, <a href="http://bit.ly/3lfaxKY" rel="nofollow">please apply here</a>!</p><p><br></p><p>
+</p><div class="h3">Learn more about <a href="http://bit.ly/3Dbh5jQ" rel="nofollow">Contra here</a>!</div>
+<img src="https://remotive.com/job/track/1587090/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1583815/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -970,7 +1093,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>developer,git,mobile,ui</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/unity-developer-at-talkartive-1583815" align="right" target="_blank">Apply</a>
@@ -1034,7 +1157,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>developer,fullstack,ui,design</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/remix-full-stack-developer-at-grapheec-1583816" align="right" target="_blank">Apply</a>
@@ -1062,7 +1185,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1139,7 +1262,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1165,7 +1288,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>12 days ago</text>
+                <text>13 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1242,7 +1365,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>23 days ago</text>
+                <text>25 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
