@@ -10,7 +10,7 @@
                     <code>software,growth,cloud,leader,lead,senior,go,engineer,engineering</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-lead-software-engineer-makersplace-191717" align="right" target="_blank">Apply</a>
@@ -46,7 +46,7 @@
 <li>$500/Quarter AirBnB stipendâ we want you to go out and enjoy life!</li>
 <li>100% Remote</li>
 <li>â¦and more!</li>
-</ul><div><b style="font-size:18px;">The Team</b></div><div>At MakersPlace, we curate our team as carefully as we do our digital marketplace to ensure the best experience for both our creative community and employees. Our remote-first company was founded by senior engineering leaders from Pinterest, including the first engineer and former head of growth engineering, and is funded by top-tier venture capital funds and angels in Silicon Valley.</div><div><br></div><div><br></div><div><i>MakersPlace is an equal opportunity employer and highly values diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</i></div><div><br></div><div><i>MakersPlace participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S. </i></div><div>#li-remote</div><br/><br/>Please mention the word **CASHBACK** and tag RMzQuMTUwLjE4OC4xMA== when applying to show you read the job post completely (#RMzQuMTUwLjE4OC4xMA==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><b style="font-size:18px;">The Team</b></div><div>At MakersPlace, we curate our team as carefully as we do our digital marketplace to ensure the best experience for both our creative community and employees. Our remote-first company was founded by senior engineering leaders from Pinterest, including the first engineer and former head of growth engineering, and is funded by top-tier venture capital funds and angels in Silicon Valley.</div><div><br></div><div><br></div><div><i>MakersPlace is an equal opportunity employer and highly values diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</i></div><div><br></div><div><i>MakersPlace participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S. </i></div><div>#li-remote</div><br/><br/>Please mention the word **CASHBACK** and tag RMTUxLjgwLjE0My4yMDY= when applying to show you read the job post completely (#RMTUxLjgwLjE0My4yMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -61,7 +61,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/level-senior-software-engineer" align="right" target="_blank">Apply</a>
@@ -87,63 +87,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7710/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Credit Repair Cloud</h5>
-                    <h3> Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/credit-repair-cloud-software-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/7710/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Los Angeles, CA
-    <br /><strong>URL:</strong> <a href="https://www.creditrepaircloud.com/careers">https://www.creditrepaircloud.com/careers</a>
-</p>
-
-<div><strong>Responsibilities:</strong></div><ul>
-<li>Contribute to technical documentation.</li>
-<li>Quickly produce well-organized, optimized, and documented source code.</li>
-<li>Working closely with cross-functional in agile environment.</li>
-<li>Ensuring the code compatibility and stability as per the current technical stack.</li>
-<li>Analyze the business requirements and create precise technical specifications accordingly.</li>
-<li>Applying the coding principles in order to solve the real time engineering problems.</li>
-<li>Creating innovative solutions to meet the company’s technical needs.</li>
-<li>Managing the software development lifecycle and monitoring the system performance.</li>
-<li>Testing the piece of working code written, and fixing the bugs reported.</li>
-</ul><div><strong>Requirements:</strong></div><div><br></div><ul>
-<li>Bachelor’s degree in computer science or related area.</li>
-<li>3-5 years of prior work experience as a PHP Developer.</li>
-<li>Knowledge of front-end technologies including CSS3, JavaScript, and HTML5</li>
-<li>Understanding of object-oriented PHP programming.</li>
-<li>Knowledge of PHP web frameworks including Laravel, Lumen and CodeIgniter.</li>
-<li>Proficient with code versioning tools including Git, BitBucket.</li>
-<li>Proficient in full stack application development with concentration of back-end.</li>
-<li>Familiarity with SQL/NoSQL databases.</li>
-<li>Good to have knowledge of Micro Service Architecture.</li>
-<li>Familiarity with RESTful APIs.</li>
-<li>Knowledge of modern authorization mechanisms, such as JSON Web Token.</li>
-</ul><div><br></div><div>Want to learn more? Visit our careers page <a href="https://www.creditrepaircloud.com/careers">https://www.creditrepaircloud.com/careers</a>
-</div><div><br></div><div><em>Credit Repair Cloud is an Equal Opportunity Employer and is committed to working with a diverse staff. We hire globally for talent and drive and value members by work deliverables and passion. No matter what race, color, creed, religion, gender, gender identity, gender expression, national origin, citizenship, age, sex, sexual orientation, pregnancy, marital status, ancestry, physical or mental disability, military or veteran status, or any other characteristic protected by law, we are all equal here.</em></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/credit-repair-cloud-software-engineer">https://weworkremotely.com/remote-jobs/credit-repair-cloud-software-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4287/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -154,7 +97,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>121 days ago</text>
+                <text>123 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
