@@ -10,7 +10,7 @@
                     <code>software,design,crypto,cryptocurrency,system,ceo,technical,testing,code,web,financial,finance,fintech,bank,c++,api,senior,health,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-blockchain-technologies-paxos-193226" align="right" target="_blank">Apply</a>
@@ -112,7 +112,7 @@
 </ul>
 <p><span style="font-weight:400;">Our Paxos team is made up of passionate people from all over the world with different perspectives and experiences. If this opportunity excites you, but your experience doesnât perfectly match the descriptionâ¦apply! Unique voices help us build a more transparent and open economy.</span></p>
 <p><span style="font-weight:400;">#LI-SP1</span></p>
-<p><span style="font-weight:400;">#LI-Remote</span></p><br/><br/>Please mention the word **MERRILY** and tag RMzUuODcuMjMzLjExOQ== when applying to show you read the job post completely (#RMzUuODcuMjMzLjExOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><span style="font-weight:400;">#LI-Remote</span></p><br/><br/>Please mention the word **MERRILY** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -127,7 +127,7 @@
                     <code>software,crypto,bitcoin,python,founder,docker,ceo,developer,test,code,investment,finance,banking,mysql,postgresql,leader,management,operational,health,engineer,engineering,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-associate-software-engineer-gdm-galaxy-digital-193227" align="right" target="_blank">Apply</a>
@@ -214,7 +214,7 @@
 <p><em>Apply now and join us on our mission to engineer a new economic paradigm.</em></p><div class="content-conclusion">
 <p><em>Galaxy respects diversity and seeks to provide equal employment opportunities to all employees and job applicants for employment without regard to actual or perceived age, race, color, creed, religion, sex or gender (including pregnancy, childbirth, lactation and related medical conditions), gender identity or gender expression (including transgender status), sexual orientation, marital or partnership or caregiver status, ancestry, national origin, citizenship status, disability, military or veteran status, protected medical condition as defined by applicable state or local law, genetic information or predisposing genetic characteristic, or other characteristic protected by applicable federal, state, or local laws and ordinances.</em></p>
 <p><em>We will endeavor to make a reasonable accommodation to the known limitations of a qualified applicant with a disability unless the accommodation would impose an undue hardship on the operation of our business. If you believe you require such assistance to complete the application process or to participate in an interview, please contact <a href="mailto:careers@galaxy.com" target="_blank" rel="noopener noreferrer nofollow">careers@galaxy.com.</a> </em></p>
-</div><br/><br/>Please mention the word **GLOWING** and tag RMzUuODcuMjMzLjExOQ== when applying to show you read the job post completely (#RMzUuODcuMjMzLjExOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **GLOWING** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -229,7 +229,7 @@
                     <code>software,growth,cloud,leader,lead,senior,go,engineer,engineering</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-lead-software-engineer-makersplace-191717" align="right" target="_blank">Apply</a>
@@ -265,7 +265,7 @@
 <li>$500/Quarter AirBnB stipendâ we want you to go out and enjoy life!</li>
 <li>100% Remote</li>
 <li>â¦and more!</li>
-</ul><div><b style="font-size:18px;">The Team</b></div><div>At MakersPlace, we curate our team as carefully as we do our digital marketplace to ensure the best experience for both our creative community and employees. Our remote-first company was founded by senior engineering leaders from Pinterest, including the first engineer and former head of growth engineering, and is funded by top-tier venture capital funds and angels in Silicon Valley.</div><div><br></div><div><br></div><div><i>MakersPlace is an equal opportunity employer and highly values diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</i></div><div><br></div><div><i>MakersPlace participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S. </i></div><div>#li-remote</div><br/><br/>Please mention the word **CASHBACK** and tag RMzUuODcuMjMzLjExOQ== when applying to show you read the job post completely (#RMzUuODcuMjMzLjExOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><b style="font-size:18px;">The Team</b></div><div>At MakersPlace, we curate our team as carefully as we do our digital marketplace to ensure the best experience for both our creative community and employees. Our remote-first company was founded by senior engineering leaders from Pinterest, including the first engineer and former head of growth engineering, and is funded by top-tier venture capital funds and angels in Silicon Valley.</div><div><br></div><div><br></div><div><i>MakersPlace is an equal opportunity employer and highly values diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</i></div><div><br></div><div><i>MakersPlace participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S. </i></div><div>#li-remote</div><br/><br/>Please mention the word **CASHBACK** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -280,7 +280,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/level-senior-software-engineer" align="right" target="_blank">Apply</a>
@@ -301,42 +301,6 @@
 <br><strong>More About Us</strong><br>We are a small, close-knit team working to upend the RMM market with our new product. We have recently launched and have acquired our first hundred customers. Though we are a startup, our investors have given us a multi-year runway.<br><br>Our agent team is small, with just two developers. This hire should be an experienced self-starter that can make an impact on our product development. We aren't interested in someone that just wants to work down a list of pre-defined tasks. Our ideal candidate loves working on products and will help shape the direction of ours. We're going to be improving this product for years and want someone to come on this journey with us.<br><br>We really like the Basecamp philosophy and try to make sure that it doesn’t have to be crazy at work. We won’t ask that you work weekends, or late into the night. We don’t mind if you need to leave for an appointment in the middle of the day. We understand that software development doesn’t happen for 8 hours straight and don’t worry about counting time in the chair. We trust that given a fair timeline with a scope that you help us determine you will be able to deliver features. We are concerned with the end goal, not micromanaging you on the way there.</div><div> </div><div>Collaboration and communication are a critical aspect of how we work, a cover letter is a great way to provide a sample of how you communicate.<br><br>In your cover letter, please describe why you’re interested in working at Level, and what draws you to this role in particular. Specifics of your past experience that are relevant to this role are great to include, too.</div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/level-senior-software-engineer">https://weworkremotely.com/remote-jobs/level-senior-software-engineer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/4287/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Stimulus</h5>
-                    <h3> Software engineer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>123 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/4287/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Amsterdam, NY
-    <br /><strong>URL:</strong> <a href="https://www.stimulus.com/">https://www.stimulus.com/</a>
-</p>
-
-<div><strong>About Stimulus</strong></div><div>
-<a href="https://www.stimulus.com/jobs/Stimulus.com">Stimulus</a> is a social platform started by Sticker Mule to show what's possible if your mission is to increase human happiness.</div><div><br></div><div><strong>We offer</strong></div><div>1. Remote work with flexible schedules</div><div>2. A privately owned, low-stress culture.</div><div>3. A fun "no bullshit" work environment</div><div><br></div><div>
-<strong>We like you to know<br></strong>1. Docker<br>2. NextJS<br>3. TypeScript<br>4. React<br>5. NodeJS<br>6. GraphQL<br>7. Redis</div><div><br></div><div><strong>Compensation and benefits</strong></div><div>1. Salary: $135k+ based on experience</div><div>2. $20,000 signing bonus</div><div>3. 4 weeks vacation + holidays based on your country of residence</div><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/stimulus-software-engineer">https://weworkremotely.com/remote-jobs/stimulus-software-engineer</a></p>
 
                 </details>
                 </td>
