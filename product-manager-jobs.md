@@ -10,7 +10,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -69,6 +69,58 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/7710/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Credit Repair Cloud</h5>
+                    <h3> Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>6 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/credit-repair-cloud-product-manager-3" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/7710/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Los Angeles, CA
+    <br /><strong>URL:</strong> <a href="https://www.creditrepaircloud.com/careers">https://www.creditrepaircloud.com/careers</a>
+</p>
+
+<div><strong>Role</strong></div><div><br></div><div>You will be a vital part of our product development team, working closely with the development, design, customer success, and leadership teams, to build fast-evolving and unique products. You will be involved in all stages of product development and will have a real impact on delivering products that help our customers streamline their process to starting, running and growing their business.</div><div><br></div><div><strong>Responsibilities:</strong></div><ul>
+<li>Fully understand Credit Repair Cloud’s business strategy and work to deliver products with our unique mission and perspective in mind. </li>
+<li>Fully understand our Customer Journey, from first exposure and into an active paid user and beyond.</li>
+<li>Accountable for creating the end-end flow of features in all aspects of product management. </li>
+<li>You will closely work with a small team of UX/UI designers and an engineering team to execute on this vision.</li>
+<li>Collaborate with the engineering team and set goals to be in line with the scope of the feature/product design and to mitigate the risk of any bugs deployed into the production. </li>
+<li>Conducting market research analysis of competitors/various SaaS businesses. </li>
+<li>Should be able to create User Stories with supporting documentation in order for the Product Owner and the dev team to develop User Stories and help define Acceptance Criteria. </li>
+<li>Deliver world-class software, analyze results from app changes, and suggest improvements.</li>
+</ul><div><br></div><div><strong>Requirements: </strong></div><ul>
+<li>3+ years of experience working as a full-time Product Manager in a SaaS company, delivering complex products. </li>
+<li>Good understanding of working with API’s.</li>
+<li>Excellent verbal and written communication skills, with proven experience in presenting ideas to key contributors throughout an organization.</li>
+<li>Experience defining and helping develop new feature sets from inception to launch. </li>
+<li>Prior experience working with Engineering teams and UI/UX designers.</li>
+<li>Prior experience working with remote teams. </li>
+<li>Good understanding of Agile methodologies in a Scrum environment. </li>
+</ul><div><br></div><div>Want to learn more? Visit our careers page <a href="https://www.creditrepaircloud.com/careers">https://www.creditrepaircloud.com/careers</a>
+</div><div><br></div><div><em>Credit Repair Cloud is an Equal Opportunity Employer and is committed to working with a diverse staff. We hire globally for talent and drive and value members by work deliverables and passion. No matter what race, color, creed, religion, gender, gender identity, gender expression, national origin, citizenship, age, sex, sexual orientation, pregnancy, marital status, ancestry, physical or mental disability, military or veteran status, or any other characteristic protected by law, we are all equal here.</em></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/credit-repair-cloud-product-manager-3">https://weworkremotely.com/remote-jobs/credit-repair-cloud-product-manager-3</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/6259/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -79,7 +131,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>16 days ago</text>
+                <text>17 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-product-manager-technical-2" align="right" target="_blank">Apply</a>
@@ -133,79 +185,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/5762/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>WalletConnect</h5>
-                    <h3> Product Manager - Cloud</h3>
-                </td>
-                <td width="300">
-                    <code>Product</code>
-                </td>
-                <td width="200">
-                <text>16 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/walletconnect-product-manager-cloud" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/5762/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> USA
-    <br /><strong>URL:</strong> <a href="https://walletconnect.com">https://walletconnect.com</a>
-</p>
-
-<div>WalletConnect is the web3 communications protocol. We began with a single API, and are now building a suite of web3 SDK’s including Web3Modal, Web3Wallet, Web3Inbox, and more. We recently raised our $11M Series A from USV, 1kx, Coinbase and other leading investors, and are looking to grow.<br><br>To learn more about our plans to create a multi-API messaging network for web3, take a look at our presentation at <a href="https://www.youtube.com/watch?v=LeG6p6-1E30"><strong>EthCC</strong></a>.<br><br><strong>The Role<br></strong><br>
-</div><div>We’re looking for a talented product manager to join our Cloud team and help onboard the next batch of web3 wallets and dapps to the WalletConnect protocol. This role is a hybrid product manager and customer success role where both technical and support skills are needed. You'll be working internally with our product, business and engineering teams and externally with wallets and dapps to ensure a seamless experience.<br><br><strong>Responsibilities:<br></strong><br>
-</div><ul>
-<li>Responsible for ecosystem usage and adoption of the WalletConnect Cloud (cloud.walletconnect.com)</li>
-<li>Coordinate with our partners including Metamask, Uniswap, Rainbow, Trust Wallet, and OpenSea to ensure their Cloud experience is seamless</li>
-<li>Manage and moderate the WalletConnect Explorer registries and submissions</li>
-<li>Manage inbound integration requests across Github, Discord, Slack, and Telegram, then prioritize opportunities across a range of partners.</li>
-<li>Triage and respond to Cloud issues reported and prioritize the product backlog, ensuring that the development team always has a clear understanding of what needs to be built</li>
-<li>Ensure the success of existing and new integration partners to incorporate feedback, bug reports, or technical issues, and pass this on to product and engineering teams, improving the product iteration/improvement cycle.</li>
-<li>Build out the processes to ensure that integration partners have consistently excellent customer experience.</li>
-<li>Own the product requirements for cloud.walletconnect.com and explorer.walletconnect.com</li>
-</ul><div>
-<strong>Must have:<br></strong><br>
-</div><ul>
-<li>At least 2 years of experience at a tech company, having managed products, or as a software engineer, or worked in customer support or other tech-focused roles</li>
-<li>Passion for web3</li>
-<li>Hands-on experience using wallets and dapps. This position requires downloading and testing apps for quality and compatibility testing.</li>
-<li>Excellent problem-solving and analytical skills to identify opportunities or understand and address potential technical and business issues</li>
-<li>Experience managing client relationships</li>
-<li>Excellent written, editing, speaking, and research skills</li>
-</ul><div>
-<br><br>
-</div><div>
-<strong>Nice to have:<br></strong><br>
-</div><ul>
-<li>Experience in product, or customer support roles</li>
-<li>A proven ability to thrive in rapidly evolving high growth-startups</li>
-<li>An understanding of product analytics and how to use it to drive decision making</li>
-<li>QA experience</li>
-<li>Crypto / Blockchain experience</li>
-<li>Comfortable working remotely</li>
-</ul><div><br></div><div>
-<strong>What WalletConnect offers:<br></strong><br>
-</div><ul>
-<li>Fully remote position</li>
-<li>Remote work allowance</li>
-<li>Company equity</li>
-<li>Token offering</li>
-<li>Salary $60-80k USD</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/walletconnect-product-manager-cloud">https://weworkremotely.com/remote-jobs/walletconnect-product-manager-cloud</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -216,7 +195,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>460 days ago</text>
+                <text>461 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
