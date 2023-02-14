@@ -1,5 +1,75 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/5e353081c16f4e27569805f91b5319931676272522.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Flare Network</h5>
+                    <h3>Head of Developer Relations</h3>
+                </td>
+                <td width="300">
+                    <code>developer,design,web3,solidity,ethereum,technical,support,growth,web,travel,mobile,content,marketing,engineering,fulltime,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-head-of-developer-relations-flare-network-193710" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>This role is remote and location agnostic. Full time or paid via grant.<br>
+This role is suitable for a developer relations expert with an unrelenting & uncompromising passion for truly decentralized and trustless infrastructure. As well as having the chutzpah to design & scale a developer adoption programme with strong support from a stellar engineering team.</p>
+
+<p>Flareâs EVM compatibility means Ethereumâs tooling is readily available & solidity developers will have few problems picking up the code.</p>
+
+<p>As Head of Developer Relations you will become Flareâs leading light amongst the most influential developer communities within Web3 and beyond. You will be backed to the hilt and responsible for leading all developer engagement, hackathons & bounty programmes.</p>
+
+<h3>Your impact:</h3>
+
+<ul>
+        <li>First & foremost, you have a passion for relating to developers.</li>
+        <li>Build the developer relations programme and scale the team required.</li>
+        <li>Working with the Ecosystem Team, strategize the products & programme of content required to fuel rapid developer adoption.</li>
+        <li>Represent Flare Networks at developer conferences and events by leading the execution of Flare Networkâs hackathons.</li>
+        <li>Oversee the participation in all the other major Web 3 hackathons & developer conferences by giving speeches, doing live demos of Flare Networks, and interacting with attendees.</li>
+        <li>Create inspiring product demos, tutorials, and other videos to use for events and marketing.</li>
+        <li>Create and publish technical content that will excite Web 2 & 3 audiences.</li>
+        <li>Manage and grow developer communication channels such as Github & Discord. Moderate discussions across forums in a timely manner.</li>
+        <li>Be an active and respected participant within Ethereum and other major layer 1 protocolâs ecosystems.</li>
+        <li>Clearly communicate complex topics to non-technical audiences, changing the relevant level of complexity for the relevant stakeholders.</li>
+        <li>Respond quickly to conceptual and technical troubleshooting questions (design applications, integration into existing services, deployment and more). Providing strategic end-user feedback to the protocol and product development teams.</li>
+        <li>Always personable and sufficiently empathetic to be able to extrapolate the relevant issues and provide robust easy to comprehend solutions.</li>
+        <li>Collaborate with marketing & partnerships to launch new features & products.</li>
+        <li>Always have a unique growth mindset.</li>
+</ul>
+
+<h3>How to be a stand-out candidate:</h3>
+
+<ul>
+        <li>Passion for layer 1 protocols & EVM bridge growth areas within Web 3.0.</li>
+        <li>Strong presence already within major Web3 communities.</li>
+        <li>Solid public speaking experience.</li>
+        <li>Exemplary interpersonal skills and ability to effectively communicate, build rapport and relate to others.</li>
+        <li>Experience running hackathons or plenty of experience attending high caliber hacks.</li>
+        <li>Typically a min of 6+ years experience working as a developer or evangelist or dev-tools expert.</li>
+        <li>Strong engineering skills; experience in building web and/or mobile applications.</li>
+        <li>Strong technical writing skills; ability to clearly communicate complex ideas and concepts.</li>
+        <li>Social and hustling skills; a desire to get out and meet people.</li>
+        <li>Passion for inspiring and educating fellow developers.</li>
+        <li>Ability to work in a hyper-fast environment.</li>
+        <li>Willingness to travel and work irregular hours when required.</li>
+        <li>Community experience including organizing meetups.</li>
+        <li>Passion for building a developer community around the world and desire to invest your energy to make them better.</li>
+        <li>Experienced with Solidity, Typescript, and/or Golang.</li>
+</ul>
+
+<p>We ask that you overlap some working hours with GMT. English is essential, other languages are a bonus. Fulltime or grants-based arrangement possible. If this is the kind of role that potentially appeals to you, please reach out.</p><br/><br/>Please mention the word **AMAZINGLY** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/7777e4ff8c705d6e87ccda2242ffe0781676186136.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +80,7 @@
                     <code>defi,frontend,developer,web3,cryptocurrency,technical,software,voice,video,management,reliability,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-defi-frontend-developer-woo-193223" align="right" target="_blank">Apply</a>
@@ -61,7 +131,7 @@
 <li>If you have experience in developing trading systems or financial-related products is a plus.</li>
 <li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
 <li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our External Referral Incentives Program as well. (https://boards.greenhouse.io/wooreferral/jobs/4698841003?utm_source=linkedin)</li>
-</ul><br/><br/>Please mention the word **CREDENCE** and tag RMzUuODcuMjMzLjExOQ== when applying to show you read the job post completely (#RMzUuODcuMjMzLjExOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **CREDENCE** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -76,7 +146,7 @@
                     <code>developer,web3,crypto,technical,financial,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-relations-ecosystem-aptos-192729" align="right" target="_blank">Apply</a>
@@ -123,7 +193,7 @@
 <li style="font-weight:400;"><span style="font-weight:400;">Fun and inclusive in-person and digital events</span></li>
 </ul>
 <p><em><span style="font-weight:400;">Aptos is committed to diversity in the workplace, and weâre proud to be an Equal Opportunity Employer. We do not hire on the basis of race, color, religion, creed, gender, national origin, citizenship, age, disability, veteran status, marital status, pregnancy, parental status, sex, gender expression or identity, sexual orientation, or any other basis protected by local, state or federal law. All employment is decided based on qualifications, merit, and business need.</span></em></p>
-</div><br/><br/>Please mention the word **TERRIFICALLY** and tag RMzUuODcuMjMzLjExOQ== when applying to show you read the job post completely (#RMzUuODcuMjMzLjExOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **TERRIFICALLY** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -138,7 +208,7 @@
                     <code>developer,design,defi,crypto,system,technical,support,software,growth,code,devops,education,finance,mathematics,senior,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-protocol-developer-composable-finance-192230" align="right" target="_blank">Apply</a>
@@ -180,7 +250,7 @@
 <li style="color:rgb(0,0,0);">The ability to work as an independent contractor: We treat you as your own agent and support you accordingly!</li>
 <li style="color:rgb(0,0,0);">Monthly Gym & Fitness Bonus</li>
 <li style="color:rgb(0,0,0);">Paid Time Off</li>
-</ul><span style="color:rgb(0,0,0);">Â <br>Diversity & Inclusion: A company commitment to equal opportunity. We do not condone discrimination on the premise of race, color, religion, sexual orientation, age, gender identity or expression.<br><br></span><br/><br/>Please mention the word **IRREPROACHABLE** and tag RMzUuODcuMjMzLjExOQ== when applying to show you read the job post completely (#RMzUuODcuMjMzLjExOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><span style="color:rgb(0,0,0);">Â <br>Diversity & Inclusion: A company commitment to equal opportunity. We do not condone discrimination on the premise of race, color, religion, sexual orientation, age, gender identity or expression.<br><br></span><br/><br/>Please mention the word **IRREPROACHABLE** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -195,7 +265,7 @@
                     <code>developer,web3,nft,technical,web,financial,api,strategy,management,content,marketing,sales,engineer,engineering,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-advocate-upshot-192217" align="right" target="_blank">Apply</a>
@@ -221,7 +291,7 @@
 <li>Experience facilitating sensitive and complex community situations with empathy, judgment, and tact</li>
 <li>Ability to think like a developer and be passionate about making developers happy; even better, you know how to code</li>
 <li>Highly knowledgeable in the Web3 Crypto/NFT/DeFi space with a solid grasp of recent global trends and use cases</li>
-</ul><div><span style="font-size:16px;">Upshot is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</span></div><br/><br/>Please mention the word **SOOTHINGLY** and tag RMzUuODcuMjMzLjExOQ== when applying to show you read the job post completely (#RMzUuODcuMjMzLjExOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><span style="font-size:16px;">Upshot is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</span></div><br/><br/>Please mention the word **SOOTHINGLY** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -236,7 +306,7 @@
                     <code>design,ethereum,react,front-end,frontend,full-stack,technical,support,code,web,education,typescript,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-blockchain-developers-gnosis-builders-gnosis-191724" align="right" target="_blank">Apply</a>
@@ -270,7 +340,7 @@
 <li>Not really an early bird? No worries!âFlexible working schedules and remote work policies are, for a long time, part of our culture;Â </li>
 <li>Impact: An innovative blockchain company driving change in a number of important global markets, including finance, insurance, and information discovery.Â Join in on our mission to build the future!</li>
 </ul><em>Variety is the spice of life and a celebrated component of our culture. At Gnosis, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences and are proud to be an equal opportunity employer: all qualified applicants are considered for positions regardless of race, ethnic origin, age, religion or belief, marital status, gender identification, sexual orientation, or physical ability.</em>Â  Â 
-<p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **BONNY** and tag RMzUuODcuMjMzLjExOQ== when applying to show you read the job post completely (#RMzUuODcuMjMzLjExOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **BONNY** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -285,7 +355,7 @@
                     <code>frontend,developer,design,crypto,back-end,growth,code,web,payroll,financial,investment,css,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-frontend-developer-vinter-191713" align="right" target="_blank">Apply</a>
@@ -313,296 +383,61 @@
 <li>Understanding of the basics of AWS</li>
 <li>2+ years of experience in data visualization using libraries such as D3.js, Charts.js, or TradingView</li>
 <li>Able to work on the ET timezone (based in North or South America)</li>
-</ul><p><br></p><p>We offer a dynamic and fully remote work environment, growth opportunities, brilliant colleagues, and a competitive compensation package.</p><p><em>NB. Vinter will hire you through our entity in the UK and Sweden. In other countries, we hire using a global payroll provider as a contractor.</em></p><p><em>Vinter is an equal-opportunity employer committed to diversifying its workforce. Accordingly, it is the policy of the Firm to ensure equal employment opportunity without discrimination or harassment based on race, color, religion, creed, age, sex, gender, gender identity, sexual orientation, national origin, citizenship, disability, marital and civil partnership/union status, pregnancy or any other characteristic protected by law.</em><br></p><br/><br/>Please mention the word **UNBEATABLE** and tag RMzUuODcuMjMzLjExOQ== when applying to show you read the job post completely (#RMzUuODcuMjMzLjExOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p><br></p><p>We offer a dynamic and fully remote work environment, growth opportunities, brilliant colleagues, and a competitive compensation package.</p><p><em>NB. Vinter will hire you through our entity in the UK and Sweden. In other countries, we hire using a global payroll provider as a contractor.</em></p><p><em>Vinter is an equal-opportunity employer committed to diversifying its workforce. Accordingly, it is the policy of the Firm to ensure equal employment opportunity without discrimination or harassment based on race, color, religion, creed, age, sex, gender, gender identity, sexual orientation, national origin, citizenship, disability, marital and civil partnership/union status, pregnancy or any other characteristic protected by law.</em><br></p><br/><br/>Please mention the word **UNBEATABLE** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/404cff65746fad9ca4a6865894f729391675840606.peg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/6888/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Illuvium</h5>
-                    <h3>Senior Blockchain Developer</h3>
+                    <h5>HighHello</h5>
+                    <h3> Full Stack Senior Wordpress Developer</h3>
                 </td>
                 <td width="300">
-                    <code>developer,design,c#,web3,defi,solidity,ethereum,security,game,software,testing,web,java,cloud,typescript,senior,engineering,digital nomad</code>
+                    <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-blockchain-developer-illuvium-191217" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/highhello-full-stack-senior-wordpress-developer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <h3 id="Role-Description"><strong>Role Description</strong></h3>
-<p>We're building a suite of greenfield web3 apps for both our upcoming title Illuvium and our DeFi Protocols. This includes everything from public facing web3 apps, to internal apps that manage our game configurations. To help us on this mission, we're looking for experienced and ambitious Blockchain Developers who have a knack for approaching problems in unconventional ways.</p>
-<h3><strong>About Illuvium</strong></h3>
-<p>Illuvium Labs is an independent game development studio based in Sydney, Australia. We develop blockchain based games for the Illuvium DAO. We have developed a strong culture of independence with our team, preferring candidates who can articulate their own vision and goals. We operate almost entirely remotely so each team member designs their own hours and work schedule. In the end all that matters is the delivered product. We hire based on peopleâs abilities to adapt and change quickly, valuing underlying core abilities above specific skill sets.</p>
-<h3><strong>Responsibilities</strong></h3>
-<ul class="ak-ul">
-<li>
-<p>Development of Ethereum smart contracts with Solidity, and blockchain integration with existing applications</p>
-</li>
-<li>
-<p>Develop features and improvements in a secure, well-tested, and performant way</p>
-</li>
-<li>
-<p>Create application features and interfaces, and write multithreaded code</p>
-</li>
-<li>
-<p>Maintain a continuous integration pipeline for the development and testing of applications</p>
-</li>
-<li>
-<p>Collaborate with multidisciplinary teams, product managers to brainstorm the latest technologies and applications</p>
-</li>
-</ul>
-<h3><strong>Minimum requirements</strong></h3>
-<ul class="ak-ul">
-<li>
-<p>1+ year Solidity development experience</p>
-</li>
-<li>
-<p>4+ years Software Engineering experience</p>
-</li>
-<li>
-<p>Solid background in software development with C/C++, C# (.Net), Java or Typescript</p>
-</li>
-<li>
-<p>Must have experience with design patterns and databases</p>
-</li>
-<li>
-<p>Must have experience with Typescript and web3 libraries like ethers.js</p>
-</li>
-<li>
-<p>Must have experience with cloud based architectures and cloud infrastructure</p>
-</li>
-<li>
-<p>Experience with Hardhat/Foundry</p>
-</li>
-<li>
-<p>Experience with DeFi/NFT protocols</p>
-</li>
-<li>
-<p>Background in web security and/or blockchain security is a big plus</p>
-</li>
-<li>
-<p>Cairo (Starkware) experience is a plus</p>
-</li>
-</ul>
-<h3><strong>Preferred skills</strong></h3>
-<ul class="ak-ul">
-<li>
-<p>Enthusiastic learner of emerging blockchain technologies</p>
-</li>
-<li>
-<p>Collaborative workability with multi-disciplinary teams</p>
-</li>
-</ul>
-<h3><strong>Location</strong></h3>
-<p>All of our jobs are 100% remote and we are looking to find the best talent globally!</p><br/><br/>Please mention the word **RELIABLY** and tag RMzUuODcuMjMzLjExOQ== when applying to show you read the job post completely (#RMzUuODcuMjMzLjExOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/b1ad340a184d2f600834c9fd0d04f20f1675840525.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Ston.fi</h5>
-                    <h3>Frontend Developer Senior Frontend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>frontend,developer,cryptocurrency,cryptocurrencies,react,test,code,javascript,financial,git,typescript,mobile,senior,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-frontend-developer-senior-frontend-developer-ston-fi-191195" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>STON.fi is a decentralized exchange (DEX) built on TON Blockchain smart contracts, enhanced with advantages such as low fees, low slippage, super user-friendly interface and direct integration with the TON wallet.</p>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/6888/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
-<p>STON.fi is a peer-to-peer trading platform where transactions are conducted directly between crypto-traders, and do not require third-party participation.</p>
+<p>
+  <strong>Headquarters:</strong> Miami, FL
+    <br /><strong>URL:</strong> <a href="https://gethighhello.com">https://gethighhello.com</a>
+</p>
 
-<p>STON.fi:</p>
-
-<ul>
-        <li>implements one of the main features of cryptocurrencies â it facilitates financial transactions without any involvement of banks, brokers or any other traditional intermediaries;</li>
-        <li>utilizes the TON blockchain and is a natural part of TON DeFiâs growing suite of tools that make a huge range of financial services available directly from the TON cryptocurrency wallet.</li>
+<div><strong>The what:</strong></div><div><br></div><div>We are looking for a rockstar to join our team (part-time or full) as a full stack Senior WordPress Developer, specializing in WooCommerce and custom WordPress development. Someone who is passionate about delivering excellent results, and is ready to take on new challenges and grow with our company. This is a unique opportunity to work on an exciting early stage project with competitive compensation and future stock options. </div><div><br></div><div><strong>About you:</strong></div><div><br></div><div>As a Senior WordPress Developer, you will play a critical role in building and maintaining our e-commerce website with custom theme, plugins, custom payment and checkout flows, api integrations, utilizing your expertise in WordPress / WooCommerce to enhance our customers' online shopping experience and more.</div><div><br></div><div>You thrive in a small team where you can make a significant impact. As a foundational member of an early-stage start- up, you want to take the initiative, tackle new obstacles, and solve problems we have not encountered before. </div><div><br></div><div>You are open to a part-time arrangement, with the possibility of transitioning to full-time for the right candidate. This is a unique opportunity for someone who is looking for a flexible work arrangement, and who is eager to contribute to the success of a dynamic and young company in a high growth industry.</div><div><br></div><div><strong>Responsibilities:</strong></div><div><br></div><ul>
+<li>Build and maintain WooCommerce &amp; WooCommerce Subscriptions to support our custom checkout flow and e-commerce website</li>
+<li>Support site optimization to create the best user with custom plugin development, theme customization, and website optimization.</li>
+<li>Building custom plugins and extensions to support third party integrations</li>
+<li>Integrating with various 3rd party API services to sync data</li>
+<li>Develop and maintain our high-quality, responsive website</li>
+</ul><div><br></div><div>
+<strong>Qualifications:<br><br></strong><br>
+</div><ul>
+<li>Minimum 5 years experience with PHP, MySQL, HTML5, CSS and JS /  jQuery.</li>
+<li>Minimum 5 years of experience in WordPress development, with a strong focus on WooCommerce</li>
+<li>Experience with custom plugin development, theme customization (gutenberg), and website optimization</li>
+<li>Excellent problem-solving skills and the ability to work independently as well as part of a team</li>
+<li>Attention to detail.</li>
+</ul><div><br></div><div>To apply click the button and put  <strong>"I Rock Wordpress"</strong> in the subject. </div><div><br></div><div><strong>Company Highlights:</strong></div><div><br></div><ul>
+<li>
+<strong>HighHello</strong> is a true cannabis subscription club that provides education, guidance, and great quality products conveniently delivered to your home for a low monthly price. </li>
+<li>
+<strong>Our Vision:</strong> "To become a lifestyle brand that embodies cannabis culture — Bringing cannabis consciousness to everyone from the budding beginner to the seasoned consumer.  All while being an integral part of the local cannabis ecosystem." </li>
+<li>Self funded by a few exit entrepreneurs.</li>
 </ul>
 
-<p>We are looking for a new <strong>frontend team member</strong> who will be immersed in the process of working with TON Blockchain and its unique features; will help the present team in bringing new complicated business scenarios to life and upgrading the current application.</p>
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/highhello-full-stack-senior-wordpress-developer">https://weworkremotely.com/remote-jobs/highhello-full-stack-senior-wordpress-developer</a></p>
 
-<p><strong>Responsibilities:</strong></p>
-
-<ul>
-        <li>
-        <p>Producing typescript code that is easy to read, testable, supported, and framework independent;</p>
-        </li>
-        <li>
-        <p>Building interfaces with the react framework, scss, storybook, component driven development, and mobile first approaches;</p>
-        </li>
-        <li>
-        <p>Writing unit test using jest/vitest, e2e and integration tests using cypress;</p>
-        </li>
-        <li>
-        <p>Application performance optimization: profiling, analysis and reduction of problem spots, refactoring;</p>
-        </li>
-        <li>
-        <p>Immersion in the context of business requirements and operation of the application scenarios; communication in an open community of users and partner developers.</p>
-        </li>
-</ul>
-
-<p><strong>Requirements:</strong></p>
-
-<ul>
-        <li>
-        <p>Strong knowledge of javascript (ES6+), typescript;</p>
-        </li>
-        <li>
-        <p>Ability to make adaptive interfaces using css/sass;</p>
-        </li>
-        <li>
-        <p>Expertise with the react framework and its ecosystem (react-router, react-hook-forms, react-testing-library).</p>
-        </li>
-</ul>
-
-<p><strong>Desired Bonus Skills:</strong></p>
-
-<ul>
-        <li>
-        <p>Knowledge of the frameworks Next.js, svelete, and mobs state manager;</p>
-        </li>
-        <li>
-        <p>Expertise with themization and localization implementation;</p>
-        </li>
-        <li>
-        <p>Experience in developing and supporting CI/CD workflows with gitlab and docker;</p>
-        </li>
-        <li>
-        <p>Maintaining versioned application releases in git and expertise working with git flow for version control.</p>
-        </li>
-</ul>
-
-<p>Ston.fi is an equal opportunity employer.</p><br/><br/>Please mention the word **BRISK** and tag RMzUuODcuMjMzLjExOQ== when applying to show you read the job post completely (#RMzUuODcuMjMzLjExOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>velvet.capital</h5>
-                    <h3>Web3 Frontend Developer</h3>
-                </td>
-                <td width="300">
-                    <code>web3,frontend,developer,design,defi,crypto,ethereum,front-end,testing,test,growth,code,web,financial,css,management,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-web3-frontend-developer-velvet-capital-191218" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>A Web 3.0 startup backed by Binance top US Accelerator and VC is looking for an extremely bright Growth Hacker to nurture & grow a community for a DeFi asset management platform helping people create crypto portfolios with additional yield âin one clickâ.</p>
-
-<p>Our mission is to provide people with complete financial independence, free from intermediaries and centralized parties. The vision is to become the #1 multi-chain asset management protocol.</p>
-
-<p><strong>Job Summary:</strong><br>
-As a developer, you'll work within the product team with other engineers and designers in building the best DeFi platform for the Web3 ecosystem for multiple chains.</p>
-
-<h3>Requirements:</h3>
-
-<ul>
-        <li>2+ years experience with React.js, Vue.js or similar front-end frameworks</li>
-        <li>1+ years experience Graph QL</li>
-        <li>1+ years experience with Typescript</li>
-        <li>Strong CSS skills</li>
-        <li>Experience with web3 libraries (ethers.js, web3.js)</li>
-        <li>Experience with testing your code on Ethereum test network</li>
-        <li>You can work with high autonomy</li>
-        <li>Strong written and verbal communication skills</li>
-</ul>
-
-<h3>Bonus point for:</h3>
-
-<ul>
-        <li>Strong design skills</li>
-        <li>Experience with Solidity</li>
-</ul>
-
-<h3>Technologies we use and teach:</h3>
-
-<ul>
-        <li>React.js</li>
-        <li>Node.js</li>
-        <li>Typescript (preferred)</li>
-        <li>Javascript</li>
-        <li>Ethers.js / web3.js</li>
-        <li>Hardhat</li>
-        <li>Solidity</li>
-</ul><br/><br/>Please mention the word **EXTRAORDINARY** and tag RMzUuODcuMjMzLjExOQ== when applying to show you read the job post completely (#RMzUuODcuMjMzLjExOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>velvet.capital</h5>
-                    <h3>Blockchain Developer Internship</h3>
-                </td>
-                <td width="300">
-                    <code>developer,defi,solidity,crypto,front-end,students,docker,web,financial,management,engineer,internship,full-time,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-blockchain-developer-internship-velvet-capital-191215" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>A Web 3.0 startup backed by a top US Accelerator and VC is looking for an extremely bright Solidity engineer to build a DeFi asset management platform helping people create crypto portfolios with additional yield âin one clickâ.</p>
-
-<p>Our mission is to provide people with complete financial independence, free from intermediaries and centralized parties. The vision is to become the #1 multi-chain asset management protocol.</p>
-
-<p>This role is especailly for final year grad students or beginners who can be potentailly converted to full-time employee after intership.</p>
-
-<h3>Responsibilities:</h3>
-
-<ul>
-        <li>Write and maintain smart contracts</li>
-        <li>Create/ integrate with the front-end applications</li>
-        <li>Write end-to-end tests for all codebases (Contracts, middlewares, and front-end)</li>
-        <li>Document the entire development process</li>
-        <li>Be on top of the latest developments in the DeFi ecosystem</li>
-</ul>
-
-<h3>Qualifications:</h3>
-
-<ul>
-        <li>BSc/BTech (or in the final year) in Computer Science or a related field</li>
-        <li>Basic knowledge of how blockchains and various protocols work</li>
-        <li>Experience in Javascript/ Solidity or any object-oriented compiler-based programming language</li>
-        <li>Familiarity with any of the CI/CD and container-orchestration tools such as Jenkins, Ansible, Kubernetes, Docker compose, etc.</li>
-        <li>Front-end development experience (JavaScript-based frameworks)</li>
-        <li>Motivation to learn anything and everything new in the space</li>
-        <li>Demonstratable opensource contribution in GitHub, Stack Overflow or any other platforms.</li>
-        <li>If you are a curious learner and keep on iterating with development on new tech across the blockchain ecosystem weâd be happy to welcome you to the team!</li>
-</ul><br/><br/>Please mention the word **NOURISHING** and tag RMzUuODcuMjMzLjExOQ== when applying to show you read the job post completely (#RMzUuODcuMjMzLjExOQ==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -617,7 +452,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-ai-application-developer" align="right" target="_blank">Apply</a>
@@ -687,7 +522,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/zapiet-react-developer" align="right" target="_blank">Apply</a>
@@ -737,7 +572,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/zapiet-rust-developer" align="right" target="_blank">Apply</a>
@@ -787,7 +622,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tempmee-senior-backend-developer" align="right" target="_blank">Apply</a>
@@ -823,7 +658,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-1" align="right" target="_blank">Apply</a>
@@ -866,70 +701,6 @@ As a developer, you'll work within the product team with other engineers and des
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1067/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Proxify AB</h5>
-                    <h3> Lead Flutter Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>20 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/proxify-ab-lead-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/1067/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Sweden
-    <br /><strong>URL:</strong> <a href="http://career.proxify.io">http://career.proxify.io</a>
-</p>
-
-<div>
-<strong>The Role:<br></strong><br>
-</div><div>We are searching for a Lead Flutter Developer. You can be a perfect candidate if you are growth-oriented, take pleasure in your work, and enjoy working on new ideas to develop exciting products. By joining Proxify, you will get considerable opportunities to work with leading brands and amazing startups to build their next product and growth features.<br><br><strong>Requirements:</strong>
-</div><ul>
-<li>Expert in Flutter</li>
-<li>Leading experience, comfortable leading team members</li>
-<li>Knowledge in C#, .NET, and .NET Core is a big plus</li>
-<li>Being Familiar with DevOps is a plus</li>
-</ul><div><strong><br>Nice-to-have:</strong></div><ul><li>Timezone: CET (+/- 3 hours);</li></ul><div><br></div><div><strong>Responsibilities:</strong></div><ul>
-<li>Lead the development of mobile applications using Flutter</li>
-<li>Design and develop application features using Flutter and related technologies</li>
-<li>Collaborate with other developers and stakeholders to ensure the highest quality product</li>
-<li>Troubleshoot and debug code</li>
-<li>Provide technical leadership</li>
-<li>Ensure code is optimized for performance and reliability</li>
-</ul><div><br></div><div>
-<strong>What we offer:<br></strong><br>
-</div><div>💻 <strong>100% remote work</strong>: Work from anywhere.<br><br>
-</div><div>👌🏻 <strong>Flexibility</strong>: The ability to change one project to another one.<br><br>
-</div><div>💵 <strong>Financial growth</strong>: Competitive compensation and performance-based increases.<br><br>
-</div><div>🧘🏻‍♂️ <strong>Freedom</strong>: Very flexible working schedule.<br><br>
-</div><div>🚀 <strong>360-degree growth</strong>: Opportunities for professional development and personal growth.<br><br>
-</div><div>
-<br><br><strong>Your benefits with Proxify:<br></strong><br>
-</div><div>
-<strong>Be part of Proxify community</strong>: Network with like-minded and enthusiastic individuals to make a difference.<br><br>
-</div><div> <strong>Make an impact</strong>: You get the opportunity to work on projects that inspire you and add value to your career.<br><br>
-</div><div> <strong>Transparency</strong>: Contracts with transparency in earnings and working hours.<br><br>
-</div><div> <strong>Save your time</strong>: Fast and efficient hiring process to match you with the project of your preference.<br><br>
-</div><div> <strong>Ownership: </strong>Take ownership of your work and enjoy more freedom in your career.<br><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/proxify-ab-lead-flutter-developer-long-term-job-100-remote">https://weworkremotely.com/remote-jobs/proxify-ab-lead-flutter-developer-long-term-job-100-remote</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/2936/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -940,7 +711,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/nine15-shopify-back-end-developer" align="right" target="_blank">Apply</a>
@@ -994,7 +765,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>151 days ago</text>
+                <text>152 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
@@ -1045,7 +816,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>153 days ago</text>
+                <text>154 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -1119,7 +890,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ai-application-developer-1587090" align="right" target="_blank">Apply</a>
@@ -1153,16 +924,16 @@ As a developer, you'll work within the product team with other engineers and des
                 </td>
                 <td width="300">
                     <h5>Contra</h5>
-                    <h3>Unity Developer at Talkartive</h3>
+                    <h3>Freelance Unity Developer at Talkartive</h3>
                 </td>
                 <td width="300">
                     <code>developer,git,mobile,ui</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/unity-developer-at-talkartive-1583815" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/freelance-unity-developer-at-talkartive-1583815" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -1217,16 +988,16 @@ As a developer, you'll work within the product team with other engineers and des
                 </td>
                 <td width="300">
                     <h5>Contra</h5>
-                    <h3>Remix Full Stack Developer at Grapheec</h3>
+                    <h3>Freelance Remix Full Stack Developer at Grapheec</h3>
                 </td>
                 <td width="300">
                     <code>developer,fullstack,ui,design</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/remix-full-stack-developer-at-grapheec-1583816" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/freelance-remix-full-stack-developer-at-grapheec-1583816" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
@@ -1251,7 +1022,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1328,7 +1099,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1354,7 +1125,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1431,7 +1202,7 @@ As a developer, you'll work within the product team with other engineers and des
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
