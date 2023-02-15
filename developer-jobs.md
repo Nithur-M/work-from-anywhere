@@ -10,7 +10,7 @@
                     <code>developer,design,web3,solidity,ethereum,technical,support,growth,web,travel,mobile,content,marketing,engineering,fulltime,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-head-of-developer-relations-flare-network-193710" align="right" target="_blank">Apply</a>
@@ -65,7 +65,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
         <li>Experienced with Solidity, Typescript, and/or Golang.</li>
 </ul>
 
-<p>We ask that you overlap some working hours with GMT. English is essential, other languages are a bonus. Fulltime or grants-based arrangement possible. If this is the kind of role that potentially appeals to you, please reach out.</p><br/><br/>Please mention the word **AMAZINGLY** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>We ask that you overlap some working hours with GMT. English is essential, other languages are a bonus. Fulltime or grants-based arrangement possible. If this is the kind of role that potentially appeals to you, please reach out.</p><br/><br/>Please mention the word **AMAZINGLY** and tag RMy44MS4xNjMuMjM2 when applying to show you read the job post completely (#RMy44MS4xNjMuMjM2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -80,7 +80,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>defi,frontend,developer,web3,cryptocurrency,technical,software,voice,video,management,reliability,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-defi-frontend-developer-woo-193223" align="right" target="_blank">Apply</a>
@@ -131,7 +131,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
 <li>If you have experience in developing trading systems or financial-related products is a plus.</li>
 <li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
 <li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our External Referral Incentives Program as well. (https://boards.greenhouse.io/wooreferral/jobs/4698841003?utm_source=linkedin)</li>
-</ul><br/><br/>Please mention the word **CREDENCE** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **CREDENCE** and tag RMy44MS4xNjMuMjM2 when applying to show you read the job post completely (#RMy44MS4xNjMuMjM2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -146,7 +146,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,web3,crypto,technical,financial,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-relations-ecosystem-aptos-192729" align="right" target="_blank">Apply</a>
@@ -193,7 +193,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
 <li style="font-weight:400;"><span style="font-weight:400;">Fun and inclusive in-person and digital events</span></li>
 </ul>
 <p><em><span style="font-weight:400;">Aptos is committed to diversity in the workplace, and weâre proud to be an Equal Opportunity Employer. We do not hire on the basis of race, color, religion, creed, gender, national origin, citizenship, age, disability, veteran status, marital status, pregnancy, parental status, sex, gender expression or identity, sexual orientation, or any other basis protected by local, state or federal law. All employment is decided based on qualifications, merit, and business need.</span></em></p>
-</div><br/><br/>Please mention the word **TERRIFICALLY** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **TERRIFICALLY** and tag RMy44MS4xNjMuMjM2 when applying to show you read the job post completely (#RMy44MS4xNjMuMjM2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -208,7 +208,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,design,defi,crypto,system,technical,support,software,growth,code,devops,education,finance,mathematics,senior,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-protocol-developer-composable-finance-192230" align="right" target="_blank">Apply</a>
@@ -250,7 +250,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
 <li style="color:rgb(0,0,0);">The ability to work as an independent contractor: We treat you as your own agent and support you accordingly!</li>
 <li style="color:rgb(0,0,0);">Monthly Gym & Fitness Bonus</li>
 <li style="color:rgb(0,0,0);">Paid Time Off</li>
-</ul><span style="color:rgb(0,0,0);">Â <br>Diversity & Inclusion: A company commitment to equal opportunity. We do not condone discrimination on the premise of race, color, religion, sexual orientation, age, gender identity or expression.<br><br></span><br/><br/>Please mention the word **IRREPROACHABLE** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><span style="color:rgb(0,0,0);">Â <br>Diversity & Inclusion: A company commitment to equal opportunity. We do not condone discrimination on the premise of race, color, religion, sexual orientation, age, gender identity or expression.<br><br></span><br/><br/>Please mention the word **IRREPROACHABLE** and tag RMy44MS4xNjMuMjM2 when applying to show you read the job post completely (#RMy44MS4xNjMuMjM2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -265,7 +265,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,web3,nft,technical,web,financial,api,strategy,management,content,marketing,sales,engineer,engineering,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-advocate-upshot-192217" align="right" target="_blank">Apply</a>
@@ -291,7 +291,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
 <li>Experience facilitating sensitive and complex community situations with empathy, judgment, and tact</li>
 <li>Ability to think like a developer and be passionate about making developers happy; even better, you know how to code</li>
 <li>Highly knowledgeable in the Web3 Crypto/NFT/DeFi space with a solid grasp of recent global trends and use cases</li>
-</ul><div><span style="font-size:16px;">Upshot is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</span></div><br/><br/>Please mention the word **SOOTHINGLY** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><span style="font-size:16px;">Upshot is an equal opportunity employer. We value diversity at our company and do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</span></div><br/><br/>Please mention the word **SOOTHINGLY** and tag RMy44MS4xNjMuMjM2 when applying to show you read the job post completely (#RMy44MS4xNjMuMjM2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -306,7 +306,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>design,ethereum,react,front-end,frontend,full-stack,technical,support,code,web,education,typescript,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-blockchain-developers-gnosis-builders-gnosis-191724" align="right" target="_blank">Apply</a>
@@ -340,7 +340,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
 <li>Not really an early bird? No worries!âFlexible working schedules and remote work policies are, for a long time, part of our culture;Â </li>
 <li>Impact: An innovative blockchain company driving change in a number of important global markets, including finance, insurance, and information discovery.Â Join in on our mission to build the future!</li>
 </ul><em>Variety is the spice of life and a celebrated component of our culture. At Gnosis, we strive to create an inclusive environment that empowers our employees. We believe that our products and services benefit from our diverse backgrounds and experiences and are proud to be an equal opportunity employer: all qualified applicants are considered for positions regardless of race, ethnic origin, age, religion or belief, marital status, gender identification, sexual orientation, or physical ability.</em>Â  Â 
-<p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **BONNY** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **BONNY** and tag RMy44MS4xNjMuMjM2 when applying to show you read the job post completely (#RMy44MS4xNjMuMjM2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -355,7 +355,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>frontend,developer,design,crypto,back-end,growth,code,web,payroll,financial,investment,css,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-frontend-developer-vinter-191713" align="right" target="_blank">Apply</a>
@@ -383,7 +383,47 @@ This role is suitable for a developer relations expert with an unrelenting & unc
 <li>Understanding of the basics of AWS</li>
 <li>2+ years of experience in data visualization using libraries such as D3.js, Charts.js, or TradingView</li>
 <li>Able to work on the ET timezone (based in North or South America)</li>
-</ul><p><br></p><p>We offer a dynamic and fully remote work environment, growth opportunities, brilliant colleagues, and a competitive compensation package.</p><p><em>NB. Vinter will hire you through our entity in the UK and Sweden. In other countries, we hire using a global payroll provider as a contractor.</em></p><p><em>Vinter is an equal-opportunity employer committed to diversifying its workforce. Accordingly, it is the policy of the Firm to ensure equal employment opportunity without discrimination or harassment based on race, color, religion, creed, age, sex, gender, gender identity, sexual orientation, national origin, citizenship, disability, marital and civil partnership/union status, pregnancy or any other characteristic protected by law.</em><br></p><br/><br/>Please mention the word **UNBEATABLE** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p><br></p><p>We offer a dynamic and fully remote work environment, growth opportunities, brilliant colleagues, and a competitive compensation package.</p><p><em>NB. Vinter will hire you through our entity in the UK and Sweden. In other countries, we hire using a global payroll provider as a contractor.</em></p><p><em>Vinter is an equal-opportunity employer committed to diversifying its workforce. Accordingly, it is the policy of the Firm to ensure equal employment opportunity without discrimination or harassment based on race, color, religion, creed, age, sex, gender, gender identity, sexual orientation, national origin, citizenship, disability, marital and civil partnership/union status, pregnancy or any other characteristic protected by law.</em><br></p><br/><br/>Please mention the word **UNBEATABLE** and tag RMy44MS4xNjMuMjM2 when applying to show you read the job post completely (#RMy44MS4xNjMuMjM2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Turing Machines Inc</h5>
+                    <h3> Sr. Firmware Developer (Rust)</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/turing-machines-inc-sr-firmware-developer-rust" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> London, England, United Kingdom
+    <br /><strong>URL:</strong> <a href="http://turingpi.com">http://turingpi.com</a>
+</p>
+
+<p>Turing Machines is looking for a highly skilled and experienced Senior Firmware Developer to join our team. We develop ARM microservers that are equipped with 4 compute nodes and a baseboard management controller (BMC) with Linux. This role is ideal for software developers who are interested in exploring the fields of edge computing, distributed systems, self-hosting. The firmware will also be open source.</p>
+<p>This role will involve creating a client-server approach to interact with the firmware API server and CLI client, as well as conducting a simple Power On Self Test at power-up, initializing necessary interfaces, and providing a server API. Our SDK includes u-boot and buildroot for the Allwinner T113-S3 microprocessor, and the firmware will serve like the BIOS for personal computers.</p>
+<p>The main goal is to have a solid architecture for all the subsystems, with the ability to modularly extend the firmware for each subsystem. Build a vertical of abstraction from low-level to high-level functions like Kubernetes provider. Start laying out the architecture at a low level.</p>
+<p><strong>Requirements</strong></p>
+<ul> <li>IoT experience</li> <li>Build for ARM</li> <li>Software Design patterns 🧡</li> <li>Rust 🧡</li> <li>GitHub</li> <li>Developer documentation 🧡</li> </ul>
+<p><strong>Benefits</strong></p>
+<ul> <li>Contribution into the development of emerging technologies</li> <li>Options + performance bonuses</li> <li>Open-minded and friendly environment</li> <li>One of the first employees and growing startup</li> <li>Work with an awesome community</li> </ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/turing-machines-inc-sr-firmware-developer-rust">https://weworkremotely.com/remote-jobs/turing-machines-inc-sr-firmware-developer-rust</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -398,7 +438,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/highhello-full-stack-senior-wordpress-developer" align="right" target="_blank">Apply</a>
@@ -442,76 +482,6 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Contra</h5>
-                    <h3> AI Application Developer </h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/contra-ai-application-developer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
-</p>
-
-<div>
-<br>Are you a creative AI Application Developer with domain expertise in <strong>ChatGPT Applications</strong>, <strong>AI Web Applications</strong> and <strong>AI Chatbots</strong> and a passion for sharing your knowledge with others? Join the <a href="http://bit.ly/3J5ZhdS">Contra</a> Creator program to create and share high-quality projects and the portfolio of your dreams based on your unique skillset.<br><br>
-</div><div>
-<br>As a member of the Contra Creator program, you’ll be creating high-quality portfolio projects about AI development. These will be featured on Contra and around the web. You will be paid <strong>$2000 USD</strong> for a 1 month project for the following scope.<br><br>
-</div><div>
-<strong><br>Scope<br></strong><br>
-</div><ul>
-<li>Create and share 8 - 10 high-quality projects on your Contra Portfolio. Contra will help you choose the topics that will be most beneficial to your portfolio. We will also do SEO research on each topic to make sure your portfolio gets tons of visibility.</li>
-<li>Host the content on your Contra portfolio that lives on your custom domain (we can help you get one if you don’t have one already)</li>
-<li>Ensure that content is easy to share and engage with on social media platforms and other online channels</li>
-<li>Share content on your social platforms and/or in communities</li>
-</ul><div>
-<strong><br>What We’re Looking For<br></strong><br>
-</div><ul>
-<li>Experience creating and editing high-quality content</li>
-<li>Strong domain expertise in the AI space</li>
-<li>Active on social media and familiar with engagement strategies (a plus)</li>
-</ul><div>
-<strong><br>What You’ll Get<br></strong><br>
-</div><ul>
-<li>Build the Portfolio of your dreams 💭</li>
-<li>Boost your reputation on Contra and as an independent</li>
-<li>Increased discoverability of your unique expertise</li>
-<li>Community of fellow freelancers and thought leaders</li>
-</ul><div>
-<strong><br>About Contra<br></strong><br>
-</div><div>
-<br>The Contra team wants to continue to support the independent community and we believe there is no better way to do this than with paid opportunities 🚀<br><br>
-</div><div>
-<br>Contra allows Independents to build their digital portfolio, get discovered by clients around the world, and earn money commission-free; while connecting Clients with top Independent talent.<br><br>
-</div><div>
-<br>We believe in empowering people to work the way <em>they want.<br></em><br>
-</div><div>
-<br>If you are passionate about sharing your knowledge and want to be part of a growing community of creators, <a href="https://contra-ambassadors.typeform.com/to/oXvVEzDc">please apply here</a>!<br><br>
-</div><div>
-<strong><br>Learn more about </strong><a href="http://bit.ly/3Dbh5jQ"><strong>Contra here</strong></a><strong>!<br></strong><br>
-</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-ai-application-developer">https://weworkremotely.com/remote-jobs/contra-ai-application-developer</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/6704/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -522,7 +492,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/zapiet-react-developer" align="right" target="_blank">Apply</a>
@@ -572,7 +542,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/zapiet-rust-developer" align="right" target="_blank">Apply</a>
@@ -622,7 +592,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/tempmee-senior-backend-developer" align="right" target="_blank">Apply</a>
@@ -658,7 +628,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-modern-cpp-software-developer-remote-1" align="right" target="_blank">Apply</a>
@@ -711,7 +681,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/nine15-shopify-back-end-developer" align="right" target="_blank">Apply</a>
@@ -765,7 +735,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>152 days ago</text>
+                <text>153 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/projectdiscovery-io-senior-back-end-developer-golang" align="right" target="_blank">Apply</a>
@@ -816,7 +786,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>154 days ago</text>
+                <text>155 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-front-end-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -880,6 +850,88 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/8032/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Storetasker</h5>
+                    <h3> Senior Shopify Developer (Remote + Flexible)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>750 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0074/8032/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Brooklyn, NY
+    <br /><strong>URL:</strong> <a href="https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021">https://resources.storetasker.com/become-an-expert?apply=true&amp;source=weworkremotely_best_2021</a>
+</p>
+
+<h1>Shopify developers love to freelance with Storetasker.</h1><ul>
+<li>
+<strong>Endless, quality clients: </strong>from well known DTC brands to top agencies. </li>
+<li>
+<strong>Fully remote, flexible: </strong>work as much or as little as you want, wherever you want. </li>
+<li>
+<strong>A talented and helpful community: </strong>it's freelance (with a team).</li>
+<li>
+<strong>Earn $80-$120 per hour: </strong>pick your clients, and send your own quotes or retainers. <br><br>
+</li>
+</ul><div>We've connected our community of Shopify developers to over 32,000 e-commerce brands. From new brands pre-launch, to some of the most successful Shopify Plus sites, to top creative agencies. Clients include: <a href="https://www.alphaindustries.com/">Alpha Industries</a>, <a href="https://www.bollandbranch.com/">Boll &amp; Branch</a>, <a href="https://getsuperfluid.com">Superfluid</a>, <a href="https://jackhenry.co/">Jack Henry</a>, <a href="http://plenaire.co/">Plenaire</a>, and <a href="https://walkfulton.com/">Fulton</a> among many more. <br><br><strong>Why Storetasker?</strong>
+</div><ul>
+<li>
+<strong>Endless clients &amp; project opportunities:</strong> you’ll see between 5 - 50 new opportunities per day and can pick any lead you want. </li>
+<li>
+<strong>You’ll earn more:</strong> some experts are making $150-200k per year. </li>
+<li>
+<strong>A high quality community:</strong> we carefully select about 5% of those who apply. </li>
+<li>
+<strong>Remote:</strong> work from anywhere, anytime. </li>
+<li>
+<strong>Flexible:</strong> take on as many clients as you want.</li>
+<li>
+<strong>No external ratings:</strong> you’re already a professional. No need to prove it. </li>
+<li>
+<strong>Great Software:</strong> that makes it easy to manage more clients and increase billable hours.</li>
+<li>
+<strong>Support when you need it:</strong> we offer project support 7 days per week. </li>
+<li>
+<strong>Community (not competition):</strong> you pick your clients, projects, and never compete against other Experts in the community. </li>
+</ul><div><br></div><div>
+<a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>Learn more and join</strong></a>! It’s confidential, and takes less than 5 minutes. <br><br><strong>Here's who we're looking for:</strong>
+</div><ul>
+<li>Ambitious part time and full-time freelancers and boutique agencies.</li>
+<li>Who have 3+ years of Shopify experience, and 5+ years of web development experience. </li>
+<li>And who have managed projects, deadlines, and communication successfully. </li>
+</ul><div>
+<br><strong>Especially people with some of these skills:</strong>
+</div><ul>
+<li>Front-end or full-stack Shopify development</li>
+<li>Klaviyo Email flows</li>
+<li>Headless e-commerce development</li>
+<li>Conversion rate optimization</li>
+<li>E-commerce expertise and strategy</li>
+<li>SEO </li>
+<li>Site Speed</li>
+<li>Builder and/or Shogun</li>
+</ul><div>
+<br><a href="https://www.storetasker.com/become-an-expert?&amp;source=weworkremotely_best_2021"><strong>It takes just a few minutes to join.</strong></a><br><br><strong>Here's what a few current members have to say:</strong><br><br>"Storetasker has changed my life - I'm not only making more, but I'm getting quality leads, a diverse slate of projects, and access to an amazing group of developers. Plus, I love the HQ team!" - Adan, United States, Storetasker Expert since March 2020<br><br>"Storetasker has connected me with clients that would never have been possible without them. That combined with an incredible support network and community makes joining an amazing opportunity for any developer”" - Mark, England, Storetasker Expert since 2019<br><br>"Storetasker has allowed me to live out my dreams as an independent developer - to move to Toronto and continue doing what I love: solving interesting problems and helping apparel companies grow." - Siah, Canada, Storetasker Expert since 2017<br><br><strong>Our Mission: </strong><br><br>We're a company built by ex-freelancers who know the ins and outs of being an independent entrepreneur. We've experienced first-hand the shortcomings of other freelance platforms and the pain-points of being fully independent. Our mission is to empower e-commerce entrepreneurs by giving them the experts, insights, and resources to succeed.  <br><br><strong>Questions?</strong> Reach out at experts@storetasker.com.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1">https://weworkremotely.com/remote-jobs/storetasker-senior-shopify-developer-remote-flexible-1</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1587090/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -890,7 +942,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ai-application-developer-1587090" align="right" target="_blank">Apply</a>
@@ -899,115 +951,44 @@ This role is suitable for a developer relations expert with an unrelenting & unc
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <p>Are you a creative AI Application Developer with domain expertise in <strong>ChatGPT Applications</strong>, <strong>AI Web Applications</strong> and <strong>AI Chatbots</strong> and a passion for sharing your knowledge with others? Join the <a href="http://bit.ly/3J5ZhdS" rel="nofollow">Contra</a> Creator program to create and share high-quality projects and the portfolio of your dreams based on your unique skillset.</p><p>As a member of the Contra Creator program, you’ll be creating high-quality portfolio projects about AI development. These will be featured on Contra and around the web. You will be paid <strong>$2000 USD</strong> for a 1 month project for the following scope.</p><p><br></p><div class="h3">Scope</div><ul style="">
+                <p>Are you a creative AI Application Developer with domain expertise in <strong>ChatGPT Applications</strong>, <strong>AI Web Applications</strong> and <strong>AI Chatbots</strong> and a passion for sharing your knowledge with others? Join the <a href="http://bit.ly/3J5ZhdS" rel="nofollow">Contra</a> Creator program to create and share high-quality projects and the portfolio of your dreams based on your unique skillset.</p>
+<p>As a member of the Contra Creator program, you’ll be creating high-quality portfolio projects about AI development. These will be featured on Contra and around the web. You will be paid <strong>$2000 USD</strong> for a 1 month project for the following scope.</p>
+<p> </p>
+<div class="h3">Scope</div>
+<ul style="">
 <li style="">Create and share 8 - 10 high-quality projects on your Contra Portfolio. Contra will help you choose the topics that will be most beneficial to your portfolio. We will also do SEO research on each topic to make sure your portfolio gets tons of visibility.</li>
 <li style="">Host the content on your Contra portfolio that lives on your custom domain (we can help you get one if you don’t have one already)</li>
 <li style="">Ensure that content is easy to share and engage with on social media platforms and other online channels</li>
 <li style="">Share content on your social platforms and/or in communities</li>
-</ul><p><br></p><div class="h3">What We’re Looking For</div><ul style="">
+</ul>
+<p> </p>
+<div class="h3">What We’re Looking For</div>
+<ul style="">
 <li style="">Experience creating and editing high-quality content</li>
 <li style="">Strong domain expertise in the AI space</li>
 <li style="">Active on social media and familiar with engagement strategies (a plus)</li>
-</ul><p><br></p><div class="h3">What You’ll Get</div><ul style="">
+</ul>
+<p> </p>
+<div class="h3">What You’ll Get</div>
+<ul style="">
 <li style="">Build the Portfolio of your dreams 💭</li>
 <li style="">Boost your reputation on Contra and as an independent</li>
 <li style="">Increased discoverability of your unique expertise</li>
 <li style="">Community of fellow freelancers and thought leaders</li>
-</ul><p><br></p><p><br></p><div class="h3">About Contra</div><p>The Contra team wants to continue to support the independent community and we believe there is no better way to do this than with paid opportunities 🚀</p><p>Contra allows Independents to build their digital portfolio, get discovered by clients around the world, and earn money commission-free; while connecting Clients with top Independent talent.</p><p><br></p><p>We believe in empowering people to work the way <em>they want.</em></p><p><em><br></em></p><p>If you are passionate about sharing your knowledge and want to be part of a growing community of creators, <a href="http://bit.ly/3lfaxKY" rel="nofollow">please apply here</a>!</p><p><br></p><p>
-</p><div class="h3">Learn more about <a href="http://bit.ly/3Dbh5jQ" rel="nofollow">Contra here</a>!</div>
+</ul>
+<p> </p>
+<p> </p>
+<div class="h3">About Contra</div>
+<p>The Contra team wants to continue to support the independent community and we believe there is no better way to do this than with paid opportunities 🚀</p>
+<p>Contra allows Independents to build their digital portfolio, get discovered by clients around the world, and earn money commission-free; while connecting Clients with top Independent talent.</p>
+<p> </p>
+<p>We believe in empowering people to work the way <em>they want.</em></p>
+<p><em> </em></p>
+<p>If you are passionate about sharing your knowledge and want to be part of a growing community of creators, <a href="http://bit.ly/3lfaxKY" rel="nofollow">please apply here</a>!</p>
+<p> </p>
+<p> </p>
+<div class="h3">Learn more about <a href="http://bit.ly/3Dbh5jQ" rel="nofollow">Contra here</a>!</div>
 <img src="https://remotive.com/job/track/1587090/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1583815/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Contra</h5>
-                    <h3>Freelance Unity Developer at Talkartive</h3>
-                </td>
-                <td width="300">
-                    <code>developer,git,mobile,ui</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/freelance-unity-developer-at-talkartive-1583815" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Talkartive is a production studio specialized in cultural mediation and new media.</p>
-<p>Talkartive is looking for a Unity 2D developer to work on a mobile application that offers self-guided audio tours with spatial audio content.</p>
-<p>The application will be the point of entry of a new kind of visit experience, bringing together geolocation capabilities and immersive soundscapes throughhead-tracked binaural audio reproduction.</p>
-<p> </p>
-<p>A first ad-hoc version of the app is required no later than March 31st.</p>
-<p> </p>
-<p><strong>It will include:</strong></p>
-<ul style="">
-<li style="">a player with basic playback controls</li>
-<li style="">a navigation screen for geolocation</li>
-<li style="">a photo gallery</li>
-</ul>
-<p> </p>
-<p><strong>It will support:</strong></p>
-<ul style="">
-<li style="">geolocation data sent by GPS</li>
-<li style="">binaural decoding of multichannel audio content</li>
-<li style="">head orientation data sent over Bluetooth LE Detailed technical specifications are available upon request.</li>
-</ul>
-<p>Please note that for the sake of future developments, the app architecture must allow for an easy integration of other types of geolocation technologies and an easy update of the multimedia content.</p>
-<p> </p>
-<p><strong>Mandatory skills:</strong></p>
-<ul style="">
-<li style="">Prior experience with Unity development for mobile platforms</li>
-<li style="">Knowledge of GPS data integration</li>
-<li style="">Experience with publishing apps is a plus</li>
-<li style="">GIT version control</li>
-</ul>
-<p> </p>
-<p><strong>Optional skills:</strong></p>
-<ul style="">
-<li style="">Knowledge of Steam Audio Unity plugin for the support of multichannel audioand binaural decoding</li>
-<li style="">Experience with Bluetooth LE protocol</li>
-</ul>
-<p> </p>
-<p>A preliminary working version of the Unity app as well as a UI Figma prototype will be provided as the starting point of the actual app development.</p>
-<p> </p>
-<p>&gt; If successful, this first experience may lead to future collaborations for other versions of the present app.</p>
-<p> </p>
-<p>So, if you are looking for a smart and fun use-case, a potentially repeatable mission within an international and dynamic team at the junction of digital technologies and cultural mediation<span style="white-space: pre;">, feel free to contact us!</span></p>
-<img src="https://remotive.com/job/track/1583815/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1583816/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Contra</h5>
-                    <h3>Freelance Remix Full Stack Developer at Grapheec</h3>
-                </td>
-                <td width="300">
-                    <code>developer,fullstack,ui,design</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/freelance-remix-full-stack-developer-at-grapheec-1583816" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Grapheec is a Creative Agency for Tech.</p>
-<p>Grapheec is looking for a Fullstack Remix Developer to build a Task Tracker.</p>
-<p>Tech Stack: Remix.Run, Typescript, Supabase, Mantine UI.</p>
-<p>Resources: Figma Board (Links to the Mantine components through out the design).</p>
-<img src="https://remotive.com/job/track/1583816/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -1022,7 +1003,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -1099,7 +1080,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -1125,7 +1106,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
@@ -1202,7 +1183,7 @@ This role is suitable for a developer relations expert with an unrelenting & unc
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
