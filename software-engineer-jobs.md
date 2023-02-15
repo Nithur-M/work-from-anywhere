@@ -10,7 +10,7 @@
                     <code>software,design,crypto,cryptocurrency,system,ceo,technical,testing,code,web,financial,finance,fintech,bank,c++,api,senior,health,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-blockchain-technologies-paxos-193226" align="right" target="_blank">Apply</a>
@@ -112,7 +112,7 @@
 </ul>
 <p><span style="font-weight:400;">Our Paxos team is made up of passionate people from all over the world with different perspectives and experiences. If this opportunity excites you, but your experience doesnât perfectly match the descriptionâ¦apply! Unique voices help us build a more transparent and open economy.</span></p>
 <p><span style="font-weight:400;">#LI-SP1</span></p>
-<p><span style="font-weight:400;">#LI-Remote</span></p><br/><br/>Please mention the word **MERRILY** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><span style="font-weight:400;">#LI-Remote</span></p><br/><br/>Please mention the word **MERRILY** and tag RMy44MS4xNjMuMjM2 when applying to show you read the job post completely (#RMy44MS4xNjMuMjM2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -127,7 +127,7 @@
                     <code>software,crypto,bitcoin,python,founder,docker,ceo,developer,test,code,investment,finance,banking,mysql,postgresql,leader,management,operational,health,engineer,engineering,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-associate-software-engineer-gdm-galaxy-digital-193227" align="right" target="_blank">Apply</a>
@@ -214,94 +214,7 @@
 <p><em>Apply now and join us on our mission to engineer a new economic paradigm.</em></p><div class="content-conclusion">
 <p><em>Galaxy respects diversity and seeks to provide equal employment opportunities to all employees and job applicants for employment without regard to actual or perceived age, race, color, creed, religion, sex or gender (including pregnancy, childbirth, lactation and related medical conditions), gender identity or gender expression (including transgender status), sexual orientation, marital or partnership or caregiver status, ancestry, national origin, citizenship status, disability, military or veteran status, protected medical condition as defined by applicable state or local law, genetic information or predisposing genetic characteristic, or other characteristic protected by applicable federal, state, or local laws and ordinances.</em></p>
 <p><em>We will endeavor to make a reasonable accommodation to the known limitations of a qualified applicant with a disability unless the accommodation would impose an undue hardship on the operation of our business. If you believe you require such assistance to complete the application process or to participate in an interview, please contact <a href="mailto:careers@galaxy.com" target="_blank" rel="noopener noreferrer nofollow">careers@galaxy.com.</a> </em></p>
-</div><br/><br/>Please mention the word **GLOWING** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/54f50bfa3e806801fbfe58768edceca41675926970.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>MakersPlace</h5>
-                    <h3>Lead Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>software,growth,cloud,leader,lead,senior,go,engineer,engineering</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-lead-software-engineer-makersplace-191717" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div><b style="font-size:18px;">About MakersPlace</b></div><div>Founded in 2018, MakersPlace is a curated online marketplace that allows artists to create and sell unique digital creations (NFTs) using blockchain technology (digital art marketplace). We offer a platform aimed at empowering digital creators to create and sell their unique pieces, while providing verifiable proof of authenticity, ownership, and scarcity on the blockchain. Stay up to date on all of our hottest drops and collaborations at MakersPlace on <a href="https://www.linkedin.com/company/makersplace" class="postings-link" rel="noopener noreferrer nofollow">Linkedin</a>, <a href="https://twitter.com/makersplaceco" class="postings-link" rel="noopener noreferrer nofollow">Twitter</a> and on our <a href="https://rare.makersplace.com/" class="postings-link" rel="noopener noreferrer nofollow">Blog</a>.</div><div><br></div><div><b><span style="font-size:18px;">About the Role</span></b></div><div><span style="font-size:11pt;">We are looking for a strong leader to join our team and work with us to invent the future of the digital economy.  We need someone who can easily lead by example and demonstrate accountability and impact.  This candidate will care deeply about their team and work to help them grow and achieve wildly amazing results. This person has worked in many stacks and frameworks and has deep knowledge in architecting reliable cloud systems at scale.  </span></div><p></p><h4>Our Principals</h4><p></p><p></p><ul>
-<li>Clear and measurable objectives (focused on user value)</li>
-<li>Isolated, Independent, single responsibility services</li>
-<li>Starting small and failing fast</li>
-<li>Experimentation and Innovation</li>
-<li>Test Driven Culture</li>
-<li>Prioritize learning</li>
-</ul><p></p><h4>You Have</h4><p></p><p></p><ul>
-<li>Degree in Computer Science or equivalent work experience (8+ years programming).</li>
-<li>Strong customer-first mindset, necessary to build a world-class product.</li>
-<li>Strong communication skills. Weâre a highly collaborative team.</li>
-<li>Experience with a dynamic programming language such as Python. </li>
-</ul><p></p><h4>Technical Stack</h4><p></p><p></p><ul>
-<li>React, GraphQL</li>
-<li>Python, Django, Celery</li>
-<li>AWS, RDS, Kinesis, ElasticSearch, Redis, IPFS</li>
-<li>Solidity, Hardhat </li>
-<li>Web3, <a href="http://Ether.js" class="postings-link" rel="noopener noreferrer nofollow">Ether.js</a>
-</li>
-</ul><p></p><h4>Benefits and Perks</h4><p></p><p></p><ul>
-<li>Health/Vision/Dental </li>
-<li>$500 workstation stipend, with an additional $1000 after 6 months of employment.</li>
-<li>Flexible vacation policy + 1 personal day off / month.</li>
-<li>Weekly team sponsored lunches</li>
-<li>$500/Quarter AirBnB stipendâ we want you to go out and enjoy life!</li>
-<li>100% Remote</li>
-<li>â¦and more!</li>
-</ul><div><b style="font-size:18px;">The Team</b></div><div>At MakersPlace, we curate our team as carefully as we do our digital marketplace to ensure the best experience for both our creative community and employees. Our remote-first company was founded by senior engineering leaders from Pinterest, including the first engineer and former head of growth engineering, and is funded by top-tier venture capital funds and angels in Silicon Valley.</div><div><br></div><div><br></div><div><i>MakersPlace is an equal opportunity employer and highly values diversity. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, age, marital status, veteran status, or disability status.</i></div><div><br></div><div><i>MakersPlace participates in E-Verify and will provide the federal government with your Form I-9 information to confirm that you are authorized to work in the U.S. </i></div><div>#li-remote</div><br/><br/>Please mention the word **CASHBACK** and tag RMzQuMTQ1LjI0MC4xMDY= when applying to show you read the job post completely (#RMzQuMTQ1LjI0MC4xMDY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/6657/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Level</h5>
-                    <h3> Senior Software Engineer </h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>6 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/level-senior-software-engineer" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0083/6657/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Asheville, NC
-    <br /><strong>URL:</strong> <a href="https://level.io">https://level.io</a>
-</p>
-
-<div>
-<a href="https://level.io">Level</a> is building a modern remote monitoring and management solution. We are a small, well-funded, team that recently launched our product. We are searching for a strong, multi-talented individual contributor who is comfortable with systems-level programming and networking and can contribute to our agent, written in Go.<br><br><strong>Must-Haves</strong><br>- Deep knowledge of a systems language like C, Rust, or Go.<br>- Not afraid to dig into an RFC. Low-level internals excites you, rather than scare you away.<br>- Experience with system-level APIs in Windows (win32), macOS, and/or Linux.<br>- Excellent written communicator.<br>- Willing to learn and work with Go.<br><br><strong>Nice-to-Haves</strong><br>- You are comfortable using GCC and find yourself at home going through a C codebase.<br>- Familiarity with RPC and common methods of IPC such as sockets and named pipes.<br>- Video encoding experience. You have worked with VP8 and understand the spec.<br>- Building cross-platform libraries, our Go agent compiles to Windows, Darwin, and Linux on a variety of architectures.<br><br><strong>Things you might work on<br></strong>- Building a cross-platform application management system to give users the ability to automatically install and update apps.<br>- Working with VP8 to reduce the latency and bandwidth when streaming a device.<br>- Creating a native GUI for the agent.<br>- Adding a proxy to the agent that enables remote access to routers and switches.<br>- Implementing Trickle ICE to improve WebRTC connection times.<br><br><strong>Why you might want to work with us</strong><br>- We are a small, fully remote engineering team, and there are no layers of bureaucracy. You can have a huge impact here.<br>- We are very flexible with working hours, we don't expect you to work a consistent block of time, and we trust you to get your work done.<br>- We launched within the last year and are starting to grow.<br><br><strong>Why you might not want to work with us</strong><br>- We are an early-stage startup, and while we are well funded, we are careful with our runway and haven't splurged on extra perks like gym memberships or 401k matching.<br>- You want to work with a large team. We believe that small teams are better and do not intend to hire more until it is painful enough to warrant doing so.<br><br><strong>More<br>- </strong>120k USD annual compensation<br>- Most work and communication is async but we do require our employee workdays to have 4-5 hours of overlap with 9-5 EST. This allows us to hire from any timezone but still guarantee collaboration time.</div><div>
-<br><strong>More About Us</strong><br>We are a small, close-knit team working to upend the RMM market with our new product. We have recently launched and have acquired our first hundred customers. Though we are a startup, our investors have given us a multi-year runway.<br><br>Our agent team is small, with just two developers. This hire should be an experienced self-starter that can make an impact on our product development. We aren't interested in someone that just wants to work down a list of pre-defined tasks. Our ideal candidate loves working on products and will help shape the direction of ours. We're going to be improving this product for years and want someone to come on this journey with us.<br><br>We really like the Basecamp philosophy and try to make sure that it doesn’t have to be crazy at work. We won’t ask that you work weekends, or late into the night. We don’t mind if you need to leave for an appointment in the middle of the day. We understand that software development doesn’t happen for 8 hours straight and don’t worry about counting time in the chair. We trust that given a fair timeline with a scope that you help us determine you will be able to deliver features. We are concerned with the end goal, not micromanaging you on the way there.</div><div> </div><div>Collaboration and communication are a critical aspect of how we work, a cover letter is a great way to provide a sample of how you communicate.<br><br>In your cover letter, please describe why you’re interested in working at Level, and what draws you to this role in particular. Specifics of your past experience that are relevant to this role are great to include, too.</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/level-senior-software-engineer">https://weworkremotely.com/remote-jobs/level-senior-software-engineer</a></p>
-
+</div><br/><br/>Please mention the word **GLOWING** and tag RMy44MS4xNjMuMjM2 when applying to show you read the job post completely (#RMy44MS4xNjMuMjM2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
