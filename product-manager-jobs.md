@@ -1,5 +1,47 @@
 <div align="center"><h2>PRODUCT MANAGER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Turing Machines Inc</h5>
+                    <h3> Hardware Product Manager</h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/turing-machines-inc-hardware-product-manager" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                
+
+<p>
+  <strong>Headquarters:</strong> Cambridge, England, United Kingdom
+    <br /><strong>URL:</strong> <a href="http://turingpi.com">http://turingpi.com</a>
+</p>
+
+<p>We are looking for an experienced and knowledgeable Hardware Product Owner to join our team. The ideal candidate will have a deep understanding of microelectronics and electronics, including circuit design and interface level knowledge. This person will be responsible for managing the hardware design process, ensuring that it aligns with the backlog, and communicating effectively with the development team, factory representatives, and QA personnel.</p>
+<p><strong>Responsibilities:</strong></p>
+<ul> <li>Maintain a product development backlog.</li> <li>Ensure that the hardware design process aligns with business needs and engineering requirements.</li> <li>Control the execution of designing a new iterations.</li> <li>Communicate effectively with Turing Pi management and developers, factory representatives, and QA personnel.</li> <li>Possibility of business trips to Shenzhen to communicate with factory representatives and engineers.</li> <li>Hardware quality control</li> </ul>
+<p><strong>Requirements</strong></p>
+<ul> <li>Engineering background</li> <li>A deep understanding of microelectronics and electronics, including circuit design and interface level knowledge.</li> <li>Knowledge of protocols such as SPI, I2C, and RGMII.</li> <li>Ability to think in terms of business needs and engineering.</li> <li>Strong communication skills, both written and verbal.</li> <li>Strong project management skills.</li> </ul>
+<p><strong>Benefits</strong></p>
+<ul> <li>Contribution into the development of emerging technologies</li> <li>Options + performance bonuses</li> <li>Open-minded and friendly environment</li> <li>One of the first employees at a growing startup</li> </ul>
+<p><br></p>
+<p>This is a unique opportunity for a Hardware Product Owner to propel their career forward. If you meet the specified requirements and are keen on this opportunity, kindly submit your resume and a cover letter. Our team eagerly anticipates your application!</p>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/turing-machines-inc-hardware-product-manager">https://weworkremotely.com/remote-jobs/turing-machines-inc-hardware-product-manager</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0075/9557/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +52,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -79,7 +121,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/credit-repair-cloud-product-manager-3" align="right" target="_blank">Apply</a>
@@ -131,7 +173,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>17 days ago</text>
+                <text>18 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-product-manager-technical-2" align="right" target="_blank">Apply</a>
@@ -195,7 +237,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>461 days ago</text>
+                <text>462 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
