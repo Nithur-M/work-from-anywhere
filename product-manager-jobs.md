@@ -10,7 +10,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/turing-machines-inc-hardware-product-manager" align="right" target="_blank">Apply</a>
@@ -42,7 +42,7 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0075/9557/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Pixellu</h5>
@@ -52,7 +52,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -61,7 +61,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0075/9557/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
   <strong>Headquarters:</strong> Seattle, USA
@@ -121,7 +121,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>7 days ago</text>
+                <text>8 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/credit-repair-cloud-product-manager-3" align="right" target="_blank">Apply</a>
@@ -173,7 +173,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/overleaf-product-manager-technical-2" align="right" target="_blank">Apply</a>
@@ -227,6 +227,79 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/5762/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>WalletConnect</h5>
+                    <h3> Product Manager - Cloud</h3>
+                </td>
+                <td width="300">
+                    <code>Product</code>
+                </td>
+                <td width="200">
+                <text>19 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/walletconnect-product-manager-cloud" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/5762/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> USA
+    <br /><strong>URL:</strong> <a href="https://walletconnect.com">https://walletconnect.com</a>
+</p>
+
+<div>WalletConnect is the web3 communications protocol. We began with a single API, and are now building a suite of web3 SDK’s including Web3Modal, Web3Wallet, Web3Inbox, and more. We recently raised our $11M Series A from USV, 1kx, Coinbase and other leading investors, and are looking to grow.<br><br>To learn more about our plans to create a multi-API messaging network for web3, take a look at our presentation at <a href="https://www.youtube.com/watch?v=LeG6p6-1E30"><strong>EthCC</strong></a>.<br><br><strong>The Role<br></strong><br>
+</div><div>We’re looking for a talented product manager to join our Cloud team and help onboard the next batch of web3 wallets and dapps to the WalletConnect protocol. This role is a hybrid product manager and customer success role where both technical and support skills are needed. You'll be working internally with our product, business and engineering teams and externally with wallets and dapps to ensure a seamless experience.<br><br><strong>Responsibilities:<br></strong><br>
+</div><ul>
+<li>Responsible for ecosystem usage and adoption of the WalletConnect Cloud (cloud.walletconnect.com)</li>
+<li>Coordinate with our partners including Metamask, Uniswap, Rainbow, Trust Wallet, and OpenSea to ensure their Cloud experience is seamless</li>
+<li>Manage and moderate the WalletConnect Explorer registries and submissions</li>
+<li>Manage inbound integration requests across Github, Discord, Slack, and Telegram, then prioritize opportunities across a range of partners.</li>
+<li>Triage and respond to Cloud issues reported and prioritize the product backlog, ensuring that the development team always has a clear understanding of what needs to be built</li>
+<li>Ensure the success of existing and new integration partners to incorporate feedback, bug reports, or technical issues, and pass this on to product and engineering teams, improving the product iteration/improvement cycle.</li>
+<li>Build out the processes to ensure that integration partners have consistently excellent customer experience.</li>
+<li>Own the product requirements for cloud.walletconnect.com and explorer.walletconnect.com</li>
+</ul><div>
+<strong>Must have:<br></strong><br>
+</div><ul>
+<li>At least 2 years of experience at a tech company, having managed products, or as a software engineer, or worked in customer support or other tech-focused roles</li>
+<li>Passion for web3</li>
+<li>Hands-on experience using wallets and dapps. This position requires downloading and testing apps for quality and compatibility testing.</li>
+<li>Excellent problem-solving and analytical skills to identify opportunities or understand and address potential technical and business issues</li>
+<li>Experience managing client relationships</li>
+<li>Excellent written, editing, speaking, and research skills</li>
+</ul><div>
+<br><br>
+</div><div>
+<strong>Nice to have:<br></strong><br>
+</div><ul>
+<li>Experience in product, or customer support roles</li>
+<li>A proven ability to thrive in rapidly evolving high growth-startups</li>
+<li>An understanding of product analytics and how to use it to drive decision making</li>
+<li>QA experience</li>
+<li>Crypto / Blockchain experience</li>
+<li>Comfortable working remotely</li>
+</ul><div><br></div><div>
+<strong>What WalletConnect offers:<br></strong><br>
+</div><ul>
+<li>Fully remote position</li>
+<li>Remote work allowance</li>
+<li>Company equity</li>
+<li>Token offering</li>
+<li>Salary $60-80k USD</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/walletconnect-product-manager-cloud">https://weworkremotely.com/remote-jobs/walletconnect-product-manager-cloud</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0071/4151/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -237,7 +310,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>462 days ago</text>
+                <text>463 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-product-manager-product-designer-110-190-hr" align="right" target="_blank">Apply</a>
