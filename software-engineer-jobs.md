@@ -10,7 +10,7 @@
                     <code>software,design,crypto,cryptocurrency,system,ceo,technical,testing,code,web,financial,finance,fintech,bank,c++,api,senior,health,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-blockchain-technologies-paxos-193226" align="right" target="_blank">Apply</a>
@@ -112,7 +112,7 @@
 </ul>
 <p><span style="font-weight:400;">Our Paxos team is made up of passionate people from all over the world with different perspectives and experiences. If this opportunity excites you, but your experience doesnât perfectly match the descriptionâ¦apply! Unique voices help us build a more transparent and open economy.</span></p>
 <p><span style="font-weight:400;">#LI-SP1</span></p>
-<p><span style="font-weight:400;">#LI-Remote</span></p><br/><br/>Please mention the word **MERRILY** and tag RMy44MS4xNjMuMjM2 when applying to show you read the job post completely (#RMy44MS4xNjMuMjM2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><span style="font-weight:400;">#LI-Remote</span></p><br/><br/>Please mention the word **MERRILY** and tag RMjYwMDo0MDQxOjNjYzo4NTAwOmUxYzU6YmNjYzo2YjBhOmJkNg== when applying to show you read the job post completely (#RMjYwMDo0MDQxOjNjYzo4NTAwOmUxYzU6YmNjYzo2YjBhOmJkNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -127,7 +127,7 @@
                     <code>software,crypto,bitcoin,python,founder,docker,ceo,developer,test,code,investment,finance,banking,mysql,postgresql,leader,management,operational,health,engineer,engineering,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-associate-software-engineer-gdm-galaxy-digital-193227" align="right" target="_blank">Apply</a>
@@ -214,7 +214,7 @@
 <p><em>Apply now and join us on our mission to engineer a new economic paradigm.</em></p><div class="content-conclusion">
 <p><em>Galaxy respects diversity and seeks to provide equal employment opportunities to all employees and job applicants for employment without regard to actual or perceived age, race, color, creed, religion, sex or gender (including pregnancy, childbirth, lactation and related medical conditions), gender identity or gender expression (including transgender status), sexual orientation, marital or partnership or caregiver status, ancestry, national origin, citizenship status, disability, military or veteran status, protected medical condition as defined by applicable state or local law, genetic information or predisposing genetic characteristic, or other characteristic protected by applicable federal, state, or local laws and ordinances.</em></p>
 <p><em>We will endeavor to make a reasonable accommodation to the known limitations of a qualified applicant with a disability unless the accommodation would impose an undue hardship on the operation of our business. If you believe you require such assistance to complete the application process or to participate in an interview, please contact <a href="mailto:careers@galaxy.com" target="_blank" rel="noopener noreferrer nofollow">careers@galaxy.com.</a> </em></p>
-</div><br/><br/>Please mention the word **GLOWING** and tag RMy44MS4xNjMuMjM2 when applying to show you read the job post completely (#RMy44MS4xNjMuMjM2). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **GLOWING** and tag RMjYwMDo0MDQxOjNjYzo4NTAwOmUxYzU6YmNjYzo2YjBhOmJkNg== when applying to show you read the job post completely (#RMjYwMDo0MDQxOjNjYzo4NTAwOmUxYzU6YmNjYzo2YjBhOmJkNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
