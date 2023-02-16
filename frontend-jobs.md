@@ -1,116 +1,160 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://pbs.twimg.com/profile_images/1397471927132844033/jN-wuufb_400x400.jpg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4683/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Supabase</h5>
-                    <h3>Frontend Engineer (marketing focus)</h3>
+                    <h5>Close</h5>
+                    <h3> Senior or Staff Frontend Engineer - React (100% Remote)</h3>
                 </td>
                 <td width="300">
-                    <code></code>
+                    <code>Front-End Programming</code>
                 </td>
                 <td width="200">
                 <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://boards.greenhouse.io/supabase/jobs/4776924004" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/close-senior-or-staff-frontend-engineer-react-100-remote-2" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                
-    <div class="content-intro"><p><img src="https://pbs.twimg.com/media/FIdU8GJWQAUGWRA?format=jpg&amp;name=small" alt="Join Supabase" width="680" height="453"></p></div>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/4683/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
 
-    <p>We're looking for a frontend engineer to join our team to help change the way developers build their applications.</p>
-<p>You'll be primarily responsible for growing and maintaining <a href="https://supabase.com/">https://supabase.com/</a>.</p>
-<p>You'll be an indispensable part of the team. By working closely with our founders as well as our marketing, design, and front end teams, you'll be directly contributing to technical choices, building team culture and co authoring internal processes for a growing team.</p>
-<p>This is an opportunity to truly take ownership and become a code owner, defining how it evolves, and how we can can scale our users, team, product and processes. A lot of job ads say this, but we truly mean it. Your role is to shape and implement the visual and interactive direction for the Supabase brand.</p>
-<p>You care about attention to detail, the quality and robustness of code you write, but also about collaborating with others. Reviewing fairly, honestly and without ego other team member's work and helping them become the best they can be.</p>
-<p>You've worked in multi disciplinary teams before, working with designers, developers, marketeers, customer support and sales staff. You communicate problems at high level and can convey your assumptions, issues and progress to others effectively and honestly. These are the key pieces of effective self-managing.</p>
-<p><strong>What we need</strong></p>
-<p>This role requires three critical attributes:</p>
-<ol>
-<li>Ability to deliver beautiful, <strong>polished</strong> interactive marketing visuals. For this role, we’re looking for someone who leans close to the front of the frontend —&nbsp;think: polish, animations, interactivity. You’ll ideally be pretty good in Figma and able to create your own designs (with the help of the design team). We’re not expecting that you’ll be a true designer, but you’ll ideally have a great design sense. We’re looking for someone who regularly spends time in DevTools inspecting the homepage of Stripe or Linear.</li>
-<li>Ability to write great production <strong>React</strong> code. React is the language of your UI work. We’re looking for someone with a several years of production React experience at high user scale, and for user-facing applications. The latest with hooks and everything else in the ecosystem. Again, this role leans closer to the front of the frontend: we’re more interested in how you’ve used React to achieve an amazing visual experience than how you setup Redux to manage an app’s state. The more you know about React and the ecosystem the better, but this role skews heavily towards the visual/interactive.</li>
-<li>Ability to <strong>self-manage</strong>. Every company will expect you to self-manage to some degree, but Supabase takes this to a new level. We are a flat, early-stage startup without a lot of structure. To thrive in this environment, you’ll need to be a motivated self-starter who is good working asynchronously across multiple teams. We’re looking for someone who will identify things that need improvement and put their heads down until it’s shipped.</li>
-</ol>
-<p><strong>Responsibilities</strong></p>
-<ul>
-<li>Build our marketing site (<a href="https://supabase.com">https://supabase.com</a>), iterating on existing pages and building great new landing/marketing pages.</li>
-<li>Exploring and experiment with animation, canvas, 3D libraries to explore ideas.</li>
-<li>Take ownership of the marketing frontend stack and config. Planning and iterating on it based on a roadmap that you have an active voice in moulding.</li>
-<li>Build tools and sub-sites within the Supabase ecosystem, occasionally dog fooding our own work.</li>
-<li>Interact with the wider developer community with blog posts, social media, Discord, Github; interacting with customers on a daily basis.</li>
-<li>Improve the performance and quality of our code.</li>
-<li>Be actively available and keen to work on other products within Supabase when needed. This would include the Docs website, the Dashboard, or any other properties, applying the same responsibilities of the above to it.</li>
-</ul>
-<p><strong>Must have requirements:</strong></p>
-<ul>
-<li>5+ years experience in web development (Javascript(ES6/ESNext), HTML, CSS), with focus on highly polished UI work</li>
-<li>2+ years experience using modern React (functions, hooks, etc) in a production environment</li>
-<li>Experience using a React UI library like Radix</li>
-<li>Experience with design software (Figma, Sketch)</li>
-<li>Willingness to work in an agile / “everything in flux” / “everyday changes” environment</li>
-<li>Willingness to evolve and shape the development tools/stack</li>
-<li>Fluent in the English language (majority of our internal communication is written)</li>
-</ul>
-<p><strong>Nice to haves:</strong></p>
-<ul>
-<li>Opinions and ideas on how to align teams to work effectively</li>
-<li>Experience working on large projects, and the code and contribution complexities that come with it</li>
-<li><strong>Figma:</strong> Experience integrating with Figma design tokens or the Figma api into a design system</li>
-<li><strong>Accessibility:</strong> Experience building to a WCAG standard</li>
-<li><strong>Typescript:</strong> we use Typescript everywhere, but this isn’t a dealbreaker. We’ll give the right candidate the opportunity to learn.</li>
-<li><strong>Tailwind</strong>: we use Tailwind as our framework for applying styles across our apps. If you’ve got a ton of experience with another system, you’ll pick up Tailwind quickly.</li>
-<li><strong>Next.JS</strong>: All of our apps are built on Next.JS. Experience with Next is a bonus, but if you know React really well, you’ll have no trouble learning Next.JS.</li>
-<li><strong>PostgreSQL</strong>: Supabase is a Postgres company, any database experience would be an asset.</li>
-</ul>
-<p><strong>We offer:</strong></p>
-<ul>
-<li>100% remote work from anywhere in the world. No location-based adjustment to your salary.</li>
-<li>Autonomous work. We work collaboratively on projects, but you set your own pace.</li>
-<li>Health, Vision and Dental benefits. Supabase covers 100% of the cost for employees and 80% for dependents</li>
-<li>Generous Tech Allowance for any office setup you need</li>
-<li>Annual Education Allowance</li>
-<li>Annually run off-sites.</li>
-</ul>
-<p>We are a fully remote and globally distributed team. We hire internationally, inside and outside of the United States. We have a global salary structure vs location based pay adjustments and highly appreciate compensation transparency initiatives. The estimated salary range for this role is: $139,000 - $164,000 USD.&nbsp;</p>
+<p>
+  <strong>Headquarters:</strong> USA
+    <br /><strong>URL:</strong> <a href="http://www.close.com">http://www.close.com</a>
+</p>
 
-    
-
-    <div class="content-conclusion"><h3>BUILD IN A WEEKEND. SCALE TO BILLIONS</h3>
-<p>Supabase adds auth, realtime, and restful APIs to Postgres without a single line of code.</p>
-<p>Each project within Supabase is an isolated&nbsp;Postgres cluster, allowing customers to scale independently, while still providing the features that you need to build: instant database setup, auth, row level security, realtime data streams, auto-generating APIs, and a simple to use web interface.</p>
-<p>We are a fully remote company.</p>
-<p>Key Tech: Javascript, Typescript, Go, Elixir, PostgREST (haskell), Postgres, Pulumi.</p>
-<h3><a id="about-the-team" class="anchor"></a>About the team</h3>
-<ul>
-<li>We're a startup. It's unstructured.</li>
-<li>Collectively founded more than a dozen venture-backed companies.</li>
-<li>More than 10 different nationalities.</li>
-<li>We deeply believe in <a href="https://supabase.com/blog/2022/03/25/should-i-open-source-my-company" target="_blank">the efficacy of collaborative open source</a>. We support existing communities and tools, rather than building "yet another xx".</li>
-<li>We "dogfood" everything. If you use it in your project, we use it in Supabase.</li>
-</ul>
-<h2><a id="process" class="anchor"></a>Process</h2>
-<ul>
-<li>The entire process is fully remote and all communication will happen over email or via video chat.</li>
-<li>Once you've submitted your application, the team will review your submission, and may reach out for a short screening interview over video call.</li>
-<li>If you pass the screen you will be invited to up to four follow up interviews. The calls:
-<ul>
-<li>usually take between 20-45 minutes each depending on the interviewer.</li>
-<li>are all 1:1.</li>
-<li>will be with both founders, a member of either the growth or engineering team (depending on the role), and usually one other person from your immediate team or function.</li>
-</ul>
+<div><strong>About Us</strong></div><div>
+<a href="https://close.com/">Close</a> is a bootstrapped, profitable, 100% remote, ~70 person team of thoughtful individuals who value autonomy and impact. We’re eager to make a product our customers fall in love with over and over again.</div><div><br></div><div>We ❤️ startups &amp; SMBs. Since 2013, we’ve been building a CRM  that focuses on better communication, without the hassle of manual data entry or complex UI. Our goal: double the productivity of every sales rep.</div><div><br></div><div>Our app’s frontend is a single-page JavaScript web app mostly written in React (originally built with <a href="https://backbonejs.org/">Backbone.js</a>). We bundle with Webpack and target only modern browsers. We test with Jest and React Testing Library. Our UI updates in near real-time and is written in LESS/CSS (with flexbox and grid layout) using CSS modules and takes advantage of fun technologies like Websockets and WebRTC. We house our design system in Storybook.</div><div><br></div><div>We care about performance (e.g. route-based code splitting), maintainability, and testability of our frontend code. We sweat the UI/UX details and work collaboratively with the Product team throughout the design process. This means diving into lo-fi wireframes, and communicating continuously when those ideas are brought to life using Figma and code.</div><div><br></div><div>Our frontend app is built on top of our REST API &amp; GraphQL endpoints. Our backend <a href="https://stackshare.io/close-crm/close">tech stack</a> consists of Python/Flask, MongoDB, Postgres, Elasticsearch, and Redis. We run our services in Docker on AWS.</div><div><br></div><div>We ❤️ open sourcing our code and ideas on <a href="https://github.com/closeio">our GitHub</a> and on <a href="https://making.close.com/">The Making of Close</a>, our behind-the-scenes Product &amp; Engineering blog. Check our projects such as <a href="https://making.close.com/posts/introducting-react-custom-scroller-component">react-custom-scroller</a>, <a href="https://making.close.com/posts/introducting-use-infinite-scroll-react-hook">use-infinite-scroll</a>, <a href="https://making.close.com/posts/introducting-use-abortable-effect-react-hook">use-abortable-effect</a>, and <a href="https://making.close.com/posts/introducing-smart-tooltip-delay-library">smart-tooltip-delay</a> or insights from our day-to-day work on such as <a href="https://making.close.com/posts/highlights-from-a-complex-downshift-js-refactor/">Highlights From a Complex Downshift.js Refactor</a>, <a href="https://making.close.com/posts/reactizing-a-complex-backbone-view">A Case Study in"Reactizing" a Complex Backbone View</a>, and <a href="https://making.close.com/posts/finding-the-cause-of-a-memory-leak-in-jest">Finding the cause of a memory leak in Jest tests</a>.</div><div><br></div><div><strong>About You</strong></div><div>We're looking for an experienced full-time (or part-time) Frontend Software Engineer to join our engineering team. Someone who has a solid understanding of web technologies and wants to help design, implement, and launch major user-facing features.</div><div><br></div><div>You should have senior level experience (~5 years) building modern frontend applications in JavaScript, HTML, and CSS, with at least 3 years of that experience using React.</div><div><br></div><div>You should have significant experience designing, debugging, and optimizing frontend applications to make them fast and reliable. You have significant experience with REST APIs and thoroughly understand HTTP requests. You have experience participating in code reviews and providing overall code quality suggestions to help maintain the structure and quality of the codebase.</div><div><br></div><div>You should have great product sense and be able to think through user experience issues before diving into the code, and you exhibit a love for great UI.</div><div><br></div><div>You’re comfortable working in a fast-paced environment with a small and talented team where you're supported in your efforts to grow professionally. You are able to manage your time well, communicate effectively and collaborate in a fully distributed team.</div><div><br></div><div>Note: this role requires you to be located in an Americas time zone. If you're not located in one of these time zones, check out our other posting <a href="https://jobs.lever.co/close.io/10a1e32b-1a59-48dc-b8f4-e6f0dfae4e20">here</a>. </div><div><br></div><div>We are open to hiring mid, senior and staff level engineers for this role.</div><div>
+<br><br>
+</div><div><strong>Bonus points if you have...</strong></div><ul>
+<li>Experience implementing real-time (e.g. websockets, polling, etc.) web apps</li>
+<li>Experience working with GraphQL endpoints</li>
+<li>An eye for design and experience with Figma, Sketch, Abstract, Photoshop, or similar</li>
+<li>Led small project teams building and launching features</li>
+<li>Contributed open source code (core or plugins) for a popular frontend framework such as React, Vue, or Angular</li>
+<li>Built B2B SaaS products</li>
+<li>Experience with sales or sales tools</li>
+</ul><div><strong><br>Come help us with projects like...</strong></div><ul>
+<li>Conceiving, designing, building, and launching new user-facing features</li>
+<li>Working with Twilio's API, WebSockets, and WebRTC to improve our <a href="https://close.com/calling/">calling features</a>
 </li>
-<li>Once the interviews are over, the team will meet to discuss several roles and candidates and may:
-<ul>
-<li>ask one or two follow-up questions over email or a quick call.</li>
-<li>go directly to making an offer.</li>
-</ul>
+<li>Building user-facing analytics features that provide actionable insights based on sales activity data</li>
+<li>Improving real-time collaboration user experience</li>
+<li>Expanding our frontend GraphQL usage</li>
+<li>Extending our React component library</li>
+</ul><div><strong><br>Why work with us?</strong></div><ul>
+<li>
+<a href="https://www.youtube.com/watch?v=ZbyGnLhtj0o&amp;feature=youtu.be">Culture video</a> 💚</li>
+<li>100% remote company <em>(we believe in trust and autonomy)</em>
 </li>
+<li>Choose between working 5 days/wk (standard full-time) or 4 days/wk @ 80% pay</li>
+<li>
+<a href="https://www.youtube.com/watch?v=gKjyXMz-q-Q&amp;feature=youtu.be">Annual team retreats</a> ✈️</li>
+<li>Quarterly virtual summits</li>
+<li>5 weeks PTO + Winter Holiday Break</li>
+<li>2 additional PTO days every year with the company</li>
+<li>1 month paid sabbatical every 5 years</li>
+<li>Paid parental leave</li>
+<li>Medical, Dental, Vision with HSA option (US residents)</li>
+<li>401k matching at 6% (US residents)</li>
+<li>Dependent care FSA (US residents)</li>
+<li>Contributor to <a href="https://stripe.com/climate">Stripe's climate</a> initiative 🌍❤️ </li>
+<li>
+<a href="https://close.io/about/">Our story and team</a> 🚀</li>
+</ul><div><strong><br>Our Values</strong></div><ul>
+<li>Build a house you want to live in -- Examine long-term thinking and action</li>
+<li>No BS - Practice transparency and honesty, especially when it’s hard</li>
+<li>Invest in each other -- Build successful relationships with your coworkers and customers </li>
+<li>Discipline equals freedom -- Keep your word to yourself and others</li>
+<li>Strive for greatness -- Constantly challenge yourself and others </li>
+</ul><div><strong><br>How We Work Together</strong></div><ul>
+<li>Productivity, Quality &amp; Impact: We don’t track hours. We trust you’re an adult and know best how to prioritize, meet your goals and contribute at a high level. </li>
+<li>Asynchronous communication &amp; collaboration: We have team members all over the world. We don’t expect anyone to work untraditional hours, that means our default is async. Most teams have 2-5 hours of internal meetings weekly. </li>
+<li>Appreciation for Deep Work: *During your normal work day, not after a day a meetings*. </li>
+<li>Autonomy &amp; Freedom: Create a work environment that is sustainable for you. We place a high amount of trust and responsibility with our team members from the start. </li>
+</ul><div><br></div><div>At Close, everyone has a voice. We encourage transparency and practice a mature approach to the work-place. In general, we don’t have strict policies, we have guidelines. Work/Life harmony is an important part of our business - we believe you bring your best to work when you practice self-care (whatever that looks like for you).  </div><div><br></div><div>We come from 20+ countries located in 5 of the 7 continents. We’re a collection of talented humans, rich in diverse backgrounds, lifestyles, and cultures. Every year we meet up somewhere around the world to spend time with one another. These gatherings are an opportunity to strengthen the relationships within our global community.</div><div><br></div><div>Our team is growing in more ways than one - in the last few years, we've launched 24 babies (and counting!). Unanimously, our favorite and most impactful value is “Build a house you want to live in.” We strive to make decisions that are authentic for our people and help our customers become more successful. </div><div><br></div><div><em>Our application process was designed to promote equitable and unbiased hiring practices. We ask a small series of questions that are similar to what would be asked in the first interview. This helps us learn more about you right from the start so please be sure to answer each question thoughtfully. Each application will receive two screens by two different reviewers. Regardless of fit, you will hear back from us letting you know if we'll be moving forward.</em></div><div><br></div><div>
+<em>Interested in </em><a href="https://close.com/"><em>Close</em></a><em> but don't think this role is the best fit for you? View our </em><a href="http://jobs.close.com/"><em>other positions</em></a><em>.</em>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/close-senior-or-staff-frontend-engineer-react-100-remote-2">https://weworkremotely.com/remote-jobs/close-senior-or-staff-frontend-engineer-react-100-remote-2</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4101/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>EventMobi</h5>
+                    <h3> Frontend Technical Team Lead - Remote</h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0064/4101/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> 151 Yonge Street 11th Floor Toronto, Ontario M5C 2W7
+    <br /><strong>URL:</strong> <a href="https://eventmobi.com">https://eventmobi.com</a>
+</p>
+
+<div><em>** EventMobi is a remote-first company and this is a remote job. You may reside anywhere in the world to do this job. However, you must be willing to work during Eastern Standard Time business hours. The salary range for this role is between 80k - 120k CAD per annum. This posting is open to all candidates globally.</em></div><div><br></div><div><br></div><div><strong>WHY EVENTMOBI?</strong></div><div><br></div><div>EventMobi is an award winning tech startup with offices in Toronto, Berlin and Manila and over 1500 clients across the globe.  We are on a mission to revolutionize how event planners create, market and manage their events. Millions of attendees around the world experience conferences and events with the help of EventMobi’s event tech platform including clients like Motorola, Ralph Lauren, Nestle, and Intel. </div><div><br></div><div>We’re looking for a Technical Lead to help us tackle challenging engineering problems in an evolving industry. Whether you want to build Progressive Web Apps, work with service &amp; web workers, architectures to manage data services, or manage memory usage &amp; latency of large scale Javascript applications, this is a role that requires you to think holistically about building the next generation of cross-platform mobile &amp; web apps. </div><div><br></div><div>Ideally, you care about good architecture &amp; design, quality, and scalability as part of your work. You enjoy leading and coaching individuals on your team and you're looking for a place where you can approach your problems creatively. You enjoy collaboration with an incredibly smart &amp; talented team and are able to bring your expertise to help shape our technical vision and determine how we will execute on it.</div><div><br></div><div>If this sounds like just the role you've been hoping for, please apply and tell us more about yourself!​</div><div><br></div><div><br></div><div><strong>WHAT YOUR WORK WILL FOCUS ON</strong></div><div><br></div><ul>
+<li>
+<strong>Mentorship</strong> - One of the most senior software developers on staff.  Provide technical mentorship and assistance to a team of 4-7 developers, and create opportunities for professional development.  </li>
+<li>
+<strong>Technical Strategy</strong> - Responsible for EventMobi’s overall software design, helping to align technology with business goals.  Lead research into new technology options, tools or patterns to discover opportunities to create new business value for EventMobi’s customers.  </li>
+<li>
+<strong>Architecture</strong> - Empower and guide technical leads in product and application level architecture choices. Ensure consistency in technology choices and enable experimentation with new tools and approaches where appropriate to drive new business value.  Lead resolution of architecture and technology choices and challenges that cut across all teams. </li>
+<li>
+<strong>Development Best Practices</strong> - Hands on keyboard to provide clarity and support tech leads in expanding standards and writing clean code.  Pair with team members to solve the hardest coding challenges.  Contribute to continuous improvement in our software development processes as we take initiatives from concept, feasibility, and design to implementation, testing, and release.  </li>
+<li>
+<strong>Performance &amp; Scale</strong> - Build measurement frameworks for performance, scalability, etc, including setting expected standards of performance against those metrics in consultation with product management and business stakeholders.  </li>
+</ul><div><br></div><div>
+<br><strong>WHAT YOU WILL BRING TO THE TEAM </strong>
+</div><div><br></div><div><br></div><ul>
+<li>At least 2-3 years of experience managing a team (at least 2 reports, preferably a larger team or multiple teams) of React developers</li>
+<li>6+ years of experience in frontend software development with React</li>
+<li>Experience growing high performing software development teams focused on outcomes versus just outputs.  </li>
+<li>Experience with long-term development, enhancement and maintenance of a SaaS application/platform. </li>
+<li>Skilled in guiding technology and architecture choices with a focus on delivering business value.</li>
+<li>Interest in leading the evolution of an existing code base and architecture versus solely focusing on green field development.   </li>
+<li>Experience with Mobile and Web development (a true polyglot), ideally with proven skills working with React and Capacitor, and RESTful APIs.</li>
+<li>Excellent written and verbal communication.</li>
+<li>A passion for development and solving problems, and a desire to be actively involved in writing code.</li>
+<li>Ideas about everything, the resolve to convey your point clearly, and the graciousness to listen to alternate ideas and choose the best option. You’re constantly thinking “how can we do this better?”</li>
+<li>Experience maintaining Jira and managing the lifecycle of tickets in a cross-team environment.</li>
+<li>Data-driven decision making and experience guiding a team in selecting and achieving realistic-yet-challenging OKRs.</li>
+<li>A passion for growing and supporting your team through 1:1 meetings, mentorship and coaching, and working on career progression plans.</li>
+<li>Ability to think about the big-picture roadmap and technical vision of the product, and integrate those plans into near-term sprint planning and project architecture.</li>
+<li>Confidence in running standups, sprint planning, backlog grooming, and retrospective meetings that align with the company roadmap while balancing maintenance and the needs of the team.</li>
+<li>Eagerness to work with a team of strong, fun-loving developers that love to learn from and teach each other.</li>
+<li>Nice to have a start-up experience.</li>
+<li>Knowledge of DevOps &amp; Infrastructure (AWS) is also nice to have.</li>
+</ul><div><br></div><div><br></div><div><strong>WHAT WILL YOU GET FROM EVENTMOBI?</strong></div><div><br></div><ul>
+<li>We offer the experience of a lifetime working with a dynamic, open-minded and diverse team, who are excited to come to work every day and passionate about what they do and the clients they help.</li>
+<li>Competitive compensation.</li>
+<li>Company Stock-Options.</li>
+<li>A modern MacBook Pro to use for work.</li>
+<li>A great culture with much more along the way.</li>
+</ul><div><br></div><div><br></div><div><strong>REMOTE WORKSPACE REQUIREMENTS: </strong></div><div><br></div><ul>
+<li>You have a safe, comfortable, and ergonomic workspace and working environment - a private and quiet workspace is vital for doing your best work!</li>
+<li>You have a reliable internet connection capable of participating in video calls, with at least 30Mbps download speed</li>
 </ul>
-<h2>&nbsp;</h2></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote-1">https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote-1</a></p>
 
                 </details>
                 </td>
@@ -198,7 +242,7 @@
 <p>Annually run off-sites.</p>
 </li>
 </ul>
-<p>We are a fully remote and globally distributed team. We hire internationally, inside and outside of the United States. We have a global salary structure vs location based pay adjustments and highly appreciate compensation transparency initiatives. The estimated salary range for this role is: $139,000 - $164,000 USD. The estimated total compensation: $150,000 -- $250,000 USD. &nbsp;</p>
+<p>&nbsp;</p>
 
     
 
