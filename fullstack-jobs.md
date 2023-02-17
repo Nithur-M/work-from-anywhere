@@ -1,5 +1,56 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/614fe57245411d1716c82061ec4ea9821676531807.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Nifty</h5>
+                    <h3>Full Stack Web3 Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>web3,nft,system,support,software,test,engineer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-full-stack-web3-engineer-nifty-195265" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro">
+<p><strong>ABOUT NIFTYâS, Inc.</strong><strong> </strong></p>
+<p>Nifty's connects fans to what they love most through NFT-powered collectibles, experiences and rewards. Our innovative NFT platform and easy-to-use interface enable communities to collect and trade digital art and other collectibles from their favorite brands and creators. Leveraging eco-friendly blockchain technology, Niftyâs empowers our partners with a premium, flexible and secure platform to launch their NFTs and make them discoverable by Niftyâs global community. Niftyâs is a fully remote company.</p>
+</div><p><strong>Join us in building the next big blockchain/de-fi project! This Full-Stack/Web3 Engineer will be  responsible for designing, developing, and deploying web3 applications for our B2B collaborations. </strong></p>
+<p><span style="font-weight:400;">Essential Duties and Responsibilities: </span></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Build and test end-to-end nodejs/javascript applications both locally and in a shared staging environment.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Understand customer use cases and build elegant solutions focused on solving user problems.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Collaborate cross-functionally, drive internal efficiencies, actively participate in estimation.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Build internal tools and help the organization drive data-driven decisions.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Become an expert in an area of the system.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Support colleagues in feature and system architecture design, support peer to peer mentorship, be an all around awesome teammate.</span></li>
+</ul>
+<p><span style="font-weight:400;">Requirements: </span></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Web3 experience preferred.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience in NextJS/vercel.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">5+ years experience in javascript/nodejs software development.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience with relational database concepts and SQL queries preferred.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Excellent written and verbal communication, problem-solving, and critical thinking skills are required.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Thrives in a fast paced, collaborative, and remote environment.</span></li>
+</ul>
+<p> </p>
+<p><span style="font-weight:400;">Other things to note: </span></p>
+<p><span style="font-weight:400;">Niftyâs, Inc. strives to be a best-in-class and equal opportunity employer.â All qualified applicants  will receive consideration for employment without regard to race, religion, color, national origin,  gender, gender identity, sexual orientation, age, status as a protected veteran, among other  things, or status as a qualified individual with disability. </span></p>
+<p><span style="font-weight:400;">This job posting highlights the most critical responsibilities and requirements of the job. Other duties may be assigned as needed.</span></p>
+<p><span style="font-weight:400;">Nifty's, Inc. Privacy Policy can be found here: </span><a href="https://niftys.com/privacy-policy" rel="noopener noreferrer nofollow"><span style="font-weight:400;">https://niftys.com/privacy-policy</span></a></p>
+<p> </p><br/><br/>Please mention the word **DOUBTLESS** and tag RMjYwMDoxOTAwOjIwMDA6MWI6NDAwOjoxMw== when applying to show you read the job post completely (#RMjYwMDoxOTAwOjIwMDA6MWI6NDAwOjoxMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/a7716a90b1d702dc8b40557826818c1c1676445325.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +61,7 @@
                     <code>design,crypto,system,security,architect,support,software,test,code,qa,senior,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-rabbithole-194720" align="right" target="_blank">Apply</a>
@@ -51,83 +102,7 @@
 </ul><p></p><h4>Nice to haves</h4><p></p><p></p><ul>
 <li>Knowledge of and passion for crypto applications / Ethereum</li>
 <li>Worked at an early stage startup</li>
-</ul><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/BD6XbT38gZQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **SUPERBLY** and tag RMjYwMDo0MDQxOjNjYzo4NTAwOmUxYzU6YmNjYzo2YjBhOmJkNg== when applying to show you read the job post completely (#RMjYwMDo0MDQxOjNjYzo4NTAwOmUxYzU6YmNjYzo2YjBhOmJkNg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/1942/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Trustworthy</h5>
-                    <h3> Full Stack Software Engineer (React / Python)</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/trustworthy-full-stack-software-engineer-react-python" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0018/1942/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> San Francisco
-    <br /><strong>URL:</strong> <a href="https://www.trustworthy.com">https://www.trustworthy.com</a>
-</p>
-
-<div>We’re a venture-backed startup on the verge of creating a new category we’re calling the <strong>Family Operating System</strong>™, and we want you on our team. At Trustworthy our mission is to keep families organized and prepared for the unexpected by delivering a secure and beautiful online service that keeps their most important information up-to-date and accessible. Trustworthy is the family’s single destination point for everything from financial accounts, life insurance policies, and estate documents to family stories, traditions, and passport numbers.<br><br>We are seeking a seasoned <strong>Full Stack Developer</strong> who sees software development as equal parts arts and science, has a knack for visual design and utility, and is comfortable with back end engineering.<br><br>
-</div><div><strong>Requirements</strong></div><ul>
-<li>5+ plus years of relevant development experience.</li>
-<li>Highly experienced in building single page applications based on <strong>React/Redux</strong> and <strong>Typescript</strong>
-</li>
-<li>Experience with TDD using frameworks such as Jest, Jasmine, Mocha or Cypress</li>
-<li>Experience with Authentication and Authorization (Keycloak, Auth0, Okta, Cognito etc.)</li>
-<li>Extensive experience with REST APIs.</li>
-<li>Experience with building modern web applications based on <strong>Python</strong> (Django, Flask, etc.)</li>
-<li>5+ years of HTML/CSS experience, including concepts like layout, specificity, and cross browser compatibility</li>
-<li>Strong Unix command-line and shell scripting fundamentals (bash, grep, ssh, etc)</li>
-<li>Hand-on experience with unit-tests, integration tests implementation, mocking.</li>
-<li>Experience with scalable web application design patterns and micro services architecture principles.</li>
-<li>Solid understanding of the Agile development practices and the software development lifecycle.</li>
-</ul><div><strong>Responsibilities:</strong></div><ul>
-<li>In close collaboration with Product and Design teams, ideate software solutions, and turn wireframes into effective code.</li>
-<li>Design client-side and server-side architecture.</li>
-<li>Build the front-end applications through appealing visual design. Build features with a mobile responsive design.</li>
-<li>Implement rich, interactive data visualizations using modern JavaScript and software development techniques.</li>
-<li>Develop and manage well-functioning databases and software solutions. Write effective RESTful APIs.</li>
-<li>Test software to ensure responsiveness and efficiency.</li>
-<li>Troubleshoot, debug and upgrade software. Apply your problem-solving skills to peel away the layers to understand the core issue and address it with elegant solutions.</li>
-<li>Keep current with key industry trends and developments that can be applied to Company’s needs.</li>
-</ul><div><strong>Preferred qualifications, but not required:</strong></div><ul>
-<li>Experience with automation tools and frameworks.</li>
-<li>Experience with <strong>RTK</strong> query</li>
-<li>Infrastructure / DevOps experience (continuous integration setup, deploying and running applications in a test and production environment etc.)</li>
-<li>Experience with Docker and CI/CD using GitHub Actions.</li>
-<li>Amazon Web Services (AWS) experience.</li>
-</ul><div><strong>Benefits</strong></div><ul>
-<li>
-<strong>Healthcare benefits</strong> - 80% for you, 60% for your family. Medical, dental, vision.</li>
-<li>
-<strong>Equity benefits</strong> - Generous equity in the company you're helping to build.</li>
-<li>
-<strong>Generous vacation</strong> - Unlimited vacations. No one can work all the time.</li>
-<li>
-<strong>Home office setup</strong> - Set up your work environment and make it work with a sitting/standing desk + all the HW and SW you need. 100% on us.</li>
-<li>
-<strong>Annual team meetings</strong> - Team cultural events online and in person. We're remote but we're not distant ;-)</li>
-<li>
-<strong>Birthdays off!</strong> - We celebrate your birth and you take the day to enjoy and relax.</li>
-</ul><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/trustworthy-full-stack-software-engineer-react-python">https://weworkremotely.com/remote-jobs/trustworthy-full-stack-software-engineer-react-python</a></p>
-
+</ul><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/BD6XbT38gZQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **SUPERBLY** and tag RMjYwMDoxOTAwOjIwMDA6MWI6NDAwOjoxMw== when applying to show you read the job post completely (#RMjYwMDoxOTAwOjIwMDA6MWI6NDAwOjoxMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
