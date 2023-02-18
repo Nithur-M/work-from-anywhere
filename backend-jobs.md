@@ -10,7 +10,7 @@
                     <code>web3,ethereum,system,software,api,senior,engineer,engineering,backend,full-time</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-zora-194743" align="right" target="_blank">Apply</a>
@@ -49,7 +49,7 @@
 <h2><strong>Benefits</strong></h2>
 <p><span style="font-weight:400;">ZORA provides top quality medical, dental, and vision insurance, with a flexible time-off policy and a new Macbook Pro for full-time employees. Employees also receive equity.</span></p>
 <h2><strong>Location</strong></h2>
-<p><span style="font-weight:400;">ZORA is international. Our headquarters are the internet and we have employees all over the world. Weâre currently in Atlanta, Berlin, Lisbon, Los Angeles, Moscow, New York, San Francisco, Sydney, and Vancouver.</span></p><br/><br/>Please mention the word **IMPROVES** and tag RMjYwMDoxOTAwOjIwMDA6MWI6NDAwOjoxMw== when applying to show you read the job post completely (#RMjYwMDoxOTAwOjIwMDA6MWI6NDAwOjoxMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><span style="font-weight:400;">ZORA is international. Our headquarters are the internet and we have employees all over the world. Weâre currently in Atlanta, Berlin, Lisbon, Los Angeles, Moscow, New York, San Francisco, Sydney, and Vancouver.</span></p><br/><br/>Please mention the word **IMPROVES** and tag RMzUuMTc1LjExMy44 when applying to show you read the job post completely (#RMzUuMTc1LjExMy44). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -64,7 +64,7 @@
                     <code>design,web3,defi,ethereum,strategist,developer,testing,web,devops,cloud,typescript,lead,senior,health,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-relayer-lukso-194737" align="right" target="_blank">Apply</a>
@@ -101,7 +101,7 @@
 <li>Work fully remote CEST +/-6h or from our picturesque LUKSO office located next to the Spree river in Berlin, Germany</li>
 </ul><div>--</div><div>LUKSO is the new blockchain for the Creative Economy. As a next-generation layer-1 EVM blockchain, LUKSO has introduced new tools and standards that will bring blockchain technology to its next frontier. The building blocks for the New Creative Economy will revolutionize the way users and creators interact with the blockchain. From Fashion, Art, Music, Entertainment, Gaming, Social Media and more, we welcome you to explore our open and interoperable blueprint for the physical and digital worlds.</div><div><br></div><div>LUKSO has introduced new standards called LUKSO Standard Proposals (LSPs), which are the building blocks for the New Creative Economy. These building blocks can be used to create user-friendly dApps and lower the barriers of entry in Web3 for all creators and users.</div><div><br></div><div>
 <a href="https://docs.lukso.tech/standards/universal-profile/introduction" rel="noreferrer noopener nofollow"><strong>Universal Profiles</strong></a> bring social identity to blockchain and improve the overall user experience in Web3. With upgradable security, these platform-agnostic smart-contract-based accounts empower users and creators and allow for true ownership, interoperability, transaction relay services and more.  </div><div><br></div><div>LUKSOâs new standards allow for flexible NFTs that are extensible and directly compatible with Universal Profiles. <a href="https://docs.lukso.tech/standards/nft-2.0/introduction" rel="noreferrer noopener nofollow"><strong>NFTs 2.0</strong></a> are updatable, safer and have unlimited metadata, batch transfers and even better IDs.</div><div><br></div><div>LUKSO is bringing blockchain beyond DeFi with <strong>Cultural Currencies</strong>. The future of blockchain is social, and LUKSOâs essential, future-proof solutions are reshaping the way the world interacts with the blockchain.</div><div><br></div><div>
-<strong>You belong here.</strong><br><br>At LUKSO, we welcome applicants from around the world of all abilities, race, ethnicity, gender/gender expression and age to explore our solutions and join us in building out the foundation for the New Creative Economy. We look forward to meeting you!</div><br/><br/>Please mention the word **HALLMARK** and tag RMjYwMDoxOTAwOjIwMDA6MWI6NDAwOjoxMw== when applying to show you read the job post completely (#RMjYwMDoxOTAwOjIwMDA6MWI6NDAwOjoxMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<strong>You belong here.</strong><br><br>At LUKSO, we welcome applicants from around the world of all abilities, race, ethnicity, gender/gender expression and age to explore our solutions and join us in building out the foundation for the New Creative Economy. We look forward to meeting you!</div><br/><br/>Please mention the word **HALLMARK** and tag RMzUuMTc1LjExMy44 when applying to show you read the job post completely (#RMzUuMTc1LjExMy44). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
