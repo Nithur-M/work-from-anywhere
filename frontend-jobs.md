@@ -1,5 +1,104 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/ee77dfa7460e4f33d658da83336505bc1676618202.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Phantom</h5>
+                    <h3>Software Engineer Frontend</h3>
+                </td>
+                <td width="300">
+                    <code>frontend,software,web3,defi,crypto,technical,support,developer,web,financial,typescript,mobile,engineer,engineering,full-time,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-frontend-phantom-195778" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Our crypto wallet is used by millions of people to access apps and financial services built on the Solana blockchain. As a frontend engineer at Phantom youâll be doing everything from creating delightful user experiences, contributing to cross-platform client infrastructure, and crafting web3 developer SDKs. Join us on our mission to make the digital economy safe and easy to use for everyone.<br>This role is fully remote; however, weâre only open to candidates based in US and EU time zones.<p></p><h3><b>Responsibilities</b></h3><br><ul>
+<li align="left">
+<b>Feature development:</b>Â You will be owning features on our web platforms â currently theÂ <span style=""><a class="bbcode-link" href="https://phantom.app/download" target="_blank" rel="noopener noreferrer nofollow">Phantom Extension</a></span>Â and our website.</li>
+<li align="left">
+<b>New initiatives and products:</b>Â You will be leading initiatives to add support for other blockchains to Phantom, and to launch new complementary products or infrastructure.</li>
+<li align="left">
+<b>Interfacing with users:</b>Â You will be interfacing directly with end-users and developers building on Phantom â supporting them and collecting feedback to inform the direction of the product.</li>
+<li align="left">
+<b>Team building:</b>Â You will be working with the team to create and foster a culture of raising the bar with each new hire.</li>
+</ul><br><h3><b>Qualifications</b></h3><br><ul>
+<li align="left">Bachelors degree in Computer Science or related technical field or equivalent practical experience</li>
+<li align="left">3+ years full-time software engineering experience with some of the following technologies:</li>
+<ul>
+<li align="left">React / Typescript / styled-components / React-Query</li>
+<li align="left">Solana web3.js / ethers.js</li>
+</ul>
+<li align="left">Demonstrated interest in open and community-driven platforms</li>
+<li align="left">
+<i>Nice-To-Have</i>: experience in a blockchain based project</li>
+</ul><br><h3><b>Opportunity</b></h3><br>We are a team of experienced builders with a ton of traction in a big and growing market â our users are so passionate they were hacking their way into our private beta. Only months after launching we've acquired millions of users, and are adding hundreds of thousands every week. We are by far the leading wallet on Solana, and plan to expand to other chains soon.<br>On top of that, there has never been a better time to work in crypto and on wallets in particular.<br><ul>
+<li align="left">
+<b>Wallets play a pivotal role:</b>Â Wallets are responsible for on-boarding new users into crypto, and can make or break the user experience.</li>
+<li align="left">
+<b>We are moving to a multi-chain world:</b>Â New blockchains and scaling solutions are coming online and gaining traction, but are lacking decent wallets and bridges.</li>
+<li align="left">
+<b>DeFi & NFTs are exploding :</b>Â Interest in DeFi and NFTs has exploded, yet they are still an after-thought in existing wallets.</li>
+</ul><br><h3><b>Benefits</b></h3><br><ul>
+<li align="left">Competitive salary and equity.</li>
+<li align="left">Comprehensive insurance (medical/dental/vision) â 100% covered.</li>
+<li align="left">Stipend for your ideal remote / WFH set-up: laptop, headphones, and any other work gear you may need.</li>
+<li align="left">Flexible hours and a long-standing, supportive remote environment.</li>
+<li align="left">Monthly co-working space and mobile phone expense.</li>
+<li align="left">Unlimited vacation: Take time when you need it (and we really mean it).</li>
+<li align="left">401(k) retirement plan (although we are not matching at this time)</li>
+<li align="left">Wellness benefit</li>
+<li align="left">Daily lunch benefit</li>
+</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<br/><br/>Please mention the word **EXCEEDINGLY** and tag RMzUuMTc1LjExMy44 when applying to show you read the job post completely (#RMzUuMTc1LjExMy44). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/eccdbd655f0a85f0ca53074fd52332d41676618153.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Fuel Labs</h5>
+                    <h3>Senior Frontend Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>frontend,technical,manager,senior,engineer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-fuel-labs-195768" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Fuel Labs is building the fastest modular execution layer in the world. Your work will be the face of our bleeding edge blockchain scalability tech, which will include a suite of dapp , block explorer, and wallet frontends.<p>We are seeking a Frontend Engineer who loves to produce beautiful, clean, and intuitive interfaces, and can move seamlessly between solving creative and technical challenges.</p><p></p><h3><b>Requirements</b></h3><br><ul>
+<li align="left">6+ years of experience as a Frontend Engineer.</li>
+<li align="left">3+ years of experience working in TypeScript.</li>
+<li align="left">3+ years of experience working in React.</li>
+<li align="left">Experience with coding at least web2 regular APIs and DevOps.</li>
+<li align="left">Extreme attention to detail & high visual acuity.</li>
+<li align="left">Knowledge of UI/UX best practices.</li>
+<li align="left">Native level proficiency in written and oral English.</li>
+<li align="left">Prior experience working remotely in a globally distributed team.</li>
+</ul><h3><b>Bonus</b></h3><br><ul>
+<li align="left">Experience with blockchain technologies.</li>
+<li align="left">Experience using Solidity, Hardhat, and ethers.js.</li>
+<li align="left">Consuming and contributing to open source codebases</li>
+<li align="left">Experience working with agile methodologies (Scrum, CI/CD, TDD, Paired Programming, Gitflow)</li>
+<li align="left">Background in philosophy</li>
+</ul><br><h3><b>Hiring process</b></h3><br>Screening call 20 mins with Head Recruiter<br>Call with Hiring Manager and Chief of Staff 20 mins<br>Hour long interactive task<br>Final call and offer<br><br/><br/>Please mention the word **BEUTIFULLY** and tag RMzUuMTc1LjExMy44 when applying to show you read the job post completely (#RMzUuMTc1LjExMy44). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4683/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +109,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-senior-or-staff-frontend-engineer-react-100-remote-2" align="right" target="_blank">Apply</a>
@@ -95,7 +194,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote-1" align="right" target="_blank">Apply</a>
