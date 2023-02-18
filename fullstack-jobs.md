@@ -1,5 +1,97 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/70141c74da5bc987f8779450fd145b921676618206.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Phantom</h5>
+                    <h3>Software Engineer Full Stack</h3>
+                </td>
+                <td width="300">
+                    <code>software,defi,crypto,full-stack,technical,support,web,financial,mobile,engineer,engineering,full-time</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-full-stack-phantom-195782" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Our crypto wallet is used by millions of people to access apps and financial services built on the Solana blockchain. As a full-stack engineer at Phantom youâll be doing everything from building delightful user interfaces and creating cross-platform client infrastructure on the frontend, to creating APIs, data pipelines and services that bridge the gap between the blockchain and the user experience our users have come to expect on the backend. Join us on our mission to make the digital economy safe and easy to use for everyone.<br>This role is fully remote; however, weâre only open to candidates based in US and EU time zones.<p></p><h3><b>Responsibilities</b></h3><br><ul>
+<li align="left">
+<b>Feature development:</b>Â You will be owning features on our web platforms â currently theÂ <span style=""><a class="bbcode-link" href="https://phantom.app/download" target="_blank" rel="noopener noreferrer nofollow">Phantom Extension</a></span>Â and our website.</li>
+<li align="left">
+<b>New initiatives and products:</b>Â You will be leading initiatives to add support for other blockchains to Phantom, and to launch new complementary products or infrastructure.</li>
+<li align="left">
+<b>Interfacing with users:</b>Â You will be interfacing directly with end-users and developers building on Phantom â supporting them and collecting feedback to inform the direction of the product.</li>
+<li align="left">
+<b>Team building:</b>Â You will be working with the team to create and foster a culture of raising the bar with each new hire.</li>
+</ul><br><h3><b>Qualifications</b></h3><br><ul>
+<li align="left">Bachelors degree in Computer Science or related technical field or equivalent practical experience</li>
+<li align="left">5+ years full-time software engineering experience</li>
+<li align="left">Demonstrated interest in open and community-driven platforms</li>
+<li align="left">
+<i>Nice-To-Have</i>: experience in a blockchain based projectÂ </li>
+</ul><br><h3><b>Opportunity</b></h3><br>We are a team of experienced builders with a ton of traction in a big and growing market â our users are so passionate they were hacking their way into our private beta. Only months after launching we've acquired millions of users, and are adding hundreds of thousands every week. We are by far the leading wallet on Solana, and plan to expand to other chains soon.<br>On top of that, there has never been a better time to work in crypto and on wallets in particular.<br><ul>
+<li align="left">
+<b>Wallets play a pivotal role:</b>Â Wallets are responsible for on-boarding new users into crypto, and can make or break the user experience.</li>
+<li align="left">
+<b>We are moving to a multi-chain world:</b>Â New blockchains and scaling solutions are coming online and gaining traction, but are lacking decent wallets and bridges.</li>
+<li align="left">
+<b>DeFi & NFTs are exploding :</b>Â Interest in DeFi and NFTs has exploded, yet they are still an after-thought in existing wallets.</li>
+</ul><br><h3><b>Benefits</b></h3><br><ul>
+<li align="left">Competitive salary and equity.</li>
+<li align="left">Comprehensive insurance (medical/dental/vision) â 100% covered.</li>
+<li align="left">Stipend for your ideal remote / WFH set-up: laptop, headphones, and any other work gear you may need.</li>
+<li align="left">Flexible hours and a long-standing, supportive remote environment.</li>
+<li align="left">Monthly co-working space and mobile phone expense.</li>
+<li align="left">Unlimited vacation: Take time when you need it (and we really mean it).</li>
+<li align="left">401(k) retirement plan (although we are not matching at this time)</li>
+<li align="left">Wellness benefit</li>
+<li align="left">Daily lunch benefit</li>
+</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<br/><br/>Please mention the word **MASTERY** and tag RMzUuMTc1LjExMy44 when applying to show you read the job post completely (#RMzUuMTc1LjExMy44). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/1c0df06e1b7474b532405e42f8892a9a1676618204.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Fuel Labs</h5>
+                    <h3>Senior Full stack Software Engineer TypeScript</h3>
+                </td>
+                <td width="300">
+                    <code>software,security,full-stack,manager,financial,typescript,senior,engineer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-full-stack-software-engineer-typescript-fuel-labs-195780" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Fuel Labs is building the fastest modular execution layer in the world. You will be working at the bleeding edge of blockchain scalability R&D building blockchain-focused modules, client SDKs, and libraries in TypeScript.<p></p><h3><b>Requirements</b></h3><br><ul>
+<li align="left">10+ years of experience as a full-stack software engineer</li>
+<li align="left">3+ years of experience working in TypeScript</li>
+<li align="left">Native level proficiency in written and oral English</li>
+<li align="left">Prior experience working remotely in a globally distributed team</li>
+</ul><br><h3><b>Bonus</b></h3><br><ul>
+<li align="left">Experience in Solidity</li>
+<li align="left">Experience with blockchain technologies</li>
+<li align="left">Experience using Hardhat or Truffle, ID plugins, web3.js or ethers.js.Â </li>
+<li align="left">Experience with financial systems or other high security services</li>
+<li align="left">Consuming and contributing to open source codebases</li>
+<li align="left">Background in philosophy</li>
+</ul><br><h3><b>Hiring process</b></h3><br>Screening call 20 mins with Head Recruiter<br>Call with Hiring Manager and Chief of Staff 20 mins<br>Hour long interactive task<br>Final call and offer<br/><br/>Please mention the word **ATTRACTIVE** and tag RMzUuMTc1LjExMy44 when applying to show you read the job post completely (#RMzUuMTc1LjExMy44). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/614fe57245411d1716c82061ec4ea9821676531807.png" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +102,7 @@
                     <code>web3,nft,system,support,software,test,engineer</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-web3-engineer-nifty-195265" align="right" target="_blank">Apply</a>
@@ -46,63 +138,7 @@
 <p><span style="font-weight:400;">Niftyâs, Inc. strives to be a best-in-class and equal opportunity employer.â All qualified applicants  will receive consideration for employment without regard to race, religion, color, national origin,  gender, gender identity, sexual orientation, age, status as a protected veteran, among other  things, or status as a qualified individual with disability. </span></p>
 <p><span style="font-weight:400;">This job posting highlights the most critical responsibilities and requirements of the job. Other duties may be assigned as needed.</span></p>
 <p><span style="font-weight:400;">Nifty's, Inc. Privacy Policy can be found here: </span><a href="https://niftys.com/privacy-policy" rel="noopener noreferrer nofollow"><span style="font-weight:400;">https://niftys.com/privacy-policy</span></a></p>
-<p> </p><br/><br/>Please mention the word **DOUBTLESS** and tag RMjYwMDoxOTAwOjIwMDA6MWI6NDAwOjoxMw== when applying to show you read the job post completely (#RMjYwMDoxOTAwOjIwMDA6MWI6NDAwOjoxMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/a7716a90b1d702dc8b40557826818c1c1676445325.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>RabbitHole</h5>
-                    <h3>Senior Full stack Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>design,crypto,system,security,architect,support,software,test,code,qa,senior,engineer,engineering,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-full-stack-engineer-rabbithole-194720" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>
-<b style="font-size:10.5pt;">At RabbitHole, </b><span style="font-size:10.5pt;">our mission is to increase global economic opportunity by making crypto more accessible and meritocratic. Weâre doing that by making it easy for protocols to distribute their tokens to users. We believe that by helping protocols solve token distribution, weâll not only make crypto protocols more sustainable, but also help anyone in the world earn income through provable contribution rather than their background or credentials. </span>
-</div><div><br></div><div><span style="font-size:10.5pt;">RabbitHole has created an efficient way for protocols to distribute tokens by segmenting users based on on-chain & off-chain data. By completing on-chain tasks in various protocols, users build their on-chain resume, and earn token ownership.</span></div><div><br></div><div><b style="font-size:10.5pt;">What problem are we solving?</b></div><div><span style="font-size:10.5pt;">Protocols are constantly looking for new ways to find and engage users, but donât have an easy way to do so. Tokens of these protocols often fall in the hands of speculators who sit on centralized exchanges, rather than users of these networks. On the other hand, new users in crypto have a difficult time in knowing where to start on their crypto journey and donât know who to trust. </span></div><div><br></div><div><b style="font-size:10.5pt;">Why are we solving this problem?</b></div><div><span style="font-size:10.5pt;">By making it more efficient for protocols to distribute their token to network participants, we are both driving more participation to protocols and making it easier for users to increase their ownership in protocols rather than speculators. By increasing the number of token holders who are using the network, we are making the underlying protocol more sustainable, and putting more money in the pockets of users. </span></div><div><br></div><div><b style="font-size:10.5pt;">Why are we different?</b></div><div><span style="font-size:10.5pt;">RabbitHole is a group of crypto-natives who have years of experience in crypto. Compared to other crypto projects, weâre not building another Metaverse or protocol for risk â weâre focused on helping serve existing decentralized protocols and get their tokens in the hands of the right token holders. We believe in the potential of what crypto stands for and can become, but we know that today thereâs a lot to improve. Weâre playing the long game.</span></div><div><br></div><div><b style="font-size:10.5pt;">Join us for the revolution:</b></div><div><span style="font-size:10.5pt;">We have years of runway to grow and support you on your journey. Founded in 2020, RabbitHole has raised $20M+ in funding, most recently in an announced Series A round in January 2022. We are backed by the best top tier crypto VCs like Electric Capital and traditional VCs like Greylock.</span></div><div><br></div><div><span style="font-size:10.5pt;">We're looking for product-obsessed individuals with early-stage startup experience who want to work with a dynamic fast-moving team and build the roadmap for RabbitHole to become the best way for protocols to distribute their token and engage their users. If this is you, we are super excited to meet you and learn more.</span></div><p></p><h4>How you'd be helping onboard the next wave of crypto users:</h4><p></p><p></p><ul>
-<li>Working with a cross-functional team of engineers and designers to build products that help onboard new users to protocols</li>
-<li>Owning the implementation of features throughout their entire lifecycle from ideation to ship</li>
-<li>Being an advocate of engineering practices and initiatives that keep code-quality while still maintaining an overall high team velocity</li>
-<li>You love a fast-paced, use-case centric, product development team and will architect, develop, and test and deploy features at a rapid, iterative pace</li>
-</ul><p></p><h4>Who you are:</h4><p></p><p></p><ul>
-<li>You are passionate about building and taking things from Zero to One</li>
-<li>You value collaboration as much as writing good, clean code</li>
-<li>You make the effort to design and write code that is scalable, performant, and easy for your teammates to build upon and maintain</li>
-<li>You have made significant technological decisions and stuck around to deal with the consequences</li>
-<li>You have built something end to end and have (or had) users actively engaging with it</li>
-</ul><p></p><h4>Qualifications: </h4><p></p><p></p><ul>
-<li>4+ years of experience in a software engineering role working with a team in a production environment</li>
-<li>Bachelor's degree in computer science or a related field or equivalent experience</li>
-<li>Strong communication and collaboration skills</li>
-<li>Ability to write meaningful, well-tested code</li>
-<li>Proficiency in Javascript/React</li>
-<li>Can estimate, design, and build a large epic end-to-end</li>
-<li>Ability to bring your latest and greatest learning and tell us why we should use them tomorrow</li>
-</ul><p></p><h4>Responsibilities/duties: </h4><p></p><p></p><ul>
-<li>Work closely with the engineering team to architect and build a robust system of infrastructure to support our growing userbase</li>
-<li>Taking an idea from zero to one then from one to scale</li>
-<li>Design and write code that is scalable, performant, and easy for your teammates to build upon and maintain</li>
-<li>Collaborate with top crypto projects in the space to develop features that suit their needs to help them find the right users</li>
-<li>Jump into multiple parts of the codebase across the frontend, backend & smart contracts</li>
-<li>Spearhead the QA process to ensure code is of the highest quality</li>
-<li>Ensure the safety of users by deploying rigorous security standards throughout the development stack</li>
-</ul><p></p><h4>Nice to haves</h4><p></p><p></p><ul>
-<li>Knowledge of and passion for crypto applications / Ethereum</li>
-<li>Worked at an early stage startup</li>
-</ul><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/BD6XbT38gZQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **SUPERBLY** and tag RMjYwMDoxOTAwOjIwMDA6MWI6NDAwOjoxMw== when applying to show you read the job post completely (#RMjYwMDoxOTAwOjIwMDA6MWI6NDAwOjoxMw==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p> </p><br/><br/>Please mention the word **DOUBTLESS** and tag RMzUuMTc1LjExMy44 when applying to show you read the job post completely (#RMzUuMTc1LjExMy44). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
