@@ -1,5 +1,154 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/1b977f553d5909f99ca62790583e9fb51676791003.jpg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Hiro</h5>
+                    <h3>Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,bitcoin,architect,technical,support,developer,javascript,cloud,nosql,strategy,senior,go,engineer,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-hiro-196810" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div><span style="font-size:11pt;">Hiro is the leading developer tools company for Stacks, the open-source network which makes Bitcoin programmable. Our mission is to accelerate mainstream adoption of blockchain technology and build a better, user-owned internet for all. Hiro was founded in 2013 under the name Blockstack PBC and is headquartered in New York City with employees and contractors distributed across the globe. Hiro is funded and backed by more than $75 million from Union Square Ventures, Y Combinator, Lux Capital, Winklevoss Capital, Naval Ravikant, and many more.</span></div><div><br></div><div><span style="font-size:11pt;"><b>About the Opportunity</b>:We're looking for an experienced engineer to help build our main products: APIs, developer tools, libraries and SDKs. You'll collaborate with a team and work independently to architect and deliver feature upgrades and improvements on the platform. In this role, you will build critical features for our developer community. You must be comfortable working in diverse development ecosystems and have worked independently in a rapidly scaling startup. OSS experience is preferred as we are an open source project.</span></div><p></p><h4>What You'll Do </h4><p></p><p></p><ul>
+<li>Build open-source developer tools for the Stacks blockchain, including but not limited to APIs, SDKs, command line tools and services</li>
+<li>Build developer tools and services for the Hiro Platform: this is a greenfield effort and a unique opportunity to participate in building a new product from the ground-up</li>
+<li>Work on <a href="https://github.com/blockstack/stacks-blockchain-api" rel="noopener noreferrer nofollow">stacks-blockchain-api</a>: a rich and developer-friendly set of APIs for Stacks blockchain data, including full support of the <a href="https://www.rosetta-api.org/" rel="noopener noreferrer nofollow">Rosetta specification</a>. Currently serving  &gt;10M queries daily</li>
+<li>Work on <a href="https://github.com/blockstack/stacks.js" rel="noopener noreferrer nofollow">stacks.js</a>: a collection of Javascript libraries for building apps on Stacks, collectively exceeding 20K downloads weekly</li>
+<li>Collaborate with blockchain engineers and product engineers to help create a compelling developer experience</li>
+<li>Help shape the product & technical strategy for developer tools in the Stacks ecosystem</li>
+</ul><p></p><h4>What We're Looking For</h4><p></p><p></p><ul>
+<li>8+ industry experience as a software engineer(or equivalent)</li>
+<li>Experience building open-source developer tools(APIs, SDKs, services)</li>
+<li>Experience working on production services, with CI/CD tools and with cloud providers like AWS and GCP</li>
+<li>Proficiency in at least one language or framework for building tools and services(e.g. NodeJS, Express, Rust, Go etc)</li>
+<li>Strong understanding and comfort with storage / caching solutions ranging from SQL databases(e.g. Postgres) to NoSQL systems(e.g. Redis)</li>
+<div><br></div>
+<div><i>Weâd love to hear from you even if you donât have experience or interest in every bullet. Thereâs no perfect candidate and we want to find the right fit, even if itâs different than we imagine. We especially would like to meet underrepresented/underestimated candidates.</i></div>
+<div><br></div>
+<div><i>Hiro is proud to be an equal opportunity employer and deeply cares about building a diverse team. Hiro is committed to building an inclusive environment for people of all backgrounds. We do not discriminate on the basis of race, color, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by law.</i></div>
+</ul><div><br></div><br/><br/>Please mention the word **TREMENDOUSLY** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/771700ecb3a12f9fe4da669bf6a0f1b21676790981.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>NOBI</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,amazon,defi,crypto,cryptocurrency,system,frontend,test,code,web,javascript,investment,nodejs,php,git,engineer,engineering,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-nobi-196804" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div>
+<p></p>
+<h2>Company Description</h2>
+</div><div><p>NOBI helps people easily get more from their crypto asset & simplify their crypto investment experience. Our engineering team run hundreds of blockchain nodes, integrates with numerous DeFi smart contracts and run numerous real time robo trading to simplify the life our customers. <br><br>Weâre here so that everyone can be part of the global cryptocurrency movement. Join us.</p></div><div>
+<p></p>
+<h2>Job Description</h2>
+</div><div><ul>
+<li>Responsible for building and extending our backend code</li>
+<li>Responsible for building APIs that serve our frontend apps</li>
+<li>Responsible for maintaining and extend our test suite</li>
+<li>Refactor and improve existing code to incorporate better patterns</li>
+<li>Able to create unit test and implement self-test to make sure the code is running well (Profiling and optimization code)</li>
+<li>Work with the other engineering team to build & maintain our numerous backend services</li>
+</ul></div><div>
+<p></p>
+<h2>Qualifications</h2>
+</div><div><ul>
+<li>Bachelor's degree in Computer Science or equivalent from a reputable university</li>
+<li>Minimum 2 years of working experience as Backend Engineer or equivalent</li>
+<li>Minimum 2 years of extensive experience on server-side development, especially Javascript (ES6) using NodeJS & PHP using Laravel.</li>
+<li>Fluent with Git and RESTful API</li>
+<li>Good knowledge and experience of UNIX system and command line experience in web server configuration and setup. This includes setting up PHP engine, database server, load balancing.</li>
+<li>Experience with NoSQL, Amazon AWS , Redis, Docker</li>
+<li>Knowledge and experience in scalability and performance in high-traffic web systems</li>
+<li>Knowledgeable on software design pattern</li>
+<li>Understanding the principles of application security</li>
+<li>Blockchain or Crypto enthusiast</li>
+</ul></div><br/><br/>Please mention the word **FIDELITY** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/e906f00adc2db38db75f911b674664141676790960.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Cake DeFi</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>crypto,defi,blockchain,web3,software,design,amazon,security,support,growth,web,devops,finance,fintech,cloud,api,management,reliability,engineer,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-cake-defi-196797" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro">
+<p>Founded in 2019, Cake DeFi is a leading decentralised finance services provider and Southeast Asiaâs fastest growing fintech platform. "We Do Crypto. You Do You." - Our vision is to become a one-stop platform for all crypto users to get easy access to DeFi and Web3 services. To date, more than 1 million users from over 190 countries trust us to manage over $1 billion in assets. We are a profitable, cashflow positive private rocket ship that's just getting ready for take-off. Join us.</p>
+<p> </p>
+</div><div class="p-rich_text_section">
+<p><strong>Birthday Research</strong></p>
+<p><span style="font-weight:400;">Birthday Research (BR) is our Blockchain Research and Development arm. Fuelled by the best minds in the industry, BR seeks to develop best-in-class blockchain innovations with the mission of enabling the next bound of Web3.</span></p>
+<p><span style="font-weight:400;">As a pioneering force, our work spans cryptographic research, deep blockchain consensus development, and smart contracts development â with a laser-sharp focus on driving the industry frontier while tackling the most demanding DeFi challenges of today. To date, one of our core contributions, DeFiChain, has garnered over 1 billion USD in total value locked on the layer-1 protocol.</span></p>
+<p><span style="font-weight:400;">We are a fast-growing, globally distributed, close-knit team of multi-disciplinary doers and getters. Join Birthday Research today to be a part of the driving force shaping the future of decentralization.</span></p>
+<h3><strong>What youâll do:</strong></h3>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with Software Engineers to design a highly scalable and secure infrastructure to support our growth.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Build on top of our existing infrastructure playbook and runbook to support our growth targets.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Design, implement, manage and maintain a fleet of Multi-Region Active-Active elastic services that includes our API gateway, microservices, database, and blockchain nodes.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Taking on an active role in improving our service design and performing security hardening of our infrastructure.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Apply your CI/CD knowledge to design and implement various supporting processes, shift-left workflows, and tools.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Write highly performant infrastructure codes that are clean, simple, maintainable, and battle-tested.</span></li>
+</ul>
+<h3><strong>What youâll need:</strong></h3>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience working in a fast pace tech-driven startup as a SysOps Engineer, Site Reliability Engineer, or DevOps Engineer with at least 2 years of experience managing cloud infrastructure or in a similar capacity.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience managing cloud infrastructure such as Amazon Web Services with automation tools such as AWS CloudFormation, Ansible, Terraform, Helm, Puppet, or similar.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">A strong foundation of common networking protocols such as layer 7 and layer 4 network load balancing.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Ability to take full ownership and work independently while collaborating with others in a fast-paced agile and async team.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">A collaborative and resourceful individual with excellent communication skills able to make radical decisions while being empathetic and respectful.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Willingness to pick up new and emerging bleeding edge blockchain technologies.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Familiarity with container orchestration is highly preferred.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Familiarity with web-scale data management technologies such as NoSQL, SQL Sharding, and Data Warehouse is preferred.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience participating or maintaining in open source software development is highly preferred.</span></li>
+</ul>
+</div>
+<p> </p><div class="content-conclusion">
+<p>We want to transform and decentralise finance with tomorrowâs technology. This is where you come in. Join a company that is at the forefront of bleeding-edge innovations in blockchain and DeFi. You will be empowered to push boundaries and think out of the box. You will get to work with a bunch of ridiculously motivated and talented people. And most importantly, you'll have fun. The best places to work at, are often also the most fun to work at. That's us.</p>
+<p>We hire based on merit, fit, and strong alignment to our culture. Our culture is defined by 7 team principles: Integrity, Resourcefulness, Ownership, Meritocratic Decision-making, Customer Obsession, Radical Candour, and Passion. These 7 principles guide our company, our people, and our work. At Cake DeFi, our culture is our pride. It has been instrumental to our success, so we are steadfast in our commitment to it. We welcome you to add to it.</p>
+</div><br/><br/>Please mention the word **SHIMMERING** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/6b08a48011884a54f578077626ce03781676618130.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +159,7 @@
                     <code>software,cryptocurrency,security,technical,developer,code,financial,video,fintech,management,reliability,engineer,engineering,educational,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-rust-orderly-195758" align="right" target="_blank">Apply</a>
@@ -70,7 +219,7 @@
 <li>If you have experience in developing trading systems or financial-related products is a plus.</li>
 <li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
 <li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our <a href="https://boards.greenhouse.io/orderlynetwork/jobs/5170520003" target="_blank" rel="noopener noreferrer nofollow">External Referral Incentives Program</a> as well. </li>
-</ul><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **HARDIER** and tag RMTAwLjI2LjE2Ny43Mg== when applying to show you read the job post completely (#RMTAwLjI2LjE2Ny43Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **HARDIER** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -85,7 +234,7 @@
                     <code>software,web3,defi,crypto,react,swift,technical,support,developer,financial,c,mobile,engineer,engineering,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-mobile-phantom-195776" align="right" target="_blank">Apply</a>
@@ -130,7 +279,7 @@
 <li align="left">401(k) retirement plan (although we are not matching at this time)</li>
 <li align="left">Wellness benefit</li>
 <li align="left">Daily lunch benefit</li>
-</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<br/><br/>Please mention the word **SEXY** and tag RMTAwLjI2LjE2Ny43Mg== when applying to show you read the job post completely (#RMTAwLjI2LjE2Ny43Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<br/><br/>Please mention the word **SEXY** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -145,7 +294,7 @@
                     <code>web3,software,defi,crypto,ethereum,react,architect,technical,code,web,mobile,engineer,engineering</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-web3-software-engineer-phantom-195755" align="right" target="_blank">Apply</a>
@@ -191,7 +340,7 @@
 <li align="left">401(k) retirement plan (although we are not matching at this time)</li>
 <li align="left">Wellness benefit</li>
 <li align="left">Daily lunch benefit</li>
-</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<br/><br/>Please mention the word **DECENCY** and tag RMTAwLjI2LjE2Ny43Mg== when applying to show you read the job post completely (#RMTAwLjI2LjE2Ny43Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<br/><br/>Please mention the word **DECENCY** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
