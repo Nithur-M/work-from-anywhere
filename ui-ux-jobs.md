@@ -1,67 +1,5 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/1362db18d7e532f15b2970ef9eae88cf1676531789.jpg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Tonkeeper</h5>
-                    <h3>UX UI Designer</h3>
-                </td>
-                <td width="300">
-                    <code>ui,ux,design,crypto,designer,web,mobile,strategy,analytics,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-ux-ui-designer-tonkeeper-195262" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Tonkeeper is a crypto wallet in the TON blockchain network created for storing and making transactions with Toncoin and other cryptocurrencies. The goal of Tonkeeper is to be the leading wallet in the TON ecosystem that connects all the services together for the user. Tonkeeper is a method of storing and transacting in all kinds of assets, a convenient payment terminal, and secure authentication device for all the dapps.</p>
-
-<p><strong>What you will do:</strong></p>
-
-<ul>
-        <li>design and prototype interfaces for mobile applications / web services;</li>
-        <li>work with analytics and metrics;</li>
-        <li>communicate with users and assess the effectiveness of the decisions made;</li>
-        <li>interact with the product team and the development team;initiate the validation of product hypotheses;</li>
-        <li>contribute to solution ideation and improve platform functionality.</li>
-</ul>
-
-<p><strong>Why it's an amazing opportunity for you:</strong></p>
-
-<ul>
-        <li>hundreds of thousands of users on the global market will see the results of your work;</li>
-        <li>we work in small product teams with a strong drive to succeed;</li>
-        <li>we are a fast-paced organization that creates top-notch business processes;</li>
-        <li>we are happy to share our experience in the fields of product development, strategy development and fintech, and involve top-rated experts;</li>
-        <li>we have a friendly atmosphere that promotes an open exchange of ideas;</li>
-        <li>remote work.</li>
-</ul>
-
-<p><strong>We expect you to:</strong></p>
-
-<ul>
-        <li>have expertise in Figma or other similar interface design services;</li>
-        <li>build design systems from scratch;</li>
-        <li>know and apply the fundamental principles of UX/UI;</li>
-        <li>understand how to apply CJM in your work;</li>
-        <li>follow trends in interface design;</li>
-        <li>be able to communicate with users, conduct research and assess the effectiveness of decisions made;</li>
-        <li>design interfaces based on user scenarios;</li>
-        <li>work both independently and in a team;</li>
-        <li>provide clear argumentation for your point of view;</li>
-        <li>conduct usability tests.</li>
-</ul>
-
-<p>Tonkeeper is an equal opportunity employer.</p><br/><br/>Please mention the word **INNOVATION** and tag RMTAwLjI2LjE2Ny43Mg== when applying to show you read the job post completely (#RMTAwLjI2LjE2Ny43Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -72,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>360 days ago</text>
+                <text>361 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -133,7 +71,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
