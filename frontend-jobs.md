@@ -10,7 +10,7 @@
                     <code>frontend,software,web3,defi,crypto,technical,support,developer,web,financial,typescript,mobile,engineer,engineering,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-frontend-phantom-195778" align="right" target="_blank">Apply</a>
@@ -55,7 +55,7 @@
 <li align="left">401(k) retirement plan (although we are not matching at this time)</li>
 <li align="left">Wellness benefit</li>
 <li align="left">Daily lunch benefit</li>
-</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<br/><br/>Please mention the word **EXCEEDINGLY** and tag RMTAwLjI2LjE2Ny43Mg== when applying to show you read the job post completely (#RMTAwLjI2LjE2Ny43Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<br/><br/>Please mention the word **EXCEEDINGLY** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -70,7 +70,7 @@
                     <code>frontend,technical,manager,senior,engineer</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-fuel-labs-195768" align="right" target="_blank">Apply</a>
@@ -94,7 +94,7 @@
 <li align="left">Consuming and contributing to open source codebases</li>
 <li align="left">Experience working with agile methodologies (Scrum, CI/CD, TDD, Paired Programming, Gitflow)</li>
 <li align="left">Background in philosophy</li>
-</ul><br><h3><b>Hiring process</b></h3><br>Screening call 20 mins with Head Recruiter<br>Call with Hiring Manager and Chief of Staff 20 mins<br>Hour long interactive task<br>Final call and offer<br><br/><br/>Please mention the word **BEUTIFULLY** and tag RMTAwLjI2LjE2Ny43Mg== when applying to show you read the job post completely (#RMTAwLjI2LjE2Ny43Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br><h3><b>Hiring process</b></h3><br>Screening call 20 mins with Head Recruiter<br>Call with Hiring Manager and Chief of Staff 20 mins<br>Hour long interactive task<br>Final call and offer<br><br/><br/>Please mention the word **BEUTIFULLY** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -109,7 +109,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-senior-or-staff-frontend-engineer-react-100-remote-2" align="right" target="_blank">Apply</a>
@@ -194,7 +194,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote-1" align="right" target="_blank">Apply</a>
@@ -269,7 +269,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>120 days ago</text>
+                <text>121 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-frontend" align="right" target="_blank">Apply</a>
