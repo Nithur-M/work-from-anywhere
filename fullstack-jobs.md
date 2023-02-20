@@ -10,7 +10,7 @@
                     <code>software,defi,crypto,full-stack,technical,support,web,financial,mobile,engineer,engineering,full-time</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-full-stack-phantom-195782" align="right" target="_blank">Apply</a>
@@ -51,7 +51,7 @@
 <li align="left">401(k) retirement plan (although we are not matching at this time)</li>
 <li align="left">Wellness benefit</li>
 <li align="left">Daily lunch benefit</li>
-</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<br/><br/>Please mention the word **MASTERY** and tag RMTAwLjI2LjE2Ny43Mg== when applying to show you read the job post completely (#RMTAwLjI2LjE2Ny43Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<br/><br/>Please mention the word **MASTERY** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -66,7 +66,7 @@
                     <code>software,security,full-stack,manager,financial,typescript,senior,engineer</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-full-stack-software-engineer-typescript-fuel-labs-195780" align="right" target="_blank">Apply</a>
@@ -87,58 +87,7 @@
 <li align="left">Experience with financial systems or other high security services</li>
 <li align="left">Consuming and contributing to open source codebases</li>
 <li align="left">Background in philosophy</li>
-</ul><br><h3><b>Hiring process</b></h3><br>Screening call 20 mins with Head Recruiter<br>Call with Hiring Manager and Chief of Staff 20 mins<br>Hour long interactive task<br>Final call and offer<br/><br/>Please mention the word **ATTRACTIVE** and tag RMTAwLjI2LjE2Ny43Mg== when applying to show you read the job post completely (#RMTAwLjI2LjE2Ny43Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/614fe57245411d1716c82061ec4ea9821676531807.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Nifty</h5>
-                    <h3>Full Stack Web3 Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>web3,nft,system,support,software,test,engineer</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-full-stack-web3-engineer-nifty-195265" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro">
-<p><strong>ABOUT NIFTYâS, Inc.</strong><strong> </strong></p>
-<p>Nifty's connects fans to what they love most through NFT-powered collectibles, experiences and rewards. Our innovative NFT platform and easy-to-use interface enable communities to collect and trade digital art and other collectibles from their favorite brands and creators. Leveraging eco-friendly blockchain technology, Niftyâs empowers our partners with a premium, flexible and secure platform to launch their NFTs and make them discoverable by Niftyâs global community. Niftyâs is a fully remote company.</p>
-</div><p><strong>Join us in building the next big blockchain/de-fi project! This Full-Stack/Web3 Engineer will be  responsible for designing, developing, and deploying web3 applications for our B2B collaborations. </strong></p>
-<p><span style="font-weight:400;">Essential Duties and Responsibilities: </span></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Build and test end-to-end nodejs/javascript applications both locally and in a shared staging environment.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Understand customer use cases and build elegant solutions focused on solving user problems.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Collaborate cross-functionally, drive internal efficiencies, actively participate in estimation.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Build internal tools and help the organization drive data-driven decisions.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Become an expert in an area of the system.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Support colleagues in feature and system architecture design, support peer to peer mentorship, be an all around awesome teammate.</span></li>
-</ul>
-<p><span style="font-weight:400;">Requirements: </span></p>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Web3 experience preferred.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience in NextJS/vercel.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">5+ years experience in javascript/nodejs software development.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with relational database concepts and SQL queries preferred.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Excellent written and verbal communication, problem-solving, and critical thinking skills are required.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Thrives in a fast paced, collaborative, and remote environment.</span></li>
-</ul>
-<p> </p>
-<p><span style="font-weight:400;">Other things to note: </span></p>
-<p><span style="font-weight:400;">Niftyâs, Inc. strives to be a best-in-class and equal opportunity employer.â All qualified applicants  will receive consideration for employment without regard to race, religion, color, national origin,  gender, gender identity, sexual orientation, age, status as a protected veteran, among other  things, or status as a qualified individual with disability. </span></p>
-<p><span style="font-weight:400;">This job posting highlights the most critical responsibilities and requirements of the job. Other duties may be assigned as needed.</span></p>
-<p><span style="font-weight:400;">Nifty's, Inc. Privacy Policy can be found here: </span><a href="https://niftys.com/privacy-policy" rel="noopener noreferrer nofollow"><span style="font-weight:400;">https://niftys.com/privacy-policy</span></a></p>
-<p> </p><br/><br/>Please mention the word **DOUBTLESS** and tag RMTAwLjI2LjE2Ny43Mg== when applying to show you read the job post completely (#RMTAwLjI2LjE2Ny43Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br><h3><b>Hiring process</b></h3><br>Screening call 20 mins with Head Recruiter<br>Call with Hiring Manager and Chief of Staff 20 mins<br>Hour long interactive task<br>Final call and offer<br/><br/>Please mention the word **ATTRACTIVE** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
