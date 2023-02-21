@@ -10,7 +10,7 @@
                     <code>frontend,software,web3,defi,crypto,technical,support,developer,web,financial,typescript,mobile,engineer,engineering,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-frontend-phantom-195778" align="right" target="_blank">Apply</a>
@@ -55,46 +55,79 @@
 <li align="left">401(k) retirement plan (although we are not matching at this time)</li>
 <li align="left">Wellness benefit</li>
 <li align="left">Daily lunch benefit</li>
-</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<br/><br/>Please mention the word **EXCEEDINGLY** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<br/><br/>Please mention the word **EXCEEDINGLY** and tag RMTA3LjE3OC4yMzEuMjI3 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/eccdbd655f0a85f0ca53074fd52332d41676618153.peg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2123/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Fuel Labs</h5>
-                    <h3>Senior Frontend Engineer</h3>
+                    <h5>Chorus One</h5>
+                    <h3> Front End Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>frontend,technical,manager,senior,engineer</code>
+                    <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-frontend-engineer-fuel-labs-195768" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/chorus-one-front-end-software-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                Fuel Labs is building the fastest modular execution layer in the world. Your work will be the face of our bleeding edge blockchain scalability tech, which will include a suite of dapp , block explorer, and wallet frontends.<p>We are seeking a Frontend Engineer who loves to produce beautiful, clean, and intuitive interfaces, and can move seamlessly between solving creative and technical challenges.</p><p></p><h3><b>Requirements</b></h3><br><ul>
-<li align="left">6+ years of experience as a Frontend Engineer.</li>
-<li align="left">3+ years of experience working in TypeScript.</li>
-<li align="left">3+ years of experience working in React.</li>
-<li align="left">Experience with coding at least web2 regular APIs and DevOps.</li>
-<li align="left">Extreme attention to detail & high visual acuity.</li>
-<li align="left">Knowledge of UI/UX best practices.</li>
-<li align="left">Native level proficiency in written and oral English.</li>
-<li align="left">Prior experience working remotely in a globally distributed team.</li>
-</ul><h3><b>Bonus</b></h3><br><ul>
-<li align="left">Experience with blockchain technologies.</li>
-<li align="left">Experience using Solidity, Hardhat, and ethers.js.</li>
-<li align="left">Consuming and contributing to open source codebases</li>
-<li align="left">Experience working with agile methodologies (Scrum, CI/CD, TDD, Paired Programming, Gitflow)</li>
-<li align="left">Background in philosophy</li>
-</ul><br><h3><b>Hiring process</b></h3><br>Screening call 20 mins with Head Recruiter<br>Call with Hiring Manager and Chief of Staff 20 mins<br>Hour long interactive task<br>Final call and offer<br><br/><br/>Please mention the word **BEUTIFULLY** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <img src="https://we-work-remotely.imgix.net/logos/0076/2123/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Switzerland
+    <br /><strong>URL:</strong> <a href="https://chorus.one">https://chorus.one</a>
+</p>
+
+<div>
+<strong>Job description<br></strong><br>
+</div><div>Chorus One is one of the leading operators of infrastructure for Proof-of-Stake networks and decentralized protocols. Tens of thousands of retail customers and institutions are staking billions in assets through our infrastructure helping to secure protocols and earn rewards. Our mission is to Operate infrastructure for decentralized networks that increase freedom and sovereignty. We are a diverse team of around 50 people distributed all over the globe. We value radical transparency, striving for excellence and continuous improvement while treating each other with kindness and generosity. If this sounds like you, we'd love to hear from you.<br><br>
+</div><div>We are seeking a <strong>Front End Software Engineer</strong> to build data dashboards and web applications - to enable clients and retail users to interact with our business offerings. This position is a unique opportunity to work with an experienced team on cutting-edge blockchain networks and financial services around cryptocurrency.<br><br>
+</div><div>
+<br><strong>Responsibilities</strong>
+</div><ul>
+<li>Work closely with fellow engineers, business team, and product stakeholders to best understand their needs.</li>
+<li>Design and develop web applications, monitoring tools, and data dashboards - to best serve the needs of the above.</li>
+<li>Work on large-scale, custom-designed software development project</li>
+</ul><div>
+<br><strong>We offer</strong>
+</div><ul>
+<li>Competitive salary $80k - 130k/year + Equity </li>
+<li>Autonomy and ownership in a friendly and supportive work environment and the opportunity for rapid growth</li>
+<li>All-expense paid team retreats at various destinations (Coronavirus permitting). Past retreats took place in Egypt, Serbia, Kenya, USA, South Korea, and Dubai.</li>
+<li>Remote, but not alone. We are a strong global collaborative environment.</li>
+<li>Remote working budget (Laptop, co-working space, etc)</li>
+<li>Personal development budget</li>
+<li>Gather experience and build your network in the vibrant crypto ecosystem.</li>
+<li>Learn about state-of-the-art protocols that lay the foundation for an open, transparent, and programmable financial system.</li>
+</ul><div>
+<strong>Job requirements<br></strong><br>
+</div><div><strong>What we are looking for</strong></div><ul>
+<li>3 years experience with working as a Front End Developer, preferably in remote environment</li>
+<li>Fundamental knowledge of frontend languages (JavaScript/TypeScript, HTML, CSS) and experience with major frontend Javascript libraries, preferably React or vue.js</li>
+<li>Experience working in a production-ready environment</li>
+<li>Ability to write high-quality, well-tested code and passion for automated testing</li>
+<li>Familiarity with Front End testing suites like playwright, jest, cypress or equivalent.</li>
+<li>Comfortable working remotely with a high degree of autonomy</li>
+<li>Interest in learning about cryptocurrencies and blockchains</li>
+<li>Passion for creating nice user interfaces and a seamless user experience</li>
+</ul><div><strong>Nice to have:</strong></div><ul>
+<li>Experience building CI/CD pipelines for deploying web products</li>
+<li>Experience with working on large-scale, distributed systems (Kubernetes)</li>
+<li>Basic experience with UX design concepts (prototyping, wireframes)</li>
+<li>Knowledge of or prior experience in the cryptocurrency and blockchain space</li>
+<li>Experience with Postgres or other SQL databases</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chorus-one-front-end-software-engineer">https://weworkremotely.com/remote-jobs/chorus-one-front-end-software-engineer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -109,7 +142,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-senior-or-staff-frontend-engineer-react-100-remote-2" align="right" target="_blank">Apply</a>
@@ -194,7 +227,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote-1" align="right" target="_blank">Apply</a>
@@ -269,7 +302,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>121 days ago</text>
+                <text>123 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-frontend" align="right" target="_blank">Apply</a>
