@@ -1,5 +1,55 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/efb93c847d905a09c18e8f7cf4f3a70a1676877341.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Cake DeFi</h5>
+                    <h3>Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>crypto,defi,blockchain,web3,software,design,react,technical,test,ui,javascript,finance,fintech,typescript,mobile,engineer,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-cake-defi-197310" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro">
+<p>Founded in 2019, Cake DeFi is a leading decentralised finance services provider and Southeast Asiaâs fastest growing fintech platform. "We Do Crypto. You Do You." - Our vision is to become a one-stop platform for all crypto users to get easy access to DeFi and Web3 services. To date, more than 1 million users from over 190 countries trust us to manage over $1 billion in assets. We are a profitable, cashflow positive private rocket ship that's just getting ready for take-off. Join us.</p>
+<p> </p>
+</div><p><strong>Birthday Research</strong></p>
+<p><span style="font-weight:400;">Birthday Research (BR) is our Blockchain Research and Development arm. Fuelled by the best minds in the industry, BR seeks to develop best-in-class blockchain innovations with the mission of enabling the next bound of Web3.</span></p>
+<p><span style="font-weight:400;">As a pioneering force, our work spans cryptographic research, deep blockchain consensus development, and smart contracts development â with a laser-sharp focus on driving the industry frontier while tackling the most demanding DeFi challenges of today. To date, one of our core contributions, DeFiChain, has garnered over 1 billion USD in total value locked on the layer-1 protocol.</span></p>
+<p><span style="font-weight:400;">We are a fast-growing, globally distributed, close-knit team of multi-disciplinary doers and getters. Join Birthday Research today to be a part of the driving force shaping the future of decentralization.</span></p>
+<h3><span style="text-decoration:underline;"><strong>What youâll do:</strong></span></h3>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with cross-functional teams, product designers, and managers to design and develop TypeScript based applications using React, React Native, Next.js and/or Node.js.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Write highly performant codes that are clean, simple, maintainable, and battle-tested with test-driven development (TDD) for maximum test coverage automated from pull request all the way to release.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Take on active responsibility in creating highly scalable UI Components and/or backend modules for our scaling needs.</span></li>
+</ul>
+<h3><span style="text-decoration:underline;"><strong>What youâll need:</strong></span></h3>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience working in a fast pace tech-driven startup as a Software Engineer with at least 2 years of experience or in a similar capacity.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Strong proficiency in TypeScript or JavaScript with experience working in Web, Node, or Mobile technologies.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Ability to take full ownership and work independently while collaborating with others in a fast-paced agile and async team.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">A collaborative and resourceful individual with excellent communication skills able to make radical decisions while being empathetic and respectful.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Willingness to pick up new and emerging bleeding edge blockchain technologies.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Deep technical understanding of blockchain technologies, cryptography, BIPs, DeFi, UTXO, EVM, or Nakamoto Consensus is highly preferred.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience participating or maintaining in open source software development is highly preferred.</span></li>
+</ul>
+<p> </p><div class="content-conclusion">
+<p>We want to transform and decentralise finance with tomorrowâs technology. This is where you come in. Join a company that is at the forefront of bleeding-edge innovations in blockchain and DeFi. You will be empowered to push boundaries and think out of the box. You will get to work with a bunch of ridiculously motivated and talented people. And most importantly, you'll have fun. The best places to work at, are often also the most fun to work at. That's us.</p>
+<p>We hire based on merit, fit, and strong alignment to our culture. Our culture is defined by 7 team principles: Integrity, Resourcefulness, Ownership, Meritocratic Decision-making, Customer Obsession, Radical Candour, and Passion. These 7 principles guide our company, our people, and our work. At Cake DeFi, our culture is our pride. It has been instrumental to our success, so we are steadfast in our commitment to it. We welcome you to add to it.</p>
+</div><br/><br/>Please mention the word **GAINING** and tag RMTA3LjE3OC4yMzEuMjI3 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/1b977f553d5909f99ca62790583e9fb51676791003.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +60,7 @@
                     <code>software,bitcoin,architect,technical,support,developer,javascript,cloud,nosql,strategy,senior,go,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-hiro-196810" align="right" target="_blank">Apply</a>
@@ -36,7 +86,7 @@
 <div><i>Weâd love to hear from you even if you donât have experience or interest in every bullet. Thereâs no perfect candidate and we want to find the right fit, even if itâs different than we imagine. We especially would like to meet underrepresented/underestimated candidates.</i></div>
 <div><br></div>
 <div><i>Hiro is proud to be an equal opportunity employer and deeply cares about building a diverse team. Hiro is committed to building an inclusive environment for people of all backgrounds. We do not discriminate on the basis of race, color, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by law.</i></div>
-</ul><div><br></div><br/><br/>Please mention the word **TREMENDOUSLY** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><br></div><br/><br/>Please mention the word **TREMENDOUSLY** and tag RMTA3LjE3OC4yMzEuMjI3 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -51,7 +101,7 @@
                     <code>software,design,amazon,defi,crypto,cryptocurrency,system,frontend,test,code,web,javascript,investment,nodejs,php,git,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-nobi-196804" align="right" target="_blank">Apply</a>
@@ -87,7 +137,7 @@
 <li>Knowledgeable on software design pattern</li>
 <li>Understanding the principles of application security</li>
 <li>Blockchain or Crypto enthusiast</li>
-</ul></div><br/><br/>Please mention the word **FIDELITY** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul></div><br/><br/>Please mention the word **FIDELITY** and tag RMTA3LjE3OC4yMzEuMjI3 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -102,7 +152,7 @@
                     <code>crypto,defi,blockchain,web3,software,design,amazon,security,support,growth,web,devops,finance,fintech,cloud,api,management,reliability,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-cake-defi-196797" align="right" target="_blank">Apply</a>
@@ -144,7 +194,7 @@
 <p> </p><div class="content-conclusion">
 <p>We want to transform and decentralise finance with tomorrowâs technology. This is where you come in. Join a company that is at the forefront of bleeding-edge innovations in blockchain and DeFi. You will be empowered to push boundaries and think out of the box. You will get to work with a bunch of ridiculously motivated and talented people. And most importantly, you'll have fun. The best places to work at, are often also the most fun to work at. That's us.</p>
 <p>We hire based on merit, fit, and strong alignment to our culture. Our culture is defined by 7 team principles: Integrity, Resourcefulness, Ownership, Meritocratic Decision-making, Customer Obsession, Radical Candour, and Passion. These 7 principles guide our company, our people, and our work. At Cake DeFi, our culture is our pride. It has been instrumental to our success, so we are steadfast in our commitment to it. We welcome you to add to it.</p>
-</div><br/><br/>Please mention the word **SHIMMERING** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **SHIMMERING** and tag RMTA3LjE3OC4yMzEuMjI3 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -159,7 +209,7 @@
                     <code>software,cryptocurrency,security,technical,developer,code,financial,video,fintech,management,reliability,engineer,engineering,educational,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-rust-orderly-195758" align="right" target="_blank">Apply</a>
@@ -219,7 +269,7 @@
 <li>If you have experience in developing trading systems or financial-related products is a plus.</li>
 <li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
 <li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our <a href="https://boards.greenhouse.io/orderlynetwork/jobs/5170520003" target="_blank" rel="noopener noreferrer nofollow">External Referral Incentives Program</a> as well. </li>
-</ul><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **HARDIER** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **HARDIER** and tag RMTA3LjE3OC4yMzEuMjI3 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -234,7 +284,7 @@
                     <code>software,web3,defi,crypto,react,swift,technical,support,developer,financial,c,mobile,engineer,engineering,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-mobile-phantom-195776" align="right" target="_blank">Apply</a>
@@ -279,7 +329,7 @@
 <li align="left">401(k) retirement plan (although we are not matching at this time)</li>
 <li align="left">Wellness benefit</li>
 <li align="left">Daily lunch benefit</li>
-</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<br/><br/>Please mention the word **SEXY** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<br/><br/>Please mention the word **SEXY** and tag RMTA3LjE3OC4yMzEuMjI3 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -294,7 +344,7 @@
                     <code>web3,software,defi,crypto,ethereum,react,architect,technical,code,web,mobile,engineer,engineering</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-web3-software-engineer-phantom-195755" align="right" target="_blank">Apply</a>
@@ -340,7 +390,7 @@
 <li align="left">401(k) retirement plan (although we are not matching at this time)</li>
 <li align="left">Wellness benefit</li>
 <li align="left">Daily lunch benefit</li>
-</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<br/><br/>Please mention the word **DECENCY** and tag RMTA3LjE3OC4yMzEuMjQ1 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjQ1). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<br/><br/>Please mention the word **DECENCY** and tag RMTA3LjE3OC4yMzEuMjI3 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
