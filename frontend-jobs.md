@@ -1,61 +1,66 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/ee77dfa7460e4f33d658da83336505bc1676618202.peg" width="38px" height="auto">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/4123/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Phantom</h5>
-                    <h3>Software Engineer Frontend</h3>
+                    <h5>ClickGUARD Inc.</h5>
+                    <h3> Senior Frontend Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>frontend,software,web3,defi,crypto,technical,support,developer,web,financial,typescript,mobile,engineer,engineering,full-time,digital nomad</code>
+                    <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>0 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-frontend-phantom-195778" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/clickguard-inc-senior-frontend-engineer" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                Our crypto wallet is used by millions of people to access apps and financial services built on the Solana blockchain. As a frontend engineer at Phantom youâll be doing everything from creating delightful user experiences, contributing to cross-platform client infrastructure, and crafting web3 developer SDKs. Join us on our mission to make the digital economy safe and easy to use for everyone.<br>This role is fully remote; however, weâre only open to candidates based in US and EU time zones.<p></p><h3><b>Responsibilities</b></h3><br><ul>
-<li align="left">
-<b>Feature development:</b>Â You will be owning features on our web platforms â currently theÂ <span style=""><a class="bbcode-link" href="https://phantom.app/download" target="_blank" rel="noopener noreferrer nofollow">Phantom Extension</a></span>Â and our website.</li>
-<li align="left">
-<b>New initiatives and products:</b>Â You will be leading initiatives to add support for other blockchains to Phantom, and to launch new complementary products or infrastructure.</li>
-<li align="left">
-<b>Interfacing with users:</b>Â You will be interfacing directly with end-users and developers building on Phantom â supporting them and collecting feedback to inform the direction of the product.</li>
-<li align="left">
-<b>Team building:</b>Â You will be working with the team to create and foster a culture of raising the bar with each new hire.</li>
-</ul><br><h3><b>Qualifications</b></h3><br><ul>
-<li align="left">Bachelors degree in Computer Science or related technical field or equivalent practical experience</li>
-<li align="left">3+ years full-time software engineering experience with some of the following technologies:</li>
-<ul>
-<li align="left">React / Typescript / styled-components / React-Query</li>
-<li align="left">Solana web3.js / ethers.js</li>
-</ul>
-<li align="left">Demonstrated interest in open and community-driven platforms</li>
-<li align="left">
-<i>Nice-To-Have</i>: experience in a blockchain based project</li>
-</ul><br><h3><b>Opportunity</b></h3><br>We are a team of experienced builders with a ton of traction in a big and growing market â our users are so passionate they were hacking their way into our private beta. Only months after launching we've acquired millions of users, and are adding hundreds of thousands every week. We are by far the leading wallet on Solana, and plan to expand to other chains soon.<br>On top of that, there has never been a better time to work in crypto and on wallets in particular.<br><ul>
-<li align="left">
-<b>Wallets play a pivotal role:</b>Â Wallets are responsible for on-boarding new users into crypto, and can make or break the user experience.</li>
-<li align="left">
-<b>We are moving to a multi-chain world:</b>Â New blockchains and scaling solutions are coming online and gaining traction, but are lacking decent wallets and bridges.</li>
-<li align="left">
-<b>DeFi & NFTs are exploding :</b>Â Interest in DeFi and NFTs has exploded, yet they are still an after-thought in existing wallets.</li>
-</ul><br><h3><b>Benefits</b></h3><br><ul>
-<li align="left">Competitive salary and equity.</li>
-<li align="left">Comprehensive insurance (medical/dental/vision) â 100% covered.</li>
-<li align="left">Stipend for your ideal remote / WFH set-up: laptop, headphones, and any other work gear you may need.</li>
-<li align="left">Flexible hours and a long-standing, supportive remote environment.</li>
-<li align="left">Monthly co-working space and mobile phone expense.</li>
-<li align="left">Unlimited vacation: Take time when you need it (and we really mean it).</li>
-<li align="left">401(k) retirement plan (although we are not matching at this time)</li>
-<li align="left">Wellness benefit</li>
-<li align="left">Daily lunch benefit</li>
-</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<br/><br/>Please mention the word **EXCEEDINGLY** and tag RMTA3LjE3OC4yMzEuMjI3 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <img src="https://we-work-remotely.imgix.net/logos/0074/4123/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> America
+    <br /><strong>URL:</strong> <a href="https://www.clickguard.com/">https://www.clickguard.com/</a>
+</p>
+
+<div><strong>About the role</strong></div><ul>
+<li>Leading the front-end development for our SaaS productI</li>
+<li>mplementing new user-facing features using React.js</li>
+<li>Building reusable components and front-end libraries </li>
+<li>Optimizing components for maximum performance across a variety of browsers and web-capable devices </li>
+<li>Translating user stories, specs, and wireframes into high-quality code that delivers value to the end-user </li>
+<li>Reporting to the Head of Product and Technical Team Lead<br><br>
+</li>
+</ul><div><strong>What qualifies you for this role?</strong></div><ul>
+<li>You have strong Computer Science fundamentals</li>
+<li>You've demonstrated experience as a senior frontend developer using React.js</li>
+<li>You have excellent JavaScript knowledge in front end libraries and React.js</li>
+<li>ecosystem</li>
+<li>You have deep experience with UI libraries and design system</li>
+<li>You are familiar with code versioning tools like git</li>
+<li>You have experience developing analytical, data-driven web applications</li>
+<li>You have versatility in the JavaScript ecosystem and programming languages in</li>
+<li>general</li>
+<li>Clear background in building Software as a Service, ad tech, and/or</li>
+<li>cybersecurity tech</li>
+<li>You have experience with Test-Driven Development</li>
+<li>You have experience working remotely<br><br>
+</li>
+</ul><div><strong>What's in it for you?</strong></div><ul>
+<li>Competitive salary + performance bonuses</li>
+<li>Senior Frontend Engineer job description 2</li>
+<li>Work that fits your personality and lifestyle</li>
+<li>Your hours are flexible, and so is your vacation</li>
+<li>You can work from anywhere in the world - We work remotely!</li>
+<li>Join and help shape the future of PPC advertising</li>
+<li>Once a year all expenses paid company get-togethers</li>
+</ul><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/clickguard-inc-senior-frontend-engineer">https://weworkremotely.com/remote-jobs/clickguard-inc-senior-frontend-engineer</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -70,7 +75,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/chorus-one-front-end-software-engineer" align="right" target="_blank">Apply</a>
@@ -142,7 +147,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>6 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/close-senior-or-staff-frontend-engineer-react-100-remote-2" align="right" target="_blank">Apply</a>
@@ -212,81 +217,6 @@
 </div>
 
 <p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/close-senior-or-staff-frontend-engineer-react-100-remote-2">https://weworkremotely.com/remote-jobs/close-senior-or-staff-frontend-engineer-react-100-remote-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/4101/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>EventMobi</h5>
-                    <h3> Frontend Technical Team Lead - Remote</h3>
-                </td>
-                <td width="300">
-                    <code>Front-End Programming</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0064/4101/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> 151 Yonge Street 11th Floor Toronto, Ontario M5C 2W7
-    <br /><strong>URL:</strong> <a href="https://eventmobi.com">https://eventmobi.com</a>
-</p>
-
-<div><em>** EventMobi is a remote-first company and this is a remote job. You may reside anywhere in the world to do this job. However, you must be willing to work during Eastern Standard Time business hours. The salary range for this role is between 80k - 120k CAD per annum. This posting is open to all candidates globally.</em></div><div><br></div><div><br></div><div><strong>WHY EVENTMOBI?</strong></div><div><br></div><div>EventMobi is an award winning tech startup with offices in Toronto, Berlin and Manila and over 1500 clients across the globe.  We are on a mission to revolutionize how event planners create, market and manage their events. Millions of attendees around the world experience conferences and events with the help of EventMobi’s event tech platform including clients like Motorola, Ralph Lauren, Nestle, and Intel. </div><div><br></div><div>We’re looking for a Technical Lead to help us tackle challenging engineering problems in an evolving industry. Whether you want to build Progressive Web Apps, work with service &amp; web workers, architectures to manage data services, or manage memory usage &amp; latency of large scale Javascript applications, this is a role that requires you to think holistically about building the next generation of cross-platform mobile &amp; web apps. </div><div><br></div><div>Ideally, you care about good architecture &amp; design, quality, and scalability as part of your work. You enjoy leading and coaching individuals on your team and you're looking for a place where you can approach your problems creatively. You enjoy collaboration with an incredibly smart &amp; talented team and are able to bring your expertise to help shape our technical vision and determine how we will execute on it.</div><div><br></div><div>If this sounds like just the role you've been hoping for, please apply and tell us more about yourself!​</div><div><br></div><div><br></div><div><strong>WHAT YOUR WORK WILL FOCUS ON</strong></div><div><br></div><ul>
-<li>
-<strong>Mentorship</strong> - One of the most senior software developers on staff.  Provide technical mentorship and assistance to a team of 4-7 developers, and create opportunities for professional development.  </li>
-<li>
-<strong>Technical Strategy</strong> - Responsible for EventMobi’s overall software design, helping to align technology with business goals.  Lead research into new technology options, tools or patterns to discover opportunities to create new business value for EventMobi’s customers.  </li>
-<li>
-<strong>Architecture</strong> - Empower and guide technical leads in product and application level architecture choices. Ensure consistency in technology choices and enable experimentation with new tools and approaches where appropriate to drive new business value.  Lead resolution of architecture and technology choices and challenges that cut across all teams. </li>
-<li>
-<strong>Development Best Practices</strong> - Hands on keyboard to provide clarity and support tech leads in expanding standards and writing clean code.  Pair with team members to solve the hardest coding challenges.  Contribute to continuous improvement in our software development processes as we take initiatives from concept, feasibility, and design to implementation, testing, and release.  </li>
-<li>
-<strong>Performance &amp; Scale</strong> - Build measurement frameworks for performance, scalability, etc, including setting expected standards of performance against those metrics in consultation with product management and business stakeholders.  </li>
-</ul><div><br></div><div>
-<br><strong>WHAT YOU WILL BRING TO THE TEAM </strong>
-</div><div><br></div><div><br></div><ul>
-<li>At least 2-3 years of experience managing a team (at least 2 reports, preferably a larger team or multiple teams) of React developers</li>
-<li>6+ years of experience in frontend software development with React</li>
-<li>Experience growing high performing software development teams focused on outcomes versus just outputs.  </li>
-<li>Experience with long-term development, enhancement and maintenance of a SaaS application/platform. </li>
-<li>Skilled in guiding technology and architecture choices with a focus on delivering business value.</li>
-<li>Interest in leading the evolution of an existing code base and architecture versus solely focusing on green field development.   </li>
-<li>Experience with Mobile and Web development (a true polyglot), ideally with proven skills working with React and Capacitor, and RESTful APIs.</li>
-<li>Excellent written and verbal communication.</li>
-<li>A passion for development and solving problems, and a desire to be actively involved in writing code.</li>
-<li>Ideas about everything, the resolve to convey your point clearly, and the graciousness to listen to alternate ideas and choose the best option. You’re constantly thinking “how can we do this better?”</li>
-<li>Experience maintaining Jira and managing the lifecycle of tickets in a cross-team environment.</li>
-<li>Data-driven decision making and experience guiding a team in selecting and achieving realistic-yet-challenging OKRs.</li>
-<li>A passion for growing and supporting your team through 1:1 meetings, mentorship and coaching, and working on career progression plans.</li>
-<li>Ability to think about the big-picture roadmap and technical vision of the product, and integrate those plans into near-term sprint planning and project architecture.</li>
-<li>Confidence in running standups, sprint planning, backlog grooming, and retrospective meetings that align with the company roadmap while balancing maintenance and the needs of the team.</li>
-<li>Eagerness to work with a team of strong, fun-loving developers that love to learn from and teach each other.</li>
-<li>Nice to have a start-up experience.</li>
-<li>Knowledge of DevOps &amp; Infrastructure (AWS) is also nice to have.</li>
-</ul><div><br></div><div><br></div><div><strong>WHAT WILL YOU GET FROM EVENTMOBI?</strong></div><div><br></div><ul>
-<li>We offer the experience of a lifetime working with a dynamic, open-minded and diverse team, who are excited to come to work every day and passionate about what they do and the clients they help.</li>
-<li>Competitive compensation.</li>
-<li>Company Stock-Options.</li>
-<li>A modern MacBook Pro to use for work.</li>
-<li>A great culture with much more along the way.</li>
-</ul><div><br></div><div><br></div><div><strong>REMOTE WORKSPACE REQUIREMENTS: </strong></div><div><br></div><ul>
-<li>You have a safe, comfortable, and ergonomic workspace and working environment - a private and quiet workspace is vital for doing your best work!</li>
-<li>You have a reliable internet connection capable of participating in video calls, with at least 30Mbps download speed</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote-1">https://weworkremotely.com/remote-jobs/eventmobi-frontend-technical-team-lead-remote-1</a></p>
 
                 </details>
                 </td>
