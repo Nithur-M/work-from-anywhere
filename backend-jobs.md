@@ -10,7 +10,7 @@
                     <code>software,defi,crypto,technical,support,financial,lambda,nodejs,mobile,engineer,engineering,backend,full-time</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-backend-phantom-196821" align="right" target="_blank">Apply</a>
@@ -58,7 +58,7 @@
 <li align="left">401(k) retirement plan (although we are not matching at this time)</li>
 <li align="left">Wellness benefit</li>
 <li align="left">Daily lunch benefit</li>
-</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<p></p><br/><br/>Please mention the word **MASTERFULLY** and tag RMTA3LjE3OC4yMzEuMjI3 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br>The target base salary for this role will range between $150,000 to $250,000 with the addition of equity and benefits. This is determined by a few factors including your skillset, prior relevant experience, quality of interviews and market factors (such as location) at the point in time of offer.<p></p><br/><br/>Please mention the word **MASTERFULLY** and tag RMzUuMTY0LjE3Ni4xMjY= when applying to show you read the job post completely (#RMzUuMTY0LjE3Ni4xMjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -73,7 +73,7 @@
                     <code>software,system,security,support,test,code,web,cloud,api,mobile,engineer,backend</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-backend-spruce-196295" align="right" target="_blank">Apply</a>
@@ -102,7 +102,7 @@
 <li>Full-time experience with working remotely.</li>
 <li>Familiarity with operating system internals, compiler internals, memory management, and low level programming.</li>
 <li>Professional experience in a high stakes industry such as cloud infrastructure, finance, healthcare, social media, or online gaming.</li>
-</ul><div>We are passionate about cultivating a thriving culture of diverse individuals who bring unique perspectives to our mission. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.</div><br/><br/>Please mention the word **RECOMMENDATION** and tag RMTA3LjE3OC4yMzEuMjI3 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>We are passionate about cultivating a thriving culture of diverse individuals who bring unique perspectives to our mission. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.</div><br/><br/>Please mention the word **RECOMMENDATION** and tag RMzUuMTY0LjE3Ni4xMjY= when applying to show you read the job post completely (#RMzUuMTY0LjE3Ni4xMjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -117,7 +117,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-backend" align="right" target="_blank">Apply</a>
