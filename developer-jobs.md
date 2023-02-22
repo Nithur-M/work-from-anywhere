@@ -10,7 +10,7 @@
                     <code>developer,web3,ethereum,technical,software,content,engineering,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-relations-spruce-196812" align="right" target="_blank">Apply</a>
@@ -21,7 +21,7 @@
                 <details><summary>Description</summary>
                 <div>The strength of devrel is only as good as the strength of developer evangelists that they organically create. Your job is to create missionaries. Spruce is searching for a proactive individual with exceptional organizational and communication skills for a new Developer Relations position, focused on Sign-In with Ethereum, Decentralized Identity, and Web3. </div><div><br></div><div>At Spruce, we are letting users control their identity and data across the web. We hire individuals who love technology and are committed to intellectual honesty, user privacy, and innovation.</div><div><br></div><div><span style="font-size:18px;">Responsibilities</span></div><div>- Build and grow a dedicated international developer community around Sign-In with Ethereum and Spruceâs libraries and products. </div><div>- Continually produce and maintain content around our libraries and products including spotlights on new features, dapp-building tutorials, and more. This content is well documented and leads to developer conversion from followers, to tinkerers, and finally, contributors. </div><div>- Ensure developers using Spruceâs product documentation never hit a snag, and if they do, those problems are resolved in a timely manner. </div><div>- Partner with organizations, conferences, and projects to build advocacy, brand awareness, and content around Spruceâs Web3 efforts. </div><div>- Attend and represent Spruce at hackathons, conferences, university meetups, and more to get interested developers up and running on Spruceâs products. </div><div><br></div><div>
 <span style="font-size:18px;">Qualifications</span><span style="font-size:12pt;"> </span>
-</div><div>- Previous experience working with and fostering active developer communities. </div><div>- Excellence in technical writing, and the ability to break down complex topics into tutorials and content for developers to follow.</div><div>- Experience working with Web3 developer tools.</div><div>- Comfortable with rapid directional changes of focus in a startup environment. </div><div>- Experience collaborating with diverse project and engineering teams.</div><div>- Ability to handle multiple projects and tasks simultaneously.</div><div><br></div><div><span style="font-size:18px;">Bonus</span></div><div>- Contributions to open-source software projects and technology standards.</div><div>- Full-time experience working remotely.</div><div>We are passionate about cultivating a thriving culture of diverse individuals who bring unique perspectives to our mission. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.</div><br/><br/>Please mention the word **CLEANLY** and tag RMTA3LjE3OC4yMzEuMjI3 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><div>- Previous experience working with and fostering active developer communities. </div><div>- Excellence in technical writing, and the ability to break down complex topics into tutorials and content for developers to follow.</div><div>- Experience working with Web3 developer tools.</div><div>- Comfortable with rapid directional changes of focus in a startup environment. </div><div>- Experience collaborating with diverse project and engineering teams.</div><div>- Ability to handle multiple projects and tasks simultaneously.</div><div><br></div><div><span style="font-size:18px;">Bonus</span></div><div>- Contributions to open-source software projects and technology standards.</div><div>- Full-time experience working remotely.</div><div>We are passionate about cultivating a thriving culture of diverse individuals who bring unique perspectives to our mission. We are committed to equal employment opportunity regardless of race, color, ancestry, religion, sex, national origin, sexual orientation, age, citizenship, marital status, disability, gender identity or Veteran status.</div><br/><br/>Please mention the word **CLEANLY** and tag RMzUuMTY0LjE3Ni4xMjY= when applying to show you read the job post completely (#RMzUuMTY0LjE3Ni4xMjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -36,7 +36,7 @@
                     <code>developer,defi,ethereum,software,growth,code,js,financial,finance,typescript,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-smart-contract-developer-oasis-app-196303" align="right" target="_blank">Apply</a>
@@ -69,7 +69,104 @@
 <li align="left">Yearly Dai Bonus Scheme</li>
 <li align="left">5 weeks time off and public holidays</li>
 <li align="left">Approved expenses coverage</li>
-</ul><br/><br/>Please mention the word **WOO** and tag RMTA3LjE3OC4yMzEuMjI3 when applying to show you read the job post completely (#RMTA3LjE3OC4yMzEuMjI3). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **WOO** and tag RMzUuMTY0LjE3Ni4xMjY= when applying to show you read the job post completely (#RMzUuMTY0LjE3Ni4xMjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7016/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Bottomless</h5>
+                    <h3> Senior Full Stack Developer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-6" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0081/7016/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Seattle, Wa
+    <br /><strong>URL:</strong> <a href="https://www.bottomless.com/">https://www.bottomless.com/</a>
+</p>
+
+<div>We are looking for a jack-of-all-trades <strong><em>senior</em></strong> javascript/full stack developer.<br><br>The ideal candidate for this position would be able to dive into any kind of project, from frontend UI/UX tasks in React.js to backend tasks running on Node.js.<br><br>If you’re interested in variety and working hard to build something big, this might be a good fit.<br><br>We need to achieve <em>80% of the results with 20% of the effort</em>.<br><br><strong>Responsibilities:</strong>
+</div><ul>
+<li>Design and build infrastructure and products for a sensor-enabled e-commerce marketplace.</li>
+<li>Build robust infrastructure to support existing product lines and the ability to roll out new ones.</li>
+<li>Responsibility over the user-facing product</li>
+<li>Quick iteration on different fronts from fronted UX changes to database design to quick and dirty implementations.</li>
+<li>Responsible for full deployment and testing of applications.</li>
+</ul><div><br></div><div><strong>Skill, Qualifications, and Experience:</strong></div><div><br></div><div><em>Expert proficiency required:</em></div><ul>
+<li>Node.js</li>
+<li>NoSQL databases</li>
+<li>React.js</li>
+<li>English (written and verbal)</li>
+</ul><div><br></div><div><em>Intermediate proficiency, at a minimum:</em></div><ul>
+<li>UI/UX design</li>
+<li>Software architecture</li>
+</ul><div>
+<br>Not required, but a plus:</div><ul>
+<li>Python (background tasks)</li>
+<li>Embedded systems (C++)</li>
+</ul><div> <br><strong>Details:</strong>
+</div><ul>
+<li>Remote OK. Must be flexible with hours as we have a remote international team.</li>
+<li>Competitive equity and cash compensation</li>
+</ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-6">https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-6</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/2870/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>iPhone Photography School</h5>
+                    <h3> IOS Developer </h3>
+                </td>
+                <td width="300">
+                    <code>Front-End Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/iphone-photography-school-ios-developer-1" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/2870/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Riga, Latvia
+    <br /><strong>URL:</strong> <a href="https://iphonephotographyschool.com/">https://iphonephotographyschool.com/</a>
+</p>
+
+<div><strong>What’s iPhone Photography School all about?</strong></div><div><br></div><div>We make online courses that help people take stunning photos with the iPhone.</div><div><br></div><div>With our 9-year track record, we’re the world’s leader in mobile photography education.</div><div><br></div><div>And while we’re proud of everything we’ve accomplished so far, we’re just getting started.</div><div><br></div><div>And this is why we are looking for an experienced iOS Developer to join our team.</div><div><br></div><div><br></div><div><strong>What will you be doing as our iOS developer?</strong></div><div><br></div><ul>
+<li>Building our flagship iOS learning app to be used by over 500k active customers</li>
+<li>Working closely with our design team to deliver an outstanding user experience</li>
+<li>Collaborating with our backend development team to build the API used by the app</li>
+<li>Continuously developing new features for our customers after the app is launched</li>
+<li>Helping to problem solve and fix any issues that arise in production</li>
+</ul><div><br></div><div><br></div><div><strong>What’s in it for me?</strong></div><div><br></div><div>Of course this can’t all be one-sided, and we believe that we provide one of the best remote working environments in the world.</div><div><br></div><div>State of the art software to stay connected and organized? We’ve got that.</div><div><br></div><div>Investing both time and money in your learning to ensure that you continually grow? We do that.</div><div><br></div><div>Flexible working schedule to ensure that you maintain a healthy work-life balance? Well that’s a no-brainer.</div><div><br></div><div><br></div><div><strong>But should you apply?</strong></div><div><br></div><div>This is not a decision we can make for you, but what we can do is lay out our Purpose, Values and Mission to help you decide for yourself.</div><div><br></div><div>As a company we believe in honesty and transparency, and once you click the apply button you will have the chance to learn all about us before you decide on whether to submit your application.</div><div><br></div><div>Hiring the best candidate is very important to us, but equally important is hiring the <strong>right </strong>candidate. Only apply if you really identify with what you read on the next page.</div><div><br></div><div><br></div><div><strong><em>Note: This is a 100% remote full-time position. Due to time zone differences, we won’t be able to hire applicants residing in Australia or the eastern parts of Asia.</em></strong></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/iphone-photography-school-ios-developer-1">https://weworkremotely.com/remote-jobs/iphone-photography-school-ios-developer-1</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -84,7 +181,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>35 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-vue-js-developer" align="right" target="_blank">Apply</a>
@@ -282,41 +379,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/2041/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Toggl</h5>
-                    <h3> Remote Backend Developer (Golang)</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>64 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/toggl-remote-backend-developer-golang-2" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/2041/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Tallinn, Estonia
-    <br /><strong>URL:</strong> <a href="https://toggl.com/jobs/">https://toggl.com/jobs/</a>
-</p>
-
-<div>
-<br>We are looking for a Backend Developer to join our engineering team as we have too many ideas and not enough developers :)<br><br>The salary for this position is **€66,000** annually, plus great benefits (see below). We are committed to increasing salaries every year based on company and individual performance. <br><br>You can work **from anywhere in Europe.**<br><br><strong>About the team</strong><br><br>Toggl Hire is on a mission to revolutionize the way hiring happens. We are big believers that modern day recruiting should be effortless and enjoyable. That means no more resumes or cover letters, no more endless hours screening through applications, no more interpreting past roles into current experience, no more bias and gut feeling, but informed decisions based on data.<br><br>We are a fully remote team, with headquarters in Tallinn, Estonia. We are highly skilled, highly motivated, and most importantly, a fun, friendly bunch. We value transparency, communication and results over effort and excuses. We have regular in-person meetups all over the world!<br><br>The engineering team has a Product Manager, a Designer, a Lead Engineer, 3 frontend and 3 backend developers. We also help the other 2 developers focusing on the growth experiments and their Product Manager. <br><br>We have been recently named as one of the best remote companies to work at.  <br><br><strong>The role</strong><br><br>As a Backend Developer your main responsibilities will be: <br><br>- Working independently with minimal supervision and handholding<br>- Building and maintaining product features, ensuring performance, security and scalability<br>- Finding best possible technical solution for new features implementation<br>- Contributing to technical design and architecture with a steep growth in mind<br>- Doing code reviews or researching and implementing new tools when needed.<br><br><strong>About you/Requirements</strong><br><br>You will fit in well in our team if:<br><br>- You have demonstrated strong experience working with large SaaS data infrastructure.<br>- You take pride in developing blazing fast, reliable, scalable and secure applications.<br>- You are a great team-player and communicator when working with anyone from engineers to specialists like product managers and when working with other teams, and with your manager and other stakeholders. You are responsive to feedback and always seek to learn and improve.<br>- You can come up with creative approaches to problem solving and can provide feedback to others on their work, be it your fellow developers, the designer or the product manager<br>- You always approach new challenges with a critical thinking mindset and make sure to look at the big picture.<br>- You want to take ownership and work independently while being part of a tight-knit team.<br>- You have efficient time management skills as well as the eagerness to learn new skills and tools are something you value.<br>- You have a strong engineering background and enjoy the startup life. You have seen many projects through from conception to delivery.<br><br>The main technologies you will be working with are:<br><br>- Golang, PostgreSQL, GraphQL, Heroku, AWS, CircleCI.<br><strong><br>Some benefits</strong><br><br>- Freedom to choose when and how much you work - we only measure results<br>- 24 days of paid time off a year, plus your local holidays<br>- In-person meetups for team-building (expenses covered)<br>- 4-6 weeks paid sabbatical (depending on the tenure)<br>- Laptop budget up to €2,500 and it renews every 3 years<br>- €2,000 budget to set up your home office, and additional €300 every year after 3 years of tenure<br>- €250 per month for co-working space membership and/or internet service at home<br>- €4,000 per year contribution to use for training, workshops, and conferences<br>- €2,000 per year contribution for any equipment or services to improve and/or maintain your physical and mental health<br>- Support for buying tools you need for doing your best work (even eyeglasses if you need a new pair)</div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/toggl-remote-backend-developer-golang-2">https://weworkremotely.com/remote-jobs/toggl-remote-backend-developer-golang-2</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/8558/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -327,7 +389,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>122 days ago</text>
+                <text>123 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/designfiles-remote-ruby-on-rails-developer" align="right" target="_blank">Apply</a>
@@ -604,7 +666,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>571 days ago</text>
+                <text>572 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/a-team-senior-independent-software-developer-110-190-hr" align="right" target="_blank">Apply</a>
@@ -739,7 +801,7 @@
                     <code>developer,fullstack,ui,design</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-remix-full-stack-developer-1583816" align="right" target="_blank">Apply</a>
@@ -767,7 +829,7 @@
                     <code>developer,git,mobile,ui</code>
                 </td>
                 <td width="200">
-                <text>6 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-unity-developer-1583815" align="right" target="_blank">Apply</a>
@@ -892,7 +954,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -969,7 +1031,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -995,7 +1057,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>22 days ago</text>
+                <text>23 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
