@@ -1,5 +1,106 @@
 <div align="center"><h2>FULLSTACK JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/1851/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Sitemate</h5>
+                    <h3> Senior Mobile / Full Stack Engineer (SaaS)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/sitemate-senior-mobile-full-stack-engineer-saas" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0082/1851/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Sydney, Australia
+    <br /><strong>URL:</strong> <a href="https://sitemate.com">https://sitemate.com</a>
+</p>
+
+<div>👋 Thanks for stopping by and learning more about this role at Sitemate! ✨🏗️</div><div><br></div><div>We’d love to hear from you 🙂 👩‍💻👩🏽‍💻🧑🏿‍💻👨🏻‍💻</div><div><br></div><div><strong>Brief overview of this role at Sitemate:</strong></div><ul>
+<li>We are looking for a senior level mobile / full stack software engineer to join our engineering team and lead our two React Native mobile projects.</li>
+<li>This role would be great for you if you are looking for more technical authority and autonomy around your work on mobile projects. Maybe you are working in a bigger team and don’t have any opportunities to take a lead role. Maybe you’ve worked in startups or had your own startup that has finished up, and you want to join a startup team that move quickly and place a huge emphasis on product and engineering.</li>
+<li>You will have opportunities such as becoming a foundational member of our engineering team, regardless of your location. You will have the opportunity to pull responsibility and technical ownership off of our CTO’s ‘plate’, and make it your own area of expertise. You will have the opportunity to learn (and improve) complex mobile-specific challenges such as sharing components between mobile applications, full offline mode, real-time syncing between mobile and web and native multimedia uploading. You will have direct engagement, collaboration and communication with our Head of Product, Head of Design &amp; UX and product-focused CEO.</li>
+</ul><div><br></div><div><strong>Employment Type:</strong></div><ul>
+<li>Full-time.</li>
+<li>Preferred Based: Melbourne, Sydney, Remote Australia, America, Canada, Vancouver, Brazil, Asia (Philipines, Vietnam, Thailand, Malaysia, Indonesia) *</li>
+<li>Remuneration: AUD $130K-$220K</li>
+</ul><div><br></div><div><strong>Why should I consider joining Sitemate?</strong></div><ul>
+<li>Check out Sitemate’s team at the 2022 offsite: <a href="https://youtu.be/DEPrINm_6So">https://youtu.be/DEPrINm_6So</a>
+</li>
+<li>You can see what people really think about working at Sitemate here: <a href="https://www.glassdoor.com.au/Overview/Working-at-Sitemate-EI_IE3008131.11,19.htm">https://www.glassdoor.com.au/Overview/Working-at-Sitemate-EI_IE3008131.11,19.htm</a>
+</li>
+<li>Listen to CEO Hartley Pike speak about the company’s founding and broader Go To Market strategy: <a href="https://www.linkedin.com/feed/update/urn:li:activity:6980676710161661952/">https://www.linkedin.com/feed/update/urn:li:activity:6980676710161661952/</a>
+</li>
+<li>Listen to CTO Tim Bray speak about building high quality features that solve customer problems at Sitemate: <a href="https://open.spotify.com/episode/7geTCUHFxZUKZ8Yrae4iR7">https://open.spotify.com/episode/7geTCUHFxZUKZ8Yrae4iR7</a>
+</li>
+<li>We have equal opportunity for applicants of all genders, ethnicity and sexualities - Sitemate's team is proudly diverse.</li>
+<li>You will have flexible working options - our team is a blend of fully remote and hubs around offices. People based in hub cities typically work in the office 2-3 days per week, and 2-3 days working from home.</li>
+<li>You will be remunerated based on your performance. If you are performing well, you won’t need to wait 3 years or have to find better offers elsewhere to receive an increase to your remuneration. 7 out of the last 10 remuneration increases for Sitemate team members have been made pro-actively by management, without the individual needing to even raise the topic of remuneration.</li>
+<li>You will get a laptop and a budget to set up your home office (standing desk, monitor, headphones etc).</li>
+<li>You will be able to attend company-sponsored training, workshops or conferences that help with your role.</li>
+<li>You will get additional benefits and support as parents - with paid leave for both primary and secondary carers (includes adoption), as well as support and leave for the tragic circumstances of stillbirth.</li>
+<li>You will get equity options and ownership in Sitemate on a standard vesting schedule. See here a general overview of how this works: <a href="https://legalvision.com.au/5-essential-elements-employee-share-scheme/">https://legalvision.com.au/5-essential-elements-employee-share-scheme/</a>
+</li>
+<li>Sitemate has grown from 5 people in 2018 to now over 40, and we’re now moving into the next stage of growing to 100 people! We have a product that customers are strongly engaged with, and every month we get around 300-400 new leads whilst spending $0 on marketing and 0 cold calling.</li>
+<li>Sitemate’s founders have diverse backgrounds - one with coming from engineering on major infrastructure projects such as roads, bridges and tunnels, the second coming from product and graphic design. This brings a unique perspective internally where we blend deep industry experience with a passion (obsession) for modern best practices in product design.</li>
+<li>Sitemate graduated from Australia’s #1 Technology Company Accelerator - Startmate (complete coincidence on the names… 😅).</li>
+<li>Sitemate has strong financial backing from Blackbird (Australia and NZ’s #1 Vc) and Shearwater Growth Capital (founded by two Directors of WiseTech - a $14B software company for the logistics industry).</li>
+</ul><div><br></div><div><strong>What is the working environment like at Sitemate?</strong></div><ul>
+<li>We are very transparent - monthly allhands meetings provide the team with direct insight into team updates, customer stories, hiring plans and key metrics (NPS, Revenue, Financial Performance). During this allhands meeting we also hear one ‘life story’ from one of our team each month - learning about different countries and cultures around the world.</li>
+<li>We place an extremely high value on your time - you won’t be spending your days wasting time on fighting internal systems, botched together spreadsheet processes or doing data entry.</li>
+<li>We use best in class systems that are seamlessly integrated to deliver our team the right information at the right time, allowing them to get their work done efficiently and to a very high standard.</li>
+<li>You will have a core and close team around you, but you will also be exposed to and working directly with multiple departments - engineering, product, design, marketing, sales and customer success.</li>
+<li>You will have a high degree of autonomy, as the focus is on outcomes and not hours. If you want to block off a few hours to run a personal errand - no worries. If you want to block off an hour to pick up the kids from school - no worries. No one will be monitoring your time.</li>
+<li>We are constantly working to minimise the number of group meetings - daily check ins are all done asynchronously (in your own time) each morning. But spontaneous 1:1s or small sessions are strongly encouraged!</li>
+</ul><div><br></div><div><strong>What does Sitemate do, exactly?</strong></div><ul>
+<li>Sitemate builds best in class software products for the built world.</li>
+<li>Industrial companies operating in the built world are facing a number of mission critical challenges - changes in work behaviour due to covid-19, Generation Z starting to enter the workforce as mobile first users of software, and the drastic shift away from traditional mining to renewable energy projects such as wind farms and solar farms.</li>
+<li>See here an example wind farm project that is powered by Sitemate: <a href="https://roadbridge.ie/projects/beinn-an-tuirc-windfarm-phase-3/">https://roadbridge.ie/projects/beinn-an-tuirc-windfarm-phase-3/</a>
+</li>
+<li>See here an example solar farm project that is powered by Sitemate: <a href="https://newenglandsolarfarm.com.au/the-project/">https://newenglandsolarfarm.com.au/the-project/</a>
+</li>
+<li>Our first product - Dashpivot, is a platform where industrial style companies streamline and standardise their processes in a new digital format. This new digital format enables them to complete and track work in the field on a mobile or tablet, and automate repetitive tasks and tracking through automated workflows and real-time analytics.</li>
+</ul><div><br></div><div>See some of our user reviews for Dashpivot here:</div><ul>
+<li>Capterra:<a href="https://capterra.com/p/178010/Dashpivot/">https://capterra.com/p/178010/Dashpivot/</a>
+</li>
+<li>G2 Crowd: <a href="https://www.g2.com/products/dashpivot/reviews">https://www.g2.com/products/dashpivot/reviews</a>
+</li>
+<li>Trust Radius: <a href="https://www.trustradius.com/products/dashpivot-by-sitemate/reviews?o=recent">https://www.trustradius.com/products/dashpivot-by-sitemate/reviews?o=recent</a>
+</li>
+</ul><div><br></div><div><strong>What will I be doing day to day in this role?</strong></div><ul>
+<li>Take technical ownership of our two mobile products &amp; their backends - developing new features, fixing bugs, re-architecting core components functions.</li>
+<li>Inheriting the technical vision for our mobile products from our CTO, improving it, and ensuring all work day to day is working towards this technical vision.</li>
+<li>Working closely with our delivery team (product owner &amp; QA Engineers), product team and broader engineering team. As a senior engineer, you will be expected to coordinate the mobile projects and will be the point of contact for our CTO and CEO.</li>
+<li>Assisting our delivery team with diagnosing any production issues by investigating bugsnag and datadog logs, and then creating hotfix releases accordingly.</li>
+</ul><div><br></div><div><strong>What will be the biggest challenges for me in this role?</strong></div><ul>
+<li>As you will be working directly with our CTO (a former founder) and our Founder/CEO, you will need to be able to manage communication, problem solving and your own technical execution/contributions.</li>
+<li>You will need to be acutely aware of your own productivity and ensure that you are always driving towards outcomes that will impact users.</li>
+<li>Our mobile products seem simple to our users, but contain a high degree of technical complexity - from shared components across multiple mobile apps, to backend services that only serve the mobile client - there will be a lot to learn.</li>
+<li>We will be completely re-architecting our product’s hierarchy in the next 12 months from a rigid tree/folder structure to a flexible tree/folder structure, which will nearly certainly require refactoring every part of our product 🙃.</li>
+</ul><div><br></div><div><strong>What kind of skills and experience do I need to have? (Ideally most but not all)</strong></div><ul>
+<li>Javascript/Typescript experience is preferred.</li>
+<li>React Native experience is preferred.</li>
+<li>Node, Serverless &amp; AWS experience a bonus.</li>
+<li>MongoDB &amp; DynamoDB experience is a bonus.</li>
+<li>Native mobile experience is a bonus (as per above, we are planning on forking a portion of our React Native app to enable the usage of native components for multimedia uploading).</li>
+</ul><div><br></div><div><strong>FAQs</strong></div><div><br></div><div><strong>What does the application and interview process look like? And how long does it take?</strong></div><div>Once you have expressed interest, we have an online application form that is connected to our internal systems. Following on from this, we have a combination of an online self service quiz and interviews. Usually it will only take a day or two to hear an update on next steps, and the overall process for those who make it all the way through, will usually take a couple of weeks.</div><div><br></div><div>*Note for remote candidates - Sitemate has a standardised COL (Cost of Living) multiplier that is applied to the remuneration bands shown, based on your location, it may go up or down.</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sitemate-senior-mobile-full-stack-engineer-saas">https://weworkremotely.com/remote-jobs/sitemate-senior-mobile-full-stack-engineer-saas</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/7327/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +111,7 @@
                     <code>Full-Stack Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/visible-full-stack-engineer-1" align="right" target="_blank">Apply</a>
