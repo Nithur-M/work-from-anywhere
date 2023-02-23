@@ -1,5 +1,127 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/732e8d9eb3e2bac0a8310e78d15d65721677050158.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Stellar</h5>
+                    <h3>Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,react,system,full-stack,technical,support,testing,growth,code,web,voice,financial,java,typescript,mobile,management,senior,engineer,engineering,backend,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-stellar-198328" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                Interested in working on cutting-edge blockchain technology and creating equitable access to the global financial system? Since 2014, the mission-driven team at the Stellar Development Foundation (SDF) has helped fuel the tremendous growth of the Stellar blockchain network, an open-source platform that operates at high-scale today. Developers and companies around the world build on it, and the SDF team is expanding to support the rapidly growing and changing Stellar ecosystem.<p>As a Senior Software Engineer on the Wallets team, your goal will be to architect, design and build SDKs that empower developers in the Stellar ecosystem to build their own highly customizable wallets. As the blockchain landscape continues to change and evolve, we want to ensure people can jump into our ecosystem as easily as possible.Â To do this, you will help build flagship SDKs along with a small team of engineers innovating and building other types of wallets for developers in our ecosystem.Â </p><p>Your work on the flagship SDKs will provide users of the Stellar networkÂ fully featured SDKs that enable all of the networkâs capabilities to be customized by the ecosystem. On top of providing end users the ability to easily interact with the Stellar network, you will also be collaborating with the rest of the team on creating optimal user experiences for Stellar network features. The flagship SDKs are a greenfield project and your opportunity to make a big impact and provide the ecosystem with the tools so they can fully customize and build wallets on the Stellar Network.Â <br>Stellar is an open network and we encourage developers from all over the world and all skill levels to build with us. <br></p><h3></h3><br><h3>
+<b>In this role, you will:</b>Â </h3><br><ul>
+<li align="left">Work on cutting edge technology at the intersection of blockchain and finance</li>
+<li align="left">Design solutions with developers and ecosystem partners in mind</li>
+<li align="left">Collaborate with Product leaders to create best in class implementations of first of their kind Stellar SDKs</li>
+<li align="left">Work with the product management team to develop features and iterate over time with feedback from users</li>
+<li align="left">Write code using current standards like Typescript, Kotlin, React, and Jest in an open source environment</li>
+<li align="left">Build with modern tools, we'd look to you and your expertise to make those decisions</li>
+<li align="left">Collaborate with team members on code review and design, and contribute to best practices for all of engineering at SDF</li>
+<li align="left">Architect code with an eye for readability as well as scalability</li>
+</ul><br><h3><b>You have:Â </b></h3><br><ul>
+<li align="left">5+ years creating Mobile Apps and/or full-stack and web applications</li>
+<li align="left">Proficiency with Typescript & Kotlin</li>
+<li align="left">Knowledge of backend systems</li>
+<li align="left">Familiarity with databases and data storage</li>
+<li align="left">Knowledge of modern testing libraries</li>
+<li align="left">Independent and results driven. Skilled at working in an environment with dynamic objectives.</li>
+<li align="left">The ability to be a fast learner and a strong problem solver</li>
+</ul><br><h3><b>Bonus Points if you have:</b></h3><br><ul>
+<li align="left">React and React Native Experience</li>
+<li align="left">Swift or Java (for Mobile app development)</li>
+<li align="left">Experience deploying web applications using Kubernetes and Docker</li>
+<li align="left">Experience as a tech lead</li>
+</ul><br>We offer competitive pay with a base salary range for this position of $145,000- $190,000 depending on job-related knowledge, skills, experience, and location. In addition, we offer lumen-denominated grants along with the following perks and benefits:<p></p><h3><b>USA Benefits/Perks:</b></h3><br><ul>
+<li align="left">Competitive health, dental & vision coverage</li>
+<li align="left">Flexible time off + 15 company holidays including a company-wide holiday break</li>
+<li align="left">Paid parental leave</li>
+<li align="left">Life & ADD</li>
+<li align="left">Short & Long term disability</li>
+<li align="left">FSA & Dependent Care Accounts</li>
+<li align="left">401K (4% match)</li>
+<li align="left">Employee Assistance Program</li>
+<li align="left">Monthly gym allowance</li>
+<li align="left">Daily lunch and snacks in-office</li>
+<li align="left">L&D budget of $1,500/year</li>
+<li align="left">Company retreats</li>
+</ul>Â <br><h3><b>About Stellar</b></h3><br>Stellar is a decentralized, fast, scalable, and uniquely sustainable network for financial products and services. It is both a cross-currency transaction system and a platform for digital asset issuance, designed to connect the worldâs financial infrastructure. Dozens of financial institutions worldwide issue assets and settle payments on the Stellar network, which has grown to over 7 million accounts.Â Â Â <br>Â <br><h3><b>About the Stellar Development Foundation</b></h3><br>The Stellar Development Foundation (SDF) is a non-profit organization that supports the development and growth of Stellar, an open-source network that connects the worldâs financial infrastructure. Founded in 2014, the Foundation helps maintain Stellarâs codebase, supports the technical and business communities building on the network, and serves as a voice to regulators and institutions. The Foundation seeks to create equitable access to the global financial system, using the Stellar network to unlock the worldâs economic potential through blockchain technology.<br>Â <br>We look forward to hearing from you!<br>Â <br><h3><b>Privacy Policy</b></h3><br>By submitting your application, you are agreeing to our use and processing of your data in accordance with ourÂ <span style=""><a class="bbcode-link" href="https://www.stellar.org/privacy-policy?locale=en" target="_blank" rel="noopener noreferrer nofollow">Privacy Policy</a></span>.<br>Â <br><i>SDF is committed to diversity in its workforce and is proud to be an equal opportunity employer. SDF does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law.</i><br/><br/>Please mention the word **DAUNTLESS** and tag RNTQuMjAyLjk3LjIxMg== when applying to show you read the job post completely (#RNTQuMjAyLjk3LjIxMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/732e8d9eb3e2bac0a8310e78d15d65721677050156.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Stellar</h5>
+                    <h3>Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,system,technical,support,developer,growth,code,web,voice,financial,java,c++,api,lead,senior,engineer,engineering,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-stellar-198326" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h3><b>Open to remote candidates in the USA</b></h3><p>Interested in working on cutting-edge blockchain technology and creating equitable access to the global financial system? Since 2014, the mission-driven team at the Stellar Development Foundation (SDF) has helped fuel the tremendous growth of the Stellar blockchain network, an open-source platform that operates at high-scale today. Developers and companies around the world build on it, and the SDF team is expanding to support the rapidly growing and changing Stellar ecosystem.Â <br>SDF is working on projects that push the envelope on Blockchain technology, from cross-chain interoperability to decentralized finance. This work allows underserved populations to take part in exciting new financial systems.Â <br>As a Senior Software Engineer, you will work on mission-critical infrastructure for the Stellar network. The platforms, APIs and tools you build are the principal way that the ecosystem interacts with the Stellar blockchain. Your work is high-impact, supporting all developers and all projects building on the Stellar blockchain. You will create new tools, improve the experience of using Stellar, implement critical performance optimisations to run at scale, and, as the network continues to evolve, design new architectures to support future challenges.<br>SDF has a robust engineering ladder, with clear growth paths for both individual contributors and managers.<br></p><h3></h3><br><h3>
+<b>In this role, you will:</b>Â </h3><br><ul>
+<li align="left">Work on tech at the cutting edge of the intersection between blockchain and finance.</li>
+<li align="left">Be involved with all aspects of the development process for platform projects - from vision to final implementation.</li>
+<li align="left">Design new platform functionality with the corresponding APIs for external developers.</li>
+<li align="left">Build and maintain web services to support the foundationâs mission.</li>
+<li align="left">Identify patterns in developer needs and design new protocols and services to increase developer velocity across our entire ecosystem.</li>
+<li align="left">Engage with our community of open source developers on projects that encompass many different frameworks, languages, and ideas.</li>
+<li align="left">Collaborate with the team on code review and design, and contribute to best practices for all of engineering at SDF.</li>
+<li align="left">Investigate and refactor performance bottlenecks in order to continue scaling our API services.</li>
+<li align="left">Author detailed technical feature and protocol (RFC) specifications - we take design seriously, and we encourage everyone to be a part of our RFC processes.</li>
+</ul><h3></h3><br><h3><b>You have:Â </b></h3><br><ul>
+<li align="left">4+ years of experience developing software on a team.</li>
+<li align="left">Strong computer science fundamentals: data structures, algorithms, distributed systems, and information retrieval.</li>
+<li align="left">Written server applications in languages such as Go, Python, Rust, C#, Java or C++ and are a language polyglot.</li>
+<li align="left">Experience in supporting production web services at scale.</li>
+<li align="left">Great communication skills and can advocate and lead technical discussions, especially during the design and code review process.</li>
+<li align="left">A solid understanding of software design patterns, and how to build components that are reusable, extensible, and modular.</li>
+<li align="left">Knowledge of existing frameworks and open source tools and are willing to build new frameworks when open ones do not exist.</li>
+<li align="left">A passion for performance debugging and benchmarking.</li>
+<li align="left">Enthusiasm about working on a small, growing team where you'll be given a lot of autonomy.</li>
+<li align="left">Openness, empathy, and care about putting the best ideas forward in a collaborative and helpful manner.</li>
+</ul><br><h3><b>Bonus points if:Â </b></h3><br><ul>
+<li align="left">You have a BS or MS in Computer Science or equivalent field.</li>
+<li align="left">You have a strong curiosity in blockchain technologies and cryptocurrencies, and understand the fundamentals of these systems.</li>
+</ul><br>We offer competitive pay with a base salary range for this position of $145,000 - $190,000 depending on job-related knowledge, skills, experience, and location. In addition, we offer lumen-denominated grants along with the following perks and benefits:<p></p><h3><b>USA Benefits/Perks:</b></h3><br><ul>
+<li align="left">Competitive health, dental & vision coverage</li>
+<li align="left">Flexible time off + 15 company holidays including a company-wide holiday break</li>
+<li align="left">Paid parental leave</li>
+<li align="left">Life & ADD</li>
+<li align="left">Short & Long term disability</li>
+<li align="left">FSA & Dependent Care Accounts</li>
+<li align="left">401K (4% match)</li>
+<li align="left">Employee Assistance Program</li>
+<li align="left">Monthly gym allowance</li>
+<li align="left">Daily lunch and snacks in-office</li>
+<li align="left">L&D budget of $1,500/year</li>
+<li align="left">Company retreats</li>
+</ul>Â <br><h3><b>About Stellar</b></h3><br>Stellar is a decentralized, fast, scalable, and uniquely sustainable network for financial products and services. It is both a cross-currency transaction system and a platform for digital asset issuance, designed to connect the worldâs financial infrastructure. Dozens of financial institutions worldwide issue assets and settle payments on the Stellar network, which has grown to over 7 million accounts.Â Â Â <br><h3>Â </h3><br><h3><b>About the Stellar Development Foundation</b></h3><br>The Stellar Development Foundation (SDF) is a non-profit organization that supports the development and growth of Stellar, an open-source network that connects the worldâs financial infrastructure. Founded in 2014, the Foundation helps maintain Stellarâs codebase, supports the technical and business communities building on the network, and serves as a voice to regulators and institutions. The Foundation seeks to create equitable access to the global financial system, using the Stellar network to unlock the worldâs economic potential through blockchain technology.<br>Â <br>We look forward to hearing from you!<br>Â <br><h3><b>Privacy Policy</b></h3><br>By submitting your application, you are agreeing to our use and processing of your data in accordance with ourÂ <span style=""><a class="bbcode-link" href="https://www.stellar.org/privacy-policy?locale=en" target="_blank" rel="noopener noreferrer nofollow">Privacy Policy</a></span>.<br>Â <br><i>SDF is committed to diversity in its workforce and is proud to be an equal opportunity employer. SDF does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law.</i><br/><br/>Please mention the word **NEATLY** and tag RNTQuMjAyLjk3LjIxMg== when applying to show you read the job post completely (#RNTQuMjAyLjk3LjIxMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/b9a394e8d22e645d3c9c3852e1b97cb81676963803.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +132,7 @@
                     <code>software,design,crypto,cryptocurrency,system,ceo,technical,testing,code,web,financial,finance,fintech,bank,api,health,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-staff-software-engineer-signing-paxos-197819" align="right" target="_blank">Apply</a>
@@ -74,7 +196,7 @@
 </ul>
 <p>Our Paxos team is made up of passionate people from all over the world with different perspectives and experiences. If this opportunity excites you, but your experience doesnât perfectly match the descriptionâ¦apply! Unique voices help us build a more transparent and open economy.</p>
 <p><span style="font-weight:400;">#LI-SI1</span></p>
-<p><span style="font-weight:400;">#LI-REMOTE</span></p><br/><br/>Please mention the word **BRILLIANT** and tag RMzUuMTY0LjE3Ni4xMjY= when applying to show you read the job post completely (#RMzUuMTY0LjE3Ni4xMjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><span style="font-weight:400;">#LI-REMOTE</span></p><br/><br/>Please mention the word **BRILLIANT** and tag RNTQuMjAyLjk3LjIxMg== when applying to show you read the job post completely (#RNTQuMjAyLjk3LjIxMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -89,7 +211,7 @@
                     <code>crypto,defi,blockchain,web3,software,design,react,technical,test,ui,javascript,finance,fintech,typescript,mobile,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-cake-defi-197310" align="right" target="_blank">Apply</a>
@@ -124,7 +246,7 @@
 <p> </p><div class="content-conclusion">
 <p>We want to transform and decentralise finance with tomorrowâs technology. This is where you come in. Join a company that is at the forefront of bleeding-edge innovations in blockchain and DeFi. You will be empowered to push boundaries and think out of the box. You will get to work with a bunch of ridiculously motivated and talented people. And most importantly, you'll have fun. The best places to work at, are often also the most fun to work at. That's us.</p>
 <p>We hire based on merit, fit, and strong alignment to our culture. Our culture is defined by 7 team principles: Integrity, Resourcefulness, Ownership, Meritocratic Decision-making, Customer Obsession, Radical Candour, and Passion. These 7 principles guide our company, our people, and our work. At Cake DeFi, our culture is our pride. It has been instrumental to our success, so we are steadfast in our commitment to it. We welcome you to add to it.</p>
-</div><br/><br/>Please mention the word **GAINING** and tag RMzUuMTY0LjE3Ni4xMjY= when applying to show you read the job post completely (#RMzUuMTY0LjE3Ni4xMjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **GAINING** and tag RNTQuMjAyLjk3LjIxMg== when applying to show you read the job post completely (#RNTQuMjAyLjk3LjIxMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -139,7 +261,7 @@
                     <code>software,bitcoin,architect,technical,support,developer,javascript,cloud,nosql,strategy,senior,go,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-hiro-196810" align="right" target="_blank">Apply</a>
@@ -165,7 +287,7 @@
 <div><i>Weâd love to hear from you even if you donât have experience or interest in every bullet. Thereâs no perfect candidate and we want to find the right fit, even if itâs different than we imagine. We especially would like to meet underrepresented/underestimated candidates.</i></div>
 <div><br></div>
 <div><i>Hiro is proud to be an equal opportunity employer and deeply cares about building a diverse team. Hiro is committed to building an inclusive environment for people of all backgrounds. We do not discriminate on the basis of race, color, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by law.</i></div>
-</ul><div><br></div><br/><br/>Please mention the word **TREMENDOUSLY** and tag RMzUuMTY0LjE3Ni4xMjY= when applying to show you read the job post completely (#RMzUuMTY0LjE3Ni4xMjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><br></div><br/><br/>Please mention the word **TREMENDOUSLY** and tag RNTQuMjAyLjk3LjIxMg== when applying to show you read the job post completely (#RNTQuMjAyLjk3LjIxMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -180,7 +302,7 @@
                     <code>software,design,amazon,defi,crypto,cryptocurrency,system,frontend,test,code,web,javascript,investment,nodejs,php,git,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-nobi-196804" align="right" target="_blank">Apply</a>
@@ -216,7 +338,7 @@
 <li>Knowledgeable on software design pattern</li>
 <li>Understanding the principles of application security</li>
 <li>Blockchain or Crypto enthusiast</li>
-</ul></div><br/><br/>Please mention the word **FIDELITY** and tag RMzUuMTY0LjE3Ni4xMjY= when applying to show you read the job post completely (#RMzUuMTY0LjE3Ni4xMjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul></div><br/><br/>Please mention the word **FIDELITY** and tag RNTQuMjAyLjk3LjIxMg== when applying to show you read the job post completely (#RNTQuMjAyLjk3LjIxMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -231,7 +353,7 @@
                     <code>crypto,defi,blockchain,web3,software,design,amazon,security,support,growth,web,devops,finance,fintech,cloud,api,management,reliability,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-cake-defi-196797" align="right" target="_blank">Apply</a>
@@ -273,82 +395,63 @@
 <p> </p><div class="content-conclusion">
 <p>We want to transform and decentralise finance with tomorrowâs technology. This is where you come in. Join a company that is at the forefront of bleeding-edge innovations in blockchain and DeFi. You will be empowered to push boundaries and think out of the box. You will get to work with a bunch of ridiculously motivated and talented people. And most importantly, you'll have fun. The best places to work at, are often also the most fun to work at. That's us.</p>
 <p>We hire based on merit, fit, and strong alignment to our culture. Our culture is defined by 7 team principles: Integrity, Resourcefulness, Ownership, Meritocratic Decision-making, Customer Obsession, Radical Candour, and Passion. These 7 principles guide our company, our people, and our work. At Cake DeFi, our culture is our pride. It has been instrumental to our success, so we are steadfast in our commitment to it. We welcome you to add to it.</p>
-</div><br/><br/>Please mention the word **SHIMMERING** and tag RMzUuMTY0LjE3Ni4xMjY= when applying to show you read the job post completely (#RMzUuMTY0LjE3Ni4xMjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **SHIMMERING** and tag RNTQuMjAyLjk3LjIxMg== when applying to show you read the job post completely (#RNTQuMjAyLjk3LjIxMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/6b08a48011884a54f578077626ce03781676618130.peg" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Orderly</h5>
-                    <h3>Software Engineer Rust</h3>
+                    <h5>Sticker Mule</h5>
+                    <h3> Software Engineer (C++)</h3>
                 </td>
                 <td width="300">
-                    <code>software,cryptocurrency,security,technical,developer,code,financial,video,fintech,management,reliability,engineer,engineering,educational,full-time,digital nomad</code>
+                    <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-rust-orderly-195758" align="right" target="_blank">Apply</a>
+                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <h2 style="text-align:center;"><strong>Work with the best</strong></h2>
-<p>Orderly Network is a permissionless, decentralized exchange protocol and modular ecosystem built on top of NEAR. It uses an on-chain orderbook to provide a platform complete with a risk engine, matching engine, and shared asset pools for Dapps to build on top of. Dapps built on the Orderly Network will allow for financial instruments such as; Spot Trading, Margin Trading, Perpetual Swaps and Lending & Borrowing.</p>
-<p>Whilst a fully independent team operates at Orderly Network, we were incubated by NEAR and WOO Network - Industry heavyweights in their respective fields. Thanks to both the guidance and expertise Orderly Network will offer market-leading execution with low latency and minimal fees with a combination of orderbook efficiency alongside on-chain settlement. We will become the go-to network for ecosystem partners to come and build upon.</p>
-<h2 style="text-align:center;"><strong>A Glimpse into Your Future at Orderly Network</strong></h2>
-<ul>
-<li>
-<span style="text-decoration:underline;"><em>What will you be working on?</em></span>
-<ul>
-<li>Develop new protocols on the innovative Solana or NEAR blockchain.</li>
-<li>Write and review technical proposals.</li>
-<li>Write, test, and deploy high-performance, networking code.</li>
-<li>Design product architecture according to business needs.</li>
-<li>Program and optimize rust/wasm based smart contracts.</li>
-<li>Develop infrastructure software.</li>
-<li>Implement advanced features from scratch.</li>
-<li>Perform technical analysis and contribute to code reviews.</li>
-<li><span style="font-weight:400;">Provide the vision of how the project should be driven forward from a technical perspective.</span></li>
-<li>Take part in our educational blockchain programs and make your contribution to our startups.</li>
-</ul>
-</li>
-<li>
-<span style="text-decoration:underline;"><em>What challenges will you face?</em></span>
-<ul>
-<li><span style="font-weight:400;">We're looking for a Rust Developer who has been involved in blockchain projects. This is a full-time remote position (possibility to work remotely as fully as partially). We are seeking a determined and creative developer who is passionate about changing the world through technology, someone who will  join a team responsible for implementation of various solutions in the Blockchain and FinTech domains where reliability and efficiency of software is crucial.</span></li>
-</ul>
-</li>
-<li>
-<span style="text-decoration:underline;"><em>What tech stacks/skills will you be using?</em></span>
-<ul>
-<li><span style="font-weight:400;">5+ years of software engineering experience.</span></li>
-<li><span style="font-weight:400;">Experience with Virtual machines used by modern blockchains: WebAssembly, EVM, COSMWASM (would be a plus).</span></li>
-<li><span style="font-weight:400;">Knowledge of best practices in blockchain management and data protection (would be a plus).</span></li>
-<li>You have working experience with Rust in Solana ecosystem.</li>
-<li>Experience or understanding the approach of smart contracts development.</li>
-<li>Experience with relational and non-relational databases.</li>
-<li>Knowledge of REST principles.</li>
-<li>You understand the OOP, OOD, SOLID principles.</li>
-<li>Deep knowledge of standard algorithms and data structures.</li>
-<li>You can analyze and optimize the platformâs performance.</li>
-<li>You have experience with security audits of third-party and internal solutions.</li>
-<li>You are interested in Solana or Near ecosystem.</li>
-<li>You possess strong written and verbal communication skills in English.</li>
-</ul>
-</li>
-</ul>
-<h2 style="text-align:center;"><strong>Interested in Learning More?</strong></h2>
-<ul>
-<li>Our hiring process begins by meeting with our People Team, who help facilitate the process of placing you in your new role. You can expect to share your experience and ideas in online video interviews with our hiring team, made up of management and potential new colleagues.</li>
-<li>If you have experience in developing trading systems or financial-related products is a plus.</li>
-<li>You can prepare for this interview by mentally organizing your strategies and opinions on topics such as Web3, cryptocurrency trading platforms, and your vision of how to succeed. </li>
-<li>Share this! Donât be afraid of friends or co-workers stealing this job! If you are amazing and smart we will find a place for you. Check out our <a href="https://boards.greenhouse.io/orderlynetwork/jobs/5170520003" target="_blank" rel="noopener noreferrer nofollow">External Referral Incentives Program</a> as well. </li>
-</ul><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **HARDIER** and tag RMzUuMTY0LjE3Ni4xMjY= when applying to show you read the job post completely (#RMzUuMTY0LjE3Ni4xMjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                
+
+<p>
+  <strong>Headquarters:</strong> New York, NY
+    <br /><strong>URL:</strong> <a href="https://www.stickermule.com/careers">https://www.stickermule.com/careers</a>
+</p>
+
+<div><strong>About Sticker Mule</strong></div><div>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.<br><br>
+</div><div><a href="https://www.stickermule.com/about"><strong>See more about our teams here</strong></a></div><div><br></div><div><strong>We offer</strong></div><ol>
+<li>Remote work with flexible schedules</li>
+<li>A privately owned, low-stress culture.</li>
+<li>A fun "no bullshit" work environment</li>
+</ol><div><strong>We like you to know</strong></div><ol>
+<li>C++</li>
+<li>Go</li>
+<li>Postgres</li>
+<li>Docker</li>
+<li>Cloud Infrastructure</li>
+<li>Familiarity with C#</li>
+<li>Excellent communication skills (English)</li>
+<li>Degree in Computer Science or equivalent practical experience</li>
+</ol><div><strong>Challenges</strong></div><ol>
+<li>Improve factory automation software</li>
+<li>Migrate legacy services to Go</li>
+<li>Maintain a large C++ codebase</li>
+</ol><div><strong>Compensation and benefits</strong></div><ol>
+<li>Salary: $135k+ based on experience</li>
+<li>$20,000 signing bonus</li>
+<li>4 weeks vacation + holidays based on your country of residence</li>
+</ol>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c">https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c</a></p>
+
                 </details>
                 </td>
             </tr></table>
