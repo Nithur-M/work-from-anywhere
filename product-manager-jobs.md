@@ -10,7 +10,7 @@
                     <code>software,manager,design,system,security,technical,support,testing,growth,web,cloud,git,management,operations,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-product-manager-holonbspemea-holo-198320" align="right" target="_blank">Apply</a>
@@ -161,7 +161,7 @@
 <p>Holo is an equal-opportunity employer, and we celebrate our diverse, creative, and collaborative team.</p>
 <p></p>
 <p><br><a rel="noopener noreferrer nofollow"><span>Apply Now!</span> <i></i></a></p>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/TPVo0pOB2yQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **LUCID** and tag RNTQuMjAyLjk3LjIxMg== when applying to show you read the job post completely (#RNTQuMjAyLjk3LjIxMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/TPVo0pOB2yQ" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **LUCID** and tag RMzUuOTEuMjAzLjQ0 when applying to show you read the job post completely (#RMzUuOTEuMjAzLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -176,7 +176,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/listings/turing-machines-inc-hardware-product-manager" align="right" target="_blank">Apply</a>
@@ -218,7 +218,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/pixellu-senior-product-manager-1" align="right" target="_blank">Apply</a>
@@ -287,7 +287,7 @@
                     <code>Product</code>
                 </td>
                 <td width="200">
-                <text>15 days ago</text>
+                <text>16 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/credit-repair-cloud-product-manager-3" align="right" target="_blank">Apply</a>
