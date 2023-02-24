@@ -10,7 +10,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>364 days ago</text>
+                <text>365 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -61,37 +61,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1587892/logo" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>SourceTER</h5>
-                    <h3>UI/UX Product Designer</h3>
-                </td>
-                <td width="300">
-                    <code>cloud,marketing,ui,ux</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/design/ui-ux-product-designer-1587892" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>We are looking for an exceptional UX/UI Product Designer for our client to help shape and craft a product that's simple and intuitive. You will design end-to-end user experiences and optimizations – from early prototypes to final implementation and you will also contribute to the development of our product style guidelines and design system.</p><p>Our client is the only low-code messaging platform that provides a full ecosystem for streaming use cases over a cloud-native message <br>broker that supports modern streaming pipelines and use-cases by removing frictions of management, cost, resources, language<br> barriers, and time for data-oriented developers and data engineers.</p><p>
-<strong>Responsibilities:</strong></p>
-<ul style=""><li style="">Lead all design related activities in your domains of expertise (Design sprints, workshops, brainstorming sessions, presentations, etc.)</li><li style="">Brainstorm and design new features and take concepts through to production</li><li style="">Create user journeys and product flows.</li><li style="">Define users' needs, motivation and pain points</li><li style="">Focus on user experience using A/B tests and live results</li><li style="">Use your interpersonal communication skills to work within dynamic and fast cross-functional teams</li><li style="">Collaborate with the product, engineering, and marketing teams to develop a smooth user experience with high-end look and feel<br>
-<br>
-<strong>Requirements:</strong></li><li style="">5 years of experience in UI/UX creative design </li><li style="">Proven experience in designing a complex system/platform</li><li style="">Positive attitude and great social skills with a willingness to put aside ego for the sake of what's best for the team</li><li style="">Excellent knowledge in design and prototyping software (Figma preferred)</li><li style="">Strong visual design skills and expertise in creating flows, page layouts/templates, functional design, iconography, and style guides</li><li style="">Ability to adapt, switch gears, and thrive in a fast-paced environment</li><li style="">Excellent organizational skills and ability to prioritize and meet deadlines</li><li style="">Understanding web technologies (no codding required)</li><li style="">High level of written and spoken English<br>
-<br>
-                    We Offer: </li><li style="">Competitive market salary </li><li style="">Flexible working hours</li><li style="">Paid sick-leaves and vacations</li><li style="">Being a part of Team of professionals who knows how to build world-class products</li><li style="">Wide range of excellent opportunities for professional and personal growth </li></ul>
-<img src="https://remotive.com/job/track/1587892/blank.gif?source=public_api" alt=""/>
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/986276/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -102,7 +71,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>14 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
