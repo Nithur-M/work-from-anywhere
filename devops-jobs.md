@@ -10,7 +10,7 @@
                     <code>design,web3,ansible,frontend,support,software,code,web,devops,cloud,node,api,management,engineer,engineering,backend,full-time,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-devops-engineer-infstones-198341" align="right" target="_blank">Apply</a>
@@ -33,7 +33,7 @@
 <li align="left">Knowledge of Swagger and OpenAPI.</li>
 <li align="left">Knowledge of frontend development using HTML/CSS/JavaScript.</li>
 <li align="left">Experienced in software development utilizing SQL, NoSQL.</li>
-</ul><br/><br/>Please mention the word **DETACHABLE** and tag RNTQuMjAyLjk3LjIxMg== when applying to show you read the job post completely (#RNTQuMjAyLjk3LjIxMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **DETACHABLE** and tag RMzUuOTEuMjAzLjQ0 when applying to show you read the job post completely (#RMzUuOTEuMjAzLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -48,7 +48,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>8 days ago</text>
+                <text>9 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-senior-devops-engineer-1" align="right" target="_blank">Apply</a>
