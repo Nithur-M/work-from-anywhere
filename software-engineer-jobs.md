@@ -10,7 +10,7 @@
                     <code>software,design,react,system,full-stack,technical,support,testing,growth,code,web,voice,financial,java,typescript,mobile,management,senior,engineer,engineering,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-stellar-198328" align="right" target="_blank">Apply</a>
@@ -55,7 +55,7 @@
 <li align="left">Daily lunch and snacks in-office</li>
 <li align="left">L&D budget of $1,500/year</li>
 <li align="left">Company retreats</li>
-</ul>Â <br><h3><b>About Stellar</b></h3><br>Stellar is a decentralized, fast, scalable, and uniquely sustainable network for financial products and services. It is both a cross-currency transaction system and a platform for digital asset issuance, designed to connect the worldâs financial infrastructure. Dozens of financial institutions worldwide issue assets and settle payments on the Stellar network, which has grown to over 7 million accounts.Â Â Â <br>Â <br><h3><b>About the Stellar Development Foundation</b></h3><br>The Stellar Development Foundation (SDF) is a non-profit organization that supports the development and growth of Stellar, an open-source network that connects the worldâs financial infrastructure. Founded in 2014, the Foundation helps maintain Stellarâs codebase, supports the technical and business communities building on the network, and serves as a voice to regulators and institutions. The Foundation seeks to create equitable access to the global financial system, using the Stellar network to unlock the worldâs economic potential through blockchain technology.<br>Â <br>We look forward to hearing from you!<br>Â <br><h3><b>Privacy Policy</b></h3><br>By submitting your application, you are agreeing to our use and processing of your data in accordance with ourÂ <span style=""><a class="bbcode-link" href="https://www.stellar.org/privacy-policy?locale=en" target="_blank" rel="noopener noreferrer nofollow">Privacy Policy</a></span>.<br>Â <br><i>SDF is committed to diversity in its workforce and is proud to be an equal opportunity employer. SDF does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law.</i><br/><br/>Please mention the word **DAUNTLESS** and tag RNTQuMjAyLjk3LjIxMg== when applying to show you read the job post completely (#RNTQuMjAyLjk3LjIxMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul>Â <br><h3><b>About Stellar</b></h3><br>Stellar is a decentralized, fast, scalable, and uniquely sustainable network for financial products and services. It is both a cross-currency transaction system and a platform for digital asset issuance, designed to connect the worldâs financial infrastructure. Dozens of financial institutions worldwide issue assets and settle payments on the Stellar network, which has grown to over 7 million accounts.Â Â Â <br>Â <br><h3><b>About the Stellar Development Foundation</b></h3><br>The Stellar Development Foundation (SDF) is a non-profit organization that supports the development and growth of Stellar, an open-source network that connects the worldâs financial infrastructure. Founded in 2014, the Foundation helps maintain Stellarâs codebase, supports the technical and business communities building on the network, and serves as a voice to regulators and institutions. The Foundation seeks to create equitable access to the global financial system, using the Stellar network to unlock the worldâs economic potential through blockchain technology.<br>Â <br>We look forward to hearing from you!<br>Â <br><h3><b>Privacy Policy</b></h3><br>By submitting your application, you are agreeing to our use and processing of your data in accordance with ourÂ <span style=""><a class="bbcode-link" href="https://www.stellar.org/privacy-policy?locale=en" target="_blank" rel="noopener noreferrer nofollow">Privacy Policy</a></span>.<br>Â <br><i>SDF is committed to diversity in its workforce and is proud to be an equal opportunity employer. SDF does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law.</i><br/><br/>Please mention the word **DAUNTLESS** and tag RMzUuOTEuMjAzLjQ0 when applying to show you read the job post completely (#RMzUuOTEuMjAzLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -70,7 +70,7 @@
                     <code>software,design,system,technical,support,developer,growth,code,web,voice,financial,java,c++,api,lead,senior,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-stellar-198326" align="right" target="_blank">Apply</a>
@@ -117,7 +117,7 @@
 <li align="left">Daily lunch and snacks in-office</li>
 <li align="left">L&D budget of $1,500/year</li>
 <li align="left">Company retreats</li>
-</ul>Â <br><h3><b>About Stellar</b></h3><br>Stellar is a decentralized, fast, scalable, and uniquely sustainable network for financial products and services. It is both a cross-currency transaction system and a platform for digital asset issuance, designed to connect the worldâs financial infrastructure. Dozens of financial institutions worldwide issue assets and settle payments on the Stellar network, which has grown to over 7 million accounts.Â Â Â <br><h3>Â </h3><br><h3><b>About the Stellar Development Foundation</b></h3><br>The Stellar Development Foundation (SDF) is a non-profit organization that supports the development and growth of Stellar, an open-source network that connects the worldâs financial infrastructure. Founded in 2014, the Foundation helps maintain Stellarâs codebase, supports the technical and business communities building on the network, and serves as a voice to regulators and institutions. The Foundation seeks to create equitable access to the global financial system, using the Stellar network to unlock the worldâs economic potential through blockchain technology.<br>Â <br>We look forward to hearing from you!<br>Â <br><h3><b>Privacy Policy</b></h3><br>By submitting your application, you are agreeing to our use and processing of your data in accordance with ourÂ <span style=""><a class="bbcode-link" href="https://www.stellar.org/privacy-policy?locale=en" target="_blank" rel="noopener noreferrer nofollow">Privacy Policy</a></span>.<br>Â <br><i>SDF is committed to diversity in its workforce and is proud to be an equal opportunity employer. SDF does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law.</i><br/><br/>Please mention the word **NEATLY** and tag RNTQuMjAyLjk3LjIxMg== when applying to show you read the job post completely (#RNTQuMjAyLjk3LjIxMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul>Â <br><h3><b>About Stellar</b></h3><br>Stellar is a decentralized, fast, scalable, and uniquely sustainable network for financial products and services. It is both a cross-currency transaction system and a platform for digital asset issuance, designed to connect the worldâs financial infrastructure. Dozens of financial institutions worldwide issue assets and settle payments on the Stellar network, which has grown to over 7 million accounts.Â Â Â <br><h3>Â </h3><br><h3><b>About the Stellar Development Foundation</b></h3><br>The Stellar Development Foundation (SDF) is a non-profit organization that supports the development and growth of Stellar, an open-source network that connects the worldâs financial infrastructure. Founded in 2014, the Foundation helps maintain Stellarâs codebase, supports the technical and business communities building on the network, and serves as a voice to regulators and institutions. The Foundation seeks to create equitable access to the global financial system, using the Stellar network to unlock the worldâs economic potential through blockchain technology.<br>Â <br>We look forward to hearing from you!<br>Â <br><h3><b>Privacy Policy</b></h3><br>By submitting your application, you are agreeing to our use and processing of your data in accordance with ourÂ <span style=""><a class="bbcode-link" href="https://www.stellar.org/privacy-policy?locale=en" target="_blank" rel="noopener noreferrer nofollow">Privacy Policy</a></span>.<br>Â <br><i>SDF is committed to diversity in its workforce and is proud to be an equal opportunity employer. SDF does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law.</i><br/><br/>Please mention the word **NEATLY** and tag RMzUuOTEuMjAzLjQ0 when applying to show you read the job post completely (#RMzUuOTEuMjAzLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -132,7 +132,7 @@
                     <code>software,design,crypto,cryptocurrency,system,ceo,technical,testing,code,web,financial,finance,fintech,bank,api,health,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-staff-software-engineer-signing-paxos-197819" align="right" target="_blank">Apply</a>
@@ -196,7 +196,7 @@
 </ul>
 <p>Our Paxos team is made up of passionate people from all over the world with different perspectives and experiences. If this opportunity excites you, but your experience doesnât perfectly match the descriptionâ¦apply! Unique voices help us build a more transparent and open economy.</p>
 <p><span style="font-weight:400;">#LI-SI1</span></p>
-<p><span style="font-weight:400;">#LI-REMOTE</span></p><br/><br/>Please mention the word **BRILLIANT** and tag RNTQuMjAyLjk3LjIxMg== when applying to show you read the job post completely (#RNTQuMjAyLjk3LjIxMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><span style="font-weight:400;">#LI-REMOTE</span></p><br/><br/>Please mention the word **BRILLIANT** and tag RMzUuOTEuMjAzLjQ0 when applying to show you read the job post completely (#RMzUuOTEuMjAzLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -211,7 +211,7 @@
                     <code>crypto,defi,blockchain,web3,software,design,react,technical,test,ui,javascript,finance,fintech,typescript,mobile,engineer,backend,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-cake-defi-197310" align="right" target="_blank">Apply</a>
@@ -246,7 +246,7 @@
 <p> </p><div class="content-conclusion">
 <p>We want to transform and decentralise finance with tomorrowâs technology. This is where you come in. Join a company that is at the forefront of bleeding-edge innovations in blockchain and DeFi. You will be empowered to push boundaries and think out of the box. You will get to work with a bunch of ridiculously motivated and talented people. And most importantly, you'll have fun. The best places to work at, are often also the most fun to work at. That's us.</p>
 <p>We hire based on merit, fit, and strong alignment to our culture. Our culture is defined by 7 team principles: Integrity, Resourcefulness, Ownership, Meritocratic Decision-making, Customer Obsession, Radical Candour, and Passion. These 7 principles guide our company, our people, and our work. At Cake DeFi, our culture is our pride. It has been instrumental to our success, so we are steadfast in our commitment to it. We welcome you to add to it.</p>
-</div><br/><br/>Please mention the word **GAINING** and tag RNTQuMjAyLjk3LjIxMg== when applying to show you read the job post completely (#RNTQuMjAyLjk3LjIxMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **GAINING** and tag RMzUuOTEuMjAzLjQ0 when applying to show you read the job post completely (#RMzUuOTEuMjAzLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -261,7 +261,7 @@
                     <code>software,bitcoin,architect,technical,support,developer,javascript,cloud,nosql,strategy,senior,go,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-hiro-196810" align="right" target="_blank">Apply</a>
@@ -287,115 +287,7 @@
 <div><i>Weâd love to hear from you even if you donât have experience or interest in every bullet. Thereâs no perfect candidate and we want to find the right fit, even if itâs different than we imagine. We especially would like to meet underrepresented/underestimated candidates.</i></div>
 <div><br></div>
 <div><i>Hiro is proud to be an equal opportunity employer and deeply cares about building a diverse team. Hiro is committed to building an inclusive environment for people of all backgrounds. We do not discriminate on the basis of race, color, gender, sexual orientation, gender identity or expression, religion, disability, national origin, protected veteran status, age, or any other status protected by law.</i></div>
-</ul><div><br></div><br/><br/>Please mention the word **TREMENDOUSLY** and tag RNTQuMjAyLjk3LjIxMg== when applying to show you read the job post completely (#RNTQuMjAyLjk3LjIxMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/771700ecb3a12f9fe4da669bf6a0f1b21676790981.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>NOBI</h5>
-                    <h3>Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>software,design,amazon,defi,crypto,cryptocurrency,system,frontend,test,code,web,javascript,investment,nodejs,php,git,engineer,engineering,backend,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-nobi-196804" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div>
-<p></p>
-<h2>Company Description</h2>
-</div><div><p>NOBI helps people easily get more from their crypto asset & simplify their crypto investment experience. Our engineering team run hundreds of blockchain nodes, integrates with numerous DeFi smart contracts and run numerous real time robo trading to simplify the life our customers. <br><br>Weâre here so that everyone can be part of the global cryptocurrency movement. Join us.</p></div><div>
-<p></p>
-<h2>Job Description</h2>
-</div><div><ul>
-<li>Responsible for building and extending our backend code</li>
-<li>Responsible for building APIs that serve our frontend apps</li>
-<li>Responsible for maintaining and extend our test suite</li>
-<li>Refactor and improve existing code to incorporate better patterns</li>
-<li>Able to create unit test and implement self-test to make sure the code is running well (Profiling and optimization code)</li>
-<li>Work with the other engineering team to build & maintain our numerous backend services</li>
-</ul></div><div>
-<p></p>
-<h2>Qualifications</h2>
-</div><div><ul>
-<li>Bachelor's degree in Computer Science or equivalent from a reputable university</li>
-<li>Minimum 2 years of working experience as Backend Engineer or equivalent</li>
-<li>Minimum 2 years of extensive experience on server-side development, especially Javascript (ES6) using NodeJS & PHP using Laravel.</li>
-<li>Fluent with Git and RESTful API</li>
-<li>Good knowledge and experience of UNIX system and command line experience in web server configuration and setup. This includes setting up PHP engine, database server, load balancing.</li>
-<li>Experience with NoSQL, Amazon AWS , Redis, Docker</li>
-<li>Knowledge and experience in scalability and performance in high-traffic web systems</li>
-<li>Knowledgeable on software design pattern</li>
-<li>Understanding the principles of application security</li>
-<li>Blockchain or Crypto enthusiast</li>
-</ul></div><br/><br/>Please mention the word **FIDELITY** and tag RNTQuMjAyLjk3LjIxMg== when applying to show you read the job post completely (#RNTQuMjAyLjk3LjIxMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/e906f00adc2db38db75f911b674664141676790960.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Cake DeFi</h5>
-                    <h3>Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>crypto,defi,blockchain,web3,software,design,amazon,security,support,growth,web,devops,finance,fintech,cloud,api,management,reliability,engineer,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-cake-defi-196797" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <div class="content-intro">
-<p>Founded in 2019, Cake DeFi is a leading decentralised finance services provider and Southeast Asiaâs fastest growing fintech platform. "We Do Crypto. You Do You." - Our vision is to become a one-stop platform for all crypto users to get easy access to DeFi and Web3 services. To date, more than 1 million users from over 190 countries trust us to manage over $1 billion in assets. We are a profitable, cashflow positive private rocket ship that's just getting ready for take-off. Join us.</p>
-<p> </p>
-</div><div class="p-rich_text_section">
-<p><strong>Birthday Research</strong></p>
-<p><span style="font-weight:400;">Birthday Research (BR) is our Blockchain Research and Development arm. Fuelled by the best minds in the industry, BR seeks to develop best-in-class blockchain innovations with the mission of enabling the next bound of Web3.</span></p>
-<p><span style="font-weight:400;">As a pioneering force, our work spans cryptographic research, deep blockchain consensus development, and smart contracts development â with a laser-sharp focus on driving the industry frontier while tackling the most demanding DeFi challenges of today. To date, one of our core contributions, DeFiChain, has garnered over 1 billion USD in total value locked on the layer-1 protocol.</span></p>
-<p><span style="font-weight:400;">We are a fast-growing, globally distributed, close-knit team of multi-disciplinary doers and getters. Join Birthday Research today to be a part of the driving force shaping the future of decentralization.</span></p>
-<h3><strong>What youâll do:</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Collaborate with Software Engineers to design a highly scalable and secure infrastructure to support our growth.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Build on top of our existing infrastructure playbook and runbook to support our growth targets.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Design, implement, manage and maintain a fleet of Multi-Region Active-Active elastic services that includes our API gateway, microservices, database, and blockchain nodes.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Taking on an active role in improving our service design and performing security hardening of our infrastructure.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Apply your CI/CD knowledge to design and implement various supporting processes, shift-left workflows, and tools.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Write highly performant infrastructure codes that are clean, simple, maintainable, and battle-tested.</span></li>
-</ul>
-<h3><strong>What youâll need:</strong></h3>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience working in a fast pace tech-driven startup as a SysOps Engineer, Site Reliability Engineer, or DevOps Engineer with at least 2 years of experience managing cloud infrastructure or in a similar capacity.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience managing cloud infrastructure such as Amazon Web Services with automation tools such as AWS CloudFormation, Ansible, Terraform, Helm, Puppet, or similar.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">A strong foundation of common networking protocols such as layer 7 and layer 4 network load balancing.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ability to take full ownership and work independently while collaborating with others in a fast-paced agile and async team.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">A collaborative and resourceful individual with excellent communication skills able to make radical decisions while being empathetic and respectful.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Willingness to pick up new and emerging bleeding edge blockchain technologies.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Familiarity with container orchestration is highly preferred.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Familiarity with web-scale data management technologies such as NoSQL, SQL Sharding, and Data Warehouse is preferred.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience participating or maintaining in open source software development is highly preferred.</span></li>
-</ul>
-</div>
-<p> </p><div class="content-conclusion">
-<p>We want to transform and decentralise finance with tomorrowâs technology. This is where you come in. Join a company that is at the forefront of bleeding-edge innovations in blockchain and DeFi. You will be empowered to push boundaries and think out of the box. You will get to work with a bunch of ridiculously motivated and talented people. And most importantly, you'll have fun. The best places to work at, are often also the most fun to work at. That's us.</p>
-<p>We hire based on merit, fit, and strong alignment to our culture. Our culture is defined by 7 team principles: Integrity, Resourcefulness, Ownership, Meritocratic Decision-making, Customer Obsession, Radical Candour, and Passion. These 7 principles guide our company, our people, and our work. At Cake DeFi, our culture is our pride. It has been instrumental to our success, so we are steadfast in our commitment to it. We welcome you to add to it.</p>
-</div><br/><br/>Please mention the word **SHIMMERING** and tag RNTQuMjAyLjk3LjIxMg== when applying to show you read the job post completely (#RNTQuMjAyLjk3LjIxMg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div><br></div><br/><br/>Please mention the word **TREMENDOUSLY** and tag RMzUuOTEuMjAzLjQ0 when applying to show you read the job post completely (#RMzUuOTEuMjAzLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -410,7 +302,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>30 days ago</text>
+                <text>31 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
