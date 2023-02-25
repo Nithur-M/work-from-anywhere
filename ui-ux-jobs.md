@@ -1,5 +1,43 @@
 <div align="center"><h2>UI UX JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/7587/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Jetpack Workflow</h5>
+                    <h3> Senior UX/UI Designer (Remote)</h3>
+                </td>
+                <td width="300">
+                    <code>Design</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/listings/jetpack-workflow-senior-ux-ui-designer-remote" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/7587/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> United States
+    <br /><strong>URL:</strong> <a href="https://jetpackworkflow.com/">https://jetpackworkflow.com/</a>
+</p>
+
+<p><em>Jetpack Workflow helps thousands of accounting, bookkeeping and service firms complete their work on time. We work with small to medium sized businesses around the globe to track due dates, collaborate with each other and manage their clients.</em></p>    <p>We're working on an exciting new version of our product and need your help. You'll be joining our small but mighty Product team at Jetpack Workflow as our sole UX and Product Designer reporting to our Director of Product. Working hand in hand with product management, engineering and departments across the company, you'll help us execute on our vision of helping every firm get their recurring client work done on time.</p>    <p>We encourage you to apply if this posting resonates with you, even if you don't feel like you meet every requirement. Send us your resume, LinkedIn, Dribbble, Work Samples, Portfolio or whatever you feel best represents yourself by filling out this application.</p>    <p><i><em>Jetpack Workflow is an equal opportunity employer and we value diversity at our company. We do not discriminate on the basis of race, religion, color, national origin, gender, sexual orientation, gender identity, gender expression, age, marital status, veteran status, or disability status.</em></i></p>  <h3> <a class="external"></a>Day to Day</h3>  <p>Every day at Jetpack Workflow looks a little different, but here are some examples of things you might be doing day to day:</p>    <ul> <li>Work alongside our Director of Product to build out our roadmap and investigate exciting new feature concepts</li> <li>Adding new tools and applying new techniques to our design process, experimenting and learning along the way</li> <li>Taking new feature product requirements and research and creating designs for our development team to implement</li> <li>Conducting user testing and user research</li> <li>Ensuring the app's overall layout, patterns and structure is working holistically</li> <li>Supporting and reviewing new features that are in development.</li> <li>Helping us test, report visual bugs and ensuring everything is ready for our users.</li> <li>Collaborate with the development team on our design system and style guide.</li> </ul>
+<p><strong>Requirements</strong></p>
+<h3>We believe you'd be a phenomenal fit if any of these describe you:</h3>  <ul> <li>You have 5+ years of experience working on web-based B2B SaaS products in a design related role. Bonus points if you have previous experience working in a startup or have experience with products in similar domains like project management, task management or CRM software.</li> <li>You love collaborating with people in every functional area of the company</li> <li>You take pride in your work and are constantly looking for ways to improve</li> <li>You love breaking down big, complex problems into digestible parts while keeping in mind the entire system as a whole.</li> <li>You are comfortable shipping fast and iterating quickly where possible, while knowing when it's right to slow down and take more time to find the right solution</li> <li>You have an interest in mobile first design and designing for mobile. We are a mobile-first web application and we hope to produce native mobile apps in the future!</li> <li>Bonus points: you have a technical understanding of the web and web frameworks. You don't have to know how to code, but we think it really helps to know some of the constraints of the medium. We'll help you learn if you don't!</li> </ul>                <p>While this position is fully remote, we'd strongly prefer candidates who are located in a time zone that has some overlap with the US-Eastern Time zone. We are unable to sponsor work visas at this time.</p>
+<p><strong>Benefits</strong></p>
+<ul> <li>Competitive salary ($135K-$150K)</li> <li>3% 401K match program</li> <li>Equity grant options in the company</li> <li>Flexible, remote work from home working hours</li> <li>Take-what-you-need vacation and sick days</li> <li>Generous health, vision, and dental coverage</li> <li>Home Office Stipend (internet, setup, new MacBook, etc)</li> <li>Disability Insurance</li> <li>Voluntary Life Insurance </li> </ul>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/jetpack-workflow-senior-ux-ui-designer-remote">https://weworkremotely.com/remote-jobs/jetpack-workflow-senior-ux-ui-designer-remote</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +48,7 @@
                     <code>Design</code>
                 </td>
                 <td width="200">
-                <text>365 days ago</text>
+                <text>366 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/springboard-mentor-ui-ux-design-career-track-part-time-remote" align="right" target="_blank">Apply</a>
@@ -71,7 +109,7 @@
                     <code>go,ui,ux,wordpress</code>
                 </td>
                 <td width="200">
-                <text>14 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/design/senior-independent-ux-ui-designer-986276" align="right" target="_blank">Apply</a>
