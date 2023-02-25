@@ -10,7 +10,7 @@
                     <code>web3,crypto,ethereum,front-end,technical,test,travel,finance,css,senior,go,engineer</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-front-end-engineer-gelato-network-198330" align="right" target="_blank">Apply</a>
@@ -47,7 +47,7 @@
 <li align="left">Build relationships with top blockchain teams which are already Gelato users, including MakerDAO, Instadapp, Zerion, Quickswap and many more</li>
 <li align="left">Chance to travel the world to go to exciting events and connect with key players in this industry</li>
 <li align="left">Join amazing in-person offsites all over the world</li>
-</ul><br/><br/>Please mention the word **ADROITLY** and tag RMzUuOTEuMjAzLjQ0 when applying to show you read the job post completely (#RMzUuOTEuMjAzLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **ADROITLY** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -62,7 +62,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clickguard-inc-senior-frontend-engineer" align="right" target="_blank">Apply</a>
@@ -117,74 +117,112 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0076/2123/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1599441/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Chorus One</h5>
-                    <h3> Front End Software Engineer</h3>
+                    <h5>Windranger Labs</h5>
+                    <h3>Mantle - Front End Engineer (Mandarin Speaking)</h3>
                 </td>
                 <td width="300">
-                    <code>Front-End Programming</code>
+                    <code>crypto,CSS,html,react</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/chorus-one-front-end-software-engineer" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/mantle-front-end-engineer-mandarin-speaking-1599441" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0076/2123/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Switzerland
-    <br /><strong>URL:</strong> <a href="https://chorus.one">https://chorus.one</a>
-</p>
-
-<div>
-<strong>Job description<br></strong><br>
-</div><div>Chorus One is one of the leading operators of infrastructure for Proof-of-Stake networks and decentralized protocols. Tens of thousands of retail customers and institutions are staking billions in assets through our infrastructure helping to secure protocols and earn rewards. Our mission is to Operate infrastructure for decentralized networks that increase freedom and sovereignty. We are a diverse team of around 50 people distributed all over the globe. We value radical transparency, striving for excellence and continuous improvement while treating each other with kindness and generosity. If this sounds like you, we'd love to hear from you.<br><br>
-</div><div>We are seeking a <strong>Front End Software Engineer</strong> to build data dashboards and web applications - to enable clients and retail users to interact with our business offerings. This position is a unique opportunity to work with an experienced team on cutting-edge blockchain networks and financial services around cryptocurrency.<br><br>
-</div><div>
-<br><strong>Responsibilities</strong>
-</div><ul>
-<li>Work closely with fellow engineers, business team, and product stakeholders to best understand their needs.</li>
-<li>Design and develop web applications, monitoring tools, and data dashboards - to best serve the needs of the above.</li>
-<li>Work on large-scale, custom-designed software development project</li>
-</ul><div>
-<br><strong>We offer</strong>
-</div><ul>
-<li>Competitive salary $80k - 130k/year + Equity </li>
-<li>Autonomy and ownership in a friendly and supportive work environment and the opportunity for rapid growth</li>
-<li>All-expense paid team retreats at various destinations (Coronavirus permitting). Past retreats took place in Egypt, Serbia, Kenya, USA, South Korea, and Dubai.</li>
-<li>Remote, but not alone. We are a strong global collaborative environment.</li>
-<li>Remote working budget (Laptop, co-working space, etc)</li>
-<li>Personal development budget</li>
-<li>Gather experience and build your network in the vibrant crypto ecosystem.</li>
-<li>Learn about state-of-the-art protocols that lay the foundation for an open, transparent, and programmable financial system.</li>
-</ul><div>
-<strong>Job requirements<br></strong><br>
-</div><div><strong>What we are looking for</strong></div><ul>
-<li>3 years experience with working as a Front End Developer, preferably in remote environment</li>
-<li>Fundamental knowledge of frontend languages (JavaScript/TypeScript, HTML, CSS) and experience with major frontend Javascript libraries, preferably React or vue.js</li>
-<li>Experience working in a production-ready environment</li>
-<li>Ability to write high-quality, well-tested code and passion for automated testing</li>
-<li>Familiarity with Front End testing suites like playwright, jest, cypress or equivalent.</li>
-<li>Comfortable working remotely with a high degree of autonomy</li>
-<li>Interest in learning about cryptocurrencies and blockchains</li>
-<li>Passion for creating nice user interfaces and a seamless user experience</li>
-</ul><div><strong>Nice to have:</strong></div><ul>
-<li>Experience building CI/CD pipelines for deploying web products</li>
-<li>Experience with working on large-scale, distributed systems (Kubernetes)</li>
-<li>Basic experience with UX design concepts (prototyping, wireframes)</li>
-<li>Knowledge of or prior experience in the cryptocurrency and blockchain space</li>
-<li>Experience with Postgres or other SQL databases</li>
+                <div class="h2">Who we are</div>
+<p style="min-height: 1.5em;">Windranger is a product lab working on the <a href="https://www.bitdao.io/" rel="nofollow" target="_blank"><u>BitDAO</u></a> ecosystem, and other Web3 projects (protocols, DeFi, etc.). You can read more about us here: <a href="https://docs.windranger.io/" rel="nofollow" target="_blank"><u>https://docs.windranger.io/</u></a></p>
+<p style="min-height: 1.5em;">We’re looking for the next generation of leaders and doers who have a passion for crypto and are looking to influence the future of Web3. If you value a flexible work environment that’s low ego and is focused on pragmatism over perfection, then keep on scrolling.</p>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2">About this team</div>
+<p style="min-height: 1.5em;">Windranger Labs are looking for a Front End Engineer to help support ongoing project work, maintain and build promotional landing pages, contribute to building awesome interactive web experiences and help drive a number of key initiatives around building community, including open source contributions and hackathons. We are looking for a self starter who has the initiative to self educate and be part of a dynamic fast paced team in a highly collaborative environment. Strong skills in communication and collaboration will be essential in this position. You have a curious mind, and always probe deeper into requirements. You are able to communicate clearly and efficiently with our globally diverse cohort of talented designers, engineers, content creators and product managers.</p>
+<p style="min-height: 1.5em;">At Windranger we value individual contribution and results above all else. You will have the space and freedom to bring creative ideas to the table that help us achieve our goals.</p>
+<p style="min-height: 1.5em;">Windranger have an extremely high bar for excellence and hire people who are constantly pushing their personal limits.</p>
+<p style="min-height: 1.5em;"> </p>
+<div class="h2">What you'll help us build</div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Support on-going maintenance of our growing ecosystem of landing pages and sites</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Help write articles and blog posts</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Contribute to open source projects and improve your public profile</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Potential to travel to events to represent the company</p>
+</li>
 </ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/chorus-one-front-end-software-engineer">https://weworkremotely.com/remote-jobs/chorus-one-front-end-software-engineer</a></p>
-
+<p style="min-height: 1.5em;"> </p>
+<div class="h2">Your craft</div>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">Ideally 4+ years experience in a Front End Engineering role, with the ability to show examples of websites, landing pages and components you have built</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Excellent skills in communication, preferably with experience in a remote-first and/or global distributed environment</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Fluent in English and Mandarin</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Experience with React or NextJS frameworks</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Very strong core CSS/HTML skills</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Ability or desire to learn TypeScript</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Familiarity with Tailwind</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">You have the initiative and motivation fix bugs or improve processes that you identify</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Seek clarification on requirements where needed</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">You enjoy owning, running and delivering your own projects</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">You are a curious and pro active learner</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Excellent collaboration skills</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><strong>Extra credit</strong></p>
+<ul style="">
+<li style="">
+<p style="min-height: 1.5em;">You have side projects, open-source work</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Web3 experience (Ethers, Infura, MetaMask, Wallet Connect)</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Design System experience</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Interaction and or Animation experience</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Flexibility to travel</p>
+</li>
+</ul>
+<p style="min-height: 1.5em;"> </p>
+<p style="min-height: 1.5em;"><em>If you think you have valuable experience to bring to the organization, but don’t necessarily meet all of the criteria for the role, we still want to hear from you. We consider all applications.</em></p>
+<p style="min-height: 1.5em;"> </p>
+<img src="https://remotive.com/job/track/1599441/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
