@@ -1,5 +1,91 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/a562a3fe1362dd95f2d09d52b99dc68d1677222949.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Kira Network</h5>
+                    <h3>Blockchain Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,golang,linux,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-blockchain-developer-kira-network-199351" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>KIRA Blockchain Developer</p>
+
+<h3>
+<br>
+Requirements:</h3>
+
+<ul>
+        <li>Excellent understanding of Golang and cosmos-sdk with prior experience in blockchain development. </li>
+        <li>Strong familiarity with Linux OS,</li>
+        <li>Basic familiarity  infrastructure development</li>
+</ul><br/><br/>Please mention the word **SOLICITOUS** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/db4c5bd69796718965808698c7fea1161677222980.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Axelar</h5>
+                    <h3>Developer Advocate</h3>
+                </td>
+                <td width="300">
+                    <code>developer,crypto,technical,support,software,growth,code,lead,content,engineering,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-developer-advocate-axelar-199358" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h3><b>Location:</b></h3><br>USA - Remote<br><h3></h3><br><h3><b>Description</b></h3><br>Axelar delivers secure cross-chain communication. That means dApp users can interact with any asset, any application, on any chain, with one click. You can think of it as Stripe for Web3.<br>Axelar has raised capital from top-tier investors, including Binance, Coinbase, Dragonfly Capital and Polychain Capital. Partners include major proof-of-stake blockchains, such as Avalanche, Cosmos, Ethereum, Polkadot and others. Axelarâs team includes experts in distributed systems/cryptography and MIT/Google/Consensys alumni; the co-founders, Sergey Gorbunov and Georgios Vlachos, were founding team members at Algorand.<br><h3></h3><br><h3><b>The role</b></h3><br>Axelar is looking for a developer advocate who is passionate about building relationships with developers and leading developer communities, and is capable of inspiring developers and helping them succeed.<br><h4>Requirements</h4><p></p><h3><b>What you will be doing</b></h3><br><ul>
+<li align="left">Inspire and equip developers to use Axelar. Support developers when they need a hand, building a following for yourself and Axelar.</li>
+<li align="left">Work to make developers successful through content creation (Videos, Blogs, Tutorials, Example Code / Apps).</li>
+<li align="left">Take the lead in Axelarâs developer events, presenting and leading great developer experiences.</li>
+<li align="left">Represent Axelar at conferences, events, and meetups by giving talks, performing live demos of Axelar, and providing an engaging experience.</li>
+<li align="left">Engage the developer community online (StackOverflow, Discord, Telegram, Reddit, etc.).</li>
+<li align="left">Collect and synthesize end-user feedback on using Axelar.</li>
+<li align="left">Represent the needs and expectations of developers throughout our product development process.</li>
+<li align="left">Create new developer engagement initiatives to drive developer happiness, success, and adoption.</li>
+<li align="left">Encourage and support new collaborators to Axelarâs open source ecosystem.</li>
+<li align="left">Partner with other technical folks at external teams to create new cooperative initiatives.</li>
+<li align="left">Bringing developers together in new ways.</li>
+</ul><h3></h3><br><h3><b>About you</b></h3><br><ul>
+<li align="left">You have 4+ years technical experience in software creation.</li>
+<li align="left">You have strong engineering skills; experience in building web, mobile, or blockchain applications.</li>
+<li align="left">You are passionate about blockchain or crypto and its power to change the world for the better.</li>
+<li align="left">You have exposure to Solidity, JavaScript, Rust and/or Golang, or a keen interest in learning new languages.</li>
+<li align="left">You are able to clearly communicate complex ideas and concepts.</li>
+<li align="left">You are a great speaker and comfortable in front of an audience in person or online.</li>
+<li align="left">You have a passion for inspiring and educating fellow developers.</li>
+<li align="left">You have a strong sense of ownership, with the ability to lead and share knowledge to reach solutions as well as the keenness to learn.</li>
+<li align="left">Youâre open to collaborating with internal and external stakeholders, flourishing in a distributed environment.</li>
+</ul><h4></h4><br><h3><b>Whatâs in it for you</b></h3><br><ul>
+<li align="left">Autonomous, distributed environment with the opportunity to work collaboratively in a diverse team across the world.</li>
+<li align="left">The scope to contribute to high impact work and really make a difference in a decentralized protocol.</li>
+<li align="left">Chance to really challenge yourself whilst learning heaps of stuff in the process.</li>
+<li align="left">Unlimited time off throughout the year to rest and recharge.</li>
+<li align="left">Competitive compensation with stock options, experiencing growth from the initial phase.</li>
+</ul><br/><br/>Please mention the word **HOLY** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/3ad95cdef78f5822ffe92602c5809d3b1677136591.jpg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +96,7 @@
                     <code>developer,design,web3,technical,software,code,senior,junior,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-full-stack-developer-spatial-labs-198848" align="right" target="_blank">Apply</a>
@@ -57,7 +143,7 @@
 
 <p>â¢ Ability to work independently and as part of a team</p>
 
-<p>â¢ Excellent written and verbal communication skills</p><br/><br/>Please mention the word **CELEBRATE** and tag RMzUuOTEuMjAzLjQ0 when applying to show you read the job post completely (#RMzUuOTEuMjAzLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>â¢ Excellent written and verbal communication skills</p><br/><br/>Please mention the word **CELEBRATE** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -72,7 +158,7 @@
                     <code>developer,system,technical,support,growth,voice,financial,content,educational,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-evangelist-stellar-198332" align="right" target="_blank">Apply</a>
@@ -113,12 +199,12 @@
 <li align="left">Daily lunch and snacks in-office</li>
 <li align="left">L&D budget of $1,500/year</li>
 <li align="left">Company retreats</li>
-</ul>Â <br><h3><b>About Stellar</b></h3><br>Stellar is a decentralized, fast, scalable, and uniquely sustainable network for financial products and services. It is both a cross-currency transaction system and a platform for digital asset issuance, designed to connect the worldâs financial infrastructure. Dozens of financial institutions worldwide issue assets and settle payments on the Stellar network, which has grown to over 7 million accounts.Â Â Â <br>Â <br><h3><b>About the Stellar Development Foundation</b></h3><br>The Stellar Development Foundation (SDF) is a non-profit organization that supports the development and growth of Stellar, an open-source network that connects the worldâs financial infrastructure. Founded in 2014, the Foundation helps maintain Stellarâs codebase, supports the technical and business communities building on the network, and serves as a voice to regulators and institutions. The Foundation seeks to create equitable access to the global financial system, using the Stellar network to unlock the worldâs economic potential through blockchain technology.<br>Â <br>We look forward to hearing from you!<br>Â <br><h3><b>Privacy Policy</b></h3><br>By submitting your application, you are agreeing to our use and processing of your data in accordance with ourÂ <span style=""><a class="bbcode-link" href="https://www.stellar.org/privacy-policy?locale=en" target="_blank" rel="noopener noreferrer nofollow">Privacy Policy</a></span>.<br>Â <br><i>SDF is committed to diversity in its workforce and is proud to be an equal opportunity employer. SDF does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law.</i><br/><br/>Please mention the word **EXCEEDS** and tag RMzUuOTEuMjAzLjQ0 when applying to show you read the job post completely (#RMzUuOTEuMjAzLjQ0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul>Â <br><h3><b>About Stellar</b></h3><br>Stellar is a decentralized, fast, scalable, and uniquely sustainable network for financial products and services. It is both a cross-currency transaction system and a platform for digital asset issuance, designed to connect the worldâs financial infrastructure. Dozens of financial institutions worldwide issue assets and settle payments on the Stellar network, which has grown to over 7 million accounts.Â Â Â <br>Â <br><h3><b>About the Stellar Development Foundation</b></h3><br>The Stellar Development Foundation (SDF) is a non-profit organization that supports the development and growth of Stellar, an open-source network that connects the worldâs financial infrastructure. Founded in 2014, the Foundation helps maintain Stellarâs codebase, supports the technical and business communities building on the network, and serves as a voice to regulators and institutions. The Foundation seeks to create equitable access to the global financial system, using the Stellar network to unlock the worldâs economic potential through blockchain technology.<br>Â <br>We look forward to hearing from you!<br>Â <br><h3><b>Privacy Policy</b></h3><br>By submitting your application, you are agreeing to our use and processing of your data in accordance with ourÂ <span style=""><a class="bbcode-link" href="https://www.stellar.org/privacy-policy?locale=en" target="_blank" rel="noopener noreferrer nofollow">Privacy Policy</a></span>.<br>Â <br><i>SDF is committed to diversity in its workforce and is proud to be an equal opportunity employer. SDF does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law.</i><br/><br/>Please mention the word **EXCEEDS** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/7274/logo.gif" width="38px" height="auto">
+                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
                 </td>
                 <td width="300">
                     <h5>Toggl</h5>
@@ -128,7 +214,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer" align="right" target="_blank">Apply</a>
@@ -137,7 +223,7 @@
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0074/7274/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+                
 
 <p>
   <strong>Headquarters:</strong> Tallinn, Estonia
@@ -197,7 +283,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/innovation-upstream-inc-sr-frontend-developer-react-web3" align="right" target="_blank">Apply</a>
@@ -249,63 +335,6 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0081/7016/logo.gif" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Bottomless</h5>
-                    <h3> Senior Full Stack Developer</h3>
-                </td>
-                <td width="300">
-                    <code>Full-Stack Programming</code>
-                </td>
-                <td width="200">
-                <text>2 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-6" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0081/7016/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> Seattle, Wa
-    <br /><strong>URL:</strong> <a href="https://www.bottomless.com/">https://www.bottomless.com/</a>
-</p>
-
-<div>We are looking for a jack-of-all-trades <strong><em>senior</em></strong> javascript/full stack developer.<br><br>The ideal candidate for this position would be able to dive into any kind of project, from frontend UI/UX tasks in React.js to backend tasks running on Node.js.<br><br>If you’re interested in variety and working hard to build something big, this might be a good fit.<br><br>We need to achieve <em>80% of the results with 20% of the effort</em>.<br><br><strong>Responsibilities:</strong>
-</div><ul>
-<li>Design and build infrastructure and products for a sensor-enabled e-commerce marketplace.</li>
-<li>Build robust infrastructure to support existing product lines and the ability to roll out new ones.</li>
-<li>Responsibility over the user-facing product</li>
-<li>Quick iteration on different fronts from fronted UX changes to database design to quick and dirty implementations.</li>
-<li>Responsible for full deployment and testing of applications.</li>
-</ul><div><br></div><div><strong>Skill, Qualifications, and Experience:</strong></div><div><br></div><div><em>Expert proficiency required:</em></div><ul>
-<li>Node.js</li>
-<li>NoSQL databases</li>
-<li>React.js</li>
-<li>English (written and verbal)</li>
-</ul><div><br></div><div><em>Intermediate proficiency, at a minimum:</em></div><ul>
-<li>UI/UX design</li>
-<li>Software architecture</li>
-</ul><div>
-<br>Not required, but a plus:</div><ul>
-<li>Python (background tasks)</li>
-<li>Embedded systems (C++)</li>
-</ul><div> <br><strong>Details:</strong>
-</div><ul>
-<li>Remote OK. Must be flexible with hours as we have a remote international team.</li>
-<li>Competitive equity and cash compensation</li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-6">https://weworkremotely.com/remote-jobs/bottomless-senior-full-stack-developer-6</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/2870/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -316,7 +345,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/iphone-photography-school-ios-developer-1" align="right" target="_blank">Apply</a>
@@ -356,7 +385,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>31 days ago</text>
+                <text>32 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -427,7 +456,7 @@
                     <code>Back-End Programming</code>
                 </td>
                 <td width="200">
-                <text>64 days ago</text>
+                <text>65 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
@@ -489,7 +518,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>185 days ago</text>
+                <text>186 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -591,6 +620,37 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remotive.com/job/1601883/logo" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Everyday Brands</h5>
+                    <h3>Website Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,design,Figma</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remotive.com/remote-jobs/software-dev/website-developer-1601883" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p>We are looking for a talented Landing page developer to help develop already designed pages inside of Replo Page Builder (similar to Unbounce, Webflow, Gempages, Shogun, Pagefly, etc.)</p>
+<p> </p>
+<p>For the most part, we have the design completed inside of Figma, and need these pages transferred over to the page builder.</p>
+<p> </p>
+<p>If you can design &amp; develop, this is a bonus.</p>
+<p> </p>
+<p>Each page build we take on is anywhere from 5-15 sections, and relatively simple, conversion focused designs. (no animations, etc)</p>
+<img src="https://remotive.com/job/track/1601883/blank.gif?source=public_api" alt=""/>
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1359476/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -601,7 +661,7 @@
                     <code>backend,developer,frontend,fullstack</code>
                 </td>
                 <td width="200">
-                <text>5 days ago</text>
+                <text>7 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-full-stack-developer-1359476" align="right" target="_blank">Apply</a>
@@ -670,7 +730,7 @@
                     <code>developer,fullstack,ui,design</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-remix-full-stack-developer-1583816" align="right" target="_blank">Apply</a>
@@ -698,7 +758,7 @@
                     <code>developer,git,mobile,ui</code>
                 </td>
                 <td width="200">
-                <text>9 days ago</text>
+                <text>10 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-unity-developer-1583815" align="right" target="_blank">Apply</a>
@@ -762,7 +822,7 @@
                     <code>developer,seo,social media,ai</code>
                 </td>
                 <td width="200">
-                <text>13 days ago</text>
+                <text>15 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/ai-application-developer-1587090" align="right" target="_blank">Apply</a>
@@ -823,7 +883,7 @@
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -900,7 +960,7 @@
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>18 days ago</text>
+                <text>19 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -926,7 +986,7 @@
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>25 days ago</text>
+                <text>26 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
