@@ -10,7 +10,7 @@
                     <code>amazon,system,technical,developer,software,growth,devops,cloud,node,operational,reliability,healthcare,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-scroll-198829" align="right" target="_blank">Apply</a>
@@ -46,66 +46,84 @@
 <li align="left">Coworking membership allowance</li>
 <li align="left">Private healthcare in selected countries</li>
 <li align="left">Competitive salary package</li>
-</ul><br/><br/>Please mention the word **STIRRINGLY** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **STIRRINGLY** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0082/0772/logo.gif" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1596490/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Sticker Mule</h5>
-                    <h3> Site Reliability Engineer</h3>
+                    <h5>Bitquery</h5>
+                    <h3>SRE/ Site Reliability Engineer (Middle / Senior)</h3>
                 </td>
                 <td width="300">
-                    <code>Back-End Programming</code>
+                    <code>api,AWS,crypto,docker</code>
                 </td>
                 <td width="200">
-                <text>126 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/sticker-mule-site-reliability-engineer-1" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/devops/sre-site-reliability-engineer-middle-senior-1596490" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <img src="https://we-work-remotely.imgix.net/logos/0082/0772/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
-
-<p>
-  <strong>Headquarters:</strong> New York, NY
-    <br /><strong>URL:</strong> <a href="https://www.stickermule.com">https://www.stickermule.com</a>
-</p>
-
-<div>
-<strong>About Sticker Mule</strong><br>Sticker Mule is the Internet's most "kick ass" brand. We are privately-owned, profitable, and powered by a globally distributed team that enjoys building happy customer experience at the highest technical standards. Our software team operates from 17 countries, and we're always looking for more exceptional engineers.</div><div>
-<br><br>The SRE team is responsible for building, maintaining and securing our services infrastructure, while participating in the weekly on-call schedule.</div><div><a href="https://www.stickermule.com/about"><strong><br>See more about our teams here</strong></a></div><div><strong><br>We offer</strong></div><ol>
-<li>Remote work with flexible schedules</li>
-<li>A privately owned, low-stress culture</li>
-<li>A fun "no bullshit" work environment</li>
-</ol><div><strong><br>We like you to know</strong></div><ol>
-<li>Docker</li>
-<li>Kubernetes</li>
-<li>GCP</li>
-<li>AWS</li>
-<li>Go</li>
-<li>Postgres</li>
-<li>Redis</li>
-<li>Familiarity with JavaScript</li>
-<li>Excellent communication skills (English)</li>
-<li>Degree in Computer Science or equivalent practical experience</li>
-</ol><div><strong><br>Challenges</strong></div><ol>
-<li>Build CI and CD pipelines</li>
-<li>Optimize and scale workloads</li>
-<li>Secure containers and web services</li>
-</ol><div><strong><br>Compensation and benefits</strong></div><ol>
-<li>Salary: $135k+ based on experience</li>
-<li>$20,000 signing bonus</li>
-<li>4 weeks vacation + holidays based on your country of residence</li>
-</ol><div><br></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/sticker-mule-site-reliability-engineer-1">https://weworkremotely.com/remote-jobs/sticker-mule-site-reliability-engineer-1</a></p>
-
+                <p><strong>Bitquery</strong> is an API-first product company dedicated to powering and solving blockchain data problems using ground truth, and on-chain data. Bitquery extracts and presents valuable data via APIs. These APIs are delivering solutions to multiple verticals like Decentralize Finance (DeFi), DEX Arbitrage Analytics, Crypto Surveillance &amp; Forensics across all major blockchains like Bitcoin, Ethereum, EOS, and Tezos.</p>
+<p>We are an international company of developers of software for the analysis of decentralized data (40+ chains). Bitquery is a distributed team. Currently, are looking for a full-time SRE engineer to further develop/monitor/support the infrastructure, and automation of various processes. Also, you can be on duty with shift time.</p>
+<p> </p>
+<p><strong>Roles &amp; Responsibilities:</strong></p>
+<ul style="">
+<li style="">Ensuring the smooth operation of software, environments and company services</li>
+<li style="">Analyzing and improving the performance and availability of products</li>
+<li style="">Identification of bottlenecks in the architecture and in the infrastructure</li>
+<li style="">Improvement of system alerting and incident management</li>
+<li style="">Improvements of the monitoring systems based on SLI (Prometheus, Icinga, Grafana etc.)</li>
+<li style="">Formalization of SLI under the main business requirements</li>
+<li style="">Formation of SLO for services and infrastructure in general</li>
+<li style="">Minimization of system recovery time (RPO and RTO)</li>
+<li style="">Analysis of incidents in the prod environment</li>
+<li style="">Capacity management</li>
+</ul>
+<p> </p>
+<p><strong>Requirements</strong></p>
+<ul style="">
+<li style="">5+ years of work experience implementing, troubleshooting, and supporting infrastructure software and distributed systems</li>
+<li style="">Develop in one or more languages (Golang, python, ruby) for at least 2 years</li>
+<li style="">Worked with virtualization and containerization technologies (containerd, docker, k8s) for more than 2 years</li>
+<li style="">Set up CI of varying complexity (Jenkins) with CD to different environments</li>
+<li style="">Experience in creating and maintaining a fault-tolerant system, with log coverage, monitoring, and alerting</li>
+<li style="">Understanding the principle of "infrastructure as code" and the ability to test it (Ansible Terraform)</li>
+<li style="">Principles of organizing network security (IPsec, WAF, IPS)</li>
+</ul>
+<p> </p>
+<p><strong>Our Tech Stack:</strong></p>
+<ul style="">
+<li style="">Infrastructure: Bare-metal / AWS</li>
+<li style="">Databases: Clickhouse / MySQL</li>
+<li style="">SCM: git / GitHub</li>
+<li style="">Message broker: Kafka</li>
+<li style="">Repository: Nexus</li>
+<li style="">CI/CD: Jenkins</li>
+<li style="">Monitoring: Icinga 2, Grafana, Prometheus, Victoria metrics, ELK</li>
+<li style="">Orchestration: k8s, Ansible, Terraform</li>
+<li style="">Containers: LXC, Docker</li>
+<li style="">Scripting: Python, Golang, Ruby, Groovy</li>
+<li style="">OS: Debian/Ubuntu</li>
+<li style="">Others: Docker compose, IPSec</li>
+</ul>
+<p> </p>
+<p><strong>Benefits</strong></p>
+<ul style="">
+<li style="">Opportunity to work &amp; collaborate with a truly global team spread across 5 countries</li>
+<li style="">Work from anywhere in the world</li>
+<li style="">Choose your own work hours</li>
+<li style="">Yearly trip with Bitquery team to any remote destination</li>
+<li style=""><strong>A promise to finish the interview processes within 1-2 weeks<br><br></strong></li>
+</ul>
+<p><strong><em>Being a startup we take decisions &amp; move fairly fast, while giving candidates great experience with the interview process. We have a flat hierarchy in the organization where we empower individuals and provide an opportunity to deliver results as per his/her working style. Come and join a great culture and build Bitquery with us.</em></strong></p>
+<img src="https://remotive.com/job/track/1596490/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
@@ -120,7 +138,7 @@
                     <code>apache,AWS,backend,cloud</code>
                 </td>
                 <td width="200">
-                <text>28 days ago</text>
+                <text>29 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/site-reliability-engineer-1570342" align="right" target="_blank">Apply</a>
