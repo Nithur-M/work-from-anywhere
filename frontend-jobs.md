@@ -1,57 +1,5 @@
 <div align="center"><h2>FRONTEND JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/59c73224e44fd807b7f31656a04a162d1677050170.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Gelato Network</h5>
-                    <h3>Senior Front End Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>web3,crypto,ethereum,front-end,technical,test,travel,finance,css,senior,go,engineer</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-front-end-engineer-gelato-network-198330" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h3><b>Description</b></h3><p>Join our team and work directly with the founders to build the future of Automation for the upcoming decentralized web. Enjoy a lot of perks, travel with us to cool events and participate in amazing off-side retreats with the team!<br>Participate in creating the most sophisticated crypto bot network ever created by designing the smart contracts that will rule them all!</p><p>We are a fully remote team and although we hire globally, there is a strong<b> preference for this role to be based in Central Europe.</b></p><p></p><h3><b>What we offer:</b></h3><br><ul>
-<li align="left">A fully remote team with team members in Zug, Paris, New York, Berlin, and many other cool places</li>
-<li align="left">Join the "Gelato Legendary Member Club" and work directly with the founders</li>
-<li align="left">Participate in building the infrastructure that aims to become the glue between all crypto networks and power the most promising dapps on Ethereum and beyond</li>
-<li align="left">Generous Token Package - Get a share of the network's token and be able to participate in the Gelato DAO</li>
-<li align="left">Chance to participate in shaping the future of web3 by working together with the biggest projects in this space, such as MakerDAO, Connext, Quickswap, etc.</li>
-<li align="left">Worldclass Investors - We are backed by top class VCs and Angels including Dragonfly, Galaxy Digital, ParaFi, Gnosis, Stani Kulechov and many more.</li>
-</ul><br><h3><b>Responsibilities:</b></h3><br><ul>
-<li align="left">Work together with Product Designers and Product Managers to implement Gelatoâs Front End Specs</li>
-<li align="left">Help advanced front end applications such as Sorbet Finance and Gelato Ops</li>
-<li align="left">Use a test driven development process to ensure only solid releases make it into production</li>
-<li align="left">Participate in sprint planning and standups to discuss priorities and manage issue</li>
-</ul><br><h3><b>Requirements:</b></h3><br><ul>
-<li align="left">4yrs+ years experience with React.js, Vue.js or similar front-end frameworks</li>
-<li align="left">4yrs+ years experience Graph QL</li>
-<li align="left">4yrs+years experience with Typescript</li>
-<li align="left">Strong CSS skills</li>
-<li align="left">You can work with high autonomy</li>
-<li align="left">Strong written and verbal communication skills</li>
-</ul><br><h3><b>Technologies we use and teach:</b></h3><br><ul><li align="left">React.js</li></ul><br><h3><b>Benefits</b></h3><br><ul>
-<li align="left">Work very autonomously</li>
-<li align="left">Generous GEL token package</li>
-<li align="left">Competitive Salary</li>
-<li align="left">Unlimited holiday (yes you heard that right!)</li>
-<li align="left">Work together with one of the best technical teams on Ethereum</li>
-<li align="left">Build relationships with top blockchain teams which are already Gelato users, including MakerDAO, Instadapp, Zerion, Quickswap and many more</li>
-<li align="left">Chance to travel the world to go to exciting events and connect with key players in this industry</li>
-<li align="left">Join amazing in-person offsites all over the world</li>
-</ul><br/><br/>Please mention the word **ADROITLY** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0074/4123/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -62,7 +10,7 @@
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/clickguard-inc-senior-frontend-engineer" align="right" target="_blank">Apply</a>
@@ -117,112 +65,84 @@
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remotive.com/job/1599441/logo" width="38px" height="auto">
+                    <img src="https://remotive.com/job/1599561/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Windranger Labs</h5>
-                    <h3>Mantle - Front End Engineer (Mandarin Speaking)</h3>
+                    <h5>UNION</h5>
+                    <h3>Senior Frontend Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>crypto,CSS,html,react</code>
+                    <code>frontend,kubernetes,machine learning,research</code>
                 </td>
                 <td width="200">
                 <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remotive.com/remote-jobs/software-dev/mantle-front-end-engineer-mandarin-speaking-1599441" align="right" target="_blank">Apply</a>
+                <a href="https://remotive.com/remote-jobs/software-dev/senior-frontend-engineer-1599561" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                <div class="h2">Who we are</div>
-<p style="min-height: 1.5em;">Windranger is a product lab working on the <a href="https://www.bitdao.io/" rel="nofollow" target="_blank"><u>BitDAO</u></a> ecosystem, and other Web3 projects (protocols, DeFi, etc.). You can read more about us here: <a href="https://docs.windranger.io/" rel="nofollow" target="_blank"><u>https://docs.windranger.io/</u></a></p>
-<p style="min-height: 1.5em;">We’re looking for the next generation of leaders and doers who have a passion for crypto and are looking to influence the future of Web3. If you value a flexible work environment that’s low ego and is focused on pragmatism over perfection, then keep on scrolling.</p>
-<p style="min-height: 1.5em;"> </p>
-<div class="h2">About this team</div>
-<p style="min-height: 1.5em;">Windranger Labs are looking for a Front End Engineer to help support ongoing project work, maintain and build promotional landing pages, contribute to building awesome interactive web experiences and help drive a number of key initiatives around building community, including open source contributions and hackathons. We are looking for a self starter who has the initiative to self educate and be part of a dynamic fast paced team in a highly collaborative environment. Strong skills in communication and collaboration will be essential in this position. You have a curious mind, and always probe deeper into requirements. You are able to communicate clearly and efficiently with our globally diverse cohort of talented designers, engineers, content creators and product managers.</p>
-<p style="min-height: 1.5em;">At Windranger we value individual contribution and results above all else. You will have the space and freedom to bring creative ideas to the table that help us achieve our goals.</p>
-<p style="min-height: 1.5em;">Windranger have an extremely high bar for excellence and hire people who are constantly pushing their personal limits.</p>
-<p style="min-height: 1.5em;"> </p>
-<div class="h2">What you'll help us build</div>
+                <p style="min-height: 1.5em;"><strong>About Us</strong></p>
+<p style="min-height: 1.5em;"><a href="http://Union.ai" rel="nofollow" target="_blank">Union.ai</a> is a Seattle-based startup founded by a team of former Lyft engineers.  We contribute to <a href="https://flyte.org" rel="nofollow" target="_blank">Flyte</a>,  an open source platform for orchestrating massively scalable machine learning pipelines running on Kubernetes. </p>
+<p style="min-height: 1.5em;">These pipelines power some of the most popular apps on your phone, as well as applications in diverse industries such as song sharing, vaccine research, early cancer detection, global map rendering, financial projecting, and piloting autonomous vehicles.</p>
+<p style="min-height: 1.5em;"><strong>The Opportunity</strong></p>
+<p style="min-height: 1.5em;">We are seeking seasoned senior front-end engineers to deliver delightful web user experiences to the people managing these complicated systems.  You will be challenged to build complex, modern web applications quickly but thoughtfully, balancing speed-to-market with scalability and maintainability.</p>
+<p style="min-height: 1.5em;"><strong>In this role, you will:</strong></p>
 <ul style="">
 <li style="">
-<p style="min-height: 1.5em;">Support on-going maintenance of our growing ecosystem of landing pages and sites</p>
+<p style="min-height: 1.5em;">Bachelor’s degree in computer science or related field, or equivalent experience</p>
 </li>
 <li style="">
-<p style="min-height: 1.5em;">Help write articles and blog posts</p>
+<p style="min-height: 1.5em;">We are seeking candidates with at least 3-5 years of experience building modern interactive web experiences</p>
 </li>
 <li style="">
-<p style="min-height: 1.5em;">Contribute to open source projects and improve your public profile</p>
+<p style="min-height: 1.5em;">Excellent verbal and written communication skills -- we work as a global team integrated with with a global open-source community</p>
 </li>
 <li style="">
-<p style="min-height: 1.5em;">Potential to travel to events to represent the company</p>
+<p style="min-height: 1.5em;">Proven eloquence in modern TypeScript</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Thorough understanding of React.js and its core principles</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Proven unit testing discipline</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Mastery of cross-browser accessibility standards, and proven commitment to building accessible web applications</p>
+</li>
+<li style="">
+<p style="min-height: 1.5em;">Expert knowledge of debugging, maintaining, and upgrading live software systems</p>
 </li>
 </ul>
-<p style="min-height: 1.5em;"> </p>
-<div class="h2">Your craft</div>
+<p style="min-height: 1.5em;"><strong>Benefits &amp; Belonging</strong></p>
+<p style="min-height: 1.5em;">At <a href="http://Union.ai" rel="nofollow" target="_blank">Union.ai</a> we know that employees who feel their best can build amazing things and we are proud to offer best in class benefits that will continually evolve and grow as the needs of our employees do. <em>Benefits may vary based on country</em></p>
 <ul style="">
 <li style="">
-<p style="min-height: 1.5em;">Ideally 4+ years experience in a Front End Engineering role, with the ability to show examples of websites, landing pages and components you have built</p>
+<p style="min-height: 1.5em;">Excellent medical - We pay 100% of your premiums and 90% for your dependents</p>
 </li>
 <li style="">
-<p style="min-height: 1.5em;">Excellent skills in communication, preferably with experience in a remote-first and/or global distributed environment</p>
+<p style="min-height: 1.5em;">Generous dental and vision plans- We pay 80% of the premiums for you and your dependents</p>
 </li>
 <li style="">
-<p style="min-height: 1.5em;">Fluent in English and Mandarin</p>
+<p style="min-height: 1.5em;">Meaningful equity in the form of options – all employees are owners here</p>
 </li>
 <li style="">
-<p style="min-height: 1.5em;">Experience with React or NextJS frameworks</p>
+<p style="min-height: 1.5em;">Unlimited PTO + 11 company holidays </p>
 </li>
 <li style="">
-<p style="min-height: 1.5em;">Very strong core CSS/HTML skills</p>
+<p style="min-height: 1.5em;">401K company match - 100% match on your first 3% contribution, and 50% match on your next 3% of contribution</p>
 </li>
 <li style="">
-<p style="min-height: 1.5em;">Ability or desire to learn TypeScript</p>
+<p style="min-height: 1.5em;">12 weeks paid parental leave for primary and secondary caregivers</p>
 </li>
 <li style="">
-<p style="min-height: 1.5em;">Familiarity with Tailwind</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">You have the initiative and motivation fix bugs or improve processes that you identify</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Seek clarification on requirements where needed</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">You enjoy owning, running and delivering your own projects</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">You are a curious and pro active learner</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Excellent collaboration skills</p>
+<p style="min-height: 1.5em;">Flexible work schedule at a remote friendly company</p>
 </li>
 </ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><strong>Extra credit</strong></p>
-<ul style="">
-<li style="">
-<p style="min-height: 1.5em;">You have side projects, open-source work</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Web3 experience (Ethers, Infura, MetaMask, Wallet Connect)</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Design System experience</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Interaction and or Animation experience</p>
-</li>
-<li style="">
-<p style="min-height: 1.5em;">Flexibility to travel</p>
-</li>
-</ul>
-<p style="min-height: 1.5em;"> </p>
-<p style="min-height: 1.5em;"><em>If you think you have valuable experience to bring to the organization, but don’t necessarily meet all of the criteria for the role, we still want to hear from you. We consider all applications.</em></p>
-<p style="min-height: 1.5em;"> </p>
-<img src="https://remotive.com/job/track/1599441/blank.gif?source=public_api" alt=""/>
+<p style="min-height: 1.5em;">We believe that our differences are what bring us together to achieve truly special outcomes. We strive to be inclusive and focus on building teams that embody that quality too. <a href="http://Union.ai" rel="nofollow" target="_blank">Union.ai</a> is an equal-opportunity employer and we encourage you to apply, even if your experience doesn’t align exactly with our job description.</p>
+<img src="https://remotive.com/job/track/1599561/blank.gif?source=public_api" alt=""/>
                 </details>
                 </td>
             </tr>,<tr>
