@@ -10,7 +10,7 @@
                     <code>web3,nft,solidity,nft,ethereum,system,security,music,gaming,founder,cto,ceo,technical,support,software,testing,code,manager,devops,cloud,strategy,lead,senior,operational,reliability,engineer,engineering</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-devops-tech-lead-palm-nft-studio-199368" align="right" target="_blank">Apply</a>
@@ -86,45 +86,7 @@
 <h1><span style="font-weight:400;">How to apply</span></h1>
 <p><span style="font-weight:400;">Does this position sound like a good fit? Please apply!</span></p>
 <p><span style="font-weight:400;">If you have any issues submitting your application, please reach out to us at careers@palm.io.</span></p>
-<p><em><span style="font-weight:400;">Palm NFT Studio is an equal opportunity employer. We encourage people from all backgrounds to apply. We are committed to ensuring that our organization is made available and accessible to everyone. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law.</span></em></p><br/><br/>Please mention the word **SKILL** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/3243f15c9cef47742b7dd94fc0e43d5e1677050212.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>InfStones</h5>
-                    <h3>DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>design,web3,ansible,frontend,support,software,code,web,devops,cloud,node,api,management,engineer,engineering,backend,full-time,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-devops-engineer-infstones-198341" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h3><b>Location:</b></h3><br>Dallas, TX (Remote Acceptable - US Applicants Only)<p></p><h3><b>About Company</b></h3><br>InfStones is an advanced, enterprise-grade Platform as a Service (PaaS) blockchain infrastructure provider trusted by the top blockchain companies in the world. InfStonesâ AI-based infrastructure provides developers worldwide with a rugged, powerful node management platform alongside an easy-to-use API. With over 15,000 nodes supported on over 60 blockchains, InfStones gives developers all the control they need - reliability, speed, efficiency, security, and scalability - for cross-chain DeFi, NFT, GameFi, and decentralized application development. InfStones is trusted by the biggest blockchain companies in the world including Binance, CoinList, BitGo, OKX, Chainlink, Polygon, Harmony, and KuCoin, among a hundred other customers.Â InfStones is dedicated to developing the next evolution of a better world through limitless Web3 innovation.Â <p>To date, InfStones has raised over $110 million in capital and is backed by Softbank, GGV Capital, Susquehanna International Group (SIG), Dragonfly Capital, Qiming Venture Partners, Plug and Play and many renowned institutional investors. InfStones is proud to offer medical, vision, dental, short-term and long-term disability insurance, 401(k) plan with company matching, FSA, and other benefits to all full-time employees, along with flexible paid time off, sick day, and holidays.Â <br></p><h3><b>Job Description</b></h3><br>1. Design, build and deploy automation and tools to support InfStone's infrastructure and applications.<br>2. Create and implement CI/CD pipelines for build and deployment of applications and infrastructure.<br>3. Build and implement everything as code using tools like Ansible and Terraform.<br>4. Design and deploy highly available multi-cloud infrastructure and tools.<br>5. Build highly available multi-cloud observability platform.<br>6. Build up multi-cloud secure infrastructure for high availability services.<br>7. Implementing changes to production infrastructure where uptime is key.<p></p><h3><b>Qualifications</b></h3><br><ul>
-<li align="left">2-10 years of experience in infrastructure engineering and DevOps.</li>
-<li align="left">Expertise with container technologies and virtualization like Argocd, Docker, Kubernetes, EKS and Rancher.</li>
-<li align="left">Expertise with cloud platforms such as AWS, GCP, Azure, or similar.</li>
-<li align="left">Expertise with infrastructure-as-code tools such as Ansible, Terraform, or CloudFormation.</li>
-<li align="left">In depth knowledge of build, release, CI/CD systems like Gitlab and Harness.</li>
-<li align="left">Experienced in backend web service development and REST API design.</li>
-<li align="left">Proficiency in common programming and scripting languages (Python, Shell, Java).</li>
-<li align="left">Have the mindset to automate everything.</li>
-<li align="left">Blockchain experience</li>
-</ul><br><h3><b>Nice to have</b></h3><br><ul>
-<li align="left">Knowledge of Swagger and OpenAPI.</li>
-<li align="left">Knowledge of frontend development using HTML/CSS/JavaScript.</li>
-<li align="left">Experienced in software development utilizing SQL, NoSQL.</li>
-</ul><br/><br/>Please mention the word **DETACHABLE** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><em><span style="font-weight:400;">Palm NFT Studio is an equal opportunity employer. We encourage people from all backgrounds to apply. We are committed to ensuring that our organization is made available and accessible to everyone. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law.</span></em></p><br/><br/>Please mention the word **SKILL** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -139,7 +101,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-senior-devops-engineer-1" align="right" target="_blank">Apply</a>
