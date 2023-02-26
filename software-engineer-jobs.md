@@ -1,61 +1,116 @@
 <div align="center"><h2>SOFTWARE ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/732e8d9eb3e2bac0a8310e78d15d65721677050158.png" width="38px" height="auto">
+                    <img src="https://remoteok.com/assets/img/jobs/e6a5dac893d183327af364a5ef8c23b91677309409.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
-                    <h5>Stellar</h5>
-                    <h3>Senior Software Engineer</h3>
+                    <h5>Utopia Labs</h5>
+                    <h3>Software Engineer</h3>
                 </td>
                 <td width="300">
-                    <code>software,design,react,system,full-stack,technical,support,testing,growth,code,web,voice,financial,java,typescript,mobile,management,senior,engineer,engineering,backend,digital nomad</code>
+                    <code>software,web3,front-end,technical,support,javascript,health,engineer,engineering,full-time</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-stellar-198328" align="right" target="_blank">Apply</a>
+                <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-utopia-labs-199880" align="right" target="_blank">Apply</a>
                 </td>
             </tr>
             <tr>
                 <td colspan="3">
                 <details><summary>Description</summary>
-                Interested in working on cutting-edge blockchain technology and creating equitable access to the global financial system? Since 2014, the mission-driven team at the Stellar Development Foundation (SDF) has helped fuel the tremendous growth of the Stellar blockchain network, an open-source platform that operates at high-scale today. Developers and companies around the world build on it, and the SDF team is expanding to support the rapidly growing and changing Stellar ecosystem.<p>As a Senior Software Engineer on the Wallets team, your goal will be to architect, design and build SDKs that empower developers in the Stellar ecosystem to build their own highly customizable wallets. As the blockchain landscape continues to change and evolve, we want to ensure people can jump into our ecosystem as easily as possible.Â To do this, you will help build flagship SDKs along with a small team of engineers innovating and building other types of wallets for developers in our ecosystem.Â </p><p>Your work on the flagship SDKs will provide users of the Stellar networkÂ fully featured SDKs that enable all of the networkâs capabilities to be customized by the ecosystem. On top of providing end users the ability to easily interact with the Stellar network, you will also be collaborating with the rest of the team on creating optimal user experiences for Stellar network features. The flagship SDKs are a greenfield project and your opportunity to make a big impact and provide the ecosystem with the tools so they can fully customize and build wallets on the Stellar Network.Â <br>Stellar is an open network and we encourage developers from all over the world and all skill levels to build with us. <br></p><h3></h3><br><h3>
-<b>In this role, you will:</b>Â </h3><br><ul>
-<li align="left">Work on cutting edge technology at the intersection of blockchain and finance</li>
-<li align="left">Design solutions with developers and ecosystem partners in mind</li>
-<li align="left">Collaborate with Product leaders to create best in class implementations of first of their kind Stellar SDKs</li>
-<li align="left">Work with the product management team to develop features and iterate over time with feedback from users</li>
-<li align="left">Write code using current standards like Typescript, Kotlin, React, and Jest in an open source environment</li>
-<li align="left">Build with modern tools, we'd look to you and your expertise to make those decisions</li>
-<li align="left">Collaborate with team members on code review and design, and contribute to best practices for all of engineering at SDF</li>
-<li align="left">Architect code with an eye for readability as well as scalability</li>
-</ul><br><h3><b>You have:Â </b></h3><br><ul>
-<li align="left">5+ years creating Mobile Apps and/or full-stack and web applications</li>
-<li align="left">Proficiency with Typescript & Kotlin</li>
-<li align="left">Knowledge of backend systems</li>
-<li align="left">Familiarity with databases and data storage</li>
-<li align="left">Knowledge of modern testing libraries</li>
-<li align="left">Independent and results driven. Skilled at working in an environment with dynamic objectives.</li>
-<li align="left">The ability to be a fast learner and a strong problem solver</li>
-</ul><br><h3><b>Bonus Points if you have:</b></h3><br><ul>
-<li align="left">React and React Native Experience</li>
-<li align="left">Swift or Java (for Mobile app development)</li>
-<li align="left">Experience deploying web applications using Kubernetes and Docker</li>
-<li align="left">Experience as a tech lead</li>
-</ul><br>We offer competitive pay with a base salary range for this position of $145,000- $190,000 depending on job-related knowledge, skills, experience, and location. In addition, we offer lumen-denominated grants along with the following perks and benefits:<p></p><h3><b>USA Benefits/Perks:</b></h3><br><ul>
-<li align="left">Competitive health, dental & vision coverage</li>
-<li align="left">Flexible time off + 15 company holidays including a company-wide holiday break</li>
-<li align="left">Paid parental leave</li>
-<li align="left">Life & ADD</li>
-<li align="left">Short & Long term disability</li>
-<li align="left">FSA & Dependent Care Accounts</li>
-<li align="left">401K (4% match)</li>
-<li align="left">Employee Assistance Program</li>
-<li align="left">Monthly gym allowance</li>
-<li align="left">Daily lunch and snacks in-office</li>
-<li align="left">L&D budget of $1,500/year</li>
-<li align="left">Company retreats</li>
-</ul>Â <br><h3><b>About Stellar</b></h3><br>Stellar is a decentralized, fast, scalable, and uniquely sustainable network for financial products and services. It is both a cross-currency transaction system and a platform for digital asset issuance, designed to connect the worldâs financial infrastructure. Dozens of financial institutions worldwide issue assets and settle payments on the Stellar network, which has grown to over 7 million accounts.Â Â Â <br>Â <br><h3><b>About the Stellar Development Foundation</b></h3><br>The Stellar Development Foundation (SDF) is a non-profit organization that supports the development and growth of Stellar, an open-source network that connects the worldâs financial infrastructure. Founded in 2014, the Foundation helps maintain Stellarâs codebase, supports the technical and business communities building on the network, and serves as a voice to regulators and institutions. The Foundation seeks to create equitable access to the global financial system, using the Stellar network to unlock the worldâs economic potential through blockchain technology.<br>Â <br>We look forward to hearing from you!<br>Â <br><h3><b>Privacy Policy</b></h3><br>By submitting your application, you are agreeing to our use and processing of your data in accordance with ourÂ <span style=""><a class="bbcode-link" href="https://www.stellar.org/privacy-policy?locale=en" target="_blank" rel="noopener noreferrer nofollow">Privacy Policy</a></span>.<br>Â <br><i>SDF is committed to diversity in its workforce and is proud to be an equal opportunity employer. SDF does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law.</i><br/><br/>Please mention the word **DAUNTLESS** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                <div><span style="font-size:24px;">ð» Engineering at Utopia Labs</span></div><div><br></div><div>We love building beautiful and powerful technology with deep impact and purpose. With almost all of our founding team having a technically-focused background from companies like Microsoft, Facebook, and Lunchclub. Utopia Labs wants you to join a group of hackers who are driven by their deep curiosity, a pursuit of technical excellence, and a passion for driving impact.</div><div><br></div><div>At Utopia Labs, we're building the tools that will support the future of governance, commerce, and work. We aim to help DAOs revolutionize the way people work, own, and interact with the world. Our engineering effort is central to that goal.</div><div><br></div><div>As a engineer with Utopia, you will help build + layout our engineering foundation and craft our product backbone. If you're interested in championing technological leadership in the web3 space, we'd love for you to apply!</div><p></p><h4>Responsibilities </h4><p></p><p></p><ul>
+<li>Participate in the initial scoping of product requirements for new features and products</li>
+<li>Developing products from designs and specifications to live deployments.</li>
+<li>Build out new features and products with the product team.</li>
+<li>Help address customer feature requests</li>
+<li>Build out prospective integrations with partners and protocols</li>
+<li>Create trustworthy user experiences by building interfaces that are simple, easy to comprehend, performant and reliable using modern tools like React, Typescript, and GraphQL</li>
+</ul><p></p><h4>Requirements</h4><p></p><p></p><ul>
+<li>Experience with Javascript + front-end frameworks such as Javascript, Typescript, NodeJS, Express, NextJS, or similar.</li>
+<li>Development experience using NodeJS, Express, NextJS, or similar</li>
+<li>Understanding of GraphQL</li>
+<li>Solid experience architecting solutions (experience in different architecture layers and components) through multiple frameworks</li>
+<li>Proficiency with Git</li>
+<li>A good understanding of CI/CD</li>
+<li>Experience developing with a test-driven mentality</li>
+</ul><p></p><h4>Nice to have</h4><p></p><p></p><ul>
+<li>Hackathon experience or competitive programming</li>
+<li>Experience contributing to open-source projects</li>
+<li>1-3+ years full-time software engineering experience</li>
+<li>Experience contributing to open-source projects</li>
+<li>Experience writing smart contracts </li>
+<li>Demonstrated interest in open and community-driven platforms.</li>
+</ul><div><span style="font-size:24px;">Perks & Benefits</span></div><div><br></div><div><span style="font-size:18px;">ð Health and wellbeing</span></div><div>We offer top-of-the-line benefits, including health, mental health, dental, and vision insurance.</div><div><br></div><div><span style="font-size:18px;">ð´ Time off</span></div><div>We want people to take time off to rest and rejuvenate. We offer a 3 week paid vacation as well as 10 observed holidays by country.</div><div><br></div><div><span style="font-size:18px;">ð£ Parental leave</span></div><div>Our parental leave policy offers biological, adoptive, and foster parents paid time off to spend quality time with family.</div><div><br></div><div><span style="font-size:18px;">ð¥ Lunch on us</span></div><div>You'll have a very generous meal budget for you to eat every day.</div><div><br></div><div><span style="font-size:18px;">ð Commuting</span></div><div>We offer monthly commuter credits.</div><div><br></div><div><br></div><div><span style="font-size:24px;">Any Questions?</span></div><div><br></div><div>Email: pryce@utopialabs.com</div><div><br></div><div>Twitter: <a href="https://twitter.com/pryceandstuff" class="postings-link" rel="noopener noreferrer nofollow">https://twitter.com/pryceandstuff</a>
+</div><div><br></div><br/><br/>Please mention the word **READABLE** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/ced8bff18d4f83d67daebbe16fe7ee6d1677309375.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Magna</h5>
+                    <h3>Senior Software Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>software,design,crypto,react,security,technical,code,senior,operations,analytics,legal,healthcare,engineer,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-magna-199874" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h3><b>About Magna</b></h3><br>Magnaâs goal is to be the one-stop solution for all token-based crypto companies who want to track outstanding and promised token allocations, automate the distribution of those tokens, and manage information about their stakeholders. Some liken us to âCarta for Web3â.<br>Our mission is to make it easier for crypto companies to manage their tokens and tokenholders so that they can focus on their product and not custom internal tools and smart contracts as they scale. We work with projects of all sizes throughout various L1 & L2 ecosystems.<br>Tokens are amongst the core assets crypto companies use to compensate and incentivize investors, employees, advisors, and even community members. The most common use cases for Magna include:<br><ul>
+<li align="left">
+<b>Token Vesting</b>Â to employees and investors - Automated token distribution based on custom unlock schedules.</li>
+<li align="left">
+<b>Token Streaming</b>Â - Continuous distribution of tokens to stakeholders.</li>
+<li align="left">
+<b>Airdrops</b>Â - Vested airdrops to community members.</li>
+<li align="left">
+<b>Programmable Unlocks</b>Â â Distributing tokens using our SDK based on contract interactions or in-app/in-game accomplishments.</li>
+<li align="left">
+<b>Stakeholder Management</b>Â â Tracking tax liability and legal filings for tokenholders and more.</li>
+</ul>Magnaâs platform is used by investors, employees, accountants, lawyers, and other key stakeholders throughout the crypto ecosystem.<br><h2></h2><br><h3><b>Why Work at Magna?</b></h3><br><ul>
+<li align="left"><b>Weâre a highly technical team</b></li>
+<li align="left">This is a space with deep technical challenges that reward builders. The blockchain isnât just a distributed ledger anymore, itâs a distributed state machine. At Magna, weâre not just building a new paradigm of software â weâre also trying to leverage the best of web2 while weâre at it.</li>
+<li align="left">Weâre aÂ <span style=""><a class="bbcode-link" href="https://www.coindesk.com/business/2022/09/15/token-management-platform-magna-raises-15m-seed-round-at-70m-valuation/" target="_blank" rel="noopener noreferrer nofollow"><b>well-funded company</b></a></span>Â with runway that can last us through the bear market (as long as that may be)</li>
+<li align="left">
+<b>A downtown Manhattan office with our own rooftop â</b>Â we operate on a hybrid model, where most employees come in a couple of times per week.</li>
+<li align="left">
+<b>Hardware</b>Â â Whatever you need to get things done, plus a stipend to set up your home office.</li>
+<li align="left">
+<b>Learning budget</b>Â â Buy courses and attend conferences or hackathons.</li>
+<li align="left">
+<b>Unlimited Vacation</b>Â â Take time off when you need it - 2 week minimum.</li>
+<li align="left">
+<b>Top-notch healthcare plans</b>Â â We offer the best available platinum PPO and other similar plans that give you the most options with the lowest deductibles.</li>
+</ul><h2></h2><br><h3><b>About the Role</b></h3><br>Build the future of token operations with us by designing and implementing software architecture that scales. Weâre looking for someone comfortable going from zero-to-one and rapidly iterating on hackathon-style projects with other engineers as we grow.<br><h2></h2><br><h3><b>What youâll do</b></h3><br><ul>
+<li align="left">Work on the forefront of token distribution technology at the infrastructure level, solving edge-cases around token distribution, writing smart contracts for tokens worth millions of dollars</li>
+<li align="left">Build polished user experiences and applications</li>
+<li align="left">Where appropriate, ensure code modularity in the code written by the team through peer code-reviews, to increase our teamâs velocity and make our code infrastructure more scalable</li>
+<li align="left">Write tests to make sure that things work when we ship them. If our users canât use the app, they canât get paid!</li>
+</ul><h2></h2><br><h3><b>What weâre looking for</b></h3><br><ul>
+<li align="left">Experience working with data-intensive applications, or apps used by tens of thousands of users</li>
+<li align="left">Comfortable working in sprint cycles and willing to bite the bullet when critical issues pop up</li>
+<li align="left">Familiarity with our tech stack</li>
+<li align="left">Based in New York City and open to a hybrid work environment</li>
+</ul><h2></h2><br><h3><b>Magnaâs Tech Stack</b></h3><br>Magna is a multi-chain dapp, and our stack includes TypeScript, Next.js, React and GraphQL, as well as the native languages for various blockchains (i.e. Solidity, Rust, Move).<br>Experience with any of these isÂ <b>nice to have</b>, but not a requirement:<br><ul>
+<li align="left">DevOps, infrastructure, or data analytics experience</li>
+<li align="left">Interfacing with smart contracts and blockchain via libraries (any blockchain).</li>
+<li align="left">Applications where security and integrity is extremely important (finance, fintech, government, etc.)</li>
+</ul><h3></h3><br><h3><b>Reasons you might be the right candidate for this role:</b></h3><br><ul>
+<li align="left">
+<b>Passion for engineering</b>Â â genuine passion and curiosity for the craft that you bring to work each day</li>
+<li align="left">
+<b>Good taste</b>Â â You think critically aboutÂ <i>how</i>Â you build what you build, and apply good judgment to every design and implementation decision along the way.</li>
+</ul><br/><br/>Please mention the word **ENVIOUSLY** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
