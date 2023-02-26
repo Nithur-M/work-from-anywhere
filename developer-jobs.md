@@ -1,5 +1,177 @@
 <div align="center"><h2>DEVELOPER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/ab8f322cde1f2c1546d9fa4005415fac1677309355.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Abra</h5>
+                    <h3>Quantitative Developer</h3>
+                </td>
+                <td width="300">
+                    <code>developer,defi,crypto,cryptocurrency,system,software,testing,financial,bank,cloud,strategy,management,engineering,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-quantitative-developer-abra-199868" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro">
+<p>Abra is on a mission to create a simple and honest crypto bank to enable millions of crypto holders to maximize the potential of their crypto assets. We operate an easy to use app allowing users to earn interest, buy, sell, hold, and trade in cryptocurrencies, in one single place. Our vision is an open, global financial system that is easily accessible to everyone <span style="font-weight:400;">by making cryptocurrency investing simple and accessible. Our growing crypto investing and wealth management platform is used by millions of consumers in over 150 countries and growing! </span></p>
+<p><span style="font-weight:400;">We are growing our team to match our growing user base. This is an opportunity to join a company that is part of the biggest financial revolution in modern history. </span></p>
+</div><p><span style="font-weight:400;">Our Institutional Trading team is looking for a Quantitative Developer who will work hand-in-hand with the trading desk to maintain and develop an execution engine, automate CeFi/DeFi trading strategies, and build monitoring tools while managing our technology infrastructure.  In this role, you will work with the head of trading and co-head of the OTC desk to build cutting-edge infrastructure that will directly impact the trading PnL. This is an attractive opportunity for ambitious devs who want to be part of the action on a trading desk. </span></p>
+<p><strong>What Youâll Do:</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Build a trade execution system connecting to various CeFi and DeFi exchanges</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Develop tools to help the trading desk with pre-trade analysis, such as monitoring dashboards and backtesting systems</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Build post-trade monitoring dashboards for CeFi and DeFi</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Write smart contracts to automate DeFi strategies</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Own, secure and manage Cloud resources</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Liaise with the Engineering team to source software and hardware needed by the team</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Participate and trading strategy discussions and enhance the conversation by offering ideas to improve strategy</span></li>
+</ul>
+<p><strong>About You:</strong></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">3+ years of commercial experience</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Bachelors/Masters/PhD in Computer Science/Engineering/Mathematics and Computing/Physics or similar field</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Strong coding experience in C++/Java, Solidity/Rust, and Python</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Some experience with writing smart contracts </span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Excellent software architecture skills, experience, and understanding of software engineering best practices, object oriented design, and software testing methodologies </span></li>
+<li style="font-weight:400;">A self-starter mindset</li>
+<li style="font-weight:400;">Able to identify opportunities to improve trades, executions, and monitoring</li>
+</ul><div class="content-conclusion">
+<p><strong>Benefits: </strong></p>
+<ul>
+<li><span style="font-weight:400;">Globally distributed team (everyone is remote!)</span></li>
+<li><span style="font-weight:400;">Unlimited PTO</span></li>
+<li><span style="font-weight:400;">Medical</span></li>
+<li><span style="font-weight:400;">Dental</span></li>
+<li><span style="font-weight:400;">Vision</span></li>
+<li><span style="font-weight:400;">Basic and supplemental life insurance</span></li>
+<li><span style="font-weight:400;">Short-term and long-term disability</span></li>
+<li><span style="font-weight:400;">401(k)</span></li>
+</ul>
+<p><em><span style="font-weight:400;">At Abra, we are an equal opportunity employer committed to a diverse, inclusive, and equitable workplace and candidate experience. We strive to create an environment where everyone has a sense of belonging and purpose, and where we learn from the unique experiences of those around us. </span></em></p>
+<p><em><span style="font-weight:400;">We encourage all qualified candidates to apply regardless of race, color, ancestry, religion, national origin, sexual orientation, age, citizenship, marital or family status, disability, gender, gender identity or expression, pregnancy or caregiver status, veteran status, or any other legally protected status.</span></em></p>
+</div><p><figure><iframe style="width:500px;height:281px;" src="//www.youtube.com/embed/6T4UVH2Hhoo" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **SURREAL** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/da58098904f286ff6dc158b0c30af0a51677309322.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Swirlds Labs</h5>
+                    <h3>Developer Advocate</h3>
+                </td>
+                <td width="300">
+                    <code>developer,design,web3,technical,support,software,travel,voice,video,lead,engineering,educational,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-developer-advocate-swirlds-labs-199859" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="p-rich_text_section"><strong>About Swirlds Labs:</strong></div>
+<div class="p-rich_text_section">
+<p>Swirlds Labs was established with the mission to accelerate the future, built on Hedera â the most used, greenest, enterprise-grade public ledger for the decentralized economy. Our vision is to enable âShared Worldsâ, where anyone can gather, collaborate, conduct commerce, and control their own online footprint. We will enable this vision by continuing to provide development and other support for the Hedera network, building community and enterprise solutions that enable fast, rapidly scalable adoption of Hedera network services, and cultivating âmoonshotâ projects that will change the way humans and organizations interact in cyberspace.</p>
+</div>
+<p><strong>You may find yourself doing all of the following:</strong></p>
+<p><span style="font-weight:400;">As a Developer Advocate for Swirlds Labs, your job is to be on the edge of the newest developments in Hedera and in the overall web3/blockchain ecosystem. You will stay updated on the innovative use cases of decentralized networks for a variety of industries, including crypto, DeFi, NFTs, Metaverse, enterprise banking, gaming, sustainability, and many others. You will then use that knowledge to empower the Hedera Council members, clients, pre-sales leaders, developer community, and other partners with the ability to build innovative decentralized applications using Hedera as the best-in-class public distributed ledger. You will lead learning and project planning workshops and also provide in-depth knowledge of the Hedera technology stack in support of live deployments, events, and technical discussions. You will also play an important role in representing the voice of the partners and developers in the community to ultimately improve the Hedera network. This role is great for people with technical aptitude and an entrepreneurial spirit who want to make a difference in evolving the web3 industry together with amazing technical talent.</span></p>
+<ul>
+<li><span style="font-weight:400;">Being the technical Hedera product expert empowering others to build on Hedera</span></li>
+<li><span style="font-weight:400;">Staying updated on the latest developments in the blockchain ecosystem and sharing this knowledge both internally and externally</span></li>
+<li><span style="font-weight:400;">Understanding developer user journeys and enabling newcomers to participate in the ecosystem</span></li>
+<li><span style="font-weight:400;">Working with the product and engineering teams to deliver the feedback and design future Hedera improvements through Hedera Improvement Proposals</span></li>
+<li><span style="font-weight:400;">Defining industry and use case best practices</span></li>
+<li><span style="font-weight:400;">Delivering successful partner and end-customer workshops</span></li>
+<li><span style="font-weight:400;">Engaging and enabling developers through social media channels</span></li>
+<li><span style="font-weight:400;">Participating in and recording educational podcasts and video tutorials</span></li>
+<li><span style="font-weight:400;">Speaking at technical meetups and conferences</span></li>
+</ul>
+<p><strong>Qualification Requirements:</strong></p>
+<p><span style="font-weight:400;">A Developer Advocate should be able to lean on his or her vast technical knowledge, extensive experience, and general engineering prowess to effectively assist projects and make suggestions or recommendations for improvements.</span></p>
+<ul>
+<li style="font-weight:400;"><span style="font-weight:400;">Solid and diverse engineering skills, with a finger on the pulse of current development technologies across several platforms</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience developing decentralized applications on public or private networks, especially using EVM-compatible networks</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Experience using web3 development tools: Hardhat, Truffle, Open Zeppelin, etc.</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Friendly and approachable; a great mentor</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Willingness to travel anywhere our communities live a few times every quarter</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Ability to work irregular hours and some weekends to support conferences, user groups, and other developer events</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Entrepreneurial thinking and the ability to act effectively with only high-level direction</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Very social, a willingness and desire to make connections while meeting and talking with people</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Strong English verbal and written communication skills</span></li>
+<li style="font-weight:400;"><span style="font-weight:400;">Ability to work independently</span></li>
+</ul>
+<p><strong>Other skills that are great to bring with you but that we can help you develop:</strong></p>
+<ul>
+<li><span style="font-weight:400;">Existing skills working with systems integrators and major enterprise software vendors</span></li>
+<li><span style="font-weight:400;">Existing leadership and service in developer communities</span></li>
+<li><span style="font-weight:400;">Technical writing skills as demonstrated via blog posts and other written work</span></li>
+<li><span style="font-weight:400;">Willingness to take the stage is essential for inspiring developers. A Developer Advocate needs to deliver presentations that are effective and respectful of an audience's time and attention</span></li>
+<li><span style="font-weight:400;">A deep industry specialty and network are strongly preferred</span></li>
+<li><span style="font-weight:400;">An active GitHub account demonstrative of your technical abilities and interests</span></li>
+</ul>
+<p> </p><br/><br/>Please mention the word **TITILLATINGLY** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/abdd10cce6c6f7fc88c2e223a437517a1677309329.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Oasis Network</h5>
+                    <h3>Developer Relations Manager</h3>
+                </td>
+                <td width="300">
+                    <code>developer,manager,web3,technical,software,finance,content,senior,engineering,full-time,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-developer-relations-manager-oasis-network-199864" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <b>Company Description:</b><br>Designed for the next generation of blockchain, the Oasis Network is the first privacy-enabled blockchain platform for open finance and a responsible data economy. The Oasis Protocol Foundation supports projects focused on building privacy-preserving applications on top of the Oasis Network.<p><b>Title:Â </b><br>Developer Relations Manager</p><p><b>Location:</b><br>Europe (Remote)<br><b>Â </b><br><b>Responsibilities</b>:<br><ul>
+<li align="left">Help developers and projects to successfully build and launch dApps using theÂ <span style=""><a class="bbcode-link" href="https://oasisprotocol.org/blog/the-oasis-privacy-layer-powered-by-sapphire" target="_blank" rel="noopener noreferrer nofollow">Oasis Privacy Layer</a></span>Â and theÂ <span style=""><a class="bbcode-link" href="https://oasisprotocol.org/blog/what-you-can-build-with-the-industrys-first-confidential-evm-sapphire" target="_blank" rel="noopener noreferrer nofollow">Oasis Sapphire (Oasis confidential EVM)</a></span>
+</li>
+<li align="left">Respond to technical questions from developers and builders</li>
+<li align="left">Solicit and respond to feedback from Oasis developer community and share feedback/insights with Product/Engineering</li>
+<li align="left">Build a strong Oasis developer community</li>
+<li align="left">Host technical workshops at conferences/events (virtual or in-person) and produce technical content (e.g. docs, tutorials and videos)</li>
+<li align="left">Evangelize Oasis technologies, to Oasis community and the wider Web3 ecosystem</li>
+<li align="left">Improve the overall quality and engagement of the Oasis developer community on channels such as Oasis Forum, Discord, etc.</li>
+<li align="left">Collaborate with Marketing, Community and BD to 1) grow developer engagement; 2) onboard new developers</li>
+</ul><br><b>Requirements</b>:<br><ul>
+<li align="left">Passionate about software development, Web3, privacy and building communities</li>
+<li align="left">Bachelor degree in Computer Science or related Engineering fields</li>
+<li align="left">3+ years of experience as a software developer or developer relations/advocate</li>
+<li align="left">Has contributed to open source projects</li>
+<li align="left">(nice to have) Has contributed to open source blockchain/Web3 projects</li>
+<li align="left">Strong technical experience with smart contract development, specifically in Solidity</li>
+<li align="left">In-depth knowledge of the developer products and tooling market in Web3</li>
+<li align="left">In-depth knowledge of Layer-1 blockchain networks and Web3 dApps</li>
+<li align="left">Superb spoken and written English</li>
+<li align="left">(nice to have) 3+ years of full-time experience at a layer-1 blockchain network and/or Web3 protocols</li>
+<li align="left">(nice to have) Experience in writing documentation and producing technical content</li>
+<li align="left">(nice to have) Experience in public speaking and hosting workshops</li>
+</ul><b>Â </b><br><i>Candidates with more experience will be considered for a senior position.</i><br>This is a full-time role that will be paid in USDT OR USDC cryptocurrency<br>The role can be based anywhere with flexible and remote work options. There is a preference for candidates who can work to CEST time zone.</p><br/><br/>Please mention the word **LAWFULLY** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/a562a3fe1362dd95f2d09d52b99dc68d1677222949.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +182,7 @@
                     <code>developer,golang,linux,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-blockchain-developer-kira-network-199351" align="right" target="_blank">Apply</a>
@@ -29,7 +201,7 @@ Requirements:</h3>
         <li>Excellent understanding of Golang and cosmos-sdk with prior experience in blockchain development. </li>
         <li>Strong familiarity with Linux OS,</li>
         <li>Basic familiarity  infrastructure development</li>
-</ul><br/><br/>Please mention the word **SOLICITOUS** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **SOLICITOUS** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -44,7 +216,7 @@ Requirements:</h3>
                     <code>developer,crypto,technical,support,software,growth,code,lead,content,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-developer-advocate-axelar-199358" align="right" target="_blank">Apply</a>
@@ -81,7 +253,7 @@ Requirements:</h3>
 <li align="left">Chance to really challenge yourself whilst learning heaps of stuff in the process.</li>
 <li align="left">Unlimited time off throughout the year to rest and recharge.</li>
 <li align="left">Competitive compensation with stock options, experiencing growth from the initial phase.</li>
-</ul><br/><br/>Please mention the word **HOLY** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **HOLY** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -96,7 +268,7 @@ Requirements:</h3>
                     <code>developer,design,web3,technical,software,code,senior,junior,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-full-stack-developer-spatial-labs-198848" align="right" target="_blank">Apply</a>
@@ -143,63 +315,7 @@ Requirements:</h3>
 
 <p>â¢ Ability to work independently and as part of a team</p>
 
-<p>â¢ Excellent written and verbal communication skills</p><br/><br/>Please mention the word **CELEBRATE** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/e5d7f410329deead2d0a83e27c5fe7151677050185.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Stellar</h5>
-                    <h3>Developer Evangelist</h3>
-                </td>
-                <td width="300">
-                    <code>developer,system,technical,support,growth,voice,financial,content,educational,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-developer-evangelist-stellar-198332" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                Interested in working on cutting-edge blockchain technology and creating equitable access to the global financial system? Since 2014, the mission-driven team at the Stellar Development Foundation (SDF) has helped fuel the tremendous growth of the Stellar blockchain network, an open-source platform that operates at high-scale today. Developers and companies around the world build on it, and the SDF team is expanding to support the rapidly growing and changing Stellar ecosystem.<br>The launch of Soroban, the new smart contracts platform designed to work well with Stellar, brings a wealth of opportunity for innovation, and when you join SDF as a Developer Evangelist, you will be a part of a team that's leveraging that opportunity to increase developer participation in order to bootstrap the ecosystem of tools, protocols, dApps, and educational resources necessary for Soroban to succeed.Â You will design, develop, and maintain programs to grab developer attention, to attract and motivate early adopters, and to show the world what's possible when native smart contracts meet Stellar's unparalleled access.Â Â <p></p><h3>
-<b>In this role, you will:</b>Â </h3><br><ul>
-<li align="left">Develop and execute strategies and programs for attracting new developers to experiment with Soroban and Stellar</li>
-<li align="left">Create course material, tutorials, talks, and other content to educate, onboard, and engage developers, and encourage community developers to do the same.</li>
-<li align="left">Host workshops, meetups, and other in-person and/or virtual events to bring new developers into the ecosystem, and to make them excited to experiment with Soroban</li>
-<li align="left">Drive participation in existing developer-facing programs, such as Stellar Quest, Sorobanathon, and the Stellar Community Fund</li>
-<li align="left">Seek out devs in other ecosystems for whom Soroban may be a good fit, and build relationships to bring them into the ecosystem</li>
-</ul><br><h3><b>You have:Â </b></h3><br><ul>
-<li align="left">3+ years of professional experience in developer relations, developer marketing, or engineering</li>
-<li align="left">Practical experienceÂ building and deployingÂ JavascriptÂ web applications</li>
-<li align="left">Practical experience with WASM- or EVM-based smart contract developmentÂ </li>
-<li align="left">A passion for technology, and the ability to articulate technical concepts to diverse audiences</li>
-<li align="left">A strong desire to build things and explain how they work, and a portfolio to prove it</li>
-<li align="left">Poise, presence, and experience with public speaking</li>
-</ul><br><h3><b>Bonus Points if:</b></h3><br><ul>
-<li align="left">You love Rust</li>
-<li align="left">You've written and deployed smart contracts on multiple blockchain networks</li>
-<li align="left">You know your way around blockchain analytics</li>
-<li align="left">You have a history of participation in the Stellar ecosystem</li>
-</ul><br>We offer competitive pay with a base salary range for this position of $94,500 - $144,000 depending on job-related knowledge, skills, experience. In addition, we offer lumen-denominated grants along with the following perks and benefits:<p></p><h3><b>USA Benefits/Perks:</b></h3><br><ul>
-<li align="left">Competitive health, dental & vision coverage</li>
-<li align="left">Flexible time off + 15 company holidays including a company-wide holiday break</li>
-<li align="left">Paid parental leave</li>
-<li align="left">Life & ADD</li>
-<li align="left">Short & Long term disability</li>
-<li align="left">FSA & Dependent Care Accounts</li>
-<li align="left">401K (4% match)</li>
-<li align="left">Employee Assistance Program</li>
-<li align="left">Monthly gym allowance</li>
-<li align="left">Daily lunch and snacks in-office</li>
-<li align="left">L&D budget of $1,500/year</li>
-<li align="left">Company retreats</li>
-</ul>Â <br><h3><b>About Stellar</b></h3><br>Stellar is a decentralized, fast, scalable, and uniquely sustainable network for financial products and services. It is both a cross-currency transaction system and a platform for digital asset issuance, designed to connect the worldâs financial infrastructure. Dozens of financial institutions worldwide issue assets and settle payments on the Stellar network, which has grown to over 7 million accounts.Â Â Â <br>Â <br><h3><b>About the Stellar Development Foundation</b></h3><br>The Stellar Development Foundation (SDF) is a non-profit organization that supports the development and growth of Stellar, an open-source network that connects the worldâs financial infrastructure. Founded in 2014, the Foundation helps maintain Stellarâs codebase, supports the technical and business communities building on the network, and serves as a voice to regulators and institutions. The Foundation seeks to create equitable access to the global financial system, using the Stellar network to unlock the worldâs economic potential through blockchain technology.<br>Â <br>We look forward to hearing from you!<br>Â <br><h3><b>Privacy Policy</b></h3><br>By submitting your application, you are agreeing to our use and processing of your data in accordance with ourÂ <span style=""><a class="bbcode-link" href="https://www.stellar.org/privacy-policy?locale=en" target="_blank" rel="noopener noreferrer nofollow">Privacy Policy</a></span>.<br>Â <br><i>SDF is committed to diversity in its workforce and is proud to be an equal opportunity employer. SDF does not make hiring or employment decisions on the basis of race, color, religion, creed, gender, national origin, age, disability, veteran status, marital status, pregnancy, sex, gender expression or identity, sexual orientation, citizenship, or any other basis protected by applicable local, state or federal law.</i><br/><br/>Please mention the word **EXCEEDS** and tag RMjA5LjIyMi4yMS42Mg== when applying to show you read the job post completely (#RMjA5LjIyMi4yMS42Mg==). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p>â¢ Excellent written and verbal communication skills</p><br/><br/>Please mention the word **CELEBRATE** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -214,7 +330,7 @@ Requirements:</h3>
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/toggl-senior-frontend-developer" align="right" target="_blank">Apply</a>
@@ -345,7 +461,7 @@ Requirements:</h3>
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/iphone-photography-school-ios-developer-1" align="right" target="_blank">Apply</a>
@@ -385,7 +501,7 @@ Requirements:</h3>
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>32 days ago</text>
+                <text>33 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/proxify-ab-senior-flutter-developer-long-term-job-100-remote" align="right" target="_blank">Apply</a>
@@ -446,68 +562,6 @@ Requirements:</h3>
                 </td>
             </tr>,<tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>XM</h5>
-                    <h3> Senior PHP Web Developers– Cyprus, Greece or Remote</h3>
-                </td>
-                <td width="300">
-                    <code>Back-End Programming</code>
-                </td>
-                <td width="200">
-                <text>65 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> Cyprus, Greece or Remote
-    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
-</p>
-
-<div>
-<strong>Reference Number: SPHPWD1021<br></strong><br>
-</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>The role:<br></strong><br>
-</div><div>As our new Senior PHP Developer, you will join an amazing team who is dedicated to taking the next step in software engineering. You will make key decisions on software processes, and use Kubernetes and Terraform on PHP, Go, React &amp; Angular on AWS. The team will keep you up-to-date with the latest technology stacks and processes and help you see challenging projects from beginning to end.<br><br>
-</div><div> <br><br>
-</div><div>
-<strong>The main responsibilities of the role include:<br></strong><br>
-</div><div>●        Design and implement new features/projects</div><div>●        Maintain and refactor existing web applications such as the company's website, registration forms, Members Area and internal web services</div><div>●        Research and integrate new web technologies</div><div>●        Write tests that will run on a continuous integration server 24/7 to ensure code testability, code coverage and quality conforms to the company’s highest standards</div><div>●        Resolve support tickets for IT related issues</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>Main requirements:<br></strong><br>
-</div><div>●        BSc/MSc in information technology or any other relevant degree</div><div>●        At least 3 years of experience in a similar position</div><div>●        Very good knowledge of PHP 7+, MySQL, Redis, Git</div><div>●        Very good understanding of object-oriented programming principles</div><div>●        Experience in creating and consuming web services</div><div>●        Experience with modern PHP frameworks</div><div>●        Experience in writing tests with PHPUnit</div><div>●        Ability to research and adapt new web technologies that add value to the team</div><div>●        Strong organisational skills with the ability to multitask and prioritise</div><div>●        Problem solving and analytical skills</div><div>●        Ability to work independently and integrate well within a team</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>The following will be considered an advantage:<br></strong><br>
-</div><div>●        Experience in Symfony framework</div><div>●        Experience in the development of REST APIs</div><div>●        Experience in software development practices like design patterns, SOLID principles, DRY</div><div>●        Very good understanding of security practices (OWASP)</div><div>●        Experience with cloud providers (e.g. AWS)</div><div>●        Experience in database query optimization</div><div>●        Experience in creating composer packages</div><div>●        Experience in front-end frameworks or libraries like Angular or React</div><div>
-<strong> <br></strong><br>
-</div><div>
-<strong>Benefit from:<br></strong><br>
-</div><div>●        Attractive remuneration package </div><div>●        Private health insurance</div><div>●        Food allowance</div><div>●        Intellectually stimulating work environment</div><div>●        Continuous personal development and international training opportunities</div><div> </div><div>
-<br>Type of employment: Full time<br><br>
-</div><div>
-<br>Location: Cyprus, Greece or Remote <br><br>
-</div><div>
-<br> <br><br>
-</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position. </div><div> </div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1">https://weworkremotely.com/remote-jobs/xm-senior-php-web-developers-cyprus-greece-or-remote-1</a></p>
-
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://wwr-pro.s3.amazonaws.com/logos/0064/3165/logo.gif" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -518,7 +572,7 @@ Requirements:</h3>
                     <code>Front-End Programming</code>
                 </td>
                 <td width="200">
-                <text>186 days ago</text>
+                <text>187 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/socialhub-reactjs-web-developer-remote-saas-m-f-d-1" align="right" target="_blank">Apply</a>
@@ -730,7 +784,7 @@ Requirements:</h3>
                     <code>developer,fullstack,ui,design</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-remix-full-stack-developer-1583816" align="right" target="_blank">Apply</a>
@@ -758,7 +812,7 @@ Requirements:</h3>
                     <code>developer,git,mobile,ui</code>
                 </td>
                 <td width="200">
-                <text>10 days ago</text>
+                <text>11 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/freelance-unity-developer-1583815" align="right" target="_blank">Apply</a>
@@ -883,7 +937,7 @@ Requirements:</h3>
                     <code>developer,ui,ux,growth</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-front-end-developer-1383531" align="right" target="_blank">Apply</a>
@@ -960,7 +1014,7 @@ Requirements:</h3>
                     <code>developer,kubernetes,python,security</code>
                 </td>
                 <td width="200">
-                <text>19 days ago</text>
+                <text>20 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-solidity-developer-1422554" align="right" target="_blank">Apply</a>
@@ -986,7 +1040,7 @@ Requirements:</h3>
                     <code>developer,go,wordpress,hr</code>
                 </td>
                 <td width="200">
-                <text>26 days ago</text>
+                <text>27 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/software-dev/senior-independent-software-developer-814298" align="right" target="_blank">Apply</a>
