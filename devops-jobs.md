@@ -10,7 +10,7 @@
                     <code>web3,nft,solidity,nft,ethereum,system,security,music,gaming,founder,cto,ceo,technical,support,software,testing,code,manager,devops,cloud,strategy,lead,senior,operational,reliability,engineer,engineering</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-devops-tech-lead-palm-nft-studio-199368" align="right" target="_blank">Apply</a>
@@ -86,7 +86,7 @@
 <h1><span style="font-weight:400;">How to apply</span></h1>
 <p><span style="font-weight:400;">Does this position sound like a good fit? Please apply!</span></p>
 <p><span style="font-weight:400;">If you have any issues submitting your application, please reach out to us at careers@palm.io.</span></p>
-<p><em><span style="font-weight:400;">Palm NFT Studio is an equal opportunity employer. We encourage people from all backgrounds to apply. We are committed to ensuring that our organization is made available and accessible to everyone. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law.</span></em></p><br/><br/>Please mention the word **SKILL** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+<p><em><span style="font-weight:400;">Palm NFT Studio is an equal opportunity employer. We encourage people from all backgrounds to apply. We are committed to ensuring that our organization is made available and accessible to everyone. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law.</span></em></p><br/><br/>Please mention the word **SKILL** and tag RNDQuMjAzLjU1LjE0 when applying to show you read the job post completely (#RNDQuMjAzLjU1LjE0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -101,7 +101,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>11 days ago</text>
+                <text>12 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/contra-senior-devops-engineer-1" align="right" target="_blank">Apply</a>
