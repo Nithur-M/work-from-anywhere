@@ -1,56 +1,5 @@
 <div align="center"><h2>SITE RELIABILITY ENGINEER JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/ec9b68a1022ff24dbd298624cf2bfd8d1677136522.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Scroll</h5>
-                    <h3>Site Reliability Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>amazon,system,technical,developer,software,growth,devops,cloud,node,operational,reliability,healthcare,engineer,engineering,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>3 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-site-reliability-engineer-scroll-198829" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                At Scroll, we are building a fully EVM-compatible zkRollup based on a zkEVM. This is a complex system with multiple components including a sequencer node (go-ethereum fork), prover nodes (aka rollers), a roller manager, a bridge, etc.<p>We are looking for a Site Reliability Engineer to help Scroll provide awesome user and developer experience. Your responsibilities will involve deploying and maintaining a complex set of services, solving and preventing issues, as well as developing and automating processes.</p><p>This is a <b>remote</b> <b>position</b>. However, we are mainly looking for applicants <b>based in Europe.</b></p><p></p><h3><b>Job Duties</b></h3><br><ul>
-<li align="left">Deploy updates and fixes to the Scroll infrastructure.</li>
-<li align="left">Investigate and resolve technical issues.</li>
-<li align="left">Implement system-wide monitoring, incident detection, and incident response.</li>
-<li align="left">Improve operational processes (such as deployments, upgrades) to make them as boring as possible.</li>
-<li align="left">Design and automate processes for deployment, system troubleshooting and maintenance, and incident response.</li>
-<li align="left">Develop tools to make interaction with our contracts and services easier for Scroll developers.</li>
-</ul><br><h3><b>Qualifications</b></h3><br><ul>
-<li align="left">Work experience as a DevOps Engineer or similar software engineering role.</li>
-<li align="left">Experience with cloud providers such as Amazon AWS.</li>
-<li align="left">Working knowledge of databases and SQL.</li>
-<li align="left">Experience with Jenkins and Docker.</li>
-<li align="left">Some experience with blockchain systems.</li>
-<li align="left">Good (async) communication skills and ability to work with a globally distributed multicultural team.</li>
-</ul><br><h3><b>Preferred Qualifications</b></h3><br><ul>
-<li align="left">Experience working with Golang.</li>
-<li align="left">Experience working with the go-ethereum codebase.</li>
-<li align="left">Experience optimizing and debugging high performance systems that require high availability.</li>
-<li align="left">Security-first mindset, ability to anticipate and prevent malicious access across our stack.</li>
-</ul><br><h3><b>Benefits</b></h3><br><ul>
-<li align="left">Work from anywhere with flexible hours</li>
-<li align="left">Generous paid time off</li>
-<li align="left">Home office set up</li>
-<li align="left">Annual growth budget</li>
-<li align="left">Coworking membership allowance</li>
-<li align="left">Private healthcare in selected countries</li>
-<li align="left">Competitive salary package</li>
-</ul><br/><br/>Please mention the word **STIRRINGLY** and tag RMzUuMjE0LjE3My4yMjI= when applying to show you read the job post completely (#RMzUuMjE0LjE3My4yMjI=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
                     <img src="https://remotive.com/job/1596490/logo" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -61,7 +10,7 @@
                     <code>api,AWS,crypto,docker</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/sre-site-reliability-engineer-middle-senior-1596490" align="right" target="_blank">Apply</a>
@@ -138,7 +87,7 @@
                     <code>apache,AWS,backend,cloud</code>
                 </td>
                 <td width="200">
-                <text>29 days ago</text>
+                <text>30 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remotive.com/remote-jobs/devops/site-reliability-engineer-1570342" align="right" target="_blank">Apply</a>
