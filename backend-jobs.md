@@ -56,7 +56,7 @@
 <li>Health insurance reimbursement</li>
 <li>Wellness program (gym, etc.)</li>
 </ul>
-</div><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXCEPTIONAL** and tag RMjYwMToxOGM6ODYwMjpiODkwOmE5N2E6NzhlMzpiNTliOmUxMjM= when applying to show you read the job post completely (#RMjYwMToxOGM6ODYwMjpiODkwOmE5N2E6NzhlMzpiNTliOmUxMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><p><figure><iframe style="width:500px;height:281px;" src="//youtube.com/embed/" frameborder="0" allowfullscreen=""></iframe></figure></p><br/><br/>Please mention the word **EXCEPTIONAL** and tag RMy44Ni4yNTIuMTMw when applying to show you read the job post completely (#RMy44Ni4yNTIuMTMw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -123,7 +123,7 @@
 <li>Team offsites for periodic in-person collaborative strategy sessions</li>
 <li>Passionate, supportive team dedicated to learning and growing together in web3</li>
 </ul>
-</div><br/><br/>Please mention the word **COOPERATIVELY** and tag RMjYwMToxOGM6ODYwMjpiODkwOmE5N2E6NzhlMzpiNTliOmUxMjM= when applying to show you read the job post completely (#RMjYwMToxOGM6ODYwMjpiODkwOmE5N2E6NzhlMzpiNTliOmUxMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><br/><br/>Please mention the word **COOPERATIVELY** and tag RMy44Ni4yNTIuMTMw when applying to show you read the job post completely (#RMy44Ni4yNTIuMTMw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
