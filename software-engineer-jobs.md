@@ -10,7 +10,7 @@
                     <code>software,web3,front-end,technical,support,javascript,health,engineer,engineering,full-time</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-utopia-labs-199880" align="right" target="_blank">Apply</a>
@@ -42,7 +42,7 @@
 <li>Experience writing smart contracts </li>
 <li>Demonstrated interest in open and community-driven platforms.</li>
 </ul><div><span style="font-size:24px;">Perks & Benefits</span></div><div><br></div><div><span style="font-size:18px;">ð Health and wellbeing</span></div><div>We offer top-of-the-line benefits, including health, mental health, dental, and vision insurance.</div><div><br></div><div><span style="font-size:18px;">ð´ Time off</span></div><div>We want people to take time off to rest and rejuvenate. We offer a 3 week paid vacation as well as 10 observed holidays by country.</div><div><br></div><div><span style="font-size:18px;">ð£ Parental leave</span></div><div>Our parental leave policy offers biological, adoptive, and foster parents paid time off to spend quality time with family.</div><div><br></div><div><span style="font-size:18px;">ð¥ Lunch on us</span></div><div>You'll have a very generous meal budget for you to eat every day.</div><div><br></div><div><span style="font-size:18px;">ð Commuting</span></div><div>We offer monthly commuter credits.</div><div><br></div><div><br></div><div><span style="font-size:24px;">Any Questions?</span></div><div><br></div><div>Email: pryce@utopialabs.com</div><div><br></div><div>Twitter: <a href="https://twitter.com/pryceandstuff" class="postings-link" rel="noopener noreferrer nofollow">https://twitter.com/pryceandstuff</a>
-</div><div><br></div><br/><br/>Please mention the word **READABLE** and tag RNDQuMjAzLjU1LjE0 when applying to show you read the job post completely (#RNDQuMjAzLjU1LjE0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><div><br></div><br/><br/>Please mention the word **READABLE** and tag RMjYwMToxOGM6ODYwMjpiODkwOmE5N2E6NzhlMzpiNTliOmUxMjM= when applying to show you read the job post completely (#RMjYwMToxOGM6ODYwMjpiODkwOmE5N2E6NzhlMzpiNTliOmUxMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -57,7 +57,7 @@
                     <code>software,design,crypto,react,security,technical,code,senior,operations,analytics,legal,healthcare,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-magna-199874" align="right" target="_blank">Apply</a>
@@ -110,7 +110,91 @@
 <b>Passion for engineering</b>Â â genuine passion and curiosity for the craft that you bring to work each day</li>
 <li align="left">
 <b>Good taste</b>Â â You think critically aboutÂ <i>how</i>Â you build what you build, and apply good judgment to every design and implementation decision along the way.</li>
-</ul><br/><br/>Please mention the word **ENVIOUSLY** and tag RNDQuMjAzLjU1LjE0 when applying to show you read the job post completely (#RNDQuMjAzLjU1LjE0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **ENVIOUSLY** and tag RMjYwMToxOGM6ODYwMjpiODkwOmE5N2E6NzhlMzpiNTliOmUxMjM= when applying to show you read the job post completely (#RMjYwMToxOGM6ODYwMjpiODkwOmE5N2E6NzhlMzpiNTliOmUxMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0066/8312/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>XM</h5>
+                    <h3> Software Engineer in Test – Python – Cyprus, Greece or Remote </h3>
+                </td>
+                <td width="300">
+                    <code>All Other Remote</code>
+                </td>
+                <td width="200">
+                <text>0 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/xm-software-engineer-in-test-python-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0066/8312/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Cyprus, Greece or Remote
+    <br /><strong>URL:</strong> <a href="https://xm.com">https://xm.com</a>
+</p>
+
+<div>
+<strong>Reference Number: SDEP1022 <br></strong><br>
+</div><div>
+<strong>The Role: <br></strong><br>
+</div><div>
+<br>We are looking for an experienced SET (Software Engineer in Test) - Python to join our QA team. You will work with world class specialists in a friendly, supportive and open-minded environment on. challenging goals that will help you to grow professionally and achieve new technical levels. This role will focus on improving and monitoring product quality via test automation framework development and test coverage extension for functional and performance suits. You will work with the most valuable part of the product - a Forex brokerage core. If you enjoy working with pure API, Python, cutting-edge technologies, Kafka and AWS, this role is for you!<br><br>
+</div><div><strong>The main responsibilities of the position include:</strong></div><ul>
+<li>Work in close cooperation with the development team to enhance software delivery and quality throughout the entire software development cycle </li>
+<li>Understand and translate high level business requirements to technical requirements</li>
+<li>Advise on efficient performance testing strategies for enhancing delivery and quality throughout the full software development cycle</li>
+<li>Develop formal test procedures and test plans from internal product design documentation as well as from external certification requirements</li>
+<li>Design, develop and modify functional and performance automation tests</li>
+<li>Design and implement test automation framework, required libraries and auto-tests</li>
+<li>Develop emulators for mobile testing </li>
+<li>Build CI/CD pipelines and integrate automation scripts into CI tools </li>
+<li>Manage any issues that may arise and drive resolutions throughout the testing process </li>
+<li>Share technical expertise with the rest of the QA team  </li>
+<li>Actively participate in the Software Development Life Cycle and Software Testing Life Cycle </li>
+</ul><div> </div><div><strong>Main requirements:</strong></div><ul>
+<li>BSc/MSc in Computer Science, Software Engineering or similar</li>
+<li>Minimum 2 years of comprehensive experience in quality assurance </li>
+<li>Minimum  years of practical experience in Python development </li>
+<li>Strong hands-on experience in designing and developing frameworks using Python</li>
+<li>Strong technical background </li>
+<li>Experience in testing REST API </li>
+<li>Experience in performance testing </li>
+<li>Confident knowledge of Git </li>
+<li>Experience in agile software development methodologies and testing procedures </li>
+<li>Strong interpersonal skills </li>
+<li>Very good written and verbal skills in English </li>
+</ul><div> <br><br>
+</div><div><strong>The following will be considered an advantage:</strong></div><ul>
+<li>Experience with asynchronous and multithreading programming </li>
+<li>Experience in testing web sockets </li>
+<li>Experience in Robot Framework </li>
+<li>Experience with Docker </li>
+<li>Experience with Prometheus, Grafana </li>
+<li>Experience in testing Kafka broker </li>
+<li>Experience in the Finance/Forex domain </li>
+</ul><div>
+<strong> <br></strong><br>
+</div><div><strong>Benefit from:</strong></div><ul>
+<li>Attractive remuneration package </li>
+<li>Food allowance</li>
+<li>Intellectually stimulating work environment</li>
+<li>Continuous personal development and international training opportunities</li>
+<li>Attractive relocation package and support for a smooth relocation for you and your family <br><br>
+</li>
+</ul><div>Type of employment: Full time<br><br>
+</div><div>Location: Cyprus, Greece, Remote <br><br>
+</div><div>Please visit our website <a href="http://www.xm.com/careers">www.xm.com/careers</a> to submit your online application for this position.</div><div> </div><div><strong>All applications will be treated with strict confidentiality!</strong></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/xm-software-engineer-in-test-python-cyprus-greece-or-remote-2">https://weworkremotely.com/remote-jobs/xm-software-engineer-in-test-python-cyprus-greece-or-remote-2</a></p>
+
                 </details>
                 </td>
             </tr>,<tr>
@@ -125,7 +209,7 @@
                     <code>DevOps and Sysadmin</code>
                 </td>
                 <td width="200">
-                <text>34 days ago</text>
+                <text>37 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/sticker-mule-software-engineer-c" align="right" target="_blank">Apply</a>
