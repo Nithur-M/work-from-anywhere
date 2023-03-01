@@ -10,7 +10,7 @@
                     <code>design,web3,crypto,front-end,voice,finance,git,typescript,api,engineer,engineering,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>3 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-full-stack-engineer-burnt-finance-200392" align="right" target="_blank">Apply</a>
@@ -41,7 +41,7 @@
 <b>Web3 Platform</b>: Cosmos-SDK (Golang), CosmWasm (Rust)</li>
 <li>
 <b>Infrastructure</b>: AWS</li>
-</ul><div>As we are still a lean engineering team, we are looking for engineers willing to take on multiple roles. When applying, please include which of the following skillsets you believe you would be able to bring to the table most rapidly:</div><div><br></div><div><b>1. Typescript + React</b></div><div><b>2. Smart contract development</b></div><div><b>3. Web3/Cosmjs</b></div><div><b>4. Other</b></div><div><br></div><div>Benefits of working at Burnt include competitive compensation, unlimited PTO, medical, dental, and vision insurance, company off-sites and more!</div><div><br></div><div>Burnt is proud to foster an inclusive environment that is free from discrimination. We strongly believe in order to build the best products, we need a diversity of perspectives and backgrounds. This leads to a more delightful experience for our users and team members. We value listening to every voice and we encourage everyone to come be a part of building a company and products we love.</div><br/><br/>Please mention the word **RECONCILIATION** and tag RNDQuMjAzLjU1LjE0 when applying to show you read the job post completely (#RNDQuMjAzLjU1LjE0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><div>As we are still a lean engineering team, we are looking for engineers willing to take on multiple roles. When applying, please include which of the following skillsets you believe you would be able to bring to the table most rapidly:</div><div><br></div><div><b>1. Typescript + React</b></div><div><b>2. Smart contract development</b></div><div><b>3. Web3/Cosmjs</b></div><div><b>4. Other</b></div><div><br></div><div>Benefits of working at Burnt include competitive compensation, unlimited PTO, medical, dental, and vision insurance, company off-sites and more!</div><div><br></div><div>Burnt is proud to foster an inclusive environment that is free from discrimination. We strongly believe in order to build the best products, we need a diversity of perspectives and backgrounds. This leads to a more delightful experience for our users and team members. We value listening to every voice and we encourage everyone to come be a part of building a company and products we love.</div><br/><br/>Please mention the word **RECONCILIATION** and tag RMjYwMToxOGM6ODYwMjpiODkwOmE5N2E6NzhlMzpiNTliOmUxMjM= when applying to show you read the job post completely (#RMjYwMToxOGM6ODYwMjpiODkwOmE5N2E6NzhlMzpiNTliOmUxMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -56,7 +56,7 @@
                     <code>web3,design,crypto,ethereum,react,security,technical,developer,software,code,operations,analytics,legal,healthcare,engineer,digital nomad</code>
                 </td>
                 <td width="200">
-                <text>2 days ago</text>
+                <text>4 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-web3-full-stack-engineer-magna-199877" align="right" target="_blank">Apply</a>
@@ -117,7 +117,305 @@
 <b>Passion for engineering</b>Â â genuine passion and curiosity for the craft that you bring to work each day</li>
 <li align="left">
 <b>Good taste</b>Â â you think critically aboutÂ <i>how</i>Â you build what you build, and apply good judgment to every design and implementation decision along the way.</li>
-</ul><br/><br/>Please mention the word **EFFICIENTLY** and tag RNDQuMjAzLjU1LjE0 when applying to show you read the job post completely (#RNDQuMjAzLjU1LjE0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><br/><br/>Please mention the word **EFFICIENTLY** and tag RMjYwMToxOGM6ODYwMjpiODkwOmE5N2E6NzhlMzpiNTliOmUxMjM= when applying to show you read the job post completely (#RMjYwMToxOGM6ODYwMjpiODkwOmE5N2E6NzhlMzpiNTliOmUxMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0083/7764/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Affilimate</h5>
+                    <h3> Senior FullStack Engineer (TypeScript, Remote in EU/UK)</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/affilimate-senior-fullstack-engineer-typescript-remote-in-eu-uk" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0083/7764/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Berlin, Germany
+    <br /><strong>URL:</strong> <a href="https://affilimate.com">https://affilimate.com</a>
+</p>
+
+<div>
+<strong>Summary<br></strong><br>
+</div><ul>
+<li>We're an early stage MarTech company with a remote team, headquartered in Berlin<br><br>
+</li>
+<li>We are looking for 7+ years of professional experience for this senior role<br><br>
+</li>
+<li>You’ll be joining a small but experienced engineering team with a high quality codebase<br><br>
+</li>
+<li>Our codebase is TypeScript on both frontend and backend<br><br>
+</li>
+<li>There's a wide variety of projects to work on and tons to learn, such as working on our React web app, data infrastructure on GCP, public API, JS snippet, and more<br><br>
+</li>
+<li>This is a full-time, remote role within Europe<br><br>
+</li>
+<li>You <strong>must</strong> currently be a resident of the UK or Europe in one of the 29 countries listed below for us to be able to hire you, no exceptions<br><br>
+</li>
+<li>Link to apply below!<br><br>
+</li>
+</ul><div>
+<strong><br>About the role<br></strong><br>
+</div><div>
+<br>Affilimate looking for a<strong> senior fullstack engineer</strong> experienced with TypeScript, React, and Node.js to join us.<br><br>
+</div><div>
+<br>Our product is a <strong>web analytics and data aggregation platform</strong> used by media companies, digital marketers, and content creators. We track millions of pageviews per day and millions in revenue every month for our customers.<br><br>
+</div><div>
+<br>This role is a great fit for <strong>well-rounded software engineers</strong>, who enjoy working in the the frontend and backend, and aren’t afraid of digging into infrastructure.<br><br>
+</div><div>
+<br>Our team is small and our processes are efficient. You'll eventually <strong>ship code to production on a daily basis</strong>.<br><br>
+</div><div>
+<br>Our cofounder, <a href="https://twitter.com/monicalent">Monica Lent</a>, is a software engineer with 10+ years experience in tech, and will work with you to get you up to speed quickly.<br><br>
+</div><div>
+<strong><br>Our tech stack<br></strong><br>
+</div><div>
+<br>Our codebase lives in a monorepo consisting of about 190,000 lines of TypeScript. Specific technologies we use are:<br><br>
+</div><ul>
+<li>
+<strong>Frontend:</strong> React, Firebase, Emotion, Material UI, Recharts<br><br>
+</li>
+<li>
+<strong>Backend:</strong> Firestore, Cloud functions<br><br>
+</li>
+<li>
+<strong>Testing:</strong> Jest<br><br>
+</li>
+<li>
+<strong>Infrastructure:</strong> Google Cloud Platform<br><br>
+</li>
+<li>
+<strong>Database:</strong> Firestore, Realtime database, Postgres, Redis, BigQuery<br><br>
+</li>
+</ul><div>
+<br>In general, our codebase is pretty modern and in great shape.<br><br>
+</div><div>
+<br>We're looking for someone who can balance a high level of code quality with practical decision-making.<br><br>
+</div><div>
+<strong><br>Typical tasks will include:<br></strong><br>
+</div><ul>
+<li>
+<strong>Implementing UI, UX and onboarding improvements</strong> based on prepared specs and design mockups.<br><br>
+</li>
+<li>
+<strong>Building new reports and data visualizations</strong>, including pulling the data from the database(s) in a Cloud Function, formatting it for display it in charts and tables, and adding search/sort/filter capabilities.<br><br>
+</li>
+<li>
+<strong>Building new tools</strong>, like our Link Generator, where you also need to store or cache data to make them fast and performant.<br><br>
+</li>
+<li>
+<strong>Writing API integrations</strong> following proven patterns and systems.<br><br>
+</li>
+<li>
+<strong>Crawling sites and browser automation with Puppeteer.</strong> For example, to generate screenshots or retrieve website metadata.<br><br>
+</li>
+<li>
+<strong>Working on our upcoming public API</strong>, as well as integrations with data warehouses or BI tools like Looker and Databricks.<br><br>
+</li>
+<li>
+<strong>Extending our analytics infrastructure</strong> with new capabilities and data points.<br><br>
+</li>
+<li>And of course, maintenance, refactoring, and fixing issues reported to our Support team, as well as writing internal documentation.<br><br>
+</li>
+</ul><div>
+<br>In general, there's a wide variety of work, so there's a lot to learn no matter your background.<br><br>
+</div><div>
+<strong><br>The product<br></strong><br>
+</div><div>
+<br>Affilimate is an analytics platform that helps media companies, marketers, and creators grow their website's affiliate revenue by understanding exactly where their revenue is coming from.<br><br>
+</div><div>
+<br>We do that in three ways:<br><br>
+</div><ol>
+<li>
+<strong>Aggregating transaction data</strong> from multiple data sources in one place via APIs and other integration methods.<br><br>
+</li>
+<li>
+<strong>Connect revenue</strong> back to specific content and links, using our web analytics platform and JavaScript snippet.<br><br>
+</li>
+<li>
+<strong>Optimization tools</strong> like heatmaps and revision tracking, which content editors can use to improve performance.<br><br>
+</li>
+</ol><div>
+<br>We’re already handling millions of requests per day and looking to scale 100x.<br><br>
+</div><div>
+<strong><br>Location<br></strong><br>
+</div><div>
+<br>You need to currently live in the UK or Europe, in one of the following countries:<br><br>
+</div><div>
+<br>Austria, Belgium, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, Ireland, Italy, Latvia, Lithuania, Luxembourg, Malta, Netherlands, Norway, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden, Switzerland, or United Kingdom.<br><br>
+</div><div>
+<br>If you need an employer to continue working on your current work visa, we can probably support you!<br><br>
+</div><div>
+<br>We are not able to sponsor relocation to Europe, and are not open for freelance relationships or agencies.<br><br>
+</div><div>
+<strong><br>Benefits<br></strong><br>
+</div><ul>
+<li>Work remotely and enjoy flexible hours<br><br>
+</li>
+<li>Low stress, low meetings, zero politics<br><br>
+</li>
+<li>Influence the product direction and see your work directly impact the business and our customers<br><br>
+</li>
+<li>Opportunity to take on technical or people leadership responsibilities as the team grows, if that’s something you aspire to or have past experience with<br><br>
+</li>
+<li>Equity is on the table for the right candidate, depending on how your role and responsibilities evolve<br><br>
+</li>
+</ul><div>
+<strong><br>What we're looking for<br></strong><br>
+</div><div>
+<br>Our ideal candidate fits the following profile:<br><br>
+</div><ul>
+<li>
+<strong>7+ years prior professional experience. </strong>You should have strong technical experience, ideally working in a startup.<br><br>
+</li>
+<li>
+<strong>Very strong understanding of data structures.</strong> A huge part of the job is data aggregation and transformation, so you can store/retrieve/display data in different ways.<br><br>
+</li>
+<li>
+<strong>Strong TypeScript skills.</strong> You need to be comfortable working in a TypeScript codebase, and fundamentals like using generics, union types, etc.<br><br>
+</li>
+<li>
+<strong>Experience with React. </strong>A big part of the job is building and improving our UI.<br><br>
+</li>
+<li>
+<strong>Command line fundamentals. </strong>You should be comfortable working on the command line as needed. Comfort with git is also a must.<br><br>
+</li>
+<li>
+<strong>Mindful of security and performance. </strong>Performance matters at our current and future scale, and nothing is more important to us than security of our customer data.<br><br>
+</li>
+<li>
+<strong>Care about design and UX. </strong>You should be comfortable with CSS, and pay attention to detail when implementing designs.<br><br>
+</li>
+<li>
+<strong>Strong English communication. </strong>You should be able to clearly discuss technical topics in English.<br><br>
+</li>
+</ul><div>
+<br>We're building a diverse team, and welcome non-traditional backgrounds.<br><br>
+</div><div>
+<br><br><br>
+</div><div>
+<strong><br>Bonus points<br></strong><br>
+</div><div>
+<br>You'll be at a strong advantage for this role if you have:<br><br>
+</div><ul>
+<li>Experience on Google Cloud Platform.<br><br>
+</li>
+<li>Experience working on data-intensive products from both the frontend and backend standpoint.<br><br>
+</li>
+<li>Comfort with SQL, and any or more than one of our databases like Firebase, Redis, BigQuery, or Postgres.<br><br>
+</li>
+</ul><div>
+<strong><br>Expectations<br></strong><br>
+</div><ul>
+<li>You can work independently while still asking questions when something isn't clear.<br><br>
+</li>
+<li>We'll start slow and tag team over Slack as you learn the product, domain, and codebase.<br><br>
+</li>
+<li>After 2-3 weeks, you'll able to independently handle small features, add functionality to existing screens, and fix simple bugs.<br><br>
+</li>
+<li>After 1-2 months, you'll be able to implement small to medium-sized, standalone features, build new screens, and fix more complex bugs.<br><br>
+</li>
+<li>After 3-5 months, you'll be able to contribute to system refactors and more architectural-level changes.<br><br>
+</li>
+</ul><div>
+<strong><br>Hiring Process<br></strong><br>
+</div><ul>
+<li>Fill out the application form linked below. You'll hear from us within 1 week.<br><br>
+</li>
+<li>If you pass the application, you'll get a short coding test (15-20 minutes) to help us evaluate your programming fundamentals.<br><br>
+</li>
+<li>Then, we'll do an initial interview over Zoom to learn about you and share more about our company.<br><br>
+</li>
+<li>Finally, a more practical programming task to get an idea of how you'd work on a sightly larger project (under 1 hour).<br><br>
+</li>
+<li>In the end, we'll see if we're a match from both sides.<br><br>
+</li>
+</ul><div>
+<br>Our goal is to fill these roles by the end of April.<br><br>
+</div><div>
+<strong><br>To apply<br></strong><br>
+</div><div>
+<br>Please click the <strong>Apply now</strong> button below and fill out the form to apply for this role.<br><br>
+</div><div>
+<br>Demonstrating an understanding of our product and this role will dramatically improve your chances of moving to the next step.<br><br>
+</div><div>
+<br>Thanks for your time, we look forward to receiving your application!<br><br>
+</div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/affilimate-senior-fullstack-engineer-typescript-remote-in-eu-uk">https://weworkremotely.com/remote-jobs/affilimate-senior-fullstack-engineer-typescript-remote-in-eu-uk</a></p>
+
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://wwr-pro.s3.amazonaws.com/logos/0018/5497/logo.gif" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Pictureworks Group Pty. Ltd.</h5>
+                    <h3> Laravel/React Full Stack Support Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>Full-Stack Programming</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://weworkremotely.com/remote-jobs/pictureworks-group-pty-ltd-laravel-react-full-stack-support-engineer" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <img src="https://we-work-remotely.imgix.net/logos/0018/5497/logo.gif?ixlib=rails-4.0.0&w=50&h=50&dpr=2&fit=fill&auto=compress" />
+
+<p>
+  <strong>Headquarters:</strong> Melbourne, Australia
+    <br /><strong>URL:</strong> <a href="https://pictureworks.com.au/">https://pictureworks.com.au/</a>
+</p>
+
+<div><strong>About Us</strong></div><div><em>Pictureworks Group Pty. Ltd. is a global software and system solutions business for the print, photo and manufacturing industries. We build the solution set and information architecture that underpins the creation and manufacture of millions of products a year. Our flagship application can be found at zensmart.ai </em></div><div><br></div><div>
+<em>We are currently seeking a Laravel and React Full Stack Developer to join our team on a full time permanent basis and start work immediately on some really exciting and challenging projects.<br></em><br>
+</div><div><br></div><div><strong>We’re Looking For Someone With</strong></div><ul>
+<li>Demonstrable experience coding Laravel PHP and ReactJS in a large scale application capacity</li>
+<li>A good understanding of modern HTML, JavaScript and CSS</li>
+<li>Good time management skills and the ability to work a fixed shift of 3pm to 12am UTC (including 1 hour lunch break)</li>
+<li>The ability to learn additional programming languages</li>
+<li>Confidence and excitement to work with new and cutting edge libraries across front and back end disciplines</li>
+<li>The ability to communicate via English clearly, politely and professionally in person, on the phone and over email with people of different cultures and backgrounds</li>
+<li>A strong work ethic and attitude with a willingness to "do what's required" on a project</li>
+</ul><div>...and most of all, someone fun, friendly, motivated, ambitious, confident, excited and ready to hit the ground running!<br><br>
+</div><div><br></div><div><strong>General Tasks Include</strong></div><ul>
+<li>Developing new modules for our flagship Laravel / React application</li>
+<li>Bug fixing of issues discovered</li>
+<li>Support ticket management and ownership</li>
+<li>Prototyping solutions to aid quotations</li>
+<li>Testing</li>
+</ul><div><br></div><div><strong>Benefits</strong></div><ul>
+<li>Competitive salary, tailored to your experience</li>
+<li>Relaxed atmosphere</li>
+<li>Work from home</li>
+<li>Playing with bleeding edge technologies and learning new skills</li>
+<li>Working with a small, highly capable and motivated team, serving millions of end customers</li>
+</ul><div>
+<br><strong>Note</strong>
+</div><ul><li>We require completion of a 1-4 hour (depending on skill level) entrance test for all shortlisted developers prior to interview</li></ul><div>
+<br>Working here is awesome – way better than working for an agency or a big faceless enterprise – and we just know you’re going to love it too. The variety of work you’ll get, coupled with the freedom you’ll be given to think outside the box is unparalleled. Apply today and start making things, not just websites.</div><div><br></div>
+
+<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/pictureworks-group-pty-ltd-laravel-react-full-stack-support-engineer">https://weworkremotely.com/remote-jobs/pictureworks-group-pty-ltd-laravel-react-full-stack-support-engineer</a></p>
+
                 </details>
                 </td>
             </tr></table>
