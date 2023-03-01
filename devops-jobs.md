@@ -1,5 +1,42 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/3e737dbf15ad23f42ecf9e3f166739f41677568520.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Injective Labs</h5>
+                    <h3>DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>web3,defi,system,docker,devops,financial,finance,cloud,engineer,linux</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-devops-engineer-injective-labs-201389" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <h3><b>About Injective Labs</b></h3><p>Injective Labs is trailblazing a new dawn for Web3 enabled finance. We are the core contributors to Injective, one of the fastest growing blockchains in the industry. Injective provides an interoperable smart contracts platform that is optimized for building decentralized finance applications. Interoperability is at the core of Injective, which is natively integrated with chains such as Ethereum, Cosmos and Solana. Developers can rapidly launch premier financial applications suited for mass adoption using Injectiveâs infrastructure and specialized DeFi primitives such as the worldâs first fully on-chain order book.Our team has decades of experience spearheading the largest financial institutions and tech organizations. Injective is incubated by Binance and is backed by leading firms such as Jump Crypto, Pantera and Mark Cuban.</p><p></p><h3><b>About the role:</b></h3><p>Injective Labs is seeking an experienced DevOps Engineer to join the team. The ideal candidate will bring extensive know-how and insights of how to ensure Injectiveâs infrastructure meets the ever growing usage demand. The ideal candidate is passionate about blockchain, DeFi and disrupting the status quo.</p><p></p><h3><b>Responsibilities:</b></h3><br><ul>
+<li align="left">Maintain and ensure infrastructure availability and system performance</li>
+<li align="left">Optimize system and scalability</li>
+<li align="left">Response to incidents and identify potential issues in a timely manner</li>
+<li align="left">Deploy and operate Kubernetes cluster</li>
+</ul><br><h3><b>Who you are:</b></h3><br><ul>
+<li align="left">3+ years of DevOps Engineer experience</li>
+<li align="left">Strong cloud platforms experience (AWS, GPC, Azure Cloud)</li>
+<li align="left">Ethereum, Tendermint, Cosmos blockchain experience is a plus</li>
+<li align="left">Must be fluent and experienced operating production-quality Kubernetes clusters, experience in large-scale cluster operation is a plus.</li>
+<li align="left">Experienced in deploying, operating, monitoring, optimizing and troubleshooting large scale infrastructure.</li>
+<li align="left">Experience with Docker runtime, Linux kernel is a plus.</li>
+<li align="left">Strong understanding of Continuous Integration (CI) and Continuous Deployment (CD).</li>
+</ul><p>As an equal opportunity employer we donât tolerate discrimination or harassment of any kind. Whether thatâs based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.</p><br/><br/>Please mention the word **DEGINIFIED** and tag RMjYwMToxOGM6ODYwMjpiODkwOmE5N2E6NzhlMzpiNTliOmUxMjM= when applying to show you read the job post completely (#RMjYwMToxOGM6ODYwMjpiODkwOmE5N2E6NzhlMzpiNTliOmUxMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/ff042493662371d082db27bfff59feac1677223010.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +47,7 @@
                     <code>web3,nft,solidity,nft,ethereum,system,security,music,gaming,founder,cto,ceo,technical,support,software,testing,code,manager,devops,cloud,strategy,lead,senior,operational,reliability,engineer,engineering</code>
                 </td>
                 <td width="200">
-                <text>3 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-devops-tech-lead-palm-nft-studio-199368" align="right" target="_blank">Apply</a>
@@ -86,90 +123,7 @@
 <h1><span style="font-weight:400;">How to apply</span></h1>
 <p><span style="font-weight:400;">Does this position sound like a good fit? Please apply!</span></p>
 <p><span style="font-weight:400;">If you have any issues submitting your application, please reach out to us at careers@palm.io.</span></p>
-<p><em><span style="font-weight:400;">Palm NFT Studio is an equal opportunity employer. We encourage people from all backgrounds to apply. We are committed to ensuring that our organization is made available and accessible to everyone. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law.</span></em></p><br/><br/>Please mention the word **SKILL** and tag RNDQuMjAzLjU1LjE0 when applying to show you read the job post completely (#RNDQuMjAzLjU1LjE0). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://weworkremotely.com/assets/IsotypeV2-1ebe3dd57673f3e8d02b7490bc0faaef55d6a95d3a4aaf17298bd3ed503ae7fe.svg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Contra</h5>
-                    <h3> Senior DevOps Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>DevOps and Sysadmin</code>
-                </td>
-                <td width="200">
-                <text>12 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://weworkremotely.com/remote-jobs/contra-senior-devops-engineer-1" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                
-
-<p>
-  <strong>Headquarters:</strong> San Francisco, CA
-    <br /><strong>URL:</strong> <a href="http://bit.ly/3kLhMdk">http://bit.ly/3kLhMdk</a>
-</p>
-
-<div>We're looking for a <strong>Senior DevOps Engineer</strong> to join our engineering team and help us build the best platform for independents &amp; clients. As a DevOps engineer, you are an integral member of our engineering organization. You'll not only help scale our infrastructure and CI/CD pipelines, but also have the chance to shape our technological choices and processes for ensuring the growth, stability and success of the Contra platform. This is a major role at a rapidly expanding startup, working with a team of highly accomplished yet humble people who are passionate about our company's mission. ✨</div><div>
-<strong><br>How you’ll add value at Contra:<br></strong><br>
-</div><ul>
-<li>Expert knowledge in a wide variety of DevOps technologies &amp; best practices</li>
-<li>Knowledge and experience leveraging Google Cloud Platform natively and with complimentary tech</li>
-<li>Excellent communication and documentation skills</li>
-<li>Collaboration with the rest of the team through regular communication, information sharing and mentorship</li>
-</ul><div>
-<strong><br>You’ll be successful here if you own:<br></strong><br>
-</div><ul>
-<li>Designing, engineering and maintaining solutions for a highly resilient, scalable and fault-tolerant infrastructure</li>
-<li>Improving &amp; scaling CI/CD pipelines</li>
-<li>Developing, maintaining and improving monitoring, alerting and reporting tools</li>
-<li>Providing on-going operational support</li>
-<li>Identifying and improving the developer experience</li>
-<li>We expect you to be self-sufficient and take the initiative to drive the company forward. We are looking for individuals who are highly energetic, capable and ambitious, and who are eager to expand their knowledge and show how their contributions help achieve business objectives.</li>
-</ul><div>
-<strong><br>Our stack:<br></strong><br>
-</div><ul>
-<li>ArgoCD</li>
-<li>AlloyDB / PostgreSQL</li>
-<li>Github Actions</li>
-<li>Google Cloud Platform</li>
-<li>Fluentbit</li>
-<li>Kubernetes, Helm &amp; Docker</li>
-<li><a href="http://node.js/">Node.js</a></li>
-<li>Meillisearch</li>
-<li>OpsGenie</li>
-<li>Redis</li>
-<li>Temporal</li>
-<li>Traefik</li>
-<li>Turbo repo</li>
-<li>TypeScript</li>
-</ul><div>
-<strong><br>How Contra can add value for you:<br></strong><br>
-</div><ul>
-<li>Remote-only culture</li>
-<li>Excellent health coverage</li>
-<li>Competitive salary + equity</li>
-<li>Generous vacation policy + paid holidays off</li>
-<li>Flexible parental leave</li>
-<li>No meetings on Tuesdays &amp; Wednesdays</li>
-</ul><div>
-<strong><br>Our interview process:<br></strong><br>
-</div><ul>
-<li>Intro Call (15-30 minutes)</li>
-<li>Interview #1 In Depth Technical Discussion Chat with Hiring Manager (45 minutes)</li>
-<li>Interview #2 Culture Interview (30 minutes) </li>
-<li>Interview #3 Founder Interview (30 minutes) </li>
-</ul>
-
-<p><strong>To apply:</strong> <a href="https://weworkremotely.com/remote-jobs/contra-senior-devops-engineer-1">https://weworkremotely.com/remote-jobs/contra-senior-devops-engineer-1</a></p>
-
+<p><em><span style="font-weight:400;">Palm NFT Studio is an equal opportunity employer. We encourage people from all backgrounds to apply. We are committed to ensuring that our organization is made available and accessible to everyone. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law.</span></em></p><br/><br/>Please mention the word **SKILL** and tag RMjYwMToxOGM6ODYwMjpiODkwOmE5N2E6NzhlMzpiNTliOmUxMjM= when applying to show you read the job post completely (#RMjYwMToxOGM6ODYwMjpiODkwOmE5N2E6NzhlMzpiNTliOmUxMjM=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
