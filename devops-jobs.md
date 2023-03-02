@@ -1,5 +1,101 @@
 <div align="center"><h2>DEVOPS JOBS</h2></div><table><tr>
                 <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/012c1505cd2cc2f3fd85a979193292a91677614405.png" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Premia</h5>
+                    <h3>Senior QA & DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>macos,web3,defi,react,front-end,docker,testing,test,web,qa,devops,financial,cloud,senior,operations,analytics,engineer</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-senior-qa-devops-engineer-premia-201650" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <p><b>Senior QA &amp; DevOps Engineer (Remote)</b></p><p><br></p><p>Premia is a decentralized options platform connecting traders and liquidity providers of all backgrounds.  Offering non-custodial options to hedge, speculate, or earn yield on your digital assets.&nbsp; Premia offers first of its kind automated market maker solutions in the DeFi space for Options Contracts through our use of Smart Liquidity Pools and Dynamic Pricing.&nbsp; Premia enables best-in-class pricing based on market volatility, providing fully-featured peer-to-pool trading and capital efficiency to DeFi options.</p><p>&nbsp;</p><p>We are one of the smallest and most impactful teams in crypto. We are a globally distributed organization, with all positions being fully remote.</p><p>&nbsp;</p><p>Weâre looking for a passionate, self-motivated engineer to help us build the next generation of financial products. As a dedicated Development Operations hire, you will gain ownership over our existing suite of web products, as well as the ability to influence the creation, design, and execution of future products. You will be responsible for ensuring a consistent, high-quality user experience across trading interfaces, data-heavy analytics pages, documentation portals, subgraph on <a href="https://thegraph.com/explorer" class="postings-link">The Graph</a> and more.</p><p><br></p><p><b>Who are you?</b></p><p><br></p><p><span style="font-size: 11pt">A senior-level quality assurance or testing engineer with a focus on web applications who is also a crypto-native.&nbsp;</span></p><p><br></p><p><span style="font-size: 11pt">You have extensive experience designing and executing manual and automated tests. You&nbsp;are proficient with Javascript/Typescript, </span><a href="http://React.js" style="font-size: 11pt" class="postings-link">React.js</a><span style="font-size: 11pt">, testing libraries such as Jest/Mocha, automated front-end testing tools like Playwright/Puppeteer, and CI/CD tools such as Jenkins/Github Actions.</span></p><p><br></p><p><span style="font-size: 11pt">You have experience and are culturally aligned with fast-moving small teams. You have worked at remote (globally distributed) startups before. You are self-driven, are comfortable wearing many hats and can ship patches and features swiftly when needed. You can identify company priorities, own them, and iterate quickly to ship the best solution.</span></p><p><span style="font-size: 11pt">You can write and speak fluent English and have great communication skills.</span></p><p><br></p><p><b>Responsibilities</b></p><p>As a Senior QA + DevOps Engineer you will work with the Front-end team to: </p><p>-Create and document automated and manual test plans and procedures </p><p>-Configure and set up testing environments </p><p>-Implement, run, and monitor automated tests </p><p>-Help polish our development cycle </p><p>-Continuously improve our existing CI/CD pipelines </p><p>-Write scripts in the language of your choice that can help us improve the QA process</p><p><br></p><p><b>Requirements</b></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">At least 3 years of React + QA experience</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Passion for web3 / DeFi</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Extensive experience in designing and executing manual and automated tests</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Extensive experience with </span><b style="font-size: 11pt">JS/TS + React</b></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Extensive experience with automation tools (</span><b style="font-size: 11pt">Playwright</b><span style="font-size: 11pt">&nbsp;</span><span style="font-size: 14.6667px">preferred</span><span style="font-size: 11pt">)</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Experience with CI/CD tools (</span><b style="font-size: 11pt">Github Actions</b><span style="font-size: 11pt">&nbsp;</span><span style="font-size: 14.6667px">preferred</span><span style="font-size: 11pt">)</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Fluent with different operating systems (Linux, MacOS etc.)</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">An entrepreneurial nature, willing to take ownership and work in areas beyond your comfort zone</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">Excellent communication &amp; Escalation Habits</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">(Nice to have) Previous experience with </span><a href="http://web3.js" style="font-size: 11pt" class="postings-link">web3.js</a><span style="font-size: 11pt"> or </span><a href="http://ethers.js" style="font-size: 11pt" class="postings-link">ethers.js</a><span style="font-size: 11pt"> libraries.</span></p><p><span style="font-size: 14.6667px">-</span><span style="font-size: 11pt">(Nice to have) Cloud infrastructure / Docker experience </span></p>\n<p><p><br></p></p>\n<p><b>Benefits</b></p><p>Work from anywhere (Remote first), Flexible working hours, Flexible vacation policy, Competitive Salary + Token bonus (portion or all can be paid in Crypto).&nbsp; Premia is committed to a diverse and inclusive workplace and is an equal opportunity employer. We do not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, protected veteran status, disability, age, or other legally protected status.</p><p><br></p><p>Premia welcomes all qualified persons to apply. Compensation will be competitive and commensurate with experience. This is a full time role.</p><p><br></p><p>To find out more you can view their website at <a href="https://premia.finance/" class="postings-link">https://premia.finance/</a></p><br/><br/>Please mention the word **COOPERATIVE** and tag RMzQuODIuMTUxLjY= when applying to show you read the job post completely (#RMzQuODIuMTUxLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
+                    <img src="https://remoteok.com/assets/img/jobs/9ff7b91b4306342ca183b10e79ebf39d1677654998.peg" width="38px" height="auto">
+                </td>
+                <td width="300">
+                    <h5>Figment</h5>
+                    <h3>DevOps Engineer</h3>
+                </td>
+                <td width="300">
+                    <code>system,support,developer,testing,growth,code,web,devops,node,management,lead,sales,health,engineer,full-time,digital nomad</code>
+                </td>
+                <td width="200">
+                <text>1 days ago</text>
+                </td>
+                <td width="100" rowspan="2">
+                <a href="https://remoteOK.com/remote-jobs/remote-devops-engineer-figment-201896" align="right" target="_blank">Apply</a>
+                </td>
+            </tr>
+            <tr>
+                <td colspan="3">
+                <details><summary>Description</summary>
+                <div class="content-intro"><p>At <a href="https://www.figment.io" target="_blank" rel="noopener noreferrer nofollow">Figment</a>, our mission is to create an Internet that is truly decentralized where users can freely interact, share, collaborate, and exchange goods and services in a trustless environment. We offer staking, middleware, and application layer solutions for token holders and developers investing in and building on Web 3 technologies. Together, we can build a better Internet.</p></div><p>We are seeking a versatile DevOps Engineer to help automate our infrastructure with Infrastructure as Code and help support our developers with a premium self service development experience.</p>
+<p>This is a full-time remote position, with team members in North America and Europe.</p>
+<p>Maintain and build a scalable infrastructure for a very fast growing company.</p>
+<p>You will report to the Platform Team Lead and work with a group of DevOps generalists. Itâs critical that you are comfortable working in an unstructured environment, dealing with uncertainty, minimal direction, and working across a range of projects.</p>
+<p><strong>Responsibilities/Duties</strong></p>
+<ul>
+<li>Help build and maintain deployment pipelines</li>
+<li>Build E2E testing environments</li>
+<li>Help developers productionize their applications</li>
+<li>Deployment automation with Kubernetes and Helm</li>
+<li>Maintain and manage infrastructure as code using Terraform</li>
+<li>Configuration Management with Ansible.</li>
+<li>Networking and VPN configuration</li>
+<li>Experience with GCP and AWS</li>
+</ul>
+<p><strong>Qualifications</strong></p>
+<ul>
+<li>Experience working in high uptime 24/7 environments</li>
+<li>In depth prior work with automation and configuration management</li>
+<li>Significant experience with one or more common system administration scripting languages</li>
+<li>Networking fundamentals</li>
+<li>Security best practices</li>
+</ul>
+<hr>
+<p>One of Figmentâs core principles is âMaking the Invisible Visibleâ - ensuring transparency and information sharing in all communication. Figment is committed to transparency regarding pay, benefits, and other compensation types for all internal roles as well as all roles being hired for.</p>
+<p><strong>Base Salary:</strong> The US base salary range for this position is $100,00 to $130,000 USD. The Canadian base salary range for this position is $100,00 to $130,000 CAD. This range reflects base salary only, and does not include additional compensation or benefits. <em>For candidates in other countries, the pay range will be disclosed upon your first interview with Figment (being a globally remote company, the list of salary ranges would simply be too long to note here!).</em> The range displayed reflects the minimum and maximum range for a new hire across all of the US. A candidateâs specific pay within the range will be determined by various factors including job-related skills, relevant education, and training.</p>
+<p><strong>Benefits:</strong> All employees of Figment receive the following competitive benefits. <em>For candidates beyond Canada and the US, benefits will be outlined during your first interview with Figment.</em></p>
+<ul>
+<li>100% remote-first environment, with co-working spaces in our employee âhubsâ across the globe for those who enjoy a hybrid model</li>
+<li>4 weeks of PTO that kick in day one, with an additional 1 week of flex days</li>
+<li>Extended company-paid health benefits that kick in day one</li>
+<li>Best in class parental leave and flexible arrangements </li>
+<li>A home office stipend to create a space that you enjoy working in</li>
+<li>Monthly Wifi reimbursement</li>
+<li>A yearly Learning & Development budget</li>
+<li>401K (US) or RRSP match (Canada)</li>
+<li>Stock Options in the company</li>
+<li>Competitive bonus (based on company performance) that is distributed quarterly - we believe that the companyâs success should be shared with our employees often
+<ul>
+<li>For roles listed within the Sales Department, there is instead a competitive commissions structure which will be outlined during your first interview with Figment</li>
+</ul>
+</li>
+<li>Annual onsite company gatherings and retreats to inspire team bonding, collaboration, and fun!</li>
+<li>A culture of honesty, professionalism and risk taking in a high-growth environment</li>
+</ul><div class="content-conclusion">
+<p><strong>About Figment</strong></p>
+<p><span style="font-weight:400;">At Figment, our mission is to support the adoption, growth and long term success of the Web 3 ecosystem. This is Figmentâs unique approach: we make it simple to build on the next generation of blockchain technology.</span></p>
+<p><span style="font-weight:400;">We provide enterprise grade node and staking infrastructure and developer tools while also actively participating in community & governance.</span></p>
+</div><br/><br/>Please mention the word **HONOR** and tag RMzQuODIuMTUxLjY= when applying to show you read the job post completely (#RMzQuODIuMTUxLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+                </details>
+                </td>
+            </tr>,<tr>
+                <td width="100" height="100" rowspan="2">
                     <img src="https://remoteok.com/assets/img/jobs/3e737dbf15ad23f42ecf9e3f166739f41677568520.peg" width="38px" height="auto">
                 </td>
                 <td width="300">
@@ -10,7 +106,7 @@
                     <code>web3,defi,system,docker,devops,financial,finance,cloud,engineer,linux</code>
                 </td>
                 <td width="200">
-                <text>1 days ago</text>
+                <text>2 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-devops-engineer-injective-labs-201389" align="right" target="_blank">Apply</a>
@@ -32,98 +128,7 @@
 <li align="left">Experienced in deploying, operating, monitoring, optimizing and troubleshooting large scale infrastructure.</li>
 <li align="left">Experience with Docker runtime, Linux kernel is a plus.</li>
 <li align="left">Strong understanding of Continuous Integration (CI) and Continuous Deployment (CD).</li>
-</ul><p>As an equal opportunity employer we donât tolerate discrimination or harassment of any kind. Whether thatâs based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.</p><br/><br/>Please mention the word **DEGINIFIED** and tag RMy44Ni4yNTIuMTMw when applying to show you read the job post completely (#RMy44Ni4yNTIuMTMw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/ff042493662371d082db27bfff59feac1677223010.peg" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Palm NFT Studio</h5>
-                    <h3>DevOps Tech Lead</h3>
-                </td>
-                <td width="300">
-                    <code>web3,nft,solidity,nft,ethereum,system,security,music,gaming,founder,cto,ceo,technical,support,software,testing,code,manager,devops,cloud,strategy,lead,senior,operational,reliability,engineer,engineering</code>
-                </td>
-                <td width="200">
-                <text>5 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-devops-tech-lead-palm-nft-studio-199368" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <p>Full-Time, Remote, Time Zones Preferred EST</p>
-<h1><span style="font-weight:400;">Mission</span></h1>
-<p><span style="font-weight:400;">In partnership with major IP rights holders, brands, and artists, our goal is to build a more open, inclusive, creative, and sustainable economy in web3.</span></p>
-<h1><span style="font-weight:400;">Benefits </span></h1>
-<p><strong>Remote First: </strong><span style="font-weight:400;">Youâll be part of a globally distributed team!</span></p>
-<p><strong>Equity:  </strong><span style="font-weight:400;">We want everyone to have an equity stake in the success of Palm NFT Studio.</span></p>
-<p><strong>Flexible work schedule: </strong><span style="font-weight:400;">Working remotely with a globally distributed team allows you to work asynchronously and create a flexible work schedule.</span></p>
-<p><strong>Competitive Benefits: </strong><span style="font-weight:400;">We offer a</span><span style="font-weight:400;"> competitive benefits package that includes Health, Dental, Vision, Life Insurance, and EAP; as well as a 401k retirement program for US employees.</span></p>
-<p><strong>Unlimited vacation/holidays: </strong><span style="font-weight:400;">We value work life balance and encourage employees to take time to reset and recharge. We also encourage you to have no meetings on Fridays to make time for deep work.</span></p>
-<h1><span style="font-weight:400;">About Palm NFT Studio</span></h1>
-<p><span style="font-weight:400;">Palm NFT Studio empowers artists, brands, and fans to build deep vertical communities on-chain: redefining digital experiences through NFTs. To date, Palm NFT Studio has built "The Currency" with Damien Hirst and HENI and delivered innovative NFT experiences for Universal Music Group, Warner Bros., and DC, including the brandâs primary and secondary marketplace. </span></p>
-<p><span style="font-weight:400;">Palm NFT Studio is led by co-founder and CEO Dan Heyman, former General Manager of protocols at ConsenSys. Investors include Microsoftâs venture fund M12,Griffin Gaming Partners, RRE, Third Kind Venture Capital, Sfermion, the LAO, Warner Bros., and SK Inc., among others. The founding team includes ConsenSys founder and Ethereum co-founder Joseph Lubin; film producer and owner of Heyday Films, David Heyman; and founder of the world-class art house HENI Group, Joe Hage. </span></p>
-<p><span style="font-weight:400;">Learn more: </span><a href="http://palmnftstudio.com" rel="noopener noreferrer nofollow"><span style="font-weight:400;">palmnftstudio.com</span></a><span style="font-weight:400;">; Discord: </span><a href="https://discord.com/invite/3Jn7vSHXbZ" rel="noopener noreferrer nofollow"><span style="font-weight:400;">Palm NFT Community</span></a><span style="font-weight:400;">; Twitter: </span><a href="https://twitter.com/PalmNft" rel="noopener noreferrer nofollow"><span style="font-weight:400;">@PalmNft</span></a></p>
-<h1><span style="font-weight:400;">About the Palm Network</span></h1>
-<p><span style="font-weight:400;">Palm NFT Studio is one of the contributors to the Palm network. The Palm network is an Ethereum-compatible sidechain, built to serve as the foundation of a new scalable and sustainable ecosystem for NFTs. It is designed by, and for, Ethereum developers and features low gas costs and fast transaction finality. The Palm network uses the IBFT-2 consensus mechanism, a rotating Proof of Authority consensus method, in lieu of Proof of Work. This substantially reduces the computing power required and allows the Palm network to be 99% more energy-efficient than Proof of Work systems. To date, more than </span><span style="font-weight:400;">3.5</span><span style="font-weight:400;"> million NFTs have been minted on the Palm network. There are currently 1.1 million wallet addresses, over 4 million NFTs, and more than 5 million transactions.</span></p>
-<h1><span style="font-weight:400;">About the role</span></h1>
-<p><span style="font-weight:400;">As our DevOps Tech Lead you will be leading the DevOps team, which maintains our platform that runs all of our services. Your job will be to ensure it's secure, scalable, maintainable, well documented and cost-efficient. Alongside this core responsibility, the DevOps team also partners closely with our tech and product teams. This means providing support with pipelines, infrastructure as code, performance troubleshooting, and defining best practices.</span></p>
-<p><span style="font-weight:400;">You will work closely with our tech teams and CTO to help meet the day to day business needs at Palm NFT Studios, primarily by delivering development, security and cost improvements through the intelligent application of DevOps principles.</span></p>
-<h1><span style="font-weight:400;">Responsibilities</span></h1>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Improvement, maintenance and quality of infrastructure and development pipelines.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Contribute significantly in the transition towards increasingly microservice based architecture.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Coach others in solid DevOps principles.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Maintain a working knowledge of the product codebase and contribute changes where required.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Understand the platform technical and business roadmap and ensure that all initiatives are aligned with the roadmap</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Design and develop technical solutions of new software development and enhancement efforts.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Coordinate coding and unit testing phases of system development and facilitate Code Reviews</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Approves domain solutions and executes changes in line with the implementation plan.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Liaises with Senior Leadership on project, operational, and strategy risks and opportunities, along with corrective action plans when required.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Manages delivery on all project and operational commitments, including quality and timeliness metrics.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Coaches, mentors and delegates work with lower level professionals.</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Administration of CI Tools (Gitlab, Jenkins, Artifactory, SonarQube)  </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Build/Enhance new capabilities and features to expand CI/CD tools offerings </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Ensure availability of the CI products </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Continuously monitor, maintain and optimize performance of CI Tools </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work closely with vendors in addressing any major upgrades, plug-ins and critical tickets </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Work with global teams across the organization to troubleshoot critical CI tools related issues </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Stay current with relevant emerging technologies, assess application to DevSecOps Support challenges or opportunities determining business benefit and impact. </span></li>
-</ul>
-<h1><span style="font-weight:400;">Requirements</span></h1>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">5+ years of experience as a DevOps Engineer with a strong knowledge of CI/CD automation</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Good knowledge of Cloud based services with AWS and/or Azure - able to compare and make recommendations</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Previous experience leading a team</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience with infrastructure as code tools and Terraform knowledge</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Running production workloads on hosted Kubernetes clusters (e.g. EKS)</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience of CI/CD pipeline administration and best practices for deploying to production</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Understanding of reliability engineering for cloud based workloads - observability tooling and solid fundamentals with regards to systems performance and troubleshooting</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">5 or more years of working experience with Industry standard DevSecOps CI/CD Tools including: source code repository management, CI pipeline configuration, and/or binary repository management. </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">5 or more years of Development experience using either of the development platform (Java, Python, .NET, JS) </span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">2 or more years of container experience </span></li>
-<li style="font-weight:400;">
-<span style="font-weight:400;">Hands on knowledge on following tools. </span><span style="font-weight:400;"><br></span><span style="font-weight:400;">Groovy (must) </span><span style="font-weight:400;"><br></span><span style="font-weight:400;">Gitlab (must) </span><span style="font-weight:400;"><br></span><span style="font-weight:400;">Jenkins or equivalent CI Tool (must) </span><span style="font-weight:400;"><br></span><span style="font-weight:400;">Artifactory (must) </span><span style="font-weight:400;"><br></span><span style="font-weight:400;">Docker (must) </span>
-</li>
-</ul>
-<h1><span style="font-weight:400;">Bonus Points</span></h1>
-<ul>
-<li style="font-weight:400;"><span style="font-weight:400;">Start-up experience</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Blockchain / smart contract development: Solidity / Ethereum, Web3.js or Ethers.js libraries</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">NFT market experience</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">ERC standards knowledge</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Passionate about automation</span></li>
-<li style="font-weight:400;"><span style="font-weight:400;">Experience in Domain Driven Design</span></li>
-</ul>
-<h1><span style="font-weight:400;">How to apply</span></h1>
-<p><span style="font-weight:400;">Does this position sound like a good fit? Please apply!</span></p>
-<p><span style="font-weight:400;">If you have any issues submitting your application, please reach out to us at careers@palm.io.</span></p>
-<p><em><span style="font-weight:400;">Palm NFT Studio is an equal opportunity employer. We encourage people from all backgrounds to apply. We are committed to ensuring that our organization is made available and accessible to everyone. All employment decisions are made without regard to race, color, national origin, ancestry, sex, gender, gender identity or expression, sexual orientation, age, genetic information, religion, disability, medical condition, pregnancy, marital status, family status, veteran status, or any other characteristic protected by law.</span></em></p><br/><br/>Please mention the word **SKILL** and tag RMy44Ni4yNTIuMTMw when applying to show you read the job post completely (#RMy44Ni4yNTIuMTMw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</ul><p>As an equal opportunity employer we donât tolerate discrimination or harassment of any kind. Whether thatâs based on race, ethnicity, age, gender identity, citizenship, religion, sexual orientation, disability, pregnancy, veteran status or any other protected characteristic as outlined by federal, state or local laws.</p><br/><br/>Please mention the word **DEGINIFIED** and tag RMzQuODIuMTUxLjY= when applying to show you read the job post completely (#RMzQuODIuMTUxLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr></table>
