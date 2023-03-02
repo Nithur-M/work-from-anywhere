@@ -10,7 +10,7 @@
                     <code>software,web3,front-end,technical,support,javascript,health,engineer,engineering,full-time</code>
                 </td>
                 <td width="200">
-                <text>4 days ago</text>
+                <text>5 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://remoteOK.com/remote-jobs/remote-software-engineer-utopia-labs-199880" align="right" target="_blank">Apply</a>
@@ -42,75 +42,7 @@
 <li>Experience writing smart contracts </li>
 <li>Demonstrated interest in open and community-driven platforms.</li>
 </ul><div><span style="font-size:24px;">Perks & Benefits</span></div><div><br></div><div><span style="font-size:18px;">ð Health and wellbeing</span></div><div>We offer top-of-the-line benefits, including health, mental health, dental, and vision insurance.</div><div><br></div><div><span style="font-size:18px;">ð´ Time off</span></div><div>We want people to take time off to rest and rejuvenate. We offer a 3 week paid vacation as well as 10 observed holidays by country.</div><div><br></div><div><span style="font-size:18px;">ð£ Parental leave</span></div><div>Our parental leave policy offers biological, adoptive, and foster parents paid time off to spend quality time with family.</div><div><br></div><div><span style="font-size:18px;">ð¥ Lunch on us</span></div><div>You'll have a very generous meal budget for you to eat every day.</div><div><br></div><div><span style="font-size:18px;">ð Commuting</span></div><div>We offer monthly commuter credits.</div><div><br></div><div><br></div><div><span style="font-size:24px;">Any Questions?</span></div><div><br></div><div>Email: pryce@utopialabs.com</div><div><br></div><div>Twitter: <a href="https://twitter.com/pryceandstuff" class="postings-link" rel="noopener noreferrer nofollow">https://twitter.com/pryceandstuff</a>
-</div><div><br></div><br/><br/>Please mention the word **READABLE** and tag RMy44Ni4yNTIuMTMw when applying to show you read the job post completely (#RMy44Ni4yNTIuMTMw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
-                </details>
-                </td>
-            </tr>,<tr>
-                <td width="100" height="100" rowspan="2">
-                    <img src="https://remoteok.com/assets/img/jobs/ced8bff18d4f83d67daebbe16fe7ee6d1677309375.png" width="38px" height="auto">
-                </td>
-                <td width="300">
-                    <h5>Magna</h5>
-                    <h3>Senior Software Engineer</h3>
-                </td>
-                <td width="300">
-                    <code>software,design,crypto,react,security,technical,code,senior,operations,analytics,legal,healthcare,engineer,digital nomad</code>
-                </td>
-                <td width="200">
-                <text>4 days ago</text>
-                </td>
-                <td width="100" rowspan="2">
-                <a href="https://remoteOK.com/remote-jobs/remote-senior-software-engineer-magna-199874" align="right" target="_blank">Apply</a>
-                </td>
-            </tr>
-            <tr>
-                <td colspan="3">
-                <details><summary>Description</summary>
-                <h3><b>About Magna</b></h3><br>Magnaâs goal is to be the one-stop solution for all token-based crypto companies who want to track outstanding and promised token allocations, automate the distribution of those tokens, and manage information about their stakeholders. Some liken us to âCarta for Web3â.<br>Our mission is to make it easier for crypto companies to manage their tokens and tokenholders so that they can focus on their product and not custom internal tools and smart contracts as they scale. We work with projects of all sizes throughout various L1 & L2 ecosystems.<br>Tokens are amongst the core assets crypto companies use to compensate and incentivize investors, employees, advisors, and even community members. The most common use cases for Magna include:<br><ul>
-<li align="left">
-<b>Token Vesting</b>Â to employees and investors - Automated token distribution based on custom unlock schedules.</li>
-<li align="left">
-<b>Token Streaming</b>Â - Continuous distribution of tokens to stakeholders.</li>
-<li align="left">
-<b>Airdrops</b>Â - Vested airdrops to community members.</li>
-<li align="left">
-<b>Programmable Unlocks</b>Â â Distributing tokens using our SDK based on contract interactions or in-app/in-game accomplishments.</li>
-<li align="left">
-<b>Stakeholder Management</b>Â â Tracking tax liability and legal filings for tokenholders and more.</li>
-</ul>Magnaâs platform is used by investors, employees, accountants, lawyers, and other key stakeholders throughout the crypto ecosystem.<br><h2></h2><br><h3><b>Why Work at Magna?</b></h3><br><ul>
-<li align="left"><b>Weâre a highly technical team</b></li>
-<li align="left">This is a space with deep technical challenges that reward builders. The blockchain isnât just a distributed ledger anymore, itâs a distributed state machine. At Magna, weâre not just building a new paradigm of software â weâre also trying to leverage the best of web2 while weâre at it.</li>
-<li align="left">Weâre aÂ <span style=""><a class="bbcode-link" href="https://www.coindesk.com/business/2022/09/15/token-management-platform-magna-raises-15m-seed-round-at-70m-valuation/" target="_blank" rel="noopener noreferrer nofollow"><b>well-funded company</b></a></span>Â with runway that can last us through the bear market (as long as that may be)</li>
-<li align="left">
-<b>A downtown Manhattan office with our own rooftop â</b>Â we operate on a hybrid model, where most employees come in a couple of times per week.</li>
-<li align="left">
-<b>Hardware</b>Â â Whatever you need to get things done, plus a stipend to set up your home office.</li>
-<li align="left">
-<b>Learning budget</b>Â â Buy courses and attend conferences or hackathons.</li>
-<li align="left">
-<b>Unlimited Vacation</b>Â â Take time off when you need it - 2 week minimum.</li>
-<li align="left">
-<b>Top-notch healthcare plans</b>Â â We offer the best available platinum PPO and other similar plans that give you the most options with the lowest deductibles.</li>
-</ul><h2></h2><br><h3><b>About the Role</b></h3><br>Build the future of token operations with us by designing and implementing software architecture that scales. Weâre looking for someone comfortable going from zero-to-one and rapidly iterating on hackathon-style projects with other engineers as we grow.<br><h2></h2><br><h3><b>What youâll do</b></h3><br><ul>
-<li align="left">Work on the forefront of token distribution technology at the infrastructure level, solving edge-cases around token distribution, writing smart contracts for tokens worth millions of dollars</li>
-<li align="left">Build polished user experiences and applications</li>
-<li align="left">Where appropriate, ensure code modularity in the code written by the team through peer code-reviews, to increase our teamâs velocity and make our code infrastructure more scalable</li>
-<li align="left">Write tests to make sure that things work when we ship them. If our users canât use the app, they canât get paid!</li>
-</ul><h2></h2><br><h3><b>What weâre looking for</b></h3><br><ul>
-<li align="left">Experience working with data-intensive applications, or apps used by tens of thousands of users</li>
-<li align="left">Comfortable working in sprint cycles and willing to bite the bullet when critical issues pop up</li>
-<li align="left">Familiarity with our tech stack</li>
-<li align="left">Based in New York City and open to a hybrid work environment</li>
-</ul><h2></h2><br><h3><b>Magnaâs Tech Stack</b></h3><br>Magna is a multi-chain dapp, and our stack includes TypeScript, Next.js, React and GraphQL, as well as the native languages for various blockchains (i.e. Solidity, Rust, Move).<br>Experience with any of these isÂ <b>nice to have</b>, but not a requirement:<br><ul>
-<li align="left">DevOps, infrastructure, or data analytics experience</li>
-<li align="left">Interfacing with smart contracts and blockchain via libraries (any blockchain).</li>
-<li align="left">Applications where security and integrity is extremely important (finance, fintech, government, etc.)</li>
-</ul><h3></h3><br><h3><b>Reasons you might be the right candidate for this role:</b></h3><br><ul>
-<li align="left">
-<b>Passion for engineering</b>Â â genuine passion and curiosity for the craft that you bring to work each day</li>
-<li align="left">
-<b>Good taste</b>Â â You think critically aboutÂ <i>how</i>Â you build what you build, and apply good judgment to every design and implementation decision along the way.</li>
-</ul><br/><br/>Please mention the word **ENVIOUSLY** and tag RMy44Ni4yNTIuMTMw when applying to show you read the job post completely (#RMy44Ni4yNTIuMTMw). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
+</div><div><br></div><br/><br/>Please mention the word **READABLE** and tag RMzQuODIuMTUxLjY= when applying to show you read the job post completely (#RMzQuODIuMTUxLjY=). This is a beta feature to avoid spam applicants. Companies can search these words to find applicants that read this and see they're human.
                 </details>
                 </td>
             </tr>,<tr>
@@ -125,7 +57,7 @@
                     <code>All Other Remote</code>
                 </td>
                 <td width="200">
-                <text>0 days ago</text>
+                <text>1 days ago</text>
                 </td>
                 <td width="100" rowspan="2">
                 <a href="https://weworkremotely.com/remote-jobs/xm-software-engineer-in-test-python-cyprus-greece-or-remote-2" align="right" target="_blank">Apply</a>
